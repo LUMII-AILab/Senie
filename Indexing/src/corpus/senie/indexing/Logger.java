@@ -8,9 +8,6 @@ import java.io.IOException;
 
 /**
  * Logging of exceptions in various steps of the indexing process.
- * 
- * @version 23.12.2002
- * @author Normunds Grûzîtis
  */
 public class Logger extends Object {
 

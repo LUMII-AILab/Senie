@@ -17,9 +17,6 @@ import java.util.TreeSet;
 /**
  * Creation of inverse word form dictionaries.
  * Supported text positioning structures: GNP, LR, P.
- * 
- * @version 22.07.2003, 16.01.2014, 12.09.2014, 20.11.2014
- * @author Normunds Grûzîtis
  */
 public class Inverser extends Recognizer {
 

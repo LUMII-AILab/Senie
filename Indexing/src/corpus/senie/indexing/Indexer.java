@@ -20,9 +20,6 @@ import java.util.regex.Matcher;
 /**
  * Indexing and statistics of word forms. Provides storage in different formats.
  * Supported text positioning structures: GNP, LR, P.
- * 
- * @version 23.12.2002, 11.11.2005, 16.01.2014, 12.09.2014
- * @author Normunds Grûzîtis
  */
 public class Indexer extends Recognizer {
 

@@ -16,8 +16,6 @@ import java.util.regex.Pattern;
 /**
  * Unhyphenates the hyphened running words.
  * Supported text positioning structures: GNP, LR, P.
- * 
- * @author Normunds Grûzîtis
  */
 public class Unhyphener extends Recognizer {
 

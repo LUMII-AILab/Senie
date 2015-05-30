@@ -10,9 +10,6 @@ import java.util.regex.Matcher;
 /**
  * Splitting, HTML mark-up and storage of context fragments into the SENIE database to provide automatic context positioning.
  * Supported text positioning structures: GNP, LR, P.
-
- * @version 23.12.2002, 20.11.2014
- * @author Normunds Grûzîtis
  */
 public class Contexter extends Recognizer {
 

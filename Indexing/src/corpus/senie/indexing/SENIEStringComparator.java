@@ -8,8 +8,6 @@ import java.util.Comparator;
 /**
  * Implementation of a comparator that provides alphabetical sorting of strings.
  * Intended for the SENIE alphabet.
- * 
- * @author Normunds Grûzîtis
  */
 public class SENIEStringComparator implements Comparator<Object>, Serializable {
 

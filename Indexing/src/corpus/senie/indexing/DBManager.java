@@ -10,9 +10,6 @@ import java.sql.SQLException;
 /**
  * Storage and organization of the index of word forms in a MySQL database according to the SENIE data model.
  * Supported text positioning structures: GNP, LR, P.
-
- * @version 23.12.2002
- * @author Normunds Grûzîtis
  */
 public class DBManager extends Object {
 

@@ -3,9 +3,6 @@ package corpus.senie.indexing;
 
 /**
  * Data structure for GNP positions.
- * 
- * @version 01.04.2003
- * @author Normunds Grûzîtis
  */
 public class GNPPosition extends PosStructure {
 

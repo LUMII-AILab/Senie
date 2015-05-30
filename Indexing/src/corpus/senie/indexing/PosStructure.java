@@ -3,9 +3,6 @@ package corpus.senie.indexing;
 
 /**
  * Abstract position data structure.
- * 
- * @version 01.04.2003
- * @author Normunds Grûzîtis
  */
 public abstract class PosStructure extends Object {
 

@@ -6,9 +6,6 @@ import java.util.regex.Pattern;
 /**
  * Recognition of text structure elements, and validation of word forms and mark-up syntax.
  * Supported text positioning structures: GNP, LR, P.
- * 
- * @version 12.01.2010, 16.01.2014, 12.09.2014, 20.11.2014
- * @author Normunds Grûzîtis
  */
 public class Recognizer extends Object {
 

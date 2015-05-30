@@ -13,9 +13,6 @@ import java.util.regex.Matcher;
 /**
  * HTML mark-up and static bookmarking of source text to provide automatic context positioning.
  * Supported text positioning structures: GNP, LR, P.
- * 
- * @version 23.12.2002, 20.11.2014
- * @author Normunds Grûzîtis
  */
 public class Marker extends Recognizer {
 

@@ -3,9 +3,6 @@ package corpus.senie.indexing;
 
 /**
  * Data structure for P positions.
- * 
- * @version 01.04.2003
- * @author Normunds Grûzîtis
  */
 public class PPosition extends PosStructure {
 

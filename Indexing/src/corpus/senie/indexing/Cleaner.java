@@ -13,9 +13,6 @@ import java.util.regex.Matcher;
 /**
  * Removes irrelevant text fragments and checks the mark-up syntax.
  * Supported text positioning structures: GNP, LR, P.
- * 
- * @version 23.12.2002, 20.11.2014
- * @author Normunds Grûzîtis
  */
 public class Cleaner extends Recognizer {
 
