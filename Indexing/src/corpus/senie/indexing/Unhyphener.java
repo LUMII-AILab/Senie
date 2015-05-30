@@ -7,6 +7,8 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -15,7 +17,6 @@ import java.util.regex.Pattern;
  * Unhyphenates the hyphened running words.
  * Supported text positioning structures: GNP, LR, P.
  * 
- * @version 12.01.2010, 20.11.2014
  * @author Normunds Grûzîtis
  */
 public class Unhyphener extends Recognizer {
@@ -25,7 +26,6 @@ public class Unhyphener extends Recognizer {
 	private Logger log;
 	
 	private Pattern pDefise = Pattern.compile("\\s*\\-+\\s*");
-	//private Pattern pMember = Pattern.compile("(\\s+\\=\\s+)|(\\s+\\=\\s*)|(\\s*\\=\\s+)"); // Fuer's case
 	
 	
 	/**
@@ -35,14 +35,13 @@ public class Unhyphener extends Recognizer {
 	 * @return corrected text line.
 	 */
 	private String normalizeHyphens(String line) {
-		if (getPagePattern().matcher(line).matches()) return line; // Do nothing
-		
-		// Replace unexpected regular hyphens with ambient white spaces
-		return pDefise.matcher(line).replaceAll(" ").trim();
-		
-		//Fuer's case:
-		//Matcher mMember = pMember.matcher(line);
-		//line = mMember.replaceAll("=").trim(); // Remove white spaces around member marks
+		if (getPagePattern().matcher(line).matches()) {
+			// Do nothing
+			return line;
+		} else {
+			// Replace unexpected regular hyphens with ambient white spaces
+			return pDefise.matcher(line).replaceAll(" ").trim();
+		}
 	}
 	
 		
@@ -84,6 +83,8 @@ public class Unhyphener extends Recognizer {
 		boolean print     = true;
 		boolean crossPage = false;
 		boolean oldHypen  = false;
+		
+		List<String> skipped_rows = new ArrayList<String>();
 		
 		while ((curr = reader.readLine()) != null) {
 			if (concat) {
@@ -139,6 +140,15 @@ public class Unhyphener extends Recognizer {
 					crossPage = true;
 					curr = reader.readLine();
 					
+					skipped_rows.clear(); 
+					while (curr.matches(getLangPattern().pattern()) || curr.matches(getPagePattern().pattern())) {
+						// Piem., Manc1638_Run: 431A.lpp., 466A.lpp. un 468A.lpp.:
+						// iepriekðçjâ lpp. ir pârnesums, kuram otra daïa ir jâmeklç aiznâkamajâ lpp.
+						// (oriìinâlâ lapas ir sadalîtas divâs kolonnâs - paralçlais teksts).
+						skipped_rows.add(curr);
+						curr = reader.readLine();
+					}
+					
 					if (curr.indexOf(" ") != -1) {	//Unhyphenates hyphened part of word.
 						tight = prev+curr.substring(0, curr.indexOf(" "));
 						writer.write(normalizeHyphens(tight) + "\r\n");
@@ -147,7 +157,7 @@ public class Unhyphener extends Recognizer {
 						printType = PT_SINGLE_CROSS;
 					}
 					else {
-						curr = prev+curr;			//Word is splitted over several lines.
+						curr = prev+curr;			//Word is split over several lines.
 						
 						++empty_2;
 						if (curr.endsWith("-") || curr.endsWith("=")) {
@@ -232,7 +242,14 @@ public class Unhyphener extends Recognizer {
 							writer.write("@x{}\r\n");
 							--empty_1;
 						}
+						
 						writer.write(page+"\r\n");	//Writes page label.
+						
+						for (String skipped : skipped_rows) {
+							writer.write(skipped+"\r\n");
+						}
+						skipped_rows.clear();
+						
 						while (empty_2 != 0) {		//Proper line count in next page.
 							writer.write("@x{}\r\n");
 							--empty_2;
