@@ -1,0 +1,17 @@
+analyze table senie.authors;
+analyze table senie.books;
+analyze table senie.categories;
+analyze table senie.coopers;
+analyze table senie.crossforms;
+analyze table senie.gnp_contexts;
+analyze table senie.gnp_positions;
+analyze table senie.lr_contexts;
+analyze table senie.lr_positions;
+analyze table senie.p_contexts;
+analyze table senie.p_positions;
+analyze table senie.periods;
+analyze table senie.quotes;
+analyze table senie.sources;
+analyze table senie.tips;
+analyze table senie.wordforms;
+analyze table senie.words;
