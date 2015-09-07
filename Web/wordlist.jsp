@@ -130,7 +130,7 @@
 
 		<tr>
 			<td>&nbsp;</td>
-			<!-- Atvērumi START ------------------------------------------------------------------>
+			<!-- Atvērumi START -->
 			<td bgcolor="#E8E8E8" valign="middle" align="center">
 				<p class="seperator">&nbsp;</p>
 				<table border="0">
@@ -217,7 +217,7 @@
 				</table>
 				<p class="seperator">&nbsp;</p>
 			</td>
-			<!-- Atvērumi END -------------------------------------------------------------------->
+			<!-- Atvērumi END -->
 		</tr>
 
 		<tr>
@@ -226,8 +226,10 @@
 		<tr>
 			<td colspan="2" align="center">
 				<p class="copy">
-					&copy; LU MII Mākslīgā intelekta laboratorija<br>
-					&copy; LU Filoloģijas fakultātes Baltu valodu katedra<br>2002-2015
+					&copy; LU Matemātikas un informātikas institūta Mākslīgā intelekta laboratorija<br>
+					&copy; LU Humanitāro zinātņu fakultātes Baltu valodu katedra<br>
+					&copy; LU Latviešu valodas institūts<br>
+					2002-2015
 				</p>
 			</td>
 		</tr>

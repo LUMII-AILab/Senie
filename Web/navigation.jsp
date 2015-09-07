@@ -561,8 +561,10 @@
 		<tr>
 			<td colspan="2" align="center">
 				<p class="copy">
-					&copy; LU MII Mākslīgā intelekta laboratorija<br>
-					&copy; LU Filoloģijas fakultātes Baltu valodu katedra<br>2002-2015
+					&copy; LU Matemātikas un informātikas institūta Mākslīgā intelekta laboratorija<br>
+					&copy; LU Humanitāro zinātņu fakultātes Baltu valodu katedra<br>
+					&copy; LU Latviešu valodas institūts<br>
+					2002-2015
 				</p>
 			</td>
 		</tr>
