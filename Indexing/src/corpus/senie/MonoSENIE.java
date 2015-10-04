@@ -132,13 +132,13 @@ public class MonoSENIE {
 
 					switch (pos) {
 						case 1:
-							indexer.indexGNP(source, name, lower);
+							indexer.indexGNP(source, name, lower, db);
 							break;
 						case 2:
 							indexer.indexLR(source, name, lower, db);
 							break;
 						case 3:
-							indexer.indexP(source, name, lower);
+							indexer.indexP(source, name, lower, db);
 							break;
 						default:
 							out.println("Adresācijas struktūra nav definēta!");

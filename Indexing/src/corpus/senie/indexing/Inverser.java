@@ -85,12 +85,15 @@ public class Inverser extends Recognizer {
 			Matcher mBook = getBookPattern().matcher(line);
 			Matcher mChapter = getChapterPattern().matcher(line);
 			Matcher mVerse = getVerseGNPPattern().matcher(line);
+			Matcher mNote = getNotePattern().matcher(line);
 			mAuthor = getAuthorPattern().matcher(line);
 
 			if (mBook.matches() || mChapter.matches() || mAuthor.matches()) {
 				// Skip
 			} else {
 				if (mVerse.matches()) line = mVerse.group(2);
+				else if (mNote.matches()) line = mNote.group(1);
+				
 				addWordForm(Indexer.tokenize(line, true, log));
 			}
 		}

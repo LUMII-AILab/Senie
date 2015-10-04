@@ -48,7 +48,7 @@ public class Recognizer extends Object {
 		String alpha_lv = "ÂâÈèÇçÌìÎîÍíÏïÒòÔôªºĞğÛûŞş";
 		String alpha_other = "¯¿ÄäàÃãæéÙùñÖöóÚú§ßÜüWwYyÊêı";
 		String alpha_mark = "~`´'\\^=#&%";
-		String punct = "\\!\\?\\.\\,\\:;\\-\\+\\*/\\|\\\\\\(\\)\\[\\]<>\"©®";
+		String punct = "\\!\\?\\.\\,\\:;\\-\\+\\*/\\|\\\\\\(\\)\\[\\]<>\"†©®";
 		
 		wf_ch = "[\\w" + alpha_lv + alpha_other + alpha_mark +"]*";
 		plain = "[\\s\\w" + alpha_lv + alpha_other + alpha_mark + punct + "]*";
@@ -70,7 +70,7 @@ public class Recognizer extends Object {
 		pComment  = Pattern.compile("@k\\{(" + plain + ")\\}");						// Synchronize with pWaste
 		pVerseGNP = Pattern.compile("(\\d+)\\.(" + plain + ")");
 		pVerseP   = Pattern.compile("\\s\\s((\\d+\\.)+)(" + plain + ")");
-		pIgnore   = Pattern.compile("@[bcefhijkloprstvx123]\\{(" + plain + ")\\}");
+		pIgnore   = Pattern.compile("@[bcefhijkloprstvx123]\\{(" + plain + ")\\}");	// Exclude from the index (except for GNP; see Cleaner)
 		
 		String mixed = "(" + plain + "((";
 		mixed += pErrata.pattern() + ")|(";

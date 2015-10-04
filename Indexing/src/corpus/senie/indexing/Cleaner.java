@@ -89,9 +89,13 @@ public class Cleaner extends Recognizer {
 			Matcher mPlain = getPlainPattern().matcher(line);
 			Matcher mSource = getSourcePattern().matcher(line);
 			Matcher mVerse = getVerseExGNPPattern().matcher(line);
+			Matcher mNote = getNotePattern().matcher(line);
 			Matcher mWaste = getIgnorePattern().matcher(line);
 
-			if (mWaste.matches()) {
+			if (mNote.matches()) {
+				writer.write(decodeNestedBraces(line) + "\r\n");	// Do not change that type of line
+			}
+			else if (mWaste.matches()) {
 				//log.append(Logger.DROPPED, line);
 			}
 			else if (mVerse.matches() && validBracesInContext(line)) {

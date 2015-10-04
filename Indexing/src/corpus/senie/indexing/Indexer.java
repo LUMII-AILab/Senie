@@ -317,7 +317,7 @@ public class Indexer extends Recognizer {
 		String prev  = "";
 		String next  = "";
 		
-		String marks = "!?.,:;-+*/|\\()[]<>\" \t\n\f\r"; 
+		String marks = "!?.,:;-+*†/|\\()[]<>\" \t\n\f\r"; 
 	
 		StringTokenizer tokenizer = new StringTokenizer(line, marks, true);
 		List<String> tokens = new LinkedList<String>();
@@ -454,7 +454,7 @@ public class Indexer extends Recognizer {
 	 * @param auth - author's name.
 	 * @param lower - if true, converts all running words to lower case before updating the index.
 	 */
-	public void indexGNP(String src, String auth, boolean lower) throws IOException {
+	public void indexGNP(String src, String auth, boolean lower, boolean db) throws IOException {
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
 		
 		StringBuilder plain = new StringBuilder(" ");
@@ -488,11 +488,12 @@ public class Indexer extends Recognizer {
 			Matcher mBook = getBookPattern().matcher(line);
 			Matcher mChapter = getChapterPattern().matcher(line);
 			Matcher mVerse = getVerseGNPPattern().matcher(line);
+			Matcher mNote = getNotePattern().matcher(line);
 			mAuthor = getAuthorPattern().matcher(line);
 
 			if (mBook.matches()) {
 				if (plain.length() > 1) {
-					if (!lower) insPlainGNP(plain.toString(), book, chapter, verse);
+					if (!lower && db) insPlainGNP(plain.toString(), book, chapter, verse);
 
 					plain.setLength(0);
 					plain.append(" ");
@@ -502,7 +503,7 @@ public class Indexer extends Recognizer {
 			}
 			else if (mChapter.matches()) {
 				if (plain.length() > 1) {
-					if (!lower) insPlainGNP(plain.toString(), book, chapter, verse);
+					if (!lower && db) insPlainGNP(plain.toString(), book, chapter, verse);
 					
 					plain.setLength(0);
 					plain.append(" ");
@@ -522,7 +523,7 @@ public class Indexer extends Recognizer {
 			else if (process) {
 				if (mVerse.matches()) {
 					if (plain.length() > 1) {
-						if (!lower) insPlainGNP(plain.toString(), book, chapter, verse);
+						if (!lower && db) insPlainGNP(plain.toString(), book, chapter, verse);
 						
 						plain.setLength(0);
 						plain.append(" ");
@@ -530,6 +531,9 @@ public class Indexer extends Recognizer {
 					
 					verse = Integer.parseInt(mVerse.group(1));
 					line = mVerse.group(2);
+				}
+				else if (mNote.matches()) {
+					line = mNote.group(1);
 				}
 				
 				List<String> tokens = tokenize(line, lower, log);
@@ -540,7 +544,7 @@ public class Indexer extends Recognizer {
 			}
 		}
 
-		if (plain.length() > 1 && !lower) insPlainGNP(plain.toString(), book, chapter, verse);
+		if (plain.length() > 1 && !lower && db) insPlainGNP(plain.toString(), book, chapter, verse);
 
 		reader.close();
 	}
@@ -636,7 +640,7 @@ public class Indexer extends Recognizer {
 	 * @param auth - author's name.
 	 * @param lower - if true, converts all running words to lower case before updating the index.
 	 */
-	public void indexP(String src, String auth, boolean lower) throws IOException {
+	public void indexP(String src, String auth, boolean lower, boolean db) throws IOException {
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
 		
 		StringBuilder plain = new StringBuilder(" ");
@@ -679,7 +683,7 @@ public class Indexer extends Recognizer {
 			else if (process) {
 				if (mVerse.matches()) {
 					if (plain.length() > 1) {
-						if (!lower) insPlainP(plain.toString(), verse);
+						if (!lower && db) insPlainP(plain.toString(), verse);
 						
 						plain.setLength(0);
 						plain.append(" ");
@@ -697,7 +701,7 @@ public class Indexer extends Recognizer {
 			}
 		}
 
-		if (plain.length() > 1 && !lower) insPlainP(plain.toString(), verse);
+		if (plain.length() > 1 && !lower && db) insPlainP(plain.toString(), verse);
 
 		reader.close();
 	}
