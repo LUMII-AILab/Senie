@@ -158,8 +158,14 @@ public class Contexter extends Recognizer {
 		String line   = "";
 
 		while ((line = text.readLine()) != null) {
-			line = encodeNestedBraces(line.trim());
-
+			Matcher mVerse = getVerseExGNPPattern().matcher(line);
+			
+			if (!mVerse.matches()) {
+				// It's important to keep first two white spaces of line that represents beginning of verse
+				// to recognize it in further processing.
+				line = encodeNestedBraces(line.trim());
+			}
+			
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
 			Matcher mBook     = getBookPattern().matcher(line);
 			Matcher mChapter  = getChapterPattern().matcher(line);
@@ -168,8 +174,7 @@ public class Contexter extends Recognizer {
 			Matcher mPlain    = getPlainPattern().matcher(line);
 			Matcher mParallel = getParallelPattern().matcher(line);
 			Matcher mSource   = getSourcePattern().matcher(line);
-			Matcher mVerse    = getVerseExGNPPattern().matcher(line);
-
+			
 			if (mAuthor.matches()) {
 				author = mAuthor.group(1);
 				authorID = db.getAuthor(author);
@@ -325,7 +330,11 @@ public class Contexter extends Recognizer {
 		while ((line = text.readLine()) != null) {
 			Matcher mVerse = getVerseExPPattern().matcher(line);
 			
-			line = encodeNestedBraces(line.trim()); // First two white spaces are needed for verse recognition
+			if (!mVerse.matches()) {
+				// It's important to keep first two white spaces of line that represents beginning of verse
+				// to recognize it in further processing.
+				line = encodeNestedBraces(line.trim());
+			}
 			
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
 			Matcher mFoot     = getFooterPattern().matcher(line);

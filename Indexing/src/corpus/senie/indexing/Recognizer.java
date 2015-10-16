@@ -30,10 +30,10 @@ public class Recognizer extends Object {
 	private Pattern pParallel;
 	private Pattern pPlain;
 	private Pattern pSource;
-	private Pattern pVerseExGNP;
-	private Pattern pVerseGNP;
-	private Pattern pVerseExP;
-	private Pattern pVerseP;
+	private Pattern pVerseExGNP;	// External+Extended formatting
+	private Pattern pVerseGNP;		// Internal formatting
+	private Pattern pVerseExP;		// External+Extended formatting
+	private Pattern pVerseP;		// Internal formatting
 	private Pattern pIgnore;
 	private Pattern pErrHyp;
 	private Pattern pSuspicBraces;
@@ -53,24 +53,22 @@ public class Recognizer extends Object {
 		wf_ch = "[\\w" + alpha_lv + alpha_other + alpha_mark +"]*";
 		plain = "[\\s\\w" + alpha_lv + alpha_other + alpha_mark + punct + "]*";
 		
-		pAuthor   = Pattern.compile("@a\\{(" + plain + ")\\}");
-		pBook     = Pattern.compile("@g\\{(\\w+)\\}");
-		pChapter  = Pattern.compile("@n\\{(\\d+)\\}");
-		pEmpty    = Pattern.compile("@x\\{\\}");									// Synchronize with pWaste
-		pHeader   = Pattern.compile("@[o23]\\{(" + plain + ")\\}");					// Synchronize with pWaste
-		pFooter   = Pattern.compile("@[b1]\\{(" + plain + ")\\}");					// Synchronize with pWaste
-		pErrata   = Pattern.compile("(" + wf_ch + ")\\{(" + plain + ")\\}");
-		pLang     = Pattern.compile("@([cefhijlrsv])\\{(" + plain + ")\\}");		// Synchronize with pWaste
-		pManual   = Pattern.compile("@m\\{(" + plain + ")\\}");
-		pNote     = Pattern.compile("@p\\{(" + plain + ")\\}");						// Synchronize with pWaste
-		pPage     = Pattern.compile("\\[([\\-\\w\\{\\}]+)\\.lpp\\.\\]");
-		pParallel = Pattern.compile("@t\\{(" + plain + ")\\}");						// Synchronize with pWaste
-		pPlain    = Pattern.compile("(" + plain + ")");
-		pSource   = Pattern.compile("@z\\{(\\w+)\\}");
-		pComment  = Pattern.compile("@k\\{(" + plain + ")\\}");						// Synchronize with pWaste
-		pVerseGNP = Pattern.compile("(\\d+)\\.(" + plain + ")");
-		pVerseP   = Pattern.compile("\\s\\s((\\d+\\.)+)(" + plain + ")");
-		pIgnore   = Pattern.compile("@[bcefhijkloprstvx123]\\{(" + plain + ")\\}");	// Exclude from the index (except for GNP; see Cleaner)
+		pAuthor     = Pattern.compile("@a\\{(" + plain + ")\\}");
+		pBook       = Pattern.compile("@g\\{(\\w+)\\}");
+		pChapter    = Pattern.compile("@n\\{(\\d+)\\}");
+		pEmpty      = Pattern.compile("@x\\{\\}");										// Synchronize with pWaste
+		pHeader     = Pattern.compile("@[o23]\\{(" + plain + ")\\}");					// Synchronize with pWaste
+		pFooter     = Pattern.compile("@[b1]\\{(" + plain + ")\\}");					// Synchronize with pWaste
+		pErrata     = Pattern.compile("(" + wf_ch + ")\\{(" + plain + ")\\}");
+		pLang       = Pattern.compile("@([cefhijlrsv])\\{(" + plain + ")\\}");			// Synchronize with pWaste
+		pManual     = Pattern.compile("@m\\{(" + plain + ")\\}");
+		pNote       = Pattern.compile("@p\\{(" + plain + ")\\}");						// Synchronize with pWaste
+		pPage       = Pattern.compile("\\[([\\-\\w\\{\\}]+)\\.lpp\\.\\]");
+		pParallel   = Pattern.compile("@t\\{(" + plain + ")\\}");						// Synchronize with pWaste
+		pPlain      = Pattern.compile("(" + plain + ")");
+		pSource     = Pattern.compile("@z\\{(\\w+)\\}");
+		pComment    = Pattern.compile("@k\\{(" + plain + ")\\}");						// Synchronize with pWaste
+		pIgnore     = Pattern.compile("@[bcefhijkloprstvx123]\\{(" + plain + ")\\}");	// Exclude from the index (except for GNP; see Cleaner)
 		
 		String mixed = "(" + plain + "((";
 		mixed += pErrata.pattern() + ")|(";
@@ -80,14 +78,15 @@ public class Recognizer extends Object {
 		mixed += pComment.pattern() + "))";
 		mixed += plain + ")+";
 
-		pMixed = Pattern.compile("(" + mixed + ")");
-		
-		pVerseExGNP = Pattern.compile("(\\d+)\\.((" + plain + ")|(" + mixed + "))");
-		pVerseExP = Pattern.compile("\\s\\s((\\d+\\.)+)((" + plain + ")|(" + mixed + "))");
+		pVerseExGNP = Pattern.compile("  (\\d+)\\. ((" + plain + ")|(" + mixed + "))");
+		pVerseGNP   = Pattern.compile("@@(\\d+)\\. ((" + plain + ")|(" + mixed + "))");
+		pVerseExP   = Pattern.compile("  ((\\d+\\.)+) ((" + plain + ")|(" + mixed + "))");
+		pVerseP     = Pattern.compile("@@((\\d+\\.)+) ((" + plain + ")|(" + mixed + "))");
+		pMixed      = Pattern.compile("(" + mixed + ")");
 		
 		pSuspicBraces = Pattern.compile("(?<![\\w" + alpha_lv + alpha_other + alpha_mark + "])\\{");
-		pSuspicPage = Pattern.compile("\\[[\\w\\s\\{\\}]+\\.?(lpp)?\\.?\\]");
-		pSuspicVerse = Pattern.compile("(\\s*(\\d+\\.)+)((" + plain + ")|(" + mixed + "))");
+		pSuspicPage   = Pattern.compile("\\[[\\w\\s\\{\\}]+\\.?(lpp)?\\.?\\]");
+		pSuspicVerse  = Pattern.compile("(\\s*(\\d+\\.)+)((" + plain + ")|(" + mixed + "))");
 
 		pErrHyp = Pattern.compile(wf_ch + "\\{" + plain);
 		
@@ -283,7 +282,7 @@ public class Recognizer extends Object {
 
 
 	/**
-	 * Returns a pattern for recognition of extended verse beginning (contains mixed elements) in text of GNP structure.
+	 * Returns a pattern for the recognition of verse beginning (contains mixed elements) in the input (external) text of GNP structure.
 	 * Groups: 1. - verse number; 2. - first line of verse.
 	 * 
 	 * @return compiled pattern.
@@ -294,7 +293,7 @@ public class Recognizer extends Object {
 
 
 	/**
-	 * Returns a pattern for recognition of verse beginning in text of GNP structure.
+	 * Returns a pattern for the recognition of verse beginning in the preprocessed text of GNP structure.
 	 * Groups: 1. - verse number; 2. - first line of verse.
 	 * 
 	 * @return compiled pattern.
@@ -305,7 +304,7 @@ public class Recognizer extends Object {
 
 
 	/**
-	 * Returns a pattern for recognition of extended verse beginning (contains mixed elements) in text of P structure.
+	 * Returns a pattern for the recognition of verse beginning (contains mixed elements) in the input (external) text of P structure.
 	 * Groups: 1. - verse number; 3. - first line of verse.
 	 * 
 	 * @return compiled pattern.
@@ -316,7 +315,7 @@ public class Recognizer extends Object {
 
 
 	/**
-	 * Returns a pattern for recognition of verse beginning in text of P structure.
+	 * Returns a pattern for the recognition of verse beginning in the preprocessed text of P structure.
 	 * Groups: 1. - verse number; 3. - first line of verse.
 	 * 
 	 * @return compiled pattern.

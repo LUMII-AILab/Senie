@@ -314,9 +314,20 @@ public class Unhyphener extends Recognizer {
 				
 				if (curr.indexOf(" ") != -1) {
 					// Unhyphenate the hyphened part of a word
-					tight = prev + curr.substring(0, curr.indexOf(" "));
+					
+					//Pârbauda vai savelkamajai daïai nav piekabinâts kïûdas labojums;
+					//ja ir, òem kopâ ar visâm figûriekavâm (t.sk. ja tajâs ir vairâki vârdi).
+					String temp = curr.substring(0, curr.indexOf(" "));
+					String sepa = " ";
+					Matcher mErrHyp = getHyphenedErrorPattern().matcher(temp);
+					if (mErrHyp.matches()) {
+						temp = curr.substring(0, curr.indexOf("}") + 1);
+						sepa = "}";
+					}
+					
+					tight = prev+temp;
 					writer.write(normalizeHyphens(tight) + "\r\n");
-					curr = curr.substring(curr.indexOf(" ") + 1);
+					curr = curr.substring(curr.indexOf(sepa) + 1).trim();
 				} else {
 					// The word is split over several lines
 					curr = prev + curr;

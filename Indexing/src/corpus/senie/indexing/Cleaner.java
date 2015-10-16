@@ -80,7 +80,15 @@ public class Cleaner extends Recognizer {
 		String line = "";
 
 		while ((line = reader.readLine()) != null) {
-			line = encodeNestedBraces(line.trim());
+			Matcher mVerse = getVerseExGNPPattern().matcher(line);
+			Matcher mSuspic = getSuspicVersePattern().matcher(line);
+			
+			if (!mVerse.matches()) {
+				// It's important to keep first two white spaces of line that represents beginning of verse
+				// to recognize it in further processing.
+				if (mSuspic.matches()) log.append(Logger.SUSPICIOUS, line);
+				line = encodeNestedBraces(line.trim());
+			}
 
 			Matcher mAuthor = getAuthorPattern().matcher(line);
 			Matcher mBook = getBookPattern().matcher(line);
@@ -88,7 +96,6 @@ public class Cleaner extends Recognizer {
 			Matcher mMixed = getMixedPattern().matcher(line);
 			Matcher mPlain = getPlainPattern().matcher(line);
 			Matcher mSource = getSourcePattern().matcher(line);
-			Matcher mVerse = getVerseExGNPPattern().matcher(line);
 			Matcher mNote = getNotePattern().matcher(line);
 			Matcher mWaste = getIgnorePattern().matcher(line);
 
@@ -104,7 +111,7 @@ public class Cleaner extends Recognizer {
 				String txt = mVerse.group(2).trim();
 				txt = cleanupWaste(cleanupManual(txt));
 
-				writer.write(num + ". " + decodeNestedBraces(txt) + "\r\n");
+				writer.write("@@" + num + ". " + decodeNestedBraces(txt) + "\r\n");
 			}
 			else if (mChapter.matches() || mBook.matches() || mAuthor.matches() || mSource.matches()
 					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line))) {
@@ -204,7 +211,7 @@ public class Cleaner extends Recognizer {
 				String txt = mVerse.group(3).trim();
 				txt = cleanupWaste(cleanupManual(txt));
 
-				writer.write("  " + num + " " + decodeNestedBraces(txt) + "\r\n");
+				writer.write("@@" + num + " " + decodeNestedBraces(txt) + "\r\n");
 			}
 			else if ((!line.isEmpty() && mPlain.matches() && validBracesInContext(line)) ||	mAuthor.matches() || mSource.matches()) {
 				writer.write(decodeNestedBraces(line) + "\r\n");	// Do not change that type of line

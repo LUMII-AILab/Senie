@@ -227,7 +227,13 @@ public class Marker extends Recognizer {
 		String line  = "";
 
 		while ((line = text.readLine()) != null) {
-			line = encodeNestedBraces(line.trim());
+			Matcher mVerse = getVerseExGNPPattern().matcher(line);
+			
+			if (!mVerse.matches()) {
+				// It's important to keep first two white spaces of line that represents beginning of verse
+				// to recognize it in further processing.
+				line = encodeNestedBraces(line.trim());
+			}
 
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
 			Matcher mBook     = getBookPattern().matcher(line);
@@ -237,8 +243,7 @@ public class Marker extends Recognizer {
 			Matcher mPlain    = getPlainPattern().matcher(line);
 			Matcher mParallel = getParallelPattern().matcher(line);
 			Matcher mSource   = getSourcePattern().matcher(line);
-			Matcher mVerse    = getVerseExGNPPattern().matcher(line);
-
+			
 			if (mBook.matches()) {
 				html.write("</div>\n");									// Closes previous verse
 				book = mBook.group(1);
@@ -378,7 +383,11 @@ public class Marker extends Recognizer {
 		while ((line = text.readLine()) != null) {
 			Matcher mVerse = getVerseExPPattern().matcher(line);
 			
-			line = encodeNestedBraces(line.trim()); // First two white spaces are needed for verse recognition
+			if (!mVerse.matches()) {
+				// It's important to keep first two white spaces of line that represents beginning of verse
+				// to recognize it in further processing.
+				line = encodeNestedBraces(line.trim());
+			}
 			
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
 			Matcher mFoot     = getFooterPattern().matcher(line);

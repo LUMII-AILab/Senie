@@ -31,11 +31,11 @@ body {
 }
 
 .comment {
-	color: #808080;
+	color: #737373;
 }
 
 .opus, .end {
-	color: #808080;
+	color: #A6A6A6;
 	text-align: right;
 	margin: 0px 0px 0px 0px;
 }
@@ -54,7 +54,8 @@ body {
 }
 
 .note {
-	color: #808080;
+	font-style: italic;
+	color: #737373;
 }
 
 div.page {
@@ -74,8 +75,8 @@ p.page {
 
 .para {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
-	color: #808080;
+	font-size: 12px;
+	color: #A6A6A6;
 	margin:	10px 0px 10px 0px;
 }
 

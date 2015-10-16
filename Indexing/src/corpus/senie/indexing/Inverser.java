@@ -91,8 +91,12 @@ public class Inverser extends Recognizer {
 			if (mBook.matches() || mChapter.matches() || mAuthor.matches()) {
 				// Skip
 			} else {
-				if (mVerse.matches()) line = mVerse.group(2);
-				else if (mNote.matches()) line = mNote.group(1);
+				if (mVerse.matches()) {
+					line = mVerse.group(2);
+				}
+				else if (mNote.matches()) {
+					line = mNote.group(1);
+				}
 				
 				addWordForm(Indexer.tokenize(line, true, log));
 			}
@@ -161,7 +165,9 @@ public class Inverser extends Recognizer {
 			mAuthor = getAuthorPattern().matcher(line);
 
 			if (!mAuthor.matches()) {
-				if (mVerse.matches()) line = mVerse.group(3);
+				if (mVerse.matches()) {
+					line = mVerse.group(3);
+				}
 				addWordForm(Indexer.tokenize(line, true, log));
 			}
 		}
