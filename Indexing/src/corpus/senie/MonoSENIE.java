@@ -19,7 +19,7 @@ public class MonoSENIE {
 		BufferedReader input = new BufferedReader(new InputStreamReader(System.in, "UTF-8"));
 
 		out.print("Ievadiet avota kodu: ");
-		String source = input.readLine();
+		String source = input.readLine().trim();
 		out.println("");
 
 		out.println("Ievadiet adresācijas struktūru: ");
@@ -27,7 +27,7 @@ public class MonoSENIE {
 		out.println("(2) lappuse->rinda");
 		out.println("(3) pants");
 		out.print("Izvēle: ");
-		int pos = Integer.parseInt(input.readLine());
+		int pos = Integer.parseInt(input.readLine().trim());
 		out.println("");
 
 		String confirm = "";
@@ -43,7 +43,7 @@ public class MonoSENIE {
 			out.println("(6) marķēšana");
 			out.println("(0) beigt");
 			out.print("Izvēle: ");
-			int task = Integer.parseInt(input.readLine());
+			int task = Integer.parseInt(input.readLine().trim());
 			out.println("");
 
 			switch (task) {
@@ -65,7 +65,7 @@ public class MonoSENIE {
 							cleaner.cleanP();
 							break;
 						default:
-							out.println("Adresācijas struktūra nav definēta!");
+							out.println("[E] Adresācijas struktūra nav definēta!");
 							break;
 					}
 					cleaner.close();
@@ -89,7 +89,7 @@ public class MonoSENIE {
 							unhyphener.unhyphenVerse(false);
 							break;
 						default:
-							out.println("Adresācijas struktūra nav definēta!");
+							out.println("[E] Adresācijas struktūra nav definēta!");
 							break;
 					}
 					unhyphener.close();
@@ -103,15 +103,15 @@ public class MonoSENIE {
 
 					boolean lower = false;
 					out.print("Ņemt vērā lielos/mazos burtus? [j/n]: ");
-					confirm = input.readLine();
-					if (confirm.toLowerCase().trim().equals("n")) {
+					confirm = input.readLine().trim();
+					if (confirm.toLowerCase().equals("n")) {
 						lower = true;
 					}
 					out.println("");
 
 					String name = "";
 					out.print("Ievadiet avota autoru: ");
-					name = input.readLine();
+					name = input.readLine().trim();
 					out.println("");
 
 					Indexer indexer = new Indexer(source);
@@ -119,14 +119,27 @@ public class MonoSENIE {
 					boolean db = false;
 					if (!lower && !name.isEmpty()) {
 						out.print("Saglabāt SENIE datubāzē? [j/n]: ");
-						confirm = input.readLine();
+						confirm = input.readLine().trim();
 						out.println("");
-						if (confirm.toLowerCase().trim().equals("j")) db = true;
+						if (confirm.toLowerCase().equals("j")) db = true;
 
 						if (db) {
 							indexer.dbConnect("//localhost:3306/senie", "senie", "corpsbase03");
-							indexer.setAuthor(name);
-							indexer.setSource(source);
+							
+							if (!indexer.setAuthor(name)){
+								out.println("[E] DB kļūda: nav atrasts autors '" + name + "'");
+							}
+							
+							String source_prim = source;
+							if (pos == 1) {
+								out.print("Ievadiet virsavota kodu: ");
+								source_prim = input.readLine().trim();
+								out.println("");
+							}
+							
+							if (!indexer.setSource(source_prim)) {
+								out.println("[E] DB kļūda: nav atrasts avots '" + source_prim + "'");
+							}
 						}
 					}
 
@@ -141,7 +154,7 @@ public class MonoSENIE {
 							indexer.indexP(source, name, lower, db);
 							break;
 						default:
-							out.println("Adresācijas struktūra nav definēta!");
+							out.println("[E] Adresācijas struktūra nav definēta!");
 							break;
 					}
 
@@ -196,7 +209,7 @@ public class MonoSENIE {
 							inverser.indexP();
 							break;
 						default:
-							out.println("Adresācijas struktūra nav definēta!");
+							out.println("[E] Adresācijas struktūra nav definēta!");
 							break;
 					}
 
@@ -228,13 +241,13 @@ public class MonoSENIE {
 								contexter.splitP();
 								break;
 							default:
-								out.println("Adresācijas struktūra nav definēta!");
+								out.println("[E] Adresācijas struktūra nav definēta!");
 								break;
 						}
 						contexter.dbDisconnect();
 					}
 					else {
-						out.println("Neizdevās pieslēgties SENIE datubāzei!");
+						out.println("[E] Neizdevās pieslēgties SENIE datubāzei!");
 					}
 					contexter.close();
 					break;
@@ -257,7 +270,7 @@ public class MonoSENIE {
 							marker.markupP();
 							break;
 						default:
-							out.println("Adresācijas struktūra nav definēta!");
+							out.println("[E] Adresācijas struktūra nav definēta!");
 							break;
 					}
 					marker.close();
@@ -268,7 +281,7 @@ public class MonoSENIE {
 					break;
 
 				default:
-					out.println("Veicamais uzdevums nav definēts!");
+					out.println("[E] Veicamais uzdevums nav definēts!");
 					break;
 			}
 		} while (loop);

@@ -44,7 +44,7 @@
 				"SELECT name, facsimile FROM sources WHERE codificator = ?;"
 			);
 			PreparedStatement selBooks = con.prepareStatement(
-				"SELECT codificator, name FROM books;"
+				"SELECT b.codificator, b.name FROM books AS b, sources AS s WHERE b.source = s.id AND s.codificator = ?;"
 			);
 
 			selSource.clearParameters();
@@ -128,7 +128,9 @@
 				</ul>
 
 				<%
-					if (param_codif.equals("JT1685")) {
+					if (param_codif.matches("JT1685|VD1694")) {
+						selBooks.clearParameters();
+						selBooks.setBytes(1, param_codif.getBytes("UTF-8"));
 						ResultSet books = selBooks.executeQuery();
 						out.println("<hr class=\"hrSeparator\">");
 
@@ -143,7 +145,7 @@
 						if (demofile.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%= book_codif %>.html">interaktīvs indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%= book_codif %>.html">statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
