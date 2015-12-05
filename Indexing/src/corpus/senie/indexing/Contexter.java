@@ -146,8 +146,8 @@ public class Contexter extends Recognizer {
 	public void splitGNP() throws IOException {
 		StringBuffer content = new StringBuffer();
 
-		int chapter = 0;
-		int verse   = 0;
+		int chapter = -1;
+		int verse   = -1;
 
 		int authorID = -1;
 		int bookID   = -1;
@@ -179,30 +179,48 @@ public class Contexter extends Recognizer {
 				author = mAuthor.group(1);
 				authorID = db.getAuthor(author);
 				
-				if (authorID == -1) System.err.println("Author not found: {" + author + "}!");
+				if (authorID == -1) {
+					System.err.println("Author not found: {" + author + "}!");
+				}
 				
-				if (sourceID != -1) sourceID = db.getSource(authorID, source); // Written by several authors
+				if (sourceID != -1) {
+					sourceID = db.getSource(authorID, source);
+				}
 			}
 			else if (mSource.matches()) {
 				source = mSource.group(1);
 				sourceID = db.getSource(authorID, source);
 
-				if (sourceID == -1) System.err.println("Source not found: {" + author + "," + source + "}!");
+				if (sourceID == -1) {
+					System.err.println("Source not found: {" + author + "," + source + "}!");
+				}
 			}
 			else if (mBook.matches()) {
-				insContext(sourceID, bookID, chapter, verse, content.toString());	// Inserts content of previous verse
-				content.setLength(0);												// Deletes previous context
-
-				bookID = db.getBook(mBook.group(1));
-				if (bookID == -1) System.err.println("Book not found: {" + mBook.group(1) + "}!");
+				if (verse != -1) {
+					// Inserts content of previous verse
+					insContext(sourceID, bookID, chapter, verse, content.toString());
+				}
 				
-				verse = 0;
+				// Deletes previous context
+				content.setLength(0);
+				verse = -1;
+				
+				bookID = db.getBook(mBook.group(1));
+				if (bookID == -1) {
+					System.err.println("Book not found: {" + mBook.group(1) + "}!");
+				}
 			}
 			else if (mChapter.matches()) {
-				insContext(sourceID, bookID, chapter, verse, content.toString());	// Inserts content of previous verse
-				content.setLength(0);												// Deletes previous context
+				if (verse != -1) {
+					// Inserts content of previous verse
+					insContext(sourceID, bookID, chapter, verse, content.toString());
+				}
+				
+				// Deletes previous context
+				content.setLength(0);
+				verse = -1;
+				
 				chapter = Integer.parseInt(mChapter.group(1));
-				verse = 0;
 			}
 			else if (mVerse.matches()) {
 				insContext(sourceID, bookID, chapter, verse, content.toString());
@@ -221,19 +239,19 @@ public class Contexter extends Recognizer {
 					content.append(decodeNestedBraces(line) + "<br>");				// Adds first line to context
 				}
 			}
-			else if (!line.isEmpty() && mPlain.matches() && (verse > 0)) {
+			else if (!line.isEmpty() && mPlain.matches() && verse != -1) {
 				line = marker.markupErrata(line);
 				content.append(decodeNestedBraces(line) + "<br>");					// Adds regular line
 			}
-			else if (mParallel.matches() && (verse > 0)) {
+			else if (mParallel.matches() && verse != -1) {
 				line = marker.markupParallel(line);
 				content.append(decodeNestedBraces(line));							// Adds parallel text reference
 			}
-			else if (mFoot.matches() && (verse > 0)) {
+			else if (mFoot.matches() && verse != -1) {
 				line = marker.markupFooter(line);
 				content.append(decodeNestedBraces(line));							// Adds end of verse
 			}
-			else if (mMixed.matches() && (verse > 0)) {
+			else if (mMixed.matches() && verse != -1) {
 				line = marker.markupComment(line);
 				line = marker.markupLang(line);
 				line = marker.markupNote(line);
