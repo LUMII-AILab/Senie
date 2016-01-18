@@ -121,7 +121,7 @@
 
 					<% if (!param_fax.equals("")) { %>
 					<li>
-						<span class="code"><a href="<%= param_fax %>" target="_new">oriģināla faksimils</a></span>
+						<span class="code"><a href="<%= param_fax %>#<%= book_codif %>"target="_new">oriģināla faksimils</a></span>
 					</li>
 					<% } %>
 

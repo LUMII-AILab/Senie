@@ -56,19 +56,19 @@ public class Recognizer extends Object {
 		pAuthor     = Pattern.compile("@a\\{(" + plain + ")\\}");
 		pBook       = Pattern.compile("@g\\{(\\w+)\\}");
 		pChapter    = Pattern.compile("@n\\{(\\d+)\\}");
-		pEmpty      = Pattern.compile("@x\\{\\}");										// Synchronize with pWaste
-		pHeader     = Pattern.compile("@[o23]\\{(" + plain + ")\\}");					// Synchronize with pWaste
-		pFooter     = Pattern.compile("@[b1]\\{(" + plain + ")\\}");					// Synchronize with pWaste
+		pEmpty      = Pattern.compile("@x\\{\\}");										// Synchronize with pIgnore
+		pHeader     = Pattern.compile("@[o23]\\{(" + plain + ")\\}");					// Synchronize with pIgnore
+		pFooter     = Pattern.compile("@[b1]\\{(" + plain + ")\\}");					// Synchronize with pIgnore
 		pErrata     = Pattern.compile("(" + wf_ch + ")\\{(" + plain + ")\\}");
-		pLang       = Pattern.compile("@([cefhijlrsv])\\{(" + plain + ")\\}");			// Synchronize with pWaste
+		pLang       = Pattern.compile("@([cedfhijlrsv])\\{(" + plain + ")\\}");			// Synchronize with pIgnore
 		pManual     = Pattern.compile("@m\\{(" + plain + ")\\}");
-		pNote       = Pattern.compile("@p\\{(" + plain + ")\\}");						// Synchronize with pWaste
+		pNote       = Pattern.compile("@p\\{(" + plain + ")\\}");						// Synchronize with pIgnore
 		pPage       = Pattern.compile("\\[([\\-\\w\\{\\}]+)\\.lpp\\.\\]");
-		pParallel   = Pattern.compile("@t\\{(" + plain + ")\\}");						// Synchronize with pWaste
+		pParallel   = Pattern.compile("@t\\{(" + plain + ")\\}");						// Synchronize with pIgnore
 		pPlain      = Pattern.compile("(" + plain + ")");
 		pSource     = Pattern.compile("@z\\{(\\w+)\\}");
-		pComment    = Pattern.compile("@k\\{(" + plain + ")\\}");						// Synchronize with pWaste
-		pIgnore     = Pattern.compile("@[bcefhijkloprstvx123]\\{(" + plain + ")\\}");	// Exclude from the index (except for GNP; see Cleaner)
+		pComment    = Pattern.compile("@k\\{(" + plain + ")\\}");						// Synchronize with pIgnore
+		pIgnore     = Pattern.compile("@[bcedfhijkloprstvx123]\\{(" + plain + ")\\}");	// Exclude from the index (except for GNP; see Cleaner)
 		
 		String mixed = "(" + plain + "((";
 		mixed += pErrata.pattern() + ")|(";
