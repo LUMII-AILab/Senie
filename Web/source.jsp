@@ -120,9 +120,11 @@
 					</li>
 
 					<% if (!param_fax.equals("")) { %>
+					<!-- FIXME: add #<book_codif>
 					<li>
-						<span class="code"><a href="<%= param_fax %>#<%= book_codif %>"target="_new">oriģināla faksimils</a></span>
+						<span class="code"><a href="<%= param_fax %>" target="_new">oriģināla faksimils</a></span>
 					</li>
+					-->
 					<% } %>
 
 				</ul>
