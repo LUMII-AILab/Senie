@@ -1,6 +1,7 @@
 -- author, source
 
 INSERT INTO coopers VALUES (1, 3);
+INSERT INTO coopers VALUES (1, 17);
 INSERT INTO coopers VALUES (2, 2);
 INSERT INTO coopers VALUES (2, 26);
 INSERT INTO coopers VALUES (3, 4);
