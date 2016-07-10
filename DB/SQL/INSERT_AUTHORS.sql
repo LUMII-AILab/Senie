@@ -1,0 +1,12 @@
+INSERT INTO authors (name) VALUES ('Ernsts Gliks');
+INSERT INTO authors (name) VALUES ('Georgs Elgers');
+INSERT INTO authors (name) VALUES ('Georgs Mancelis');
+INSERT INTO authors (name) VALUES ('Jânis Reiters');
+INSERT INTO authors (name) VALUES ('Kristofors Fîrekers');
+INSERT INTO authors (name) VALUES ('nezinâms');
+INSERT INTO authors (name) VALUES ('Heinrihs Âdolfijs');
+INSERT INTO authors (name) VALUES ('Nîkolauss Frîdrihs Hespe');
+INSERT INTO authors (name) VALUES ('Gerhards Remlings');
+INSERT INTO authors (name) VALUES ('Heinrihs Kleinðmits');
+INSERT INTO authors (name) VALUES ('Johans Otoniss');
+INSERT INTO authors (name) VALUES ('Jakobs Âdolfijs');

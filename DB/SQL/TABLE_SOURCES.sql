@@ -1,0 +1,10 @@
+CREATE TABLE sources (
+  id SMALLINT UNSIGNED NOT NULL AUTO_INCREMENT,
+  codificator CHAR(15) NOT NULL,
+  name CHAR(100) NOT NULL,
+  category TINYINT UNSIGNED NOT NULL,
+  period TINYINT UNSIGNED NOT NULL,
+  biblio CHAR(100),
+  PRIMARY KEY (id),
+  UNIQUE (codificator)
+);

@@ -1,0 +1,5 @@
+CREATE TABLE tips (
+  rnd TINYINT UNSIGNED NOT NULL,
+  text CHAR(200) NOT NULL,
+  PRIMARY KEY (rnd)
+);

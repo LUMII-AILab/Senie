@@ -1,0 +1,6 @@
+CREATE TABLE wordforms (
+  id MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT,
+  wordform CHAR(50) NOT NULL,
+  PRIMARY KEY (id),
+  INDEX (wordform)
+);

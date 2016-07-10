@@ -1,0 +1,8 @@
+CREATE TABLE p_contexts (
+  id MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT,
+  source SMALLINT UNSIGNED NOT NULL,
+  verse CHAR(15) NOT NULL,
+  content TEXT NOT NULL,
+  PRIMARY KEY (id),
+  UNIQUE (source, verse)
+);
