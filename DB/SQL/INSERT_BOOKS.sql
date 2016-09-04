@@ -28,6 +28,11 @@ INSERT INTO books VALUES (25, 3, 'Jk', 'Jehkaba ta Apu§tuïa Grahmata uhs wiúúeem
 INSERT INTO books VALUES (26, 3, 'Jud', 'Juhda ta Apu§tuïa Grahmata uhs wiúúeem rak§tita');
 INSERT INTO books VALUES (27, 3, 'Atk', 'Ta Úwehta Deewa=Mahzitaja Jahòa Parahdiúchanas=Grahmata');
 
-INSERT INTO books VALUES (28, 17, '1Moz','Ta Pirma Moh§us Grahmata');
-INSERT INTO books VALUES (29, 17, '2Moz','Ta Ohtra Moh§us Grahmata');
-INSERT INTO books VALUES (30, 17, '3Moz','Ta Treúcha Moh§us Grahmata');
+INSERT INTO books VALUES (28, 17, '1Moz', 'Ta Pirma Moh§us Grahmata');
+INSERT INTO books VALUES (29, 17, '2Moz', 'Ta Ohtra Moh§us Grahmata');
+INSERT INTO books VALUES (30, 17, '3Moz', 'Ta Treúcha Moh§us Grahmata');
+INSERT INTO books VALUES (31, 17, '4Moz', 'Ta zettorta Moh§us Grahmata');
+INSERT INTO books VALUES (32, 17, '5Moz', 'Ta peekta Moh§us Grahmata');
+INSERT INTO books VALUES (33, 17, 'Joz', 'Ta Jo§uu#s Grahmata');
+INSERT INTO books VALUES (34, 17, 'Sog', 'Ta Úohìu Grahmata');
+INSERT INTO books VALUES (35, 17, 'Rut', 'Ruttes Grahmata');
