@@ -36,3 +36,6 @@ INSERT INTO books VALUES (32, 17, '5Moz', 'Ta peekta Moh§us Grahmata');
 INSERT INTO books VALUES (33, 17, 'Joz', 'Ta Jo§uu#s Grahmata');
 INSERT INTO books VALUES (34, 17, 'Sog', 'Ta Úohìu Grahmata');
 INSERT INTO books VALUES (35, 17, 'Rut', 'Ruttes Grahmata');
+INSERT INTO books VALUES (36, 17, '1Sam', 'Ta pirma Samueïa Grahmata');
+INSERT INTO books VALUES (37, 17, '2Sam', 'Ta ohtra Samueïa Grahmata');
+INSERT INTO books VALUES (38, 17, '1Ken', 'Ta pirma Grahmata no teem Íehniòeem');
