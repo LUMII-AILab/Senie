@@ -130,7 +130,7 @@
 				</ul>
 
 				<%
-					if (param_codif.matches("JT1685|VD1694")) {
+					if (param_codif.matches("JT1685|VD1689_94")) {
 						selBooks.clearParameters();
 						selBooks.setBytes(1, param_codif.getBytes("UTF-8"));
 						ResultSet books = selBooks.executeQuery();

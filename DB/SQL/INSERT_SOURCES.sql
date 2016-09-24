@@ -16,7 +16,7 @@ INSERT INTO sources VALUES (13, 'SKL1696_RA', 'Sawadi Karra=Teesas Likkumi', 2, 
 INSERT INTO sources VALUES (14, 'Eid1701_RA', 'Eid der Treue vor die Lettische Artillerie=Bediente', 2, 2, '', '1', 'P');
 INSERT INTO sources VALUES (15, 'EvEp1615', 'Euangelia vnd Episteln', 1, 1, 'http://korpuss.lv/senie/faksimili/17gs/EvEp1615/', '1', 'LR');
 INSERT INTO sources VALUES (16, 'Ps1615', 'Psalmen vnd geistliche Lieder', 1, 1, '', '1', 'LR');
-INSERT INTO sources VALUES (17, 'VD1694', 'Ta Swehta Grahmata', 1, 1, '', '1', 'GNP');
+INSERT INTO sources VALUES (17, 'VD1689_94', 'Ta Swehta Grahmata', 1, 1, '', '1', 'GNP');
 INSERT INTO sources VALUES (18, 'Manc1631_Syr', 'Das Haus=, Zucht= vnd Lehrbuch Jesu Syrachs', 1, 1, 'http://korpuss.lv/senie/faksimili/17gs/Manc1631_Syr/', '1', 'LR');
 INSERT INTO sources VALUES (19, 'Manc1631_LVM', 'Lettisch Vade mecum', 1, 1, 'http://korpuss.lv/senie/faksimili/17gs/Manc1631_LVM/', '1', 'LR');
 INSERT INTO sources VALUES (20, 'Manc1631_LGL', 'Lettische geistliche Lieder vnd Psalmen', 1, 1, 'http://korpuss.lv/senie/faksimili/17gs/Manc1631_LGL/', '1', 'LR');
@@ -74,6 +74,6 @@ INSERT INTO sources VALUES (71, 'Zv1638_VAR', 'Ziņu sniedzēja zvērests Vidzem
 INSERT INTO sources VALUES (72, 'Zv1698_Lig', 'Liģeru amata zvērests', 2, 1, '', '1', 'LR');
 INSERT INTO sources VALUES (73, 'Zv1689_Kan', 'Kaņepāju kulstītāju amata zvērests', 2, 1, '', '1', 'LR');
 INSERT INTO sources VALUES (74, 'Baum1699_LVV', 'Labbajs wehleśchanas Wahrds', 2, 1, '', '1', 'LR');
-INSERT INTO sources VALUES (75, 'Thev1575_PN', 'Tevē tēvreize', 1, 1, '', '1', 'LR');
+INSERT INTO sources VALUES (75, 'Thev1575_PN', 'Tevē tēvreize', 1, 3, '', '1', 'LR');
 INSERT INTO sources VALUES (76, 'Witt1702_PAN', 'Ta paneśama Auna=Na§ta apdohmata', 2, 1, '', '1', 'LR');
 INSERT INTO sources VALUES (77, 'SLM1648', 'Lotawicae', 2, 1, '', '1', 'LR');
