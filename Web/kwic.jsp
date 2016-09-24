@@ -148,9 +148,8 @@
 			if (param_src[0].equals("SENIE")) {
 			    query = "SELECT id FROM wordforms ";
 
-					query = query + "WHERE LOWER(wordform) LIKE ? ;";
-					param_wf = param_wf.toLowerCase();
-
+				query = query + "WHERE LOWER(wordform) LIKE ? ;";
+				param_wf = param_wf.toLowerCase();
 
 				selDistinctAll = con.prepareStatement(query);
 				selDistinctAll.clearParameters();
@@ -161,15 +160,34 @@
 
 				query = "SELECT w.wordform AS wf, s.codificator AS src, c.id AS cf FROM wordforms w LEFT JOIN crossforms c ON w.id = c.wordform LEFT JOIN sources s ON c.source = s.id ";
 
-					query = query + "WHERE LOWER(w.wordform) LIKE ?";  //LIKE ?
-					param_wf = param_wf.toLowerCase();
-
+				query = query + "WHERE LOWER(w.wordform) LIKE ?";  //LIKE ?
+				param_wf = param_wf.toLowerCase();
 
 				query = query + "ORDER BY w.wordform;";
 				selAll = con.prepareStatement(query);
 				selAll.clearParameters();
 			    selAll.setBytes(1, param_wf.getBytes("UTF-8"));
 				words = selAll.executeQuery();
+			}
+			else if (param_src[0].equals("LVVV")) {
+				query = "FROM wordforms w LEFT JOIN crossforms c ON w.id = c.wordform "
+					+ "LEFT JOIN sources s ON c.source = s.id "
+					+ "WHERE (LOWER(w.wordform) LIKE ?) AND (s.period = 3 OR s.period = 1) "
+					+ "ORDER BY w.wordform;";
+
+				param_wf = param_wf.toLowerCase();
+
+				selDistinctSrc = con.prepareStatement("SELECT DISTINCT w.wordform AS wf " + query);
+				selDistinctSrc.clearParameters();
+			    selDistinctSrc.setBytes(1, param_wf.getBytes("UTF-8"));
+				count = selDistinctSrc.executeQuery();
+				count.last();
+				wf_count = count.getRow();
+
+				selSrc = con.prepareStatement("SELECT w.wordform AS wf, s.codificator AS src, c.id AS cf " + query);
+				selSrc.clearParameters();
+			    selSrc.setBytes(1, param_wf.getBytes("UTF-8"));
+				words = selSrc.executeQuery();
 			}
 			else {
 				query = "FROM wordforms w LEFT JOIN crossforms c ON w.id = c.wordform LEFT JOIN sources s ON c.source = s.id ";

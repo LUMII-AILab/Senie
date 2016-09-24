@@ -128,6 +128,7 @@
 						<td rowspan="2" valign="top" style="border-top: 1px #669933 solid;">
 							<select multiple name="source" size="10" class="menu" style="width: 130px;">
 								<option value="SENIE" selected>SENIE</option>
+								<option value="LVVV">LVVV</option>
 								<%
 									while (sources.next()) {
 										String codif = new String(sources.getBytes("codificator"), "UTF-8");

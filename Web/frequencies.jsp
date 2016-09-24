@@ -66,8 +66,8 @@
 						<p class="navig">
 							<% if (param_codif.matches("Mt|Mk|Lk|Jn|Apd|Rm|1Kor|2Kor|Gal|Ef|Fil|Kol|1Tes|2Tes|1Tim|2Tim|Tit|Flm|1P|2P|1J|2J|3J|Ebr|Jk|Jud|Atk")) { %>
 							<a href="./source.jsp?codificator=JT1685" class="button">&nbsp;JT1685&nbsp;</a>&nbsp;
-							<% } else if (param_codif.matches("1Moz|2Moz|3Moz")) { %>
-							<a href="./source.jsp?codificator=VD1694" class="button">&nbsp;VD1694&nbsp;</a>&nbsp;
+							<% } else if (param_codif.matches("1Moz|2Moz|3Moz|4Moz|5Moz|Joz|Rut|Sog|1Sam|2Sam")) { %>
+							<a href="./source.jsp?codificator=VD1689_94" class="button">&nbsp;VD1689_94&nbsp;</a>&nbsp;
 							<% } else if (!param_codif.equals("SENIE")) { %>
 							<a href="./source.jsp?codificator=<%= param_codif %>" class="button">&nbsp;<%= param_codif %>&nbsp;</a>&nbsp;
 							<% } %>
