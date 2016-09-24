@@ -172,7 +172,7 @@
 			else if (param_src[0].equals("LVVV")) {
 				query = "FROM wordforms w LEFT JOIN crossforms c ON w.id = c.wordform "
 					+ "LEFT JOIN sources s ON c.source = s.id "
-					+ "WHERE (LOWER(w.wordform) LIKE ?) AND (s.period = 3 OR s.period = 1) "
+					+ "WHERE (LOWER(w.wordform) LIKE ?) AND (s.period = 3 OR s.period = 1) AND (s.id <> 17) "
 					+ "ORDER BY w.wordform;";
 
 				param_wf = param_wf.toLowerCase();
