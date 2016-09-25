@@ -1,5 +1,5 @@
-6142
-31755
+6134
+31747
 1352	in
 789	to
 533	ne
@@ -134,12 +134,12 @@
 29	Deenas
 29	Mahzekïeem
 29	nahks
+29	úawus
 29	Starpa^
 29	tewi
 29	warr
 28	Atúwehtes
 28	darra
-28	úawus
 28	Tehwa
 28	tewim
 28	ween
@@ -198,6 +198,7 @@
 20	Ohtra^
 20	pakkaï
 20	papreekúchu
+20	Red§i
 20	weenam
 19	bes
 19	Dehla
@@ -208,7 +209,6 @@
 19	Leezibu
 19	Mahzekïi
 19	Mihle§tiba
-19	Red§i
 19	tanni^
 19	Wahrds
 18	dehï
@@ -1684,8 +1684,6 @@
 2	I§ra&e&la
 2	I§ra&e&ïa=Semme^
 2	I§rae#ïa
-2	iij}
-2	ij}
 2	Ikkatrs
 2	Ikweenam
 2	Irrag
@@ -1882,7 +1880,6 @@
 2	nahkúim
 2	Nakti
 2	Nammo^s
-2	nas
 2	Nazarete
 2	ne§chehligi
 2	ne=augliga
@@ -2225,6 +2222,7 @@
 2	Waïïas
 2	Wallohda
 2	Wallohda^
+2	Wallohda^s
 2	Wari§eeris
 2	warram
 2	warrehs
@@ -2324,13 +2322,13 @@
 1	§pee§chama
 1	§peed
 1	§peediúees
-1	§pehzi@1{H}
 1	§pehziga
 1	§pehzigas
 1	§pehzigee
 1	§pehzigi
 1	§pehzigs
 1	§pehzigu
+1	§pehzinahs
 1	§pihd
 1	§pihdeja
 1	§pihguloja
@@ -2941,7 +2939,6 @@
 1	d§erúchu
 1	d§erúeet
 1	d§erúim
-1	d§i
 1	D§ihras
 1	d§ihs
 1	d§ihwam
@@ -2991,7 +2988,6 @@
 1	da§cheem
 1	da§chi
 1	da§hadu
-1	da^s
 1	Dabbas
 1	dabbuhs
 1	dabbuiúees
@@ -4177,7 +4173,6 @@
 1	meúlotai
 1	meúlotees
 1	mettahs
-1	mi
 1	Mihdia´nas
 1	mihk§ta^s
 1	mihk§tas
@@ -4267,13 +4262,11 @@
 1	nahkoht
 1	nahkoúcha
 1	nahkúes
-1	nahs
 1	Nahwes=Behda^s
 1	Nahwes=Sahles
 1	Nahzareti
 1	Nahze
 1	nahzi
-1	najs
 1	Nakts=Widdu^
 1	Namma=Kungs
 1	Namma=Tehwa
@@ -4763,9 +4756,9 @@
 1	Pazeetigi
 1	pazehlehjs
 1	pazehlis
-1	pazeld@1{K}
 1	pazeldami
 1	pazeldams
+1	pazeldmi
 1	Pazell
 1	pazell
 1	pazelt
@@ -5047,7 +5040,6 @@
 1	raudi
 1	Rauga^
 1	Raugu
-1	Re@1{A}
 1	red§ams
 1	red§ejam
 1	red§eju
@@ -5094,10 +5086,12 @@
 1	runnajoúchus
 1	runnajuúchi
 1	Runnas=Kungs
+1	Runnaúchanas
 1	runnatu
 1	runneju
 1	Runnu=Kungeem
 1	úa§paiditi
+1	úa=aizinajs
 1	úaded§inata
 1	úaded§inatas
 1	úaderrees
@@ -5511,7 +5505,7 @@
 1	Úudraba=Graúúi
 1	Úudraba=graúúi
 1	Úudraba=Kalleja
-1	Suhdiúcha@1{D}
+1	Suhdiúchanas
 1	Suhdiúchanu
 1	Úuhdiúchanu
 1	úuhti
@@ -5892,7 +5886,6 @@
 1	Wallada^
 1	Walloda^
 1	Wallodu
-1	Wallohda^s
 1	Wallohdu
 1	wallohdu
 1	Waïïu
@@ -6055,7 +6048,6 @@
 1	wiúúu=wairak
 1	wiúúur
 1	Wrihìias
-1	wus
 1	Zahliúchus
 1	Zakariaúa
 1	Zakarihúa
