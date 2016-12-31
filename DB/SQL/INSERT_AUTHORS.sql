@@ -22,7 +22,7 @@ INSERT INTO authors VALUES (19, 'Martîns Gotlîbs Agapetuss Loders');
 INSERT INTO authors VALUES (20, 'Kristians Râvensbergs');
 INSERT INTO authors VALUES (21, 'Georgs Dresels');
 INSERT INTO authors VALUES (22, 'Aleksandrs Johans Stenders');
-INSERT INTO authors VALUES (23, 'Johans Justins von Lopenove');
+INSERT INTO authors VALUES (23, 'J. J. Lopenove');
 INSERT INTO authors VALUES (24, 'O. F. P. Rîls');
 INSERT INTO authors VALUES (25, 'Nikolajs Gisberts');
 INSERT INTO authors VALUES (26, 'Simons Grûnavs');

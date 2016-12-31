@@ -40,3 +40,30 @@ INSERT INTO books VALUES (36, 17, '1Sam', 'Ta pirma Samueïa Grahmata');
 INSERT INTO books VALUES (37, 17, '2Sam', 'Ta ohtra Samueïa Grahmata');
 INSERT INTO books VALUES (38, 17, '1Ken', 'Ta pirma Grahmata no teem Íehniòeem');
 INSERT INTO books VALUES (39, 17, '2Ken', 'Ta ohtra Grahmata no teem Íehniòeem');
+-- Pirmâ Laiku grâmata - 40
+INSERT INTO books VALUES (41, 17, '2L', 'Ta ohtra Laiku=Grahmata');
+-- Ezras grâmata - 42
+INSERT INTO books VALUES (43, 17, 'Neh', 'Nee&mijus Grahmata');
+-- Esteres grâmata - 44
+-- Îjaba grâmata - 45
+INSERT INTO books VALUES (46, 17, 'Ps', 'Dahwida D§eeúmu Grahmata');
+INSERT INTO books VALUES (47, 17, 'Sak', 'Salamaòa Úakkamee Wahrdi');
+INSERT INTO books VALUES (48, 17, 'Mac', 'Tas Mahzitais Salamans');
+INSERT INTO books VALUES (49, 17, 'Dz', 'Salamaòa Aug§ta D§eeúma');
+INSERT INTO books VALUES (50, 17, 'Jes', 'Tas Praweets E§aijus');
+INSERT INTO books VALUES (51, 17, 'Jer', 'Tas Praweets Jeremijus');
+INSERT INTO books VALUES (52, 17, 'Rdz', 'Jeremijus Raudu=D§eeúmas');
+INSERT INTO books VALUES (53, 17, 'Ech', 'Tas Praweets Ezekie~ls');
+INSERT INTO books VALUES (54, 17, 'Dan', 'Tas Praweets Danijels');
+INSERT INTO books VALUES (55, 17, 'Hoz', 'Tas Praweets O§ejus');
+INSERT INTO books VALUES (56, 17, 'Jl', 'Tas Praweets Joels');
+INSERT INTO books VALUES (57, 17, 'Am', 'Tas Praweets Amos');
+INSERT INTO books VALUES (58, 17, 'Ob', 'Tas Praweets Obadijus');
+INSERT INTO books VALUES (59, 17, 'Jon', 'Tas Praweets Jonas');
+INSERT INTO books VALUES (60, 17, 'Mih', 'Tas Praweets Mikus');
+INSERT INTO books VALUES (61, 17, 'Nah', 'Tas Praweets Nakums');
+INSERT INTO books VALUES (62, 17, 'Hab', 'Tas Praweets Abakuks');
+INSERT INTO books VALUES (63, 17, 'Cef', 'Tas Praweets Zewanijus');
+INSERT INTO books VALUES (64, 17, 'Hag', 'Tas Praweets Aggajus');
+INSERT INTO books VALUES (65, 17, 'Zah', 'Tas Praweets Zakarijus');
+INSERT INTO books VALUES (66, 17, 'Mal', 'Tas Praweets Malakijus');
