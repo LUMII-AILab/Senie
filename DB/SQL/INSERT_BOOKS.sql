@@ -67,7 +67,7 @@ INSERT INTO books VALUES (63, 17, 'Cef', 'Tas Praweets Zewanijus');
 INSERT INTO books VALUES (64, 17, 'Hag', 'Tas Praweets Aggajus');
 INSERT INTO books VALUES (65, 17, 'Zah', 'Tas Praweets Zakarijus');
 INSERT INTO books VALUES (66, 17, 'Mal', 'Tas Praweets Malakijus');
-INSERT INTO books VALUES (67, 17, 'Jud', 'Juhdites Grahmata');
+INSERT INTO books VALUES (67, 17, 'Juh', 'Juhdites Grahmata');				-- FIXME: Jud => Juh
 INSERT INTO books VALUES (68, 17, 'Sal', 'Salamaòa Gudribas Grahmata');
 INSERT INTO books VALUES (69, 17, 'Tob', 'Tobijus Grahmata');				-- TODO
 --INSERT INTO books VALUES (70, 17, 'Sir', '');								-- TODO
