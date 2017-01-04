@@ -2,8 +2,8 @@ package corpus.senie.indexing;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
-import java.io.InputStreamReader;
 import java.io.IOException;
+import java.io.InputStreamReader;
 import java.util.regex.Matcher;
 
 
@@ -21,7 +21,7 @@ public class Contexter extends Recognizer {
 
 	/**
 	 * Inserts the given context of GNP position into SENIE database.
-	 * 
+	 *
 	 * @param src - reference to the context source.
 	 * @param book - reference to a book.
 	 * @param chap - number of chapter.
@@ -48,7 +48,7 @@ public class Contexter extends Recognizer {
 
 	/**
 	 * Inserts the given context of LR position into SENIE database.
-	 * 
+	 *
 	 * @param src - reference to the context source.
 	 * @param page - number of page.
 	 * @param row - number of row.
@@ -72,7 +72,7 @@ public class Contexter extends Recognizer {
 
 	/**
 	 * Inserts the given context of P position into SENIE database.
-	 * 
+	 *
 	 * @param src - reference to the context source.
 	 * @param verse - number of verse.
 	 * @param text - content of context.
@@ -97,7 +97,7 @@ public class Contexter extends Recognizer {
 
 	/**
 	 * Constructor.
-	 * 
+	 *
 	 * @param source codificator of source text, will be used as absolute file name for Contexter results.
 	 */
 	public Contexter(String source) throws IOException {
@@ -112,7 +112,7 @@ public class Contexter extends Recognizer {
 
 	/**
 	 * Connects to the SENIE database.
-	 * 
+	 *
 	 * @param path - path to the database.
 	 * @param user - user name.
 	 * @param passwd - user password.
@@ -124,7 +124,7 @@ public class Contexter extends Recognizer {
 
 	/**
 	 * Checks for the database connection state.
-	 * 
+	 *
 	 * @return true if connected, false otherwise.
 	 */
 	public boolean dbConnected() {
@@ -159,13 +159,13 @@ public class Contexter extends Recognizer {
 
 		while ((line = text.readLine()) != null) {
 			Matcher mVerse = getVerseExGNPPattern().matcher(line);
-			
+
 			if (!mVerse.matches()) {
 				// It's important to keep first two white spaces of line that represents beginning of verse
 				// to recognize it in further processing.
 				line = encodeNestedBraces(line.trim());
 			}
-			
+
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
 			Matcher mBook     = getBookPattern().matcher(line);
 			Matcher mChapter  = getChapterPattern().matcher(line);
@@ -174,15 +174,15 @@ public class Contexter extends Recognizer {
 			Matcher mPlain    = getPlainPattern().matcher(line);
 			Matcher mParallel = getParallelPattern().matcher(line);
 			Matcher mSource   = getSourcePattern().matcher(line);
-			
+
 			if (mAuthor.matches()) {
 				author = mAuthor.group(1);
 				authorID = db.getAuthor(author);
-				
+
 				if (authorID == -1) {
 					System.err.println("Author not found: {" + author + "}!");
 				}
-				
+
 				if (sourceID != -1) {
 					sourceID = db.getSource(authorID, source);
 				}
@@ -200,12 +200,12 @@ public class Contexter extends Recognizer {
 					// Inserts content of previous verse
 					insContext(sourceID, bookID, chapter, verse, content.toString());
 				}
-				
+
 				// Deletes previous context
 				content.setLength(0);
 				verse = -1;
-				
-				bookID = db.getBook(mBook.group(1));
+
+				bookID = db.getBook(mBook.group(1), sourceID);
 				if (bookID == -1) {
 					System.err.println("Book not found: {" + mBook.group(1) + "}!");
 				}
@@ -215,11 +215,11 @@ public class Contexter extends Recognizer {
 					// Inserts content of previous verse
 					insContext(sourceID, bookID, chapter, verse, content.toString());
 				}
-				
+
 				// Deletes previous context
 				content.setLength(0);
 				verse = -1;
-				
+
 				chapter = Integer.parseInt(mChapter.group(1));
 			}
 			else if (mVerse.matches()) {
@@ -228,14 +228,14 @@ public class Contexter extends Recognizer {
 
 				verse = Integer.parseInt(mVerse.group(1));
 				line = mVerse.group(2).trim();										// Extracts first line of verse
-				
+
 				if (!line.isEmpty()) {
 					line = marker.markupComment(line);
 					line = marker.markupLang(line);
 					line = marker.markupNote(line);
 					line = marker.markupManual(line);
 					line = marker.markupErrata(line);
-				
+
 					content.append(decodeNestedBraces(line) + "<br>");				// Adds first line to context
 				}
 			}
@@ -264,7 +264,7 @@ public class Contexter extends Recognizer {
 				log.append(Logger.DROPPED, decodeNestedBraces(line));
 			}
 		}
-		
+
 		// Inserts last verse
 		insContext(sourceID, bookID, chapter, verse, content.toString());
 	}
@@ -296,15 +296,15 @@ public class Contexter extends Recognizer {
 			if (mAuthor.matches()) {
 				author = mAuthor.group(1);
 				authorID = db.getAuthor(author);
-				
+
 				if (authorID == -1) System.err.println("Author not found: {" + author + "}!");
-				
+
 				if (sourceID != -1) sourceID = db.getSource(authorID, source); // Written by several authors
 			}
 			else if (mSource.matches()) {
 				source = mSource.group(1);
 				sourceID = db.getSource(authorID, source);
-				
+
 				if (sourceID == -1) System.err.println("Source not found: {" + author + "," + source + "}!");
 			}
 			else if (mPage.matches()) {
@@ -347,13 +347,13 @@ public class Contexter extends Recognizer {
 
 		while ((line = text.readLine()) != null) {
 			Matcher mVerse = getVerseExPPattern().matcher(line);
-			
+
 			if (!mVerse.matches()) {
 				// It's important to keep first two white spaces of line that represents beginning of verse
 				// to recognize it in further processing.
 				line = encodeNestedBraces(line.trim());
 			}
-			
+
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
 			Matcher mFoot     = getFooterPattern().matcher(line);
 			Matcher mMixed    = getMixedPattern().matcher(line);
@@ -364,15 +364,15 @@ public class Contexter extends Recognizer {
 			if (mAuthor.matches()) {
 				author = mAuthor.group(1);
 				authorID = db.getAuthor(author);
-				
+
 				if (authorID == -1) System.err.println("Author not found: {" + author + "}!");
-				
+
 				if (sourceID != -1) sourceID = db.getSource(authorID, source); // Written by several authors
 			}
 			else if (mSource.matches()) {
 				source = mSource.group(1);
 				sourceID = db.getSource(authorID, source);
-				
+
 				if (sourceID == -1) System.err.println("Source not found: {" + author + "," + source + "}!");
 			}
 			else if (mVerse.matches()) {
@@ -381,14 +381,14 @@ public class Contexter extends Recognizer {
 
 				verse = mVerse.group(1);								// Extracts number and
 				line = mVerse.group(3).trim();							// and first line of verse
-				
+
 				if (!line.isEmpty()) {
 					line = marker.markupComment(line);
 					line = marker.markupLang(line);
 					line = marker.markupNote(line);
 					line = marker.markupManual(line);
 					line = marker.markupErrata(line);
-					
+
 					content.append(decodeNestedBraces(line) + "<br>");	// Adds first line to context
 				}
 			}
@@ -417,7 +417,7 @@ public class Contexter extends Recognizer {
 				log.append(Logger.DROPPED, decodeNestedBraces(line));
 			}
 		}
-		
+
 		// Inserts last verse
 		insContext(sourceID, verse, content.toString());
 	}

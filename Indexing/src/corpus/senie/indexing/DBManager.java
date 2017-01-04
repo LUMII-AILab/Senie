@@ -102,7 +102,7 @@ public class DBManager extends Object {
 				"SELECT id FROM authors WHERE name=?;"
 			);
 			getBok = connection.prepareStatement(
-				"SELECT id FROM books WHERE codificator=?;"
+				"SELECT id FROM books WHERE codificator=? AND source=?;"
 			);
 			getCat = connection.prepareStatement(
 				"SELECT id FROM categories WHERE name=?;"
@@ -293,10 +293,11 @@ public class DBManager extends Object {
 	/**
 	 * Retrieves a reference to the given book.
 	 * @param code codificator of the book.
-	 * @return the matching reference,
+	 * @param src source ID.
+     * @return the matching reference,
 	 * or -1 if the book not found or in case of an error.
 	 */
-	public int getBook(String code) {
+	public int getBook(String code, int src) {
 		int result = -1;
 		if (code.length() > 15) {				//Constraint from
 			errParam(code);						//data object definition.
@@ -306,6 +307,7 @@ public class DBManager extends Object {
 		try {
 			getBok.clearParameters();
 			getBok.setBytes(1, code.getBytes("UTF-8"));
+			getBok.setInt(2, src);
 			ResultSet id = getBok.executeQuery();
 			if (id.next()) {
 				result = id.getInt("id");		//Reference to book.
@@ -757,7 +759,7 @@ public class DBManager extends Object {
 			insBok.setBytes(2, code.getBytes("UTF-8"));
 			insBok.setBytes(3, name.getBytes("UTF-8"));
 			insBok.executeUpdate();
-			result = getBook(code);				//Reference to book.
+			result = getBook(code, source);		//Reference to book.
 		}
 		catch (Exception e) {
 			result = -1;						//Error code.

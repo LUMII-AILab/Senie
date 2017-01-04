@@ -44,7 +44,7 @@
 				"SELECT name, facsimile FROM sources WHERE codificator = ?;"
 			);
 			PreparedStatement selBooks = con.prepareStatement(
-				"SELECT b.codificator, b.name FROM books AS b, sources AS s WHERE b.source = s.id AND s.codificator = ?;"
+				"SELECT b.codificator, b.name FROM books AS b, sources AS s WHERE b.source = s.id AND s.codificator = ? ORDER BY b.id;"
 			);
 
 			selSource.clearParameters();
