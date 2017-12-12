@@ -1,5 +1,5 @@
-5667
-32444
+5664
+32437
 1124	tho
 1091	vnde
 739	gir
@@ -553,7 +553,6 @@
 6	ya
 6	youtaye
 6	yow
-5	{}
 5	§chös
 5	§chur
 5	§eedes
@@ -1177,7 +1176,6 @@
 3	yuu§o
 3	yuußims
 3	zebedei
-2	{.}
 2	§chos
 2	§eedamme
 2	§eede
@@ -1368,6 +1366,7 @@
 2	dels
 2	deni§ke
 2	derram
+2	dewam{dawam}
 2	dheweet
 2	dhewet
 2	dheweth
@@ -1903,7 +1902,6 @@
 1	14
 1	22
 1	26
-1	{?}
 1	§ack
 1	§acko
 1	§adczys
@@ -2287,7 +2285,7 @@
 1	araber
 1	arabia
 1	areta
-1	arimathiais
+1	arimathias{arimathiais}
 1	arridtcczan
 1	arridtzan
 1	aßens
@@ -2428,6 +2426,7 @@
 1	ayttzenaye
 1	aytzenate
 1	b
+1	b{pär}
 1	ba§§une
 1	ba§nicekungam
 1	ba§nicekunges
@@ -2527,6 +2526,7 @@
 1	boußele
 1	boußla
 1	boußlam
+1	boußle{bouß le}
 1	boußlibes
 1	boußlims
 1	boußly§ch
@@ -2803,7 +2803,6 @@
 1	dauides
 1	däuwinge
 1	davids
-1	dawam
 1	dawanims
 1	dawanne
 1	dawedde
@@ -2826,7 +2825,6 @@
 1	derreth
 1	dewa
 1	dewa~
-1	dewam{dawam}
 1	dewebyataye
 1	dewige
 1	dewo
@@ -2856,6 +2854,7 @@
 1	döuwetais
 1	döuwi
 1	döuwingede§mettes
+1	döuwithe{döuwi the}
 1	döuwu§§che
 1	döuwü§§che
 1	döuwys
@@ -2946,6 +2945,7 @@
 1	e§zake
 1	ebreer
 1	ecke
+1	ededtczenaye{cze naye}
 1	edegge
 1	edene
 1	edhene
@@ -3177,8 +3177,8 @@
 1	gribbethe
 1	gribbye
 1	gribeye
-1	grim~e
 1	grim§tam
+1	grim~e
 1	gro§§ches
 1	gu§tye
 1	gu§tyth
@@ -3226,7 +3226,7 @@
 1	i§bytes
 1	i§cen
 1	i§cenne
-1	i§charioth
+1	i§charith
 1	i§czen~o
 1	i§czinna
 1	i§czite
@@ -3543,7 +3543,6 @@
 1	laywinge
 1	lazarum
 1	lazarumme
-1	le}
 1	le§me
 1	leckam
 1	lecke
@@ -3616,6 +3615,7 @@
 1	lou§t
 1	lou§ta
 1	lou§te{lou§tevnde}
+1	ïoudis
 1	loudys
 1	loulibes
 1	lounake
@@ -3660,8 +3660,6 @@
 1	lyxmo§es
 1	lyxmoyas
 1	lyxmoyeth
-1	ïoudis
-1	ma~s
 1	ma§§aka
 1	ma§§akims
 1	ma§§ako
@@ -3673,6 +3671,7 @@
 1	ma§gaya
 1	ma§gaye
 1	ma§za
+1	ma~s
 1	macekle
 1	mackßa
 1	mackßaas
@@ -3829,7 +3828,6 @@
 1	moutczeneka~
 1	moutczibe
 1	moutzybe
-1	mu~s
 1	mu§§a
 1	mu§§ams
 1	mu§§es
@@ -3837,6 +3835,7 @@
 1	mü§§ims
 1	mu§es
 1	mu§ige
+1	mu~s
 1	muerrones
 1	muerronims
 1	mür§
@@ -3908,7 +3907,6 @@
 1	natczys
 1	nawigams
 1	nawyge
-1	naye}
 1	nazaret
 1	ne§§adderre§chen
 1	ne§§et
@@ -4672,7 +4670,6 @@
 1	raxty
 1	raxtys
 1	raxtytz{rextytz}
-1	re}
 1	redßeetz
 1	redtczam
 1	redtczam{redtczan}
@@ -5231,7 +5228,6 @@
 1	thäß
 1	thäw
 1	the{tht}
-1	the}
 1	themß
 1	theophile
 1	thewims
@@ -5399,6 +5395,7 @@
 1	wackar
 1	wackaran
 1	wackare
+1	wackarre{wackar re}
 1	wackars
 1	wackere
 1	wackerre
