@@ -41,10 +41,18 @@ END
 
 	while (my $line = <$in>)
 	{
-		for my $target (keys %table)
+		# Some lines contain fields to be ignored.
+		# Author | Book | Chapter | Empty | Page | Source
+		unless ($line =~
+			/^\s*(\@a\{.*\}|\@g\{\w+\}|\@n\{\d+\}|\@x\{\s*\}|\[[\-\w\{\}]+\.lpp\.\]|\@z\{\w+\})\s*$/)
 		{
-			$line =~ s/\Q$target\E/$table{$target}/g;
+			for my $target (keys %table)
+			{
+				# Do not replace in "\@[a-z]{" fragments
+				$line =~ s/(?<!\@)\Q$target\E|\Q$target\E(?!\{)/$table{$target}/g;
+			}
 		}
+
 		print $out $line;
 	}
 
