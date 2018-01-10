@@ -36,8 +36,9 @@ END
 	my $in = IO::File->new("$dirName/$fileName.txt", "< :encoding(cp1257)")
 		or die "Could not open file $dirName/$fileName.txt: $!";
 	mkdir "$dirName/res/";
-	my $out = IO::File->new("$dirName/res/${fileName}_Unicode.txt", "> :encoding(UTF-8)")
-		or die "Could not open file $dirName/res/${fileName}_Unicode.txt: $!";
+	mkdir "$dirName/res/${fileName}/";
+	my $out = IO::File->new("$dirName/res/${fileName}/${fileName}_Unicode.txt", "> :encoding(UTF-8)")
+		or die "Could not open file $dirName/res/${fileName}/${fileName}_Unicode.txt: $!";
 
 	while (my $line = <$in>)
 	{
