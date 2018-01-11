@@ -108,6 +108,7 @@ our $ST = {
 		'uo' => "\x{016F}", # TODO?
 		'tz' => "\x{A729}", # TODO?
 	},
+	'Laz1557_PN' => {},		# No special symbols in this file.
 	'LGL1685_K1' => {
 		#TODO
 		'§'  => "\x{017F}",
@@ -161,12 +162,37 @@ our $ST = {
 	'LS1625' => {
 		'§'  => "\x{017F}",
 	},
+	'Manc1631_Cat' => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'a`' => "\x{00E0}",
+		'n~' => "\x{00F1}",
+		'Ś' => "\x{A7A8}",
+		'm~' => "m\x{0303}", # TODO combined char?
+
+	},
+	'Manc1631_Syr' => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'a`' => "\x{00E0}",
+		'n~' => "\x{00F1}",
+		'Ś' => "\x{A7A8}",
+		'm~' => "m\x{0303}", # TODO combined char?
+	},
 	'Manc1638_PhL' => {
 		'§'  => "\x{017F}",
 		'ś'  => "\x{1E9C}",
 		'a`' => "\x{00E0}",
 		'n~' => "\x{00F1}",
 		'Ś' => "\x{A7A8}",
+	},
+	'Manc1638_Run' => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'a`' => "\x{00E0}",
+		'n~' => "\x{00F1}",
+		'Ś' => "\x{A7A8}",
+		'm~' => "m\x{0303}", # TODO combined char?
 	},
 	'Manc1654_LP2' => {
 		'§'  => "\x{017F}",
@@ -179,6 +205,13 @@ our $ST = {
 		'a#' => "\x{00E4}",
 		'u~' => "\x{0169}",
 		'e#' => "\x{00EB}",
+	},
+	'Meg1593_PN' => {
+		'§'  => "\x{017F}",			#NB: note the interfering rules
+		'u~' => "\x{0169}",
+		'e~' => "\x{1EBD}",
+		'§t' => "\x{FB05}",			#NB: note the interfering rules
+		"\x{017F}t" => "\x{FB05}",	#NB: note the interfering rules
 	},
 	'Ps1615' => {
 		'§'  => "\x{017F}",
@@ -252,6 +285,10 @@ our $ST = {
 		'a`' => "\x{00E0}",
 		'i^' => "\x{00EE}",
 		'Ś' => "\x{A7A8}",
+	},
+	'Thev1575_PN' => {
+		'§'  => "\x{017F}",
+		'ß'  => "\x{00DF}",		#TODO why 00FD->00FD
 	},
 	'TII1790' => {
 		'§'  => "\x{017F}",
