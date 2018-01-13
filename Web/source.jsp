@@ -66,7 +66,7 @@
 			String demopath = getServletContext().getRealPath("/") + File.separator + "static" + File.separator;
 			File demofile = null;
 		%>
-		<!------------------------------------------------------------------------------>
+		<!-- --------------------------------------------------------------------------->
 
 		<tr height="30px">
 			<td colspan="2" bgcolor="#669933">
@@ -119,12 +119,20 @@
 						<a href="./downloads/<%= param_codif %>_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 
-					<% if (!param_fax.equals("")) { %>
-					<!-- FIXME: add #<book_codif>
+					<% if (!param_fax.equals("") && param_fax.startsWith("http")) { // FIXME: add #<book_codif %>
 					<li>
 						<span class="code"><a href="<%= param_fax %>" target="_new">oriģināla faksimils</a></span>
 					</li>
-					-->
+					<% } %>
+
+					<%
+						String utf8_path = getServletContext().getRealPath("/") + File.separator + "unicode" + File.separator;
+						File utf8_file = new File(utf8_path + param_codif + ".html");
+						if (utf8_file.exists()) {
+					%>
+					<li>
+						<span class="code"><a href="./unicode/<%=param_codif%>.html">Unicode</a></span>
+					</li>
 					<% } %>
 
 				</ul>
