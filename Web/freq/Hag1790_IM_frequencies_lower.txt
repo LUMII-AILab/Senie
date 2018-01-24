@@ -214,6 +214,7 @@
 2	mums
 2	muttes
 2	nahwi
+2	òehmuúchi
 2	nelaimigeem
 2	nelaimigs
 2	nelaimigu
@@ -221,7 +222,6 @@
 2	noúalluúchus
 2	noteek
 2	notikt
-2	òehmuúchi
 2	padohmi
 2	padohms
 2	pahr
@@ -442,12 +442,12 @@
 1	es
 1	eúúam
 1	ettika=twaikeem
+1	ettiía=twaiks
 1	ettika=twaiku
 1	ettiki
 1	ettiki^
 1	ettikis
 1	ettiku=twaiks
-1	ettiía=twaiks
 1	gah§chahs
 1	galwu
 1	garraiòu
@@ -462,8 +462,8 @@
 1	gree§t
 1	gruhtahm
 1	gruhtums
-1	gullejuúchi
 1	guïï
+1	gullejuúchi
 1	i§taba^
 1	ih§teni
 1	ihúa
@@ -484,6 +484,7 @@
 1	isúargata
 1	iswilkts
 1	iswilzis
+1	ja§pee§ch
 1	ja=ap§lappina
 1	ja=apberr
 1	ja=atraiúa
@@ -508,7 +509,6 @@
 1	ja=taiúa
 1	ja=turr
 1	ja=zeeúch
-1	ja§pee§ch
 1	jaber§e
 1	jabruhke
 1	jadarra
@@ -568,6 +568,7 @@
 1	labs
 1	laúúa
 1	latweeúcheem
+1	ïaudis
 1	leekhas
 1	leela
 1	leelaks
@@ -587,7 +588,6 @@
 1	lohzeklu
 1	lohzeklus
 1	luhkoht
-1	ïaudis
 1	ma§
 1	mahdiht
 1	mahja^s
@@ -632,6 +632,7 @@
 1	nelaimiga
 1	nelauúchu
 1	nelle
+1	òemm
 1	neweúúelam
 1	neweúúeli
 1	neweúúels
@@ -654,7 +655,6 @@
 1	notikkuma^
 1	notikkumeem
 1	notirpumu
-1	òemm
 1	ohlu
 1	ohtra
 1	ohtra^
@@ -902,10 +902,10 @@
 1	wihna=ettiki
 1	willanes=auteem
 1	willanes=auto^s
-1	winnu
 1	wiò§ch
 1	wiòòam{winòam}
 1	wiòòam{wiòòòam}
+1	winnu
 1	wirúu
 1	wirúus
 1	wis=dahrgakeem

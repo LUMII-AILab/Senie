@@ -39,3 +39,4 @@ INSERT INTO authors VALUES (36, 'Johans Birgers');
 INSERT INTO authors VALUES (37, 'Melhiors Foss');
 INSERT INTO authors VALUES (38, 'Andreass Baumans');
 INSERT INTO authors VALUES (39, 'Andrç Tevç');
+INSERT INTO authors VALUES (40, 'Sila zemnieks Anðs');

@@ -81,16 +81,6 @@
 2	warr
 2	wehzinaht
 2	wilk=ahboïi
-1	=ba
-1	=kohzoris
-1	=liòòa
-1	=nis
-1	=niúki
-1	=satees
-1	=tauteeúchi
-1	=tes
-1	=zenes
-1	=zohzoris
 1	a3
 1	aaron
 1	aäroniteri
@@ -117,6 +107,8 @@
 1	add
 1	addama
 1	addat=bundulis
+1	addat=kohzoris{=kohzoris}
+1	addat=zohzoris{=zohzoris}
 1	addatas=
 1	addatiòòa
 1	addatmanne
@@ -130,12 +122,13 @@
 1	ahbeles
 1	ahbolaiòúch
 1	ahbolajs
+1	ahboïeem
 1	ahboles=sahle
+1	ahboïi=tauteeúchi{=tauteeúchi}
+1	ahboïi=tautweeúchi
 1	ahboliòò~e
 1	ahboliòòu
 1	ahboliòsch
-1	ahboïeem
-1	ahboïi=tautweeúchi
 1	ahboïu
 1	ahboïu=dahrús
 1	ahboïu=dsehrens
@@ -151,9 +144,9 @@
 1	ahdminnikis
 1	ahdmins
 1	ahksts
+1	ahïa
 1	ahlawa
 1	ahlotees
-1	ahïa
 1	ahpúcha
 1	ahrdi
 1	ahrtaws
@@ -253,7 +246,7 @@
 1	baschitees
 1	baukúchkeht
 1	bause
-1	bebbera=
+1	bebbera=ahda{bebbera=}
 1	beddeht
 1	beerizze
 1	behreis
@@ -313,7 +306,6 @@
 1	burbulis
 1	burde
 1	burta
-1	c
 1	dabba
 1	dagga
 1	daggute
@@ -361,6 +353,7 @@
 1	dribbinaht
 1	driúchkeht
 1	drohstela
+1	drohsteliòòa{=liòòa}
 1	druhsma
 1	dseedseris
 1	dsehse
@@ -372,8 +365,8 @@
 1	dselwe
 1	dsemis
 1	dúenaukúchis
-1	dsennulis
 1	dsennuïeem
+1	dsennulis
 1	dserrokúlis
 1	dsert
 1	dsihdinaht
@@ -432,6 +425,7 @@
 1	ehrze
 1	ehst
 1	eideneeks
+1	eideniúki{=niúki}
 1	eiduks
 1	elst
 1	emmeklis
@@ -451,6 +445,8 @@
 1	gaura
 1	gauri
 1	geeda
+1	ìehreht
+1	ìehrmannis
 1	geiba
 1	geide
 1	gillohtas
@@ -478,6 +474,7 @@
 1	gohritees
 1	gohrnis
 1	gohsaht
+1	gohsates{=sates}
 1	grabba
 1	grabbeht
 1	granatu=ahbols
@@ -507,6 +504,7 @@
 1	gulditees
 1	guldsitees
 1	gulgaht
+1	gumba{=ba}
 1	gumbis
 1	gumdaht
 1	gumsiht
@@ -515,8 +513,6 @@
 1	gurksta
 1	gurohtees
 1	guschs
-1	ìehreht
-1	ìehrmannis
 1	iddra
 1	ihdsinaht
 1	ihgneht
@@ -609,8 +605,8 @@
 1	kekkata
 1	keks
 1	kelwainis
-1	kenseke
 1	keòkis
+1	kenseke
 1	keppals
 1	keúúa
 1	kiddaht
@@ -630,6 +626,7 @@
 1	klaidiht
 1	klaijans
 1	klaustitees
+1	kïautees
 1	klaweht
 1	klehwa
 1	klidsinaht
@@ -642,13 +639,12 @@
 1	kluhdiht
 1	kluinis
 1	kluppinaht
-1	kïautees
 1	kniddeht
 1	kniúchi
+1	kòositees
 1	knuhst
 1	knuhts
 1	knutte
-1	kòositees
 1	kohku
 1	kohpsch
 1	kohs=azz
@@ -656,6 +652,7 @@
 1	kohúch
 1	kohúi
 1	kohzoris
+1	íohzoris
 1	koúa
 1	koskaòi
 1	krahpaht
@@ -696,6 +693,7 @@
 1	kuideht
 1	kuigas
 1	kuiúchli
+1	kuizenes{=zenes}
 1	kuizes
 1	kukkuri
 1	kukuris
@@ -715,7 +713,7 @@
 1	kwehrzinaht
 1	kwelksteht
 1	kwensteht
-1	íohzoris
+1	l{lexicon}
 1	labbeht
 1	labbi
 1	labbitees
@@ -735,7 +733,7 @@
 1	lakta
 1	lakts
 1	lammata
-1	lapsas=
+1	lapsas=ahda{lapsas=}
 1	lapsenes
 1	lasmiòòis
 1	laukam
@@ -781,7 +779,7 @@
 1	luhgschnas
 1	luhgúchu
 1	luhkis
-1	luhúas=
+1	luhúas=ahda{luhúas=}
 1	luhúni
 1	lukste
 1	lukstiòsch
@@ -874,6 +872,7 @@
 1	nehse
 1	nekrehts
 1	nelga
+1	òemsteleht
 1	nereetes
 1	nerihúch
 1	neúúe
@@ -881,6 +880,7 @@
 1	newegïis
 1	newiïïu
 1	nihtas
+1	nihtes{=tes}
 1	nikúchkis
 1	nobarra
 1	nodihreht
@@ -900,7 +900,6 @@
 1	nowads
 1	nuhdeht
 1	nuschdas=laiks
-1	òemsteleht
 1	o
 1	ohdga
 1	ohgsta
@@ -929,9 +928,9 @@
 1	pahrmuzzi
 1	paiúeklis
 1	paiúiht
+1	paíelle
 1	paklabbiòòus
 1	pakums
-1	paíelle
 1	palaunagis
 1	paleeks
 1	palihds
@@ -1101,26 +1100,26 @@
 1	úagrumbis
 1	úahdinaht
 1	úahdschus
-1	úahno^s
 1	úahòi
+1	úahno^s
 1	saime
 1	úaiwa
 1	úakahrni
+1	saíía
 1	úakkas
 1	úakstiht
 1	úakumpis
 1	úakumts
-1	saíía
 1	salags
 1	úalga
 1	úalgans
 1	úalkans
 1	úallinaht
+1	saïïoja
 1	úalnaiòsch
 1	salohgs
 1	salúcha=ahda
 1	salúcheem
-1	saïïoja
 1	úameeúchi
 1	úamischìetees
 1	sankis
@@ -1166,10 +1165,10 @@
 1	úchkeeds
 1	úchkeemeòòi
 1	úchkeene
-1	schkihbs=mehnes
-1	schkihnajs
 1	úchíehlis
 1	úchíettatees
+1	schkihbs=mehnes
+1	schkihnajs
 1	schlaupiò
 1	schlukúchkaht
 1	schlupschkis
@@ -1202,8 +1201,8 @@
 1	úeergs
 1	úeetals
 1	úeetawa
-1	úegli
 1	seììenes
+1	úegli
 1	úehklanize
 1	úehmala
 1	sehra
@@ -1366,7 +1365,7 @@
 1	sumbra=rags
 1	summinatees
 1	úumpuris
-1	úuòòa=
+1	úuòòa=ahda{úuòòa=}
 1	surbt
 1	úutta
 1	úuttrajnis
@@ -1425,6 +1424,7 @@
 1	trimda
 1	trohps
 1	tronnes
+1	trukúnis{=nis}
 1	trukúnitis
 1	truúche
 1	truúlis
@@ -1528,7 +1528,7 @@
 1	wihstitees
 1	wilk=ahbele
 1	wilk=drihzekle
-1	wilka=
+1	wilka=ahda{wilka=}
 1	wilkt
 1	willu
 1	wilna
@@ -1547,7 +1547,7 @@
 1	wistees
 1	wizzinaht
 1	zaukstauris
-1	zauna=
+1	zauna=ahda{zauna=}
 1	zaur
 1	zeekuris
 1	zeets
@@ -1579,7 +1579,7 @@
 1	zschohzoris
 1	zschukkuris
 1	zschuúchklas
-1	zuhkas=
+1	zuhkas=ahda{zuhkas=}
 1	zuhkslas
 1	zuhtsche
 1	zuhzenes

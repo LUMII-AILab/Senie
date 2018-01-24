@@ -77,3 +77,4 @@ INSERT INTO sources VALUES (74, 'Baum1699_LVV', 'Labbajs wehleśchanas Wahrds', 
 INSERT INTO sources VALUES (75, 'Thev1575_PN', 'Tevē tēvreize', 1, 3, '', '1', 'LR');
 INSERT INTO sources VALUES (76, 'Witt1702_PAN', 'Ta paneśama Auna=Na§ta apdohmata', 2, 1, '', '1', 'LR');
 INSERT INTO sources VALUES (77, 'SLM1648', 'Lotawicae', 2, 1, '', '1', 'LR');
+INSERT INTO sources VALUES (78, 'V1771_SZA', 'Sila zemnieka Anša vēstule mācītājam Loderam', 2, 2, '', '1', 'LR');
