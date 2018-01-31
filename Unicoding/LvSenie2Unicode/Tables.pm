@@ -709,8 +709,7 @@ our $ST = {
 		'n~' => "\x{00F1}",
 	},
 
-	#### TODO VD1689_94
-
+	#### Sākas VD1689_94
 	'1Ken' => {
 		'§'  => "\x{017F}",
 		'ś'  => "\x{1E9C}",
@@ -925,6 +924,9 @@ our $ST = {
 		'o&' => "\x{022F}",
 		'i#' => 'i',
 	},
+
+	#### TODO vēl daļas.
+	#### Beidzas VD1689_94
 };
 
 sub substTable

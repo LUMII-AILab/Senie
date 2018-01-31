@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ab05d862-9bff-4d76-8e78-54ff3928c69a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../Sources/VD1689_94/1Ken/1Ken_Unicode.txt" afterPath="$PROJECT_DIR$/../Sources/VD1689_94/1Ken/1Ken_Unicode.txt" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/LvSenie2Unicode/Tables.pm" afterPath="$PROJECT_DIR$/LvSenie2Unicode/Tables.pm" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -16,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Transformator.pm" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Transformator.pm" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LvSenie2Unicode/Transformator.pm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
+            <state relative-caret-position="342">
+              <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
               <folding>
                 <element signature="e#76#88#0#Perl5" expanded="true" />
               </folding>
@@ -28,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tables.pm" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Tables.pm" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LvSenie2Unicode/Tables.pm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="711" column="23" lean-forward="false" selection-start-line="711" selection-start-column="14" selection-end-line="711" selection-end-column="23" />
+            <state relative-caret-position="392">
+              <caret line="926" column="0" lean-forward="false" selection-start-line="926" selection-start-column="0" selection-end-line="926" selection-end-column="0" />
               <folding>
                 <element signature="e#176#268#0#Perl5" expanded="false" />
                 <element signature="e#286#358#0#Perl5" expanded="false" />
@@ -122,6 +120,7 @@
       <find>u\'</find>
       <find>00E1</find>
       <find>rule</find>
+      <find>ņ</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,8 +134,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LvSenie2Unicode/Transformator.pm" />
         <option value="$PROJECT_DIR$/LvSenie2Unicode/Tables.pm" />
+        <option value="$PROJECT_DIR$/LvSenie2Unicode/Transformator.pm" />
       </list>
     </option>
   </component>
@@ -1077,20 +1076,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LvSenie2Unicode/Transformator.pm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="40" column="61" lean-forward="false" selection-start-line="40" selection-start-column="61" selection-end-line="40" selection-end-column="61" />
-          <folding>
-            <element signature="e#76#88#0#Perl5" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LvSenie2Unicode/Tables.pm">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="711" column="23" lean-forward="false" selection-start-line="711" selection-start-column="14" selection-end-line="711" selection-end-column="23" />
+        <state relative-caret-position="392">
+          <caret line="926" column="0" lean-forward="false" selection-start-line="926" selection-start-column="0" selection-end-line="926" selection-end-column="0" />
           <folding>
             <element signature="e#176#268#0#Perl5" expanded="false" />
             <element signature="e#286#358#0#Perl5" expanded="false" />
@@ -1156,6 +1145,16 @@
             <element signature="e#18085#18419#0#Perl5" expanded="false" />
             <element signature="e#18432#18877#0#Perl5" expanded="false" />
             <element signature="e#18890#19334#0#Perl5" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LvSenie2Unicode/Transformator.pm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="38" column="38" lean-forward="false" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+          <folding>
+            <element signature="e#76#88#0#Perl5" expanded="true" />
           </folding>
         </state>
       </provider>

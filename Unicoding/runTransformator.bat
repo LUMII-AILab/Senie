@@ -3,5 +3,7 @@
 
 :: Run for a folder like this.
 perl -e "use LvSenie2Unicode::Transformator qw(transformDir); transformDir(@ARGV)" data
+perl -e "use LvSenie2Unicode::Transformator qw(transformDir); transformDir(@ARGV)" data-VD
+perl -e "use LvSenie2Unicode::Transformator qw(transformDir); transformDir(@ARGV)" data-JT
 
 pause
