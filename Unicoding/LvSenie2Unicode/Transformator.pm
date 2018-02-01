@@ -4,7 +4,7 @@ use utf8;
 use warnings;
 use IO::Dir;
 use IO::File;
-use LvSenie2Unicode::Tables qw(substTable);
+use LvSenie2Unicode::Tables qw(substTable hasTable);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -30,8 +30,8 @@ END
 	}
 	my $dirName = shift @_;
 	my $fileName = shift @_;
+	die "No table found for file $fileName" unless (hasTable($fileName));
 	my %table = %{substTable($fileName)};
-	die "No table found for file $fileName!" unless (%table);
 	#my $in = IO::File->new("$dirName/$fileName.txt", "< :encoding(UTF-8)")
 	my $in = IO::File->new("$dirName/$fileName.txt", "< :encoding(cp1257)")
 		or die "Could not open file $dirName/$fileName.txt: $!";
@@ -91,6 +91,7 @@ END
 			eval
 			{
 				local $SIG{__WARN__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval count warnings.
+				local $SIG{__DIE__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval warn on die and count it as problem.
 				transformFile($dirName, $nameStub);
 			};
 			$baddies = $baddies + $isBad;
