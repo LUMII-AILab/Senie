@@ -47,11 +47,17 @@ END
 		unless ($line =~
 			/^\s*(\@a\{.*\}|\@g\{\w+\}|\@n\{\d+\}|\@x\{\s*\}|\[[\-\w\{\}]+\.lpp\.\]|\@z\{\w+\})\s*$/)
 		{
-			for my $target (keys %table)
+			my $lineInBegin = $line;
+			do
 			{
-				# Do not replace in "\@[a-z]{" fragments
-				$line =~ s/(?<!\@)\Q$target\E|\Q$target\E(?!\{)/$table{$target}/g;
-			}
+				$lineInBegin = $line;
+				for my $target (keys %table)
+				{
+					# Do not replace in "\@[a-z]{" fragments
+					$line =~ s/(?<!\@)\Q$target\E|\Q$target\E(?!\{)/$table{$target}/g;
+				}
+			} while ($lineInBegin ne $line);
+
 		}
 
 		print $out $line;

@@ -674,9 +674,9 @@ our $ST = {
 		'n~' => "\x{00F1}",			#NB: note the interfering rules
 		'en~' => "\x{1EBD}",		#NB: note the interfering rules
 		"e\x{00F1}" => "\x{1EBD}",	#NB: note the interfering rules
+		'a~' => "\x{00E3}",			#NB: note the interfering rules
 		'an~' => "\x{00E3}",		#NB: note the interfering rules
 		"a\x{00F1}" => "\x{00E3}",	#NB: note the interfering rules
-		'a~' => "\x{00E3}",			#NB: note the interfering rules
 	},
 	'V1771_SZA' => {
 		'a^' => "\x{00E2}",
