@@ -13,7 +13,7 @@ our @EXPORT_OK = qw(collect);
 sub collect
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ < 1)
+	if (@_ > 1)
 	{
 		print <<END;
 Script for collecting certain type of files from ../Sources to data, data-VD and
@@ -54,7 +54,8 @@ sub collectSingleLevel
 	{
 		next if $subDirName =~ /^\.\.?|JT1685|VD1689_94$/;
 		my $subDir = IO::Dir->new("$inDirName/$subDirName") or die "Folder $inDirName/$subDirName is not available: $!";
-		my $fileName = "${subDirName}_$infix.txt";
+		my $fileName = "${subDirName}.txt";
+		$fileName = "${subDirName}_$infix.txt" if (length $infix);
 		copy("$inDirName/$subDirName/$fileName", "$outDirName/$fileName") if (-e "$inDirName/$subDirName/$fileName");
 		$subDir->close;
 	}

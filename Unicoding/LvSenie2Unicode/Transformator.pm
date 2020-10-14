@@ -70,7 +70,7 @@ END
 sub transformDir
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ < 1)
+	if (not @_ or @_ != 1)
 	{
 		print <<END;
 Script for transforming SENIE sources to Unicode. Source must be provided in
