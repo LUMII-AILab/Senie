@@ -1,4 +1,4 @@
-package LvSenie2Unicode::Dehyphenator;
+package LvSenieUtils::Dehyphenator;
 use strict;
 use utf8;
 use warnings;
