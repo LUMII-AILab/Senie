@@ -8,7 +8,7 @@ use File::Copy;
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(collect);
+our @EXPORT_OK = qw(collect collectSingleLevel);
 
 sub collect
 {
