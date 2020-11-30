@@ -41,8 +41,15 @@ END
 		or die "Could not open file $dirName/res/$corpusId/${fileNameStub}_unhyphened.txt: $!";
 
 	my $prevLine = 0;
+	my $checkBom = 1;
 	while (my $line = <$in>)
 	{
+		if ($checkBom)
+		{
+			$line =~ s/^\N{BOM}?(.*)$/$1/;
+			$checkBom = 0;
+		}
+
 		# Some lines contain fields to be ignored.
 		# Author | Book | Chapter | Empty | Page | Source
 		if ($line =~
