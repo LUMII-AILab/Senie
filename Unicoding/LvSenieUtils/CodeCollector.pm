@@ -4,7 +4,6 @@ use utf8;
 use warnings;
 use IO::Dir;
 use IO::File;
-use File::Copy;
 
 use Exporter();
 our @ISA = qw(Exporter);
