@@ -99,9 +99,14 @@ END
 	my ($inPara, $inPage) = (0, 0);
 	while (my $line = <$in>)
 	{
-		if ($line =~ /^\s*\[(.*?)\.lpp\.\]\s*$/)	# start of a new page
+		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)	# start of a new page
 		{
-			my $pageNo = $1;
+
+			my $corrPageNo = $1;
+			my $fullBookPageNo = $2;
+			my $bookPageNo = $3;
+			$bookPageNo = $corrPageNo unless($fullBookPageNo);
+			#print "$line $corrPageNo, $fullBookPageNo, $bookPageNo @ $sourceId\n" if ($line =~ /[{}]/);
 			if ($inPara)
 			{
 				print $out "</para>\n";
@@ -112,7 +117,7 @@ END
 				print $out "</page>\n";
 				$inPage = 0;
 			}
-			print $out "<page no=\"$pageNo\">\n";
+			print $out "<page correctedNo=\"$corrPageNo\" sourceNo=\"$bookPageNo\">\n";
 			$inPage = 1;
 		}
 		elsif ($line =~ /^\s*$/)	# empty line - paragraph border
@@ -145,6 +150,8 @@ END
 
 				for my $token (@{&tokenize($linePart)})
 				{
+					print $out "<g/>\n" unless ($token =~ /^\s+(.*)$/);
+					$token =~ s/^\p{Z}*(.*)$/$1/;
 					print $out join "\t", @{&splitCorrection($token)};
 					print $out "\n";
 				}
@@ -174,7 +181,7 @@ sub tokenize
 {
 	my $line = shift @_;
 	$line =~ s/^\s*(.*?)\s*$/$1/;
-	my @result = split /\p{Z}|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}])|(?<=[.,?!\(])(?=[\p{L}\p{N}])/, $line;
+	my @result = split /(?=\p{Z}+)|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}])|(?<=[.,?!\(])(?=[\p{L}\p{N}])/, $line;
 	return \@result;
 }
 
