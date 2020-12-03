@@ -16,8 +16,8 @@ sub collect
 	if (@_ > 1)
 	{
 		print <<END;
-Script for collecting certain type of files from ../Sources to data, data-VD and
-data-JT
+Script for collecting certain type of files from ../Sources to data, data-VD,
+data-JT and data-Apokr. Files named pub_ord.txt are ignored.
 
 Params:
    source data infix, e.g, Unicode, Unicode_unhyphened or nothing
@@ -31,6 +31,7 @@ END
 	mkdir('data');
 	mkdir('data-VD');
 	mkdir('data-JT');
+	mkdir('data-Apokr');
 
 	eval
 	{
@@ -38,6 +39,7 @@ END
 		&collectSingleLevel('../Sources', 'data', $infix);
 		&collectSingleLevel('../Sources/VD1689_94', 'data-VD', $infix);
 		&collectSingleLevel('../Sources/JT1685', 'data-JT', $infix);
+		&collectSingleLevel('../Sources/Apokr1689', 'data-Apokr', $infix);
 	};
 
 }
@@ -52,7 +54,7 @@ sub collectSingleLevel
 
 	while (defined(my $subDirName = $sourcesDir->read))
 	{
-		next if $subDirName =~ /^\.\.?|JT1685|VD1689_94$/;
+		next if $subDirName =~ /^\.\.?|Apokr1689|JT1685|VD1689_94|pub_ord.txt$/;
 		my $subDir = IO::Dir->new("$inDirName/$subDirName") or die "Folder $inDirName/$subDirName is not available: $!";
 		my $fileName = "${subDirName}.txt";
 		$fileName = "${subDirName}_$infix.txt" if (length $infix);
