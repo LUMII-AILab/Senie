@@ -4,6 +4,7 @@
 :: Run for a folder like this.
 perl -e "use LvSenieUtils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data Unicode
 perl -e "use LvSenieUtils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD Unicode
-::perl -e "use LvSenieUtils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-JT Unicode
+perl -e "use LvSenieUtils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-JT Unicode
+perl -e "use LvSenieUtils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-Apokr Unicode
 
 pause
