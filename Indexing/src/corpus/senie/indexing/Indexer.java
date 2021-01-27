@@ -7,14 +7,9 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
-import java.util.Set;
-import java.util.StringTokenizer;
-import java.util.TreeMap;
-import java.util.TreeSet;
+import java.util.*;
 import java.util.regex.Matcher;
+import java.util.stream.Collectors;
 
 
 /**
@@ -820,12 +815,21 @@ public class Indexer extends Recognizer {
 		writer.write("Vārdformu skaits:\t" + countWF() + "\r\n");
 		writer.write("Vārdlietojumu skaits:\t" + countRW() + "\r\n\r\n\r\n");
 
+		TreeMap<String, Integer> cumulInd = new TreeMap<>();
 		for (String word : index.keySet()) {
 			int count = 0;
 			for (PosStructure pos : index.get(word)) count += pos.getCount();
-			writer.write(count + "\t" + word + "\r\n");
+			cumulInd.put(word, count);
+			//writer.write(count + "\t" + word + "\r\n");
 		}
-
+		List<String> sortedKeys = cumulInd.keySet().stream()
+				.sorted((s1, s2) ->
+						cumulInd.getOrDefault(s2,0).compareTo(cumulInd.getOrDefault(s1, 0)))
+				.collect(Collectors.toList());
+		for (String word : sortedKeys)
+		{
+			writer.write(cumulInd.get(word) + "\t" + word + "\r\n");
+		}
 		writer.flush();
 		writer.close();
 	}
