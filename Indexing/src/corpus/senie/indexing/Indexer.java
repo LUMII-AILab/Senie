@@ -855,7 +855,7 @@ public class Indexer extends Recognizer {
 		writer.write("Vārdformu skaits: <b>"+countWF()+"</b>\n");
 		writer.write("Vārdlietojumu skaits: <b>"+countRW()+"</b>\n\n\n");
 
-		for (String word : index.keySet()) {
+		for (String word : sortNumbersAfterWords(index.keySet())) {
 			writer.write("<b>" + word + "</b>\n");
 
 			int count = 0;
@@ -903,7 +903,7 @@ public class Indexer extends Recognizer {
 		writer.write("Vārdformu skaits:\t" + countWF() + "\r\n");
 		writer.write("Vārdlietojumu skaits:\t" + countRW() + "\r\n\r\n\r\n");
 
-		for (String word : index.keySet()) {
+		for (String word : sortNumbersAfterWords(index.keySet())) {
 			writer.write(word + "\r\n\r\n");
 
 			int count = 0;
@@ -935,7 +935,7 @@ public class Indexer extends Recognizer {
 		writer.write("<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1257\">\n");
 		writer.write("</head>\n<body>\n");
 
-		for (String word : index.keySet()) {
+		for (String word : sortNumbersAfterWords(index.keySet())) {
 			writer.write("<b>" + word + "</b> - ");
 
 			for (PosStructure pos : index.get(word)) {
@@ -1101,6 +1101,34 @@ public class Indexer extends Recognizer {
 		writer_new.close();
 	}
 
+	/**
+	 * Takes keyset and moves words starting with number to the end.
+	 * @param indexKeySet	set to sort
+	 * @return	almost naturaly sorted set, but words starting with numbers moved
+	 * 			to the end of the list.
+	 */
+	protected List<String> sortNumbersAfterWords(Collection<String> indexKeySet) {
+		return indexKeySet.stream()
+				.sorted((s1, s2) -> {
+					for (int i = 0; i < Math.min(s1.length(), s2.length()); i++) {
+						if (s1.charAt(i) ==  s2.charAt(i)) continue;
+						if (!s1.substring(i).matches("^\\d.*") && s2.substring(i).matches("^\\d.*"))
+							return -1;
+						if (s1.substring(i).matches("^\\d.*") && !s2.substring(i).matches("^\\d.*"))
+							return 1;
+						return s1.compareTo(s2);
+					}
+					return s1.compareTo(s2);
+				})
+				.collect(Collectors.toList());
+
+		/*return indexKeySet.stream()
+				.sorted((s1, s2) -> {
+					if (s1.matches("^\\d.*") && !s2.matches("^\\d.*")) return 1;
+					else if (!s1.matches("^\\d.*") && s2.matches("^\\d.*")) return -1;
+					else return s1.compareTo(s2);})
+				.collect(Collectors.toList()); //*/
+	}
 
 	/**
 	 * Ends indexing process: closes connection with SENIE database,
