@@ -15,8 +15,10 @@ import corpus.senie.indexing.Marker;
 public class MonoSENIE {
 
 	public static void main(String args[]) throws IOException {
-		PrintStream out = new PrintStream(System.out, true, "UTF-8");
-		BufferedReader input = new BufferedReader(new InputStreamReader(System.in, "UTF-8"));
+		//PrintStream out = new PrintStream(System.out, true, "UTF-8");
+		PrintStream out = new PrintStream(System.out, true, "Windows-1257");
+		//BufferedReader input = new BufferedReader(new InputStreamReader(System.in, "UTF-8"));
+		BufferedReader input = new BufferedReader(new InputStreamReader(System.in, "Windows-1257"));
 
 		out.print("Ievadiet avota kodu: ");
 		String source = input.readLine().trim();

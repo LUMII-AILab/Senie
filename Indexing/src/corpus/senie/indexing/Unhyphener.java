@@ -53,7 +53,7 @@ public class Unhyphener extends Recognizer {
 		
 		reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + "_cleaned.txt"), "Cp1257"));
 		writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + "_unhyphened.txt"), "Cp1257"));
-		log = new Logger(source, "VÂRDLIETOJUMU SAVILKĞANA TEKSTÂ", true);
+		log = new Logger(source, "VÄ€RDLIETOJUMU SAVILKÅ ANA TEKSTÄ€", true);
 	}
 	
 	
@@ -95,8 +95,8 @@ public class Unhyphener extends Recognizer {
 					if (curr.indexOf(" ") != -1) {
 						// Unhyphen the hyphened part of a word
 						
-						//Pârbauda vai savelkamajai daïai nav piekabinâts kïûdas labojums;
-						//ja ir, òem kopâ ar visâm figûriekavâm (t.sk. ja tajâs ir vairâki vârdi).
+						//PÄrbauda vai savelkamajai daÄ¼ai nav piekabinÄts kÄ¼Å«das labojums;
+						//ja ir, Å†em kopÄ ar visÄm figÅ«riekavÄm (t.sk. ja tajÄs ir vairÄki vÄrdi).
 						String temp = curr.substring(0, curr.indexOf(" "));
 						String sepa = " ";
 						Matcher mErrHyp = getHyphenedErrorPattern().matcher(temp);
@@ -141,8 +141,8 @@ public class Unhyphener extends Recognizer {
 					skipped_rows.clear(); 
 					while (curr.matches(getLangPattern().pattern()) || curr.matches(getPagePattern().pattern())) {
 						// Piem., Manc1638_Run: 431A.lpp., 466A.lpp. un 468A.lpp.:
-						// iepriekğçjâ lpp. ir pârnesums, kuram otra daïa ir jâmeklç aiznâkamajâ lpp.
-						// (oriìinâlâ lapas ir sadalîtas divâs kolonnâs - paralçlais teksts).
+						// iepriekÅ¡Ä“jÄ lpp. ir pÄrnesums, kuram otra daÄ¼a ir jÄmeklÄ“ aiznÄkamajÄ lpp.
+						// (oriÄ£inÄlÄ lapas ir sadalÄ«tas divÄs kolonnÄs - paralÄ“lais teksts).
 						skipped_rows.add(curr);
 						curr = reader.readLine();
 					}
@@ -315,8 +315,8 @@ public class Unhyphener extends Recognizer {
 				if (curr.indexOf(" ") != -1) {
 					// Unhyphenate the hyphened part of a word
 					
-					//Pârbauda vai savelkamajai daïai nav piekabinâts kïûdas labojums;
-					//ja ir, òem kopâ ar visâm figûriekavâm (t.sk. ja tajâs ir vairâki vârdi).
+					//PÄrbauda vai savelkamajai daÄ¼ai nav piekabinÄts kÄ¼Å«das labojums;
+					//ja ir, Å†em kopÄ ar visÄm figÅ«riekavÄm (t.sk. ja tajÄs ir vairÄki vÄrdi).
 					String temp = curr.substring(0, curr.indexOf(" "));
 					String sepa = " ";
 					Matcher mErrHyp = getHyphenedErrorPattern().matcher(temp);

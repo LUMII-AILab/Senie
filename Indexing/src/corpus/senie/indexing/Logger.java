@@ -84,25 +84,25 @@ public class Logger extends Object {
 					log.write("IZMESTS: " + message + "\r\n");
 					break;
 				case EDITED_1:
-					log.write("REDIÌÇTS: " + message + " --> ");
+					log.write("REDIÄ¢Ä’TS: " + message + " --> ");
 					break;
 				case EDITED_2:
 					log.write(message + "\r\n");
 					break;
 				case ILLEGAL:
-					log.write("NAV ATÏAUTS: " + message + "\r\n");
+					log.write("NAV ATÄ»AUTS: " + message + "\r\n");
 					break;
 				case NOT_FOUND:
 					log.write("NAV ATRASTS: " + message + "\r\n");
 					break;
 				case SUSPICIOUS:
-					log.write("AIZDOMÎGI: " + message + "\r\n");
+					log.write("AIZDOMÄªGI: " + message + "\r\n");
 					break;
 				case UNDEFINED:
-					log.write("NEDEFINÇTS: " + message + "\r\n");
+					log.write("NEDEFINÄ’TS: " + message + "\r\n");
 					break;
 				default:
-					log.write("NEDEFINÇTS REÌISTRA IZSAUKUMA TIPS: " + type + "\r\n");
+					log.write("NEDEFINÄ’TS REÄ¢ISTRA IZSAUKUMA TIPS: " + type + "\r\n");
 					break;
 			}
 		}

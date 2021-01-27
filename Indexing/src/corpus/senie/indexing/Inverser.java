@@ -50,7 +50,7 @@ public class Inverser extends Recognizer {
 		super();
 
 		index = new TreeSet<String>();
-		log = new Logger(source, "INVERSÂ VÂRDNÎCA", true);
+		log = new Logger(source, "INVERSÄ€ VÄ€RDNÄªCA", true);
 		this.source = source;
 	}
 
@@ -73,12 +73,12 @@ public class Inverser extends Recognizer {
 
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (!mAuthor.matches()) {
-			log.append(Logger.NOT_FOUND, "autoram jâbût 1. rindiòâ");
+			log.append(Logger.NOT_FOUND, "autoram jÄbÅ«t 1. rindiÅ†Ä");
 		}
 
 		Matcher mSource = getSourcePattern().matcher(reader.readLine());
 		if (!mSource.matches()) {
-			log.append(Logger.NOT_FOUND, "avota kodam jâbût 2. rindiòâ");
+			log.append(Logger.NOT_FOUND, "avota kodam jÄbÅ«t 2. rindiÅ†Ä");
 		}
 
 		while ((line = reader.readLine()) != null) {
@@ -116,12 +116,12 @@ public class Inverser extends Recognizer {
 
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (!mAuthor.matches()) {
-			log.append(Logger.NOT_FOUND, "autoram jâbût 1. rindiòâ");
+			log.append(Logger.NOT_FOUND, "autoram jÄbÅ«t 1. rindiÅ†Ä");
 		}
 
 		Matcher mSource = getSourcePattern().matcher(reader.readLine());
 		if (!mSource.matches()) {
-			log.append(Logger.NOT_FOUND, "avota kodam jâbût 2. rindiòâ");
+			log.append(Logger.NOT_FOUND, "avota kodam jÄbÅ«t 2. rindiÅ†Ä");
 		}
 
 		while ((line = reader.readLine()) != null) {
@@ -152,12 +152,12 @@ public class Inverser extends Recognizer {
 
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (!mAuthor.matches()) {
-			log.append(Logger.NOT_FOUND, "autoram jâbût 1. rindiòâ");
+			log.append(Logger.NOT_FOUND, "autoram jÄbÅ«t 1. rindiÅ†Ä");
 		}
 
 		Matcher mSource = getSourcePattern().matcher(reader.readLine());
 		if (!mSource.matches()) {
-			log.append(Logger.NOT_FOUND, "avota kodam jâbût 2. rindiòâ");
+			log.append(Logger.NOT_FOUND, "avota kodam jÄbÅ«t 2. rindiÅ†Ä");
 		}
 
 		while ((line = reader.readLine()) != null) {

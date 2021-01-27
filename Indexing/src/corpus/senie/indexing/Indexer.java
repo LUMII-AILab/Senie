@@ -263,7 +263,7 @@ public class Indexer extends Recognizer {
 	 */
 	public static String toLowerCase(String wform) {
 		if (wform.matches("[IVXLCDM]+")) {
-			// Romieğu cipari
+			// RomieÅ¡u cipari
 			return wform.toLowerCase();
 		}
 
@@ -276,19 +276,19 @@ public class Indexer extends Recognizer {
 				// Upper 'J' => lower 'j' if next char is vowel; lower 'i' otherwise
 				switch (wform.charAt(indx + 1)) {
 					case 'a': case 'A':
-					case 'â': case 'Â':
-					case 'ä': case 'Ä':
-					case '¿': case '¯':
+					case 'Ä': case 'Ä€':
+					case 'Ã¤': case 'Ã„':
+					case 'Ã¦': case 'Ã†':
 					case 'e': case 'E':
-					case 'ç': case 'Ç':
+					case 'Ä“': case 'Ä’':
 					case 'i': case 'I':
-					case 'î': case 'Î':
+					case 'Ä«': case 'Äª':
 					case 'o': case 'O':
-					case 'ô': case 'Ô':
-					case 'ö': case 'Ö':
+					case 'Å': case 'ÅŒ':
+					case 'Ã¶': case 'Ã–':
 					case 'u': case 'U':
-					case 'û': case 'Û':
-					case 'ü': case 'Ü':
+					case 'Å«': case 'Åª':
+					case 'Ã¼': case 'Ãœ':
 						lower.append('j');
 						break;
 					default:
@@ -317,7 +317,7 @@ public class Indexer extends Recognizer {
 		String prev  = "";
 		String next  = "";
 
-		String marks = "!?.,:;-+*†/|\\()[]<>\" \t\n\f\r";
+		String marks = "!?.,:;-+*â€ /|\\()[]<>\" \t\n\f\r";
 
 		StringTokenizer tokenizer = new StringTokenizer(line, marks, true);
 		List<String> tokens = new LinkedList<String>();
@@ -371,7 +371,7 @@ public class Indexer extends Recognizer {
 
 		index = new TreeMap<String, List<PosStructure>>();
 		db = new DBManager();
-		log = new Logger(source, "TEKSTA INDEKSÇĞANA UN STATISTIKA", true);
+		log = new Logger(source, "TEKSTA INDEKSÄ’Å ANA UN STATISTIKA", true);
 
 		running = 0;
 		authname = "";
@@ -473,7 +473,7 @@ public class Indexer extends Recognizer {
 		if (mAuthor.matches()) {
 			if (mAuthor.group(1).equals(auth)) process = true;
 		} else {
-			log.append(Logger.NOT_FOUND, "autoram jâbût 1. rindiòâ");
+			log.append(Logger.NOT_FOUND, "autoram jÄbÅ«t 1. rindiÅ†Ä");
 		}
 
 		// Source codificator must be on second line
@@ -481,7 +481,7 @@ public class Indexer extends Recognizer {
 		if (mSource.matches()) {
 			source = mSource.group(1);
 		} else {
-			log.append(Logger.NOT_FOUND, "avota kodam jâbût 2. rindiòâ");
+			log.append(Logger.NOT_FOUND, "avota kodam jÄbÅ«t 2. rindiÅ†Ä");
 		}
 
 		while ((line = reader.readLine()) != null) {
@@ -517,7 +517,7 @@ public class Indexer extends Recognizer {
 					process = true;
 				} else {
 					process = false;
-					log.append(Logger.SUSPICIOUS, "lîdzautora '" + mAuthor.group(1) + "' teksts tika ignorçts");
+					log.append(Logger.SUSPICIOUS, "lÄ«dzautora '" + mAuthor.group(1) + "' teksts tika ignorÄ“ts");
 				}
 			}
 			else if (process) {
@@ -575,7 +575,7 @@ public class Indexer extends Recognizer {
 		if (mAuthor.matches()) {
 			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
 		} else {
-			log.append(Logger.NOT_FOUND, "autoram jâbût 1. rindiòâ");
+			log.append(Logger.NOT_FOUND, "autoram jÄbÅ«t 1. rindiÅ†Ä");
 		}
 
 		// Source codificator must be on second line
@@ -583,7 +583,7 @@ public class Indexer extends Recognizer {
 		if (mSource.matches()) {
 			source = mSource.group(1);
 		} else {
-			log.append(Logger.NOT_FOUND, "avota kodam jâbût 2. rindiòâ");
+			log.append(Logger.NOT_FOUND, "avota kodam jÄbÅ«t 2. rindiÅ†Ä");
 		}
 
 		while ((line = reader.readLine()) != null) {
@@ -603,7 +603,7 @@ public class Indexer extends Recognizer {
 					process = true;
 				} else {
 					process = false;
-					log.append(Logger.SUSPICIOUS, "lîdzautora '" + mAuthor.group(1) + "' teksts tika ignorçts");
+					log.append(Logger.SUSPICIOUS, "lÄ«dzautora '" + mAuthor.group(1) + "' teksts tika ignorÄ“ts");
 				}
 			}
 			else if (mWaste.matches()) {
@@ -656,7 +656,7 @@ public class Indexer extends Recognizer {
 		if (mAuthor.matches()) {
 			if (mAuthor.group(1).equals(auth)) process = true;
 		} else {
-			log.append(Logger.NOT_FOUND, "autoram jâbût 1. rindiòâ");
+			log.append(Logger.NOT_FOUND, "autoram jÄbÅ«t 1. rindiÅ†Ä");
 		}
 
 		// Source codificator must be on second line
@@ -664,7 +664,7 @@ public class Indexer extends Recognizer {
 		if (mSource.matches()) {
 			source = mSource.group(1);
 		} else {
-			log.append(Logger.NOT_FOUND, "avota kodam jâbût 2. rindiòâ");
+			log.append(Logger.NOT_FOUND, "avota kodam jÄbÅ«t 2. rindiÅ†Ä");
 		}
 
 		while ((line = reader.readLine()) != null) {
@@ -677,7 +677,7 @@ public class Indexer extends Recognizer {
 					process = true;
 				} else {
 					process = false;
-					log.append(Logger.SUSPICIOUS, "lîdzautora '" + mAuthor.group(1) + "' teksts tika ignorçts");
+					log.append(Logger.SUSPICIOUS, "lÄ«dzautora '" + mAuthor.group(1) + "' teksts tika ignorÄ“ts");
 				}
 			}
 			else if (process) {
@@ -817,8 +817,8 @@ public class Indexer extends Recognizer {
 		String fname = (lower) ? abssrc + "_frequencies_lower.txt" : abssrc + "_frequencies.txt";
 		BufferedWriter writer  = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fname), "Cp1257"));
 
-		writer.write("Vârdformu skaits:\t" + countWF() + "\r\n");
-		writer.write("Vârdlietojumu skaits:\t" + countRW() + "\r\n\r\n\r\n");
+		writer.write("VÄrdformu skaits:\t" + countWF() + "\r\n");
+		writer.write("VÄrdlietojumu skaits:\t" + countRW() + "\r\n\r\n\r\n");
 
 		for (String word : index.keySet()) {
 			int count = 0;
@@ -848,8 +848,8 @@ public class Indexer extends Recognizer {
 		writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"./index.css\">\n");
 		writer.write("</head>\n<body>\n<pre>\n");
 
-		writer.write("Vârdformu skaits: <b>"+countWF()+"</b>\n");
-		writer.write("Vârdlietojumu skaits: <b>"+countRW()+"</b>\n\n\n");
+		writer.write("VÄrdformu skaits: <b>"+countWF()+"</b>\n");
+		writer.write("VÄrdlietojumu skaits: <b>"+countRW()+"</b>\n\n\n");
 
 		for (String word : index.keySet()) {
 			writer.write("<b>" + word + "</b>\n");
@@ -896,8 +896,8 @@ public class Indexer extends Recognizer {
 		String fname = (lower) ? abssrc + "_indexed_lower.txt" : abssrc + "_indexed.txt";
 		BufferedWriter writer  = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(fname), "Cp1257"));
 
-		writer.write("Vârdformu skaits:\t" + countWF() + "\r\n");
-		writer.write("Vârdlietojumu skaits:\t" + countRW() + "\r\n\r\n\r\n");
+		writer.write("VÄrdformu skaits:\t" + countWF() + "\r\n");
+		writer.write("VÄrdlietojumu skaits:\t" + countRW() + "\r\n\r\n\r\n");
 
 		for (String word : index.keySet()) {
 			writer.write(word + "\r\n\r\n");

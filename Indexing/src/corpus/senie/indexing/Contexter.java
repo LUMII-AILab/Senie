@@ -105,7 +105,7 @@ public class Contexter extends Recognizer {
 
 		text = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
 		marker = new Marker(source);
-		log = new Logger(source, "KONTEKSTU ATDALÎÐANA, MARÍÇÐANA UN IEVIETOÐANA DATUBÂZÇ", true);
+		log = new Logger(source, "KONTEKSTU ATDALÄªÅ ANA, MARÄ¶Ä’Å ANA UN IEVIETOÅ ANA DATUBÄ€ZÄ’", true);
 		db = new DBManager();
 	}
 

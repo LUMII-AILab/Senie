@@ -50,7 +50,7 @@ public class Marker extends Recognizer {
 	 * @return marked line.
 	 */
 	private String markupChapter(String chapter) {
-		return "<p class=\"chap\">" + chapter + ". nodaïa</p>";
+		return "<p class=\"chap\">" + chapter + ". nodaÄ¼a</p>";
 	}
 
 
@@ -117,7 +117,7 @@ public class Marker extends Recognizer {
 		html.write("</head>\n<body>\n");
 		html.write("<table align=\"center\" border=\"0\" width=\"80%\"><tr><td>\n");
 
-		log = new Logger(source, "TEKSTA MARÍÇÐANA UN GRÂMATZÎMJU SALIKÐANA", true);
+		log = new Logger(source, "TEKSTA MARÄ¶Ä’Å ANA UN GRÄ€MATZÄªMJU SALIKÅ ANA", true);
 	}
 
 

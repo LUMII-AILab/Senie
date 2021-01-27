@@ -69,7 +69,7 @@ public class Cleaner extends Recognizer {
 
 		reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
 		writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + "_cleaned.txt"), "Cp1257"));
-		log = new Logger(source, "TEKSTA ATTÎRÎÐANA UN PÂRBAUDE", false);
+		log = new Logger(source, "TEKSTA ATTÄªRÄªÅ ANA UN PÄ€RBAUDE", false);
 	}
 
 

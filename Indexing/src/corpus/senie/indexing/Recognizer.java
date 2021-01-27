@@ -45,10 +45,10 @@ public class Recognizer extends Object {
 	 * Constructor. Initializes patterns for recognition.
 	 */
 	public Recognizer() {
-		String alpha_lv = "ÂâÈèÇçÌìÎîÍíÏïÒòÔôªºĞğÛûŞş";
-		String alpha_other = "¯¿ÄäàÃãæéÙùñÖöóÚú§ßÜüWwYyÊêı";
-		String alpha_mark = "~`´'\\^=#&%";
-		String punct = "\\!\\?\\.\\,\\:;\\-\\+\\*/\\|\\\\\\(\\)\\[\\]<>\"†©®";
+		String alpha_lv = "Ä€ÄÄŒÄÄ’Ä“Ä¢Ä£ÄªÄ«Ä¶Ä·Ä»Ä¼Å…Å†ÅŒÅÅ–Å—Å Å¡ÅªÅ«Å½Å¾";
+		String alpha_other = "Ã†Ã¦Ã„Ã¤Ä…Ä†Ä‡Ä™Ã©ÅÅ‚Å„Ã–Ã¶Ã³ÅšÅ›Â§ÃŸÃœÃ¼WwYyÅ¹ÅºÅ¼";
+		String alpha_mark = "~`Â´'\\^=#&%";
+		String punct = "\\!\\?\\.\\,\\:;\\-\\+\\*/\\|\\\\\\(\\)\\[\\]<>\"â€ Â©Â®";
 		
 		wf_ch = "[\\w" + alpha_lv + alpha_other + alpha_mark +"]*";
 		plain = "[\\s\\w" + alpha_lv + alpha_other + alpha_mark + punct + "]*";
@@ -388,10 +388,10 @@ public class Recognizer extends Object {
 		for (int i = 0; i < buff.length(); i++) {
 			if (buff.charAt(i) == '{') {
 				level++;
-				if (level > 1) buff.replace(i, i + 1, "©");
+				if (level > 1) buff.replace(i, i + 1, "Â©");
 			}
 			else if (buff.charAt(i) == '}') {
-				if (level > 1) buff.replace(i, i + 1, "®");
+				if (level > 1) buff.replace(i, i + 1, "Â®");
 				level--;
 			}
 		}
@@ -406,7 +406,7 @@ public class Recognizer extends Object {
 	 * @return
 	 */
 	public static String decodeNestedBraces(String line) {
-		return line.replaceAll("©", "{").replaceAll("®", "}");
+		return line.replaceAll("Â©", "{").replaceAll("Â®", "}");
 	}
 	
 	

@@ -20,7 +20,7 @@ public class SENIEStringComparator implements Comparator<Object>, Serializable {
 	 * Constructor.
 	 */
 	public SENIEStringComparator() {
-		alpha = "AaÂâ¯¿ÄäBbCcÈèÃãDdEeÇçFfGgÌìHhIiÎîJjKkÍíLlÏïMmNnÒòOoÔôÖöPpQqRrªºSsĞğÚú§ßTtUuÛûÜüVvWwXxYyZzşÊê0123456789";
+		alpha = "AaÄ€ÄÃ†Ã¦Ã„Ã¤BbCcÄŒÄÄ†Ä‡DdEeÄ’Ä“FfGgÄ¢Ä£HhIiÄªÄ«JjKkÄ¶Ä·LlÄ»Ä¼MmNnÅ…Å†OoÅŒÅÃ–Ã¶PpQqRrÅ–Å—SsÅ Å¡ÅšÅ›Â§ÃŸTtUuÅªÅ«ÃœÃ¼VvWwXxYyZzÅ¾Å¹Åº0123456789";
 	}
 
 
