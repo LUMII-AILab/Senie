@@ -440,6 +440,27 @@ public class Indexer extends Recognizer {
 		return true;
 	}
 
+	/**
+	 * Wrapper for invoking any of indexX methods by given indexation type.
+	 * @param type	source indexing type
+	 * @param src	source codificator
+	 * @param auth	author's name
+	 * @param lower	if true, converts all running words to lower case before updating the index
+	 * @return true, if any method was called
+	 */
+	public boolean index (IndexType type, String src, String auth, boolean lower, boolean db)
+	throws IOException
+	{
+		switch (type)
+		{
+			case GNP: indexGNP(src, auth, lower, db); return true;
+			case LR: indexLR(src, auth, lower, db); return true;
+			case P: indexP(src, auth, lower, db); return true;
+			default: return false;
+		}
+	}
+
+
 
 	/**
 	 * Indexes all running words from the given unhyphened source text.

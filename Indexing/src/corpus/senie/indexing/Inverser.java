@@ -62,6 +62,22 @@ public class Inverser extends Recognizer {
 		index.clear();
 	}
 
+	/**
+	 * Wrapper for invoking any of indexX methods by given indexation type.
+	 * @param type source indexing type
+	 * @return true, if any method was called
+	 */
+	public boolean index (IndexType type
+	) throws IOException
+	{
+		switch (type)
+		{
+			case GNP: indexGNP(); return true;
+			case LR: indexLR(); return true;
+			case P: indexP(); return true;
+			default: return false;
+		}
+	}
 
 	/**
 	 * Indexes all running words from the given unhyphened source text.

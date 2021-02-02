@@ -289,6 +289,22 @@ public class Unhyphener extends Recognizer {
 		}
 	}
 
+	/**
+	 * Wrapper for invoking any of unhyphenX methods by given indexation type.
+	 * @param type source indexing type
+	 * @return true, if any method was called
+	 */
+	public boolean unhyphen (IndexType type)
+	throws IOException
+	{
+		switch (type)
+		{
+			case GNP: unhyphenVerse(true); return true;
+			case LR: unhyphenRow(); return true;
+			case P: unhyphenVerse(false); return true;
+			default: return false;
+		}
+	}
 
 	/**
 	 * Processes a cleaned source text according to the rules of book->chapter->verse or verse structure.

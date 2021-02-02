@@ -139,6 +139,22 @@ public class Contexter extends Recognizer {
 		db.disconnect();
 	}
 
+	/**
+	 * Wrapper for invoking any of splitX methods by given indexation type.
+	 * @param type source indexing type
+	 * @return true, if any method was called
+	 */
+	public boolean split (IndexType type
+	) throws IOException
+	{
+		switch (type)
+		{
+			case GNP: splitGNP(); return true;
+			case LR: splitLR(); return true;
+			case P: splitP(); return true;
+			default: return false;
+		}
+	}
 
 	/**
 	 * Processes a well-formed source text according to the book->chapter->verse structure.

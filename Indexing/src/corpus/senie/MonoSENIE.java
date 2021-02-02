@@ -4,12 +4,8 @@ import java.io.InputStreamReader;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.PrintStream;
-import corpus.senie.indexing.Cleaner;
-import corpus.senie.indexing.Unhyphener;
-import corpus.senie.indexing.Indexer;
-import corpus.senie.indexing.Inverser;
-import corpus.senie.indexing.Contexter;
-import corpus.senie.indexing.Marker;
+
+import corpus.senie.indexing.*;
 
 
 public class MonoSENIE {
@@ -30,10 +26,13 @@ public class MonoSENIE {
 		out.println("(3) pants");
 		out.print("Izvēle: ");
 		int pos = Integer.parseInt(input.readLine().trim());
+		IndexType indexType = IndexType.getByLegacyCode(pos);
 		out.println("");
 
 		String confirm = "";
 		boolean loop = true;
+
+		String name = "";
 
 		do {
 			out.println("Ievadiet veicamo uzdevumu: ");
@@ -43,6 +42,7 @@ public class MonoSENIE {
 			out.println("(4) inversā vārdnīca");
 			out.println("(5) fragmentēšana (DB)");
 			out.println("(6) marķēšana");
+			out.println("(7) viss, ko var izdarīt bez DB");
 			out.println("(0) beigt");
 			out.print("Izvēle: ");
 			int task = Integer.parseInt(input.readLine().trim());
@@ -56,20 +56,9 @@ public class MonoSENIE {
 					out.println("");
 
 					Cleaner cleaner = new Cleaner(source);
-					switch (pos) {
-						case 1:
-							cleaner.cleanGNP();
-							break;
-						case 2:
-							cleaner.cleanLR();
-							break;
-						case 3:
-							cleaner.cleanP();
-							break;
-						default:
-							out.println("[E] Adresācijas struktūra nav definēta!");
-							break;
-					}
+					if (indexType == null)
+						out.println("[E] Adresācijas struktūra nav definēta!");
+					else cleaner.clean(indexType);
 					cleaner.close();
 					break;
 
@@ -80,20 +69,9 @@ public class MonoSENIE {
 					out.println("");
 
 					Unhyphener unhyphener = new Unhyphener(source);
-					switch (pos) {
-						case 1:
-							unhyphener.unhyphenVerse(true);
-							break;
-						case 2:
-							unhyphener.unhyphenRow();
-							break;
-						case 3:
-							unhyphener.unhyphenVerse(false);
-							break;
-						default:
-							out.println("[E] Adresācijas struktūra nav definēta!");
-							break;
-					}
+					if (indexType == null)
+						out.println("[E] Adresācijas struktūra nav definēta!");
+					else unhyphener.unhyphen(indexType);
 					unhyphener.close();
 					break;
 
@@ -111,7 +89,7 @@ public class MonoSENIE {
 					}
 					out.println("");
 
-					String name = "";
+					name = "";
 					out.print("Ievadiet avota autoru: ");
 					name = input.readLine().trim();
 					out.println("");
@@ -145,20 +123,9 @@ public class MonoSENIE {
 						}
 					}
 
-					switch (pos) {
-						case 1:
-							indexer.indexGNP(source, name, lower, db);
-							break;
-						case 2:
-							indexer.indexLR(source, name, lower, db);
-							break;
-						case 3:
-							indexer.indexP(source, name, lower, db);
-							break;
-						default:
-							out.println("[E] Adresācijas struktūra nav definēta!");
-							break;
-					}
+					if (indexType == null)
+						out.println("[E] Adresācijas struktūra nav definēta!");
+					else indexer.index(indexType, source, name, lower, db);
 
 					out.print("Indekss tiek rakstīts teksta failā... ");
 					indexer.storePlaintext(lower);
@@ -200,20 +167,9 @@ public class MonoSENIE {
 					out.println("");
 
 					Inverser inverser = new Inverser(source);
-					switch (pos) {
-						case 1:
-							inverser.indexGNP();
-							break;
-						case 2:
-							inverser.indexLR();
-							break;
-						case 3:
-							inverser.indexP();
-							break;
-						default:
-							out.println("[E] Adresācijas struktūra nav definēta!");
-							break;
-					}
+					if (indexType == null)
+						out.println("[E] Adresācijas struktūra nav definēta!");
+					else inverser.index(indexType);
 
 					out.print("Vārdnīca tiek rakstīta teksta failā... ");
 					inverser.storeDictionary();
@@ -232,20 +188,9 @@ public class MonoSENIE {
 					Contexter contexter = new Contexter(source);
 					contexter.dbConnect("//localhost:3306/senie", "senie", "corpsbase03");
 					if (contexter.dbConnected()) {
-						switch (pos) {
-							case 1:
-								contexter.splitGNP();
-								break;
-							case 2:
-								contexter.splitLR();
-								break;
-							case 3:
-								contexter.splitP();
-								break;
-							default:
-								out.println("[E] Adresācijas struktūra nav definēta!");
-								break;
-						}
+						if (indexType == null)
+							out.println("[E] Adresācijas struktūra nav definēta!");
+						else contexter.split(indexType);
 						contexter.dbDisconnect();
 					}
 					else {
@@ -261,21 +206,20 @@ public class MonoSENIE {
 					out.println("");
 
 					Marker marker = new Marker(source);
-					switch (pos) {
-						case 1:
-							marker.markupGNP();
-							break;
-						case 2:
-							marker.markupLR();
-							break;
-						case 3:
-							marker.markupP();
-							break;
-						default:
-							out.println("[E] Adresācijas struktūra nav definēta!");
-							break;
-					}
+					if (indexType == null)
+						out.println("[E] Adresācijas struktūra nav definēta!");
+					else marker.markup(indexType);
 					marker.close();
+					break;
+
+				case 7:
+					name = "";
+					out.print("Ievadiet avota autoru: ");
+					name = input.readLine().trim();
+					out.println("");
+					boolean result = fullNondbProcessing(indexType, source, name, out);
+					if (!result) System.out.println("Kāds no soļiem neizdevās!");
+					System.out.println();
 					break;
 					
 				case 0:
@@ -287,6 +231,82 @@ public class MonoSENIE {
 					break;
 			}
 		} while (loop);
+	}
+
+	public static boolean fullNondbProcessing(IndexType indexType, String source, String author, PrintStream out)
+	throws IOException
+	{
+		if (indexType == null) throw new IllegalArgumentException();
+		boolean fullSuccess = true;
+		boolean stepSuccess;
+		out.println("Teksta attīrīšana un marķējuma sintakses pārbaude.");
+		Cleaner cleaner = new Cleaner(source);
+		stepSuccess = cleaner.clean(indexType);
+		cleaner.close();
+		if (!stepSuccess)
+		{
+			fullSuccess = false;
+			System.out.println("\tNeizdevās!");
+		}
+
+		out.println("Pārnesto vārdu savilkšana.");
+		Unhyphener unhyphener = new Unhyphener(source);
+		stepSuccess = unhyphener.unhyphen(indexType);
+		unhyphener.close();
+		if (!stepSuccess)
+		{
+			fullSuccess = false;
+			System.out.println("\tNeizdevās!");
+		}
+
+		out.println("Vārdformu indeksēšana un statistika, reģistrjūtīga.");
+		Indexer indexer = new Indexer(source);
+		stepSuccess = indexer.index(indexType, source, author, false, false);
+		indexer.storePlaintext(false);
+		indexer.storeHTML(false);
+		indexer.storeFrequencies(false);
+		indexer.close();
+		if (!stepSuccess)
+		{
+			fullSuccess = false;
+			System.out.println("\tNeizdevās!");
+		}
+
+		out.println("Vārdformu indeksēšana un statistika, reģistrnejūtīga.");
+		indexer = new Indexer(source);
+		stepSuccess = indexer.index(indexType, source, author, true, false);
+		indexer.storePlaintext(true);
+		indexer.storeHTML(true);
+		indexer.storeFrequencies(true);
+		indexer.close();
+		if (!stepSuccess)
+		{
+			fullSuccess = false;
+			System.out.println("\tNeizdevās!");
+		}
+
+		out.println("Inversās vārdnīcas veidošana.");
+		Inverser inverser = new Inverser(source);
+		stepSuccess = inverser.index(indexType);
+		inverser.storeDictionary();
+		inverser.close();
+		if (!stepSuccess)
+		{
+			fullSuccess = false;
+			System.out.println("\tNeizdevās!");
+		}
+
+		out.println("Teksta marķēšana un grāmatzīmju salikšana.");
+		Marker marker = new Marker(source);
+		stepSuccess = marker.markup(indexType);
+		marker.close();
+		if (!stepSuccess)
+		{
+			fullSuccess = false;
+			System.out.println("\tNeizdevās!");
+		}
+
+		return fullSuccess;
 	}
 
 }

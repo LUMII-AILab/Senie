@@ -72,6 +72,22 @@ public class Cleaner extends Recognizer {
 		log = new Logger(source, "TEKSTA ATTĪRĪŠANA UN PĀRBAUDE", false);
 	}
 
+	/**
+	 * Wrapper for invoking any of cleanX methods by given indexation type.
+	 * @param type source indexing type
+	 * @return true, if any method was called
+	 */
+	public boolean clean (IndexType type
+	) throws IOException
+	{
+		switch (type)
+		{
+			case GNP: cleanGNP(); return true;
+			case LR: cleanLR(); return true;
+			case P: cleanP(); return true;
+			default: return false;
+		}
+	}
 
 	/**
 	 * Processes source text according to rules of book->chapter->verse structure.

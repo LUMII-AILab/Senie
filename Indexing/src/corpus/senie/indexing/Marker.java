@@ -216,6 +216,22 @@ public class Marker extends Recognizer {
 		return mParallel.replaceAll("<p class=\"para\">$1</p>");
 	}
 
+	/**
+	 * Wrapper for invoking any of markupX methods by given indexation type.
+	 * @param type source indexing type
+	 * @return true, if any method was called
+	 */
+	public boolean markup (IndexType type
+	) throws IOException
+	{
+		switch (type)
+		{
+			case GNP: markupGNP(); return true;
+			case LR: markupLR(); return true;
+			case P: markupP(); return true;
+			default: return false;
+		}
+	}
 
 	/**
 	 * Processes a well-formed source text according to the book->chapter->verse structure.
