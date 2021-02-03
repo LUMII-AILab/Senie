@@ -17,4 +17,21 @@ public enum IndexType
 				return null;
 		}
 	}
+	public static IndexType getByStringCode(String code)
+	{
+		switch (code)
+		{
+			case "GNP":
+			case "gnp":
+				return GNP;
+			case "LR":
+			case "lr":
+				return LR;
+			case "P":
+			case "p":
+				return P;
+			default:
+				return null;
+		}
+	}
 }
