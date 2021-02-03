@@ -9,4 +9,10 @@
 /Unicoding/data-VD
 /Unicoding/data-JT
 /Unicoding/*_ignore.bat
+/Unicoding/*-ignore.bat
+
+/Indexing/run/data
+/Indexing/run/*.htm
+/Indexing/run/*.txt
+/Indexing/out
 
