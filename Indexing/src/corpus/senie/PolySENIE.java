@@ -86,7 +86,7 @@ public class PolySENIE
 		String[] fileParams = getParamsFromFile(fileName.getPath());
 		out.print("  Avots: " + fileParams[0]);
 		if (fileParams[1] != null) out.print(", grāmata: " + fileParams[1]);
-		out.println(", autors: " + fileParams[3]);
+		out.println(", autors: " + fileParams[2]);
 		Files.copy(fileName.toPath(), FileSystems.getDefault().getPath(".", fileName.getName()), StandardCopyOption.REPLACE_EXISTING);
 		if (fileParams[1] != null)
 		{
