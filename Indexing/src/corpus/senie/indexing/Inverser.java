@@ -203,7 +203,8 @@ public class Inverser extends Recognizer {
 		
 		while (itIndx.hasNext()) {
 			StringBuilder word = new StringBuilder(itIndx.next());
-			writer.write(word.reverse().toString() + "\r\n");
+			if (!word.toString().matches("^(\\}\\d*\\{)?\\d+$"))
+				writer.write(word.reverse().toString() + "\r\n");
 		}
 
 		writer.flush();
