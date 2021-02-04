@@ -12,6 +12,7 @@
 /Unicoding/*-ignore.bat
 
 /Indexing/run/data
+/Indexing/run/result-*
 /Indexing/run/*.htm
 /Indexing/run/*.txt
 /Indexing/out
