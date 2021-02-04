@@ -3,6 +3,9 @@ package corpus.senie;
 import corpus.senie.indexing.IndexType;
 
 import java.io.*;
+import java.nio.file.FileSystems;
+import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -26,6 +29,9 @@ public class PolySENIE
 			out.println("    1) ignorēt biblisko avotu Prolog* daļas;");
 			out.println("    3) indeksēšanas tipu specifikācijas faila adrese, neobligāti, noklusējuma");
 			out.println("       vērtība \"../../Sources/indexing.txt\"");
+			out.println("NB! Tā kā šis ir ietinamais vecajam skriptam, kas apstrādāja failus pa vienam");
+			out.println("  aktīvajā mapē /senie/Indexing/run, tad turiet šo map brīvu no sev svarīgiem");
+			out.println("  failiem, kas sākas ar avotu kodiem, jo tie tiks pārraktīti un/vai pārvietoti.");
 			out.println("AILab, LUMII, ...-2021");
 			return;
 		}
@@ -59,12 +65,14 @@ public class PolySENIE
 			{
 				for (File thirdLevelPath : secondLevelPath.listFiles(File::isFile))
 				{
-					wrapper.processFile(thirdLevelPath, out);
+					if (!wrapper.p.ignoreProlog || !thirdLevelPath.getName().startsWith("Prolog"))
+						wrapper.processFile(thirdLevelPath, out);
 				}
 			}
 			for (File secondLevelPath : firstLevelDir.listFiles(File::isFile))
 			{
-				wrapper.processFile(secondLevelPath, out);
+				if (!wrapper.p.ignoreProlog || !secondLevelPath.getName().startsWith("Prolog"))
+					wrapper.processFile(secondLevelPath, out);
 			}
 		}
 
@@ -73,15 +81,36 @@ public class PolySENIE
 	protected void processFile (File fileName, PrintStream out)
 	throws IOException
 	{
-		// TODO pārvietot failus!!!
+		out.println();
+		out.println("Apstrādā failu " + fileName.getName() + "...");
 		String[] fileParams = getParamsFromFile(fileName.getPath());
+		out.print("  Avots: " + fileParams[0]);
+		if (fileParams[1] != null) out.print(", grāmata: " + fileParams[1]);
+		out.println(", autors: " + fileParams[3]);
+		Files.copy(fileName.toPath(), FileSystems.getDefault().getPath(".", fileName.getName()), StandardCopyOption.REPLACE_EXISTING);
 		if (fileParams[1] != null)
-			MonoSENIE.fullNondbProcessing(
-					indexSpec.get(fileParams[0] + "/" + fileParams[1]),
-					fileParams[1], fileParams[2], out);
+		{
+			IndexType iType = indexSpec.get(fileParams[0] + "/" + fileParams[1]);
+			out.println("  Indeksa veids: " + iType);
+			MonoSENIE.fullNondbProcessing(iType, fileParams[1], fileParams[2], out);
+		}
 		else
-			MonoSENIE.fullNondbProcessing(
-					indexSpec.get(fileParams[0]), fileParams[0], fileParams[2], out);
+		{
+			out.println(fileParams[0]);
+			IndexType iType = indexSpec.get(fileParams[0]);
+			out.println("  Indeksa veids: " + iType);
+			MonoSENIE.fullNondbProcessing(iType, fileParams[0], fileParams[2], out);
+		}
+		//Path target = fileName.getParentFile().toPath();
+		for (File homeDirFile : (new File(".")).listFiles(File::isFile))
+		{
+			String fileToMoveName = homeDirFile.getName();
+			if (fileParams[1] != null && fileToMoveName.startsWith(fileParams[1])
+					|| fileToMoveName.startsWith(fileParams[0]))
+				Files.move(homeDirFile.toPath(),
+						FileSystems.getDefault().getPath(fileName.getParent(), homeDirFile.getName()),
+						StandardCopyOption.REPLACE_EXISTING);
+		}
 	}
 
 	/**
@@ -139,7 +168,9 @@ public class PolySENIE
 				String[] parts = line.split("\t", 2);
 				if (parts.length < 2)
 					out.println("Indeksācijas failā ir nesaprotama rinda: " + line);
-				else indexSpec.put(parts[1].replace("\t", "/"), IndexType.getByStringCode(parts[0]));
+				else indexSpec.put(
+						parts[1].replace("\t", "/").trim(),
+						IndexType.getByStringCode(parts[0]));
 			}
 			line = reader.readLine();
 		}
