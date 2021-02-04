@@ -59,26 +59,37 @@ public class PolySENIE
 
 		wrapper.loadIndexSpec(out);
 
+		File resTxtDir = new File("result-txt");
+		File resHtmlDir = new File("result-html");
+
 		for (File firstLevelDir : sourceDir.listFiles(File::isDirectory))
 		{
+			File firstLevelTxtDir = new File(resTxtDir.getPath() + File.separator + firstLevelDir.getName());
+			firstLevelTxtDir.mkdirs();
+			File firstLevelHtmlDir = new File(resHtmlDir.getPath() + File.separator + firstLevelDir.getName());
+			firstLevelHtmlDir.mkdirs();
 			for (File secondLevelPath : firstLevelDir.listFiles(File::isDirectory))
 			{
+				File secondLevelTxtDir = new File(firstLevelTxtDir.getPath() + File.separator + secondLevelPath.getName());
+				secondLevelTxtDir.mkdirs();
+				File secondLevelHtmlDir = new File(firstLevelHtmlDir.getPath() + File.separator + secondLevelPath.getName());
+				secondLevelHtmlDir.mkdirs();
 				for (File thirdLevelPath : secondLevelPath.listFiles(File::isFile))
 				{
 					if (!wrapper.p.ignoreProlog || !thirdLevelPath.getName().startsWith("Prolog"))
-						wrapper.processFile(thirdLevelPath, out);
+						wrapper.processFile(thirdLevelPath, secondLevelTxtDir, secondLevelHtmlDir, out);
 				}
 			}
 			for (File secondLevelPath : firstLevelDir.listFiles(File::isFile))
 			{
 				if (!wrapper.p.ignoreProlog || !secondLevelPath.getName().startsWith("Prolog"))
-					wrapper.processFile(secondLevelPath, out);
+					wrapper.processFile(secondLevelPath, firstLevelTxtDir, firstLevelHtmlDir, out);
 			}
 		}
 
 	}
 
-	protected void processFile (File fileName, PrintStream out)
+	protected void processFile (File fileName, File txtResultDir, File htmlResultDir, PrintStream out)
 	throws IOException
 	{
 		out.println();
@@ -96,20 +107,29 @@ public class PolySENIE
 		}
 		else
 		{
-			out.println(fileParams[0]);
 			IndexType iType = indexSpec.get(fileParams[0]);
 			out.println("  Indeksa veids: " + iType);
 			MonoSENIE.fullNondbProcessing(iType, fileParams[0], fileParams[2], out);
 		}
-		//Path target = fileName.getParentFile().toPath();
-		for (File homeDirFile : (new File(".")).listFiles(File::isFile))
+
+		for (File resultFile : (new File(".")).listFiles(File::isFile))
 		{
-			String fileToMoveName = homeDirFile.getName();
-			if (fileParams[1] != null && fileToMoveName.startsWith(fileParams[1])
-					|| fileToMoveName.startsWith(fileParams[0]))
-				Files.move(homeDirFile.toPath(),
-						FileSystems.getDefault().getPath(fileName.getParent(), homeDirFile.getName()),
-						StandardCopyOption.REPLACE_EXISTING);
+			String resultFileName = resultFile.getName();
+			String fileCodeStub = fileParams[1] == null ? fileParams[0] : fileParams[1];
+			if (resultFileName.startsWith(fileCodeStub))
+			{
+				if (resultFileName.endsWith(".htm"))
+					Files.move(resultFile.toPath(),
+							FileSystems.getDefault().getPath(htmlResultDir.getPath(), resultFile.getName()),
+							StandardCopyOption.REPLACE_EXISTING);
+				else if (resultFileName.equals(fileCodeStub + ".txt"))
+					Files.delete(resultFile.toPath());
+				else if (resultFileName.endsWith(".txt"))
+					Files.move(resultFile.toPath(),
+							FileSystems.getDefault().getPath(txtResultDir.getPath(), resultFile.getName()),
+							StandardCopyOption.REPLACE_EXISTING);
+				else continue; // not a valid result file.
+			}
 		}
 	}
 
