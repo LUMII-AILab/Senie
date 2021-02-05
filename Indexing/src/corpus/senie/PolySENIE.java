@@ -21,8 +21,9 @@ public class PolySENIE
 	{
 		//PrintStream out = new PrintStream(System.out, true, "UTF-8");
 		PrintStream out = new PrintStream(System.out, true, "Windows-1257");
-		if (args == null || args.length < 1)
+		if (args == null || args.length < 1 || args.length > 3)
 		{
+			// If not enough arguments, print general info
 			out.println("SENIE korpusa masu apstrādes programma.");
 			out.println("Sagaidāmie parametri:");
 			out.println("    1) apstrādājamo datu mape (struktūra kā Sources mapei);");
@@ -75,20 +76,24 @@ public class PolySENIE
 				File secondLevelHtmlDir = new File(firstLevelHtmlDir.getPath() + File.separator + secondLevelPath.getName());
 				secondLevelHtmlDir.mkdirs();
 				for (File thirdLevelPath : secondLevelPath.listFiles(File::isFile))
-				{
 					if (!wrapper.p.ignoreProlog || !thirdLevelPath.getName().startsWith("Prolog"))
 						wrapper.processFile(thirdLevelPath, secondLevelTxtDir, secondLevelHtmlDir, out);
-				}
 			}
 			for (File secondLevelPath : firstLevelDir.listFiles(File::isFile))
-			{
 				if (!wrapper.p.ignoreProlog || !secondLevelPath.getName().startsWith("Prolog"))
 					wrapper.processFile(secondLevelPath, firstLevelTxtDir, firstLevelHtmlDir, out);
-			}
 		}
 
 	}
 
+	/**
+	 * Process a single file.
+	 * @param fileName		path to the file to be indexed
+	 * @param txtResultDir	folder for all .txt results
+	 * @param htmlResultDir	folder for all .htm results
+	 * @param out			status mesage output
+	 * @throws IOException
+	 */
 	protected void processFile (File fileName, File txtResultDir, File htmlResultDir, PrintStream out)
 	throws IOException
 	{
@@ -212,7 +217,7 @@ public class PolySENIE
 		/**
 		 * Names for support files to ignore.
 		 */
-		public HashSet<String> ignoreFiles = new HashSet<String>(){{
+		public HashSet<String> ignoreFiles = new HashSet<String>() {{
 			add("indexing.txt");
 			add("pub_ord.txt");
 		}};
