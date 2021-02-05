@@ -2,6 +2,13 @@ Vârdformu skaits:	3026
 Vârdlietojumu skaits:	17412
 
 
+&c
+
+	1 VD1689_94 Sog 10:0
+	-----
+	1
+
+
 abbei
 
 	1 VD1689_94 Sog 5:30
@@ -40,16 +47,16 @@ abel
 	1
 
 
-abie#§eru
+abie#§eºa
 
-	1 VD1689_94 Sog 6:34
+	1 VD1689_94 Sog 8:2
 	-----
 	1
 
 
-abie#§eºa
+abie#§eru
 
-	1 VD1689_94 Sog 8:2
+	1 VD1689_94 Sog 6:34
 	-----
 	1
 
@@ -136,16 +143,16 @@ adoni
 	3
 
 
-ae#labu
+ae&roòa
 
-	1 VD1689_94 Sog 1:31
+	1 VD1689_94 Sog 20:28
 	-----
 	1
 
 
-ae&roòa
+ae#labu
 
-	1 VD1689_94 Sog 20:28
+	1 VD1689_94 Sog 1:31
 	-----
 	1
 
@@ -208,13 +215,6 @@ ahrenes
 	1
 
 
-ahtri
-
-	1 VD1689_94 Sog 2:17
-	-----
-	1
-
-
 ah§era
 
 	1 VD1689_94 Sog 7:23
@@ -240,6 +240,13 @@ ah§ers
 ah§eru
 
 	1 VD1689_94 Sog 6:35
+	-----
+	1
+
+
+ahtri
+
+	1 VD1689_94 Sog 2:17
 	-----
 	1
 
@@ -295,48 +302,6 @@ aismirúe
 	1
 
 
-aiswedd
-
-	1 VD1689_94 Sog 21:0
-	-----
-	1
-
-
-aiswe§ti
-
-	1 VD1689_94 Sog 18:30
-	-----
-	1
-
-
-aiswe§tu
-
-	1 VD1689_94 Sog 6:11
-	-----
-	1
-
-
-ais§peede
-
-	1 VD1689_94 Sog 3:23
-	-----
-	1
-
-
-ais§tahje
-
-	1 VD1689_94 Sog 7:24
-	-----
-	1
-
-
-ais§tahjeet
-
-	1 VD1689_94 Sog 7:24
-	-----
-	1
-
-
 aisòehmis
 
 	1 VD1689_94 Sog 20:34
@@ -362,6 +327,48 @@ aisúlehd§e
 aisúlehgtas
 
 	1 VD1689_94 Sog 3:24
+	-----
+	1
+
+
+ais§peede
+
+	1 VD1689_94 Sog 3:23
+	-----
+	1
+
+
+ais§tahje
+
+	1 VD1689_94 Sog 7:24
+	-----
+	1
+
+
+ais§tahjeet
+
+	1 VD1689_94 Sog 7:24
+	-----
+	1
+
+
+aiswedd
+
+	1 VD1689_94 Sog 21:0
+	-----
+	1
+
+
+aiswe§ti
+
+	1 VD1689_94 Sog 18:30
+	-----
+	1
+
+
+aiswe§tu
+
+	1 VD1689_94 Sog 6:11
 	-----
 	1
 
@@ -448,30 +455,19 @@ akimanu
 	1
 
 
+akmiòa
+
+	1 VD1689_94 Sog 6:21
+	-----
+	1
+
+
 akmina=kalna
 
 	1 VD1689_94 Sog 15:8
 	1 VD1689_94 Sog 15:11
 	-----
 	2
-
-
-akmini
-
-	1 VD1689_94 Sog 6:20
-	1 VD1689_94 Sog 7:25
-	1 VD1689_94 Sog 9:5
-	1 VD1689_94 Sog 9:18
-	1 VD1689_94 Sog 20:16
-	-----
-	5
-
-
-akmiòa
-
-	1 VD1689_94 Sog 6:21
-	-----
-	1
 
 
 akmiòa=kalna
@@ -491,6 +487,17 @@ akmiòa=kalnu
 	3
 
 
+akmini
+
+	1 VD1689_94 Sog 6:20
+	1 VD1689_94 Sog 7:25
+	1 VD1689_94 Sog 9:5
+	1 VD1689_94 Sog 9:18
+	1 VD1689_94 Sog 20:16
+	-----
+	5
+
+
 akmiòu
 
 	1 VD1689_94 Sog 1:36
@@ -505,16 +512,16 @@ akrabbim
 	1
 
 
-ak§ibu
+akúa
 
-	1 VD1689_94 Sog 1:31
+	1 VD1689_94 Sog 1:0
 	-----
 	1
 
 
-akúa
+ak§ibu
 
-	1 VD1689_94 Sog 1:0
+	1 VD1689_94 Sog 1:31
 	-----
 	1
 
@@ -579,14 +586,6 @@ altaºus
 	1
 
 
-amaleku
-
-	1 VD1689_94 Sog 3:13
-	1 VD1689_94 Sog 5:14
-	-----
-	2
-
-
 amaleíiteºeem
 
 	1 VD1689_94 Sog 10:12
@@ -610,11 +609,12 @@ amaleíiteºu
 	1
 
 
-ammoniteºeem
+amaleku
 
-	1 VD1689_94 Sog 11:0
+	1 VD1689_94 Sog 3:13
+	1 VD1689_94 Sog 5:14
 	-----
-	1
+	2
 
 
 ammoòa
@@ -650,6 +650,13 @@ ammoòa
 	27
 
 
+ammoniteºeem
+
+	1 VD1689_94 Sog 11:0
+	-----
+	1
+
+
 amoriteºeem
 
 	1 VD1689_94 Sog 3:5
@@ -678,16 +685,16 @@ amoriteºu
 	5
 
 
-amoriteºus
+amoriteºu{amorit eu}
 
-	1 VD1689_94 Sog 11:23
+	1 VD1689_94 Sog 11:21
 	-----
 	1
 
 
-amoriteºu{amorit eu}
+amoriteºus
 
-	1 VD1689_94 Sog 11:21
+	1 VD1689_94 Sog 11:23
 	-----
 	1
 
@@ -751,6 +758,13 @@ apgahje
 apgah§e
 
 	1 VD1689_94 Sog 7:13
+	-----
+	1
+
+
+apìehrbe
+
+	1 VD1689_94 Sog 6:34
 	-----
 	1
 
@@ -835,18 +849,18 @@ apkluúúinahts
 	1
 
 
-apkritte
-
-	2 VD1689_94 Sog 7:13
-	-----
-	2
-
-
 apkºautu
 
 	1 VD1689_94 Sog 19:10
 	-----
 	1
+
+
+apkritte
+
+	2 VD1689_94 Sog 7:13
+	-----
+	2
 
 
 aplaupija
@@ -883,6 +897,20 @@ apmettehs
 	1 VD1689_94 Sog 18:12
 	-----
 	8
+
+
+apòemm
+
+	1 VD1689_94 Sog 14:0
+	-----
+	1
+
+
+apòemúchana^
+
+	1 VD1689_94 Sog 7:0
+	-----
+	1
 
 
 apnikke
@@ -954,106 +982,9 @@ aprihja
 	1
 
 
-apwihtu
-
-	1 VD1689_94 Sog 16:14
-	-----
-	1
-
-
 ap§chehlojeetees
 
 	1 VD1689_94 Sog 21:22
-	-----
-	1
-
-
-ap§kaitahs
-
-	1 VD1689_94 Sog 2:14
-	1 VD1689_94 Sog 2:20
-	1 VD1689_94 Sog 3:8
-	1 VD1689_94 Sog 9:30
-	1 VD1689_94 Sog 14:19
-	-----
-	5
-
-
-ap§kai§tahs
-
-	1 VD1689_94 Sog 6:39
-	-----
-	1
-
-
-ap§tahje
-
-	1 VD1689_94 Sog 20:5
-	-----
-	1
-
-
-ap§tahjehs
-
-	1 VD1689_94 Sog 19:22
-	-----
-	1
-
-
-ap§tiprinahts
-
-	1 VD1689_94 Sog 6:0
-	1 VD1689_94 Sog 7:0
-	-----
-	2
-
-
-ap§tiprinajahs
-
-	1 VD1689_94 Sog 20:22
-	-----
-	1
-
-
-ap§tulbohts
-
-	1 VD1689_94 Sog 16:0
-	-----
-	1
-
-
-ap§wehrejúchees
-
-	1 VD1689_94 Sog 21:5
-	1 VD1689_94 Sog 21:18
-	-----
-	2
-
-
-ap§wehrejúees
-
-	1 VD1689_94 Sog 17:2
-	-----
-	1
-
-
-apìehrbe
-
-	1 VD1689_94 Sog 6:34
-	-----
-	1
-
-
-apòemm
-
-	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-apòemúchana^
-
-	1 VD1689_94 Sog 7:0
 	-----
 	1
 
@@ -1093,6 +1024,24 @@ apúehje
 	1 VD1689_94 Sog 9:45
 	-----
 	1
+
+
+ap§kai§tahs
+
+	1 VD1689_94 Sog 6:39
+	-----
+	1
+
+
+ap§kaitahs
+
+	1 VD1689_94 Sog 2:14
+	1 VD1689_94 Sog 2:20
+	1 VD1689_94 Sog 3:8
+	1 VD1689_94 Sog 9:30
+	1 VD1689_94 Sog 14:19
+	-----
+	5
 
 
 apúlehgts
@@ -1173,9 +1122,60 @@ apúohliúchanu
 	1
 
 
+ap§tahje
+
+	1 VD1689_94 Sog 20:5
+	-----
+	1
+
+
+ap§tahjehs
+
+	1 VD1689_94 Sog 19:22
+	-----
+	1
+
+
+ap§tiprinahts
+
+	1 VD1689_94 Sog 6:0
+	1 VD1689_94 Sog 7:0
+	-----
+	2
+
+
+ap§tiprinajahs
+
+	1 VD1689_94 Sog 20:22
+	-----
+	1
+
+
+ap§tulbohts
+
+	1 VD1689_94 Sog 16:0
+	-----
+	1
+
+
 apúuhd§eti
 
 	1 VD1689_94 Sog 2:0
+	-----
+	1
+
+
+ap§wehrejúchees
+
+	1 VD1689_94 Sog 21:5
+	1 VD1689_94 Sog 21:18
+	-----
+	2
+
+
+ap§wehrejúees
+
+	1 VD1689_94 Sog 17:2
 	-----
 	1
 
@@ -1190,6 +1190,13 @@ apúwillinahts
 apúwillinajs
 
 	1 VD1689_94 Sog 15:14
+	-----
+	1
+
+
+apwihtu
+
+	1 VD1689_94 Sog 16:14
 	-----
 	1
 
@@ -1355,13 +1362,6 @@ arnona
 	1
 
 
-arnons
-
-	1 VD1689_94 Sog 11:18
-	-----
-	1
-
-
 arnoòa
 
 	1 VD1689_94 Sog 11:13
@@ -1371,6 +1371,13 @@ arnoòa
 	3
 
 
+arnons
+
+	1 VD1689_94 Sog 11:18
+	-----
+	1
+
+
 aroda
 
 	1 VD1689_94 Sog 7:1
@@ -1378,16 +1385,16 @@ aroda
 	1
 
 
-aroe#ra
+aroe&ra
 
-	1 VD1689_94 Sog 11:33
+	1 VD1689_94 Sog 11:26
 	-----
 	1
 
 
-aroe&ra
+aroe#ra
 
-	1 VD1689_94 Sog 11:26
+	1 VD1689_94 Sog 11:33
 	-----
 	1
 
@@ -1490,6 +1497,109 @@ aruma^
 	1 VD1689_94 Sog 9:41
 	-----
 	1
+
+
+aúklonu
+
+	1 VD1689_94 Sog 1:18
+	-----
+	1
+
+
+a§klonu
+
+	1 VD1689_94 Sog 14:19
+	-----
+	1
+
+
+aúmiòeem
+
+	1 VD1689_94 Sog 3:16
+	-----
+	1
+
+
+aúmini
+
+	1 VD1689_94 Sog 1:8
+	1 VD1689_94 Sog 1:25
+	1 VD1689_94 Sog 3:22
+	1 VD1689_94 Sog 4:15
+	1 VD1689_94 Sog 4:16
+	1 VD1689_94 Sog 18:27
+	1 VD1689_94 Sog 20:37
+	1 VD1689_94 Sog 20:48
+	1 VD1689_94 Sog 21:10
+	-----
+	9
+
+
+aúmins
+
+	1 VD1689_94 Sog 3:22
+	-----
+	1
+
+
+aúúins
+
+	1 VD1689_94 Sog 9:24
+	-----
+	1
+
+
+a§tahm
+
+	1 VD1689_94 Sog 15:4
+	-----
+	1
+
+
+a§tarotam
+
+	1 VD1689_94 Sog 2:13
+	1 VD1689_94 Sog 10:6
+	-----
+	2
+
+
+a§toò
+
+	1 VD1689_94 Sog 3:8
+	-----
+	1
+
+
+a§toòdeúmits
+
+	1 VD1689_94 Sog 3:30
+	-----
+	1
+
+
+a§toòpadeúmits
+
+	1 VD1689_94 Sog 3:14
+	1 VD1689_94 Sog 10:8
+	1 VD1689_94 Sog 20:25
+	1 VD1689_94 Sog 20:44
+	-----
+	4
+
+
+a§toòus
+
+	1 VD1689_94 Sog 12:14
+	-----
+	1
+
+
+a§tu
+
+	2 VD1689_94 Sog 15:4
+	-----
+	2
 
 
 atbildeja
@@ -1601,6 +1711,13 @@ atgree§chahs
 	1
 
 
+atgreeúchanu
+
+	1 VD1689_94 Sog 10:0
+	-----
+	1
+
+
 atgree§ees
 
 	1 VD1689_94 Sog 6:18
@@ -1634,13 +1751,6 @@ atgree§tohs
 atgree§uúchees
 
 	1 VD1689_94 Sog 11:8
-	-----
-	1
-
-
-atgreeúchanu
-
-	1 VD1689_94 Sog 10:0
 	-----
 	1
 
@@ -1838,6 +1948,27 @@ atnahzi
 	1
 
 
+atòehmuúchi
+
+	1 VD1689_94 Sog 18:24
+	-----
+	1
+
+
+atòemt
+
+	1 VD1689_94 Sog 14:15
+	-----
+	1
+
+
+atòemti
+
+	1 VD1689_94 Sog 17:2
+	-----
+	1
+
+
 atneúúe
 
 	1 VD1689_94 Sog 5:25
@@ -1909,20 +2040,6 @@ atraddis
 	1
 
 
-atrauta
-
-	1 VD1689_94 Sog 21:6
-	-----
-	1
-
-
-atrautees
-
-	1 VD1689_94 Sog 11:35
-	-----
-	1
-
-
 atra§dams
 
 	1 VD1689_94 Sog 17:9
@@ -1940,6 +2057,20 @@ atra§t
 atra§ts
 
 	1 VD1689_94 Sog 20:48
+	-----
+	1
+
+
+atrauta
+
+	1 VD1689_94 Sog 21:6
+	-----
+	1
+
+
+atrautees
+
+	1 VD1689_94 Sog 11:35
 	-----
 	1
 
@@ -1967,13 +2098,6 @@ atreebjahs
 	2
 
 
-atreebtees
-
-	1 VD1689_94 Sog 16:28
-	-----
-	1
-
-
 atreebúchanas
 
 	1 VD1689_94 Sog 5:2
@@ -1988,6 +2112,13 @@ atreebúchohs
 	1
 
 
+atreebtees
+
+	1 VD1689_94 Sog 16:28
+	-----
+	1
+
+
 atrohd
 
 	1 VD1689_94 Sog 19:0
@@ -1995,9 +2126,9 @@ atrohd
 	1
 
 
-atweddis
+atúchíihrees
 
-	1 VD1689_94 Sog 18:3
+	1 VD1689_94 Sog 4:11
 	-----
 	1
 
@@ -2022,6 +2153,27 @@ at§inne
 at§innuúchas
 
 	1 VD1689_94 Sog 21:12
+	-----
+	1
+
+
+atúleetees
+
+	1 VD1689_94 Sog 16:26
+	-----
+	1
+
+
+atúlehd§e
+
+	1 VD1689_94 Sog 3:25
+	-----
+	1
+
+
+atúlehgu
+
+	1 VD1689_94 Sog 3:25
 	-----
 	1
 
@@ -2099,51 +2251,9 @@ at§tahtu
 	1
 
 
-atòehmuúchi
+atweddis
 
-	1 VD1689_94 Sog 18:24
-	-----
-	1
-
-
-atòemt
-
-	1 VD1689_94 Sog 14:15
-	-----
-	1
-
-
-atòemti
-
-	1 VD1689_94 Sog 17:2
-	-----
-	1
-
-
-atúchíihrees
-
-	1 VD1689_94 Sog 4:11
-	-----
-	1
-
-
-atúleetees
-
-	1 VD1689_94 Sog 16:26
-	-----
-	1
-
-
-atúlehd§e
-
-	1 VD1689_94 Sog 3:25
-	-----
-	1
-
-
-atúlehgu
-
-	1 VD1689_94 Sog 3:25
+	1 VD1689_94 Sog 18:3
 	-----
 	1
 
@@ -2154,50 +2264,6 @@ audekla
 	1 VD1689_94 Sog 14:13
 	-----
 	2
-
-
-augums
-
-	2 VD1689_94 Sog 2:10
-	-----
-	2
-
-
-aug§ta
-
-	1 VD1689_94 Sog 9:6
-	-----
-	1
-
-
-aug§tahm
-
-	1 VD1689_94 Sog 5:20
-	1 VD1689_94 Sog 5:29
-	-----
-	2
-
-
-aug§tas
-
-	1 VD1689_94 Sog 5:15
-	1 VD1689_94 Sog 5:16
-	-----
-	2
-
-
-aug§teem
-
-	1 VD1689_94 Sog 5:13
-	-----
-	1
-
-
-aug§tuma^
-
-	1 VD1689_94 Sog 5:18
-	-----
-	1
 
 
 augïus
@@ -2257,11 +2323,48 @@ augúchu
 	16
 
 
-au§truma
+aug§ta
 
-	1 VD1689_94 Sog 6:33
+	1 VD1689_94 Sog 9:6
 	-----
 	1
+
+
+aug§tahm
+
+	1 VD1689_94 Sog 5:20
+	1 VD1689_94 Sog 5:29
+	-----
+	2
+
+
+aug§tas
+
+	1 VD1689_94 Sog 5:15
+	1 VD1689_94 Sog 5:16
+	-----
+	2
+
+
+aug§teem
+
+	1 VD1689_94 Sog 5:13
+	-----
+	1
+
+
+aug§tuma^
+
+	1 VD1689_94 Sog 5:18
+	-----
+	1
+
+
+augums
+
+	2 VD1689_94 Sog 2:10
+	-----
+	2
 
 
 auúchu=sprahd§chu
@@ -2296,11 +2399,25 @@ auúim
 	4
 
 
+au§truma
+
+	1 VD1689_94 Sog 6:33
+	-----
+	1
+
+
 aweku
 
 	1 VD1689_94 Sog 1:31
 	-----
 	1
+
+
+awoúchus
+
+	2 VD1689_94 Sog 1:15
+	-----
+	2
 
 
 awota
@@ -2315,13 +2432,6 @@ awotu
 	1 VD1689_94 Sog 15:19
 	-----
 	1
-
-
-awoúchus
-
-	2 VD1689_94 Sog 1:15
-	-----
-	2
 
 
 azis
@@ -2345,16 +2455,16 @@ azora^
 	1
 
 
-azzi^s
+azzi`s
 
-	1 VD1689_94 Sog 6:17
+	1 VD1689_94 Sog 14:7
 	-----
 	1
 
 
-azzi`s
+azzi^s
 
-	1 VD1689_94 Sog 14:7
+	1 VD1689_94 Sog 6:17
 	-----
 	1
 
@@ -2371,123 +2481,6 @@ azzim
 azzis
 
 	1 VD1689_94 Sog 16:21
-	-----
-	1
-
-
-a§klonu
-
-	1 VD1689_94 Sog 14:19
-	-----
-	1
-
-
-a§tahm
-
-	1 VD1689_94 Sog 15:4
-	-----
-	1
-
-
-a§tarotam
-
-	1 VD1689_94 Sog 2:13
-	1 VD1689_94 Sog 10:6
-	-----
-	2
-
-
-a§toò
-
-	1 VD1689_94 Sog 3:8
-	-----
-	1
-
-
-a§toòdeúmits
-
-	1 VD1689_94 Sog 3:30
-	-----
-	1
-
-
-a§toòpadeúmits
-
-	1 VD1689_94 Sog 3:14
-	1 VD1689_94 Sog 10:8
-	1 VD1689_94 Sog 20:25
-	1 VD1689_94 Sog 20:44
-	-----
-	4
-
-
-a§toòus
-
-	1 VD1689_94 Sog 12:14
-	-----
-	1
-
-
-a§tu
-
-	2 VD1689_94 Sog 15:4
-	-----
-	2
-
-
-aúklonu
-
-	1 VD1689_94 Sog 1:18
-	-----
-	1
-
-
-aúmini
-
-	1 VD1689_94 Sog 1:8
-	1 VD1689_94 Sog 1:25
-	1 VD1689_94 Sog 3:22
-	1 VD1689_94 Sog 4:15
-	1 VD1689_94 Sog 4:16
-	1 VD1689_94 Sog 18:27
-	1 VD1689_94 Sog 20:37
-	1 VD1689_94 Sog 20:48
-	1 VD1689_94 Sog 21:10
-	-----
-	9
-
-
-aúmins
-
-	1 VD1689_94 Sog 3:22
-	-----
-	1
-
-
-aúmiòeem
-
-	1 VD1689_94 Sog 3:16
-	-----
-	1
-
-
-aúúins
-
-	1 VD1689_94 Sog 9:24
-	-----
-	1
-
-
-baa#lam
-
-	1 VD1689_94 Sog 2:13
-	-----
-	1
-
-
-baa#lim
-
-	1 VD1689_94 Sog 3:7
 	-----
 	1
 
@@ -2535,6 +2528,20 @@ baa&ls
 	1
 
 
+baa#lam
+
+	1 VD1689_94 Sog 2:13
+	-----
+	1
+
+
+baa#lim
+
+	1 VD1689_94 Sog 3:7
+	-----
+	1
+
+
 baal=beritu
 
 	1 VD1689_94 Sog 8:33
@@ -2563,22 +2570,6 @@ bahrees
 	1
 
 
-bahrtees
-
-	1 VD1689_94 Sog 21:22
-	-----
-	1
-
-
-bahr§iba
-
-	1 VD1689_94 Sog 2:20
-	1 VD1689_94 Sog 3:8
-	1 VD1689_94 Sog 6:39
-	-----
-	3
-
-
 bahrúchanas
 
 	1 VD1689_94 Sog 12:2
@@ -2593,9 +2584,25 @@ bahrúees
 	1
 
 
+bahr§iba
+
+	1 VD1689_94 Sog 2:20
+	1 VD1689_94 Sog 3:8
+	1 VD1689_94 Sog 6:39
+	-----
+	3
+
+
 bahrúitees
 
 	1 VD1689_94 Sog 6:31
+	-----
+	1
+
+
+bahrtees
+
+	1 VD1689_94 Sog 21:22
 	-----
 	1
 
@@ -2654,16 +2661,16 @@ balkúni
 	3
 
 
-baltahm
+balúi
 
-	1 VD1689_94 Sog 5:10
+	1 VD1689_94 Sog 9:7
 	-----
 	1
 
 
-balúi
+baltahm
 
-	1 VD1689_94 Sog 9:7
+	1 VD1689_94 Sog 5:10
 	-----
 	1
 
@@ -2699,6 +2706,14 @@ baraku
 	1 VD1689_94 Sog 4:14
 	-----
 	3
+
+
+baººahs
+
+	1 VD1689_94 Sog 6:31
+	1 VD1689_94 Sog 6:32
+	-----
+	2
 
 
 barriba
@@ -2742,14 +2757,6 @@ bauúlus
 	1 VD1689_94 Sog 2:17
 	-----
 	1
-
-
-baººahs
-
-	1 VD1689_94 Sog 6:31
-	1 VD1689_94 Sog 6:32
-	-----
-	2
 
 
 bedres
@@ -2829,13 +2836,6 @@ behdas
 	1
 
 
-behdu
-
-	1 VD1689_94 Sog 10:14
-	-----
-	1
-
-
 behd§e
 
 	1 VD1689_94 Sog 1:6
@@ -2852,6 +2852,13 @@ behd§e
 	1 VD1689_94 Sog 20:47
 	-----
 	12
+
+
+behdu
+
+	1 VD1689_94 Sog 10:14
+	-----
+	1
 
 
 behgdams
@@ -3062,6 +3069,39 @@ benjamina
 	2
 
 
+benjamiòa
+
+	2 VD1689_94 Sog 20:0
+	1 VD1689_94 Sog 20:3
+	1 VD1689_94 Sog 20:12
+	1 VD1689_94 Sog 20:13
+	1 VD1689_94 Sog 20:14
+	1 VD1689_94 Sog 20:15
+	1 VD1689_94 Sog 20:17
+	1 VD1689_94 Sog 20:18
+	1 VD1689_94 Sog 20:21
+	1 VD1689_94 Sog 20:23
+	1 VD1689_94 Sog 20:24
+	1 VD1689_94 Sog 20:28
+	1 VD1689_94 Sog 20:30
+	1 VD1689_94 Sog 20:31
+	1 VD1689_94 Sog 20:32
+	1 VD1689_94 Sog 20:35
+	1 VD1689_94 Sog 20:36
+	1 VD1689_94 Sog 20:41
+	1 VD1689_94 Sog 20:44
+	1 VD1689_94 Sog 20:46
+	1 VD1689_94 Sog 20:48
+	1 VD1689_94 Sog 21:0
+	1 VD1689_94 Sog 21:13
+	1 VD1689_94 Sog 21:16
+	1 VD1689_94 Sog 21:20
+	1 VD1689_94 Sog 21:21
+	1 VD1689_94 Sog 21:23
+	-----
+	28
+
+
 benjaminam
 
 	1 VD1689_94 Sog 19:14
@@ -3118,39 +3158,6 @@ benjamiteºu
 	1
 
 
-benjamiòa
-
-	2 VD1689_94 Sog 20:0
-	1 VD1689_94 Sog 20:3
-	1 VD1689_94 Sog 20:12
-	1 VD1689_94 Sog 20:13
-	1 VD1689_94 Sog 20:14
-	1 VD1689_94 Sog 20:15
-	1 VD1689_94 Sog 20:17
-	1 VD1689_94 Sog 20:18
-	1 VD1689_94 Sog 20:21
-	1 VD1689_94 Sog 20:23
-	1 VD1689_94 Sog 20:24
-	1 VD1689_94 Sog 20:28
-	1 VD1689_94 Sog 20:30
-	1 VD1689_94 Sog 20:31
-	1 VD1689_94 Sog 20:32
-	1 VD1689_94 Sog 20:35
-	1 VD1689_94 Sog 20:36
-	1 VD1689_94 Sog 20:41
-	1 VD1689_94 Sog 20:44
-	1 VD1689_94 Sog 20:46
-	1 VD1689_94 Sog 20:48
-	1 VD1689_94 Sog 21:0
-	1 VD1689_94 Sog 21:13
-	1 VD1689_94 Sog 21:16
-	1 VD1689_94 Sog 21:20
-	1 VD1689_94 Sog 21:21
-	1 VD1689_94 Sog 21:23
-	-----
-	28
-
-
 berita
 
 	1 VD1689_94 Sog 9:46
@@ -3158,16 +3165,16 @@ berita
 	1
 
 
-beru
+ber§abai
 
-	1 VD1689_94 Sog 9:21
+	1 VD1689_94 Sog 20:1
 	-----
 	1
 
 
-ber§abai
+beru
 
-	1 VD1689_94 Sog 20:1
+	1 VD1689_94 Sog 9:21
 	-----
 	1
 
@@ -3705,16 +3712,16 @@ bildi
 	8
 
 
-bi§es
+biúchu
 
-	1 VD1689_94 Sog 16:19
+	1 VD1689_94 Sog 14:8
 	-----
 	1
 
 
-biúchu
+bi§es
 
-	1 VD1689_94 Sog 14:8
+	1 VD1689_94 Sog 16:19
 	-----
 	1
 
@@ -3768,27 +3775,6 @@ bokimu
 	1
 
 
-brahli
-
-	1 VD1689_94 Sog 1:3
-	1 VD1689_94 Sog 1:17
-	1 VD1689_94 Sog 9:21
-	2 VD1689_94 Sog 9:24
-	1 VD1689_94 Sog 20:23
-	1 VD1689_94 Sog 20:28
-	1 VD1689_94 Sog 21:6
-	-----
-	8
-
-
-brahlis
-
-	1 VD1689_94 Sog 9:3
-	1 VD1689_94 Sog 9:18
-	-----
-	2
-
-
 brahïa
 
 	1 VD1689_94 Sog 1:13
@@ -3808,6 +3794,19 @@ brahïeem
 	5
 
 
+brahli
+
+	1 VD1689_94 Sog 1:3
+	1 VD1689_94 Sog 1:17
+	1 VD1689_94 Sog 9:21
+	2 VD1689_94 Sog 9:24
+	1 VD1689_94 Sog 20:23
+	1 VD1689_94 Sog 20:28
+	1 VD1689_94 Sog 21:6
+	-----
+	8
+
+
 brahïi
 
 	1 VD1689_94 Sog 8:19
@@ -3819,6 +3818,14 @@ brahïi
 	1 VD1689_94 Sog 21:22
 	-----
 	7
+
+
+brahlis
+
+	1 VD1689_94 Sog 9:3
+	1 VD1689_94 Sog 9:18
+	-----
+	2
 
 
 brahïu
@@ -3998,6 +4005,13 @@ buhs
 	45
 
 
+buhúchu
+
+	1 VD1689_94 Sog 6:16
+	-----
+	1
+
+
 buht
 
 	1 VD1689_94 Sog 1:0
@@ -4047,13 +4061,6 @@ buhtut
 	1 VD1689_94 Sog 18:9
 	-----
 	4
-
-
-buhúchu
-
-	1 VD1689_94 Sog 6:16
-	-----
-	1
 
 
 bungahm
@@ -4145,6 +4152,13 @@ dahwanu
 	2 VD1689_94 Sog 3:18
 	-----
 	3
+
+
+daïïa^s
+
+	1 VD1689_94 Sog 19:29
+	-----
+	1
 
 
 dallija
@@ -4396,14 +4410,6 @@ darrijúi
 	1
 
 
-darrita
-
-	1 VD1689_94 Sog 9:24
-	1 VD1689_94 Sog 17:3
-	-----
-	2
-
-
 darriúchu
 
 	1 VD1689_94 Sog 15:3
@@ -4420,6 +4426,14 @@ darriúim
 	1 VD1689_94 Sog 21:16
 	-----
 	5
+
+
+darrita
+
+	1 VD1689_94 Sog 9:24
+	1 VD1689_94 Sog 17:3
+	-----
+	2
 
 
 darru
@@ -4442,13 +4456,6 @@ daud§
 	1 VD1689_94 Sog 20:38
 	-----
 	9
-
-
-daïïa^s
-
-	1 VD1689_94 Sog 19:29
-	-----
-	1
 
 
 debbes
@@ -4769,6 +4776,21 @@ deewus
 	5
 
 
+dehï
+
+	1 VD1689_94 Sog 2:18
+	1 VD1689_94 Sog 5:2
+	1 VD1689_94 Sog 6:2
+	1 VD1689_94 Sog 6:6
+	1 VD1689_94 Sog 6:7
+	1 VD1689_94 Sog 9:17
+	1 VD1689_94 Sog 11:0
+	1 VD1689_94 Sog 17:2
+	1 VD1689_94 Sog 18:7
+	-----
+	9
+
+
 dehla
 
 	1 VD1689_94 Sog 3:15
@@ -4872,21 +4894,6 @@ dehlus
 	2
 
 
-dehï
-
-	1 VD1689_94 Sog 2:18
-	1 VD1689_94 Sog 5:2
-	1 VD1689_94 Sog 6:2
-	1 VD1689_94 Sog 6:6
-	1 VD1689_94 Sog 6:7
-	1 VD1689_94 Sog 9:17
-	1 VD1689_94 Sog 11:0
-	1 VD1689_94 Sog 17:2
-	1 VD1689_94 Sog 18:7
-	-----
-	9
-
-
 deija
 
 	1 VD1689_94 Sog 21:23
@@ -4924,6 +4931,24 @@ derribu
 	4
 
 
+deúmits
+
+	1 VD1689_94 Sog 1:4
+	1 VD1689_94 Sog 2:8
+	1 VD1689_94 Sog 3:29
+	1 VD1689_94 Sog 4:6
+	1 VD1689_94 Sog 4:10
+	1 VD1689_94 Sog 4:14
+	1 VD1689_94 Sog 6:27
+	1 VD1689_94 Sog 7:3
+	1 VD1689_94 Sog 12:11
+	1 VD1689_94 Sog 17:10
+	2 VD1689_94 Sog 20:10
+	1 VD1689_94 Sog 20:34
+	-----
+	13
+
+
 dewe
 
 	1 VD1689_94 Sog 1:13
@@ -4946,6 +4971,14 @@ dewe
 	16
 
 
+dewiòúimts
+
+	1 VD1689_94 Sog 4:3
+	1 VD1689_94 Sog 4:13
+	-----
+	2
+
+
 dewis
 
 	1 VD1689_94 Sog 1:2
@@ -4966,32 +4999,6 @@ dewis
 	1 VD1689_94 Sog 18:10
 	-----
 	16
-
-
-dewiòúimts
-
-	1 VD1689_94 Sog 4:3
-	1 VD1689_94 Sog 4:13
-	-----
-	2
-
-
-deúmits
-
-	1 VD1689_94 Sog 1:4
-	1 VD1689_94 Sog 2:8
-	1 VD1689_94 Sog 3:29
-	1 VD1689_94 Sog 4:6
-	1 VD1689_94 Sog 4:10
-	1 VD1689_94 Sog 4:14
-	1 VD1689_94 Sog 6:27
-	1 VD1689_94 Sog 7:3
-	1 VD1689_94 Sog 12:11
-	1 VD1689_94 Sog 17:10
-	2 VD1689_94 Sog 20:10
-	1 VD1689_94 Sog 20:34
-	-----
-	13
 
 
 diwi
@@ -5052,6 +5059,13 @@ diwirei§i
 	1
 
 
+diwiúimts
+
+	1 VD1689_94 Sog 17:4
+	-----
+	1
+
+
 diwituhk§toúchi
 
 	1 VD1689_94 Sog 7:3
@@ -5062,13 +5076,6 @@ diwituhk§toúchi
 diwituhk§toúchus
 
 	1 VD1689_94 Sog 20:45
-	-----
-	1
-
-
-diwiúimts
-
-	1 VD1689_94 Sog 17:4
 	-----
 	1
 
@@ -5131,37 +5138,6 @@ dohs
 	1
 
 
-doht
-
-	1 VD1689_94 Sog 8:0
-	1 VD1689_94 Sog 8:6
-	1 VD1689_94 Sog 8:15
-	1 VD1689_94 Sog 14:13
-	1 VD1689_94 Sog 19:15
-	1 VD1689_94 Sog 21:0
-	1 VD1689_94 Sog 21:1
-	1 VD1689_94 Sog 21:7
-	1 VD1689_94 Sog 21:18
-	1 VD1689_94 Sog 21:22
-	-----
-	10
-
-
-dohta
-
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:20
-	-----
-	2
-
-
-dohts
-
-	1 VD1689_94 Sog 6:0
-	-----
-	1
-
-
 dohúchanas
 
 	1 VD1689_94 Sog 1:28
@@ -5192,6 +5168,37 @@ dohúim
 	1 VD1689_94 Sog 16:5
 	-----
 	2
+
+
+doht
+
+	1 VD1689_94 Sog 8:0
+	1 VD1689_94 Sog 8:6
+	1 VD1689_94 Sog 8:15
+	1 VD1689_94 Sog 14:13
+	1 VD1689_94 Sog 19:15
+	1 VD1689_94 Sog 21:0
+	1 VD1689_94 Sog 21:1
+	1 VD1689_94 Sog 21:7
+	1 VD1689_94 Sog 21:18
+	1 VD1689_94 Sog 21:22
+	-----
+	10
+
+
+dohta
+
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:20
+	-----
+	2
+
+
+dohts
+
+	1 VD1689_94 Sog 6:0
+	-----
+	1
 
 
 dora
@@ -5293,6 +5300,13 @@ drohúchibas
 	1
 
 
+druúziòas
+
+	1 VD1689_94 Sog 1:7
+	-----
+	1
+
+
 druwehm
 
 	1 VD1689_94 Sog 15:5
@@ -5306,118 +5320,6 @@ druwes
 	1 VD1689_94 Sog 15:5
 	-----
 	2
-
-
-druúziòas
-
-	1 VD1689_94 Sog 1:7
-	-----
-	1
-
-
-duhmi
-
-	1 VD1689_94 Sog 20:40
-	-----
-	1
-
-
-duhmu=stabs
-
-	1 VD1689_94 Sog 20:40
-	-----
-	1
-
-
-duhmus
-
-	1 VD1689_94 Sog 20:38
-	-----
-	1
-
-
-duhre
-
-	1 VD1689_94 Sog 8:6
-	1 VD1689_94 Sog 8:15
-	-----
-	2
-
-
-dumpi
-
-	1 VD1689_94 Sog 9:0
-	1 VD1689_94 Sog 9:31
-	-----
-	2
-
-
-durwi^s
-
-	1 VD1689_94 Sog 4:20
-	-----
-	1
-
-
-durwim
-
-	1 VD1689_94 Sog 9:35
-	1 VD1689_94 Sog 9:40
-	1 VD1689_94 Sog 9:44
-	1 VD1689_94 Sog 9:51
-	1 VD1689_94 Sog 11:31
-	1 VD1689_94 Sog 18:16
-	1 VD1689_94 Sog 18:17
-	1 VD1689_94 Sog 19:22
-	1 VD1689_94 Sog 19:26
-	1 VD1689_94 Sog 19:27
-	-----
-	10
-
-
-durwis
-
-	1 VD1689_94 Sog 3:23
-	1 VD1689_94 Sog 3:24
-	1 VD1689_94 Sog 3:25
-	1 VD1689_94 Sog 16:3
-	1 VD1689_94 Sog 19:27
-	-----
-	5
-
-
-duúmiba
-
-	1 VD1689_94 Sog 8:3
-	1 VD1689_94 Sog 14:19
-	-----
-	2
-
-
-duúúeja
-
-	1 VD1689_94 Sog 3:11
-	1 VD1689_94 Sog 3:30
-	1 VD1689_94 Sog 5:31
-	1 VD1689_94 Sog 8:28
-	-----
-	4
-
-
-dwehúele
-
-	1 VD1689_94 Sog 5:21
-	1 VD1689_94 Sog 16:16
-	1 VD1689_94 Sog 16:30
-	-----
-	3
-
-
-dwehúeli
-
-	1 VD1689_94 Sog 12:3
-	-----
-	1
 
 
 d§eedaja
@@ -5551,6 +5453,13 @@ d§emdinajs
 	1
 
 
+d§en~eetees
+
+	1 VD1689_94 Sog 3:28
+	-----
+	1
+
+
 d§enn
 
 	1 VD1689_94 Sog 10:0
@@ -5593,13 +5502,6 @@ d§ennohs
 d§ennuïeem
 
 	1 VD1689_94 Sog 2:3
-	-----
-	1
-
-
-d§en~eetees
-
-	1 VD1689_94 Sog 3:28
 	-----
 	1
 
@@ -5770,6 +5672,21 @@ d§ihwojúchi
 	1
 
 
+d§ihwokïa
+
+	1 VD1689_94 Sog 4:20
+	1 VD1689_94 Sog 4:21
+	-----
+	2
+
+
+d§ihwokïeem
+
+	1 VD1689_94 Sog 6:5
+	-----
+	1
+
+
 d§ihwokli
 
 	1 VD1689_94 Sog 4:11
@@ -5787,21 +5704,6 @@ d§ihwokli^
 	1 VD1689_94 Sog 5:24
 	-----
 	2
-
-
-d§ihwokïa
-
-	1 VD1689_94 Sog 4:20
-	1 VD1689_94 Sog 4:21
-	-----
-	2
-
-
-d§ihwokïeem
-
-	1 VD1689_94 Sog 6:5
-	-----
-	1
 
 
 d§ihws
@@ -5896,6 +5798,13 @@ d§irdejúchi
 	1
 
 
+d§irdeúi
+
+	1 VD1689_94 Sog 7:11
+	-----
+	1
+
+
 d§irdeta
 
 	1 VD1689_94 Sog 18:25
@@ -5910,13 +5819,6 @@ d§irdetu
 	1
 
 
-d§irdeúi
-
-	1 VD1689_94 Sog 7:11
-	-----
-	1
-
-
 d§irdija
 
 	1 VD1689_94 Sog 4:19
@@ -5927,6 +5829,111 @@ d§irdija
 d§irnu=akmiòa
 
 	1 VD1689_94 Sog 9:53
+	-----
+	1
+
+
+duhmi
+
+	1 VD1689_94 Sog 20:40
+	-----
+	1
+
+
+duhmu=stabs
+
+	1 VD1689_94 Sog 20:40
+	-----
+	1
+
+
+duhmus
+
+	1 VD1689_94 Sog 20:38
+	-----
+	1
+
+
+duhre
+
+	1 VD1689_94 Sog 8:6
+	1 VD1689_94 Sog 8:15
+	-----
+	2
+
+
+dumpi
+
+	1 VD1689_94 Sog 9:0
+	1 VD1689_94 Sog 9:31
+	-----
+	2
+
+
+durwi^s
+
+	1 VD1689_94 Sog 4:20
+	-----
+	1
+
+
+durwim
+
+	1 VD1689_94 Sog 9:35
+	1 VD1689_94 Sog 9:40
+	1 VD1689_94 Sog 9:44
+	1 VD1689_94 Sog 9:51
+	1 VD1689_94 Sog 11:31
+	1 VD1689_94 Sog 18:16
+	1 VD1689_94 Sog 18:17
+	1 VD1689_94 Sog 19:22
+	1 VD1689_94 Sog 19:26
+	1 VD1689_94 Sog 19:27
+	-----
+	10
+
+
+durwis
+
+	1 VD1689_94 Sog 3:23
+	1 VD1689_94 Sog 3:24
+	1 VD1689_94 Sog 3:25
+	1 VD1689_94 Sog 16:3
+	1 VD1689_94 Sog 19:27
+	-----
+	5
+
+
+duúmiba
+
+	1 VD1689_94 Sog 8:3
+	1 VD1689_94 Sog 14:19
+	-----
+	2
+
+
+duúúeja
+
+	1 VD1689_94 Sog 3:11
+	1 VD1689_94 Sog 3:30
+	1 VD1689_94 Sog 5:31
+	1 VD1689_94 Sog 8:28
+	-----
+	4
+
+
+dwehúele
+
+	1 VD1689_94 Sog 5:21
+	1 VD1689_94 Sog 16:16
+	1 VD1689_94 Sog 16:30
+	-----
+	3
+
+
+dwehúeli
+
+	1 VD1689_94 Sog 12:3
 	-----
 	1
 
@@ -5957,13 +5964,6 @@ eebeda
 	5
 
 
-eebers
-
-	1 VD1689_94 Sog 4:11
-	-----
-	1
-
-
 eebeºa
 
 	2 VD1689_94 Sog 4:17
@@ -5973,9 +5973,23 @@ eebeºa
 	4
 
 
+eebers
+
+	1 VD1689_94 Sog 4:11
+	-----
+	1
+
+
 eebrona
 
 	1 VD1689_94 Sog 1:10
+	-----
+	1
+
+
+eebroòa
+
+	1 VD1689_94 Sog 16:3
 	-----
 	1
 
@@ -5990,13 +6004,6 @@ eebrona^
 eebronu
 
 	1 VD1689_94 Sog 1:20
-	-----
-	1
-
-
-eebroòa
-
-	1 VD1689_94 Sog 16:3
 	-----
 	1
 
@@ -6046,20 +6053,6 @@ eedomiteºu
 	2
 
 
-eeduhre
-
-	1 VD1689_94 Sog 3:21
-	-----
-	1
-
-
-eeduúmojahs
-
-	1 VD1689_94 Sog 10:7
-	-----
-	1
-
-
 eed§ihwotajeem
 
 	1 VD1689_94 Sog 16:0
@@ -6086,6 +6079,20 @@ eed§ihwotajus
 	1 VD1689_94 Sog 21:0
 	-----
 	12
+
+
+eeduhre
+
+	1 VD1689_94 Sog 3:21
+	-----
+	1
+
+
+eeduúmojahs
+
+	1 VD1689_94 Sog 10:7
+	-----
+	1
 
 
 eeehle
@@ -6290,16 +6297,16 @@ eemantojama
 	1
 
 
-eemantotu
+eemantoúchanu
 
-	1 VD1689_94 Sog 2:6
+	1 VD1689_94 Sog 21:17
 	-----
 	1
 
 
-eemantoúchanu
+eemantotu
 
-	1 VD1689_94 Sog 21:17
+	1 VD1689_94 Sog 2:6
 	-----
 	1
 
@@ -6461,6 +6468,29 @@ ees
 	3
 
 
+eeúahzis
+
+	1 VD1689_94 Sog 20:39
+	-----
+	1
+
+
+eeúchu
+
+	1 VD1689_94 Sog 1:3
+	2 VD1689_94 Sog 4:8
+	1 VD1689_94 Sog 4:9
+	-----
+	4
+
+
+eeúim
+
+	1 VD1689_94 Sog 20:8
+	-----
+	1
+
+
 eet
 
 	1 VD1689_94 Sog 1:2
@@ -6582,40 +6612,6 @@ eewodu
 	8
 
 
-eewra#ima
-
-	1 VD1689_94 Sog 3:27
-	1 VD1689_94 Sog 7:24
-	1 VD1689_94 Sog 12:1
-	1 VD1689_94 Sog 12:4
-	1 VD1689_94 Sog 12:5
-	1 VD1689_94 Sog 12:15
-	1 VD1689_94 Sog 18:2
-	-----
-	7
-
-
-eewra#imiteºeem
-
-	1 VD1689_94 Sog 12:5
-	-----
-	1
-
-
-eewra#imiteºi
-
-	1 VD1689_94 Sog 12:0
-	-----
-	1
-
-
-eewra#imu
-
-	1 VD1689_94 Sog 12:4
-	-----
-	1
-
-
 eewra&ima
 
 	1 VD1689_94 Sog 4:5
@@ -6664,6 +6660,40 @@ eewra&iteris
 	1
 
 
+eewra#ima
+
+	1 VD1689_94 Sog 3:27
+	1 VD1689_94 Sog 7:24
+	1 VD1689_94 Sog 12:1
+	1 VD1689_94 Sog 12:4
+	1 VD1689_94 Sog 12:5
+	1 VD1689_94 Sog 12:15
+	1 VD1689_94 Sog 18:2
+	-----
+	7
+
+
+eewra#imiteºeem
+
+	1 VD1689_94 Sog 12:5
+	-----
+	1
+
+
+eewra#imiteºi
+
+	1 VD1689_94 Sog 12:0
+	-----
+	1
+
+
+eewra#imu
+
+	1 VD1689_94 Sog 12:4
+	-----
+	1
+
+
 eewraima
 
 	1 VD1689_94 Sog 2:9
@@ -6699,6 +6729,14 @@ eezehluúchi
 	2
 
 
+eezeïï
+
+	1 VD1689_94 Sog 2:0
+	1 VD1689_94 Sog 17:0
+	-----
+	2
+
+
 eezelti
 
 	1 VD1689_94 Sog 7:19
@@ -6713,33 +6751,16 @@ eezelts
 	1
 
 
-eezeïï
+egipteºeem
 
-	1 VD1689_94 Sog 2:0
-	1 VD1689_94 Sog 17:0
-	-----
-	2
-
-
-eeúahzis
-
-	1 VD1689_94 Sog 20:39
+	1 VD1689_94 Sog 10:11
 	-----
 	1
 
 
-eeúchu
+egipteºu
 
-	1 VD1689_94 Sog 1:3
-	2 VD1689_94 Sog 4:8
-	1 VD1689_94 Sog 4:9
-	-----
-	4
-
-
-eeúim
-
-	1 VD1689_94 Sog 20:8
+	1 VD1689_94 Sog 6:9
 	-----
 	1
 
@@ -6759,20 +6780,6 @@ egiptes
 egiptes=semmes
 
 	1 VD1689_94 Sog 19:30
-	-----
-	1
-
-
-egipteºeem
-
-	1 VD1689_94 Sog 10:11
-	-----
-	1
-
-
-egipteºu
-
-	1 VD1689_94 Sog 6:9
 	-----
 	1
 
@@ -6884,11 +6891,12 @@ ehríúchíus
 	1
 
 
-eh§eli
+ehúeïa
 
-	1 VD1689_94 Sog 19:28
+	1 VD1689_94 Sog 15:0
+	1 VD1689_94 Sog 15:15
 	-----
-	1
+	2
 
 
 eh§eïa
@@ -6913,6 +6921,13 @@ eh§eïeem
 	1 VD1689_94 Sog 19:21
 	-----
 	3
+
+
+eh§eli
+
+	1 VD1689_94 Sog 19:28
+	-----
+	1
 
 
 eh§eïu
@@ -6940,14 +6955,6 @@ eh§eïus
 eh§t
 
 	2 VD1689_94 Sog 13:13
-	-----
-	2
-
-
-ehúeïa
-
-	1 VD1689_94 Sog 15:0
-	1 VD1689_94 Sog 15:15
 	-----
 	2
 
@@ -7019,6 +7026,27 @@ elea§aºa
 	1
 
 
+eïjes=kohks
+
+	1 VD1689_94 Sog 9:9
+	-----
+	1
+
+
+eïjes=kohku
+
+	1 VD1689_94 Sog 9:8
+	-----
+	1
+
+
+eïjes=kohkus
+
+	1 VD1689_94 Sog 15:5
+	-----
+	1
+
+
 elka=deewibas
 
 	1 VD1689_94 Sog 6:0
@@ -7071,6 +7099,52 @@ elku
 	1 VD1689_94 Sog 18:0
 	-----
 	2
+
+
+eòìeïa
+
+	1 VD1689_94 Sog 2:0
+	1 VD1689_94 Sog 13:6
+	-----
+	2
+
+
+eòìeli
+
+	1 VD1689_94 Sog 6:0
+	2 VD1689_94 Sog 6:22
+	1 VD1689_94 Sog 13:15
+	1 VD1689_94 Sog 13:16
+	1 VD1689_94 Sog 13:17
+	-----
+	6
+
+
+eògelis
+
+	1 VD1689_94 Sog 13:16
+	-----
+	1
+
+
+eòìelis
+
+	1 VD1689_94 Sog 2:1
+	1 VD1689_94 Sog 2:4
+	1 VD1689_94 Sog 5:23
+	1 VD1689_94 Sog 6:11
+	1 VD1689_94 Sog 6:12
+	1 VD1689_94 Sog 6:20
+	2 VD1689_94 Sog 6:21
+	2 VD1689_94 Sog 13:0
+	1 VD1689_94 Sog 13:3
+	1 VD1689_94 Sog 13:9
+	1 VD1689_94 Sog 13:13
+	1 VD1689_94 Sog 13:18
+	1 VD1689_94 Sog 13:20
+	2 VD1689_94 Sog 13:21
+	-----
+	17
 
 
 ermoòa
@@ -7169,161 +7243,10 @@ es
 	113
 
 
-etc
-
-	1 VD1689_94 Sog 5:0
-	-----
-	1
-
-
-eu#ds
-
-	1 VD1689_94 Sog 3:20
-	1 VD1689_94 Sog 3:23
-	-----
-	2
-
-
-eu#du
-
-	1 VD1689_94 Sog 3:0
-	-----
-	1
-
-
-eu&ds
-
-	1 VD1689_94 Sog 3:21
-	1 VD1689_94 Sog 3:26
-	1 VD1689_94 Sog 4:1
-	-----
-	3
-
-
-eu`ds
-
-	1 VD1689_94 Sog 3:16
-	-----
-	1
-
-
-euds
-
-	1 VD1689_94 Sog 3:20
-	-----
-	1
-
-
-eu~du
-
-	1 VD1689_94 Sog 3:15
-	-----
-	1
-
-
 e§bona
 
 	1 VD1689_94 Sog 11:19
 	1 VD1689_94 Sog 11:26
-	-----
-	2
-
-
-e§riteºu
-
-	1 VD1689_94 Sog 6:24
-	1 VD1689_94 Sog 8:32
-	-----
-	2
-
-
-e§rus
-
-	1 VD1689_94 Sog 6:11
-	-----
-	1
-
-
-e§taoles
-
-	1 VD1689_94 Sog 13:25
-	1 VD1689_94 Sog 16:31
-	1 VD1689_94 Sog 18:2
-	1 VD1689_94 Sog 18:11
-	-----
-	4
-
-
-e§taoli
-
-	1 VD1689_94 Sog 18:8
-	-----
-	1
-
-
-eïjes=kohks
-
-	1 VD1689_94 Sog 9:9
-	-----
-	1
-
-
-eïjes=kohku
-
-	1 VD1689_94 Sog 9:8
-	-----
-	1
-
-
-eïjes=kohkus
-
-	1 VD1689_94 Sog 15:5
-	-----
-	1
-
-
-eògelis
-
-	1 VD1689_94 Sog 13:16
-	-----
-	1
-
-
-eòìeli
-
-	1 VD1689_94 Sog 6:0
-	2 VD1689_94 Sog 6:22
-	1 VD1689_94 Sog 13:15
-	1 VD1689_94 Sog 13:16
-	1 VD1689_94 Sog 13:17
-	-----
-	6
-
-
-eòìelis
-
-	1 VD1689_94 Sog 2:1
-	1 VD1689_94 Sog 2:4
-	1 VD1689_94 Sog 5:23
-	1 VD1689_94 Sog 6:11
-	1 VD1689_94 Sog 6:12
-	1 VD1689_94 Sog 6:20
-	2 VD1689_94 Sog 6:21
-	2 VD1689_94 Sog 13:0
-	1 VD1689_94 Sog 13:3
-	1 VD1689_94 Sog 13:9
-	1 VD1689_94 Sog 13:13
-	1 VD1689_94 Sog 13:18
-	1 VD1689_94 Sog 13:20
-	2 VD1689_94 Sog 13:21
-	-----
-	17
-
-
-eòìeïa
-
-	1 VD1689_94 Sog 2:0
-	1 VD1689_94 Sog 13:6
 	-----
 	2
 
@@ -7364,6 +7287,21 @@ eúmu
 	1 VD1689_94 Sog 19:18
 	-----
 	36
+
+
+e§riteºu
+
+	1 VD1689_94 Sog 6:24
+	1 VD1689_94 Sog 8:32
+	-----
+	2
+
+
+e§rus
+
+	1 VD1689_94 Sog 6:11
+	-----
+	1
 
 
 eúúam
@@ -7467,9 +7405,71 @@ eúúus
 	1
 
 
-gaa#la
+e§taoles
 
-	1 VD1689_94 Sog 9:30
+	1 VD1689_94 Sog 13:25
+	1 VD1689_94 Sog 16:31
+	1 VD1689_94 Sog 18:2
+	1 VD1689_94 Sog 18:11
+	-----
+	4
+
+
+e§taoli
+
+	1 VD1689_94 Sog 18:8
+	-----
+	1
+
+
+etc
+
+	1 VD1689_94 Sog 5:0
+	-----
+	1
+
+
+eu`ds
+
+	1 VD1689_94 Sog 3:16
+	-----
+	1
+
+
+eu~du
+
+	1 VD1689_94 Sog 3:15
+	-----
+	1
+
+
+eu&ds
+
+	1 VD1689_94 Sog 3:21
+	1 VD1689_94 Sog 3:26
+	1 VD1689_94 Sog 4:1
+	-----
+	3
+
+
+eu#ds
+
+	1 VD1689_94 Sog 3:20
+	1 VD1689_94 Sog 3:23
+	-----
+	2
+
+
+eu#du
+
+	1 VD1689_94 Sog 3:0
+	-----
+	1
+
+
+euds
+
+	1 VD1689_94 Sog 3:20
 	-----
 	1
 
@@ -7490,6 +7490,13 @@ gaa&ls
 gaa&s
 
 	1 VD1689_94 Sog 2:9
+	-----
+	1
+
+
+gaa#la
+
+	1 VD1689_94 Sog 9:30
 	-----
 	1
 
@@ -7744,6 +7751,15 @@ gallu
 	1
 
 
+gaïïu
+
+	1 VD1689_94 Sog 6:19
+	1 VD1689_94 Sog 6:20
+	2 VD1689_94 Sog 6:21
+	-----
+	4
+
+
 gals
 
 	1 VD1689_94 Sog 21:25
@@ -7827,6 +7843,20 @@ gannama=pulku
 	1
 
 
+gaººam
+
+	1 VD1689_94 Sog 20:16
+	-----
+	1
+
+
+gaººuma^
+
+	1 VD1689_94 Sog 3:16
+	-----
+	1
+
+
 gars
 
 	1 VD1689_94 Sog 3:10
@@ -7839,6 +7869,35 @@ gars
 	1 VD1689_94 Sog 15:19
 	-----
 	8
+
+
+ga§as
+
+	1 VD1689_94 Sog 16:0
+	-----
+	1
+
+
+ga§era^
+
+	2 VD1689_94 Sog 1:29
+	-----
+	2
+
+
+ga§iteºeem
+
+	1 VD1689_94 Sog 16:2
+	-----
+	1
+
+
+ga§u
+
+	1 VD1689_94 Sog 16:1
+	1 VD1689_94 Sog 16:21
+	-----
+	2
 
 
 gau§chi
@@ -7871,58 +7930,6 @@ gazu
 	2
 
 
-ga§as
-
-	1 VD1689_94 Sog 16:0
-	-----
-	1
-
-
-ga§era^
-
-	2 VD1689_94 Sog 1:29
-	-----
-	2
-
-
-ga§iteºeem
-
-	1 VD1689_94 Sog 16:2
-	-----
-	1
-
-
-ga§u
-
-	1 VD1689_94 Sog 16:1
-	1 VD1689_94 Sog 16:21
-	-----
-	2
-
-
-gaïïu
-
-	1 VD1689_94 Sog 6:19
-	1 VD1689_94 Sog 6:20
-	2 VD1689_94 Sog 6:21
-	-----
-	4
-
-
-gaººam
-
-	1 VD1689_94 Sog 20:16
-	-----
-	1
-
-
-gaººuma^
-
-	1 VD1689_94 Sog 3:16
-	-----
-	1
-
-
 geba
 
 	1 VD1689_94 Sog 20:10
@@ -7930,16 +7937,16 @@ geba
 	1
 
 
-gerus
+ger§oòa
 
-	1 VD1689_94 Sog 3:15
+	1 VD1689_94 Sog 18:30
 	-----
 	1
 
 
-ger§oòa
+gerus
 
-	1 VD1689_94 Sog 18:30
+	1 VD1689_94 Sog 3:15
 	-----
 	1
 
@@ -7993,12 +8000,30 @@ gideana
 	1
 
 
+gideaòa
+
+	1 VD1689_94 Sog 7:14
+	1 VD1689_94 Sog 7:18
+	1 VD1689_94 Sog 7:20
+	1 VD1689_94 Sog 7:25
+	1 VD1689_94 Sog 9:0
+	-----
+	5
+
+
 gideanam
 
 	1 VD1689_94 Sog 8:27
 	1 VD1689_94 Sog 8:30
 	-----
 	2
+
+
+gideaòam
+
+	1 VD1689_94 Sog 8:0
+	-----
+	1
 
 
 gideans
@@ -8048,29 +8073,18 @@ gideanu
 	7
 
 
-gideaòa
-
-	1 VD1689_94 Sog 7:14
-	1 VD1689_94 Sog 7:18
-	1 VD1689_94 Sog 7:20
-	1 VD1689_94 Sog 7:25
-	1 VD1689_94 Sog 9:0
-	-----
-	5
-
-
-gideaòam
-
-	1 VD1689_94 Sog 8:0
-	-----
-	1
-
-
 gideomam
 
 	1 VD1689_94 Sog 20:45
 	-----
 	1
+
+
+ìihmis
+
+	2 VD1689_94 Sog 13:6
+	-----
+	2
 
 
 gileada
@@ -8115,15 +8129,6 @@ gileadas
 	24
 
 
-gileaditeris
-
-	1 VD1689_94 Sog 10:3
-	1 VD1689_94 Sog 11:1
-	2 VD1689_94 Sog 12:7
-	-----
-	4
-
-
 gileaditeºa
 
 	1 VD1689_94 Sog 11:40
@@ -8137,6 +8142,15 @@ gileaditeºi
 	1 VD1689_94 Sog 12:5
 	-----
 	2
+
+
+gileaditeris
+
+	1 VD1689_94 Sog 10:3
+	1 VD1689_94 Sog 11:1
+	2 VD1689_94 Sog 12:7
+	-----
+	4
 
 
 gileads
@@ -8328,6 +8342,23 @@ gri§ima
 	1
 
 
+gºuhta
+
+	1 VD1689_94 Sog 13:3
+	1 VD1689_94 Sog 13:5
+	1 VD1689_94 Sog 13:7
+	-----
+	3
+
+
+gºuhti
+
+	1 VD1689_94 Sog 6:0
+	1 VD1689_94 Sog 16:16
+	-----
+	2
+
+
 gubbas
 
 	1 VD1689_94 Sog 15:5
@@ -8413,23 +8444,6 @@ gurre
 	1 VD1689_94 Sog 4:21
 	-----
 	1
-
-
-gºuhta
-
-	1 VD1689_94 Sog 13:3
-	1 VD1689_94 Sog 13:5
-	1 VD1689_94 Sog 13:7
-	-----
-	3
-
-
-gºuhti
-
-	1 VD1689_94 Sog 6:0
-	1 VD1689_94 Sog 16:16
-	-----
-	2
 
 
 ihkúchíeem
@@ -8857,13 +8871,6 @@ isdohúees
 	1
 
 
-isduhre
-
-	1 VD1689_94 Sog 16:21
-	-----
-	1
-
-
 isd§enn
 
 	1 VD1689_94 Sog 11:24
@@ -8871,18 +8878,18 @@ isd§enn
 	1
 
 
-isd§iht
-
-	1 VD1689_94 Sog 1:19
-	1 VD1689_94 Sog 9:29
-	-----
-	2
-
-
 isd§ihúchu
 
 	1 VD1689_94 Sog 2:3
 	1 VD1689_94 Sog 2:21
+	-----
+	2
+
+
+isd§iht
+
+	1 VD1689_94 Sog 1:19
+	1 VD1689_94 Sog 9:29
 	-----
 	2
 
@@ -8922,6 +8929,13 @@ isd§innuúchi
 	1
 
 
+isduhre
+
+	1 VD1689_94 Sog 16:21
+	-----
+	1
+
+
 iseedami
 
 	1 VD1689_94 Sog 20:14
@@ -8936,16 +8950,16 @@ isees
 	1
 
 
-iseet
+iseeúchu
 
-	1 VD1689_94 Sog 9:15
+	1 VD1689_94 Sog 16:20
 	-----
 	1
 
 
-iseeúchu
+iseet
 
-	1 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 9:15
 	-----
 	1
 
@@ -9017,6 +9031,13 @@ isgahjis
 isgahjuúchi
 
 	1 VD1689_94 Sog 19:30
+	-----
+	1
+
+
+isìinne
+
+	1 VD1689_94 Sog 6:6
 	-----
 	1
 
@@ -9158,6 +9179,20 @@ isluhkojuúchi
 	2
 
 
+i§mae&liteºu
+
+	1 VD1689_94 Sog 8:0
+	-----
+	1
+
+
+i§maeliteºi
+
+	1 VD1689_94 Sog 8:24
+	-----
+	1
+
+
 ismeklejúchees
 
 	1 VD1689_94 Sog 10:14
@@ -9283,9 +9318,280 @@ ispoh§ta
 	1
 
 
+i§rae~ïa
+
+	1 VD1689_94 Sog 4:3
+	-----
+	1
+
+
 israe&ïa
 
 	1 VD1689_94 Sog 19:0
+	-----
+	1
+
+
+i§rae&ïa
+
+	1 VD1689_94 Sog 1:0
+	1 VD1689_94 Sog 2:0
+	1 VD1689_94 Sog 2:4
+	1 VD1689_94 Sog 2:10
+	1 VD1689_94 Sog 3:14
+	1 VD1689_94 Sog 4:3
+	1 VD1689_94 Sog 5:8
+	1 VD1689_94 Sog 5:9
+	1 VD1689_94 Sog 6:4
+	1 VD1689_94 Sog 6:8
+	1 VD1689_94 Sog 7:23
+	1 VD1689_94 Sog 8:33
+	1 VD1689_94 Sog 8:34
+	1 VD1689_94 Sog 10:11
+	1 VD1689_94 Sog 10:17
+	1 VD1689_94 Sog 11:23
+	1 VD1689_94 Sog 19:1
+	1 VD1689_94 Sog 20:1
+	1 VD1689_94 Sog 20:3
+	1 VD1689_94 Sog 20:7
+	1 VD1689_94 Sog 20:18
+	1 VD1689_94 Sog 20:20
+	1 VD1689_94 Sog 20:25
+	1 VD1689_94 Sog 20:26
+	1 VD1689_94 Sog 20:31
+	1 VD1689_94 Sog 20:32
+	1 VD1689_94 Sog 20:33
+	1 VD1689_94 Sog 20:35
+	1 VD1689_94 Sog 21:6
+	1 VD1689_94 Sog 21:18
+	-----
+	30
+
+
+i§rae&ls
+
+	1 VD1689_94 Sog 3:4
+	1 VD1689_94 Sog 6:0
+	1 VD1689_94 Sog 6:3
+	1 VD1689_94 Sog 6:6
+	1 VD1689_94 Sog 7:2
+	2 VD1689_94 Sog 11:19
+	1 VD1689_94 Sog 11:26
+	-----
+	8
+
+
+i§rae&lu
+
+	1 VD1689_94 Sog 2:14
+	1 VD1689_94 Sog 3:13
+	1 VD1689_94 Sog 6:37
+	1 VD1689_94 Sog 8:0
+	1 VD1689_94 Sog 10:0
+	1 VD1689_94 Sog 10:3
+	1 VD1689_94 Sog 11:5
+	1 VD1689_94 Sog 11:20
+	1 VD1689_94 Sog 11:25
+	1 VD1689_94 Sog 12:11
+	1 VD1689_94 Sog 13:0
+	1 VD1689_94 Sog 15:20
+	-----
+	12
+
+
+i§rae#ïa
+
+	1 VD1689_94 Sog 1:1
+	1 VD1689_94 Sog 2:6
+	1 VD1689_94 Sog 2:7
+	1 VD1689_94 Sog 2:11
+	1 VD1689_94 Sog 3:0
+	1 VD1689_94 Sog 3:2
+	1 VD1689_94 Sog 3:5
+	1 VD1689_94 Sog 3:7
+	1 VD1689_94 Sog 3:8
+	2 VD1689_94 Sog 3:9
+	1 VD1689_94 Sog 3:12
+	2 VD1689_94 Sog 3:15
+	1 VD1689_94 Sog 3:27
+	1 VD1689_94 Sog 3:30
+	1 VD1689_94 Sog 4:1
+	1 VD1689_94 Sog 4:5
+	1 VD1689_94 Sog 4:6
+	1 VD1689_94 Sog 4:23
+	1 VD1689_94 Sog 4:24
+	1 VD1689_94 Sog 5:3
+	1 VD1689_94 Sog 5:5
+	2 VD1689_94 Sog 5:7
+	1 VD1689_94 Sog 5:11
+	1 VD1689_94 Sog 6:1
+	1 VD1689_94 Sog 6:2
+	1 VD1689_94 Sog 6:6
+	1 VD1689_94 Sog 6:7
+	1 VD1689_94 Sog 6:8
+	1 VD1689_94 Sog 7:8
+	1 VD1689_94 Sog 7:15
+	1 VD1689_94 Sog 8:22
+	1 VD1689_94 Sog 8:28
+	1 VD1689_94 Sog 8:35
+	1 VD1689_94 Sog 9:55
+	1 VD1689_94 Sog 10:6
+	2 VD1689_94 Sog 10:8
+	1 VD1689_94 Sog 10:10
+	1 VD1689_94 Sog 10:15
+	1 VD1689_94 Sog 10:16
+	2 VD1689_94 Sog 11:21
+	1 VD1689_94 Sog 11:23
+	1 VD1689_94 Sog 11:33
+	2 VD1689_94 Sog 11:40
+	1 VD1689_94 Sog 13:1
+	1 VD1689_94 Sog 17:6
+	1 VD1689_94 Sog 18:1
+	1 VD1689_94 Sog 18:19
+	1 VD1689_94 Sog 19:12
+	1 VD1689_94 Sog 19:29
+	1 VD1689_94 Sog 19:30
+	1 VD1689_94 Sog 20:0
+	1 VD1689_94 Sog 20:2
+	1 VD1689_94 Sog 20:3
+	2 VD1689_94 Sog 20:6
+	2 VD1689_94 Sog 20:10
+	1 VD1689_94 Sog 20:11
+	1 VD1689_94 Sog 20:12
+	2 VD1689_94 Sog 20:13
+	1 VD1689_94 Sog 20:14
+	1 VD1689_94 Sog 20:17
+	1 VD1689_94 Sog 20:19
+	1 VD1689_94 Sog 20:20
+	1 VD1689_94 Sog 20:21
+	1 VD1689_94 Sog 20:23
+	1 VD1689_94 Sog 20:24
+	1 VD1689_94 Sog 20:27
+	1 VD1689_94 Sog 20:30
+	1 VD1689_94 Sog 20:34
+	1 VD1689_94 Sog 20:35
+	1 VD1689_94 Sog 20:36
+	1 VD1689_94 Sog 20:38
+	2 VD1689_94 Sog 20:39
+	1 VD1689_94 Sog 20:41
+	1 VD1689_94 Sog 20:42
+	1 VD1689_94 Sog 20:48
+	1 VD1689_94 Sog 21:1
+	2 VD1689_94 Sog 21:3
+	2 VD1689_94 Sog 21:5
+	1 VD1689_94 Sog 21:6
+	1 VD1689_94 Sog 21:8
+	1 VD1689_94 Sog 21:15
+	1 VD1689_94 Sog 21:17
+	1 VD1689_94 Sog 21:24
+	1 VD1689_94 Sog 21:25
+	-----
+	96
+
+
+i§rae#ïam
+
+	1 VD1689_94 Sog 10:9
+	1 VD1689_94 Sog 11:20
+	-----
+	2
+
+
+i§rae#liteºeem
+
+	1 VD1689_94 Sog 20:0
+	-----
+	1
+
+
+i§rae#liteºi
+
+	1 VD1689_94 Sog 20:33
+	-----
+	1
+
+
+i§rae#liteºu
+
+	1 VD1689_94 Sog 7:14
+	1 VD1689_94 Sog 21:0
+	-----
+	2
+
+
+i§rae#ls
+
+	1 VD1689_94 Sog 1:28
+	1 VD1689_94 Sog 4:0
+	1 VD1689_94 Sog 5:8
+	1 VD1689_94 Sog 8:0
+	1 VD1689_94 Sog 8:27
+	1 VD1689_94 Sog 11:13
+	1 VD1689_94 Sog 11:15
+	1 VD1689_94 Sog 11:16
+	2 VD1689_94 Sog 11:17
+	1 VD1689_94 Sog 11:21
+	1 VD1689_94 Sog 13:0
+	1 VD1689_94 Sog 20:29
+	1 VD1689_94 Sog 21:0
+	1 VD1689_94 Sog 21:3
+	-----
+	15
+
+
+i§rae#lu
+
+	1 VD1689_94 Sog 2:20
+	1 VD1689_94 Sog 2:22
+	1 VD1689_94 Sog 3:1
+	1 VD1689_94 Sog 3:8
+	1 VD1689_94 Sog 3:10
+	1 VD1689_94 Sog 3:12
+	1 VD1689_94 Sog 3:31
+	1 VD1689_94 Sog 4:4
+	1 VD1689_94 Sog 5:2
+	1 VD1689_94 Sog 6:0
+	1 VD1689_94 Sog 6:2
+	1 VD1689_94 Sog 6:14
+	1 VD1689_94 Sog 6:15
+	1 VD1689_94 Sog 6:36
+	1 VD1689_94 Sog 9:22
+	1 VD1689_94 Sog 10:1
+	1 VD1689_94 Sog 10:2
+	1 VD1689_94 Sog 10:7
+	1 VD1689_94 Sog 11:4
+	1 VD1689_94 Sog 12:7
+	1 VD1689_94 Sog 12:8
+	1 VD1689_94 Sog 12:10
+	1 VD1689_94 Sog 12:11
+	1 VD1689_94 Sog 12:13
+	1 VD1689_94 Sog 13:5
+	1 VD1689_94 Sog 14:4
+	1 VD1689_94 Sog 16:0
+	1 VD1689_94 Sog 16:31
+	-----
+	28
+
+
+i§raeïa
+
+	1 VD1689_94 Sog 11:27
+	1 VD1689_94 Sog 18:1
+	1 VD1689_94 Sog 20:22
+	-----
+	3
+
+
+i§raeïam
+
+	1 VD1689_94 Sog 18:29
+	-----
+	1
+
+
+i§raelu
+
+	1 VD1689_94 Sog 12:14
 	-----
 	1
 
@@ -9314,6 +9620,60 @@ isrunnaht
 isrunnajs
 
 	1 VD1689_94 Sog 15:17
+	-----
+	1
+
+
+isúauz
+
+	1 VD1689_94 Sog 7:3
+	-----
+	1
+
+
+isúlahpis
+
+	1 VD1689_94 Sog 15:0
+	1 VD1689_94 Sog 15:18
+	-----
+	2
+
+
+is§peede
+
+	1 VD1689_94 Sog 6:38
+	-----
+	1
+
+
+is§prukke
+
+	2 VD1689_94 Sog 3:26
+	1 VD1689_94 Sog 3:29
+	-----
+	3
+
+
+is§tah§tiúchanu
+
+	1 VD1689_94 Sog 7:15
+	-----
+	1
+
+
+is§teepe
+
+	1 VD1689_94 Sog 3:21
+	1 VD1689_94 Sog 5:26
+	1 VD1689_94 Sog 6:21
+	1 VD1689_94 Sog 15:15
+	-----
+	4
+
+
+is§udde
+
+	1 VD1689_94 Sog 6:21
 	-----
 	1
 
@@ -9429,67 +9789,6 @@ iszeïï
 	1
 
 
-is§peede
-
-	1 VD1689_94 Sog 6:38
-	-----
-	1
-
-
-is§prukke
-
-	2 VD1689_94 Sog 3:26
-	1 VD1689_94 Sog 3:29
-	-----
-	3
-
-
-is§tah§tiúchanu
-
-	1 VD1689_94 Sog 7:15
-	-----
-	1
-
-
-is§teepe
-
-	1 VD1689_94 Sog 3:21
-	1 VD1689_94 Sog 5:26
-	1 VD1689_94 Sog 6:21
-	1 VD1689_94 Sog 15:15
-	-----
-	4
-
-
-is§udde
-
-	1 VD1689_94 Sog 6:21
-	-----
-	1
-
-
-isìinne
-
-	1 VD1689_94 Sog 6:6
-	-----
-	1
-
-
-isúauz
-
-	1 VD1689_94 Sog 7:3
-	-----
-	1
-
-
-isúlahpis
-
-	1 VD1689_94 Sog 15:0
-	1 VD1689_94 Sog 15:18
-	-----
-	2
-
-
 itt
 
 	1 VD1689_94 Sog 1:20
@@ -9531,291 +9830,6 @@ ittin
 	1 VD1689_94 Sog 8:8
 	-----
 	6
-
-
-i§mae&liteºu
-
-	1 VD1689_94 Sog 8:0
-	-----
-	1
-
-
-i§maeliteºi
-
-	1 VD1689_94 Sog 8:24
-	-----
-	1
-
-
-i§rae#liteºeem
-
-	1 VD1689_94 Sog 20:0
-	-----
-	1
-
-
-i§rae#liteºi
-
-	1 VD1689_94 Sog 20:33
-	-----
-	1
-
-
-i§rae#liteºu
-
-	1 VD1689_94 Sog 7:14
-	1 VD1689_94 Sog 21:0
-	-----
-	2
-
-
-i§rae#ls
-
-	1 VD1689_94 Sog 1:28
-	1 VD1689_94 Sog 4:0
-	1 VD1689_94 Sog 5:8
-	1 VD1689_94 Sog 8:0
-	1 VD1689_94 Sog 8:27
-	1 VD1689_94 Sog 11:13
-	1 VD1689_94 Sog 11:15
-	1 VD1689_94 Sog 11:16
-	2 VD1689_94 Sog 11:17
-	1 VD1689_94 Sog 11:21
-	1 VD1689_94 Sog 13:0
-	1 VD1689_94 Sog 20:29
-	1 VD1689_94 Sog 21:0
-	1 VD1689_94 Sog 21:3
-	-----
-	15
-
-
-i§rae#lu
-
-	1 VD1689_94 Sog 2:20
-	1 VD1689_94 Sog 2:22
-	1 VD1689_94 Sog 3:1
-	1 VD1689_94 Sog 3:8
-	1 VD1689_94 Sog 3:10
-	1 VD1689_94 Sog 3:12
-	1 VD1689_94 Sog 3:31
-	1 VD1689_94 Sog 4:4
-	1 VD1689_94 Sog 5:2
-	1 VD1689_94 Sog 6:0
-	1 VD1689_94 Sog 6:2
-	1 VD1689_94 Sog 6:14
-	1 VD1689_94 Sog 6:15
-	1 VD1689_94 Sog 6:36
-	1 VD1689_94 Sog 9:22
-	1 VD1689_94 Sog 10:1
-	1 VD1689_94 Sog 10:2
-	1 VD1689_94 Sog 10:7
-	1 VD1689_94 Sog 11:4
-	1 VD1689_94 Sog 12:7
-	1 VD1689_94 Sog 12:8
-	1 VD1689_94 Sog 12:10
-	1 VD1689_94 Sog 12:11
-	1 VD1689_94 Sog 12:13
-	1 VD1689_94 Sog 13:5
-	1 VD1689_94 Sog 14:4
-	1 VD1689_94 Sog 16:0
-	1 VD1689_94 Sog 16:31
-	-----
-	28
-
-
-i§rae#ïa
-
-	1 VD1689_94 Sog 1:1
-	1 VD1689_94 Sog 2:6
-	1 VD1689_94 Sog 2:7
-	1 VD1689_94 Sog 2:11
-	1 VD1689_94 Sog 3:0
-	1 VD1689_94 Sog 3:2
-	1 VD1689_94 Sog 3:5
-	1 VD1689_94 Sog 3:7
-	1 VD1689_94 Sog 3:8
-	2 VD1689_94 Sog 3:9
-	1 VD1689_94 Sog 3:12
-	2 VD1689_94 Sog 3:15
-	1 VD1689_94 Sog 3:27
-	1 VD1689_94 Sog 3:30
-	1 VD1689_94 Sog 4:1
-	1 VD1689_94 Sog 4:5
-	1 VD1689_94 Sog 4:6
-	1 VD1689_94 Sog 4:23
-	1 VD1689_94 Sog 4:24
-	1 VD1689_94 Sog 5:3
-	1 VD1689_94 Sog 5:5
-	2 VD1689_94 Sog 5:7
-	1 VD1689_94 Sog 5:11
-	1 VD1689_94 Sog 6:1
-	1 VD1689_94 Sog 6:2
-	1 VD1689_94 Sog 6:6
-	1 VD1689_94 Sog 6:7
-	1 VD1689_94 Sog 6:8
-	1 VD1689_94 Sog 7:8
-	1 VD1689_94 Sog 7:15
-	1 VD1689_94 Sog 8:22
-	1 VD1689_94 Sog 8:28
-	1 VD1689_94 Sog 8:35
-	1 VD1689_94 Sog 9:55
-	1 VD1689_94 Sog 10:6
-	2 VD1689_94 Sog 10:8
-	1 VD1689_94 Sog 10:10
-	1 VD1689_94 Sog 10:15
-	1 VD1689_94 Sog 10:16
-	2 VD1689_94 Sog 11:21
-	1 VD1689_94 Sog 11:23
-	1 VD1689_94 Sog 11:33
-	2 VD1689_94 Sog 11:40
-	1 VD1689_94 Sog 13:1
-	1 VD1689_94 Sog 17:6
-	1 VD1689_94 Sog 18:1
-	1 VD1689_94 Sog 18:19
-	1 VD1689_94 Sog 19:12
-	1 VD1689_94 Sog 19:29
-	1 VD1689_94 Sog 19:30
-	1 VD1689_94 Sog 20:0
-	1 VD1689_94 Sog 20:2
-	1 VD1689_94 Sog 20:3
-	2 VD1689_94 Sog 20:6
-	2 VD1689_94 Sog 20:10
-	1 VD1689_94 Sog 20:11
-	1 VD1689_94 Sog 20:12
-	2 VD1689_94 Sog 20:13
-	1 VD1689_94 Sog 20:14
-	1 VD1689_94 Sog 20:17
-	1 VD1689_94 Sog 20:19
-	1 VD1689_94 Sog 20:20
-	1 VD1689_94 Sog 20:21
-	1 VD1689_94 Sog 20:23
-	1 VD1689_94 Sog 20:24
-	1 VD1689_94 Sog 20:27
-	1 VD1689_94 Sog 20:30
-	1 VD1689_94 Sog 20:34
-	1 VD1689_94 Sog 20:35
-	1 VD1689_94 Sog 20:36
-	1 VD1689_94 Sog 20:38
-	2 VD1689_94 Sog 20:39
-	1 VD1689_94 Sog 20:41
-	1 VD1689_94 Sog 20:42
-	1 VD1689_94 Sog 20:48
-	1 VD1689_94 Sog 21:1
-	2 VD1689_94 Sog 21:3
-	2 VD1689_94 Sog 21:5
-	1 VD1689_94 Sog 21:6
-	1 VD1689_94 Sog 21:8
-	1 VD1689_94 Sog 21:15
-	1 VD1689_94 Sog 21:17
-	1 VD1689_94 Sog 21:24
-	1 VD1689_94 Sog 21:25
-	-----
-	96
-
-
-i§rae#ïam
-
-	1 VD1689_94 Sog 10:9
-	1 VD1689_94 Sog 11:20
-	-----
-	2
-
-
-i§rae&ls
-
-	1 VD1689_94 Sog 3:4
-	1 VD1689_94 Sog 6:0
-	1 VD1689_94 Sog 6:3
-	1 VD1689_94 Sog 6:6
-	1 VD1689_94 Sog 7:2
-	2 VD1689_94 Sog 11:19
-	1 VD1689_94 Sog 11:26
-	-----
-	8
-
-
-i§rae&lu
-
-	1 VD1689_94 Sog 2:14
-	1 VD1689_94 Sog 3:13
-	1 VD1689_94 Sog 6:37
-	1 VD1689_94 Sog 8:0
-	1 VD1689_94 Sog 10:0
-	1 VD1689_94 Sog 10:3
-	1 VD1689_94 Sog 11:5
-	1 VD1689_94 Sog 11:20
-	1 VD1689_94 Sog 11:25
-	1 VD1689_94 Sog 12:11
-	1 VD1689_94 Sog 13:0
-	1 VD1689_94 Sog 15:20
-	-----
-	12
-
-
-i§rae&ïa
-
-	1 VD1689_94 Sog 1:0
-	1 VD1689_94 Sog 2:0
-	1 VD1689_94 Sog 2:4
-	1 VD1689_94 Sog 2:10
-	1 VD1689_94 Sog 3:14
-	1 VD1689_94 Sog 4:3
-	1 VD1689_94 Sog 5:8
-	1 VD1689_94 Sog 5:9
-	1 VD1689_94 Sog 6:4
-	1 VD1689_94 Sog 6:8
-	1 VD1689_94 Sog 7:23
-	1 VD1689_94 Sog 8:33
-	1 VD1689_94 Sog 8:34
-	1 VD1689_94 Sog 10:11
-	1 VD1689_94 Sog 10:17
-	1 VD1689_94 Sog 11:23
-	1 VD1689_94 Sog 19:1
-	1 VD1689_94 Sog 20:1
-	1 VD1689_94 Sog 20:3
-	1 VD1689_94 Sog 20:7
-	1 VD1689_94 Sog 20:18
-	1 VD1689_94 Sog 20:20
-	1 VD1689_94 Sog 20:25
-	1 VD1689_94 Sog 20:26
-	1 VD1689_94 Sog 20:31
-	1 VD1689_94 Sog 20:32
-	1 VD1689_94 Sog 20:33
-	1 VD1689_94 Sog 20:35
-	1 VD1689_94 Sog 21:6
-	1 VD1689_94 Sog 21:18
-	-----
-	30
-
-
-i§raelu
-
-	1 VD1689_94 Sog 12:14
-	-----
-	1
-
-
-i§rae~ïa
-
-	1 VD1689_94 Sog 4:3
-	-----
-	1
-
-
-i§raeïa
-
-	1 VD1689_94 Sog 11:27
-	1 VD1689_94 Sog 18:1
-	1 VD1689_94 Sog 20:22
-	-----
-	3
-
-
-i§raeïam
-
-	1 VD1689_94 Sog 18:29
-	-----
-	1
 
 
 ja
@@ -9916,6 +9930,20 @@ jadarra
 	5
 
 
+jae&le
+
+	1 VD1689_94 Sog 4:21
+	-----
+	1
+
+
+jae&les
+
+	1 VD1689_94 Sog 4:0
+	-----
+	1
+
+
 jae#le
 
 	1 VD1689_94 Sog 4:18
@@ -9931,20 +9959,6 @@ jae#les
 	1 VD1689_94 Sog 5:6
 	-----
 	2
-
-
-jae&le
-
-	1 VD1689_94 Sog 4:21
-	-----
-	1
-
-
-jae&les
-
-	1 VD1689_94 Sog 4:0
-	-----
-	1
 
 
 jagbeas
@@ -9975,13 +9989,6 @@ jahje
 	1
 
 
-jahzu
-
-	1 VD1689_94 Sog 11:20
-	-----
-	1
-
-
 jah§epa
 
 	1 VD1689_94 Sog 1:22
@@ -9989,6 +9996,13 @@ jah§epa
 	1 VD1689_94 Sog 1:35
 	-----
 	3
+
+
+jahzu
+
+	1 VD1689_94 Sog 11:20
+	-----
+	1
 
 
 jakobam
@@ -10021,14 +10035,6 @@ jamir§t
 	2
 
 
-jardanu
-
-	2 VD1689_94 Sog 7:24
-	1 VD1689_94 Sog 10:9
-	-----
-	3
-
-
 jardaòai
 
 	1 VD1689_94 Sog 11:13
@@ -10048,6 +10054,28 @@ jardaòas
 	1 VD1689_94 Sog 12:6
 	-----
 	7
+
+
+jardanu
+
+	2 VD1689_94 Sog 7:24
+	1 VD1689_94 Sog 10:9
+	-----
+	3
+
+
+jaúakka
+
+	1 VD1689_94 Sog 3:19
+	-----
+	1
+
+
+jaúchu
+
+	1 VD1689_94 Sog 3:24
+	-----
+	1
 
 
 jaunahm
@@ -10093,15 +10121,6 @@ jaunas
 	7
 
 
-jauneklis
-
-	1 VD1689_94 Sog 17:7
-	1 VD1689_94 Sog 17:11
-	1 VD1689_94 Sog 17:12
-	-----
-	3
-
-
 jaunekïa
 
 	1 VD1689_94 Sog 18:3
@@ -10115,6 +10134,15 @@ jaunekïi
 	1 VD1689_94 Sog 14:10
 	-----
 	1
+
+
+jauneklis
+
+	1 VD1689_94 Sog 17:7
+	1 VD1689_94 Sog 17:11
+	1 VD1689_94 Sog 17:12
+	-----
+	3
 
 
 jauns
@@ -10147,20 +10175,6 @@ jaw
 	1 VD1689_94 Sog 19:11
 	-----
 	4
-
-
-jaúakka
-
-	1 VD1689_94 Sog 3:19
-	-----
-	1
-
-
-jaúchu
-
-	1 VD1689_94 Sog 3:24
-	-----
-	1
 
 
 jearima
@@ -10295,15 +10309,6 @@ jerikus
 	1
 
 
-jerub=baa#la
-
-	1 VD1689_94 Sog 9:5
-	1 VD1689_94 Sog 9:24
-	1 VD1689_94 Sog 9:28
-	-----
-	3
-
-
 jerub=baa&la
 
 	1 VD1689_94 Sog 9:0
@@ -10330,6 +10335,15 @@ jerub=baa&lu
 	1 VD1689_94 Sog 6:32
 	-----
 	1
+
+
+jerub=baa#la
+
+	1 VD1689_94 Sog 9:5
+	1 VD1689_94 Sog 9:24
+	1 VD1689_94 Sog 9:28
+	-----
+	3
 
 
 jerub=baala
@@ -10359,6 +10373,13 @@ jeru§alemi
 	1 VD1689_94 Sog 1:8
 	-----
 	2
+
+
+je§ree#les
+
+	1 VD1689_94 Sog 6:33
+	-----
+	1
 
 
 jeteru
@@ -10413,13 +10434,6 @@ jewtus
 	2 VD1689_94 Sog 12:7
 	-----
 	22
-
-
-je§ree#les
-
-	1 VD1689_94 Sog 6:33
-	-----
-	1
 
 
 jo
@@ -10543,6 +10557,26 @@ jonatans
 	1
 
 
+jo§uu#
+
+	1 VD1689_94 Sog 2:7
+	-----
+	1
+
+
+jo§uu#s
+
+	1 VD1689_94 Sog 1:0
+	1 VD1689_94 Sog 1:1
+	1 VD1689_94 Sog 2:6
+	1 VD1689_94 Sog 2:7
+	1 VD1689_94 Sog 2:8
+	1 VD1689_94 Sog 2:21
+	1 VD1689_94 Sog 2:23
+	-----
+	7
+
+
 jotama
 
 	1 VD1689_94 Sog 9:57
@@ -10570,26 +10604,6 @@ jotans
 	1 VD1689_94 Sog 9:5
 	-----
 	1
-
-
-jo§uu#
-
-	1 VD1689_94 Sog 2:7
-	-----
-	1
-
-
-jo§uu#s
-
-	1 VD1689_94 Sog 1:0
-	1 VD1689_94 Sog 1:1
-	1 VD1689_94 Sog 2:6
-	1 VD1689_94 Sog 2:7
-	1 VD1689_94 Sog 2:8
-	1 VD1689_94 Sog 2:21
-	1 VD1689_94 Sog 2:23
-	-----
-	7
 
 
 juhda
@@ -10942,24 +10956,6 @@ ka
 	137
 
 
-ka&ina
-
-	1 VD1689_94 Sog 4:11
-	-----
-	1
-
-
-ka^
-
-	1 VD1689_94 Sog 1:13
-	1 VD1689_94 Sog 6:5
-	1 VD1689_94 Sog 6:16
-	1 VD1689_94 Sog 6:36
-	1 VD1689_94 Sog 20:3
-	-----
-	5
-
-
 ka`
 
 	1 VD1689_94 Sog 1:7
@@ -11019,6 +11015,24 @@ ka`
 	1 VD1689_94 Sog 20:48
 	-----
 	59
+
+
+ka^
+
+	1 VD1689_94 Sog 1:13
+	1 VD1689_94 Sog 6:5
+	1 VD1689_94 Sog 6:16
+	1 VD1689_94 Sog 6:36
+	1 VD1689_94 Sog 20:3
+	-----
+	5
+
+
+ka&ina
+
+	1 VD1689_94 Sog 4:11
+	-----
+	1
 
 
 kad
@@ -11530,19 +11544,19 @@ kalpojeet
 	1
 
 
-kalpojuúchi
-
-	1 VD1689_94 Sog 10:13
-	-----
-	1
-
-
 kalpojúchi
 
 	1 VD1689_94 Sog 9:28
 	1 VD1689_94 Sog 10:10
 	-----
 	2
+
+
+kalpojuúchi
+
+	1 VD1689_94 Sog 10:13
+	-----
+	1
 
 
 kalpones
@@ -11567,6 +11581,15 @@ kam
 	1
 
 
+kambaºa
+
+	2 VD1689_94 Sog 3:23
+	1 VD1689_94 Sog 3:24
+	1 VD1689_94 Sog 3:25
+	-----
+	4
+
+
 kambari^
 
 	1 VD1689_94 Sog 3:20
@@ -11576,15 +11599,6 @@ kambari^
 	1 VD1689_94 Sog 16:12
 	-----
 	6
-
-
-kambaºa
-
-	2 VD1689_94 Sog 3:23
-	1 VD1689_94 Sog 3:24
-	1 VD1689_94 Sog 3:25
-	-----
-	4
 
 
 kameeïeem
@@ -11760,11 +11774,145 @@ karkora
 	1
 
 
+kaººa
+
+	1 VD1689_94 Sog 18:16
+	-----
+	1
+
+
+kaººa^
+
+	1 VD1689_94 Sog 3:10
+	1 VD1689_94 Sog 20:14
+	1 VD1689_94 Sog 20:20
+	1 VD1689_94 Sog 20:23
+	1 VD1689_94 Sog 20:28
+	-----
+	5
+
+
+kaººa=leel=kungu
+
+	1 VD1689_94 Sog 6:0
+	-----
+	1
+
+
+kaººa=spehka
+
+	1 VD1689_94 Sog 4:0
+	1 VD1689_94 Sog 4:2
+	1 VD1689_94 Sog 4:7
+	-----
+	3
+
+
+kaººa=spehkam
+
+	1 VD1689_94 Sog 4:16
+	1 VD1689_94 Sog 8:6
+	-----
+	2
+
+
+kaººa=spehki
+
+	1 VD1689_94 Sog 8:10
+	-----
+	1
+
+
+kaººa=spehko
+
+	1 VD1689_94 Sog 1:0
+	-----
+	1
+
+
+kaººa=spehks
+
+	1 VD1689_94 Sog 7:1
+	1 VD1689_94 Sog 7:8
+	1 VD1689_94 Sog 7:21
+	1 VD1689_94 Sog 7:22
+	1 VD1689_94 Sog 8:11
+	-----
+	5
+
+
+kaººa=spehku
+
+	1 VD1689_94 Sog 4:15
+	1 VD1689_94 Sog 7:15
+	1 VD1689_94 Sog 8:11
+	1 VD1689_94 Sog 8:12
+	1 VD1689_94 Sog 9:29
+	-----
+	5
+
+
+kaººa=wihri
+
+	1 VD1689_94 Sog 5:8
+	1 VD1689_94 Sog 18:11
+	1 VD1689_94 Sog 20:17
+	-----
+	3
+
+
+kaººa=wihrs
+
+	1 VD1689_94 Sog 11:1
+	-----
+	1
+
+
+kaºra=wirúneeku
+
+	1 VD1689_94 Sog 11:6
+	-----
+	1
+
+
+kaººa=wirúneeku
+
+	1 VD1689_94 Sog 11:11
+	-----
+	1
+
+
 karraúchas
 
 	1 VD1689_94 Sog 6:19
 	-----
 	1
+
+
+kaººeem
+
+	1 VD1689_94 Sog 3:1
+	-----
+	1
+
+
+kaººo
+
+	1 VD1689_94 Sog 1:0
+	1 VD1689_94 Sog 7:0
+	1 VD1689_94 Sog 9:38
+	1 VD1689_94 Sog 11:6
+	1 VD1689_94 Sog 12:0
+	-----
+	5
+
+
+kaººodams
+
+	1 VD1689_94 Sog 11:25
+	1 VD1689_94 Sog 11:27
+	-----
+	2
 
 
 karrogeem
@@ -11797,10 +11945,95 @@ karrohgs
 	1
 
 
+kaººoht
+
+	1 VD1689_94 Sog 1:1
+	1 VD1689_94 Sog 1:9
+	1 VD1689_94 Sog 8:1
+	1 VD1689_94 Sog 10:18
+	1 VD1689_94 Sog 11:9
+	1 VD1689_94 Sog 11:12
+	1 VD1689_94 Sog 12:1
+	1 VD1689_94 Sog 12:3
+	1 VD1689_94 Sog 20:18
+	1 VD1689_94 Sog 20:20
+	1 VD1689_94 Sog 20:22
+	-----
+	11
+
+
+kaººohts
+
+	1 VD1689_94 Sog 5:20
+	-----
+	1
+
+
+kaººoja
+
+	1 VD1689_94 Sog 1:5
+	2 VD1689_94 Sog 5:19
+	1 VD1689_94 Sog 5:20
+	1 VD1689_94 Sog 9:39
+	1 VD1689_94 Sog 9:45
+	1 VD1689_94 Sog 9:51
+	1 VD1689_94 Sog 10:9
+	1 VD1689_94 Sog 11:4
+	1 VD1689_94 Sog 11:5
+	1 VD1689_94 Sog 11:20
+	1 VD1689_94 Sog 12:4
+	-----
+	12
+
+
+kaººojam
+
+	1 VD1689_94 Sog 1:3
+	-----
+	1
+
+
+kaººojs
+
+	1 VD1689_94 Sog 9:17
+	1 VD1689_94 Sog 11:25
+	-----
+	2
+
+
+kaººojúchi
+
+	1 VD1689_94 Sog 1:8
+	-----
+	1
+
+
+kaººoúchanu
+
+	1 VD1689_94 Sog 21:22
+	-----
+	1
+
+
+kaººot
+
+	1 VD1689_94 Sog 11:8
+	-----
+	1
+
+
 karrúchas
 
 	1 VD1689_94 Sog 6:20
 	1 VD1689_94 Sog 6:21
+	-----
+	2
+
+
+kaººu
+
+	1 VD1689_94 Sog 3:2
+	1 VD1689_94 Sog 20:0
 	-----
 	2
 
@@ -12005,6 +12238,23 @@ kas{as}
 	1
 
 
+ka§lens
+
+	1 VD1689_94 Sog 14:6
+	-----
+	1
+
+
+ka§lenu
+
+	1 VD1689_94 Sog 6:19
+	1 VD1689_94 Sog 13:15
+	1 VD1689_94 Sog 13:19
+	1 VD1689_94 Sog 15:1
+	-----
+	4
+
+
 kauj
 
 	1 VD1689_94 Sog 20:0
@@ -12037,38 +12287,6 @@ kaulu
 kaunejahs
 
 	1 VD1689_94 Sog 3:25
-	-----
-	1
-
-
-kaut
-
-	1 VD1689_94 Sog 9:29
-	1 VD1689_94 Sog 20:31
-	1 VD1689_94 Sog 20:39
-	-----
-	3
-
-
-kautees
-
-	1 VD1689_94 Sog 11:32
-	-----
-	1
-
-
-kauti
-
-	1 VD1689_94 Sog 20:32
-	1 VD1689_94 Sog 20:36
-	1 VD1689_94 Sog 20:39
-	-----
-	3
-
-
-kauze
-
-	1 VD1689_94 Sog 5:28
 	-----
 	1
 
@@ -12113,6 +12331,38 @@ kauús
 kauúu
 
 	1 VD1689_94 Sog 6:38
+	-----
+	1
+
+
+kaut
+
+	1 VD1689_94 Sog 9:29
+	1 VD1689_94 Sog 20:31
+	1 VD1689_94 Sog 20:39
+	-----
+	3
+
+
+kautees
+
+	1 VD1689_94 Sog 11:32
+	-----
+	1
+
+
+kauti
+
+	1 VD1689_94 Sog 20:32
+	1 VD1689_94 Sog 20:36
+	1 VD1689_94 Sog 20:39
+	-----
+	3
+
+
+kauze
+
+	1 VD1689_94 Sog 5:28
 	-----
 	1
 
@@ -12172,240 +12422,192 @@ kawis
 	1
 
 
-ka§lens
+íedes
 
-	1 VD1689_94 Sog 14:6
+	1 VD1689_94 Sog 4:6
 	-----
 	1
 
 
-ka§lenu
+íedeúa
 
-	1 VD1689_94 Sog 6:19
-	1 VD1689_94 Sog 13:15
-	1 VD1689_94 Sog 13:19
-	1 VD1689_94 Sog 15:1
+	1 VD1689_94 Sog 4:11
+	-----
+	1
+
+
+íedeúa^
+
+	1 VD1689_94 Sog 4:10
+	-----
+	1
+
+
+íedeúu
+
+	1 VD1689_94 Sog 4:9
+	-----
+	1
+
+
+íedumim
+
+	1 VD1689_94 Sog 5:21
+	-----
+	1
+
+
+íehniòa
+
+	1 VD1689_94 Sog 3:8
+	1 VD1689_94 Sog 4:0
+	1 VD1689_94 Sog 4:2
+	1 VD1689_94 Sog 8:18
+	1 VD1689_94 Sog 11:12
+	-----
+	5
+
+
+íehniòam
+
+	1 VD1689_94 Sog 3:14
+	1 VD1689_94 Sog 3:15
+	1 VD1689_94 Sog 3:17
+	-----
+	3
+
+
+íehniòeem
+
+	1 VD1689_94 Sog 8:5
+	1 VD1689_94 Sog 8:26
+	-----
+	2
+
+
+íehniòi
+
+	1 VD1689_94 Sog 1:7
+	1 VD1689_94 Sog 5:3
+	2 VD1689_94 Sog 5:19
 	-----
 	4
 
 
-kaºra=wirúneeku
+íehniò§ch
 
-	1 VD1689_94 Sog 11:6
+	1 VD1689_94 Sog 3:19
+	1 VD1689_94 Sog 9:8
+	1 VD1689_94 Sog 9:10
+	1 VD1689_94 Sog 9:12
+	1 VD1689_94 Sog 9:14
+	1 VD1689_94 Sog 11:13
+	1 VD1689_94 Sog 11:17
+	1 VD1689_94 Sog 11:25
+	1 VD1689_94 Sog 11:28
+	1 VD1689_94 Sog 17:6
+	1 VD1689_94 Sog 18:1
+	1 VD1689_94 Sog 19:1
+	1 VD1689_94 Sog 21:25
 	-----
-	1
+	13
 
 
-kaººa
-
-	1 VD1689_94 Sog 18:16
-	-----
-	1
-
-
-kaººa=leel=kungu
-
-	1 VD1689_94 Sog 6:0
-	-----
-	1
-
-
-kaººa=spehka
-
-	1 VD1689_94 Sog 4:0
-	1 VD1689_94 Sog 4:2
-	1 VD1689_94 Sog 4:7
-	-----
-	3
-
-
-kaººa=spehkam
-
-	1 VD1689_94 Sog 4:16
-	1 VD1689_94 Sog 8:6
-	-----
-	2
-
-
-kaººa=spehki
-
-	1 VD1689_94 Sog 8:10
-	-----
-	1
-
-
-kaººa=spehko
-
-	1 VD1689_94 Sog 1:0
-	-----
-	1
-
-
-kaººa=spehks
-
-	1 VD1689_94 Sog 7:1
-	1 VD1689_94 Sog 7:8
-	1 VD1689_94 Sog 7:21
-	1 VD1689_94 Sog 7:22
-	1 VD1689_94 Sog 8:11
-	-----
-	5
-
-
-kaººa=spehku
-
-	1 VD1689_94 Sog 4:15
-	1 VD1689_94 Sog 7:15
-	1 VD1689_94 Sog 8:11
-	1 VD1689_94 Sog 8:12
-	1 VD1689_94 Sog 9:29
-	-----
-	5
-
-
-kaººa=wihri
-
-	1 VD1689_94 Sog 5:8
-	1 VD1689_94 Sog 18:11
-	1 VD1689_94 Sog 20:17
-	-----
-	3
-
-
-kaººa=wihrs
-
-	1 VD1689_94 Sog 11:1
-	-----
-	1
-
-
-kaººa=wirúneeku
-
-	1 VD1689_94 Sog 11:11
-	-----
-	1
-
-
-kaººa^
+íehniòu
 
 	1 VD1689_94 Sog 3:10
-	1 VD1689_94 Sog 20:14
-	1 VD1689_94 Sog 20:20
-	1 VD1689_94 Sog 20:23
-	1 VD1689_94 Sog 20:28
+	1 VD1689_94 Sog 3:12
+	1 VD1689_94 Sog 4:17
+	1 VD1689_94 Sog 4:23
+	2 VD1689_94 Sog 4:24
+	1 VD1689_94 Sog 9:0
+	1 VD1689_94 Sog 9:6
+	1 VD1689_94 Sog 9:8
+	1 VD1689_94 Sog 9:15
+	1 VD1689_94 Sog 9:16
+	1 VD1689_94 Sog 9:18
+	1 VD1689_94 Sog 11:14
+	2 VD1689_94 Sog 11:17
+	2 VD1689_94 Sog 11:19
 	-----
-	5
+	17
 
 
-kaººeem
+íehniòus
 
-	1 VD1689_94 Sog 3:1
-	-----
-	1
-
-
-kaººo
-
-	1 VD1689_94 Sog 1:0
-	1 VD1689_94 Sog 7:0
-	1 VD1689_94 Sog 9:38
-	1 VD1689_94 Sog 11:6
-	1 VD1689_94 Sog 12:0
-	-----
-	5
-
-
-kaººodams
-
-	1 VD1689_94 Sog 11:25
-	1 VD1689_94 Sog 11:27
-	-----
-	2
-
-
-kaººoht
-
-	1 VD1689_94 Sog 1:1
-	1 VD1689_94 Sog 1:9
-	1 VD1689_94 Sog 8:1
-	1 VD1689_94 Sog 10:18
-	1 VD1689_94 Sog 11:9
-	1 VD1689_94 Sog 11:12
-	1 VD1689_94 Sog 12:1
-	1 VD1689_94 Sog 12:3
-	1 VD1689_94 Sog 20:18
-	1 VD1689_94 Sog 20:20
-	1 VD1689_94 Sog 20:22
-	-----
-	11
-
-
-kaººohts
-
-	1 VD1689_94 Sog 5:20
+	1 VD1689_94 Sog 8:12
 	-----
 	1
 
 
-kaººoja
+íenaúa
 
-	1 VD1689_94 Sog 1:5
-	2 VD1689_94 Sog 5:19
-	1 VD1689_94 Sog 5:20
-	1 VD1689_94 Sog 9:39
-	1 VD1689_94 Sog 9:45
-	1 VD1689_94 Sog 9:51
-	1 VD1689_94 Sog 10:9
-	1 VD1689_94 Sog 11:4
-	1 VD1689_94 Sog 11:5
-	1 VD1689_94 Sog 11:20
-	1 VD1689_94 Sog 12:4
+	1 VD1689_94 Sog 1:13
+	1 VD1689_94 Sog 3:9
+	1 VD1689_94 Sog 3:11
 	-----
-	12
+	3
 
 
-kaººojam
+íeniteºa
 
-	1 VD1689_94 Sog 1:3
+	1 VD1689_94 Sog 1:16
+	2 VD1689_94 Sog 4:17
+	1 VD1689_94 Sog 5:24
 	-----
-	1
+	4
 
 
-kaººojs
+íeniteris
 
-	1 VD1689_94 Sog 9:17
-	1 VD1689_94 Sog 11:25
-	-----
-	2
-
-
-kaººojúchi
-
-	1 VD1689_94 Sog 1:8
+	1 VD1689_94 Sog 4:11
 	-----
 	1
 
 
-kaººot
+íiriat
 
-	1 VD1689_94 Sog 11:8
+	1 VD1689_94 Sog 1:10
+	2 VD1689_94 Sog 18:12
+	-----
+	3
+
+
+íiriat=sewer
+
+	1 VD1689_94 Sog 1:11
 	-----
 	1
 
 
-kaººoúchanu
+íiriat=seweru
 
-	1 VD1689_94 Sog 21:22
+	1 VD1689_94 Sog 1:12
 	-----
 	1
 
 
-kaººu
+íi§ona
 
-	1 VD1689_94 Sog 3:2
-	1 VD1689_94 Sog 20:0
+	1 VD1689_94 Sog 4:7
+	1 VD1689_94 Sog 4:13
+	1 VD1689_94 Sog 5:21
 	-----
-	2
+	3
+
+
+íi§ons
+
+	1 VD1689_94 Sog 5:21
+	-----
+	1
+
+
+íitrona
+
+	1 VD1689_94 Sog 1:30
+	-----
+	1
 
 
 klaht
@@ -12522,9 +12724,39 @@ klohnu
 	1
 
 
+kïu#is
+
+	1 VD1689_94 Sog 21:3
+	-----
+	1
+
+
+kïua
+
+	1 VD1689_94 Sog 8:27
+	1 VD1689_94 Sog 14:20
+	-----
+	2
+
+
 klua&
 
 	1 VD1689_94 Sog 15:14
+	-----
+	1
+
+
+kïuht
+
+	1 VD1689_94 Sog 1:24
+	1 VD1689_94 Sog 1:25
+	-----
+	2
+
+
+kïuhtu
+
+	1 VD1689_94 Sog 3:4
 	-----
 	1
 
@@ -12682,16 +12914,16 @@ krehúla
 	1
 
 
-kreilis
+kreiïi
 
-	1 VD1689_94 Sog 3:15
+	1 VD1689_94 Sog 20:16
 	-----
 	1
 
 
-kreiïi
+kreilis
 
-	1 VD1689_94 Sog 20:16
+	1 VD1689_94 Sog 3:15
 	-----
 	1
 
@@ -12933,6 +13165,16 @@ kungs
 	79
 
 
+kungú
+
+	1 VD1689_94 Sog 6:27
+	1 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 21:3
+	1 VD1689_94 Sog 21:15
+	-----
+	4
+
+
 kungu
 
 	1 VD1689_94 Sog 1:1
@@ -12961,16 +13203,6 @@ kungu
 	1 VD1689_94 Sog 20:27
 	-----
 	25
-
-
-kungú
-
-	1 VD1689_94 Sog 6:27
-	1 VD1689_94 Sog 16:20
-	1 VD1689_94 Sog 21:3
-	1 VD1689_94 Sog 21:15
-	-----
-	4
 
 
 kupla
@@ -13025,6 +13257,21 @@ kur
 	18
 
 
+kuººa
+
+	1 VD1689_94 Sog 4:0
+	1 VD1689_94 Sog 7:4
+	-----
+	2
+
+
+kuºram
+
+	1 VD1689_94 Sog 20:18
+	-----
+	1
+
+
 kurren
 
 	1 VD1689_94 Sog 19:17
@@ -13043,9 +13290,9 @@ kurrenes
 	5
 
 
-kurwi^
+kuººu
 
-	1 VD1689_94 Sog 6:19
+	1 VD1689_94 Sog 6:10
 	-----
 	1
 
@@ -13057,6 +13304,13 @@ kurúch
 	1
 
 
+kurwi^
+
+	1 VD1689_94 Sog 6:19
+	-----
+	1
+
+
 ku§an
 
 	1 VD1689_94 Sog 3:0
@@ -13064,28 +13318,6 @@ ku§an
 	2 VD1689_94 Sog 3:10
 	-----
 	5
-
-
-kuºram
-
-	1 VD1689_94 Sog 20:18
-	-----
-	1
-
-
-kuººa
-
-	1 VD1689_94 Sog 4:0
-	1 VD1689_94 Sog 7:4
-	-----
-	2
-
-
-kuººu
-
-	1 VD1689_94 Sog 6:10
-	-----
-	1
 
 
 kuúúe
@@ -13105,36 +13337,6 @@ kweeúchuplaujama
 kweeúchus
 
 	1 VD1689_94 Sog 6:11
-	-----
-	1
-
-
-kïu#is
-
-	1 VD1689_94 Sog 21:3
-	-----
-	1
-
-
-kïua
-
-	1 VD1689_94 Sog 8:27
-	1 VD1689_94 Sog 14:20
-	-----
-	2
-
-
-kïuht
-
-	1 VD1689_94 Sog 1:24
-	1 VD1689_94 Sog 1:25
-	-----
-	2
-
-
-kïuhtu
-
-	1 VD1689_94 Sog 3:4
 	-----
 	1
 
@@ -13357,6 +13559,13 @@ laide
 	1
 
 
+laika`
+
+	1 VD1689_94 Sog 4:4
+	-----
+	1
+
+
 laika^
 
 	1 VD1689_94 Sog 3:29
@@ -13369,13 +13578,6 @@ laika^
 	1 VD1689_94 Sog 21:24
 	-----
 	8
-
-
-laika`
-
-	1 VD1689_94 Sog 4:4
-	-----
-	1
 
 
 laiks
@@ -13439,13 +13641,89 @@ lapúas
 	1
 
 
-lauka^
+laúúiúchana
 
-	1 VD1689_94 Sog 9:32
-	1 VD1689_94 Sog 9:43
-	1 VD1689_94 Sog 9:44
+	1 VD1689_94 Sog 8:2
 	-----
-	3
+	1
+
+
+ïaudim
+
+	1 VD1689_94 Sog 1:16
+	1 VD1689_94 Sog 5:9
+	1 VD1689_94 Sog 5:14
+	1 VD1689_94 Sog 7:3
+	1 VD1689_94 Sog 8:5
+	1 VD1689_94 Sog 9:48
+	1 VD1689_94 Sog 12:2
+	1 VD1689_94 Sog 14:3
+	1 VD1689_94 Sog 16:30
+	1 VD1689_94 Sog 18:10
+	1 VD1689_94 Sog 18:27
+	1 VD1689_94 Sog 18:28
+	1 VD1689_94 Sog 20:10
+	1 VD1689_94 Sog 20:16
+	1 VD1689_94 Sog 20:31
+	1 VD1689_94 Sog 21:15
+	-----
+	16
+
+
+ïaudis
+
+	2 VD1689_94 Sog 2:0
+	1 VD1689_94 Sog 2:4
+	1 VD1689_94 Sog 2:6
+	1 VD1689_94 Sog 2:7
+	1 VD1689_94 Sog 3:18
+	1 VD1689_94 Sog 4:0
+	1 VD1689_94 Sog 4:13
+	1 VD1689_94 Sog 5:2
+	1 VD1689_94 Sog 5:6
+	1 VD1689_94 Sog 5:11
+	1 VD1689_94 Sog 5:13
+	1 VD1689_94 Sog 5:18
+	1 VD1689_94 Sog 7:0
+	1 VD1689_94 Sog 7:1
+	1 VD1689_94 Sog 7:5
+	1 VD1689_94 Sog 7:6
+	1 VD1689_94 Sog 7:7
+	1 VD1689_94 Sog 7:8
+	1 VD1689_94 Sog 8:17
+	1 VD1689_94 Sog 9:29
+	1 VD1689_94 Sog 9:32
+	1 VD1689_94 Sog 9:33
+	1 VD1689_94 Sog 9:34
+	1 VD1689_94 Sog 9:35
+	2 VD1689_94 Sog 9:36
+	1 VD1689_94 Sog 9:37
+	1 VD1689_94 Sog 9:38
+	1 VD1689_94 Sog 9:42
+	2 VD1689_94 Sog 9:43
+	1 VD1689_94 Sog 9:45
+	1 VD1689_94 Sog 9:48
+	2 VD1689_94 Sog 9:49
+	1 VD1689_94 Sog 10:0
+	1 VD1689_94 Sog 10:18
+	1 VD1689_94 Sog 11:11
+	1 VD1689_94 Sog 11:20
+	1 VD1689_94 Sog 11:21
+	1 VD1689_94 Sog 16:24
+	1 VD1689_94 Sog 18:7
+	1 VD1689_94 Sog 18:23
+	1 VD1689_94 Sog 18:30
+	1 VD1689_94 Sog 19:16
+	1 VD1689_94 Sog 19:22
+	1 VD1689_94 Sog 20:8
+	1 VD1689_94 Sog 20:22
+	1 VD1689_94 Sog 20:26
+	1 VD1689_94 Sog 20:31
+	1 VD1689_94 Sog 21:2
+	1 VD1689_94 Sog 21:4
+	1 VD1689_94 Sog 21:9
+	-----
+	54
 
 
 lauka`
@@ -13455,10 +13733,62 @@ lauka`
 	1
 
 
+lauka^
+
+	1 VD1689_94 Sog 9:32
+	1 VD1689_94 Sog 9:43
+	1 VD1689_94 Sog 9:44
+	-----
+	3
+
+
 lauku
 
 	1 VD1689_94 Sog 9:27
 	1 VD1689_94 Sog 9:42
+	-----
+	2
+
+
+ïauna
+
+	1 VD1689_94 Sog 20:3
+	-----
+	1
+
+
+ïauni
+
+	1 VD1689_94 Sog 18:25
+	-----
+	1
+
+
+ïaunu
+
+	1 VD1689_94 Sog 2:15
+	1 VD1689_94 Sog 9:23
+	1 VD1689_94 Sog 9:56
+	1 VD1689_94 Sog 9:57
+	1 VD1689_94 Sog 11:27
+	1 VD1689_94 Sog 15:3
+	1 VD1689_94 Sog 19:23
+	1 VD1689_94 Sog 20:12
+	-----
+	8
+
+
+ïaunums
+
+	1 VD1689_94 Sog 20:34
+	-----
+	1
+
+
+ïaunumu
+
+	1 VD1689_94 Sog 20:13
+	1 VD1689_94 Sog 20:41
 	-----
 	2
 
@@ -13507,6 +13837,22 @@ laupitaju
 	1
 
 
+ïau§chu
+
+	1 VD1689_94 Sog 2:12
+	1 VD1689_94 Sog 7:2
+	1 VD1689_94 Sog 7:3
+	1 VD1689_94 Sog 7:4
+	1 VD1689_94 Sog 11:0
+	1 VD1689_94 Sog 11:23
+	1 VD1689_94 Sog 14:16
+	1 VD1689_94 Sog 14:17
+	1 VD1689_94 Sog 18:20
+	2 VD1689_94 Sog 20:2
+	-----
+	11
+
+
 lauwa
 
 	1 VD1689_94 Sog 14:5
@@ -13527,13 +13873,6 @@ lauwas
 lauwu
 
 	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-laúúiúchana
-
-	1 VD1689_94 Sog 8:2
 	-----
 	1
 
@@ -13675,6 +14014,20 @@ leelus=kungus
 	3
 
 
+leeúma
+
+	1 VD1689_94 Sog 13:20
+	-----
+	1
+
+
+leeúmas
+
+	1 VD1689_94 Sog 13:20
+	-----
+	1
+
+
 leeta
 
 	1 VD1689_94 Sog 3:19
@@ -13723,37 +14076,16 @@ leez
 	1
 
 
-leeúma
-
-	1 VD1689_94 Sog 13:20
-	-----
-	1
-
-
-leeúmas
-
-	1 VD1689_94 Sog 13:20
-	-----
-	1
-
-
-lehje
-
-	1 VD1689_94 Sog 6:19
-	-----
-	1
-
-
-lehnam
-
-	1 VD1689_94 Sog 4:21
-	-----
-	1
-
-
 lehìera
 
 	1 VD1689_94 Sog 7:19
+	-----
+	1
+
+
+lehìeºa
+
+	1 VD1689_94 Sog 7:17
 	-----
 	1
 
@@ -13794,9 +14126,16 @@ lehìeris
 	2
 
 
-lehìeºa
+lehje
 
-	1 VD1689_94 Sog 7:17
+	1 VD1689_94 Sog 6:19
+	-----
+	1
+
+
+lehnam
+
+	1 VD1689_94 Sog 4:21
 	-----
 	1
 
@@ -14085,6 +14424,20 @@ lohpus
 	2
 
 
+ïohti
+
+	1 VD1689_94 Sog 3:17
+	1 VD1689_94 Sog 6:6
+	1 VD1689_94 Sog 10:9
+	1 VD1689_94 Sog 13:6
+	1 VD1689_94 Sog 15:18
+	1 VD1689_94 Sog 18:9
+	1 VD1689_94 Sog 19:7
+	1 VD1689_94 Sog 21:5
+	-----
+	8
+
+
 lohziht
 
 	1 VD1689_94 Sog 11:35
@@ -14221,6 +14574,13 @@ mahjoja
 	1
 
 
+mahúa
+
+	1 VD1689_94 Sog 15:2
+	-----
+	1
+
+
 mahte
 
 	1 VD1689_94 Sog 5:7
@@ -14294,28 +14654,6 @@ mahzitohs
 	1
 
 
-mahúa
-
-	1 VD1689_94 Sog 15:2
-	-----
-	1
-
-
-maitas
-
-	1 VD1689_94 Sog 14:8
-	1 VD1689_94 Sog 14:9
-	-----
-	2
-
-
-maitu
-
-	1 VD1689_94 Sog 14:8
-	-----
-	1
-
-
 mai§e
 
 	1 VD1689_94 Sog 19:19
@@ -14344,6 +14682,28 @@ mai§i
 mai§u
 
 	1 VD1689_94 Sog 8:5
+	-----
+	1
+
+
+maitas
+
+	1 VD1689_94 Sog 14:8
+	1 VD1689_94 Sog 14:9
+	-----
+	2
+
+
+maitu
+
+	1 VD1689_94 Sog 14:8
+	-----
+	1
+
+
+maíira
+
+	1 VD1689_94 Sog 5:14
 	-----
 	1
 
@@ -14428,6 +14788,13 @@ man
 	2 VD1689_94 Sog 20:28
 	-----
 	68
+
+
+man~
+
+	1 VD1689_94 Sog 5:13
+	-----
+	1
 
 
 manaúúu
@@ -14677,16 +15044,37 @@ mantu
 	1
 
 
-man~
+maoniteºeem
 
-	1 VD1689_94 Sog 5:13
+	1 VD1689_94 Sog 10:12
 	-----
 	1
 
 
-maoniteºeem
+ma§aka
 
-	1 VD1689_94 Sog 10:12
+	1 VD1689_94 Sog 15:2
+	-----
+	1
+
+
+ma§akajs
+
+	1 VD1689_94 Sog 6:15
+	-----
+	1
+
+
+ma§aks
+
+	1 VD1689_94 Sog 21:3
+	-----
+	1
+
+
+ma§gajúchi
+
+	1 VD1689_94 Sog 19:21
 	-----
 	1
 
@@ -14744,41 +15132,6 @@ mauzibu
 	1 VD1689_94 Sog 19:2
 	-----
 	2
-
-
-ma§aka
-
-	1 VD1689_94 Sog 15:2
-	-----
-	1
-
-
-ma§akajs
-
-	1 VD1689_94 Sog 6:15
-	-----
-	1
-
-
-ma§aks
-
-	1 VD1689_94 Sog 21:3
-	-----
-	1
-
-
-ma§gajúchi
-
-	1 VD1689_94 Sog 19:21
-	-----
-	1
-
-
-maíira
-
-	1 VD1689_94 Sog 5:14
-	-----
-	1
 
 
 meddu
@@ -14842,13 +15195,6 @@ meeru
 	8
 
 
-mee§chu=mai§e
-
-	1 VD1689_94 Sog 7:13
-	-----
-	1
-
-
 meeúahm
 
 	1 VD1689_94 Sog 16:17
@@ -14859,6 +15205,13 @@ meeúahm
 meeúas
 
 	1 VD1689_94 Sog 8:7
+	-----
+	1
+
+
+mee§chu=mai§e
+
+	1 VD1689_94 Sog 7:13
 	-----
 	1
 
@@ -15056,23 +15409,6 @@ meroúu
 	1
 
 
-mette
-
-	1 VD1689_94 Sog 8:25
-	1 VD1689_94 Sog 10:16
-	1 VD1689_94 Sog 20:16
-	-----
-	3
-
-
-mettehs
-
-	1 VD1689_94 Sog 13:20
-	1 VD1689_94 Sog 19:25
-	-----
-	2
-
-
 me§ch
 
 	1 VD1689_94 Sog 6:28
@@ -15102,6 +15438,13 @@ me§chu
 	2
 
 
+meúloúchanu
+
+	1 VD1689_94 Sog 20:9
+	-----
+	1
+
+
 me§opotamijas
 
 	1 VD1689_94 Sog 3:8
@@ -15110,18 +15453,21 @@ me§opotamijas
 	2
 
 
-meúloúchanu
+mette
 
-	1 VD1689_94 Sog 20:9
+	1 VD1689_94 Sog 8:25
+	1 VD1689_94 Sog 10:16
+	1 VD1689_94 Sog 20:16
 	-----
-	1
+	3
 
 
-midijaniteri
+mettehs
 
-	1 VD1689_94 Sog 6:3
+	1 VD1689_94 Sog 13:20
+	1 VD1689_94 Sog 19:25
 	-----
-	1
+	2
 
 
 midijaniteºa
@@ -15141,6 +15487,13 @@ midijaniteºeem
 	1 VD1689_94 Sog 8:1
 	-----
 	6
+
+
+midijaniteri
+
+	1 VD1689_94 Sog 6:3
+	-----
+	1
 
 
 midijaniteºi
@@ -15306,14 +15659,7 @@ mirdams
 	1
 
 
-mirt
-
-	1 VD1689_94 Sog 6:23
-	-----
-	1
-
-
-mir§t
+miººoòu
 
 	1 VD1689_94 Sog 16:30
 	-----
@@ -15332,6 +15678,35 @@ mirúim
 	1 VD1689_94 Sog 13:22
 	-----
 	1
+
+
+mir§t
+
+	1 VD1689_94 Sog 16:30
+	-----
+	1
+
+
+mirt
+
+	1 VD1689_94 Sog 6:23
+	-----
+	1
+
+
+miúchanu
+
+	1 VD1689_94 Sog 6:4
+	-----
+	1
+
+
+mi§t
+
+	1 VD1689_94 Sog 17:8
+	1 VD1689_94 Sog 17:9
+	-----
+	2
 
 
 mitte
@@ -15375,28 +15750,6 @@ mizpu
 	1 VD1689_94 Sog 21:8
 	-----
 	5
-
-
-mi§t
-
-	1 VD1689_94 Sog 17:8
-	1 VD1689_94 Sog 17:9
-	-----
-	2
-
-
-miººoòu
-
-	1 VD1689_94 Sog 16:30
-	-----
-	1
-
-
-miúchanu
-
-	1 VD1689_94 Sog 6:4
-	-----
-	1
 
 
 moaba
@@ -15493,13 +15846,6 @@ muhs
 	9
 
 
-muh§chigi
-
-	1 VD1689_94 Sog 2:1
-	-----
-	1
-
-
 muhúa^s
 
 	1 VD1689_94 Sog 16:23
@@ -15513,6 +15859,13 @@ muhúahm
 	1 VD1689_94 Sog 21:18
 	-----
 	2
+
+
+muh§chigi
+
+	1 VD1689_94 Sog 2:1
+	-----
+	1
 
 
 muhúeem
@@ -15670,6 +16023,13 @@ nahks
 	2
 
 
+nahkúchu
+
+	1 VD1689_94 Sog 7:17
+	-----
+	1
+
+
 nahkt
 
 	1 VD1689_94 Sog 1:34
@@ -15709,13 +16069,6 @@ nahkuúchi
 	1 VD1689_94 Sog 18:22
 	-----
 	9
-
-
-nahkúchu
-
-	1 VD1689_94 Sog 7:17
-	-----
-	1
 
 
 nahwei
@@ -15855,6 +16208,13 @@ nakti
 	17
 
 
+nakti`
+
+	1 VD1689_94 Sog 9:34
+	-----
+	1
+
+
 nakti^
 
 	1 VD1689_94 Sog 6:25
@@ -15867,17 +16227,35 @@ nakti^
 	6
 
 
-nakti`
-
-	1 VD1689_94 Sog 9:34
-	-----
-	1
-
-
 nakts
 
 	1 VD1689_94 Sog 7:19
 	1 VD1689_94 Sog 16:3
+	-----
+	2
+
+
+nam~a
+
+	1 VD1689_94 Sog 1:35
+	1 VD1689_94 Sog 9:16
+	-----
+	2
+
+
+nam~a^
+
+	1 VD1689_94 Sog 6:15
+	1 VD1689_94 Sog 17:12
+	1 VD1689_94 Sog 18:14
+	-----
+	3
+
+
+nam~u
+
+	1 VD1689_94 Sog 18:15
+	1 VD1689_94 Sog 20:18
 	-----
 	2
 
@@ -16022,98 +16400,6 @@ nams
 	8
 
 
-nam~a
-
-	1 VD1689_94 Sog 1:35
-	1 VD1689_94 Sog 9:16
-	-----
-	2
-
-
-nam~a^
-
-	1 VD1689_94 Sog 6:15
-	1 VD1689_94 Sog 17:12
-	1 VD1689_94 Sog 18:14
-	-----
-	3
-
-
-nam~u
-
-	1 VD1689_94 Sog 18:15
-	1 VD1689_94 Sog 20:18
-	-----
-	2
-
-
-nauda
-
-	1 VD1689_94 Sog 17:2
-	-----
-	1
-
-
-naudas
-
-	1 VD1689_94 Sog 5:19
-	-----
-	1
-
-
-naudu
-
-	1 VD1689_94 Sog 17:3
-	1 VD1689_94 Sog 17:4
-	-----
-	2
-
-
-nawtalu
-
-	1 VD1689_94 Sog 4:10
-	1 VD1689_94 Sog 6:35
-	-----
-	2
-
-
-nawtalus
-
-	1 VD1689_94 Sog 1:33
-	1 VD1689_94 Sog 5:18
-	1 VD1689_94 Sog 7:23
-	-----
-	3
-
-
-nawtaïa
-
-	2 VD1689_94 Sog 4:6
-	-----
-	2
-
-
-nazaree#ris
-
-	1 VD1689_94 Sog 13:7
-	-----
-	1
-
-
-nazaree&ris
-
-	1 VD1689_94 Sog 16:17
-	-----
-	1
-
-
-nazareeris
-
-	1 VD1689_94 Sog 13:5
-	-----
-	1
-
-
 na§aree#ru
 
 	1 VD1689_94 Sog 13:0
@@ -16138,6 +16424,73 @@ na§im
 na§is
 
 	1 VD1689_94 Sog 16:17
+	-----
+	1
+
+
+nauda
+
+	1 VD1689_94 Sog 17:2
+	-----
+	1
+
+
+naudas
+
+	1 VD1689_94 Sog 5:19
+	-----
+	1
+
+
+naudu
+
+	1 VD1689_94 Sog 17:3
+	1 VD1689_94 Sog 17:4
+	-----
+	2
+
+
+nawtaïa
+
+	2 VD1689_94 Sog 4:6
+	-----
+	2
+
+
+nawtalu
+
+	1 VD1689_94 Sog 4:10
+	1 VD1689_94 Sog 6:35
+	-----
+	2
+
+
+nawtalus
+
+	1 VD1689_94 Sog 1:33
+	1 VD1689_94 Sog 5:18
+	1 VD1689_94 Sog 7:23
+	-----
+	3
+
+
+nazaree&ris
+
+	1 VD1689_94 Sog 16:17
+	-----
+	1
+
+
+nazaree#ris
+
+	1 VD1689_94 Sog 13:7
+	-----
+	1
+
+
+nazareeris
+
+	1 VD1689_94 Sog 13:5
 	-----
 	1
 
@@ -16395,6 +16748,72 @@ negantu
 	1
 
 
+neììi
+
+	1 VD1689_94 Sog 4:14
+	1 VD1689_94 Sog 6:13
+	1 VD1689_94 Sog 11:7
+	1 VD1689_94 Sog 15:2
+	-----
+	4
+
+
+òehme
+
+	1 VD1689_94 Sog 3:6
+	1 VD1689_94 Sog 3:21
+	1 VD1689_94 Sog 3:25
+	2 VD1689_94 Sog 4:21
+	1 VD1689_94 Sog 6:27
+	1 VD1689_94 Sog 7:8
+	1 VD1689_94 Sog 8:16
+	1 VD1689_94 Sog 8:21
+	1 VD1689_94 Sog 9:43
+	1 VD1689_94 Sog 9:48
+	1 VD1689_94 Sog 13:19
+	1 VD1689_94 Sog 14:9
+	1 VD1689_94 Sog 14:19
+	1 VD1689_94 Sog 15:4
+	1 VD1689_94 Sog 15:15
+	1 VD1689_94 Sog 16:12
+	1 VD1689_94 Sog 17:4
+	1 VD1689_94 Sog 18:17
+	1 VD1689_94 Sog 18:18
+	1 VD1689_94 Sog 18:20
+	1 VD1689_94 Sog 18:27
+	1 VD1689_94 Sog 19:1
+	1 VD1689_94 Sog 19:28
+	1 VD1689_94 Sog 19:29
+	1 VD1689_94 Sog 21:23
+	-----
+	26
+
+
+òehmis
+
+	1 VD1689_94 Sog 11:13
+	1 VD1689_94 Sog 11:15
+	1 VD1689_94 Sog 14:9
+	1 VD1689_94 Sog 15:6
+	1 VD1689_94 Sog 17:2
+	-----
+	5
+
+
+òehmu
+
+	1 VD1689_94 Sog 20:6
+	-----
+	1
+
+
+òehmuúchi
+
+	1 VD1689_94 Sog 21:22
+	-----
+	1
+
+
 nei
 
 	1 VD1689_94 Sog 5:8
@@ -16415,6 +16834,55 @@ neklauúigi
 	1 VD1689_94 Sog 2:0
 	-----
 	1
+
+
+òem
+
+	1 VD1689_94 Sog 4:6
+	1 VD1689_94 Sog 6:20
+	1 VD1689_94 Sog 6:25
+	1 VD1689_94 Sog 6:26
+	1 VD1689_94 Sog 14:3
+	-----
+	5
+
+
+òemdami
+
+	1 VD1689_94 Sog 20:10
+	-----
+	1
+
+
+òemmahs
+
+	1 VD1689_94 Sog 1:0
+	-----
+	1
+
+
+òemmeet
+
+	1 VD1689_94 Sog 5:3
+	1 VD1689_94 Sog 14:2
+	1 VD1689_94 Sog 19:30
+	-----
+	3
+
+
+òemúim
+
+	1 VD1689_94 Sog 20:10
+	-----
+	1
+
+
+òemt
+
+	1 VD1689_94 Sog 14:3
+	1 VD1689_94 Sog 14:8
+	-----
+	2
 
 
 neno§eed§igs
@@ -16447,30 +16915,6 @@ neraud§etas
 	4
 
 
-newa
-
-	1 VD1689_94 Sog 4:20
-	-----
-	1
-
-
-ne§pehzigs
-
-	1 VD1689_94 Sog 16:7
-	-----
-	1
-
-
-neììi
-
-	1 VD1689_94 Sog 4:14
-	1 VD1689_94 Sog 6:13
-	1 VD1689_94 Sog 11:7
-	1 VD1689_94 Sog 15:2
-	-----
-	4
-
-
 neúchíih§ts
 
 	1 VD1689_94 Sog 13:4
@@ -16478,6 +16922,13 @@ neúchíih§ts
 	1 VD1689_94 Sog 13:13
 	-----
 	3
+
+
+ne§pehzigs
+
+	1 VD1689_94 Sog 16:7
+	-----
+	1
 
 
 neús
@@ -16509,6 +16960,13 @@ neúúe
 neúúuúchi
 
 	1 VD1689_94 Sog 3:18
+	-----
+	1
+
+
+newa
+
+	1 VD1689_94 Sog 4:20
 	-----
 	1
 
@@ -16834,6 +17292,14 @@ nodohs
 	2
 
 
+nodohúchu
+
+	1 VD1689_94 Sog 4:7
+	1 VD1689_94 Sog 7:7
+	-----
+	2
+
+
 nodoht
 
 	1 VD1689_94 Sog 3:18
@@ -16846,21 +17312,6 @@ nodoht
 nodohti
 
 	1 VD1689_94 Sog 2:0
-	-----
-	1
-
-
-nodohúchu
-
-	1 VD1689_94 Sog 4:7
-	1 VD1689_94 Sog 7:7
-	-----
-	2
-
-
-noduhre
-
-	1 VD1689_94 Sog 9:54
 	-----
 	1
 
@@ -16878,6 +17329,13 @@ nod§ihti
 	1 VD1689_94 Sog 16:22
 	-----
 	2
+
+
+noduhre
+
+	1 VD1689_94 Sog 9:54
+	-----
+	1
 
 
 noeet
@@ -17004,6 +17462,14 @@ nokauji
 	2
 
 
+nokauúim
+
+	1 VD1689_94 Sog 15:13
+	1 VD1689_94 Sog 16:2
+	-----
+	2
+
+
 nokaut
 
 	1 VD1689_94 Sog 9:24
@@ -17049,14 +17515,6 @@ nokautu
 	1 VD1689_94 Sog 8:19
 	-----
 	1
-
-
-nokauúim
-
-	1 VD1689_94 Sog 15:13
-	1 VD1689_94 Sog 16:2
-	-----
-	2
 
 
 nokawat
@@ -17116,6 +17574,13 @@ nolaidahs
 	1
 
 
+nolaúúija
+
+	1 VD1689_94 Sog 9:27
+	-----
+	1
+
+
 nolau§ihts
 
 	1 VD1689_94 Sog 6:31
@@ -17129,13 +17594,6 @@ nolau§ijs
 	1 VD1689_94 Sog 6:32
 	-----
 	2
-
-
-nolaúúija
-
-	1 VD1689_94 Sog 9:27
-	-----
-	1
 
 
 noleekam
@@ -17168,19 +17626,19 @@ nolezz
 	1
 
 
+nolikúchu
+
+	1 VD1689_94 Sog 6:37
+	-----
+	1
+
+
 noliktu
 
 	1 VD1689_94 Sog 1:33
 	1 VD1689_94 Sog 1:35
 	-----
 	2
-
-
-nolikúchu
-
-	1 VD1689_94 Sog 6:37
-	-----
-	1
 
 
 nolohzijúi
@@ -17204,6 +17662,13 @@ nomaitati
 	1
 
 
+nomeúlotu
+
+	2 VD1689_94 Sog 1:3
+	-----
+	2
+
+
 nomette
 
 	1 VD1689_94 Sog 9:53
@@ -17217,13 +17682,6 @@ nomettis
 	1 VD1689_94 Sog 9:17
 	-----
 	1
-
-
-nomeúlotu
-
-	2 VD1689_94 Sog 1:3
-	-----
-	2
 
 
 nomirre
@@ -17306,6 +17764,13 @@ nonahzis
 	1
 
 
+noòemm
+
+	1 VD1689_94 Sog 18:0
+	-----
+	1
+
+
 noneúúe
 
 	1 VD1689_94 Sog 3:17
@@ -17353,6 +17818,68 @@ norunnatas
 	1 VD1689_94 Sog 17:10
 	-----
 	1
+
+
+noúauze
+
+	1 VD1689_94 Sog 1:17
+	1 VD1689_94 Sog 1:26
+	1 VD1689_94 Sog 2:5
+	1 VD1689_94 Sog 6:24
+	1 VD1689_94 Sog 6:32
+	1 VD1689_94 Sog 8:31
+	1 VD1689_94 Sog 10:4
+	1 VD1689_94 Sog 13:24
+	1 VD1689_94 Sog 15:17
+	1 VD1689_94 Sog 15:19
+	1 VD1689_94 Sog 18:12
+	1 VD1689_94 Sog 18:29
+	-----
+	12
+
+
+no§chehloht
+
+	1 VD1689_94 Sog 11:40
+	-----
+	1
+
+
+noúchíirúim
+
+	1 VD1689_94 Sog 20:32
+	-----
+	1
+
+
+noúchíirti
+
+	1 VD1689_94 Sog 20:31
+	-----
+	1
+
+
+no§peede
+
+	1 VD1689_94 Sog 2:18
+	-----
+	1
+
+
+no§pree§ch
+
+	1 VD1689_94 Sog 1:0
+	-----
+	1
+
+
+noúuhtija
+
+	1 VD1689_94 Sog 4:6
+	1 VD1689_94 Sog 16:18
+	1 VD1689_94 Sog 21:13
+	-----
+	3
 
 
 noteek
@@ -17446,6 +17973,20 @@ nozehrt
 	1
 
 
+nozir§teem
+
+	1 VD1689_94 Sog 1:7
+	-----
+	1
+
+
+nozir§ts
+
+	1 VD1689_94 Sog 6:28
+	-----
+	1
+
+
 nozirte
 
 	1 VD1689_94 Sog 1:6
@@ -17467,89 +18008,6 @@ nozirtiúi
 	1 VD1689_94 Sog 6:26
 	-----
 	1
-
-
-nozir§teem
-
-	1 VD1689_94 Sog 1:7
-	-----
-	1
-
-
-nozir§ts
-
-	1 VD1689_94 Sog 6:28
-	-----
-	1
-
-
-no§chehloht
-
-	1 VD1689_94 Sog 11:40
-	-----
-	1
-
-
-no§peede
-
-	1 VD1689_94 Sog 2:18
-	-----
-	1
-
-
-no§pree§ch
-
-	1 VD1689_94 Sog 1:0
-	-----
-	1
-
-
-noòemm
-
-	1 VD1689_94 Sog 18:0
-	-----
-	1
-
-
-noúauze
-
-	1 VD1689_94 Sog 1:17
-	1 VD1689_94 Sog 1:26
-	1 VD1689_94 Sog 2:5
-	1 VD1689_94 Sog 6:24
-	1 VD1689_94 Sog 6:32
-	1 VD1689_94 Sog 8:31
-	1 VD1689_94 Sog 10:4
-	1 VD1689_94 Sog 13:24
-	1 VD1689_94 Sog 15:17
-	1 VD1689_94 Sog 15:19
-	1 VD1689_94 Sog 18:12
-	1 VD1689_94 Sog 18:29
-	-----
-	12
-
-
-noúchíirti
-
-	1 VD1689_94 Sog 20:31
-	-----
-	1
-
-
-noúchíirúim
-
-	1 VD1689_94 Sog 20:32
-	-----
-	1
-
-
-noúuhtija
-
-	1 VD1689_94 Sog 4:6
-	1 VD1689_94 Sog 16:18
-	1 VD1689_94 Sog 21:13
-	-----
-	3
 
 
 nu
@@ -17643,6 +18101,23 @@ ohlekts
 	1
 
 
+oh§ola
+
+	1 VD1689_94 Sog 4:11
+	1 VD1689_94 Sog 9:6
+	1 VD1689_94 Sog 9:37
+	-----
+	3
+
+
+oh§olu
+
+	1 VD1689_94 Sog 6:11
+	1 VD1689_94 Sog 6:19
+	-----
+	2
+
+
 ohtra^
 
 	1 VD1689_94 Sog 20:24
@@ -17668,23 +18143,6 @@ ohtru
 	1 VD1689_94 Sog 10:18
 	-----
 	4
-
-
-oh§ola
-
-	1 VD1689_94 Sog 4:11
-	1 VD1689_94 Sog 9:6
-	1 VD1689_94 Sog 9:37
-	-----
-	3
-
-
-oh§olu
-
-	1 VD1689_94 Sog 6:11
-	1 VD1689_94 Sog 6:19
-	-----
-	2
 
 
 oreb
@@ -17730,13 +18188,6 @@ otmie#ls
 	1
 
 
-otnie#ls
-
-	1 VD1689_94 Sog 3:11
-	-----
-	1
-
-
 otnie&ls
 
 	1 VD1689_94 Sog 1:0
@@ -17747,6 +18198,13 @@ otnie&ls
 otnie&lu
 
 	1 VD1689_94 Sog 3:0
+	-----
+	1
+
+
+otnie#ls
+
+	1 VD1689_94 Sog 3:11
 	-----
 	1
 
@@ -18067,6 +18525,13 @@ pahrrunna
 	2
 
 
+pahr§taigaht
+
+	1 VD1689_94 Sog 19:12
+	-----
+	1
+
+
 pahrwarreht
 
 	1 VD1689_94 Sog 16:5
@@ -18077,13 +18542,6 @@ pahrwarreht
 pahrzehlahs
 
 	1 VD1689_94 Sog 6:33
-	-----
-	1
-
-
-pahr§taigaht
-
-	1 VD1689_94 Sog 19:12
 	-----
 	1
 
@@ -18141,6 +18599,13 @@ pakkaïenes
 pakkulu
 
 	1 VD1689_94 Sog 16:9
+	-----
+	1
+
+
+païahwahs
+
+	1 VD1689_94 Sog 9:26
 	-----
 	1
 
@@ -18219,6 +18684,13 @@ palikke
 	11
 
 
+palikúchu
+
+	1 VD1689_94 Sog 6:18
+	-----
+	1
+
+
 palikt
 
 	1 VD1689_94 Sog 3:1
@@ -18235,13 +18707,6 @@ palikt
 paliktu
 
 	1 VD1689_94 Sog 19:15
-	-----
-	1
-
-
-palikúchu
-
-	1 VD1689_94 Sog 6:18
 	-----
 	1
 
@@ -18393,6 +18858,132 @@ parei§i
 	3
 
 
+paúakki
+
+	1 VD1689_94 Sog 14:13
+	-----
+	1
+
+
+paúazziht
+
+	1 VD1689_94 Sog 21:13
+	-----
+	1
+
+
+paúazzihts
+
+	1 VD1689_94 Sog 9:7
+	1 VD1689_94 Sog 9:25
+	1 VD1689_94 Sog 9:42
+	1 VD1689_94 Sog 9:47
+	-----
+	4
+
+
+paúazzija
+
+	1 VD1689_94 Sog 13:10
+	1 VD1689_94 Sog 14:6
+	-----
+	2
+
+
+paúchai
+
+	1 VD1689_94 Sog 15:19
+	1 VD1689_94 Sog 19:30
+	-----
+	2
+
+
+paúchas
+
+	1 VD1689_94 Sog 21:23
+	-----
+	1
+
+
+paúchi
+
+	1 VD1689_94 Sog 3:25
+	1 VD1689_94 Sog 5:2
+	1 VD1689_94 Sog 18:14
+	-----
+	3
+
+
+paúchu
+
+	1 VD1689_94 Sog 13:23
+	1 VD1689_94 Sog 14:4
+	1 VD1689_94 Sog 17:0
+	1 VD1689_94 Sog 18:12
+	1 VD1689_94 Sog 19:30
+	-----
+	5
+
+
+paúchus
+
+	1 VD1689_94 Sog 20:34
+	1 VD1689_94 Sog 20:41
+	-----
+	2
+
+
+pa§emmohts
+
+	1 VD1689_94 Sog 3:30
+	-----
+	1
+
+
+pa§emmoja
+
+	1 VD1689_94 Sog 4:23
+	-----
+	1
+
+
+pa§emmoti
+
+	1 VD1689_94 Sog 8:28
+	1 VD1689_94 Sog 11:33
+	-----
+	2
+
+
+pa§inne
+
+	1 VD1689_94 Sog 2:10
+	1 VD1689_94 Sog 18:3
+	-----
+	2
+
+
+pa§kubbinajis
+
+	1 VD1689_94 Sog 10:0
+	-----
+	1
+
+
+paúkubbinata
+
+	1 VD1689_94 Sog 1:14
+	-----
+	1
+
+
+pa§tahweht
+
+	1 VD1689_94 Sog 2:14
+	-----
+	1
+
+
 pat
 
 	1 VD1689_94 Sog 13:7
@@ -18494,6 +19085,13 @@ pawaddita
 	1
 
 
+pawedeòi
+
+	1 VD1689_94 Sog 15:14
+	-----
+	1
+
+
 pawedens
 
 	1 VD1689_94 Sog 16:9
@@ -18504,13 +19102,6 @@ pawedens
 pawedenu
 
 	1 VD1689_94 Sog 16:12
-	-----
-	1
-
-
-pawedeòi
-
-	1 VD1689_94 Sog 15:14
 	-----
 	1
 
@@ -18563,139 +19154,6 @@ pazehle
 	1 VD1689_94 Sog 21:2
 	-----
 	6
-
-
-pa§emmohts
-
-	1 VD1689_94 Sog 3:30
-	-----
-	1
-
-
-pa§emmoja
-
-	1 VD1689_94 Sog 4:23
-	-----
-	1
-
-
-pa§emmoti
-
-	1 VD1689_94 Sog 8:28
-	1 VD1689_94 Sog 11:33
-	-----
-	2
-
-
-pa§inne
-
-	1 VD1689_94 Sog 2:10
-	1 VD1689_94 Sog 18:3
-	-----
-	2
-
-
-pa§kubbinajis
-
-	1 VD1689_94 Sog 10:0
-	-----
-	1
-
-
-pa§tahweht
-
-	1 VD1689_94 Sog 2:14
-	-----
-	1
-
-
-païahwahs
-
-	1 VD1689_94 Sog 9:26
-	-----
-	1
-
-
-paúakki
-
-	1 VD1689_94 Sog 14:13
-	-----
-	1
-
-
-paúazziht
-
-	1 VD1689_94 Sog 21:13
-	-----
-	1
-
-
-paúazzihts
-
-	1 VD1689_94 Sog 9:7
-	1 VD1689_94 Sog 9:25
-	1 VD1689_94 Sog 9:42
-	1 VD1689_94 Sog 9:47
-	-----
-	4
-
-
-paúazzija
-
-	1 VD1689_94 Sog 13:10
-	1 VD1689_94 Sog 14:6
-	-----
-	2
-
-
-paúchai
-
-	1 VD1689_94 Sog 15:19
-	1 VD1689_94 Sog 19:30
-	-----
-	2
-
-
-paúchas
-
-	1 VD1689_94 Sog 21:23
-	-----
-	1
-
-
-paúchi
-
-	1 VD1689_94 Sog 3:25
-	1 VD1689_94 Sog 5:2
-	1 VD1689_94 Sog 18:14
-	-----
-	3
-
-
-paúchu
-
-	1 VD1689_94 Sog 13:23
-	1 VD1689_94 Sog 14:4
-	1 VD1689_94 Sog 17:0
-	1 VD1689_94 Sog 18:12
-	1 VD1689_94 Sog 19:30
-	-----
-	5
-
-
-paúchus
-
-	1 VD1689_94 Sog 20:34
-	1 VD1689_94 Sog 20:41
-	-----
-	2
-
-
-paúkubbinata
-
-	1 VD1689_94 Sog 1:14
-	-----
-	1
 
 
 pee
@@ -18981,6 +19439,13 @@ peenahk
 	1
 
 
+peeòehmis
+
+	1 VD1689_94 Sog 13:23
+	-----
+	1
+
+
 peene§t
 
 	1 VD1689_94 Sog 13:16
@@ -18991,6 +19456,35 @@ peene§t
 peenu
 
 	1 VD1689_94 Sog 5:25
+	-----
+	1
+
+
+peeúauze
+
+	1 VD1689_94 Sog 15:18
+	1 VD1689_94 Sog 16:28
+	-----
+	2
+
+
+peeúauzeja
+
+	1 VD1689_94 Sog 15:19
+	-----
+	1
+
+
+peeúchíirta
+
+	1 VD1689_94 Sog 18:1
+	-----
+	1
+
+
+pee§peede
+
+	1 VD1689_94 Sog 1:28
 	-----
 	1
 
@@ -19064,42 +19558,6 @@ peezus
 	1
 
 
-pee§peede
-
-	1 VD1689_94 Sog 1:28
-	-----
-	1
-
-
-peeòehmis
-
-	1 VD1689_94 Sog 13:23
-	-----
-	1
-
-
-peeúauze
-
-	1 VD1689_94 Sog 15:18
-	1 VD1689_94 Sog 16:28
-	-----
-	2
-
-
-peeúauzeja
-
-	1 VD1689_94 Sog 15:19
-	-----
-	1
-
-
-peeúchíirta
-
-	1 VD1689_94 Sog 18:1
-	-----
-	1
-
-
 pehdahm
 
 	1 VD1689_94 Sog 8:5
@@ -19168,12 +19626,11 @@ pehzgalla
 	1
 
 
-pe§titaju
+peïòu
 
-	1 VD1689_94 Sog 3:9
-	1 VD1689_94 Sog 3:15
+	1 VD1689_94 Sog 5:19
 	-----
-	2
+	1
 
 
 pe§tiúchanu
@@ -19183,11 +19640,12 @@ pe§tiúchanu
 	1
 
 
-peïòu
+pe§titaju
 
-	1 VD1689_94 Sog 5:19
+	1 VD1689_94 Sog 3:9
+	1 VD1689_94 Sog 3:15
 	-----
-	1
+	2
 
 
 pildija
@@ -19257,14 +19715,6 @@ pilsúahta
 	28
 
 
-pilsúahta=wahrtu
-
-	1 VD1689_94 Sog 9:35
-	1 VD1689_94 Sog 9:44
-	-----
-	2
-
-
 pilsúahta^
 
 	1 VD1689_94 Sog 1:24
@@ -19274,6 +19724,14 @@ pilsúahta^
 	1 VD1689_94 Sog 19:11
 	-----
 	5
+
+
+pilsúahta=wahrtu
+
+	1 VD1689_94 Sog 9:35
+	1 VD1689_94 Sog 9:44
+	-----
+	2
 
 
 pilsúahtam
@@ -19430,13 +19888,6 @@ plihúuúchahm
 	1
 
 
-pnue#ïa
-
-	1 VD1689_94 Sog 8:8
-	-----
-	1
-
-
 pnue&ïa
 
 	1 VD1689_94 Sog 8:0
@@ -19444,7 +19895,7 @@ pnue&ïa
 	1
 
 
-pnuelu
+pnue#ïa
 
 	1 VD1689_94 Sog 8:8
 	-----
@@ -19457,6 +19908,13 @@ pnueïa
 	1 VD1689_94 Sog 8:17
 	-----
 	2
+
+
+pnuelu
+
+	1 VD1689_94 Sog 8:8
+	-----
+	1
 
 
 pohda^
@@ -19504,34 +19962,6 @@ prahtu
 	1
 
 
-praweeta
-
-	1 VD1689_94 Sog 4:4
-	-----
-	1
-
-
-praweete
-
-	1 VD1689_94 Sog 4:0
-	-----
-	1
-
-
-praweets
-
-	1 VD1689_94 Sog 6:8
-	-----
-	1
-
-
-praweetu
-
-	1 VD1689_94 Sog 6:0
-	-----
-	1
-
-
 praúúa
 
 	1 VD1689_94 Sog 6:0
@@ -19557,6 +19987,34 @@ praúúijs
 praúúiúchu
 
 	1 VD1689_94 Sog 8:24
+	-----
+	1
+
+
+praweeta
+
+	1 VD1689_94 Sog 4:4
+	-----
+	1
+
+
+praweete
+
+	1 VD1689_94 Sog 4:0
+	-----
+	1
+
+
+praweets
+
+	1 VD1689_94 Sog 6:8
+	-----
+	1
+
+
+praweetu
+
+	1 VD1689_94 Sog 6:0
 	-----
 	1
 
@@ -19663,16 +20121,9 @@ preekúchzeïïu
 	1
 
 
-preezajahs
+pree§teºam
 
-	1 VD1689_94 Sog 9:19
-	-----
-	1
-
-
-preezajtees
-
-	1 VD1689_94 Sog 9:19
+	1 VD1689_94 Sog 18:20
 	-----
 	1
 
@@ -19691,6 +20142,13 @@ pree§teri
 	9
 
 
+pree§teºi
+
+	1 VD1689_94 Sog 18:30
+	-----
+	1
+
+
 pree§teris
 
 	1 VD1689_94 Sog 18:6
@@ -19700,23 +20158,23 @@ pree§teris
 	3
 
 
-pree§teºam
-
-	1 VD1689_94 Sog 18:20
-	-----
-	1
-
-
-pree§teºi
-
-	1 VD1689_94 Sog 18:30
-	-----
-	1
-
-
 pree§teºus
 
 	1 VD1689_94 Sog 17:0
+	-----
+	1
+
+
+preezajahs
+
+	1 VD1689_94 Sog 9:19
+	-----
+	1
+
+
+preezajtees
+
+	1 VD1689_94 Sog 9:19
 	-----
 	1
 
@@ -19960,13 +20418,6 @@ purus
 	1
 
 
-puu#s
-
-	1 VD1689_94 Sog 10:1
-	-----
-	1
-
-
 puús
 
 	1 VD1689_94 Sog 5:30
@@ -19993,6 +20444,13 @@ puúúi
 	1 VD1689_94 Sog 21:19
 	-----
 	3
+
+
+puu#s
+
+	1 VD1689_94 Sog 10:1
+	-----
+	1
 
 
 radda
@@ -20129,6 +20587,22 @@ ranou
 	1
 
 
+raúúa
+
+	1 VD1689_94 Sog 6:37
+	1 VD1689_94 Sog 6:39
+	1 VD1689_94 Sog 6:40
+	-----
+	3
+
+
+raúúu
+
+	1 VD1689_94 Sog 6:38
+	-----
+	1
+
+
 ratteem
 
 	2 VD1689_94 Sog 4:15
@@ -20211,22 +20685,6 @@ raugi
 	11
 
 
-raúúa
-
-	1 VD1689_94 Sog 6:37
-	1 VD1689_94 Sog 6:39
-	1 VD1689_94 Sog 6:40
-	-----
-	3
-
-
-raúúu
-
-	1 VD1689_94 Sog 6:38
-	-----
-	1
-
-
 re
 
 	1 VD1689_94 Sog 14:5
@@ -20292,13 +20750,6 @@ red§ejs
 	3
 
 
-red§eju
-
-	1 VD1689_94 Sog 12:3
-	-----
-	1
-
-
 red§ejúchi
 
 	1 VD1689_94 Sog 2:7
@@ -20306,6 +20757,13 @@ red§ejúchi
 	1 VD1689_94 Sog 13:22
 	-----
 	3
+
+
+red§eju
+
+	1 VD1689_94 Sog 12:3
+	-----
+	1
 
 
 red§eta
@@ -20374,9 +20832,16 @@ rekobu
 	1
 
 
-rettakajs
+reúns
 
-	1 VD1689_94 Sog 6:15
+	1 VD1689_94 Sog 3:17
+	-----
+	1
+
+
+reúnus
+
+	1 VD1689_94 Sog 3:29
 	-----
 	1
 
@@ -20388,16 +20853,9 @@ re§teta
 	1
 
 
-reúns
+rettakajs
 
-	1 VD1689_94 Sog 3:17
-	-----
-	1
-
-
-reúnus
-
-	1 VD1689_94 Sog 3:29
+	1 VD1689_94 Sog 6:15
 	-----
 	1
 
@@ -20497,9 +20955,9 @@ rimmon
 	4
 
 
-ritteòi
+ri§ata`imam
 
-	1 VD1689_94 Sog 5:28
+	1 VD1689_94 Sog 3:8
 	-----
 	1
 
@@ -20519,9 +20977,9 @@ ri§ata&imu
 	3
 
 
-ri§ata`imam
+ritteòi
 
-	1 VD1689_94 Sog 3:8
+	1 VD1689_94 Sog 5:28
 	-----
 	1
 
@@ -20632,6 +21090,13 @@ rohka^
 	43
 
 
+rohka^{rohka}
+
+	1 VD1689_94 Sog 15:12
+	-----
+	1
+
+
 rohka^s
 
 	1 VD1689_94 Sog 6:0
@@ -20642,13 +21107,6 @@ rohka^s
 	1 VD1689_94 Sog 18:10
 	-----
 	6
-
-
-rohka^{rohka}
-
-	1 VD1689_94 Sog 15:12
-	-----
-	1
 
 
 rohkahm
@@ -20725,6 +21183,13 @@ ruhze
 	1
 
 
+run~ajt
+
+	1 VD1689_94 Sog 19:30
+	-----
+	1
+
+
 runna
 
 	1 VD1689_94 Sog 6:17
@@ -20770,6 +21235,13 @@ runnajs
 	7
 
 
+runnajúchi
+
+	1 VD1689_94 Sog 11:10
+	-----
+	1
+
+
 runnajt
 
 	1 VD1689_94 Sog 5:10
@@ -20785,20 +21257,6 @@ runnaju
 	1
 
 
-runnajúchi
-
-	1 VD1689_94 Sog 11:10
-	-----
-	1
-
-
-runnatu
-
-	1 VD1689_94 Sog 19:3
-	-----
-	1
-
-
 runnaúchanahm
 
 	1 VD1689_94 Sog 5:29
@@ -20807,9 +21265,9 @@ runnaúchanahm
 	2
 
 
-run~ajt
+runnatu
 
-	1 VD1689_94 Sog 19:30
+	1 VD1689_94 Sog 19:3
 	-----
 	1
 
@@ -20821,9 +21279,368 @@ saa&lbima
 	1
 
 
+úabeedrinajahs
+
+	1 VD1689_94 Sog 20:11
+	-----
+	1
+
+
+úabija
+
+	1 VD1689_94 Sog 19:2
+	-----
+	1
+
+
+úadau§ija
+
+	1 VD1689_94 Sog 5:26
+	1 VD1689_94 Sog 7:19
+	1 VD1689_94 Sog 7:20
+	-----
+	3
+
+
+úaded§inaht
+
+	1 VD1689_94 Sog 9:51
+	-----
+	1
+
+
+úaded§inaja
+
+	1 VD1689_94 Sog 9:49
+	1 VD1689_94 Sog 15:6
+	1 VD1689_94 Sog 18:27
+	-----
+	3
+
+
+úaded§inajam
+
+	1 VD1689_94 Sog 14:15
+	-----
+	1
+
+
+úaded§inaúim
+
+	1 VD1689_94 Sog 12:1
+	-----
+	1
+
+
+úaderrehts
+
+	1 VD1689_94 Sog 14:0
+	-----
+	1
+
+
+úaderreja
+
+	1 VD1689_94 Sog 9:4
+	1 VD1689_94 Sog 17:11
+	-----
+	2
+
+
+úaderrejs
+
+	1 VD1689_94 Sog 18:4
+	-----
+	1
+
+
+úaduhre
+
+	1 VD1689_94 Sog 5:26
+	-----
+	1
+
+
+úagrahbe
+
+	1 VD1689_94 Sog 12:6
+	1 VD1689_94 Sog 16:3
+	1 VD1689_94 Sog 16:21
+	1 VD1689_94 Sog 19:25
+	1 VD1689_94 Sog 19:29
+	-----
+	5
+
+
+úagrahbeet
+
+	1 VD1689_94 Sog 21:21
+	-----
+	1
+
+
+úaguh§ti
+
+	1 VD1689_94 Sog 5:12
+	-----
+	1
+
+
+úaguh§tija
+
+	1 VD1689_94 Sog 1:6
+	1 VD1689_94 Sog 8:12
+	1 VD1689_94 Sog 8:14
+	-----
+	3
+
+
+úahks
+
+	1 VD1689_94 Sog 10:18
+	1 VD1689_94 Sog 13:5
+	-----
+	2
+
+
 sahlu
 
 	1 VD1689_94 Sog 9:45
+	-----
+	1
+
+
+úahnis
+
+	1 VD1689_94 Sog 19:1
+	1 VD1689_94 Sog 19:18
+	-----
+	2
+
+
+úahnu=úeewa
+
+	1 VD1689_94 Sog 8:31
+	-----
+	1
+
+
+úahze
+
+	1 VD1689_94 Sog 1:27
+	1 VD1689_94 Sog 1:35
+	1 VD1689_94 Sog 7:21
+	1 VD1689_94 Sog 13:25
+	1 VD1689_94 Sog 16:4
+	1 VD1689_94 Sog 16:19
+	1 VD1689_94 Sog 16:22
+	1 VD1689_94 Sog 20:31
+	1 VD1689_94 Sog 20:40
+	-----
+	9
+
+
+úaimi
+
+	1 VD1689_94 Sog 1:25
+	-----
+	1
+
+
+úaimneeks
+
+	1 VD1689_94 Sog 19:23
+	-----
+	1
+
+
+úaimneeku
+
+	1 VD1689_94 Sog 19:22
+	-----
+	1
+
+
+úai§tiht
+
+	1 VD1689_94 Sog 15:10
+	1 VD1689_94 Sog 15:12
+	1 VD1689_94 Sog 15:13
+	1 VD1689_94 Sog 16:5
+	1 VD1689_94 Sog 16:6
+	1 VD1689_94 Sog 16:10
+	1 VD1689_94 Sog 16:13
+	-----
+	7
+
+
+úai§tija
+
+	1 VD1689_94 Sog 15:13
+	1 VD1689_94 Sog 16:8
+	1 VD1689_94 Sog 16:12
+	-----
+	3
+
+
+úai§titu
+
+	1 VD1689_94 Sog 16:7
+	1 VD1689_94 Sog 16:11
+	-----
+	2
+
+
+úaites
+
+	1 VD1689_94 Sog 15:14
+	-----
+	1
+
+
+úakaltuúchas
+
+	1 VD1689_94 Sog 16:7
+	1 VD1689_94 Sog 16:8
+	-----
+	2
+
+
+úakappaja
+
+	1 VD1689_94 Sog 19:29
+	-----
+	1
+
+
+úakappata
+
+	1 VD1689_94 Sog 19:0
+	-----
+	1
+
+
+úakka
+
+	1 VD1689_94 Sog 5:23
+	1 VD1689_94 Sog 6:8
+	1 VD1689_94 Sog 7:2
+	1 VD1689_94 Sog 11:15
+	-----
+	4
+
+
+úakkajt
+
+	1 VD1689_94 Sog 20:3
+	-----
+	1
+
+
+úakkat
+
+	1 VD1689_94 Sog 18:8
+	1 VD1689_94 Sog 18:24
+	-----
+	2
+
+
+úakki
+
+	1 VD1689_94 Sog 4:20
+	1 VD1689_94 Sog 7:3
+	1 VD1689_94 Sog 12:6
+	-----
+	3
+
+
+úakku
+
+	1 VD1689_94 Sog 20:37
+	-----
+	1
+
+
+úakne
+
+	1 VD1689_94 Sog 5:14
+	-----
+	1
+
+
+úalaúúija
+
+	1 VD1689_94 Sog 1:7
+	-----
+	1
+
+
+úalau§a
+
+	1 VD1689_94 Sog 6:0
+	-----
+	1
+
+
+úalau§i
+
+	1 VD1689_94 Sog 6:25
+	-----
+	1
+
+
+úalau§ihts
+
+	1 VD1689_94 Sog 6:28
+	-----
+	1
+
+
+úaldaks
+
+	1 VD1689_94 Sog 14:18
+	-----
+	1
+
+
+úaldums
+
+	1 VD1689_94 Sog 14:14
+	-----
+	1
+
+
+úaldumu
+
+	1 VD1689_94 Sog 9:11
+	-----
+	1
+
+
+§aïïahm
+
+	1 VD1689_94 Sog 16:7
+	-----
+	1
+
+
+§aïïas
+
+	1 VD1689_94 Sog 16:8
+	-----
+	1
+
+
+úalmu
+
+	1 VD1689_94 Sog 19:19
+	-----
+	1
+
+
+úamaitajahs
+
+	1 VD1689_94 Sog 2:19
 	-----
 	1
 
@@ -20849,10 +21666,172 @@ samgaru
 	1
 
 
+úamin~uúi
+
+	1 VD1689_94 Sog 5:21
+	-----
+	1
+
+
+úaminne
+
+	1 VD1689_94 Sog 10:8
+	1 VD1689_94 Sog 20:43
+	-----
+	2
+
+
 samira^
 
 	1 VD1689_94 Sog 10:1
 	1 VD1689_94 Sog 10:2
+	-----
+	2
+
+
+úaòehmahs
+
+	1 VD1689_94 Sog 5:18
+	-----
+	1
+
+
+úaplohúa
+
+	1 VD1689_94 Sog 14:0
+	-----
+	1
+
+
+úaplohúihts
+
+	1 VD1689_94 Sog 14:6
+	-----
+	1
+
+
+úaplohúija
+
+	1 VD1689_94 Sog 11:35
+	1 VD1689_94 Sog 14:6
+	-----
+	2
+
+
+úapna
+
+	1 VD1689_94 Sog 7:0
+	1 VD1689_94 Sog 7:15
+	-----
+	2
+
+
+úapni
+
+	2 VD1689_94 Sog 7:13
+	-----
+	2
+
+
+úapulejahs
+
+	1 VD1689_94 Sog 20:14
+	-----
+	1
+
+
+úapulzeja
+
+	1 VD1689_94 Sog 3:13
+	1 VD1689_94 Sog 11:20
+	1 VD1689_94 Sog 12:4
+	-----
+	3
+
+
+úapulzejahs
+
+	1 VD1689_94 Sog 6:33
+	1 VD1689_94 Sog 7:24
+	1 VD1689_94 Sog 9:6
+	1 VD1689_94 Sog 10:17
+	1 VD1689_94 Sog 11:3
+	1 VD1689_94 Sog 16:23
+	1 VD1689_94 Sog 20:0
+	1 VD1689_94 Sog 20:1
+	1 VD1689_94 Sog 20:11
+	-----
+	9
+
+
+úapulzejúchees
+
+	1 VD1689_94 Sog 9:47
+	-----
+	1
+
+
+úapulzeti
+
+	1 VD1689_94 Sog 7:23
+	-----
+	1
+
+
+úarau§tihts
+
+	1 VD1689_94 Sog 16:9
+	-----
+	1
+
+
+úarau§tija
+
+	1 VD1689_94 Sog 16:9
+	1 VD1689_94 Sog 16:12
+	-----
+	2
+
+
+úargahs
+
+	1 VD1689_94 Sog 2:22
+	-----
+	1
+
+
+úargahts
+
+	1 VD1689_94 Sog 16:0
+	-----
+	1
+
+
+úargajs
+
+	1 VD1689_94 Sog 13:4
+	-----
+	1
+
+
+úargajúchees
+
+	1 VD1689_94 Sog 2:22
+	-----
+	1
+
+
+úargatees
+
+	1 VD1689_94 Sog 13:13
+	-----
+	1
+
+
+úargi
+
+	1 VD1689_94 Sog 1:24
+	1 VD1689_94 Sog 7:19
 	-----
 	2
 
@@ -20863,6 +21842,755 @@ sarru
 	1 VD1689_94 Sog 9:49
 	-----
 	2
+
+
+úarunnajeetees
+
+	1 VD1689_94 Sog 20:7
+	-----
+	1
+
+
+úaúaukti
+
+	1 VD1689_94 Sog 6:35
+	1 VD1689_94 Sog 10:17
+	1 VD1689_94 Sog 12:1
+	1 VD1689_94 Sog 18:22
+	-----
+	4
+
+
+úaúauze
+
+	1 VD1689_94 Sog 4:10
+	1 VD1689_94 Sog 4:13
+	1 VD1689_94 Sog 6:34
+	1 VD1689_94 Sog 16:18
+	-----
+	4
+
+
+úaúauzis
+
+	1 VD1689_94 Sog 18:23
+	-----
+	1
+
+
+úataiúam
+
+	1 VD1689_94 Sog 13:15
+	-----
+	1
+
+
+úataiúija
+
+	1 VD1689_94 Sog 6:19
+	-----
+	1
+
+
+úataiúijahs
+
+	1 VD1689_94 Sog 20:33
+	-----
+	1
+
+
+úatreeze
+
+	1 VD1689_94 Sog 9:53
+	1 VD1689_94 Sog 10:8
+	-----
+	2
+
+
+úaule
+
+	1 VD1689_94 Sog 5:31
+	1 VD1689_94 Sog 8:13
+	1 VD1689_94 Sog 9:33
+	1 VD1689_94 Sog 14:18
+	1 VD1689_94 Sog 19:14
+	-----
+	5
+
+
+úaules
+
+	1 VD1689_94 Sog 20:43
+	-----
+	1
+
+
+úauús
+
+	1 VD1689_94 Sog 6:37
+	1 VD1689_94 Sog 6:39
+	-----
+	2
+
+
+úauúums
+
+	1 VD1689_94 Sog 6:40
+	-----
+	1
+
+
+úauze
+
+	1 VD1689_94 Sog 18:22
+	-----
+	1
+
+
+úawa
+
+	1 VD1689_94 Sog 6:27
+	1 VD1689_94 Sog 8:25
+	1 VD1689_94 Sog 8:32
+	1 VD1689_94 Sog 9:5
+	1 VD1689_94 Sog 9:27
+	1 VD1689_94 Sog 9:56
+	1 VD1689_94 Sog 11:34
+	1 VD1689_94 Sog 11:39
+	1 VD1689_94 Sog 13:6
+	1 VD1689_94 Sog 14:9
+	1 VD1689_94 Sog 14:19
+	1 VD1689_94 Sog 16:14
+	1 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 16:31
+	1 VD1689_94 Sog 17:0
+	1 VD1689_94 Sog 19:2
+	1 VD1689_94 Sog 19:3
+	1 VD1689_94 Sog 19:16
+	1 VD1689_94 Sog 21:23
+	-----
+	19
+
+
+úawa^
+
+	1 VD1689_94 Sog 4:21
+	1 VD1689_94 Sog 5:31
+	1 VD1689_94 Sog 7:0
+	1 VD1689_94 Sog 7:8
+	1 VD1689_94 Sog 7:20
+	1 VD1689_94 Sog 7:21
+	1 VD1689_94 Sog 8:29
+	1 VD1689_94 Sog 9:48
+	1 VD1689_94 Sog 12:3
+	1 VD1689_94 Sog 16:18
+	1 VD1689_94 Sog 16:19
+	1 VD1689_94 Sog 18:0
+	1 VD1689_94 Sog 19:15
+	1 VD1689_94 Sog 19:18
+	1 VD1689_94 Sog 19:21
+	-----
+	15
+
+
+úawa^s
+
+	1 VD1689_94 Sog 14:9
+	-----
+	1
+
+
+úawadas
+
+	1 VD1689_94 Sog 14:0
+	-----
+	1
+
+
+úawahm
+
+	1 VD1689_94 Sog 3:16
+	1 VD1689_94 Sog 5:17
+	1 VD1689_94 Sog 5:20
+	1 VD1689_94 Sog 5:29
+	1 VD1689_94 Sog 11:23
+	1 VD1689_94 Sog 11:37
+	1 VD1689_94 Sog 11:38
+	1 VD1689_94 Sog 16:12
+	1 VD1689_94 Sog 16:16
+	1 VD1689_94 Sog 21:0
+	-----
+	10
+
+
+úawai
+
+	1 VD1689_94 Sog 13:11
+	1 VD1689_94 Sog 14:2
+	1 VD1689_94 Sog 14:6
+	1 VD1689_94 Sog 17:3
+	1 VD1689_94 Sog 17:4
+	-----
+	5
+
+
+úawam
+
+	1 VD1689_94 Sog 7:13
+	1 VD1689_94 Sog 13:10
+	1 VD1689_94 Sog 14:2
+	1 VD1689_94 Sog 14:6
+	1 VD1689_94 Sog 16:23
+	-----
+	5
+
+
+úawas
+
+	1 VD1689_94 Sog 3:6
+	1 VD1689_94 Sog 3:16
+	1 VD1689_94 Sog 3:21
+	1 VD1689_94 Sog 3:24
+	2 VD1689_94 Sog 7:6
+	1 VD1689_94 Sog 7:8
+	2 VD1689_94 Sog 9:1
+	1 VD1689_94 Sog 11:35
+	1 VD1689_94 Sog 11:39
+	1 VD1689_94 Sog 13:7
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:9
+	1 VD1689_94 Sog 15:0
+	1 VD1689_94 Sog 15:1
+	1 VD1689_94 Sog 15:17
+	1 VD1689_94 Sog 18:2
+	1 VD1689_94 Sog 18:21
+	1 VD1689_94 Sog 19:17
+	1 VD1689_94 Sog 19:21
+	1 VD1689_94 Sog 20:33
+	1 VD1689_94 Sog 21:0
+	1 VD1689_94 Sog 21:2
+	1 VD1689_94 Sog 21:24
+	-----
+	25
+
+
+úaweem
+
+	1 VD1689_94 Sog 2:10
+	1 VD1689_94 Sog 2:14
+	1 VD1689_94 Sog 2:17
+	1 VD1689_94 Sog 2:19
+	1 VD1689_94 Sog 4:15
+	1 VD1689_94 Sog 5:15
+	3 VD1689_94 Sog 6:5
+	1 VD1689_94 Sog 6:27
+	1 VD1689_94 Sog 9:26
+	1 VD1689_94 Sog 11:3
+	1 VD1689_94 Sog 11:36
+	1 VD1689_94 Sog 12:9
+	1 VD1689_94 Sog 13:20
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 16:3
+	1 VD1689_94 Sog 17:0
+	1 VD1689_94 Sog 17:5
+	1 VD1689_94 Sog 18:2
+	1 VD1689_94 Sog 18:8
+	1 VD1689_94 Sog 18:14
+	1 VD1689_94 Sog 21:24
+	-----
+	23
+
+
+úawo
+
+	1 VD1689_94 Sog 2:12
+	-----
+	1
+
+
+úawu
+
+	1 VD1689_94 Sog 1:3
+	1 VD1689_94 Sog 1:12
+	1 VD1689_94 Sog 1:13
+	1 VD1689_94 Sog 1:17
+	1 VD1689_94 Sog 2:4
+	1 VD1689_94 Sog 2:6
+	1 VD1689_94 Sog 2:19
+	1 VD1689_94 Sog 3:7
+	1 VD1689_94 Sog 3:21
+	1 VD1689_94 Sog 4:11
+	2 VD1689_94 Sog 5:26
+	1 VD1689_94 Sog 7:5
+	1 VD1689_94 Sog 7:7
+	1 VD1689_94 Sog 7:8
+	1 VD1689_94 Sog 7:11
+	2 VD1689_94 Sog 8:20
+	1 VD1689_94 Sog 8:27
+	1 VD1689_94 Sog 8:28
+	1 VD1689_94 Sog 8:34
+	1 VD1689_94 Sog 9:7
+	1 VD1689_94 Sog 9:9
+	1 VD1689_94 Sog 9:11
+	1 VD1689_94 Sog 9:17
+	1 VD1689_94 Sog 9:21
+	1 VD1689_94 Sog 9:24
+	1 VD1689_94 Sog 9:48
+	1 VD1689_94 Sog 9:55
+	2 VD1689_94 Sog 11:0
+	1 VD1689_94 Sog 11:23
+	1 VD1689_94 Sog 11:35
+	2 VD1689_94 Sog 11:37
+	1 VD1689_94 Sog 11:38
+	1 VD1689_94 Sog 12:3
+	1 VD1689_94 Sog 13:6
+	1 VD1689_94 Sog 13:22
+	1 VD1689_94 Sog 14:3
+	2 VD1689_94 Sog 14:5
+	1 VD1689_94 Sog 14:17
+	1 VD1689_94 Sog 15:1
+	1 VD1689_94 Sog 15:15
+	1 VD1689_94 Sog 16:17
+	2 VD1689_94 Sog 16:18
+	1 VD1689_94 Sog 16:24
+	2 VD1689_94 Sog 16:29
+	1 VD1689_94 Sog 17:2
+	1 VD1689_94 Sog 17:3
+	1 VD1689_94 Sog 17:8
+	2 VD1689_94 Sog 18:26
+	1 VD1689_94 Sog 19:0
+	1 VD1689_94 Sog 19:5
+	1 VD1689_94 Sog 19:9
+	1 VD1689_94 Sog 19:11
+	1 VD1689_94 Sog 19:13
+	1 VD1689_94 Sog 19:22
+	1 VD1689_94 Sog 19:25
+	1 VD1689_94 Sog 19:27
+	2 VD1689_94 Sog 19:28
+	2 VD1689_94 Sog 19:29
+	1 VD1689_94 Sog 20:4
+	1 VD1689_94 Sog 20:8
+	1 VD1689_94 Sog 20:13
+	1 VD1689_94 Sog 21:1
+	1 VD1689_94 Sog 21:21
+	1 VD1689_94 Sog 21:22
+	1 VD1689_94 Sog 21:23
+	1 VD1689_94 Sog 21:24
+	-----
+	76
+
+
+úawus
+
+	1 VD1689_94 Sog 4:13
+	1 VD1689_94 Sog 9:5
+	1 VD1689_94 Sog 9:27
+	1 VD1689_94 Sog 9:56
+	1 VD1689_94 Sog 11:11
+	1 VD1689_94 Sog 11:20
+	-----
+	6
+
+
+úazija
+
+	1 VD1689_94 Sog 15:10
+	-----
+	1
+
+
+úazzidama
+
+	1 VD1689_94 Sog 16:18
+	-----
+	1
+
+
+úazzidami
+
+	1 VD1689_94 Sog 6:13
+	1 VD1689_94 Sog 8:15
+	1 VD1689_94 Sog 15:13
+	1 VD1689_94 Sog 20:12
+	1 VD1689_94 Sog 21:1
+	1 VD1689_94 Sog 21:10
+	1 VD1689_94 Sog 21:18
+	-----
+	7
+
+
+úazzidams
+
+	1 VD1689_94 Sog 6:32
+	1 VD1689_94 Sog 8:9
+	1 VD1689_94 Sog 20:28
+	-----
+	3
+
+
+úazzihs
+
+	1 VD1689_94 Sog 4:20
+	-----
+	1
+
+
+úazziht
+
+	1 VD1689_94 Sog 7:18
+	1 VD1689_94 Sog 16:15
+	-----
+	2
+
+
+úazzihts
+
+	1 VD1689_94 Sog 6:29
+	1 VD1689_94 Sog 9:54
+	1 VD1689_94 Sog 15:6
+	1 VD1689_94 Sog 16:2
+	-----
+	4
+
+
+úazzija
+
+	1 VD1689_94 Sog 1:1
+	1 VD1689_94 Sog 1:2
+	1 VD1689_94 Sog 1:3
+	1 VD1689_94 Sog 1:7
+	1 VD1689_94 Sog 1:12
+	1 VD1689_94 Sog 1:14
+	1 VD1689_94 Sog 1:15
+	1 VD1689_94 Sog 1:24
+	1 VD1689_94 Sog 2:1
+	1 VD1689_94 Sog 2:20
+	2 VD1689_94 Sog 3:19
+	1 VD1689_94 Sog 3:20
+	1 VD1689_94 Sog 3:24
+	1 VD1689_94 Sog 3:28
+	1 VD1689_94 Sog 4:6
+	1 VD1689_94 Sog 4:8
+	1 VD1689_94 Sog 4:9
+	1 VD1689_94 Sog 4:14
+	1 VD1689_94 Sog 4:18
+	1 VD1689_94 Sog 4:19
+	1 VD1689_94 Sog 4:20
+	1 VD1689_94 Sog 4:22
+	1 VD1689_94 Sog 5:1
+	1 VD1689_94 Sog 6:8
+	1 VD1689_94 Sog 6:12
+	1 VD1689_94 Sog 6:13
+	1 VD1689_94 Sog 6:14
+	1 VD1689_94 Sog 6:15
+	1 VD1689_94 Sog 6:16
+	1 VD1689_94 Sog 6:17
+	1 VD1689_94 Sog 6:18
+	1 VD1689_94 Sog 6:20
+	1 VD1689_94 Sog 6:22
+	1 VD1689_94 Sog 6:23
+	1 VD1689_94 Sog 6:25
+	1 VD1689_94 Sog 6:29
+	1 VD1689_94 Sog 6:30
+	1 VD1689_94 Sog 6:31
+	1 VD1689_94 Sog 6:36
+	1 VD1689_94 Sog 6:39
+	1 VD1689_94 Sog 7:2
+	1 VD1689_94 Sog 7:4
+	1 VD1689_94 Sog 7:5
+	1 VD1689_94 Sog 7:7
+	1 VD1689_94 Sog 7:9
+	1 VD1689_94 Sog 7:13
+	1 VD1689_94 Sog 7:15
+	1 VD1689_94 Sog 7:17
+	1 VD1689_94 Sog 7:24
+	1 VD1689_94 Sog 8:1
+	1 VD1689_94 Sog 8:2
+	1 VD1689_94 Sog 8:5
+	1 VD1689_94 Sog 8:6
+	1 VD1689_94 Sog 8:7
+	1 VD1689_94 Sog 8:15
+	2 VD1689_94 Sog 8:18
+	1 VD1689_94 Sog 8:19
+	1 VD1689_94 Sog 8:20
+	1 VD1689_94 Sog 8:21
+	1 VD1689_94 Sog 8:22
+	1 VD1689_94 Sog 8:23
+	1 VD1689_94 Sog 8:24
+	1 VD1689_94 Sog 8:25
+	1 VD1689_94 Sog 9:1
+	1 VD1689_94 Sog 9:3
+	1 VD1689_94 Sog 9:7
+	1 VD1689_94 Sog 9:8
+	1 VD1689_94 Sog 9:9
+	1 VD1689_94 Sog 9:10
+	1 VD1689_94 Sog 9:11
+	1 VD1689_94 Sog 9:12
+	1 VD1689_94 Sog 9:13
+	1 VD1689_94 Sog 9:14
+	1 VD1689_94 Sog 9:15
+	1 VD1689_94 Sog 9:28
+	1 VD1689_94 Sog 9:29
+	1 VD1689_94 Sog 9:31
+	2 VD1689_94 Sog 9:36
+	1 VD1689_94 Sog 9:37
+	1 VD1689_94 Sog 9:38
+	1 VD1689_94 Sog 9:48
+	1 VD1689_94 Sog 9:54
+	1 VD1689_94 Sog 10:10
+	1 VD1689_94 Sog 10:11
+	1 VD1689_94 Sog 10:15
+	1 VD1689_94 Sog 10:18
+	1 VD1689_94 Sog 11:2
+	1 VD1689_94 Sog 11:6
+	1 VD1689_94 Sog 11:7
+	1 VD1689_94 Sog 11:8
+	1 VD1689_94 Sog 11:9
+	1 VD1689_94 Sog 11:10
+	1 VD1689_94 Sog 11:12
+	1 VD1689_94 Sog 11:13
+	1 VD1689_94 Sog 11:15
+	1 VD1689_94 Sog 11:17
+	1 VD1689_94 Sog 11:19
+	1 VD1689_94 Sog 11:30
+	1 VD1689_94 Sog 11:35
+	1 VD1689_94 Sog 11:36
+	1 VD1689_94 Sog 11:37
+	1 VD1689_94 Sog 11:38
+	1 VD1689_94 Sog 12:1
+	1 VD1689_94 Sog 12:2
+	1 VD1689_94 Sog 12:4
+	3 VD1689_94 Sog 12:5
+	2 VD1689_94 Sog 12:6
+	1 VD1689_94 Sog 13:3
+	1 VD1689_94 Sog 13:6
+	1 VD1689_94 Sog 13:7
+	1 VD1689_94 Sog 13:8
+	1 VD1689_94 Sog 13:10
+	2 VD1689_94 Sog 13:11
+	1 VD1689_94 Sog 13:12
+	1 VD1689_94 Sog 13:13
+	1 VD1689_94 Sog 13:15
+	1 VD1689_94 Sog 13:16
+	1 VD1689_94 Sog 13:17
+	1 VD1689_94 Sog 13:18
+	1 VD1689_94 Sog 13:22
+	1 VD1689_94 Sog 13:23
+	1 VD1689_94 Sog 14:2
+	2 VD1689_94 Sog 14:3
+	1 VD1689_94 Sog 14:9
+	1 VD1689_94 Sog 14:12
+	1 VD1689_94 Sog 14:13
+	1 VD1689_94 Sog 14:14
+	1 VD1689_94 Sog 14:15
+	2 VD1689_94 Sog 14:16
+	2 VD1689_94 Sog 14:18
+	1 VD1689_94 Sog 15:1
+	1 VD1689_94 Sog 15:2
+	1 VD1689_94 Sog 15:3
+	1 VD1689_94 Sog 15:6
+	1 VD1689_94 Sog 15:7
+	1 VD1689_94 Sog 15:10
+	2 VD1689_94 Sog 15:11
+	2 VD1689_94 Sog 15:12
+	1 VD1689_94 Sog 15:16
+	1 VD1689_94 Sog 15:18
+	1 VD1689_94 Sog 16:2
+	1 VD1689_94 Sog 16:5
+	1 VD1689_94 Sog 16:6
+	1 VD1689_94 Sog 16:7
+	1 VD1689_94 Sog 16:9
+	1 VD1689_94 Sog 16:10
+	1 VD1689_94 Sog 16:11
+	1 VD1689_94 Sog 16:12
+	2 VD1689_94 Sog 16:13
+	1 VD1689_94 Sog 16:14
+	1 VD1689_94 Sog 16:15
+	1 VD1689_94 Sog 16:17
+	2 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 16:23
+	1 VD1689_94 Sog 16:24
+	1 VD1689_94 Sog 16:25
+	1 VD1689_94 Sog 16:26
+	1 VD1689_94 Sog 16:28
+	1 VD1689_94 Sog 16:29
+	2 VD1689_94 Sog 17:2
+	1 VD1689_94 Sog 17:3
+	1 VD1689_94 Sog 17:8
+	1 VD1689_94 Sog 17:9
+	1 VD1689_94 Sog 17:10
+	1 VD1689_94 Sog 17:13
+	1 VD1689_94 Sog 18:2
+	1 VD1689_94 Sog 18:3
+	1 VD1689_94 Sog 18:4
+	1 VD1689_94 Sog 18:5
+	1 VD1689_94 Sog 18:6
+	1 VD1689_94 Sog 18:8
+	1 VD1689_94 Sog 18:9
+	1 VD1689_94 Sog 18:14
+	1 VD1689_94 Sog 18:18
+	1 VD1689_94 Sog 18:19
+	1 VD1689_94 Sog 18:23
+	1 VD1689_94 Sog 18:24
+	1 VD1689_94 Sog 18:25
+	1 VD1689_94 Sog 19:5
+	1 VD1689_94 Sog 19:6
+	1 VD1689_94 Sog 19:8
+	1 VD1689_94 Sog 19:9
+	1 VD1689_94 Sog 19:11
+	1 VD1689_94 Sog 19:12
+	1 VD1689_94 Sog 19:13
+	1 VD1689_94 Sog 19:17
+	1 VD1689_94 Sog 19:18
+	1 VD1689_94 Sog 19:20
+	1 VD1689_94 Sog 19:22
+	1 VD1689_94 Sog 19:23
+	1 VD1689_94 Sog 19:28
+	1 VD1689_94 Sog 19:30
+	1 VD1689_94 Sog 20:3
+	1 VD1689_94 Sog 20:4
+	1 VD1689_94 Sog 20:8
+	2 VD1689_94 Sog 20:18
+	2 VD1689_94 Sog 20:23
+	1 VD1689_94 Sog 20:28
+	2 VD1689_94 Sog 20:32
+	1 VD1689_94 Sog 20:39
+	1 VD1689_94 Sog 21:3
+	1 VD1689_94 Sog 21:5
+	1 VD1689_94 Sog 21:6
+	1 VD1689_94 Sog 21:8
+	1 VD1689_94 Sog 21:16
+	1 VD1689_94 Sog 21:17
+	1 VD1689_94 Sog 21:19
+	1 VD1689_94 Sog 21:20
+	-----
+	226
+
+
+úazziji
+
+	1 VD1689_94 Sog 9:38
+	-----
+	1
+
+
+úazzijs
+
+	1 VD1689_94 Sog 2:1
+	1 VD1689_94 Sog 2:3
+	1 VD1689_94 Sog 6:37
+	1 VD1689_94 Sog 13:12
+	-----
+	4
+
+
+úazzijúi
+
+	1 VD1689_94 Sog 17:2
+	-----
+	1
+
+
+úazziju
+
+	1 VD1689_94 Sog 6:10
+	-----
+	1
+
+
+úazziúchu
+
+	2 VD1689_94 Sog 7:4
+	-----
+	2
+
+
+úazziúim
+
+	1 VD1689_94 Sog 21:22
+	-----
+	1
+
+
+úcha
+
+	1 VD1689_94 Sog 1:23
+	1 VD1689_94 Sog 6:26
+	1 VD1689_94 Sog 7:15
+	1 VD1689_94 Sog 19:24
+	-----
+	4
+
+
+úchahm
+
+	1 VD1689_94 Sog 19:13
+	-----
+	1
+
+
+úchahs
+
+	1 VD1689_94 Sog 11:2
+	-----
+	1
+
+
+úchai
+
+	1 VD1689_94 Sog 10:4
+	1 VD1689_94 Sog 11:26
+	1 VD1689_94 Sog 15:19
+	1 VD1689_94 Sog 19:30
+	-----
+	4
+
+
+úchai^
+
+	1 VD1689_94 Sog 1:27
+	-----
+	1
+
+
+úche
+
+	1 VD1689_94 Sog 8:15
+	2 VD1689_94 Sog 18:3
+	1 VD1689_94 Sog 20:44
+	-----
+	4
+
+
+úchee
+
+	1 VD1689_94 Sog 3:1
+	1 VD1689_94 Sog 3:4
+	1 VD1689_94 Sog 9:29
+	1 VD1689_94 Sog 9:38
+	1 VD1689_94 Sog 18:18
+	1 VD1689_94 Sog 20:16
+	1 VD1689_94 Sog 20:17
+	1 VD1689_94 Sog 20:46
+	-----
+	8
+
+
+úcheem
+
+	1 VD1689_94 Sog 7:7
+	1 VD1689_94 Sog 20:16
+	-----
+	2
+
+
+§chehl
+
+	1 VD1689_94 Sog 2:18
+	1 VD1689_94 Sog 21:6
+	1 VD1689_94 Sog 21:15
+	-----
+	3
 
 
 schehla§tibu
@@ -20881,6 +22609,227 @@ schehlo
 	1
 
 
+§chehlojahs
+
+	1 VD1689_94 Sog 21:0
+	-----
+	1
+
+
+úcheit
+
+	1 VD1689_94 Sog 4:20
+	1 VD1689_94 Sog 7:18
+	-----
+	2
+
+
+úcheitan
+
+	1 VD1689_94 Sog 6:20
+	1 VD1689_94 Sog 18:3
+	1 VD1689_94 Sog 19:9
+	-----
+	3
+
+
+§chel
+
+	1 VD1689_94 Sog 10:16
+	-----
+	1
+
+
+úchennenes
+
+	1 VD1689_94 Sog 6:18
+	-----
+	1
+
+
+úchi
+
+	1 VD1689_94 Sog 2:20
+	1 VD1689_94 Sog 4:14
+	1 VD1689_94 Sog 8:1
+	1 VD1689_94 Sog 11:37
+	1 VD1689_94 Sog 13:6
+	1 VD1689_94 Sog 15:2
+	2 VD1689_94 Sog 19:9
+	1 VD1689_94 Sog 19:26
+	1 VD1689_94 Sog 19:30
+	1 VD1689_94 Sog 20:3
+	1 VD1689_94 Sog 20:9
+	1 VD1689_94 Sog 21:11
+	-----
+	13
+
+
+úchibolet
+
+	1 VD1689_94 Sog 12:6
+	-----
+	1
+
+
+úchihs
+
+	1 VD1689_94 Sog 6:13
+	1 VD1689_94 Sog 13:23
+	-----
+	2
+
+
+úchim
+
+	1 VD1689_94 Sog 6:39
+	1 VD1689_94 Sog 7:4
+	1 VD1689_94 Sog 15:3
+	1 VD1689_94 Sog 16:13
+	1 VD1689_94 Sog 21:22
+	-----
+	5
+
+
+úchinni`
+
+	1 VD1689_94 Sog 6:14
+	-----
+	1
+
+
+úchinni`s
+
+	1 VD1689_94 Sog 14:12
+	-----
+	1
+
+
+úchinni^
+
+	1 VD1689_94 Sog 2:2
+	1 VD1689_94 Sog 18:14
+	1 VD1689_94 Sog 19:11
+	-----
+	3
+
+
+úchis
+
+	1 VD1689_94 Sog 1:26
+	1 VD1689_94 Sog 12:0
+	1 VD1689_94 Sog 13:0
+	1 VD1689_94 Sog 17:13
+	1 VD1689_94 Sog 19:23
+	-----
+	5
+
+
+úchíeet
+
+	1 VD1689_94 Sog 9:36
+	-----
+	1
+
+
+úchíehdehm
+
+	1 VD1689_94 Sog 8:26
+	-----
+	1
+
+
+úchíehle
+
+	1 VD1689_94 Sog 15:19
+	-----
+	1
+
+
+úchíehps
+
+	1 VD1689_94 Sog 5:8
+	-----
+	1
+
+
+úchíihrahs
+
+	1 VD1689_94 Sog 5:15
+	-----
+	1
+
+
+úchíihrees
+
+	1 VD1689_94 Sog 5:16
+	-----
+	1
+
+
+úchíiººahs
+
+	1 VD1689_94 Sog 14:0
+	-----
+	1
+
+
+úchíir§ts
+
+	1 VD1689_94 Sog 20:27
+	-----
+	1
+
+
+úchíitte
+
+	1 VD1689_94 Sog 17:6
+	1 VD1689_94 Sog 21:25
+	-----
+	2
+
+
+úcho
+
+	1 VD1689_94 Sog 4:9
+	2 VD1689_94 Sog 6:29
+	1 VD1689_94 Sog 6:39
+	1 VD1689_94 Sog 7:14
+	1 VD1689_94 Sog 8:3
+	1 VD1689_94 Sog 8:9
+	1 VD1689_94 Sog 10:15
+	2 VD1689_94 Sog 13:23
+	1 VD1689_94 Sog 15:11
+	2 VD1689_94 Sog 15:18
+	1 VD1689_94 Sog 16:18
+	1 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 16:28
+	1 VD1689_94 Sog 17:0
+	1 VD1689_94 Sog 17:3
+	1 VD1689_94 Sog 19:23
+	1 VD1689_94 Sog 20:0
+	-----
+	20
+
+
+úchodeen
+
+	1 VD1689_94 Sog 1:21
+	1 VD1689_94 Sog 1:26
+	1 VD1689_94 Sog 6:24
+	1 VD1689_94 Sog 6:31
+	1 VD1689_94 Sog 9:18
+	1 VD1689_94 Sog 9:19
+	1 VD1689_94 Sog 11:27
+	1 VD1689_94 Sog 12:3
+	1 VD1689_94 Sog 18:1
+	1 VD1689_94 Sog 18:12
+	1 VD1689_94 Sog 21:3
+	1 VD1689_94 Sog 21:6
+	-----
+	12
+
+
 schohkïa=kaula^
 
 	1 VD1689_94 Sog 15:19
@@ -20896,6 +22845,22 @@ schohkïa=kaulu
 	1 VD1689_94 Sog 15:17
 	-----
 	5
+
+
+úchohs
+
+	1 VD1689_94 Sog 2:4
+	1 VD1689_94 Sog 2:23
+	1 VD1689_94 Sog 9:3
+	-----
+	3
+
+
+úchurp
+
+	1 VD1689_94 Sog 16:2
+	-----
+	1
 
 
 se&iratu
@@ -20939,6 +22904,15 @@ sebu
 	9
 
 
+sebulaòa
+
+	1 VD1689_94 Sog 4:6
+	1 VD1689_94 Sog 5:14
+	1 VD1689_94 Sog 12:12
+	-----
+	3
+
+
 sebulaniteris
 
 	1 VD1689_94 Sog 12:11
@@ -20961,15 +22935,6 @@ sebulanu
 	1 VD1689_94 Sog 6:35
 	-----
 	2
-
-
-sebulaòa
-
-	1 VD1689_94 Sog 4:6
-	1 VD1689_94 Sog 5:14
-	1 VD1689_94 Sog 12:12
-	-----
-	3
 
 
 sebus
@@ -21001,13 +22966,6 @@ seebulu
 	1
 
 
-seemeli
-
-	1 VD1689_94 Sog 2:9
-	-----
-	1
-
-
 seemeïa
 
 	1 VD1689_94 Sog 7:1
@@ -21015,6 +22973,165 @@ seemeïa
 	1 VD1689_94 Sog 21:19
 	-----
 	3
+
+
+seemeli
+
+	1 VD1689_94 Sog 2:9
+	-----
+	1
+
+
+úeewa
+
+	2 VD1689_94 Sog 4:4
+	1 VD1689_94 Sog 4:21
+	1 VD1689_94 Sog 5:24
+	1 VD1689_94 Sog 9:53
+	1 VD1689_94 Sog 9:54
+	1 VD1689_94 Sog 11:2
+	1 VD1689_94 Sog 13:2
+	1 VD1689_94 Sog 13:6
+	1 VD1689_94 Sog 13:10
+	1 VD1689_94 Sog 13:19
+	1 VD1689_94 Sog 13:20
+	1 VD1689_94 Sog 13:23
+	1 VD1689_94 Sog 13:24
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:3
+	1 VD1689_94 Sog 14:16
+	1 VD1689_94 Sog 14:20
+	1 VD1689_94 Sog 19:2
+	1 VD1689_94 Sog 19:9
+	1 VD1689_94 Sog 19:10
+	1 VD1689_94 Sog 19:24
+	1 VD1689_94 Sog 19:26
+	2 VD1689_94 Sog 19:27
+	-----
+	25
+
+
+úeewahm
+
+	1 VD1689_94 Sog 3:6
+	2 VD1689_94 Sog 5:24
+	1 VD1689_94 Sog 5:29
+	1 VD1689_94 Sog 9:49
+	1 VD1689_94 Sog 16:27
+	1 VD1689_94 Sog 21:0
+	1 VD1689_94 Sog 21:7
+	1 VD1689_94 Sog 21:10
+	1 VD1689_94 Sog 21:14
+	-----
+	10
+
+
+úeewai
+
+	1 VD1689_94 Sog 13:3
+	1 VD1689_94 Sog 13:11
+	1 VD1689_94 Sog 13:21
+	-----
+	3
+
+
+úeewas
+
+	1 VD1689_94 Sog 4:0
+	1 VD1689_94 Sog 4:9
+	1 VD1689_94 Sog 4:17
+	1 VD1689_94 Sog 8:30
+	1 VD1689_94 Sog 9:0
+	1 VD1689_94 Sog 9:51
+	2 VD1689_94 Sog 11:2
+	1 VD1689_94 Sog 13:9
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:10
+	1 VD1689_94 Sog 15:0
+	1 VD1689_94 Sog 15:1
+	1 VD1689_94 Sog 16:27
+	1 VD1689_94 Sog 19:3
+	1 VD1689_94 Sog 19:4
+	1 VD1689_94 Sog 19:5
+	1 VD1689_94 Sog 19:6
+	1 VD1689_94 Sog 19:8
+	1 VD1689_94 Sog 19:9
+	1 VD1689_94 Sog 20:4
+	2 VD1689_94 Sog 21:0
+	1 VD1689_94 Sog 21:7
+	1 VD1689_94 Sog 21:11
+	1 VD1689_94 Sog 21:14
+	2 VD1689_94 Sog 21:16
+	1 VD1689_94 Sog 21:18
+	1 VD1689_94 Sog 21:23
+	-----
+	30
+
+
+úeewu
+
+	1 VD1689_94 Sog 1:0
+	1 VD1689_94 Sog 1:12
+	1 VD1689_94 Sog 1:13
+	1 VD1689_94 Sog 13:0
+	1 VD1689_94 Sog 13:11
+	1 VD1689_94 Sog 13:13
+	1 VD1689_94 Sog 13:22
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:1
+	2 VD1689_94 Sog 14:2
+	1 VD1689_94 Sog 14:3
+	1 VD1689_94 Sog 14:7
+	1 VD1689_94 Sog 14:15
+	1 VD1689_94 Sog 15:1
+	1 VD1689_94 Sog 15:6
+	1 VD1689_94 Sog 16:1
+	1 VD1689_94 Sog 16:4
+	1 VD1689_94 Sog 19:0
+	2 VD1689_94 Sog 19:1
+	1 VD1689_94 Sog 19:25
+	1 VD1689_94 Sog 19:29
+	1 VD1689_94 Sog 20:4
+	1 VD1689_94 Sog 20:5
+	1 VD1689_94 Sog 20:6
+	1 VD1689_94 Sog 21:1
+	1 VD1689_94 Sog 21:18
+	1 VD1689_94 Sog 21:21
+	1 VD1689_94 Sog 21:22
+	-----
+	30
+
+
+úehdeja
+
+	1 VD1689_94 Sog 3:20
+	1 VD1689_94 Sog 5:17
+	1 VD1689_94 Sog 13:9
+	1 VD1689_94 Sog 16:9
+	1 VD1689_94 Sog 16:12
+	-----
+	5
+
+
+úehje
+
+	1 VD1689_94 Sog 16:21
+	-----
+	1
+
+
+úehjis
+
+	1 VD1689_94 Sog 6:3
+	-----
+	1
+
+
+úeh§chat
+
+	1 VD1689_94 Sog 5:10
+	-----
+	1
 
 
 seiras
@@ -21031,6 +23148,29 @@ selta
 	1
 
 
+§elta
+
+	1 VD1689_94 Sog 8:24
+	1 VD1689_94 Sog 8:26
+	-----
+	2
+
+
+sem~es
+
+	1 VD1689_94 Sog 11:5
+	-----
+	1
+
+
+sem~i
+
+	1 VD1689_94 Sog 2:6
+	1 VD1689_94 Sog 16:24
+	-----
+	2
+
+
 semme
 
 	1 VD1689_94 Sog 3:11
@@ -21040,6 +23180,13 @@ semme
 	1 VD1689_94 Sog 20:1
 	-----
 	5
+
+
+§emme
+
+	1 VD1689_94 Sog 3:30
+	-----
+	1
 
 
 semme^
@@ -21060,6 +23207,14 @@ semme^
 	1 VD1689_94 Sog 18:7
 	-----
 	14
+
+
+§emme^
+
+	1 VD1689_94 Sog 5:27
+	1 VD1689_94 Sog 6:19
+	-----
+	2
 
 
 semmei
@@ -21111,19 +23266,68 @@ semmi
 	25
 
 
-sem~es
+úeptiò
 
-	1 VD1689_94 Sog 11:5
+	1 VD1689_94 Sog 6:0
+	1 VD1689_94 Sog 6:1
+	1 VD1689_94 Sog 6:25
+	1 VD1689_94 Sog 8:14
+	1 VD1689_94 Sog 14:12
+	1 VD1689_94 Sog 14:17
+	1 VD1689_94 Sog 16:7
+	1 VD1689_94 Sog 16:8
+	1 VD1689_94 Sog 16:13
+	-----
+	9
+
+
+úeptiòas
+
+	1 VD1689_94 Sog 16:19
 	-----
 	1
 
 
-sem~i
+úeptiòdeúmits
 
-	1 VD1689_94 Sog 2:6
-	1 VD1689_94 Sog 16:24
+	1 VD1689_94 Sog 1:7
+	1 VD1689_94 Sog 8:14
+	1 VD1689_94 Sog 8:30
+	1 VD1689_94 Sog 9:0
+	1 VD1689_94 Sog 9:2
+	1 VD1689_94 Sog 9:4
+	1 VD1689_94 Sog 9:5
+	1 VD1689_94 Sog 9:18
+	1 VD1689_94 Sog 9:24
+	1 VD1689_94 Sog 9:56
+	1 VD1689_94 Sog 12:14
 	-----
-	2
+	11
+
+
+úeptiòúimts
+
+	1 VD1689_94 Sog 8:26
+	1 VD1689_94 Sog 20:15
+	1 VD1689_94 Sog 20:16
+	-----
+	3
+
+
+úeptiòus
+
+	1 VD1689_94 Sog 12:10
+	-----
+	1
+
+
+úeptita^
+
+	1 VD1689_94 Sog 14:15
+	1 VD1689_94 Sog 14:17
+	1 VD1689_94 Sog 14:18
+	-----
+	3
 
 
 se§aju
@@ -21133,9 +23337,99 @@ se§aju
 	1
 
 
+úeúchi
+
+	1 VD1689_94 Sog 20:15
+	-----
+	1
+
+
+úeúchúimts
+
+	1 VD1689_94 Sog 3:31
+	1 VD1689_94 Sog 18:11
+	1 VD1689_94 Sog 18:16
+	1 VD1689_94 Sog 18:17
+	1 VD1689_94 Sog 20:47
+	-----
+	5
+
+
+úeúchus
+
+	1 VD1689_94 Sog 12:7
+	-----
+	1
+
+
+úew
+
+	1 VD1689_94 Sog 3:6
+	1 VD1689_94 Sog 3:20
+	1 VD1689_94 Sog 8:33
+	1 VD1689_94 Sog 9:8
+	1 VD1689_94 Sog 9:51
+	1 VD1689_94 Sog 19:1
+	1 VD1689_94 Sog 20:42
+	-----
+	7
+
+
+úewim
+
+	1 VD1689_94 Sog 3:13
+	1 VD1689_94 Sog 3:16
+	1 VD1689_94 Sog 3:23
+	1 VD1689_94 Sog 6:2
+	1 VD1689_94 Sog 17:0
+	1 VD1689_94 Sog 18:1
+	1 VD1689_94 Sog 21:0
+	-----
+	7
+
+
+úewis
+
+	1 VD1689_94 Sog 6:31
+	1 VD1689_94 Sog 10:16
+	1 VD1689_94 Sog 18:30
+	1 VD1689_94 Sog 18:31
+	-----
+	4
+
+
+úewiúchíi
+
+	1 VD1689_94 Sog 7:5
+	-----
+	1
+
+
+úezzen
+
+	1 VD1689_94 Sog 3:26
+	1 VD1689_94 Sog 9:25
+	-----
+	2
+
+
 sibolet
 
 	1 VD1689_94 Sog 12:6
+	-----
+	1
+
+
+sihíeïi
+
+	1 VD1689_94 Sog 8:26
+	-----
+	1
+
+
+úihkus
+
+	1 VD1689_94 Sog 6:4
 	-----
 	1
 
@@ -21157,6 +23451,36 @@ sihlus=pilsúahta
 	1
 
 
+úihmeaòa
+
+	1 VD1689_94 Sog 1:0
+	-----
+	1
+
+
+úihmeans
+
+	1 VD1689_94 Sog 1:2
+	1 VD1689_94 Sog 1:3
+	-----
+	2
+
+
+úihmeanu
+
+	1 VD1689_94 Sog 1:3
+	1 VD1689_94 Sog 1:17
+	-----
+	2
+
+
+úihmenaòa
+
+	1 VD1689_94 Sog 1:2
+	-----
+	1
+
+
 sihmi
 
 	2 VD1689_94 Sog 6:0
@@ -21168,121 +23492,6 @@ sihmi
 sihreºu
 
 	1 VD1689_94 Sog 10:6
-	-----
-	1
-
-
-sihíeïi
-
-	1 VD1689_94 Sog 8:26
-	-----
-	1
-
-
-simts
-
-	1 VD1689_94 Sog 8:10
-	-----
-	1
-
-
-sim§ans
-
-	1 VD1689_94 Sog 13:24
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:1
-	1 VD1689_94 Sog 14:3
-	1 VD1689_94 Sog 14:5
-	1 VD1689_94 Sog 14:10
-	1 VD1689_94 Sog 14:12
-	1 VD1689_94 Sog 15:0
-	1 VD1689_94 Sog 15:1
-	1 VD1689_94 Sog 15:3
-	1 VD1689_94 Sog 15:4
-	1 VD1689_94 Sog 15:6
-	1 VD1689_94 Sog 15:7
-	1 VD1689_94 Sog 15:12
-	1 VD1689_94 Sog 15:16
-	1 VD1689_94 Sog 16:0
-	1 VD1689_94 Sog 16:1
-	2 VD1689_94 Sog 16:2
-	1 VD1689_94 Sog 16:7
-	1 VD1689_94 Sog 16:9
-	1 VD1689_94 Sog 16:12
-	1 VD1689_94 Sog 16:14
-	1 VD1689_94 Sog 16:20
-	1 VD1689_94 Sog 16:26
-	1 VD1689_94 Sog 16:27
-	1 VD1689_94 Sog 16:28
-	2 VD1689_94 Sog 16:29
-	-----
-	29
-
-
-sim§ans{úim§ans}
-
-	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-sim§anu
-
-	1 VD1689_94 Sog 15:10
-	1 VD1689_94 Sog 15:11
-	1 VD1689_94 Sog 16:6
-	1 VD1689_94 Sog 16:10
-	1 VD1689_94 Sog 16:13
-	1 VD1689_94 Sog 16:23
-	2 VD1689_94 Sog 16:25
-	-----
-	8
-
-
-sim§aòa
-
-	1 VD1689_94 Sog 13:0
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:7
-	1 VD1689_94 Sog 14:15
-	1 VD1689_94 Sog 14:16
-	1 VD1689_94 Sog 14:20
-	-----
-	6
-
-
-sina&i
-
-	1 VD1689_94 Sog 5:5
-	-----
-	1
-
-
-sions
-
-	2 VD1689_94 Sog 11:20
-	-----
-	2
-
-
-sionu
-
-	1 VD1689_94 Sog 11:19
-	1 VD1689_94 Sog 11:21
-	-----
-	2
-
-
-sirgeem
-
-	1 VD1689_94 Sog 5:22
-	-----
-	1
-
-
-sittu
-
-	1 VD1689_94 Sog 7:22
 	-----
 	1
 
@@ -21357,11 +23566,228 @@ siíemu
 	5
 
 
+sim§aòa
+
+	1 VD1689_94 Sog 13:0
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:7
+	1 VD1689_94 Sog 14:15
+	1 VD1689_94 Sog 14:16
+	1 VD1689_94 Sog 14:20
+	-----
+	6
+
+
+sim§ans
+
+	1 VD1689_94 Sog 13:24
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:1
+	1 VD1689_94 Sog 14:3
+	1 VD1689_94 Sog 14:5
+	1 VD1689_94 Sog 14:10
+	1 VD1689_94 Sog 14:12
+	1 VD1689_94 Sog 15:0
+	1 VD1689_94 Sog 15:1
+	1 VD1689_94 Sog 15:3
+	1 VD1689_94 Sog 15:4
+	1 VD1689_94 Sog 15:6
+	1 VD1689_94 Sog 15:7
+	1 VD1689_94 Sog 15:12
+	1 VD1689_94 Sog 15:16
+	1 VD1689_94 Sog 16:0
+	1 VD1689_94 Sog 16:1
+	2 VD1689_94 Sog 16:2
+	1 VD1689_94 Sog 16:7
+	1 VD1689_94 Sog 16:9
+	1 VD1689_94 Sog 16:12
+	1 VD1689_94 Sog 16:14
+	1 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 16:26
+	1 VD1689_94 Sog 16:27
+	1 VD1689_94 Sog 16:28
+	2 VD1689_94 Sog 16:29
+	-----
+	29
+
+
+sim§ans{úim§ans}
+
+	1 VD1689_94 Sog 14:0
+	-----
+	1
+
+
+sim§anu
+
+	1 VD1689_94 Sog 15:10
+	1 VD1689_94 Sog 15:11
+	1 VD1689_94 Sog 16:6
+	1 VD1689_94 Sog 16:10
+	1 VD1689_94 Sog 16:13
+	1 VD1689_94 Sog 16:23
+	2 VD1689_94 Sog 16:25
+	-----
+	8
+
+
+simts
+
+	1 VD1689_94 Sog 8:10
+	-----
+	1
+
+
+úimts
+
+	1 VD1689_94 Sog 2:8
+	1 VD1689_94 Sog 7:0
+	1 VD1689_94 Sog 7:19
+	1 VD1689_94 Sog 15:4
+	1 VD1689_94 Sog 16:5
+	1 VD1689_94 Sog 17:2
+	1 VD1689_94 Sog 17:3
+	2 VD1689_94 Sog 20:10
+	1 VD1689_94 Sog 20:35
+	-----
+	10
+
+
+sina&i
+
+	1 VD1689_94 Sog 5:5
+	-----
+	1
+
+
+§innaja
+
+	1 VD1689_94 Sog 3:1
+	1 VD1689_94 Sog 3:2
+	1 VD1689_94 Sog 13:16
+	1 VD1689_94 Sog 14:4
+	1 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 20:34
+	-----
+	6
+
+
+§innams
+
+	1 VD1689_94 Sog 3:4
+	1 VD1689_94 Sog 16:9
+	-----
+	2
+
+
+§innaúchu
+
+	1 VD1689_94 Sog 6:37
+	-----
+	1
+
+
+§innat
+
+	2 VD1689_94 Sog 18:14
+	-----
+	2
+
+
+§innatu
+
+	1 VD1689_94 Sog 3:2
+	-----
+	1
+
+
+§inni
+
+	1 VD1689_94 Sog 15:11
+	-----
+	1
+
+
+§innu
+
+	1 VD1689_94 Sog 17:13
+	-----
+	1
+
+
 siòòu
 
 	1 VD1689_94 Sog 13:6
 	-----
 	1
+
+
+sions
+
+	2 VD1689_94 Sog 11:20
+	-----
+	2
+
+
+sionu
+
+	1 VD1689_94 Sog 11:19
+	1 VD1689_94 Sog 11:21
+	-----
+	2
+
+
+úirdi
+
+	1 VD1689_94 Sog 16:17
+	2 VD1689_94 Sog 16:18
+	1 VD1689_94 Sog 19:5
+	1 VD1689_94 Sog 19:8
+	1 VD1689_94 Sog 19:22
+	-----
+	6
+
+
+úirdigs
+
+	1 VD1689_94 Sog 6:12
+	-----
+	1
+
+
+úirds
+
+	1 VD1689_94 Sog 5:9
+	1 VD1689_94 Sog 9:3
+	1 VD1689_94 Sog 16:15
+	1 VD1689_94 Sog 16:25
+	1 VD1689_94 Sog 19:6
+	1 VD1689_94 Sog 19:9
+	-----
+	6
+
+
+úirds=dohmas
+
+	1 VD1689_94 Sog 5:15
+	1 VD1689_94 Sog 5:16
+	-----
+	2
+
+
+sirgeem
+
+	1 VD1689_94 Sog 5:22
+	-----
+	1
+
+
+úiúúeòi
+
+	1 VD1689_94 Sog 6:5
+	1 VD1689_94 Sog 7:12
+	-----
+	2
 
 
 siúúeram
@@ -21400,9 +23826,193 @@ siúúerus
 	8
 
 
+úi§t
+
+	1 VD1689_94 Sog 6:16
+	-----
+	1
+
+
+úitte
+
+	1 VD1689_94 Sog 1:25
+	1 VD1689_94 Sog 5:26
+	1 VD1689_94 Sog 7:13
+	1 VD1689_94 Sog 15:8
+	1 VD1689_94 Sog 15:15
+	-----
+	5
+
+
+sittu
+
+	1 VD1689_94 Sog 7:22
+	-----
+	1
+
+
+úittuúchi
+
+	1 VD1689_94 Sog 1:8
+	-----
+	1
+
+
 skadriòeem
 
 	1 VD1689_94 Sog 5:28
+	-----
+	1
+
+
+§kai§taka
+
+	1 VD1689_94 Sog 15:2
+	-----
+	1
+
+
+§kaitiht
+
+	1 VD1689_94 Sog 6:5
+	1 VD1689_94 Sog 7:12
+	-----
+	2
+
+
+§kaititi
+
+	2 VD1689_94 Sog 20:15
+	1 VD1689_94 Sog 20:17
+	1 VD1689_94 Sog 21:9
+	-----
+	4
+
+
+§kattajtees
+
+	1 VD1689_94 Sog 21:21
+	-----
+	1
+
+
+§kattijahs
+
+	1 VD1689_94 Sog 5:28
+	1 VD1689_94 Sog 9:43
+	1 VD1689_94 Sog 13:19
+	1 VD1689_94 Sog 20:40
+	-----
+	4
+
+
+§kummigs
+
+	1 VD1689_94 Sog 14:0
+	-----
+	1
+
+
+úlahpehm
+
+	1 VD1689_94 Sog 15:18
+	-----
+	1
+
+
+úlahp§t
+
+	1 VD1689_94 Sog 4:19
+	-----
+	1
+
+
+úla§da=walgu
+
+	1 VD1689_94 Sog 2:3
+	1 VD1689_94 Sog 8:27
+	-----
+	2
+
+
+úleekúni
+
+	1 VD1689_94 Sog 19:27
+	-----
+	1
+
+
+úleppena
+
+	1 VD1689_94 Sog 3:19
+	-----
+	1
+
+
+úleppeni
+
+	1 VD1689_94 Sog 9:31
+	1 VD1689_94 Sog 9:32
+	1 VD1689_94 Sog 9:34
+	1 VD1689_94 Sog 9:35
+	1 VD1689_94 Sog 9:43
+	1 VD1689_94 Sog 20:29
+	1 VD1689_94 Sog 20:33
+	1 VD1689_94 Sog 20:36
+	2 VD1689_94 Sog 20:37
+	1 VD1689_94 Sog 20:38
+	1 VD1689_94 Sog 21:20
+	-----
+	12
+
+
+úluddina
+
+	1 VD1689_94 Sog 5:11
+	-----
+	1
+
+
+úluddinahts
+
+	1 VD1689_94 Sog 4:12
+	-----
+	1
+
+
+úmad§enes=kauúu
+
+	1 VD1689_94 Sog 9:53
+	-----
+	1
+
+
+úmalka
+
+	1 VD1689_94 Sog 14:12
+	1 VD1689_94 Sog 14:13
+	-----
+	2
+
+
+úmeeklus
+
+	2 VD1689_94 Sog 16:25
+	1 VD1689_94 Sog 16:27
+	-----
+	3
+
+
+úmelts
+
+	1 VD1689_94 Sog 5:11
+	-----
+	1
+
+
+úmiltis
+
+	1 VD1689_94 Sog 7:12
 	-----
 	1
 
@@ -21419,6 +24029,20 @@ snohtu
 	1 VD1689_94 Sog 19:5
 	-----
 	1
+
+
+sohbiòa
+
+	1 VD1689_94 Sog 1:8
+	1 VD1689_94 Sog 1:25
+	1 VD1689_94 Sog 4:15
+	1 VD1689_94 Sog 4:16
+	1 VD1689_94 Sog 18:27
+	1 VD1689_94 Sog 20:37
+	1 VD1689_94 Sog 20:48
+	1 VD1689_94 Sog 21:10
+	-----
+	8
 
 
 sohbins
@@ -21449,18 +24073,75 @@ sohbinu
 	13
 
 
-sohbiòa
+úohda
 
-	1 VD1689_94 Sog 1:8
-	1 VD1689_94 Sog 1:25
-	1 VD1689_94 Sog 4:15
-	1 VD1689_94 Sog 4:16
-	1 VD1689_94 Sog 18:27
-	1 VD1689_94 Sog 20:37
-	1 VD1689_94 Sog 20:48
-	1 VD1689_94 Sog 21:10
+	1 VD1689_94 Sog 8:0
+	1 VD1689_94 Sog 10:0
 	-----
-	8
+	2
+
+
+úohdibu
+
+	1 VD1689_94 Sog 3:0
+	-----
+	1
+
+
+úohditi
+
+	1 VD1689_94 Sog 2:0
+	-----
+	1
+
+
+úohìeem
+
+	1 VD1689_94 Sog 2:17
+	-----
+	1
+
+
+úohìi
+
+	1 VD1689_94 Sog 2:18
+	2 VD1689_94 Sog 6:0
+	1 VD1689_94 Sog 12:0
+	-----
+	4
+
+
+úohìis
+
+	1 VD1689_94 Sog 2:18
+	1 VD1689_94 Sog 2:19
+	1 VD1689_94 Sog 11:27
+	-----
+	3
+
+
+úohìu
+
+	1 VD1689_94 Sog 21:25
+	-----
+	1
+
+
+úohìus
+
+	1 VD1689_94 Sog 2:0
+	1 VD1689_94 Sog 2:16
+	1 VD1689_94 Sog 2:18
+	1 VD1689_94 Sog 3:0
+	-----
+	4
+
+
+úohlijs
+
+	1 VD1689_94 Sog 11:39
+	-----
+	1
 
 
 soreka
@@ -21473,6 +24154,29 @@ soreka
 spahrdiúchanas
 
 	1 VD1689_94 Sog 5:22
+	-----
+	1
+
+
+§paidija
+
+	1 VD1689_94 Sog 2:18
+	1 VD1689_94 Sog 9:27
+	1 VD1689_94 Sog 10:12
+	-----
+	3
+
+
+§paidijs
+
+	1 VD1689_94 Sog 4:3
+	-----
+	1
+
+
+§paiditi
+
+	1 VD1689_94 Sog 2:15
 	-----
 	1
 
@@ -21494,6 +24198,37 @@ spals
 spalwahm
 
 	1 VD1689_94 Sog 5:14
+	-----
+	1
+
+
+§peede
+
+	1 VD1689_94 Sog 1:35
+	1 VD1689_94 Sog 6:9
+	1 VD1689_94 Sog 10:8
+	1 VD1689_94 Sog 14:17
+	-----
+	4
+
+
+§pee§ch
+
+	1 VD1689_94 Sog 1:0
+	-----
+	1
+
+
+§pee§t
+
+	1 VD1689_94 Sog 16:19
+	-----
+	1
+
+
+§pehjam
+
+	1 VD1689_94 Sog 16:5
 	-----
 	1
 
@@ -21572,11 +24307,14 @@ stabulehm
 	2
 
 
-stahw
+§tah§ta
 
-	1 VD1689_94 Sog 4:20
+	1 VD1689_94 Sog 13:0
+	1 VD1689_94 Sog 14:0
+	1 VD1689_94 Sog 14:15
+	1 VD1689_94 Sog 16:0
 	-----
-	1
+	4
 
 
 stah§ti
@@ -21587,9 +24325,124 @@ stah§ti
 	2
 
 
+§tah§ti
+
+	1 VD1689_94 Sog 16:10
+	1 VD1689_94 Sog 16:13
+	-----
+	2
+
+
+§tah§tija
+
+	1 VD1689_94 Sog 14:2
+	2 VD1689_94 Sog 14:17
+	1 VD1689_94 Sog 16:17
+	-----
+	4
+
+
+§tah§tijs
+
+	3 VD1689_94 Sog 14:16
+	1 VD1689_94 Sog 16:15
+	2 VD1689_94 Sog 16:18
+	-----
+	6
+
+
 stah§tiúchanu
 
 	1 VD1689_94 Sog 7:0
+	-----
+	1
+
+
+§tah§tiúeet
+
+	1 VD1689_94 Sog 14:12
+	-----
+	1
+
+
+stahw
+
+	1 VD1689_94 Sog 4:20
+	-----
+	1
+
+
+§tahw
+
+	1 VD1689_94 Sog 16:5
+	1 VD1689_94 Sog 16:6
+	1 VD1689_94 Sog 16:15
+	-----
+	3
+
+
+§tahweht
+
+	1 VD1689_94 Sog 16:25
+	-----
+	1
+
+
+§tahweja
+
+	1 VD1689_94 Sog 3:19
+	1 VD1689_94 Sog 6:31
+	1 VD1689_94 Sog 7:21
+	1 VD1689_94 Sog 9:7
+	1 VD1689_94 Sog 9:35
+	1 VD1689_94 Sog 9:44
+	1 VD1689_94 Sog 18:16
+	1 VD1689_94 Sog 18:17
+	1 VD1689_94 Sog 20:28
+	-----
+	9
+
+
+§taiga
+
+	1 VD1689_94 Sog 4:9
+	-----
+	1
+
+
+§taigadami
+
+	1 VD1689_94 Sog 2:22
+	-----
+	1
+
+
+§taigadams
+
+	1 VD1689_94 Sog 17:8
+	-----
+	1
+
+
+§taigaht
+
+	1 VD1689_94 Sog 19:27
+	-----
+	1
+
+
+§taigaja
+
+	1 VD1689_94 Sog 9:4
+	1 VD1689_94 Sog 11:18
+	1 VD1689_94 Sog 19:14
+	-----
+	3
+
+
+§taigajat
+
+	1 VD1689_94 Sog 5:10
 	-----
 	1
 
@@ -21600,6 +24453,43 @@ starp
 	1 VD1689_94 Sog 20:16
 	-----
 	2
+
+
+§tarp
+
+	1 VD1689_94 Sog 1:16
+	1 VD1689_94 Sog 1:29
+	1 VD1689_94 Sog 1:30
+	1 VD1689_94 Sog 1:32
+	1 VD1689_94 Sog 1:33
+	1 VD1689_94 Sog 3:5
+	2 VD1689_94 Sog 4:5
+	2 VD1689_94 Sog 4:17
+	1 VD1689_94 Sog 5:8
+	1 VD1689_94 Sog 5:9
+	1 VD1689_94 Sog 5:11
+	1 VD1689_94 Sog 5:14
+	1 VD1689_94 Sog 5:16
+	2 VD1689_94 Sog 5:24
+	1 VD1689_94 Sog 5:27
+	1 VD1689_94 Sog 7:16
+	2 VD1689_94 Sog 9:23
+	2 VD1689_94 Sog 11:27
+	1 VD1689_94 Sog 11:35
+	1 VD1689_94 Sog 12:4
+	1 VD1689_94 Sog 13:25
+	2 VD1689_94 Sog 14:3
+	1 VD1689_94 Sog 15:4
+	1 VD1689_94 Sog 16:25
+	1 VD1689_94 Sog 16:31
+	1 VD1689_94 Sog 17:7
+	1 VD1689_94 Sog 18:1
+	1 VD1689_94 Sog 18:19
+	1 VD1689_94 Sog 18:30
+	1 VD1689_94 Sog 20:42
+	1 VD1689_94 Sog 21:12
+	-----
+	37
 
 
 starpa^
@@ -21618,6 +24508,37 @@ starpas
 	1
 
 
+§teid§ahs
+
+	1 VD1689_94 Sog 4:24
+	1 VD1689_94 Sog 7:3
+	-----
+	2
+
+
+§teid§eetees
+
+	1 VD1689_94 Sog 9:48
+	-----
+	1
+
+
+§teid§ehs
+
+	1 VD1689_94 Sog 19:5
+	1 VD1689_94 Sog 19:8
+	1 VD1689_94 Sog 20:37
+	-----
+	3
+
+
+§teid§in
+
+	1 VD1689_94 Sog 7:3
+	-----
+	1
+
+
 stipra
 
 	1 VD1689_94 Sog 14:14
@@ -21628,9 +24549,88 @@ stipra
 	4
 
 
+§tipra
+
+	1 VD1689_94 Sog 3:10
+	1 VD1689_94 Sog 9:49
+	-----
+	2
+
+
+§tiprakeem
+
+	1 VD1689_94 Sog 21:10
+	-----
+	1
+
+
+§tipraks
+
+	1 VD1689_94 Sog 14:18
+	-----
+	1
+
+
+§tipras
+
+	1 VD1689_94 Sog 6:2
+	-----
+	1
+
+
 stipreem
 
 	1 VD1689_94 Sog 5:23
+	-----
+	1
+
+
+§tipri
+
+	1 VD1689_94 Sog 8:1
+	1 VD1689_94 Sog 10:0
+	1 VD1689_94 Sog 18:2
+	1 VD1689_94 Sog 18:26
+	1 VD1689_94 Sog 20:44
+	1 VD1689_94 Sog 20:46
+	-----
+	6
+
+
+§tiprinahts
+
+	1 VD1689_94 Sog 16:26
+	1 VD1689_94 Sog 16:29
+	-----
+	2
+
+
+§tiprinaja
+
+	1 VD1689_94 Sog 3:12
+	-----
+	1
+
+
+§tiprinajahs
+
+	1 VD1689_94 Sog 1:28
+	1 VD1689_94 Sog 4:24
+	1 VD1689_94 Sog 6:2
+	-----
+	3
+
+
+§tiprinajúchi
+
+	1 VD1689_94 Sog 9:24
+	-----
+	1
+
+
+§tiprinaúees
+
+	1 VD1689_94 Sog 7:11
 	-----
 	1
 
@@ -21643,11 +24643,38 @@ stiprini
 	2
 
 
+§tiprini
+
+	1 VD1689_94 Sog 16:28
+	-----
+	1
+
+
+§tiprs
+
+	1 VD1689_94 Sog 6:12
+	1 VD1689_94 Sog 9:51
+	1 VD1689_94 Sog 11:1
+	-----
+	3
+
+
 stipru
 
 	1 VD1689_94 Sog 5:22
 	-----
 	1
+
+
+§tipru
+
+	1 VD1689_94 Sog 9:46
+	1 VD1689_94 Sog 9:49
+	1 VD1689_94 Sog 13:4
+	1 VD1689_94 Sog 13:7
+	1 VD1689_94 Sog 13:13
+	-----
+	5
 
 
 stipruma
@@ -21667,6 +24694,13 @@ stiprums
 stiprus
 
 	1 VD1689_94 Sog 5:21
+	-----
+	1
+
+
+§tiprus
+
+	1 VD1689_94 Sog 3:29
 	-----
 	1
 
@@ -21694,6 +24728,113 @@ stuhri
 	3
 
 
+§udduúchi
+
+	1 VD1689_94 Sog 5:6
+	-----
+	1
+
+
+úudrab=kallim
+
+	1 VD1689_94 Sog 17:4
+	-----
+	1
+
+
+úudraba
+
+	1 VD1689_94 Sog 9:4
+	1 VD1689_94 Sog 16:5
+	1 VD1689_94 Sog 17:2
+	1 VD1689_94 Sog 17:3
+	1 VD1689_94 Sog 17:4
+	1 VD1689_94 Sog 17:10
+	-----
+	6
+
+
+úudrabu
+
+	1 VD1689_94 Sog 16:18
+	-----
+	1
+
+
+§uhd
+
+	1 VD1689_94 Sog 16:0
+	-----
+	1
+
+
+úuhdi
+
+	1 VD1689_94 Sog 3:22
+	-----
+	1
+
+
+úuhta
+
+	1 VD1689_94 Sog 3:0
+	1 VD1689_94 Sog 11:0
+	-----
+	2
+
+
+úuhtihts
+
+	1 VD1689_94 Sog 5:15
+	-----
+	1
+
+
+úuhtija
+
+	1 VD1689_94 Sog 3:15
+	1 VD1689_94 Sog 6:8
+	2 VD1689_94 Sog 6:35
+	1 VD1689_94 Sog 7:24
+	1 VD1689_94 Sog 9:23
+	1 VD1689_94 Sog 9:25
+	1 VD1689_94 Sog 9:31
+	1 VD1689_94 Sog 11:12
+	1 VD1689_94 Sog 11:14
+	2 VD1689_94 Sog 11:17
+	1 VD1689_94 Sog 11:19
+	1 VD1689_94 Sog 18:2
+	1 VD1689_94 Sog 18:21
+	1 VD1689_94 Sog 19:29
+	1 VD1689_94 Sog 20:12
+	1 VD1689_94 Sog 21:10
+	-----
+	18
+
+
+úuhtijs
+
+	1 VD1689_94 Sog 6:14
+	1 VD1689_94 Sog 11:28
+	1 VD1689_94 Sog 13:8
+	-----
+	3
+
+
+úuhtiju
+
+	1 VD1689_94 Sog 20:6
+	-----
+	1
+
+
+úuhtita
+
+	1 VD1689_94 Sog 19:0
+	-----
+	1
+
+
 sukota
 
 	1 VD1689_94 Sog 8:0
@@ -21707,9 +24848,52 @@ sukota
 	8
 
 
+úullu
+
+	1 VD1689_94 Sog 6:19
+	1 VD1689_94 Sog 6:20
+	-----
+	2
+
+
+úuns
+
+	1 VD1689_94 Sog 7:5
+	-----
+	1
+
+
+úwaidat
+
+	1 VD1689_94 Sog 9:15
+	-----
+	1
+
+
+úwaiditu
+
+	1 VD1689_94 Sog 9:8
+	-----
+	1
+
+
 swaig§nes
 
 	1 VD1689_94 Sog 5:20
+	-----
+	1
+
+
+úwars
+
+	1 VD1689_94 Sog 8:26
+	-----
+	1
+
+
+úweeútu
+
+	1 VD1689_94 Sog 5:25
 	-----
 	1
 
@@ -21721,9 +24905,128 @@ swehrejeet
 	1
 
 
+§wehrejs
+
+	1 VD1689_94 Sog 2:1
+	1 VD1689_94 Sog 2:15
+	-----
+	2
+
+
+§wehrejúchi
+
+	1 VD1689_94 Sog 21:1
+	1 VD1689_94 Sog 21:7
+	-----
+	2
+
+
 swehreúchanas
 
 	1 VD1689_94 Sog 21:0
+	-----
+	1
+
+
+úwehtidama
+
+	1 VD1689_94 Sog 17:3
+	-----
+	1
+
+
+úwehtihts
+
+	1 VD1689_94 Sog 17:2
+	-----
+	1
+
+
+úwehtija
+
+	1 VD1689_94 Sog 13:24
+	-----
+	1
+
+
+úwehtijúi
+
+	1 VD1689_94 Sog 17:3
+	-----
+	1
+
+
+úwehtita
+
+	2 VD1689_94 Sog 5:24
+	-----
+	2
+
+
+úwehtki
+
+	1 VD1689_94 Sog 21:19
+	-----
+	1
+
+
+úwehtku=drehbes
+
+	1 VD1689_94 Sog 14:12
+	1 VD1689_94 Sog 14:13
+	1 VD1689_94 Sog 14:19
+	-----
+	3
+
+
+úwehtumu
+
+	1 VD1689_94 Sog 1:15
+	-----
+	1
+
+
+úweizinaja
+
+	1 VD1689_94 Sog 18:15
+	-----
+	1
+
+
+úweúchineeks
+
+	1 VD1689_94 Sog 19:16
+	-----
+	1
+
+
+úweúchineeku
+
+	1 VD1689_94 Sog 17:7
+	1 VD1689_94 Sog 17:8
+	1 VD1689_94 Sog 17:9
+	1 VD1689_94 Sog 19:1
+	-----
+	4
+
+
+úweúchu
+
+	1 VD1689_94 Sog 19:12
+	-----
+	1
+
+
+úweúchus
+
+	1 VD1689_94 Sog 10:16
+	-----
+	1
+
+
+úwilpeúchanu
+
+	1 VD1689_94 Sog 5:16
 	-----
 	1
 
@@ -21899,19 +25202,6 @@ ta
 	211
 
 
-ta^
-
-	1 VD1689_94 Sog 3:31
-	1 VD1689_94 Sog 5:31
-	1 VD1689_94 Sog 6:38
-	1 VD1689_94 Sog 7:17
-	1 VD1689_94 Sog 7:20
-	1 VD1689_94 Sog 7:24
-	1 VD1689_94 Sog 8:8
-	-----
-	7
-
-
 ta`
 
 	1 VD1689_94 Sog 1:2
@@ -21959,6 +25249,19 @@ ta`
 	1 VD1689_94 Sog 21:23
 	-----
 	44
+
+
+ta^
+
+	1 VD1689_94 Sog 3:31
+	1 VD1689_94 Sog 5:31
+	1 VD1689_94 Sog 6:38
+	1 VD1689_94 Sog 7:17
+	1 VD1689_94 Sog 7:20
+	1 VD1689_94 Sog 7:24
+	1 VD1689_94 Sog 8:8
+	-----
+	7
 
 
 taa&naka
@@ -22298,16 +25601,16 @@ tahbora
 	2
 
 
-tahbora^
+tahboºa
 
-	1 VD1689_94 Sog 8:18
+	1 VD1689_94 Sog 4:12
 	-----
 	1
 
 
-tahboºa
+tahbora^
 
-	1 VD1689_94 Sog 4:12
+	1 VD1689_94 Sog 8:18
 	-----
 	1
 
@@ -22349,6 +25652,22 @@ tahdus
 	1 VD1689_94 Sog 20:35
 	-----
 	3
+
+
+tahïi
+
+	1 VD1689_94 Sog 18:22
+	1 VD1689_94 Sog 18:28
+	-----
+	2
+
+
+tahïu
+
+	1 VD1689_94 Sog 9:17
+	1 VD1689_94 Sog 18:7
+	-----
+	2
 
 
 tahm
@@ -22444,22 +25763,6 @@ tahs
 	72
 
 
-tahïi
-
-	1 VD1689_94 Sog 18:22
-	1 VD1689_94 Sog 18:28
-	-----
-	2
-
-
-tahïu
-
-	1 VD1689_94 Sog 9:17
-	1 VD1689_94 Sog 18:7
-	-----
-	2
-
-
 tai
 
 	1 VD1689_94 Sog 1:0
@@ -22472,6 +25775,15 @@ tai
 	1 VD1689_94 Sog 18:30
 	-----
 	8
+
+
+tai`
+
+	1 VD1689_94 Sog 3:30
+	1 VD1689_94 Sog 6:25
+	1 VD1689_94 Sog 18:7
+	-----
+	3
 
 
 tai^
@@ -22493,15 +25805,6 @@ tai^
 	1 VD1689_94 Sog 20:46
 	-----
 	15
-
-
-tai`
-
-	1 VD1689_94 Sog 3:30
-	1 VD1689_94 Sog 6:25
-	1 VD1689_94 Sog 18:7
-	-----
-	3
 
 
 taiúa
@@ -22611,11 +25914,20 @@ tam
 	55
 
 
-tanni#
+tanni`
 
-	1 VD1689_94 Sog 6:40
+	1 VD1689_94 Sog 4:4
+	1 VD1689_94 Sog 21:24
 	-----
-	1
+	2
+
+
+tanni`s
+
+	1 VD1689_94 Sog 19:1
+	1 VD1689_94 Sog 20:28
+	-----
+	2
 
 
 tanni^
@@ -22641,20 +25953,11 @@ tanni^s
 	5
 
 
-tanni`
+tanni#
 
-	1 VD1689_94 Sog 4:4
-	1 VD1689_94 Sog 21:24
+	1 VD1689_94 Sog 6:40
 	-----
-	2
-
-
-tanni`s
-
-	1 VD1689_94 Sog 19:1
-	1 VD1689_94 Sog 20:28
-	-----
-	2
+	1
 
 
 tapehz
@@ -22746,6 +26049,15 @@ tappuúi
 	2
 
 
+tapúi
+
+	1 VD1689_94 Sog 13:3
+	1 VD1689_94 Sog 13:5
+	1 VD1689_94 Sog 13:7
+	-----
+	3
+
+
 tapt
 
 	1 VD1689_94 Sog 6:31
@@ -22762,15 +26074,6 @@ taptu
 	2 VD1689_94 Sog 16:17
 	-----
 	5
-
-
-tapúi
-
-	1 VD1689_94 Sog 13:3
-	1 VD1689_94 Sog 13:5
-	1 VD1689_94 Sog 13:7
-	-----
-	3
 
 
 tas
@@ -22972,16 +26275,16 @@ taukumu
 	1
 
 
-tauta
+tau§tu
 
-	1 VD1689_94 Sog 2:20
+	1 VD1689_94 Sog 16:26
 	-----
 	1
 
 
-tau§tu
+tauta
 
-	1 VD1689_94 Sog 16:26
+	1 VD1689_94 Sog 2:20
 	-----
 	1
 
@@ -23713,13 +27016,6 @@ tehwu
 	6
 
 
-teikuúchi
-
-	1 VD1689_94 Sog 6:13
-	-----
-	1
-
-
 teikúchanas=d§eeúma{ teikúchanas=}
 
 	1 VD1689_94 Sog 5:0
@@ -23730,6 +27026,13 @@ teikúchanas=d§eeúma{ teikúchanas=}
 teikúchanu
 
 	1 VD1689_94 Sog 7:15
+	-----
+	1
+
+
+teikuúchi
+
+	1 VD1689_94 Sog 6:13
 	-----
 	1
 
@@ -23770,6 +27073,13 @@ tekk
 	1 VD1689_94 Sog 21:19
 	-----
 	2
+
+
+teïïu
+
+	1 VD1689_94 Sog 14:18
+	-----
+	1
 
 
 telti^s
@@ -23878,13 +27188,6 @@ tezzeht
 tezzeja
 
 	1 VD1689_94 Sog 13:10
-	-----
-	1
-
-
-teïïu
-
-	1 VD1689_94 Sog 14:18
 	-----
 	1
 
@@ -24298,6 +27601,14 @@ tohp
 	28
 
 
+tohròa
+
+	1 VD1689_94 Sog 9:49
+	3 VD1689_94 Sog 9:51
+	-----
+	4
+
+
 tohrni
 
 	1 VD1689_94 Sog 8:9
@@ -24312,14 +27623,6 @@ tohrnis
 	1 VD1689_94 Sog 9:51
 	-----
 	1
-
-
-tohròa
-
-	1 VD1689_94 Sog 9:49
-	3 VD1689_94 Sog 9:51
-	-----
-	4
 
 
 tohs
@@ -24528,14 +27831,6 @@ trihsdeúmits
 	15
 
 
-trihstuhk§toúchi
-
-	1 VD1689_94 Sog 15:11
-	1 VD1689_94 Sog 16:27
-	-----
-	2
-
-
 trihsúimts
 
 	1 VD1689_94 Sog 7:6
@@ -24547,6 +27842,14 @@ trihsúimts
 	1 VD1689_94 Sog 11:26
 	-----
 	7
+
+
+trihstuhk§toúchi
+
+	1 VD1689_94 Sog 15:11
+	1 VD1689_94 Sog 16:27
+	-----
+	2
 
 
 trim
@@ -24563,19 +27866,19 @@ trohkúnis
 	1
 
 
-truhkums
-
-	1 VD1689_94 Sog 18:10
-	-----
-	1
-
-
 truhk§t
 
 	1 VD1689_94 Sog 19:19
 	1 VD1689_94 Sog 19:20
 	-----
 	2
+
+
+truhkums
+
+	1 VD1689_94 Sog 18:10
+	-----
+	1
 
 
 trummetehm
@@ -24621,6 +27924,38 @@ trummeteúchu
 	1 VD1689_94 Sog 7:18
 	-----
 	1
+
+
+túchetr
+
+	1 VD1689_94 Sog 9:34
+	1 VD1689_94 Sog 11:40
+	1 VD1689_94 Sog 19:2
+	1 VD1689_94 Sog 20:47
+	-----
+	4
+
+
+túchetrdeúmits
+
+	1 VD1689_94 Sog 3:11
+	1 VD1689_94 Sog 5:8
+	1 VD1689_94 Sog 5:31
+	1 VD1689_94 Sog 8:28
+	1 VD1689_94 Sog 12:6
+	1 VD1689_94 Sog 12:14
+	1 VD1689_94 Sog 13:1
+	-----
+	7
+
+
+túchetrúimts
+
+	1 VD1689_94 Sog 20:2
+	1 VD1689_94 Sog 20:17
+	1 VD1689_94 Sog 21:12
+	-----
+	3
 
 
 tu
@@ -24828,6 +28163,15 @@ tur
 	41
 
 
+turòa
+
+	1 VD1689_94 Sog 9:46
+	1 VD1689_94 Sog 9:47
+	1 VD1689_94 Sog 9:49
+	-----
+	3
+
+
 turni
 
 	1 VD1689_94 Sog 9:46
@@ -24926,47 +28270,6 @@ turretees
 	1 VD1689_94 Sog 15:12
 	-----
 	1
-
-
-turòa
-
-	1 VD1689_94 Sog 9:46
-	1 VD1689_94 Sog 9:47
-	1 VD1689_94 Sog 9:49
-	-----
-	3
-
-
-túchetr
-
-	1 VD1689_94 Sog 9:34
-	1 VD1689_94 Sog 11:40
-	1 VD1689_94 Sog 19:2
-	1 VD1689_94 Sog 20:47
-	-----
-	4
-
-
-túchetrdeúmits
-
-	1 VD1689_94 Sog 3:11
-	1 VD1689_94 Sog 5:8
-	1 VD1689_94 Sog 5:31
-	1 VD1689_94 Sog 8:28
-	1 VD1689_94 Sog 12:6
-	1 VD1689_94 Sog 12:14
-	1 VD1689_94 Sog 13:1
-	-----
-	7
-
-
-túchetrúimts
-
-	1 VD1689_94 Sog 20:2
-	1 VD1689_94 Sog 20:17
-	1 VD1689_94 Sog 21:12
-	-----
-	3
 
 
 ugguni
@@ -26056,6 +29359,50 @@ usmoh§ti
 	4
 
 
+usòehme
+
+	1 VD1689_94 Sog 1:18
+	1 VD1689_94 Sog 3:13
+	1 VD1689_94 Sog 3:28
+	1 VD1689_94 Sog 9:45
+	1 VD1689_94 Sog 9:50
+	1 VD1689_94 Sog 11:22
+	1 VD1689_94 Sog 12:5
+	-----
+	7
+
+
+usòehmuúchi
+
+	1 VD1689_94 Sog 1:8
+	-----
+	1
+
+
+usòem
+
+	1 VD1689_94 Sog 1:0
+	-----
+	1
+
+
+usòems
+
+	1 VD1689_94 Sog 1:12
+	-----
+	1
+
+
+usòemt
+
+	1 VD1689_94 Sog 2:6
+	1 VD1689_94 Sog 11:23
+	2 VD1689_94 Sog 11:24
+	1 VD1689_94 Sog 18:9
+	-----
+	5
+
+
 usrak§tija
 
 	1 VD1689_94 Sog 8:14
@@ -26195,50 +29542,6 @@ uszehlis
 	1 VD1689_94 Sog 4:11
 	-----
 	1
-
-
-usòehme
-
-	1 VD1689_94 Sog 1:18
-	1 VD1689_94 Sog 3:13
-	1 VD1689_94 Sog 3:28
-	1 VD1689_94 Sog 9:45
-	1 VD1689_94 Sog 9:50
-	1 VD1689_94 Sog 11:22
-	1 VD1689_94 Sog 12:5
-	-----
-	7
-
-
-usòehmuúchi
-
-	1 VD1689_94 Sog 1:8
-	-----
-	1
-
-
-usòem
-
-	1 VD1689_94 Sog 1:0
-	-----
-	1
-
-
-usòems
-
-	1 VD1689_94 Sog 1:12
-	-----
-	1
-
-
-usòemt
-
-	1 VD1689_94 Sog 2:6
-	1 VD1689_94 Sog 11:23
-	2 VD1689_94 Sog 11:24
-	1 VD1689_94 Sog 18:9
-	-----
-	5
 
 
 waddija
@@ -26532,6 +29835,41 @@ waldneeki
 	1
 
 
+waïïa
+
+	1 VD1689_94 Sog 16:26
+	-----
+	1
+
+
+waïïas=wihri
+
+	1 VD1689_94 Sog 11:3
+	-----
+	1
+
+
+waïïas=wihro
+
+	1 VD1689_94 Sog 9:0
+	-----
+	1
+
+
+waïïas=wihrus
+
+	1 VD1689_94 Sog 9:4
+	-----
+	1
+
+
+waïïu
+
+	1 VD1689_94 Sog 11:37
+	-----
+	1
+
+
 war
 
 	1 VD1689_94 Sog 16:10
@@ -26549,6 +29887,13 @@ warr
 	1 VD1689_94 Sog 21:0
 	-----
 	6
+
+
+waººa
+
+	1 VD1689_94 Sog 16:21
+	-----
+	1
 
 
 warram
@@ -26616,19 +29961,19 @@ warreneem
 	1
 
 
+warreúeet
+
+	1 VD1689_94 Sog 14:13
+	-----
+	1
+
+
 warretu
 
 	1 VD1689_94 Sog 1:25
 	1 VD1689_94 Sog 18:1
 	-----
 	2
-
-
-warreúeet
-
-	1 VD1689_94 Sog 14:13
-	-----
-	1
 
 
 warri
@@ -26647,48 +29992,6 @@ warru
 	1 VD1689_94 Sog 16:30
 	-----
 	4
-
-
-waïïa
-
-	1 VD1689_94 Sog 16:26
-	-----
-	1
-
-
-waïïas=wihri
-
-	1 VD1689_94 Sog 11:3
-	-----
-	1
-
-
-waïïas=wihro
-
-	1 VD1689_94 Sog 9:0
-	-----
-	1
-
-
-waïïas=wihrus
-
-	1 VD1689_94 Sog 9:4
-	-----
-	1
-
-
-waïïu
-
-	1 VD1689_94 Sog 11:37
-	-----
-	1
-
-
-waººa
-
-	1 VD1689_94 Sog 16:21
-	-----
-	1
 
 
 weddat
@@ -27154,6 +30457,28 @@ were§iteºus
 	1
 
 
+weúúeru
+
+	1 VD1689_94 Sog 4:21
+	1 VD1689_94 Sog 5:26
+	-----
+	2
+
+
+we§t
+
+	1 VD1689_94 Sog 7:5
+	-----
+	1
+
+
+we§tu
+
+	1 VD1689_94 Sog 19:3
+	-----
+	1
+
+
 wezz
 
 	1 VD1689_94 Sog 2:8
@@ -27210,28 +30535,6 @@ wezzuma^
 	1 VD1689_94 Sog 8:32
 	-----
 	1
-
-
-we§t
-
-	1 VD1689_94 Sog 7:5
-	-----
-	1
-
-
-we§tu
-
-	1 VD1689_94 Sog 19:3
-	-----
-	1
-
-
-weúúeru
-
-	1 VD1689_94 Sog 4:21
-	1 VD1689_94 Sog 5:26
-	-----
-	2
 
 
 widdejus
@@ -27333,16 +30636,16 @@ wihli§teºu
 	15
 
 
-wihli§teºus
+wihli§teºu{wih i§teºu}
 
-	1 VD1689_94 Sog 15:0
+	1 VD1689_94 Sog 16:23
 	-----
 	1
 
 
-wihli§teºu{wih i§teºu}
+wihli§teºus
 
-	1 VD1689_94 Sog 16:23
+	1 VD1689_94 Sog 15:0
 	-----
 	1
 
@@ -27675,283 +30978,6 @@ wiltu
 	1 VD1689_94 Sog 9:25
 	-----
 	2
-
-
-wirs
-
-	1 VD1689_94 Sog 18:10
-	-----
-	1
-
-
-wirs=gallu
-
-	1 VD1689_94 Sog 6:26
-	1 VD1689_94 Sog 16:3
-	-----
-	2
-
-
-wirs=gaïïeem
-
-	1 VD1689_94 Sog 9:25
-	-----
-	1
-
-
-wirsgallu
-
-	1 VD1689_94 Sog 9:7
-	-----
-	1
-
-
-wirwehm
-
-	1 VD1689_94 Sog 15:13
-	1 VD1689_94 Sog 16:7
-	1 VD1689_94 Sog 16:11
-	-----
-	3
-
-
-wirwes
-
-	1 VD1689_94 Sog 15:14
-	1 VD1689_94 Sog 16:8
-	1 VD1689_94 Sog 16:9
-	1 VD1689_94 Sog 16:12
-	-----
-	4
-
-
-wirúneeki
-
-	1 VD1689_94 Sog 5:15
-	1 VD1689_94 Sog 8:6
-	1 VD1689_94 Sog 10:18
-	1 VD1689_94 Sog 20:2
-	-----
-	4
-
-
-wirúneeks
-
-	1 VD1689_94 Sog 4:0
-	1 VD1689_94 Sog 4:2
-	1 VD1689_94 Sog 9:30
-	-----
-	3
-
-
-wirúneeku
-
-	1 VD1689_94 Sog 4:7
-	1 VD1689_94 Sog 11:0
-	-----
-	2
-
-
-wirúneekus
-
-	1 VD1689_94 Sog 8:14
-	-----
-	1
-
-
-wirúu
-
-	1 VD1689_94 Sog 9:9
-	1 VD1689_94 Sog 9:11
-	1 VD1689_94 Sog 9:13
-	-----
-	3
-
-
-wirúus
-
-	1 VD1689_94 Sog 13:20
-	-----
-	1
-
-
-wiòpuús
-
-	1 VD1689_94 Sog 10:8
-	-----
-	1
-
-
-wiò§ch
-
-	1 VD1689_94 Sog 1:7
-	1 VD1689_94 Sog 1:11
-	2 VD1689_94 Sog 1:13
-	2 VD1689_94 Sog 1:19
-	1 VD1689_94 Sog 1:25
-	2 VD1689_94 Sog 1:28
-	1 VD1689_94 Sog 2:7
-	1 VD1689_94 Sog 2:10
-	1 VD1689_94 Sog 2:14
-	1 VD1689_94 Sog 2:20
-	1 VD1689_94 Sog 2:21
-	2 VD1689_94 Sog 2:23
-	1 VD1689_94 Sog 3:1
-	1 VD1689_94 Sog 3:4
-	1 VD1689_94 Sog 3:8
-	1 VD1689_94 Sog 3:10
-	1 VD1689_94 Sog 3:13
-	1 VD1689_94 Sog 3:17
-	2 VD1689_94 Sog 3:18
-	1 VD1689_94 Sog 3:19
-	3 VD1689_94 Sog 3:20
-	1 VD1689_94 Sog 3:22
-	1 VD1689_94 Sog 3:24
-	1 VD1689_94 Sog 3:25
-	1 VD1689_94 Sog 3:26
-	3 VD1689_94 Sog 3:27
-	1 VD1689_94 Sog 3:28
-	1 VD1689_94 Sog 3:31
-	1 VD1689_94 Sog 4:18
-	1 VD1689_94 Sog 4:19
-	1 VD1689_94 Sog 4:20
-	2 VD1689_94 Sog 4:21
-	1 VD1689_94 Sog 4:22
-	1 VD1689_94 Sog 5:2
-	1 VD1689_94 Sog 5:15
-	5 VD1689_94 Sog 5:27
-	1 VD1689_94 Sog 6:0
-	1 VD1689_94 Sog 6:11
-	1 VD1689_94 Sog 6:15
-	1 VD1689_94 Sog 6:18
-	2 VD1689_94 Sog 6:19
-	1 VD1689_94 Sog 6:20
-	1 VD1689_94 Sog 6:27
-	1 VD1689_94 Sog 6:30
-	1 VD1689_94 Sog 6:31
-	1 VD1689_94 Sog 6:32
-	1 VD1689_94 Sog 6:34
-	2 VD1689_94 Sog 6:35
-	1 VD1689_94 Sog 6:38
-	1 VD1689_94 Sog 7:5
-	2 VD1689_94 Sog 7:8
-	1 VD1689_94 Sog 7:11
-	2 VD1689_94 Sog 7:15
-	1 VD1689_94 Sog 7:16
-	1 VD1689_94 Sog 7:17
-	1 VD1689_94 Sog 8:0
-	1 VD1689_94 Sog 8:2
-	1 VD1689_94 Sog 8:3
-	1 VD1689_94 Sog 8:4
-	1 VD1689_94 Sog 8:5
-	1 VD1689_94 Sog 8:8
-	1 VD1689_94 Sog 8:9
-	1 VD1689_94 Sog 8:12
-	1 VD1689_94 Sog 8:14
-	1 VD1689_94 Sog 8:15
-	1 VD1689_94 Sog 8:16
-	1 VD1689_94 Sog 8:17
-	1 VD1689_94 Sog 8:18
-	1 VD1689_94 Sog 8:19
-	3 VD1689_94 Sog 8:20
-	1 VD1689_94 Sog 8:26
-	1 VD1689_94 Sog 8:31
-	1 VD1689_94 Sog 8:35
-	1 VD1689_94 Sog 9:3
-	2 VD1689_94 Sog 9:5
-	1 VD1689_94 Sog 9:7
-	1 VD1689_94 Sog 9:18
-	1 VD1689_94 Sog 9:19
-	1 VD1689_94 Sog 9:29
-	1 VD1689_94 Sog 9:30
-	1 VD1689_94 Sog 9:33
-	1 VD1689_94 Sog 9:36
-	3 VD1689_94 Sog 9:43
-	1 VD1689_94 Sog 9:48
-	1 VD1689_94 Sog 9:50
-	1 VD1689_94 Sog 9:51
-	2 VD1689_94 Sog 9:54
-	2 VD1689_94 Sog 9:56
-	1 VD1689_94 Sog 10:0
-	1 VD1689_94 Sog 10:2
-	1 VD1689_94 Sog 10:7
-	1 VD1689_94 Sog 11:1
-	1 VD1689_94 Sog 11:13
-	1 VD1689_94 Sog 11:16
-	1 VD1689_94 Sog 11:17
-	1 VD1689_94 Sog 11:18
-	1 VD1689_94 Sog 11:20
-	1 VD1689_94 Sog 11:25
-	1 VD1689_94 Sog 11:28
-	2 VD1689_94 Sog 11:29
-	1 VD1689_94 Sog 11:33
-	2 VD1689_94 Sog 11:35
-	2 VD1689_94 Sog 11:38
-	2 VD1689_94 Sog 11:39
-	1 VD1689_94 Sog 12:5
-	2 VD1689_94 Sog 12:9
-	1 VD1689_94 Sog 13:5
-	1 VD1689_94 Sog 13:6
-	1 VD1689_94 Sog 13:7
-	1 VD1689_94 Sog 13:19
-	2 VD1689_94 Sog 13:23
-	1 VD1689_94 Sog 14:2
-	1 VD1689_94 Sog 14:4
-	3 VD1689_94 Sog 14:6
-	1 VD1689_94 Sog 14:7
-	2 VD1689_94 Sog 14:8
-	3 VD1689_94 Sog 14:9
-	1 VD1689_94 Sog 14:14
-	1 VD1689_94 Sog 14:15
-	1 VD1689_94 Sog 14:16
-	1 VD1689_94 Sog 14:18
-	2 VD1689_94 Sog 14:19
-	1 VD1689_94 Sog 15:5
-	1 VD1689_94 Sog 15:8
-	1 VD1689_94 Sog 15:10
-	1 VD1689_94 Sog 15:11
-	1 VD1689_94 Sog 15:14
-	2 VD1689_94 Sog 15:15
-	2 VD1689_94 Sog 15:17
-	2 VD1689_94 Sog 15:18
-	3 VD1689_94 Sog 15:19
-	1 VD1689_94 Sog 15:20
-	3 VD1689_94 Sog 16:0
-	1 VD1689_94 Sog 16:3
-	1 VD1689_94 Sog 16:4
-	1 VD1689_94 Sog 16:9
-	1 VD1689_94 Sog 16:11
-	1 VD1689_94 Sog 16:12
-	1 VD1689_94 Sog 16:13
-	1 VD1689_94 Sog 16:14
-	1 VD1689_94 Sog 16:18
-	2 VD1689_94 Sog 16:20
-	1 VD1689_94 Sog 16:25
-	3 VD1689_94 Sog 16:30
-	1 VD1689_94 Sog 16:31
-	1 VD1689_94 Sog 17:3
-	1 VD1689_94 Sog 17:4
-	1 VD1689_94 Sog 17:5
-	1 VD1689_94 Sog 17:6
-	1 VD1689_94 Sog 17:8
-	1 VD1689_94 Sog 17:9
-	1 VD1689_94 Sog 17:12
-	1 VD1689_94 Sog 18:20
-	1 VD1689_94 Sog 18:24
-	1 VD1689_94 Sog 18:26
-	1 VD1689_94 Sog 19:3
-	1 VD1689_94 Sog 19:8
-	1 VD1689_94 Sog 19:9
-	1 VD1689_94 Sog 19:10
-	1 VD1689_94 Sog 19:13
-	2 VD1689_94 Sog 19:15
-	2 VD1689_94 Sog 19:17
-	1 VD1689_94 Sog 19:21
-	2 VD1689_94 Sog 19:28
-	2 VD1689_94 Sog 19:29
-	1 VD1689_94 Sog 21:25
-	-----
-	217
 
 
 wiòòa
@@ -28363,6 +31389,283 @@ wiòòus
 	2
 
 
+wiòpuús
+
+	1 VD1689_94 Sog 10:8
+	-----
+	1
+
+
+wiò§ch
+
+	1 VD1689_94 Sog 1:7
+	1 VD1689_94 Sog 1:11
+	2 VD1689_94 Sog 1:13
+	2 VD1689_94 Sog 1:19
+	1 VD1689_94 Sog 1:25
+	2 VD1689_94 Sog 1:28
+	1 VD1689_94 Sog 2:7
+	1 VD1689_94 Sog 2:10
+	1 VD1689_94 Sog 2:14
+	1 VD1689_94 Sog 2:20
+	1 VD1689_94 Sog 2:21
+	2 VD1689_94 Sog 2:23
+	1 VD1689_94 Sog 3:1
+	1 VD1689_94 Sog 3:4
+	1 VD1689_94 Sog 3:8
+	1 VD1689_94 Sog 3:10
+	1 VD1689_94 Sog 3:13
+	1 VD1689_94 Sog 3:17
+	2 VD1689_94 Sog 3:18
+	1 VD1689_94 Sog 3:19
+	3 VD1689_94 Sog 3:20
+	1 VD1689_94 Sog 3:22
+	1 VD1689_94 Sog 3:24
+	1 VD1689_94 Sog 3:25
+	1 VD1689_94 Sog 3:26
+	3 VD1689_94 Sog 3:27
+	1 VD1689_94 Sog 3:28
+	1 VD1689_94 Sog 3:31
+	1 VD1689_94 Sog 4:18
+	1 VD1689_94 Sog 4:19
+	1 VD1689_94 Sog 4:20
+	2 VD1689_94 Sog 4:21
+	1 VD1689_94 Sog 4:22
+	1 VD1689_94 Sog 5:2
+	1 VD1689_94 Sog 5:15
+	5 VD1689_94 Sog 5:27
+	1 VD1689_94 Sog 6:0
+	1 VD1689_94 Sog 6:11
+	1 VD1689_94 Sog 6:15
+	1 VD1689_94 Sog 6:18
+	2 VD1689_94 Sog 6:19
+	1 VD1689_94 Sog 6:20
+	1 VD1689_94 Sog 6:27
+	1 VD1689_94 Sog 6:30
+	1 VD1689_94 Sog 6:31
+	1 VD1689_94 Sog 6:32
+	1 VD1689_94 Sog 6:34
+	2 VD1689_94 Sog 6:35
+	1 VD1689_94 Sog 6:38
+	1 VD1689_94 Sog 7:5
+	2 VD1689_94 Sog 7:8
+	1 VD1689_94 Sog 7:11
+	2 VD1689_94 Sog 7:15
+	1 VD1689_94 Sog 7:16
+	1 VD1689_94 Sog 7:17
+	1 VD1689_94 Sog 8:0
+	1 VD1689_94 Sog 8:2
+	1 VD1689_94 Sog 8:3
+	1 VD1689_94 Sog 8:4
+	1 VD1689_94 Sog 8:5
+	1 VD1689_94 Sog 8:8
+	1 VD1689_94 Sog 8:9
+	1 VD1689_94 Sog 8:12
+	1 VD1689_94 Sog 8:14
+	1 VD1689_94 Sog 8:15
+	1 VD1689_94 Sog 8:16
+	1 VD1689_94 Sog 8:17
+	1 VD1689_94 Sog 8:18
+	1 VD1689_94 Sog 8:19
+	3 VD1689_94 Sog 8:20
+	1 VD1689_94 Sog 8:26
+	1 VD1689_94 Sog 8:31
+	1 VD1689_94 Sog 8:35
+	1 VD1689_94 Sog 9:3
+	2 VD1689_94 Sog 9:5
+	1 VD1689_94 Sog 9:7
+	1 VD1689_94 Sog 9:18
+	1 VD1689_94 Sog 9:19
+	1 VD1689_94 Sog 9:29
+	1 VD1689_94 Sog 9:30
+	1 VD1689_94 Sog 9:33
+	1 VD1689_94 Sog 9:36
+	3 VD1689_94 Sog 9:43
+	1 VD1689_94 Sog 9:48
+	1 VD1689_94 Sog 9:50
+	1 VD1689_94 Sog 9:51
+	2 VD1689_94 Sog 9:54
+	2 VD1689_94 Sog 9:56
+	1 VD1689_94 Sog 10:0
+	1 VD1689_94 Sog 10:2
+	1 VD1689_94 Sog 10:7
+	1 VD1689_94 Sog 11:1
+	1 VD1689_94 Sog 11:13
+	1 VD1689_94 Sog 11:16
+	1 VD1689_94 Sog 11:17
+	1 VD1689_94 Sog 11:18
+	1 VD1689_94 Sog 11:20
+	1 VD1689_94 Sog 11:25
+	1 VD1689_94 Sog 11:28
+	2 VD1689_94 Sog 11:29
+	1 VD1689_94 Sog 11:33
+	2 VD1689_94 Sog 11:35
+	2 VD1689_94 Sog 11:38
+	2 VD1689_94 Sog 11:39
+	1 VD1689_94 Sog 12:5
+	2 VD1689_94 Sog 12:9
+	1 VD1689_94 Sog 13:5
+	1 VD1689_94 Sog 13:6
+	1 VD1689_94 Sog 13:7
+	1 VD1689_94 Sog 13:19
+	2 VD1689_94 Sog 13:23
+	1 VD1689_94 Sog 14:2
+	1 VD1689_94 Sog 14:4
+	3 VD1689_94 Sog 14:6
+	1 VD1689_94 Sog 14:7
+	2 VD1689_94 Sog 14:8
+	3 VD1689_94 Sog 14:9
+	1 VD1689_94 Sog 14:14
+	1 VD1689_94 Sog 14:15
+	1 VD1689_94 Sog 14:16
+	1 VD1689_94 Sog 14:18
+	2 VD1689_94 Sog 14:19
+	1 VD1689_94 Sog 15:5
+	1 VD1689_94 Sog 15:8
+	1 VD1689_94 Sog 15:10
+	1 VD1689_94 Sog 15:11
+	1 VD1689_94 Sog 15:14
+	2 VD1689_94 Sog 15:15
+	2 VD1689_94 Sog 15:17
+	2 VD1689_94 Sog 15:18
+	3 VD1689_94 Sog 15:19
+	1 VD1689_94 Sog 15:20
+	3 VD1689_94 Sog 16:0
+	1 VD1689_94 Sog 16:3
+	1 VD1689_94 Sog 16:4
+	1 VD1689_94 Sog 16:9
+	1 VD1689_94 Sog 16:11
+	1 VD1689_94 Sog 16:12
+	1 VD1689_94 Sog 16:13
+	1 VD1689_94 Sog 16:14
+	1 VD1689_94 Sog 16:18
+	2 VD1689_94 Sog 16:20
+	1 VD1689_94 Sog 16:25
+	3 VD1689_94 Sog 16:30
+	1 VD1689_94 Sog 16:31
+	1 VD1689_94 Sog 17:3
+	1 VD1689_94 Sog 17:4
+	1 VD1689_94 Sog 17:5
+	1 VD1689_94 Sog 17:6
+	1 VD1689_94 Sog 17:8
+	1 VD1689_94 Sog 17:9
+	1 VD1689_94 Sog 17:12
+	1 VD1689_94 Sog 18:20
+	1 VD1689_94 Sog 18:24
+	1 VD1689_94 Sog 18:26
+	1 VD1689_94 Sog 19:3
+	1 VD1689_94 Sog 19:8
+	1 VD1689_94 Sog 19:9
+	1 VD1689_94 Sog 19:10
+	1 VD1689_94 Sog 19:13
+	2 VD1689_94 Sog 19:15
+	2 VD1689_94 Sog 19:17
+	1 VD1689_94 Sog 19:21
+	2 VD1689_94 Sog 19:28
+	2 VD1689_94 Sog 19:29
+	1 VD1689_94 Sog 21:25
+	-----
+	217
+
+
+wirs
+
+	1 VD1689_94 Sog 18:10
+	-----
+	1
+
+
+wirs=gaïïeem
+
+	1 VD1689_94 Sog 9:25
+	-----
+	1
+
+
+wirs=gallu
+
+	1 VD1689_94 Sog 6:26
+	1 VD1689_94 Sog 16:3
+	-----
+	2
+
+
+wirsgallu
+
+	1 VD1689_94 Sog 9:7
+	-----
+	1
+
+
+wirúneeki
+
+	1 VD1689_94 Sog 5:15
+	1 VD1689_94 Sog 8:6
+	1 VD1689_94 Sog 10:18
+	1 VD1689_94 Sog 20:2
+	-----
+	4
+
+
+wirúneeks
+
+	1 VD1689_94 Sog 4:0
+	1 VD1689_94 Sog 4:2
+	1 VD1689_94 Sog 9:30
+	-----
+	3
+
+
+wirúneeku
+
+	1 VD1689_94 Sog 4:7
+	1 VD1689_94 Sog 11:0
+	-----
+	2
+
+
+wirúneekus
+
+	1 VD1689_94 Sog 8:14
+	-----
+	1
+
+
+wirúu
+
+	1 VD1689_94 Sog 9:9
+	1 VD1689_94 Sog 9:11
+	1 VD1689_94 Sog 9:13
+	-----
+	3
+
+
+wirúus
+
+	1 VD1689_94 Sog 13:20
+	-----
+	1
+
+
+wirwehm
+
+	1 VD1689_94 Sog 15:13
+	1 VD1689_94 Sog 16:7
+	1 VD1689_94 Sog 16:11
+	-----
+	3
+
+
+wirwes
+
+	1 VD1689_94 Sog 15:14
+	1 VD1689_94 Sog 16:8
+	1 VD1689_94 Sog 16:9
+	1 VD1689_94 Sog 16:12
+	-----
+	4
+
+
 wiús
 
 	1 VD1689_94 Sog 2:10
@@ -28378,15 +31681,6 @@ wiús
 	1 VD1689_94 Sog 20:48
 	-----
 	12
-
-
-wiúsapkahrt
-
-	1 VD1689_94 Sog 2:14
-	1 VD1689_94 Sog 7:13
-	1 VD1689_94 Sog 8:34
-	-----
-	3
 
 
 wiúúa
@@ -28432,6 +31726,15 @@ wiúúai
 	1 VD1689_94 Sog 5:27
 	1 VD1689_94 Sog 7:4
 	1 VD1689_94 Sog 20:39
+	-----
+	3
+
+
+wiúsapkahrt
+
+	1 VD1689_94 Sog 2:14
+	1 VD1689_94 Sog 7:13
+	1 VD1689_94 Sog 8:34
 	-----
 	3
 
@@ -28720,6 +32023,13 @@ zeedra=kohkus
 	1
 
 
+zeeïu
+
+	1 VD1689_94 Sog 9:25
+	-----
+	1
+
+
 zeemeem
 
 	1 VD1689_94 Sog 5:11
@@ -28775,13 +32085,6 @@ zeetuma^
 	1 VD1689_94 Sog 16:21
 	-----
 	2
-
-
-zeeïu
-
-	1 VD1689_94 Sog 9:25
-	-----
-	1
 
 
 zehlahs
@@ -28846,65 +32149,6 @@ zehluúchees
 	2
 
 
-zellees
-
-	1 VD1689_94 Sog 4:6
-	1 VD1689_94 Sog 7:9
-	1 VD1689_94 Sog 8:20
-	1 VD1689_94 Sog 8:21
-	1 VD1689_94 Sog 9:32
-	1 VD1689_94 Sog 9:33
-	-----
-	6
-
-
-zelleetees
-
-	1 VD1689_94 Sog 7:15
-	1 VD1689_94 Sog 18:9
-	1 VD1689_94 Sog 19:9
-	1 VD1689_94 Sog 20:28
-	-----
-	4
-
-
-zelles
-
-	1 VD1689_94 Sog 5:12
-	1 VD1689_94 Sog 19:28
-	-----
-	2
-
-
-zeltees
-
-	1 VD1689_94 Sog 7:11
-	1 VD1689_94 Sog 20:40
-	-----
-	2
-
-
-zeltin
-
-	1 VD1689_94 Sog 7:19
-	-----
-	1
-
-
-zettorta^
-
-	1 VD1689_94 Sog 19:5
-	-----
-	1
-
-
-zewata^
-
-	1 VD1689_94 Sog 1:17
-	-----
-	1
-
-
 zeïï
 
 	1 VD1689_94 Sog 9:0
@@ -28963,11 +32207,41 @@ zeïïeem
 	4
 
 
+zellees
+
+	1 VD1689_94 Sog 4:6
+	1 VD1689_94 Sog 7:9
+	1 VD1689_94 Sog 8:20
+	1 VD1689_94 Sog 8:21
+	1 VD1689_94 Sog 9:32
+	1 VD1689_94 Sog 9:33
+	-----
+	6
+
+
 zeïïees
 
 	1 VD1689_94 Sog 4:14
 	-----
 	1
+
+
+zelleetees
+
+	1 VD1689_94 Sog 7:15
+	1 VD1689_94 Sog 18:9
+	1 VD1689_94 Sog 19:9
+	1 VD1689_94 Sog 20:28
+	-----
+	4
+
+
+zelles
+
+	1 VD1689_94 Sog 5:12
+	1 VD1689_94 Sog 19:28
+	-----
+	2
 
 
 zeïïi
@@ -29008,11 +32282,48 @@ zeïúch
 	1
 
 
+zeltees
+
+	1 VD1689_94 Sog 7:11
+	1 VD1689_94 Sog 20:40
+	-----
+	2
+
+
+zeltin
+
+	1 VD1689_94 Sog 7:19
+	-----
+	1
+
+
+zettorta^
+
+	1 VD1689_94 Sog 19:5
+	-----
+	1
+
+
+zewata^
+
+	1 VD1689_94 Sog 1:17
+	-----
+	1
+
+
 zihdona
 
 	1 VD1689_94 Sog 1:31
 	-----
 	1
+
+
+zihdoòa
+
+	1 VD1689_94 Sog 10:6
+	1 VD1689_94 Sog 18:28
+	-----
+	2
 
 
 zihdoneºeem
@@ -29035,14 +32346,6 @@ zihdoniteºi
 	1 VD1689_94 Sog 3:3
 	-----
 	1
-
-
-zihdoòa
-
-	1 VD1689_94 Sog 10:6
-	1 VD1689_94 Sog 18:28
-	-----
-	2
 
 
 zik
@@ -29151,6 +32454,14 @@ zirwi
 	1
 
 
+zi§kas
+
+	1 VD1689_94 Sog 3:16
+	1 VD1689_94 Sog 3:21
+	-----
+	2
+
+
 zits
 
 	1 VD1689_94 Sog 2:10
@@ -29227,3310 +32538,6 @@ zittu
 zittus
 
 	1 VD1689_94 Sog 7:0
-	-----
-	1
-
-
-zi§kas
-
-	1 VD1689_94 Sog 3:16
-	1 VD1689_94 Sog 3:21
-	-----
-	2
-
-
-§aïïahm
-
-	1 VD1689_94 Sog 16:7
-	-----
-	1
-
-
-§aïïas
-
-	1 VD1689_94 Sog 16:8
-	-----
-	1
-
-
-§chehl
-
-	1 VD1689_94 Sog 2:18
-	1 VD1689_94 Sog 21:6
-	1 VD1689_94 Sog 21:15
-	-----
-	3
-
-
-§chehlojahs
-
-	1 VD1689_94 Sog 21:0
-	-----
-	1
-
-
-§chel
-
-	1 VD1689_94 Sog 10:16
-	-----
-	1
-
-
-§elta
-
-	1 VD1689_94 Sog 8:24
-	1 VD1689_94 Sog 8:26
-	-----
-	2
-
-
-§emme
-
-	1 VD1689_94 Sog 3:30
-	-----
-	1
-
-
-§emme^
-
-	1 VD1689_94 Sog 5:27
-	1 VD1689_94 Sog 6:19
-	-----
-	2
-
-
-§innaja
-
-	1 VD1689_94 Sog 3:1
-	1 VD1689_94 Sog 3:2
-	1 VD1689_94 Sog 13:16
-	1 VD1689_94 Sog 14:4
-	1 VD1689_94 Sog 16:20
-	1 VD1689_94 Sog 20:34
-	-----
-	6
-
-
-§innams
-
-	1 VD1689_94 Sog 3:4
-	1 VD1689_94 Sog 16:9
-	-----
-	2
-
-
-§innat
-
-	2 VD1689_94 Sog 18:14
-	-----
-	2
-
-
-§innatu
-
-	1 VD1689_94 Sog 3:2
-	-----
-	1
-
-
-§innaúchu
-
-	1 VD1689_94 Sog 6:37
-	-----
-	1
-
-
-§inni
-
-	1 VD1689_94 Sog 15:11
-	-----
-	1
-
-
-§innu
-
-	1 VD1689_94 Sog 17:13
-	-----
-	1
-
-
-§kaitiht
-
-	1 VD1689_94 Sog 6:5
-	1 VD1689_94 Sog 7:12
-	-----
-	2
-
-
-§kaititi
-
-	2 VD1689_94 Sog 20:15
-	1 VD1689_94 Sog 20:17
-	1 VD1689_94 Sog 21:9
-	-----
-	4
-
-
-§kai§taka
-
-	1 VD1689_94 Sog 15:2
-	-----
-	1
-
-
-§kattajtees
-
-	1 VD1689_94 Sog 21:21
-	-----
-	1
-
-
-§kattijahs
-
-	1 VD1689_94 Sog 5:28
-	1 VD1689_94 Sog 9:43
-	1 VD1689_94 Sog 13:19
-	1 VD1689_94 Sog 20:40
-	-----
-	4
-
-
-§kummigs
-
-	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-§paidija
-
-	1 VD1689_94 Sog 2:18
-	1 VD1689_94 Sog 9:27
-	1 VD1689_94 Sog 10:12
-	-----
-	3
-
-
-§paidijs
-
-	1 VD1689_94 Sog 4:3
-	-----
-	1
-
-
-§paiditi
-
-	1 VD1689_94 Sog 2:15
-	-----
-	1
-
-
-§peede
-
-	1 VD1689_94 Sog 1:35
-	1 VD1689_94 Sog 6:9
-	1 VD1689_94 Sog 10:8
-	1 VD1689_94 Sog 14:17
-	-----
-	4
-
-
-§pee§ch
-
-	1 VD1689_94 Sog 1:0
-	-----
-	1
-
-
-§pee§t
-
-	1 VD1689_94 Sog 16:19
-	-----
-	1
-
-
-§pehjam
-
-	1 VD1689_94 Sog 16:5
-	-----
-	1
-
-
-§tahw
-
-	1 VD1689_94 Sog 16:5
-	1 VD1689_94 Sog 16:6
-	1 VD1689_94 Sog 16:15
-	-----
-	3
-
-
-§tahweht
-
-	1 VD1689_94 Sog 16:25
-	-----
-	1
-
-
-§tahweja
-
-	1 VD1689_94 Sog 3:19
-	1 VD1689_94 Sog 6:31
-	1 VD1689_94 Sog 7:21
-	1 VD1689_94 Sog 9:7
-	1 VD1689_94 Sog 9:35
-	1 VD1689_94 Sog 9:44
-	1 VD1689_94 Sog 18:16
-	1 VD1689_94 Sog 18:17
-	1 VD1689_94 Sog 20:28
-	-----
-	9
-
-
-§tah§ta
-
-	1 VD1689_94 Sog 13:0
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:15
-	1 VD1689_94 Sog 16:0
-	-----
-	4
-
-
-§tah§ti
-
-	1 VD1689_94 Sog 16:10
-	1 VD1689_94 Sog 16:13
-	-----
-	2
-
-
-§tah§tija
-
-	1 VD1689_94 Sog 14:2
-	2 VD1689_94 Sog 14:17
-	1 VD1689_94 Sog 16:17
-	-----
-	4
-
-
-§tah§tijs
-
-	3 VD1689_94 Sog 14:16
-	1 VD1689_94 Sog 16:15
-	2 VD1689_94 Sog 16:18
-	-----
-	6
-
-
-§tah§tiúeet
-
-	1 VD1689_94 Sog 14:12
-	-----
-	1
-
-
-§taiga
-
-	1 VD1689_94 Sog 4:9
-	-----
-	1
-
-
-§taigadami
-
-	1 VD1689_94 Sog 2:22
-	-----
-	1
-
-
-§taigadams
-
-	1 VD1689_94 Sog 17:8
-	-----
-	1
-
-
-§taigaht
-
-	1 VD1689_94 Sog 19:27
-	-----
-	1
-
-
-§taigaja
-
-	1 VD1689_94 Sog 9:4
-	1 VD1689_94 Sog 11:18
-	1 VD1689_94 Sog 19:14
-	-----
-	3
-
-
-§taigajat
-
-	1 VD1689_94 Sog 5:10
-	-----
-	1
-
-
-§tarp
-
-	1 VD1689_94 Sog 1:16
-	1 VD1689_94 Sog 1:29
-	1 VD1689_94 Sog 1:30
-	1 VD1689_94 Sog 1:32
-	1 VD1689_94 Sog 1:33
-	1 VD1689_94 Sog 3:5
-	2 VD1689_94 Sog 4:5
-	2 VD1689_94 Sog 4:17
-	1 VD1689_94 Sog 5:8
-	1 VD1689_94 Sog 5:9
-	1 VD1689_94 Sog 5:11
-	1 VD1689_94 Sog 5:14
-	1 VD1689_94 Sog 5:16
-	2 VD1689_94 Sog 5:24
-	1 VD1689_94 Sog 5:27
-	1 VD1689_94 Sog 7:16
-	2 VD1689_94 Sog 9:23
-	2 VD1689_94 Sog 11:27
-	1 VD1689_94 Sog 11:35
-	1 VD1689_94 Sog 12:4
-	1 VD1689_94 Sog 13:25
-	2 VD1689_94 Sog 14:3
-	1 VD1689_94 Sog 15:4
-	1 VD1689_94 Sog 16:25
-	1 VD1689_94 Sog 16:31
-	1 VD1689_94 Sog 17:7
-	1 VD1689_94 Sog 18:1
-	1 VD1689_94 Sog 18:19
-	1 VD1689_94 Sog 18:30
-	1 VD1689_94 Sog 20:42
-	1 VD1689_94 Sog 21:12
-	-----
-	37
-
-
-§teid§ahs
-
-	1 VD1689_94 Sog 4:24
-	1 VD1689_94 Sog 7:3
-	-----
-	2
-
-
-§teid§eetees
-
-	1 VD1689_94 Sog 9:48
-	-----
-	1
-
-
-§teid§ehs
-
-	1 VD1689_94 Sog 19:5
-	1 VD1689_94 Sog 19:8
-	1 VD1689_94 Sog 20:37
-	-----
-	3
-
-
-§teid§in
-
-	1 VD1689_94 Sog 7:3
-	-----
-	1
-
-
-§tipra
-
-	1 VD1689_94 Sog 3:10
-	1 VD1689_94 Sog 9:49
-	-----
-	2
-
-
-§tiprakeem
-
-	1 VD1689_94 Sog 21:10
-	-----
-	1
-
-
-§tipraks
-
-	1 VD1689_94 Sog 14:18
-	-----
-	1
-
-
-§tipras
-
-	1 VD1689_94 Sog 6:2
-	-----
-	1
-
-
-§tipri
-
-	1 VD1689_94 Sog 8:1
-	1 VD1689_94 Sog 10:0
-	1 VD1689_94 Sog 18:2
-	1 VD1689_94 Sog 18:26
-	1 VD1689_94 Sog 20:44
-	1 VD1689_94 Sog 20:46
-	-----
-	6
-
-
-§tiprinahts
-
-	1 VD1689_94 Sog 16:26
-	1 VD1689_94 Sog 16:29
-	-----
-	2
-
-
-§tiprinaja
-
-	1 VD1689_94 Sog 3:12
-	-----
-	1
-
-
-§tiprinajahs
-
-	1 VD1689_94 Sog 1:28
-	1 VD1689_94 Sog 4:24
-	1 VD1689_94 Sog 6:2
-	-----
-	3
-
-
-§tiprinajúchi
-
-	1 VD1689_94 Sog 9:24
-	-----
-	1
-
-
-§tiprinaúees
-
-	1 VD1689_94 Sog 7:11
-	-----
-	1
-
-
-§tiprini
-
-	1 VD1689_94 Sog 16:28
-	-----
-	1
-
-
-§tiprs
-
-	1 VD1689_94 Sog 6:12
-	1 VD1689_94 Sog 9:51
-	1 VD1689_94 Sog 11:1
-	-----
-	3
-
-
-§tipru
-
-	1 VD1689_94 Sog 9:46
-	1 VD1689_94 Sog 9:49
-	1 VD1689_94 Sog 13:4
-	1 VD1689_94 Sog 13:7
-	1 VD1689_94 Sog 13:13
-	-----
-	5
-
-
-§tiprus
-
-	1 VD1689_94 Sog 3:29
-	-----
-	1
-
-
-§udduúchi
-
-	1 VD1689_94 Sog 5:6
-	-----
-	1
-
-
-§uhd
-
-	1 VD1689_94 Sog 16:0
-	-----
-	1
-
-
-§wehrejs
-
-	1 VD1689_94 Sog 2:1
-	1 VD1689_94 Sog 2:15
-	-----
-	2
-
-
-§wehrejúchi
-
-	1 VD1689_94 Sog 21:1
-	1 VD1689_94 Sog 21:7
-	-----
-	2
-
-
-ìihmis
-
-	2 VD1689_94 Sog 13:6
-	-----
-	2
-
-
-íedes
-
-	1 VD1689_94 Sog 4:6
-	-----
-	1
-
-
-íedeúa
-
-	1 VD1689_94 Sog 4:11
-	-----
-	1
-
-
-íedeúa^
-
-	1 VD1689_94 Sog 4:10
-	-----
-	1
-
-
-íedeúu
-
-	1 VD1689_94 Sog 4:9
-	-----
-	1
-
-
-íedumim
-
-	1 VD1689_94 Sog 5:21
-	-----
-	1
-
-
-íehniòa
-
-	1 VD1689_94 Sog 3:8
-	1 VD1689_94 Sog 4:0
-	1 VD1689_94 Sog 4:2
-	1 VD1689_94 Sog 8:18
-	1 VD1689_94 Sog 11:12
-	-----
-	5
-
-
-íehniòam
-
-	1 VD1689_94 Sog 3:14
-	1 VD1689_94 Sog 3:15
-	1 VD1689_94 Sog 3:17
-	-----
-	3
-
-
-íehniòeem
-
-	1 VD1689_94 Sog 8:5
-	1 VD1689_94 Sog 8:26
-	-----
-	2
-
-
-íehniòi
-
-	1 VD1689_94 Sog 1:7
-	1 VD1689_94 Sog 5:3
-	2 VD1689_94 Sog 5:19
-	-----
-	4
-
-
-íehniòu
-
-	1 VD1689_94 Sog 3:10
-	1 VD1689_94 Sog 3:12
-	1 VD1689_94 Sog 4:17
-	1 VD1689_94 Sog 4:23
-	2 VD1689_94 Sog 4:24
-	1 VD1689_94 Sog 9:0
-	1 VD1689_94 Sog 9:6
-	1 VD1689_94 Sog 9:8
-	1 VD1689_94 Sog 9:15
-	1 VD1689_94 Sog 9:16
-	1 VD1689_94 Sog 9:18
-	1 VD1689_94 Sog 11:14
-	2 VD1689_94 Sog 11:17
-	2 VD1689_94 Sog 11:19
-	-----
-	17
-
-
-íehniòus
-
-	1 VD1689_94 Sog 8:12
-	-----
-	1
-
-
-íehniò§ch
-
-	1 VD1689_94 Sog 3:19
-	1 VD1689_94 Sog 9:8
-	1 VD1689_94 Sog 9:10
-	1 VD1689_94 Sog 9:12
-	1 VD1689_94 Sog 9:14
-	1 VD1689_94 Sog 11:13
-	1 VD1689_94 Sog 11:17
-	1 VD1689_94 Sog 11:25
-	1 VD1689_94 Sog 11:28
-	1 VD1689_94 Sog 17:6
-	1 VD1689_94 Sog 18:1
-	1 VD1689_94 Sog 19:1
-	1 VD1689_94 Sog 21:25
-	-----
-	13
-
-
-íenaúa
-
-	1 VD1689_94 Sog 1:13
-	1 VD1689_94 Sog 3:9
-	1 VD1689_94 Sog 3:11
-	-----
-	3
-
-
-íeniteris
-
-	1 VD1689_94 Sog 4:11
-	-----
-	1
-
-
-íeniteºa
-
-	1 VD1689_94 Sog 1:16
-	2 VD1689_94 Sog 4:17
-	1 VD1689_94 Sog 5:24
-	-----
-	4
-
-
-íiriat
-
-	1 VD1689_94 Sog 1:10
-	2 VD1689_94 Sog 18:12
-	-----
-	3
-
-
-íiriat=sewer
-
-	1 VD1689_94 Sog 1:11
-	-----
-	1
-
-
-íiriat=seweru
-
-	1 VD1689_94 Sog 1:12
-	-----
-	1
-
-
-íitrona
-
-	1 VD1689_94 Sog 1:30
-	-----
-	1
-
-
-íi§ona
-
-	1 VD1689_94 Sog 4:7
-	1 VD1689_94 Sog 4:13
-	1 VD1689_94 Sog 5:21
-	-----
-	3
-
-
-íi§ons
-
-	1 VD1689_94 Sog 5:21
-	-----
-	1
-
-
-ïaudim
-
-	1 VD1689_94 Sog 1:16
-	1 VD1689_94 Sog 5:9
-	1 VD1689_94 Sog 5:14
-	1 VD1689_94 Sog 7:3
-	1 VD1689_94 Sog 8:5
-	1 VD1689_94 Sog 9:48
-	1 VD1689_94 Sog 12:2
-	1 VD1689_94 Sog 14:3
-	1 VD1689_94 Sog 16:30
-	1 VD1689_94 Sog 18:10
-	1 VD1689_94 Sog 18:27
-	1 VD1689_94 Sog 18:28
-	1 VD1689_94 Sog 20:10
-	1 VD1689_94 Sog 20:16
-	1 VD1689_94 Sog 20:31
-	1 VD1689_94 Sog 21:15
-	-----
-	16
-
-
-ïaudis
-
-	2 VD1689_94 Sog 2:0
-	1 VD1689_94 Sog 2:4
-	1 VD1689_94 Sog 2:6
-	1 VD1689_94 Sog 2:7
-	1 VD1689_94 Sog 3:18
-	1 VD1689_94 Sog 4:0
-	1 VD1689_94 Sog 4:13
-	1 VD1689_94 Sog 5:2
-	1 VD1689_94 Sog 5:6
-	1 VD1689_94 Sog 5:11
-	1 VD1689_94 Sog 5:13
-	1 VD1689_94 Sog 5:18
-	1 VD1689_94 Sog 7:0
-	1 VD1689_94 Sog 7:1
-	1 VD1689_94 Sog 7:5
-	1 VD1689_94 Sog 7:6
-	1 VD1689_94 Sog 7:7
-	1 VD1689_94 Sog 7:8
-	1 VD1689_94 Sog 8:17
-	1 VD1689_94 Sog 9:29
-	1 VD1689_94 Sog 9:32
-	1 VD1689_94 Sog 9:33
-	1 VD1689_94 Sog 9:34
-	1 VD1689_94 Sog 9:35
-	2 VD1689_94 Sog 9:36
-	1 VD1689_94 Sog 9:37
-	1 VD1689_94 Sog 9:38
-	1 VD1689_94 Sog 9:42
-	2 VD1689_94 Sog 9:43
-	1 VD1689_94 Sog 9:45
-	1 VD1689_94 Sog 9:48
-	2 VD1689_94 Sog 9:49
-	1 VD1689_94 Sog 10:0
-	1 VD1689_94 Sog 10:18
-	1 VD1689_94 Sog 11:11
-	1 VD1689_94 Sog 11:20
-	1 VD1689_94 Sog 11:21
-	1 VD1689_94 Sog 16:24
-	1 VD1689_94 Sog 18:7
-	1 VD1689_94 Sog 18:23
-	1 VD1689_94 Sog 18:30
-	1 VD1689_94 Sog 19:16
-	1 VD1689_94 Sog 19:22
-	1 VD1689_94 Sog 20:8
-	1 VD1689_94 Sog 20:22
-	1 VD1689_94 Sog 20:26
-	1 VD1689_94 Sog 20:31
-	1 VD1689_94 Sog 21:2
-	1 VD1689_94 Sog 21:4
-	1 VD1689_94 Sog 21:9
-	-----
-	54
-
-
-ïauna
-
-	1 VD1689_94 Sog 20:3
-	-----
-	1
-
-
-ïauni
-
-	1 VD1689_94 Sog 18:25
-	-----
-	1
-
-
-ïaunu
-
-	1 VD1689_94 Sog 2:15
-	1 VD1689_94 Sog 9:23
-	1 VD1689_94 Sog 9:56
-	1 VD1689_94 Sog 9:57
-	1 VD1689_94 Sog 11:27
-	1 VD1689_94 Sog 15:3
-	1 VD1689_94 Sog 19:23
-	1 VD1689_94 Sog 20:12
-	-----
-	8
-
-
-ïaunums
-
-	1 VD1689_94 Sog 20:34
-	-----
-	1
-
-
-ïaunumu
-
-	1 VD1689_94 Sog 20:13
-	1 VD1689_94 Sog 20:41
-	-----
-	2
-
-
-ïau§chu
-
-	1 VD1689_94 Sog 2:12
-	1 VD1689_94 Sog 7:2
-	1 VD1689_94 Sog 7:3
-	1 VD1689_94 Sog 7:4
-	1 VD1689_94 Sog 11:0
-	1 VD1689_94 Sog 11:23
-	1 VD1689_94 Sog 14:16
-	1 VD1689_94 Sog 14:17
-	1 VD1689_94 Sog 18:20
-	2 VD1689_94 Sog 20:2
-	-----
-	11
-
-
-ïohti
-
-	1 VD1689_94 Sog 3:17
-	1 VD1689_94 Sog 6:6
-	1 VD1689_94 Sog 10:9
-	1 VD1689_94 Sog 13:6
-	1 VD1689_94 Sog 15:18
-	1 VD1689_94 Sog 18:9
-	1 VD1689_94 Sog 19:7
-	1 VD1689_94 Sog 21:5
-	-----
-	8
-
-
-òehme
-
-	1 VD1689_94 Sog 3:6
-	1 VD1689_94 Sog 3:21
-	1 VD1689_94 Sog 3:25
-	2 VD1689_94 Sog 4:21
-	1 VD1689_94 Sog 6:27
-	1 VD1689_94 Sog 7:8
-	1 VD1689_94 Sog 8:16
-	1 VD1689_94 Sog 8:21
-	1 VD1689_94 Sog 9:43
-	1 VD1689_94 Sog 9:48
-	1 VD1689_94 Sog 13:19
-	1 VD1689_94 Sog 14:9
-	1 VD1689_94 Sog 14:19
-	1 VD1689_94 Sog 15:4
-	1 VD1689_94 Sog 15:15
-	1 VD1689_94 Sog 16:12
-	1 VD1689_94 Sog 17:4
-	1 VD1689_94 Sog 18:17
-	1 VD1689_94 Sog 18:18
-	1 VD1689_94 Sog 18:20
-	1 VD1689_94 Sog 18:27
-	1 VD1689_94 Sog 19:1
-	1 VD1689_94 Sog 19:28
-	1 VD1689_94 Sog 19:29
-	1 VD1689_94 Sog 21:23
-	-----
-	26
-
-
-òehmis
-
-	1 VD1689_94 Sog 11:13
-	1 VD1689_94 Sog 11:15
-	1 VD1689_94 Sog 14:9
-	1 VD1689_94 Sog 15:6
-	1 VD1689_94 Sog 17:2
-	-----
-	5
-
-
-òehmu
-
-	1 VD1689_94 Sog 20:6
-	-----
-	1
-
-
-òehmuúchi
-
-	1 VD1689_94 Sog 21:22
-	-----
-	1
-
-
-òem
-
-	1 VD1689_94 Sog 4:6
-	1 VD1689_94 Sog 6:20
-	1 VD1689_94 Sog 6:25
-	1 VD1689_94 Sog 6:26
-	1 VD1689_94 Sog 14:3
-	-----
-	5
-
-
-òemdami
-
-	1 VD1689_94 Sog 20:10
-	-----
-	1
-
-
-òemmahs
-
-	1 VD1689_94 Sog 1:0
-	-----
-	1
-
-
-òemmeet
-
-	1 VD1689_94 Sog 5:3
-	1 VD1689_94 Sog 14:2
-	1 VD1689_94 Sog 19:30
-	-----
-	3
-
-
-òemt
-
-	1 VD1689_94 Sog 14:3
-	1 VD1689_94 Sog 14:8
-	-----
-	2
-
-
-òemúim
-
-	1 VD1689_94 Sog 20:10
-	-----
-	1
-
-
-úabeedrinajahs
-
-	1 VD1689_94 Sog 20:11
-	-----
-	1
-
-
-úabija
-
-	1 VD1689_94 Sog 19:2
-	-----
-	1
-
-
-úadau§ija
-
-	1 VD1689_94 Sog 5:26
-	1 VD1689_94 Sog 7:19
-	1 VD1689_94 Sog 7:20
-	-----
-	3
-
-
-úaded§inaht
-
-	1 VD1689_94 Sog 9:51
-	-----
-	1
-
-
-úaded§inaja
-
-	1 VD1689_94 Sog 9:49
-	1 VD1689_94 Sog 15:6
-	1 VD1689_94 Sog 18:27
-	-----
-	3
-
-
-úaded§inajam
-
-	1 VD1689_94 Sog 14:15
-	-----
-	1
-
-
-úaded§inaúim
-
-	1 VD1689_94 Sog 12:1
-	-----
-	1
-
-
-úaderrehts
-
-	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-úaderreja
-
-	1 VD1689_94 Sog 9:4
-	1 VD1689_94 Sog 17:11
-	-----
-	2
-
-
-úaderrejs
-
-	1 VD1689_94 Sog 18:4
-	-----
-	1
-
-
-úaduhre
-
-	1 VD1689_94 Sog 5:26
-	-----
-	1
-
-
-úagrahbe
-
-	1 VD1689_94 Sog 12:6
-	1 VD1689_94 Sog 16:3
-	1 VD1689_94 Sog 16:21
-	1 VD1689_94 Sog 19:25
-	1 VD1689_94 Sog 19:29
-	-----
-	5
-
-
-úagrahbeet
-
-	1 VD1689_94 Sog 21:21
-	-----
-	1
-
-
-úaguh§ti
-
-	1 VD1689_94 Sog 5:12
-	-----
-	1
-
-
-úaguh§tija
-
-	1 VD1689_94 Sog 1:6
-	1 VD1689_94 Sog 8:12
-	1 VD1689_94 Sog 8:14
-	-----
-	3
-
-
-úahks
-
-	1 VD1689_94 Sog 10:18
-	1 VD1689_94 Sog 13:5
-	-----
-	2
-
-
-úahnis
-
-	1 VD1689_94 Sog 19:1
-	1 VD1689_94 Sog 19:18
-	-----
-	2
-
-
-úahnu=úeewa
-
-	1 VD1689_94 Sog 8:31
-	-----
-	1
-
-
-úahze
-
-	1 VD1689_94 Sog 1:27
-	1 VD1689_94 Sog 1:35
-	1 VD1689_94 Sog 7:21
-	1 VD1689_94 Sog 13:25
-	1 VD1689_94 Sog 16:4
-	1 VD1689_94 Sog 16:19
-	1 VD1689_94 Sog 16:22
-	1 VD1689_94 Sog 20:31
-	1 VD1689_94 Sog 20:40
-	-----
-	9
-
-
-úaimi
-
-	1 VD1689_94 Sog 1:25
-	-----
-	1
-
-
-úaimneeks
-
-	1 VD1689_94 Sog 19:23
-	-----
-	1
-
-
-úaimneeku
-
-	1 VD1689_94 Sog 19:22
-	-----
-	1
-
-
-úaites
-
-	1 VD1689_94 Sog 15:14
-	-----
-	1
-
-
-úai§tiht
-
-	1 VD1689_94 Sog 15:10
-	1 VD1689_94 Sog 15:12
-	1 VD1689_94 Sog 15:13
-	1 VD1689_94 Sog 16:5
-	1 VD1689_94 Sog 16:6
-	1 VD1689_94 Sog 16:10
-	1 VD1689_94 Sog 16:13
-	-----
-	7
-
-
-úai§tija
-
-	1 VD1689_94 Sog 15:13
-	1 VD1689_94 Sog 16:8
-	1 VD1689_94 Sog 16:12
-	-----
-	3
-
-
-úai§titu
-
-	1 VD1689_94 Sog 16:7
-	1 VD1689_94 Sog 16:11
-	-----
-	2
-
-
-úakaltuúchas
-
-	1 VD1689_94 Sog 16:7
-	1 VD1689_94 Sog 16:8
-	-----
-	2
-
-
-úakappaja
-
-	1 VD1689_94 Sog 19:29
-	-----
-	1
-
-
-úakappata
-
-	1 VD1689_94 Sog 19:0
-	-----
-	1
-
-
-úakka
-
-	1 VD1689_94 Sog 5:23
-	1 VD1689_94 Sog 6:8
-	1 VD1689_94 Sog 7:2
-	1 VD1689_94 Sog 11:15
-	-----
-	4
-
-
-úakkajt
-
-	1 VD1689_94 Sog 20:3
-	-----
-	1
-
-
-úakkat
-
-	1 VD1689_94 Sog 18:8
-	1 VD1689_94 Sog 18:24
-	-----
-	2
-
-
-úakki
-
-	1 VD1689_94 Sog 4:20
-	1 VD1689_94 Sog 7:3
-	1 VD1689_94 Sog 12:6
-	-----
-	3
-
-
-úakku
-
-	1 VD1689_94 Sog 20:37
-	-----
-	1
-
-
-úakne
-
-	1 VD1689_94 Sog 5:14
-	-----
-	1
-
-
-úalau§a
-
-	1 VD1689_94 Sog 6:0
-	-----
-	1
-
-
-úalau§i
-
-	1 VD1689_94 Sog 6:25
-	-----
-	1
-
-
-úalau§ihts
-
-	1 VD1689_94 Sog 6:28
-	-----
-	1
-
-
-úalaúúija
-
-	1 VD1689_94 Sog 1:7
-	-----
-	1
-
-
-úaldaks
-
-	1 VD1689_94 Sog 14:18
-	-----
-	1
-
-
-úaldums
-
-	1 VD1689_94 Sog 14:14
-	-----
-	1
-
-
-úaldumu
-
-	1 VD1689_94 Sog 9:11
-	-----
-	1
-
-
-úalmu
-
-	1 VD1689_94 Sog 19:19
-	-----
-	1
-
-
-úamaitajahs
-
-	1 VD1689_94 Sog 2:19
-	-----
-	1
-
-
-úaminne
-
-	1 VD1689_94 Sog 10:8
-	1 VD1689_94 Sog 20:43
-	-----
-	2
-
-
-úamin~uúi
-
-	1 VD1689_94 Sog 5:21
-	-----
-	1
-
-
-úaplohúa
-
-	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-úaplohúihts
-
-	1 VD1689_94 Sog 14:6
-	-----
-	1
-
-
-úaplohúija
-
-	1 VD1689_94 Sog 11:35
-	1 VD1689_94 Sog 14:6
-	-----
-	2
-
-
-úapna
-
-	1 VD1689_94 Sog 7:0
-	1 VD1689_94 Sog 7:15
-	-----
-	2
-
-
-úapni
-
-	2 VD1689_94 Sog 7:13
-	-----
-	2
-
-
-úapulejahs
-
-	1 VD1689_94 Sog 20:14
-	-----
-	1
-
-
-úapulzeja
-
-	1 VD1689_94 Sog 3:13
-	1 VD1689_94 Sog 11:20
-	1 VD1689_94 Sog 12:4
-	-----
-	3
-
-
-úapulzejahs
-
-	1 VD1689_94 Sog 6:33
-	1 VD1689_94 Sog 7:24
-	1 VD1689_94 Sog 9:6
-	1 VD1689_94 Sog 10:17
-	1 VD1689_94 Sog 11:3
-	1 VD1689_94 Sog 16:23
-	1 VD1689_94 Sog 20:0
-	1 VD1689_94 Sog 20:1
-	1 VD1689_94 Sog 20:11
-	-----
-	9
-
-
-úapulzejúchees
-
-	1 VD1689_94 Sog 9:47
-	-----
-	1
-
-
-úapulzeti
-
-	1 VD1689_94 Sog 7:23
-	-----
-	1
-
-
-úarau§tihts
-
-	1 VD1689_94 Sog 16:9
-	-----
-	1
-
-
-úarau§tija
-
-	1 VD1689_94 Sog 16:9
-	1 VD1689_94 Sog 16:12
-	-----
-	2
-
-
-úargahs
-
-	1 VD1689_94 Sog 2:22
-	-----
-	1
-
-
-úargahts
-
-	1 VD1689_94 Sog 16:0
-	-----
-	1
-
-
-úargajs
-
-	1 VD1689_94 Sog 13:4
-	-----
-	1
-
-
-úargajúchees
-
-	1 VD1689_94 Sog 2:22
-	-----
-	1
-
-
-úargatees
-
-	1 VD1689_94 Sog 13:13
-	-----
-	1
-
-
-úargi
-
-	1 VD1689_94 Sog 1:24
-	1 VD1689_94 Sog 7:19
-	-----
-	2
-
-
-úarunnajeetees
-
-	1 VD1689_94 Sog 20:7
-	-----
-	1
-
-
-úataiúam
-
-	1 VD1689_94 Sog 13:15
-	-----
-	1
-
-
-úataiúija
-
-	1 VD1689_94 Sog 6:19
-	-----
-	1
-
-
-úataiúijahs
-
-	1 VD1689_94 Sog 20:33
-	-----
-	1
-
-
-úatreeze
-
-	1 VD1689_94 Sog 9:53
-	1 VD1689_94 Sog 10:8
-	-----
-	2
-
-
-úaule
-
-	1 VD1689_94 Sog 5:31
-	1 VD1689_94 Sog 8:13
-	1 VD1689_94 Sog 9:33
-	1 VD1689_94 Sog 14:18
-	1 VD1689_94 Sog 19:14
-	-----
-	5
-
-
-úaules
-
-	1 VD1689_94 Sog 20:43
-	-----
-	1
-
-
-úauze
-
-	1 VD1689_94 Sog 18:22
-	-----
-	1
-
-
-úauús
-
-	1 VD1689_94 Sog 6:37
-	1 VD1689_94 Sog 6:39
-	-----
-	2
-
-
-úauúums
-
-	1 VD1689_94 Sog 6:40
-	-----
-	1
-
-
-úawa
-
-	1 VD1689_94 Sog 6:27
-	1 VD1689_94 Sog 8:25
-	1 VD1689_94 Sog 8:32
-	1 VD1689_94 Sog 9:5
-	1 VD1689_94 Sog 9:27
-	1 VD1689_94 Sog 9:56
-	1 VD1689_94 Sog 11:34
-	1 VD1689_94 Sog 11:39
-	1 VD1689_94 Sog 13:6
-	1 VD1689_94 Sog 14:9
-	1 VD1689_94 Sog 14:19
-	1 VD1689_94 Sog 16:14
-	1 VD1689_94 Sog 16:20
-	1 VD1689_94 Sog 16:31
-	1 VD1689_94 Sog 17:0
-	1 VD1689_94 Sog 19:2
-	1 VD1689_94 Sog 19:3
-	1 VD1689_94 Sog 19:16
-	1 VD1689_94 Sog 21:23
-	-----
-	19
-
-
-úawa^
-
-	1 VD1689_94 Sog 4:21
-	1 VD1689_94 Sog 5:31
-	1 VD1689_94 Sog 7:0
-	1 VD1689_94 Sog 7:8
-	1 VD1689_94 Sog 7:20
-	1 VD1689_94 Sog 7:21
-	1 VD1689_94 Sog 8:29
-	1 VD1689_94 Sog 9:48
-	1 VD1689_94 Sog 12:3
-	1 VD1689_94 Sog 16:18
-	1 VD1689_94 Sog 16:19
-	1 VD1689_94 Sog 18:0
-	1 VD1689_94 Sog 19:15
-	1 VD1689_94 Sog 19:18
-	1 VD1689_94 Sog 19:21
-	-----
-	15
-
-
-úawa^s
-
-	1 VD1689_94 Sog 14:9
-	-----
-	1
-
-
-úawadas
-
-	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-úawahm
-
-	1 VD1689_94 Sog 3:16
-	1 VD1689_94 Sog 5:17
-	1 VD1689_94 Sog 5:20
-	1 VD1689_94 Sog 5:29
-	1 VD1689_94 Sog 11:23
-	1 VD1689_94 Sog 11:37
-	1 VD1689_94 Sog 11:38
-	1 VD1689_94 Sog 16:12
-	1 VD1689_94 Sog 16:16
-	1 VD1689_94 Sog 21:0
-	-----
-	10
-
-
-úawai
-
-	1 VD1689_94 Sog 13:11
-	1 VD1689_94 Sog 14:2
-	1 VD1689_94 Sog 14:6
-	1 VD1689_94 Sog 17:3
-	1 VD1689_94 Sog 17:4
-	-----
-	5
-
-
-úawam
-
-	1 VD1689_94 Sog 7:13
-	1 VD1689_94 Sog 13:10
-	1 VD1689_94 Sog 14:2
-	1 VD1689_94 Sog 14:6
-	1 VD1689_94 Sog 16:23
-	-----
-	5
-
-
-úawas
-
-	1 VD1689_94 Sog 3:6
-	1 VD1689_94 Sog 3:16
-	1 VD1689_94 Sog 3:21
-	1 VD1689_94 Sog 3:24
-	2 VD1689_94 Sog 7:6
-	1 VD1689_94 Sog 7:8
-	2 VD1689_94 Sog 9:1
-	1 VD1689_94 Sog 11:35
-	1 VD1689_94 Sog 11:39
-	1 VD1689_94 Sog 13:7
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:9
-	1 VD1689_94 Sog 15:0
-	1 VD1689_94 Sog 15:1
-	1 VD1689_94 Sog 15:17
-	1 VD1689_94 Sog 18:2
-	1 VD1689_94 Sog 18:21
-	1 VD1689_94 Sog 19:17
-	1 VD1689_94 Sog 19:21
-	1 VD1689_94 Sog 20:33
-	1 VD1689_94 Sog 21:0
-	1 VD1689_94 Sog 21:2
-	1 VD1689_94 Sog 21:24
-	-----
-	25
-
-
-úaweem
-
-	1 VD1689_94 Sog 2:10
-	1 VD1689_94 Sog 2:14
-	1 VD1689_94 Sog 2:17
-	1 VD1689_94 Sog 2:19
-	1 VD1689_94 Sog 4:15
-	1 VD1689_94 Sog 5:15
-	3 VD1689_94 Sog 6:5
-	1 VD1689_94 Sog 6:27
-	1 VD1689_94 Sog 9:26
-	1 VD1689_94 Sog 11:3
-	1 VD1689_94 Sog 11:36
-	1 VD1689_94 Sog 12:9
-	1 VD1689_94 Sog 13:20
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 16:3
-	1 VD1689_94 Sog 17:0
-	1 VD1689_94 Sog 17:5
-	1 VD1689_94 Sog 18:2
-	1 VD1689_94 Sog 18:8
-	1 VD1689_94 Sog 18:14
-	1 VD1689_94 Sog 21:24
-	-----
-	23
-
-
-úawo
-
-	1 VD1689_94 Sog 2:12
-	-----
-	1
-
-
-úawu
-
-	1 VD1689_94 Sog 1:3
-	1 VD1689_94 Sog 1:12
-	1 VD1689_94 Sog 1:13
-	1 VD1689_94 Sog 1:17
-	1 VD1689_94 Sog 2:4
-	1 VD1689_94 Sog 2:6
-	1 VD1689_94 Sog 2:19
-	1 VD1689_94 Sog 3:7
-	1 VD1689_94 Sog 3:21
-	1 VD1689_94 Sog 4:11
-	2 VD1689_94 Sog 5:26
-	1 VD1689_94 Sog 7:5
-	1 VD1689_94 Sog 7:7
-	1 VD1689_94 Sog 7:8
-	1 VD1689_94 Sog 7:11
-	2 VD1689_94 Sog 8:20
-	1 VD1689_94 Sog 8:27
-	1 VD1689_94 Sog 8:28
-	1 VD1689_94 Sog 8:34
-	1 VD1689_94 Sog 9:7
-	1 VD1689_94 Sog 9:9
-	1 VD1689_94 Sog 9:11
-	1 VD1689_94 Sog 9:17
-	1 VD1689_94 Sog 9:21
-	1 VD1689_94 Sog 9:24
-	1 VD1689_94 Sog 9:48
-	1 VD1689_94 Sog 9:55
-	2 VD1689_94 Sog 11:0
-	1 VD1689_94 Sog 11:23
-	1 VD1689_94 Sog 11:35
-	2 VD1689_94 Sog 11:37
-	1 VD1689_94 Sog 11:38
-	1 VD1689_94 Sog 12:3
-	1 VD1689_94 Sog 13:6
-	1 VD1689_94 Sog 13:22
-	1 VD1689_94 Sog 14:3
-	2 VD1689_94 Sog 14:5
-	1 VD1689_94 Sog 14:17
-	1 VD1689_94 Sog 15:1
-	1 VD1689_94 Sog 15:15
-	1 VD1689_94 Sog 16:17
-	2 VD1689_94 Sog 16:18
-	1 VD1689_94 Sog 16:24
-	2 VD1689_94 Sog 16:29
-	1 VD1689_94 Sog 17:2
-	1 VD1689_94 Sog 17:3
-	1 VD1689_94 Sog 17:8
-	2 VD1689_94 Sog 18:26
-	1 VD1689_94 Sog 19:0
-	1 VD1689_94 Sog 19:5
-	1 VD1689_94 Sog 19:9
-	1 VD1689_94 Sog 19:11
-	1 VD1689_94 Sog 19:13
-	1 VD1689_94 Sog 19:22
-	1 VD1689_94 Sog 19:25
-	1 VD1689_94 Sog 19:27
-	2 VD1689_94 Sog 19:28
-	2 VD1689_94 Sog 19:29
-	1 VD1689_94 Sog 20:4
-	1 VD1689_94 Sog 20:8
-	1 VD1689_94 Sog 20:13
-	1 VD1689_94 Sog 21:1
-	1 VD1689_94 Sog 21:21
-	1 VD1689_94 Sog 21:22
-	1 VD1689_94 Sog 21:23
-	1 VD1689_94 Sog 21:24
-	-----
-	76
-
-
-úawus
-
-	1 VD1689_94 Sog 4:13
-	1 VD1689_94 Sog 9:5
-	1 VD1689_94 Sog 9:27
-	1 VD1689_94 Sog 9:56
-	1 VD1689_94 Sog 11:11
-	1 VD1689_94 Sog 11:20
-	-----
-	6
-
-
-úazija
-
-	1 VD1689_94 Sog 15:10
-	-----
-	1
-
-
-úazzidama
-
-	1 VD1689_94 Sog 16:18
-	-----
-	1
-
-
-úazzidami
-
-	1 VD1689_94 Sog 6:13
-	1 VD1689_94 Sog 8:15
-	1 VD1689_94 Sog 15:13
-	1 VD1689_94 Sog 20:12
-	1 VD1689_94 Sog 21:1
-	1 VD1689_94 Sog 21:10
-	1 VD1689_94 Sog 21:18
-	-----
-	7
-
-
-úazzidams
-
-	1 VD1689_94 Sog 6:32
-	1 VD1689_94 Sog 8:9
-	1 VD1689_94 Sog 20:28
-	-----
-	3
-
-
-úazzihs
-
-	1 VD1689_94 Sog 4:20
-	-----
-	1
-
-
-úazziht
-
-	1 VD1689_94 Sog 7:18
-	1 VD1689_94 Sog 16:15
-	-----
-	2
-
-
-úazzihts
-
-	1 VD1689_94 Sog 6:29
-	1 VD1689_94 Sog 9:54
-	1 VD1689_94 Sog 15:6
-	1 VD1689_94 Sog 16:2
-	-----
-	4
-
-
-úazzija
-
-	1 VD1689_94 Sog 1:1
-	1 VD1689_94 Sog 1:2
-	1 VD1689_94 Sog 1:3
-	1 VD1689_94 Sog 1:7
-	1 VD1689_94 Sog 1:12
-	1 VD1689_94 Sog 1:14
-	1 VD1689_94 Sog 1:15
-	1 VD1689_94 Sog 1:24
-	1 VD1689_94 Sog 2:1
-	1 VD1689_94 Sog 2:20
-	2 VD1689_94 Sog 3:19
-	1 VD1689_94 Sog 3:20
-	1 VD1689_94 Sog 3:24
-	1 VD1689_94 Sog 3:28
-	1 VD1689_94 Sog 4:6
-	1 VD1689_94 Sog 4:8
-	1 VD1689_94 Sog 4:9
-	1 VD1689_94 Sog 4:14
-	1 VD1689_94 Sog 4:18
-	1 VD1689_94 Sog 4:19
-	1 VD1689_94 Sog 4:20
-	1 VD1689_94 Sog 4:22
-	1 VD1689_94 Sog 5:1
-	1 VD1689_94 Sog 6:8
-	1 VD1689_94 Sog 6:12
-	1 VD1689_94 Sog 6:13
-	1 VD1689_94 Sog 6:14
-	1 VD1689_94 Sog 6:15
-	1 VD1689_94 Sog 6:16
-	1 VD1689_94 Sog 6:17
-	1 VD1689_94 Sog 6:18
-	1 VD1689_94 Sog 6:20
-	1 VD1689_94 Sog 6:22
-	1 VD1689_94 Sog 6:23
-	1 VD1689_94 Sog 6:25
-	1 VD1689_94 Sog 6:29
-	1 VD1689_94 Sog 6:30
-	1 VD1689_94 Sog 6:31
-	1 VD1689_94 Sog 6:36
-	1 VD1689_94 Sog 6:39
-	1 VD1689_94 Sog 7:2
-	1 VD1689_94 Sog 7:4
-	1 VD1689_94 Sog 7:5
-	1 VD1689_94 Sog 7:7
-	1 VD1689_94 Sog 7:9
-	1 VD1689_94 Sog 7:13
-	1 VD1689_94 Sog 7:15
-	1 VD1689_94 Sog 7:17
-	1 VD1689_94 Sog 7:24
-	1 VD1689_94 Sog 8:1
-	1 VD1689_94 Sog 8:2
-	1 VD1689_94 Sog 8:5
-	1 VD1689_94 Sog 8:6
-	1 VD1689_94 Sog 8:7
-	1 VD1689_94 Sog 8:15
-	2 VD1689_94 Sog 8:18
-	1 VD1689_94 Sog 8:19
-	1 VD1689_94 Sog 8:20
-	1 VD1689_94 Sog 8:21
-	1 VD1689_94 Sog 8:22
-	1 VD1689_94 Sog 8:23
-	1 VD1689_94 Sog 8:24
-	1 VD1689_94 Sog 8:25
-	1 VD1689_94 Sog 9:1
-	1 VD1689_94 Sog 9:3
-	1 VD1689_94 Sog 9:7
-	1 VD1689_94 Sog 9:8
-	1 VD1689_94 Sog 9:9
-	1 VD1689_94 Sog 9:10
-	1 VD1689_94 Sog 9:11
-	1 VD1689_94 Sog 9:12
-	1 VD1689_94 Sog 9:13
-	1 VD1689_94 Sog 9:14
-	1 VD1689_94 Sog 9:15
-	1 VD1689_94 Sog 9:28
-	1 VD1689_94 Sog 9:29
-	1 VD1689_94 Sog 9:31
-	2 VD1689_94 Sog 9:36
-	1 VD1689_94 Sog 9:37
-	1 VD1689_94 Sog 9:38
-	1 VD1689_94 Sog 9:48
-	1 VD1689_94 Sog 9:54
-	1 VD1689_94 Sog 10:10
-	1 VD1689_94 Sog 10:11
-	1 VD1689_94 Sog 10:15
-	1 VD1689_94 Sog 10:18
-	1 VD1689_94 Sog 11:2
-	1 VD1689_94 Sog 11:6
-	1 VD1689_94 Sog 11:7
-	1 VD1689_94 Sog 11:8
-	1 VD1689_94 Sog 11:9
-	1 VD1689_94 Sog 11:10
-	1 VD1689_94 Sog 11:12
-	1 VD1689_94 Sog 11:13
-	1 VD1689_94 Sog 11:15
-	1 VD1689_94 Sog 11:17
-	1 VD1689_94 Sog 11:19
-	1 VD1689_94 Sog 11:30
-	1 VD1689_94 Sog 11:35
-	1 VD1689_94 Sog 11:36
-	1 VD1689_94 Sog 11:37
-	1 VD1689_94 Sog 11:38
-	1 VD1689_94 Sog 12:1
-	1 VD1689_94 Sog 12:2
-	1 VD1689_94 Sog 12:4
-	3 VD1689_94 Sog 12:5
-	2 VD1689_94 Sog 12:6
-	1 VD1689_94 Sog 13:3
-	1 VD1689_94 Sog 13:6
-	1 VD1689_94 Sog 13:7
-	1 VD1689_94 Sog 13:8
-	1 VD1689_94 Sog 13:10
-	2 VD1689_94 Sog 13:11
-	1 VD1689_94 Sog 13:12
-	1 VD1689_94 Sog 13:13
-	1 VD1689_94 Sog 13:15
-	1 VD1689_94 Sog 13:16
-	1 VD1689_94 Sog 13:17
-	1 VD1689_94 Sog 13:18
-	1 VD1689_94 Sog 13:22
-	1 VD1689_94 Sog 13:23
-	1 VD1689_94 Sog 14:2
-	2 VD1689_94 Sog 14:3
-	1 VD1689_94 Sog 14:9
-	1 VD1689_94 Sog 14:12
-	1 VD1689_94 Sog 14:13
-	1 VD1689_94 Sog 14:14
-	1 VD1689_94 Sog 14:15
-	2 VD1689_94 Sog 14:16
-	2 VD1689_94 Sog 14:18
-	1 VD1689_94 Sog 15:1
-	1 VD1689_94 Sog 15:2
-	1 VD1689_94 Sog 15:3
-	1 VD1689_94 Sog 15:6
-	1 VD1689_94 Sog 15:7
-	1 VD1689_94 Sog 15:10
-	2 VD1689_94 Sog 15:11
-	2 VD1689_94 Sog 15:12
-	1 VD1689_94 Sog 15:16
-	1 VD1689_94 Sog 15:18
-	1 VD1689_94 Sog 16:2
-	1 VD1689_94 Sog 16:5
-	1 VD1689_94 Sog 16:6
-	1 VD1689_94 Sog 16:7
-	1 VD1689_94 Sog 16:9
-	1 VD1689_94 Sog 16:10
-	1 VD1689_94 Sog 16:11
-	1 VD1689_94 Sog 16:12
-	2 VD1689_94 Sog 16:13
-	1 VD1689_94 Sog 16:14
-	1 VD1689_94 Sog 16:15
-	1 VD1689_94 Sog 16:17
-	2 VD1689_94 Sog 16:20
-	1 VD1689_94 Sog 16:23
-	1 VD1689_94 Sog 16:24
-	1 VD1689_94 Sog 16:25
-	1 VD1689_94 Sog 16:26
-	1 VD1689_94 Sog 16:28
-	1 VD1689_94 Sog 16:29
-	2 VD1689_94 Sog 17:2
-	1 VD1689_94 Sog 17:3
-	1 VD1689_94 Sog 17:8
-	1 VD1689_94 Sog 17:9
-	1 VD1689_94 Sog 17:10
-	1 VD1689_94 Sog 17:13
-	1 VD1689_94 Sog 18:2
-	1 VD1689_94 Sog 18:3
-	1 VD1689_94 Sog 18:4
-	1 VD1689_94 Sog 18:5
-	1 VD1689_94 Sog 18:6
-	1 VD1689_94 Sog 18:8
-	1 VD1689_94 Sog 18:9
-	1 VD1689_94 Sog 18:14
-	1 VD1689_94 Sog 18:18
-	1 VD1689_94 Sog 18:19
-	1 VD1689_94 Sog 18:23
-	1 VD1689_94 Sog 18:24
-	1 VD1689_94 Sog 18:25
-	1 VD1689_94 Sog 19:5
-	1 VD1689_94 Sog 19:6
-	1 VD1689_94 Sog 19:8
-	1 VD1689_94 Sog 19:9
-	1 VD1689_94 Sog 19:11
-	1 VD1689_94 Sog 19:12
-	1 VD1689_94 Sog 19:13
-	1 VD1689_94 Sog 19:17
-	1 VD1689_94 Sog 19:18
-	1 VD1689_94 Sog 19:20
-	1 VD1689_94 Sog 19:22
-	1 VD1689_94 Sog 19:23
-	1 VD1689_94 Sog 19:28
-	1 VD1689_94 Sog 19:30
-	1 VD1689_94 Sog 20:3
-	1 VD1689_94 Sog 20:4
-	1 VD1689_94 Sog 20:8
-	2 VD1689_94 Sog 20:18
-	2 VD1689_94 Sog 20:23
-	1 VD1689_94 Sog 20:28
-	2 VD1689_94 Sog 20:32
-	1 VD1689_94 Sog 20:39
-	1 VD1689_94 Sog 21:3
-	1 VD1689_94 Sog 21:5
-	1 VD1689_94 Sog 21:6
-	1 VD1689_94 Sog 21:8
-	1 VD1689_94 Sog 21:16
-	1 VD1689_94 Sog 21:17
-	1 VD1689_94 Sog 21:19
-	1 VD1689_94 Sog 21:20
-	-----
-	226
-
-
-úazziji
-
-	1 VD1689_94 Sog 9:38
-	-----
-	1
-
-
-úazzijs
-
-	1 VD1689_94 Sog 2:1
-	1 VD1689_94 Sog 2:3
-	1 VD1689_94 Sog 6:37
-	1 VD1689_94 Sog 13:12
-	-----
-	4
-
-
-úazziju
-
-	1 VD1689_94 Sog 6:10
-	-----
-	1
-
-
-úazzijúi
-
-	1 VD1689_94 Sog 17:2
-	-----
-	1
-
-
-úazziúchu
-
-	2 VD1689_94 Sog 7:4
-	-----
-	2
-
-
-úazziúim
-
-	1 VD1689_94 Sog 21:22
-	-----
-	1
-
-
-úaòehmahs
-
-	1 VD1689_94 Sog 5:18
-	-----
-	1
-
-
-úaúaukti
-
-	1 VD1689_94 Sog 6:35
-	1 VD1689_94 Sog 10:17
-	1 VD1689_94 Sog 12:1
-	1 VD1689_94 Sog 18:22
-	-----
-	4
-
-
-úaúauze
-
-	1 VD1689_94 Sog 4:10
-	1 VD1689_94 Sog 4:13
-	1 VD1689_94 Sog 6:34
-	1 VD1689_94 Sog 16:18
-	-----
-	4
-
-
-úaúauzis
-
-	1 VD1689_94 Sog 18:23
-	-----
-	1
-
-
-úcha
-
-	1 VD1689_94 Sog 1:23
-	1 VD1689_94 Sog 6:26
-	1 VD1689_94 Sog 7:15
-	1 VD1689_94 Sog 19:24
-	-----
-	4
-
-
-úchahm
-
-	1 VD1689_94 Sog 19:13
-	-----
-	1
-
-
-úchahs
-
-	1 VD1689_94 Sog 11:2
-	-----
-	1
-
-
-úchai
-
-	1 VD1689_94 Sog 10:4
-	1 VD1689_94 Sog 11:26
-	1 VD1689_94 Sog 15:19
-	1 VD1689_94 Sog 19:30
-	-----
-	4
-
-
-úchai^
-
-	1 VD1689_94 Sog 1:27
-	-----
-	1
-
-
-úche
-
-	1 VD1689_94 Sog 8:15
-	2 VD1689_94 Sog 18:3
-	1 VD1689_94 Sog 20:44
-	-----
-	4
-
-
-úchee
-
-	1 VD1689_94 Sog 3:1
-	1 VD1689_94 Sog 3:4
-	1 VD1689_94 Sog 9:29
-	1 VD1689_94 Sog 9:38
-	1 VD1689_94 Sog 18:18
-	1 VD1689_94 Sog 20:16
-	1 VD1689_94 Sog 20:17
-	1 VD1689_94 Sog 20:46
-	-----
-	8
-
-
-úcheem
-
-	1 VD1689_94 Sog 7:7
-	1 VD1689_94 Sog 20:16
-	-----
-	2
-
-
-úcheit
-
-	1 VD1689_94 Sog 4:20
-	1 VD1689_94 Sog 7:18
-	-----
-	2
-
-
-úcheitan
-
-	1 VD1689_94 Sog 6:20
-	1 VD1689_94 Sog 18:3
-	1 VD1689_94 Sog 19:9
-	-----
-	3
-
-
-úchennenes
-
-	1 VD1689_94 Sog 6:18
-	-----
-	1
-
-
-úchi
-
-	1 VD1689_94 Sog 2:20
-	1 VD1689_94 Sog 4:14
-	1 VD1689_94 Sog 8:1
-	1 VD1689_94 Sog 11:37
-	1 VD1689_94 Sog 13:6
-	1 VD1689_94 Sog 15:2
-	2 VD1689_94 Sog 19:9
-	1 VD1689_94 Sog 19:26
-	1 VD1689_94 Sog 19:30
-	1 VD1689_94 Sog 20:3
-	1 VD1689_94 Sog 20:9
-	1 VD1689_94 Sog 21:11
-	-----
-	13
-
-
-úchibolet
-
-	1 VD1689_94 Sog 12:6
-	-----
-	1
-
-
-úchihs
-
-	1 VD1689_94 Sog 6:13
-	1 VD1689_94 Sog 13:23
-	-----
-	2
-
-
-úchim
-
-	1 VD1689_94 Sog 6:39
-	1 VD1689_94 Sog 7:4
-	1 VD1689_94 Sog 15:3
-	1 VD1689_94 Sog 16:13
-	1 VD1689_94 Sog 21:22
-	-----
-	5
-
-
-úchinni^
-
-	1 VD1689_94 Sog 2:2
-	1 VD1689_94 Sog 18:14
-	1 VD1689_94 Sog 19:11
-	-----
-	3
-
-
-úchinni`
-
-	1 VD1689_94 Sog 6:14
-	-----
-	1
-
-
-úchinni`s
-
-	1 VD1689_94 Sog 14:12
-	-----
-	1
-
-
-úchis
-
-	1 VD1689_94 Sog 1:26
-	1 VD1689_94 Sog 12:0
-	1 VD1689_94 Sog 13:0
-	1 VD1689_94 Sog 17:13
-	1 VD1689_94 Sog 19:23
-	-----
-	5
-
-
-úcho
-
-	1 VD1689_94 Sog 4:9
-	2 VD1689_94 Sog 6:29
-	1 VD1689_94 Sog 6:39
-	1 VD1689_94 Sog 7:14
-	1 VD1689_94 Sog 8:3
-	1 VD1689_94 Sog 8:9
-	1 VD1689_94 Sog 10:15
-	2 VD1689_94 Sog 13:23
-	1 VD1689_94 Sog 15:11
-	2 VD1689_94 Sog 15:18
-	1 VD1689_94 Sog 16:18
-	1 VD1689_94 Sog 16:20
-	1 VD1689_94 Sog 16:28
-	1 VD1689_94 Sog 17:0
-	1 VD1689_94 Sog 17:3
-	1 VD1689_94 Sog 19:23
-	1 VD1689_94 Sog 20:0
-	-----
-	20
-
-
-úchodeen
-
-	1 VD1689_94 Sog 1:21
-	1 VD1689_94 Sog 1:26
-	1 VD1689_94 Sog 6:24
-	1 VD1689_94 Sog 6:31
-	1 VD1689_94 Sog 9:18
-	1 VD1689_94 Sog 9:19
-	1 VD1689_94 Sog 11:27
-	1 VD1689_94 Sog 12:3
-	1 VD1689_94 Sog 18:1
-	1 VD1689_94 Sog 18:12
-	1 VD1689_94 Sog 21:3
-	1 VD1689_94 Sog 21:6
-	-----
-	12
-
-
-úchohs
-
-	1 VD1689_94 Sog 2:4
-	1 VD1689_94 Sog 2:23
-	1 VD1689_94 Sog 9:3
-	-----
-	3
-
-
-úchurp
-
-	1 VD1689_94 Sog 16:2
-	-----
-	1
-
-
-úchíeet
-
-	1 VD1689_94 Sog 9:36
-	-----
-	1
-
-
-úchíehdehm
-
-	1 VD1689_94 Sog 8:26
-	-----
-	1
-
-
-úchíehle
-
-	1 VD1689_94 Sog 15:19
-	-----
-	1
-
-
-úchíehps
-
-	1 VD1689_94 Sog 5:8
-	-----
-	1
-
-
-úchíihrahs
-
-	1 VD1689_94 Sog 5:15
-	-----
-	1
-
-
-úchíihrees
-
-	1 VD1689_94 Sog 5:16
-	-----
-	1
-
-
-úchíir§ts
-
-	1 VD1689_94 Sog 20:27
-	-----
-	1
-
-
-úchíitte
-
-	1 VD1689_94 Sog 17:6
-	1 VD1689_94 Sog 21:25
-	-----
-	2
-
-
-úchíiººahs
-
-	1 VD1689_94 Sog 14:0
-	-----
-	1
-
-
-úeewa
-
-	2 VD1689_94 Sog 4:4
-	1 VD1689_94 Sog 4:21
-	1 VD1689_94 Sog 5:24
-	1 VD1689_94 Sog 9:53
-	1 VD1689_94 Sog 9:54
-	1 VD1689_94 Sog 11:2
-	1 VD1689_94 Sog 13:2
-	1 VD1689_94 Sog 13:6
-	1 VD1689_94 Sog 13:10
-	1 VD1689_94 Sog 13:19
-	1 VD1689_94 Sog 13:20
-	1 VD1689_94 Sog 13:23
-	1 VD1689_94 Sog 13:24
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:3
-	1 VD1689_94 Sog 14:16
-	1 VD1689_94 Sog 14:20
-	1 VD1689_94 Sog 19:2
-	1 VD1689_94 Sog 19:9
-	1 VD1689_94 Sog 19:10
-	1 VD1689_94 Sog 19:24
-	1 VD1689_94 Sog 19:26
-	2 VD1689_94 Sog 19:27
-	-----
-	25
-
-
-úeewahm
-
-	1 VD1689_94 Sog 3:6
-	2 VD1689_94 Sog 5:24
-	1 VD1689_94 Sog 5:29
-	1 VD1689_94 Sog 9:49
-	1 VD1689_94 Sog 16:27
-	1 VD1689_94 Sog 21:0
-	1 VD1689_94 Sog 21:7
-	1 VD1689_94 Sog 21:10
-	1 VD1689_94 Sog 21:14
-	-----
-	10
-
-
-úeewai
-
-	1 VD1689_94 Sog 13:3
-	1 VD1689_94 Sog 13:11
-	1 VD1689_94 Sog 13:21
-	-----
-	3
-
-
-úeewas
-
-	1 VD1689_94 Sog 4:0
-	1 VD1689_94 Sog 4:9
-	1 VD1689_94 Sog 4:17
-	1 VD1689_94 Sog 8:30
-	1 VD1689_94 Sog 9:0
-	1 VD1689_94 Sog 9:51
-	2 VD1689_94 Sog 11:2
-	1 VD1689_94 Sog 13:9
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:10
-	1 VD1689_94 Sog 15:0
-	1 VD1689_94 Sog 15:1
-	1 VD1689_94 Sog 16:27
-	1 VD1689_94 Sog 19:3
-	1 VD1689_94 Sog 19:4
-	1 VD1689_94 Sog 19:5
-	1 VD1689_94 Sog 19:6
-	1 VD1689_94 Sog 19:8
-	1 VD1689_94 Sog 19:9
-	1 VD1689_94 Sog 20:4
-	2 VD1689_94 Sog 21:0
-	1 VD1689_94 Sog 21:7
-	1 VD1689_94 Sog 21:11
-	1 VD1689_94 Sog 21:14
-	2 VD1689_94 Sog 21:16
-	1 VD1689_94 Sog 21:18
-	1 VD1689_94 Sog 21:23
-	-----
-	30
-
-
-úeewu
-
-	1 VD1689_94 Sog 1:0
-	1 VD1689_94 Sog 1:12
-	1 VD1689_94 Sog 1:13
-	1 VD1689_94 Sog 13:0
-	1 VD1689_94 Sog 13:11
-	1 VD1689_94 Sog 13:13
-	1 VD1689_94 Sog 13:22
-	1 VD1689_94 Sog 14:0
-	1 VD1689_94 Sog 14:1
-	2 VD1689_94 Sog 14:2
-	1 VD1689_94 Sog 14:3
-	1 VD1689_94 Sog 14:7
-	1 VD1689_94 Sog 14:15
-	1 VD1689_94 Sog 15:1
-	1 VD1689_94 Sog 15:6
-	1 VD1689_94 Sog 16:1
-	1 VD1689_94 Sog 16:4
-	1 VD1689_94 Sog 19:0
-	2 VD1689_94 Sog 19:1
-	1 VD1689_94 Sog 19:25
-	1 VD1689_94 Sog 19:29
-	1 VD1689_94 Sog 20:4
-	1 VD1689_94 Sog 20:5
-	1 VD1689_94 Sog 20:6
-	1 VD1689_94 Sog 21:1
-	1 VD1689_94 Sog 21:18
-	1 VD1689_94 Sog 21:21
-	1 VD1689_94 Sog 21:22
-	-----
-	30
-
-
-úehdeja
-
-	1 VD1689_94 Sog 3:20
-	1 VD1689_94 Sog 5:17
-	1 VD1689_94 Sog 13:9
-	1 VD1689_94 Sog 16:9
-	1 VD1689_94 Sog 16:12
-	-----
-	5
-
-
-úehje
-
-	1 VD1689_94 Sog 16:21
-	-----
-	1
-
-
-úehjis
-
-	1 VD1689_94 Sog 6:3
-	-----
-	1
-
-
-úeh§chat
-
-	1 VD1689_94 Sog 5:10
-	-----
-	1
-
-
-úeptita^
-
-	1 VD1689_94 Sog 14:15
-	1 VD1689_94 Sog 14:17
-	1 VD1689_94 Sog 14:18
-	-----
-	3
-
-
-úeptiò
-
-	1 VD1689_94 Sog 6:0
-	1 VD1689_94 Sog 6:1
-	1 VD1689_94 Sog 6:25
-	1 VD1689_94 Sog 8:14
-	1 VD1689_94 Sog 14:12
-	1 VD1689_94 Sog 14:17
-	1 VD1689_94 Sog 16:7
-	1 VD1689_94 Sog 16:8
-	1 VD1689_94 Sog 16:13
-	-----
-	9
-
-
-úeptiòas
-
-	1 VD1689_94 Sog 16:19
-	-----
-	1
-
-
-úeptiòdeúmits
-
-	1 VD1689_94 Sog 1:7
-	1 VD1689_94 Sog 8:14
-	1 VD1689_94 Sog 8:30
-	1 VD1689_94 Sog 9:0
-	1 VD1689_94 Sog 9:2
-	1 VD1689_94 Sog 9:4
-	1 VD1689_94 Sog 9:5
-	1 VD1689_94 Sog 9:18
-	1 VD1689_94 Sog 9:24
-	1 VD1689_94 Sog 9:56
-	1 VD1689_94 Sog 12:14
-	-----
-	11
-
-
-úeptiòus
-
-	1 VD1689_94 Sog 12:10
-	-----
-	1
-
-
-úeptiòúimts
-
-	1 VD1689_94 Sog 8:26
-	1 VD1689_94 Sog 20:15
-	1 VD1689_94 Sog 20:16
-	-----
-	3
-
-
-úew
-
-	1 VD1689_94 Sog 3:6
-	1 VD1689_94 Sog 3:20
-	1 VD1689_94 Sog 8:33
-	1 VD1689_94 Sog 9:8
-	1 VD1689_94 Sog 9:51
-	1 VD1689_94 Sog 19:1
-	1 VD1689_94 Sog 20:42
-	-----
-	7
-
-
-úewim
-
-	1 VD1689_94 Sog 3:13
-	1 VD1689_94 Sog 3:16
-	1 VD1689_94 Sog 3:23
-	1 VD1689_94 Sog 6:2
-	1 VD1689_94 Sog 17:0
-	1 VD1689_94 Sog 18:1
-	1 VD1689_94 Sog 21:0
-	-----
-	7
-
-
-úewis
-
-	1 VD1689_94 Sog 6:31
-	1 VD1689_94 Sog 10:16
-	1 VD1689_94 Sog 18:30
-	1 VD1689_94 Sog 18:31
-	-----
-	4
-
-
-úewiúchíi
-
-	1 VD1689_94 Sog 7:5
-	-----
-	1
-
-
-úezzen
-
-	1 VD1689_94 Sog 3:26
-	1 VD1689_94 Sog 9:25
-	-----
-	2
-
-
-úeúchi
-
-	1 VD1689_94 Sog 20:15
-	-----
-	1
-
-
-úeúchus
-
-	1 VD1689_94 Sog 12:7
-	-----
-	1
-
-
-úeúchúimts
-
-	1 VD1689_94 Sog 3:31
-	1 VD1689_94 Sog 18:11
-	1 VD1689_94 Sog 18:16
-	1 VD1689_94 Sog 18:17
-	1 VD1689_94 Sog 20:47
-	-----
-	5
-
-
-úihkus
-
-	1 VD1689_94 Sog 6:4
-	-----
-	1
-
-
-úihmeans
-
-	1 VD1689_94 Sog 1:2
-	1 VD1689_94 Sog 1:3
-	-----
-	2
-
-
-úihmeanu
-
-	1 VD1689_94 Sog 1:3
-	1 VD1689_94 Sog 1:17
-	-----
-	2
-
-
-úihmeaòa
-
-	1 VD1689_94 Sog 1:0
-	-----
-	1
-
-
-úihmenaòa
-
-	1 VD1689_94 Sog 1:2
-	-----
-	1
-
-
-úimts
-
-	1 VD1689_94 Sog 2:8
-	1 VD1689_94 Sog 7:0
-	1 VD1689_94 Sog 7:19
-	1 VD1689_94 Sog 15:4
-	1 VD1689_94 Sog 16:5
-	1 VD1689_94 Sog 17:2
-	1 VD1689_94 Sog 17:3
-	2 VD1689_94 Sog 20:10
-	1 VD1689_94 Sog 20:35
-	-----
-	10
-
-
-úirdi
-
-	1 VD1689_94 Sog 16:17
-	2 VD1689_94 Sog 16:18
-	1 VD1689_94 Sog 19:5
-	1 VD1689_94 Sog 19:8
-	1 VD1689_94 Sog 19:22
-	-----
-	6
-
-
-úirdigs
-
-	1 VD1689_94 Sog 6:12
-	-----
-	1
-
-
-úirds
-
-	1 VD1689_94 Sog 5:9
-	1 VD1689_94 Sog 9:3
-	1 VD1689_94 Sog 16:15
-	1 VD1689_94 Sog 16:25
-	1 VD1689_94 Sog 19:6
-	1 VD1689_94 Sog 19:9
-	-----
-	6
-
-
-úirds=dohmas
-
-	1 VD1689_94 Sog 5:15
-	1 VD1689_94 Sog 5:16
-	-----
-	2
-
-
-úitte
-
-	1 VD1689_94 Sog 1:25
-	1 VD1689_94 Sog 5:26
-	1 VD1689_94 Sog 7:13
-	1 VD1689_94 Sog 15:8
-	1 VD1689_94 Sog 15:15
-	-----
-	5
-
-
-úittuúchi
-
-	1 VD1689_94 Sog 1:8
-	-----
-	1
-
-
-úi§t
-
-	1 VD1689_94 Sog 6:16
-	-----
-	1
-
-
-úiúúeòi
-
-	1 VD1689_94 Sog 6:5
-	1 VD1689_94 Sog 7:12
-	-----
-	2
-
-
-úlahpehm
-
-	1 VD1689_94 Sog 15:18
-	-----
-	1
-
-
-úlahp§t
-
-	1 VD1689_94 Sog 4:19
-	-----
-	1
-
-
-úla§da=walgu
-
-	1 VD1689_94 Sog 2:3
-	1 VD1689_94 Sog 8:27
-	-----
-	2
-
-
-úleekúni
-
-	1 VD1689_94 Sog 19:27
-	-----
-	1
-
-
-úleppena
-
-	1 VD1689_94 Sog 3:19
-	-----
-	1
-
-
-úleppeni
-
-	1 VD1689_94 Sog 9:31
-	1 VD1689_94 Sog 9:32
-	1 VD1689_94 Sog 9:34
-	1 VD1689_94 Sog 9:35
-	1 VD1689_94 Sog 9:43
-	1 VD1689_94 Sog 20:29
-	1 VD1689_94 Sog 20:33
-	1 VD1689_94 Sog 20:36
-	2 VD1689_94 Sog 20:37
-	1 VD1689_94 Sog 20:38
-	1 VD1689_94 Sog 21:20
-	-----
-	12
-
-
-úluddina
-
-	1 VD1689_94 Sog 5:11
-	-----
-	1
-
-
-úluddinahts
-
-	1 VD1689_94 Sog 4:12
-	-----
-	1
-
-
-úmad§enes=kauúu
-
-	1 VD1689_94 Sog 9:53
-	-----
-	1
-
-
-úmalka
-
-	1 VD1689_94 Sog 14:12
-	1 VD1689_94 Sog 14:13
-	-----
-	2
-
-
-úmeeklus
-
-	2 VD1689_94 Sog 16:25
-	1 VD1689_94 Sog 16:27
-	-----
-	3
-
-
-úmelts
-
-	1 VD1689_94 Sog 5:11
-	-----
-	1
-
-
-úmiltis
-
-	1 VD1689_94 Sog 7:12
-	-----
-	1
-
-
-úohda
-
-	1 VD1689_94 Sog 8:0
-	1 VD1689_94 Sog 10:0
-	-----
-	2
-
-
-úohdibu
-
-	1 VD1689_94 Sog 3:0
-	-----
-	1
-
-
-úohditi
-
-	1 VD1689_94 Sog 2:0
-	-----
-	1
-
-
-úohlijs
-
-	1 VD1689_94 Sog 11:39
-	-----
-	1
-
-
-úohìeem
-
-	1 VD1689_94 Sog 2:17
-	-----
-	1
-
-
-úohìi
-
-	1 VD1689_94 Sog 2:18
-	2 VD1689_94 Sog 6:0
-	1 VD1689_94 Sog 12:0
-	-----
-	4
-
-
-úohìis
-
-	1 VD1689_94 Sog 2:18
-	1 VD1689_94 Sog 2:19
-	1 VD1689_94 Sog 11:27
-	-----
-	3
-
-
-úohìu
-
-	1 VD1689_94 Sog 21:25
-	-----
-	1
-
-
-úohìus
-
-	1 VD1689_94 Sog 2:0
-	1 VD1689_94 Sog 2:16
-	1 VD1689_94 Sog 2:18
-	1 VD1689_94 Sog 3:0
-	-----
-	4
-
-
-úudrab=kallim
-
-	1 VD1689_94 Sog 17:4
-	-----
-	1
-
-
-úudraba
-
-	1 VD1689_94 Sog 9:4
-	1 VD1689_94 Sog 16:5
-	1 VD1689_94 Sog 17:2
-	1 VD1689_94 Sog 17:3
-	1 VD1689_94 Sog 17:4
-	1 VD1689_94 Sog 17:10
-	-----
-	6
-
-
-úudrabu
-
-	1 VD1689_94 Sog 16:18
-	-----
-	1
-
-
-úuhdi
-
-	1 VD1689_94 Sog 3:22
-	-----
-	1
-
-
-úuhta
-
-	1 VD1689_94 Sog 3:0
-	1 VD1689_94 Sog 11:0
-	-----
-	2
-
-
-úuhtihts
-
-	1 VD1689_94 Sog 5:15
-	-----
-	1
-
-
-úuhtija
-
-	1 VD1689_94 Sog 3:15
-	1 VD1689_94 Sog 6:8
-	2 VD1689_94 Sog 6:35
-	1 VD1689_94 Sog 7:24
-	1 VD1689_94 Sog 9:23
-	1 VD1689_94 Sog 9:25
-	1 VD1689_94 Sog 9:31
-	1 VD1689_94 Sog 11:12
-	1 VD1689_94 Sog 11:14
-	2 VD1689_94 Sog 11:17
-	1 VD1689_94 Sog 11:19
-	1 VD1689_94 Sog 18:2
-	1 VD1689_94 Sog 18:21
-	1 VD1689_94 Sog 19:29
-	1 VD1689_94 Sog 20:12
-	1 VD1689_94 Sog 21:10
-	-----
-	18
-
-
-úuhtijs
-
-	1 VD1689_94 Sog 6:14
-	1 VD1689_94 Sog 11:28
-	1 VD1689_94 Sog 13:8
-	-----
-	3
-
-
-úuhtiju
-
-	1 VD1689_94 Sog 20:6
-	-----
-	1
-
-
-úuhtita
-
-	1 VD1689_94 Sog 19:0
-	-----
-	1
-
-
-úullu
-
-	1 VD1689_94 Sog 6:19
-	1 VD1689_94 Sog 6:20
-	-----
-	2
-
-
-úuns
-
-	1 VD1689_94 Sog 7:5
-	-----
-	1
-
-
-úwaidat
-
-	1 VD1689_94 Sog 9:15
-	-----
-	1
-
-
-úwaiditu
-
-	1 VD1689_94 Sog 9:8
-	-----
-	1
-
-
-úwars
-
-	1 VD1689_94 Sog 8:26
-	-----
-	1
-
-
-úweeútu
-
-	1 VD1689_94 Sog 5:25
-	-----
-	1
-
-
-úwehtidama
-
-	1 VD1689_94 Sog 17:3
-	-----
-	1
-
-
-úwehtihts
-
-	1 VD1689_94 Sog 17:2
-	-----
-	1
-
-
-úwehtija
-
-	1 VD1689_94 Sog 13:24
-	-----
-	1
-
-
-úwehtijúi
-
-	1 VD1689_94 Sog 17:3
-	-----
-	1
-
-
-úwehtita
-
-	2 VD1689_94 Sog 5:24
-	-----
-	2
-
-
-úwehtki
-
-	1 VD1689_94 Sog 21:19
-	-----
-	1
-
-
-úwehtku=drehbes
-
-	1 VD1689_94 Sog 14:12
-	1 VD1689_94 Sog 14:13
-	1 VD1689_94 Sog 14:19
-	-----
-	3
-
-
-úwehtumu
-
-	1 VD1689_94 Sog 1:15
-	-----
-	1
-
-
-úweizinaja
-
-	1 VD1689_94 Sog 18:15
-	-----
-	1
-
-
-úweúchineeks
-
-	1 VD1689_94 Sog 19:16
-	-----
-	1
-
-
-úweúchineeku
-
-	1 VD1689_94 Sog 17:7
-	1 VD1689_94 Sog 17:8
-	1 VD1689_94 Sog 17:9
-	1 VD1689_94 Sog 19:1
-	-----
-	4
-
-
-úweúchu
-
-	1 VD1689_94 Sog 19:12
-	-----
-	1
-
-
-úweúchus
-
-	1 VD1689_94 Sog 10:16
-	-----
-	1
-
-
-úwilpeúchanu
-
-	1 VD1689_94 Sog 5:16
 	-----
 	1
 

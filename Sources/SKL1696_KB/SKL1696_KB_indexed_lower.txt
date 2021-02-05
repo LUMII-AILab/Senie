@@ -1,5 +1,5 @@
-Vârdformu skaits:	575
-Vârdlietojumu skaits:	1403
+Vârdformu skaits:	576
+Vârdlietojumu skaits:	1404
 
 
 abbeem
@@ -73,6 +73,13 @@ aisòem
 	1
 
 
+aisòem~
+
+	1 SKL1696_KB 46.p.
+	-----
+	1
+
+
 aisòemm
 
 	1 SKL1696_KB 128.p.
@@ -86,13 +93,6 @@ aisòemtam
 	2 SKL1696_KB 84.p.
 	-----
 	3
-
-
-aisòem~
-
-	1 SKL1696_KB 46.p.
-	-----
-	1
 
 
 aizina
@@ -130,16 +130,16 @@ apme§ts
 	1
 
 
-appak§ch
+appakúch
 
-	1 SKL1696_KB 44.p.
+	1 SKL1696_KB 126.p.
 	-----
 	1
 
 
-appakúch
+appak§ch
 
-	1 SKL1696_KB 126.p.
+	1 SKL1696_KB 44.p.
 	-----
 	1
 
@@ -326,13 +326,6 @@ ba§nizas
 	1
 
 
-ba§nizas=teeúu
-
-	1 SKL1696_KB 90.p.
-	-----
-	1
-
-
 baúnizas=laika^
 
 	1 SKL1696_KB 15.p.
@@ -343,6 +336,13 @@ baúnizas=laika^
 baúnizas=teeúu
 
 	1 SKL1696_KB 91.p.
+	-----
+	1
+
+
+ba§nizas=teeúu
+
+	1 SKL1696_KB 90.p.
 	-----
 	1
 
@@ -579,6 +579,13 @@ dalderus
 	5
 
 
+daïïas
+
+	1 SKL1696_KB 15.p.
+	-----
+	1
+
+
 darbu
 
 	1 SKL1696_KB 51.p.
@@ -623,13 +630,6 @@ dauds
 dau§ahs
 
 	1 SKL1696_KB 48.p.
-	-----
-	1
-
-
-daïïas
-
-	1 SKL1696_KB 15.p.
 	-----
 	1
 
@@ -724,64 +724,6 @@ droh§chibas=grahmata
 	1
 
 
-duhri
-
-	1 SKL1696_KB 34.p.
-	-----
-	1
-
-
-dumpi
-
-	1 SKL1696_KB 60.p.
-	1 SKL1696_KB 79.80.81.83.p.
-	-----
-	2
-
-
-dumpis
-
-	1 SKL1696_KB 79.80.81.83.p.
-	-----
-	1
-
-
-dumpju=zehleijam
-
-	1 SKL1696_KB 109.p.
-	-----
-	1
-
-
-dumpu=zehleijam
-
-	1 SKL1696_KB 139.p.
-	-----
-	1
-
-
-du§miga^
-
-	1 SKL1696_KB 39.p.
-	1 SKL1696_KB 44.p.
-	-----
-	2
-
-
-du§modams
-
-	1 SKL1696_KB 47.p.
-	-----
-	1
-
-
-duúmiga^
-
-	1 SKL1696_KB 40.p.
-	-----
-	1
-
-
 d§ehris
 
 	1 SKL1696_KB 2.p.
@@ -834,6 +776,64 @@ d§irdejis
 d§irdoht
 
 	1 SKL1696_KB 139.p.
+	-----
+	1
+
+
+duhri
+
+	1 SKL1696_KB 34.p.
+	-----
+	1
+
+
+dumpi
+
+	1 SKL1696_KB 60.p.
+	1 SKL1696_KB 79.80.81.83.p.
+	-----
+	2
+
+
+dumpis
+
+	1 SKL1696_KB 79.80.81.83.p.
+	-----
+	1
+
+
+dumpju=zehleijam
+
+	1 SKL1696_KB 109.p.
+	-----
+	1
+
+
+dumpu=zehleijam
+
+	1 SKL1696_KB 139.p.
+	-----
+	1
+
+
+duúmiga^
+
+	1 SKL1696_KB 40.p.
+	-----
+	1
+
+
+du§miga^
+
+	1 SKL1696_KB 39.p.
+	1 SKL1696_KB 44.p.
+	-----
+	2
+
+
+du§modams
+
+	1 SKL1696_KB 47.p.
 	-----
 	1
 
@@ -920,6 +920,13 @@ eeroht§chu
 	1
 
 
+eerohtúchu=apmahnetajam
+
+	1 SKL1696_KB 1.p.
+	-----
+	1
+
+
 eeroht§chus
 
 	1 SKL1696_KB 115.p.
@@ -927,9 +934,9 @@ eeroht§chus
 	1
 
 
-eerohtúchu=apmahnetajam
+eeúlehgtam
 
-	1 SKL1696_KB 1.p.
+	1 SKL1696_KB 13.p.
 	-----
 	1
 
@@ -968,9 +975,9 @@ eewaino§chanas
 	1
 
 
-eeúlehgtam
+ehdenu
 
-	1 SKL1696_KB 13.p.
+	1 SKL1696_KB 3.p.
 	-----
 	1
 
@@ -978,6 +985,13 @@ eeúlehgtam
 elka=deewigam
 
 	1 SKL1696_KB 1.p.
+	-----
+	1
+
+
+ìadderiòòe
+
+	1 SKL1696_KB 58.p.
 	-----
 	1
 
@@ -1127,6 +1141,20 @@ ispaudehteem
 	1
 
 
+is§pee§ts
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+is§pehle
+
+	1 SKL1696_KB 115.p.
+	-----
+	1
+
+
 iswelk
 
 	1 SKL1696_KB 39.p.
@@ -1148,20 +1176,6 @@ iswelkúchanu
 iszee§t
 
 	1 SKL1696_KB 90.p.
-	-----
-	1
-
-
-is§pee§ts
-
-	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-is§pehle
-
-	1 SKL1696_KB 115.p.
 	-----
 	1
 
@@ -1205,6 +1219,13 @@ jadarr
 	1
 
 
+jaúa=eet
+
+	1 SKL1696_KB 58.p.
+	-----
+	1
+
+
 jaunu
 
 	1 SKL1696_KB 109.p.
@@ -1215,13 +1236,6 @@ jaunu
 jauzahs
 
 	1 SKL1696_KB 98.p.
-	-----
-	1
-
-
-jaúa=eet
-
-	1 SKL1696_KB 58.p.
 	-----
 	1
 
@@ -1405,9 +1419,51 @@ kam
 	2
 
 
+kaºra=kalpeem
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+kaºra=ïaudim
+
+	1 SKL1696_KB 1.p.
+	-----
+	1
+
+
 karra=leeta
 
 	1 SKL1696_KB 108.p.
+	-----
+	1
+
+
+kaººa=teeúa
+
+	1 SKL1696_KB 41.43.p.
+	-----
+	1
+
+
+kaººa=tee§as
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+kaºra=teeúas=lohzekïeem
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+kaººa=walditaja
+
+	1 SKL1696_KB 39.p.
 	-----
 	1
 
@@ -1428,16 +1484,16 @@ karrohga
 	4
 
 
-karrohga=wehtinaúchanu
+karrohga=úa=eeúchanas
 
-	1 SKL1696_KB 40.p.
+	1 SKL1696_KB 139.p.
 	-----
 	1
 
 
-karrohga=úa=eeúchanas
+karrohga=wehtinaúchanu
 
-	1 SKL1696_KB 139.p.
+	1 SKL1696_KB 40.p.
 	-----
 	1
 
@@ -1450,11 +1506,26 @@ karrohgu
 	2
 
 
+kaººu=pulka
+
+	1 SKL1696_KB 61.p.
+	-----
+	1
+
+
 karru=ratteem
 
 	1 SKL1696_KB 108.p.
 	-----
 	1
+
+
+kaººu=waldineeka
+
+	1 SKL1696_KB 26.27.28.p.
+	1 SKL1696_KB 29.p.
+	-----
+	2
 
 
 kas
@@ -1550,61 +1621,26 @@ kautees
 	1
 
 
-kaºra=kalpeem
+íehniòa
 
 	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-kaºra=teeúas=lohzekïeem
-
-	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-kaºra=ïaudim
-
-	1 SKL1696_KB 1.p.
-	-----
-	1
-
-
-kaººa=tee§as
-
-	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-kaººa=teeúa
-
-	1 SKL1696_KB 41.43.p.
-	-----
-	1
-
-
-kaººa=walditaja
-
-	1 SKL1696_KB 39.p.
-	-----
-	1
-
-
-kaººu=pulka
-
-	1 SKL1696_KB 61.p.
-	-----
-	1
-
-
-kaººu=waldineeka
-
-	1 SKL1696_KB 26.27.28.p.
-	1 SKL1696_KB 29.p.
+	1 SKL1696_KB 108.p.
 	-----
 	2
+
+
+íihlu
+
+	1 SKL1696_KB 115.p.
+	-----
+	1
+
+
+íilda^
+
+	1 SKL1696_KB 84.p.
+	-----
+	1
 
 
 klahjahs
@@ -1675,6 +1711,13 @@ krohòa=nammeem
 	1
 
 
+kuïï
+
+	1 SKL1696_KB 110.p.
+	-----
+	1
+
+
 kunga
 
 	1 SKL1696_KB 2.p.
@@ -1691,13 +1734,6 @@ kur
 	1 SKL1696_KB 108.p.
 	-----
 	3
-
-
-kuïï
-
-	1 SKL1696_KB 110.p.
-	-----
-	1
 
 
 kwarteriòu
@@ -1808,6 +1844,14 @@ laulati
 laulibu
 
 	1 SKL1696_KB 91.p.
+	1 SKL1696_KB 94.p.
+	-----
+	2
+
+
+ïautiòòi
+
+	1 SKL1696_KB 90.p.
 	1 SKL1696_KB 94.p.
 	-----
 	2
@@ -1948,16 +1992,16 @@ lohpeem
 	1
 
 
-lohzeklis
+loh§iòòu
 
-	1 SKL1696_KB 1.p.
+	1 SKL1696_KB 77.p.
 	-----
 	1
 
 
-loh§iòòu
+lohzeklis
 
-	1 SKL1696_KB 77.p.
+	1 SKL1696_KB 1.p.
 	-----
 	1
 
@@ -2021,16 +2065,16 @@ marúchu
 	1
 
 
-mauzibu
+ma§i
 
-	1 SKL1696_KB 90.p.
+	1 SKL1696_KB 105.p.
 	-----
 	1
 
 
-ma§i
+mauzibu
 
-	1 SKL1696_KB 105.p.
+	1 SKL1696_KB 90.p.
 	-----
 	1
 
@@ -2245,24 +2289,24 @@ nemeerigo^s
 	1
 
 
-neneeka
+òemm
 
-	1 SKL1696_KB 54.p.
-	-----
-	1
-
-
-neweenam
-
-	1 SKL1696_KB 15.p.
-	1 SKL1696_KB 29.p.
+	1 SKL1696_KB 3.p.
+	1 SKL1696_KB 5.6.p.
 	-----
 	2
 
 
-ne§t
+òemtees
 
-	1 SKL1696_KB 91.p.
+	1 SKL1696_KB 109.p.
+	-----
+	1
+
+
+neneeka
+
+	1 SKL1696_KB 54.p.
 	-----
 	1
 
@@ -2279,6 +2323,21 @@ neús
 	1 SKL1696_KB 77.p.
 	-----
 	1
+
+
+ne§t
+
+	1 SKL1696_KB 91.p.
+	-----
+	1
+
+
+neweenam
+
+	1 SKL1696_KB 15.p.
+	1 SKL1696_KB 29.p.
+	-----
+	2
 
 
 nikna
@@ -2384,23 +2443,16 @@ nomaitateem
 	1
 
 
+noòemm
+
+	1 SKL1696_KB 101.p.
+	-----
+	1
+
+
 nopleh§ch
 
 	1 SKL1696_KB 107.p.
-	-----
-	1
-
-
-noteeúahtam
-
-	1 SKL1696_KB 106.p.
-	-----
-	1
-
-
-nozir§tam
-
-	1 SKL1696_KB 98.p.
 	-----
 	1
 
@@ -2439,6 +2491,13 @@ no§eeg§chana
 	1
 
 
+noúohditam
+
+	1 SKL1696_KB 141.p.
+	-----
+	1
+
+
 no§pree§tahm
 
 	1 SKL1696_KB 37.p.
@@ -2460,16 +2519,16 @@ no§trahpehtam
 	1
 
 
-noòemm
+noteeúahtam
 
-	1 SKL1696_KB 101.p.
+	1 SKL1696_KB 106.p.
 	-----
 	1
 
 
-noúohditam
+nozir§tam
 
-	1 SKL1696_KB 141.p.
+	1 SKL1696_KB 98.p.
 	-----
 	1
 
@@ -2620,58 +2679,9 @@ parrahtes
 	1
 
 
-pat
-
-	1 SKL1696_KB 26.27.28.p.
-	-----
-	1
-
-
-pathareem
-
-	1 SKL1696_KB 13.p.
-	-----
-	1
-
-
-pattrul
-
-	1 SKL1696_KB 47.p.
-	-----
-	1
-
-
-pawehleúchana
-
-	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-pawehleúchanas
-
-	1 SKL1696_KB 39.p.
-	-----
-	1
-
-
 pa§cha
 
 	1 SKL1696_KB 109.p.
-	-----
-	1
-
-
-pa§telleht
-
-	1 SKL1696_KB 126.p.
-	-----
-	1
-
-
-pa§u§ta
-
-	1 SKL1696_KB 67.p.
 	-----
 	1
 
@@ -2707,6 +2717,55 @@ paúlehp
 paúúu
 
 	1 SKL1696_KB 61.p.
+	-----
+	1
+
+
+pa§telleht
+
+	1 SKL1696_KB 126.p.
+	-----
+	1
+
+
+pa§u§ta
+
+	1 SKL1696_KB 67.p.
+	-----
+	1
+
+
+pat
+
+	1 SKL1696_KB 26.27.28.p.
+	-----
+	1
+
+
+pathareem
+
+	1 SKL1696_KB 13.p.
+	-----
+	1
+
+
+pattrul
+
+	1 SKL1696_KB 47.p.
+	-----
+	1
+
+
+pawehleúchana
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+pawehleúchanas
+
+	1 SKL1696_KB 39.p.
 	-----
 	1
 
@@ -2752,16 +2811,16 @@ peed§errahs
 	1
 
 
-peezu=mahrku=gabbalus
+pee§pee§ch
 
-	1 SKL1696_KB 90.p.
+	1 SKL1696_KB 88.p.
 	-----
 	1
 
 
-pee§pee§ch
+peezu=mahrku=gabbalus
 
-	1 SKL1696_KB 88.p.
+	1 SKL1696_KB 90.p.
 	-----
 	1
 
@@ -2780,16 +2839,16 @@ pills=weetas
 	1
 
 
-pils§ahtu
+pilsúahta^
 
-	1 SKL1696_KB 111.p.
+	1 SKL1696_KB 101.p.
 	-----
 	1
 
 
-pilsúahta^
+pils§ahtu
 
-	1 SKL1696_KB 101.p.
+	1 SKL1696_KB 111.p.
 	-----
 	1
 
@@ -2875,16 +2934,16 @@ pretti
 	5
 
 
-pretti=turrahs
+pretti=§pree§chahs
 
-	1 SKL1696_KB 26.27.28.p.
+	1 SKL1696_KB 50.p.
 	-----
 	1
 
 
-pretti=§pree§chahs
+pretti=turrahs
 
-	1 SKL1696_KB 50.p.
+	1 SKL1696_KB 26.27.28.p.
 	-----
 	1
 
@@ -3030,6 +3089,27 @@ runna
 	1
 
 
+úa=eeúchanahm
+
+	1 SKL1696_KB 36.p.
+	-----
+	1
+
+
+úaded§inatam
+
+	1 SKL1696_KB 98.p.
+	-----
+	1
+
+
+úadohdahs
+
+	1 SKL1696_KB 82.p.
+	-----
+	1
+
+
 saglim
 
 	1 SKL1696_KB 106.p.
@@ -3040,6 +3120,27 @@ saglim
 sahd§iba
 
 	1 SKL1696_KB 108.p.
+	-----
+	1
+
+
+úaimneeku
+
+	1 SKL1696_KB 110.p.
+	-----
+	1
+
+
+úaimneezeeni
+
+	1 SKL1696_KB 110.p.
+	-----
+	1
+
+
+§aimo
+
+	1 SKL1696_KB 2.p.
 	-----
 	1
 
@@ -3068,9 +3169,85 @@ saldahts
 	3
 
 
+úamaita
+
+	1 SKL1696_KB 115.p.
+	-----
+	1
+
+
+úawa
+
+	1 SKL1696_KB 60.p.
+	1 SKL1696_KB 61.p.
+	1 SKL1696_KB 62.p.
+	1 SKL1696_KB 90.p.
+	2 SKL1696_KB 105.p.
+	-----
+	6
+
+
 sawadi
 
 	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+úawam
+
+	1 SKL1696_KB 106.p.
+	-----
+	1
+
+
+úawas
+
+	1 SKL1696_KB 115.p.
+	-----
+	1
+
+
+úaweem
+
+	1 SKL1696_KB 26.27.28.p.
+	1 SKL1696_KB 36.p.
+	-----
+	2
+
+
+úawu
+
+	1 SKL1696_KB 29.p.
+	1 SKL1696_KB 34.p.
+	2 SKL1696_KB 35.p.
+	1 SKL1696_KB 41.43.p.
+	1 SKL1696_KB 42.43.p.
+	1 SKL1696_KB 46.p.
+	1 SKL1696_KB 56.p.
+	1 SKL1696_KB 57.p.
+	1 SKL1696_KB 58.p.
+	1 SKL1696_KB 61.p.
+	1 SKL1696_KB 77.p.
+	1 SKL1696_KB 84.p.
+	1 SKL1696_KB 101.p.
+	1 SKL1696_KB 109.p.
+	1 SKL1696_KB 110.p.
+	1 SKL1696_KB 126.p.
+	-----
+	17
+
+
+§chaude
+
+	1 SKL1696_KB 54.p.
+	-----
+	1
+
+
+úchau§tam
+
+	1 SKL1696_KB 91.p.
 	-----
 	1
 
@@ -3084,6 +3261,107 @@ schehla§tibas
 	3
 
 
+úchkelmi
+
+	1 SKL1696_KB 67.p.
+	-----
+	1
+
+
+úeewa
+
+	1 SKL1696_KB 91.p.
+	-----
+	1
+
+
+úeewas
+
+	2 SKL1696_KB 91.p.
+	1 SKL1696_KB 97.p.
+	-----
+	3
+
+
+úeewi§chka
+
+	1 SKL1696_KB 87.p.
+	-----
+	1
+
+
+úeewi§chkai
+
+	1 SKL1696_KB 91.p.
+	-----
+	1
+
+
+úeewi§chku
+
+	1 SKL1696_KB 88.p.
+	-----
+	1
+
+
+úehdeht
+
+	2 SKL1696_KB 51.p.
+	-----
+	2
+
+
+úe§ch
+
+	1 SKL1696_KB 39.p.
+	1 SKL1696_KB 126.p.
+	-----
+	2
+
+
+úe§ch=de§mits
+
+	1 SKL1696_KB 103.p.
+	-----
+	1
+
+
+úe§chi
+
+	1 SKL1696_KB 91.p.
+	1 SKL1696_KB 128.p.
+	-----
+	2
+
+
+úew
+
+	1 SKL1696_KB 126.p.
+	-----
+	1
+
+
+§inn
+
+	1 SKL1696_KB 87.p.
+	-----
+	1
+
+
+§innajis
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+§innamu
+
+	2 SKL1696_KB 77.p.
+	-----
+	2
+
+
 sinna§chanas
 
 	1 SKL1696_KB 112.p.
@@ -3094,6 +3372,64 @@ sinna§chanas
 sinna§chanu
 
 	1 SKL1696_KB 77.p.
+	-----
+	1
+
+
+úi§ti
+
+	1 SKL1696_KB 55.p.
+	-----
+	1
+
+
+úi§ts
+
+	1 SKL1696_KB 58.p.
+	-----
+	1
+
+
+úkahde
+
+	1 SKL1696_KB 84.p.
+	-----
+	1
+
+
+úkahdu
+
+	1 SKL1696_KB 47.p.
+	1 SKL1696_KB 110.p.
+	-----
+	2
+
+
+úkehpju=naudu
+
+	1 SKL1696_KB 91.p.
+	-----
+	1
+
+
+úlikteem
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+úlikts
+
+	1 SKL1696_KB 13.p.
+	1 SKL1696_KB 54.p.
+	-----
+	2
+
+
+úmeekla^
+
+	1 SKL1696_KB 3.p.
 	-----
 	1
 
@@ -3113,11 +3449,138 @@ sohbinu
 	9
 
 
+úohdiba^
+
+	1 SKL1696_KB 84.p.
+	-----
+	1
+
+
+úohdibahm
+
+	1 SKL1696_KB 37.p.
+	-----
+	1
+
+
+úohdibu
+
+	1 SKL1696_KB 87.p.
+	1 SKL1696_KB 110.p.
+	1 SKL1696_KB 141.p.
+	-----
+	3
+
+
+úohdihts
+
+	1 SKL1696_KB 36.p.
+	-----
+	1
+
+
+úohditam
+
+	1 SKL1696_KB 5.6.p.
+	1 SKL1696_KB 55.p.
+	1 SKL1696_KB 107.p.
+	1 SKL1696_KB 109.p.
+	-----
+	4
+
+
+§ohg
+
+	3 SKL1696_KB 103.p.
+	1 SKL1696_KB 105.p.
+	1 SKL1696_KB 108.p.
+	-----
+	5
+
+
+§pirkts
+
+	1 SKL1696_KB 61.p.
+	-----
+	1
+
+
+§tahweht
+
+	1 SKL1696_KB 13.p.
+	-----
+	1
+
+
+§tahwoht
+
+	1 SKL1696_KB 46.p.
+	-----
+	1
+
+
+§tarp
+
+	1 SKL1696_KB 1.p.
+	-----
+	1
+
+
+útarpa
+
+	1 SKL1696_KB 90.p.
+	-----
+	1
+
+
+§tarpa
+
+	1 SKL1696_KB 95.p.
+	-----
+	1
+
+
+§tipra
+
+	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+§trahdaht
+
+	1 SKL1696_KB 50.p.
+	-----
+	1
+
+
 strahpi
 
 	1 SKL1696_KB 90.p.
 	-----
 	1
+
+
+§trahpi
+
+	1 SKL1696_KB 91.p.
+	-----
+	1
+
+
+úuddraba=nauda
+
+	1 SKL1696_KB 103.p.
+	-----
+	1
+
+
+úuddraba=naudu
+
+	1 SKL1696_KB 90.p.
+	1 SKL1696_KB 91.p.
+	-----
+	2
 
 
 suúchanas
@@ -3127,9 +3590,37 @@ suúchanas
 	1
 
 
+úwaiòu
+
+	1 SKL1696_KB 95.p.
+	-----
+	1
+
+
 sweedro=sem~es
 
 	1 SKL1696_KB 0.p.
+	-----
+	1
+
+
+§wehredams
+
+	1 SKL1696_KB 5.6.p.
+	-----
+	1
+
+
+úwehtu
+
+	2 SKL1696_KB 3.p.
+	-----
+	2
+
+
+úwe§chu
+
+	1 SKL1696_KB 126.p.
 	-----
 	1
 
@@ -3390,16 +3881,16 @@ teem
 	10
 
 
-tee§ch=tee§cham
+teeúas
 
-	1 SKL1696_KB 77.p.
+	1 SKL1696_KB 67.p.
 	-----
 	1
 
 
-teeúas
+tee§ch=tee§cham
 
-	1 SKL1696_KB 67.p.
+	1 SKL1696_KB 77.p.
 	-----
 	1
 
@@ -3479,19 +3970,19 @@ tre§cha
 	1
 
 
-tre§chas
-
-	1 SKL1696_KB 15.p.
-	-----
-	1
-
-
 treúcha^
 
 	1 SKL1696_KB 115.p.
 	1 SKL1696_KB 126.p.
 	-----
 	2
+
+
+tre§chas
+
+	1 SKL1696_KB 15.p.
+	-----
+	1
 
 
 trihs
@@ -3720,7 +4211,7 @@ wairak
 	1
 
 
-wakkar=ehdenu
+wakkar=
 
 	1 SKL1696_KB 3.p.
 	-----
@@ -3776,6 +4267,13 @@ walko
 	1
 
 
+waïïas
+
+	1 SKL1696_KB 15.p.
+	-----
+	1
+
+
 wallehm
 
 	1 SKL1696_KB 111.p.
@@ -3813,13 +4311,6 @@ warru
 	2
 
 
-waïïas
-
-	1 SKL1696_KB 15.p.
-	-----
-	1
-
-
 weena
 
 	1 SKL1696_KB 87.p.
@@ -3849,19 +4340,19 @@ weenu
 	2
 
 
-weeta's
-
-	1 SKL1696_KB 42.43.p.
-	-----
-	1
-
-
 weeta^
 
 	1 SKL1696_KB 41.43.p.
 	1 SKL1696_KB 105.p.
 	-----
 	2
+
+
+weeta's
+
+	1 SKL1696_KB 42.43.p.
+	-----
+	1
 
 
 wehl
@@ -3936,48 +4427,6 @@ wildams
 	1
 
 
-wirúsneeka
-
-	1 SKL1696_KB 105.p.
-	1 SKL1696_KB 112.p.
-	-----
-	2
-
-
-wirúsneekam
-
-	1 SKL1696_KB 106.p.
-	-----
-	1
-
-
-wirúsneekeem
-
-	1 SKL1696_KB 26.27.28.p.
-	-----
-	1
-
-
-wirúsneeku
-
-	1 SKL1696_KB 35.p.
-	-----
-	1
-
-
-wiò§ch
-
-	1 SKL1696_KB 36.p.
-	1 SKL1696_KB 42.43.p.
-	2 SKL1696_KB 54.p.
-	1 SKL1696_KB 57.p.
-	2 SKL1696_KB 61.p.
-	2 SKL1696_KB 67.p.
-	1 SKL1696_KB 91.p.
-	-----
-	10
-
-
 wiòòa
 
 	1 SKL1696_KB 67.p.
@@ -4004,6 +4453,48 @@ wiòòam
 wiòòu
 
 	1 SKL1696_KB 67.p.
+	-----
+	1
+
+
+wiò§ch
+
+	1 SKL1696_KB 36.p.
+	1 SKL1696_KB 42.43.p.
+	2 SKL1696_KB 54.p.
+	1 SKL1696_KB 57.p.
+	2 SKL1696_KB 61.p.
+	2 SKL1696_KB 67.p.
+	1 SKL1696_KB 91.p.
+	-----
+	10
+
+
+wirúsneeka
+
+	1 SKL1696_KB 105.p.
+	1 SKL1696_KB 112.p.
+	-----
+	2
+
+
+wirúsneekam
+
+	1 SKL1696_KB 106.p.
+	-----
+	1
+
+
+wirúsneekeem
+
+	1 SKL1696_KB 26.27.28.p.
+	-----
+	1
+
+
+wirúsneeku
+
+	1 SKL1696_KB 35.p.
 	-----
 	1
 
@@ -4122,20 +4613,6 @@ zeldams
 	1
 
 
-zellts
-
-	1 SKL1696_KB 79.80.81.83.p.
-	-----
-	1
-
-
-zettorta^
-
-	1 SKL1696_KB 94.p.
-	-----
-	1
-
-
 zeïï
 
 	1 SKL1696_KB 79.80.81.83.p.
@@ -4150,9 +4627,23 @@ zeïïa
 	1
 
 
+zellts
+
+	1 SKL1696_KB 79.80.81.83.p.
+	-----
+	1
+
+
 zeïïu
 
 	1 SKL1696_KB 101.p.
+	-----
+	1
+
+
+zettorta^
+
+	1 SKL1696_KB 94.p.
 	-----
 	1
 
@@ -4200,490 +4691,6 @@ zittu
 	1 SKL1696_KB 128.p.
 	-----
 	3
-
-
-§aimo
-
-	1 SKL1696_KB 2.p.
-	-----
-	1
-
-
-§chaude
-
-	1 SKL1696_KB 54.p.
-	-----
-	1
-
-
-§inn
-
-	1 SKL1696_KB 87.p.
-	-----
-	1
-
-
-§innajis
-
-	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-§innamu
-
-	2 SKL1696_KB 77.p.
-	-----
-	2
-
-
-§ohg
-
-	3 SKL1696_KB 103.p.
-	1 SKL1696_KB 105.p.
-	1 SKL1696_KB 108.p.
-	-----
-	5
-
-
-§pirkts
-
-	1 SKL1696_KB 61.p.
-	-----
-	1
-
-
-§tahweht
-
-	1 SKL1696_KB 13.p.
-	-----
-	1
-
-
-§tahwoht
-
-	1 SKL1696_KB 46.p.
-	-----
-	1
-
-
-§tarp
-
-	1 SKL1696_KB 1.p.
-	-----
-	1
-
-
-§tarpa
-
-	1 SKL1696_KB 95.p.
-	-----
-	1
-
-
-§tipra
-
-	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-§trahdaht
-
-	1 SKL1696_KB 50.p.
-	-----
-	1
-
-
-§trahpi
-
-	1 SKL1696_KB 91.p.
-	-----
-	1
-
-
-§wehredams
-
-	1 SKL1696_KB 5.6.p.
-	-----
-	1
-
-
-ìadderiòòe
-
-	1 SKL1696_KB 58.p.
-	-----
-	1
-
-
-íehniòa
-
-	1 SKL1696_KB 0.p.
-	1 SKL1696_KB 108.p.
-	-----
-	2
-
-
-íihlu
-
-	1 SKL1696_KB 115.p.
-	-----
-	1
-
-
-íilda^
-
-	1 SKL1696_KB 84.p.
-	-----
-	1
-
-
-ïautiòòi
-
-	1 SKL1696_KB 90.p.
-	1 SKL1696_KB 94.p.
-	-----
-	2
-
-
-òemm
-
-	1 SKL1696_KB 3.p.
-	1 SKL1696_KB 5.6.p.
-	-----
-	2
-
-
-òemtees
-
-	1 SKL1696_KB 109.p.
-	-----
-	1
-
-
-úa=eeúchanahm
-
-	1 SKL1696_KB 36.p.
-	-----
-	1
-
-
-úaded§inatam
-
-	1 SKL1696_KB 98.p.
-	-----
-	1
-
-
-úadohdahs
-
-	1 SKL1696_KB 82.p.
-	-----
-	1
-
-
-úaimneeku
-
-	1 SKL1696_KB 110.p.
-	-----
-	1
-
-
-úaimneezeeni
-
-	1 SKL1696_KB 110.p.
-	-----
-	1
-
-
-úamaita
-
-	1 SKL1696_KB 115.p.
-	-----
-	1
-
-
-úawa
-
-	1 SKL1696_KB 60.p.
-	1 SKL1696_KB 61.p.
-	1 SKL1696_KB 62.p.
-	1 SKL1696_KB 90.p.
-	2 SKL1696_KB 105.p.
-	-----
-	6
-
-
-úawam
-
-	1 SKL1696_KB 106.p.
-	-----
-	1
-
-
-úawas
-
-	1 SKL1696_KB 115.p.
-	-----
-	1
-
-
-úaweem
-
-	1 SKL1696_KB 26.27.28.p.
-	1 SKL1696_KB 36.p.
-	-----
-	2
-
-
-úawu
-
-	1 SKL1696_KB 29.p.
-	1 SKL1696_KB 34.p.
-	2 SKL1696_KB 35.p.
-	1 SKL1696_KB 41.43.p.
-	1 SKL1696_KB 42.43.p.
-	1 SKL1696_KB 46.p.
-	1 SKL1696_KB 56.p.
-	1 SKL1696_KB 57.p.
-	1 SKL1696_KB 58.p.
-	1 SKL1696_KB 61.p.
-	1 SKL1696_KB 77.p.
-	1 SKL1696_KB 84.p.
-	1 SKL1696_KB 101.p.
-	1 SKL1696_KB 109.p.
-	1 SKL1696_KB 110.p.
-	1 SKL1696_KB 126.p.
-	-----
-	17
-
-
-úchau§tam
-
-	1 SKL1696_KB 91.p.
-	-----
-	1
-
-
-úchkelmi
-
-	1 SKL1696_KB 67.p.
-	-----
-	1
-
-
-úeewa
-
-	1 SKL1696_KB 91.p.
-	-----
-	1
-
-
-úeewas
-
-	2 SKL1696_KB 91.p.
-	1 SKL1696_KB 97.p.
-	-----
-	3
-
-
-úeewi§chka
-
-	1 SKL1696_KB 87.p.
-	-----
-	1
-
-
-úeewi§chkai
-
-	1 SKL1696_KB 91.p.
-	-----
-	1
-
-
-úeewi§chku
-
-	1 SKL1696_KB 88.p.
-	-----
-	1
-
-
-úehdeht
-
-	2 SKL1696_KB 51.p.
-	-----
-	2
-
-
-úew
-
-	1 SKL1696_KB 126.p.
-	-----
-	1
-
-
-úe§ch
-
-	1 SKL1696_KB 39.p.
-	1 SKL1696_KB 126.p.
-	-----
-	2
-
-
-úe§ch=de§mits
-
-	1 SKL1696_KB 103.p.
-	-----
-	1
-
-
-úe§chi
-
-	1 SKL1696_KB 91.p.
-	1 SKL1696_KB 128.p.
-	-----
-	2
-
-
-úi§ti
-
-	1 SKL1696_KB 55.p.
-	-----
-	1
-
-
-úi§ts
-
-	1 SKL1696_KB 58.p.
-	-----
-	1
-
-
-úkahde
-
-	1 SKL1696_KB 84.p.
-	-----
-	1
-
-
-úkahdu
-
-	1 SKL1696_KB 47.p.
-	1 SKL1696_KB 110.p.
-	-----
-	2
-
-
-úkehpju=naudu
-
-	1 SKL1696_KB 91.p.
-	-----
-	1
-
-
-úlikteem
-
-	1 SKL1696_KB 0.p.
-	-----
-	1
-
-
-úlikts
-
-	1 SKL1696_KB 13.p.
-	1 SKL1696_KB 54.p.
-	-----
-	2
-
-
-úmeekla^
-
-	1 SKL1696_KB 3.p.
-	-----
-	1
-
-
-úohdiba^
-
-	1 SKL1696_KB 84.p.
-	-----
-	1
-
-
-úohdibahm
-
-	1 SKL1696_KB 37.p.
-	-----
-	1
-
-
-úohdibu
-
-	1 SKL1696_KB 87.p.
-	1 SKL1696_KB 110.p.
-	1 SKL1696_KB 141.p.
-	-----
-	3
-
-
-úohdihts
-
-	1 SKL1696_KB 36.p.
-	-----
-	1
-
-
-úohditam
-
-	1 SKL1696_KB 5.6.p.
-	1 SKL1696_KB 55.p.
-	1 SKL1696_KB 107.p.
-	1 SKL1696_KB 109.p.
-	-----
-	4
-
-
-útarpa
-
-	1 SKL1696_KB 90.p.
-	-----
-	1
-
-
-úuddraba=nauda
-
-	1 SKL1696_KB 103.p.
-	-----
-	1
-
-
-úuddraba=naudu
-
-	1 SKL1696_KB 90.p.
-	1 SKL1696_KB 91.p.
-	-----
-	2
-
-
-úwaiòu
-
-	1 SKL1696_KB 95.p.
-	-----
-	1
-
-
-úwehtu
-
-	2 SKL1696_KB 3.p.
-	-----
-	2
-
-
-úwe§chu
-
-	1 SKL1696_KB 126.p.
-	-----
-	1
 
 
 1696

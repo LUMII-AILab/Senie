@@ -96,6 +96,27 @@ adbilld
 	24
 
 
+adbilld{ad}
+
+	1 Manc1643_44_Cat 430.lpp. 17.r.
+	-----
+	1
+
+
+adbilld{adb}
+
+	1 Manc1643_44_Cat 428.lpp. 10.r.
+	-----
+	1
+
+
+adbilld{agbilld}
+
+	1 Manc1643_44_Cat 429.lpp. 19.r.
+	-----
+	1
+
+
 adbilldeeta
 
 	1 Manc1643_44_Cat 484.lpp. 16.r.
@@ -108,6 +129,14 @@ adbilldeht
 	1 Manc1643_44_Cat 432.lpp. 6.r.
 	-----
 	1
+
+
+adbilldeúchana
+
+	1 Manc1643_44_Cat 434.lpp. 10.r.
+	1 Manc1643_44_Cat 443.lpp. 5.r.
+	-----
+	2
 
 
 adbillde§chana
@@ -182,14 +211,6 @@ adbillde§chaneems
 	1
 
 
-adbilldeúchana
-
-	1 Manc1643_44_Cat 434.lpp. 10.r.
-	1 Manc1643_44_Cat 443.lpp. 5.r.
-	-----
-	2
-
-
 adbilldi
 
 	1 Manc1643_44_Cat 433.lpp. 8.r.
@@ -216,27 +237,6 @@ adbilldi{adb.}
 	3
 
 
-adbilld{adb}
-
-	1 Manc1643_44_Cat 428.lpp. 10.r.
-	-----
-	1
-
-
-adbilld{ad}
-
-	1 Manc1643_44_Cat 430.lpp. 17.r.
-	-----
-	1
-
-
-adbilld{agbilld}
-
-	1 Manc1643_44_Cat 429.lpp. 19.r.
-	-----
-	1
-
-
 ad§iet
 
 	1 Manc1643_44_Cat 421.lpp. 14.r.
@@ -259,9 +259,31 @@ aegyptero
 	1
 
 
+ähkas
+
+	1 Manc1643_44_Cat 446.lpp. 1.r.
+	1 Manc1643_44_Cat 453.lpp. 12.r.
+	-----
+	2
+
+
+ähmu
+
+	1 Manc1643_44_Cat 430.lpp. 7.r.
+	-----
+	1
+
+
 ahrenes
 
 	1 Manc1643_44_Cat 468.lpp. 19.r.
+	-----
+	1
+
+
+aißbilldeht
+
+	1 Manc1643_44_Cat 441.lpp. 8.r.
 	-----
 	1
 
@@ -273,91 +295,9 @@ aisdarriya
 	1
 
 
-aismigga
-
-	1 Manc1643_44_Cat 477.lpp. 25.r.
-	-----
-	1
-
-
-aitzena
-
-	1 Manc1643_44_Cat 448.lpp. 15.r.
-	-----
-	1
-
-
-aitzenayis
-
-	1 Manc1643_44_Cat 448.lpp. 12.r.
-	-----
-	1
-
-
-aitzena§chana
-
-	1 Manc1643_44_Cat 468.lpp. 4.r.
-	-----
-	1
-
-
-aizenaht
-
-	1 Manc1643_44_Cat 449.lpp. 8.r.
-	-----
-	1
-
-
 ai§kahrtu
 
 	1 Manc1643_44_Cat 482.lpp. 24.r.
-	-----
-	1
-
-
-ai§to
-
-	1 Manc1643_44_Cat 423.lpp. 11.r.
-	1 Manc1643_44_Cat 433.lpp. 13.r.
-	1 Manc1643_44_Cat 433.lpp. 16.r.
-	1 Manc1643_44_Cat 454.lpp. 10.r.
-	1 Manc1643_44_Cat 454.lpp. 13.r.
-	1 Manc1643_44_Cat 456.lpp. 13.r.
-	1 Manc1643_44_Cat 458.lpp. 14.r.
-	1 Manc1643_44_Cat 459.lpp. 15.r.
-	1 Manc1643_44_Cat 461.lpp. 15.r.
-	1 Manc1643_44_Cat 462.lpp. 11.r.
-	1 Manc1643_44_Cat 465.lpp. 12.r.
-	1 Manc1643_44_Cat 469.lpp. 12.r.
-	1 Manc1643_44_Cat 470.lpp. 17.r.
-	1 Manc1643_44_Cat 472.lpp. 16.r.
-	1 Manc1643_44_Cat 472.lpp. 25.r.
-	1 Manc1643_44_Cat 473.lpp. 2.r.
-	1 Manc1643_44_Cat 473.lpp. 5.r.
-	1 Manc1643_44_Cat 473.lpp. 9.r.
-	1 Manc1643_44_Cat 473.lpp. 16.r.
-	1 Manc1643_44_Cat 473.lpp. 26.r.
-	1 Manc1643_44_Cat 474.lpp. 25.r.
-	1 Manc1643_44_Cat 475.lpp. 19.r.
-	1 Manc1643_44_Cat 478.lpp. 11.r.
-	1 Manc1643_44_Cat 478.lpp. 26.r.
-	1 Manc1643_44_Cat 479.lpp. 16.r.
-	1 Manc1643_44_Cat 479.lpp. 20.r.
-	1 Manc1643_44_Cat 482.lpp. 28.r.
-	-----
-	27
-
-
-ai§úeet
-
-	1 Manc1643_44_Cat 472.lpp. 17.r.
-	-----
-	1
-
-
-aißbilldeht
-
-	1 Manc1643_44_Cat 441.lpp. 8.r.
 	-----
 	1
 
@@ -398,6 +338,81 @@ aißleekt
 	1
 
 
+aismigga
+
+	1 Manc1643_44_Cat 477.lpp. 25.r.
+	-----
+	1
+
+
+ai§úeet
+
+	1 Manc1643_44_Cat 472.lpp. 17.r.
+	-----
+	1
+
+
+ai§to
+
+	1 Manc1643_44_Cat 423.lpp. 11.r.
+	1 Manc1643_44_Cat 433.lpp. 13.r.
+	1 Manc1643_44_Cat 433.lpp. 16.r.
+	1 Manc1643_44_Cat 454.lpp. 10.r.
+	1 Manc1643_44_Cat 454.lpp. 13.r.
+	1 Manc1643_44_Cat 456.lpp. 13.r.
+	1 Manc1643_44_Cat 458.lpp. 14.r.
+	1 Manc1643_44_Cat 459.lpp. 15.r.
+	1 Manc1643_44_Cat 461.lpp. 15.r.
+	1 Manc1643_44_Cat 462.lpp. 11.r.
+	1 Manc1643_44_Cat 465.lpp. 12.r.
+	1 Manc1643_44_Cat 469.lpp. 12.r.
+	1 Manc1643_44_Cat 470.lpp. 17.r.
+	1 Manc1643_44_Cat 472.lpp. 16.r.
+	1 Manc1643_44_Cat 472.lpp. 25.r.
+	1 Manc1643_44_Cat 473.lpp. 2.r.
+	1 Manc1643_44_Cat 473.lpp. 5.r.
+	1 Manc1643_44_Cat 473.lpp. 9.r.
+	1 Manc1643_44_Cat 473.lpp. 16.r.
+	1 Manc1643_44_Cat 473.lpp. 26.r.
+	1 Manc1643_44_Cat 474.lpp. 25.r.
+	1 Manc1643_44_Cat 475.lpp. 19.r.
+	1 Manc1643_44_Cat 478.lpp. 11.r.
+	1 Manc1643_44_Cat 478.lpp. 26.r.
+	1 Manc1643_44_Cat 479.lpp. 16.r.
+	1 Manc1643_44_Cat 479.lpp. 20.r.
+	1 Manc1643_44_Cat 482.lpp. 28.r.
+	-----
+	27
+
+
+aitzena
+
+	1 Manc1643_44_Cat 448.lpp. 15.r.
+	-----
+	1
+
+
+aitzena§chana
+
+	1 Manc1643_44_Cat 468.lpp. 4.r.
+	-----
+	1
+
+
+aitzenayis
+
+	1 Manc1643_44_Cat 448.lpp. 12.r.
+	-----
+	1
+
+
+aizenaht
+
+	1 Manc1643_44_Cat 449.lpp. 8.r.
+	-----
+	1
+
+
 alla§chien
 
 	1 Manc1643_44_Cat 430.lpp. 24.r.
@@ -420,6 +435,14 @@ allgu
 	1 Manc1643_44_Cat 472.lpp. 18.r.
 	-----
 	1
+
+
+ame~
+
+	1 Manc1643_44_Cat 480.lpp. 18.r.
+	1 Manc1643_44_Cat 483.lpp. 12.r.
+	-----
+	2
 
 
 amen
@@ -445,14 +468,6 @@ amen
 	1 Manc1643_44_Cat 484.lpp. 16.r.
 	-----
 	20
-
-
-ame~
-
-	1 Manc1643_44_Cat 480.lpp. 18.r.
-	1 Manc1643_44_Cat 483.lpp. 12.r.
-	-----
-	2
 
 
 ammatariekam
@@ -514,16 +529,16 @@ apghaniet
 	1
 
 
-apghrutenata
+apghräkoyahß
 
-	1 Manc1643_44_Cat 479.lpp. 4.r.
+	1 Manc1643_44_Cat 455.lpp. 2.r.
 	-----
 	1
 
 
-apghräkoyahß
+apghrutenata
 
-	1 Manc1643_44_Cat 455.lpp. 2.r.
+	1 Manc1643_44_Cat 479.lpp. 4.r.
 	-----
 	1
 
@@ -593,13 +608,6 @@ aprunnayam
 	1
 
 
-aptehrptees
-
-	1 Manc1643_44_Cat 462.lpp. 5.r.
-	-----
-	1
-
-
 ap§kahwe
 
 	1 Manc1643_44_Cat 483.lpp. 3.r.
@@ -664,6 +672,13 @@ ap§tipprena
 	1
 
 
+ap§tipprena§chanu
+
+	1 Manc1643_44_Cat 432.lpp. 19.r.
+	-----
+	1
+
+
 ap§tipprenayu
 
 	1 Manc1643_44_Cat 433.lpp. 9.r.
@@ -671,9 +686,9 @@ ap§tipprenayu
 	1
 
 
-ap§tipprena§chanu
+aptehrptees
 
-	1 Manc1643_44_Cat 432.lpp. 19.r.
+	1 Manc1643_44_Cat 462.lpp. 5.r.
 	-----
 	1
 
@@ -834,6 +849,158 @@ arrieg
 	2
 
 
+äúmu
+
+	1 Manc1643_44_Cat 427.lpp. 2.r.
+	-----
+	1
+
+
+äßmu
+
+	1 Manc1643_44_Cat 419.lpp. 14.r.
+	1 Manc1643_44_Cat 421.lpp. 4.r.
+	1 Manc1643_44_Cat 424.lpp. 11.r.
+	1 Manc1643_44_Cat 426.lpp. 24.r.
+	1 Manc1643_44_Cat 427.lpp. 10.r.
+	1 Manc1643_44_Cat 428.lpp. 3.r.
+	1 Manc1643_44_Cat 428.lpp. 8.r.
+	1 Manc1643_44_Cat 432.lpp. 9.r.
+	1 Manc1643_44_Cat 444.lpp. 4.r.
+	1 Manc1643_44_Cat 446.lpp. 9.r.
+	1 Manc1643_44_Cat 463.lpp. 1.r.
+	1 Manc1643_44_Cat 463.lpp. 2.r.
+	1 Manc1643_44_Cat 463.lpp. 3.r.
+	1 Manc1643_44_Cat 463.lpp. 4.r.
+	1 Manc1643_44_Cat 463.lpp. 5.r.
+	1 Manc1643_44_Cat 464.lpp. 6.r.
+	1 Manc1643_44_Cat 464.lpp. 9.r.
+	1 Manc1643_44_Cat 464.lpp. 14.r.
+	1 Manc1643_44_Cat 469.lpp. 8.r.
+	-----
+	19
+
+
+a§oty
+
+	1 Manc1643_44_Cat 468.lpp. 11.r.
+	-----
+	1
+
+
+ä§úam
+
+	1 Manc1643_44_Cat 437.lpp. 9.r.
+	1 Manc1643_44_Cat 454.lpp. 11.r.
+	1 Manc1643_44_Cat 459.lpp. 13.r.
+	-----
+	3
+
+
+a§úini
+
+	1 Manc1643_44_Cat 425.lpp. 15.r.
+	1 Manc1643_44_Cat 426.lpp. 4.r.
+	1 Manc1643_44_Cat 426.lpp. 13.r.
+	1 Manc1643_44_Cat 429.lpp. 16.r.
+	1 Manc1643_44_Cat 430.lpp. 8.r.
+	1 Manc1643_44_Cat 430.lpp. 14.r.
+	1 Manc1643_44_Cat 431.lpp. 4.r.
+	1 Manc1643_44_Cat 431.lpp. 22.r.
+	1 Manc1643_44_Cat 432.lpp. 4.r.
+	1 Manc1643_44_Cat 433.lpp. 16.r.
+	1 Manc1643_44_Cat 447.lpp. 9.r.
+	1 Manc1643_44_Cat 459.lpp. 23.r.
+	1 Manc1643_44_Cat 461.lpp. 5.r.
+	1 Manc1643_44_Cat 465.lpp. 8.r.
+	1 Manc1643_44_Cat 465.lpp. 15.r.
+	1 Manc1643_44_Cat 465.lpp. 19.r.
+	1 Manc1643_44_Cat 466.lpp. 22.r.
+	-----
+	17
+
+
+a§§ini
+
+	1 Manc1643_44_Cat 466.lpp. 7.r.
+	-----
+	1
+
+
+a§úinis
+
+	1 Manc1643_44_Cat 433.lpp. 2.r.
+	1 Manc1643_44_Cat 466.lpp. 19.r.
+	1 Manc1643_44_Cat 468.lpp. 12.r.
+	-----
+	3
+
+
+a§úinns
+
+	1 Manc1643_44_Cat 460.lpp. 3.r.
+	1 Manc1643_44_Cat 466.lpp. 13.r.
+	-----
+	2
+
+
+a§úino
+
+	1 Manc1643_44_Cat 467.lpp. 1.r.
+	-----
+	1
+
+
+a§úins
+
+	1 Manc1643_44_Cat 432.lpp. 17.r.
+	-----
+	1
+
+
+ä§úohtz
+
+	1 Manc1643_44_Cat 449.lpp. 9.r.
+	-----
+	1
+
+
+a§tohtz
+
+	1 Manc1643_44_Cat 441.lpp. 1.r.
+	-----
+	1
+
+
+a§to§ttz
+
+	1 Manc1643_44_Cat 420.lpp. 12.r.
+	-----
+	1
+
+
+a§tota
+
+	1 Manc1643_44_Cat 428.lpp. 22.r.
+	1 Manc1643_44_Cat 465.lpp. 1.r.
+	-----
+	2
+
+
+a§totapadeßmita
+
+	1 Manc1643_44_Cat 430.lpp. 20.r.
+	-----
+	1
+
+
+a§totapadeßmitta
+
+	1 Manc1643_44_Cat 467.lpp. 20.r.
+	-----
+	1
+
+
 atees
 
 	1 Manc1643_44_Cat 422.lpp. 9.r.
@@ -870,16 +1037,24 @@ atpe§tiet
 	1
 
 
-attd§imbtibas
+at§ie§tohß
 
-	1 Manc1643_44_Cat 458.lpp. 19.r.
+	1 Manc1643_44_Cat 462.lpp. 21.r.
+	1 Manc1643_44_Cat 462.lpp. 23.r.
 	-----
-	1
+	2
 
 
 attd§imb§chanas
 
 	1 Manc1643_44_Cat 458.lpp. 21.r.
+	-----
+	1
+
+
+attd§imbtibas
+
+	1 Manc1643_44_Cat 458.lpp. 19.r.
 	-----
 	1
 
@@ -987,28 +1162,6 @@ attreep§chanu
 	1
 
 
-attwerr
-
-	1 Manc1643_44_Cat 470.lpp. 7.r.
-	1 Manc1643_44_Cat 481.lpp. 14.r.
-	-----
-	2
-
-
-attwiïïam
-
-	1 Manc1643_44_Cat 443.lpp. 8.r.
-	-----
-	1
-
-
-attwärtz
-
-	1 Manc1643_44_Cat 481.lpp. 12.r.
-	-----
-	1
-
-
 att§aht
 
 	1 Manc1643_44_Cat 482.lpp. 19.r.
@@ -1058,6 +1211,28 @@ att§taht
 	1
 
 
+attwärtz
+
+	1 Manc1643_44_Cat 481.lpp. 12.r.
+	-----
+	1
+
+
+attwerr
+
+	1 Manc1643_44_Cat 470.lpp. 7.r.
+	1 Manc1643_44_Cat 481.lpp. 14.r.
+	-----
+	2
+
+
+attwiïïam
+
+	1 Manc1643_44_Cat 443.lpp. 8.r.
+	-----
+	1
+
+
 atzeem
 
 	1 Manc1643_44_Cat 475.lpp. 6.r.
@@ -1069,14 +1244,6 @@ atzis
 
 	1 Manc1643_44_Cat 445.lpp. 8.r.
 	1 Manc1643_44_Cat 470.lpp. 5.r.
-	-----
-	2
-
-
-at§ie§tohß
-
-	1 Manc1643_44_Cat 462.lpp. 21.r.
-	1 Manc1643_44_Cat 462.lpp. 23.r.
 	-----
 	2
 
@@ -1098,16 +1265,16 @@ aughumu
 	4
 
 
-auglige
+augïeem
 
-	1 Manc1643_44_Cat 431.lpp. 23.r.
+	1 Manc1643_44_Cat 480.lpp. 10.r.
 	-----
 	1
 
 
-augïeem
+auglige
 
-	1 Manc1643_44_Cat 480.lpp. 10.r.
+	1 Manc1643_44_Cat 431.lpp. 23.r.
 	-----
 	1
 
@@ -1134,110 +1301,6 @@ auk§cham=zell§chanu
 au§úis
 
 	1 Manc1643_44_Cat 445.lpp. 8.r.
-	-----
-	1
-
-
-a§oty
-
-	1 Manc1643_44_Cat 468.lpp. 11.r.
-	-----
-	1
-
-
-a§tohtz
-
-	1 Manc1643_44_Cat 441.lpp. 1.r.
-	-----
-	1
-
-
-a§tota
-
-	1 Manc1643_44_Cat 428.lpp. 22.r.
-	1 Manc1643_44_Cat 465.lpp. 1.r.
-	-----
-	2
-
-
-a§totapadeßmita
-
-	1 Manc1643_44_Cat 430.lpp. 20.r.
-	-----
-	1
-
-
-a§totapadeßmitta
-
-	1 Manc1643_44_Cat 467.lpp. 20.r.
-	-----
-	1
-
-
-a§to§ttz
-
-	1 Manc1643_44_Cat 420.lpp. 12.r.
-	-----
-	1
-
-
-a§§ini
-
-	1 Manc1643_44_Cat 466.lpp. 7.r.
-	-----
-	1
-
-
-a§úini
-
-	1 Manc1643_44_Cat 425.lpp. 15.r.
-	1 Manc1643_44_Cat 426.lpp. 4.r.
-	1 Manc1643_44_Cat 426.lpp. 13.r.
-	1 Manc1643_44_Cat 429.lpp. 16.r.
-	1 Manc1643_44_Cat 430.lpp. 8.r.
-	1 Manc1643_44_Cat 430.lpp. 14.r.
-	1 Manc1643_44_Cat 431.lpp. 4.r.
-	1 Manc1643_44_Cat 431.lpp. 22.r.
-	1 Manc1643_44_Cat 432.lpp. 4.r.
-	1 Manc1643_44_Cat 433.lpp. 16.r.
-	1 Manc1643_44_Cat 447.lpp. 9.r.
-	1 Manc1643_44_Cat 459.lpp. 23.r.
-	1 Manc1643_44_Cat 461.lpp. 5.r.
-	1 Manc1643_44_Cat 465.lpp. 8.r.
-	1 Manc1643_44_Cat 465.lpp. 15.r.
-	1 Manc1643_44_Cat 465.lpp. 19.r.
-	1 Manc1643_44_Cat 466.lpp. 22.r.
-	-----
-	17
-
-
-a§úinis
-
-	1 Manc1643_44_Cat 433.lpp. 2.r.
-	1 Manc1643_44_Cat 466.lpp. 19.r.
-	1 Manc1643_44_Cat 468.lpp. 12.r.
-	-----
-	3
-
-
-a§úinns
-
-	1 Manc1643_44_Cat 460.lpp. 3.r.
-	1 Manc1643_44_Cat 466.lpp. 13.r.
-	-----
-	2
-
-
-a§úino
-
-	1 Manc1643_44_Cat 467.lpp. 1.r.
-	-----
-	1
-
-
-a§úins
-
-	1 Manc1643_44_Cat 432.lpp. 17.r.
 	-----
 	1
 
@@ -1273,6 +1336,49 @@ baggatigu
 	1
 
 
+bähda
+
+	1 Manc1643_44_Cat 475.lpp. 15.r.
+	-----
+	1
+
+
+bähdahm
+
+	1 Manc1643_44_Cat 438.lpp. 7.r.
+	-----
+	1
+
+
+bähdahß
+
+	1 Manc1643_44_Cat 435.lpp. 8.r.
+	-----
+	1
+
+
+bähdas
+
+	1 Manc1643_44_Cat 468.lpp. 8.r.
+	1 Manc1643_44_Cat 468.lpp. 15.r.
+	-----
+	2
+
+
+bähdeem
+
+	1 Manc1643_44_Cat 431.lpp. 18.r.
+	-----
+	1
+
+
+bähdi
+
+	1 Manc1643_44_Cat 468.lpp. 3.r.
+	-----
+	1
+
+
 bahrees
 
 	1 Manc1643_44_Cat 427.lpp. 9.r.
@@ -1286,6 +1392,65 @@ bahreyam
 	1 Manc1643_44_Cat 472.lpp. 1.r.
 	-----
 	1
+
+
+bährna
+
+	1 Manc1643_44_Cat 483.lpp. 15.r.
+	-----
+	1
+
+
+bährna=mazibas
+
+	1 Manc1643_44_Cat 419.lpp. 8.r.
+	-----
+	1
+
+
+bährneem
+
+	1 Manc1643_44_Cat 421.lpp. 7.r.
+	1 Manc1643_44_Cat 444.lpp. 7.r.
+	1 Manc1643_44_Cat 470.lpp. 2.r.
+	1 Manc1643_44_Cat 474.lpp. 23.r.
+	-----
+	4
+
+
+bährneems
+
+	1 Manc1643_44_Cat 450.lpp. 9.r.
+	-----
+	1
+
+
+bährni
+
+	1 Manc1643_44_Cat 449.lpp. 10.r.
+	1 Manc1643_44_Cat 449.lpp. 12.r.
+	1 Manc1643_44_Cat 453.lpp. 13.r.
+	1 Manc1643_44_Cat 459.lpp. 1.r.
+	1 Manc1643_44_Cat 472.lpp. 3.r.
+	1 Manc1643_44_Cat 474.lpp. 24.r.
+	-----
+	6
+
+
+bährnu
+
+	1 Manc1643_44_Cat 424.lpp. 13.r.
+	-----
+	1
+
+
+bährnus
+
+	1 Manc1643_44_Cat 446.lpp. 1.r.
+	1 Manc1643_44_Cat 474.lpp. 20.r.
+	1 Manc1643_44_Cat 479.lpp. 5.r.
+	-----
+	3
 
 
 bailigas
@@ -1336,6 +1501,66 @@ barrjo§chanu
 	1 Manc1643_44_Cat 470.lpp. 20.r.
 	-----
 	1
+
+
+baººo
+
+	1 Manc1643_44_Cat 478.lpp. 27.r.
+	-----
+	1
+
+
+baººotees
+
+	1 Manc1643_44_Cat 479.lpp. 12.r.
+	-----
+	1
+
+
+baßniza
+
+	1 Manc1643_44_Cat 427.lpp. 6.r.
+	-----
+	1
+
+
+baßniza=kungu
+
+	1 Manc1643_44_Cat 462.lpp. 16.r.
+	-----
+	1
+
+
+ba§nizas
+
+	1 Manc1643_44_Cat 425.lpp. 5.r.
+	-----
+	1
+
+
+baßnizas
+
+	1 Manc1643_44_Cat 426.lpp. 21.r.
+	1 Manc1643_44_Cat 426.lpp. 24.r.
+	1 Manc1643_44_Cat 427.lpp. 15.r.
+	1 Manc1643_44_Cat 429.lpp. 20.r.
+	-----
+	4
+
+
+ba§nizas=kungeem
+
+	1 Manc1643_44_Cat 471.lpp. 17.r.
+	-----
+	1
+
+
+ba§nizu
+
+	1 Manc1643_44_Cat 422.lpp. 12.r.
+	1 Manc1643_44_Cat 448.lpp. 4.r.
+	-----
+	2
 
 
 baußleem
@@ -1390,66 +1615,6 @@ baußlus
 	5
 
 
-ba§nizas
-
-	1 Manc1643_44_Cat 425.lpp. 5.r.
-	-----
-	1
-
-
-ba§nizas=kungeem
-
-	1 Manc1643_44_Cat 471.lpp. 17.r.
-	-----
-	1
-
-
-ba§nizu
-
-	1 Manc1643_44_Cat 422.lpp. 12.r.
-	1 Manc1643_44_Cat 448.lpp. 4.r.
-	-----
-	2
-
-
-baßniza
-
-	1 Manc1643_44_Cat 427.lpp. 6.r.
-	-----
-	1
-
-
-baßniza=kungu
-
-	1 Manc1643_44_Cat 462.lpp. 16.r.
-	-----
-	1
-
-
-baßnizas
-
-	1 Manc1643_44_Cat 426.lpp. 21.r.
-	1 Manc1643_44_Cat 426.lpp. 24.r.
-	1 Manc1643_44_Cat 427.lpp. 15.r.
-	1 Manc1643_44_Cat 429.lpp. 20.r.
-	-----
-	4
-
-
-baººo
-
-	1 Manc1643_44_Cat 478.lpp. 27.r.
-	-----
-	1
-
-
-baººotees
-
-	1 Manc1643_44_Cat 479.lpp. 12.r.
-	-----
-	1
-
-
 beedina
 
 	1 Manc1643_44_Cat 444.lpp. 12.r.
@@ -1481,6 +1646,33 @@ behrnings
 behrninjus
 
 	1 Manc1643_44_Cat 482.lpp. 23.r.
+	-----
+	1
+
+
+beß
+
+	1 Manc1643_44_Cat 446.lpp. 7.r.
+	1 Manc1643_44_Cat 451.lpp. 4.r.
+	1 Manc1643_44_Cat 452.lpp. 5.r.
+	1 Manc1643_44_Cat 453.lpp. 5.r.
+	1 Manc1643_44_Cat 458.lpp. 15.r.
+	1 Manc1643_44_Cat 483.lpp. 12.r.
+	-----
+	6
+
+
+beßdibbenigu
+
+	1 Manc1643_44_Cat 480.lpp. 14.r.
+	1 Manc1643_44_Cat 482.lpp. 4.r.
+	-----
+	2
+
+
+beßkauniegs
+
+	1 Manc1643_44_Cat 427.lpp. 11.r.
 	-----
 	1
 
@@ -1545,36 +1737,16 @@ bett
 	54
 
 
-beß
+biedamees
 
-	1 Manc1643_44_Cat 446.lpp. 7.r.
-	1 Manc1643_44_Cat 451.lpp. 4.r.
-	1 Manc1643_44_Cat 452.lpp. 5.r.
-	1 Manc1643_44_Cat 453.lpp. 5.r.
-	1 Manc1643_44_Cat 458.lpp. 15.r.
-	1 Manc1643_44_Cat 483.lpp. 12.r.
-	-----
-	6
-
-
-beßdibbenigu
-
-	1 Manc1643_44_Cat 480.lpp. 14.r.
-	1 Manc1643_44_Cat 482.lpp. 4.r.
-	-----
-	2
-
-
-beßkauniegs
-
-	1 Manc1643_44_Cat 427.lpp. 11.r.
+	1 Manc1643_44_Cat 475.lpp. 4.r.
 	-----
 	1
 
 
-biedamees
+bie§tahs
 
-	1 Manc1643_44_Cat 475.lpp. 4.r.
+	1 Manc1643_44_Cat 471.lpp. 4.r.
 	-----
 	1
 
@@ -1600,13 +1772,6 @@ bietees
 	1 Manc1643_44_Cat 444.lpp. 13.r.
 	-----
 	10
-
-
-bie§tahs
-
-	1 Manc1643_44_Cat 471.lpp. 4.r.
-	-----
-	1
 
 
 bigkeri
@@ -1702,52 +1867,6 @@ buhs
 	11
 
 
-buht
-
-	1 Manc1643_44_Cat 424.lpp. 11.r.
-	1 Manc1643_44_Cat 446.lpp. 10.r.
-	1 Manc1643_44_Cat 471.lpp. 19.r.
-	1 Manc1643_44_Cat 473.lpp. 5.r.
-	1 Manc1643_44_Cat 474.lpp. 2.r.
-	1 Manc1643_44_Cat 477.lpp. 23.r.
-	1 Manc1643_44_Cat 478.lpp. 10.r.
-	1 Manc1643_44_Cat 478.lpp. 16.r.
-	1 Manc1643_44_Cat 478.lpp. 22.r.
-	1 Manc1643_44_Cat 479.lpp. 6.r.
-	-----
-	10
-
-
-buhtam
-
-	1 Manc1643_44_Cat 459.lpp. 1.r.
-	-----
-	1
-
-
-buhtu
-
-	1 Manc1643_44_Cat 447.lpp. 10.r.
-	1 Manc1643_44_Cat 478.lpp. 22.r.
-	1 Manc1643_44_Cat 478.lpp. 23.r.
-	-----
-	3
-
-
-buh§chana
-
-	1 Manc1643_44_Cat 483.lpp. 20.r.
-	-----
-	1
-
-
-buh§chanas
-
-	1 Manc1643_44_Cat 431.lpp. 26.r.
-	-----
-	1
-
-
 buhß
 
 	1 Manc1643_44_Cat 419.lpp. 16.r.
@@ -1835,6 +1954,52 @@ buhß
 	82
 
 
+buh§chana
+
+	1 Manc1643_44_Cat 483.lpp. 20.r.
+	-----
+	1
+
+
+buh§chanas
+
+	1 Manc1643_44_Cat 431.lpp. 26.r.
+	-----
+	1
+
+
+buht
+
+	1 Manc1643_44_Cat 424.lpp. 11.r.
+	1 Manc1643_44_Cat 446.lpp. 10.r.
+	1 Manc1643_44_Cat 471.lpp. 19.r.
+	1 Manc1643_44_Cat 473.lpp. 5.r.
+	1 Manc1643_44_Cat 474.lpp. 2.r.
+	1 Manc1643_44_Cat 477.lpp. 23.r.
+	1 Manc1643_44_Cat 478.lpp. 10.r.
+	1 Manc1643_44_Cat 478.lpp. 16.r.
+	1 Manc1643_44_Cat 478.lpp. 22.r.
+	1 Manc1643_44_Cat 479.lpp. 6.r.
+	-----
+	10
+
+
+buhtam
+
+	1 Manc1643_44_Cat 459.lpp. 1.r.
+	-----
+	1
+
+
+buhtu
+
+	1 Manc1643_44_Cat 447.lpp. 10.r.
+	1 Manc1643_44_Cat 478.lpp. 22.r.
+	1 Manc1643_44_Cat 478.lpp. 23.r.
+	-----
+	3
+
+
 buººam
 
 	1 Manc1643_44_Cat 435.lpp. 7.r.
@@ -1847,108 +2012,6 @@ by
 	1 Manc1643_44_Cat 474.lpp. 17.r.
 	1 Manc1643_44_Cat 480.lpp. 1.r.
 	1 Manc1643_44_Cat 480.lpp. 2.r.
-	-----
-	3
-
-
-bähda
-
-	1 Manc1643_44_Cat 475.lpp. 15.r.
-	-----
-	1
-
-
-bähdahm
-
-	1 Manc1643_44_Cat 438.lpp. 7.r.
-	-----
-	1
-
-
-bähdahß
-
-	1 Manc1643_44_Cat 435.lpp. 8.r.
-	-----
-	1
-
-
-bähdas
-
-	1 Manc1643_44_Cat 468.lpp. 8.r.
-	1 Manc1643_44_Cat 468.lpp. 15.r.
-	-----
-	2
-
-
-bähdeem
-
-	1 Manc1643_44_Cat 431.lpp. 18.r.
-	-----
-	1
-
-
-bähdi
-
-	1 Manc1643_44_Cat 468.lpp. 3.r.
-	-----
-	1
-
-
-bährna
-
-	1 Manc1643_44_Cat 483.lpp. 15.r.
-	-----
-	1
-
-
-bährna=mazibas
-
-	1 Manc1643_44_Cat 419.lpp. 8.r.
-	-----
-	1
-
-
-bährneem
-
-	1 Manc1643_44_Cat 421.lpp. 7.r.
-	1 Manc1643_44_Cat 444.lpp. 7.r.
-	1 Manc1643_44_Cat 470.lpp. 2.r.
-	1 Manc1643_44_Cat 474.lpp. 23.r.
-	-----
-	4
-
-
-bährneems
-
-	1 Manc1643_44_Cat 450.lpp. 9.r.
-	-----
-	1
-
-
-bährni
-
-	1 Manc1643_44_Cat 449.lpp. 10.r.
-	1 Manc1643_44_Cat 449.lpp. 12.r.
-	1 Manc1643_44_Cat 453.lpp. 13.r.
-	1 Manc1643_44_Cat 459.lpp. 1.r.
-	1 Manc1643_44_Cat 472.lpp. 3.r.
-	1 Manc1643_44_Cat 474.lpp. 24.r.
-	-----
-	6
-
-
-bährnu
-
-	1 Manc1643_44_Cat 424.lpp. 13.r.
-	-----
-	1
-
-
-bährnus
-
-	1 Manc1643_44_Cat 446.lpp. 1.r.
-	1 Manc1643_44_Cat 474.lpp. 20.r.
-	1 Manc1643_44_Cat 479.lpp. 5.r.
 	-----
 	3
 
@@ -2023,6 +2086,13 @@ chri§tietz
 	3
 
 
+chri§ti§chana
+
+	1 Manc1643_44_Cat 459.lpp. 4.r.
+	-----
+	1
+
+
 chri§tita
 
 	1 Manc1643_44_Cat 464.lpp. 1.r.
@@ -2090,13 +2160,6 @@ chri§tiyeeta
 chri§tiyo
 
 	1 Manc1643_44_Cat 484.lpp. 7.r.
-	-----
-	1
-
-
-chri§ti§chana
-
-	1 Manc1643_44_Cat 459.lpp. 4.r.
 	-----
 	1
 
@@ -2169,6 +2232,54 @@ chri§tus
 	22
 
 
+däbä§úo
+
+	1 Manc1643_44_Cat 471.lpp. 8.r.
+	-----
+	1
+
+
+däbä§úo=wall§tiba
+
+	1 Manc1643_44_Cat 482.lpp. 28.r.
+	-----
+	1
+
+
+däbbä§úieß
+
+	1 Manc1643_44_Cat 456.lpp. 9.r.
+	-----
+	1
+
+
+däbbä§úo
+
+	1 Manc1643_44_Cat 483.lpp. 1.r.
+	-----
+	1
+
+
+däbbä§úu
+
+	1 Manc1643_44_Cat 423.lpp. 2.r.
+	1 Manc1643_44_Cat 423.lpp. 5.r.
+	1 Manc1643_44_Cat 452.lpp. 2.r.
+	1 Manc1643_44_Cat 470.lpp. 9.r.
+	1 Manc1643_44_Cat 471.lpp. 6.r.
+	1 Manc1643_44_Cat 479.lpp. 27.r.
+	1 Manc1643_44_Cat 483.lpp. 7.r.
+	-----
+	7
+
+
+däbbä§§u
+
+	1 Manc1643_44_Cat 449.lpp. 6.r.
+	-----
+	1
+
+
 dabbu
 
 	1 Manc1643_44_Cat 432.lpp. 15.r.
@@ -2188,16 +2299,16 @@ dabbuis
 	2
 
 
-dabbuit
+dabbui§úeeta
 
-	1 Manc1643_44_Cat 482.lpp. 14.r.
+	1 Manc1643_44_Cat 481.lpp. 11.r.
 	-----
 	1
 
 
-dabbui§úeeta
+dabbuit
 
-	1 Manc1643_44_Cat 481.lpp. 11.r.
+	1 Manc1643_44_Cat 482.lpp. 14.r.
 	-----
 	1
 
@@ -2214,6 +2325,48 @@ dad§chus
 	1 Manc1643_44_Cat 479.lpp. 12.r.
 	-----
 	1
+
+
+dähla
+
+	1 Manc1643_44_Cat 424.lpp. 5.r.
+	1 Manc1643_44_Cat 431.lpp. 5.r.
+	1 Manc1643_44_Cat 457.lpp. 14.r.
+	1 Manc1643_44_Cat 463.lpp. 21.r.
+	1 Manc1643_44_Cat 477.lpp. 17.r.
+	1 Manc1643_44_Cat 480.lpp. 12.r.
+	1 Manc1643_44_Cat 481.lpp. 28.r.
+	1 Manc1643_44_Cat 482.lpp. 18.r.
+	1 Manc1643_44_Cat 484.lpp. 8.r.
+	-----
+	9
+
+
+dähls
+
+	1 Manc1643_44_Cat 428.lpp. 21.r.
+	1 Manc1643_44_Cat 428.lpp. 25.r.
+	1 Manc1643_44_Cat 429.lpp. 1.r.
+	1 Manc1643_44_Cat 429.lpp. 2.r.
+	1 Manc1643_44_Cat 429.lpp. 14.r.
+	1 Manc1643_44_Cat 464.lpp. 27.r.
+	1 Manc1643_44_Cat 465.lpp. 4.r.
+	1 Manc1643_44_Cat 465.lpp. 13.r.
+	1 Manc1643_44_Cat 468.lpp. 25.r.
+	-----
+	9
+
+
+dählu
+
+	1 Manc1643_44_Cat 422.lpp. 1.r.
+	1 Manc1643_44_Cat 431.lpp. 11.r.
+	1 Manc1643_44_Cat 446.lpp. 15.r.
+	1 Manc1643_44_Cat 469.lpp. 3.r.
+	1 Manc1643_44_Cat 471.lpp. 9.r.
+	1 Manc1643_44_Cat 483.lpp. 27.r.
+	-----
+	6
 
 
 dahrgas
@@ -2258,6 +2411,20 @@ dahwanus
 	1 Manc1643_44_Cat 470.lpp. 11.r.
 	-----
 	3
+
+
+dähwäta
+
+	1 Manc1643_44_Cat 478.lpp. 2.r.
+	-----
+	1
+
+
+dähwu§chees
+
+	1 Manc1643_44_Cat 477.lpp. 16.r.
+	-----
+	1
 
 
 dalliba
@@ -2319,6 +2486,13 @@ darraita
 darram
 
 	1 Manc1643_44_Cat 438.lpp. 6.r.
+	-----
+	1
+
+
+daººam
+
+	1 Manc1643_44_Cat 441.lpp. 7.r.
 	-----
 	1
 
@@ -2395,6 +2569,21 @@ darru
 	2
 
 
+da§che=reis
+
+	1 Manc1643_44_Cat 467.lpp. 27.r.
+	-----
+	1
+
+
+da§chekahrt
+
+	1 Manc1643_44_Cat 427.lpp. 5.r.
+	1 Manc1643_44_Cat 427.lpp. 9.r.
+	-----
+	2
+
+
 dauds
 
 	1 Manc1643_44_Cat 426.lpp. 5.r.
@@ -2413,28 +2602,6 @@ daud§eem
 	1
 
 
-da§che=reis
-
-	1 Manc1643_44_Cat 467.lpp. 27.r.
-	-----
-	1
-
-
-da§chekahrt
-
-	1 Manc1643_44_Cat 427.lpp. 5.r.
-	1 Manc1643_44_Cat 427.lpp. 9.r.
-	-----
-	2
-
-
-daººam
-
-	1 Manc1643_44_Cat 441.lpp. 7.r.
-	-----
-	1
-
-
 debbes
 
 	1 Manc1643_44_Cat 421.lpp. 21.r.
@@ -2444,20 +2611,18 @@ debbes
 	3
 
 
-debbe§§ies
+debbeß
 
-	1 Manc1643_44_Cat 422.lpp. 7.r.
-	1 Manc1643_44_Cat 446.lpp. 21.r.
+	1 Manc1643_44_Cat 483.lpp. 24.r.
 	-----
-	2
+	1
 
 
-debbe§§o
+debbeßkus
 
-	1 Manc1643_44_Cat 469.lpp. 1.r.
-	1 Manc1643_44_Cat 470.lpp. 10.r.
+	1 Manc1643_44_Cat 426.lpp. 16.r.
 	-----
-	2
+	1
 
 
 debbe§úes
@@ -2479,6 +2644,14 @@ debbe§úies
 	5
 
 
+debbe§§ies
+
+	1 Manc1643_44_Cat 422.lpp. 7.r.
+	1 Manc1643_44_Cat 446.lpp. 21.r.
+	-----
+	2
+
+
 debbe§úo
 
 	1 Manc1643_44_Cat 431.lpp. 1.r.
@@ -2488,18 +2661,12 @@ debbe§úo
 	3
 
 
-debbeß
+debbe§§o
 
-	1 Manc1643_44_Cat 483.lpp. 24.r.
+	1 Manc1643_44_Cat 469.lpp. 1.r.
+	1 Manc1643_44_Cat 470.lpp. 10.r.
 	-----
-	1
-
-
-debbeßkus
-
-	1 Manc1643_44_Cat 426.lpp. 16.r.
-	-----
-	1
+	2
 
 
 debe§úies
@@ -2827,6 +2994,22 @@ dehl
 	2
 
 
+dehï
+
+	1 Manc1643_44_Cat 465.lpp. 6.r.
+	1 Manc1643_44_Cat 465.lpp. 8.r.
+	1 Manc1643_44_Cat 465.lpp. 11.r.
+	1 Manc1643_44_Cat 465.lpp. 14.r.
+	1 Manc1643_44_Cat 465.lpp. 15.r.
+	1 Manc1643_44_Cat 467.lpp. 23.r.
+	1 Manc1643_44_Cat 468.lpp. 4.r.
+	1 Manc1643_44_Cat 473.lpp. 14.r.
+	2 Manc1643_44_Cat 473.lpp. 15.r.
+	1 Manc1643_44_Cat 474.lpp. 4.r.
+	-----
+	11
+
+
 dehwe
 
 	1 Manc1643_44_Cat 425.lpp. 20.r.
@@ -2847,52 +3030,6 @@ dehwis
 	1 Manc1643_44_Cat 445.lpp. 9.r.
 	-----
 	4
-
-
-dehï
-
-	1 Manc1643_44_Cat 465.lpp. 6.r.
-	1 Manc1643_44_Cat 465.lpp. 8.r.
-	1 Manc1643_44_Cat 465.lpp. 11.r.
-	1 Manc1643_44_Cat 465.lpp. 14.r.
-	1 Manc1643_44_Cat 465.lpp. 15.r.
-	1 Manc1643_44_Cat 467.lpp. 23.r.
-	1 Manc1643_44_Cat 468.lpp. 4.r.
-	1 Manc1643_44_Cat 473.lpp. 14.r.
-	2 Manc1643_44_Cat 473.lpp. 15.r.
-	1 Manc1643_44_Cat 474.lpp. 4.r.
-	-----
-	11
-
-
-dewietz
-
-	1 Manc1643_44_Cat 420.lpp. 15.r.
-	1 Manc1643_44_Cat 442.lpp. 1.r.
-	-----
-	2
-
-
-dewita
-
-	1 Manc1643_44_Cat 428.lpp. 26.r.
-	1 Manc1643_44_Cat 465.lpp. 5.r.
-	-----
-	2
-
-
-dewitapadeßmita
-
-	1 Manc1643_44_Cat 430.lpp. 27.r.
-	-----
-	1
-
-
-dewitapadeßmitta
-
-	1 Manc1643_44_Cat 467.lpp. 26.r.
-	-----
-	1
 
 
 deßmita
@@ -2948,9 +3085,46 @@ deßmitz
 	2
 
 
+dewietz
+
+	1 Manc1643_44_Cat 420.lpp. 15.r.
+	1 Manc1643_44_Cat 442.lpp. 1.r.
+	-----
+	2
+
+
+dewita
+
+	1 Manc1643_44_Cat 428.lpp. 26.r.
+	1 Manc1643_44_Cat 465.lpp. 5.r.
+	-----
+	2
+
+
+dewitapadeßmita
+
+	1 Manc1643_44_Cat 430.lpp. 27.r.
+	-----
+	1
+
+
+dewitapadeßmitta
+
+	1 Manc1643_44_Cat 467.lpp. 26.r.
+	-----
+	1
+
+
 dibbänu
 
 	1 Manc1643_44_Cat 427.lpp. 4.r.
+	-----
+	1
+
+
+di§channe
+
+	1 Manc1643_44_Cat 470.lpp. 2.r.
 	-----
 	1
 
@@ -2966,13 +3140,6 @@ diwi
 diwideßmittis
 
 	1 Manc1643_44_Cat 427.lpp. 23.r.
-	-----
-	1
-
-
-di§channe
-
-	1 Manc1643_44_Cat 470.lpp. 2.r.
 	-----
 	1
 
@@ -3051,6 +3218,13 @@ dohmadami
 	1
 
 
+dohß
+
+	1 Manc1643_44_Cat 448.lpp. 23.r.
+	-----
+	1
+
+
 doht
 
 	1 Manc1643_44_Cat 420.lpp. 13.r.
@@ -3080,13 +3254,6 @@ dohta
 dohtz
 
 	1 Manc1643_44_Cat 465.lpp. 20.r.
-	-----
-	1
-
-
-dohß
-
-	1 Manc1643_44_Cat 448.lpp. 23.r.
 	-----
 	1
 
@@ -3188,71 +3355,16 @@ dro§ch
 	1
 
 
-durrwis
-
-	1 Manc1643_44_Cat 481.lpp. 14.r.
-	-----
-	1
-
-
-dußmibas
-
-	1 Manc1643_44_Cat 427.lpp. 10.r.
-	-----
-	1
-
-
-dußmibu
-
-	1 Manc1643_44_Cat 428.lpp. 11.r.
-	1 Manc1643_44_Cat 431.lpp. 18.r.
-	1 Manc1643_44_Cat 444.lpp. 14.r.
-	1 Manc1643_44_Cat 464.lpp. 17.r.
-	-----
-	4
-
-
-dußmiegs
-
-	1 Manc1643_44_Cat 421.lpp. 5.r.
-	1 Manc1643_44_Cat 444.lpp. 4.r.
-	-----
-	2
-
-
-dweh§úel
-
-	1 Manc1643_44_Cat 445.lpp. 7.r.
-	1 Manc1643_44_Cat 469.lpp. 13.r.
-	-----
-	2
-
-
-dweh§úeleem
-
-	1 Manc1643_44_Cat 472.lpp. 26.r.
-	-----
-	1
-
-
-dweh§úeles
-
-	1 Manc1643_44_Cat 456.lpp. 6.r.
-	1 Manc1643_44_Cat 473.lpp. 15.r.
-	-----
-	2
-
-
-dwehúel
-
-	1 Manc1643_44_Cat 430.lpp. 25.r.
-	-----
-	1
-
-
 d§err
 
 	1 Manc1643_44_Cat 430.lpp. 6.r.
+	-----
+	1
+
+
+d§erºam
+
+	1 Manc1643_44_Cat 466.lpp. 22.r.
 	-----
 	1
 
@@ -3274,23 +3386,6 @@ d§erreta
 	1 Manc1643_44_Cat 466.lpp. 18.r.
 	-----
 	2
-
-
-d§errt
-
-	1 Manc1643_44_Cat 431.lpp. 6.r.
-	1 Manc1643_44_Cat 431.lpp. 22.r.
-	1 Manc1643_44_Cat 433.lpp. 23.r.
-	1 Manc1643_44_Cat 460.lpp. 5.r.
-	-----
-	4
-
-
-d§erru
-
-	1 Manc1643_44_Cat 430.lpp. 7.r.
-	-----
-	1
 
 
 d§err§chana
@@ -3319,9 +3414,19 @@ d§err§chanu
 	2
 
 
-d§erºam
+d§errt
 
-	1 Manc1643_44_Cat 466.lpp. 22.r.
+	1 Manc1643_44_Cat 431.lpp. 6.r.
+	1 Manc1643_44_Cat 431.lpp. 22.r.
+	1 Manc1643_44_Cat 433.lpp. 23.r.
+	1 Manc1643_44_Cat 460.lpp. 5.r.
+	-----
+	4
+
+
+d§erru
+
+	1 Manc1643_44_Cat 430.lpp. 7.r.
 	-----
 	1
 
@@ -3385,22 +3490,6 @@ d§iewojam
 	1
 
 
-d§iewoyam
-
-	1 Manc1643_44_Cat 439.lpp. 5.r.
-	1 Manc1643_44_Cat 450.lpp. 10.r.
-	-----
-	2
-
-
-d§iewoyeeta
-
-	1 Manc1643_44_Cat 472.lpp. 22.r.
-	1 Manc1643_44_Cat 474.lpp. 9.r.
-	-----
-	2
-
-
 d§iewo§chana
 
 	1 Manc1643_44_Cat 433.lpp. 20.r.
@@ -3428,6 +3517,22 @@ d§iewo§chanu
 	1 Manc1643_44_Cat 482.lpp. 14.r.
 	-----
 	6
+
+
+d§iewoyam
+
+	1 Manc1643_44_Cat 439.lpp. 5.r.
+	1 Manc1643_44_Cat 450.lpp. 10.r.
+	-----
+	2
+
+
+d§iewoyeeta
+
+	1 Manc1643_44_Cat 472.lpp. 22.r.
+	1 Manc1643_44_Cat 474.lpp. 9.r.
+	-----
+	2
 
 
 d§iewus
@@ -3458,6 +3563,20 @@ d§iwo
 	1
 
 
+d§iwo§chana
+
+	1 Manc1643_44_Cat 454.lpp. 1.r.
+	-----
+	1
+
+
+d§iwo§chanas
+
+	1 Manc1643_44_Cat 424.lpp. 14.r.
+	-----
+	1
+
+
 d§iwotu
 
 	1 Manc1643_44_Cat 447.lpp. 11.r.
@@ -3473,20 +3592,6 @@ d§iwoyis
 	2
 
 
-d§iwo§chana
-
-	1 Manc1643_44_Cat 454.lpp. 1.r.
-	-----
-	1
-
-
-d§iwo§chanas
-
-	1 Manc1643_44_Cat 424.lpp. 14.r.
-	-----
-	1
-
-
 d§iwus
 
 	1 Manc1643_44_Cat 422.lpp. 10.r.
@@ -3494,108 +3599,66 @@ d§iwus
 	1
 
 
-däbbä§§u
+durrwis
 
-	1 Manc1643_44_Cat 449.lpp. 6.r.
+	1 Manc1643_44_Cat 481.lpp. 14.r.
 	-----
 	1
 
 
-däbbä§úieß
+dußmibas
 
-	1 Manc1643_44_Cat 456.lpp. 9.r.
+	1 Manc1643_44_Cat 427.lpp. 10.r.
 	-----
 	1
 
 
-däbbä§úo
+dußmibu
 
-	1 Manc1643_44_Cat 483.lpp. 1.r.
+	1 Manc1643_44_Cat 428.lpp. 11.r.
+	1 Manc1643_44_Cat 431.lpp. 18.r.
+	1 Manc1643_44_Cat 444.lpp. 14.r.
+	1 Manc1643_44_Cat 464.lpp. 17.r.
+	-----
+	4
+
+
+dußmiegs
+
+	1 Manc1643_44_Cat 421.lpp. 5.r.
+	1 Manc1643_44_Cat 444.lpp. 4.r.
+	-----
+	2
+
+
+dwehúel
+
+	1 Manc1643_44_Cat 430.lpp. 25.r.
 	-----
 	1
 
 
-däbbä§úu
+dweh§úel
 
-	1 Manc1643_44_Cat 423.lpp. 2.r.
-	1 Manc1643_44_Cat 423.lpp. 5.r.
-	1 Manc1643_44_Cat 452.lpp. 2.r.
-	1 Manc1643_44_Cat 470.lpp. 9.r.
-	1 Manc1643_44_Cat 471.lpp. 6.r.
-	1 Manc1643_44_Cat 479.lpp. 27.r.
-	1 Manc1643_44_Cat 483.lpp. 7.r.
+	1 Manc1643_44_Cat 445.lpp. 7.r.
+	1 Manc1643_44_Cat 469.lpp. 13.r.
 	-----
-	7
+	2
 
 
-däbä§úo
+dweh§úeleem
 
-	1 Manc1643_44_Cat 471.lpp. 8.r.
+	1 Manc1643_44_Cat 472.lpp. 26.r.
 	-----
 	1
 
 
-däbä§úo=wall§tiba
+dweh§úeles
 
-	1 Manc1643_44_Cat 482.lpp. 28.r.
+	1 Manc1643_44_Cat 456.lpp. 6.r.
+	1 Manc1643_44_Cat 473.lpp. 15.r.
 	-----
-	1
-
-
-dähla
-
-	1 Manc1643_44_Cat 424.lpp. 5.r.
-	1 Manc1643_44_Cat 431.lpp. 5.r.
-	1 Manc1643_44_Cat 457.lpp. 14.r.
-	1 Manc1643_44_Cat 463.lpp. 21.r.
-	1 Manc1643_44_Cat 477.lpp. 17.r.
-	1 Manc1643_44_Cat 480.lpp. 12.r.
-	1 Manc1643_44_Cat 481.lpp. 28.r.
-	1 Manc1643_44_Cat 482.lpp. 18.r.
-	1 Manc1643_44_Cat 484.lpp. 8.r.
-	-----
-	9
-
-
-dähls
-
-	1 Manc1643_44_Cat 428.lpp. 21.r.
-	1 Manc1643_44_Cat 428.lpp. 25.r.
-	1 Manc1643_44_Cat 429.lpp. 1.r.
-	1 Manc1643_44_Cat 429.lpp. 2.r.
-	1 Manc1643_44_Cat 429.lpp. 14.r.
-	1 Manc1643_44_Cat 464.lpp. 27.r.
-	1 Manc1643_44_Cat 465.lpp. 4.r.
-	1 Manc1643_44_Cat 465.lpp. 13.r.
-	1 Manc1643_44_Cat 468.lpp. 25.r.
-	-----
-	9
-
-
-dählu
-
-	1 Manc1643_44_Cat 422.lpp. 1.r.
-	1 Manc1643_44_Cat 431.lpp. 11.r.
-	1 Manc1643_44_Cat 446.lpp. 15.r.
-	1 Manc1643_44_Cat 469.lpp. 3.r.
-	1 Manc1643_44_Cat 471.lpp. 9.r.
-	1 Manc1643_44_Cat 483.lpp. 27.r.
-	-----
-	6
-
-
-dähwu§chees
-
-	1 Manc1643_44_Cat 477.lpp. 16.r.
-	-----
-	1
-
-
-dähwäta
-
-	1 Manc1643_44_Cat 478.lpp. 2.r.
-	-----
-	1
+	2
 
 
 ee=dro§china
@@ -3612,16 +3675,16 @@ ee=d§imbtz
 	1
 
 
-ee=§tadiyis
+ee=§tadi§chanas
 
-	1 Manc1643_44_Cat 426.lpp. 13.r.
+	1 Manc1643_44_Cat 433.lpp. 2.r.
 	-----
 	1
 
 
-ee=§tadi§chanas
+ee=§tadiyis
 
-	1 Manc1643_44_Cat 433.lpp. 2.r.
+	1 Manc1643_44_Cat 426.lpp. 13.r.
 	-----
 	1
 
@@ -3634,16 +3697,16 @@ eedams
 	2
 
 
-eedotees
+eedäwu§chees
 
-	1 Manc1643_44_Cat 476.lpp. 11.r.
+	1 Manc1643_44_Cat 478.lpp. 6.r.
 	-----
 	1
 
 
-eedäwu§chees
+eedotees
 
-	1 Manc1643_44_Cat 478.lpp. 6.r.
+	1 Manc1643_44_Cat 476.lpp. 11.r.
 	-----
 	1
 
@@ -3872,35 +3935,9 @@ eepreezetais
 	1
 
 
-eet
+eeúahkt
 
-	1 Manc1643_44_Cat 429.lpp. 20.r.
-	1 Manc1643_44_Cat 429.lpp. 22.r.
-	1 Manc1643_44_Cat 429.lpp. 25.r.
-	1 Manc1643_44_Cat 430.lpp. 2.r.
-	1 Manc1643_44_Cat 430.lpp. 11.r.
-	1 Manc1643_44_Cat 430.lpp. 17.r.
-	1 Manc1643_44_Cat 430.lpp. 29.r.
-	1 Manc1643_44_Cat 464.lpp. 3.r.
-	1 Manc1643_44_Cat 467.lpp. 21.r.
-	1 Manc1643_44_Cat 467.lpp. 28.r.
-	1 Manc1643_44_Cat 468.lpp. 9.r.
-	1 Manc1643_44_Cat 480.lpp. 17.r.
-	-----
-	12
-
-
-eewedd
-
-	1 Manc1643_44_Cat 423.lpp. 9.r.
-	1 Manc1643_44_Cat 455.lpp. 4.r.
-	-----
-	2
-
-
-eewädd
-
-	1 Manc1643_44_Cat 455.lpp. 11.r.
+	1 Manc1643_44_Cat 476.lpp. 14.r.
 	-----
 	1
 
@@ -3947,6 +3984,31 @@ ee§tadijumu
 	1
 
 
+ee§tadi§chana
+
+	1 Manc1643_44_Cat 426.lpp. 4.r.
+	1 Manc1643_44_Cat 461.lpp. 5.r.
+	1 Manc1643_44_Cat 466.lpp. 7.r.
+	-----
+	3
+
+
+ee§tadi§chanas
+
+	1 Manc1643_44_Cat 432.lpp. 22.r.
+	1 Manc1643_44_Cat 465.lpp. 19.r.
+	1 Manc1643_44_Cat 476.lpp. 11.r.
+	-----
+	3
+
+
+ee§tadi§chanu
+
+	1 Manc1643_44_Cat 465.lpp. 20.r.
+	-----
+	1
+
+
 ee§tadium
 
 	1 Manc1643_44_Cat 459.lpp. 22.r.
@@ -3974,31 +4036,6 @@ ee§tadiyumu
 	1 Manc1643_44_Cat 461.lpp. 13.r.
 	-----
 	2
-
-
-ee§tadi§chana
-
-	1 Manc1643_44_Cat 426.lpp. 4.r.
-	1 Manc1643_44_Cat 461.lpp. 5.r.
-	1 Manc1643_44_Cat 466.lpp. 7.r.
-	-----
-	3
-
-
-ee§tadi§chanas
-
-	1 Manc1643_44_Cat 432.lpp. 22.r.
-	1 Manc1643_44_Cat 465.lpp. 19.r.
-	1 Manc1643_44_Cat 476.lpp. 11.r.
-	-----
-	3
-
-
-ee§tadi§chanu
-
-	1 Manc1643_44_Cat 465.lpp. 20.r.
-	-----
-	1
 
 
 ee§tahdietz
@@ -4029,11 +4066,37 @@ ee§tiprohta
 	1
 
 
-eeúahkt
+eet
 
-	1 Manc1643_44_Cat 476.lpp. 14.r.
+	1 Manc1643_44_Cat 429.lpp. 20.r.
+	1 Manc1643_44_Cat 429.lpp. 22.r.
+	1 Manc1643_44_Cat 429.lpp. 25.r.
+	1 Manc1643_44_Cat 430.lpp. 2.r.
+	1 Manc1643_44_Cat 430.lpp. 11.r.
+	1 Manc1643_44_Cat 430.lpp. 17.r.
+	1 Manc1643_44_Cat 430.lpp. 29.r.
+	1 Manc1643_44_Cat 464.lpp. 3.r.
+	1 Manc1643_44_Cat 467.lpp. 21.r.
+	1 Manc1643_44_Cat 467.lpp. 28.r.
+	1 Manc1643_44_Cat 468.lpp. 9.r.
+	1 Manc1643_44_Cat 480.lpp. 17.r.
+	-----
+	12
+
+
+eewädd
+
+	1 Manc1643_44_Cat 455.lpp. 11.r.
 	-----
 	1
+
+
+eewedd
+
+	1 Manc1643_44_Cat 423.lpp. 9.r.
+	1 Manc1643_44_Cat 455.lpp. 4.r.
+	-----
+	2
 
 
 ehd
@@ -4117,6 +4180,13 @@ eh§chanu
 	2
 
 
+eh§§t
+
+	1 Manc1643_44_Cat 431.lpp. 22.r.
+	-----
+	1
+
+
 eh§t
 
 	1 Manc1643_44_Cat 431.lpp. 6.r.
@@ -4127,13 +4197,6 @@ eh§t
 	1 Manc1643_44_Cat 479.lpp. 15.r.
 	-----
 	6
-
-
-eh§§t
-
-	1 Manc1643_44_Cat 431.lpp. 22.r.
-	-----
-	1
 
 
 eita
@@ -4283,51 +4346,19 @@ es
 	86
 
 
-evangelium
+eß
 
-	1 Manc1643_44_Cat 482.lpp. 22.r.
-	-----
-	1
-
-
-ewangelio
-
-	1 Manc1643_44_Cat 465.lpp. 18.r.
-	-----
-	1
-
-
-ewangelium
-
-	1 Manc1643_44_Cat 448.lpp. 12.r.
-	1 Manc1643_44_Cat 472.lpp. 8.r.
-	1 Manc1643_44_Cat 472.lpp. 9.r.
-	-----
-	3
-
-
-ey
-
-	1 Manc1643_44_Cat 432.lpp. 8.r.
-	1 Manc1643_44_Cat 463.lpp. 22.r.
-	1 Manc1643_44_Cat 480.lpp. 21.r.
-	-----
-	3
-
-
-e§tadi§chanu
-
-	1 Manc1643_44_Cat 473.lpp. 7.r.
-	-----
-	1
-
-
-e§§i
-
-	1 Manc1643_44_Cat 469.lpp. 6.r.
-	1 Manc1643_44_Cat 480.lpp. 8.r.
+	1 Manc1643_44_Cat 427.lpp. 18.r.
+	1 Manc1643_44_Cat 430.lpp. 7.r.
 	-----
 	2
+
+
+eßmu
+
+	1 Manc1643_44_Cat 427.lpp. 27.r.
+	-----
+	1
 
 
 e§úeeta
@@ -4371,19 +4402,51 @@ e§úi
 	12
 
 
-eß
+e§§i
 
-	1 Manc1643_44_Cat 427.lpp. 18.r.
-	1 Manc1643_44_Cat 430.lpp. 7.r.
+	1 Manc1643_44_Cat 469.lpp. 6.r.
+	1 Manc1643_44_Cat 480.lpp. 8.r.
 	-----
 	2
 
 
-eßmu
+e§tadi§chanu
 
-	1 Manc1643_44_Cat 427.lpp. 27.r.
+	1 Manc1643_44_Cat 473.lpp. 7.r.
 	-----
 	1
+
+
+evangelium
+
+	1 Manc1643_44_Cat 482.lpp. 22.r.
+	-----
+	1
+
+
+ewangelio
+
+	1 Manc1643_44_Cat 465.lpp. 18.r.
+	-----
+	1
+
+
+ewangelium
+
+	1 Manc1643_44_Cat 448.lpp. 12.r.
+	1 Manc1643_44_Cat 472.lpp. 8.r.
+	1 Manc1643_44_Cat 472.lpp. 9.r.
+	-----
+	3
+
+
+ey
+
+	1 Manc1643_44_Cat 432.lpp. 8.r.
+	1 Manc1643_44_Cat 463.lpp. 22.r.
+	1 Manc1643_44_Cat 480.lpp. 21.r.
+	-----
+	3
 
 
 ghaddigam
@@ -4572,6 +4635,20 @@ gharru
 	15
 
 
+gha§pa§chu
+
+	1 Manc1643_44_Cat 427.lpp. 8.r.
+	-----
+	1
+
+
+ghaßpa§chu
+
+	1 Manc1643_44_Cat 463.lpp. 7.r.
+	-----
+	1
+
+
 ghau§úini
 
 	1 Manc1643_44_Cat 470.lpp. 10.r.
@@ -4589,20 +4666,6 @@ ghaweht
 ghawigam
 
 	1 Manc1643_44_Cat 471.lpp. 20.r.
-	-----
-	1
-
-
-gha§pa§chu
-
-	1 Manc1643_44_Cat 427.lpp. 8.r.
-	-----
-	1
-
-
-ghaßpa§chu
-
-	1 Manc1643_44_Cat 463.lpp. 7.r.
 	-----
 	1
 
@@ -4711,200 +4774,6 @@ ghohds
 	1
 
 
-ghramatu
-
-	1 Manc1643_44_Cat 477.lpp. 20.r.
-	-----
-	1
-
-
-ghrap§ta
-
-	1 Manc1643_44_Cat 468.lpp. 12.r.
-	-----
-	1
-
-
-ghree§t
-
-	1 Manc1643_44_Cat 441.lpp. 9.r.
-	-----
-	1
-
-
-ghrehzeneegs
-
-	1 Manc1643_44_Cat 462.lpp. 21.r.
-	-----
-	1
-
-
-ghrehzeneex
-
-	1 Manc1643_44_Cat 464.lpp. 5.r.
-	1 Manc1643_44_Cat 464.lpp. 6.r.
-	-----
-	2
-
-
-ghrehzenekeem
-
-	1 Manc1643_44_Cat 467.lpp. 19.r.
-	-----
-	1
-
-
-ghrehzeneku
-
-	1 Manc1643_44_Cat 462.lpp. 22.r.
-	-----
-	1
-
-
-ghrezeneex
-
-	1 Manc1643_44_Cat 427.lpp. 26.r.
-	1 Manc1643_44_Cat 427.lpp. 27.r.
-	-----
-	2
-
-
-ghrezenekeem
-
-	1 Manc1643_44_Cat 425.lpp. 7.r.
-	-----
-	1
-
-
-ghrib
-
-	1 Manc1643_44_Cat 424.lpp. 10.r.
-	1 Manc1643_44_Cat 430.lpp. 29.r.
-	-----
-	2
-
-
-ghribb
-
-	1 Manc1643_44_Cat 424.lpp. 12.r.
-	1 Manc1643_44_Cat 462.lpp. 11.r.
-	-----
-	2
-
-
-ghribbahs
-
-	1 Manc1643_44_Cat 476.lpp. 10.r.
-	-----
-	1
-
-
-ghribbahß
-
-	1 Manc1643_44_Cat 468.lpp. 8.r.
-	-----
-	1
-
-
-ghribbam
-
-	1 Manc1643_44_Cat 454.lpp. 14.r.
-	-----
-	1
-
-
-ghribbees
-
-	1 Manc1643_44_Cat 484.lpp. 4.r.
-	-----
-	1
-
-
-ghribbi
-
-	1 Manc1643_44_Cat 430.lpp. 2.r.
-	1 Manc1643_44_Cat 431.lpp. 2.r.
-	1 Manc1643_44_Cat 433.lpp. 22.r.
-	1 Manc1643_44_Cat 476.lpp. 21.r.
-	1 Manc1643_44_Cat 476.lpp. 22.r.
-	1 Manc1643_44_Cat 477.lpp. 1.r.
-	1 Manc1643_44_Cat 477.lpp. 2.r.
-	-----
-	7
-
-
-ghribbohtz
-
-	1 Manc1643_44_Cat 456.lpp. 15.r.
-	-----
-	1
-
-
-ghribbu
-
-	1 Manc1643_44_Cat 427.lpp. 18.r.
-	1 Manc1643_44_Cat 433.lpp. 23.r.
-	1 Manc1643_44_Cat 477.lpp. 22.r.
-	1 Manc1643_44_Cat 479.lpp. 3.r.
-	-----
-	4
-
-
-ghribbädami
-
-	1 Manc1643_44_Cat 475.lpp. 6.r.
-	-----
-	1
-
-
-ghribbätu
-
-	1 Manc1643_44_Cat 423.lpp. 18.r.
-	1 Manc1643_44_Cat 454.lpp. 9.r.
-	1 Manc1643_44_Cat 454.lpp. 12.r.
-	1 Manc1643_44_Cat 455.lpp. 8.r.
-	1 Manc1643_44_Cat 456.lpp. 6.r.
-	1 Manc1643_44_Cat 469.lpp. 7.r.
-	1 Manc1643_44_Cat 482.lpp. 5.r.
-	-----
-	7
-
-
-ghribbätu{ghribbatu}
-
-	1 Manc1643_44_Cat 480.lpp. 15.r.
-	-----
-	1
-
-
-ghrumba
-
-	1 Manc1643_44_Cat 478.lpp. 22.r.
-	-----
-	1
-
-
-ghruta
-
-	1 Manc1643_44_Cat 429.lpp. 19.r.
-	-----
-	1
-
-
-ghruteem
-
-	1 Manc1643_44_Cat 427.lpp. 3.r.
-	-----
-	1
-
-
-ghrutus
-
-	1 Manc1643_44_Cat 467.lpp. 12.r.
-	-----
-	1
-
-
 ghrädd§änus
 
 	1 Manc1643_44_Cat 477.lpp. 15.r.
@@ -4998,6 +4867,13 @@ ghräkoht
 	2
 
 
+ghräkoúuhd§e§chana
+
+	1 Manc1643_44_Cat 462.lpp. 15.r.
+	-----
+	1
+
+
 ghräkoyam
 
 	1 Manc1643_44_Cat 454.lpp. 13.r.
@@ -5012,13 +4888,6 @@ ghräkoyis
 	1 Manc1643_44_Cat 464.lpp. 13.r.
 	-----
 	3
-
-
-ghräkoúuhd§e§chana
-
-	1 Manc1643_44_Cat 462.lpp. 15.r.
-	-----
-	1
 
 
 ghräku
@@ -5051,9 +4920,203 @@ ghräkus
 	16
 
 
+ghramatu
+
+	1 Manc1643_44_Cat 477.lpp. 20.r.
+	-----
+	1
+
+
+ghrap§ta
+
+	1 Manc1643_44_Cat 468.lpp. 12.r.
+	-----
+	1
+
+
 ghräßnus
 
 	1 Manc1643_44_Cat 475.lpp. 20.r.
+	-----
+	1
+
+
+ghree§t
+
+	1 Manc1643_44_Cat 441.lpp. 9.r.
+	-----
+	1
+
+
+ghrehzeneegs
+
+	1 Manc1643_44_Cat 462.lpp. 21.r.
+	-----
+	1
+
+
+ghrehzeneex
+
+	1 Manc1643_44_Cat 464.lpp. 5.r.
+	1 Manc1643_44_Cat 464.lpp. 6.r.
+	-----
+	2
+
+
+ghrehzenekeem
+
+	1 Manc1643_44_Cat 467.lpp. 19.r.
+	-----
+	1
+
+
+ghrehzeneku
+
+	1 Manc1643_44_Cat 462.lpp. 22.r.
+	-----
+	1
+
+
+ghrezeneex
+
+	1 Manc1643_44_Cat 427.lpp. 26.r.
+	1 Manc1643_44_Cat 427.lpp. 27.r.
+	-----
+	2
+
+
+ghrezenekeem
+
+	1 Manc1643_44_Cat 425.lpp. 7.r.
+	-----
+	1
+
+
+ghrib
+
+	1 Manc1643_44_Cat 424.lpp. 10.r.
+	1 Manc1643_44_Cat 430.lpp. 29.r.
+	-----
+	2
+
+
+ghribb
+
+	1 Manc1643_44_Cat 424.lpp. 12.r.
+	1 Manc1643_44_Cat 462.lpp. 11.r.
+	-----
+	2
+
+
+ghribbädami
+
+	1 Manc1643_44_Cat 475.lpp. 6.r.
+	-----
+	1
+
+
+ghribbahs
+
+	1 Manc1643_44_Cat 476.lpp. 10.r.
+	-----
+	1
+
+
+ghribbahß
+
+	1 Manc1643_44_Cat 468.lpp. 8.r.
+	-----
+	1
+
+
+ghribbam
+
+	1 Manc1643_44_Cat 454.lpp. 14.r.
+	-----
+	1
+
+
+ghribbätu
+
+	1 Manc1643_44_Cat 423.lpp. 18.r.
+	1 Manc1643_44_Cat 454.lpp. 9.r.
+	1 Manc1643_44_Cat 454.lpp. 12.r.
+	1 Manc1643_44_Cat 455.lpp. 8.r.
+	1 Manc1643_44_Cat 456.lpp. 6.r.
+	1 Manc1643_44_Cat 469.lpp. 7.r.
+	1 Manc1643_44_Cat 482.lpp. 5.r.
+	-----
+	7
+
+
+ghribbätu{ghribbatu}
+
+	1 Manc1643_44_Cat 480.lpp. 15.r.
+	-----
+	1
+
+
+ghribbees
+
+	1 Manc1643_44_Cat 484.lpp. 4.r.
+	-----
+	1
+
+
+ghribbi
+
+	1 Manc1643_44_Cat 430.lpp. 2.r.
+	1 Manc1643_44_Cat 431.lpp. 2.r.
+	1 Manc1643_44_Cat 433.lpp. 22.r.
+	1 Manc1643_44_Cat 476.lpp. 21.r.
+	1 Manc1643_44_Cat 476.lpp. 22.r.
+	1 Manc1643_44_Cat 477.lpp. 1.r.
+	1 Manc1643_44_Cat 477.lpp. 2.r.
+	-----
+	7
+
+
+ghribbohtz
+
+	1 Manc1643_44_Cat 456.lpp. 15.r.
+	-----
+	1
+
+
+ghribbu
+
+	1 Manc1643_44_Cat 427.lpp. 18.r.
+	1 Manc1643_44_Cat 433.lpp. 23.r.
+	1 Manc1643_44_Cat 477.lpp. 22.r.
+	1 Manc1643_44_Cat 479.lpp. 3.r.
+	-----
+	4
+
+
+ghrumba
+
+	1 Manc1643_44_Cat 478.lpp. 22.r.
+	-----
+	1
+
+
+ghruta
+
+	1 Manc1643_44_Cat 429.lpp. 19.r.
+	-----
+	1
+
+
+ghruteem
+
+	1 Manc1643_44_Cat 427.lpp. 3.r.
+	-----
+	1
+
+
+ghrutus
+
+	1 Manc1643_44_Cat 467.lpp. 12.r.
 	-----
 	1
 
@@ -5276,6 +5339,14 @@ gribb
 	3
 
 
+gribbätu
+
+	1 Manc1643_44_Cat 462.lpp. 17.r.
+	1 Manc1643_44_Cat 476.lpp. 12.r.
+	-----
+	2
+
+
 gribbees
 
 	1 Manc1643_44_Cat 477.lpp. 5.r.
@@ -5303,14 +5374,6 @@ gribbu
 
 	1 Manc1643_44_Cat 433.lpp. 12.r.
 	1 Manc1643_44_Cat 463.lpp. 9.r.
-	-----
-	2
-
-
-gribbätu
-
-	1 Manc1643_44_Cat 462.lpp. 17.r.
-	1 Manc1643_44_Cat 476.lpp. 12.r.
 	-----
 	2
 
@@ -5396,17 +5459,6 @@ ihs
 	2
 
 
-ihten
-
-	1 Manc1643_44_Cat 424.lpp. 18.r.
-	1 Manc1643_44_Cat 447.lpp. 12.r.
-	1 Manc1643_44_Cat 448.lpp. 14.r.
-	1 Manc1643_44_Cat 459.lpp. 15.r.
-	1 Manc1643_44_Cat 478.lpp. 12.r.
-	-----
-	5
-
-
 ih§tänas
 
 	1 Manc1643_44_Cat 448.lpp. 17.r.
@@ -5440,6 +5492,17 @@ ih§tänu
 	1 Manc1643_44_Cat 448.lpp. 13.r.
 	-----
 	1
+
+
+ihten
+
+	1 Manc1643_44_Cat 424.lpp. 18.r.
+	1 Manc1643_44_Cat 447.lpp. 12.r.
+	1 Manc1643_44_Cat 448.lpp. 14.r.
+	1 Manc1643_44_Cat 459.lpp. 15.r.
+	1 Manc1643_44_Cat 478.lpp. 12.r.
+	-----
+	5
 
 
 ii
@@ -5487,34 +5550,6 @@ irr
 	2
 
 
-itt
-
-	1 Manc1643_44_Cat 459.lpp. 3.r.
-	-----
-	1
-
-
-iv
-
-	1 Manc1643_44_Cat 423.lpp. 21.r.
-	-----
-	1
-
-
-i§rael
-
-	1 Manc1643_44_Cat 481.lpp. 26.r.
-	-----
-	1
-
-
-i§úami§úa§chanas
-
-	1 Manc1643_44_Cat 455.lpp. 11.r.
-	-----
-	1
-
-
 ißbailohtu
 
 	1 Manc1643_44_Cat 427.lpp. 17.r.
@@ -5536,6 +5571,13 @@ ißdohdahß
 	1
 
 
+ißlee§chanu
+
+	1 Manc1643_44_Cat 467.lpp. 1.r.
+	-----
+	1
+
+
 ißleetz
 
 	1 Manc1643_44_Cat 426.lpp. 5.r.
@@ -5547,13 +5589,6 @@ ißleetz
 	1 Manc1643_44_Cat 466.lpp. 8.r.
 	-----
 	7
-
-
-ißlee§chanu
-
-	1 Manc1643_44_Cat 467.lpp. 1.r.
-	-----
-	1
 
 
 ißlehyis
@@ -5573,9 +5608,37 @@ ißleyis
 	4
 
 
+i§rael
+
+	1 Manc1643_44_Cat 481.lpp. 26.r.
+	-----
+	1
+
+
+i§úami§úa§chanas
+
+	1 Manc1643_44_Cat 455.lpp. 11.r.
+	-----
+	1
+
+
 ißweddis
 
 	1 Manc1643_44_Cat 419.lpp. 16.r.
+	-----
+	1
+
+
+itt
+
+	1 Manc1643_44_Cat 459.lpp. 3.r.
+	-----
+	1
+
+
+iv
+
+	1 Manc1643_44_Cat 423.lpp. 21.r.
 	-----
 	1
 
@@ -5630,6 +5693,35 @@ jadohd
 jakohp
 
 	1 Manc1643_44_Cat 473.lpp. 17.r.
+	-----
+	1
+
+
+jämbta
+
+	1 Manc1643_44_Cat 478.lpp. 2.r.
+	-----
+	1
+
+
+jämbtz
+
+	1 Manc1643_44_Cat 479.lpp. 16.r.
+	-----
+	1
+
+
+jämmam
+
+	1 Manc1643_44_Cat 440.lpp. 5.r.
+	1 Manc1643_44_Cat 470.lpp. 13.r.
+	-----
+	2
+
+
+jämmu
+
+	1 Manc1643_44_Cat 433.lpp. 9.r.
 	-----
 	1
 
@@ -5745,6 +5837,13 @@ jauta§chanas
 	2
 
 
+jautaúchaneem
+
+	1 Manc1643_44_Cat 464.lpp. 1.r.
+	-----
+	1
+
+
 jauta§chaneem
 
 	1 Manc1643_44_Cat 432.lpp. 6.r.
@@ -5755,13 +5854,6 @@ jauta§chaneem
 jauta§chaneems
 
 	1 Manc1643_44_Cat 419.lpp. 9.r.
-	-----
-	1
-
-
-jautaúchaneem
-
-	1 Manc1643_44_Cat 464.lpp. 1.r.
 	-----
 	1
 
@@ -5923,6 +6015,13 @@ je§us
 	12
 
 
+jh§täna
+
+	1 Manc1643_44_Cat 475.lpp. 25.r.
+	-----
+	1
+
+
 jhten
 
 	1 Manc1643_44_Cat 478.lpp. 14.r.
@@ -5930,13 +6029,6 @@ jhten
 	1 Manc1643_44_Cat 478.lpp. 28.r.
 	-----
 	3
-
-
-jh§täna
-
-	1 Manc1643_44_Cat 475.lpp. 25.r.
-	-----
-	1
 
 
 jo
@@ -5973,6 +6065,31 @@ juhs
 	4
 
 
+juhß
+
+	1 Manc1643_44_Cat 426.lpp. 7.r.
+	1 Manc1643_44_Cat 461.lpp. 8.r.
+	1 Manc1643_44_Cat 466.lpp. 10.r.
+	1 Manc1643_44_Cat 467.lpp. 3.r.
+	1 Manc1643_44_Cat 472.lpp. 19.r.
+	1 Manc1643_44_Cat 474.lpp. 9.r.
+	1 Manc1643_44_Cat 474.lpp. 15.r.
+	1 Manc1643_44_Cat 474.lpp. 17.r.
+	1 Manc1643_44_Cat 474.lpp. 20.r.
+	1 Manc1643_44_Cat 474.lpp. 24.r.
+	1 Manc1643_44_Cat 475.lpp. 3.r.
+	1 Manc1643_44_Cat 475.lpp. 7.r.
+	1 Manc1643_44_Cat 475.lpp. 9.r.
+	1 Manc1643_44_Cat 475.lpp. 13.r.
+	1 Manc1643_44_Cat 478.lpp. 6.r.
+	1 Manc1643_44_Cat 478.lpp. 17.r.
+	1 Manc1643_44_Cat 479.lpp. 19.r.
+	1 Manc1643_44_Cat 481.lpp. 11.r.
+	1 Manc1643_44_Cat 481.lpp. 12.r.
+	-----
+	19
+
+
 juh§úam
 
 	1 Manc1643_44_Cat 474.lpp. 9.r.
@@ -6004,31 +6121,6 @@ juh§úus
 	1 Manc1643_44_Cat 474.lpp. 20.r.
 	-----
 	1
-
-
-juhß
-
-	1 Manc1643_44_Cat 426.lpp. 7.r.
-	1 Manc1643_44_Cat 461.lpp. 8.r.
-	1 Manc1643_44_Cat 466.lpp. 10.r.
-	1 Manc1643_44_Cat 467.lpp. 3.r.
-	1 Manc1643_44_Cat 472.lpp. 19.r.
-	1 Manc1643_44_Cat 474.lpp. 9.r.
-	1 Manc1643_44_Cat 474.lpp. 15.r.
-	1 Manc1643_44_Cat 474.lpp. 17.r.
-	1 Manc1643_44_Cat 474.lpp. 20.r.
-	1 Manc1643_44_Cat 474.lpp. 24.r.
-	1 Manc1643_44_Cat 475.lpp. 3.r.
-	1 Manc1643_44_Cat 475.lpp. 7.r.
-	1 Manc1643_44_Cat 475.lpp. 9.r.
-	1 Manc1643_44_Cat 475.lpp. 13.r.
-	1 Manc1643_44_Cat 478.lpp. 6.r.
-	1 Manc1643_44_Cat 478.lpp. 17.r.
-	1 Manc1643_44_Cat 479.lpp. 19.r.
-	1 Manc1643_44_Cat 481.lpp. 11.r.
-	1 Manc1643_44_Cat 481.lpp. 12.r.
-	-----
-	19
 
 
 jumprawas
@@ -6075,13 +6167,6 @@ jums
 	30
 
 
-ju§t
-
-	1 Manc1643_44_Cat 468.lpp. 8.r.
-	-----
-	1
-
-
 ju§úo
 
 	1 Manc1643_44_Cat 474.lpp. 12.r.
@@ -6089,31 +6174,9 @@ ju§úo
 	1
 
 
-jämbta
+ju§t
 
-	1 Manc1643_44_Cat 478.lpp. 2.r.
-	-----
-	1
-
-
-jämbtz
-
-	1 Manc1643_44_Cat 479.lpp. 16.r.
-	-----
-	1
-
-
-jämmam
-
-	1 Manc1643_44_Cat 440.lpp. 5.r.
-	1 Manc1643_44_Cat 470.lpp. 13.r.
-	-----
-	2
-
-
-jämmu
-
-	1 Manc1643_44_Cat 433.lpp. 9.r.
+	1 Manc1643_44_Cat 468.lpp. 8.r.
 	-----
 	1
 
@@ -6365,13 +6428,6 @@ kahrdena
 	1
 
 
-kahrdenati
-
-	1 Manc1643_44_Cat 455.lpp. 12.r.
-	-----
-	1
-
-
 kahrdena§chanas
 
 	1 Manc1643_44_Cat 423.lpp. 10.r.
@@ -6386,6 +6442,13 @@ kahrdena§chanu
 	1 Manc1643_44_Cat 433.lpp. 16.r.
 	-----
 	2
+
+
+kahrdenati
+
+	1 Manc1643_44_Cat 455.lpp. 12.r.
+	-----
+	1
 
 
 kahriba
@@ -6424,6 +6487,13 @@ kahrtan
 	1 Manc1643_44_Cat 479.lpp. 18.r.
 	-----
 	3
+
+
+kähwäta
+
+	1 Manc1643_44_Cat 474.lpp. 13.r.
+	-----
+	1
 
 
 kahwe
@@ -6659,6 +6729,15 @@ kas
 	56
 
 
+kaß
+
+	1 Manc1643_44_Cat 430.lpp. 2.r.
+	1 Manc1643_44_Cat 482.lpp. 8.r.
+	1 Manc1643_44_Cat 483.lpp. 1.r.
+	-----
+	3
+
+
 katters
 
 	1 Manc1643_44_Cat 419.lpp. 15.r.
@@ -6865,15 +6944,6 @@ kaunu
 	1
 
 
-kaß
-
-	1 Manc1643_44_Cat 430.lpp. 2.r.
-	1 Manc1643_44_Cat 482.lpp. 8.r.
-	1 Manc1643_44_Cat 483.lpp. 1.r.
-	-----
-	3
-
-
 key§eram
 
 	2 Manc1643_44_Cat 473.lpp. 13.r.
@@ -6881,16 +6951,16 @@ key§eram
 	2
 
 
-kielu
+kieïa
 
-	1 Manc1643_44_Cat 466.lpp. 22.r.
+	1 Manc1643_44_Cat 465.lpp. 20.r.
 	-----
 	1
 
 
-kieïa
+kielu
 
-	1 Manc1643_44_Cat 465.lpp. 20.r.
+	1 Manc1643_44_Cat 466.lpp. 22.r.
 	-----
 	1
 
@@ -7092,13 +7162,6 @@ krauckleem
 	1
 
 
-kruti
-
-	1 Manc1643_44_Cat 481.lpp. 4.r.
-	-----
-	1
-
-
 kru§ta
 
 	1 Manc1643_44_Cat 429.lpp. 16.r.
@@ -7122,6 +7185,13 @@ kru§tu
 	1 Manc1643_44_Cat 468.lpp. 23.r.
 	-----
 	3
+
+
+kruti
+
+	1 Manc1643_44_Cat 481.lpp. 4.r.
+	-----
+	1
 
 
 kunga
@@ -7298,13 +7368,6 @@ kurrpes
 ku§t
 
 	1 Manc1643_44_Cat 479.lpp. 28.r.
-	-----
-	1
-
-
-kähwäta
-
-	1 Manc1643_44_Cat 474.lpp. 13.r.
 	-----
 	1
 
@@ -7545,6 +7608,31 @@ laizigu
 	4
 
 
+la§úam
+
+	1 Manc1643_44_Cat 477.lpp. 19.r.
+	-----
+	1
+
+
+ïaudeem
+
+	1 Manc1643_44_Cat 432.lpp. 11.r.
+	-----
+	1
+
+
+ïaudis
+
+	1 Manc1643_44_Cat 424.lpp. 3.r.
+	1 Manc1643_44_Cat 457.lpp. 13.r.
+	1 Manc1643_44_Cat 469.lpp. 16.r.
+	1 Manc1643_44_Cat 481.lpp. 26.r.
+	1 Manc1643_44_Cat 482.lpp. 23.r.
+	-----
+	5
+
+
 lauku
 
 	1 Manc1643_44_Cat 479.lpp. 13.r.
@@ -7610,6 +7698,19 @@ laulibu
 	4
 
 
+ïaun
+
+	1 Manc1643_44_Cat 423.lpp. 20.r.
+	1 Manc1643_44_Cat 446.lpp. 5.r.
+	1 Manc1643_44_Cat 456.lpp. 5.r.
+	1 Manc1643_44_Cat 469.lpp. 11.r.
+	1 Manc1643_44_Cat 473.lpp. 11.r.
+	1 Manc1643_44_Cat 476.lpp. 23.r.
+	1 Manc1643_44_Cat 477.lpp. 3.r.
+	-----
+	7
+
+
 laundarritayeem
 
 	1 Manc1643_44_Cat 474.lpp. 6.r.
@@ -7617,11 +7718,27 @@ laundarritayeem
 	1
 
 
-la§úam
+ïauneems
 
-	1 Manc1643_44_Cat 477.lpp. 19.r.
+	1 Manc1643_44_Cat 453.lpp. 6.r.
 	-----
 	1
+
+
+ïauns
+
+	1 Manc1643_44_Cat 469.lpp. 18.r.
+	-----
+	1
+
+
+ïaunu
+
+	1 Manc1643_44_Cat 423.lpp. 11.r.
+	1 Manc1643_44_Cat 452.lpp. 9.r.
+	1 Manc1643_44_Cat 456.lpp. 2.r.
+	-----
+	3
 
 
 leed§eta
@@ -7858,6 +7975,13 @@ lohpus
 	2
 
 
+ïoht
+
+	1 Manc1643_44_Cat 427.lpp. 2.r.
+	-----
+	1
+
+
 lohte
 
 	1 Manc1643_44_Cat 427.lpp. 14.r.
@@ -7942,17 +8066,6 @@ luhd§ohß
 	5
 
 
-luhkt
-
-	1 Manc1643_44_Cat 429.lpp. 21.r.
-	1 Manc1643_44_Cat 456.lpp. 14.r.
-	1 Manc1643_44_Cat 476.lpp. 13.r.
-	1 Manc1643_44_Cat 481.lpp. 5.r.
-	1 Manc1643_44_Cat 481.lpp. 19.r.
-	-----
-	5
-
-
 luhk§chana
 
 	1 Manc1643_44_Cat 423.lpp. 1.r.
@@ -8002,6 +8115,17 @@ luhk§chanu
 	1 Manc1643_44_Cat 454.lpp. 10.r.
 	-----
 	4
+
+
+luhkt
+
+	1 Manc1643_44_Cat 429.lpp. 21.r.
+	1 Manc1643_44_Cat 456.lpp. 14.r.
+	1 Manc1643_44_Cat 476.lpp. 13.r.
+	1 Manc1643_44_Cat 481.lpp. 5.r.
+	1 Manc1643_44_Cat 481.lpp. 19.r.
+	-----
+	5
 
 
 mahjahs
@@ -8073,6 +8197,13 @@ mahzaita
 	1
 
 
+mahzam~ees
+
+	1 Manc1643_44_Cat 467.lpp. 11.r.
+	-----
+	1
+
+
 mahzamees
 
 	1 Manc1643_44_Cat 436.lpp. 7.r.
@@ -8081,9 +8212,9 @@ mahzamees
 	2
 
 
-mahzam~ees
+mahzätu
 
-	1 Manc1643_44_Cat 467.lpp. 11.r.
+	1 Manc1643_44_Cat 453.lpp. 8.r.
 	-----
 	1
 
@@ -8099,19 +8230,19 @@ mahzekleem
 	5
 
 
-mahzekli
-
-	1 Manc1643_44_Cat 482.lpp. 24.r.
-	-----
-	1
-
-
 mahzekïeem
 
 	1 Manc1643_44_Cat 424.lpp. 2.r.
 	1 Manc1643_44_Cat 460.lpp. 13.r.
 	-----
 	2
+
+
+mahzekli
+
+	1 Manc1643_44_Cat 482.lpp. 24.r.
+	-----
+	1
 
 
 mahzetayam
@@ -8221,13 +8352,6 @@ mahzohß
 	2
 
 
-mahzätu
-
-	1 Manc1643_44_Cat 453.lpp. 8.r.
-	-----
-	1
-
-
 mais
 
 	1 Manc1643_44_Cat 423.lpp. 6.r.
@@ -8252,6 +8376,27 @@ mai§e
 	1
 
 
+mäleem
+
+	1 Manc1643_44_Cat 468.lpp. 18.r.
+	-----
+	1
+
+
+mällums
+
+	1 Manc1643_44_Cat 478.lpp. 22.r.
+	-----
+	1
+
+
+mäloyam
+
+	1 Manc1643_44_Cat 435.lpp. 7.r.
+	-----
+	1
+
+
 man
 
 	1 Manc1643_44_Cat 465.lpp. 20.r.
@@ -8259,6 +8404,13 @@ man
 	1 Manc1643_44_Cat 469.lpp. 9.r.
 	-----
 	3
+
+
+man~ta
+
+	1 Manc1643_44_Cat 453.lpp. 13.r.
+	-----
+	1
 
 
 mann
@@ -8471,13 +8623,6 @@ manteneekee
 	1
 
 
-man~ta
-
-	1 Manc1643_44_Cat 453.lpp. 13.r.
-	-----
-	1
-
-
 marci
 
 	1 Manc1643_44_Cat 482.lpp. 22.r.
@@ -8501,11 +8646,40 @@ maria
 	3
 
 
+ma§gha§channu
+
+	1 Manc1643_44_Cat 458.lpp. 21.r.
+	-----
+	1
+
+
+ma§gha§chanu
+
+	1 Manc1643_44_Cat 481.lpp. 27.r.
+	-----
+	1
+
+
 matt
 
 	1 Manc1643_44_Cat 457.lpp. 11.r.
 	-----
 	1
+
+
+mättäcklis
+
+	1 Manc1643_44_Cat 473.lpp. 18.r.
+	-----
+	1
+
+
+mättäcklu
+
+	1 Manc1643_44_Cat 473.lpp. 16.r.
+	1 Manc1643_44_Cat 473.lpp. 18.r.
+	-----
+	2
 
 
 mattheus
@@ -8525,20 +8699,6 @@ mayotayam
 mazaita
 
 	1 Manc1643_44_Cat 457.lpp. 12.r.
-	-----
-	1
-
-
-ma§gha§channu
-
-	1 Manc1643_44_Cat 458.lpp. 21.r.
-	-----
-	1
-
-
-ma§gha§chanu
-
-	1 Manc1643_44_Cat 481.lpp. 27.r.
 	-----
 	1
 
@@ -8591,13 +8751,6 @@ meeru
 	2
 
 
-mee§§a
-
-	1 Manc1643_44_Cat 465.lpp. 27.r.
-	-----
-	1
-
-
 mee§úa
 
 	1 Manc1643_44_Cat 425.lpp. 21.r.
@@ -8612,6 +8765,13 @@ mee§úa
 	1 Manc1643_44_Cat 478.lpp. 4.r.
 	-----
 	10
+
+
+mee§§a
+
+	1 Manc1643_44_Cat 465.lpp. 27.r.
+	-----
+	1
 
 
 mee§úas
@@ -8750,11 +8910,25 @@ meßtees
 	1
 
 
-mielojis
+mieïa
 
-	1 Manc1643_44_Cat 478.lpp. 18.r.
+	1 Manc1643_44_Cat 431.lpp. 4.r.
+	1 Manc1643_44_Cat 480.lpp. 12.r.
+	1 Manc1643_44_Cat 481.lpp. 28.r.
 	-----
-	1
+	3
+
+
+mieïais
+
+	1 Manc1643_44_Cat 426.lpp. 21.r.
+	1 Manc1643_44_Cat 427.lpp. 15.r.
+	1 Manc1643_44_Cat 450.lpp. 11.r.
+	1 Manc1643_44_Cat 450.lpp. 14.r.
+	1 Manc1643_44_Cat 462.lpp. 17.r.
+	1 Manc1643_44_Cat 463.lpp. 16.r.
+	-----
+	6
 
 
 mielä§tiba
@@ -8777,27 +8951,6 @@ mielä§tibu
 	1 Manc1643_44_Cat 431.lpp. 23.r.
 	-----
 	1
-
-
-mieïa
-
-	1 Manc1643_44_Cat 431.lpp. 4.r.
-	1 Manc1643_44_Cat 480.lpp. 12.r.
-	1 Manc1643_44_Cat 481.lpp. 28.r.
-	-----
-	3
-
-
-mieïais
-
-	1 Manc1643_44_Cat 426.lpp. 21.r.
-	1 Manc1643_44_Cat 427.lpp. 15.r.
-	1 Manc1643_44_Cat 450.lpp. 11.r.
-	1 Manc1643_44_Cat 450.lpp. 14.r.
-	1 Manc1643_44_Cat 462.lpp. 17.r.
-	1 Manc1643_44_Cat 463.lpp. 16.r.
-	-----
-	6
 
 
 mieïeem
@@ -8863,6 +9016,13 @@ mieïoht
 mieïojeta
 
 	1 Manc1643_44_Cat 478.lpp. 17.r.
+	-----
+	1
+
+
+mielojis
+
+	1 Manc1643_44_Cat 478.lpp. 18.r.
 	-----
 	1
 
@@ -9066,22 +9226,6 @@ muh§chigu
 	7
 
 
-muh§§o
-
-	1 Manc1643_44_Cat 449.lpp. 6.r.
-	1 Manc1643_44_Cat 465.lpp. 23.r.
-	-----
-	2
-
-
-muh§§u
-
-	1 Manc1643_44_Cat 423.lpp. 8.r.
-	1 Manc1643_44_Cat 458.lpp. 24.r.
-	-----
-	2
-
-
 muh§úa
 
 	1 Manc1643_44_Cat 425.lpp. 15.r.
@@ -9149,6 +9293,14 @@ muh§úo
 	14
 
 
+muh§§o
+
+	1 Manc1643_44_Cat 449.lpp. 6.r.
+	1 Manc1643_44_Cat 465.lpp. 23.r.
+	-----
+	2
+
+
 muh§úu
 
 	1 Manc1643_44_Cat 422.lpp. 1.r.
@@ -9173,26 +9325,20 @@ muh§úu
 	18
 
 
+muh§§u
+
+	1 Manc1643_44_Cat 423.lpp. 8.r.
+	1 Manc1643_44_Cat 458.lpp. 24.r.
+	-----
+	2
+
+
 muh§úus
 
 	1 Manc1643_44_Cat 423.lpp. 19.r.
 	1 Manc1643_44_Cat 454.lpp. 9.r.
 	-----
 	2
-
-
-muita
-
-	1 Manc1643_44_Cat 473.lpp. 19.r.
-	-----
-	1
-
-
-muitu
-
-	1 Manc1643_44_Cat 473.lpp. 19.r.
-	-----
-	1
 
 
 mui§cha
@@ -9205,6 +9351,20 @@ mui§cha
 mui§chu
 
 	1 Manc1643_44_Cat 446.lpp. 1.r.
+	-----
+	1
+
+
+muita
+
+	1 Manc1643_44_Cat 473.lpp. 19.r.
+	-----
+	1
+
+
+muitu
+
+	1 Manc1643_44_Cat 473.lpp. 19.r.
 	-----
 	1
 
@@ -9282,13 +9442,6 @@ mums
 	69
 
 
-mutt
-
-	1 Manc1643_44_Cat 472.lpp. 17.r.
-	-----
-	1
-
-
 mu§chigas
 
 	1 Manc1643_44_Cat 426.lpp. 16.r.
@@ -9327,9 +9480,9 @@ mu§úo
 	1
 
 
-mylä§tibu
+mutt
 
-	1 Manc1643_44_Cat 480.lpp. 11.r.
+	1 Manc1643_44_Cat 472.lpp. 17.r.
 	-----
 	1
 
@@ -9341,40 +9494,11 @@ myïais
 	1
 
 
-mäleem
+mylä§tibu
 
-	1 Manc1643_44_Cat 468.lpp. 18.r.
+	1 Manc1643_44_Cat 480.lpp. 11.r.
 	-----
 	1
-
-
-mällums
-
-	1 Manc1643_44_Cat 478.lpp. 22.r.
-	-----
-	1
-
-
-mäloyam
-
-	1 Manc1643_44_Cat 435.lpp. 7.r.
-	-----
-	1
-
-
-mättäcklis
-
-	1 Manc1643_44_Cat 473.lpp. 18.r.
-	-----
-	1
-
-
-mättäcklu
-
-	1 Manc1643_44_Cat 473.lpp. 16.r.
-	1 Manc1643_44_Cat 473.lpp. 18.r.
-	-----
-	2
 
 
 n
@@ -9516,6 +9640,13 @@ nammu
 	4
 
 
+näß
+
+	1 Manc1643_44_Cat 473.lpp. 9.r.
+	-----
+	1
+
+
 nauda
 
 	1 Manc1643_44_Cat 453.lpp. 13.r.
@@ -9571,13 +9702,11 @@ nei
 	3
 
 
-ney
+ne§úe
 
-	1 Manc1643_44_Cat 435.lpp. 7.r.
-	1 Manc1643_44_Cat 468.lpp. 19.r.
-	1 Manc1643_44_Cat 471.lpp. 23.r.
+	1 Manc1643_44_Cat 482.lpp. 23.r.
 	-----
-	3
+	1
 
 
 ne§t
@@ -9587,11 +9716,13 @@ ne§t
 	1
 
 
-ne§úe
+ney
 
-	1 Manc1643_44_Cat 482.lpp. 23.r.
+	1 Manc1643_44_Cat 435.lpp. 7.r.
+	1 Manc1643_44_Cat 468.lpp. 19.r.
+	1 Manc1643_44_Cat 471.lpp. 23.r.
 	-----
-	1
+	3
 
 
 nhe
@@ -9810,6 +9941,13 @@ nhenoúeed§ibas
 	1
 
 
+nhepaïautohß
+
+	1 Manc1643_44_Cat 433.lpp. 10.r.
+	-----
+	1
+
+
 nhepareis
 
 	1 Manc1643_44_Cat 469.lpp. 8.r.
@@ -9831,18 +9969,19 @@ nhepattee§úu
 	1
 
 
-nhepaïautohß
-
-	1 Manc1643_44_Cat 433.lpp. 10.r.
-	-----
-	1
-
-
 nhepeetitzige
 
 	1 Manc1643_44_Cat 463.lpp. 2.r.
 	-----
 	1
+
+
+nhe§kie§ts
+
+	1 Manc1643_44_Cat 480.lpp. 21.r.
+	1 Manc1643_44_Cat 482.lpp. 17.r.
+	-----
+	2
 
 
 nhetitz
@@ -9902,14 +10041,6 @@ nhezenige
 	1 Manc1643_44_Cat 430.lpp. 17.r.
 	-----
 	1
-
-
-nhe§kie§ts
-
-	1 Manc1643_44_Cat 480.lpp. 21.r.
-	1 Manc1643_44_Cat 482.lpp. 17.r.
-	-----
-	2
 
 
 nicknu
@@ -10099,6 +10230,27 @@ nomirru§úi
 	1
 
 
+nopällna
+
+	1 Manc1643_44_Cat 458.lpp. 3.r.
+	-----
+	1
+
+
+nopällnam
+
+	1 Manc1643_44_Cat 454.lpp. 14.r.
+	-----
+	1
+
+
+nopällnu
+
+	1 Manc1643_44_Cat 446.lpp. 7.r.
+	-----
+	1
+
+
 nopellniti
 
 	1 Manc1643_44_Cat 426.lpp. 18.r.
@@ -10120,23 +10272,30 @@ nopuhßdam~es
 	1
 
 
-nopällna
+no§kirr§ts
 
-	1 Manc1643_44_Cat 458.lpp. 3.r.
+	1 Manc1643_44_Cat 482.lpp. 9.r.
 	-----
 	1
 
 
-nopällnam
+no§kirrtees
 
-	1 Manc1643_44_Cat 454.lpp. 14.r.
+	1 Manc1643_44_Cat 477.lpp. 5.r.
 	-----
 	1
 
 
-nopällnu
+no§kirtees
 
-	1 Manc1643_44_Cat 446.lpp. 7.r.
+	1 Manc1643_44_Cat 476.lpp. 25.r.
+	-----
+	1
+
+
+noúohdiyis
+
+	1 Manc1643_44_Cat 481.lpp. 22.r.
 	-----
 	1
 
@@ -10178,34 +10337,6 @@ nowehr§cham
 	1
 
 
-no§kirrtees
-
-	1 Manc1643_44_Cat 477.lpp. 5.r.
-	-----
-	1
-
-
-no§kirr§ts
-
-	1 Manc1643_44_Cat 482.lpp. 9.r.
-	-----
-	1
-
-
-no§kirtees
-
-	1 Manc1643_44_Cat 476.lpp. 25.r.
-	-----
-	1
-
-
-noúohdiyis
-
-	1 Manc1643_44_Cat 481.lpp. 22.r.
-	-----
-	1
-
-
 nu
 
 	1 Manc1643_44_Cat 444.lpp. 1.r.
@@ -10220,13 +10351,6 @@ nu
 	1 Manc1643_44_Cat 481.lpp. 13.r.
 	-----
 	10
-
-
-näß
-
-	1 Manc1643_44_Cat 473.lpp. 9.r.
-	-----
-	1
 
 
 o
@@ -10513,6 +10637,13 @@ pakudenaht
 	1
 
 
+païaudamees
+
+	1 Manc1643_44_Cat 449.lpp. 11.r.
+	-----
+	1
+
+
 palleek
 
 	1 Manc1643_44_Cat 430.lpp. 18.r.
@@ -10690,6 +10821,232 @@ parradu
 	2
 
 
+pa§luddenaht
+
+	1 Manc1643_44_Cat 433.lpp. 19.r.
+	1 Manc1643_44_Cat 462.lpp. 19.r.
+	1 Manc1643_44_Cat 467.lpp. 7.r.
+	-----
+	3
+
+
+pa§úarga{pa&§úarga}
+
+	1 Manc1643_44_Cat 446.lpp. 5.r.
+	-----
+	1
+
+
+pa§úarghaht
+
+	1 Manc1643_44_Cat 440.lpp. 8.r.
+	-----
+	1
+
+
+pa§úarghat
+
+	1 Manc1643_44_Cat 423.lpp. 20.r.
+	1 Manc1643_44_Cat 469.lpp. 10.r.
+	-----
+	2
+
+
+pa§úarghayis
+
+	1 Manc1643_44_Cat 469.lpp. 6.r.
+	-----
+	1
+
+
+pa§úarrga
+
+	1 Manc1643_44_Cat 483.lpp. 11.r.
+	-----
+	1
+
+
+pa§úarrghaht
+
+	1 Manc1643_44_Cat 455.lpp. 9.r.
+	-----
+	1
+
+
+pa§úarrghi
+
+	1 Manc1643_44_Cat 450.lpp. 13.r.
+	-----
+	1
+
+
+pa§úaul
+
+	1 Manc1643_44_Cat 424.lpp. 3.r.
+	1 Manc1643_44_Cat 477.lpp. 14.r.
+	1 Manc1643_44_Cat 481.lpp. 22.r.
+	-----
+	3
+
+
+pa§§aul
+
+	1 Manc1643_44_Cat 457.lpp. 12.r.
+	-----
+	1
+
+
+pa§úaule
+
+	1 Manc1643_44_Cat 452.lpp. 13.r.
+	1 Manc1643_44_Cat 455.lpp. 10.r.
+	-----
+	2
+
+
+pa§úauleh
+
+	1 Manc1643_44_Cat 468.lpp. 15.r.
+	-----
+	1
+
+
+pa§úaules
+
+	1 Manc1643_44_Cat 456.lpp. 9.r.
+	-----
+	1
+
+
+pa§úauliga
+
+	1 Manc1643_44_Cat 473.lpp. 9.r.
+	-----
+	1
+
+
+pa§úauligai
+
+	1 Manc1643_44_Cat 474.lpp. 2.r.
+	-----
+	1
+
+
+pa§úauligas
+
+	1 Manc1643_44_Cat 473.lpp. 3.r.
+	-----
+	1
+
+
+pa§úauligu
+
+	1 Manc1643_44_Cat 473.lpp. 24.r.
+	-----
+	1
+
+
+pa§§cha
+
+	1 Manc1643_44_Cat 447.lpp. 10.r.
+	-----
+	1
+
+
+pa§§cha~
+
+	1 Manc1643_44_Cat 478.lpp. 20.r.
+	-----
+	1
+
+
+pa§§cham
+
+	1 Manc1643_44_Cat 475.lpp. 5.r.
+	-----
+	1
+
+
+pa§§cheem
+
+	1 Manc1643_44_Cat 462.lpp. 1.r.
+	-----
+	1
+
+
+pa§§chi
+
+	1 Manc1643_44_Cat 468.lpp. 3.r.
+	-----
+	1
+
+
+pa§§chu
+
+	1 Manc1643_44_Cat 431.lpp. 11.r.
+	1 Manc1643_44_Cat 431.lpp. 21.r.
+	1 Manc1643_44_Cat 436.lpp. 6.r.
+	1 Manc1643_44_Cat 448.lpp. 9.r.
+	1 Manc1643_44_Cat 450.lpp. 4.r.
+	1 Manc1643_44_Cat 451.lpp. 5.r.
+	1 Manc1643_44_Cat 457.lpp. 3.r.
+	1 Manc1643_44_Cat 460.lpp. 5.r.
+	1 Manc1643_44_Cat 467.lpp. 7.r.
+	1 Manc1643_44_Cat 467.lpp. 13.r.
+	1 Manc1643_44_Cat 472.lpp. 2.r.
+	1 Manc1643_44_Cat 475.lpp. 13.r.
+	1 Manc1643_44_Cat 476.lpp. 4.r.
+	1 Manc1643_44_Cat 478.lpp. 25.r.
+	2 Manc1643_44_Cat 478.lpp. 26.r.
+	1 Manc1643_44_Cat 482.lpp. 4.r.
+	-----
+	17
+
+
+pa§tara`
+
+	1 Manc1643_44_Cat 448.lpp. 20.r.
+	-----
+	1
+
+
+pa§taweht
+
+	1 Manc1643_44_Cat 431.lpp. 9.r.
+	-----
+	1
+
+
+pa§uddis
+
+	1 Manc1643_44_Cat 424.lpp. 7.r.
+	1 Manc1643_44_Cat 458.lpp. 10.r.
+	-----
+	2
+
+
+pa§uddu§chu
+
+	1 Manc1643_44_Cat 447.lpp. 5.r.
+	-----
+	1
+
+
+pa§uhdenatu
+
+	1 Manc1643_44_Cat 447.lpp. 5.r.
+	-----
+	1
+
+
+pa§u§§chanu
+
+	1 Manc1643_44_Cat 428.lpp. 12.r.
+	1 Manc1643_44_Cat 464.lpp. 18.r.
+	-----
+	2
+
+
 patt
 
 	1 Manc1643_44_Cat 431.lpp. 9.r.
@@ -10710,11 +11067,13 @@ pattees
 	5
 
 
-pattee§§e
+patteeß
 
-	1 Manc1643_44_Cat 435.lpp. 3.r.
+	1 Manc1643_44_Cat 465.lpp. 13.r.
+	1 Manc1643_44_Cat 465.lpp. 14.r.
+	1 Manc1643_44_Cat 482.lpp. 28.r.
 	-----
-	1
+	3
 
 
 pattee§úa
@@ -10738,6 +11097,13 @@ pattee§úe
 	1
 
 
+pattee§§e
+
+	1 Manc1643_44_Cat 435.lpp. 3.r.
+	-----
+	1
+
+
 pattee§úu
 
 	1 Manc1643_44_Cat 430.lpp. 7.r.
@@ -10746,15 +11112,6 @@ pattee§úu
 	1 Manc1643_44_Cat 435.lpp. 6.r.
 	-----
 	4
-
-
-patteeß
-
-	1 Manc1643_44_Cat 465.lpp. 13.r.
-	1 Manc1643_44_Cat 465.lpp. 14.r.
-	1 Manc1643_44_Cat 482.lpp. 28.r.
-	-----
-	3
 
 
 patteickt
@@ -10853,6 +11210,13 @@ patturr
 	1
 
 
+patturräti
+
+	1 Manc1643_44_Cat 425.lpp. 2.r.
+	-----
+	1
+
+
 patturreht
 
 	1 Manc1643_44_Cat 442.lpp. 9.r.
@@ -10869,13 +11233,6 @@ patturre§úeeta
 	1
 
 
-patturräti
-
-	1 Manc1643_44_Cat 425.lpp. 2.r.
-	-----
-	1
-
-
 patz
 
 	1 Manc1643_44_Cat 456.lpp. 14.r.
@@ -10883,18 +11240,6 @@ patz
 	1 Manc1643_44_Cat 482.lpp. 8.r.
 	-----
 	3
-
-
-pawehleyis
-
-	1 Manc1643_44_Cat 421.lpp. 16.r.
-	1 Manc1643_44_Cat 433.lpp. 17.r.
-	1 Manc1643_44_Cat 456.lpp. 14.r.
-	1 Manc1643_44_Cat 463.lpp. 3.r.
-	1 Manc1643_44_Cat 472.lpp. 8.r.
-	1 Manc1643_44_Cat 480.lpp. 9.r.
-	-----
-	6
 
 
 pawehle§chana
@@ -10912,6 +11257,18 @@ pawehle§chanu
 	2
 
 
+pawehleyis
+
+	1 Manc1643_44_Cat 421.lpp. 16.r.
+	1 Manc1643_44_Cat 433.lpp. 17.r.
+	1 Manc1643_44_Cat 456.lpp. 14.r.
+	1 Manc1643_44_Cat 463.lpp. 3.r.
+	1 Manc1643_44_Cat 472.lpp. 8.r.
+	1 Manc1643_44_Cat 480.lpp. 9.r.
+	-----
+	6
+
+
 pawehlu
 
 	1 Manc1643_44_Cat 469.lpp. 12.r.
@@ -10927,237 +11284,12 @@ pawills
 	2
 
 
-pa§luddenaht
+pedärr
 
-	1 Manc1643_44_Cat 433.lpp. 19.r.
-	1 Manc1643_44_Cat 462.lpp. 19.r.
-	1 Manc1643_44_Cat 467.lpp. 7.r.
-	-----
-	3
-
-
-pa§tara`
-
-	1 Manc1643_44_Cat 448.lpp. 20.r.
-	-----
-	1
-
-
-pa§taweht
-
-	1 Manc1643_44_Cat 431.lpp. 9.r.
-	-----
-	1
-
-
-pa§uddis
-
-	1 Manc1643_44_Cat 424.lpp. 7.r.
-	1 Manc1643_44_Cat 458.lpp. 10.r.
+	1 Manc1643_44_Cat 420.lpp. 21.r.
+	1 Manc1643_44_Cat 473.lpp. 19.r.
 	-----
 	2
-
-
-pa§uddu§chu
-
-	1 Manc1643_44_Cat 447.lpp. 5.r.
-	-----
-	1
-
-
-pa§uhdenatu
-
-	1 Manc1643_44_Cat 447.lpp. 5.r.
-	-----
-	1
-
-
-pa§u§§chanu
-
-	1 Manc1643_44_Cat 428.lpp. 12.r.
-	1 Manc1643_44_Cat 464.lpp. 18.r.
-	-----
-	2
-
-
-pa§§aul
-
-	1 Manc1643_44_Cat 457.lpp. 12.r.
-	-----
-	1
-
-
-pa§§cha
-
-	1 Manc1643_44_Cat 447.lpp. 10.r.
-	-----
-	1
-
-
-pa§§cham
-
-	1 Manc1643_44_Cat 475.lpp. 5.r.
-	-----
-	1
-
-
-pa§§cha~
-
-	1 Manc1643_44_Cat 478.lpp. 20.r.
-	-----
-	1
-
-
-pa§§cheem
-
-	1 Manc1643_44_Cat 462.lpp. 1.r.
-	-----
-	1
-
-
-pa§§chi
-
-	1 Manc1643_44_Cat 468.lpp. 3.r.
-	-----
-	1
-
-
-pa§§chu
-
-	1 Manc1643_44_Cat 431.lpp. 11.r.
-	1 Manc1643_44_Cat 431.lpp. 21.r.
-	1 Manc1643_44_Cat 436.lpp. 6.r.
-	1 Manc1643_44_Cat 448.lpp. 9.r.
-	1 Manc1643_44_Cat 450.lpp. 4.r.
-	1 Manc1643_44_Cat 451.lpp. 5.r.
-	1 Manc1643_44_Cat 457.lpp. 3.r.
-	1 Manc1643_44_Cat 460.lpp. 5.r.
-	1 Manc1643_44_Cat 467.lpp. 7.r.
-	1 Manc1643_44_Cat 467.lpp. 13.r.
-	1 Manc1643_44_Cat 472.lpp. 2.r.
-	1 Manc1643_44_Cat 475.lpp. 13.r.
-	1 Manc1643_44_Cat 476.lpp. 4.r.
-	1 Manc1643_44_Cat 478.lpp. 25.r.
-	2 Manc1643_44_Cat 478.lpp. 26.r.
-	1 Manc1643_44_Cat 482.lpp. 4.r.
-	-----
-	17
-
-
-pa§úarga{pa&§úarga}
-
-	1 Manc1643_44_Cat 446.lpp. 5.r.
-	-----
-	1
-
-
-pa§úarghaht
-
-	1 Manc1643_44_Cat 440.lpp. 8.r.
-	-----
-	1
-
-
-pa§úarghat
-
-	1 Manc1643_44_Cat 423.lpp. 20.r.
-	1 Manc1643_44_Cat 469.lpp. 10.r.
-	-----
-	2
-
-
-pa§úarghayis
-
-	1 Manc1643_44_Cat 469.lpp. 6.r.
-	-----
-	1
-
-
-pa§úarrga
-
-	1 Manc1643_44_Cat 483.lpp. 11.r.
-	-----
-	1
-
-
-pa§úarrghaht
-
-	1 Manc1643_44_Cat 455.lpp. 9.r.
-	-----
-	1
-
-
-pa§úarrghi
-
-	1 Manc1643_44_Cat 450.lpp. 13.r.
-	-----
-	1
-
-
-pa§úaul
-
-	1 Manc1643_44_Cat 424.lpp. 3.r.
-	1 Manc1643_44_Cat 477.lpp. 14.r.
-	1 Manc1643_44_Cat 481.lpp. 22.r.
-	-----
-	3
-
-
-pa§úaule
-
-	1 Manc1643_44_Cat 452.lpp. 13.r.
-	1 Manc1643_44_Cat 455.lpp. 10.r.
-	-----
-	2
-
-
-pa§úauleh
-
-	1 Manc1643_44_Cat 468.lpp. 15.r.
-	-----
-	1
-
-
-pa§úaules
-
-	1 Manc1643_44_Cat 456.lpp. 9.r.
-	-----
-	1
-
-
-pa§úauliga
-
-	1 Manc1643_44_Cat 473.lpp. 9.r.
-	-----
-	1
-
-
-pa§úauligai
-
-	1 Manc1643_44_Cat 474.lpp. 2.r.
-	-----
-	1
-
-
-pa§úauligas
-
-	1 Manc1643_44_Cat 473.lpp. 3.r.
-	-----
-	1
-
-
-pa§úauligu
-
-	1 Manc1643_44_Cat 473.lpp. 24.r.
-	-----
-	1
-
-
-païaudamees
-
-	1 Manc1643_44_Cat 449.lpp. 11.r.
-	-----
-	1
 
 
 pedohd
@@ -11189,14 +11321,6 @@ ped§imbtz
 	2
 
 
-pedärr
-
-	1 Manc1643_44_Cat 420.lpp. 21.r.
-	1 Manc1643_44_Cat 473.lpp. 19.r.
-	-----
-	2
-
-
 pee=ehdini
 
 	1 Manc1643_44_Cat 470.lpp. 7.r.
@@ -11209,6 +11333,21 @@ peeaukt
 	1 Manc1643_44_Cat 431.lpp. 8.r.
 	-----
 	1
+
+
+peedärr
+
+	1 Manc1643_44_Cat 423.lpp. 11.r.
+	1 Manc1643_44_Cat 443.lpp. 4.r.
+	1 Manc1643_44_Cat 443.lpp. 9.r.
+	1 Manc1643_44_Cat 453.lpp. 11.r.
+	1 Manc1643_44_Cat 473.lpp. 13.r.
+	1 Manc1643_44_Cat 473.lpp. 18.r.
+	1 Manc1643_44_Cat 473.lpp. 19.r.
+	2 Manc1643_44_Cat 473.lpp. 20.r.
+	1 Manc1643_44_Cat 482.lpp. 28.r.
+	-----
+	10
 
 
 peedehwis
@@ -11242,6 +11381,20 @@ peedohmu
 	1
 
 
+peedoh§§chanu
+
+	1 Manc1643_44_Cat 425.lpp. 4.r.
+	-----
+	1
+
+
+peedoh§§eeta
+
+	1 Manc1643_44_Cat 424.lpp. 22.r.
+	-----
+	1
+
+
 peedoht
 
 	1 Manc1643_44_Cat 423.lpp. 19.r.
@@ -11262,20 +11415,6 @@ peedohti
 	1 Manc1643_44_Cat 428.lpp. 17.r.
 	-----
 	3
-
-
-peedoh§§chanu
-
-	1 Manc1643_44_Cat 425.lpp. 4.r.
-	-----
-	1
-
-
-peedoh§§eeta
-
-	1 Manc1643_44_Cat 424.lpp. 22.r.
-	-----
-	1
 
 
 peedo§chana
@@ -11333,21 +11472,6 @@ peed§immis
 	2
 
 
-peedärr
-
-	1 Manc1643_44_Cat 423.lpp. 11.r.
-	1 Manc1643_44_Cat 443.lpp. 4.r.
-	1 Manc1643_44_Cat 443.lpp. 9.r.
-	1 Manc1643_44_Cat 453.lpp. 11.r.
-	1 Manc1643_44_Cat 473.lpp. 13.r.
-	1 Manc1643_44_Cat 473.lpp. 18.r.
-	1 Manc1643_44_Cat 473.lpp. 19.r.
-	2 Manc1643_44_Cat 473.lpp. 20.r.
-	1 Manc1643_44_Cat 482.lpp. 28.r.
-	-----
-	10
-
-
 peeklayahß
 
 	1 Manc1643_44_Cat 474.lpp. 25.r.
@@ -11401,19 +11525,19 @@ peeluhd§is
 	1
 
 
+peeluhk§chanas
+
+	1 Manc1643_44_Cat 429.lpp. 27.r.
+	-----
+	1
+
+
 peeluhkt
 
 	1 Manc1643_44_Cat 430.lpp. 28.r.
 	1 Manc1643_44_Cat 449.lpp. 11.r.
 	-----
 	2
-
-
-peeluhk§chanas
-
-	1 Manc1643_44_Cat 429.lpp. 27.r.
-	-----
-	1
 
 
 peelukt
@@ -11439,6 +11563,24 @@ peeminn
 	2
 
 
+peeminnädam~i
+
+	1 Manc1643_44_Cat 433.lpp. 5.r.
+	-----
+	1
+
+
+peeminnädami
+
+	1 Manc1643_44_Cat 425.lpp. 23.r.
+	1 Manc1643_44_Cat 460.lpp. 15.r.
+	1 Manc1643_44_Cat 461.lpp. 8.r.
+	1 Manc1643_44_Cat 466.lpp. 1.r.
+	1 Manc1643_44_Cat 466.lpp. 10.r.
+	-----
+	5
+
+
 peeminneht
 
 	1 Manc1643_44_Cat 431.lpp. 19.r.
@@ -11456,27 +11598,45 @@ peeminne§chanas
 	3
 
 
-peeminnädami
+peer
 
-	1 Manc1643_44_Cat 425.lpp. 23.r.
-	1 Manc1643_44_Cat 460.lpp. 15.r.
-	1 Manc1643_44_Cat 461.lpp. 8.r.
-	1 Manc1643_44_Cat 466.lpp. 1.r.
-	1 Manc1643_44_Cat 466.lpp. 10.r.
-	-----
-	5
-
-
-peeminnädam~i
-
-	1 Manc1643_44_Cat 433.lpp. 5.r.
+	1 Manc1643_44_Cat 481.lpp. 4.r.
 	-----
 	1
 
 
-peer
+peeúauckt
 
-	1 Manc1643_44_Cat 481.lpp. 4.r.
+	1 Manc1643_44_Cat 423.lpp. 16.r.
+	1 Manc1643_44_Cat 430.lpp. 25.r.
+	-----
+	2
+
+
+peeúautz
+
+	1 Manc1643_44_Cat 471.lpp. 1.r.
+	-----
+	1
+
+
+peeúauzam
+
+	1 Manc1643_44_Cat 435.lpp. 8.r.
+	-----
+	1
+
+
+pee§kirrß
+
+	1 Manc1643_44_Cat 477.lpp. 5.r.
+	-----
+	1
+
+
+pee§kirß
+
+	1 Manc1643_44_Cat 476.lpp. 25.r.
 	-----
 	1
 
@@ -11495,15 +11655,6 @@ peewarr
 	1
 
 
-peewilltz
-
-	1 Manc1643_44_Cat 425.lpp. 18.r.
-	1 Manc1643_44_Cat 460.lpp. 11.r.
-	1 Manc1643_44_Cat 465.lpp. 24.r.
-	-----
-	3
-
-
 peewiïï
 
 	1 Manc1643_44_Cat 455.lpp. 10.r.
@@ -11517,6 +11668,15 @@ peewiïïam
 	1 Manc1643_44_Cat 441.lpp. 6.r.
 	-----
 	2
+
+
+peewilltz
+
+	1 Manc1643_44_Cat 425.lpp. 18.r.
+	1 Manc1643_44_Cat 460.lpp. 11.r.
+	1 Manc1643_44_Cat 465.lpp. 24.r.
+	-----
+	3
 
 
 peezas
@@ -11544,42 +11704,6 @@ peezee§t
 peezi
 
 	1 Manc1643_44_Cat 419.lpp. 7.r.
-	-----
-	1
-
-
-pee§kirrß
-
-	1 Manc1643_44_Cat 477.lpp. 5.r.
-	-----
-	1
-
-
-pee§kirß
-
-	1 Manc1643_44_Cat 476.lpp. 25.r.
-	-----
-	1
-
-
-peeúauckt
-
-	1 Manc1643_44_Cat 423.lpp. 16.r.
-	1 Manc1643_44_Cat 430.lpp. 25.r.
-	-----
-	2
-
-
-peeúautz
-
-	1 Manc1643_44_Cat 471.lpp. 1.r.
-	-----
-	1
-
-
-peeúauzam
-
-	1 Manc1643_44_Cat 435.lpp. 8.r.
 	-----
 	1
 
@@ -11658,6 +11782,13 @@ perúoni
 	2
 
 
+peúautzu
+
+	1 Manc1643_44_Cat 481.lpp. 7.r.
+	-----
+	1
+
+
 pe§pee§chu
 
 	1 Manc1643_44_Cat 482.lpp. 17.r.
@@ -11668,6 +11799,13 @@ pe§pee§chu
 pe§tiet
 
 	1 Manc1643_44_Cat 423.lpp. 20.r.
+	-----
+	1
+
+
+pe§ti§chanas
+
+	1 Manc1643_44_Cat 446.lpp. 13.r.
 	-----
 	1
 
@@ -11727,20 +11865,6 @@ pe§tiyis
 	1 Manc1643_44_Cat 431.lpp. 18.r.
 	-----
 	4
-
-
-pe§ti§chanas
-
-	1 Manc1643_44_Cat 446.lpp. 13.r.
-	-----
-	1
-
-
-peúautzu
-
-	1 Manc1643_44_Cat 481.lpp. 7.r.
-	-----
-	1
 
 
 pilato
@@ -12028,13 +12152,6 @@ pullku
 	1
 
 
-puttneem
-
-	1 Manc1643_44_Cat 479.lpp. 27.r.
-	-----
-	1
-
-
 pu§úes
 
 	1 Manc1643_44_Cat 426.lpp. 22.r.
@@ -12043,6 +12160,13 @@ pu§úes
 	1 Manc1643_44_Cat 479.lpp. 11.r.
 	-----
 	4
+
+
+puttneem
+
+	1 Manc1643_44_Cat 479.lpp. 27.r.
+	-----
+	1
 
 
 py
@@ -12186,6 +12310,13 @@ raddiyis
 	1 Manc1643_44_Cat 480.lpp. 8.r.
 	-----
 	3
+
+
+räd§oht
+
+	1 Manc1643_44_Cat 477.lpp. 14.r.
+	-----
+	1
 
 
 rahda
@@ -12339,9 +12470,52 @@ ruppyeem
 	1
 
 
-räd§oht
+úacka
 
-	1 Manc1643_44_Cat 477.lpp. 14.r.
+	1 Manc1643_44_Cat 421.lpp. 1.r.
+	1 Manc1643_44_Cat 421.lpp. 3.r.
+	1 Manc1643_44_Cat 432.lpp. 24.r.
+	1 Manc1643_44_Cat 444.lpp. 1.r.
+	1 Manc1643_44_Cat 444.lpp. 3.r.
+	1 Manc1643_44_Cat 457.lpp. 11.r.
+	1 Manc1643_44_Cat 458.lpp. 8.r.
+	1 Manc1643_44_Cat 458.lpp. 20.r.
+	1 Manc1643_44_Cat 459.lpp. 13.r.
+	1 Manc1643_44_Cat 468.lpp. 13.r.
+	1 Manc1643_44_Cat 468.lpp. 16.r.
+	1 Manc1643_44_Cat 468.lpp. 20.r.
+	1 Manc1643_44_Cat 472.lpp. 16.r.
+	1 Manc1643_44_Cat 478.lpp. 9.r.
+	1 Manc1643_44_Cat 479.lpp. 2.r.
+	1 Manc1643_44_Cat 480.lpp. 3.r.
+	1 Manc1643_44_Cat 484.lpp. 5.r.
+	-----
+	17
+
+
+úackaita
+
+	1 Manc1643_44_Cat 483.lpp. 15.r.
+	-----
+	1
+
+
+úacki
+
+	1 Manc1643_44_Cat 432.lpp. 14.r.
+	1 Manc1643_44_Cat 483.lpp. 17.r.
+	1 Manc1643_44_Cat 483.lpp. 19.r.
+	1 Manc1643_44_Cat 483.lpp. 21.r.
+	1 Manc1643_44_Cat 483.lpp. 25.r.
+	1 Manc1643_44_Cat 484.lpp. 1.r.
+	1 Manc1643_44_Cat 484.lpp. 3.r.
+	-----
+	7
+
+
+úackrah
+
+	1 Manc1643_44_Cat 448.lpp. 15.r.
 	-----
 	1
 
@@ -12354,9 +12528,149 @@ sackt
 	2
 
 
+úacku
+
+	1 Manc1643_44_Cat 483.lpp. 1.r.
+	-----
+	1
+
+
 sahl
 
 	1 Manc1643_44_Cat 479.lpp. 13.r.
+	-----
+	1
+
+
+úahnakauleem
+
+	1 Manc1643_44_Cat 477.lpp. 26.r.
+	-----
+	1
+
+
+úahnakaulu
+
+	1 Manc1643_44_Cat 477.lpp. 28.r.
+	-----
+	1
+
+
+úahpeem
+
+	1 Manc1643_44_Cat 479.lpp. 4.r.
+	-----
+	1
+
+
+úahpes
+
+	1 Manc1643_44_Cat 479.lpp. 3.r.
+	-----
+	1
+
+
+úahtam
+
+	1 Manc1643_44_Cat 471.lpp. 21.r.
+	-----
+	1
+
+
+úaim
+
+	1 Manc1643_44_Cat 443.lpp. 7.r.
+	-----
+	1
+
+
+úaimai
+
+	1 Manc1643_44_Cat 470.lpp. 2.r.
+	-----
+	1
+
+
+úaime
+
+	1 Manc1643_44_Cat 453.lpp. 14.r.
+	-----
+	1
+
+
+úaimei
+
+	1 Manc1643_44_Cat 434.lpp. 5.r.
+	1 Manc1643_44_Cat 444.lpp. 22.r.
+	1 Manc1643_44_Cat 449.lpp. 4.r.
+	1 Manc1643_44_Cat 457.lpp. 4.r.
+	-----
+	4
+
+
+úaimneekam
+
+	1 Manc1643_44_Cat 434.lpp. 5.r.
+	1 Manc1643_44_Cat 444.lpp. 21.r.
+	1 Manc1643_44_Cat 449.lpp. 4.r.
+	1 Manc1643_44_Cat 457.lpp. 4.r.
+	-----
+	4
+
+
+úaimneekeem
+
+	1 Manc1643_44_Cat 470.lpp. 1.r.
+	1 Manc1643_44_Cat 475.lpp. 12.r.
+	-----
+	2
+
+
+úaimnezeeneem
+
+	1 Manc1643_44_Cat 475.lpp. 12.r.
+	-----
+	1
+
+
+úaimnezenu
+
+	1 Manc1643_44_Cat 427.lpp. 8.r.
+	-----
+	1
+
+
+úalaulayis
+
+	1 Manc1643_44_Cat 477.lpp. 10.r.
+	-----
+	1
+
+
+úalaulayo
+
+	1 Manc1643_44_Cat 477.lpp. 16.r.
+	-----
+	1
+
+
+úalicku§chi
+
+	1 Manc1643_44_Cat 470.lpp. 2.r.
+	-----
+	1
+
+
+úalied§ena§chanas
+
+	1 Manc1643_44_Cat 433.lpp. 14.r.
+	-----
+	1
+
+
+sälltu
+
+	1 Manc1643_44_Cat 447.lpp. 8.r.
 	-----
 	1
 
@@ -12368,18 +12682,387 @@ salomons
 	1
 
 
-schis
+úamaitata~
 
-	1 Manc1643_44_Cat 426.lpp. 3.r.
-	1 Manc1643_44_Cat 461.lpp. 4.r.
-	1 Manc1643_44_Cat 466.lpp. 6.r.
+	1 Manc1643_44_Cat 480.lpp. 16.r.
+	-----
+	1
+
+
+sämmo§chanu
+
+	1 Manc1643_44_Cat 475.lpp. 19.r.
+	-----
+	1
+
+
+sämmo§keem
+
+	1 Manc1643_44_Cat 475.lpp. 20.r.
+	-----
+	1
+
+
+§ämmoyetees
+
+	1 Manc1643_44_Cat 475.lpp. 21.r.
+	-----
+	1
+
+
+úapra§§chanu
+
+	1 Manc1643_44_Cat 445.lpp. 8.r.
+	1 Manc1643_44_Cat 448.lpp. 9.r.
+	-----
+	2
+
+
+úaprohtige
+
+	1 Manc1643_44_Cat 434.lpp. 5.r.
+	1 Manc1643_44_Cat 444.lpp. 22.r.
+	1 Manc1643_44_Cat 449.lpp. 4.r.
 	-----
 	3
 
 
-scho
+úaprotige
 
-	1 Manc1643_44_Cat 433.lpp. 26.r.
+	1 Manc1643_44_Cat 457.lpp. 4.r.
+	-----
+	1
+
+
+úara
+
+	1 Manc1643_44_Cat 474.lpp. 16.r.
+	-----
+	1
+
+
+úarrga
+
+	1 Manc1643_44_Cat 446.lpp. 6.r.
+	-----
+	1
+
+
+úarrkana
+
+	1 Manc1643_44_Cat 481.lpp. 25.r.
+	-----
+	1
+
+
+úa§úai§tietz
+
+	1 Manc1643_44_Cat 457.lpp. 9.r.
+	-----
+	1
+
+
+úä§ta
+
+	1 Manc1643_44_Cat 428.lpp. 16.r.
+	1 Manc1643_44_Cat 455.lpp. 3.r.
+	1 Manc1643_44_Cat 464.lpp. 22.r.
+	-----
+	3
+
+
+úä§ts
+
+	1 Manc1643_44_Cat 420.lpp. 9.r.
+	1 Manc1643_44_Cat 439.lpp. 1.r.
+	-----
+	2
+
+
+úattai§úietu
+
+	1 Manc1643_44_Cat 478.lpp. 21.r.
+	-----
+	1
+
+
+úattai§úi§chana
+
+	1 Manc1643_44_Cat 462.lpp. 6.r.
+	-----
+	1
+
+
+úattai§úiyees
+
+	1 Manc1643_44_Cat 462.lpp. 7.r.
+	1 Manc1643_44_Cat 462.lpp. 10.r.
+	-----
+	2
+
+
+úatzidami
+
+	1 Manc1643_44_Cat 442.lpp. 7.r.
+	-----
+	1
+
+
+úatzidams
+
+	1 Manc1643_44_Cat 479.lpp. 10.r.
+	-----
+	1
+
+
+úatziet
+
+	1 Manc1643_44_Cat 462.lpp. 16.r.
+	1 Manc1643_44_Cat 468.lpp. 24.r.
+	1 Manc1643_44_Cat 470.lpp. 4.r.
+	1 Manc1643_44_Cat 470.lpp. 16.r.
+	-----
+	4
+
+
+úatzietz
+
+	1 Manc1643_44_Cat 467.lpp. 24.r.
+	-----
+	1
+
+
+úatzija
+
+	1 Manc1643_44_Cat 424.lpp. 17.r.
+	-----
+	1
+
+
+úatziya
+
+	1 Manc1643_44_Cat 424.lpp. 1.r.
+	1 Manc1643_44_Cat 424.lpp. 20.r.
+	1 Manc1643_44_Cat 425.lpp. 20.r.
+	1 Manc1643_44_Cat 426.lpp. 2.r.
+	1 Manc1643_44_Cat 433.lpp. 1.r.
+	1 Manc1643_44_Cat 460.lpp. 13.r.
+	1 Manc1643_44_Cat 461.lpp. 3.r.
+	1 Manc1643_44_Cat 465.lpp. 26.r.
+	1 Manc1643_44_Cat 466.lpp. 5.r.
+	1 Manc1643_44_Cat 477.lpp. 21.r.
+	1 Manc1643_44_Cat 477.lpp. 29.r.
+	1 Manc1643_44_Cat 479.lpp. 7.r.
+	1 Manc1643_44_Cat 479.lpp. 24.r.
+	1 Manc1643_44_Cat 482.lpp. 26.r.
+	-----
+	14
+
+
+úatziyis
+
+	1 Manc1643_44_Cat 424.lpp. 20.r.
+	1 Manc1643_44_Cat 481.lpp. 10.r.
+	-----
+	2
+
+
+úauß
+
+	1 Manc1643_44_Cat 482.lpp. 11.r.
+	-----
+	1
+
+
+úau§úahm
+
+	1 Manc1643_44_Cat 481.lpp. 26.r.
+	-----
+	1
+
+
+úautze
+
+	1 Manc1643_44_Cat 474.lpp. 17.r.
+	-----
+	1
+
+
+úawa`
+
+	1 Manc1643_44_Cat 468.lpp. 11.r.
+	1 Manc1643_44_Cat 470.lpp. 6.r.
+	1 Manc1643_44_Cat 475.lpp. 23.r.
+	-----
+	3
+
+
+úawai
+
+	1 Manc1643_44_Cat 434.lpp. 5.r.
+	1 Manc1643_44_Cat 444.lpp. 22.r.
+	1 Manc1643_44_Cat 449.lpp. 4.r.
+	-----
+	3
+
+
+úawam
+
+	1 Manc1643_44_Cat 451.lpp. 9.r.
+	1 Manc1643_44_Cat 463.lpp. 1.r.
+	-----
+	2
+
+
+úawas
+
+	1 Manc1643_44_Cat 433.lpp. 18.r.
+	1 Manc1643_44_Cat 478.lpp. 4.r.
+	1 Manc1643_44_Cat 478.lpp. 13.r.
+	1 Manc1643_44_Cat 478.lpp. 17.r.
+	1 Manc1643_44_Cat 478.lpp. 24.r.
+	-----
+	5
+
+
+úaweem
+
+	1 Manc1643_44_Cat 424.lpp. 2.r.
+	1 Manc1643_44_Cat 424.lpp. 17.r.
+	1 Manc1643_44_Cat 425.lpp. 20.r.
+	1 Manc1643_44_Cat 430.lpp. 19.r.
+	1 Manc1643_44_Cat 432.lpp. 24.r.
+	1 Manc1643_44_Cat 433.lpp. 24.r.
+	1 Manc1643_44_Cat 448.lpp. 13.r.
+	1 Manc1643_44_Cat 460.lpp. 13.r.
+	1 Manc1643_44_Cat 465.lpp. 26.r.
+	1 Manc1643_44_Cat 478.lpp. 10.r.
+	1 Manc1643_44_Cat 478.lpp. 15.r.
+	-----
+	11
+
+
+úawi
+
+	1 Manc1643_44_Cat 457.lpp. 4.r.
+	1 Manc1643_44_Cat 468.lpp. 3.r.
+	-----
+	2
+
+
+úawu
+
+	1 Manc1643_44_Cat 423.lpp. 18.r.
+	1 Manc1643_44_Cat 424.lpp. 13.r.
+	1 Manc1643_44_Cat 426.lpp. 13.r.
+	1 Manc1643_44_Cat 427.lpp. 9.r.
+	1 Manc1643_44_Cat 429.lpp. 15.r.
+	1 Manc1643_44_Cat 429.lpp. 20.r.
+	1 Manc1643_44_Cat 430.lpp. 14.r.
+	1 Manc1643_44_Cat 430.lpp. 25.r.
+	1 Manc1643_44_Cat 433.lpp. 9.r.
+	1 Manc1643_44_Cat 433.lpp. 16.r.
+	1 Manc1643_44_Cat 438.lpp. 5.r.
+	1 Manc1643_44_Cat 439.lpp. 6.r.
+	1 Manc1643_44_Cat 440.lpp. 7.r.
+	1 Manc1643_44_Cat 442.lpp. 6.r.
+	1 Manc1643_44_Cat 443.lpp. 7.r.
+	1 Manc1643_44_Cat 447.lpp. 8.r.
+	1 Manc1643_44_Cat 447.lpp. 9.r.
+	1 Manc1643_44_Cat 448.lpp. 9.r.
+	1 Manc1643_44_Cat 449.lpp. 12.r.
+	1 Manc1643_44_Cat 451.lpp. 8.r.
+	1 Manc1643_44_Cat 452.lpp. 14.r.
+	1 Manc1643_44_Cat 463.lpp. 6.r.
+	1 Manc1643_44_Cat 463.lpp. 7.r.
+	1 Manc1643_44_Cat 465.lpp. 8.r.
+	1 Manc1643_44_Cat 465.lpp. 15.r.
+	1 Manc1643_44_Cat 465.lpp. 19.r.
+	1 Manc1643_44_Cat 467.lpp. 18.r.
+	1 Manc1643_44_Cat 468.lpp. 11.r.
+	1 Manc1643_44_Cat 470.lpp. 20.r.
+	1 Manc1643_44_Cat 472.lpp. 2.r.
+	1 Manc1643_44_Cat 472.lpp. 18.r.
+	1 Manc1643_44_Cat 473.lpp. 8.r.
+	1 Manc1643_44_Cat 474.lpp. 11.r.
+	1 Manc1643_44_Cat 474.lpp. 17.r.
+	1 Manc1643_44_Cat 475.lpp. 26.r.
+	1 Manc1643_44_Cat 476.lpp. 18.r.
+	2 Manc1643_44_Cat 478.lpp. 25.r.
+	1 Manc1643_44_Cat 478.lpp. 26.r.
+	1 Manc1643_44_Cat 479.lpp. 21.r.
+	1 Manc1643_44_Cat 480.lpp. 13.r.
+	1 Manc1643_44_Cat 481.lpp. 25.r.
+	1 Manc1643_44_Cat 484.lpp. 13.r.
+	-----
+	43
+
+
+úayämbti
+
+	1 Manc1643_44_Cat 476.lpp. 5.r.
+	-----
+	1
+
+
+úayembt
+
+	1 Manc1643_44_Cat 433.lpp. 27.r.
+	1 Manc1643_44_Cat 453.lpp. 8.r.
+	-----
+	2
+
+
+úayemt
+
+	1 Manc1643_44_Cat 446.lpp. 8.r.
+	-----
+	1
+
+
+§chähl
+
+	1 Manc1643_44_Cat 427.lpp. 14.r.
+	1 Manc1643_44_Cat 428.lpp. 6.r.
+	1 Manc1643_44_Cat 428.lpp. 7.r.
+	1 Manc1643_44_Cat 463.lpp. 8.r.
+	1 Manc1643_44_Cat 464.lpp. 12.r.
+	1 Manc1643_44_Cat 464.lpp. 13.r.
+	-----
+	6
+
+
+§chähla§tibu
+
+	1 Manc1643_44_Cat 456.lpp. 8.r.
+	-----
+	1
+
+
+§chählo
+
+	1 Manc1643_44_Cat 463.lpp. 1.r.
+	-----
+	1
+
+
+§chählodams
+
+	1 Manc1643_44_Cat 454.lpp. 13.r.
+	-----
+	1
+
+
+úchahß
+
+	1 Manc1643_44_Cat 456.lpp. 8.r.
+	-----
+	1
+
+
+§chahß
+
+	1 Manc1643_44_Cat 482.lpp. 19.r.
 	-----
 	1
 
@@ -12391,12 +13074,33 @@ schäla§tiba
 	1
 
 
+§chäla§tiba
+
+	1 Manc1643_44_Cat 461.lpp. 16.r.
+	-----
+	1
+
+
 schäla§tibas
 
 	1 Manc1643_44_Cat 474.lpp. 12.r.
 	1 Manc1643_44_Cat 481.lpp. 24.r.
 	-----
 	2
+
+
+§chäla§tibas
+
+	1 Manc1643_44_Cat 458.lpp. 18.r.
+	-----
+	1
+
+
+§chälä§tibas
+
+	1 Manc1643_44_Cat 433.lpp. 12.r.
+	-----
+	1
 
 
 schäla§tibu
@@ -12412,11 +13116,246 @@ schäla§tibu
 	7
 
 
+§chäla§tibu
+
+	1 Manc1643_44_Cat 444.lpp. 15.r.
+	1 Manc1643_44_Cat 446.lpp. 7.r.
+	1 Manc1643_44_Cat 451.lpp. 10.r.
+	1 Manc1643_44_Cat 463.lpp. 9.r.
+	1 Manc1643_44_Cat 481.lpp. 9.r.
+	1 Manc1643_44_Cat 482.lpp. 4.r.
+	-----
+	6
+
+
+§chäliegs
+
+	1 Manc1643_44_Cat 463.lpp. 12.r.
+	-----
+	1
+
+
+§chee
+
+	1 Manc1643_44_Cat 461.lpp. 11.r.
+	-----
+	1
+
+
+§cheem
+
+	1 Manc1643_44_Cat 421.lpp. 1.r.
+	1 Manc1643_44_Cat 432.lpp. 6.r.
+	1 Manc1643_44_Cat 444.lpp. 1.r.
+	1 Manc1643_44_Cat 462.lpp. 7.r.
+	1 Manc1643_44_Cat 462.lpp. 9.r.
+	-----
+	5
+
+
+§chehliegs
+
+	1 Manc1643_44_Cat 424.lpp. 10.r.
+	1 Manc1643_44_Cat 452.lpp. 5.r.
+	1 Manc1643_44_Cat 452.lpp. 16.r.
+	-----
+	3
+
+
+§chehlige
+
+	1 Manc1643_44_Cat 469.lpp. 5.r.
+	1 Manc1643_44_Cat 469.lpp. 10.r.
+	1 Manc1643_44_Cat 480.lpp. 17.r.
+	1 Manc1643_44_Cat 482.lpp. 5.r.
+	-----
+	4
+
+
+§chehligu
+
+	1 Manc1643_44_Cat 456.lpp. 8.r.
+	-----
+	1
+
+
+§cheit
+
+	1 Manc1643_44_Cat 451.lpp. 11.r.
+	1 Manc1643_44_Cat 476.lpp. 16.r.
+	-----
+	2
+
+
+§cheitan
+
+	1 Manc1643_44_Cat 477.lpp. 13.r.
+	-----
+	1
+
+
+§chinni
+
+	1 Manc1643_44_Cat 451.lpp. 5.r.
+	1 Manc1643_44_Cat 453.lpp. 7.r.
+	-----
+	2
+
+
+úchinny
+
+	1 Manc1643_44_Cat 456.lpp. 4.r.
+	-----
+	1
+
+
+§chinny
+
+	1 Manc1643_44_Cat 450.lpp. 5.r.
+	1 Manc1643_44_Cat 452.lpp. 6.r.
+	1 Manc1643_44_Cat 454.lpp. 8.r.
+	1 Manc1643_44_Cat 455.lpp. 8.r.
+	-----
+	4
+
+
+schis
+
+	1 Manc1643_44_Cat 426.lpp. 3.r.
+	1 Manc1643_44_Cat 461.lpp. 4.r.
+	1 Manc1643_44_Cat 466.lpp. 6.r.
+	-----
+	3
+
+
+§chkie§te
+
+	1 Manc1643_44_Cat 439.lpp. 5.r.
+	1 Manc1643_44_Cat 450.lpp. 8.r.
+	-----
+	2
+
+
+scho
+
+	1 Manc1643_44_Cat 433.lpp. 26.r.
+	-----
+	1
+
+
+§cho
+
+	1 Manc1643_44_Cat 431.lpp. 4.r.
+	1 Manc1643_44_Cat 446.lpp. 9.r.
+	1 Manc1643_44_Cat 468.lpp. 10.r.
+	1 Manc1643_44_Cat 469.lpp. 4.r.
+	1 Manc1643_44_Cat 469.lpp. 9.r.
+	1 Manc1643_44_Cat 476.lpp. 12.r.
+	1 Manc1643_44_Cat 476.lpp. 27.r.
+	1 Manc1643_44_Cat 477.lpp. 7.r.
+	1 Manc1643_44_Cat 481.lpp. 7.r.
+	1 Manc1643_44_Cat 481.lpp. 27.r.
+	1 Manc1643_44_Cat 482.lpp. 5.r.
+	1 Manc1643_44_Cat 482.lpp. 7.r.
+	1 Manc1643_44_Cat 482.lpp. 19.r.
+	1 Manc1643_44_Cat 483.lpp. 12.r.
+	-----
+	14
+
+
+úchodeen
+
+	1 Manc1643_44_Cat 423.lpp. 7.r.
+	-----
+	1
+
+
+§chodeen
+
+	1 Manc1643_44_Cat 453.lpp. 3.r.
+	-----
+	1
+
+
+§chohß
+
+	1 Manc1643_44_Cat 444.lpp. 12.r.
+	1 Manc1643_44_Cat 444.lpp. 16.r.
+	1 Manc1643_44_Cat 470.lpp. 11.r.
+	-----
+	3
+
+
+úeewahm
+
+	1 Manc1643_44_Cat 474.lpp. 9.r.
+	1 Manc1643_44_Cat 474.lpp. 14.r.
+	1 Manc1643_44_Cat 478.lpp. 15.r.
+	-----
+	3
+
+
+úeewam
+
+	1 Manc1643_44_Cat 478.lpp. 10.r.
+	-----
+	1
+
+
+úeewas
+
+	1 Manc1643_44_Cat 471.lpp. 20.r.
+	1 Manc1643_44_Cat 474.lpp. 15.r.
+	1 Manc1643_44_Cat 478.lpp. 4.r.
+	1 Manc1643_44_Cat 478.lpp. 11.r.
+	1 Manc1643_44_Cat 478.lpp. 17.r.
+	1 Manc1643_44_Cat 478.lpp. 24.r.
+	1 Manc1643_44_Cat 479.lpp. 3.r.
+	1 Manc1643_44_Cat 479.lpp. 8.r.
+	-----
+	8
+
+
+úeewi§kahm
+
+	1 Manc1643_44_Cat 474.lpp. 10.r.
+	-----
+	1
+
+
+úeewi§ku
+
+	1 Manc1643_44_Cat 479.lpp. 23.r.
+	-----
+	1
+
+
 seewu
 
 	1 Manc1643_44_Cat 478.lpp. 25.r.
 	-----
 	1
+
+
+úeewu
+
+	1 Manc1643_44_Cat 420.lpp. 20.r.
+	1 Manc1643_44_Cat 443.lpp. 3.r.
+	1 Manc1643_44_Cat 443.lpp. 7.r.
+	1 Manc1643_44_Cat 446.lpp. 1.r.
+	1 Manc1643_44_Cat 477.lpp. 27.r.
+	1 Manc1643_44_Cat 480.lpp. 4.r.
+	1 Manc1643_44_Cat 480.lpp. 8.r.
+	-----
+	7
+
+
+úehdees
+
+	1 Manc1643_44_Cat 422.lpp. 8.r.
+	1 Manc1643_44_Cat 446.lpp. 22.r.
+	-----
+	2
 
 
 semm
@@ -12453,6 +13392,13 @@ semmes
 	11
 
 
+semmeß
+
+	1 Manc1643_44_Cat 483.lpp. 24.r.
+	-----
+	1
+
+
 semmeskahrta`
 
 	1 Manc1643_44_Cat 479.lpp. 17.r.
@@ -12460,9 +13406,54 @@ semmeskahrta`
 	1
 
 
-semmeß
+úeptietz
 
-	1 Manc1643_44_Cat 483.lpp. 24.r.
+	1 Manc1643_44_Cat 420.lpp. 10.r.
+	1 Manc1643_44_Cat 440.lpp. 1.r.
+	-----
+	2
+
+
+úeptinjeem
+
+	1 Manc1643_44_Cat 481.lpp. 23.r.
+	-----
+	1
+
+
+úeptita
+
+	1 Manc1643_44_Cat 428.lpp. 19.r.
+	1 Manc1643_44_Cat 456.lpp. 1.r.
+	1 Manc1643_44_Cat 464.lpp. 25.r.
+	-----
+	3
+
+
+úeptitapadeßmita
+
+	1 Manc1643_44_Cat 430.lpp. 16.r.
+	-----
+	1
+
+
+úeptitapadeßmitta
+
+	1 Manc1643_44_Cat 467.lpp. 15.r.
+	-----
+	1
+
+
+úe§tapadeßmita
+
+	1 Manc1643_44_Cat 430.lpp. 10.r.
+	-----
+	1
+
+
+úe§tapadeßmitta
+
+	1 Manc1643_44_Cat 467.lpp. 5.r.
 	-----
 	1
 
@@ -12477,11 +13468,97 @@ siem
 	4
 
 
+§iemo
+
+	1 Manc1643_44_Cat 459.lpp. 4.r.
+	1 Manc1643_44_Cat 459.lpp. 5.r.
+	-----
+	2
+
+
 siemu
 
 	1 Manc1643_44_Cat 481.lpp. 3.r.
 	-----
 	1
+
+
+§innadami
+
+	1 Manc1643_44_Cat 475.lpp. 10.r.
+	-----
+	1
+
+
+§innaht
+
+	1 Manc1643_44_Cat 432.lpp. 5.r.
+	1 Manc1643_44_Cat 479.lpp. 19.r.
+	-----
+	2
+
+
+§innaita
+
+	1 Manc1643_44_Cat 475.lpp. 14.r.
+	-----
+	1
+
+
+§inni
+
+	1 Manc1643_44_Cat 428.lpp. 2.r.
+	1 Manc1643_44_Cat 464.lpp. 8.r.
+	1 Manc1643_44_Cat 465.lpp. 17.r.
+	-----
+	3
+
+
+§innu
+
+	1 Manc1643_44_Cat 432.lpp. 18.r.
+	-----
+	1
+
+
+úirdi
+
+	1 Manc1643_44_Cat 433.lpp. 27.r.
+	-----
+	1
+
+
+úirds
+
+	1 Manc1643_44_Cat 429.lpp. 18.r.
+	1 Manc1643_44_Cat 455.lpp. 1.r.
+	-----
+	2
+
+
+úirrdes
+
+	1 Manc1643_44_Cat 462.lpp. 12.r.
+	-----
+	1
+
+
+úirrdi
+
+	1 Manc1643_44_Cat 427.lpp. 17.r.
+	1 Manc1643_44_Cat 430.lpp. 25.r.
+	1 Manc1643_44_Cat 475.lpp. 5.r.
+	-----
+	3
+
+
+úirrds
+
+	1 Manc1643_44_Cat 427.lpp. 4.r.
+	1 Manc1643_44_Cat 428.lpp. 15.r.
+	1 Manc1643_44_Cat 475.lpp. 8.r.
+	-----
+	3
 
 
 sirrgo
@@ -12491,6 +13568,14 @@ sirrgo
 	1
 
 
+úi§ts
+
+	1 Manc1643_44_Cat 422.lpp. 4.r.
+	1 Manc1643_44_Cat 446.lpp. 18.r.
+	-----
+	2
+
+
 siweem
 
 	1 Manc1643_44_Cat 479.lpp. 26.r.
@@ -12498,9 +13583,106 @@ siweem
 	1
 
 
+§kaidre
+
+	1 Manc1643_44_Cat 450.lpp. 8.r.
+	-----
+	1
+
+
+§kai§te
+
+	1 Manc1643_44_Cat 462.lpp. 5.r.
+	-----
+	1
+
+
+§kann
+
+	1 Manc1643_44_Cat 432.lpp. 22.r.
+	1 Manc1643_44_Cat 458.lpp. 6.r.
+	1 Manc1643_44_Cat 462.lpp. 2.r.
+	1 Manc1643_44_Cat 465.lpp. 22.r.
+	-----
+	4
+
+
 skie§tibas
 
 	1 Manc1643_44_Cat 459.lpp. 10.r.
+	-----
+	1
+
+
+§kie§tiyis
+
+	1 Manc1643_44_Cat 478.lpp. 19.r.
+	-----
+	1
+
+
+§kirrt
+
+	1 Manc1643_44_Cat 477.lpp. 11.r.
+	-----
+	1
+
+
+§kummige
+
+	1 Manc1643_44_Cat 482.lpp. 24.r.
+	-----
+	1
+
+
+§lahweht
+
+	1 Manc1643_44_Cat 446.lpp. 10.r.
+	-----
+	1
+
+
+úläppkawibu
+
+	1 Manc1643_44_Cat 468.lpp. 18.r.
+	-----
+	1
+
+
+úlaweyam
+
+	1 Manc1643_44_Cat 435.lpp. 9.r.
+	-----
+	1
+
+
+úlawu
+
+	1 Manc1643_44_Cat 431.lpp. 10.r.
+	1 Manc1643_44_Cat 441.lpp. 7.r.
+	1 Manc1643_44_Cat 474.lpp. 7.r.
+	-----
+	3
+
+
+§linnx
+
+	1 Manc1643_44_Cat 463.lpp. 4.r.
+	-----
+	1
+
+
+§luddenaht
+
+	1 Manc1643_44_Cat 426.lpp. 23.r.
+	1 Manc1643_44_Cat 467.lpp. 2.r.
+	-----
+	2
+
+
+úodibas
+
+	1 Manc1643_44_Cat 473.lpp. 14.r.
 	-----
 	1
 
@@ -12512,6 +13694,240 @@ sohbinu
 	1
 
 
+úohdibu
+
+	1 Manc1643_44_Cat 454.lpp. 14.r.
+	1 Manc1643_44_Cat 473.lpp. 11.r.
+	1 Manc1643_44_Cat 481.lpp. 22.r.
+	-----
+	3
+
+
+úohdiet
+
+	1 Manc1643_44_Cat 422.lpp. 10.r.
+	1 Manc1643_44_Cat 444.lpp. 12.r.
+	1 Manc1643_44_Cat 446.lpp. 24.r.
+	-----
+	3
+
+
+úohla
+
+	1 Manc1643_44_Cat 444.lpp. 15.r.
+	1 Manc1643_44_Cat 462.lpp. 2.r.
+	-----
+	2
+
+
+úohli§chana
+
+	1 Manc1643_44_Cat 458.lpp. 5.r.
+	1 Manc1643_44_Cat 458.lpp. 7.r.
+	-----
+	2
+
+
+úohliyis
+
+	1 Manc1643_44_Cat 456.lpp. 14.r.
+	1 Manc1643_44_Cat 482.lpp. 13.r.
+	-----
+	2
+
+
+úohlu
+
+	1 Manc1643_44_Cat 427.lpp. 18.r.
+	-----
+	1
+
+
+úoli§chana
+
+	1 Manc1643_44_Cat 468.lpp. 2.r.
+	1 Manc1643_44_Cat 468.lpp. 4.r.
+	1 Manc1643_44_Cat 474.lpp. 27.r.
+	-----
+	3
+
+
+úoli§chanu
+
+	1 Manc1643_44_Cat 433.lpp. 26.r.
+	-----
+	1
+
+
+úolitas
+
+	1 Manc1643_44_Cat 481.lpp. 17.r.
+	-----
+	1
+
+
+úöw
+
+	1 Manc1643_44_Cat 450.lpp. 4.r.
+	1 Manc1643_44_Cat 451.lpp. 5.r.
+	1 Manc1643_44_Cat 456.lpp. 9.r.
+	1 Manc1643_44_Cat 462.lpp. 5.r.
+	1 Manc1643_44_Cat 462.lpp. 21.r.
+	1 Manc1643_44_Cat 465.lpp. 6.r.
+	1 Manc1643_44_Cat 472.lpp. 5.r.
+	1 Manc1643_44_Cat 475.lpp. 21.r.
+	1 Manc1643_44_Cat 476.lpp. 4.r.
+	1 Manc1643_44_Cat 476.lpp. 10.r.
+	1 Manc1643_44_Cat 476.lpp. 25.r.
+	1 Manc1643_44_Cat 477.lpp. 5.r.
+	1 Manc1643_44_Cat 477.lpp. 15.r.
+	1 Manc1643_44_Cat 478.lpp. 18.r.
+	1 Manc1643_44_Cat 478.lpp. 20.r.
+	1 Manc1643_44_Cat 478.lpp. 26.r.
+	1 Manc1643_44_Cat 484.lpp. 4.r.
+	-----
+	17
+
+
+§öw
+
+	1 Manc1643_44_Cat 455.lpp. 2.r.
+	-----
+	1
+
+
+úpähku
+
+	1 Manc1643_44_Cat 448.lpp. 9.r.
+	-----
+	1
+
+
+§pähku
+
+	1 Manc1643_44_Cat 425.lpp. 6.r.
+	1 Manc1643_44_Cat 447.lpp. 7.r.
+	1 Manc1643_44_Cat 463.lpp. 9.r.
+	-----
+	3
+
+
+úpähx
+
+	1 Manc1643_44_Cat 423.lpp. 12.r.
+	-----
+	1
+
+
+§pähzigu
+
+	1 Manc1643_44_Cat 475.lpp. 22.r.
+	-----
+	1
+
+
+§peedis
+
+	1 Manc1643_44_Cat 467.lpp. 16.r.
+	-----
+	1
+
+
+§pee§ch
+
+	1 Manc1643_44_Cat 430.lpp. 3.r.
+	-----
+	1
+
+
+§pee§t
+
+	1 Manc1643_44_Cat 467.lpp. 27.r.
+	1 Manc1643_44_Cat 468.lpp. 3.r.
+	-----
+	2
+
+
+§pehyu
+
+	1 Manc1643_44_Cat 421.lpp. 15.r.
+	-----
+	1
+
+
+§pehyu§úi
+
+	1 Manc1643_44_Cat 467.lpp. 9.r.
+	-----
+	1
+
+
+§tahw
+
+	1 Manc1643_44_Cat 459.lpp. 12.r.
+	1 Manc1643_44_Cat 460.lpp. 7.r.
+	1 Manc1643_44_Cat 461.lpp. 21.r.
+	1 Manc1643_44_Cat 472.lpp. 13.r.
+	1 Manc1643_44_Cat 472.lpp. 20.r.
+	1 Manc1643_44_Cat 473.lpp. 7.r.
+	1 Manc1643_44_Cat 473.lpp. 8.r.
+	1 Manc1643_44_Cat 477.lpp. 19.r.
+	-----
+	8
+
+
+§tahweht
+
+	1 Manc1643_44_Cat 470.lpp. 3.r.
+	-----
+	1
+
+
+§taighaht
+
+	1 Manc1643_44_Cat 459.lpp. 18.r.
+	-----
+	1
+
+
+§tarpa
+
+	1 Manc1643_44_Cat 476.lpp. 16.r.
+	-----
+	1
+
+
+§tarrpa`
+
+	1 Manc1643_44_Cat 450.lpp. 13.r.
+	-----
+	1
+
+
+§taw
+
+	1 Manc1643_44_Cat 473.lpp. 7.r.
+	1 Manc1643_44_Cat 479.lpp. 20.r.
+	-----
+	2
+
+
+§tippre
+
+	1 Manc1643_44_Cat 426.lpp. 14.r.
+	1 Manc1643_44_Cat 431.lpp. 9.r.
+	1 Manc1643_44_Cat 452.lpp. 14.r.
+	-----
+	3
+
+
+§tippru
+
+	1 Manc1643_44_Cat 477.lpp. 24.r.
+	-----
+	1
+
+
 stipprumu
 
 	1 Manc1643_44_Cat 471.lpp. 2.r.
@@ -12519,16 +13935,74 @@ stipprumu
 	1
 
 
-sweedrus
+§trahda
 
-	1 Manc1643_44_Cat 479.lpp. 14.r.
+	1 Manc1643_44_Cat 472.lpp. 14.r.
+	1 Manc1643_44_Cat 472.lpp. 17.r.
+	1 Manc1643_44_Cat 472.lpp. 20.r.
+	-----
+	3
+
+
+§tundingja
+
+	1 Manc1643_44_Cat 456.lpp. 7.r.
 	-----
 	1
 
 
-swehtietz
+úuddrabu
 
-	1 Manc1643_44_Cat 450.lpp. 2.r.
+	1 Manc1643_44_Cat 447.lpp. 8.r.
+	-----
+	1
+
+
+úuhd§e§chanas
+
+	1 Manc1643_44_Cat 426.lpp. 20.r.
+	-----
+	1
+
+
+úuhd§eyis
+
+	1 Manc1643_44_Cat 426.lpp. 24.r.
+	-----
+	1
+
+
+úuhd§u
+
+	1 Manc1643_44_Cat 426.lpp. 25.r.
+	-----
+	1
+
+
+úuhtiti
+
+	1 Manc1643_44_Cat 474.lpp. 6.r.
+	-----
+	1
+
+
+úuhtiyis
+
+	1 Manc1643_44_Cat 424.lpp. 19.r.
+	-----
+	1
+
+
+úuhtu
+
+	1 Manc1643_44_Cat 424.lpp. 19.r.
+	-----
+	1
+
+
+§wabbads
+
+	1 Manc1643_44_Cat 475.lpp. 11.r.
 	-----
 	1
 
@@ -12549,9 +14023,187 @@ swähta
 	3
 
 
+úwähta
+
+	1 Manc1643_44_Cat 423.lpp. 1.r.
+	1 Manc1643_44_Cat 424.lpp. 5.r.
+	1 Manc1643_44_Cat 457.lpp. 15.r.
+	1 Manc1643_44_Cat 463.lpp. 21.r.
+	-----
+	4
+
+
+§wähta
+
+	1 Manc1643_44_Cat 449.lpp. 3.r.
+	1 Manc1643_44_Cat 460.lpp. 1.r.
+	1 Manc1643_44_Cat 477.lpp. 18.r.
+	1 Manc1643_44_Cat 478.lpp. 23.r.
+	-----
+	4
+
+
 swähtadarri§chanas
 
 	1 Manc1643_44_Cat 448.lpp. 1.r.
+	-----
+	1
+
+
+úwähtadarritais
+
+	1 Manc1643_44_Cat 422.lpp. 21.r.
+	-----
+	1
+
+
+úwähtam
+
+	1 Manc1643_44_Cat 480.lpp. 22.r.
+	-----
+	1
+
+
+§wähtam
+
+	1 Manc1643_44_Cat 451.lpp. 9.r.
+	-----
+	1
+
+
+úwähtas
+
+	1 Manc1643_44_Cat 423.lpp. 14.r.
+	-----
+	1
+
+
+§wähtas
+
+	1 Manc1643_44_Cat 423.lpp. 23.r.
+	1 Manc1643_44_Cat 457.lpp. 3.r.
+	-----
+	2
+
+
+§wähte
+
+	1 Manc1643_44_Cat 436.lpp. 6.r.
+	-----
+	1
+
+
+úwähte=darritais
+
+	1 Manc1643_44_Cat 429.lpp. 11.r.
+	-----
+	1
+
+
+úwähte=darritayi
+
+	1 Manc1643_44_Cat 429.lpp. 8.r.
+	-----
+	1
+
+
+úwähti
+
+	1 Manc1643_44_Cat 467.lpp. 14.r.
+	-----
+	1
+
+
+§wähti
+
+	1 Manc1643_44_Cat 460.lpp. 8.r.
+	-----
+	1
+
+
+úwähtiba
+
+	1 Manc1643_44_Cat 461.lpp. 14.r.
+	-----
+	1
+
+
+§wähtiet
+
+	1 Manc1643_44_Cat 420.lpp. 2.r.
+	-----
+	1
+
+
+§wähtietz
+
+	1 Manc1643_44_Cat 483.lpp. 7.r.
+	-----
+	1
+
+
+§wähtiya
+
+	1 Manc1643_44_Cat 483.lpp. 4.r.
+	-----
+	1
+
+
+§wähtiyis
+
+	1 Manc1643_44_Cat 482.lpp. 3.r.
+	-----
+	1
+
+
+úwähto
+
+	1 Manc1643_44_Cat 422.lpp. 13.r.
+	1 Manc1643_44_Cat 448.lpp. 5.r.
+	-----
+	2
+
+
+úwähtu
+
+	1 Manc1643_44_Cat 422.lpp. 2.r.
+	1 Manc1643_44_Cat 422.lpp. 11.r.
+	1 Manc1643_44_Cat 422.lpp. 12.r.
+	1 Manc1643_44_Cat 423.lpp. 18.r.
+	1 Manc1643_44_Cat 424.lpp. 21.r.
+	1 Manc1643_44_Cat 431.lpp. 2.r.
+	1 Manc1643_44_Cat 431.lpp. 26.r.
+	1 Manc1643_44_Cat 446.lpp. 16.r.
+	1 Manc1643_44_Cat 447.lpp. 8.r.
+	1 Manc1643_44_Cat 448.lpp. 3.r.
+	1 Manc1643_44_Cat 466.lpp. 12.r.
+	-----
+	11
+
+
+§wähtu
+
+	1 Manc1643_44_Cat 424.lpp. 14.r.
+	1 Manc1643_44_Cat 426.lpp. 9.r.
+	1 Manc1643_44_Cat 431.lpp. 19.r.
+	1 Manc1643_44_Cat 436.lpp. 2.r.
+	1 Manc1643_44_Cat 448.lpp. 4.r.
+	1 Manc1643_44_Cat 451.lpp. 8.r.
+	1 Manc1643_44_Cat 458.lpp. 19.r.
+	1 Manc1643_44_Cat 465.lpp. 18.r.
+	1 Manc1643_44_Cat 482.lpp. 2.r.
+	1 Manc1643_44_Cat 482.lpp. 7.r.
+	1 Manc1643_44_Cat 482.lpp. 10.r.
+	1 Manc1643_44_Cat 482.lpp. 22.r.
+	1 Manc1643_44_Cat 484.lpp. 2.r.
+	1 Manc1643_44_Cat 484.lpp. 11.r.
+	-----
+	14
+
+
+§wähtu{§wahtu}
+
+	1 Manc1643_44_Cat 431.lpp. 20.r.
 	-----
 	1
 
@@ -12577,23 +14229,172 @@ swähtz
 	1
 
 
-sälltu
+úwähtz
 
-	1 Manc1643_44_Cat 447.lpp. 8.r.
+	1 Manc1643_44_Cat 422.lpp. 21.r.
+	1 Manc1643_44_Cat 424.lpp. 7.r.
+	1 Manc1643_44_Cat 429.lpp. 4.r.
+	1 Manc1643_44_Cat 429.lpp. 5.r.
+	1 Manc1643_44_Cat 448.lpp. 11.r.
+	1 Manc1643_44_Cat 450.lpp. 6.r.
+	1 Manc1643_44_Cat 458.lpp. 9.r.
+	1 Manc1643_44_Cat 465.lpp. 4.r.
+	1 Manc1643_44_Cat 468.lpp. 26.r.
+	-----
+	9
+
+
+§wähtz
+
+	1 Manc1643_44_Cat 428.lpp. 25.r.
+	1 Manc1643_44_Cat 432.lpp. 12.r.
+	1 Manc1643_44_Cat 450.lpp. 4.r.
+	1 Manc1643_44_Cat 458.lpp. 20.r.
+	1 Manc1643_44_Cat 459.lpp. 13.r.
+	1 Manc1643_44_Cat 465.lpp. 12.r.
+	-----
+	6
+
+
+úwähtzdarritais
+
+	1 Manc1643_44_Cat 429.lpp. 5.r.
 	-----
 	1
 
 
-sämmo§chanu
+úwäta
 
-	1 Manc1643_44_Cat 475.lpp. 19.r.
+	1 Manc1643_44_Cat 479.lpp. 20.r.
+	1 Manc1643_44_Cat 481.lpp. 3.r.
+	-----
+	2
+
+
+§wätahß
+
+	1 Manc1643_44_Cat 419.lpp. 7.r.
 	-----
 	1
 
 
-sämmo§keem
+úwätas
 
-	1 Manc1643_44_Cat 475.lpp. 20.r.
+	1 Manc1643_44_Cat 476.lpp. 11.r.
+	-----
+	1
+
+
+§wätas
+
+	1 Manc1643_44_Cat 481.lpp. 27.r.
+	-----
+	1
+
+
+§wäthu
+
+	1 Manc1643_44_Cat 476.lpp. 13.r.
+	-----
+	1
+
+
+§wätitu
+
+	1 Manc1643_44_Cat 478.lpp. 19.r.
+	-----
+	1
+
+
+§wätumu
+
+	1 Manc1643_44_Cat 480.lpp. 16.r.
+	-----
+	1
+
+
+§wätz
+
+	1 Manc1643_44_Cat 478.lpp. 9.r.
+	-----
+	1
+
+
+sweedrus
+
+	1 Manc1643_44_Cat 479.lpp. 14.r.
+	-----
+	1
+
+
+§wehti
+
+	1 Manc1643_44_Cat 448.lpp. 16.r.
+	1 Manc1643_44_Cat 450.lpp. 12.r.
+	-----
+	2
+
+
+úwehtiba
+
+	1 Manc1643_44_Cat 433.lpp. 19.r.
+	-----
+	1
+
+
+§wehtibas
+
+	1 Manc1643_44_Cat 447.lpp. 12.r.
+	-----
+	1
+
+
+§wehtiet
+
+	1 Manc1643_44_Cat 436.lpp. 2.r.
+	1 Manc1643_44_Cat 452.lpp. 11.r.
+	-----
+	2
+
+
+swehtietz
+
+	1 Manc1643_44_Cat 450.lpp. 2.r.
+	-----
+	1
+
+
+§wehtietz
+
+	1 Manc1643_44_Cat 423.lpp. 2.r.
+	-----
+	1
+
+
+§wehtige
+
+	1 Manc1643_44_Cat 450.lpp. 9.r.
+	-----
+	1
+
+
+§wehtigu
+
+	1 Manc1643_44_Cat 431.lpp. 3.r.
+	-----
+	1
+
+
+§wehtiya
+
+	1 Manc1643_44_Cat 479.lpp. 24.r.
+	-----
+	1
+
+
+§wehtiyis
+
+	1 Manc1643_44_Cat 448.lpp. 14.r.
 	-----
 	1
 
@@ -12726,6 +14527,13 @@ ta
 	1 Manc1643_44_Cat 484.lpp. 7.r.
 	-----
 	132
+
+
+ta{_a}
+
+	1 Manc1643_44_Cat 432.lpp. 26.r.
+	-----
+	1
 
 
 tad
@@ -12901,13 +14709,6 @@ tahs
 	34
 
 
-tahws
-
-	1 Manc1643_44_Cat 471.lpp. 8.r.
-	-----
-	1
-
-
 tahß
 
 	1 Manc1643_44_Cat 419.lpp. 7.r.
@@ -12932,6 +14733,82 @@ tahß
 	1 Manc1643_44_Cat 484.lpp. 13.r.
 	-----
 	20
+
+
+tähwa
+
+	1 Manc1643_44_Cat 424.lpp. 5.r.
+	1 Manc1643_44_Cat 446.lpp. 23.r.
+	1 Manc1643_44_Cat 457.lpp. 14.r.
+	1 Manc1643_44_Cat 459.lpp. 17.r.
+	1 Manc1643_44_Cat 463.lpp. 20.r.
+	1 Manc1643_44_Cat 477.lpp. 17.r.
+	1 Manc1643_44_Cat 482.lpp. 18.r.
+	1 Manc1643_44_Cat 484.lpp. 7.r.
+	-----
+	8
+
+
+tähwam
+
+	1 Manc1643_44_Cat 456.lpp. 13.r.
+	-----
+	1
+
+
+tähwo
+
+	1 Manc1643_44_Cat 421.lpp. 6.r.
+	-----
+	1
+
+
+tahws
+
+	1 Manc1643_44_Cat 471.lpp. 8.r.
+	-----
+	1
+
+
+tähws
+
+	1 Manc1643_44_Cat 424.lpp. 19.r.
+	1 Manc1643_44_Cat 428.lpp. 25.r.
+	1 Manc1643_44_Cat 428.lpp. 27.r.
+	1 Manc1643_44_Cat 428.lpp. 28.r.
+	1 Manc1643_44_Cat 431.lpp. 1.r.
+	1 Manc1643_44_Cat 449.lpp. 6.r.
+	1 Manc1643_44_Cat 449.lpp. 9.r.
+	1 Manc1643_44_Cat 450.lpp. 11.r.
+	1 Manc1643_44_Cat 450.lpp. 14.r.
+	1 Manc1643_44_Cat 451.lpp. 8.r.
+	1 Manc1643_44_Cat 454.lpp. 8.r.
+	1 Manc1643_44_Cat 456.lpp. 5.r.
+	1 Manc1643_44_Cat 465.lpp. 3.r.
+	1 Manc1643_44_Cat 465.lpp. 11.r.
+	1 Manc1643_44_Cat 465.lpp. 12.r.
+	1 Manc1643_44_Cat 468.lpp. 25.r.
+	1 Manc1643_44_Cat 471.lpp. 6.r.
+	1 Manc1643_44_Cat 481.lpp. 6.r.
+	1 Manc1643_44_Cat 483.lpp. 7.r.
+	1 Manc1643_44_Cat 484.lpp. 9.r.
+	-----
+	20
+
+
+tähwu
+
+	1 Manc1643_44_Cat 420.lpp. 4.r.
+	1 Manc1643_44_Cat 421.lpp. 20.r.
+	1 Manc1643_44_Cat 437.lpp. 2.r.
+	1 Manc1643_44_Cat 445.lpp. 2.r.
+	1 Manc1643_44_Cat 447.lpp. 2.r.
+	1 Manc1643_44_Cat 449.lpp. 12.r.
+	1 Manc1643_44_Cat 467.lpp. 18.r.
+	1 Manc1643_44_Cat 474.lpp. 26.r.
+	1 Manc1643_44_Cat 478.lpp. 3.r.
+	-----
+	9
 
 
 tai
@@ -13077,6 +14954,14 @@ taps
 	6
 
 
+tap§i
+
+	1 Manc1643_44_Cat 479.lpp. 4.r.
+	1 Manc1643_44_Cat 479.lpp. 16.r.
+	-----
+	2
+
+
 tapt
 
 	1 Manc1643_44_Cat 431.lpp. 7.r.
@@ -13093,14 +14978,6 @@ taptam
 	1 Manc1643_44_Cat 455.lpp. 13.r.
 	-----
 	1
-
-
-tap§i
-
-	1 Manc1643_44_Cat 479.lpp. 4.r.
-	1 Manc1643_44_Cat 479.lpp. 16.r.
-	-----
-	2
 
 
 tas
@@ -13264,6 +15141,24 @@ tas
 	163
 
 
+taß
+
+	1 Manc1643_44_Cat 419.lpp. 13.r.
+	1 Manc1643_44_Cat 424.lpp. 18.r.
+	1 Manc1643_44_Cat 474.lpp. 26.r.
+	1 Manc1643_44_Cat 478.lpp. 9.r.
+	1 Manc1643_44_Cat 478.lpp. 13.r.
+	1 Manc1643_44_Cat 478.lpp. 19.r.
+	1 Manc1643_44_Cat 478.lpp. 26.r.
+	1 Manc1643_44_Cat 478.lpp. 28.r.
+	2 Manc1643_44_Cat 480.lpp. 4.r.
+	1 Manc1643_44_Cat 481.lpp. 15.r.
+	1 Manc1643_44_Cat 482.lpp. 9.r.
+	1 Manc1643_44_Cat 483.lpp. 2.r.
+	-----
+	13
+
+
 tawa
 
 	1 Manc1643_44_Cat 419.lpp. 19.r.
@@ -13380,31 +15275,6 @@ tawus
 	1 Manc1643_44_Cat 484.lpp. 12.r.
 	-----
 	4
-
-
-ta{_a}
-
-	1 Manc1643_44_Cat 432.lpp. 26.r.
-	-----
-	1
-
-
-taß
-
-	1 Manc1643_44_Cat 419.lpp. 13.r.
-	1 Manc1643_44_Cat 424.lpp. 18.r.
-	1 Manc1643_44_Cat 474.lpp. 26.r.
-	1 Manc1643_44_Cat 478.lpp. 9.r.
-	1 Manc1643_44_Cat 478.lpp. 13.r.
-	1 Manc1643_44_Cat 478.lpp. 19.r.
-	1 Manc1643_44_Cat 478.lpp. 26.r.
-	1 Manc1643_44_Cat 478.lpp. 28.r.
-	2 Manc1643_44_Cat 480.lpp. 4.r.
-	1 Manc1643_44_Cat 481.lpp. 15.r.
-	1 Manc1643_44_Cat 482.lpp. 9.r.
-	1 Manc1643_44_Cat 483.lpp. 2.r.
-	-----
-	13
 
 
 te
@@ -13563,6 +15433,13 @@ tees
 	4
 
 
+teeúcham
+
+	1 Manc1643_44_Cat 456.lpp. 12.r.
+	-----
+	1
+
+
 tee§cham
 
 	1 Manc1643_44_Cat 423.lpp. 16.r.
@@ -13577,6 +15454,13 @@ tee§cham
 	8
 
 
+teeúúa
+
+	1 Manc1643_44_Cat 474.lpp. 25.r.
+	-----
+	1
+
+
 tee§úe
 
 	1 Manc1643_44_Cat 459.lpp. 3.r.
@@ -13587,20 +15471,6 @@ tee§úe
 tee§úu
 
 	1 Manc1643_44_Cat 473.lpp. 8.r.
-	-----
-	1
-
-
-teeúcham
-
-	1 Manc1643_44_Cat 456.lpp. 12.r.
-	-----
-	1
-
-
-teeúúa
-
-	1 Manc1643_44_Cat 474.lpp. 25.r.
 	-----
 	1
 
@@ -13663,39 +15533,6 @@ thas
 	1
 
 
-the
-
-	1 Manc1643_44_Cat 461.lpp. 21.r.
-	-----
-	1
-
-
-thierumi
-
-	1 Manc1643_44_Cat 453.lpp. 12.r.
-	-----
-	1
-
-
-tho
-
-	1 Manc1643_44_Cat 422.lpp. 13.r.
-	1 Manc1643_44_Cat 426.lpp. 6.r.
-	1 Manc1643_44_Cat 426.lpp. 23.r.
-	1 Manc1643_44_Cat 461.lpp. 7.r.
-	1 Manc1643_44_Cat 461.lpp. 16.r.
-	1 Manc1643_44_Cat 461.lpp. 22.r.
-	-----
-	6
-
-
-thu
-
-	1 Manc1643_44_Cat 420.lpp. 5.r.
-	-----
-	1
-
-
 thäwa
 
 	1 Manc1643_44_Cat 422.lpp. 9.r.
@@ -13739,6 +15576,32 @@ thäwu
 	5
 
 
+the
+
+	1 Manc1643_44_Cat 461.lpp. 21.r.
+	-----
+	1
+
+
+thierumi
+
+	1 Manc1643_44_Cat 453.lpp. 12.r.
+	-----
+	1
+
+
+tho
+
+	1 Manc1643_44_Cat 422.lpp. 13.r.
+	1 Manc1643_44_Cat 426.lpp. 6.r.
+	1 Manc1643_44_Cat 426.lpp. 23.r.
+	1 Manc1643_44_Cat 461.lpp. 7.r.
+	1 Manc1643_44_Cat 461.lpp. 16.r.
+	1 Manc1643_44_Cat 461.lpp. 22.r.
+	-----
+	6
+
+
 thöw
 
 	1 Manc1643_44_Cat 462.lpp. 23.r.
@@ -13746,6 +15609,13 @@ thöw
 	1 Manc1643_44_Cat 469.lpp. 11.r.
 	-----
 	3
+
+
+thu
+
+	1 Manc1643_44_Cat 420.lpp. 5.r.
+	-----
+	1
 
 
 tick
@@ -14296,6 +16166,81 @@ tomähr
 	1
 
 
+töw
+
+	1 Manc1643_44_Cat 419.lpp. 15.r.
+	1 Manc1643_44_Cat 419.lpp. 16.r.
+	1 Manc1643_44_Cat 419.lpp. 19.r.
+	1 Manc1643_44_Cat 420.lpp. 2.r.
+	1 Manc1643_44_Cat 420.lpp. 4.r.
+	1 Manc1643_44_Cat 420.lpp. 5.r.
+	1 Manc1643_44_Cat 420.lpp. 8.r.
+	1 Manc1643_44_Cat 420.lpp. 9.r.
+	1 Manc1643_44_Cat 420.lpp. 11.r.
+	1 Manc1643_44_Cat 420.lpp. 13.r.
+	1 Manc1643_44_Cat 420.lpp. 16.r.
+	1 Manc1643_44_Cat 420.lpp. 19.r.
+	1 Manc1643_44_Cat 423.lpp. 11.r.
+	1 Manc1643_44_Cat 426.lpp. 25.r.
+	1 Manc1643_44_Cat 427.lpp. 18.r.
+	1 Manc1643_44_Cat 428.lpp. 6.r.
+	1 Manc1643_44_Cat 429.lpp. 13.r.
+	1 Manc1643_44_Cat 430.lpp. 3.r.
+	1 Manc1643_44_Cat 431.lpp. 2.r.
+	1 Manc1643_44_Cat 431.lpp. 9.r.
+	1 Manc1643_44_Cat 431.lpp. 16.r.
+	1 Manc1643_44_Cat 433.lpp. 7.r.
+	1 Manc1643_44_Cat 434.lpp. 8.r.
+	1 Manc1643_44_Cat 435.lpp. 2.r.
+	1 Manc1643_44_Cat 436.lpp. 2.r.
+	1 Manc1643_44_Cat 437.lpp. 2.r.
+	1 Manc1643_44_Cat 437.lpp. 3.r.
+	1 Manc1643_44_Cat 438.lpp. 2.r.
+	1 Manc1643_44_Cat 439.lpp. 2.r.
+	1 Manc1643_44_Cat 440.lpp. 2.r.
+	1 Manc1643_44_Cat 441.lpp. 2.r.
+	1 Manc1643_44_Cat 442.lpp. 2.r.
+	1 Manc1643_44_Cat 443.lpp. 2.r.
+	1 Manc1643_44_Cat 462.lpp. 16.r.
+	1 Manc1643_44_Cat 462.lpp. 17.r.
+	1 Manc1643_44_Cat 463.lpp. 12.r.
+	1 Manc1643_44_Cat 463.lpp. 18.r.
+	1 Manc1643_44_Cat 463.lpp. 19.r.
+	1 Manc1643_44_Cat 464.lpp. 12.r.
+	1 Manc1643_44_Cat 468.lpp. 23.r.
+	1 Manc1643_44_Cat 469.lpp. 6.r.
+	1 Manc1643_44_Cat 469.lpp. 12.r.
+	1 Manc1643_44_Cat 470.lpp. 5.r.
+	1 Manc1643_44_Cat 471.lpp. 7.r.
+	1 Manc1643_44_Cat 472.lpp. 16.r.
+	1 Manc1643_44_Cat 474.lpp. 27.r.
+	1 Manc1643_44_Cat 479.lpp. 3.r.
+	1 Manc1643_44_Cat 479.lpp. 4.r.
+	1 Manc1643_44_Cat 479.lpp. 5.r.
+	1 Manc1643_44_Cat 479.lpp. 9.r.
+	1 Manc1643_44_Cat 479.lpp. 10.r.
+	1 Manc1643_44_Cat 479.lpp. 11.r.
+	2 Manc1643_44_Cat 479.lpp. 13.r.
+	1 Manc1643_44_Cat 479.lpp. 14.r.
+	1 Manc1643_44_Cat 481.lpp. 7.r.
+	1 Manc1643_44_Cat 482.lpp. 17.r.
+	1 Manc1643_44_Cat 482.lpp. 19.r.
+	1 Manc1643_44_Cat 484.lpp. 7.r.
+	1 Manc1643_44_Cat 484.lpp. 10.r.
+	1 Manc1643_44_Cat 484.lpp. 12.r.
+	1 Manc1643_44_Cat 484.lpp. 13.r.
+	-----
+	62
+
+
+töwis
+
+	1 Manc1643_44_Cat 465.lpp. 6.r.
+	1 Manc1643_44_Cat 465.lpp. 11.r.
+	-----
+	2
+
+
 tre§§cha
 
 	1 Manc1643_44_Cat 428.lpp. 5.r.
@@ -14331,16 +16276,16 @@ tre§§chan
 	1
 
 
-tre§§chapade§mitta
+tre§§chapadeßmita
 
-	1 Manc1643_44_Cat 466.lpp. 11.r.
+	1 Manc1643_44_Cat 429.lpp. 23.r.
 	-----
 	1
 
 
-tre§§chapadeßmita
+tre§§chapade§mitta
 
-	1 Manc1643_44_Cat 429.lpp. 23.r.
+	1 Manc1643_44_Cat 466.lpp. 11.r.
 	-----
 	1
 
@@ -14360,19 +16305,19 @@ tries
 	1
 
 
-trie§úädami
-
-	1 Manc1643_44_Cat 475.lpp. 4.r.
-	-----
-	1
-
-
 trieß
 
 	1 Manc1643_44_Cat 428.lpp. 24.r.
 	1 Manc1643_44_Cat 429.lpp. 8.r.
 	-----
 	2
+
+
+trie§úädami
+
+	1 Manc1643_44_Cat 475.lpp. 4.r.
+	-----
+	1
 
 
 tu
@@ -14446,16 +16391,16 @@ tu
 	70
 
 
-tuhxtotu
+tuhxto§chu
 
-	1 Manc1643_44_Cat 444.lpp. 10.r.
+	1 Manc1643_44_Cat 421.lpp. 11.r.
 	-----
 	1
 
 
-tuhxto§chu
+tuhxtotu
 
-	1 Manc1643_44_Cat 421.lpp. 11.r.
+	1 Manc1643_44_Cat 444.lpp. 10.r.
 	-----
 	1
 
@@ -14588,150 +16533,6 @@ twarr§tam
 	1
 
 
-tähwa
-
-	1 Manc1643_44_Cat 424.lpp. 5.r.
-	1 Manc1643_44_Cat 446.lpp. 23.r.
-	1 Manc1643_44_Cat 457.lpp. 14.r.
-	1 Manc1643_44_Cat 459.lpp. 17.r.
-	1 Manc1643_44_Cat 463.lpp. 20.r.
-	1 Manc1643_44_Cat 477.lpp. 17.r.
-	1 Manc1643_44_Cat 482.lpp. 18.r.
-	1 Manc1643_44_Cat 484.lpp. 7.r.
-	-----
-	8
-
-
-tähwam
-
-	1 Manc1643_44_Cat 456.lpp. 13.r.
-	-----
-	1
-
-
-tähwo
-
-	1 Manc1643_44_Cat 421.lpp. 6.r.
-	-----
-	1
-
-
-tähws
-
-	1 Manc1643_44_Cat 424.lpp. 19.r.
-	1 Manc1643_44_Cat 428.lpp. 25.r.
-	1 Manc1643_44_Cat 428.lpp. 27.r.
-	1 Manc1643_44_Cat 428.lpp. 28.r.
-	1 Manc1643_44_Cat 431.lpp. 1.r.
-	1 Manc1643_44_Cat 449.lpp. 6.r.
-	1 Manc1643_44_Cat 449.lpp. 9.r.
-	1 Manc1643_44_Cat 450.lpp. 11.r.
-	1 Manc1643_44_Cat 450.lpp. 14.r.
-	1 Manc1643_44_Cat 451.lpp. 8.r.
-	1 Manc1643_44_Cat 454.lpp. 8.r.
-	1 Manc1643_44_Cat 456.lpp. 5.r.
-	1 Manc1643_44_Cat 465.lpp. 3.r.
-	1 Manc1643_44_Cat 465.lpp. 11.r.
-	1 Manc1643_44_Cat 465.lpp. 12.r.
-	1 Manc1643_44_Cat 468.lpp. 25.r.
-	1 Manc1643_44_Cat 471.lpp. 6.r.
-	1 Manc1643_44_Cat 481.lpp. 6.r.
-	1 Manc1643_44_Cat 483.lpp. 7.r.
-	1 Manc1643_44_Cat 484.lpp. 9.r.
-	-----
-	20
-
-
-tähwu
-
-	1 Manc1643_44_Cat 420.lpp. 4.r.
-	1 Manc1643_44_Cat 421.lpp. 20.r.
-	1 Manc1643_44_Cat 437.lpp. 2.r.
-	1 Manc1643_44_Cat 445.lpp. 2.r.
-	1 Manc1643_44_Cat 447.lpp. 2.r.
-	1 Manc1643_44_Cat 449.lpp. 12.r.
-	1 Manc1643_44_Cat 467.lpp. 18.r.
-	1 Manc1643_44_Cat 474.lpp. 26.r.
-	1 Manc1643_44_Cat 478.lpp. 3.r.
-	-----
-	9
-
-
-töw
-
-	1 Manc1643_44_Cat 419.lpp. 15.r.
-	1 Manc1643_44_Cat 419.lpp. 16.r.
-	1 Manc1643_44_Cat 419.lpp. 19.r.
-	1 Manc1643_44_Cat 420.lpp. 2.r.
-	1 Manc1643_44_Cat 420.lpp. 4.r.
-	1 Manc1643_44_Cat 420.lpp. 5.r.
-	1 Manc1643_44_Cat 420.lpp. 8.r.
-	1 Manc1643_44_Cat 420.lpp. 9.r.
-	1 Manc1643_44_Cat 420.lpp. 11.r.
-	1 Manc1643_44_Cat 420.lpp. 13.r.
-	1 Manc1643_44_Cat 420.lpp. 16.r.
-	1 Manc1643_44_Cat 420.lpp. 19.r.
-	1 Manc1643_44_Cat 423.lpp. 11.r.
-	1 Manc1643_44_Cat 426.lpp. 25.r.
-	1 Manc1643_44_Cat 427.lpp. 18.r.
-	1 Manc1643_44_Cat 428.lpp. 6.r.
-	1 Manc1643_44_Cat 429.lpp. 13.r.
-	1 Manc1643_44_Cat 430.lpp. 3.r.
-	1 Manc1643_44_Cat 431.lpp. 2.r.
-	1 Manc1643_44_Cat 431.lpp. 9.r.
-	1 Manc1643_44_Cat 431.lpp. 16.r.
-	1 Manc1643_44_Cat 433.lpp. 7.r.
-	1 Manc1643_44_Cat 434.lpp. 8.r.
-	1 Manc1643_44_Cat 435.lpp. 2.r.
-	1 Manc1643_44_Cat 436.lpp. 2.r.
-	1 Manc1643_44_Cat 437.lpp. 2.r.
-	1 Manc1643_44_Cat 437.lpp. 3.r.
-	1 Manc1643_44_Cat 438.lpp. 2.r.
-	1 Manc1643_44_Cat 439.lpp. 2.r.
-	1 Manc1643_44_Cat 440.lpp. 2.r.
-	1 Manc1643_44_Cat 441.lpp. 2.r.
-	1 Manc1643_44_Cat 442.lpp. 2.r.
-	1 Manc1643_44_Cat 443.lpp. 2.r.
-	1 Manc1643_44_Cat 462.lpp. 16.r.
-	1 Manc1643_44_Cat 462.lpp. 17.r.
-	1 Manc1643_44_Cat 463.lpp. 12.r.
-	1 Manc1643_44_Cat 463.lpp. 18.r.
-	1 Manc1643_44_Cat 463.lpp. 19.r.
-	1 Manc1643_44_Cat 464.lpp. 12.r.
-	1 Manc1643_44_Cat 468.lpp. 23.r.
-	1 Manc1643_44_Cat 469.lpp. 6.r.
-	1 Manc1643_44_Cat 469.lpp. 12.r.
-	1 Manc1643_44_Cat 470.lpp. 5.r.
-	1 Manc1643_44_Cat 471.lpp. 7.r.
-	1 Manc1643_44_Cat 472.lpp. 16.r.
-	1 Manc1643_44_Cat 474.lpp. 27.r.
-	1 Manc1643_44_Cat 479.lpp. 3.r.
-	1 Manc1643_44_Cat 479.lpp. 4.r.
-	1 Manc1643_44_Cat 479.lpp. 5.r.
-	1 Manc1643_44_Cat 479.lpp. 9.r.
-	1 Manc1643_44_Cat 479.lpp. 10.r.
-	1 Manc1643_44_Cat 479.lpp. 11.r.
-	2 Manc1643_44_Cat 479.lpp. 13.r.
-	1 Manc1643_44_Cat 479.lpp. 14.r.
-	1 Manc1643_44_Cat 481.lpp. 7.r.
-	1 Manc1643_44_Cat 482.lpp. 17.r.
-	1 Manc1643_44_Cat 482.lpp. 19.r.
-	1 Manc1643_44_Cat 484.lpp. 7.r.
-	1 Manc1643_44_Cat 484.lpp. 10.r.
-	1 Manc1643_44_Cat 484.lpp. 12.r.
-	1 Manc1643_44_Cat 484.lpp. 13.r.
-	-----
-	62
-
-
-töwis
-
-	1 Manc1643_44_Cat 465.lpp. 6.r.
-	1 Manc1643_44_Cat 465.lpp. 11.r.
-	-----
-	2
-
-
 udens
 
 	1 Manc1643_44_Cat 458.lpp. 11.r.
@@ -14809,19 +16610,19 @@ unnd
 	4
 
 
-usjemm
-
-	1 Manc1643_44_Cat 481.lpp. 10.r.
-	-----
-	1
-
-
 ußbrautzis
 
 	1 Manc1643_44_Cat 422.lpp. 7.r.
 	1 Manc1643_44_Cat 446.lpp. 21.r.
 	-----
 	2
+
+
+usjemm
+
+	1 Manc1643_44_Cat 481.lpp. 10.r.
+	-----
+	1
 
 
 ußturre§chanu
@@ -14836,6 +16637,33 @@ v
 	1 Manc1643_44_Cat 425.lpp. 11.r.
 	-----
 	1
+
+
+vn~
+
+	1 Manc1643_44_Cat 423.lpp. 17.r.
+	1 Manc1643_44_Cat 424.lpp. 4.r.
+	1 Manc1643_44_Cat 424.lpp. 5.r.
+	1 Manc1643_44_Cat 432.lpp. 17.r.
+	1 Manc1643_44_Cat 447.lpp. 7.r.
+	1 Manc1643_44_Cat 447.lpp. 14.r.
+	1 Manc1643_44_Cat 453.lpp. 8.r.
+	1 Manc1643_44_Cat 453.lpp. 10.r.
+	1 Manc1643_44_Cat 454.lpp. 2.r.
+	1 Manc1643_44_Cat 462.lpp. 10.r.
+	1 Manc1643_44_Cat 474.lpp. 10.r.
+	1 Manc1643_44_Cat 474.lpp. 17.r.
+	1 Manc1643_44_Cat 474.lpp. 18.r.
+	1 Manc1643_44_Cat 478.lpp. 3.r.
+	1 Manc1643_44_Cat 478.lpp. 4.r.
+	1 Manc1643_44_Cat 478.lpp. 23.r.
+	1 Manc1643_44_Cat 479.lpp. 20.r.
+	1 Manc1643_44_Cat 480.lpp. 10.r.
+	1 Manc1643_44_Cat 481.lpp. 4.r.
+	1 Manc1643_44_Cat 481.lpp. 21.r.
+	1 Manc1643_44_Cat 481.lpp. 27.r.
+	-----
+	21
 
 
 vnd
@@ -15258,33 +17086,6 @@ vnnd
 	70
 
 
-vn~
-
-	1 Manc1643_44_Cat 423.lpp. 17.r.
-	1 Manc1643_44_Cat 424.lpp. 4.r.
-	1 Manc1643_44_Cat 424.lpp. 5.r.
-	1 Manc1643_44_Cat 432.lpp. 17.r.
-	1 Manc1643_44_Cat 447.lpp. 7.r.
-	1 Manc1643_44_Cat 447.lpp. 14.r.
-	1 Manc1643_44_Cat 453.lpp. 8.r.
-	1 Manc1643_44_Cat 453.lpp. 10.r.
-	1 Manc1643_44_Cat 454.lpp. 2.r.
-	1 Manc1643_44_Cat 462.lpp. 10.r.
-	1 Manc1643_44_Cat 474.lpp. 10.r.
-	1 Manc1643_44_Cat 474.lpp. 17.r.
-	1 Manc1643_44_Cat 474.lpp. 18.r.
-	1 Manc1643_44_Cat 478.lpp. 3.r.
-	1 Manc1643_44_Cat 478.lpp. 4.r.
-	1 Manc1643_44_Cat 478.lpp. 23.r.
-	1 Manc1643_44_Cat 479.lpp. 20.r.
-	1 Manc1643_44_Cat 480.lpp. 10.r.
-	1 Manc1643_44_Cat 481.lpp. 4.r.
-	1 Manc1643_44_Cat 481.lpp. 21.r.
-	1 Manc1643_44_Cat 481.lpp. 27.r.
-	-----
-	21
-
-
 vs
 
 	1 Manc1643_44_Cat 424.lpp. 2.r.
@@ -15312,6 +17113,13 @@ vs
 	21
 
 
+vßaud§enayeeta
+
+	1 Manc1643_44_Cat 474.lpp. 21.r.
+	-----
+	1
+
+
 vseet
 
 	1 Manc1643_44_Cat 477.lpp. 24.r.
@@ -15333,6 +17141,13 @@ vsjembt
 	1
 
 
+vßlitzis
+
+	1 Manc1643_44_Cat 479.lpp. 2.r.
+	-----
+	1
+
+
 vsluhkoht
 
 	1 Manc1643_44_Cat 454.lpp. 9.r.
@@ -15347,9 +17162,9 @@ vsluhkoya
 	1
 
 
-vsmohdenahtz
+vßlukoht
 
-	1 Manc1643_44_Cat 459.lpp. 16.r.
+	1 Manc1643_44_Cat 482.lpp. 5.r.
 	-----
 	1
 
@@ -15357,6 +17172,13 @@ vsmohdenahtz
 vsmohdenahß
 
 	1 Manc1643_44_Cat 448.lpp. 21.r.
+	-----
+	1
+
+
+vsmohdenahtz
+
+	1 Manc1643_44_Cat 459.lpp. 16.r.
 	-----
 	1
 
@@ -15404,6 +17226,13 @@ vsturr
 	2
 
 
+vsturrähtz
+
+	1 Manc1643_44_Cat 482.lpp. 11.r.
+	-----
+	1
+
+
 vsturreht
 
 	1 Manc1643_44_Cat 480.lpp. 17.r.
@@ -15414,6 +17243,20 @@ vsturreht
 vsturreht{vsterreht}
 
 	1 Manc1643_44_Cat 455.lpp. 9.r.
+	-----
+	1
+
+
+vsturre§chanas
+
+	1 Manc1643_44_Cat 453.lpp. 10.r.
+	-----
+	1
+
+
+vsturre§chanu
+
+	1 Manc1643_44_Cat 446.lpp. 3.r.
 	-----
 	1
 
@@ -15433,51 +17276,9 @@ vsturreyis
 	2
 
 
-vsturre§chanas
-
-	1 Manc1643_44_Cat 453.lpp. 10.r.
-	-----
-	1
-
-
-vsturre§chanu
-
-	1 Manc1643_44_Cat 446.lpp. 3.r.
-	-----
-	1
-
-
-vsturrähtz
-
-	1 Manc1643_44_Cat 482.lpp. 11.r.
-	-----
-	1
-
-
 vswahram
 
 	1 Manc1643_44_Cat 455.lpp. 13.r.
-	-----
-	1
-
-
-vßaud§enayeeta
-
-	1 Manc1643_44_Cat 474.lpp. 21.r.
-	-----
-	1
-
-
-vßlitzis
-
-	1 Manc1643_44_Cat 479.lpp. 2.r.
-	-----
-	1
-
-
-vßlukoht
-
-	1 Manc1643_44_Cat 482.lpp. 5.r.
 	-----
 	1
 
@@ -15505,6 +17306,13 @@ wackara=ehden
 	2
 
 
+wackarähden
+
+	1 Manc1643_44_Cat 426.lpp. 1.r.
+	-----
+	1
+
+
 wackarehden
 
 	1 Manc1643_44_Cat 426.lpp. 10.r.
@@ -15515,13 +17323,6 @@ wackarehden
 wackarohß
 
 	1 Manc1643_44_Cat 468.lpp. 22.r.
-	-----
-	1
-
-
-wackarähden
-
-	1 Manc1643_44_Cat 426.lpp. 1.r.
 	-----
 	1
 
@@ -15707,6 +17508,13 @@ walkoht
 	1
 
 
+wälla
+
+	1 Manc1643_44_Cat 447.lpp. 7.r.
+	-----
+	1
+
+
 wallda
 
 	1 Manc1643_44_Cat 447.lpp. 14.r.
@@ -15768,6 +17576,13 @@ walldi§chanu
 	1
 
 
+wällkam
+
+	1 Manc1643_44_Cat 442.lpp. 8.r.
+	-----
+	1
+
+
 wallkoht
 
 	1 Manc1643_44_Cat 435.lpp. 3.r.
@@ -15785,6 +17600,21 @@ wallkotees
 wallkoyis
 
 	1 Manc1643_44_Cat 427.lpp. 5.r.
+	-----
+	1
+
+
+wälls
+
+	1 Manc1643_44_Cat 455.lpp. 9.r.
+	1 Manc1643_44_Cat 468.lpp. 17.r.
+	-----
+	2
+
+
+wällß
+
+	1 Manc1643_44_Cat 452.lpp. 12.r.
 	-----
 	1
 
@@ -15817,6 +17647,21 @@ wall§tibu
 
 	1 Manc1643_44_Cat 452.lpp. 11.r.
 	1 Manc1643_44_Cat 483.lpp. 1.r.
+	-----
+	2
+
+
+waïïu
+
+	1 Manc1643_44_Cat 452.lpp. 10.r.
+	-----
+	1
+
+
+wällu
+
+	1 Manc1643_44_Cat 458.lpp. 4.r.
+	1 Manc1643_44_Cat 483.lpp. 16.r.
 	-----
 	2
 
@@ -15857,20 +17702,6 @@ warram
 	1
 
 
-warru
-
-	1 Manc1643_44_Cat 425.lpp. 6.r.
-	1 Manc1643_44_Cat 431.lpp. 6.r.
-	1 Manc1643_44_Cat 431.lpp. 9.r.
-	1 Manc1643_44_Cat 431.lpp. 19.r.
-	1 Manc1643_44_Cat 431.lpp. 22.r.
-	1 Manc1643_44_Cat 431.lpp. 24.r.
-	1 Manc1643_44_Cat 432.lpp. 12.r.
-	1 Manc1643_44_Cat 448.lpp. 11.r.
-	-----
-	8
-
-
 warrän
 
 	1 Manc1643_44_Cat 427.lpp. 2.r.
@@ -15885,6 +17716,43 @@ warrätu
 	1
 
 
+warru
+
+	1 Manc1643_44_Cat 425.lpp. 6.r.
+	1 Manc1643_44_Cat 431.lpp. 6.r.
+	1 Manc1643_44_Cat 431.lpp. 9.r.
+	1 Manc1643_44_Cat 431.lpp. 19.r.
+	1 Manc1643_44_Cat 431.lpp. 22.r.
+	1 Manc1643_44_Cat 431.lpp. 24.r.
+	1 Manc1643_44_Cat 432.lpp. 12.r.
+	1 Manc1643_44_Cat 448.lpp. 11.r.
+	-----
+	8
+
+
+wätzakeem
+
+	1 Manc1643_44_Cat 474.lpp. 24.r.
+	1 Manc1643_44_Cat 475.lpp. 18.r.
+	-----
+	2
+
+
+wätzaki
+
+	1 Manc1643_44_Cat 472.lpp. 13.r.
+	1 Manc1643_44_Cat 474.lpp. 20.r.
+	-----
+	2
+
+
+wätzam
+
+	1 Manc1643_44_Cat 459.lpp. 5.r.
+	-----
+	1
+
+
 wayad§ibas
 
 	1 Manc1643_44_Cat 473.lpp. 14.r.
@@ -15895,13 +17763,6 @@ wayad§ibas
 wayaga
 
 	1 Manc1643_44_Cat 433.lpp. 13.r.
-	-----
-	1
-
-
-waïïu
-
-	1 Manc1643_44_Cat 452.lpp. 10.r.
 	-----
 	1
 
@@ -16306,6 +18167,13 @@ winjam
 	5
 
 
+wiòjam
+
+	1 Manc1643_44_Cat 447.lpp. 11.r.
+	-----
+	1
+
+
 winjeem
 
 	1 Manc1643_44_Cat 475.lpp. 13.r.
@@ -16409,9 +18277,16 @@ wirr§úu
 	2
 
 
-wir§§u
+wirß
 
-	1 Manc1643_44_Cat 452.lpp. 3.r.
+	1 Manc1643_44_Cat 448.lpp. 15.r.
+	-----
+	1
+
+
+wirßnekus
+
+	1 Manc1643_44_Cat 469.lpp. 15.r.
 	-----
 	1
 
@@ -16433,16 +18308,9 @@ wir§úu
 	3
 
 
-wirß
+wir§§u
 
-	1 Manc1643_44_Cat 448.lpp. 15.r.
-	-----
-	1
-
-
-wirßnekus
-
-	1 Manc1643_44_Cat 469.lpp. 15.r.
+	1 Manc1643_44_Cat 452.lpp. 3.r.
 	-----
 	1
 
@@ -16454,6 +18322,19 @@ wis
 	1
 
 
+wiß
+
+	1 Manc1643_44_Cat 420.lpp. 20.r.
+	1 Manc1643_44_Cat 443.lpp. 3.r.
+	1 Manc1643_44_Cat 469.lpp. 11.r.
+	1 Manc1643_44_Cat 476.lpp. 24.r.
+	1 Manc1643_44_Cat 477.lpp. 4.r.
+	1 Manc1643_44_Cat 480.lpp. 1.r.
+	1 Manc1643_44_Cat 482.lpp. 8.r.
+	-----
+	7
+
+
 wi§ch§kim
 
 	1 Manc1643_44_Cat 462.lpp. 11.r.
@@ -16461,65 +18342,22 @@ wi§ch§kim
 	1
 
 
-wi§walditayu
+wißnotaïï
 
-	1 Manc1643_44_Cat 421.lpp. 20.r.
+	1 Manc1643_44_Cat 446.lpp. 6.r.
+	1 Manc1643_44_Cat 446.lpp. 9.r.
+	1 Manc1643_44_Cat 454.lpp. 12.r.
+	1 Manc1643_44_Cat 463.lpp. 8.r.
+	1 Manc1643_44_Cat 480.lpp. 2.r.
+	-----
+	5
+
+
+wißpirrmahk
+
+	1 Manc1643_44_Cat 473.lpp. 21.r.
 	-----
 	1
-
-
-wi§§ai
-
-	1 Manc1643_44_Cat 470.lpp. 19.r.
-	-----
-	1
-
-
-wi§§as
-
-	1 Manc1643_44_Cat 470.lpp. 5.r.
-	-----
-	1
-
-
-wi§§eem
-
-	1 Manc1643_44_Cat 444.lpp. 1.r.
-	-----
-	1
-
-
-wi§§enahdu
-
-	1 Manc1643_44_Cat 469.lpp. 4.r.
-	-----
-	1
-
-
-wi§§i
-
-	1 Manc1643_44_Cat 461.lpp. 4.r.
-	1 Manc1643_44_Cat 466.lpp. 6.r.
-	-----
-	2
-
-
-wi§§u
-
-	1 Manc1643_44_Cat 457.lpp. 12.r.
-	1 Manc1643_44_Cat 471.lpp. 10.r.
-	-----
-	2
-
-
-wi§§us
-
-	1 Manc1643_44_Cat 424.lpp. 3.r.
-	1 Manc1643_44_Cat 457.lpp. 12.r.
-	1 Manc1643_44_Cat 469.lpp. 7.r.
-	1 Manc1643_44_Cat 470.lpp. 8.r.
-	-----
-	4
 
 
 wi§úa
@@ -16552,6 +18390,13 @@ wi§úahß
 	1
 
 
+wi§§ai
+
+	1 Manc1643_44_Cat 470.lpp. 19.r.
+	-----
+	1
+
+
 wi§úam
 
 	1 Manc1643_44_Cat 434.lpp. 11.r.
@@ -16567,6 +18412,13 @@ wi§úas
 	1 Manc1643_44_Cat 469.lpp. 16.r.
 	-----
 	3
+
+
+wi§§as
+
+	1 Manc1643_44_Cat 470.lpp. 5.r.
+	-----
+	1
 
 
 wi§úeem
@@ -16593,6 +18445,13 @@ wi§úeem
 	18
 
 
+wi§§eem
+
+	1 Manc1643_44_Cat 444.lpp. 1.r.
+	-----
+	1
+
+
 wi§úeems
 
 	1 Manc1643_44_Cat 453.lpp. 6.r.
@@ -16615,6 +18474,13 @@ wi§úenahdu
 	1 Manc1643_44_Cat 456.lpp. 5.r.
 	-----
 	4
+
+
+wi§§enahdu
+
+	1 Manc1643_44_Cat 469.lpp. 4.r.
+	-----
+	1
 
 
 wi§úewalldiegs
@@ -16652,6 +18518,14 @@ wi§úi
 	3
 
 
+wi§§i
+
+	1 Manc1643_44_Cat 461.lpp. 4.r.
+	1 Manc1643_44_Cat 466.lpp. 6.r.
+	-----
+	2
+
+
 wi§úo
 
 	1 Manc1643_44_Cat 428.lpp. 29.r.
@@ -16681,6 +18555,14 @@ wi§úu
 	16
 
 
+wi§§u
+
+	1 Manc1643_44_Cat 457.lpp. 12.r.
+	1 Manc1643_44_Cat 471.lpp. 10.r.
+	-----
+	2
+
+
 wi§úus
 
 	1 Manc1643_44_Cat 444.lpp. 12.r.
@@ -16693,35 +18575,14 @@ wi§úus
 	6
 
 
-wiß
+wi§§us
 
-	1 Manc1643_44_Cat 420.lpp. 20.r.
-	1 Manc1643_44_Cat 443.lpp. 3.r.
-	1 Manc1643_44_Cat 469.lpp. 11.r.
-	1 Manc1643_44_Cat 476.lpp. 24.r.
-	1 Manc1643_44_Cat 477.lpp. 4.r.
-	1 Manc1643_44_Cat 480.lpp. 1.r.
-	1 Manc1643_44_Cat 482.lpp. 8.r.
+	1 Manc1643_44_Cat 424.lpp. 3.r.
+	1 Manc1643_44_Cat 457.lpp. 12.r.
+	1 Manc1643_44_Cat 469.lpp. 7.r.
+	1 Manc1643_44_Cat 470.lpp. 8.r.
 	-----
-	7
-
-
-wißnotaïï
-
-	1 Manc1643_44_Cat 446.lpp. 6.r.
-	1 Manc1643_44_Cat 446.lpp. 9.r.
-	1 Manc1643_44_Cat 454.lpp. 12.r.
-	1 Manc1643_44_Cat 463.lpp. 8.r.
-	1 Manc1643_44_Cat 480.lpp. 2.r.
-	-----
-	5
-
-
-wißpirrmahk
-
-	1 Manc1643_44_Cat 473.lpp. 21.r.
-	-----
-	1
+	4
 
 
 wißwahjakajam
@@ -16739,6 +18600,13 @@ wißwairahk
 	2
 
 
+wi§walditayu
+
+	1 Manc1643_44_Cat 421.lpp. 20.r.
+	-----
+	1
+
+
 wißwalldiegs
 
 	1 Manc1643_44_Cat 431.lpp. 1.r.
@@ -16746,71 +18614,56 @@ wißwalldiegs
 	1
 
 
-wiòjam
+zärrädami
 
-	1 Manc1643_44_Cat 447.lpp. 11.r.
+	1 Manc1643_44_Cat 459.lpp. 2.r.
 	-----
 	1
 
 
-wälla
+zättorta
 
-	1 Manc1643_44_Cat 447.lpp. 7.r.
+	1 Manc1643_44_Cat 433.lpp. 6.r.
+	1 Manc1643_44_Cat 453.lpp. 1.r.
+	1 Manc1643_44_Cat 464.lpp. 15.r.
+	-----
+	3
+
+
+zättortapadeßmita
+
+	1 Manc1643_44_Cat 430.lpp. 1.r.
 	-----
 	1
 
 
-wällkam
+zättortapadeßmitta
 
-	1 Manc1643_44_Cat 442.lpp. 8.r.
+	1 Manc1643_44_Cat 466.lpp. 15.r.
 	-----
 	1
 
 
-wälls
+zättortta
 
-	1 Manc1643_44_Cat 455.lpp. 9.r.
-	1 Manc1643_44_Cat 468.lpp. 17.r.
+	1 Manc1643_44_Cat 428.lpp. 9.r.
+	-----
+	1
+
+
+zättortz
+
+	1 Manc1643_44_Cat 437.lpp. 1.r.
+	-----
+	1
+
+
+zätturtu
+
+	1 Manc1643_44_Cat 421.lpp. 8.r.
+	1 Manc1643_44_Cat 444.lpp. 7.r.
 	-----
 	2
-
-
-wällu
-
-	1 Manc1643_44_Cat 458.lpp. 4.r.
-	1 Manc1643_44_Cat 483.lpp. 16.r.
-	-----
-	2
-
-
-wällß
-
-	1 Manc1643_44_Cat 452.lpp. 12.r.
-	-----
-	1
-
-
-wätzakeem
-
-	1 Manc1643_44_Cat 474.lpp. 24.r.
-	1 Manc1643_44_Cat 475.lpp. 18.r.
-	-----
-	2
-
-
-wätzaki
-
-	1 Manc1643_44_Cat 472.lpp. 13.r.
-	1 Manc1643_44_Cat 474.lpp. 20.r.
-	-----
-	2
-
-
-wätzam
-
-	1 Manc1643_44_Cat 459.lpp. 5.r.
-	-----
-	1
 
 
 zaur
@@ -16934,15 +18787,6 @@ zeenige
 	3
 
 
-zeetis
-
-	1 Manc1643_44_Cat 422.lpp. 3.r.
-	1 Manc1643_44_Cat 429.lpp. 15.r.
-	1 Manc1643_44_Cat 446.lpp. 17.r.
-	-----
-	3
-
-
 zee§ch
 
 	1 Manc1643_44_Cat 475.lpp. 20.r.
@@ -16963,6 +18807,15 @@ zee§t
 	1 Manc1643_44_Cat 432.lpp. 12.r.
 	-----
 	1
+
+
+zeetis
+
+	1 Manc1643_44_Cat 422.lpp. 3.r.
+	1 Manc1643_44_Cat 429.lpp. 15.r.
+	1 Manc1643_44_Cat 446.lpp. 17.r.
+	-----
+	3
 
 
 zehlees
@@ -17154,1859 +19007,6 @@ zittus
 	1 Manc1643_44_Cat 434.lpp. 8.r.
 	-----
 	2
-
-
-zärrädami
-
-	1 Manc1643_44_Cat 459.lpp. 2.r.
-	-----
-	1
-
-
-zättorta
-
-	1 Manc1643_44_Cat 433.lpp. 6.r.
-	1 Manc1643_44_Cat 453.lpp. 1.r.
-	1 Manc1643_44_Cat 464.lpp. 15.r.
-	-----
-	3
-
-
-zättortapadeßmita
-
-	1 Manc1643_44_Cat 430.lpp. 1.r.
-	-----
-	1
-
-
-zättortapadeßmitta
-
-	1 Manc1643_44_Cat 466.lpp. 15.r.
-	-----
-	1
-
-
-zättortta
-
-	1 Manc1643_44_Cat 428.lpp. 9.r.
-	-----
-	1
-
-
-zättortz
-
-	1 Manc1643_44_Cat 437.lpp. 1.r.
-	-----
-	1
-
-
-zätturtu
-
-	1 Manc1643_44_Cat 421.lpp. 8.r.
-	1 Manc1643_44_Cat 444.lpp. 7.r.
-	-----
-	2
-
-
-§chahß
-
-	1 Manc1643_44_Cat 482.lpp. 19.r.
-	-----
-	1
-
-
-§chee
-
-	1 Manc1643_44_Cat 461.lpp. 11.r.
-	-----
-	1
-
-
-§cheem
-
-	1 Manc1643_44_Cat 421.lpp. 1.r.
-	1 Manc1643_44_Cat 432.lpp. 6.r.
-	1 Manc1643_44_Cat 444.lpp. 1.r.
-	1 Manc1643_44_Cat 462.lpp. 7.r.
-	1 Manc1643_44_Cat 462.lpp. 9.r.
-	-----
-	5
-
-
-§chehliegs
-
-	1 Manc1643_44_Cat 424.lpp. 10.r.
-	1 Manc1643_44_Cat 452.lpp. 5.r.
-	1 Manc1643_44_Cat 452.lpp. 16.r.
-	-----
-	3
-
-
-§chehlige
-
-	1 Manc1643_44_Cat 469.lpp. 5.r.
-	1 Manc1643_44_Cat 469.lpp. 10.r.
-	1 Manc1643_44_Cat 480.lpp. 17.r.
-	1 Manc1643_44_Cat 482.lpp. 5.r.
-	-----
-	4
-
-
-§chehligu
-
-	1 Manc1643_44_Cat 456.lpp. 8.r.
-	-----
-	1
-
-
-§cheit
-
-	1 Manc1643_44_Cat 451.lpp. 11.r.
-	1 Manc1643_44_Cat 476.lpp. 16.r.
-	-----
-	2
-
-
-§cheitan
-
-	1 Manc1643_44_Cat 477.lpp. 13.r.
-	-----
-	1
-
-
-§chinni
-
-	1 Manc1643_44_Cat 451.lpp. 5.r.
-	1 Manc1643_44_Cat 453.lpp. 7.r.
-	-----
-	2
-
-
-§chinny
-
-	1 Manc1643_44_Cat 450.lpp. 5.r.
-	1 Manc1643_44_Cat 452.lpp. 6.r.
-	1 Manc1643_44_Cat 454.lpp. 8.r.
-	1 Manc1643_44_Cat 455.lpp. 8.r.
-	-----
-	4
-
-
-§chkie§te
-
-	1 Manc1643_44_Cat 439.lpp. 5.r.
-	1 Manc1643_44_Cat 450.lpp. 8.r.
-	-----
-	2
-
-
-§cho
-
-	1 Manc1643_44_Cat 431.lpp. 4.r.
-	1 Manc1643_44_Cat 446.lpp. 9.r.
-	1 Manc1643_44_Cat 468.lpp. 10.r.
-	1 Manc1643_44_Cat 469.lpp. 4.r.
-	1 Manc1643_44_Cat 469.lpp. 9.r.
-	1 Manc1643_44_Cat 476.lpp. 12.r.
-	1 Manc1643_44_Cat 476.lpp. 27.r.
-	1 Manc1643_44_Cat 477.lpp. 7.r.
-	1 Manc1643_44_Cat 481.lpp. 7.r.
-	1 Manc1643_44_Cat 481.lpp. 27.r.
-	1 Manc1643_44_Cat 482.lpp. 5.r.
-	1 Manc1643_44_Cat 482.lpp. 7.r.
-	1 Manc1643_44_Cat 482.lpp. 19.r.
-	1 Manc1643_44_Cat 483.lpp. 12.r.
-	-----
-	14
-
-
-§chodeen
-
-	1 Manc1643_44_Cat 453.lpp. 3.r.
-	-----
-	1
-
-
-§chohß
-
-	1 Manc1643_44_Cat 444.lpp. 12.r.
-	1 Manc1643_44_Cat 444.lpp. 16.r.
-	1 Manc1643_44_Cat 470.lpp. 11.r.
-	-----
-	3
-
-
-§chähl
-
-	1 Manc1643_44_Cat 427.lpp. 14.r.
-	1 Manc1643_44_Cat 428.lpp. 6.r.
-	1 Manc1643_44_Cat 428.lpp. 7.r.
-	1 Manc1643_44_Cat 463.lpp. 8.r.
-	1 Manc1643_44_Cat 464.lpp. 12.r.
-	1 Manc1643_44_Cat 464.lpp. 13.r.
-	-----
-	6
-
-
-§chähla§tibu
-
-	1 Manc1643_44_Cat 456.lpp. 8.r.
-	-----
-	1
-
-
-§chählo
-
-	1 Manc1643_44_Cat 463.lpp. 1.r.
-	-----
-	1
-
-
-§chählodams
-
-	1 Manc1643_44_Cat 454.lpp. 13.r.
-	-----
-	1
-
-
-§chäla§tiba
-
-	1 Manc1643_44_Cat 461.lpp. 16.r.
-	-----
-	1
-
-
-§chäla§tibas
-
-	1 Manc1643_44_Cat 458.lpp. 18.r.
-	-----
-	1
-
-
-§chäla§tibu
-
-	1 Manc1643_44_Cat 444.lpp. 15.r.
-	1 Manc1643_44_Cat 446.lpp. 7.r.
-	1 Manc1643_44_Cat 451.lpp. 10.r.
-	1 Manc1643_44_Cat 463.lpp. 9.r.
-	1 Manc1643_44_Cat 481.lpp. 9.r.
-	1 Manc1643_44_Cat 482.lpp. 4.r.
-	-----
-	6
-
-
-§chäliegs
-
-	1 Manc1643_44_Cat 463.lpp. 12.r.
-	-----
-	1
-
-
-§chälä§tibas
-
-	1 Manc1643_44_Cat 433.lpp. 12.r.
-	-----
-	1
-
-
-§iemo
-
-	1 Manc1643_44_Cat 459.lpp. 4.r.
-	1 Manc1643_44_Cat 459.lpp. 5.r.
-	-----
-	2
-
-
-§innadami
-
-	1 Manc1643_44_Cat 475.lpp. 10.r.
-	-----
-	1
-
-
-§innaht
-
-	1 Manc1643_44_Cat 432.lpp. 5.r.
-	1 Manc1643_44_Cat 479.lpp. 19.r.
-	-----
-	2
-
-
-§innaita
-
-	1 Manc1643_44_Cat 475.lpp. 14.r.
-	-----
-	1
-
-
-§inni
-
-	1 Manc1643_44_Cat 428.lpp. 2.r.
-	1 Manc1643_44_Cat 464.lpp. 8.r.
-	1 Manc1643_44_Cat 465.lpp. 17.r.
-	-----
-	3
-
-
-§innu
-
-	1 Manc1643_44_Cat 432.lpp. 18.r.
-	-----
-	1
-
-
-§kaidre
-
-	1 Manc1643_44_Cat 450.lpp. 8.r.
-	-----
-	1
-
-
-§kai§te
-
-	1 Manc1643_44_Cat 462.lpp. 5.r.
-	-----
-	1
-
-
-§kann
-
-	1 Manc1643_44_Cat 432.lpp. 22.r.
-	1 Manc1643_44_Cat 458.lpp. 6.r.
-	1 Manc1643_44_Cat 462.lpp. 2.r.
-	1 Manc1643_44_Cat 465.lpp. 22.r.
-	-----
-	4
-
-
-§kie§tiyis
-
-	1 Manc1643_44_Cat 478.lpp. 19.r.
-	-----
-	1
-
-
-§kirrt
-
-	1 Manc1643_44_Cat 477.lpp. 11.r.
-	-----
-	1
-
-
-§kummige
-
-	1 Manc1643_44_Cat 482.lpp. 24.r.
-	-----
-	1
-
-
-§lahweht
-
-	1 Manc1643_44_Cat 446.lpp. 10.r.
-	-----
-	1
-
-
-§linnx
-
-	1 Manc1643_44_Cat 463.lpp. 4.r.
-	-----
-	1
-
-
-§luddenaht
-
-	1 Manc1643_44_Cat 426.lpp. 23.r.
-	1 Manc1643_44_Cat 467.lpp. 2.r.
-	-----
-	2
-
-
-§peedis
-
-	1 Manc1643_44_Cat 467.lpp. 16.r.
-	-----
-	1
-
-
-§pee§ch
-
-	1 Manc1643_44_Cat 430.lpp. 3.r.
-	-----
-	1
-
-
-§pee§t
-
-	1 Manc1643_44_Cat 467.lpp. 27.r.
-	1 Manc1643_44_Cat 468.lpp. 3.r.
-	-----
-	2
-
-
-§pehyu
-
-	1 Manc1643_44_Cat 421.lpp. 15.r.
-	-----
-	1
-
-
-§pehyu§úi
-
-	1 Manc1643_44_Cat 467.lpp. 9.r.
-	-----
-	1
-
-
-§pähku
-
-	1 Manc1643_44_Cat 425.lpp. 6.r.
-	1 Manc1643_44_Cat 447.lpp. 7.r.
-	1 Manc1643_44_Cat 463.lpp. 9.r.
-	-----
-	3
-
-
-§pähzigu
-
-	1 Manc1643_44_Cat 475.lpp. 22.r.
-	-----
-	1
-
-
-§tahw
-
-	1 Manc1643_44_Cat 459.lpp. 12.r.
-	1 Manc1643_44_Cat 460.lpp. 7.r.
-	1 Manc1643_44_Cat 461.lpp. 21.r.
-	1 Manc1643_44_Cat 472.lpp. 13.r.
-	1 Manc1643_44_Cat 472.lpp. 20.r.
-	1 Manc1643_44_Cat 473.lpp. 7.r.
-	1 Manc1643_44_Cat 473.lpp. 8.r.
-	1 Manc1643_44_Cat 477.lpp. 19.r.
-	-----
-	8
-
-
-§tahweht
-
-	1 Manc1643_44_Cat 470.lpp. 3.r.
-	-----
-	1
-
-
-§taighaht
-
-	1 Manc1643_44_Cat 459.lpp. 18.r.
-	-----
-	1
-
-
-§tarpa
-
-	1 Manc1643_44_Cat 476.lpp. 16.r.
-	-----
-	1
-
-
-§tarrpa`
-
-	1 Manc1643_44_Cat 450.lpp. 13.r.
-	-----
-	1
-
-
-§taw
-
-	1 Manc1643_44_Cat 473.lpp. 7.r.
-	1 Manc1643_44_Cat 479.lpp. 20.r.
-	-----
-	2
-
-
-§tippre
-
-	1 Manc1643_44_Cat 426.lpp. 14.r.
-	1 Manc1643_44_Cat 431.lpp. 9.r.
-	1 Manc1643_44_Cat 452.lpp. 14.r.
-	-----
-	3
-
-
-§tippru
-
-	1 Manc1643_44_Cat 477.lpp. 24.r.
-	-----
-	1
-
-
-§trahda
-
-	1 Manc1643_44_Cat 472.lpp. 14.r.
-	1 Manc1643_44_Cat 472.lpp. 17.r.
-	1 Manc1643_44_Cat 472.lpp. 20.r.
-	-----
-	3
-
-
-§tundingja
-
-	1 Manc1643_44_Cat 456.lpp. 7.r.
-	-----
-	1
-
-
-§wabbads
-
-	1 Manc1643_44_Cat 475.lpp. 11.r.
-	-----
-	1
-
-
-§wehti
-
-	1 Manc1643_44_Cat 448.lpp. 16.r.
-	1 Manc1643_44_Cat 450.lpp. 12.r.
-	-----
-	2
-
-
-§wehtibas
-
-	1 Manc1643_44_Cat 447.lpp. 12.r.
-	-----
-	1
-
-
-§wehtiet
-
-	1 Manc1643_44_Cat 436.lpp. 2.r.
-	1 Manc1643_44_Cat 452.lpp. 11.r.
-	-----
-	2
-
-
-§wehtietz
-
-	1 Manc1643_44_Cat 423.lpp. 2.r.
-	-----
-	1
-
-
-§wehtige
-
-	1 Manc1643_44_Cat 450.lpp. 9.r.
-	-----
-	1
-
-
-§wehtigu
-
-	1 Manc1643_44_Cat 431.lpp. 3.r.
-	-----
-	1
-
-
-§wehtiya
-
-	1 Manc1643_44_Cat 479.lpp. 24.r.
-	-----
-	1
-
-
-§wehtiyis
-
-	1 Manc1643_44_Cat 448.lpp. 14.r.
-	-----
-	1
-
-
-§wähta
-
-	1 Manc1643_44_Cat 449.lpp. 3.r.
-	1 Manc1643_44_Cat 460.lpp. 1.r.
-	1 Manc1643_44_Cat 477.lpp. 18.r.
-	1 Manc1643_44_Cat 478.lpp. 23.r.
-	-----
-	4
-
-
-§wähtam
-
-	1 Manc1643_44_Cat 451.lpp. 9.r.
-	-----
-	1
-
-
-§wähtas
-
-	1 Manc1643_44_Cat 423.lpp. 23.r.
-	1 Manc1643_44_Cat 457.lpp. 3.r.
-	-----
-	2
-
-
-§wähte
-
-	1 Manc1643_44_Cat 436.lpp. 6.r.
-	-----
-	1
-
-
-§wähti
-
-	1 Manc1643_44_Cat 460.lpp. 8.r.
-	-----
-	1
-
-
-§wähtiet
-
-	1 Manc1643_44_Cat 420.lpp. 2.r.
-	-----
-	1
-
-
-§wähtietz
-
-	1 Manc1643_44_Cat 483.lpp. 7.r.
-	-----
-	1
-
-
-§wähtiya
-
-	1 Manc1643_44_Cat 483.lpp. 4.r.
-	-----
-	1
-
-
-§wähtiyis
-
-	1 Manc1643_44_Cat 482.lpp. 3.r.
-	-----
-	1
-
-
-§wähtu
-
-	1 Manc1643_44_Cat 424.lpp. 14.r.
-	1 Manc1643_44_Cat 426.lpp. 9.r.
-	1 Manc1643_44_Cat 431.lpp. 19.r.
-	1 Manc1643_44_Cat 436.lpp. 2.r.
-	1 Manc1643_44_Cat 448.lpp. 4.r.
-	1 Manc1643_44_Cat 451.lpp. 8.r.
-	1 Manc1643_44_Cat 458.lpp. 19.r.
-	1 Manc1643_44_Cat 465.lpp. 18.r.
-	1 Manc1643_44_Cat 482.lpp. 2.r.
-	1 Manc1643_44_Cat 482.lpp. 7.r.
-	1 Manc1643_44_Cat 482.lpp. 10.r.
-	1 Manc1643_44_Cat 482.lpp. 22.r.
-	1 Manc1643_44_Cat 484.lpp. 2.r.
-	1 Manc1643_44_Cat 484.lpp. 11.r.
-	-----
-	14
-
-
-§wähtu{§wahtu}
-
-	1 Manc1643_44_Cat 431.lpp. 20.r.
-	-----
-	1
-
-
-§wähtz
-
-	1 Manc1643_44_Cat 428.lpp. 25.r.
-	1 Manc1643_44_Cat 432.lpp. 12.r.
-	1 Manc1643_44_Cat 450.lpp. 4.r.
-	1 Manc1643_44_Cat 458.lpp. 20.r.
-	1 Manc1643_44_Cat 459.lpp. 13.r.
-	1 Manc1643_44_Cat 465.lpp. 12.r.
-	-----
-	6
-
-
-§wätahß
-
-	1 Manc1643_44_Cat 419.lpp. 7.r.
-	-----
-	1
-
-
-§wätas
-
-	1 Manc1643_44_Cat 481.lpp. 27.r.
-	-----
-	1
-
-
-§wäthu
-
-	1 Manc1643_44_Cat 476.lpp. 13.r.
-	-----
-	1
-
-
-§wätitu
-
-	1 Manc1643_44_Cat 478.lpp. 19.r.
-	-----
-	1
-
-
-§wätumu
-
-	1 Manc1643_44_Cat 480.lpp. 16.r.
-	-----
-	1
-
-
-§wätz
-
-	1 Manc1643_44_Cat 478.lpp. 9.r.
-	-----
-	1
-
-
-§ämmoyetees
-
-	1 Manc1643_44_Cat 475.lpp. 21.r.
-	-----
-	1
-
-
-§öw
-
-	1 Manc1643_44_Cat 455.lpp. 2.r.
-	-----
-	1
-
-
-ähkas
-
-	1 Manc1643_44_Cat 446.lpp. 1.r.
-	1 Manc1643_44_Cat 453.lpp. 12.r.
-	-----
-	2
-
-
-ähmu
-
-	1 Manc1643_44_Cat 430.lpp. 7.r.
-	-----
-	1
-
-
-ä§úam
-
-	1 Manc1643_44_Cat 437.lpp. 9.r.
-	1 Manc1643_44_Cat 454.lpp. 11.r.
-	1 Manc1643_44_Cat 459.lpp. 13.r.
-	-----
-	3
-
-
-ä§úohtz
-
-	1 Manc1643_44_Cat 449.lpp. 9.r.
-	-----
-	1
-
-
-äßmu
-
-	1 Manc1643_44_Cat 419.lpp. 14.r.
-	1 Manc1643_44_Cat 421.lpp. 4.r.
-	1 Manc1643_44_Cat 424.lpp. 11.r.
-	1 Manc1643_44_Cat 426.lpp. 24.r.
-	1 Manc1643_44_Cat 427.lpp. 10.r.
-	1 Manc1643_44_Cat 428.lpp. 3.r.
-	1 Manc1643_44_Cat 428.lpp. 8.r.
-	1 Manc1643_44_Cat 432.lpp. 9.r.
-	1 Manc1643_44_Cat 444.lpp. 4.r.
-	1 Manc1643_44_Cat 446.lpp. 9.r.
-	1 Manc1643_44_Cat 463.lpp. 1.r.
-	1 Manc1643_44_Cat 463.lpp. 2.r.
-	1 Manc1643_44_Cat 463.lpp. 3.r.
-	1 Manc1643_44_Cat 463.lpp. 4.r.
-	1 Manc1643_44_Cat 463.lpp. 5.r.
-	1 Manc1643_44_Cat 464.lpp. 6.r.
-	1 Manc1643_44_Cat 464.lpp. 9.r.
-	1 Manc1643_44_Cat 464.lpp. 14.r.
-	1 Manc1643_44_Cat 469.lpp. 8.r.
-	-----
-	19
-
-
-äúmu
-
-	1 Manc1643_44_Cat 427.lpp. 2.r.
-	-----
-	1
-
-
-ïaudeem
-
-	1 Manc1643_44_Cat 432.lpp. 11.r.
-	-----
-	1
-
-
-ïaudis
-
-	1 Manc1643_44_Cat 424.lpp. 3.r.
-	1 Manc1643_44_Cat 457.lpp. 13.r.
-	1 Manc1643_44_Cat 469.lpp. 16.r.
-	1 Manc1643_44_Cat 481.lpp. 26.r.
-	1 Manc1643_44_Cat 482.lpp. 23.r.
-	-----
-	5
-
-
-ïaun
-
-	1 Manc1643_44_Cat 423.lpp. 20.r.
-	1 Manc1643_44_Cat 446.lpp. 5.r.
-	1 Manc1643_44_Cat 456.lpp. 5.r.
-	1 Manc1643_44_Cat 469.lpp. 11.r.
-	1 Manc1643_44_Cat 473.lpp. 11.r.
-	1 Manc1643_44_Cat 476.lpp. 23.r.
-	1 Manc1643_44_Cat 477.lpp. 3.r.
-	-----
-	7
-
-
-ïauneems
-
-	1 Manc1643_44_Cat 453.lpp. 6.r.
-	-----
-	1
-
-
-ïauns
-
-	1 Manc1643_44_Cat 469.lpp. 18.r.
-	-----
-	1
-
-
-ïaunu
-
-	1 Manc1643_44_Cat 423.lpp. 11.r.
-	1 Manc1643_44_Cat 452.lpp. 9.r.
-	1 Manc1643_44_Cat 456.lpp. 2.r.
-	-----
-	3
-
-
-ïoht
-
-	1 Manc1643_44_Cat 427.lpp. 2.r.
-	-----
-	1
-
-
-úacka
-
-	1 Manc1643_44_Cat 421.lpp. 1.r.
-	1 Manc1643_44_Cat 421.lpp. 3.r.
-	1 Manc1643_44_Cat 432.lpp. 24.r.
-	1 Manc1643_44_Cat 444.lpp. 1.r.
-	1 Manc1643_44_Cat 444.lpp. 3.r.
-	1 Manc1643_44_Cat 457.lpp. 11.r.
-	1 Manc1643_44_Cat 458.lpp. 8.r.
-	1 Manc1643_44_Cat 458.lpp. 20.r.
-	1 Manc1643_44_Cat 459.lpp. 13.r.
-	1 Manc1643_44_Cat 468.lpp. 13.r.
-	1 Manc1643_44_Cat 468.lpp. 16.r.
-	1 Manc1643_44_Cat 468.lpp. 20.r.
-	1 Manc1643_44_Cat 472.lpp. 16.r.
-	1 Manc1643_44_Cat 478.lpp. 9.r.
-	1 Manc1643_44_Cat 479.lpp. 2.r.
-	1 Manc1643_44_Cat 480.lpp. 3.r.
-	1 Manc1643_44_Cat 484.lpp. 5.r.
-	-----
-	17
-
-
-úackaita
-
-	1 Manc1643_44_Cat 483.lpp. 15.r.
-	-----
-	1
-
-
-úacki
-
-	1 Manc1643_44_Cat 432.lpp. 14.r.
-	1 Manc1643_44_Cat 483.lpp. 17.r.
-	1 Manc1643_44_Cat 483.lpp. 19.r.
-	1 Manc1643_44_Cat 483.lpp. 21.r.
-	1 Manc1643_44_Cat 483.lpp. 25.r.
-	1 Manc1643_44_Cat 484.lpp. 1.r.
-	1 Manc1643_44_Cat 484.lpp. 3.r.
-	-----
-	7
-
-
-úackrah
-
-	1 Manc1643_44_Cat 448.lpp. 15.r.
-	-----
-	1
-
-
-úacku
-
-	1 Manc1643_44_Cat 483.lpp. 1.r.
-	-----
-	1
-
-
-úahnakauleem
-
-	1 Manc1643_44_Cat 477.lpp. 26.r.
-	-----
-	1
-
-
-úahnakaulu
-
-	1 Manc1643_44_Cat 477.lpp. 28.r.
-	-----
-	1
-
-
-úahpeem
-
-	1 Manc1643_44_Cat 479.lpp. 4.r.
-	-----
-	1
-
-
-úahpes
-
-	1 Manc1643_44_Cat 479.lpp. 3.r.
-	-----
-	1
-
-
-úahtam
-
-	1 Manc1643_44_Cat 471.lpp. 21.r.
-	-----
-	1
-
-
-úaim
-
-	1 Manc1643_44_Cat 443.lpp. 7.r.
-	-----
-	1
-
-
-úaimai
-
-	1 Manc1643_44_Cat 470.lpp. 2.r.
-	-----
-	1
-
-
-úaime
-
-	1 Manc1643_44_Cat 453.lpp. 14.r.
-	-----
-	1
-
-
-úaimei
-
-	1 Manc1643_44_Cat 434.lpp. 5.r.
-	1 Manc1643_44_Cat 444.lpp. 22.r.
-	1 Manc1643_44_Cat 449.lpp. 4.r.
-	1 Manc1643_44_Cat 457.lpp. 4.r.
-	-----
-	4
-
-
-úaimneekam
-
-	1 Manc1643_44_Cat 434.lpp. 5.r.
-	1 Manc1643_44_Cat 444.lpp. 21.r.
-	1 Manc1643_44_Cat 449.lpp. 4.r.
-	1 Manc1643_44_Cat 457.lpp. 4.r.
-	-----
-	4
-
-
-úaimneekeem
-
-	1 Manc1643_44_Cat 470.lpp. 1.r.
-	1 Manc1643_44_Cat 475.lpp. 12.r.
-	-----
-	2
-
-
-úaimnezeeneem
-
-	1 Manc1643_44_Cat 475.lpp. 12.r.
-	-----
-	1
-
-
-úaimnezenu
-
-	1 Manc1643_44_Cat 427.lpp. 8.r.
-	-----
-	1
-
-
-úalaulayis
-
-	1 Manc1643_44_Cat 477.lpp. 10.r.
-	-----
-	1
-
-
-úalaulayo
-
-	1 Manc1643_44_Cat 477.lpp. 16.r.
-	-----
-	1
-
-
-úalicku§chi
-
-	1 Manc1643_44_Cat 470.lpp. 2.r.
-	-----
-	1
-
-
-úalied§ena§chanas
-
-	1 Manc1643_44_Cat 433.lpp. 14.r.
-	-----
-	1
-
-
-úamaitata~
-
-	1 Manc1643_44_Cat 480.lpp. 16.r.
-	-----
-	1
-
-
-úapra§§chanu
-
-	1 Manc1643_44_Cat 445.lpp. 8.r.
-	1 Manc1643_44_Cat 448.lpp. 9.r.
-	-----
-	2
-
-
-úaprohtige
-
-	1 Manc1643_44_Cat 434.lpp. 5.r.
-	1 Manc1643_44_Cat 444.lpp. 22.r.
-	1 Manc1643_44_Cat 449.lpp. 4.r.
-	-----
-	3
-
-
-úaprotige
-
-	1 Manc1643_44_Cat 457.lpp. 4.r.
-	-----
-	1
-
-
-úara
-
-	1 Manc1643_44_Cat 474.lpp. 16.r.
-	-----
-	1
-
-
-úarrga
-
-	1 Manc1643_44_Cat 446.lpp. 6.r.
-	-----
-	1
-
-
-úarrkana
-
-	1 Manc1643_44_Cat 481.lpp. 25.r.
-	-----
-	1
-
-
-úattai§úietu
-
-	1 Manc1643_44_Cat 478.lpp. 21.r.
-	-----
-	1
-
-
-úattai§úiyees
-
-	1 Manc1643_44_Cat 462.lpp. 7.r.
-	1 Manc1643_44_Cat 462.lpp. 10.r.
-	-----
-	2
-
-
-úattai§úi§chana
-
-	1 Manc1643_44_Cat 462.lpp. 6.r.
-	-----
-	1
-
-
-úatzidami
-
-	1 Manc1643_44_Cat 442.lpp. 7.r.
-	-----
-	1
-
-
-úatzidams
-
-	1 Manc1643_44_Cat 479.lpp. 10.r.
-	-----
-	1
-
-
-úatziet
-
-	1 Manc1643_44_Cat 462.lpp. 16.r.
-	1 Manc1643_44_Cat 468.lpp. 24.r.
-	1 Manc1643_44_Cat 470.lpp. 4.r.
-	1 Manc1643_44_Cat 470.lpp. 16.r.
-	-----
-	4
-
-
-úatzietz
-
-	1 Manc1643_44_Cat 467.lpp. 24.r.
-	-----
-	1
-
-
-úatzija
-
-	1 Manc1643_44_Cat 424.lpp. 17.r.
-	-----
-	1
-
-
-úatziya
-
-	1 Manc1643_44_Cat 424.lpp. 1.r.
-	1 Manc1643_44_Cat 424.lpp. 20.r.
-	1 Manc1643_44_Cat 425.lpp. 20.r.
-	1 Manc1643_44_Cat 426.lpp. 2.r.
-	1 Manc1643_44_Cat 433.lpp. 1.r.
-	1 Manc1643_44_Cat 460.lpp. 13.r.
-	1 Manc1643_44_Cat 461.lpp. 3.r.
-	1 Manc1643_44_Cat 465.lpp. 26.r.
-	1 Manc1643_44_Cat 466.lpp. 5.r.
-	1 Manc1643_44_Cat 477.lpp. 21.r.
-	1 Manc1643_44_Cat 477.lpp. 29.r.
-	1 Manc1643_44_Cat 479.lpp. 7.r.
-	1 Manc1643_44_Cat 479.lpp. 24.r.
-	1 Manc1643_44_Cat 482.lpp. 26.r.
-	-----
-	14
-
-
-úatziyis
-
-	1 Manc1643_44_Cat 424.lpp. 20.r.
-	1 Manc1643_44_Cat 481.lpp. 10.r.
-	-----
-	2
-
-
-úautze
-
-	1 Manc1643_44_Cat 474.lpp. 17.r.
-	-----
-	1
-
-
-úau§úahm
-
-	1 Manc1643_44_Cat 481.lpp. 26.r.
-	-----
-	1
-
-
-úauß
-
-	1 Manc1643_44_Cat 482.lpp. 11.r.
-	-----
-	1
-
-
-úawa`
-
-	1 Manc1643_44_Cat 468.lpp. 11.r.
-	1 Manc1643_44_Cat 470.lpp. 6.r.
-	1 Manc1643_44_Cat 475.lpp. 23.r.
-	-----
-	3
-
-
-úawai
-
-	1 Manc1643_44_Cat 434.lpp. 5.r.
-	1 Manc1643_44_Cat 444.lpp. 22.r.
-	1 Manc1643_44_Cat 449.lpp. 4.r.
-	-----
-	3
-
-
-úawam
-
-	1 Manc1643_44_Cat 451.lpp. 9.r.
-	1 Manc1643_44_Cat 463.lpp. 1.r.
-	-----
-	2
-
-
-úawas
-
-	1 Manc1643_44_Cat 433.lpp. 18.r.
-	1 Manc1643_44_Cat 478.lpp. 4.r.
-	1 Manc1643_44_Cat 478.lpp. 13.r.
-	1 Manc1643_44_Cat 478.lpp. 17.r.
-	1 Manc1643_44_Cat 478.lpp. 24.r.
-	-----
-	5
-
-
-úaweem
-
-	1 Manc1643_44_Cat 424.lpp. 2.r.
-	1 Manc1643_44_Cat 424.lpp. 17.r.
-	1 Manc1643_44_Cat 425.lpp. 20.r.
-	1 Manc1643_44_Cat 430.lpp. 19.r.
-	1 Manc1643_44_Cat 432.lpp. 24.r.
-	1 Manc1643_44_Cat 433.lpp. 24.r.
-	1 Manc1643_44_Cat 448.lpp. 13.r.
-	1 Manc1643_44_Cat 460.lpp. 13.r.
-	1 Manc1643_44_Cat 465.lpp. 26.r.
-	1 Manc1643_44_Cat 478.lpp. 10.r.
-	1 Manc1643_44_Cat 478.lpp. 15.r.
-	-----
-	11
-
-
-úawi
-
-	1 Manc1643_44_Cat 457.lpp. 4.r.
-	1 Manc1643_44_Cat 468.lpp. 3.r.
-	-----
-	2
-
-
-úawu
-
-	1 Manc1643_44_Cat 423.lpp. 18.r.
-	1 Manc1643_44_Cat 424.lpp. 13.r.
-	1 Manc1643_44_Cat 426.lpp. 13.r.
-	1 Manc1643_44_Cat 427.lpp. 9.r.
-	1 Manc1643_44_Cat 429.lpp. 15.r.
-	1 Manc1643_44_Cat 429.lpp. 20.r.
-	1 Manc1643_44_Cat 430.lpp. 14.r.
-	1 Manc1643_44_Cat 430.lpp. 25.r.
-	1 Manc1643_44_Cat 433.lpp. 9.r.
-	1 Manc1643_44_Cat 433.lpp. 16.r.
-	1 Manc1643_44_Cat 438.lpp. 5.r.
-	1 Manc1643_44_Cat 439.lpp. 6.r.
-	1 Manc1643_44_Cat 440.lpp. 7.r.
-	1 Manc1643_44_Cat 442.lpp. 6.r.
-	1 Manc1643_44_Cat 443.lpp. 7.r.
-	1 Manc1643_44_Cat 447.lpp. 8.r.
-	1 Manc1643_44_Cat 447.lpp. 9.r.
-	1 Manc1643_44_Cat 448.lpp. 9.r.
-	1 Manc1643_44_Cat 449.lpp. 12.r.
-	1 Manc1643_44_Cat 451.lpp. 8.r.
-	1 Manc1643_44_Cat 452.lpp. 14.r.
-	1 Manc1643_44_Cat 463.lpp. 6.r.
-	1 Manc1643_44_Cat 463.lpp. 7.r.
-	1 Manc1643_44_Cat 465.lpp. 8.r.
-	1 Manc1643_44_Cat 465.lpp. 15.r.
-	1 Manc1643_44_Cat 465.lpp. 19.r.
-	1 Manc1643_44_Cat 467.lpp. 18.r.
-	1 Manc1643_44_Cat 468.lpp. 11.r.
-	1 Manc1643_44_Cat 470.lpp. 20.r.
-	1 Manc1643_44_Cat 472.lpp. 2.r.
-	1 Manc1643_44_Cat 472.lpp. 18.r.
-	1 Manc1643_44_Cat 473.lpp. 8.r.
-	1 Manc1643_44_Cat 474.lpp. 11.r.
-	1 Manc1643_44_Cat 474.lpp. 17.r.
-	1 Manc1643_44_Cat 475.lpp. 26.r.
-	1 Manc1643_44_Cat 476.lpp. 18.r.
-	2 Manc1643_44_Cat 478.lpp. 25.r.
-	1 Manc1643_44_Cat 478.lpp. 26.r.
-	1 Manc1643_44_Cat 479.lpp. 21.r.
-	1 Manc1643_44_Cat 480.lpp. 13.r.
-	1 Manc1643_44_Cat 481.lpp. 25.r.
-	1 Manc1643_44_Cat 484.lpp. 13.r.
-	-----
-	43
-
-
-úayembt
-
-	1 Manc1643_44_Cat 433.lpp. 27.r.
-	1 Manc1643_44_Cat 453.lpp. 8.r.
-	-----
-	2
-
-
-úayemt
-
-	1 Manc1643_44_Cat 446.lpp. 8.r.
-	-----
-	1
-
-
-úayämbti
-
-	1 Manc1643_44_Cat 476.lpp. 5.r.
-	-----
-	1
-
-
-úa§úai§tietz
-
-	1 Manc1643_44_Cat 457.lpp. 9.r.
-	-----
-	1
-
-
-úchahß
-
-	1 Manc1643_44_Cat 456.lpp. 8.r.
-	-----
-	1
-
-
-úchinny
-
-	1 Manc1643_44_Cat 456.lpp. 4.r.
-	-----
-	1
-
-
-úchodeen
-
-	1 Manc1643_44_Cat 423.lpp. 7.r.
-	-----
-	1
-
-
-úeewahm
-
-	1 Manc1643_44_Cat 474.lpp. 9.r.
-	1 Manc1643_44_Cat 474.lpp. 14.r.
-	1 Manc1643_44_Cat 478.lpp. 15.r.
-	-----
-	3
-
-
-úeewam
-
-	1 Manc1643_44_Cat 478.lpp. 10.r.
-	-----
-	1
-
-
-úeewas
-
-	1 Manc1643_44_Cat 471.lpp. 20.r.
-	1 Manc1643_44_Cat 474.lpp. 15.r.
-	1 Manc1643_44_Cat 478.lpp. 4.r.
-	1 Manc1643_44_Cat 478.lpp. 11.r.
-	1 Manc1643_44_Cat 478.lpp. 17.r.
-	1 Manc1643_44_Cat 478.lpp. 24.r.
-	1 Manc1643_44_Cat 479.lpp. 3.r.
-	1 Manc1643_44_Cat 479.lpp. 8.r.
-	-----
-	8
-
-
-úeewi§kahm
-
-	1 Manc1643_44_Cat 474.lpp. 10.r.
-	-----
-	1
-
-
-úeewi§ku
-
-	1 Manc1643_44_Cat 479.lpp. 23.r.
-	-----
-	1
-
-
-úeewu
-
-	1 Manc1643_44_Cat 420.lpp. 20.r.
-	1 Manc1643_44_Cat 443.lpp. 3.r.
-	1 Manc1643_44_Cat 443.lpp. 7.r.
-	1 Manc1643_44_Cat 446.lpp. 1.r.
-	1 Manc1643_44_Cat 477.lpp. 27.r.
-	1 Manc1643_44_Cat 480.lpp. 4.r.
-	1 Manc1643_44_Cat 480.lpp. 8.r.
-	-----
-	7
-
-
-úehdees
-
-	1 Manc1643_44_Cat 422.lpp. 8.r.
-	1 Manc1643_44_Cat 446.lpp. 22.r.
-	-----
-	2
-
-
-úeptietz
-
-	1 Manc1643_44_Cat 420.lpp. 10.r.
-	1 Manc1643_44_Cat 440.lpp. 1.r.
-	-----
-	2
-
-
-úeptinjeem
-
-	1 Manc1643_44_Cat 481.lpp. 23.r.
-	-----
-	1
-
-
-úeptita
-
-	1 Manc1643_44_Cat 428.lpp. 19.r.
-	1 Manc1643_44_Cat 456.lpp. 1.r.
-	1 Manc1643_44_Cat 464.lpp. 25.r.
-	-----
-	3
-
-
-úeptitapadeßmita
-
-	1 Manc1643_44_Cat 430.lpp. 16.r.
-	-----
-	1
-
-
-úeptitapadeßmitta
-
-	1 Manc1643_44_Cat 467.lpp. 15.r.
-	-----
-	1
-
-
-úe§tapadeßmita
-
-	1 Manc1643_44_Cat 430.lpp. 10.r.
-	-----
-	1
-
-
-úe§tapadeßmitta
-
-	1 Manc1643_44_Cat 467.lpp. 5.r.
-	-----
-	1
-
-
-úirdi
-
-	1 Manc1643_44_Cat 433.lpp. 27.r.
-	-----
-	1
-
-
-úirds
-
-	1 Manc1643_44_Cat 429.lpp. 18.r.
-	1 Manc1643_44_Cat 455.lpp. 1.r.
-	-----
-	2
-
-
-úirrdes
-
-	1 Manc1643_44_Cat 462.lpp. 12.r.
-	-----
-	1
-
-
-úirrdi
-
-	1 Manc1643_44_Cat 427.lpp. 17.r.
-	1 Manc1643_44_Cat 430.lpp. 25.r.
-	1 Manc1643_44_Cat 475.lpp. 5.r.
-	-----
-	3
-
-
-úirrds
-
-	1 Manc1643_44_Cat 427.lpp. 4.r.
-	1 Manc1643_44_Cat 428.lpp. 15.r.
-	1 Manc1643_44_Cat 475.lpp. 8.r.
-	-----
-	3
-
-
-úi§ts
-
-	1 Manc1643_44_Cat 422.lpp. 4.r.
-	1 Manc1643_44_Cat 446.lpp. 18.r.
-	-----
-	2
-
-
-úlaweyam
-
-	1 Manc1643_44_Cat 435.lpp. 9.r.
-	-----
-	1
-
-
-úlawu
-
-	1 Manc1643_44_Cat 431.lpp. 10.r.
-	1 Manc1643_44_Cat 441.lpp. 7.r.
-	1 Manc1643_44_Cat 474.lpp. 7.r.
-	-----
-	3
-
-
-úläppkawibu
-
-	1 Manc1643_44_Cat 468.lpp. 18.r.
-	-----
-	1
-
-
-úodibas
-
-	1 Manc1643_44_Cat 473.lpp. 14.r.
-	-----
-	1
-
-
-úohdibu
-
-	1 Manc1643_44_Cat 454.lpp. 14.r.
-	1 Manc1643_44_Cat 473.lpp. 11.r.
-	1 Manc1643_44_Cat 481.lpp. 22.r.
-	-----
-	3
-
-
-úohdiet
-
-	1 Manc1643_44_Cat 422.lpp. 10.r.
-	1 Manc1643_44_Cat 444.lpp. 12.r.
-	1 Manc1643_44_Cat 446.lpp. 24.r.
-	-----
-	3
-
-
-úohla
-
-	1 Manc1643_44_Cat 444.lpp. 15.r.
-	1 Manc1643_44_Cat 462.lpp. 2.r.
-	-----
-	2
-
-
-úohliyis
-
-	1 Manc1643_44_Cat 456.lpp. 14.r.
-	1 Manc1643_44_Cat 482.lpp. 13.r.
-	-----
-	2
-
-
-úohli§chana
-
-	1 Manc1643_44_Cat 458.lpp. 5.r.
-	1 Manc1643_44_Cat 458.lpp. 7.r.
-	-----
-	2
-
-
-úohlu
-
-	1 Manc1643_44_Cat 427.lpp. 18.r.
-	-----
-	1
-
-
-úolitas
-
-	1 Manc1643_44_Cat 481.lpp. 17.r.
-	-----
-	1
-
-
-úoli§chana
-
-	1 Manc1643_44_Cat 468.lpp. 2.r.
-	1 Manc1643_44_Cat 468.lpp. 4.r.
-	1 Manc1643_44_Cat 474.lpp. 27.r.
-	-----
-	3
-
-
-úoli§chanu
-
-	1 Manc1643_44_Cat 433.lpp. 26.r.
-	-----
-	1
-
-
-úpähku
-
-	1 Manc1643_44_Cat 448.lpp. 9.r.
-	-----
-	1
-
-
-úpähx
-
-	1 Manc1643_44_Cat 423.lpp. 12.r.
-	-----
-	1
-
-
-úuddrabu
-
-	1 Manc1643_44_Cat 447.lpp. 8.r.
-	-----
-	1
-
-
-úuhd§eyis
-
-	1 Manc1643_44_Cat 426.lpp. 24.r.
-	-----
-	1
-
-
-úuhd§e§chanas
-
-	1 Manc1643_44_Cat 426.lpp. 20.r.
-	-----
-	1
-
-
-úuhd§u
-
-	1 Manc1643_44_Cat 426.lpp. 25.r.
-	-----
-	1
-
-
-úuhtiti
-
-	1 Manc1643_44_Cat 474.lpp. 6.r.
-	-----
-	1
-
-
-úuhtiyis
-
-	1 Manc1643_44_Cat 424.lpp. 19.r.
-	-----
-	1
-
-
-úuhtu
-
-	1 Manc1643_44_Cat 424.lpp. 19.r.
-	-----
-	1
-
-
-úwehtiba
-
-	1 Manc1643_44_Cat 433.lpp. 19.r.
-	-----
-	1
-
-
-úwähta
-
-	1 Manc1643_44_Cat 423.lpp. 1.r.
-	1 Manc1643_44_Cat 424.lpp. 5.r.
-	1 Manc1643_44_Cat 457.lpp. 15.r.
-	1 Manc1643_44_Cat 463.lpp. 21.r.
-	-----
-	4
-
-
-úwähtadarritais
-
-	1 Manc1643_44_Cat 422.lpp. 21.r.
-	-----
-	1
-
-
-úwähtam
-
-	1 Manc1643_44_Cat 480.lpp. 22.r.
-	-----
-	1
-
-
-úwähtas
-
-	1 Manc1643_44_Cat 423.lpp. 14.r.
-	-----
-	1
-
-
-úwähte=darritais
-
-	1 Manc1643_44_Cat 429.lpp. 11.r.
-	-----
-	1
-
-
-úwähte=darritayi
-
-	1 Manc1643_44_Cat 429.lpp. 8.r.
-	-----
-	1
-
-
-úwähti
-
-	1 Manc1643_44_Cat 467.lpp. 14.r.
-	-----
-	1
-
-
-úwähtiba
-
-	1 Manc1643_44_Cat 461.lpp. 14.r.
-	-----
-	1
-
-
-úwähto
-
-	1 Manc1643_44_Cat 422.lpp. 13.r.
-	1 Manc1643_44_Cat 448.lpp. 5.r.
-	-----
-	2
-
-
-úwähtu
-
-	1 Manc1643_44_Cat 422.lpp. 2.r.
-	1 Manc1643_44_Cat 422.lpp. 11.r.
-	1 Manc1643_44_Cat 422.lpp. 12.r.
-	1 Manc1643_44_Cat 423.lpp. 18.r.
-	1 Manc1643_44_Cat 424.lpp. 21.r.
-	1 Manc1643_44_Cat 431.lpp. 2.r.
-	1 Manc1643_44_Cat 431.lpp. 26.r.
-	1 Manc1643_44_Cat 446.lpp. 16.r.
-	1 Manc1643_44_Cat 447.lpp. 8.r.
-	1 Manc1643_44_Cat 448.lpp. 3.r.
-	1 Manc1643_44_Cat 466.lpp. 12.r.
-	-----
-	11
-
-
-úwähtz
-
-	1 Manc1643_44_Cat 422.lpp. 21.r.
-	1 Manc1643_44_Cat 424.lpp. 7.r.
-	1 Manc1643_44_Cat 429.lpp. 4.r.
-	1 Manc1643_44_Cat 429.lpp. 5.r.
-	1 Manc1643_44_Cat 448.lpp. 11.r.
-	1 Manc1643_44_Cat 450.lpp. 6.r.
-	1 Manc1643_44_Cat 458.lpp. 9.r.
-	1 Manc1643_44_Cat 465.lpp. 4.r.
-	1 Manc1643_44_Cat 468.lpp. 26.r.
-	-----
-	9
-
-
-úwähtzdarritais
-
-	1 Manc1643_44_Cat 429.lpp. 5.r.
-	-----
-	1
-
-
-úwäta
-
-	1 Manc1643_44_Cat 479.lpp. 20.r.
-	1 Manc1643_44_Cat 481.lpp. 3.r.
-	-----
-	2
-
-
-úwätas
-
-	1 Manc1643_44_Cat 476.lpp. 11.r.
-	-----
-	1
-
-
-úä§ta
-
-	1 Manc1643_44_Cat 428.lpp. 16.r.
-	1 Manc1643_44_Cat 455.lpp. 3.r.
-	1 Manc1643_44_Cat 464.lpp. 22.r.
-	-----
-	3
-
-
-úä§ts
-
-	1 Manc1643_44_Cat 420.lpp. 9.r.
-	1 Manc1643_44_Cat 439.lpp. 1.r.
-	-----
-	2
-
-
-úöw
-
-	1 Manc1643_44_Cat 450.lpp. 4.r.
-	1 Manc1643_44_Cat 451.lpp. 5.r.
-	1 Manc1643_44_Cat 456.lpp. 9.r.
-	1 Manc1643_44_Cat 462.lpp. 5.r.
-	1 Manc1643_44_Cat 462.lpp. 21.r.
-	1 Manc1643_44_Cat 465.lpp. 6.r.
-	1 Manc1643_44_Cat 472.lpp. 5.r.
-	1 Manc1643_44_Cat 475.lpp. 21.r.
-	1 Manc1643_44_Cat 476.lpp. 4.r.
-	1 Manc1643_44_Cat 476.lpp. 10.r.
-	1 Manc1643_44_Cat 476.lpp. 25.r.
-	1 Manc1643_44_Cat 477.lpp. 5.r.
-	1 Manc1643_44_Cat 477.lpp. 15.r.
-	1 Manc1643_44_Cat 478.lpp. 18.r.
-	1 Manc1643_44_Cat 478.lpp. 20.r.
-	1 Manc1643_44_Cat 478.lpp. 26.r.
-	1 Manc1643_44_Cat 484.lpp. 4.r.
-	-----
-	17
 
 
 1

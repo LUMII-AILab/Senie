@@ -1,7 +1,7 @@
 Vârdformu skaits:	411
 Vârdlietojumu skaits:	1055
-	
-	
+
+
 75	un
 37	to
 33	ta
@@ -92,9 +92,6 @@ Vârdlietojumu skaits:	1055
 3	wehl
 3	wehra^
 3	wiòòu
-2	1
-2	2
-2	§tiprinajees
 2	aisturr
 2	apdohmajt
 2	apgah§iúchu
@@ -135,8 +132,8 @@ Vârdlietojumu skaits:	1055
 2	pirms
 2	poh§ta^
 2	praweeta
-2	pree§teºi
 2	preekúch
+2	pree§teºi
 2	prett
 2	raugi
 2	rohku
@@ -146,6 +143,7 @@ Vârdlietojumu skaits:	1055
 2	semmes
 2	serubabel
 2	úeúta^
+2	§tiprinajees
 2	tai
 2	tikkai
 2	tikkuúchi
@@ -161,27 +159,17 @@ Vârdlietojumu skaits:	1055
 2	wiúúu
 2	zeïïus
 2	zettorta^
-1	4
-1	5
-1	7
-1	10
-1	11
-1	19
-1	§kai§to^s
-1	§pee§chamu
-1	§tahw
-1	§tahweht
-1	§tiprinajtees
-1	§trahdajt
+2	1
+2	2
 1	aiskahrtu
 1	aiskaºº
 1	aizinajs
 1	ak
 1	akmins
 1	algu
-1	ap§tiprina
 1	apúohlihts
 1	apúohliúchanas
+1	ap§tiprina
 1	apúwehtiti
 1	aptehrpjatees
 1	atgahjis
@@ -191,19 +179,16 @@ Vârdlietojumu skaits:	1055
 1	atlikkuúcho
 1	atlizzis
 1	atweddeet
-1	aug§ta
 1	augïus
+1	aug§ta
 1	azzi^s
 1	balkúnei
 1	barribu
 1	bauúlibu
-1	bih§teetees
 1	bihjajahs
+1	bih§teetees
 1	brihds
 1	buhdams
-1	d§ennatees
-1	d§eººat
-1	d§ihwojat
 1	dabbu
 1	dabbujat
 1	darba^
@@ -220,6 +205,9 @@ Vârdlietojumu skaits:	1055
 1	dewitas
 1	dohúchu
 1	drehbes
+1	d§ennatees
+1	d§eººat
+1	d§ihwojat
 1	eekúcha
 1	egiptes=semmes
 1	ehdat
@@ -264,9 +252,9 @@ Vârdlietojumu skaits:	1055
 1	kohpu
 1	kri§tus
 1	kruúúu
-1	ku§tinaúchu
 1	kuººai
 1	kuºúch
+1	ku§tinaúchu
 1	labbad
 1	labbibas
 1	labbibu
@@ -296,14 +284,13 @@ Vârdlietojumu skaits:	1055
 1	muh§chigi
 1	nahks
 1	nammo^s
-1	ne§tu
 1	ne=augligeem
 1	neììi
 1	òemúchu
+1	ne§tu
 1	nokrittihs
 1	nomirruúchas
 1	ohtra
-1	pa§kubbinaúchanai
 1	padarrija
 1	pagaòus
 1	pagohdinahts
@@ -313,6 +300,7 @@ Vârdlietojumu skaits:	1055
 1	pamohdinaja
 1	par
 1	paúchu
+1	pa§kubbinaúchanai
 1	patt
 1	pawalgu
 1	pee=ehdat
@@ -324,10 +312,10 @@ Vârdlietojumu skaits:	1055
 1	pirma
 1	pirmam
 1	prahts
+1	preekúcha^
 1	pree§teºa
 1	pree§teris
 1	pree§teºus
-1	preekúcha^
 1	puhreem
 1	raúúu
 1	rattus
@@ -354,14 +342,20 @@ Vârdlietojumu skaits:	1055
 1	serubabela
 1	serubabels
 1	sirgus
+1	§kai§to^s
 1	úluddinaúchana
 1	úmelt
 1	sohbiòa
 1	úohda
 1	úohdihs
+1	§pee§chamu
+1	§tahw
+1	§tahweht
 1	starpa^
+1	§tiprinajtees
 1	stiprumu
 1	stohpus
+1	§trahdajt
 1	stuhºa
 1	stuhri^
 1	úudrabs
@@ -403,8 +397,8 @@ Vârdlietojumu skaits:	1055
 1	wihges=kohku
 1	wihna=kohku
 1	wihna=spaidu
-1	wiò§ch
 1	wiòòa
+1	wiò§ch
 1	wiús
 1	wiúúa^
 1	wiúúadu
@@ -413,3 +407,9 @@ Vârdlietojumu skaits:	1055
 1	zettorta^{zettora^}
 1	zettortas
 1	zilwekeem
+1	10
+1	11
+1	19
+1	4
+1	5
+1	7

@@ -145,13 +145,6 @@ ap§chehloúchanas
 	1
 
 
-ap§kaitees
-
-	1 VD1689_94 Hab 4:8
-	-----
-	1
-
-
 ap§kaiúchana^
 
 	1 VD1689_94 Hab 4:2
@@ -159,9 +152,9 @@ ap§kaiúchana^
 	1
 
 
-ap§tiprini
+ap§kaitees
 
-	1 VD1689_94 Hab 1:12
+	1 VD1689_94 Hab 4:8
 	-----
 	1
 
@@ -190,6 +183,13 @@ apúmees
 apúohlitas
 
 	1 VD1689_94 Hab 2:0
+	-----
+	1
+
+
+ap§tiprini
+
+	1 VD1689_94 Hab 1:12
 	-----
 	1
 
@@ -232,6 +232,28 @@ arrig
 	1 VD1689_94 Hab 1:17
 	-----
 	1
+
+
+aúúaki
+
+	1 VD1689_94 Hab 1:8
+	-----
+	1
+
+
+aúúina
+
+	1 VD1689_94 Hab 3:8
+	-----
+	1
+
+
+aúúiòa
+
+	1 VD1689_94 Hab 3:12
+	1 VD1689_94 Hab 3:17
+	-----
+	2
 
 
 atbild
@@ -290,16 +312,9 @@ atrauti
 	1
 
 
-atwedde
+atúed§i
 
-	1 VD1689_94 Hab 4:8
-	-----
-	1
-
-
-atweddiúchu
-
-	1 VD1689_94 Hab 1:6
+	1 VD1689_94 Hab 4:13
 	-----
 	1
 
@@ -318,9 +333,16 @@ at§krees
 	1
 
 
-atúed§i
+atwedde
 
-	1 VD1689_94 Hab 4:13
+	1 VD1689_94 Hab 4:8
+	-----
+	1
+
+
+atweddiúchu
+
+	1 VD1689_94 Hab 1:6
 	-----
 	1
 
@@ -328,6 +350,13 @@ atúed§i
 auglis
 
 	1 VD1689_94 Hab 4:17
+	-----
+	1
+
+
+augúchu
+
+	1 VD1689_94 Hab 4:16
 	-----
 	1
 
@@ -368,40 +397,11 @@ aug§tumo^s
 	1
 
 
-augúchu
-
-	1 VD1689_94 Hab 4:16
-	-----
-	1
-
-
 azzis
 
 	1 VD1689_94 Hab 1:13
 	-----
 	1
-
-
-aúúaki
-
-	1 VD1689_94 Hab 1:8
-	-----
-	1
-
-
-aúúina
-
-	1 VD1689_94 Hab 3:8
-	-----
-	1
-
-
-aúúiòa
-
-	1 VD1689_94 Hab 3:12
-	1 VD1689_94 Hab 3:17
-	-----
-	2
 
 
 babele^
@@ -425,6 +425,13 @@ bahrga
 	1
 
 
+bahrúchana
+
+	1 VD1689_94 Hab 1:3
+	-----
+	1
+
+
 bahr§iba
 
 	1 VD1689_94 Hab 4:8
@@ -435,13 +442,6 @@ bahr§iba
 bahr§ibu
 
 	1 VD1689_94 Hab 4:12
-	-----
-	1
-
-
-bahrúchana
-
-	1 VD1689_94 Hab 1:3
 	-----
 	1
 
@@ -564,16 +564,16 @@ biji
 	2
 
 
-bilde
+biííeris
 
-	1 VD1689_94 Hab 3:18
+	1 VD1689_94 Hab 3:16
 	-----
 	1
 
 
-biííeris
+bilde
 
-	1 VD1689_94 Hab 3:16
+	1 VD1689_94 Hab 3:18
 	-----
 	1
 
@@ -810,6 +810,77 @@ drebbeja
 	1
 
 
+d§eedataja
+
+	1 VD1689_94 Hab 4:19
+	-----
+	1
+
+
+d§enn
+
+	1 VD1689_94 Hab 3:9
+	-----
+	1
+
+
+d§err
+
+	1 VD1689_94 Hab 3:16
+	-----
+	1
+
+
+d§ihwohs
+
+	1 VD1689_94 Hab 2:4
+	-----
+	1
+
+
+d§ihwokïus
+
+	1 VD1689_94 Hab 4:7
+	-----
+	1
+
+
+d§ihwu
+
+	1 VD1689_94 Hab 4:2
+	-----
+	1
+
+
+d§iïïums
+
+	1 VD1689_94 Hab 4:10
+	-----
+	1
+
+
+d§innahs
+
+	1 VD1689_94 Hab 4:11
+	-----
+	1
+
+
+d§irdeju
+
+	1 VD1689_94 Hab 4:1
+	1 VD1689_94 Hab 4:16
+	-----
+	2
+
+
+d§irdina
+
+	1 VD1689_94 Hab 3:15
+	-----
+	1
+
+
 dubïus
 
 	1 VD1689_94 Hab 3:6
@@ -858,77 +929,6 @@ dwehúeli
 	1 VD1689_94 Hab 3:10
 	-----
 	2
-
-
-d§eedataja
-
-	1 VD1689_94 Hab 4:19
-	-----
-	1
-
-
-d§enn
-
-	1 VD1689_94 Hab 3:9
-	-----
-	1
-
-
-d§err
-
-	1 VD1689_94 Hab 3:16
-	-----
-	1
-
-
-d§ihwohs
-
-	1 VD1689_94 Hab 2:4
-	-----
-	1
-
-
-d§ihwokïus
-
-	1 VD1689_94 Hab 4:7
-	-----
-	1
-
-
-d§ihwu
-
-	1 VD1689_94 Hab 4:2
-	-----
-	1
-
-
-d§innahs
-
-	1 VD1689_94 Hab 4:11
-	-----
-	1
-
-
-d§irdeju
-
-	1 VD1689_94 Hab 4:1
-	1 VD1689_94 Hab 4:16
-	-----
-	2
-
-
-d§irdina
-
-	1 VD1689_94 Hab 3:15
-	-----
-	1
-
-
-d§iïïums
-
-	1 VD1689_94 Hab 4:10
-	-----
-	1
 
 
 eed§ihwotajeem
@@ -980,6 +980,13 @@ eered§eht
 	1
 
 
+eeúahkuma
+
+	1 VD1689_94 Hab 1:12
+	-----
+	1
+
+
 eewainoji
 
 	1 VD1689_94 Hab 4:13
@@ -994,16 +1001,16 @@ eezelli
 	1
 
 
-eeúahkuma
+ehrglis
 
-	1 VD1689_94 Hab 1:12
+	1 VD1689_94 Hab 1:8
 	-----
 	1
 
 
-ehrglis
+eïjes=kohka
 
-	1 VD1689_94 Hab 1:8
+	1 VD1689_94 Hab 4:17
 	-----
 	1
 
@@ -1036,20 +1043,6 @@ es
 	14
 
 
-etc
-
-	1 VD1689_94 Hab 3:0
-	-----
-	1
-
-
-eïjes=kohka
-
-	1 VD1689_94 Hab 4:17
-	-----
-	1
-
-
 eúúi
 
 	1 VD1689_94 Hab 1:12
@@ -1059,6 +1052,13 @@ eúúi
 	1 VD1689_94 Hab 4:14
 	-----
 	6
+
+
+etc
+
+	1 VD1689_94 Hab 3:0
+	-----
+	1
 
 
 gaddu
@@ -1385,6 +1385,13 @@ ispleúch
 	1
 
 
+isúauzejs
+
+	1 VD1689_94 Hab 2:3
+	-----
+	1
+
+
 istruhzinahs
 
 	1 VD1689_94 Hab 3:17
@@ -1402,13 +1409,6 @@ istukúchohs
 iswilki
 
 	1 VD1689_94 Hab 4:9
-	-----
-	1
-
-
-isúauzejs
-
-	1 VD1689_94 Hab 2:3
 	-----
 	1
 
@@ -1475,13 +1475,6 @@ judu
 	1
 
 
-juhs
-
-	1 VD1689_94 Hab 1:5
-	-----
-	1
-
-
 juhºa^
 
 	1 VD1689_94 Hab 1:14
@@ -1500,6 +1493,13 @@ juhºas
 juhºu
 
 	1 VD1689_94 Hab 4:8
+	-----
+	1
+
+
+juhs
+
+	1 VD1689_94 Hab 1:5
 	-----
 	1
 
@@ -1585,16 +1585,16 @@ kaklam
 	1
 
 
-kaldee#ºus
+kaldee&ºu
 
-	1 VD1689_94 Hab 1:6
+	1 VD1689_94 Hab 1:0
 	-----
 	1
 
 
-kaldee&ºu
+kaldee#ºus
 
-	1 VD1689_94 Hab 1:0
+	1 VD1689_94 Hab 1:6
 	-----
 	1
 
@@ -1635,6 +1635,20 @@ kapehz
 	1 VD1689_94 Hab 1:14
 	-----
 	4
+
+
+kaººa=spehks
+
+	1 VD1689_94 Hab 1:0
+	-----
+	1
+
+
+kaººa=wihru
+
+	1 VD1689_94 Hab 4:14
+	-----
+	1
 
 
 kar§ta
@@ -1710,16 +1724,16 @@ kaweúees
 	1
 
 
-kaººa=spehks
+íehniòus
 
-	1 VD1689_94 Hab 1:0
+	1 VD1689_94 Hab 1:10
 	-----
 	1
 
 
-kaººa=wihru
+íilda
 
-	1 VD1689_94 Hab 4:14
+	1 VD1689_94 Hab 1:3
 	-----
 	1
 
@@ -1727,6 +1741,13 @@ kaººa=wihru
 kleegúchu
 
 	1 VD1689_94 Hab 1:2
+	-----
+	1
+
+
+kïuh§t
+
+	1 VD1689_94 Hab 3:0
 	-----
 	1
 
@@ -1780,6 +1801,13 @@ kohpa^
 	1
 
 
+kºauj
+
+	1 VD1689_94 Hab 3:6
+	-----
+	1
+
+
 kunga
 
 	1 VD1689_94 Hab 3:13
@@ -1811,13 +1839,6 @@ kur
 	1
 
 
-ku§tinajohs
-
-	1 VD1689_94 Hab 4:16
-	-----
-	1
-
-
 kuººa
 
 	1 VD1689_94 Hab 2:4
@@ -1832,23 +1853,16 @@ kuººu
 	1
 
 
+ku§tinajohs
+
+	1 VD1689_94 Hab 4:16
+	-----
+	1
+
+
 kwehpina
 
 	1 VD1689_94 Hab 1:16
-	-----
-	1
-
-
-kïuh§t
-
-	1 VD1689_94 Hab 3:0
-	-----
-	1
-
-
-kºauj
-
-	1 VD1689_94 Hab 3:6
 	-----
 	1
 
@@ -1881,6 +1895,51 @@ laikeem
 	1
 
 
+laúúa
+
+	1 VD1689_94 Hab 2:2
+	-----
+	1
+
+
+ïaudim
+
+	2 VD1689_94 Hab 4:0
+	1 VD1689_94 Hab 4:16
+	-----
+	3
+
+
+ïaudis
+
+	1 VD1689_94 Hab 3:5
+	1 VD1689_94 Hab 3:13
+	1 VD1689_94 Hab 4:13
+	-----
+	3
+
+
+ïauna
+
+	1 VD1689_94 Hab 3:9
+	-----
+	1
+
+
+ïaunuma
+
+	1 VD1689_94 Hab 3:9
+	-----
+	1
+
+
+ïaunumu
+
+	1 VD1689_94 Hab 1:13
+	-----
+	1
+
+
 laupiúchanas
 
 	1 VD1689_94 Hab 3:0
@@ -1895,6 +1954,15 @@ lau§chahs
 	1
 
 
+ïau§chu
+
+	1 VD1689_94 Hab 1:0
+	1 VD1689_94 Hab 3:10
+	1 VD1689_94 Hab 4:7
+	-----
+	3
+
+
 lau§iúees
 
 	1 VD1689_94 Hab 1:11
@@ -1902,9 +1970,9 @@ lau§iúees
 	1
 
 
-laúúa
+ïaut
 
-	1 VD1689_94 Hab 2:2
+	1 VD1689_94 Hab 1:0
 	-----
 	1
 
@@ -2075,6 +2143,13 @@ man
 	4
 
 
+man~as
+
+	1 VD1689_94 Hab 4:19
+	-----
+	1
+
+
 manna^
 
 	1 VD1689_94 Hab 4:16
@@ -2143,13 +2218,6 @@ mantas
 	1
 
 
-man~as
-
-	1 VD1689_94 Hab 4:19
-	-----
-	1
-
-
 mehmus
 
 	1 VD1689_94 Hab 3:18
@@ -2171,16 +2239,16 @@ mehris
 	1
 
 
-mehs
+mehºoja
 
-	1 VD1689_94 Hab 1:12
+	1 VD1689_94 Hab 4:6
 	-----
 	1
 
 
-mehºoja
+mehs
 
-	1 VD1689_94 Hab 4:6
+	1 VD1689_94 Hab 1:12
 	-----
 	1
 
@@ -2228,16 +2296,16 @@ minneúchanu
 	1
 
 
-mohziba
+mohºu
 
-	1 VD1689_94 Hab 4:5
+	1 VD1689_94 Hab 4:7
 	-----
 	1
 
 
-mohºu
+mohziba
 
-	1 VD1689_94 Hab 4:7
+	1 VD1689_94 Hab 4:5
 	-----
 	1
 
@@ -2337,6 +2405,18 @@ negauúibu
 	1
 
 
+neììi
+
+	1 VD1689_94 Hab 1:12
+	1 VD1689_94 Hab 1:17
+	1 VD1689_94 Hab 3:6
+	1 VD1689_94 Hab 3:7
+	1 VD1689_94 Hab 3:13
+	1 VD1689_94 Hab 4:8
+	-----
+	6
+
+
 negohdigi
 
 	1 VD1689_94 Hab 3:16
@@ -2366,6 +2446,13 @@ neprattigeem
 	1
 
 
+neús
+
+	1 VD1689_94 Hab 4:17
+	-----
+	1
+
+
 netaiúnibas
 
 	1 VD1689_94 Hab 3:12
@@ -2383,25 +2470,6 @@ netaiúnibu
 newa
 
 	1 VD1689_94 Hab 1:14
-	-----
-	1
-
-
-neììi
-
-	1 VD1689_94 Hab 1:12
-	1 VD1689_94 Hab 1:17
-	1 VD1689_94 Hab 3:6
-	1 VD1689_94 Hab 3:7
-	1 VD1689_94 Hab 3:13
-	1 VD1689_94 Hab 4:8
-	-----
-	6
-
-
-neús
-
-	1 VD1689_94 Hab 4:17
 	-----
 	1
 
@@ -2466,6 +2534,13 @@ no§eegúees
 	1
 
 
+noúohditi
+
+	1 VD1689_94 Hab 3:0
+	-----
+	1
+
+
 no§pree§ta^
 
 	1 VD1689_94 Hab 2:3
@@ -2476,13 +2551,6 @@ no§pree§ta^
 no§tums
 
 	1 VD1689_94 Hab 3:7
-	-----
-	1
-
-
-noúohditi
-
-	1 VD1689_94 Hab 3:0
 	-----
 	1
 
@@ -2618,6 +2686,13 @@ paklauúiúi
 	1
 
 
+païaujahs
+
+	1 VD1689_94 Hab 3:18
+	-----
+	1
+
+
 paleek
 
 	1 VD1689_94 Hab 3:5
@@ -2679,6 +2754,48 @@ pardeïi
 	1
 
 
+paúaule^
+
+	1 VD1689_94 Hab 4:6
+	-----
+	1
+
+
+paúaules
+
+	1 VD1689_94 Hab 4:6
+	-----
+	1
+
+
+paúcha
+
+	1 VD1689_94 Hab 3:6
+	-----
+	1
+
+
+paúchus
+
+	1 VD1689_94 Hab 4:0
+	-----
+	1
+
+
+pa§ih§tamu
+
+	1 VD1689_94 Hab 4:2
+	-----
+	1
+
+
+paúleppeni
+
+	1 VD1689_94 Hab 4:14
+	-----
+	1
+
+
 pats
 
 	1 VD1689_94 Hab 1:3
@@ -2710,55 +2827,6 @@ pazeeúchanu
 pazehle
 
 	1 VD1689_94 Hab 4:10
-	-----
-	1
-
-
-pa§ih§tamu
-
-	1 VD1689_94 Hab 4:2
-	-----
-	1
-
-
-païaujahs
-
-	1 VD1689_94 Hab 3:18
-	-----
-	1
-
-
-paúaule^
-
-	1 VD1689_94 Hab 4:6
-	-----
-	1
-
-
-paúaules
-
-	1 VD1689_94 Hab 4:6
-	-----
-	1
-
-
-paúcha
-
-	1 VD1689_94 Hab 3:6
-	-----
-	1
-
-
-paúchus
-
-	1 VD1689_94 Hab 4:0
-	-----
-	1
-
-
-paúleppeni
-
-	1 VD1689_94 Hab 4:14
 	-----
 	1
 
@@ -2824,9 +2892,9 @@ peepildita
 	2
 
 
-peewiïï
+peeúaukúchu
 
-	1 VD1689_94 Hab 3:5
+	1 VD1689_94 Hab 1:2
 	-----
 	1
 
@@ -2838,9 +2906,9 @@ pee§kubbinaúchana
 	1
 
 
-peeúaukúchu
+peewiïï
 
-	1 VD1689_94 Hab 1:2
+	1 VD1689_94 Hab 3:5
 	-----
 	1
 
@@ -3172,9 +3240,207 @@ ruhktu
 	1
 
 
+úajauzi
+
+	1 VD1689_94 Hab 3:15
+	-----
+	1
+
+
+úakka
+
+	1 VD1689_94 Hab 2:2
+	1 VD1689_94 Hab 3:19
+	-----
+	2
+
+
+úakkamu
+
+	1 VD1689_94 Hab 3:6
+	-----
+	1
+
+
+úakrahj
+
+	1 VD1689_94 Hab 1:15
+	1 VD1689_94 Hab 3:5
+	-----
+	2
+
+
+úakrahs
+
+	1 VD1689_94 Hab 1:10
+	-----
+	1
+
+
+úakuhli
+
+	1 VD1689_94 Hab 4:12
+	-----
+	1
+
+
+§aïïohs
+
+	1 VD1689_94 Hab 4:17
+	-----
+	1
+
+
+úaminni
+
+	1 VD1689_94 Hab 4:12
+	-----
+	1
+
+
+úapulzina
+
+	1 VD1689_94 Hab 1:15
+	-----
+	1
+
+
+úapulzinahs
+
+	1 VD1689_94 Hab 1:9
+	-----
+	1
+
+
+úargaúchanu
+
+	1 VD1689_94 Hab 2:1
+	-----
+	1
+
+
 sars
 
 	1 VD1689_94 Hab 3:11
+	-----
+	1
+
+
+úaúchíehlis
+
+	1 VD1689_94 Hab 4:9
+	-----
+	1
+
+
+úatreekti
+
+	1 VD1689_94 Hab 4:6
+	-----
+	1
+
+
+úatreezis
+
+	1 VD1689_94 Hab 4:14
+	-----
+	1
+
+
+úaud§ehs
+
+	1 VD1689_94 Hab 1:17
+	-----
+	1
+
+
+úaule
+
+	1 VD1689_94 Hab 4:11
+	-----
+	1
+
+
+úawa
+
+	1 VD1689_94 Hab 3:9
+	1 VD1689_94 Hab 3:20
+	-----
+	2
+
+
+úawa^
+
+	1 VD1689_94 Hab 1:15
+	1 VD1689_94 Hab 3:5
+	1 VD1689_94 Hab 4:11
+	-----
+	3
+
+
+úawam
+
+	1 VD1689_94 Hab 1:16
+	-----
+	1
+
+
+úawas
+
+	1 VD1689_94 Hab 3:0
+	1 VD1689_94 Hab 4:10
+	-----
+	2
+
+
+úaweem
+
+	1 VD1689_94 Hab 1:16
+	1 VD1689_94 Hab 4:0
+	-----
+	2
+
+
+úawo^s
+
+	1 VD1689_94 Hab 1:15
+	-----
+	1
+
+
+úawu
+
+	1 VD1689_94 Hab 1:9
+	2 VD1689_94 Hab 1:11
+	1 VD1689_94 Hab 1:17
+	1 VD1689_94 Hab 2:1
+	1 VD1689_94 Hab 2:4
+	1 VD1689_94 Hab 3:5
+	1 VD1689_94 Hab 3:6
+	1 VD1689_94 Hab 3:9
+	1 VD1689_94 Hab 3:15
+	1 VD1689_94 Hab 3:18
+	-----
+	11
+
+
+úazzihs
+
+	1 VD1689_94 Hab 2:1
+	-----
+	1
+
+
+úazzihts
+
+	1 VD1689_94 Hab 3:6
+	-----
+	1
+
+
+úchee
+
+	1 VD1689_94 Hab 3:6
 	-----
 	1
 
@@ -3186,9 +3452,46 @@ schehla§tibas
 	1
 
 
+úchi
+
+	1 VD1689_94 Hab 1:1
+	1 VD1689_94 Hab 1:7
+	1 VD1689_94 Hab 1:10
+	-----
+	3
+
+
+úchíehpi
+
+	1 VD1689_94 Hab 4:11
+	-----
+	1
+
+
+úchíih§tas
+
+	1 VD1689_94 Hab 1:13
+	-----
+	1
+
+
 schulti
 
 	1 VD1689_94 Hab 3:15
+	-----
+	1
+
+
+úeenas
+
+	1 VD1689_94 Hab 3:11
+	-----
+	1
+
+
+úekkahs
+
+	1 VD1689_94 Hab 4:17
 	-----
 	1
 
@@ -3236,9 +3539,37 @@ semmi
 	2
 
 
+úewi
+
+	1 VD1689_94 Hab 3:6
+	-----
+	1
+
+
+úewis
+
+	2 VD1689_94 Hab 3:5
+	-----
+	2
+
+
+úezzen
+
+	1 VD1689_94 Hab 2:2
+	-----
+	1
+
+
 sibbins
 
 	1 VD1689_94 Hab 4:11
+	-----
+	1
+
+
+úihki
+
+	1 VD1689_94 Hab 4:17
 	-----
 	1
 
@@ -3265,6 +3596,48 @@ siwis
 	1
 
 
+§kattijahs
+
+	1 VD1689_94 Hab 4:6
+	-----
+	1
+
+
+§kattohs
+
+	1 VD1689_94 Hab 2:1
+	-----
+	1
+
+
+úlawas
+
+	1 VD1689_94 Hab 4:3
+	-----
+	1
+
+
+úlawu
+
+	1 VD1689_94 Hab 4:1
+	-----
+	1
+
+
+úluddinahts
+
+	1 VD1689_94 Hab 1:5
+	-----
+	1
+
+
+úmiltis
+
+	1 VD1689_94 Hab 1:9
+	-----
+	1
+
+
 sohbi
 
 	1 VD1689_94 Hab 1:8
@@ -3272,9 +3645,30 @@ sohbi
 	1
 
 
+úohdibu
+
+	1 VD1689_94 Hab 1:12
+	-----
+	1
+
+
+úohma=stabulehm
+
+	1 VD1689_94 Hab 4:19
+	-----
+	1
+
+
 spehku
 
 	1 VD1689_94 Hab 1:11
+	-----
+	1
+
+
+§pihdeja
+
+	1 VD1689_94 Hab 4:11
 	-----
 	1
 
@@ -3289,6 +3683,56 @@ spihdumi
 spoh§chums
 
 	1 VD1689_94 Hab 4:4
+	-----
+	1
+
+
+§tahweja
+
+	1 VD1689_94 Hab 4:6
+	1 VD1689_94 Hab 4:11
+	-----
+	2
+
+
+§tahwu
+
+	1 VD1689_94 Hab 2:1
+	-----
+	1
+
+
+§taigaja
+
+	1 VD1689_94 Hab 4:6
+	-----
+	1
+
+
+§tarp
+
+	1 VD1689_94 Hab 1:5
+	-----
+	1
+
+
+§teid§ahs
+
+	1 VD1689_94 Hab 1:8
+	-----
+	1
+
+
+§tipras
+
+	1 VD1689_94 Hab 1:10
+	-----
+	1
+
+
+§tiprina
+
+	1 VD1689_94 Hab 3:12
 	-----
 	1
 
@@ -3315,6 +3759,13 @@ stopu
 	1
 
 
+§trahda
+
+	1 VD1689_94 Hab 3:13
+	-----
+	1
+
+
 strauteem
 
 	1 VD1689_94 Hab 4:8
@@ -3322,9 +3773,59 @@ strauteem
 	1
 
 
+úudraba
+
+	1 VD1689_94 Hab 3:19
+	-----
+	1
+
+
+úuhd§eúchana
+
+	1 VD1689_94 Hab 1:0
+	-----
+	1
+
+
+úwaiditu
+
+	1 VD1689_94 Hab 4:13
+	-----
+	1
+
+
+§wehrejs
+
+	1 VD1689_94 Hab 4:9
+	-----
+	1
+
+
 swehru
 
 	1 VD1689_94 Hab 3:17
+	-----
+	1
+
+
+úwehta
+
+	1 VD1689_94 Hab 3:20
+	-----
+	1
+
+
+úwehtajs
+
+	1 VD1689_94 Hab 1:12
+	1 VD1689_94 Hab 4:3
+	-----
+	2
+
+
+úweúchas
+
+	1 VD1689_94 Hab 3:6
 	-----
 	1
 
@@ -3365,19 +3866,19 @@ ta
 	34
 
 
-ta^
-
-	1 VD1689_94 Hab 2:2
-	-----
-	1
-
-
 ta`
 
 	1 VD1689_94 Hab 3:10
 	1 VD1689_94 Hab 3:18
 	-----
 	2
+
+
+ta^
+
+	1 VD1689_94 Hab 2:2
+	-----
+	1
 
 
 tad
@@ -3406,6 +3907,13 @@ tadehï
 tahdu
 
 	1 VD1689_94 Hab 1:3
+	-----
+	1
+
+
+tahïenes
+
+	1 VD1689_94 Hab 1:8
 	-----
 	1
 
@@ -3439,13 +3947,6 @@ tahs
 	1 VD1689_94 Hab 4:16
 	-----
 	10
-
-
-tahïenes
-
-	1 VD1689_94 Hab 1:8
-	-----
-	1
 
 
 taiúna
@@ -3832,6 +4333,20 @@ tohs
 	9
 
 
+túchaklaki
+
+	1 VD1689_94 Hab 1:8
+	-----
+	1
+
+
+túchaklu
+
+	1 VD1689_94 Hab 1:6
+	-----
+	1
+
+
 tu
 
 	2 VD1689_94 Hab 1:2
@@ -3882,20 +4397,6 @@ turredama
 tuwaku
 
 	1 VD1689_94 Hab 3:15
-	-----
-	1
-
-
-túchaklaki
-
-	1 VD1689_94 Hab 1:8
-	-----
-	1
-
-
-túchaklu
-
-	1 VD1689_94 Hab 1:6
 	-----
 	1
 
@@ -4141,6 +4642,13 @@ walkohs
 	1
 
 
+waïïu
+
+	1 VD1689_94 Hab 1:0
+	-----
+	1
+
+
 warr
 
 	1 VD1689_94 Hab 1:13
@@ -4194,13 +4702,6 @@ warri
 	1 VD1689_94 Hab 3:15
 	-----
 	2
-
-
-waïïu
-
-	1 VD1689_94 Hab 1:0
-	-----
-	1
 
 
 waúúara^
@@ -4367,24 +4868,6 @@ wilkeem
 	1
 
 
-wiò§ch
-
-	1 VD1689_94 Hab 1:13
-	3 VD1689_94 Hab 1:15
-	1 VD1689_94 Hab 1:16
-	2 VD1689_94 Hab 1:17
-	1 VD1689_94 Hab 2:1
-	2 VD1689_94 Hab 2:3
-	1 VD1689_94 Hab 3:9
-	1 VD1689_94 Hab 4:0
-	3 VD1689_94 Hab 4:6
-	1 VD1689_94 Hab 4:10
-	1 VD1689_94 Hab 4:16
-	1 VD1689_94 Hab 4:19
-	-----
-	18
-
-
 wiòòa
 
 	1 VD1689_94 Hab 1:11
@@ -4449,12 +4932,22 @@ wiòòu
 	3
 
 
-wiúsnotaï
+wiò§ch
 
-	1 VD1689_94 Hab 1:9
-	1 VD1689_94 Hab 3:6
+	1 VD1689_94 Hab 1:13
+	3 VD1689_94 Hab 1:15
+	1 VD1689_94 Hab 1:16
+	2 VD1689_94 Hab 1:17
+	1 VD1689_94 Hab 2:1
+	2 VD1689_94 Hab 2:3
+	1 VD1689_94 Hab 3:9
+	1 VD1689_94 Hab 4:0
+	3 VD1689_94 Hab 4:6
+	1 VD1689_94 Hab 4:10
+	1 VD1689_94 Hab 4:16
+	1 VD1689_94 Hab 4:19
 	-----
-	2
+	18
 
 
 wiúúa
@@ -4476,6 +4969,14 @@ wiúúeem
 
 	1 VD1689_94 Hab 3:8
 	1 VD1689_94 Hab 3:17
+	-----
+	2
+
+
+wiúsnotaï
+
+	1 VD1689_94 Hab 1:9
+	1 VD1689_94 Hab 3:6
 	-----
 	2
 
@@ -4511,6 +5012,13 @@ zebaot
 	1
 
 
+zee§t
+
+	1 VD1689_94 Hab 1:13
+	-----
+	1
+
+
 zeeti
 
 	1 VD1689_94 Hab 3:20
@@ -4532,9 +5040,9 @@ zeetumneekus
 	1
 
 
-zee§t
+zeïïahs
 
-	1 VD1689_94 Hab 1:13
+	1 VD1689_94 Hab 1:3
 	-----
 	1
 
@@ -4551,13 +5059,6 @@ zelúees
 zerreúchanu
 
 	1 VD1689_94 Hab 2:0
-	-----
-	1
-
-
-zeïïahs
-
-	1 VD1689_94 Hab 1:3
 	-----
 	1
 
@@ -4595,507 +5096,6 @@ zilwekus
 zittu
 
 	1 VD1689_94 Hab 3:0
-	-----
-	1
-
-
-§aïïohs
-
-	1 VD1689_94 Hab 4:17
-	-----
-	1
-
-
-§kattijahs
-
-	1 VD1689_94 Hab 4:6
-	-----
-	1
-
-
-§kattohs
-
-	1 VD1689_94 Hab 2:1
-	-----
-	1
-
-
-§pihdeja
-
-	1 VD1689_94 Hab 4:11
-	-----
-	1
-
-
-§tahweja
-
-	1 VD1689_94 Hab 4:6
-	1 VD1689_94 Hab 4:11
-	-----
-	2
-
-
-§tahwu
-
-	1 VD1689_94 Hab 2:1
-	-----
-	1
-
-
-§taigaja
-
-	1 VD1689_94 Hab 4:6
-	-----
-	1
-
-
-§tarp
-
-	1 VD1689_94 Hab 1:5
-	-----
-	1
-
-
-§teid§ahs
-
-	1 VD1689_94 Hab 1:8
-	-----
-	1
-
-
-§tipras
-
-	1 VD1689_94 Hab 1:10
-	-----
-	1
-
-
-§tiprina
-
-	1 VD1689_94 Hab 3:12
-	-----
-	1
-
-
-§trahda
-
-	1 VD1689_94 Hab 3:13
-	-----
-	1
-
-
-§wehrejs
-
-	1 VD1689_94 Hab 4:9
-	-----
-	1
-
-
-íehniòus
-
-	1 VD1689_94 Hab 1:10
-	-----
-	1
-
-
-íilda
-
-	1 VD1689_94 Hab 1:3
-	-----
-	1
-
-
-ïaudim
-
-	2 VD1689_94 Hab 4:0
-	1 VD1689_94 Hab 4:16
-	-----
-	3
-
-
-ïaudis
-
-	1 VD1689_94 Hab 3:5
-	1 VD1689_94 Hab 3:13
-	1 VD1689_94 Hab 4:13
-	-----
-	3
-
-
-ïauna
-
-	1 VD1689_94 Hab 3:9
-	-----
-	1
-
-
-ïaunuma
-
-	1 VD1689_94 Hab 3:9
-	-----
-	1
-
-
-ïaunumu
-
-	1 VD1689_94 Hab 1:13
-	-----
-	1
-
-
-ïaut
-
-	1 VD1689_94 Hab 1:0
-	-----
-	1
-
-
-ïau§chu
-
-	1 VD1689_94 Hab 1:0
-	1 VD1689_94 Hab 3:10
-	1 VD1689_94 Hab 4:7
-	-----
-	3
-
-
-úajauzi
-
-	1 VD1689_94 Hab 3:15
-	-----
-	1
-
-
-úakka
-
-	1 VD1689_94 Hab 2:2
-	1 VD1689_94 Hab 3:19
-	-----
-	2
-
-
-úakkamu
-
-	1 VD1689_94 Hab 3:6
-	-----
-	1
-
-
-úakrahj
-
-	1 VD1689_94 Hab 1:15
-	1 VD1689_94 Hab 3:5
-	-----
-	2
-
-
-úakrahs
-
-	1 VD1689_94 Hab 1:10
-	-----
-	1
-
-
-úakuhli
-
-	1 VD1689_94 Hab 4:12
-	-----
-	1
-
-
-úaminni
-
-	1 VD1689_94 Hab 4:12
-	-----
-	1
-
-
-úapulzina
-
-	1 VD1689_94 Hab 1:15
-	-----
-	1
-
-
-úapulzinahs
-
-	1 VD1689_94 Hab 1:9
-	-----
-	1
-
-
-úargaúchanu
-
-	1 VD1689_94 Hab 2:1
-	-----
-	1
-
-
-úatreekti
-
-	1 VD1689_94 Hab 4:6
-	-----
-	1
-
-
-úatreezis
-
-	1 VD1689_94 Hab 4:14
-	-----
-	1
-
-
-úaud§ehs
-
-	1 VD1689_94 Hab 1:17
-	-----
-	1
-
-
-úaule
-
-	1 VD1689_94 Hab 4:11
-	-----
-	1
-
-
-úawa
-
-	1 VD1689_94 Hab 3:9
-	1 VD1689_94 Hab 3:20
-	-----
-	2
-
-
-úawa^
-
-	1 VD1689_94 Hab 1:15
-	1 VD1689_94 Hab 3:5
-	1 VD1689_94 Hab 4:11
-	-----
-	3
-
-
-úawam
-
-	1 VD1689_94 Hab 1:16
-	-----
-	1
-
-
-úawas
-
-	1 VD1689_94 Hab 3:0
-	1 VD1689_94 Hab 4:10
-	-----
-	2
-
-
-úaweem
-
-	1 VD1689_94 Hab 1:16
-	1 VD1689_94 Hab 4:0
-	-----
-	2
-
-
-úawo^s
-
-	1 VD1689_94 Hab 1:15
-	-----
-	1
-
-
-úawu
-
-	1 VD1689_94 Hab 1:9
-	2 VD1689_94 Hab 1:11
-	1 VD1689_94 Hab 1:17
-	1 VD1689_94 Hab 2:1
-	1 VD1689_94 Hab 2:4
-	1 VD1689_94 Hab 3:5
-	1 VD1689_94 Hab 3:6
-	1 VD1689_94 Hab 3:9
-	1 VD1689_94 Hab 3:15
-	1 VD1689_94 Hab 3:18
-	-----
-	11
-
-
-úazzihs
-
-	1 VD1689_94 Hab 2:1
-	-----
-	1
-
-
-úazzihts
-
-	1 VD1689_94 Hab 3:6
-	-----
-	1
-
-
-úaúchíehlis
-
-	1 VD1689_94 Hab 4:9
-	-----
-	1
-
-
-úchee
-
-	1 VD1689_94 Hab 3:6
-	-----
-	1
-
-
-úchi
-
-	1 VD1689_94 Hab 1:1
-	1 VD1689_94 Hab 1:7
-	1 VD1689_94 Hab 1:10
-	-----
-	3
-
-
-úchíehpi
-
-	1 VD1689_94 Hab 4:11
-	-----
-	1
-
-
-úchíih§tas
-
-	1 VD1689_94 Hab 1:13
-	-----
-	1
-
-
-úeenas
-
-	1 VD1689_94 Hab 3:11
-	-----
-	1
-
-
-úekkahs
-
-	1 VD1689_94 Hab 4:17
-	-----
-	1
-
-
-úewi
-
-	1 VD1689_94 Hab 3:6
-	-----
-	1
-
-
-úewis
-
-	2 VD1689_94 Hab 3:5
-	-----
-	2
-
-
-úezzen
-
-	1 VD1689_94 Hab 2:2
-	-----
-	1
-
-
-úihki
-
-	1 VD1689_94 Hab 4:17
-	-----
-	1
-
-
-úlawas
-
-	1 VD1689_94 Hab 4:3
-	-----
-	1
-
-
-úlawu
-
-	1 VD1689_94 Hab 4:1
-	-----
-	1
-
-
-úluddinahts
-
-	1 VD1689_94 Hab 1:5
-	-----
-	1
-
-
-úmiltis
-
-	1 VD1689_94 Hab 1:9
-	-----
-	1
-
-
-úohdibu
-
-	1 VD1689_94 Hab 1:12
-	-----
-	1
-
-
-úohma=stabulehm
-
-	1 VD1689_94 Hab 4:19
-	-----
-	1
-
-
-úudraba
-
-	1 VD1689_94 Hab 3:19
-	-----
-	1
-
-
-úuhd§eúchana
-
-	1 VD1689_94 Hab 1:0
-	-----
-	1
-
-
-úwaiditu
-
-	1 VD1689_94 Hab 4:13
-	-----
-	1
-
-
-úwehta
-
-	1 VD1689_94 Hab 3:20
-	-----
-	1
-
-
-úwehtajs
-
-	1 VD1689_94 Hab 1:12
-	1 VD1689_94 Hab 4:3
-	-----
-	2
-
-
-úweúchas
-
-	1 VD1689_94 Hab 3:6
 	-----
 	1
 

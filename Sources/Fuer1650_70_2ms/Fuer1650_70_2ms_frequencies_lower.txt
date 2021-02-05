@@ -1,7 +1,7 @@
 Vârdformu skaits:	9332
 Vârdlietojumu skaits:	15788
-	
-	
+
+
 228	ne
 178	tas
 148	winsch
@@ -95,7 +95,6 @@ Vârdlietojumu skaits:	15788
 12	wiòòa
 12	winnam
 12	wiòsch
-11	1
 11	a
 11	ai
 11	e
@@ -110,6 +109,7 @@ Vârdlietojumu skaits:	15788
 11	tohp
 11	wa
 11	zilwehks
+11	1
 10	abber
 10	ap=
 10	bij
@@ -230,7 +230,6 @@ Vârdlietojumu skaits:	15788
 6	wairak
 6	wirúu
 6	zelt
-5	2
 5	aisjemt
 5	appiòòu
 5	as
@@ -307,6 +306,7 @@ Vârdlietojumu skaits:	15788
 5	zeïïu
 5	zeppure
 5	zu
+5	2
 4	abbi
 4	agri
 4	ahs=
@@ -420,7 +420,6 @@ Vârdlietojumu skaits:	15788
 4	zi
 4	zittu
 4	zuhku
-3	4
 3	addata
 3	addatas
 3	ahboli
@@ -743,7 +742,7 @@ Vârdlietojumu skaits:	15788
 3	zik
 3	zillwehks
 3	zits
-2	5
+3	4
 2	ab
 2	ad
 2	addiht
@@ -785,9 +784,9 @@ Vârdlietojumu skaits:	15788
 2	apstahws
 2	aptiht
 2	apzirknis
+2	aß
 2	asaids
 2	aschku
-2	aß
 2	assaras
 2	asúaras
 2	asúaru
@@ -1439,8 +1438,8 @@ Vârdlietojumu skaits:	15788
 2	úahrni
 2	saíía
 2	sakki
-2	saííi
 2	úakki
+2	saííi
 2	sakku
 2	úakne
 2	úaktu
@@ -1778,12 +1777,7 @@ Vârdlietojumu skaits:	15788
 2	zuhka
 2	zuhkam
 2	zuhzenes
-1	3
-1	7
-1	81
-1	243
-1	496
-1	534
+2	5
 1	abauneeks
 1	abawa
 1	abba
@@ -2743,8 +2737,8 @@ Vârdlietojumu skaits:	15788
 1	balt=galwis
 1	balt=wehdris
 1	balta
-1	balta{baltu}
 1	balta^
+1	balta{baltu}
 1	baltais
 1	baltas
 1	baltee
@@ -3739,8 +3733,8 @@ Vârdlietojumu skaits:	15788
 1	gallohda
 1	gallohtes
 1	galw=galli
-1	galwa{gahwa}
 1	galwa^
+1	galwa{gahwa}
 1	galwas
 1	galwiònahm
 1	galwiòòas
@@ -3926,10 +3920,10 @@ Vârdlietojumu skaits:	15788
 1	gremscha
 1	gremschas
 1	gremstees
+1	greß
 1	gresel
 1	greses
 1	gresns
-1	greß
 1	gri
 1	gribbahs
 1	gribbeht
@@ -4236,6 +4230,7 @@ Vârdlietojumu skaits:	15788
 1	isplehneht
 1	isprauleis
 1	ispuhkaht
+1	ißpulgojis
 1	israustihts
 1	isredseht
 1	isreetis
@@ -4278,7 +4273,6 @@ Vârdlietojumu skaits:	15788
 1	isspraaigschas
 1	isspreegajs
 1	issprehgaht
-1	ißpulgojis
 1	isstahstiht
 1	issteept
 1	issteeptu
@@ -4496,8 +4490,8 @@ Vârdlietojumu skaits:	15788
 1	kakta^
 1	kaktinsch
 1	kakts
-1	kaldinahseet
 1	kaldinahß
+1	kaldinahseet
 1	kaldinaht
 1	kaldinajahß
 1	kallada^
@@ -5371,10 +5365,10 @@ Vârdlietojumu skaits:	15788
 1	maúee
 1	masga
 1	masgaht
+1	maßgatees
 1	masìis
 1	masgojahs
 1	masúali
-1	maßgatees
 1	massinaht
 1	massinatees
 1	massiski
@@ -5414,6 +5408,7 @@ Vârdlietojumu skaits:	15788
 1	meers
 1	meeru
 1	meeú
+1	meeß
 1	mees=meschi
 1	meeúa
 1	meeúa^s
@@ -5429,7 +5424,6 @@ Vârdlietojumu skaits:	15788
 1	meeúineezinsch
 1	meeúmettis
 1	meesnu
-1	meeß
 1	meessaju
 1	meest
 1	meestis
@@ -6819,7 +6813,9 @@ Vârdlietojumu skaits:	15788
 1	pursis
 1	purwa=behrsis
 1	pus=auúa
+1	puß=lihds
 1	pus=rihteens
+1	puß=wirsneeks
 1	pus=zuhka
 1	pus=zuhzis
 1	pus=zutschis
@@ -6835,9 +6831,7 @@ Vârdlietojumu skaits:	15788
 1	puschkoht
 1	pusdiïïu
 1	pusrihts
-1	puß=lihds
 1	pusú=walku
-1	puß=wirsneeks
 1	pusse
 1	pusúe^
 1	puúúe^
@@ -6907,10 +6901,10 @@ Vârdlietojumu skaits:	15788
 1	rahzinitis
 1	rahzins
 1	raibs
+1	raiß
 1	raisa
 1	raisatees
 1	raiúiht
-1	raiß
 1	rakkama
 1	raksta
 1	raksti
@@ -6951,6 +6945,7 @@ Vârdlietojumu skaits:	15788
 1	rawehtinnas
 1	rea
 1	reddeles
+1	redß
 1	redsams
 1	redseeúim
 1	redsehs
@@ -6963,7 +6958,6 @@ Vârdlietojumu skaits:	15788
 1	redsetais
 1	redsigs
 1	redsohts
-1	redß
 1	reebi
 1	reekls
 1	reekschana
@@ -7657,10 +7651,10 @@ Vârdlietojumu skaits:	15788
 1	úehtawa
 1	úehtu
 1	úekk
-1	seííi
 1	úekki
-1	seííis
+1	seííi
 1	úekkis
+1	seííis
 1	seííu
 1	úekkums
 1	úekle^
@@ -7678,8 +7672,8 @@ Vârdlietojumu skaits:	15788
 1	seltnesúis
 1	úeltnesúis
 1	selts
-1	sem=tekka
 1	sem~e
+1	sem=tekka
 1	semm=dega
 1	semm=turris
 1	semmakas
@@ -8068,11 +8062,11 @@ Vârdlietojumu skaits:	15788
 1	úohlis
 1	sohma
 1	sohmiskli
+1	sohß
 1	sohsi
 1	sohúis
 1	sohúne
 1	sohús
-1	sohß
 1	sohsu
 1	sohwisti
 1	úohwists
@@ -8406,8 +8400,8 @@ Vârdlietojumu skaits:	15788
 1	swirgsdi
 1	swirgsts
 1	úwirpis
-1	ta{úahlita}
 1	ta^
+1	ta{úahlita}
 1	taba
 1	tabaka
 1	tabake
@@ -9171,23 +9165,23 @@ Vârdlietojumu skaits:	15788
 1	wirts=úahls
 1	wirwe
 1	wirwju
+1	wiß=apkahrt
+1	wiß=wirsneek
 1	wisa
 1	wisas
 1	wisbulis
 1	wisinaht
 1	wisinatees
 1	wisis
-1	wiß=apkahrt
-1	wiß=wirsneek
 1	wisúa^
 1	wissai
 1	wissap=kahrt
 1	wissas
 1	wisúeem
 1	wiúúi
-1	wißtas
 1	wissu=sinnatais
 1	wistai
+1	wißtas
 1	wistelaws
 1	wists
 1	wistu
@@ -9334,3 +9328,9 @@ Vârdlietojumu skaits:	15788
 1	zurrisku
 1	zutsch
 1	zutscheht
+1	243
+1	3
+1	496
+1	534
+1	7
+1	81

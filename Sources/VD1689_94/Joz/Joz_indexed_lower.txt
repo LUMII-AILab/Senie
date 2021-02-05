@@ -2,11 +2,11 @@ Vârdformu skaits:	2981
 Vârdlietojumu skaits:	17229
 
 
-aa#roòa
+aa&roòa
 
-	1 VD1689_94 Joz 21:13
-	1 VD1689_94 Joz 21:19
-	1 VD1689_94 Joz 24:0
+	1 VD1689_94 Joz 21:4
+	1 VD1689_94 Joz 21:10
+	1 VD1689_94 Joz 24:33
 	-----
 	3
 
@@ -18,11 +18,11 @@ aa&ronu
 	1
 
 
-aa&roòa
+aa#roòa
 
-	1 VD1689_94 Joz 21:4
-	1 VD1689_94 Joz 21:10
-	1 VD1689_94 Joz 24:33
+	1 VD1689_94 Joz 21:13
+	1 VD1689_94 Joz 21:19
+	1 VD1689_94 Joz 24:0
 	-----
 	3
 
@@ -262,6 +262,47 @@ ahran
 	1
 
 
+ah§ana
+
+	1 VD1689_94 Joz 15:42
+	-----
+	1
+
+
+ah§eka
+
+	1 VD1689_94 Joz 15:35
+	-----
+	1
+
+
+ah§eºa
+
+	1 VD1689_94 Joz 17:7
+	1 VD1689_94 Joz 17:11
+	1 VD1689_94 Joz 19:24
+	1 VD1689_94 Joz 19:31
+	1 VD1689_94 Joz 19:34
+	1 VD1689_94 Joz 21:6
+	1 VD1689_94 Joz 21:30
+	-----
+	7
+
+
+ah§eºam
+
+	1 VD1689_94 Joz 17:10
+	-----
+	1
+
+
+ah§ers
+
+	1 VD1689_94 Joz 19:0
+	-----
+	1
+
+
 ahweka
 
 	1 VD1689_94 Joz 15:53
@@ -303,47 +344,6 @@ ahzors
 	1 VD1689_94 Joz 15:25
 	-----
 	2
-
-
-ah§ana
-
-	1 VD1689_94 Joz 15:42
-	-----
-	1
-
-
-ah§eka
-
-	1 VD1689_94 Joz 15:35
-	-----
-	1
-
-
-ah§ers
-
-	1 VD1689_94 Joz 19:0
-	-----
-	1
-
-
-ah§eºa
-
-	1 VD1689_94 Joz 17:7
-	1 VD1689_94 Joz 17:11
-	1 VD1689_94 Joz 19:24
-	1 VD1689_94 Joz 19:31
-	1 VD1689_94 Joz 19:34
-	1 VD1689_94 Joz 21:6
-	1 VD1689_94 Joz 21:30
-	-----
-	7
-
-
-ah§eºam
-
-	1 VD1689_94 Joz 17:10
-	-----
-	1
 
 
 aimanu
@@ -554,28 +554,6 @@ akkai
 	2
 
 
-akmini
-
-	1 VD1689_94 Joz 4:5
-	1 VD1689_94 Joz 24:26
-	-----
-	2
-
-
-akmins
-
-	1 VD1689_94 Joz 24:27
-	-----
-	1
-
-
-akminu
-
-	1 VD1689_94 Joz 18:17
-	-----
-	1
-
-
 akmiòainus
 
 	1 VD1689_94 Joz 5:2
@@ -602,6 +580,14 @@ akmiòeem
 	5
 
 
+akmini
+
+	1 VD1689_94 Joz 4:5
+	1 VD1689_94 Joz 24:26
+	-----
+	2
+
+
 akmiòi
 
 	1 VD1689_94 Joz 4:0
@@ -617,6 +603,20 @@ akmiòo=kohpu
 	1 VD1689_94 Joz 8:29
 	-----
 	2
+
+
+akmins
+
+	1 VD1689_94 Joz 24:27
+	-----
+	1
+
+
+akminu
+
+	1 VD1689_94 Joz 18:17
+	-----
+	1
 
 
 akmiòus
@@ -639,16 +639,16 @@ akora
 	1
 
 
-akors
+akoºa
 
-	1 VD1689_94 Joz 7:26
+	1 VD1689_94 Joz 15:7
 	-----
 	1
 
 
-akoºa
+akors
 
-	1 VD1689_94 Joz 15:7
+	1 VD1689_94 Joz 7:26
 	-----
 	1
 
@@ -743,6 +743,14 @@ almonu
 	1
 
 
+altaºa
+
+	1 VD1689_94 Joz 9:27
+	1 VD1689_94 Joz 22:28
+	-----
+	2
+
+
 altari
 
 	1 VD1689_94 Joz 8:0
@@ -759,14 +767,6 @@ altari
 	1 VD1689_94 Joz 22:34
 	-----
 	15
-
-
-altaºa
-
-	1 VD1689_94 Joz 9:27
-	1 VD1689_94 Joz 22:28
-	-----
-	2
 
 
 aluls
@@ -1001,13 +1001,6 @@ apgrehkojees
 	2
 
 
-apgullahs
-
-	1 VD1689_94 Joz 2:8
-	-----
-	1
-
-
 apgºua
 
 	1 VD1689_94 Joz 6:20
@@ -1018,6 +1011,13 @@ apgºua
 apgºuhs
 
 	1 VD1689_94 Joz 6:5
+	-----
+	1
+
+
+apgullahs
+
+	1 VD1689_94 Joz 2:8
 	-----
 	1
 
@@ -1154,9 +1154,9 @@ aprakts
 	2
 
 
-apzeetinaja
+ap§kai§tahs
 
-	1 VD1689_94 Joz 11:20
+	1 VD1689_94 Joz 7:0
 	-----
 	1
 
@@ -1172,56 +1172,6 @@ ap§kaitahs
 ap§kaitiúees
 
 	1 VD1689_94 Joz 23:16
-	-----
-	1
-
-
-ap§kai§tahs
-
-	1 VD1689_94 Joz 7:0
-	-----
-	1
-
-
-ap§tahjeetees
-
-	1 VD1689_94 Joz 3:8
-	-----
-	1
-
-
-ap§tahs
-
-	1 VD1689_94 Joz 7:9
-	-----
-	1
-
-
-ap§taigadami
-
-	1 VD1689_94 Joz 6:3
-	-----
-	1
-
-
-ap§taigadams
-
-	1 VD1689_94 Joz 6:11
-	-----
-	1
-
-
-ap§taigaja
-
-	1 VD1689_94 Joz 6:14
-	2 VD1689_94 Joz 6:15
-	-----
-	3
-
-
-ap§taigajt
-
-	1 VD1689_94 Joz 6:7
 	-----
 	1
 
@@ -1270,9 +1220,45 @@ apúohlitu
 	1
 
 
-apúwainotees
+ap§tahjeetees
 
-	1 VD1689_94 Joz 23:0
+	1 VD1689_94 Joz 3:8
+	-----
+	1
+
+
+ap§tahs
+
+	1 VD1689_94 Joz 7:9
+	-----
+	1
+
+
+ap§taigadami
+
+	1 VD1689_94 Joz 6:3
+	-----
+	1
+
+
+ap§taigadams
+
+	1 VD1689_94 Joz 6:11
+	-----
+	1
+
+
+ap§taigaja
+
+	1 VD1689_94 Joz 6:14
+	2 VD1689_94 Joz 6:15
+	-----
+	3
+
+
+ap§taigajt
+
+	1 VD1689_94 Joz 6:7
 	-----
 	1
 
@@ -1280,6 +1266,20 @@ apúwainotees
 apúwainoúeetees
 
 	1 VD1689_94 Joz 23:12
+	-----
+	1
+
+
+apúwainotees
+
+	1 VD1689_94 Joz 23:0
+	-----
+	1
+
+
+apzeetinaja
+
+	1 VD1689_94 Joz 11:20
 	-----
 	1
 
@@ -1463,16 +1463,16 @@ aroe#ra
 	2
 
 
-aroe#ram
+aroe#ºa
 
-	1 VD1689_94 Joz 13:25
+	1 VD1689_94 Joz 13:16
 	-----
 	1
 
 
-aroe#ºa
+aroe#ram
 
-	1 VD1689_94 Joz 13:16
+	1 VD1689_94 Joz 13:25
 	-----
 	1
 
@@ -1529,6 +1529,161 @@ arrid§an
 arrig
 
 	1 VD1689_94 Joz 24:15
+	-----
+	1
+
+
+a§ane
+
+	1 VD1689_94 Joz 19:7
+	-----
+	1
+
+
+a§dod=pi§ga
+
+	1 VD1689_94 Joz 13:20
+	-----
+	1
+
+
+a§doda
+
+	1 VD1689_94 Joz 15:46
+	-----
+	1
+
+
+a§doda^
+
+	1 VD1689_94 Joz 11:22
+	-----
+	1
+
+
+a§doditeºi
+
+	1 VD1689_94 Joz 13:3
+	-----
+	1
+
+
+a§dods
+
+	1 VD1689_94 Joz 15:47
+	-----
+	1
+
+
+a§ekai
+
+	1 VD1689_94 Joz 10:10
+	1 VD1689_94 Joz 10:11
+	-----
+	2
+
+
+a§kaloniteºi
+
+	1 VD1689_94 Joz 13:3
+	-----
+	1
+
+
+aúmini
+
+	1 VD1689_94 Joz 6:21
+	2 VD1689_94 Joz 8:24
+	1 VD1689_94 Joz 10:28
+	1 VD1689_94 Joz 10:30
+	1 VD1689_94 Joz 10:32
+	1 VD1689_94 Joz 10:35
+	1 VD1689_94 Joz 10:37
+	1 VD1689_94 Joz 10:39
+	1 VD1689_94 Joz 11:11
+	1 VD1689_94 Joz 11:12
+	1 VD1689_94 Joz 11:14
+	1 VD1689_94 Joz 19:47
+	-----
+	13
+
+
+aúna
+
+	1 VD1689_94 Joz 15:33
+	-----
+	1
+
+
+a§na
+
+	1 VD1689_94 Joz 15:43
+	-----
+	1
+
+
+aúnot=tahboru
+
+	1 VD1689_94 Joz 19:34
+	-----
+	1
+
+
+a§rie#ïa
+
+	1 VD1689_94 Joz 17:2
+	-----
+	1
+
+
+aúúins
+
+	2 VD1689_94 Joz 2:19
+	-----
+	2
+
+
+aúúins=atreebeja
+
+	1 VD1689_94 Joz 20:3
+	1 VD1689_94 Joz 20:9
+	-----
+	2
+
+
+aúúiòu=atreebejs
+
+	1 VD1689_94 Joz 20:5
+	-----
+	1
+
+
+a§tarot
+
+	1 VD1689_94 Joz 13:31
+	-----
+	1
+
+
+a§tarota^
+
+	1 VD1689_94 Joz 9:10
+	1 VD1689_94 Joz 12:4
+	1 VD1689_94 Joz 13:12
+	-----
+	3
+
+
+a§toò
+
+	1 VD1689_94 Joz 21:41
+	-----
+	1
+
+
+a§toòdeúmits
+
+	1 VD1689_94 Joz 14:10
 	-----
 	1
 
@@ -1816,9 +1971,9 @@ atminneet
 	1
 
 
-atne§t
+atòemúi
 
-	1 VD1689_94 Joz 18:6
+	1 VD1689_94 Joz 7:13
 	-----
 	1
 
@@ -1826,6 +1981,13 @@ atne§t
 atneúúe
 
 	1 VD1689_94 Joz 7:23
+	-----
+	1
+
+
+atne§t
+
+	1 VD1689_94 Joz 18:6
 	-----
 	1
 
@@ -1854,13 +2016,6 @@ atrahwe
 	1
 
 
-atrauji
-
-	1 VD1689_94 Joz 10:6
-	-----
-	1
-
-
 atra§ti
 
 	1 VD1689_94 Joz 10:17
@@ -1876,87 +2031,16 @@ atra§ts
 	2
 
 
+atrauji
+
+	1 VD1689_94 Joz 10:6
+	-----
+	1
+
+
 atreebuúchees
 
 	1 VD1689_94 Joz 10:13
-	-----
-	1
-
-
-atwehra^
-
-	1 VD1689_94 Joz 8:17
-	-----
-	1
-
-
-atwilke
-
-	1 VD1689_94 Joz 8:26
-	-----
-	1
-
-
-at§ihta
-
-	1 VD1689_94 Joz 9:0
-	-----
-	1
-
-
-at§ih§t
-
-	1 VD1689_94 Joz 4:24
-	-----
-	1
-
-
-at§ih§tam
-
-	1 VD1689_94 Joz 22:31
-	-----
-	1
-
-
-at§tahj
-
-	1 VD1689_94 Joz 1:8
-	-----
-	1
-
-
-at§tahjuúchi
-
-	1 VD1689_94 Joz 22:3
-	1 VD1689_94 Joz 24:16
-	-----
-	2
-
-
-at§tahtees
-
-	1 VD1689_94 Joz 22:25
-	-----
-	1
-
-
-at§tahúchu
-
-	1 VD1689_94 Joz 1:5
-	-----
-	1
-
-
-at§tahúeet
-
-	1 VD1689_94 Joz 24:20
-	-----
-	1
-
-
-atòemúi
-
-	1 VD1689_94 Joz 7:13
 	-----
 	1
 
@@ -1982,60 +2066,80 @@ atúchíirti
 	1
 
 
+at§ih§t
+
+	1 VD1689_94 Joz 4:24
+	-----
+	1
+
+
+at§ih§tam
+
+	1 VD1689_94 Joz 22:31
+	-----
+	1
+
+
+at§ihta
+
+	1 VD1689_94 Joz 9:0
+	-----
+	1
+
+
+at§tahj
+
+	1 VD1689_94 Joz 1:8
+	-----
+	1
+
+
+at§tahjuúchi
+
+	1 VD1689_94 Joz 22:3
+	1 VD1689_94 Joz 24:16
+	-----
+	2
+
+
+at§tahúchu
+
+	1 VD1689_94 Joz 1:5
+	-----
+	1
+
+
+at§tahúeet
+
+	1 VD1689_94 Joz 24:20
+	-----
+	1
+
+
+at§tahtees
+
+	1 VD1689_94 Joz 22:25
+	-----
+	1
+
+
+atwehra^
+
+	1 VD1689_94 Joz 8:17
+	-----
+	1
+
+
+atwilke
+
+	1 VD1689_94 Joz 8:26
+	-----
+	1
+
+
 auga
 
 	1 VD1689_94 Joz 2:1
-	-----
-	1
-
-
-aug§tajee
-
-	1 VD1689_94 Joz 14:1
-	1 VD1689_94 Joz 22:30
-	-----
-	2
-
-
-aug§tajeem
-
-	1 VD1689_94 Joz 21:1
-	-----
-	1
-
-
-aug§taji
-
-	1 VD1689_94 Joz 21:1
-	-----
-	1
-
-
-aug§tajs
-
-	1 VD1689_94 Joz 22:14
-	-----
-	1
-
-
-aug§takee
-
-	1 VD1689_94 Joz 19:51
-	-----
-	1
-
-
-aug§takus
-
-	1 VD1689_94 Joz 23:2
-	1 VD1689_94 Joz 24:1
-	-----
-	2
-
-
-aug§ts=pree§teris
-
-	1 VD1689_94 Joz 20:6
 	-----
 	1
 
@@ -2104,6 +2208,57 @@ augúchu
 	15
 
 
+aug§tajee
+
+	1 VD1689_94 Joz 14:1
+	1 VD1689_94 Joz 22:30
+	-----
+	2
+
+
+aug§tajeem
+
+	1 VD1689_94 Joz 21:1
+	-----
+	1
+
+
+aug§taji
+
+	1 VD1689_94 Joz 21:1
+	-----
+	1
+
+
+aug§tajs
+
+	1 VD1689_94 Joz 22:14
+	-----
+	1
+
+
+aug§takee
+
+	1 VD1689_94 Joz 19:51
+	-----
+	1
+
+
+aug§takus
+
+	1 VD1689_94 Joz 23:2
+	1 VD1689_94 Joz 24:1
+	-----
+	2
+
+
+aug§ts=pree§teris
+
+	1 VD1689_94 Joz 20:6
+	-----
+	1
+
+
 auúim
 
 	1 VD1689_94 Joz 20:4
@@ -2153,6 +2308,13 @@ awiteºi
 	1
 
 
+awoúchus
+
+	2 VD1689_94 Joz 15:19
+	-----
+	2
+
+
 awotam
 
 	1 VD1689_94 Joz 18:16
@@ -2165,13 +2327,6 @@ awotu
 	1 VD1689_94 Joz 18:15
 	-----
 	1
-
-
-awoúchus
-
-	2 VD1689_94 Joz 15:19
-	-----
-	2
 
 
 azar=suúúa
@@ -2203,6 +2358,13 @@ azora
 	2
 
 
+azoºa
+
+	1 VD1689_94 Joz 12:19
+	-----
+	1
+
+
 azors
 
 	1 VD1689_94 Joz 11:10
@@ -2220,9 +2382,9 @@ azoru
 	3
 
 
-azoºa
+azzi`s
 
-	1 VD1689_94 Joz 12:19
+	1 VD1689_94 Joz 23:13
 	-----
 	1
 
@@ -2236,13 +2398,6 @@ azzi^s
 	3
 
 
-azzi`s
-
-	1 VD1689_94 Joz 23:13
-	-----
-	1
-
-
 azzis
 
 	1 VD1689_94 Joz 5:13
@@ -2251,179 +2406,9 @@ azzis
 	2
 
 
-a§ane
-
-	1 VD1689_94 Joz 19:7
-	-----
-	1
-
-
-a§dod=pi§ga
-
-	1 VD1689_94 Joz 13:20
-	-----
-	1
-
-
-a§doda
-
-	1 VD1689_94 Joz 15:46
-	-----
-	1
-
-
-a§doda^
-
-	1 VD1689_94 Joz 11:22
-	-----
-	1
-
-
-a§doditeºi
-
-	1 VD1689_94 Joz 13:3
-	-----
-	1
-
-
-a§dods
-
-	1 VD1689_94 Joz 15:47
-	-----
-	1
-
-
-a§ekai
-
-	1 VD1689_94 Joz 10:10
-	1 VD1689_94 Joz 10:11
-	-----
-	2
-
-
-a§kaloniteºi
-
-	1 VD1689_94 Joz 13:3
-	-----
-	1
-
-
-a§na
-
-	1 VD1689_94 Joz 15:43
-	-----
-	1
-
-
-a§rie#ïa
-
-	1 VD1689_94 Joz 17:2
-	-----
-	1
-
-
-a§tarot
-
-	1 VD1689_94 Joz 13:31
-	-----
-	1
-
-
-a§tarota^
-
-	1 VD1689_94 Joz 9:10
-	1 VD1689_94 Joz 12:4
-	1 VD1689_94 Joz 13:12
-	-----
-	3
-
-
-a§toò
-
-	1 VD1689_94 Joz 21:41
-	-----
-	1
-
-
-a§toòdeúmits
-
-	1 VD1689_94 Joz 14:10
-	-----
-	1
-
-
-aúmini
-
-	1 VD1689_94 Joz 6:21
-	2 VD1689_94 Joz 8:24
-	1 VD1689_94 Joz 10:28
-	1 VD1689_94 Joz 10:30
-	1 VD1689_94 Joz 10:32
-	1 VD1689_94 Joz 10:35
-	1 VD1689_94 Joz 10:37
-	1 VD1689_94 Joz 10:39
-	1 VD1689_94 Joz 11:11
-	1 VD1689_94 Joz 11:12
-	1 VD1689_94 Joz 11:14
-	1 VD1689_94 Joz 19:47
-	-----
-	13
-
-
-aúna
-
-	1 VD1689_94 Joz 15:33
-	-----
-	1
-
-
-aúnot=tahboru
-
-	1 VD1689_94 Joz 19:34
-	-----
-	1
-
-
-aúúins
-
-	2 VD1689_94 Joz 2:19
-	-----
-	2
-
-
-aúúins=atreebeja
-
-	1 VD1689_94 Joz 20:3
-	1 VD1689_94 Joz 20:9
-	-----
-	2
-
-
-aúúiòu=atreebejs
-
-	1 VD1689_94 Joz 20:5
-	-----
-	1
-
-
 ba&a&late
 
 	1 VD1689_94 Joz 19:44
-	-----
-	1
-
-
-baa#l=gada
-
-	1 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 13:5
-	-----
-	2
-
-
-baa#las
-
-	1 VD1689_94 Joz 15:11
 	-----
 	1
 
@@ -2452,6 +2437,21 @@ baa&las
 baa&lat=bee#rei
 
 	1 VD1689_94 Joz 19:8
+	-----
+	1
+
+
+baa#l=gada
+
+	1 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 13:5
+	-----
+	2
+
+
+baa#las
+
+	1 VD1689_94 Joz 15:11
 	-----
 	1
 
@@ -2718,6 +2718,14 @@ behgdams
 	1
 
 
+behgúim
+
+	1 VD1689_94 Joz 8:5
+	1 VD1689_94 Joz 8:6
+	-----
+	2
+
+
 behgt
 
 	1 VD1689_94 Joz 7:12
@@ -2739,14 +2747,6 @@ behguúchi
 	1 VD1689_94 Joz 10:16
 	-----
 	1
-
-
-behgúim
-
-	1 VD1689_94 Joz 8:5
-	1 VD1689_94 Joz 8:6
-	-----
-	2
 
 
 behrneem
@@ -2813,6 +2813,13 @@ behrneem
 	2 VD1689_94 Joz 24:32
 	-----
 	76
+
+
+behròeem
+
+	1 VD1689_94 Joz 19:24
+	-----
+	1
 
 
 behrni
@@ -2953,13 +2960,6 @@ behrnus
 	1 VD1689_94 Joz 22:31
 	-----
 	6
-
-
-behròeem
-
-	1 VD1689_94 Joz 19:24
-	-----
-	1
 
 
 beid§e
@@ -3432,20 +3432,6 @@ bihjaúchanas
 	1
 
 
-bihtees
-
-	1 VD1689_94 Joz 24:0
-	-----
-	1
-
-
-bihtohs
-
-	1 VD1689_94 Joz 22:25
-	-----
-	1
-
-
 bih§tees
 
 	1 VD1689_94 Joz 8:1
@@ -3462,6 +3448,20 @@ bih§teetees
 	1 VD1689_94 Joz 24:14
 	-----
 	3
+
+
+bihtees
+
+	1 VD1689_94 Joz 24:0
+	-----
+	1
+
+
+bihtohs
+
+	1 VD1689_94 Joz 22:25
+	-----
+	1
 
 
 bij
@@ -3727,16 +3727,16 @@ bne=barake
 	1
 
 
-boe&òa
+boe~òa
 
-	1 VD1689_94 Joz 18:17
+	1 VD1689_94 Joz 15:6
 	-----
 	1
 
 
-boe~òa
+boe&òa
 
-	1 VD1689_94 Joz 15:6
+	1 VD1689_94 Joz 18:17
 	-----
 	1
 
@@ -3757,13 +3757,6 @@ bozkata
 	1
 
 
-brahlens
-
-	1 VD1689_94 Joz 15:17
-	-----
-	1
-
-
 brahïeem
 
 	1 VD1689_94 Joz 1:15
@@ -3772,6 +3765,13 @@ brahïeem
 	1 VD1689_94 Joz 22:8
 	-----
 	4
+
+
+brahlens
+
+	1 VD1689_94 Joz 15:17
+	-----
+	1
 
 
 brahïi
@@ -3871,6 +3871,24 @@ buhs
 	46
 
 
+buhúchu
+
+	1 VD1689_94 Joz 1:5
+	1 VD1689_94 Joz 3:7
+	1 VD1689_94 Joz 7:12
+	-----
+	3
+
+
+buhúim
+
+	1 VD1689_94 Joz 2:17
+	1 VD1689_94 Joz 2:19
+	1 VD1689_94 Joz 2:20
+	-----
+	3
+
+
 buht
 
 	1 VD1689_94 Joz 4:7
@@ -3893,24 +3911,6 @@ buhtum
 	1 VD1689_94 Joz 7:7
 	1 VD1689_94 Joz 22:29
 	1 VD1689_94 Joz 24:16
-	-----
-	3
-
-
-buhúchu
-
-	1 VD1689_94 Joz 1:5
-	1 VD1689_94 Joz 3:7
-	1 VD1689_94 Joz 7:12
-	-----
-	3
-
-
-buhúim
-
-	1 VD1689_94 Joz 2:17
-	1 VD1689_94 Joz 2:19
-	1 VD1689_94 Joz 2:20
 	-----
 	3
 
@@ -3949,6 +3949,31 @@ dahrgu
 	1 VD1689_94 Joz 7:21
 	-----
 	1
+
+
+daïïa
+
+	1 VD1689_94 Joz 17:0
+	1 VD1689_94 Joz 18:7
+	-----
+	2
+
+
+daïïa^s
+
+	1 VD1689_94 Joz 18:5
+	1 VD1689_94 Joz 18:6
+	1 VD1689_94 Joz 18:9
+	-----
+	3
+
+
+daïïahm
+
+	1 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 18:10
+	-----
+	2
 
 
 dallajt
@@ -4170,6 +4195,17 @@ darrijs
 	21
 
 
+darrijúchi
+
+	1 VD1689_94 Joz 9:16
+	1 VD1689_94 Joz 10:1
+	1 VD1689_94 Joz 22:24
+	1 VD1689_94 Joz 22:28
+	1 VD1689_94 Joz 23:8
+	-----
+	5
+
+
 darrijuúchi
 
 	1 VD1689_94 Joz 2:10
@@ -4182,17 +4218,6 @@ darrijuúi
 	1 VD1689_94 Joz 2:12
 	-----
 	1
-
-
-darrijúchi
-
-	1 VD1689_94 Joz 9:16
-	1 VD1689_94 Joz 10:1
-	1 VD1689_94 Joz 22:24
-	1 VD1689_94 Joz 22:28
-	1 VD1689_94 Joz 23:8
-	-----
-	5
 
 
 darriúeet
@@ -4232,31 +4257,6 @@ daud§
 	9
 
 
-daïïa
-
-	1 VD1689_94 Joz 17:0
-	1 VD1689_94 Joz 18:7
-	-----
-	2
-
-
-daïïa^s
-
-	1 VD1689_94 Joz 18:5
-	1 VD1689_94 Joz 18:6
-	1 VD1689_94 Joz 18:9
-	-----
-	3
-
-
-daïïahm
-
-	1 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 18:10
-	-----
-	2
-
-
 debbes
 
 	1 VD1689_94 Joz 2:11
@@ -4281,6 +4281,13 @@ debira
 	1 VD1689_94 Joz 15:15
 	-----
 	3
+
+
+debiºa
+
+	1 VD1689_94 Joz 12:13
+	-----
+	1
 
 
 debira^
@@ -4312,13 +4319,6 @@ debiru
 	1 VD1689_94 Joz 21:15
 	-----
 	3
-
-
-debiºa
-
-	1 VD1689_94 Joz 12:13
-	-----
-	1
 
 
 ded§ameem=uppuºeem
@@ -4592,6 +4592,17 @@ deewus
 	2
 
 
+dehï
+
+	1 VD1689_94 Joz 9:9
+	1 VD1689_94 Joz 9:20
+	1 VD1689_94 Joz 9:24
+	1 VD1689_94 Joz 19:1
+	1 VD1689_94 Joz 22:20
+	-----
+	5
+
+
 dehla
 
 	2 VD1689_94 Joz 7:1
@@ -4620,6 +4631,13 @@ dehlam
 	1 VD1689_94 Joz 21:12
 	-----
 	5
+
+
+dehïam
+
+	1 VD1689_94 Joz 14:13
+	-----
+	1
 
 
 dehli
@@ -4683,24 +4701,6 @@ deh§tijuúchi
 	1
 
 
-dehï
-
-	1 VD1689_94 Joz 9:9
-	1 VD1689_94 Joz 9:20
-	1 VD1689_94 Joz 9:24
-	1 VD1689_94 Joz 19:1
-	1 VD1689_94 Joz 22:20
-	-----
-	5
-
-
-dehïam
-
-	1 VD1689_94 Joz 14:13
-	-----
-	1
-
-
 dennai
 
 	1 VD1689_94 Joz 8:29
@@ -4745,6 +4745,25 @@ derribu
 	11
 
 
+deúmita^
+
+	1 VD1689_94 Joz 4:19
+	-----
+	1
+
+
+deúmits
+
+	1 VD1689_94 Joz 15:57
+	1 VD1689_94 Joz 17:5
+	1 VD1689_94 Joz 21:5
+	1 VD1689_94 Joz 21:26
+	1 VD1689_94 Joz 22:14
+	1 VD1689_94 Joz 24:29
+	-----
+	6
+
+
 dewe
 
 	1 VD1689_94 Joz 11:23
@@ -4777,6 +4796,25 @@ dewe
 	27
 
 
+dewiò
+
+	1 VD1689_94 Joz 13:7
+	1 VD1689_94 Joz 14:2
+	1 VD1689_94 Joz 15:32
+	1 VD1689_94 Joz 15:44
+	1 VD1689_94 Joz 15:54
+	1 VD1689_94 Joz 21:16
+	-----
+	6
+
+
+dewiòpadeúmits
+
+	1 VD1689_94 Joz 19:38
+	-----
+	1
+
+
 dewis
 
 	1 VD1689_94 Joz 1:3
@@ -4805,25 +4843,6 @@ dewis
 	25
 
 
-dewiò
-
-	1 VD1689_94 Joz 13:7
-	1 VD1689_94 Joz 14:2
-	1 VD1689_94 Joz 15:32
-	1 VD1689_94 Joz 15:44
-	1 VD1689_94 Joz 15:54
-	1 VD1689_94 Joz 21:16
-	-----
-	6
-
-
-dewiòpadeúmits
-
-	1 VD1689_94 Joz 19:38
-	-----
-	1
-
-
 dewu
 
 	1 VD1689_94 Joz 24:3
@@ -4831,25 +4850,6 @@ dewu
 	1 VD1689_94 Joz 24:13
 	-----
 	4
-
-
-deúmita^
-
-	1 VD1689_94 Joz 4:19
-	-----
-	1
-
-
-deúmits
-
-	1 VD1689_94 Joz 15:57
-	1 VD1689_94 Joz 17:5
-	1 VD1689_94 Joz 21:5
-	1 VD1689_94 Joz 21:26
-	1 VD1689_94 Joz 22:14
-	1 VD1689_94 Joz 24:29
-	-----
-	6
 
 
 dibonam
@@ -5028,6 +5028,22 @@ dohs
 	1
 
 
+dohúchanas
+
+	1 VD1689_94 Joz 17:13
+	-----
+	1
+
+
+dohúchu
+
+	1 VD1689_94 Joz 8:18
+	1 VD1689_94 Joz 11:6
+	1 VD1689_94 Joz 15:16
+	-----
+	3
+
+
 doht
 
 	1 VD1689_94 Joz 1:6
@@ -5065,22 +5081,6 @@ dohts
 	1 VD1689_94 Joz 15:0
 	-----
 	2
-
-
-dohúchanas
-
-	1 VD1689_94 Joz 17:13
-	-----
-	1
-
-
-dohúchu
-
-	1 VD1689_94 Joz 8:18
-	1 VD1689_94 Joz 11:6
-	1 VD1689_94 Joz 15:16
-	-----
-	3
 
 
 dora
@@ -5170,122 +5170,6 @@ drohúchu
 	1 VD1689_94 Joz 10:25
 	-----
 	5
-
-
-duhmi
-
-	1 VD1689_94 Joz 8:20
-	1 VD1689_94 Joz 8:21
-	-----
-	2
-
-
-duma
-
-	1 VD1689_94 Joz 15:52
-	-----
-	1
-
-
-dunduºus
-
-	1 VD1689_94 Joz 24:12
-	-----
-	1
-
-
-durwim
-
-	1 VD1689_94 Joz 2:19
-	1 VD1689_94 Joz 8:29
-	1 VD1689_94 Joz 19:51
-	1 VD1689_94 Joz 20:4
-	-----
-	4
-
-
-duúmiba
-
-	1 VD1689_94 Joz 9:20
-	-----
-	1
-
-
-duúmotajs
-
-	1 VD1689_94 Joz 24:19
-	-----
-	1
-
-
-duúmoúees
-
-	1 VD1689_94 Joz 22:18
-	-----
-	1
-
-
-duúúeja
-
-	1 VD1689_94 Joz 14:15
-	-----
-	1
-
-
-duúúeúchanu
-
-	1 VD1689_94 Joz 1:13
-	1 VD1689_94 Joz 1:15
-	1 VD1689_94 Joz 21:44
-	1 VD1689_94 Joz 22:4
-	1 VD1689_94 Joz 23:1
-	-----
-	5
-
-
-dwaúcha
-
-	1 VD1689_94 Joz 10:40
-	1 VD1689_94 Joz 11:11
-	1 VD1689_94 Joz 11:14
-	-----
-	3
-
-
-dwehúele
-
-	1 VD1689_94 Joz 2:14
-	-----
-	1
-
-
-dwehúelehm
-
-	1 VD1689_94 Joz 10:30
-	1 VD1689_94 Joz 10:32
-	2 VD1689_94 Joz 10:37
-	-----
-	4
-
-
-dwehúeles
-
-	1 VD1689_94 Joz 2:13
-	1 VD1689_94 Joz 10:28
-	1 VD1689_94 Joz 10:35
-	1 VD1689_94 Joz 10:39
-	1 VD1689_94 Joz 22:5
-	1 VD1689_94 Joz 23:11
-	1 VD1689_94 Joz 23:14
-	-----
-	7
-
-
-dwehúeli
-
-	1 VD1689_94 Joz 20:3
-	-----
-	1
 
 
 d§el§es
@@ -5434,6 +5318,16 @@ d§ihwojúchi
 	2
 
 
+d§ihwokïeem
+
+	1 VD1689_94 Joz 3:14
+	1 VD1689_94 Joz 22:4
+	1 VD1689_94 Joz 22:6
+	2 VD1689_94 Joz 22:8
+	-----
+	5
+
+
 d§ihwokli
 
 	1 VD1689_94 Joz 22:29
@@ -5447,23 +5341,6 @@ d§ihwoklis
 	1 VD1689_94 Joz 22:19
 	-----
 	2
-
-
-d§ihwokïeem
-
-	1 VD1689_94 Joz 3:14
-	1 VD1689_94 Joz 22:4
-	1 VD1689_94 Joz 22:6
-	2 VD1689_94 Joz 22:8
-	-----
-	5
-
-
-d§ihwot
-
-	1 VD1689_94 Joz 17:12
-	-----
-	1
 
 
 d§ihwoúchana
@@ -5483,6 +5360,13 @@ d§ihwoúchanas
 d§ihwoúi
 
 	1 VD1689_94 Joz 9:7
+	-----
+	1
+
+
+d§ihwot
+
+	1 VD1689_94 Joz 17:12
 	-----
 	1
 
@@ -5584,13 +5468,6 @@ d§irdejs
 	2
 
 
-d§irdejuúchi
-
-	1 VD1689_94 Joz 2:10
-	-----
-	1
-
-
 d§irdejúchi
 
 	1 VD1689_94 Joz 2:11
@@ -5599,9 +5476,132 @@ d§irdejúchi
 	2
 
 
+d§irdejuúchi
+
+	1 VD1689_94 Joz 2:10
+	-----
+	1
+
+
 d§irdeta
 
 	1 VD1689_94 Joz 6:10
+	-----
+	1
+
+
+duhmi
+
+	1 VD1689_94 Joz 8:20
+	1 VD1689_94 Joz 8:21
+	-----
+	2
+
+
+duma
+
+	1 VD1689_94 Joz 15:52
+	-----
+	1
+
+
+dunduºus
+
+	1 VD1689_94 Joz 24:12
+	-----
+	1
+
+
+durwim
+
+	1 VD1689_94 Joz 2:19
+	1 VD1689_94 Joz 8:29
+	1 VD1689_94 Joz 19:51
+	1 VD1689_94 Joz 20:4
+	-----
+	4
+
+
+duúmiba
+
+	1 VD1689_94 Joz 9:20
+	-----
+	1
+
+
+duúmoúees
+
+	1 VD1689_94 Joz 22:18
+	-----
+	1
+
+
+duúmotajs
+
+	1 VD1689_94 Joz 24:19
+	-----
+	1
+
+
+duúúeja
+
+	1 VD1689_94 Joz 14:15
+	-----
+	1
+
+
+duúúeúchanu
+
+	1 VD1689_94 Joz 1:13
+	1 VD1689_94 Joz 1:15
+	1 VD1689_94 Joz 21:44
+	1 VD1689_94 Joz 22:4
+	1 VD1689_94 Joz 23:1
+	-----
+	5
+
+
+dwaúcha
+
+	1 VD1689_94 Joz 10:40
+	1 VD1689_94 Joz 11:11
+	1 VD1689_94 Joz 11:14
+	-----
+	3
+
+
+dwehúele
+
+	1 VD1689_94 Joz 2:14
+	-----
+	1
+
+
+dwehúelehm
+
+	1 VD1689_94 Joz 10:30
+	1 VD1689_94 Joz 10:32
+	2 VD1689_94 Joz 10:37
+	-----
+	4
+
+
+dwehúeles
+
+	1 VD1689_94 Joz 2:13
+	1 VD1689_94 Joz 10:28
+	1 VD1689_94 Joz 10:35
+	1 VD1689_94 Joz 10:39
+	1 VD1689_94 Joz 22:5
+	1 VD1689_94 Joz 23:11
+	1 VD1689_94 Joz 23:14
+	-----
+	7
+
+
+dwehúeli
+
+	1 VD1689_94 Joz 20:3
 	-----
 	1
 
@@ -5613,16 +5613,16 @@ ebr
 	1
 
 
-ee=eetat
+ee=eeúchanu
 
-	1 VD1689_94 Joz 1:11
+	1 VD1689_94 Joz 14:11
 	-----
 	1
 
 
-ee=eeúchanu
+ee=eetat
 
-	1 VD1689_94 Joz 14:11
+	1 VD1689_94 Joz 1:11
 	-----
 	1
 
@@ -5641,6 +5641,15 @@ eebrona
 	1 VD1689_94 Joz 11:21
 	-----
 	2
+
+
+eebroòa
+
+	1 VD1689_94 Joz 10:5
+	1 VD1689_94 Joz 10:23
+	1 VD1689_94 Joz 12:10
+	-----
+	3
 
 
 eebronam
@@ -5671,15 +5680,6 @@ eebronu
 	1 VD1689_94 Joz 21:13
 	-----
 	2
-
-
-eebroòa
-
-	1 VD1689_94 Joz 10:5
-	1 VD1689_94 Joz 10:23
-	1 VD1689_94 Joz 12:10
-	-----
-	3
 
 
 eedams
@@ -5863,11 +5863,16 @@ eekúcha
 	1
 
 
-eeleazars
+eelea§aºa
 
-	1 VD1689_94 Joz 24:0
+	1 VD1689_94 Joz 17:4
+	1 VD1689_94 Joz 21:0
+	1 VD1689_94 Joz 21:1
+	1 VD1689_94 Joz 22:13
+	1 VD1689_94 Joz 22:31
+	1 VD1689_94 Joz 22:32
 	-----
-	1
+	6
 
 
 eelea§ars
@@ -5879,16 +5884,11 @@ eelea§ars
 	3
 
 
-eelea§aºa
+eeleazars
 
-	1 VD1689_94 Joz 17:4
-	1 VD1689_94 Joz 21:0
-	1 VD1689_94 Joz 21:1
-	1 VD1689_94 Joz 22:13
-	1 VD1689_94 Joz 22:31
-	1 VD1689_94 Joz 22:32
+	1 VD1689_94 Joz 24:0
 	-----
-	6
+	1
 
 
 eeleija
@@ -6065,21 +6065,6 @@ eemantojúchi
 	2
 
 
-eemantotas
-
-	1 VD1689_94 Joz 24:30
-	-----
-	1
-
-
-eemantotu
-
-	1 VD1689_94 Joz 22:19
-	1 VD1689_94 Joz 24:28
-	-----
-	2
-
-
 eemantoúchanas
 
 	1 VD1689_94 Joz 14:2
@@ -6093,6 +6078,21 @@ eemantoúeet
 	1 VD1689_94 Joz 23:5
 	-----
 	1
+
+
+eemantotas
+
+	1 VD1689_94 Joz 24:30
+	-----
+	1
+
+
+eemantotu
+
+	1 VD1689_94 Joz 22:19
+	1 VD1689_94 Joz 24:28
+	-----
+	2
 
 
 eeminne
@@ -6196,6 +6196,72 @@ eeroòam
 eerunnahts
 
 	1 VD1689_94 Joz 15:18
+	-----
+	1
+
+
+eeúahkúchu
+
+	1 VD1689_94 Joz 3:7
+	-----
+	1
+
+
+ee§awam
+
+	1 VD1689_94 Joz 24:4
+	-----
+	1
+
+
+ee§awu
+
+	1 VD1689_94 Joz 24:4
+	-----
+	1
+
+
+eeúeet
+
+	1 VD1689_94 Joz 1:11
+	1 VD1689_94 Joz 23:12
+	1 VD1689_94 Joz 23:13
+	-----
+	3
+
+
+eeúi
+
+	1 VD1689_94 Joz 1:7
+	1 VD1689_94 Joz 1:9
+	-----
+	2
+
+
+ee§ihmo
+
+	1 VD1689_94 Joz 2:1
+	-----
+	1
+
+
+eeúim
+
+	1 VD1689_94 Joz 1:16
+	-----
+	1
+
+
+ee§pehzina
+
+	1 VD1689_94 Joz 1:0
+	-----
+	1
+
+
+eeúwehtija
+
+	1 VD1689_94 Joz 20:7
 	-----
 	1
 
@@ -6314,14 +6380,6 @@ eewiteºus
 	1
 
 
-eewra#ima
-
-	1 VD1689_94 Joz 17:15
-	1 VD1689_94 Joz 21:20
-	-----
-	2
-
-
 eewra&ima
 
 	1 VD1689_94 Joz 16:0
@@ -6366,6 +6424,14 @@ eewra&ma
 	1
 
 
+eewra#ima
+
+	1 VD1689_94 Joz 17:15
+	1 VD1689_94 Joz 21:20
+	-----
+	2
+
+
 eewraima
 
 	1 VD1689_94 Joz 16:10
@@ -6402,6 +6468,14 @@ eezehlis
 	2
 
 
+eezeïï
+
+	1 VD1689_94 Joz 6:26
+	1 VD1689_94 Joz 20:0
+	-----
+	2
+
+
 eezelti
 
 	1 VD1689_94 Joz 9:0
@@ -6411,76 +6485,16 @@ eezelti
 	3
 
 
-eezeïï
+egipteºeem
 
-	1 VD1689_94 Joz 6:26
-	1 VD1689_94 Joz 20:0
-	-----
-	2
-
-
-ee§awam
-
-	1 VD1689_94 Joz 24:4
+	1 VD1689_94 Joz 24:7
 	-----
 	1
 
 
-ee§awu
+egipteºi
 
-	1 VD1689_94 Joz 24:4
-	-----
-	1
-
-
-ee§ihmo
-
-	1 VD1689_94 Joz 2:1
-	-----
-	1
-
-
-ee§pehzina
-
-	1 VD1689_94 Joz 1:0
-	-----
-	1
-
-
-eeúahkúchu
-
-	1 VD1689_94 Joz 3:7
-	-----
-	1
-
-
-eeúeet
-
-	1 VD1689_94 Joz 1:11
-	1 VD1689_94 Joz 23:12
-	1 VD1689_94 Joz 23:13
-	-----
-	3
-
-
-eeúi
-
-	1 VD1689_94 Joz 1:7
-	1 VD1689_94 Joz 1:9
-	-----
-	2
-
-
-eeúim
-
-	1 VD1689_94 Joz 1:16
-	-----
-	1
-
-
-eeúwehtija
-
-	1 VD1689_94 Joz 20:7
+	1 VD1689_94 Joz 24:6
 	-----
 	1
 
@@ -6525,20 +6539,6 @@ egiptes=semmi
 	2
 
 
-egipteºeem
-
-	1 VD1689_94 Joz 24:7
-	-----
-	1
-
-
-egipteºi
-
-	1 VD1689_94 Joz 24:6
-	-----
-	1
-
-
 eglona
 
 	1 VD1689_94 Joz 10:3
@@ -6546,6 +6546,14 @@ eglona
 	1 VD1689_94 Joz 10:36
 	-----
 	3
+
+
+egloòa
+
+	1 VD1689_94 Joz 10:5
+	1 VD1689_94 Joz 12:12
+	-----
+	2
 
 
 eglonam
@@ -6567,14 +6575,6 @@ eglonu
 	1 VD1689_94 Joz 10:34
 	-----
 	1
-
-
-egloòa
-
-	1 VD1689_94 Joz 10:5
-	1 VD1689_94 Joz 12:12
-	-----
-	2
 
 
 ehdamo=uppuºeem
@@ -6676,6 +6676,13 @@ eite
 	8
 
 
+ekroòa
+
+	1 VD1689_94 Joz 13:3
+	-----
+	1
+
+
 ekroniteºi
 
 	1 VD1689_94 Joz 13:3
@@ -6697,13 +6704,6 @@ ekronu
 	1
 
 
-ekroòa
-
-	1 VD1689_94 Joz 13:3
-	-----
-	1
-
-
 eldolads
 
 	1 VD1689_94 Joz 15:30
@@ -6714,6 +6714,13 @@ eldolads
 elewe
 
 	1 VD1689_94 Joz 18:28
+	-----
+	1
+
+
+eïjes=kohkus
+
+	1 VD1689_94 Joz 24:13
 	-----
 	1
 
@@ -6903,46 +6910,18 @@ es
 	70
 
 
-eters
-
-	1 VD1689_94 Joz 15:42
-	1 VD1689_94 Joz 19:7
-	-----
-	2
-
-
-ewra&ima
-
-	1 VD1689_94 Joz 17:8
-	-----
-	1
-
-
-ewra&imam
-
-	1 VD1689_94 Joz 17:9
-	-----
-	1
-
-
-ewu
-
-	1 VD1689_94 Joz 13:21
-	-----
-	1
-
-
-ezronu
-
-	1 VD1689_94 Joz 15:4
-	-----
-	1
-
-
 e§bona
 
 	1 VD1689_94 Joz 9:10
 	1 VD1689_94 Joz 12:5
+	-----
+	2
+
+
+e§boòa
+
+	1 VD1689_94 Joz 13:26
+	1 VD1689_94 Joz 13:27
 	-----
 	2
 
@@ -6964,14 +6943,6 @@ e§bons
 	2
 
 
-e§boòa
-
-	1 VD1689_94 Joz 13:26
-	1 VD1689_94 Joz 13:27
-	-----
-	2
-
-
 e§eaòa
 
 	1 VD1689_94 Joz 15:52
@@ -6982,41 +6953,6 @@ e§eaòa
 e§mons
 
 	1 VD1689_94 Joz 15:27
-	-----
-	1
-
-
-e§taa#ls
-
-	1 VD1689_94 Joz 15:33
-	-----
-	1
-
-
-e§taols
-
-	1 VD1689_94 Joz 19:40
-	-----
-	1
-
-
-e§temus
-
-	1 VD1689_94 Joz 15:50
-	-----
-	1
-
-
-e§tmou
-
-	1 VD1689_94 Joz 21:14
-	-----
-	1
-
-
-eïjes=kohkus
-
-	1 VD1689_94 Joz 24:13
 	-----
 	1
 
@@ -7137,13 +7073,6 @@ eúúim
 	6
 
 
-eúúoti
-
-	1 VD1689_94 Joz 4:6
-	-----
-	1
-
-
 eúúoúchi
 
 	1 VD1689_94 Joz 8:15
@@ -7152,9 +7081,80 @@ eúúoúchi
 	2
 
 
+eúúoti
+
+	1 VD1689_94 Joz 4:6
+	-----
+	1
+
+
 eúúus
 
 	1 VD1689_94 Joz 22:27
+	-----
+	1
+
+
+e§taa#ls
+
+	1 VD1689_94 Joz 15:33
+	-----
+	1
+
+
+e§taols
+
+	1 VD1689_94 Joz 19:40
+	-----
+	1
+
+
+e§temus
+
+	1 VD1689_94 Joz 15:50
+	-----
+	1
+
+
+e§tmou
+
+	1 VD1689_94 Joz 21:14
+	-----
+	1
+
+
+eters
+
+	1 VD1689_94 Joz 15:42
+	1 VD1689_94 Joz 19:7
+	-----
+	2
+
+
+ewra&ima
+
+	1 VD1689_94 Joz 17:8
+	-----
+	1
+
+
+ewra&imam
+
+	1 VD1689_94 Joz 17:9
+	-----
+	1
+
+
+ewu
+
+	1 VD1689_94 Joz 13:21
+	-----
+	1
+
+
+ezronu
+
+	1 VD1689_94 Joz 15:4
 	-----
 	1
 
@@ -7426,9 +7426,16 @@ gannami
 	1
 
 
-gar§oniteºeem
+gaººam
 
-	1 VD1689_94 Joz 21:0
+	1 VD1689_94 Joz 18:18
+	-----
+	1
+
+
+gaººi
+
+	1 VD1689_94 Joz 6:5
 	-----
 	1
 
@@ -7436,6 +7443,55 @@ gar§oniteºeem
 gar§oòa
 
 	1 VD1689_94 Joz 21:6
+	-----
+	1
+
+
+gar§oniteºeem
+
+	1 VD1689_94 Joz 21:0
+	-----
+	1
+
+
+ga§a
+
+	1 VD1689_94 Joz 15:47
+	-----
+	1
+
+
+ga§a^
+
+	1 VD1689_94 Joz 11:22
+	-----
+	1
+
+
+ga§ai
+
+	1 VD1689_94 Joz 10:41
+	-----
+	1
+
+
+ga§era^
+
+	1 VD1689_94 Joz 16:10
+	-----
+	1
+
+
+ga§erei
+
+	1 VD1689_94 Joz 16:3
+	-----
+	1
+
+
+ga§iteºi
+
+	1 VD1689_94 Joz 13:3
 	-----
 	1
 
@@ -7510,62 +7566,6 @@ gawileúchanu
 	2
 
 
-ga§a
-
-	1 VD1689_94 Joz 15:47
-	-----
-	1
-
-
-ga§a^
-
-	1 VD1689_94 Joz 11:22
-	-----
-	1
-
-
-ga§ai
-
-	1 VD1689_94 Joz 10:41
-	-----
-	1
-
-
-ga§era^
-
-	1 VD1689_94 Joz 16:10
-	-----
-	1
-
-
-ga§erei
-
-	1 VD1689_94 Joz 16:3
-	-----
-	1
-
-
-ga§iteºi
-
-	1 VD1689_94 Joz 13:3
-	-----
-	1
-
-
-gaººam
-
-	1 VD1689_94 Joz 18:18
-	-----
-	1
-
-
-gaººi
-
-	1 VD1689_94 Joz 6:5
-	-----
-	1
-
-
 gebu
 
 	1 VD1689_94 Joz 21:17
@@ -7580,6 +7580,13 @@ gedera
 	1
 
 
+gedeºa
+
+	1 VD1689_94 Joz 12:13
+	-----
+	1
+
+
 gederota
 
 	1 VD1689_94 Joz 15:41
@@ -7590,13 +7597,6 @@ gederota
 gederotaim
 
 	1 VD1689_94 Joz 15:36
-	-----
-	1
-
-
-gedeºa
-
-	1 VD1689_94 Joz 12:13
 	-----
 	1
 
@@ -7647,13 +7647,6 @@ gelilotu
 	1
 
 
-ger§oniteºu
-
-	1 VD1689_94 Joz 21:33
-	-----
-	1
-
-
 ger§oòa
 
 	1 VD1689_94 Joz 21:27
@@ -7661,9 +7654,16 @@ ger§oòa
 	1
 
 
-getiteºi
+ger§oniteºu
 
-	1 VD1689_94 Joz 13:3
+	1 VD1689_94 Joz 21:33
+	-----
+	1
+
+
+ge§eºa
+
+	1 VD1689_94 Joz 12:12
 	-----
 	1
 
@@ -7678,13 +7678,6 @@ ge§eras
 ge§eru
 
 	1 VD1689_94 Joz 21:21
-	-----
-	1
-
-
-ge§eºa
-
-	1 VD1689_94 Joz 12:12
 	-----
 	1
 
@@ -7718,6 +7711,20 @@ ge§urs
 	1
 
 
+getiteºi
+
+	1 VD1689_94 Joz 13:3
+	-----
+	1
+
+
+ìibea
+
+	1 VD1689_94 Joz 15:57
+	-----
+	1
+
+
 gibeata
 
 	1 VD1689_94 Joz 18:28
@@ -7732,11 +7739,28 @@ gibejas
 	1
 
 
+gibeoòa
+
+	1 VD1689_94 Joz 9:3
+	1 VD1689_94 Joz 10:6
+	1 VD1689_94 Joz 10:12
+	-----
+	3
+
+
 gibeona^
 
 	1 VD1689_94 Joz 10:1
 	-----
 	1
+
+
+gibeoòa^
+
+	1 VD1689_94 Joz 10:10
+	1 VD1689_94 Joz 11:19
+	-----
+	2
 
 
 gibeonam
@@ -7771,21 +7795,11 @@ gibeonu
 	3
 
 
-gibeoòa
+ìibeonu
 
-	1 VD1689_94 Joz 9:3
-	1 VD1689_94 Joz 10:6
-	1 VD1689_94 Joz 10:12
+	1 VD1689_94 Joz 21:17
 	-----
-	3
-
-
-gibeoòa^
-
-	1 VD1689_94 Joz 10:10
-	1 VD1689_94 Joz 11:19
-	-----
-	2
+	1
 
 
 gibetons
@@ -7814,6 +7828,14 @@ gideoniteºi
 	1 VD1689_94 Joz 9:0
 	-----
 	1
+
+
+ìihmi`
+
+	1 VD1689_94 Joz 5:0
+	1 VD1689_94 Joz 5:13
+	-----
+	2
 
 
 gileada
@@ -7943,19 +7965,19 @@ golanu
 	1
 
 
-go§ens
-
-	1 VD1689_94 Joz 15:51
-	-----
-	1
-
-
 go§eòa
 
 	1 VD1689_94 Joz 10:41
 	1 VD1689_94 Joz 11:16
 	-----
 	2
+
+
+go§ens
+
+	1 VD1689_94 Joz 15:51
+	-----
+	1
 
 
 grahmata^
@@ -8702,16 +8724,16 @@ isdeldejs
 	2
 
 
-isdeldeju
+isdeldejúchi
 
-	1 VD1689_94 Joz 24:8
+	1 VD1689_94 Joz 2:10
 	-----
 	1
 
 
-isdeldejúchi
+isdeldeju
 
-	1 VD1689_94 Joz 2:10
+	1 VD1689_94 Joz 24:8
 	-----
 	1
 
@@ -8809,6 +8831,20 @@ isd§ihs
 	4
 
 
+isd§ihúchu
+
+	1 VD1689_94 Joz 13:6
+	-----
+	1
+
+
+isd§ihúi
+
+	1 VD1689_94 Joz 17:18
+	-----
+	1
+
+
 isd§iht
 
 	1 VD1689_94 Joz 14:12
@@ -8825,20 +8861,6 @@ isd§ihti
 	1 VD1689_94 Joz 15:0
 	-----
 	2
-
-
-isd§ihúchu
-
-	1 VD1689_94 Joz 13:6
-	-----
-	1
-
-
-isd§ihúi
-
-	1 VD1689_94 Joz 17:18
-	-----
-	1
 
 
 isd§inne
@@ -9081,6 +9103,364 @@ ispaude
 	1
 
 
+i§rae&ïa
+
+	1 VD1689_94 Joz 2:2
+	1 VD1689_94 Joz 3:0
+	1 VD1689_94 Joz 3:1
+	1 VD1689_94 Joz 3:9
+	1 VD1689_94 Joz 4:8
+	1 VD1689_94 Joz 5:2
+	1 VD1689_94 Joz 5:10
+	1 VD1689_94 Joz 6:18
+	2 VD1689_94 Joz 7:1
+	1 VD1689_94 Joz 7:12
+	1 VD1689_94 Joz 7:13
+	1 VD1689_94 Joz 7:15
+	1 VD1689_94 Joz 7:20
+	1 VD1689_94 Joz 9:0
+	1 VD1689_94 Joz 9:7
+	1 VD1689_94 Joz 10:20
+	1 VD1689_94 Joz 10:40
+	1 VD1689_94 Joz 10:42
+	1 VD1689_94 Joz 12:6
+	2 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 13:13
+	1 VD1689_94 Joz 19:49
+	1 VD1689_94 Joz 20:0
+	1 VD1689_94 Joz 21:0
+	1 VD1689_94 Joz 21:8
+	1 VD1689_94 Joz 22:13
+	1 VD1689_94 Joz 22:14
+	1 VD1689_94 Joz 22:18
+	1 VD1689_94 Joz 22:24
+	1 VD1689_94 Joz 22:33
+	1 VD1689_94 Joz 24:1
+	1 VD1689_94 Joz 24:2
+	1 VD1689_94 Joz 24:23
+	-----
+	35
+
+
+i§rae&ïam
+
+	1 VD1689_94 Joz 11:20
+	1 VD1689_94 Joz 14:10
+	-----
+	2
+
+
+i§rae&ls
+
+	2 VD1689_94 Joz 8:24
+	1 VD1689_94 Joz 8:27
+	1 VD1689_94 Joz 10:43
+	1 VD1689_94 Joz 22:22
+	-----
+	5
+
+
+i§rae&ïs
+
+	1 VD1689_94 Joz 7:13
+	-----
+	1
+
+
+i§rae&lu
+
+	1 VD1689_94 Joz 10:42
+	1 VD1689_94 Joz 11:5
+	1 VD1689_94 Joz 23:0
+	-----
+	3
+
+
+i§rae#ïa
+
+	1 VD1689_94 Joz 1:2
+	1 VD1689_94 Joz 3:7
+	1 VD1689_94 Joz 3:12
+	1 VD1689_94 Joz 4:0
+	1 VD1689_94 Joz 4:4
+	1 VD1689_94 Joz 4:5
+	1 VD1689_94 Joz 4:7
+	1 VD1689_94 Joz 4:8
+	1 VD1689_94 Joz 4:12
+	1 VD1689_94 Joz 4:21
+	1 VD1689_94 Joz 5:0
+	2 VD1689_94 Joz 5:1
+	1 VD1689_94 Joz 5:3
+	1 VD1689_94 Joz 5:6
+	1 VD1689_94 Joz 5:12
+	1 VD1689_94 Joz 6:1
+	1 VD1689_94 Joz 6:23
+	1 VD1689_94 Joz 6:25
+	1 VD1689_94 Joz 7:6
+	1 VD1689_94 Joz 7:19
+	1 VD1689_94 Joz 7:23
+	1 VD1689_94 Joz 8:10
+	1 VD1689_94 Joz 8:30
+	1 VD1689_94 Joz 8:31
+	1 VD1689_94 Joz 8:32
+	1 VD1689_94 Joz 8:35
+	1 VD1689_94 Joz 9:6
+	1 VD1689_94 Joz 9:17
+	2 VD1689_94 Joz 9:18
+	1 VD1689_94 Joz 9:19
+	1 VD1689_94 Joz 9:26
+	1 VD1689_94 Joz 10:4
+	1 VD1689_94 Joz 10:10
+	1 VD1689_94 Joz 10:12
+	1 VD1689_94 Joz 10:21
+	1 VD1689_94 Joz 10:30
+	1 VD1689_94 Joz 10:32
+	1 VD1689_94 Joz 11:6
+	1 VD1689_94 Joz 11:8
+	1 VD1689_94 Joz 11:14
+	1 VD1689_94 Joz 11:16
+	1 VD1689_94 Joz 11:22
+	1 VD1689_94 Joz 13:13
+	1 VD1689_94 Joz 13:22
+	1 VD1689_94 Joz 13:33
+	1 VD1689_94 Joz 14:1
+	1 VD1689_94 Joz 14:5
+	1 VD1689_94 Joz 14:14
+	1 VD1689_94 Joz 17:13
+	1 VD1689_94 Joz 18:1
+	1 VD1689_94 Joz 18:2
+	1 VD1689_94 Joz 18:3
+	1 VD1689_94 Joz 18:10
+	1 VD1689_94 Joz 19:51
+	1 VD1689_94 Joz 20:2
+	1 VD1689_94 Joz 20:9
+	1 VD1689_94 Joz 21:1
+	1 VD1689_94 Joz 21:3
+	1 VD1689_94 Joz 21:41
+	1 VD1689_94 Joz 22:9
+	1 VD1689_94 Joz 22:11
+	2 VD1689_94 Joz 22:12
+	1 VD1689_94 Joz 22:14
+	1 VD1689_94 Joz 22:20
+	1 VD1689_94 Joz 22:21
+	1 VD1689_94 Joz 22:31
+	1 VD1689_94 Joz 22:32
+	1 VD1689_94 Joz 22:33
+	1 VD1689_94 Joz 23:2
+	1 VD1689_94 Joz 24:1
+	1 VD1689_94 Joz 24:32
+	-----
+	74
+
+
+i§rae#ïam
+
+	1 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 8:17
+	1 VD1689_94 Joz 11:19
+	1 VD1689_94 Joz 11:23
+	1 VD1689_94 Joz 13:6
+	1 VD1689_94 Joz 21:43
+	1 VD1689_94 Joz 23:1
+	1 VD1689_94 Joz 24:31
+	-----
+	8
+
+
+i§rae#liteºi
+
+	1 VD1689_94 Joz 11:13
+	-----
+	1
+
+
+i§rae#ls
+
+	1 VD1689_94 Joz 3:17
+	1 VD1689_94 Joz 4:22
+	1 VD1689_94 Joz 7:8
+	1 VD1689_94 Joz 7:11
+	1 VD1689_94 Joz 7:24
+	1 VD1689_94 Joz 7:25
+	1 VD1689_94 Joz 8:21
+	1 VD1689_94 Joz 8:33
+	1 VD1689_94 Joz 10:15
+	1 VD1689_94 Joz 10:29
+	1 VD1689_94 Joz 10:31
+	1 VD1689_94 Joz 10:34
+	1 VD1689_94 Joz 10:36
+	1 VD1689_94 Joz 10:38
+	1 VD1689_94 Joz 24:31
+	-----
+	15
+
+
+i§rae#lu
+
+	1 VD1689_94 Joz 7:16
+	1 VD1689_94 Joz 8:22
+	1 VD1689_94 Joz 9:2
+	1 VD1689_94 Joz 10:1
+	1 VD1689_94 Joz 10:12
+	1 VD1689_94 Joz 10:14
+	1 VD1689_94 Joz 11:0
+	1 VD1689_94 Joz 24:9
+	-----
+	8
+
+
+i§raeïa
+
+	1 VD1689_94 Joz 2:1
+	1 VD1689_94 Joz 4:14
+	1 VD1689_94 Joz 7:0
+	1 VD1689_94 Joz 10:11
+	1 VD1689_94 Joz 10:24
+	1 VD1689_94 Joz 11:21
+	1 VD1689_94 Joz 12:1
+	1 VD1689_94 Joz 13:6
+	1 VD1689_94 Joz 13:14
+	1 VD1689_94 Joz 14:1
+	1 VD1689_94 Joz 21:45
+	1 VD1689_94 Joz 22:11
+	1 VD1689_94 Joz 22:16
+	1 VD1689_94 Joz 22:30
+	-----
+	14
+
+
+i§raeïam
+
+	1 VD1689_94 Joz 8:17
+	-----
+	1
+
+
+i§raels
+
+	1 VD1689_94 Joz 8:15
+	-----
+	1
+
+
+i§raelu
+
+	1 VD1689_94 Joz 10:11
+	-----
+	1
+
+
+isúaknoja
+
+	1 VD1689_94 Joz 11:21
+	-----
+	1
+
+
+isúauze
+
+	1 VD1689_94 Joz 8:34
+	-----
+	1
+
+
+isúauzis
+
+	1 VD1689_94 Joz 8:35
+	-----
+	1
+
+
+isúihkt
+
+	1 VD1689_94 Joz 2:10
+	2 VD1689_94 Joz 4:23
+	1 VD1689_94 Joz 5:1
+	-----
+	4
+
+
+isúike
+
+	1 VD1689_94 Joz 3:16
+	-----
+	1
+
+
+isúikke
+
+	1 VD1689_94 Joz 4:7
+	-----
+	1
+
+
+isúizzis
+
+	1 VD1689_94 Joz 4:7
+	-----
+	1
+
+
+is§teep
+
+	1 VD1689_94 Joz 8:18
+	-----
+	1
+
+
+is§teepe
+
+	1 VD1689_94 Joz 8:18
+	1 VD1689_94 Joz 8:19
+	-----
+	2
+
+
+is§teepis
+
+	1 VD1689_94 Joz 8:26
+	-----
+	1
+
+
+isúuhta
+
+	1 VD1689_94 Joz 2:0
+	1 VD1689_94 Joz 18:0
+	-----
+	2
+
+
+isúuhtija
+
+	1 VD1689_94 Joz 7:2
+	1 VD1689_94 Joz 8:3
+	1 VD1689_94 Joz 14:11
+	-----
+	3
+
+
+isúuhtijis
+
+	1 VD1689_94 Joz 2:1
+	-----
+	1
+
+
+isúuhtijs
+
+	1 VD1689_94 Joz 6:25
+	-----
+	1
+
+
+isúuhtijúchi
+
+	1 VD1689_94 Joz 6:17
+	-----
+	1
+
+
 isteekahs
 
 	1 VD1689_94 Joz 17:15
@@ -9177,117 +9557,6 @@ iswilkts
 	1
 
 
-is§teep
-
-	1 VD1689_94 Joz 8:18
-	-----
-	1
-
-
-is§teepe
-
-	1 VD1689_94 Joz 8:18
-	1 VD1689_94 Joz 8:19
-	-----
-	2
-
-
-is§teepis
-
-	1 VD1689_94 Joz 8:26
-	-----
-	1
-
-
-isúaknoja
-
-	1 VD1689_94 Joz 11:21
-	-----
-	1
-
-
-isúauze
-
-	1 VD1689_94 Joz 8:34
-	-----
-	1
-
-
-isúauzis
-
-	1 VD1689_94 Joz 8:35
-	-----
-	1
-
-
-isúihkt
-
-	1 VD1689_94 Joz 2:10
-	2 VD1689_94 Joz 4:23
-	1 VD1689_94 Joz 5:1
-	-----
-	4
-
-
-isúike
-
-	1 VD1689_94 Joz 3:16
-	-----
-	1
-
-
-isúikke
-
-	1 VD1689_94 Joz 4:7
-	-----
-	1
-
-
-isúizzis
-
-	1 VD1689_94 Joz 4:7
-	-----
-	1
-
-
-isúuhta
-
-	1 VD1689_94 Joz 2:0
-	1 VD1689_94 Joz 18:0
-	-----
-	2
-
-
-isúuhtija
-
-	1 VD1689_94 Joz 7:2
-	1 VD1689_94 Joz 8:3
-	1 VD1689_94 Joz 14:11
-	-----
-	3
-
-
-isúuhtijis
-
-	1 VD1689_94 Joz 2:1
-	-----
-	1
-
-
-isúuhtijs
-
-	1 VD1689_94 Joz 6:25
-	-----
-	1
-
-
-isúuhtijúchi
-
-	1 VD1689_94 Joz 6:17
-	-----
-	1
-
-
 iti
 
 	1 VD1689_94 Joz 19:13
@@ -9367,253 +9636,6 @@ ittin
 	1 VD1689_94 Joz 24:5
 	-----
 	33
-
-
-i§rae#liteºi
-
-	1 VD1689_94 Joz 11:13
-	-----
-	1
-
-
-i§rae#ls
-
-	1 VD1689_94 Joz 3:17
-	1 VD1689_94 Joz 4:22
-	1 VD1689_94 Joz 7:8
-	1 VD1689_94 Joz 7:11
-	1 VD1689_94 Joz 7:24
-	1 VD1689_94 Joz 7:25
-	1 VD1689_94 Joz 8:21
-	1 VD1689_94 Joz 8:33
-	1 VD1689_94 Joz 10:15
-	1 VD1689_94 Joz 10:29
-	1 VD1689_94 Joz 10:31
-	1 VD1689_94 Joz 10:34
-	1 VD1689_94 Joz 10:36
-	1 VD1689_94 Joz 10:38
-	1 VD1689_94 Joz 24:31
-	-----
-	15
-
-
-i§rae#lu
-
-	1 VD1689_94 Joz 7:16
-	1 VD1689_94 Joz 8:22
-	1 VD1689_94 Joz 9:2
-	1 VD1689_94 Joz 10:1
-	1 VD1689_94 Joz 10:12
-	1 VD1689_94 Joz 10:14
-	1 VD1689_94 Joz 11:0
-	1 VD1689_94 Joz 24:9
-	-----
-	8
-
-
-i§rae#ïa
-
-	1 VD1689_94 Joz 1:2
-	1 VD1689_94 Joz 3:7
-	1 VD1689_94 Joz 3:12
-	1 VD1689_94 Joz 4:0
-	1 VD1689_94 Joz 4:4
-	1 VD1689_94 Joz 4:5
-	1 VD1689_94 Joz 4:7
-	1 VD1689_94 Joz 4:8
-	1 VD1689_94 Joz 4:12
-	1 VD1689_94 Joz 4:21
-	1 VD1689_94 Joz 5:0
-	2 VD1689_94 Joz 5:1
-	1 VD1689_94 Joz 5:3
-	1 VD1689_94 Joz 5:6
-	1 VD1689_94 Joz 5:12
-	1 VD1689_94 Joz 6:1
-	1 VD1689_94 Joz 6:23
-	1 VD1689_94 Joz 6:25
-	1 VD1689_94 Joz 7:6
-	1 VD1689_94 Joz 7:19
-	1 VD1689_94 Joz 7:23
-	1 VD1689_94 Joz 8:10
-	1 VD1689_94 Joz 8:30
-	1 VD1689_94 Joz 8:31
-	1 VD1689_94 Joz 8:32
-	1 VD1689_94 Joz 8:35
-	1 VD1689_94 Joz 9:6
-	1 VD1689_94 Joz 9:17
-	2 VD1689_94 Joz 9:18
-	1 VD1689_94 Joz 9:19
-	1 VD1689_94 Joz 9:26
-	1 VD1689_94 Joz 10:4
-	1 VD1689_94 Joz 10:10
-	1 VD1689_94 Joz 10:12
-	1 VD1689_94 Joz 10:21
-	1 VD1689_94 Joz 10:30
-	1 VD1689_94 Joz 10:32
-	1 VD1689_94 Joz 11:6
-	1 VD1689_94 Joz 11:8
-	1 VD1689_94 Joz 11:14
-	1 VD1689_94 Joz 11:16
-	1 VD1689_94 Joz 11:22
-	1 VD1689_94 Joz 13:13
-	1 VD1689_94 Joz 13:22
-	1 VD1689_94 Joz 13:33
-	1 VD1689_94 Joz 14:1
-	1 VD1689_94 Joz 14:5
-	1 VD1689_94 Joz 14:14
-	1 VD1689_94 Joz 17:13
-	1 VD1689_94 Joz 18:1
-	1 VD1689_94 Joz 18:2
-	1 VD1689_94 Joz 18:3
-	1 VD1689_94 Joz 18:10
-	1 VD1689_94 Joz 19:51
-	1 VD1689_94 Joz 20:2
-	1 VD1689_94 Joz 20:9
-	1 VD1689_94 Joz 21:1
-	1 VD1689_94 Joz 21:3
-	1 VD1689_94 Joz 21:41
-	1 VD1689_94 Joz 22:9
-	1 VD1689_94 Joz 22:11
-	2 VD1689_94 Joz 22:12
-	1 VD1689_94 Joz 22:14
-	1 VD1689_94 Joz 22:20
-	1 VD1689_94 Joz 22:21
-	1 VD1689_94 Joz 22:31
-	1 VD1689_94 Joz 22:32
-	1 VD1689_94 Joz 22:33
-	1 VD1689_94 Joz 23:2
-	1 VD1689_94 Joz 24:1
-	1 VD1689_94 Joz 24:32
-	-----
-	74
-
-
-i§rae#ïam
-
-	1 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 8:17
-	1 VD1689_94 Joz 11:19
-	1 VD1689_94 Joz 11:23
-	1 VD1689_94 Joz 13:6
-	1 VD1689_94 Joz 21:43
-	1 VD1689_94 Joz 23:1
-	1 VD1689_94 Joz 24:31
-	-----
-	8
-
-
-i§rae&ls
-
-	2 VD1689_94 Joz 8:24
-	1 VD1689_94 Joz 8:27
-	1 VD1689_94 Joz 10:43
-	1 VD1689_94 Joz 22:22
-	-----
-	5
-
-
-i§rae&lu
-
-	1 VD1689_94 Joz 10:42
-	1 VD1689_94 Joz 11:5
-	1 VD1689_94 Joz 23:0
-	-----
-	3
-
-
-i§rae&ïa
-
-	1 VD1689_94 Joz 2:2
-	1 VD1689_94 Joz 3:0
-	1 VD1689_94 Joz 3:1
-	1 VD1689_94 Joz 3:9
-	1 VD1689_94 Joz 4:8
-	1 VD1689_94 Joz 5:2
-	1 VD1689_94 Joz 5:10
-	1 VD1689_94 Joz 6:18
-	2 VD1689_94 Joz 7:1
-	1 VD1689_94 Joz 7:12
-	1 VD1689_94 Joz 7:13
-	1 VD1689_94 Joz 7:15
-	1 VD1689_94 Joz 7:20
-	1 VD1689_94 Joz 9:0
-	1 VD1689_94 Joz 9:7
-	1 VD1689_94 Joz 10:20
-	1 VD1689_94 Joz 10:40
-	1 VD1689_94 Joz 10:42
-	1 VD1689_94 Joz 12:6
-	2 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 13:13
-	1 VD1689_94 Joz 19:49
-	1 VD1689_94 Joz 20:0
-	1 VD1689_94 Joz 21:0
-	1 VD1689_94 Joz 21:8
-	1 VD1689_94 Joz 22:13
-	1 VD1689_94 Joz 22:14
-	1 VD1689_94 Joz 22:18
-	1 VD1689_94 Joz 22:24
-	1 VD1689_94 Joz 22:33
-	1 VD1689_94 Joz 24:1
-	1 VD1689_94 Joz 24:2
-	1 VD1689_94 Joz 24:23
-	-----
-	35
-
-
-i§rae&ïam
-
-	1 VD1689_94 Joz 11:20
-	1 VD1689_94 Joz 14:10
-	-----
-	2
-
-
-i§rae&ïs
-
-	1 VD1689_94 Joz 7:13
-	-----
-	1
-
-
-i§raels
-
-	1 VD1689_94 Joz 8:15
-	-----
-	1
-
-
-i§raelu
-
-	1 VD1689_94 Joz 10:11
-	-----
-	1
-
-
-i§raeïa
-
-	1 VD1689_94 Joz 2:1
-	1 VD1689_94 Joz 4:14
-	1 VD1689_94 Joz 7:0
-	1 VD1689_94 Joz 10:11
-	1 VD1689_94 Joz 10:24
-	1 VD1689_94 Joz 11:21
-	1 VD1689_94 Joz 12:1
-	1 VD1689_94 Joz 13:6
-	1 VD1689_94 Joz 13:14
-	1 VD1689_94 Joz 14:1
-	1 VD1689_94 Joz 21:45
-	1 VD1689_94 Joz 22:11
-	1 VD1689_94 Joz 22:16
-	1 VD1689_94 Joz 22:30
-	-----
-	14
-
-
-i§raeïam
-
-	1 VD1689_94 Joz 8:17
-	-----
-	1
 
 
 ja
@@ -9739,20 +9761,6 @@ jahnis
 	1
 
 
-jahtneekeem
-
-	1 VD1689_94 Joz 24:6
-	-----
-	1
-
-
-jahza
-
-	1 VD1689_94 Joz 21:36
-	-----
-	1
-
-
 jah§epa
 
 	1 VD1689_94 Joz 14:4
@@ -9771,6 +9779,20 @@ jah§epa
 	2 VD1689_94 Joz 24:32
 	-----
 	15
+
+
+jahtneekeem
+
+	1 VD1689_94 Joz 24:6
+	-----
+	1
+
+
+jahza
+
+	1 VD1689_94 Joz 21:36
+	-----
+	1
 
 
 jaiºa
@@ -9830,31 +9852,6 @@ jardana
 	2
 
 
-jardanai
-
-	1 VD1689_94 Joz 3:15
-	1 VD1689_94 Joz 19:34
-	-----
-	2
-
-
-jardanu
-
-	1 VD1689_94 Joz 1:2
-	1 VD1689_94 Joz 1:11
-	1 VD1689_94 Joz 3:14
-	1 VD1689_94 Joz 3:17
-	1 VD1689_94 Joz 4:1
-	1 VD1689_94 Joz 4:7
-	1 VD1689_94 Joz 4:22
-	1 VD1689_94 Joz 7:7
-	1 VD1689_94 Joz 22:0
-	1 VD1689_94 Joz 22:25
-	1 VD1689_94 Joz 24:11
-	-----
-	11
-
-
 jardaòa
 
 	1 VD1689_94 Joz 3:15
@@ -9870,6 +9867,14 @@ jardaòa^
 	1 VD1689_94 Joz 3:8
 	-----
 	1
+
+
+jardanai
+
+	1 VD1689_94 Joz 3:15
+	1 VD1689_94 Joz 19:34
+	-----
+	2
 
 
 jardaòai
@@ -9935,6 +9940,23 @@ jardaòas
 	57
 
 
+jardanu
+
+	1 VD1689_94 Joz 1:2
+	1 VD1689_94 Joz 1:11
+	1 VD1689_94 Joz 3:14
+	1 VD1689_94 Joz 3:17
+	1 VD1689_94 Joz 4:1
+	1 VD1689_94 Joz 4:7
+	1 VD1689_94 Joz 4:22
+	1 VD1689_94 Joz 7:7
+	1 VD1689_94 Joz 22:0
+	1 VD1689_94 Joz 22:25
+	1 VD1689_94 Joz 24:11
+	-----
+	11
+
+
 jardaòu
 
 	1 VD1689_94 Joz 3:11
@@ -9956,6 +9978,16 @@ jarmutes
 	1 VD1689_94 Joz 10:5
 	1 VD1689_94 Joz 10:23
 	1 VD1689_94 Joz 12:11
+	-----
+	4
+
+
+jaúchu
+
+	1 VD1689_94 Joz 2:5
+	1 VD1689_94 Joz 2:16
+	1 VD1689_94 Joz 9:7
+	1 VD1689_94 Joz 14:12
 	-----
 	4
 
@@ -10028,16 +10060,6 @@ jawu
 	1 VD1689_94 Joz 19:46
 	-----
 	1
-
-
-jaúchu
-
-	1 VD1689_94 Joz 2:5
-	1 VD1689_94 Joz 2:16
-	1 VD1689_94 Joz 9:7
-	1 VD1689_94 Joz 14:12
-	-----
-	4
 
 
 jearim
@@ -10236,6 +10258,34 @@ jeru§alemes
 	6
 
 
+je§ree&ls
+
+	1 VD1689_94 Joz 15:56
+	-----
+	1
+
+
+je§ree#ïa
+
+	1 VD1689_94 Joz 17:16
+	-----
+	1
+
+
+je§ree#ls
+
+	1 VD1689_94 Joz 19:18
+	-----
+	1
+
+
+je§us
+
+	1 VD1689_94 Joz 1:2
+	-----
+	1
+
+
 jetla
 
 	1 VD1689_94 Joz 19:42
@@ -10280,34 +10330,6 @@ jewuòa
 	1 VD1689_94 Joz 21:12
 	-----
 	5
-
-
-je§ree#ls
-
-	1 VD1689_94 Joz 19:18
-	-----
-	1
-
-
-je§ree#ïa
-
-	1 VD1689_94 Joz 17:16
-	-----
-	1
-
-
-je§ree&ls
-
-	1 VD1689_94 Joz 15:56
-	-----
-	1
-
-
-je§us
-
-	1 VD1689_94 Joz 1:2
-	-----
-	1
 
 
 jibleans
@@ -10466,6 +10488,62 @@ jo§uo#s
 	1 VD1689_94 Joz 24:27
 	-----
 	1
+
+
+jo§uu~s
+
+	1 VD1689_94 Joz 8:3
+	1 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 18:10
+	-----
+	3
+
+
+jo§uu&
+
+	1 VD1689_94 Joz 1:0
+	1 VD1689_94 Joz 7:10
+	1 VD1689_94 Joz 10:8
+	1 VD1689_94 Joz 10:21
+	1 VD1689_94 Joz 17:14
+	-----
+	5
+
+
+jo§uu&m
+
+	1 VD1689_94 Joz 4:10
+	-----
+	1
+
+
+jo§uu&s
+
+	1 VD1689_94 Joz 3:10
+	1 VD1689_94 Joz 4:4
+	1 VD1689_94 Joz 4:17
+	1 VD1689_94 Joz 5:7
+	1 VD1689_94 Joz 7:6
+	1 VD1689_94 Joz 7:7
+	1 VD1689_94 Joz 7:16
+	1 VD1689_94 Joz 8:10
+	1 VD1689_94 Joz 8:18
+	1 VD1689_94 Joz 9:27
+	1 VD1689_94 Joz 10:20
+	1 VD1689_94 Joz 10:22
+	1 VD1689_94 Joz 10:33
+	1 VD1689_94 Joz 11:0
+	1 VD1689_94 Joz 11:7
+	1 VD1689_94 Joz 11:10
+	1 VD1689_94 Joz 11:21
+	1 VD1689_94 Joz 11:23
+	1 VD1689_94 Joz 14:1
+	1 VD1689_94 Joz 14:13
+	1 VD1689_94 Joz 18:8
+	1 VD1689_94 Joz 23:2
+	1 VD1689_94 Joz 24:2
+	-----
+	23
 
 
 jo§uu#
@@ -10634,53 +10712,6 @@ jo§uu#s
 	119
 
 
-jo§uu&
-
-	1 VD1689_94 Joz 1:0
-	1 VD1689_94 Joz 7:10
-	1 VD1689_94 Joz 10:8
-	1 VD1689_94 Joz 10:21
-	1 VD1689_94 Joz 17:14
-	-----
-	5
-
-
-jo§uu&m
-
-	1 VD1689_94 Joz 4:10
-	-----
-	1
-
-
-jo§uu&s
-
-	1 VD1689_94 Joz 3:10
-	1 VD1689_94 Joz 4:4
-	1 VD1689_94 Joz 4:17
-	1 VD1689_94 Joz 5:7
-	1 VD1689_94 Joz 7:6
-	1 VD1689_94 Joz 7:7
-	1 VD1689_94 Joz 7:16
-	1 VD1689_94 Joz 8:10
-	1 VD1689_94 Joz 8:18
-	1 VD1689_94 Joz 9:27
-	1 VD1689_94 Joz 10:20
-	1 VD1689_94 Joz 10:22
-	1 VD1689_94 Joz 10:33
-	1 VD1689_94 Joz 11:0
-	1 VD1689_94 Joz 11:7
-	1 VD1689_94 Joz 11:10
-	1 VD1689_94 Joz 11:21
-	1 VD1689_94 Joz 11:23
-	1 VD1689_94 Joz 14:1
-	1 VD1689_94 Joz 14:13
-	1 VD1689_94 Joz 18:8
-	1 VD1689_94 Joz 23:2
-	1 VD1689_94 Joz 24:2
-	-----
-	23
-
-
 jo§uum
 
 	1 VD1689_94 Joz 11:15
@@ -10698,15 +10729,6 @@ jo§uus
 	1 VD1689_94 Joz 17:0
 	-----
 	6
-
-
-jo§uu~s
-
-	1 VD1689_94 Joz 8:3
-	1 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 18:10
-	-----
-	3
 
 
 juhda
@@ -10747,6 +10769,20 @@ juhr
 	2
 
 
+juhº
+
+	1 VD1689_94 Joz 5:1
+	-----
+	1
+
+
+juhºa
+
+	1 VD1689_94 Joz 17:10
+	-----
+	1
+
+
 juhra^
 
 	1 VD1689_94 Joz 3:16
@@ -10759,6 +10795,39 @@ juhrai
 	1 VD1689_94 Joz 1:4
 	-----
 	1
+
+
+juhºai
+
+	2 VD1689_94 Joz 12:3
+	2 VD1689_94 Joz 15:11
+	1 VD1689_94 Joz 15:46
+	1 VD1689_94 Joz 15:47
+	1 VD1689_94 Joz 16:3
+	1 VD1689_94 Joz 23:4
+	-----
+	8
+
+
+juhºas
+
+	1 VD1689_94 Joz 9:1
+	1 VD1689_94 Joz 13:27
+	1 VD1689_94 Joz 15:5
+	1 VD1689_94 Joz 16:8
+	1 VD1689_94 Joz 19:29
+	1 VD1689_94 Joz 24:6
+	-----
+	6
+
+
+juhºu
+
+	1 VD1689_94 Joz 15:4
+	1 VD1689_94 Joz 17:9
+	1 VD1689_94 Joz 24:7
+	-----
+	3
 
 
 juhs
@@ -10827,67 +10896,6 @@ juhs
 	1 VD1689_94 Joz 24:27
 	-----
 	83
-
-
-juhta
-
-	1 VD1689_94 Joz 15:55
-	-----
-	1
-
-
-juhtu
-
-	1 VD1689_94 Joz 21:16
-	-----
-	1
-
-
-juhº
-
-	1 VD1689_94 Joz 5:1
-	-----
-	1
-
-
-juhºa
-
-	1 VD1689_94 Joz 17:10
-	-----
-	1
-
-
-juhºai
-
-	2 VD1689_94 Joz 12:3
-	2 VD1689_94 Joz 15:11
-	1 VD1689_94 Joz 15:46
-	1 VD1689_94 Joz 15:47
-	1 VD1689_94 Joz 16:3
-	1 VD1689_94 Joz 23:4
-	-----
-	8
-
-
-juhºas
-
-	1 VD1689_94 Joz 9:1
-	1 VD1689_94 Joz 13:27
-	1 VD1689_94 Joz 15:5
-	1 VD1689_94 Joz 16:8
-	1 VD1689_94 Joz 19:29
-	1 VD1689_94 Joz 24:6
-	-----
-	6
-
-
-juhºu
-
-	1 VD1689_94 Joz 15:4
-	1 VD1689_94 Joz 17:9
-	1 VD1689_94 Joz 24:7
-	-----
-	3
 
 
 juhúa^
@@ -11032,6 +11040,20 @@ juhúus
 	1 VD1689_94 Joz 24:19
 	-----
 	3
+
+
+juhta
+
+	1 VD1689_94 Joz 15:55
+	-----
+	1
+
+
+juhtu
+
+	1 VD1689_94 Joz 21:16
+	-----
+	1
 
 
 jums
@@ -11212,36 +11234,6 @@ ka
 	120
 
 
-ka&a&te
-
-	1 VD1689_94 Joz 19:15
-	-----
-	1
-
-
-ka&a&titeºu
-
-	1 VD1689_94 Joz 21:4
-	-----
-	1
-
-
-ka&ina
-
-	1 VD1689_94 Joz 15:57
-	-----
-	1
-
-
-ka^
-
-	1 VD1689_94 Joz 11:12
-	1 VD1689_94 Joz 19:9
-	1 VD1689_94 Joz 24:12
-	-----
-	3
-
-
 ka`
 
 	1 VD1689_94 Joz 1:3
@@ -11307,9 +11299,32 @@ ka`
 	65
 
 
-kaa#titeºeem
+ka^
 
-	1 VD1689_94 Joz 21:0
+	1 VD1689_94 Joz 11:12
+	1 VD1689_94 Joz 19:9
+	1 VD1689_94 Joz 24:12
+	-----
+	3
+
+
+ka&a&te
+
+	1 VD1689_94 Joz 19:15
+	-----
+	1
+
+
+ka&a&titeºu
+
+	1 VD1689_94 Joz 21:4
+	-----
+	1
+
+
+ka&ina
+
+	1 VD1689_94 Joz 15:57
 	-----
 	1
 
@@ -11324,6 +11339,13 @@ kaa&ta
 kaa&titeºu
 
 	1 VD1689_94 Joz 21:10
+	-----
+	1
+
+
+kaa#titeºeem
+
+	1 VD1689_94 Joz 21:0
 	-----
 	1
 
@@ -11932,15 +11954,6 @@ kana
 	1
 
 
-kanaa#na
-
-	1 VD1689_94 Joz 1:2
-	1 VD1689_94 Joz 21:2
-	1 VD1689_94 Joz 22:11
-	-----
-	3
-
-
 kanaa&na
 
 	1 VD1689_94 Joz 5:12
@@ -11951,6 +11964,15 @@ kanaa&na
 	1 VD1689_94 Joz 24:3
 	-----
 	6
+
+
+kanaa#na
+
+	1 VD1689_94 Joz 1:2
+	1 VD1689_94 Joz 21:2
+	1 VD1689_94 Joz 22:11
+	-----
+	3
 
 
 kananiteºeem
@@ -12058,6 +12080,182 @@ karmus
 	2
 
 
+kaººa^
+
+	1 VD1689_94 Joz 4:13
+	1 VD1689_94 Joz 11:20
+	-----
+	2
+
+
+kaººa=pulkeem
+
+	1 VD1689_94 Joz 10:5
+	-----
+	1
+
+
+kaººa=pulki
+
+	1 VD1689_94 Joz 11:4
+	-----
+	1
+
+
+kaººa=spehka
+
+	1 VD1689_94 Joz 5:14
+	1 VD1689_94 Joz 5:15
+	-----
+	2
+
+
+kaººa=spehks
+
+	1 VD1689_94 Joz 10:0
+	-----
+	1
+
+
+kaººa=spehku
+
+	1 VD1689_94 Joz 22:12
+	1 VD1689_94 Joz 22:33
+	-----
+	2
+
+
+kaººa=wihreem
+
+	1 VD1689_94 Joz 4:13
+	1 VD1689_94 Joz 6:2
+	-----
+	2
+
+
+kaººa=wihri
+
+	1 VD1689_94 Joz 5:4
+	1 VD1689_94 Joz 5:6
+	1 VD1689_94 Joz 6:3
+	1 VD1689_94 Joz 8:3
+	1 VD1689_94 Joz 8:11
+	1 VD1689_94 Joz 10:7
+	1 VD1689_94 Joz 11:7
+	-----
+	7
+
+
+kaººa=wihrs
+
+	1 VD1689_94 Joz 17:1
+	-----
+	1
+
+
+kaººa=wihru
+
+	1 VD1689_94 Joz 10:24
+	-----
+	1
+
+
+kaººa=wihrus
+
+	1 VD1689_94 Joz 8:1
+	-----
+	1
+
+
+kaººo
+
+	1 VD1689_94 Joz 23:10
+	-----
+	1
+
+
+kaººoht
+
+	1 VD1689_94 Joz 11:0
+	-----
+	1
+
+
+kaºroja
+
+	1 VD1689_94 Joz 10:5
+	-----
+	1
+
+
+kaººoja
+
+	1 VD1689_94 Joz 10:14
+	1 VD1689_94 Joz 10:29
+	1 VD1689_94 Joz 10:31
+	1 VD1689_94 Joz 10:34
+	1 VD1689_94 Joz 10:36
+	1 VD1689_94 Joz 10:38
+	1 VD1689_94 Joz 10:42
+	1 VD1689_94 Joz 11:18
+	1 VD1689_94 Joz 19:47
+	1 VD1689_94 Joz 24:8
+	1 VD1689_94 Joz 24:9
+	1 VD1689_94 Joz 24:11
+	-----
+	12
+
+
+kaººojat
+
+	1 VD1689_94 Joz 10:25
+	-----
+	1
+
+
+kaººojs
+
+	1 VD1689_94 Joz 23:3
+	-----
+	1
+
+
+kaººoúchanas
+
+	1 VD1689_94 Joz 11:23
+	1 VD1689_94 Joz 14:15
+	-----
+	2
+
+
+kaººoúchanu
+
+	1 VD1689_94 Joz 11:19
+	-----
+	1
+
+
+kaººot
+
+	1 VD1689_94 Joz 11:5
+	-----
+	1
+
+
+kaººu
+
+	1 VD1689_94 Joz 14:11
+	-----
+	1
+
+
+kar§tuma
+
+	1 VD1689_94 Joz 7:26
+	-----
+	1
+
+
 karta
 
 	1 VD1689_94 Joz 21:34
@@ -12068,13 +12266,6 @@ karta
 kartans
 
 	1 VD1689_94 Joz 21:32
-	-----
-	1
-
-
-kar§tuma
-
-	1 VD1689_94 Joz 7:26
 	-----
 	1
 
@@ -12250,6 +12441,13 @@ kas
 	199
 
 
+kaúchu
+
+	1 VD1689_94 Joz 8:15
+	-----
+	1
+
+
 kauj
 
 	1 VD1689_94 Joz 20:3
@@ -12293,6 +12491,22 @@ kaunu
 	1
 
 
+kauúchanu
+
+	1 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 10:10
+	1 VD1689_94 Joz 10:20
+	-----
+	3
+
+
+kauús
+
+	1 VD1689_94 Joz 15:16
+	-----
+	1
+
+
 kaut
 
 	1 VD1689_94 Joz 7:0
@@ -12313,22 +12527,6 @@ kautees
 kauti
 
 	1 VD1689_94 Joz 8:15
-	-----
-	1
-
-
-kauúchanu
-
-	1 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 10:10
-	1 VD1689_94 Joz 10:20
-	-----
-	3
-
-
-kauús
-
-	1 VD1689_94 Joz 15:16
 	-----
 	1
 
@@ -12394,182 +12592,6 @@ kazini
 	1
 
 
-kaºroja
-
-	1 VD1689_94 Joz 10:5
-	-----
-	1
-
-
-kaººa=pulkeem
-
-	1 VD1689_94 Joz 10:5
-	-----
-	1
-
-
-kaººa=pulki
-
-	1 VD1689_94 Joz 11:4
-	-----
-	1
-
-
-kaººa=spehka
-
-	1 VD1689_94 Joz 5:14
-	1 VD1689_94 Joz 5:15
-	-----
-	2
-
-
-kaººa=spehks
-
-	1 VD1689_94 Joz 10:0
-	-----
-	1
-
-
-kaººa=spehku
-
-	1 VD1689_94 Joz 22:12
-	1 VD1689_94 Joz 22:33
-	-----
-	2
-
-
-kaººa=wihreem
-
-	1 VD1689_94 Joz 4:13
-	1 VD1689_94 Joz 6:2
-	-----
-	2
-
-
-kaººa=wihri
-
-	1 VD1689_94 Joz 5:4
-	1 VD1689_94 Joz 5:6
-	1 VD1689_94 Joz 6:3
-	1 VD1689_94 Joz 8:3
-	1 VD1689_94 Joz 8:11
-	1 VD1689_94 Joz 10:7
-	1 VD1689_94 Joz 11:7
-	-----
-	7
-
-
-kaººa=wihrs
-
-	1 VD1689_94 Joz 17:1
-	-----
-	1
-
-
-kaººa=wihru
-
-	1 VD1689_94 Joz 10:24
-	-----
-	1
-
-
-kaººa=wihrus
-
-	1 VD1689_94 Joz 8:1
-	-----
-	1
-
-
-kaººa^
-
-	1 VD1689_94 Joz 4:13
-	1 VD1689_94 Joz 11:20
-	-----
-	2
-
-
-kaººo
-
-	1 VD1689_94 Joz 23:10
-	-----
-	1
-
-
-kaººoht
-
-	1 VD1689_94 Joz 11:0
-	-----
-	1
-
-
-kaººoja
-
-	1 VD1689_94 Joz 10:14
-	1 VD1689_94 Joz 10:29
-	1 VD1689_94 Joz 10:31
-	1 VD1689_94 Joz 10:34
-	1 VD1689_94 Joz 10:36
-	1 VD1689_94 Joz 10:38
-	1 VD1689_94 Joz 10:42
-	1 VD1689_94 Joz 11:18
-	1 VD1689_94 Joz 19:47
-	1 VD1689_94 Joz 24:8
-	1 VD1689_94 Joz 24:9
-	1 VD1689_94 Joz 24:11
-	-----
-	12
-
-
-kaººojat
-
-	1 VD1689_94 Joz 10:25
-	-----
-	1
-
-
-kaººojs
-
-	1 VD1689_94 Joz 23:3
-	-----
-	1
-
-
-kaººot
-
-	1 VD1689_94 Joz 11:5
-	-----
-	1
-
-
-kaººoúchanas
-
-	1 VD1689_94 Joz 11:23
-	1 VD1689_94 Joz 14:15
-	-----
-	2
-
-
-kaººoúchanu
-
-	1 VD1689_94 Joz 11:19
-	-----
-	1
-
-
-kaººu
-
-	1 VD1689_94 Joz 14:11
-	-----
-	1
-
-
-kaúchu
-
-	1 VD1689_94 Joz 8:15
-	-----
-	1
-
-
 kedemota
 
 	1 VD1689_94 Joz 21:37
@@ -12607,6 +12629,20 @@ keenaúa
 	1
 
 
+íeeni§iteºam
+
+	1 VD1689_94 Joz 14:14
+	-----
+	1
+
+
+íeeni§iteris
+
+	1 VD1689_94 Joz 14:6
+	-----
+	1
+
+
 kegila
 
 	1 VD1689_94 Joz 15:44
@@ -12614,9 +12650,149 @@ kegila
 	1
 
 
-kewira
+íehniòa
 
-	1 VD1689_94 Joz 18:26
+	1 VD1689_94 Joz 12:4
+	1 VD1689_94 Joz 12:5
+	1 VD1689_94 Joz 13:10
+	1 VD1689_94 Joz 13:12
+	1 VD1689_94 Joz 13:21
+	2 VD1689_94 Joz 13:27
+	1 VD1689_94 Joz 13:30
+	1 VD1689_94 Joz 13:31
+	-----
+	9
+
+
+íehniòam
+
+	1 VD1689_94 Joz 2:2
+	1 VD1689_94 Joz 8:2
+	2 VD1689_94 Joz 9:10
+	2 VD1689_94 Joz 10:1
+	2 VD1689_94 Joz 10:28
+	2 VD1689_94 Joz 10:30
+	2 VD1689_94 Joz 10:39
+	-----
+	12
+
+
+íehniòeem
+
+	1 VD1689_94 Joz 2:10
+	1 VD1689_94 Joz 9:10
+	1 VD1689_94 Joz 10:0
+	1 VD1689_94 Joz 10:40
+	1 VD1689_94 Joz 11:2
+	1 VD1689_94 Joz 11:18
+	-----
+	6
+
+
+íehniòi
+
+	2 VD1689_94 Joz 5:1
+	1 VD1689_94 Joz 9:0
+	1 VD1689_94 Joz 9:1
+	1 VD1689_94 Joz 10:5
+	1 VD1689_94 Joz 10:6
+	1 VD1689_94 Joz 10:16
+	1 VD1689_94 Joz 10:17
+	1 VD1689_94 Joz 11:5
+	1 VD1689_94 Joz 12:1
+	1 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 12:24
+	-----
+	12
+
+
+íehniò§ch
+
+	1 VD1689_94 Joz 2:0
+	1 VD1689_94 Joz 2:3
+	1 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 10:0
+	1 VD1689_94 Joz 10:1
+	1 VD1689_94 Joz 10:3
+	5 VD1689_94 Joz 10:5
+	1 VD1689_94 Joz 10:33
+	1 VD1689_94 Joz 11:0
+	1 VD1689_94 Joz 11:1
+	1 VD1689_94 Joz 12:2
+	2 VD1689_94 Joz 12:9
+	2 VD1689_94 Joz 12:10
+	2 VD1689_94 Joz 12:11
+	2 VD1689_94 Joz 12:12
+	2 VD1689_94 Joz 12:13
+	2 VD1689_94 Joz 12:14
+	2 VD1689_94 Joz 12:15
+	2 VD1689_94 Joz 12:16
+	2 VD1689_94 Joz 12:17
+	2 VD1689_94 Joz 12:18
+	2 VD1689_94 Joz 12:19
+	2 VD1689_94 Joz 12:20
+	2 VD1689_94 Joz 12:21
+	2 VD1689_94 Joz 12:22
+	2 VD1689_94 Joz 12:23
+	1 VD1689_94 Joz 12:24
+	1 VD1689_94 Joz 24:9
+	-----
+	47
+
+
+íehniòu
+
+	1 VD1689_94 Joz 6:2
+	1 VD1689_94 Joz 8:1
+	1 VD1689_94 Joz 8:23
+	1 VD1689_94 Joz 8:29
+	4 VD1689_94 Joz 10:3
+	4 VD1689_94 Joz 10:23
+	1 VD1689_94 Joz 10:24
+	1 VD1689_94 Joz 10:28
+	1 VD1689_94 Joz 10:30
+	1 VD1689_94 Joz 10:37
+	1 VD1689_94 Joz 10:39
+	3 VD1689_94 Joz 11:1
+	2 VD1689_94 Joz 11:10
+	1 VD1689_94 Joz 11:12
+	1 VD1689_94 Joz 12:0
+	1 VD1689_94 Joz 13:21
+	-----
+	25
+
+
+íehniòu{íehninu}
+
+	1 VD1689_94 Joz 10:23
+	-----
+	1
+
+
+íehniòus
+
+	2 VD1689_94 Joz 10:0
+	1 VD1689_94 Joz 10:22
+	1 VD1689_94 Joz 10:23
+	1 VD1689_94 Joz 10:24
+	1 VD1689_94 Joz 10:42
+	1 VD1689_94 Joz 11:12
+	1 VD1689_94 Joz 11:17
+	1 VD1689_94 Joz 24:12
+	-----
+	9
+
+
+íehniúchkigs
+
+	1 VD1689_94 Joz 10:2
+	-----
+	1
+
+
+íehntòam
+
+	1 VD1689_94 Joz 8:2
 	-----
 	1
 
@@ -12628,6 +12804,13 @@ ke§ils
 	1
 
 
+keúúalons
+
+	1 VD1689_94 Joz 15:10
+	-----
+	1
+
+
 ke§ullots
 
 	1 VD1689_94 Joz 19:18
@@ -12635,9 +12818,9 @@ ke§ullots
 	1
 
 
-keúúalons
+kewira
 
-	1 VD1689_94 Joz 15:10
+	1 VD1689_94 Joz 18:26
 	-----
 	1
 
@@ -12695,16 +12878,16 @@ kiriat=arbu
 	3
 
 
-kiriat=baa#la
+kiriat=baa&las
 
-	1 VD1689_94 Joz 15:60
+	1 VD1689_94 Joz 18:14
 	-----
 	1
 
 
-kiriat=baa&las
+kiriat=baa#la
 
-	1 VD1689_94 Joz 18:14
+	1 VD1689_94 Joz 15:60
 	-----
 	1
 
@@ -12762,13 +12945,6 @@ kiriata&ima
 	1
 
 
-kitliúa
-
-	1 VD1689_94 Joz 15:40
-	-----
-	1
-
-
 ki§eons
 
 	1 VD1689_94 Joz 19:20
@@ -12786,6 +12962,13 @@ kiújons
 kiúlot=tahbora
 
 	1 VD1689_94 Joz 19:12
+	-----
+	1
+
+
+kitliúa
+
+	1 VD1689_94 Joz 15:40
 	-----
 	1
 
@@ -12860,16 +13043,16 @@ klaijumu
 	4
 
 
-klannijeetees
+klan~ijatees
 
-	1 VD1689_94 Joz 23:7
+	1 VD1689_94 Joz 23:16
 	-----
 	1
 
 
-klan~ijatees
+klannijeetees
 
-	1 VD1689_94 Joz 23:16
+	1 VD1689_94 Joz 23:7
 	-----
 	1
 
@@ -12910,13 +13093,6 @@ klauúijs
 	1
 
 
-klauúiju
-
-	1 VD1689_94 Joz 14:8
-	-----
-	1
-
-
 klauúijúchi
 
 	1 VD1689_94 Joz 1:17
@@ -12925,12 +13101,57 @@ klauúijúchi
 	2
 
 
+klauúiju
+
+	1 VD1689_94 Joz 14:8
+	-----
+	1
+
+
 klauúiúim
 
 	1 VD1689_94 Joz 1:17
 	1 VD1689_94 Joz 24:24
 	-----
 	2
+
+
+kïua
+
+	1 VD1689_94 Joz 2:11
+	1 VD1689_94 Joz 17:1
+	1 VD1689_94 Joz 17:13
+	1 VD1689_94 Joz 19:1
+	1 VD1689_94 Joz 19:24
+	1 VD1689_94 Joz 19:47
+	1 VD1689_94 Joz 21:5
+	1 VD1689_94 Joz 21:27
+	1 VD1689_94 Joz 21:34
+	1 VD1689_94 Joz 21:38
+	-----
+	10
+
+
+kïua&
+
+	1 VD1689_94 Joz 7:5
+	1 VD1689_94 Joz 17:1
+	-----
+	2
+
+
+kïuht
+
+	1 VD1689_94 Joz 6:17
+	-----
+	1
+
+
+kïuis
+
+	1 VD1689_94 Joz 24:32
+	-----
+	1
 
 
 kluúúu
@@ -13059,6 +13280,13 @@ kohpu
 	1
 
 
+kºa§to^s
+
+	1 VD1689_94 Joz 4:18
+	-----
+	1
+
+
 kreiúo
 
 	1 VD1689_94 Joz 1:7
@@ -13071,27 +13299,6 @@ kreiúo
 kriht
 
 	1 VD1689_94 Joz 6:0
-	-----
-	1
-
-
-kritte
-
-	1 VD1689_94 Joz 8:25
-	-----
-	1
-
-
-krittuúchi
-
-	1 VD1689_94 Joz 8:24
-	-----
-	1
-
-
-krittuúi
-
-	1 VD1689_94 Joz 2:9
 	-----
 	1
 
@@ -13117,6 +13324,27 @@ kri§tus
 	1 VD1689_94 Joz 19:15
 	-----
 	3
+
+
+kritte
+
+	1 VD1689_94 Joz 8:25
+	-----
+	1
+
+
+krittuúchi
+
+	1 VD1689_94 Joz 8:24
+	-----
+	1
+
+
+krittuúi
+
+	1 VD1689_94 Joz 2:9
+	-----
+	1
 
 
 krohd§ineezi
@@ -13352,6 +13580,18 @@ kungs
 	103
 
 
+kungú
+
+	1 VD1689_94 Joz 5:13
+	1 VD1689_94 Joz 7:7
+	1 VD1689_94 Joz 9:24
+	1 VD1689_94 Joz 10:12
+	1 VD1689_94 Joz 10:32
+	1 VD1689_94 Joz 17:4
+	-----
+	6
+
+
 kungu
 
 	1 VD1689_94 Joz 4:13
@@ -13374,18 +13614,6 @@ kungu
 	1 VD1689_94 Joz 24:23
 	-----
 	18
-
-
-kungú
-
-	1 VD1689_94 Joz 5:13
-	1 VD1689_94 Joz 7:7
-	1 VD1689_94 Joz 9:24
-	1 VD1689_94 Joz 10:12
-	1 VD1689_94 Joz 10:32
-	1 VD1689_94 Joz 17:4
-	-----
-	6
 
 
 kup
@@ -13440,23 +13668,6 @@ kurpes
 	3
 
 
-kurrenes
-
-	1 VD1689_94 Joz 2:4
-	1 VD1689_94 Joz 8:24
-	1 VD1689_94 Joz 9:8
-	1 VD1689_94 Joz 20:6
-	-----
-	4
-
-
-ku§tinajs
-
-	1 VD1689_94 Joz 10:21
-	-----
-	1
-
-
 kuººa^
 
 	1 VD1689_94 Joz 24:15
@@ -13469,6 +13680,16 @@ kuººam
 	1 VD1689_94 Joz 24:15
 	-----
 	1
+
+
+kurrenes
+
+	1 VD1689_94 Joz 2:4
+	1 VD1689_94 Joz 8:24
+	1 VD1689_94 Joz 9:8
+	1 VD1689_94 Joz 20:6
+	-----
+	4
 
 
 kuººu
@@ -13485,47 +13706,9 @@ kuºúch
 	1
 
 
-kïua
+ku§tinajs
 
-	1 VD1689_94 Joz 2:11
-	1 VD1689_94 Joz 17:1
-	1 VD1689_94 Joz 17:13
-	1 VD1689_94 Joz 19:1
-	1 VD1689_94 Joz 19:24
-	1 VD1689_94 Joz 19:47
-	1 VD1689_94 Joz 21:5
-	1 VD1689_94 Joz 21:27
-	1 VD1689_94 Joz 21:34
-	1 VD1689_94 Joz 21:38
-	-----
-	10
-
-
-kïua&
-
-	1 VD1689_94 Joz 7:5
-	1 VD1689_94 Joz 17:1
-	-----
-	2
-
-
-kïuht
-
-	1 VD1689_94 Joz 6:17
-	-----
-	1
-
-
-kïuis
-
-	1 VD1689_94 Joz 24:32
-	-----
-	1
-
-
-kºa§to^s
-
-	1 VD1689_94 Joz 4:18
+	1 VD1689_94 Joz 10:21
 	-----
 	1
 
@@ -13781,9 +13964,98 @@ lakum
 	1
 
 
+ïaudim
+
+	1 VD1689_94 Joz 1:6
+	1 VD1689_94 Joz 1:11
+	1 VD1689_94 Joz 3:0
+	1 VD1689_94 Joz 3:3
+	1 VD1689_94 Joz 3:5
+	1 VD1689_94 Joz 3:6
+	1 VD1689_94 Joz 4:2
+	1 VD1689_94 Joz 4:10
+	2 VD1689_94 Joz 6:5
+	1 VD1689_94 Joz 6:7
+	1 VD1689_94 Joz 6:8
+	1 VD1689_94 Joz 6:10
+	1 VD1689_94 Joz 6:16
+	1 VD1689_94 Joz 7:4
+	1 VD1689_94 Joz 8:0
+	1 VD1689_94 Joz 8:9
+	1 VD1689_94 Joz 8:10
+	1 VD1689_94 Joz 21:0
+	1 VD1689_94 Joz 24:0
+	1 VD1689_94 Joz 24:2
+	1 VD1689_94 Joz 24:17
+	1 VD1689_94 Joz 24:19
+	1 VD1689_94 Joz 24:22
+	1 VD1689_94 Joz 24:25
+	1 VD1689_94 Joz 24:27
+	-----
+	26
+
+
+ïaudis
+
+	1 VD1689_94 Joz 1:2
+	1 VD1689_94 Joz 3:14
+	1 VD1689_94 Joz 3:16
+	1 VD1689_94 Joz 3:17
+	1 VD1689_94 Joz 4:1
+	1 VD1689_94 Joz 4:10
+	1 VD1689_94 Joz 4:11
+	1 VD1689_94 Joz 4:19
+	1 VD1689_94 Joz 4:24
+	1 VD1689_94 Joz 5:0
+	1 VD1689_94 Joz 5:4
+	2 VD1689_94 Joz 5:5
+	1 VD1689_94 Joz 5:8
+	1 VD1689_94 Joz 6:0
+	4 VD1689_94 Joz 6:20
+	1 VD1689_94 Joz 7:0
+	2 VD1689_94 Joz 7:3
+	1 VD1689_94 Joz 7:7
+	1 VD1689_94 Joz 7:13
+	1 VD1689_94 Joz 8:1
+	1 VD1689_94 Joz 8:5
+	1 VD1689_94 Joz 8:10
+	1 VD1689_94 Joz 8:13
+	1 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 8:16
+	2 VD1689_94 Joz 8:20
+	1 VD1689_94 Joz 8:25
+	1 VD1689_94 Joz 8:33
+	1 VD1689_94 Joz 10:13
+	1 VD1689_94 Joz 10:21
+	1 VD1689_94 Joz 10:33
+	1 VD1689_94 Joz 11:4
+	1 VD1689_94 Joz 24:0
+	1 VD1689_94 Joz 24:16
+	1 VD1689_94 Joz 24:18
+	1 VD1689_94 Joz 24:21
+	1 VD1689_94 Joz 24:24
+	1 VD1689_94 Joz 24:28
+	-----
+	44
+
+
 lauka^
 
 	1 VD1689_94 Joz 8:24
+	-----
+	1
+
+
+ïaunu
+
+	1 VD1689_94 Joz 24:20
+	-----
+	1
+
+
+ïaunumu
+
+	1 VD1689_94 Joz 23:15
 	-----
 	1
 
@@ -13805,6 +14077,29 @@ laupijumu
 	1 VD1689_94 Joz 22:8
 	-----
 	5
+
+
+ïau§chu
+
+	1 VD1689_94 Joz 1:10
+	1 VD1689_94 Joz 3:0
+	1 VD1689_94 Joz 3:6
+	1 VD1689_94 Joz 3:14
+	1 VD1689_94 Joz 4:11
+	1 VD1689_94 Joz 7:5
+	1 VD1689_94 Joz 11:0
+	1 VD1689_94 Joz 14:8
+	1 VD1689_94 Joz 17:14
+	1 VD1689_94 Joz 17:17
+	-----
+	10
+
+
+ïau§hchu
+
+	1 VD1689_94 Joz 17:15
+	-----
+	1
 
 
 lebaots
@@ -13945,6 +14240,13 @@ leelus
 	3
 
 
+lee§enu
+
+	2 VD1689_94 Joz 19:47
+	-----
+	2
+
+
 leeta
 
 	1 VD1689_94 Joz 5:4
@@ -14029,11 +14331,18 @@ leezineeku
 	2
 
 
-lee§enu
+leìeri
 
-	2 VD1689_94 Joz 19:47
+	1 VD1689_94 Joz 18:9
 	-----
-	2
+	1
+
+
+lehìeºa
+
+	1 VD1689_94 Joz 3:2
+	-----
+	1
 
 
 lehìeri
@@ -14044,6 +14353,13 @@ lehìeri
 	1 VD1689_94 Joz 9:6
 	-----
 	4
+
+
+lehìeri`
+
+	2 VD1689_94 Joz 6:11
+	-----
+	2
 
 
 lehìeri^
@@ -14059,23 +14375,9 @@ lehìeri^
 	7
 
 
-lehìeri`
-
-	2 VD1689_94 Joz 6:11
-	-----
-	2
-
-
 lehìeris
 
 	1 VD1689_94 Joz 6:18
-	-----
-	1
-
-
-lehìeºa
-
-	1 VD1689_94 Joz 3:2
 	-----
 	1
 
@@ -14165,13 +14467,6 @@ lewja
 	3
 
 
-leìeri
-
-	1 VD1689_94 Joz 18:9
-	-----
-	1
-
-
 libanus
 
 	1 VD1689_94 Joz 12:7
@@ -14210,6 +14505,13 @@ libnu
 	3
 
 
+lihbaòa
+
+	1 VD1689_94 Joz 1:4
+	-----
+	1
+
+
 lihbanum
 
 	1 VD1689_94 Joz 9:1
@@ -14228,13 +14530,6 @@ lihbanus
 lihbanus=klaijuma
 
 	1 VD1689_94 Joz 11:17
-	-----
-	1
-
-
-lihbaòa
-
-	1 VD1689_94 Joz 1:4
 	-----
 	1
 
@@ -14468,6 +14763,22 @@ lohpus
 	4
 
 
+ïohti
+
+	1 VD1689_94 Joz 9:22
+	1 VD1689_94 Joz 9:24
+	1 VD1689_94 Joz 10:2
+	1 VD1689_94 Joz 10:20
+	1 VD1689_94 Joz 13:1
+	1 VD1689_94 Joz 22:5
+	1 VD1689_94 Joz 22:8
+	1 VD1689_94 Joz 22:20
+	1 VD1689_94 Joz 23:6
+	1 VD1689_94 Joz 23:11
+	-----
+	10
+
+
 luhd§
 
 	1 VD1689_94 Joz 2:0
@@ -14482,16 +14793,16 @@ luhd§ahs
 	1
 
 
-luhgtohs
+luhgúchanu
 
-	1 VD1689_94 Joz 15:18
+	1 VD1689_94 Joz 10:0
 	-----
 	1
 
 
-luhgúchanu
+luhgtohs
 
-	1 VD1689_94 Joz 10:0
+	1 VD1689_94 Joz 15:18
 	-----
 	1
 
@@ -14518,49 +14829,6 @@ luúu
 	2
 
 
-maa#la
-
-	1 VD1689_94 Joz 17:3
-	-----
-	1
-
-
-maa#lale
-
-	1 VD1689_94 Joz 21:35
-	-----
-	1
-
-
-maa#rats
-
-	1 VD1689_94 Joz 15:59
-	-----
-	1
-
-
-maa&katiteºu
-
-	1 VD1689_94 Joz 12:5
-	-----
-	1
-
-
-maa&na#im
-
-	1 VD1689_94 Joz 21:39
-	-----
-	1
-
-
-maa&na&im
-
-	1 VD1689_94 Joz 13:26
-	1 VD1689_94 Joz 13:30
-	-----
-	2
-
-
 maa`katiteºu
 
 	1 VD1689_94 Joz 13:11
@@ -14578,6 +14846,49 @@ maa`katiteºus
 maa`kats
 
 	1 VD1689_94 Joz 13:13
+	-----
+	1
+
+
+maa&katiteºu
+
+	1 VD1689_94 Joz 12:5
+	-----
+	1
+
+
+maa&na&im
+
+	1 VD1689_94 Joz 13:26
+	1 VD1689_94 Joz 13:30
+	-----
+	2
+
+
+maa&na#im
+
+	1 VD1689_94 Joz 21:39
+	-----
+	1
+
+
+maa#la
+
+	1 VD1689_94 Joz 17:3
+	-----
+	1
+
+
+maa#lale
+
+	1 VD1689_94 Joz 21:35
+	-----
+	1
+
+
+maa#rats
+
+	1 VD1689_94 Joz 15:59
 	-----
 	1
 
@@ -14619,15 +14930,6 @@ mahjo
 	1
 
 
-mahti
-
-	1 VD1689_94 Joz 2:13
-	1 VD1689_94 Joz 2:18
-	1 VD1689_94 Joz 6:23
-	-----
-	3
-
-
 mahúas
 
 	1 VD1689_94 Joz 2:13
@@ -14635,11 +14937,13 @@ mahúas
 	1
 
 
-maitaht
+mahti
 
-	1 VD1689_94 Joz 22:33
+	1 VD1689_94 Joz 2:13
+	1 VD1689_94 Joz 2:18
+	1 VD1689_94 Joz 6:23
 	-----
-	1
+	3
 
 
 mai§e
@@ -14667,6 +14971,13 @@ mai§i
 maiúus
 
 	1 VD1689_94 Joz 9:4
+	-----
+	1
+
+
+maitaht
+
+	1 VD1689_94 Joz 22:33
 	-----
 	1
 
@@ -14795,6 +15106,20 @@ man
 	1 VD1689_94 Joz 18:6
 	-----
 	13
+
+
+man~am
+
+	1 VD1689_94 Joz 14:8
+	-----
+	1
+
+
+man~im
+
+	1 VD1689_94 Joz 10:22
+	-----
+	1
 
 
 manai
@@ -14990,20 +15315,6 @@ mantu
 	1
 
 
-man~am
-
-	1 VD1689_94 Joz 14:8
-	-----
-	1
-
-
-man~im
-
-	1 VD1689_94 Joz 10:22
-	-----
-	1
-
-
 maons
 
 	1 VD1689_94 Joz 15:55
@@ -15021,29 +15332,6 @@ marealu
 mare§a
 
 	1 VD1689_94 Joz 15:44
-	-----
-	1
-
-
-mauka
-
-	1 VD1689_94 Joz 2:0
-	1 VD1689_94 Joz 2:1
-	1 VD1689_94 Joz 6:17
-	-----
-	3
-
-
-maukas
-
-	1 VD1689_94 Joz 6:22
-	-----
-	1
-
-
-mauku
-
-	1 VD1689_94 Joz 6:25
 	-----
 	1
 
@@ -15067,6 +15355,29 @@ ma§aka
 ma§aku
 
 	1 VD1689_94 Joz 6:26
+	-----
+	1
+
+
+mauka
+
+	1 VD1689_94 Joz 2:0
+	1 VD1689_94 Joz 2:1
+	1 VD1689_94 Joz 6:17
+	-----
+	3
+
+
+maukas
+
+	1 VD1689_94 Joz 6:22
+	-----
+	1
+
+
+mauku
+
+	1 VD1689_94 Joz 6:25
 	-----
 	1
 
@@ -15112,6 +15423,13 @@ meeru
 	7
 
 
+meeúa
+
+	1 VD1689_94 Joz 8:29
+	-----
+	1
+
+
 mee§tas
 
 	1 VD1689_94 Joz 13:30
@@ -15122,13 +15440,6 @@ mee§tas
 mee§tu
 
 	1 VD1689_94 Joz 15:0
-	-----
-	1
-
-
-meeúa
-
-	1 VD1689_94 Joz 8:29
 	-----
 	1
 
@@ -15168,16 +15479,16 @@ mehnes
 	3
 
 
-mehneúi^
+mehneúi`
 
-	1 VD1689_94 Joz 4:19
+	1 VD1689_94 Joz 5:10
 	-----
 	1
 
 
-mehneúi`
+mehneúi^
 
-	1 VD1689_94 Joz 5:10
+	1 VD1689_94 Joz 4:19
 	-----
 	1
 
@@ -15187,6 +15498,16 @@ mehra
 	1 VD1689_94 Joz 3:4
 	-----
 	1
+
+
+mehºa=aukli
+
+	1 VD1689_94 Joz 17:5
+	1 VD1689_94 Joz 17:14
+	1 VD1689_94 Joz 19:9
+	1 VD1689_94 Joz 19:29
+	-----
+	4
 
 
 mehru
@@ -15253,16 +15574,6 @@ mehteli
 	2
 
 
-mehºa=aukli
-
-	1 VD1689_94 Joz 17:5
-	1 VD1689_94 Joz 17:14
-	1 VD1689_94 Joz 19:9
-	1 VD1689_94 Joz 19:29
-	-----
-	4
-
-
 meitas
 
 	1 VD1689_94 Joz 7:24
@@ -15326,13 +15637,6 @@ mepaa&ta
 	1
 
 
-merariteºeem
-
-	1 VD1689_94 Joz 21:0
-	-----
-	1
-
-
 meraºa
 
 	1 VD1689_94 Joz 21:7
@@ -15342,43 +15646,19 @@ meraºa
 	3
 
 
+merariteºeem
+
+	1 VD1689_94 Joz 21:0
+	-----
+	1
+
+
 meroma
 
 	1 VD1689_94 Joz 11:5
 	1 VD1689_94 Joz 11:7
 	-----
 	2
-
-
-mettahs
-
-	1 VD1689_94 Joz 2:5
-	1 VD1689_94 Joz 6:15
-	1 VD1689_94 Joz 10:0
-	-----
-	3
-
-
-mette
-
-	1 VD1689_94 Joz 8:29
-	-----
-	1
-
-
-mettehs
-
-	1 VD1689_94 Joz 5:14
-	1 VD1689_94 Joz 7:6
-	-----
-	2
-
-
-mewaa&t
-
-	1 VD1689_94 Joz 13:18
-	-----
-	1
 
 
 me§ch
@@ -15441,6 +15721,37 @@ meúloúchu
 meúlus
 
 	1 VD1689_94 Joz 16:0
+	-----
+	1
+
+
+mettahs
+
+	1 VD1689_94 Joz 2:5
+	1 VD1689_94 Joz 6:15
+	1 VD1689_94 Joz 10:0
+	-----
+	3
+
+
+mette
+
+	1 VD1689_94 Joz 8:29
+	-----
+	1
+
+
+mettehs
+
+	1 VD1689_94 Joz 5:14
+	1 VD1689_94 Joz 7:6
+	-----
+	2
+
+
+mewaa&t
+
+	1 VD1689_94 Joz 13:18
 	-----
 	1
 
@@ -15552,9 +15863,9 @@ minnis
 	1
 
 
-mirt
+mirúchanas
 
-	1 VD1689_94 Joz 1:18
+	1 VD1689_94 Joz 1:1
 	-----
 	1
 
@@ -15567,9 +15878,23 @@ mir§t
 	2
 
 
-mirúchanas
+mirt
 
-	1 VD1689_94 Joz 1:1
+	1 VD1689_94 Joz 1:18
+	-----
+	1
+
+
+mi§eala
+
+	1 VD1689_94 Joz 19:26
+	-----
+	1
+
+
+mi§eale
+
+	1 VD1689_94 Joz 21:30
 	-----
 	1
 
@@ -15606,20 +15931,6 @@ mizpas
 	2
 
 
-mi§eala
-
-	1 VD1689_94 Joz 19:26
-	-----
-	1
-
-
-mi§eale
-
-	1 VD1689_94 Joz 21:30
-	-----
-	1
-
-
 moaba
 
 	1 VD1689_94 Joz 13:32
@@ -15630,20 +15941,6 @@ moaba
 moabiteºu
 
 	1 VD1689_94 Joz 24:9
-	-----
-	1
-
-
-mohziba
-
-	1 VD1689_94 Joz 22:17
-	-----
-	1
-
-
-mohziju
-
-	1 VD1689_94 Joz 24:5
 	-----
 	1
 
@@ -15719,6 +16016,20 @@ moh§us
 	37
 
 
+mohziba
+
+	1 VD1689_94 Joz 22:17
+	-----
+	1
+
+
+mohziju
+
+	1 VD1689_94 Joz 24:5
+	-----
+	1
+
+
 molada
 
 	1 VD1689_94 Joz 15:26
@@ -15761,6 +16072,14 @@ muhri
 	2
 
 
+muhºi
+
+	1 VD1689_94 Joz 6:0
+	1 VD1689_94 Joz 6:5
+	-----
+	2
+
+
 muhris
 
 	1 VD1689_94 Joz 6:20
@@ -15779,30 +16098,6 @@ muhs
 	2 VD1689_94 Joz 24:17
 	-----
 	9
-
-
-muh§cha^
-
-	1 VD1689_94 Joz 4:14
-	-----
-	1
-
-
-muh§cham
-
-	1 VD1689_94 Joz 4:7
-	1 VD1689_94 Joz 8:28
-	1 VD1689_94 Joz 14:9
-	-----
-	3
-
-
-muhºi
-
-	1 VD1689_94 Joz 6:0
-	1 VD1689_94 Joz 6:5
-	-----
-	2
 
 
 muhúa
@@ -15833,6 +16128,22 @@ muhúas
 	1 VD1689_94 Joz 9:24
 	-----
 	4
+
+
+muh§cha^
+
+	1 VD1689_94 Joz 4:14
+	-----
+	1
+
+
+muh§cham
+
+	1 VD1689_94 Joz 4:7
+	1 VD1689_94 Joz 8:28
+	1 VD1689_94 Joz 14:9
+	-----
+	3
 
 
 muhúeem
@@ -15949,16 +16260,16 @@ mutti
 	2
 
 
-naa#le
+naa&ratu
 
-	1 VD1689_94 Joz 19:15
+	1 VD1689_94 Joz 16:7
 	-----
 	1
 
 
-naa&ratu
+naa#le
 
-	1 VD1689_94 Joz 16:7
+	1 VD1689_94 Joz 19:15
 	-----
 	1
 
@@ -16122,6 +16433,13 @@ nakti^
 	4
 
 
+nam~eem
+
+	1 VD1689_94 Joz 9:12
+	-----
+	1
+
+
 namma
 
 	1 VD1689_94 Joz 2:12
@@ -16165,18 +16483,19 @@ nams
 	3
 
 
-nam~eem
-
-	1 VD1689_94 Joz 9:12
-	-----
-	1
-
-
 naora
 
 	1 VD1689_94 Joz 24:2
 	-----
 	1
+
+
+na§chus
+
+	1 VD1689_94 Joz 5:2
+	1 VD1689_94 Joz 5:3
+	-----
+	2
 
 
 natonu
@@ -16200,13 +16519,6 @@ nawot=dora
 	1
 
 
-nawtalus
-
-	1 VD1689_94 Joz 19:0
-	-----
-	1
-
-
 nawtaïa
 
 	1 VD1689_94 Joz 19:32
@@ -16218,12 +16530,11 @@ nawtaïa
 	5
 
 
-na§chus
+nawtalus
 
-	1 VD1689_94 Joz 5:2
-	1 VD1689_94 Joz 5:3
+	1 VD1689_94 Joz 19:0
 	-----
-	2
+	1
 
 
 ne
@@ -16386,9 +16697,56 @@ needru=juhºas
 	1
 
 
+neììi
+
+	1 VD1689_94 Joz 1:9
+	1 VD1689_94 Joz 10:13
+	1 VD1689_94 Joz 22:20
+	-----
+	3
+
+
 negie#lu
 
 	1 VD1689_94 Joz 19:27
+	-----
+	1
+
+
+òehme
+
+	1 VD1689_94 Joz 7:1
+	1 VD1689_94 Joz 7:23
+	1 VD1689_94 Joz 7:24
+	1 VD1689_94 Joz 8:12
+	1 VD1689_94 Joz 9:4
+	1 VD1689_94 Joz 9:14
+	1 VD1689_94 Joz 24:26
+	-----
+	7
+
+
+òehmu
+
+	1 VD1689_94 Joz 7:21
+	1 VD1689_94 Joz 24:3
+	-----
+	2
+
+
+òehmuúchi
+
+	1 VD1689_94 Joz 4:20
+	1 VD1689_94 Joz 7:11
+	1 VD1689_94 Joz 9:12
+	1 VD1689_94 Joz 18:7
+	-----
+	4
+
+
+òehmuúi
+
+	1 VD1689_94 Joz 2:4
 	-----
 	1
 
@@ -16442,6 +16800,46 @@ nekebes
 	1
 
 
+òemdami
+
+	1 VD1689_94 Joz 6:18
+	-----
+	1
+
+
+òemm
+
+	1 VD1689_94 Joz 7:0
+	1 VD1689_94 Joz 8:1
+	-----
+	2
+
+
+òemmeet
+
+	1 VD1689_94 Joz 3:12
+	1 VD1689_94 Joz 9:11
+	1 VD1689_94 Joz 22:19
+	-----
+	3
+
+
+òemmeetees
+
+	1 VD1689_94 Joz 4:2
+	1 VD1689_94 Joz 4:3
+	-----
+	2
+
+
+òemt
+
+	1 VD1689_94 Joz 8:2
+	1 VD1689_94 Joz 20:4
+	-----
+	2
+
+
 neno§eed§igi
 
 	1 VD1689_94 Joz 2:17
@@ -16454,6 +16852,77 @@ neno§eed§igi
 neraud§etas
 
 	1 VD1689_94 Joz 5:11
+	-----
+	1
+
+
+neúchíih§tu
+
+	1 VD1689_94 Joz 22:19
+	-----
+	1
+
+
+ne§dami
+
+	1 VD1689_94 Joz 6:8
+	-----
+	1
+
+
+ne§innadams
+
+	1 VD1689_94 Joz 20:3
+	1 VD1689_94 Joz 20:5
+	-----
+	2
+
+
+neús
+
+	1 VD1689_94 Joz 3:8
+	1 VD1689_94 Joz 3:13
+	1 VD1689_94 Joz 4:16
+	1 VD1689_94 Joz 6:4
+	1 VD1689_94 Joz 6:6
+	-----
+	5
+
+
+neúúam
+
+	1 VD1689_94 Joz 3:3
+	-----
+	1
+
+
+neúúe
+
+	1 VD1689_94 Joz 3:14
+	2 VD1689_94 Joz 3:15
+	1 VD1689_94 Joz 3:17
+	1 VD1689_94 Joz 4:8
+	1 VD1689_94 Joz 4:9
+	1 VD1689_94 Joz 4:10
+	1 VD1689_94 Joz 4:18
+	1 VD1689_94 Joz 6:12
+	1 VD1689_94 Joz 6:13
+	1 VD1689_94 Joz 8:33
+	-----
+	11
+
+
+neúúeet
+
+	1 VD1689_94 Joz 4:3
+	1 VD1689_94 Joz 6:6
+	-----
+	2
+
+
+ne§ts
+
+	1 VD1689_94 Joz 3:0
 	-----
 	1
 
@@ -16508,86 +16977,6 @@ nezibe
 	1 VD1689_94 Joz 15:43
 	-----
 	1
-
-
-ne§dami
-
-	1 VD1689_94 Joz 6:8
-	-----
-	1
-
-
-ne§innadams
-
-	1 VD1689_94 Joz 20:3
-	1 VD1689_94 Joz 20:5
-	-----
-	2
-
-
-ne§ts
-
-	1 VD1689_94 Joz 3:0
-	-----
-	1
-
-
-neììi
-
-	1 VD1689_94 Joz 1:9
-	1 VD1689_94 Joz 10:13
-	1 VD1689_94 Joz 22:20
-	-----
-	3
-
-
-neúchíih§tu
-
-	1 VD1689_94 Joz 22:19
-	-----
-	1
-
-
-neús
-
-	1 VD1689_94 Joz 3:8
-	1 VD1689_94 Joz 3:13
-	1 VD1689_94 Joz 4:16
-	1 VD1689_94 Joz 6:4
-	1 VD1689_94 Joz 6:6
-	-----
-	5
-
-
-neúúam
-
-	1 VD1689_94 Joz 3:3
-	-----
-	1
-
-
-neúúe
-
-	1 VD1689_94 Joz 3:14
-	2 VD1689_94 Joz 3:15
-	1 VD1689_94 Joz 3:17
-	1 VD1689_94 Joz 4:8
-	1 VD1689_94 Joz 4:9
-	1 VD1689_94 Joz 4:10
-	1 VD1689_94 Joz 4:18
-	1 VD1689_94 Joz 6:12
-	1 VD1689_94 Joz 6:13
-	1 VD1689_94 Joz 8:33
-	-----
-	11
-
-
-neúúeet
-
-	1 VD1689_94 Joz 4:3
-	1 VD1689_94 Joz 6:6
-	-----
-	2
 
 
 nib§ans
@@ -16852,6 +17241,20 @@ no=eedami
 	1
 
 
+no=eeúchanas
+
+	1 VD1689_94 Joz 23:4
+	-----
+	1
+
+
+no=eeúchanu
+
+	1 VD1689_94 Joz 1:4
+	-----
+	1
+
+
 no=eet
 
 	2 VD1689_94 Joz 7:3
@@ -16866,20 +17269,6 @@ no=eet
 no=eetat
 
 	1 VD1689_94 Joz 23:7
-	-----
-	1
-
-
-no=eeúchanas
-
-	1 VD1689_94 Joz 23:4
-	-----
-	1
-
-
-no=eeúchanu
-
-	1 VD1689_94 Joz 1:4
 	-----
 	1
 
@@ -17042,6 +17431,13 @@ nolahdehts
 	1
 
 
+nolahdeúchanas
+
+	1 VD1689_94 Joz 8:34
+	-----
+	1
+
+
 nolahdeti
 
 	1 VD1689_94 Joz 9:0
@@ -17053,13 +17449,6 @@ nolahdeti
 nolahdetu
 
 	1 VD1689_94 Joz 24:9
-	-----
-	1
-
-
-nolahdeúchanas
-
-	1 VD1689_94 Joz 8:34
 	-----
 	1
 
@@ -17149,14 +17538,6 @@ nomehtaja
 	1
 
 
-nomette
-
-	1 VD1689_94 Joz 10:11
-	1 VD1689_94 Joz 10:27
-	-----
-	2
-
-
 nomeúlojs
 
 	1 VD1689_94 Joz 17:14
@@ -17194,6 +17575,14 @@ nomeúlotu
 	1 VD1689_94 Joz 17:4
 	-----
 	1
+
+
+nomette
+
+	1 VD1689_94 Joz 10:11
+	1 VD1689_94 Joz 10:27
+	-----
+	2
 
 
 nomirre
@@ -17255,9 +17644,114 @@ nonejauúchi
 	1
 
 
+noòemta
+
+	1 VD1689_94 Joz 8:29
+	-----
+	1
+
+
+noòemti
+
+	1 VD1689_94 Joz 10:27
+	-----
+	1
+
+
 norak§tu
 
 	1 VD1689_94 Joz 8:32
+	-----
+	1
+
+
+noúaukts
+
+	1 VD1689_94 Joz 5:9
+	1 VD1689_94 Joz 7:26
+	-----
+	2
+
+
+noúauze
+
+	1 VD1689_94 Joz 19:47
+	1 VD1689_94 Joz 21:9
+	1 VD1689_94 Joz 22:34
+	-----
+	3
+
+
+noúazzita^
+
+	1 VD1689_94 Joz 8:14
+	-----
+	1
+
+
+no§eed§ahs
+
+	1 VD1689_94 Joz 7:1
+	-----
+	1
+
+
+no§eed§ees
+
+	1 VD1689_94 Joz 22:20
+	-----
+	1
+
+
+no§eed§igs
+
+	1 VD1689_94 Joz 7:0
+	-----
+	1
+
+
+no§eeguma
+
+	1 VD1689_94 Joz 22:20
+	-----
+	1
+
+
+no§eegums
+
+	1 VD1689_94 Joz 22:16
+	1 VD1689_94 Joz 22:17
+	-----
+	2
+
+
+no§eegumu
+
+	1 VD1689_94 Joz 22:22
+	1 VD1689_94 Joz 22:31
+	-----
+	2
+
+
+no§eeguúchees
+
+	1 VD1689_94 Joz 7:0
+	1 VD1689_94 Joz 22:16
+	1 VD1689_94 Joz 22:31
+	-----
+	3
+
+
+noúkrehje
+
+	1 VD1689_94 Joz 3:16
+	-----
+	1
+
+
+noúuhtija
+
+	1 VD1689_94 Joz 24:9
 	-----
 	1
 
@@ -17322,111 +17816,6 @@ notizzis
 notizzis{notizzi#s}
 
 	1 VD1689_94 Joz 2:23
-	-----
-	1
-
-
-no§eed§ahs
-
-	1 VD1689_94 Joz 7:1
-	-----
-	1
-
-
-no§eed§ees
-
-	1 VD1689_94 Joz 22:20
-	-----
-	1
-
-
-no§eed§igs
-
-	1 VD1689_94 Joz 7:0
-	-----
-	1
-
-
-no§eeguma
-
-	1 VD1689_94 Joz 22:20
-	-----
-	1
-
-
-no§eegums
-
-	1 VD1689_94 Joz 22:16
-	1 VD1689_94 Joz 22:17
-	-----
-	2
-
-
-no§eegumu
-
-	1 VD1689_94 Joz 22:22
-	1 VD1689_94 Joz 22:31
-	-----
-	2
-
-
-no§eeguúchees
-
-	1 VD1689_94 Joz 7:0
-	1 VD1689_94 Joz 22:16
-	1 VD1689_94 Joz 22:31
-	-----
-	3
-
-
-noòemta
-
-	1 VD1689_94 Joz 8:29
-	-----
-	1
-
-
-noòemti
-
-	1 VD1689_94 Joz 10:27
-	-----
-	1
-
-
-noúaukts
-
-	1 VD1689_94 Joz 5:9
-	1 VD1689_94 Joz 7:26
-	-----
-	2
-
-
-noúauze
-
-	1 VD1689_94 Joz 19:47
-	1 VD1689_94 Joz 21:9
-	1 VD1689_94 Joz 22:34
-	-----
-	3
-
-
-noúazzita^
-
-	1 VD1689_94 Joz 8:14
-	-----
-	1
-
-
-noúkrehje
-
-	1 VD1689_94 Joz 3:16
-	-----
-	1
-
-
-noúuhtija
-
-	1 VD1689_94 Joz 24:9
 	-----
 	1
 
@@ -17527,6 +17916,13 @@ ohlons
 	1
 
 
+oh§olu
+
+	1 VD1689_94 Joz 24:26
+	-----
+	1
+
+
 ohtra
 
 	1 VD1689_94 Joz 19:1
@@ -17573,13 +17969,6 @@ ohtruteek
 	1
 
 
-oh§olu
-
-	1 VD1689_94 Joz 24:26
-	-----
-	1
-
-
 olonu
 
 	1 VD1689_94 Joz 21:15
@@ -17616,6 +18005,13 @@ ormas
 	1
 
 
+oúúu
+
+	1 VD1689_94 Joz 19:29
+	-----
+	1
+
+
 otmie#ls
 
 	1 VD1689_94 Joz 15:17
@@ -17640,13 +18036,6 @@ owni
 owra
 
 	1 VD1689_94 Joz 18:23
-	-----
-	1
-
-
-oúúu
-
-	1 VD1689_94 Joz 19:29
 	-----
 	1
 
@@ -17701,16 +18090,16 @@ pabeiguúchi
 	4
 
 
-padewees
+padeúmits
 
-	1 VD1689_94 Joz 11:19
+	1 VD1689_94 Joz 21:6
 	-----
 	1
 
 
-padeúmits
+padewees
 
-	1 VD1689_94 Joz 21:6
+	1 VD1689_94 Joz 11:19
 	-----
 	1
 
@@ -17736,16 +18125,16 @@ paduúúehs
 	1
 
 
-paganu
+pagaòeem
 
-	1 VD1689_94 Joz 12:23
+	1 VD1689_94 Joz 23:0
 	-----
 	1
 
 
-pagaòeem
+paganu
 
-	1 VD1689_94 Joz 23:0
+	1 VD1689_94 Joz 12:23
 	-----
 	1
 
@@ -17863,21 +18252,6 @@ pahrkahpúchanas
 	1
 
 
-pahrzehlahs
-
-	1 VD1689_94 Joz 3:1
-	1 VD1689_94 Joz 10:29
-	-----
-	2
-
-
-pahrzellamai
-
-	1 VD1689_94 Joz 2:7
-	-----
-	1
-
-
 pahr§taiga
 
 	1 VD1689_94 Joz 18:4
@@ -17895,6 +18269,21 @@ pahr§taigaja
 pahr§taigajt
 
 	1 VD1689_94 Joz 18:8
+	-----
+	1
+
+
+pahrzehlahs
+
+	1 VD1689_94 Joz 3:1
+	1 VD1689_94 Joz 10:29
+	-----
+	2
+
+
+pahrzellamai
+
+	1 VD1689_94 Joz 2:7
 	-----
 	1
 
@@ -17937,13 +18326,6 @@ pakalno^s
 pakalnu
 
 	1 VD1689_94 Joz 5:3
-	-----
-	1
-
-
-pakkalejus
-
-	1 VD1689_94 Joz 10:19
 	-----
 	1
 
@@ -18004,9 +18386,9 @@ pakkaïd§innuúchees
 	1
 
 
-paklau§ihs
+pakkalejus
 
-	1 VD1689_94 Joz 23:0
+	1 VD1689_94 Joz 10:19
 	-----
 	1
 
@@ -18014,6 +18396,13 @@ paklau§ihs
 paklauúigi
 
 	1 VD1689_94 Joz 5:6
+	-----
+	1
+
+
+paklau§ihs
+
+	1 VD1689_94 Joz 23:0
 	-----
 	1
 
@@ -18127,6 +18516,13 @@ palikkuúi
 	1
 
 
+palikúeet
+
+	1 VD1689_94 Joz 4:3
+	-----
+	1
+
+
 palikt
 
 	1 VD1689_94 Joz 6:23
@@ -18139,13 +18535,6 @@ palikt
 paliktu
 
 	1 VD1689_94 Joz 8:22
-	-----
-	1
-
-
-palikúeet
-
-	1 VD1689_94 Joz 4:3
 	-----
 	1
 
@@ -18178,6 +18567,20 @@ pamattu
 	1
 
 
+pame§t
+
+	1 VD1689_94 Joz 2:13
+	-----
+	1
+
+
+pame§ta
+
+	1 VD1689_94 Joz 6:0
+	-----
+	1
+
+
 pamette
 
 	1 VD1689_94 Joz 6:25
@@ -18189,20 +18592,6 @@ pamette
 pamettiúchu
 
 	1 VD1689_94 Joz 1:5
-	-----
-	1
-
-
-pame§t
-
-	1 VD1689_94 Joz 2:13
-	-----
-	1
-
-
-pame§ta
-
-	1 VD1689_94 Joz 6:0
 	-----
 	1
 
@@ -18289,6 +18678,191 @@ parei§i
 	3
 
 
+paúargajs
+
+	1 VD1689_94 Joz 24:17
+	-----
+	1
+
+
+paúaules
+
+	1 VD1689_94 Joz 3:11
+	1 VD1689_94 Joz 3:13
+	1 VD1689_94 Joz 23:14
+	-----
+	3
+
+
+paúcha
+
+	2 VD1689_94 Joz 2:19
+	-----
+	2
+
+
+paúcha^
+
+	1 VD1689_94 Joz 4:0
+	1 VD1689_94 Joz 4:9
+	1 VD1689_94 Joz 5:10
+	1 VD1689_94 Joz 5:11
+	1 VD1689_94 Joz 6:0
+	1 VD1689_94 Joz 10:28
+	1 VD1689_94 Joz 10:35
+	-----
+	7
+
+
+paúchai
+
+	1 VD1689_94 Joz 7:26
+	1 VD1689_94 Joz 8:28
+	1 VD1689_94 Joz 8:29
+	1 VD1689_94 Joz 9:27
+	1 VD1689_94 Joz 10:27
+	1 VD1689_94 Joz 14:14
+	1 VD1689_94 Joz 15:63
+	1 VD1689_94 Joz 22:3
+	1 VD1689_94 Joz 22:17
+	-----
+	9
+
+
+paúcheem
+
+	1 VD1689_94 Joz 24:22
+	-----
+	1
+
+
+paúchi
+
+	1 VD1689_94 Joz 6:18
+	-----
+	1
+
+
+paúcho
+
+	1 VD1689_94 Joz 10:0
+	-----
+	1
+
+
+paúchu
+
+	1 VD1689_94 Joz 6:15
+	-----
+	1
+
+
+pa§kubbina
+
+	1 VD1689_94 Joz 24:0
+	-----
+	1
+
+
+paúlehptas
+
+	1 VD1689_94 Joz 7:21
+	-----
+	1
+
+
+paúlehptees
+
+	1 VD1689_94 Joz 8:9
+	-----
+	1
+
+
+paúlehpuúi
+
+	1 VD1689_94 Joz 2:4
+	1 VD1689_94 Joz 2:6
+	1 VD1689_94 Joz 6:17
+	1 VD1689_94 Joz 6:25
+	-----
+	4
+
+
+paúleppeni
+
+	1 VD1689_94 Joz 2:1
+	-----
+	1
+
+
+paúleppi
+
+	1 VD1689_94 Joz 7:19
+	-----
+	1
+
+
+paúluddinahts
+
+	1 VD1689_94 Joz 10:17
+	-----
+	1
+
+
+paúúa=úwehtku
+
+	1 VD1689_94 Joz 5:11
+	-----
+	1
+
+
+paúúa=úwehtkus
+
+	1 VD1689_94 Joz 5:0
+	1 VD1689_94 Joz 5:10
+	-----
+	2
+
+
+pa§tahw
+
+	1 VD1689_94 Joz 10:0
+	-----
+	1
+
+
+pa§tahwehs
+
+	1 VD1689_94 Joz 1:5
+	-----
+	1
+
+
+pa§tahweht
+
+	1 VD1689_94 Joz 7:12
+	1 VD1689_94 Joz 7:13
+	1 VD1689_94 Joz 10:8
+	-----
+	3
+
+
+pa§tahweja
+
+	1 VD1689_94 Joz 4:3
+	1 VD1689_94 Joz 10:13
+	1 VD1689_94 Joz 21:44
+	-----
+	3
+
+
+pa§tahwejs
+
+	1 VD1689_94 Joz 23:9
+	-----
+	1
+
+
 pateikúchanas=uppuºeem
 
 	1 VD1689_94 Joz 22:27
@@ -18354,6 +18928,13 @@ patwerumu
 pawehl
 
 	1 VD1689_94 Joz 4:16
+	-----
+	1
+
+
+pawehï
+
+	1 VD1689_94 Joz 20:0
 	-----
 	1
 
@@ -18448,13 +19029,6 @@ pawehleúi
 	1
 
 
-pawehï
-
-	1 VD1689_94 Joz 20:0
-	-----
-	1
-
-
 pazehle
 
 	1 VD1689_94 Joz 4:8
@@ -18467,191 +19041,6 @@ pazelleet
 
 	1 VD1689_94 Joz 3:6
 	1 VD1689_94 Joz 4:5
-	-----
-	2
-
-
-pa§kubbina
-
-	1 VD1689_94 Joz 24:0
-	-----
-	1
-
-
-pa§tahw
-
-	1 VD1689_94 Joz 10:0
-	-----
-	1
-
-
-pa§tahwehs
-
-	1 VD1689_94 Joz 1:5
-	-----
-	1
-
-
-pa§tahweht
-
-	1 VD1689_94 Joz 7:12
-	1 VD1689_94 Joz 7:13
-	1 VD1689_94 Joz 10:8
-	-----
-	3
-
-
-pa§tahweja
-
-	1 VD1689_94 Joz 4:3
-	1 VD1689_94 Joz 10:13
-	1 VD1689_94 Joz 21:44
-	-----
-	3
-
-
-pa§tahwejs
-
-	1 VD1689_94 Joz 23:9
-	-----
-	1
-
-
-paúargajs
-
-	1 VD1689_94 Joz 24:17
-	-----
-	1
-
-
-paúaules
-
-	1 VD1689_94 Joz 3:11
-	1 VD1689_94 Joz 3:13
-	1 VD1689_94 Joz 23:14
-	-----
-	3
-
-
-paúcha
-
-	2 VD1689_94 Joz 2:19
-	-----
-	2
-
-
-paúcha^
-
-	1 VD1689_94 Joz 4:0
-	1 VD1689_94 Joz 4:9
-	1 VD1689_94 Joz 5:10
-	1 VD1689_94 Joz 5:11
-	1 VD1689_94 Joz 6:0
-	1 VD1689_94 Joz 10:28
-	1 VD1689_94 Joz 10:35
-	-----
-	7
-
-
-paúchai
-
-	1 VD1689_94 Joz 7:26
-	1 VD1689_94 Joz 8:28
-	1 VD1689_94 Joz 8:29
-	1 VD1689_94 Joz 9:27
-	1 VD1689_94 Joz 10:27
-	1 VD1689_94 Joz 14:14
-	1 VD1689_94 Joz 15:63
-	1 VD1689_94 Joz 22:3
-	1 VD1689_94 Joz 22:17
-	-----
-	9
-
-
-paúcheem
-
-	1 VD1689_94 Joz 24:22
-	-----
-	1
-
-
-paúchi
-
-	1 VD1689_94 Joz 6:18
-	-----
-	1
-
-
-paúcho
-
-	1 VD1689_94 Joz 10:0
-	-----
-	1
-
-
-paúchu
-
-	1 VD1689_94 Joz 6:15
-	-----
-	1
-
-
-paúlehptas
-
-	1 VD1689_94 Joz 7:21
-	-----
-	1
-
-
-paúlehptees
-
-	1 VD1689_94 Joz 8:9
-	-----
-	1
-
-
-paúlehpuúi
-
-	1 VD1689_94 Joz 2:4
-	1 VD1689_94 Joz 2:6
-	1 VD1689_94 Joz 6:17
-	1 VD1689_94 Joz 6:25
-	-----
-	4
-
-
-paúleppeni
-
-	1 VD1689_94 Joz 2:1
-	-----
-	1
-
-
-paúleppi
-
-	1 VD1689_94 Joz 7:19
-	-----
-	1
-
-
-paúluddinahts
-
-	1 VD1689_94 Joz 10:17
-	-----
-	1
-
-
-paúúa=úwehtku
-
-	1 VD1689_94 Joz 5:11
-	-----
-	1
-
-
-paúúa=úwehtkus
-
-	1 VD1689_94 Joz 5:0
-	1 VD1689_94 Joz 5:10
 	-----
 	2
 
@@ -18890,6 +19279,27 @@ peekauúe
 	1
 
 
+peeíehrúitees
+
+	1 VD1689_94 Joz 23:12
+	-----
+	1
+
+
+peeíehrtees
+
+	1 VD1689_94 Joz 23:8
+	-----
+	1
+
+
+peeíeººatees
+
+	1 VD1689_94 Joz 22:5
+	-----
+	1
+
+
 peekta
 
 	1 VD1689_94 Joz 19:24
@@ -18918,6 +19328,13 @@ peelihd§inajs
 	1
 
 
+peelihd§inaúchana
+
+	1 VD1689_94 Joz 17:17
+	-----
+	1
+
+
 peelihd§inata
 
 	1 VD1689_94 Joz 13:3
@@ -18928,13 +19345,6 @@ peelihd§inata
 peelihd§inati
 
 	1 VD1689_94 Joz 17:5
-	-----
-	1
-
-
-peelihd§inaúchana
-
-	1 VD1689_94 Joz 17:17
 	-----
 	1
 
@@ -18994,6 +19404,34 @@ peepeúchi
 peeraugajt
 
 	1 VD1689_94 Joz 8:4
+	-----
+	1
+
+
+peeúeet
+
+	1 VD1689_94 Joz 2:18
+	-----
+	1
+
+
+peeúeeta
+
+	1 VD1689_94 Joz 2:0
+	-----
+	1
+
+
+peeúehje
+
+	1 VD1689_94 Joz 2:21
+	-----
+	1
+
+
+pee§krehje
+
+	1 VD1689_94 Joz 8:19
 	-----
 	1
 
@@ -19073,55 +19511,6 @@ peezus
 	2 VD1689_94 Joz 10:0
 	-----
 	2
-
-
-pee§krehje
-
-	1 VD1689_94 Joz 8:19
-	-----
-	1
-
-
-peeíehrtees
-
-	1 VD1689_94 Joz 23:8
-	-----
-	1
-
-
-peeíehrúitees
-
-	1 VD1689_94 Joz 23:12
-	-----
-	1
-
-
-peeíeººatees
-
-	1 VD1689_94 Joz 22:5
-	-----
-	1
-
-
-peeúeet
-
-	1 VD1689_94 Joz 2:18
-	-----
-	1
-
-
-peeúeeta
-
-	1 VD1689_94 Joz 2:0
-	-----
-	1
-
-
-peeúehje
-
-	1 VD1689_94 Joz 2:21
-	-----
-	1
 
 
 pehdas
@@ -19307,14 +19696,6 @@ pilsúahta
 	19
 
 
-pilsúahta=wahrtu
-
-	1 VD1689_94 Joz 8:29
-	1 VD1689_94 Joz 20:4
-	-----
-	2
-
-
 pilsúahta^
 
 	1 VD1689_94 Joz 6:20
@@ -19327,6 +19708,14 @@ pilsúahta^
 	2 VD1689_94 Joz 20:6
 	-----
 	9
+
+
+pilsúahta=wahrtu
+
+	1 VD1689_94 Joz 8:29
+	1 VD1689_94 Joz 20:4
+	-----
+	2
 
 
 pilsúahtam
@@ -19629,6 +20018,13 @@ pi§gas
 	1
 
 
+pïauúchanas
+
+	1 VD1689_94 Joz 3:15
+	-----
+	1
+
+
 plikku
 
 	1 VD1689_94 Joz 5:0
@@ -19654,14 +20050,6 @@ prahtu
 	5
 
 
-praweets
-
-	1 VD1689_94 Joz 19:13
-	1 VD1689_94 Joz 19:46
-	-----
-	2
-
-
 praúúija
 
 	1 VD1689_94 Joz 19:50
@@ -19669,11 +20057,12 @@ praúúija
 	1
 
 
-preek§ch
+praweets
 
-	1 VD1689_94 Joz 20:0
+	1 VD1689_94 Joz 19:13
+	1 VD1689_94 Joz 19:46
 	-----
-	1
+	2
 
 
 preekúch
@@ -19766,6 +20155,13 @@ preekúch
 	1 VD1689_94 Joz 24:17
 	-----
 	101
+
+
+preek§ch
+
+	1 VD1689_94 Joz 20:0
+	-----
+	1
 
 
 preekúch=ahda
@@ -19911,22 +20307,6 @@ preekúchu
 	2
 
 
-preet
-
-	1 VD1689_94 Joz 7:1
-	-----
-	1
-
-
-pree§teris
-
-	1 VD1689_94 Joz 14:1
-	1 VD1689_94 Joz 19:51
-	1 VD1689_94 Joz 22:30
-	-----
-	3
-
-
 pree§teºa
 
 	1 VD1689_94 Joz 17:4
@@ -19940,16 +20320,16 @@ pree§teºa
 	7
 
 
-pree§teºa=amats
+pree§teºa{pre§teºa}
 
-	1 VD1689_94 Joz 18:7
+	1 VD1689_94 Joz 22:13
 	-----
 	1
 
 
-pree§teºa{pre§teºa}
+pree§teºa=amats
 
-	1 VD1689_94 Joz 22:13
+	1 VD1689_94 Joz 18:7
 	-----
 	1
 
@@ -19984,6 +20364,15 @@ pree§teºi
 	14
 
 
+pree§teris
+
+	1 VD1689_94 Joz 14:1
+	1 VD1689_94 Joz 19:51
+	1 VD1689_94 Joz 22:30
+	-----
+	3
+
+
 pree§teºu
 
 	1 VD1689_94 Joz 3:13
@@ -20001,6 +20390,13 @@ pree§teºus
 	1 VD1689_94 Joz 6:6
 	-----
 	2
+
+
+preet
+
+	1 VD1689_94 Joz 7:1
+	-----
+	1
 
 
 pret
@@ -20256,13 +20652,6 @@ puús
 	26
 
 
-puústreúch
-
-	1 VD1689_94 Joz 22:0
-	-----
-	1
-
-
 puúúe
 
 	2 VD1689_94 Joz 8:33
@@ -20336,9 +20725,9 @@ puúúi
 	16
 
 
-pïauúchanas
+puústreúch
 
-	1 VD1689_94 Joz 3:15
+	1 VD1689_94 Joz 22:0
 	-----
 	1
 
@@ -20614,19 +21003,19 @@ red§i
 	2
 
 
+rei§e`
+
+	1 VD1689_94 Joz 6:16
+	-----
+	1
+
+
 rei§e^
 
 	1 VD1689_94 Joz 5:2
 	1 VD1689_94 Joz 24:0
 	-----
 	2
-
-
-rei§e`
-
-	1 VD1689_94 Joz 6:16
-	-----
-	1
 
 
 rei§i
@@ -20961,35 +21350,6 @@ rohku
 	10
 
 
-ruhbeniteºeem
-
-	1 VD1689_94 Joz 1:12
-	1 VD1689_94 Joz 12:6
-	-----
-	2
-
-
-ruhbeniteºi
-
-	1 VD1689_94 Joz 13:8
-	-----
-	1
-
-
-ruhbeniteºus
-
-	1 VD1689_94 Joz 22:1
-	-----
-	1
-
-
-ruhbens
-
-	1 VD1689_94 Joz 18:7
-	-----
-	1
-
-
 ruhbeòa
 
 	1 VD1689_94 Joz 4:12
@@ -21033,6 +21393,49 @@ ruhbeòa=gada=behrnu{ruhbeòa=gada=}
 ruhbeòa=gada=zilti{ruhbeòa=gada=}
 
 	1 VD1689_94 Joz 1:0
+	-----
+	1
+
+
+ruhbeniteºeem
+
+	1 VD1689_94 Joz 1:12
+	1 VD1689_94 Joz 12:6
+	-----
+	2
+
+
+ruhbeniteºi
+
+	1 VD1689_94 Joz 13:8
+	-----
+	1
+
+
+ruhbeniteºus
+
+	1 VD1689_94 Joz 22:1
+	-----
+	1
+
+
+ruhbens
+
+	1 VD1689_94 Joz 18:7
+	-----
+	1
+
+
+run~aja
+
+	1 VD1689_94 Joz 1:1
+	-----
+	1
+
+
+run~ajs
+
+	1 VD1689_94 Joz 23:5
 	-----
 	1
 
@@ -21128,25 +21531,19 @@ runnaúchanas
 	1
 
 
-run~aja
-
-	1 VD1689_94 Joz 1:1
-	-----
-	1
-
-
-run~ajs
-
-	1 VD1689_94 Joz 23:5
-	-----
-	1
-
-
 sa&a&zimu
 
 	1 VD1689_94 Joz 19:22
 	-----
 	1
+
+
+úa=eeúchanas
+
+	1 VD1689_94 Joz 18:1
+	1 VD1689_94 Joz 19:51
+	-----
+	2
 
 
 sabarim
@@ -21165,6 +21562,40 @@ sabdus
 	3
 
 
+úaded§inaht
+
+	1 VD1689_94 Joz 8:8
+	1 VD1689_94 Joz 11:6
+	-----
+	2
+
+
+úaded§inaja
+
+	1 VD1689_94 Joz 6:24
+	1 VD1689_94 Joz 7:25
+	1 VD1689_94 Joz 8:28
+	1 VD1689_94 Joz 11:9
+	1 VD1689_94 Joz 11:11
+	2 VD1689_94 Joz 11:13
+	-----
+	7
+
+
+úaded§inatam
+
+	1 VD1689_94 Joz 7:15
+	-----
+	1
+
+
+úad§ihje
+
+	1 VD1689_94 Joz 5:8
+	-----
+	1
+
+
 sae#labim
 
 	1 VD1689_94 Joz 19:42
@@ -21179,6 +21610,217 @@ sae#ra&im
 	1
 
 
+§agguúchi
+
+	1 VD1689_94 Joz 7:11
+	-----
+	1
+
+
+úaguh§tija
+
+	1 VD1689_94 Joz 8:23
+	-----
+	1
+
+
+úahkuúchi
+
+	1 VD1689_94 Joz 7:7
+	-----
+	1
+
+
+úahls=juhºa
+
+	1 VD1689_94 Joz 15:5
+	-----
+	1
+
+
+úahls=juhºa^
+
+	1 VD1689_94 Joz 3:16
+	-----
+	1
+
+
+úahls=juhºai
+
+	1 VD1689_94 Joz 12:3
+	-----
+	1
+
+
+úahls=juhºas
+
+	1 VD1689_94 Joz 15:2
+	1 VD1689_94 Joz 18:19
+	-----
+	2
+
+
+úahls=pilsúahts
+
+	1 VD1689_94 Joz 15:62
+	-----
+	1
+
+
+úahnis
+
+	1 VD1689_94 Joz 3:16
+	2 VD1689_94 Joz 8:33
+	1 VD1689_94 Joz 12:9
+	1 VD1689_94 Joz 15:8
+	1 VD1689_94 Joz 15:10
+	1 VD1689_94 Joz 15:11
+	1 VD1689_94 Joz 15:46
+	2 VD1689_94 Joz 18:12
+	1 VD1689_94 Joz 18:13
+	1 VD1689_94 Joz 18:16
+	1 VD1689_94 Joz 18:19
+	-----
+	13
+
+
+úahno^s
+
+	1 VD1689_94 Joz 8:33
+	1 VD1689_94 Joz 23:13
+	-----
+	2
+
+
+úahze
+
+	1 VD1689_94 Joz 17:12
+	-----
+	1
+
+
+úaime
+
+	1 VD1689_94 Joz 7:14
+	1 VD1689_94 Joz 7:18
+	-----
+	2
+
+
+úaimehm
+
+	1 VD1689_94 Joz 7:14
+	1 VD1689_94 Joz 13:15
+	1 VD1689_94 Joz 13:23
+	1 VD1689_94 Joz 13:24
+	1 VD1689_94 Joz 13:28
+	1 VD1689_94 Joz 13:29
+	1 VD1689_94 Joz 13:31
+	1 VD1689_94 Joz 15:1
+	1 VD1689_94 Joz 15:11
+	1 VD1689_94 Joz 15:20
+	1 VD1689_94 Joz 16:5
+	1 VD1689_94 Joz 16:8
+	2 VD1689_94 Joz 17:2
+	1 VD1689_94 Joz 18:11
+	1 VD1689_94 Joz 18:20
+	1 VD1689_94 Joz 18:21
+	1 VD1689_94 Joz 18:28
+	1 VD1689_94 Joz 19:1
+	1 VD1689_94 Joz 19:8
+	1 VD1689_94 Joz 19:10
+	1 VD1689_94 Joz 19:16
+	1 VD1689_94 Joz 19:17
+	1 VD1689_94 Joz 19:23
+	1 VD1689_94 Joz 19:24
+	1 VD1689_94 Joz 19:31
+	1 VD1689_94 Joz 19:32
+	1 VD1689_94 Joz 19:39
+	1 VD1689_94 Joz 19:40
+	1 VD1689_94 Joz 19:48
+	1 VD1689_94 Joz 21:4
+	1 VD1689_94 Joz 21:5
+	1 VD1689_94 Joz 21:6
+	1 VD1689_94 Joz 21:7
+	1 VD1689_94 Joz 21:10
+	1 VD1689_94 Joz 21:20
+	1 VD1689_94 Joz 21:26
+	1 VD1689_94 Joz 21:27
+	1 VD1689_94 Joz 21:33
+	1 VD1689_94 Joz 21:34
+	2 VD1689_94 Joz 21:40
+	-----
+	42
+
+
+úaimi
+
+	1 VD1689_94 Joz 2:18
+	-----
+	1
+
+
+úaimneekeem
+
+	1 VD1689_94 Joz 7:14
+	1 VD1689_94 Joz 7:17
+	1 VD1689_94 Joz 7:18
+	-----
+	3
+
+
+úakka
+
+	1 VD1689_94 Joz 7:13
+	1 VD1689_94 Joz 22:16
+	1 VD1689_94 Joz 24:2
+	-----
+	3
+
+
+úakkajt
+
+	1 VD1689_94 Joz 9:11
+	-----
+	1
+
+
+úakkam
+
+	1 VD1689_94 Joz 22:11
+	-----
+	1
+
+
+úakkat
+
+	1 VD1689_94 Joz 2:21
+	-----
+	1
+
+
+úakki
+
+	1 VD1689_94 Joz 7:13
+	1 VD1689_94 Joz 20:2
+	-----
+	2
+
+
+úakku
+
+	1 VD1689_94 Joz 24:27
+	-----
+	1
+
+
+úakºahwe
+
+	1 VD1689_94 Joz 8:28
+	-----
+	1
+
+
 salkai
 
 	1 VD1689_94 Joz 13:11
@@ -21189,6 +21831,13 @@ salkai
 salku
 
 	1 VD1689_94 Joz 12:5
+	-----
+	1
+
+
+úamaitahts
+
+	1 VD1689_94 Joz 10:0
 	-----
 	1
 
@@ -21215,6 +21864,103 @@ sanoa
 	2
 
 
+úaplihúuúchi
+
+	1 VD1689_94 Joz 9:13
+	-----
+	1
+
+
+úaplihúuúchus
+
+	1 VD1689_94 Joz 9:5
+	-----
+	1
+
+
+úaplohúija
+
+	1 VD1689_94 Joz 7:6
+	-----
+	1
+
+
+úaprattigi
+
+	1 VD1689_94 Joz 1:7
+	1 VD1689_94 Joz 1:8
+	-----
+	2
+
+
+úapulzejahs
+
+	1 VD1689_94 Joz 9:2
+	1 VD1689_94 Joz 10:5
+	1 VD1689_94 Joz 11:5
+	1 VD1689_94 Joz 18:1
+	1 VD1689_94 Joz 22:12
+	-----
+	5
+
+
+úapulzejúchees
+
+	1 VD1689_94 Joz 10:6
+	-----
+	1
+
+
+úapulzina
+
+	1 VD1689_94 Joz 11:0
+	-----
+	1
+
+
+úapulzinaht
+
+	1 VD1689_94 Joz 2:18
+	-----
+	1
+
+
+úapulzinaja
+
+	1 VD1689_94 Joz 24:1
+	-----
+	1
+
+
+úargaht
+
+	1 VD1689_94 Joz 10:18
+	-----
+	1
+
+
+úargajeetees
+
+	1 VD1689_94 Joz 6:18
+	1 VD1689_94 Joz 22:5
+	-----
+	2
+
+
+úargajt
+
+	1 VD1689_94 Joz 23:11
+	-----
+	1
+
+
+úargatiòu
+
+	1 VD1689_94 Joz 22:3
+	-----
+	1
+
+
 saridei
 
 	1 VD1689_94 Joz 19:10
@@ -21229,11 +21975,582 @@ sarides
 	1
 
 
+úarkana
+
+	1 VD1689_94 Joz 2:0
+	-----
+	1
+
+
+úarkanu
+
+	1 VD1689_94 Joz 2:18
+	1 VD1689_94 Joz 2:21
+	-----
+	2
+
+
 saruene
 
 	1 VD1689_94 Joz 19:6
 	-----
 	1
+
+
+úaúaukti
+
+	1 VD1689_94 Joz 8:16
+	-----
+	1
+
+
+úaúauz
+
+	1 VD1689_94 Joz 23:0
+	1 VD1689_94 Joz 24:0
+	-----
+	2
+
+
+úaúauze
+
+	1 VD1689_94 Joz 23:2
+	1 VD1689_94 Joz 24:1
+	-----
+	2
+
+
+úa§tohp
+
+	1 VD1689_94 Joz 2:16
+	-----
+	1
+
+
+úaukts
+
+	1 VD1689_94 Joz 2:1
+	-----
+	1
+
+
+úaule
+
+	1 VD1689_94 Joz 8:29
+	1 VD1689_94 Joz 10:0
+	1 VD1689_94 Joz 10:12
+	2 VD1689_94 Joz 10:13
+	1 VD1689_94 Joz 10:27
+	-----
+	6
+
+
+úaules
+
+	1 VD1689_94 Joz 1:4
+	1 VD1689_94 Joz 12:1
+	1 VD1689_94 Joz 19:12
+	1 VD1689_94 Joz 19:13
+	1 VD1689_94 Joz 19:27
+	1 VD1689_94 Joz 19:34
+	1 VD1689_94 Joz 23:4
+	-----
+	7
+
+
+úauúahm
+
+	1 VD1689_94 Joz 3:0
+	2 VD1689_94 Joz 3:17
+	1 VD1689_94 Joz 4:22
+	-----
+	4
+
+
+úauúuma^
+
+	1 VD1689_94 Joz 4:18
+	-----
+	1
+
+
+úawa
+
+	1 VD1689_94 Joz 7:12
+	1 VD1689_94 Joz 15:18
+	1 VD1689_94 Joz 19:47
+	1 VD1689_94 Joz 21:3
+	1 VD1689_94 Joz 22:20
+	-----
+	5
+
+
+úawa^
+
+	1 VD1689_94 Joz 4:0
+	1 VD1689_94 Joz 4:14
+	1 VD1689_94 Joz 5:8
+	1 VD1689_94 Joz 5:13
+	2 VD1689_94 Joz 18:5
+	2 VD1689_94 Joz 20:6
+	1 VD1689_94 Joz 22:0
+	-----
+	9
+
+
+úawa^s
+
+	1 VD1689_94 Joz 3:15
+	1 VD1689_94 Joz 18:20
+	-----
+	2
+
+
+úawahm
+
+	1 VD1689_94 Joz 7:6
+	1 VD1689_94 Joz 7:14
+	1 VD1689_94 Joz 7:16
+	1 VD1689_94 Joz 9:5
+	1 VD1689_94 Joz 11:16
+	2 VD1689_94 Joz 11:23
+	1 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 13:15
+	1 VD1689_94 Joz 13:23
+	1 VD1689_94 Joz 13:24
+	1 VD1689_94 Joz 13:28
+	1 VD1689_94 Joz 13:31
+	1 VD1689_94 Joz 15:0
+	1 VD1689_94 Joz 15:1
+	1 VD1689_94 Joz 15:20
+	1 VD1689_94 Joz 16:5
+	1 VD1689_94 Joz 16:8
+	2 VD1689_94 Joz 17:2
+	1 VD1689_94 Joz 18:10
+	1 VD1689_94 Joz 19:49
+	-----
+	22
+
+
+úawam
+
+	1 VD1689_94 Joz 9:24
+	1 VD1689_94 Joz 11:15
+	-----
+	2
+
+
+úawas
+
+	1 VD1689_94 Joz 5:13
+	1 VD1689_94 Joz 7:6
+	1 VD1689_94 Joz 7:26
+	1 VD1689_94 Joz 8:19
+	1 VD1689_94 Joz 18:4
+	-----
+	5
+
+
+úaweem
+
+	1 VD1689_94 Joz 3:14
+	1 VD1689_94 Joz 4:22
+	1 VD1689_94 Joz 6:0
+	1 VD1689_94 Joz 7:8
+	1 VD1689_94 Joz 7:11
+	2 VD1689_94 Joz 7:12
+	2 VD1689_94 Joz 7:14
+	1 VD1689_94 Joz 8:33
+	1 VD1689_94 Joz 9:4
+	1 VD1689_94 Joz 10:5
+	1 VD1689_94 Joz 10:13
+	1 VD1689_94 Joz 13:28
+	1 VD1689_94 Joz 14:4
+	1 VD1689_94 Joz 18:9
+	1 VD1689_94 Joz 21:2
+	1 VD1689_94 Joz 21:19
+	1 VD1689_94 Joz 21:26
+	1 VD1689_94 Joz 21:33
+	1 VD1689_94 Joz 21:41
+	1 VD1689_94 Joz 22:6
+	1 VD1689_94 Joz 22:8
+	-----
+	23
+
+
+úawi
+
+	1 VD1689_94 Joz 18:2
+	1 VD1689_94 Joz 21:42
+	-----
+	2
+
+
+úawo
+
+	1 VD1689_94 Joz 1:0
+	-----
+	1
+
+
+úawo^s
+
+	1 VD1689_94 Joz 4:18
+	1 VD1689_94 Joz 10:19
+	-----
+	2
+
+
+úawrup
+
+	1 VD1689_94 Joz 8:6
+	1 VD1689_94 Joz 8:17
+	-----
+	2
+
+
+úaws
+
+	1 VD1689_94 Joz 19:2
+	-----
+	1
+
+
+úawu
+
+	1 VD1689_94 Joz 1:3
+	1 VD1689_94 Joz 2:0
+	1 VD1689_94 Joz 2:16
+	1 VD1689_94 Joz 2:19
+	1 VD1689_94 Joz 4:5
+	1 VD1689_94 Joz 4:18
+	2 VD1689_94 Joz 5:14
+	1 VD1689_94 Joz 7:6
+	1 VD1689_94 Joz 8:19
+	1 VD1689_94 Joz 8:26
+	1 VD1689_94 Joz 10:21
+	1 VD1689_94 Joz 11:20
+	1 VD1689_94 Joz 13:8
+	1 VD1689_94 Joz 13:23
+	1 VD1689_94 Joz 14:9
+	1 VD1689_94 Joz 15:0
+	1 VD1689_94 Joz 15:16
+	1 VD1689_94 Joz 15:17
+	1 VD1689_94 Joz 16:4
+	1 VD1689_94 Joz 18:7
+	1 VD1689_94 Joz 20:5
+	1 VD1689_94 Joz 22:9
+	1 VD1689_94 Joz 24:28
+	-----
+	24
+
+
+úawus
+
+	1 VD1689_94 Joz 4:6
+	1 VD1689_94 Joz 4:21
+	1 VD1689_94 Joz 20:4
+	-----
+	3
+
+
+úazzidami
+
+	1 VD1689_94 Joz 1:11
+	1 VD1689_94 Joz 1:16
+	1 VD1689_94 Joz 3:3
+	1 VD1689_94 Joz 4:3
+	1 VD1689_94 Joz 4:6
+	1 VD1689_94 Joz 9:22
+	1 VD1689_94 Joz 10:6
+	1 VD1689_94 Joz 17:14
+	1 VD1689_94 Joz 21:2
+	1 VD1689_94 Joz 22:24
+	-----
+	10
+
+
+úazzidams
+
+	1 VD1689_94 Joz 1:13
+	1 VD1689_94 Joz 2:1
+	1 VD1689_94 Joz 3:6
+	1 VD1689_94 Joz 4:21
+	1 VD1689_94 Joz 6:10
+	1 VD1689_94 Joz 7:2
+	1 VD1689_94 Joz 8:4
+	1 VD1689_94 Joz 9:22
+	1 VD1689_94 Joz 10:3
+	1 VD1689_94 Joz 17:17
+	1 VD1689_94 Joz 22:8
+	-----
+	11
+
+
+úazzihs
+
+	1 VD1689_94 Joz 4:21
+	1 VD1689_94 Joz 8:6
+	1 VD1689_94 Joz 22:24
+	1 VD1689_94 Joz 22:28
+	-----
+	4
+
+
+úazziht
+
+	1 VD1689_94 Joz 3:8
+	1 VD1689_94 Joz 4:7
+	1 VD1689_94 Joz 4:22
+	1 VD1689_94 Joz 22:27
+	-----
+	4
+
+
+úazzihts
+
+	1 VD1689_94 Joz 2:2
+	1 VD1689_94 Joz 10:17
+	1 VD1689_94 Joz 15:13
+	-----
+	3
+
+
+úazzija
+
+	1 VD1689_94 Joz 1:1
+	1 VD1689_94 Joz 1:10
+	1 VD1689_94 Joz 1:12
+	1 VD1689_94 Joz 2:3
+	1 VD1689_94 Joz 2:4
+	1 VD1689_94 Joz 2:9
+	1 VD1689_94 Joz 2:16
+	1 VD1689_94 Joz 2:17
+	1 VD1689_94 Joz 2:21
+	1 VD1689_94 Joz 2:24
+	1 VD1689_94 Joz 3:5
+	1 VD1689_94 Joz 3:9
+	1 VD1689_94 Joz 3:10
+	1 VD1689_94 Joz 4:1
+	1 VD1689_94 Joz 4:4
+	1 VD1689_94 Joz 4:17
+	1 VD1689_94 Joz 5:2
+	1 VD1689_94 Joz 5:9
+	1 VD1689_94 Joz 5:13
+	2 VD1689_94 Joz 5:14
+	1 VD1689_94 Joz 5:15
+	1 VD1689_94 Joz 6:2
+	1 VD1689_94 Joz 6:6
+	1 VD1689_94 Joz 6:7
+	1 VD1689_94 Joz 6:16
+	1 VD1689_94 Joz 6:22
+	1 VD1689_94 Joz 6:26
+	1 VD1689_94 Joz 7:3
+	1 VD1689_94 Joz 7:7
+	1 VD1689_94 Joz 7:10
+	1 VD1689_94 Joz 7:19
+	1 VD1689_94 Joz 7:20
+	1 VD1689_94 Joz 7:25
+	1 VD1689_94 Joz 8:1
+	1 VD1689_94 Joz 8:18
+	1 VD1689_94 Joz 9:6
+	1 VD1689_94 Joz 9:7
+	2 VD1689_94 Joz 9:8
+	1 VD1689_94 Joz 9:9
+	1 VD1689_94 Joz 9:11
+	1 VD1689_94 Joz 9:19
+	1 VD1689_94 Joz 9:21
+	1 VD1689_94 Joz 9:23
+	1 VD1689_94 Joz 10:8
+	1 VD1689_94 Joz 10:12
+	1 VD1689_94 Joz 10:18
+	1 VD1689_94 Joz 10:22
+	1 VD1689_94 Joz 10:24
+	1 VD1689_94 Joz 10:25
+	1 VD1689_94 Joz 11:6
+	1 VD1689_94 Joz 13:1
+	1 VD1689_94 Joz 14:6
+	1 VD1689_94 Joz 14:9
+	1 VD1689_94 Joz 15:16
+	1 VD1689_94 Joz 15:18
+	1 VD1689_94 Joz 15:19
+	1 VD1689_94 Joz 17:4
+	1 VD1689_94 Joz 17:15
+	1 VD1689_94 Joz 17:16
+	1 VD1689_94 Joz 18:3
+	1 VD1689_94 Joz 18:8
+	1 VD1689_94 Joz 20:1
+	1 VD1689_94 Joz 22:2
+	1 VD1689_94 Joz 22:15
+	1 VD1689_94 Joz 22:31
+	1 VD1689_94 Joz 23:2
+	1 VD1689_94 Joz 24:2
+	1 VD1689_94 Joz 24:16
+	1 VD1689_94 Joz 24:19
+	1 VD1689_94 Joz 24:21
+	2 VD1689_94 Joz 24:22
+	1 VD1689_94 Joz 24:24
+	1 VD1689_94 Joz 24:27
+	-----
+	76
+
+
+úazzijam
+
+	1 VD1689_94 Joz 22:26
+	1 VD1689_94 Joz 22:28
+	-----
+	2
+
+
+úazzijis
+
+	1 VD1689_94 Joz 3:7
+	-----
+	1
+
+
+úazzijs
+
+	1 VD1689_94 Joz 4:15
+	1 VD1689_94 Joz 6:8
+	1 VD1689_94 Joz 11:9
+	-----
+	3
+
+
+úazziúchu
+
+	1 VD1689_94 Joz 6:10
+	1 VD1689_94 Joz 7:8
+	-----
+	2
+
+
+úazziúim
+
+	1 VD1689_94 Joz 22:28
+	-----
+	1
+
+
+úazzita
+
+	1 VD1689_94 Joz 19:1
+	-----
+	1
+
+
+úcha
+
+	1 VD1689_94 Joz 1:4
+	-----
+	1
+
+
+úchahm
+
+	1 VD1689_94 Joz 21:16
+	1 VD1689_94 Joz 23:3
+	1 VD1689_94 Joz 23:7
+	1 VD1689_94 Joz 23:12
+	1 VD1689_94 Joz 24:29
+	-----
+	5
+
+
+úchahs
+
+	1 VD1689_94 Joz 1:8
+	1 VD1689_94 Joz 18:19
+	1 VD1689_94 Joz 22:24
+	1 VD1689_94 Joz 23:4
+	2 VD1689_94 Joz 23:13
+	1 VD1689_94 Joz 23:15
+	1 VD1689_94 Joz 24:17
+	1 VD1689_94 Joz 24:18
+	-----
+	9
+
+
+úchai
+
+	1 VD1689_94 Joz 5:1
+	1 VD1689_94 Joz 7:26
+	1 VD1689_94 Joz 8:28
+	1 VD1689_94 Joz 8:29
+	1 VD1689_94 Joz 9:27
+	1 VD1689_94 Joz 10:27
+	1 VD1689_94 Joz 14:14
+	1 VD1689_94 Joz 15:7
+	1 VD1689_94 Joz 15:63
+	1 VD1689_94 Joz 21:41
+	1 VD1689_94 Joz 22:3
+	1 VD1689_94 Joz 22:17
+	-----
+	12
+
+
+úchai`
+
+	1 VD1689_94 Joz 1:14
+	1 VD1689_94 Joz 22:11
+	-----
+	2
+
+
+úchai^
+
+	1 VD1689_94 Joz 1:15
+	1 VD1689_94 Joz 22:7
+	-----
+	2
+
+
+úchaipuús
+
+	1 VD1689_94 Joz 12:7
+	-----
+	1
+
+
+úchee
+
+	1 VD1689_94 Joz 1:2
+	1 VD1689_94 Joz 4:6
+	1 VD1689_94 Joz 4:21
+	1 VD1689_94 Joz 8:22
+	1 VD1689_94 Joz 9:13
+	1 VD1689_94 Joz 10:16
+	1 VD1689_94 Joz 11:4
+	1 VD1689_94 Joz 11:5
+	1 VD1689_94 Joz 12:1
+	1 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 12:24
+	1 VD1689_94 Joz 15:32
+	1 VD1689_94 Joz 17:2
+	1 VD1689_94 Joz 17:3
+	1 VD1689_94 Joz 17:9
+	1 VD1689_94 Joz 19:16
+	1 VD1689_94 Joz 19:31
+	1 VD1689_94 Joz 19:48
+	1 VD1689_94 Joz 20:9
+	1 VD1689_94 Joz 21:40
+	-----
+	20
+
+
+úcheem
+
+	1 VD1689_94 Joz 1:6
+	1 VD1689_94 Joz 2:0
+	1 VD1689_94 Joz 4:7
+	1 VD1689_94 Joz 11:18
+	1 VD1689_94 Joz 19:8
+	1 VD1689_94 Joz 20:4
+	2 VD1689_94 Joz 21:42
+	-----
+	8
 
 
 schehla§tiba
@@ -21258,11 +22575,311 @@ schehla§tibu
 	3
 
 
+§chehlojahs
+
+	1 VD1689_94 Joz 17:0
+	-----
+	1
+
+
+úcheit
+
+	1 VD1689_94 Joz 18:6
+	1 VD1689_94 Joz 18:8
+	1 VD1689_94 Joz 19:46
+	-----
+	3
+
+
+úcheitan
+
+	1 VD1689_94 Joz 19:50
+	-----
+	1
+
+
+úchennenes
+
+	1 VD1689_94 Joz 4:3
+	-----
+	1
+
+
+úchi
+
+	1 VD1689_94 Joz 4:6
+	1 VD1689_94 Joz 5:4
+	1 VD1689_94 Joz 13:2
+	1 VD1689_94 Joz 15:4
+	1 VD1689_94 Joz 15:6
+	1 VD1689_94 Joz 15:7
+	3 VD1689_94 Joz 15:8
+	3 VD1689_94 Joz 15:9
+	1 VD1689_94 Joz 15:10
+	1 VD1689_94 Joz 15:11
+	1 VD1689_94 Joz 15:54
+	1 VD1689_94 Joz 15:60
+	1 VD1689_94 Joz 16:5
+	2 VD1689_94 Joz 16:6
+	1 VD1689_94 Joz 16:8
+	1 VD1689_94 Joz 17:7
+	1 VD1689_94 Joz 18:12
+	1 VD1689_94 Joz 18:13
+	2 VD1689_94 Joz 18:14
+	1 VD1689_94 Joz 18:15
+	1 VD1689_94 Joz 18:16
+	2 VD1689_94 Joz 18:19
+	1 VD1689_94 Joz 18:28
+	1 VD1689_94 Joz 19:13
+	1 VD1689_94 Joz 19:14
+	1 VD1689_94 Joz 19:16
+	1 VD1689_94 Joz 19:22
+	2 VD1689_94 Joz 19:29
+	1 VD1689_94 Joz 19:31
+	1 VD1689_94 Joz 19:34
+	1 VD1689_94 Joz 19:39
+	-----
+	39
+
+
+úchihs
+
+	1 VD1689_94 Joz 9:13
+	-----
+	1
+
+
+úchim
+
+	1 VD1689_94 Joz 19:46
+	-----
+	1
+
+
+úchinni^
+
+	1 VD1689_94 Joz 2:2
+	1 VD1689_94 Joz 2:17
+	1 VD1689_94 Joz 19:13
+	-----
+	3
+
+
+úchis
+
+	1 VD1689_94 Joz 2:1
+	1 VD1689_94 Joz 5:13
+	1 VD1689_94 Joz 13:23
+	1 VD1689_94 Joz 13:28
+	1 VD1689_94 Joz 13:32
+	1 VD1689_94 Joz 14:1
+	1 VD1689_94 Joz 15:10
+	1 VD1689_94 Joz 15:20
+	1 VD1689_94 Joz 15:25
+	1 VD1689_94 Joz 15:49
+	1 VD1689_94 Joz 16:8
+	1 VD1689_94 Joz 18:14
+	1 VD1689_94 Joz 18:20
+	1 VD1689_94 Joz 18:28
+	1 VD1689_94 Joz 19:8
+	2 VD1689_94 Joz 19:15
+	1 VD1689_94 Joz 19:23
+	1 VD1689_94 Joz 19:48
+	1 VD1689_94 Joz 20:7
+	1 VD1689_94 Joz 21:11
+	1 VD1689_94 Joz 24:27
+	-----
+	22
+
+
+úchíeetat
+
+	1 VD1689_94 Joz 22:19
+	-----
+	1
+
+
+úchíehpu
+
+	2 VD1689_94 Joz 8:18
+	1 VD1689_94 Joz 8:26
+	-----
+	3
+
+
+úchíihrahs
+
+	1 VD1689_94 Joz 8:17
+	-----
+	1
+
+
+úchíih§tijuúchees
+
+	1 VD1689_94 Joz 22:17
+	-----
+	1
+
+
+úchíiººam
+
+	1 VD1689_94 Joz 8:6
+	-----
+	1
+
+
+úchíir§ta
+
+	1 VD1689_94 Joz 6:4
+	1 VD1689_94 Joz 6:6
+	1 VD1689_94 Joz 6:7
+	1 VD1689_94 Joz 6:13
+	1 VD1689_94 Joz 7:6
+	1 VD1689_94 Joz 8:33
+	-----
+	6
+
+
+úchíir§tam
+
+	1 VD1689_94 Joz 6:8
+	1 VD1689_94 Joz 6:9
+	1 VD1689_94 Joz 6:13
+	-----
+	3
+
+
+úchíir§ts
+
+	1 VD1689_94 Joz 3:0
+	1 VD1689_94 Joz 3:11
+	1 VD1689_94 Joz 4:11
+	1 VD1689_94 Joz 6:8
+	-----
+	4
+
+
+úchíir§tu
+
+	1 VD1689_94 Joz 3:3
+	2 VD1689_94 Joz 3:6
+	1 VD1689_94 Joz 3:8
+	1 VD1689_94 Joz 3:13
+	1 VD1689_94 Joz 3:14
+	2 VD1689_94 Joz 3:15
+	1 VD1689_94 Joz 3:17
+	1 VD1689_94 Joz 4:5
+	1 VD1689_94 Joz 4:7
+	1 VD1689_94 Joz 4:9
+	1 VD1689_94 Joz 4:10
+	1 VD1689_94 Joz 4:16
+	1 VD1689_94 Joz 4:18
+	1 VD1689_94 Joz 6:0
+	1 VD1689_94 Joz 6:6
+	1 VD1689_94 Joz 6:11
+	1 VD1689_94 Joz 6:12
+	1 VD1689_94 Joz 8:33
+	-----
+	20
+
+
+úcho
+
+	1 VD1689_94 Joz 1:2
+	1 VD1689_94 Joz 1:11
+	1 VD1689_94 Joz 1:13
+	1 VD1689_94 Joz 2:3
+	1 VD1689_94 Joz 2:9
+	2 VD1689_94 Joz 2:14
+	1 VD1689_94 Joz 2:18
+	1 VD1689_94 Joz 2:20
+	1 VD1689_94 Joz 3:4
+	1 VD1689_94 Joz 4:22
+	1 VD1689_94 Joz 6:26
+	1 VD1689_94 Joz 9:12
+	1 VD1689_94 Joz 9:20
+	1 VD1689_94 Joz 9:24
+	1 VD1689_94 Joz 10:24
+	1 VD1689_94 Joz 11:1
+	1 VD1689_94 Joz 11:6
+	1 VD1689_94 Joz 11:10
+	1 VD1689_94 Joz 11:12
+	1 VD1689_94 Joz 11:14
+	1 VD1689_94 Joz 11:16
+	1 VD1689_94 Joz 13:7
+	1 VD1689_94 Joz 14:10
+	1 VD1689_94 Joz 14:11
+	1 VD1689_94 Joz 14:12
+	1 VD1689_94 Joz 15:7
+	1 VD1689_94 Joz 17:12
+	1 VD1689_94 Joz 22:31
+	1 VD1689_94 Joz 22:32
+	-----
+	30
+
+
+úchodeen
+
+	1 VD1689_94 Joz 3:7
+	1 VD1689_94 Joz 4:9
+	2 VD1689_94 Joz 5:9
+	1 VD1689_94 Joz 6:25
+	1 VD1689_94 Joz 7:25
+	1 VD1689_94 Joz 7:26
+	1 VD1689_94 Joz 13:13
+	1 VD1689_94 Joz 14:10
+	1 VD1689_94 Joz 14:11
+	1 VD1689_94 Joz 16:10
+	2 VD1689_94 Joz 22:16
+	2 VD1689_94 Joz 22:18
+	1 VD1689_94 Joz 22:22
+	1 VD1689_94 Joz 22:29
+	1 VD1689_94 Joz 22:31
+	1 VD1689_94 Joz 23:8
+	1 VD1689_94 Joz 23:9
+	1 VD1689_94 Joz 24:15
+	-----
+	21
+
+
+úchohs
+
+	1 VD1689_94 Joz 4:20
+	1 VD1689_94 Joz 7:7
+	1 VD1689_94 Joz 10:22
+	1 VD1689_94 Joz 10:24
+	1 VD1689_94 Joz 10:42
+	1 VD1689_94 Joz 21:3
+	1 VD1689_94 Joz 21:8
+	1 VD1689_94 Joz 21:9
+	1 VD1689_94 Joz 24:26
+	-----
+	9
+
+
+úchurp
+
+	1 VD1689_94 Joz 3:9
+	1 VD1689_94 Joz 8:20
+	-----
+	2
+
+
 seba
 
 	1 VD1689_94 Joz 19:2
 	-----
 	1
+
+
+sebulaòa
+
+	1 VD1689_94 Joz 19:10
+	1 VD1689_94 Joz 19:16
+	1 VD1689_94 Joz 21:7
+	1 VD1689_94 Joz 21:34
+	-----
+	4
 
 
 sebulans
@@ -21280,37 +22897,11 @@ sebulanu
 	2
 
 
-sebulaòa
-
-	1 VD1689_94 Joz 19:10
-	1 VD1689_94 Joz 19:16
-	1 VD1689_94 Joz 21:7
-	1 VD1689_94 Joz 21:34
-	-----
-	4
-
-
 sebulona
 
 	1 VD1689_94 Joz 19:15
 	-----
 	1
-
-
-seemeli
-
-	1 VD1689_94 Joz 11:2
-	1 VD1689_94 Joz 13:3
-	1 VD1689_94 Joz 15:5
-	1 VD1689_94 Joz 15:7
-	1 VD1689_94 Joz 15:8
-	1 VD1689_94 Joz 17:10
-	1 VD1689_94 Joz 18:16
-	2 VD1689_94 Joz 18:19
-	1 VD1689_94 Joz 19:27
-	1 VD1689_94 Joz 24:30
-	-----
-	11
 
 
 seemeïa
@@ -21332,6 +22923,65 @@ seemeïa
 	14
 
 
+seemeli
+
+	1 VD1689_94 Joz 11:2
+	1 VD1689_94 Joz 13:3
+	1 VD1689_94 Joz 15:5
+	1 VD1689_94 Joz 15:7
+	1 VD1689_94 Joz 15:8
+	1 VD1689_94 Joz 17:10
+	1 VD1689_94 Joz 18:16
+	2 VD1689_94 Joz 18:19
+	1 VD1689_94 Joz 19:27
+	1 VD1689_94 Joz 24:30
+	-----
+	11
+
+
+úeewa
+
+	1 VD1689_94 Joz 2:4
+	-----
+	1
+
+
+úeewahm
+
+	1 VD1689_94 Joz 8:35
+	-----
+	1
+
+
+úeewas
+
+	1 VD1689_94 Joz 1:14
+	1 VD1689_94 Joz 2:1
+	1 VD1689_94 Joz 6:21
+	1 VD1689_94 Joz 6:22
+	1 VD1689_94 Joz 8:25
+	-----
+	5
+
+
+úeewu
+
+	1 VD1689_94 Joz 6:22
+	1 VD1689_94 Joz 15:0
+	1 VD1689_94 Joz 15:16
+	1 VD1689_94 Joz 15:17
+	-----
+	4
+
+
+seiºa
+
+	1 VD1689_94 Joz 15:10
+	1 VD1689_94 Joz 24:4
+	-----
+	2
+
+
 seirei
 
 	1 VD1689_94 Joz 11:17
@@ -21344,14 +22994,6 @@ seiru
 	1 VD1689_94 Joz 12:7
 	-----
 	1
-
-
-seiºa
-
-	1 VD1689_94 Joz 15:10
-	1 VD1689_94 Joz 24:4
-	-----
-	2
 
 
 sekaka
@@ -21391,6 +23033,35 @@ seltu
 	2
 
 
+sem~
+
+	1 VD1689_94 Joz 18:0
+	-----
+	1
+
+
+sem~e^
+
+	1 VD1689_94 Joz 11:3
+	-----
+	1
+
+
+sem~es
+
+	1 VD1689_94 Joz 6:22
+	1 VD1689_94 Joz 22:10
+	-----
+	2
+
+
+sem~i
+
+	1 VD1689_94 Joz 8:1
+	-----
+	1
+
+
 sema
 
 	1 VD1689_94 Joz 15:26
@@ -21401,6 +23072,13 @@ sema
 semida
 
 	1 VD1689_94 Joz 17:2
+	-----
+	1
+
+
+§emm
+
+	1 VD1689_94 Joz 16:0
 	-----
 	1
 
@@ -21548,33 +23226,49 @@ semmi
 	56
 
 
-sem~
+úeptiò
 
-	1 VD1689_94 Joz 18:0
+	2 VD1689_94 Joz 6:4
+	2 VD1689_94 Joz 6:6
+	2 VD1689_94 Joz 6:8
+	2 VD1689_94 Joz 6:13
+	1 VD1689_94 Joz 18:2
+	-----
+	9
+
+
+úeptiò=kahrt
+
+	1 VD1689_94 Joz 6:0
 	-----
 	1
 
 
-sem~e^
+úeptiòa^s
 
-	1 VD1689_94 Joz 11:3
+	1 VD1689_94 Joz 18:5
+	1 VD1689_94 Joz 18:6
+	1 VD1689_94 Joz 18:9
 	-----
-	1
+	3
 
 
-sem~es
+úeptiòkahrt
 
-	1 VD1689_94 Joz 6:22
-	1 VD1689_94 Joz 22:10
+	1 VD1689_94 Joz 6:4
+	2 VD1689_94 Joz 6:15
 	-----
-	2
+	3
 
 
-sem~i
+úeptita^
 
-	1 VD1689_94 Joz 8:1
+	1 VD1689_94 Joz 6:0
+	1 VD1689_94 Joz 6:4
+	1 VD1689_94 Joz 6:15
+	1 VD1689_94 Joz 6:16
 	-----
-	1
+	4
 
 
 sera&iteºu
@@ -21608,9 +23302,115 @@ se§aju
 	1
 
 
+úeúch
+
+	1 VD1689_94 Joz 6:0
+	1 VD1689_94 Joz 6:14
+	1 VD1689_94 Joz 7:5
+	1 VD1689_94 Joz 15:59
+	1 VD1689_94 Joz 15:62
+	-----
+	5
+
+
+úe§ch
+
+	1 VD1689_94 Joz 20:0
+	-----
+	1
+
+
+úeúchas
+
+	1 VD1689_94 Joz 6:3
+	-----
+	1
+
+
+úeúchdeúmits
+
+	1 VD1689_94 Joz 13:30
+	-----
+	1
+
+
+úeúchpadeúmits
+
+	1 VD1689_94 Joz 15:41
+	1 VD1689_94 Joz 19:22
+	-----
+	2
+
+
+úeúta
+
+	1 VD1689_94 Joz 19:32
+	-----
+	1
+
+
+úew
+
+	1 VD1689_94 Joz 2:0
+	1 VD1689_94 Joz 5:2
+	1 VD1689_94 Joz 5:3
+	1 VD1689_94 Joz 21:42
+	1 VD1689_94 Joz 24:22
+	-----
+	5
+
+
+úewim
+
+	1 VD1689_94 Joz 4:8
+	1 VD1689_94 Joz 8:2
+	1 VD1689_94 Joz 20:4
+	1 VD1689_94 Joz 22:16
+	-----
+	4
+
+
+úewis
+
+	1 VD1689_94 Joz 6:5
+	1 VD1689_94 Joz 6:20
+	1 VD1689_94 Joz 8:27
+	1 VD1689_94 Joz 11:14
+	-----
+	4
+
+
 sibma
 
 	1 VD1689_94 Joz 13:19
+	-----
+	1
+
+
+úihkeem
+
+	1 VD1689_94 Joz 6:21
+	-----
+	1
+
+
+sihíeïi
+
+	1 VD1689_94 Joz 7:21
+	-----
+	1
+
+
+sihíeïus
+
+	1 VD1689_94 Joz 7:21
+	-----
+	1
+
+
+úihkus
+
+	1 VD1689_94 Joz 7:24
 	-----
 	1
 
@@ -21651,6 +23451,25 @@ sihme
 	1
 
 
+úihmeaòa
+
+	1 VD1689_94 Joz 19:0
+	1 VD1689_94 Joz 19:1
+	1 VD1689_94 Joz 19:8
+	2 VD1689_94 Joz 19:9
+	1 VD1689_94 Joz 21:4
+	1 VD1689_94 Joz 21:9
+	-----
+	7
+
+
+úihmeanu
+
+	1 VD1689_94 Joz 19:1
+	-----
+	1
+
+
 sihmes
 
 	1 VD1689_94 Joz 24:17
@@ -21673,122 +23492,11 @@ sihwa
 	2
 
 
-sihíeïi
-
-	1 VD1689_94 Joz 7:21
-	-----
-	1
-
-
-sihíeïus
-
-	1 VD1689_94 Joz 7:21
-	-----
-	1
-
-
 sikema
 
 	1 VD1689_94 Joz 19:1
 	-----
 	1
-
-
-sikronam
-
-	1 VD1689_94 Joz 15:11
-	-----
-	1
-
-
-silim
-
-	1 VD1689_94 Joz 15:32
-	-----
-	1
-
-
-simron=meroòa
-
-	1 VD1689_94 Joz 12:20
-	-----
-	1
-
-
-simrons
-
-	1 VD1689_94 Joz 19:15
-	-----
-	1
-
-
-simroòa
-
-	1 VD1689_94 Joz 11:1
-	-----
-	1
-
-
-sionam
-
-	1 VD1689_94 Joz 2:10
-	-----
-	1
-
-
-sions
-
-	1 VD1689_94 Joz 12:2
-	1 VD1689_94 Joz 19:19
-	-----
-	2
-
-
-sior=libnatu
-
-	1 VD1689_94 Joz 19:26
-	-----
-	1
-
-
-sioòa
-
-	1 VD1689_94 Joz 12:5
-	1 VD1689_94 Joz 13:10
-	2 VD1689_94 Joz 13:21
-	1 VD1689_94 Joz 13:27
-	-----
-	5
-
-
-sioòam
-
-	1 VD1689_94 Joz 9:10
-	-----
-	1
-
-
-sirgu
-
-	1 VD1689_94 Joz 11:4
-	-----
-	1
-
-
-sirgus
-
-	1 VD1689_94 Joz 11:6
-	1 VD1689_94 Joz 11:9
-	-----
-	2
-
-
-sittim
-
-	1 VD1689_94 Joz 2:1
-	1 VD1689_94 Joz 3:1
-	-----
-	2
 
 
 siíema
@@ -21817,9 +23525,246 @@ siíemu
 	2
 
 
+sikronam
+
+	1 VD1689_94 Joz 15:11
+	-----
+	1
+
+
+silim
+
+	1 VD1689_94 Joz 15:32
+	-----
+	1
+
+
+úilteem
+
+	1 VD1689_94 Joz 11:8
+	1 VD1689_94 Joz 13:6
+	-----
+	2
+
+
+simron=meroòa
+
+	1 VD1689_94 Joz 12:20
+	-----
+	1
+
+
+simroòa
+
+	1 VD1689_94 Joz 11:1
+	-----
+	1
+
+
+simrons
+
+	1 VD1689_94 Joz 19:15
+	-----
+	1
+
+
+úimts
+
+	1 VD1689_94 Joz 24:29
+	1 VD1689_94 Joz 24:32
+	-----
+	2
+
+
+§inna
+
+	2 VD1689_94 Joz 22:22
+	-----
+	2
+
+
+§innaht
+
+	1 VD1689_94 Joz 3:4
+	1 VD1689_94 Joz 3:7
+	1 VD1689_94 Joz 3:10
+	-----
+	3
+
+
+§innaja
+
+	1 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 24:31
+	-----
+	2
+
+
+§innajt
+
+	1 VD1689_94 Joz 23:13
+	-----
+	1
+
+
+§innaju
+
+	1 VD1689_94 Joz 2:4
+	-----
+	1
+
+
+§innamu
+
+	1 VD1689_94 Joz 2:14
+	1 VD1689_94 Joz 2:20
+	-----
+	2
+
+
+§innat
+
+	1 VD1689_94 Joz 23:14
+	-----
+	1
+
+
+§inni
+
+	1 VD1689_94 Joz 14:6
+	-----
+	1
+
+
+§innu
+
+	1 VD1689_94 Joz 2:5
+	1 VD1689_94 Joz 2:9
+	-----
+	2
+
+
 siòòu
 
 	1 VD1689_94 Joz 4:22
+	-----
+	1
+
+
+sioòa
+
+	1 VD1689_94 Joz 12:5
+	1 VD1689_94 Joz 13:10
+	2 VD1689_94 Joz 13:21
+	1 VD1689_94 Joz 13:27
+	-----
+	5
+
+
+sionam
+
+	1 VD1689_94 Joz 2:10
+	-----
+	1
+
+
+sioòam
+
+	1 VD1689_94 Joz 9:10
+	-----
+	1
+
+
+sions
+
+	1 VD1689_94 Joz 12:2
+	1 VD1689_94 Joz 19:19
+	-----
+	2
+
+
+sior=libnatu
+
+	1 VD1689_94 Joz 19:26
+	-----
+	1
+
+
+úirdi
+
+	1 VD1689_94 Joz 11:20
+	1 VD1689_94 Joz 14:8
+	-----
+	2
+
+
+úirdi^
+
+	1 VD1689_94 Joz 14:7
+	-----
+	1
+
+
+úirdis
+
+	1 VD1689_94 Joz 24:23
+	-----
+	1
+
+
+úirds
+
+	1 VD1689_94 Joz 2:11
+	1 VD1689_94 Joz 5:1
+	1 VD1689_94 Joz 7:5
+	1 VD1689_94 Joz 22:5
+	1 VD1689_94 Joz 23:14
+	-----
+	5
+
+
+sirgu
+
+	1 VD1689_94 Joz 11:4
+	-----
+	1
+
+
+sirgus
+
+	1 VD1689_94 Joz 11:6
+	1 VD1689_94 Joz 11:9
+	-----
+	2
+
+
+úitte
+
+	1 VD1689_94 Joz 8:24
+	1 VD1689_94 Joz 11:10
+	1 VD1689_94 Joz 19:47
+	-----
+	3
+
+
+sittim
+
+	1 VD1689_94 Joz 2:1
+	1 VD1689_94 Joz 3:1
+	-----
+	2
+
+
+§kaidri
+
+	1 VD1689_94 Joz 24:14
+	-----
+	1
+
+
+§kaititi
+
+	1 VD1689_94 Joz 21:41
 	-----
 	1
 
@@ -21832,11 +23777,66 @@ skaòòu
 	2
 
 
+§kattijahs
+
+	1 VD1689_94 Joz 8:20
+	-----
+	1
+
+
 skubbina
 
 	1 VD1689_94 Joz 1:0
 	-----
 	1
+
+
+§kubbina
+
+	1 VD1689_94 Joz 1:0
+	-----
+	1
+
+
+úla§da=walgu
+
+	1 VD1689_94 Joz 23:13
+	-----
+	1
+
+
+úlawa
+
+	1 VD1689_94 Joz 6:27
+	-----
+	1
+
+
+úlawu
+
+	1 VD1689_94 Joz 7:19
+	1 VD1689_94 Joz 9:9
+	-----
+	2
+
+
+úlehpuúchees
+
+	1 VD1689_94 Joz 8:7
+	-----
+	1
+
+
+úleppeni
+
+	1 VD1689_94 Joz 8:2
+	1 VD1689_94 Joz 8:4
+	1 VD1689_94 Joz 8:12
+	1 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 8:19
+	1 VD1689_94 Joz 8:21
+	-----
+	6
 
 
 sluddina
@@ -21846,22 +23846,18 @@ sluddina
 	1
 
 
-sohbins
+úluddinahts
 
-	1 VD1689_94 Joz 5:13
+	1 VD1689_94 Joz 2:2
 	-----
 	1
 
 
-sohbinu
+úmiltis
 
-	1 VD1689_94 Joz 5:0
-	1 VD1689_94 Joz 10:11
-	1 VD1689_94 Joz 11:10
-	1 VD1689_94 Joz 13:22
-	1 VD1689_94 Joz 24:12
+	1 VD1689_94 Joz 11:4
 	-----
-	5
+	1
 
 
 sohbiòa
@@ -21882,9 +23878,70 @@ sohbiòa
 	13
 
 
+sohbins
+
+	1 VD1689_94 Joz 5:13
+	-----
+	1
+
+
+sohbinu
+
+	1 VD1689_94 Joz 5:0
+	1 VD1689_94 Joz 10:11
+	1 VD1689_94 Joz 11:10
+	1 VD1689_94 Joz 13:22
+	1 VD1689_94 Joz 24:12
+	-----
+	5
+
+
+úohdibu
+
+	1 VD1689_94 Joz 23:0
+	-----
+	1
+
+
+úohìeem
+
+	1 VD1689_94 Joz 8:33
+	-----
+	1
+
+
+úohìus
+
+	1 VD1689_94 Joz 23:2
+	1 VD1689_94 Joz 24:1
+	-----
+	2
+
+
+úohla
+
+	1 VD1689_94 Joz 23:0
+	-----
+	1
+
+
+úohliúchanas
+
+	1 VD1689_94 Joz 21:0
+	-----
+	1
+
+
 sokus
 
 	1 VD1689_94 Joz 15:48
+	-----
+	1
+
+
+§peede
+
+	1 VD1689_94 Joz 17:13
 	-----
 	1
 
@@ -21898,6 +23955,34 @@ spehks
 	4
 
 
+§pehzigi
+
+	1 VD1689_94 Joz 1:14
+	-----
+	1
+
+
+§pehzigus
+
+	1 VD1689_94 Joz 8:3
+	-----
+	1
+
+
+§perúeet
+
+	1 VD1689_94 Joz 1:3
+	-----
+	1
+
+
+§tah§ta
+
+	1 VD1689_94 Joz 23:0
+	-----
+	1
+
+
 stah§ti
 
 	1 VD1689_94 Joz 12:0
@@ -21905,6 +23990,157 @@ stah§ti
 	1 VD1689_94 Joz 15:0
 	-----
 	3
+
+
+§tah§ti
+
+	1 VD1689_94 Joz 7:19
+	-----
+	1
+
+
+§tah§tihts
+
+	1 VD1689_94 Joz 9:24
+	-----
+	1
+
+
+§tahw
+
+	1 VD1689_94 Joz 1:8
+	1 VD1689_94 Joz 8:31
+	1 VD1689_94 Joz 8:34
+	1 VD1689_94 Joz 20:6
+	-----
+	4
+
+
+§tahweet
+
+	1 VD1689_94 Joz 10:19
+	-----
+	1
+
+
+§tahwehs
+
+	1 VD1689_94 Joz 3:13
+	-----
+	1
+
+
+§tahweht
+
+	1 VD1689_94 Joz 20:4
+	-----
+	1
+
+
+§tahweja
+
+	1 VD1689_94 Joz 3:16
+	1 VD1689_94 Joz 3:17
+	1 VD1689_94 Joz 4:10
+	1 VD1689_94 Joz 5:13
+	1 VD1689_94 Joz 8:33
+	2 VD1689_94 Joz 10:13
+	1 VD1689_94 Joz 11:13
+	-----
+	8
+
+
+§tahwejs
+
+	1 VD1689_94 Joz 20:9
+	-----
+	1
+
+
+§tahwi
+
+	1 VD1689_94 Joz 5:15
+	1 VD1689_94 Joz 10:12
+	-----
+	2
+
+
+§tahwu
+
+	1 VD1689_94 Joz 3:16
+	-----
+	1
+
+
+§taigadami
+
+	1 VD1689_94 Joz 6:9
+	-----
+	1
+
+
+§taigaht
+
+	1 VD1689_94 Joz 24:3
+	-----
+	1
+
+
+§taigahts
+
+	1 VD1689_94 Joz 6:13
+	-----
+	1
+
+
+§taigaja
+
+	1 VD1689_94 Joz 5:6
+	1 VD1689_94 Joz 6:8
+	1 VD1689_94 Joz 8:35
+	-----
+	3
+
+
+§taigajat
+
+	1 VD1689_94 Joz 22:5
+	-----
+	1
+
+
+§taigajoht
+
+	1 VD1689_94 Joz 14:10
+	-----
+	1
+
+
+§tarp
+
+	2 VD1689_94 Joz 3:4
+	1 VD1689_94 Joz 7:11
+	1 VD1689_94 Joz 7:13
+	1 VD1689_94 Joz 7:21
+	3 VD1689_94 Joz 8:9
+	2 VD1689_94 Joz 8:11
+	2 VD1689_94 Joz 8:12
+	1 VD1689_94 Joz 8:22
+	1 VD1689_94 Joz 9:21
+	1 VD1689_94 Joz 10:1
+	1 VD1689_94 Joz 14:0
+	1 VD1689_94 Joz 14:15
+	1 VD1689_94 Joz 15:13
+	1 VD1689_94 Joz 19:1
+	1 VD1689_94 Joz 21:41
+	2 VD1689_94 Joz 22:25
+	3 VD1689_94 Joz 22:27
+	2 VD1689_94 Joz 22:28
+	1 VD1689_94 Joz 22:34
+	2 VD1689_94 Joz 24:7
+	1 VD1689_94 Joz 24:17
+	-----
+	31
 
 
 starpa^
@@ -21919,9 +24155,71 @@ starpa^
 	6
 
 
+§tarpa^
+
+	1 VD1689_94 Joz 18:7
+	-----
+	1
+
+
 starpiba
 
 	1 VD1689_94 Joz 3:4
+	-----
+	1
+
+
+§tawejúchas
+
+	1 VD1689_94 Joz 4:9
+	-----
+	1
+
+
+§teepjahs
+
+	1 VD1689_94 Joz 11:17
+	1 VD1689_94 Joz 12:7
+	1 VD1689_94 Joz 15:2
+	2 VD1689_94 Joz 15:4
+	2 VD1689_94 Joz 15:7
+	1 VD1689_94 Joz 15:8
+	2 VD1689_94 Joz 15:9
+	2 VD1689_94 Joz 15:11
+	1 VD1689_94 Joz 16:1
+	1 VD1689_94 Joz 16:3
+	1 VD1689_94 Joz 16:7
+	1 VD1689_94 Joz 16:8
+	1 VD1689_94 Joz 17:9
+	1 VD1689_94 Joz 17:10
+	1 VD1689_94 Joz 18:11
+	1 VD1689_94 Joz 18:12
+	1 VD1689_94 Joz 18:14
+	1 VD1689_94 Joz 18:15
+	2 VD1689_94 Joz 18:17
+	1 VD1689_94 Joz 19:10
+	1 VD1689_94 Joz 19:11
+	1 VD1689_94 Joz 19:12
+	1 VD1689_94 Joz 19:22
+	1 VD1689_94 Joz 19:26
+	1 VD1689_94 Joz 19:27
+	2 VD1689_94 Joz 19:34
+	-----
+	32
+
+
+§teid§ahs
+
+	1 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 8:19
+	1 VD1689_94 Joz 10:13
+	-----
+	3
+
+
+§tipra
+
+	1 VD1689_94 Joz 4:24
 	-----
 	1
 
@@ -21941,6 +24239,27 @@ stiprajo
 	1
 
 
+§tipreem
+
+	1 VD1689_94 Joz 6:2
+	-----
+	1
+
+
+§tipri
+
+	1 VD1689_94 Joz 1:14
+	1 VD1689_94 Joz 10:2
+	1 VD1689_94 Joz 10:25
+	1 VD1689_94 Joz 14:12
+	1 VD1689_94 Joz 17:0
+	1 VD1689_94 Joz 17:13
+	1 VD1689_94 Joz 17:18
+	1 VD1689_94 Joz 19:35
+	-----
+	8
+
+
 stiprinajees
 
 	1 VD1689_94 Joz 1:6
@@ -21951,9 +24270,51 @@ stiprinajees
 	4
 
 
+§tiprinajtees
+
+	1 VD1689_94 Joz 23:6
+	-----
+	1
+
+
+§tipris
+
+	1 VD1689_94 Joz 17:1
+	-----
+	1
+
+
+§tipro^s
+
+	1 VD1689_94 Joz 10:20
+	-----
+	1
+
+
+§tiprs
+
+	1 VD1689_94 Joz 14:11
+	-----
+	1
+
+
+§tipru
+
+	1 VD1689_94 Joz 19:29
+	-----
+	1
+
+
 stiprums
 
 	1 VD1689_94 Joz 10:7
+	-----
+	1
+
+
+§tiprus
+
+	1 VD1689_94 Joz 8:3
 	-----
 	1
 
@@ -21968,6 +24329,13 @@ stohpu
 stora
 
 	1 VD1689_94 Joz 13:3
+	-----
+	1
+
+
+stuhºeem
+
+	1 VD1689_94 Joz 15:0
 	-----
 	1
 
@@ -21989,9 +24357,71 @@ stuhris
 	2
 
 
-stuhºeem
+úudraba
 
-	1 VD1689_94 Joz 15:0
+	1 VD1689_94 Joz 7:21
+	1 VD1689_94 Joz 24:32
+	-----
+	2
+
+
+úudrabs
+
+	1 VD1689_94 Joz 6:19
+	1 VD1689_94 Joz 7:21
+	1 VD1689_94 Joz 7:22
+	-----
+	3
+
+
+úudrabu
+
+	1 VD1689_94 Joz 6:24
+	1 VD1689_94 Joz 7:24
+	1 VD1689_94 Joz 22:8
+	-----
+	3
+
+
+úuhta
+
+	1 VD1689_94 Joz 22:0
+	-----
+	1
+
+
+úuhtija
+
+	1 VD1689_94 Joz 2:3
+	1 VD1689_94 Joz 7:22
+	1 VD1689_94 Joz 8:9
+	1 VD1689_94 Joz 10:3
+	1 VD1689_94 Joz 10:6
+	1 VD1689_94 Joz 11:1
+	1 VD1689_94 Joz 14:7
+	1 VD1689_94 Joz 22:13
+	-----
+	8
+
+
+úuhtiju
+
+	1 VD1689_94 Joz 24:5
+	1 VD1689_94 Joz 24:12
+	-----
+	2
+
+
+úuhtiúchu
+
+	1 VD1689_94 Joz 18:4
+	-----
+	1
+
+
+úuhtiúi
+
+	1 VD1689_94 Joz 1:16
 	-----
 	1
 
@@ -22010,11 +24440,76 @@ sukus
 	1
 
 
+úullaini
+
+	1 VD1689_94 Joz 1:1
+	-----
+	1
+
+
 sunems
 
 	1 VD1689_94 Joz 19:18
 	-----
 	1
+
+
+úwars
+
+	1 VD1689_94 Joz 7:21
+	-----
+	1
+
+
+§wehreht
+
+	1 VD1689_94 Joz 2:17
+	1 VD1689_94 Joz 2:20
+	1 VD1689_94 Joz 23:7
+	-----
+	3
+
+
+§wehreja
+
+	1 VD1689_94 Joz 6:26
+	1 VD1689_94 Joz 9:15
+	1 VD1689_94 Joz 14:9
+	-----
+	3
+
+
+§wehrejeet
+
+	1 VD1689_94 Joz 2:12
+	-----
+	1
+
+
+§wehrejis
+
+	1 VD1689_94 Joz 1:6
+	-----
+	1
+
+
+§wehrejs
+
+	2 VD1689_94 Joz 5:6
+	1 VD1689_94 Joz 21:43
+	1 VD1689_94 Joz 21:44
+	-----
+	4
+
+
+§wehrejúchi
+
+	1 VD1689_94 Joz 6:22
+	1 VD1689_94 Joz 9:18
+	1 VD1689_94 Joz 9:19
+	1 VD1689_94 Joz 9:20
+	-----
+	4
 
 
 swehreúchana^
@@ -22039,6 +24534,13 @@ swehta
 	1
 
 
+úwehtas
+
+	1 VD1689_94 Joz 24:26
+	-----
+	1
+
+
 swehti
 
 	1 VD1689_94 Joz 7:13
@@ -22053,9 +24555,105 @@ swehtidams
 	1
 
 
+úwehtiht
+
+	1 VD1689_94 Joz 8:33
+	-----
+	1
+
+
 swehtija
 
 	1 VD1689_94 Joz 22:6
+	-----
+	1
+
+
+úwehtija
+
+	1 VD1689_94 Joz 14:13
+	1 VD1689_94 Joz 22:8
+	1 VD1689_94 Joz 24:10
+	-----
+	3
+
+
+úwehtijeetees
+
+	1 VD1689_94 Joz 3:5
+	1 VD1689_94 Joz 7:13
+	-----
+	2
+
+
+úwehtijs
+
+	1 VD1689_94 Joz 17:14
+	-----
+	1
+
+
+úwehtiúchanas
+
+	1 VD1689_94 Joz 8:34
+	-----
+	1
+
+
+úwehts
+
+	1 VD1689_94 Joz 6:19
+	1 VD1689_94 Joz 24:19
+	-----
+	2
+
+
+úwehtumu
+
+	1 VD1689_94 Joz 15:19
+	1 VD1689_94 Joz 23:0
+	-----
+	2
+
+
+úweúcheem
+
+	1 VD1689_94 Joz 24:20
+	-----
+	1
+
+
+úweúchineekeem
+
+	1 VD1689_94 Joz 8:35
+	-----
+	1
+
+
+úweúchineeki
+
+	1 VD1689_94 Joz 8:33
+	-----
+	1
+
+
+úweúchineeku
+
+	1 VD1689_94 Joz 20:9
+	-----
+	1
+
+
+úweúchus
+
+	1 VD1689_94 Joz 24:23
+	-----
+	1
+
+
+úwillinatas
+
+	1 VD1689_94 Joz 5:11
 	-----
 	1
 
@@ -22257,16 +24855,6 @@ ta
 	253
 
 
-ta^
-
-	1 VD1689_94 Joz 6:8
-	1 VD1689_94 Joz 8:9
-	1 VD1689_94 Joz 11:16
-	1 VD1689_94 Joz 21:8
-	-----
-	4
-
-
 ta`
 
 	1 VD1689_94 Joz 1:5
@@ -22323,6 +24911,16 @@ ta`
 	1 VD1689_94 Joz 24:28
 	-----
 	54
+
+
+ta^
+
+	1 VD1689_94 Joz 6:8
+	1 VD1689_94 Joz 8:9
+	1 VD1689_94 Joz 11:16
+	1 VD1689_94 Joz 21:8
+	-----
+	4
 
 
 tad
@@ -22523,6 +25121,13 @@ tadehï
 	5
 
 
+tae&naku
+
+	1 VD1689_94 Joz 21:25
+	-----
+	1
+
+
 tae#naka
 
 	1 VD1689_94 Joz 12:21
@@ -22534,13 +25139,6 @@ tae#naka
 tae#nat
 
 	1 VD1689_94 Joz 16:6
-	-----
-	1
-
-
-tae&naku
-
-	1 VD1689_94 Joz 21:25
 	-----
 	1
 
@@ -22586,6 +25184,38 @@ tahdu
 	1 VD1689_94 Joz 22:3
 	-----
 	1
+
+
+tahïa
+
+	1 VD1689_94 Joz 9:13
+	-----
+	1
+
+
+tahïas
+
+	1 VD1689_94 Joz 9:6
+	1 VD1689_94 Joz 9:9
+	-----
+	2
+
+
+tahïi
+
+	1 VD1689_94 Joz 8:4
+	-----
+	1
+
+
+tahïu
+
+	1 VD1689_94 Joz 3:16
+	1 VD1689_94 Joz 9:22
+	1 VD1689_94 Joz 22:29
+	1 VD1689_94 Joz 24:16
+	-----
+	4
 
 
 tahm
@@ -22708,38 +25338,6 @@ tahs
 	107
 
 
-tahïa
-
-	1 VD1689_94 Joz 9:13
-	-----
-	1
-
-
-tahïas
-
-	1 VD1689_94 Joz 9:6
-	1 VD1689_94 Joz 9:9
-	-----
-	2
-
-
-tahïi
-
-	1 VD1689_94 Joz 8:4
-	-----
-	1
-
-
-tahïu
-
-	1 VD1689_94 Joz 3:16
-	1 VD1689_94 Joz 9:22
-	1 VD1689_94 Joz 22:29
-	1 VD1689_94 Joz 24:16
-	-----
-	4
-
-
 tai
 
 	3 VD1689_94 Joz 1:4
@@ -22774,6 +25372,17 @@ tai
 	35
 
 
+tai`
+
+	1 VD1689_94 Joz 6:0
+	1 VD1689_94 Joz 8:25
+	1 VD1689_94 Joz 9:27
+	1 VD1689_94 Joz 15:5
+	1 VD1689_94 Joz 24:26
+	-----
+	5
+
+
 tai^
 
 	1 VD1689_94 Joz 1:14
@@ -22805,17 +25414,6 @@ tai^
 	1 VD1689_94 Joz 24:32
 	-----
 	29
-
-
-tai`
-
-	1 VD1689_94 Joz 6:0
-	1 VD1689_94 Joz 8:25
-	1 VD1689_94 Joz 9:27
-	1 VD1689_94 Joz 15:5
-	1 VD1689_94 Joz 24:26
-	-----
-	5
 
 
 taiúajt
@@ -22909,6 +25507,14 @@ tam
 	61
 
 
+tanni`
+
+	1 VD1689_94 Joz 5:2
+	1 VD1689_94 Joz 8:13
+	-----
+	2
+
+
 tanni^
 
 	1 VD1689_94 Joz 5:12
@@ -22924,14 +25530,6 @@ tanni^s
 	1 VD1689_94 Joz 20:6
 	-----
 	1
-
-
-tanni`
-
-	1 VD1689_94 Joz 5:2
-	1 VD1689_94 Joz 8:13
-	-----
-	2
 
 
 tapehz
@@ -24079,16 +26677,16 @@ telti
 	3
 
 
-telti^
+telti`
 
-	1 VD1689_94 Joz 7:22
+	1 VD1689_94 Joz 7:21
 	-----
 	1
 
 
-telti`
+telti^
 
-	1 VD1689_94 Joz 7:21
+	1 VD1689_94 Joz 7:22
 	-----
 	1
 
@@ -24806,6 +27404,48 @@ truhk§t
 	3
 
 
+túchetr
+
+	1 VD1689_94 Joz 10:0
+	1 VD1689_94 Joz 19:7
+	1 VD1689_94 Joz 21:18
+	1 VD1689_94 Joz 21:22
+	1 VD1689_94 Joz 21:24
+	1 VD1689_94 Joz 21:29
+	1 VD1689_94 Joz 21:31
+	1 VD1689_94 Joz 21:35
+	1 VD1689_94 Joz 21:37
+	1 VD1689_94 Joz 21:39
+	-----
+	10
+
+
+túchetrdeúmits
+
+	1 VD1689_94 Joz 4:13
+	1 VD1689_94 Joz 5:6
+	1 VD1689_94 Joz 14:7
+	1 VD1689_94 Joz 14:10
+	1 VD1689_94 Joz 21:41
+	-----
+	5
+
+
+túchetreem
+
+	1 VD1689_94 Joz 15:0
+	-----
+	1
+
+
+túchetrpadeúmits
+
+	1 VD1689_94 Joz 15:36
+	1 VD1689_94 Joz 18:28
+	-----
+	2
+
+
 tu
 
 	1 VD1689_94 Joz 1:2
@@ -24905,6 +27545,13 @@ tukúneúi
 	1
 
 
+tukúneúi`
+
+	1 VD1689_94 Joz 5:4
+	-----
+	1
+
+
 tukúneúi^
 
 	1 VD1689_94 Joz 5:0
@@ -24922,13 +27569,6 @@ tukúneúi^
 tukúneúi^{tukúneúi}
 
 	1 VD1689_94 Joz 5:5
-	-----
-	1
-
-
-tukúneúi`
-
-	1 VD1689_94 Joz 5:4
 	-----
 	1
 
@@ -25120,15 +27760,6 @@ turrenes
 	9
 
 
-turretees
-
-	1 VD1689_94 Joz 8:2
-	1 VD1689_94 Joz 8:4
-	1 VD1689_94 Joz 8:12
-	-----
-	3
-
-
 turreúees
 
 	1 VD1689_94 Joz 1:8
@@ -25141,6 +27772,15 @@ turreúeet
 	1 VD1689_94 Joz 1:15
 	-----
 	1
+
+
+turretees
+
+	1 VD1689_94 Joz 8:2
+	1 VD1689_94 Joz 8:4
+	1 VD1689_94 Joz 8:12
+	-----
+	3
 
 
 turri
@@ -25161,48 +27801,6 @@ tuwu
 
 	1 VD1689_94 Joz 3:4
 	1 VD1689_94 Joz 9:16
-	-----
-	2
-
-
-túchetr
-
-	1 VD1689_94 Joz 10:0
-	1 VD1689_94 Joz 19:7
-	1 VD1689_94 Joz 21:18
-	1 VD1689_94 Joz 21:22
-	1 VD1689_94 Joz 21:24
-	1 VD1689_94 Joz 21:29
-	1 VD1689_94 Joz 21:31
-	1 VD1689_94 Joz 21:35
-	1 VD1689_94 Joz 21:37
-	1 VD1689_94 Joz 21:39
-	-----
-	10
-
-
-túchetrdeúmits
-
-	1 VD1689_94 Joz 4:13
-	1 VD1689_94 Joz 5:6
-	1 VD1689_94 Joz 14:7
-	1 VD1689_94 Joz 14:10
-	1 VD1689_94 Joz 21:41
-	-----
-	5
-
-
-túchetreem
-
-	1 VD1689_94 Joz 15:0
-	-----
-	1
-
-
-túchetrpadeúmits
-
-	1 VD1689_94 Joz 15:36
-	1 VD1689_94 Joz 18:28
 	-----
 	2
 
@@ -25353,34 +27951,6 @@ uhskºahwe
 	1
 
 
-uhsrahdihts
-
-	1 VD1689_94 Joz 7:18
-	-----
-	1
-
-
-uhstaiúija
-
-	1 VD1689_94 Joz 8:30
-	-----
-	1
-
-
-uhszehle
-
-	1 VD1689_94 Joz 24:26
-	-----
-	1
-
-
-uhszehluúchi
-
-	1 VD1689_94 Joz 22:23
-	-----
-	1
-
-
 uhsòehme
 
 	1 VD1689_94 Joz 8:19
@@ -25430,6 +28000,34 @@ uhsòems
 uhsòemt
 
 	1 VD1689_94 Joz 1:0
+	-----
+	1
+
+
+uhsrahdihts
+
+	1 VD1689_94 Joz 7:18
+	-----
+	1
+
+
+uhstaiúija
+
+	1 VD1689_94 Joz 8:30
+	-----
+	1
+
+
+uhszehle
+
+	1 VD1689_94 Joz 24:26
+	-----
+	1
+
+
+uhszehluúchi
+
+	1 VD1689_94 Joz 22:23
 	-----
 	1
 
@@ -26090,6 +28688,16 @@ uppi
 	2
 
 
+uppuºeem
+
+	1 VD1689_94 Joz 22:26
+	1 VD1689_94 Joz 22:27
+	1 VD1689_94 Joz 22:28
+	1 VD1689_94 Joz 22:29
+	-----
+	4
+
+
 uppureht
 
 	1 VD1689_94 Joz 22:23
@@ -26102,16 +28710,6 @@ uppureja
 	2 VD1689_94 Joz 8:31
 	-----
 	2
-
-
-uppuºeem
-
-	1 VD1689_94 Joz 22:26
-	1 VD1689_94 Joz 22:27
-	1 VD1689_94 Joz 22:28
-	1 VD1689_94 Joz 22:29
-	-----
-	4
 
 
 uppuºi
@@ -26363,6 +28961,58 @@ usluhkoht
 	1
 
 
+usòehme
+
+	1 VD1689_94 Joz 6:21
+	1 VD1689_94 Joz 10:35
+	1 VD1689_94 Joz 11:12
+	-----
+	3
+
+
+usòehmis
+
+	1 VD1689_94 Joz 10:1
+	1 VD1689_94 Joz 12:0
+	-----
+	2
+
+
+usòehmuúchi
+
+	1 VD1689_94 Joz 2:1
+	-----
+	1
+
+
+usòem
+
+	1 VD1689_94 Joz 10:0
+	-----
+	1
+
+
+usòemta
+
+	1 VD1689_94 Joz 11:0
+	-----
+	1
+
+
+usòemts
+
+	1 VD1689_94 Joz 6:0
+	-----
+	1
+
+
+usòemtu
+
+	1 VD1689_94 Joz 13:0
+	-----
+	1
+
+
 usrahdihs
 
 	3 VD1689_94 Joz 7:14
@@ -26414,13 +29064,6 @@ usrak§tija
 	1
 
 
-ustaisijúchi
-
-	1 VD1689_94 Joz 22:16
-	-----
-	1
-
-
 ustaiúa
 
 	1 VD1689_94 Joz 8:0
@@ -26442,6 +29085,13 @@ ustaiúija
 	1 VD1689_94 Joz 19:50
 	-----
 	2
+
+
+ustaisijúchi
+
+	1 VD1689_94 Joz 22:16
+	-----
+	1
 
 
 ustizzamu
@@ -26499,6 +29149,13 @@ uszeldami
 	2
 
 
+uszelúim
+
+	1 VD1689_94 Joz 22:26
+	-----
+	1
+
+
 uszelti
 
 	1 VD1689_94 Joz 4:0
@@ -26509,65 +29166,6 @@ uszelti
 uszelts
 
 	1 VD1689_94 Joz 18:0
-	-----
-	1
-
-
-uszelúim
-
-	1 VD1689_94 Joz 22:26
-	-----
-	1
-
-
-usòehme
-
-	1 VD1689_94 Joz 6:21
-	1 VD1689_94 Joz 10:35
-	1 VD1689_94 Joz 11:12
-	-----
-	3
-
-
-usòehmis
-
-	1 VD1689_94 Joz 10:1
-	1 VD1689_94 Joz 12:0
-	-----
-	2
-
-
-usòehmuúchi
-
-	1 VD1689_94 Joz 2:1
-	-----
-	1
-
-
-usòem
-
-	1 VD1689_94 Joz 10:0
-	-----
-	1
-
-
-usòemta
-
-	1 VD1689_94 Joz 11:0
-	-----
-	1
-
-
-usòemts
-
-	1 VD1689_94 Joz 6:0
-	-----
-	1
-
-
-usòemtu
-
-	1 VD1689_94 Joz 13:0
 	-----
 	1
 
@@ -26858,6 +29456,14 @@ warr
 	6
 
 
+waººa
+
+	1 VD1689_94 Joz 6:19
+	1 VD1689_94 Joz 6:24
+	-----
+	2
+
+
 warram
 
 	1 VD1689_94 Joz 9:7
@@ -26921,14 +29527,6 @@ warru
 
 	1 VD1689_94 Joz 2:1
 	1 VD1689_94 Joz 14:12
-	-----
-	2
-
-
-waººa
-
-	1 VD1689_94 Joz 6:19
-	1 VD1689_94 Joz 6:24
 	-----
 	2
 
@@ -27287,6 +29885,13 @@ were§iteºus
 	1
 
 
+weúúeleem
+
+	1 VD1689_94 Joz 8:31
+	-----
+	1
+
+
 wezz
 
 	2 VD1689_94 Joz 13:1
@@ -27354,13 +29959,6 @@ wezzus
 	1 VD1689_94 Joz 9:5
 	-----
 	3
-
-
-weúúeleem
-
-	1 VD1689_94 Joz 8:31
-	-----
-	1
 
 
 widdu
@@ -27577,190 +30175,6 @@ wiltu
 	1 VD1689_94 Joz 9:3
 	-----
 	3
-
-
-wirs
-
-	1 VD1689_94 Joz 2:11
-	-----
-	1
-
-
-wirs=galla
-
-	1 VD1689_94 Joz 15:9
-	-----
-	1
-
-
-wirs=gallam
-
-	1 VD1689_94 Joz 15:8
-	-----
-	1
-
-
-wirwe
-
-	1 VD1689_94 Joz 2:0
-	-----
-	1
-
-
-wirwi
-
-	1 VD1689_94 Joz 2:15
-	1 VD1689_94 Joz 2:18
-	1 VD1689_94 Joz 2:21
-	-----
-	3
-
-
-wirúneekeem
-
-	1 VD1689_94 Joz 1:10
-	1 VD1689_94 Joz 8:33
-	1 VD1689_94 Joz 9:18
-	1 VD1689_94 Joz 10:24
-	1 VD1689_94 Joz 22:21
-	-----
-	5
-
-
-wirúneeki
-
-	1 VD1689_94 Joz 3:2
-	1 VD1689_94 Joz 9:15
-	1 VD1689_94 Joz 9:18
-	1 VD1689_94 Joz 9:19
-	2 VD1689_94 Joz 9:21
-	1 VD1689_94 Joz 22:30
-	1 VD1689_94 Joz 22:32
-	-----
-	8
-
-
-wirúneeks
-
-	1 VD1689_94 Joz 5:14
-	1 VD1689_94 Joz 5:15
-	-----
-	2
-
-
-wirúneeku
-
-	1 VD1689_94 Joz 22:14
-	-----
-	1
-
-
-wirúneekus
-
-	1 VD1689_94 Joz 22:14
-	1 VD1689_94 Joz 23:2
-	1 VD1689_94 Joz 24:1
-	-----
-	3
-
-
-wirúu^
-
-	1 VD1689_94 Joz 2:11
-	-----
-	1
-
-
-wirúus
-
-	1 VD1689_94 Joz 23:15
-	1 VD1689_94 Joz 23:16
-	-----
-	2
-
-
-wiò§ch
-
-	1 VD1689_94 Joz 1:17
-	1 VD1689_94 Joz 3:1
-	1 VD1689_94 Joz 3:10
-	1 VD1689_94 Joz 4:4
-	1 VD1689_94 Joz 4:21
-	1 VD1689_94 Joz 4:23
-	1 VD1689_94 Joz 5:6
-	1 VD1689_94 Joz 5:7
-	1 VD1689_94 Joz 5:13
-	1 VD1689_94 Joz 6:7
-	1 VD1689_94 Joz 6:11
-	1 VD1689_94 Joz 6:26
-	1 VD1689_94 Joz 7:2
-	1 VD1689_94 Joz 7:6
-	2 VD1689_94 Joz 7:15
-	1 VD1689_94 Joz 7:17
-	1 VD1689_94 Joz 8:10
-	1 VD1689_94 Joz 8:12
-	2 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 8:19
-	2 VD1689_94 Joz 8:26
-	1 VD1689_94 Joz 8:27
-	1 VD1689_94 Joz 8:29
-	2 VD1689_94 Joz 8:32
-	1 VD1689_94 Joz 8:34
-	1 VD1689_94 Joz 9:9
-	1 VD1689_94 Joz 9:10
-	1 VD1689_94 Joz 9:24
-	1 VD1689_94 Joz 9:26
-	1 VD1689_94 Joz 9:27
-	1 VD1689_94 Joz 10:1
-	1 VD1689_94 Joz 10:7
-	1 VD1689_94 Joz 10:10
-	3 VD1689_94 Joz 10:28
-	3 VD1689_94 Joz 10:30
-	2 VD1689_94 Joz 10:32
-	1 VD1689_94 Joz 10:33
-	2 VD1689_94 Joz 10:35
-	2 VD1689_94 Joz 10:37
-	4 VD1689_94 Joz 10:39
-	2 VD1689_94 Joz 10:40
-	1 VD1689_94 Joz 11:1
-	2 VD1689_94 Joz 11:9
-	1 VD1689_94 Joz 11:10
-	1 VD1689_94 Joz 11:11
-	1 VD1689_94 Joz 11:15
-	1 VD1689_94 Joz 11:17
-	2 VD1689_94 Joz 11:20
-	2 VD1689_94 Joz 13:14
-	1 VD1689_94 Joz 13:33
-	1 VD1689_94 Joz 14:3
-	1 VD1689_94 Joz 14:10
-	1 VD1689_94 Joz 15:13
-	1 VD1689_94 Joz 15:15
-	1 VD1689_94 Joz 15:17
-	1 VD1689_94 Joz 17:1
-	1 VD1689_94 Joz 17:4
-	1 VD1689_94 Joz 17:10
-	2 VD1689_94 Joz 19:50
-	1 VD1689_94 Joz 20:4
-	1 VD1689_94 Joz 20:5
-	2 VD1689_94 Joz 20:6
-	1 VD1689_94 Joz 20:9
-	1 VD1689_94 Joz 21:43
-	1 VD1689_94 Joz 22:4
-	1 VD1689_94 Joz 22:8
-	1 VD1689_94 Joz 22:18
-	1 VD1689_94 Joz 22:22
-	1 VD1689_94 Joz 23:10
-	1 VD1689_94 Joz 23:15
-	2 VD1689_94 Joz 23:16
-	2 VD1689_94 Joz 24:7
-	1 VD1689_94 Joz 24:9
-	1 VD1689_94 Joz 24:10
-	2 VD1689_94 Joz 24:19
-	2 VD1689_94 Joz 24:20
-	1 VD1689_94 Joz 24:27
-	1 VD1689_94 Joz 24:31
-	-----
-	102
 
 
 wiòò=puús
@@ -28169,6 +30583,190 @@ wiòòus
 	6
 
 
+wiò§ch
+
+	1 VD1689_94 Joz 1:17
+	1 VD1689_94 Joz 3:1
+	1 VD1689_94 Joz 3:10
+	1 VD1689_94 Joz 4:4
+	1 VD1689_94 Joz 4:21
+	1 VD1689_94 Joz 4:23
+	1 VD1689_94 Joz 5:6
+	1 VD1689_94 Joz 5:7
+	1 VD1689_94 Joz 5:13
+	1 VD1689_94 Joz 6:7
+	1 VD1689_94 Joz 6:11
+	1 VD1689_94 Joz 6:26
+	1 VD1689_94 Joz 7:2
+	1 VD1689_94 Joz 7:6
+	2 VD1689_94 Joz 7:15
+	1 VD1689_94 Joz 7:17
+	1 VD1689_94 Joz 8:10
+	1 VD1689_94 Joz 8:12
+	2 VD1689_94 Joz 8:14
+	1 VD1689_94 Joz 8:19
+	2 VD1689_94 Joz 8:26
+	1 VD1689_94 Joz 8:27
+	1 VD1689_94 Joz 8:29
+	2 VD1689_94 Joz 8:32
+	1 VD1689_94 Joz 8:34
+	1 VD1689_94 Joz 9:9
+	1 VD1689_94 Joz 9:10
+	1 VD1689_94 Joz 9:24
+	1 VD1689_94 Joz 9:26
+	1 VD1689_94 Joz 9:27
+	1 VD1689_94 Joz 10:1
+	1 VD1689_94 Joz 10:7
+	1 VD1689_94 Joz 10:10
+	3 VD1689_94 Joz 10:28
+	3 VD1689_94 Joz 10:30
+	2 VD1689_94 Joz 10:32
+	1 VD1689_94 Joz 10:33
+	2 VD1689_94 Joz 10:35
+	2 VD1689_94 Joz 10:37
+	4 VD1689_94 Joz 10:39
+	2 VD1689_94 Joz 10:40
+	1 VD1689_94 Joz 11:1
+	2 VD1689_94 Joz 11:9
+	1 VD1689_94 Joz 11:10
+	1 VD1689_94 Joz 11:11
+	1 VD1689_94 Joz 11:15
+	1 VD1689_94 Joz 11:17
+	2 VD1689_94 Joz 11:20
+	2 VD1689_94 Joz 13:14
+	1 VD1689_94 Joz 13:33
+	1 VD1689_94 Joz 14:3
+	1 VD1689_94 Joz 14:10
+	1 VD1689_94 Joz 15:13
+	1 VD1689_94 Joz 15:15
+	1 VD1689_94 Joz 15:17
+	1 VD1689_94 Joz 17:1
+	1 VD1689_94 Joz 17:4
+	1 VD1689_94 Joz 17:10
+	2 VD1689_94 Joz 19:50
+	1 VD1689_94 Joz 20:4
+	1 VD1689_94 Joz 20:5
+	2 VD1689_94 Joz 20:6
+	1 VD1689_94 Joz 20:9
+	1 VD1689_94 Joz 21:43
+	1 VD1689_94 Joz 22:4
+	1 VD1689_94 Joz 22:8
+	1 VD1689_94 Joz 22:18
+	1 VD1689_94 Joz 22:22
+	1 VD1689_94 Joz 23:10
+	1 VD1689_94 Joz 23:15
+	2 VD1689_94 Joz 23:16
+	2 VD1689_94 Joz 24:7
+	1 VD1689_94 Joz 24:9
+	1 VD1689_94 Joz 24:10
+	2 VD1689_94 Joz 24:19
+	2 VD1689_94 Joz 24:20
+	1 VD1689_94 Joz 24:27
+	1 VD1689_94 Joz 24:31
+	-----
+	102
+
+
+wirs
+
+	1 VD1689_94 Joz 2:11
+	-----
+	1
+
+
+wirs=galla
+
+	1 VD1689_94 Joz 15:9
+	-----
+	1
+
+
+wirs=gallam
+
+	1 VD1689_94 Joz 15:8
+	-----
+	1
+
+
+wirúneekeem
+
+	1 VD1689_94 Joz 1:10
+	1 VD1689_94 Joz 8:33
+	1 VD1689_94 Joz 9:18
+	1 VD1689_94 Joz 10:24
+	1 VD1689_94 Joz 22:21
+	-----
+	5
+
+
+wirúneeki
+
+	1 VD1689_94 Joz 3:2
+	1 VD1689_94 Joz 9:15
+	1 VD1689_94 Joz 9:18
+	1 VD1689_94 Joz 9:19
+	2 VD1689_94 Joz 9:21
+	1 VD1689_94 Joz 22:30
+	1 VD1689_94 Joz 22:32
+	-----
+	8
+
+
+wirúneeks
+
+	1 VD1689_94 Joz 5:14
+	1 VD1689_94 Joz 5:15
+	-----
+	2
+
+
+wirúneeku
+
+	1 VD1689_94 Joz 22:14
+	-----
+	1
+
+
+wirúneekus
+
+	1 VD1689_94 Joz 22:14
+	1 VD1689_94 Joz 23:2
+	1 VD1689_94 Joz 24:1
+	-----
+	3
+
+
+wirúu^
+
+	1 VD1689_94 Joz 2:11
+	-----
+	1
+
+
+wirúus
+
+	1 VD1689_94 Joz 23:15
+	1 VD1689_94 Joz 23:16
+	-----
+	2
+
+
+wirwe
+
+	1 VD1689_94 Joz 2:0
+	-----
+	1
+
+
+wirwi
+
+	1 VD1689_94 Joz 2:15
+	1 VD1689_94 Joz 2:18
+	1 VD1689_94 Joz 2:21
+	-----
+	3
+
+
 wiús
 
 	2 VD1689_94 Joz 2:19
@@ -28206,14 +30804,6 @@ wiús=ma§aka
 	1 VD1689_94 Joz 21:41
 	-----
 	1
-
-
-wiúsapkahrt
-
-	1 VD1689_94 Joz 21:44
-	1 VD1689_94 Joz 23:1
-	-----
-	2
 
 
 wiúúa
@@ -28284,6 +30874,14 @@ wiúúam
 	1 VD1689_94 Joz 12:1
 	-----
 	1
+
+
+wiúsapkahrt
+
+	1 VD1689_94 Joz 21:44
+	1 VD1689_94 Joz 23:1
+	-----
+	2
 
 
 wiúúas
@@ -28768,6 +31366,44 @@ zelaweadam
 	1
 
 
+zeïïa
+
+	1 VD1689_94 Joz 9:13
+	-----
+	1
+
+
+zeïïa=barribas
+
+	1 VD1689_94 Joz 9:14
+	-----
+	1
+
+
+zeïïa=barribu
+
+	1 VD1689_94 Joz 1:11
+	1 VD1689_94 Joz 9:11
+	1 VD1689_94 Joz 9:12
+	-----
+	3
+
+
+zeïïahs
+
+	1 VD1689_94 Joz 18:4
+	-----
+	1
+
+
+zeïïeem
+
+	1 VD1689_94 Joz 1:8
+	1 VD1689_94 Joz 24:17
+	-----
+	2
+
+
 zellees
 
 	1 VD1689_94 Joz 1:2
@@ -28792,6 +31428,40 @@ zelles
 	1
 
 
+zeïïo^s
+
+	1 VD1689_94 Joz 2:22
+	1 VD1689_94 Joz 22:5
+	-----
+	2
+
+
+zeïïu
+
+	1 VD1689_94 Joz 2:7
+	1 VD1689_94 Joz 2:16
+	2 VD1689_94 Joz 3:4
+	1 VD1689_94 Joz 5:4
+	1 VD1689_94 Joz 5:5
+	1 VD1689_94 Joz 5:7
+	1 VD1689_94 Joz 7:5
+	1 VD1689_94 Joz 8:15
+	1 VD1689_94 Joz 9:5
+	1 VD1689_94 Joz 10:10
+	1 VD1689_94 Joz 10:11
+	1 VD1689_94 Joz 12:3
+	1 VD1689_94 Joz 23:14
+	-----
+	14
+
+
+zelúees
+
+	1 VD1689_94 Joz 6:26
+	-----
+	1
+
+
 zeltees
 
 	1 VD1689_94 Joz 22:33
@@ -28802,13 +31472,6 @@ zeltees
 zeltohs
 
 	1 VD1689_94 Joz 22:12
-	-----
-	1
-
-
-zelúees
-
-	1 VD1689_94 Joz 6:26
 	-----
 	1
 
@@ -28854,71 +31517,6 @@ zettorta^padeúmita^
 	1 VD1689_94 Joz 5:10
 	-----
 	1
-
-
-zeïïa
-
-	1 VD1689_94 Joz 9:13
-	-----
-	1
-
-
-zeïïa=barribas
-
-	1 VD1689_94 Joz 9:14
-	-----
-	1
-
-
-zeïïa=barribu
-
-	1 VD1689_94 Joz 1:11
-	1 VD1689_94 Joz 9:11
-	1 VD1689_94 Joz 9:12
-	-----
-	3
-
-
-zeïïahs
-
-	1 VD1689_94 Joz 18:4
-	-----
-	1
-
-
-zeïïeem
-
-	1 VD1689_94 Joz 1:8
-	1 VD1689_94 Joz 24:17
-	-----
-	2
-
-
-zeïïo^s
-
-	1 VD1689_94 Joz 2:22
-	1 VD1689_94 Joz 22:5
-	-----
-	2
-
-
-zeïïu
-
-	1 VD1689_94 Joz 2:7
-	1 VD1689_94 Joz 2:16
-	2 VD1689_94 Joz 3:4
-	1 VD1689_94 Joz 5:4
-	1 VD1689_94 Joz 5:5
-	1 VD1689_94 Joz 5:7
-	1 VD1689_94 Joz 7:5
-	1 VD1689_94 Joz 8:15
-	1 VD1689_94 Joz 9:5
-	1 VD1689_94 Joz 10:10
-	1 VD1689_94 Joz 10:11
-	1 VD1689_94 Joz 12:3
-	1 VD1689_94 Joz 23:14
-	-----
-	14
 
 
 zidim
@@ -29209,2604 +31807,6 @@ zuru
 	1
 
 
-§agguúchi
-
-	1 VD1689_94 Joz 7:11
-	-----
-	1
-
-
-§chehlojahs
-
-	1 VD1689_94 Joz 17:0
-	-----
-	1
-
-
-§emm
-
-	1 VD1689_94 Joz 16:0
-	-----
-	1
-
-
-§inna
-
-	2 VD1689_94 Joz 22:22
-	-----
-	2
-
-
-§innaht
-
-	1 VD1689_94 Joz 3:4
-	1 VD1689_94 Joz 3:7
-	1 VD1689_94 Joz 3:10
-	-----
-	3
-
-
-§innaja
-
-	1 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 24:31
-	-----
-	2
-
-
-§innajt
-
-	1 VD1689_94 Joz 23:13
-	-----
-	1
-
-
-§innaju
-
-	1 VD1689_94 Joz 2:4
-	-----
-	1
-
-
-§innamu
-
-	1 VD1689_94 Joz 2:14
-	1 VD1689_94 Joz 2:20
-	-----
-	2
-
-
-§innat
-
-	1 VD1689_94 Joz 23:14
-	-----
-	1
-
-
-§inni
-
-	1 VD1689_94 Joz 14:6
-	-----
-	1
-
-
-§innu
-
-	1 VD1689_94 Joz 2:5
-	1 VD1689_94 Joz 2:9
-	-----
-	2
-
-
-§kaidri
-
-	1 VD1689_94 Joz 24:14
-	-----
-	1
-
-
-§kaititi
-
-	1 VD1689_94 Joz 21:41
-	-----
-	1
-
-
-§kattijahs
-
-	1 VD1689_94 Joz 8:20
-	-----
-	1
-
-
-§kubbina
-
-	1 VD1689_94 Joz 1:0
-	-----
-	1
-
-
-§peede
-
-	1 VD1689_94 Joz 17:13
-	-----
-	1
-
-
-§pehzigi
-
-	1 VD1689_94 Joz 1:14
-	-----
-	1
-
-
-§pehzigus
-
-	1 VD1689_94 Joz 8:3
-	-----
-	1
-
-
-§perúeet
-
-	1 VD1689_94 Joz 1:3
-	-----
-	1
-
-
-§tahw
-
-	1 VD1689_94 Joz 1:8
-	1 VD1689_94 Joz 8:31
-	1 VD1689_94 Joz 8:34
-	1 VD1689_94 Joz 20:6
-	-----
-	4
-
-
-§tahweet
-
-	1 VD1689_94 Joz 10:19
-	-----
-	1
-
-
-§tahwehs
-
-	1 VD1689_94 Joz 3:13
-	-----
-	1
-
-
-§tahweht
-
-	1 VD1689_94 Joz 20:4
-	-----
-	1
-
-
-§tahweja
-
-	1 VD1689_94 Joz 3:16
-	1 VD1689_94 Joz 3:17
-	1 VD1689_94 Joz 4:10
-	1 VD1689_94 Joz 5:13
-	1 VD1689_94 Joz 8:33
-	2 VD1689_94 Joz 10:13
-	1 VD1689_94 Joz 11:13
-	-----
-	8
-
-
-§tahwejs
-
-	1 VD1689_94 Joz 20:9
-	-----
-	1
-
-
-§tahwi
-
-	1 VD1689_94 Joz 5:15
-	1 VD1689_94 Joz 10:12
-	-----
-	2
-
-
-§tahwu
-
-	1 VD1689_94 Joz 3:16
-	-----
-	1
-
-
-§tah§ta
-
-	1 VD1689_94 Joz 23:0
-	-----
-	1
-
-
-§tah§ti
-
-	1 VD1689_94 Joz 7:19
-	-----
-	1
-
-
-§tah§tihts
-
-	1 VD1689_94 Joz 9:24
-	-----
-	1
-
-
-§taigadami
-
-	1 VD1689_94 Joz 6:9
-	-----
-	1
-
-
-§taigaht
-
-	1 VD1689_94 Joz 24:3
-	-----
-	1
-
-
-§taigahts
-
-	1 VD1689_94 Joz 6:13
-	-----
-	1
-
-
-§taigaja
-
-	1 VD1689_94 Joz 5:6
-	1 VD1689_94 Joz 6:8
-	1 VD1689_94 Joz 8:35
-	-----
-	3
-
-
-§taigajat
-
-	1 VD1689_94 Joz 22:5
-	-----
-	1
-
-
-§taigajoht
-
-	1 VD1689_94 Joz 14:10
-	-----
-	1
-
-
-§tarp
-
-	2 VD1689_94 Joz 3:4
-	1 VD1689_94 Joz 7:11
-	1 VD1689_94 Joz 7:13
-	1 VD1689_94 Joz 7:21
-	3 VD1689_94 Joz 8:9
-	2 VD1689_94 Joz 8:11
-	2 VD1689_94 Joz 8:12
-	1 VD1689_94 Joz 8:22
-	1 VD1689_94 Joz 9:21
-	1 VD1689_94 Joz 10:1
-	1 VD1689_94 Joz 14:0
-	1 VD1689_94 Joz 14:15
-	1 VD1689_94 Joz 15:13
-	1 VD1689_94 Joz 19:1
-	1 VD1689_94 Joz 21:41
-	2 VD1689_94 Joz 22:25
-	3 VD1689_94 Joz 22:27
-	2 VD1689_94 Joz 22:28
-	1 VD1689_94 Joz 22:34
-	2 VD1689_94 Joz 24:7
-	1 VD1689_94 Joz 24:17
-	-----
-	31
-
-
-§tarpa^
-
-	1 VD1689_94 Joz 18:7
-	-----
-	1
-
-
-§tawejúchas
-
-	1 VD1689_94 Joz 4:9
-	-----
-	1
-
-
-§teepjahs
-
-	1 VD1689_94 Joz 11:17
-	1 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 15:2
-	2 VD1689_94 Joz 15:4
-	2 VD1689_94 Joz 15:7
-	1 VD1689_94 Joz 15:8
-	2 VD1689_94 Joz 15:9
-	2 VD1689_94 Joz 15:11
-	1 VD1689_94 Joz 16:1
-	1 VD1689_94 Joz 16:3
-	1 VD1689_94 Joz 16:7
-	1 VD1689_94 Joz 16:8
-	1 VD1689_94 Joz 17:9
-	1 VD1689_94 Joz 17:10
-	1 VD1689_94 Joz 18:11
-	1 VD1689_94 Joz 18:12
-	1 VD1689_94 Joz 18:14
-	1 VD1689_94 Joz 18:15
-	2 VD1689_94 Joz 18:17
-	1 VD1689_94 Joz 19:10
-	1 VD1689_94 Joz 19:11
-	1 VD1689_94 Joz 19:12
-	1 VD1689_94 Joz 19:22
-	1 VD1689_94 Joz 19:26
-	1 VD1689_94 Joz 19:27
-	2 VD1689_94 Joz 19:34
-	-----
-	32
-
-
-§teid§ahs
-
-	1 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 8:19
-	1 VD1689_94 Joz 10:13
-	-----
-	3
-
-
-§tipra
-
-	1 VD1689_94 Joz 4:24
-	-----
-	1
-
-
-§tipreem
-
-	1 VD1689_94 Joz 6:2
-	-----
-	1
-
-
-§tipri
-
-	1 VD1689_94 Joz 1:14
-	1 VD1689_94 Joz 10:2
-	1 VD1689_94 Joz 10:25
-	1 VD1689_94 Joz 14:12
-	1 VD1689_94 Joz 17:0
-	1 VD1689_94 Joz 17:13
-	1 VD1689_94 Joz 17:18
-	1 VD1689_94 Joz 19:35
-	-----
-	8
-
-
-§tiprinajtees
-
-	1 VD1689_94 Joz 23:6
-	-----
-	1
-
-
-§tipris
-
-	1 VD1689_94 Joz 17:1
-	-----
-	1
-
-
-§tipro^s
-
-	1 VD1689_94 Joz 10:20
-	-----
-	1
-
-
-§tiprs
-
-	1 VD1689_94 Joz 14:11
-	-----
-	1
-
-
-§tipru
-
-	1 VD1689_94 Joz 19:29
-	-----
-	1
-
-
-§tiprus
-
-	1 VD1689_94 Joz 8:3
-	-----
-	1
-
-
-§wehreht
-
-	1 VD1689_94 Joz 2:17
-	1 VD1689_94 Joz 2:20
-	1 VD1689_94 Joz 23:7
-	-----
-	3
-
-
-§wehreja
-
-	1 VD1689_94 Joz 6:26
-	1 VD1689_94 Joz 9:15
-	1 VD1689_94 Joz 14:9
-	-----
-	3
-
-
-§wehrejeet
-
-	1 VD1689_94 Joz 2:12
-	-----
-	1
-
-
-§wehrejis
-
-	1 VD1689_94 Joz 1:6
-	-----
-	1
-
-
-§wehrejs
-
-	2 VD1689_94 Joz 5:6
-	1 VD1689_94 Joz 21:43
-	1 VD1689_94 Joz 21:44
-	-----
-	4
-
-
-§wehrejúchi
-
-	1 VD1689_94 Joz 6:22
-	1 VD1689_94 Joz 9:18
-	1 VD1689_94 Joz 9:19
-	1 VD1689_94 Joz 9:20
-	-----
-	4
-
-
-ìibea
-
-	1 VD1689_94 Joz 15:57
-	-----
-	1
-
-
-ìibeonu
-
-	1 VD1689_94 Joz 21:17
-	-----
-	1
-
-
-ìihmi`
-
-	1 VD1689_94 Joz 5:0
-	1 VD1689_94 Joz 5:13
-	-----
-	2
-
-
-íeeni§iteris
-
-	1 VD1689_94 Joz 14:6
-	-----
-	1
-
-
-íeeni§iteºam
-
-	1 VD1689_94 Joz 14:14
-	-----
-	1
-
-
-íehniòa
-
-	1 VD1689_94 Joz 12:4
-	1 VD1689_94 Joz 12:5
-	1 VD1689_94 Joz 13:10
-	1 VD1689_94 Joz 13:12
-	1 VD1689_94 Joz 13:21
-	2 VD1689_94 Joz 13:27
-	1 VD1689_94 Joz 13:30
-	1 VD1689_94 Joz 13:31
-	-----
-	9
-
-
-íehniòam
-
-	1 VD1689_94 Joz 2:2
-	1 VD1689_94 Joz 8:2
-	2 VD1689_94 Joz 9:10
-	2 VD1689_94 Joz 10:1
-	2 VD1689_94 Joz 10:28
-	2 VD1689_94 Joz 10:30
-	2 VD1689_94 Joz 10:39
-	-----
-	12
-
-
-íehniòeem
-
-	1 VD1689_94 Joz 2:10
-	1 VD1689_94 Joz 9:10
-	1 VD1689_94 Joz 10:0
-	1 VD1689_94 Joz 10:40
-	1 VD1689_94 Joz 11:2
-	1 VD1689_94 Joz 11:18
-	-----
-	6
-
-
-íehniòi
-
-	2 VD1689_94 Joz 5:1
-	1 VD1689_94 Joz 9:0
-	1 VD1689_94 Joz 9:1
-	1 VD1689_94 Joz 10:5
-	1 VD1689_94 Joz 10:6
-	1 VD1689_94 Joz 10:16
-	1 VD1689_94 Joz 10:17
-	1 VD1689_94 Joz 11:5
-	1 VD1689_94 Joz 12:1
-	1 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 12:24
-	-----
-	12
-
-
-íehniòu
-
-	1 VD1689_94 Joz 6:2
-	1 VD1689_94 Joz 8:1
-	1 VD1689_94 Joz 8:23
-	1 VD1689_94 Joz 8:29
-	4 VD1689_94 Joz 10:3
-	4 VD1689_94 Joz 10:23
-	1 VD1689_94 Joz 10:24
-	1 VD1689_94 Joz 10:28
-	1 VD1689_94 Joz 10:30
-	1 VD1689_94 Joz 10:37
-	1 VD1689_94 Joz 10:39
-	3 VD1689_94 Joz 11:1
-	2 VD1689_94 Joz 11:10
-	1 VD1689_94 Joz 11:12
-	1 VD1689_94 Joz 12:0
-	1 VD1689_94 Joz 13:21
-	-----
-	25
-
-
-íehniòus
-
-	2 VD1689_94 Joz 10:0
-	1 VD1689_94 Joz 10:22
-	1 VD1689_94 Joz 10:23
-	1 VD1689_94 Joz 10:24
-	1 VD1689_94 Joz 10:42
-	1 VD1689_94 Joz 11:12
-	1 VD1689_94 Joz 11:17
-	1 VD1689_94 Joz 24:12
-	-----
-	9
-
-
-íehniòu{íehninu}
-
-	1 VD1689_94 Joz 10:23
-	-----
-	1
-
-
-íehniò§ch
-
-	1 VD1689_94 Joz 2:0
-	1 VD1689_94 Joz 2:3
-	1 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 10:0
-	1 VD1689_94 Joz 10:1
-	1 VD1689_94 Joz 10:3
-	5 VD1689_94 Joz 10:5
-	1 VD1689_94 Joz 10:33
-	1 VD1689_94 Joz 11:0
-	1 VD1689_94 Joz 11:1
-	1 VD1689_94 Joz 12:2
-	2 VD1689_94 Joz 12:9
-	2 VD1689_94 Joz 12:10
-	2 VD1689_94 Joz 12:11
-	2 VD1689_94 Joz 12:12
-	2 VD1689_94 Joz 12:13
-	2 VD1689_94 Joz 12:14
-	2 VD1689_94 Joz 12:15
-	2 VD1689_94 Joz 12:16
-	2 VD1689_94 Joz 12:17
-	2 VD1689_94 Joz 12:18
-	2 VD1689_94 Joz 12:19
-	2 VD1689_94 Joz 12:20
-	2 VD1689_94 Joz 12:21
-	2 VD1689_94 Joz 12:22
-	2 VD1689_94 Joz 12:23
-	1 VD1689_94 Joz 12:24
-	1 VD1689_94 Joz 24:9
-	-----
-	47
-
-
-íehniúchkigs
-
-	1 VD1689_94 Joz 10:2
-	-----
-	1
-
-
-íehntòam
-
-	1 VD1689_94 Joz 8:2
-	-----
-	1
-
-
-ïaudim
-
-	1 VD1689_94 Joz 1:6
-	1 VD1689_94 Joz 1:11
-	1 VD1689_94 Joz 3:0
-	1 VD1689_94 Joz 3:3
-	1 VD1689_94 Joz 3:5
-	1 VD1689_94 Joz 3:6
-	1 VD1689_94 Joz 4:2
-	1 VD1689_94 Joz 4:10
-	2 VD1689_94 Joz 6:5
-	1 VD1689_94 Joz 6:7
-	1 VD1689_94 Joz 6:8
-	1 VD1689_94 Joz 6:10
-	1 VD1689_94 Joz 6:16
-	1 VD1689_94 Joz 7:4
-	1 VD1689_94 Joz 8:0
-	1 VD1689_94 Joz 8:9
-	1 VD1689_94 Joz 8:10
-	1 VD1689_94 Joz 21:0
-	1 VD1689_94 Joz 24:0
-	1 VD1689_94 Joz 24:2
-	1 VD1689_94 Joz 24:17
-	1 VD1689_94 Joz 24:19
-	1 VD1689_94 Joz 24:22
-	1 VD1689_94 Joz 24:25
-	1 VD1689_94 Joz 24:27
-	-----
-	26
-
-
-ïaudis
-
-	1 VD1689_94 Joz 1:2
-	1 VD1689_94 Joz 3:14
-	1 VD1689_94 Joz 3:16
-	1 VD1689_94 Joz 3:17
-	1 VD1689_94 Joz 4:1
-	1 VD1689_94 Joz 4:10
-	1 VD1689_94 Joz 4:11
-	1 VD1689_94 Joz 4:19
-	1 VD1689_94 Joz 4:24
-	1 VD1689_94 Joz 5:0
-	1 VD1689_94 Joz 5:4
-	2 VD1689_94 Joz 5:5
-	1 VD1689_94 Joz 5:8
-	1 VD1689_94 Joz 6:0
-	4 VD1689_94 Joz 6:20
-	1 VD1689_94 Joz 7:0
-	2 VD1689_94 Joz 7:3
-	1 VD1689_94 Joz 7:7
-	1 VD1689_94 Joz 7:13
-	1 VD1689_94 Joz 8:1
-	1 VD1689_94 Joz 8:5
-	1 VD1689_94 Joz 8:10
-	1 VD1689_94 Joz 8:13
-	1 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 8:16
-	2 VD1689_94 Joz 8:20
-	1 VD1689_94 Joz 8:25
-	1 VD1689_94 Joz 8:33
-	1 VD1689_94 Joz 10:13
-	1 VD1689_94 Joz 10:21
-	1 VD1689_94 Joz 10:33
-	1 VD1689_94 Joz 11:4
-	1 VD1689_94 Joz 24:0
-	1 VD1689_94 Joz 24:16
-	1 VD1689_94 Joz 24:18
-	1 VD1689_94 Joz 24:21
-	1 VD1689_94 Joz 24:24
-	1 VD1689_94 Joz 24:28
-	-----
-	44
-
-
-ïaunu
-
-	1 VD1689_94 Joz 24:20
-	-----
-	1
-
-
-ïaunumu
-
-	1 VD1689_94 Joz 23:15
-	-----
-	1
-
-
-ïau§chu
-
-	1 VD1689_94 Joz 1:10
-	1 VD1689_94 Joz 3:0
-	1 VD1689_94 Joz 3:6
-	1 VD1689_94 Joz 3:14
-	1 VD1689_94 Joz 4:11
-	1 VD1689_94 Joz 7:5
-	1 VD1689_94 Joz 11:0
-	1 VD1689_94 Joz 14:8
-	1 VD1689_94 Joz 17:14
-	1 VD1689_94 Joz 17:17
-	-----
-	10
-
-
-ïau§hchu
-
-	1 VD1689_94 Joz 17:15
-	-----
-	1
-
-
-ïohti
-
-	1 VD1689_94 Joz 9:22
-	1 VD1689_94 Joz 9:24
-	1 VD1689_94 Joz 10:2
-	1 VD1689_94 Joz 10:20
-	1 VD1689_94 Joz 13:1
-	1 VD1689_94 Joz 22:5
-	1 VD1689_94 Joz 22:8
-	1 VD1689_94 Joz 22:20
-	1 VD1689_94 Joz 23:6
-	1 VD1689_94 Joz 23:11
-	-----
-	10
-
-
-òehme
-
-	1 VD1689_94 Joz 7:1
-	1 VD1689_94 Joz 7:23
-	1 VD1689_94 Joz 7:24
-	1 VD1689_94 Joz 8:12
-	1 VD1689_94 Joz 9:4
-	1 VD1689_94 Joz 9:14
-	1 VD1689_94 Joz 24:26
-	-----
-	7
-
-
-òehmu
-
-	1 VD1689_94 Joz 7:21
-	1 VD1689_94 Joz 24:3
-	-----
-	2
-
-
-òehmuúchi
-
-	1 VD1689_94 Joz 4:20
-	1 VD1689_94 Joz 7:11
-	1 VD1689_94 Joz 9:12
-	1 VD1689_94 Joz 18:7
-	-----
-	4
-
-
-òehmuúi
-
-	1 VD1689_94 Joz 2:4
-	-----
-	1
-
-
-òemdami
-
-	1 VD1689_94 Joz 6:18
-	-----
-	1
-
-
-òemm
-
-	1 VD1689_94 Joz 7:0
-	1 VD1689_94 Joz 8:1
-	-----
-	2
-
-
-òemmeet
-
-	1 VD1689_94 Joz 3:12
-	1 VD1689_94 Joz 9:11
-	1 VD1689_94 Joz 22:19
-	-----
-	3
-
-
-òemmeetees
-
-	1 VD1689_94 Joz 4:2
-	1 VD1689_94 Joz 4:3
-	-----
-	2
-
-
-òemt
-
-	1 VD1689_94 Joz 8:2
-	1 VD1689_94 Joz 20:4
-	-----
-	2
-
-
-úa=eeúchanas
-
-	1 VD1689_94 Joz 18:1
-	1 VD1689_94 Joz 19:51
-	-----
-	2
-
-
-úaded§inaht
-
-	1 VD1689_94 Joz 8:8
-	1 VD1689_94 Joz 11:6
-	-----
-	2
-
-
-úaded§inaja
-
-	1 VD1689_94 Joz 6:24
-	1 VD1689_94 Joz 7:25
-	1 VD1689_94 Joz 8:28
-	1 VD1689_94 Joz 11:9
-	1 VD1689_94 Joz 11:11
-	2 VD1689_94 Joz 11:13
-	-----
-	7
-
-
-úaded§inatam
-
-	1 VD1689_94 Joz 7:15
-	-----
-	1
-
-
-úad§ihje
-
-	1 VD1689_94 Joz 5:8
-	-----
-	1
-
-
-úaguh§tija
-
-	1 VD1689_94 Joz 8:23
-	-----
-	1
-
-
-úahkuúchi
-
-	1 VD1689_94 Joz 7:7
-	-----
-	1
-
-
-úahls=juhºa
-
-	1 VD1689_94 Joz 15:5
-	-----
-	1
-
-
-úahls=juhºa^
-
-	1 VD1689_94 Joz 3:16
-	-----
-	1
-
-
-úahls=juhºai
-
-	1 VD1689_94 Joz 12:3
-	-----
-	1
-
-
-úahls=juhºas
-
-	1 VD1689_94 Joz 15:2
-	1 VD1689_94 Joz 18:19
-	-----
-	2
-
-
-úahls=pilsúahts
-
-	1 VD1689_94 Joz 15:62
-	-----
-	1
-
-
-úahnis
-
-	1 VD1689_94 Joz 3:16
-	2 VD1689_94 Joz 8:33
-	1 VD1689_94 Joz 12:9
-	1 VD1689_94 Joz 15:8
-	1 VD1689_94 Joz 15:10
-	1 VD1689_94 Joz 15:11
-	1 VD1689_94 Joz 15:46
-	2 VD1689_94 Joz 18:12
-	1 VD1689_94 Joz 18:13
-	1 VD1689_94 Joz 18:16
-	1 VD1689_94 Joz 18:19
-	-----
-	13
-
-
-úahno^s
-
-	1 VD1689_94 Joz 8:33
-	1 VD1689_94 Joz 23:13
-	-----
-	2
-
-
-úahze
-
-	1 VD1689_94 Joz 17:12
-	-----
-	1
-
-
-úaime
-
-	1 VD1689_94 Joz 7:14
-	1 VD1689_94 Joz 7:18
-	-----
-	2
-
-
-úaimehm
-
-	1 VD1689_94 Joz 7:14
-	1 VD1689_94 Joz 13:15
-	1 VD1689_94 Joz 13:23
-	1 VD1689_94 Joz 13:24
-	1 VD1689_94 Joz 13:28
-	1 VD1689_94 Joz 13:29
-	1 VD1689_94 Joz 13:31
-	1 VD1689_94 Joz 15:1
-	1 VD1689_94 Joz 15:11
-	1 VD1689_94 Joz 15:20
-	1 VD1689_94 Joz 16:5
-	1 VD1689_94 Joz 16:8
-	2 VD1689_94 Joz 17:2
-	1 VD1689_94 Joz 18:11
-	1 VD1689_94 Joz 18:20
-	1 VD1689_94 Joz 18:21
-	1 VD1689_94 Joz 18:28
-	1 VD1689_94 Joz 19:1
-	1 VD1689_94 Joz 19:8
-	1 VD1689_94 Joz 19:10
-	1 VD1689_94 Joz 19:16
-	1 VD1689_94 Joz 19:17
-	1 VD1689_94 Joz 19:23
-	1 VD1689_94 Joz 19:24
-	1 VD1689_94 Joz 19:31
-	1 VD1689_94 Joz 19:32
-	1 VD1689_94 Joz 19:39
-	1 VD1689_94 Joz 19:40
-	1 VD1689_94 Joz 19:48
-	1 VD1689_94 Joz 21:4
-	1 VD1689_94 Joz 21:5
-	1 VD1689_94 Joz 21:6
-	1 VD1689_94 Joz 21:7
-	1 VD1689_94 Joz 21:10
-	1 VD1689_94 Joz 21:20
-	1 VD1689_94 Joz 21:26
-	1 VD1689_94 Joz 21:27
-	1 VD1689_94 Joz 21:33
-	1 VD1689_94 Joz 21:34
-	2 VD1689_94 Joz 21:40
-	-----
-	42
-
-
-úaimi
-
-	1 VD1689_94 Joz 2:18
-	-----
-	1
-
-
-úaimneekeem
-
-	1 VD1689_94 Joz 7:14
-	1 VD1689_94 Joz 7:17
-	1 VD1689_94 Joz 7:18
-	-----
-	3
-
-
-úakka
-
-	1 VD1689_94 Joz 7:13
-	1 VD1689_94 Joz 22:16
-	1 VD1689_94 Joz 24:2
-	-----
-	3
-
-
-úakkajt
-
-	1 VD1689_94 Joz 9:11
-	-----
-	1
-
-
-úakkam
-
-	1 VD1689_94 Joz 22:11
-	-----
-	1
-
-
-úakkat
-
-	1 VD1689_94 Joz 2:21
-	-----
-	1
-
-
-úakki
-
-	1 VD1689_94 Joz 7:13
-	1 VD1689_94 Joz 20:2
-	-----
-	2
-
-
-úakku
-
-	1 VD1689_94 Joz 24:27
-	-----
-	1
-
-
-úakºahwe
-
-	1 VD1689_94 Joz 8:28
-	-----
-	1
-
-
-úamaitahts
-
-	1 VD1689_94 Joz 10:0
-	-----
-	1
-
-
-úaplihúuúchi
-
-	1 VD1689_94 Joz 9:13
-	-----
-	1
-
-
-úaplihúuúchus
-
-	1 VD1689_94 Joz 9:5
-	-----
-	1
-
-
-úaplohúija
-
-	1 VD1689_94 Joz 7:6
-	-----
-	1
-
-
-úaprattigi
-
-	1 VD1689_94 Joz 1:7
-	1 VD1689_94 Joz 1:8
-	-----
-	2
-
-
-úapulzejahs
-
-	1 VD1689_94 Joz 9:2
-	1 VD1689_94 Joz 10:5
-	1 VD1689_94 Joz 11:5
-	1 VD1689_94 Joz 18:1
-	1 VD1689_94 Joz 22:12
-	-----
-	5
-
-
-úapulzejúchees
-
-	1 VD1689_94 Joz 10:6
-	-----
-	1
-
-
-úapulzina
-
-	1 VD1689_94 Joz 11:0
-	-----
-	1
-
-
-úapulzinaht
-
-	1 VD1689_94 Joz 2:18
-	-----
-	1
-
-
-úapulzinaja
-
-	1 VD1689_94 Joz 24:1
-	-----
-	1
-
-
-úargaht
-
-	1 VD1689_94 Joz 10:18
-	-----
-	1
-
-
-úargajeetees
-
-	1 VD1689_94 Joz 6:18
-	1 VD1689_94 Joz 22:5
-	-----
-	2
-
-
-úargajt
-
-	1 VD1689_94 Joz 23:11
-	-----
-	1
-
-
-úargatiòu
-
-	1 VD1689_94 Joz 22:3
-	-----
-	1
-
-
-úarkana
-
-	1 VD1689_94 Joz 2:0
-	-----
-	1
-
-
-úarkanu
-
-	1 VD1689_94 Joz 2:18
-	1 VD1689_94 Joz 2:21
-	-----
-	2
-
-
-úaukts
-
-	1 VD1689_94 Joz 2:1
-	-----
-	1
-
-
-úaule
-
-	1 VD1689_94 Joz 8:29
-	1 VD1689_94 Joz 10:0
-	1 VD1689_94 Joz 10:12
-	2 VD1689_94 Joz 10:13
-	1 VD1689_94 Joz 10:27
-	-----
-	6
-
-
-úaules
-
-	1 VD1689_94 Joz 1:4
-	1 VD1689_94 Joz 12:1
-	1 VD1689_94 Joz 19:12
-	1 VD1689_94 Joz 19:13
-	1 VD1689_94 Joz 19:27
-	1 VD1689_94 Joz 19:34
-	1 VD1689_94 Joz 23:4
-	-----
-	7
-
-
-úauúahm
-
-	1 VD1689_94 Joz 3:0
-	2 VD1689_94 Joz 3:17
-	1 VD1689_94 Joz 4:22
-	-----
-	4
-
-
-úauúuma^
-
-	1 VD1689_94 Joz 4:18
-	-----
-	1
-
-
-úawa
-
-	1 VD1689_94 Joz 7:12
-	1 VD1689_94 Joz 15:18
-	1 VD1689_94 Joz 19:47
-	1 VD1689_94 Joz 21:3
-	1 VD1689_94 Joz 22:20
-	-----
-	5
-
-
-úawa^
-
-	1 VD1689_94 Joz 4:0
-	1 VD1689_94 Joz 4:14
-	1 VD1689_94 Joz 5:8
-	1 VD1689_94 Joz 5:13
-	2 VD1689_94 Joz 18:5
-	2 VD1689_94 Joz 20:6
-	1 VD1689_94 Joz 22:0
-	-----
-	9
-
-
-úawa^s
-
-	1 VD1689_94 Joz 3:15
-	1 VD1689_94 Joz 18:20
-	-----
-	2
-
-
-úawahm
-
-	1 VD1689_94 Joz 7:6
-	1 VD1689_94 Joz 7:14
-	1 VD1689_94 Joz 7:16
-	1 VD1689_94 Joz 9:5
-	1 VD1689_94 Joz 11:16
-	2 VD1689_94 Joz 11:23
-	1 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 13:15
-	1 VD1689_94 Joz 13:23
-	1 VD1689_94 Joz 13:24
-	1 VD1689_94 Joz 13:28
-	1 VD1689_94 Joz 13:31
-	1 VD1689_94 Joz 15:0
-	1 VD1689_94 Joz 15:1
-	1 VD1689_94 Joz 15:20
-	1 VD1689_94 Joz 16:5
-	1 VD1689_94 Joz 16:8
-	2 VD1689_94 Joz 17:2
-	1 VD1689_94 Joz 18:10
-	1 VD1689_94 Joz 19:49
-	-----
-	22
-
-
-úawam
-
-	1 VD1689_94 Joz 9:24
-	1 VD1689_94 Joz 11:15
-	-----
-	2
-
-
-úawas
-
-	1 VD1689_94 Joz 5:13
-	1 VD1689_94 Joz 7:6
-	1 VD1689_94 Joz 7:26
-	1 VD1689_94 Joz 8:19
-	1 VD1689_94 Joz 18:4
-	-----
-	5
-
-
-úaweem
-
-	1 VD1689_94 Joz 3:14
-	1 VD1689_94 Joz 4:22
-	1 VD1689_94 Joz 6:0
-	1 VD1689_94 Joz 7:8
-	1 VD1689_94 Joz 7:11
-	2 VD1689_94 Joz 7:12
-	2 VD1689_94 Joz 7:14
-	1 VD1689_94 Joz 8:33
-	1 VD1689_94 Joz 9:4
-	1 VD1689_94 Joz 10:5
-	1 VD1689_94 Joz 10:13
-	1 VD1689_94 Joz 13:28
-	1 VD1689_94 Joz 14:4
-	1 VD1689_94 Joz 18:9
-	1 VD1689_94 Joz 21:2
-	1 VD1689_94 Joz 21:19
-	1 VD1689_94 Joz 21:26
-	1 VD1689_94 Joz 21:33
-	1 VD1689_94 Joz 21:41
-	1 VD1689_94 Joz 22:6
-	1 VD1689_94 Joz 22:8
-	-----
-	23
-
-
-úawi
-
-	1 VD1689_94 Joz 18:2
-	1 VD1689_94 Joz 21:42
-	-----
-	2
-
-
-úawo
-
-	1 VD1689_94 Joz 1:0
-	-----
-	1
-
-
-úawo^s
-
-	1 VD1689_94 Joz 4:18
-	1 VD1689_94 Joz 10:19
-	-----
-	2
-
-
-úawrup
-
-	1 VD1689_94 Joz 8:6
-	1 VD1689_94 Joz 8:17
-	-----
-	2
-
-
-úaws
-
-	1 VD1689_94 Joz 19:2
-	-----
-	1
-
-
-úawu
-
-	1 VD1689_94 Joz 1:3
-	1 VD1689_94 Joz 2:0
-	1 VD1689_94 Joz 2:16
-	1 VD1689_94 Joz 2:19
-	1 VD1689_94 Joz 4:5
-	1 VD1689_94 Joz 4:18
-	2 VD1689_94 Joz 5:14
-	1 VD1689_94 Joz 7:6
-	1 VD1689_94 Joz 8:19
-	1 VD1689_94 Joz 8:26
-	1 VD1689_94 Joz 10:21
-	1 VD1689_94 Joz 11:20
-	1 VD1689_94 Joz 13:8
-	1 VD1689_94 Joz 13:23
-	1 VD1689_94 Joz 14:9
-	1 VD1689_94 Joz 15:0
-	1 VD1689_94 Joz 15:16
-	1 VD1689_94 Joz 15:17
-	1 VD1689_94 Joz 16:4
-	1 VD1689_94 Joz 18:7
-	1 VD1689_94 Joz 20:5
-	1 VD1689_94 Joz 22:9
-	1 VD1689_94 Joz 24:28
-	-----
-	24
-
-
-úawus
-
-	1 VD1689_94 Joz 4:6
-	1 VD1689_94 Joz 4:21
-	1 VD1689_94 Joz 20:4
-	-----
-	3
-
-
-úazzidami
-
-	1 VD1689_94 Joz 1:11
-	1 VD1689_94 Joz 1:16
-	1 VD1689_94 Joz 3:3
-	1 VD1689_94 Joz 4:3
-	1 VD1689_94 Joz 4:6
-	1 VD1689_94 Joz 9:22
-	1 VD1689_94 Joz 10:6
-	1 VD1689_94 Joz 17:14
-	1 VD1689_94 Joz 21:2
-	1 VD1689_94 Joz 22:24
-	-----
-	10
-
-
-úazzidams
-
-	1 VD1689_94 Joz 1:13
-	1 VD1689_94 Joz 2:1
-	1 VD1689_94 Joz 3:6
-	1 VD1689_94 Joz 4:21
-	1 VD1689_94 Joz 6:10
-	1 VD1689_94 Joz 7:2
-	1 VD1689_94 Joz 8:4
-	1 VD1689_94 Joz 9:22
-	1 VD1689_94 Joz 10:3
-	1 VD1689_94 Joz 17:17
-	1 VD1689_94 Joz 22:8
-	-----
-	11
-
-
-úazzihs
-
-	1 VD1689_94 Joz 4:21
-	1 VD1689_94 Joz 8:6
-	1 VD1689_94 Joz 22:24
-	1 VD1689_94 Joz 22:28
-	-----
-	4
-
-
-úazziht
-
-	1 VD1689_94 Joz 3:8
-	1 VD1689_94 Joz 4:7
-	1 VD1689_94 Joz 4:22
-	1 VD1689_94 Joz 22:27
-	-----
-	4
-
-
-úazzihts
-
-	1 VD1689_94 Joz 2:2
-	1 VD1689_94 Joz 10:17
-	1 VD1689_94 Joz 15:13
-	-----
-	3
-
-
-úazzija
-
-	1 VD1689_94 Joz 1:1
-	1 VD1689_94 Joz 1:10
-	1 VD1689_94 Joz 1:12
-	1 VD1689_94 Joz 2:3
-	1 VD1689_94 Joz 2:4
-	1 VD1689_94 Joz 2:9
-	1 VD1689_94 Joz 2:16
-	1 VD1689_94 Joz 2:17
-	1 VD1689_94 Joz 2:21
-	1 VD1689_94 Joz 2:24
-	1 VD1689_94 Joz 3:5
-	1 VD1689_94 Joz 3:9
-	1 VD1689_94 Joz 3:10
-	1 VD1689_94 Joz 4:1
-	1 VD1689_94 Joz 4:4
-	1 VD1689_94 Joz 4:17
-	1 VD1689_94 Joz 5:2
-	1 VD1689_94 Joz 5:9
-	1 VD1689_94 Joz 5:13
-	2 VD1689_94 Joz 5:14
-	1 VD1689_94 Joz 5:15
-	1 VD1689_94 Joz 6:2
-	1 VD1689_94 Joz 6:6
-	1 VD1689_94 Joz 6:7
-	1 VD1689_94 Joz 6:16
-	1 VD1689_94 Joz 6:22
-	1 VD1689_94 Joz 6:26
-	1 VD1689_94 Joz 7:3
-	1 VD1689_94 Joz 7:7
-	1 VD1689_94 Joz 7:10
-	1 VD1689_94 Joz 7:19
-	1 VD1689_94 Joz 7:20
-	1 VD1689_94 Joz 7:25
-	1 VD1689_94 Joz 8:1
-	1 VD1689_94 Joz 8:18
-	1 VD1689_94 Joz 9:6
-	1 VD1689_94 Joz 9:7
-	2 VD1689_94 Joz 9:8
-	1 VD1689_94 Joz 9:9
-	1 VD1689_94 Joz 9:11
-	1 VD1689_94 Joz 9:19
-	1 VD1689_94 Joz 9:21
-	1 VD1689_94 Joz 9:23
-	1 VD1689_94 Joz 10:8
-	1 VD1689_94 Joz 10:12
-	1 VD1689_94 Joz 10:18
-	1 VD1689_94 Joz 10:22
-	1 VD1689_94 Joz 10:24
-	1 VD1689_94 Joz 10:25
-	1 VD1689_94 Joz 11:6
-	1 VD1689_94 Joz 13:1
-	1 VD1689_94 Joz 14:6
-	1 VD1689_94 Joz 14:9
-	1 VD1689_94 Joz 15:16
-	1 VD1689_94 Joz 15:18
-	1 VD1689_94 Joz 15:19
-	1 VD1689_94 Joz 17:4
-	1 VD1689_94 Joz 17:15
-	1 VD1689_94 Joz 17:16
-	1 VD1689_94 Joz 18:3
-	1 VD1689_94 Joz 18:8
-	1 VD1689_94 Joz 20:1
-	1 VD1689_94 Joz 22:2
-	1 VD1689_94 Joz 22:15
-	1 VD1689_94 Joz 22:31
-	1 VD1689_94 Joz 23:2
-	1 VD1689_94 Joz 24:2
-	1 VD1689_94 Joz 24:16
-	1 VD1689_94 Joz 24:19
-	1 VD1689_94 Joz 24:21
-	2 VD1689_94 Joz 24:22
-	1 VD1689_94 Joz 24:24
-	1 VD1689_94 Joz 24:27
-	-----
-	76
-
-
-úazzijam
-
-	1 VD1689_94 Joz 22:26
-	1 VD1689_94 Joz 22:28
-	-----
-	2
-
-
-úazzijis
-
-	1 VD1689_94 Joz 3:7
-	-----
-	1
-
-
-úazzijs
-
-	1 VD1689_94 Joz 4:15
-	1 VD1689_94 Joz 6:8
-	1 VD1689_94 Joz 11:9
-	-----
-	3
-
-
-úazzita
-
-	1 VD1689_94 Joz 19:1
-	-----
-	1
-
-
-úazziúchu
-
-	1 VD1689_94 Joz 6:10
-	1 VD1689_94 Joz 7:8
-	-----
-	2
-
-
-úazziúim
-
-	1 VD1689_94 Joz 22:28
-	-----
-	1
-
-
-úa§tohp
-
-	1 VD1689_94 Joz 2:16
-	-----
-	1
-
-
-úaúaukti
-
-	1 VD1689_94 Joz 8:16
-	-----
-	1
-
-
-úaúauz
-
-	1 VD1689_94 Joz 23:0
-	1 VD1689_94 Joz 24:0
-	-----
-	2
-
-
-úaúauze
-
-	1 VD1689_94 Joz 23:2
-	1 VD1689_94 Joz 24:1
-	-----
-	2
-
-
-úcha
-
-	1 VD1689_94 Joz 1:4
-	-----
-	1
-
-
-úchahm
-
-	1 VD1689_94 Joz 21:16
-	1 VD1689_94 Joz 23:3
-	1 VD1689_94 Joz 23:7
-	1 VD1689_94 Joz 23:12
-	1 VD1689_94 Joz 24:29
-	-----
-	5
-
-
-úchahs
-
-	1 VD1689_94 Joz 1:8
-	1 VD1689_94 Joz 18:19
-	1 VD1689_94 Joz 22:24
-	1 VD1689_94 Joz 23:4
-	2 VD1689_94 Joz 23:13
-	1 VD1689_94 Joz 23:15
-	1 VD1689_94 Joz 24:17
-	1 VD1689_94 Joz 24:18
-	-----
-	9
-
-
-úchai
-
-	1 VD1689_94 Joz 5:1
-	1 VD1689_94 Joz 7:26
-	1 VD1689_94 Joz 8:28
-	1 VD1689_94 Joz 8:29
-	1 VD1689_94 Joz 9:27
-	1 VD1689_94 Joz 10:27
-	1 VD1689_94 Joz 14:14
-	1 VD1689_94 Joz 15:7
-	1 VD1689_94 Joz 15:63
-	1 VD1689_94 Joz 21:41
-	1 VD1689_94 Joz 22:3
-	1 VD1689_94 Joz 22:17
-	-----
-	12
-
-
-úchai^
-
-	1 VD1689_94 Joz 1:15
-	1 VD1689_94 Joz 22:7
-	-----
-	2
-
-
-úchai`
-
-	1 VD1689_94 Joz 1:14
-	1 VD1689_94 Joz 22:11
-	-----
-	2
-
-
-úchaipuús
-
-	1 VD1689_94 Joz 12:7
-	-----
-	1
-
-
-úchee
-
-	1 VD1689_94 Joz 1:2
-	1 VD1689_94 Joz 4:6
-	1 VD1689_94 Joz 4:21
-	1 VD1689_94 Joz 8:22
-	1 VD1689_94 Joz 9:13
-	1 VD1689_94 Joz 10:16
-	1 VD1689_94 Joz 11:4
-	1 VD1689_94 Joz 11:5
-	1 VD1689_94 Joz 12:1
-	1 VD1689_94 Joz 12:7
-	1 VD1689_94 Joz 12:24
-	1 VD1689_94 Joz 15:32
-	1 VD1689_94 Joz 17:2
-	1 VD1689_94 Joz 17:3
-	1 VD1689_94 Joz 17:9
-	1 VD1689_94 Joz 19:16
-	1 VD1689_94 Joz 19:31
-	1 VD1689_94 Joz 19:48
-	1 VD1689_94 Joz 20:9
-	1 VD1689_94 Joz 21:40
-	-----
-	20
-
-
-úcheem
-
-	1 VD1689_94 Joz 1:6
-	1 VD1689_94 Joz 2:0
-	1 VD1689_94 Joz 4:7
-	1 VD1689_94 Joz 11:18
-	1 VD1689_94 Joz 19:8
-	1 VD1689_94 Joz 20:4
-	2 VD1689_94 Joz 21:42
-	-----
-	8
-
-
-úcheit
-
-	1 VD1689_94 Joz 18:6
-	1 VD1689_94 Joz 18:8
-	1 VD1689_94 Joz 19:46
-	-----
-	3
-
-
-úcheitan
-
-	1 VD1689_94 Joz 19:50
-	-----
-	1
-
-
-úchennenes
-
-	1 VD1689_94 Joz 4:3
-	-----
-	1
-
-
-úchi
-
-	1 VD1689_94 Joz 4:6
-	1 VD1689_94 Joz 5:4
-	1 VD1689_94 Joz 13:2
-	1 VD1689_94 Joz 15:4
-	1 VD1689_94 Joz 15:6
-	1 VD1689_94 Joz 15:7
-	3 VD1689_94 Joz 15:8
-	3 VD1689_94 Joz 15:9
-	1 VD1689_94 Joz 15:10
-	1 VD1689_94 Joz 15:11
-	1 VD1689_94 Joz 15:54
-	1 VD1689_94 Joz 15:60
-	1 VD1689_94 Joz 16:5
-	2 VD1689_94 Joz 16:6
-	1 VD1689_94 Joz 16:8
-	1 VD1689_94 Joz 17:7
-	1 VD1689_94 Joz 18:12
-	1 VD1689_94 Joz 18:13
-	2 VD1689_94 Joz 18:14
-	1 VD1689_94 Joz 18:15
-	1 VD1689_94 Joz 18:16
-	2 VD1689_94 Joz 18:19
-	1 VD1689_94 Joz 18:28
-	1 VD1689_94 Joz 19:13
-	1 VD1689_94 Joz 19:14
-	1 VD1689_94 Joz 19:16
-	1 VD1689_94 Joz 19:22
-	2 VD1689_94 Joz 19:29
-	1 VD1689_94 Joz 19:31
-	1 VD1689_94 Joz 19:34
-	1 VD1689_94 Joz 19:39
-	-----
-	39
-
-
-úchihs
-
-	1 VD1689_94 Joz 9:13
-	-----
-	1
-
-
-úchim
-
-	1 VD1689_94 Joz 19:46
-	-----
-	1
-
-
-úchinni^
-
-	1 VD1689_94 Joz 2:2
-	1 VD1689_94 Joz 2:17
-	1 VD1689_94 Joz 19:13
-	-----
-	3
-
-
-úchis
-
-	1 VD1689_94 Joz 2:1
-	1 VD1689_94 Joz 5:13
-	1 VD1689_94 Joz 13:23
-	1 VD1689_94 Joz 13:28
-	1 VD1689_94 Joz 13:32
-	1 VD1689_94 Joz 14:1
-	1 VD1689_94 Joz 15:10
-	1 VD1689_94 Joz 15:20
-	1 VD1689_94 Joz 15:25
-	1 VD1689_94 Joz 15:49
-	1 VD1689_94 Joz 16:8
-	1 VD1689_94 Joz 18:14
-	1 VD1689_94 Joz 18:20
-	1 VD1689_94 Joz 18:28
-	1 VD1689_94 Joz 19:8
-	2 VD1689_94 Joz 19:15
-	1 VD1689_94 Joz 19:23
-	1 VD1689_94 Joz 19:48
-	1 VD1689_94 Joz 20:7
-	1 VD1689_94 Joz 21:11
-	1 VD1689_94 Joz 24:27
-	-----
-	22
-
-
-úcho
-
-	1 VD1689_94 Joz 1:2
-	1 VD1689_94 Joz 1:11
-	1 VD1689_94 Joz 1:13
-	1 VD1689_94 Joz 2:3
-	1 VD1689_94 Joz 2:9
-	2 VD1689_94 Joz 2:14
-	1 VD1689_94 Joz 2:18
-	1 VD1689_94 Joz 2:20
-	1 VD1689_94 Joz 3:4
-	1 VD1689_94 Joz 4:22
-	1 VD1689_94 Joz 6:26
-	1 VD1689_94 Joz 9:12
-	1 VD1689_94 Joz 9:20
-	1 VD1689_94 Joz 9:24
-	1 VD1689_94 Joz 10:24
-	1 VD1689_94 Joz 11:1
-	1 VD1689_94 Joz 11:6
-	1 VD1689_94 Joz 11:10
-	1 VD1689_94 Joz 11:12
-	1 VD1689_94 Joz 11:14
-	1 VD1689_94 Joz 11:16
-	1 VD1689_94 Joz 13:7
-	1 VD1689_94 Joz 14:10
-	1 VD1689_94 Joz 14:11
-	1 VD1689_94 Joz 14:12
-	1 VD1689_94 Joz 15:7
-	1 VD1689_94 Joz 17:12
-	1 VD1689_94 Joz 22:31
-	1 VD1689_94 Joz 22:32
-	-----
-	30
-
-
-úchodeen
-
-	1 VD1689_94 Joz 3:7
-	1 VD1689_94 Joz 4:9
-	2 VD1689_94 Joz 5:9
-	1 VD1689_94 Joz 6:25
-	1 VD1689_94 Joz 7:25
-	1 VD1689_94 Joz 7:26
-	1 VD1689_94 Joz 13:13
-	1 VD1689_94 Joz 14:10
-	1 VD1689_94 Joz 14:11
-	1 VD1689_94 Joz 16:10
-	2 VD1689_94 Joz 22:16
-	2 VD1689_94 Joz 22:18
-	1 VD1689_94 Joz 22:22
-	1 VD1689_94 Joz 22:29
-	1 VD1689_94 Joz 22:31
-	1 VD1689_94 Joz 23:8
-	1 VD1689_94 Joz 23:9
-	1 VD1689_94 Joz 24:15
-	-----
-	21
-
-
-úchohs
-
-	1 VD1689_94 Joz 4:20
-	1 VD1689_94 Joz 7:7
-	1 VD1689_94 Joz 10:22
-	1 VD1689_94 Joz 10:24
-	1 VD1689_94 Joz 10:42
-	1 VD1689_94 Joz 21:3
-	1 VD1689_94 Joz 21:8
-	1 VD1689_94 Joz 21:9
-	1 VD1689_94 Joz 24:26
-	-----
-	9
-
-
-úchurp
-
-	1 VD1689_94 Joz 3:9
-	1 VD1689_94 Joz 8:20
-	-----
-	2
-
-
-úchíeetat
-
-	1 VD1689_94 Joz 22:19
-	-----
-	1
-
-
-úchíehpu
-
-	2 VD1689_94 Joz 8:18
-	1 VD1689_94 Joz 8:26
-	-----
-	3
-
-
-úchíihrahs
-
-	1 VD1689_94 Joz 8:17
-	-----
-	1
-
-
-úchíih§tijuúchees
-
-	1 VD1689_94 Joz 22:17
-	-----
-	1
-
-
-úchíir§ta
-
-	1 VD1689_94 Joz 6:4
-	1 VD1689_94 Joz 6:6
-	1 VD1689_94 Joz 6:7
-	1 VD1689_94 Joz 6:13
-	1 VD1689_94 Joz 7:6
-	1 VD1689_94 Joz 8:33
-	-----
-	6
-
-
-úchíir§tam
-
-	1 VD1689_94 Joz 6:8
-	1 VD1689_94 Joz 6:9
-	1 VD1689_94 Joz 6:13
-	-----
-	3
-
-
-úchíir§ts
-
-	1 VD1689_94 Joz 3:0
-	1 VD1689_94 Joz 3:11
-	1 VD1689_94 Joz 4:11
-	1 VD1689_94 Joz 6:8
-	-----
-	4
-
-
-úchíir§tu
-
-	1 VD1689_94 Joz 3:3
-	2 VD1689_94 Joz 3:6
-	1 VD1689_94 Joz 3:8
-	1 VD1689_94 Joz 3:13
-	1 VD1689_94 Joz 3:14
-	2 VD1689_94 Joz 3:15
-	1 VD1689_94 Joz 3:17
-	1 VD1689_94 Joz 4:5
-	1 VD1689_94 Joz 4:7
-	1 VD1689_94 Joz 4:9
-	1 VD1689_94 Joz 4:10
-	1 VD1689_94 Joz 4:16
-	1 VD1689_94 Joz 4:18
-	1 VD1689_94 Joz 6:0
-	1 VD1689_94 Joz 6:6
-	1 VD1689_94 Joz 6:11
-	1 VD1689_94 Joz 6:12
-	1 VD1689_94 Joz 8:33
-	-----
-	20
-
-
-úchíiººam
-
-	1 VD1689_94 Joz 8:6
-	-----
-	1
-
-
-úeewa
-
-	1 VD1689_94 Joz 2:4
-	-----
-	1
-
-
-úeewahm
-
-	1 VD1689_94 Joz 8:35
-	-----
-	1
-
-
-úeewas
-
-	1 VD1689_94 Joz 1:14
-	1 VD1689_94 Joz 2:1
-	1 VD1689_94 Joz 6:21
-	1 VD1689_94 Joz 6:22
-	1 VD1689_94 Joz 8:25
-	-----
-	5
-
-
-úeewu
-
-	1 VD1689_94 Joz 6:22
-	1 VD1689_94 Joz 15:0
-	1 VD1689_94 Joz 15:16
-	1 VD1689_94 Joz 15:17
-	-----
-	4
-
-
-úeptita^
-
-	1 VD1689_94 Joz 6:0
-	1 VD1689_94 Joz 6:4
-	1 VD1689_94 Joz 6:15
-	1 VD1689_94 Joz 6:16
-	-----
-	4
-
-
-úeptiò
-
-	2 VD1689_94 Joz 6:4
-	2 VD1689_94 Joz 6:6
-	2 VD1689_94 Joz 6:8
-	2 VD1689_94 Joz 6:13
-	1 VD1689_94 Joz 18:2
-	-----
-	9
-
-
-úeptiò=kahrt
-
-	1 VD1689_94 Joz 6:0
-	-----
-	1
-
-
-úeptiòa^s
-
-	1 VD1689_94 Joz 18:5
-	1 VD1689_94 Joz 18:6
-	1 VD1689_94 Joz 18:9
-	-----
-	3
-
-
-úeptiòkahrt
-
-	1 VD1689_94 Joz 6:4
-	2 VD1689_94 Joz 6:15
-	-----
-	3
-
-
-úew
-
-	1 VD1689_94 Joz 2:0
-	1 VD1689_94 Joz 5:2
-	1 VD1689_94 Joz 5:3
-	1 VD1689_94 Joz 21:42
-	1 VD1689_94 Joz 24:22
-	-----
-	5
-
-
-úewim
-
-	1 VD1689_94 Joz 4:8
-	1 VD1689_94 Joz 8:2
-	1 VD1689_94 Joz 20:4
-	1 VD1689_94 Joz 22:16
-	-----
-	4
-
-
-úewis
-
-	1 VD1689_94 Joz 6:5
-	1 VD1689_94 Joz 6:20
-	1 VD1689_94 Joz 8:27
-	1 VD1689_94 Joz 11:14
-	-----
-	4
-
-
-úe§ch
-
-	1 VD1689_94 Joz 20:0
-	-----
-	1
-
-
-úeúch
-
-	1 VD1689_94 Joz 6:0
-	1 VD1689_94 Joz 6:14
-	1 VD1689_94 Joz 7:5
-	1 VD1689_94 Joz 15:59
-	1 VD1689_94 Joz 15:62
-	-----
-	5
-
-
-úeúchas
-
-	1 VD1689_94 Joz 6:3
-	-----
-	1
-
-
-úeúchdeúmits
-
-	1 VD1689_94 Joz 13:30
-	-----
-	1
-
-
-úeúchpadeúmits
-
-	1 VD1689_94 Joz 15:41
-	1 VD1689_94 Joz 19:22
-	-----
-	2
-
-
-úeúta
-
-	1 VD1689_94 Joz 19:32
-	-----
-	1
-
-
-úihkeem
-
-	1 VD1689_94 Joz 6:21
-	-----
-	1
-
-
-úihkus
-
-	1 VD1689_94 Joz 7:24
-	-----
-	1
-
-
-úihmeanu
-
-	1 VD1689_94 Joz 19:1
-	-----
-	1
-
-
-úihmeaòa
-
-	1 VD1689_94 Joz 19:0
-	1 VD1689_94 Joz 19:1
-	1 VD1689_94 Joz 19:8
-	2 VD1689_94 Joz 19:9
-	1 VD1689_94 Joz 21:4
-	1 VD1689_94 Joz 21:9
-	-----
-	7
-
-
-úilteem
-
-	1 VD1689_94 Joz 11:8
-	1 VD1689_94 Joz 13:6
-	-----
-	2
-
-
-úimts
-
-	1 VD1689_94 Joz 24:29
-	1 VD1689_94 Joz 24:32
-	-----
-	2
-
-
-úirdi
-
-	1 VD1689_94 Joz 11:20
-	1 VD1689_94 Joz 14:8
-	-----
-	2
-
-
-úirdi^
-
-	1 VD1689_94 Joz 14:7
-	-----
-	1
-
-
-úirdis
-
-	1 VD1689_94 Joz 24:23
-	-----
-	1
-
-
-úirds
-
-	1 VD1689_94 Joz 2:11
-	1 VD1689_94 Joz 5:1
-	1 VD1689_94 Joz 7:5
-	1 VD1689_94 Joz 22:5
-	1 VD1689_94 Joz 23:14
-	-----
-	5
-
-
-úitte
-
-	1 VD1689_94 Joz 8:24
-	1 VD1689_94 Joz 11:10
-	1 VD1689_94 Joz 19:47
-	-----
-	3
-
-
-úlawa
-
-	1 VD1689_94 Joz 6:27
-	-----
-	1
-
-
-úlawu
-
-	1 VD1689_94 Joz 7:19
-	1 VD1689_94 Joz 9:9
-	-----
-	2
-
-
-úla§da=walgu
-
-	1 VD1689_94 Joz 23:13
-	-----
-	1
-
-
-úlehpuúchees
-
-	1 VD1689_94 Joz 8:7
-	-----
-	1
-
-
-úleppeni
-
-	1 VD1689_94 Joz 8:2
-	1 VD1689_94 Joz 8:4
-	1 VD1689_94 Joz 8:12
-	1 VD1689_94 Joz 8:14
-	1 VD1689_94 Joz 8:19
-	1 VD1689_94 Joz 8:21
-	-----
-	6
-
-
-úluddinahts
-
-	1 VD1689_94 Joz 2:2
-	-----
-	1
-
-
-úmiltis
-
-	1 VD1689_94 Joz 11:4
-	-----
-	1
-
-
-úohdibu
-
-	1 VD1689_94 Joz 23:0
-	-----
-	1
-
-
-úohla
-
-	1 VD1689_94 Joz 23:0
-	-----
-	1
-
-
-úohliúchanas
-
-	1 VD1689_94 Joz 21:0
-	-----
-	1
-
-
-úohìeem
-
-	1 VD1689_94 Joz 8:33
-	-----
-	1
-
-
-úohìus
-
-	1 VD1689_94 Joz 23:2
-	1 VD1689_94 Joz 24:1
-	-----
-	2
-
-
-úudraba
-
-	1 VD1689_94 Joz 7:21
-	1 VD1689_94 Joz 24:32
-	-----
-	2
-
-
-úudrabs
-
-	1 VD1689_94 Joz 6:19
-	1 VD1689_94 Joz 7:21
-	1 VD1689_94 Joz 7:22
-	-----
-	3
-
-
-úudrabu
-
-	1 VD1689_94 Joz 6:24
-	1 VD1689_94 Joz 7:24
-	1 VD1689_94 Joz 22:8
-	-----
-	3
-
-
-úuhta
-
-	1 VD1689_94 Joz 22:0
-	-----
-	1
-
-
-úuhtija
-
-	1 VD1689_94 Joz 2:3
-	1 VD1689_94 Joz 7:22
-	1 VD1689_94 Joz 8:9
-	1 VD1689_94 Joz 10:3
-	1 VD1689_94 Joz 10:6
-	1 VD1689_94 Joz 11:1
-	1 VD1689_94 Joz 14:7
-	1 VD1689_94 Joz 22:13
-	-----
-	8
-
-
-úuhtiju
-
-	1 VD1689_94 Joz 24:5
-	1 VD1689_94 Joz 24:12
-	-----
-	2
-
-
-úuhtiúchu
-
-	1 VD1689_94 Joz 18:4
-	-----
-	1
-
-
-úuhtiúi
-
-	1 VD1689_94 Joz 1:16
-	-----
-	1
-
-
-úullaini
-
-	1 VD1689_94 Joz 1:1
-	-----
-	1
-
-
-úwars
-
-	1 VD1689_94 Joz 7:21
-	-----
-	1
-
-
-úwehtas
-
-	1 VD1689_94 Joz 24:26
-	-----
-	1
-
-
-úwehtiht
-
-	1 VD1689_94 Joz 8:33
-	-----
-	1
-
-
-úwehtija
-
-	1 VD1689_94 Joz 14:13
-	1 VD1689_94 Joz 22:8
-	1 VD1689_94 Joz 24:10
-	-----
-	3
-
-
-úwehtijeetees
-
-	1 VD1689_94 Joz 3:5
-	1 VD1689_94 Joz 7:13
-	-----
-	2
-
-
-úwehtijs
-
-	1 VD1689_94 Joz 17:14
-	-----
-	1
-
-
-úwehtiúchanas
-
-	1 VD1689_94 Joz 8:34
-	-----
-	1
-
-
-úwehts
-
-	1 VD1689_94 Joz 6:19
-	1 VD1689_94 Joz 24:19
-	-----
-	2
-
-
-úwehtumu
-
-	1 VD1689_94 Joz 15:19
-	1 VD1689_94 Joz 23:0
-	-----
-	2
-
-
-úweúcheem
-
-	1 VD1689_94 Joz 24:20
-	-----
-	1
-
-
-úweúchineekeem
-
-	1 VD1689_94 Joz 8:35
-	-----
-	1
-
-
-úweúchineeki
-
-	1 VD1689_94 Joz 8:33
-	-----
-	1
-
-
-úweúchineeku
-
-	1 VD1689_94 Joz 20:9
-	-----
-	1
-
-
-úweúchus
-
-	1 VD1689_94 Joz 24:23
-	-----
-	1
-
-
-úwillinatas
-
-	1 VD1689_94 Joz 5:11
-	-----
-	1
-
-
 000
 
 	1 VD1689_94 Joz 21:41
@@ -31883,16 +31883,16 @@ zuru
 	8
 
 
-12000
+12{22}
 
-	1 VD1689_94 Joz 8:0
+	1 VD1689_94 Joz 15:11
 	-----
 	1
 
 
-12{22}
+12000
 
-	1 VD1689_94 Joz 15:11
+	1 VD1689_94 Joz 8:0
 	-----
 	1
 

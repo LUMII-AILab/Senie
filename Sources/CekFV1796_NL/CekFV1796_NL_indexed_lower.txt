@@ -17,20 +17,6 @@ aisdoht
 	2
 
 
-aisween
-
-	1 CekFV1796_NL 13.lpp. 16.r.
-	-----
-	1
-
-
-aisweenumehr
-
-	1 CekFV1796_NL 4.lpp. 2.r.
-	-----
-	1
-
-
 aisòehmees
 
 	1 CekFV1796_NL 5.lpp. 16.r.
@@ -68,6 +54,14 @@ aisòemmoht
 	1
 
 
+aisòemúchanas
+
+	1 CekFV1796_NL 9.lpp. 13.r.
+	1 CekFV1796_NL 11.lpp. 19.r.
+	-----
+	2
+
+
 aisòemt
 
 	1 CekFV1796_NL 5.lpp. 20.r.
@@ -89,12 +83,18 @@ aisòemtu
 	1
 
 
-aisòemúchanas
+aisween
 
-	1 CekFV1796_NL 9.lpp. 13.r.
-	1 CekFV1796_NL 11.lpp. 19.r.
+	1 CekFV1796_NL 13.lpp. 16.r.
 	-----
-	2
+	1
+
+
+aisweenumehr
+
+	1 CekFV1796_NL 4.lpp. 2.r.
+	-----
+	1
 
 
 alla§ch
@@ -229,6 +229,13 @@ atdohd
 	1
 
 
+atdohúchoht
+
+	1 CekFV1796_NL 8.lpp. 8.r.
+	-----
+	1
+
+
 atdoht
 
 	1 CekFV1796_NL 12.lpp. 6.r.
@@ -250,13 +257,6 @@ atdohtu
 	1
 
 
-atdohúchoht
-
-	1 CekFV1796_NL 8.lpp. 8.r.
-	-----
-	1
-
-
 atkal
 
 	1 CekFV1796_NL 4.lpp. 18.r.
@@ -267,6 +267,13 @@ atkal
 atlaist
 
 	1 CekFV1796_NL 11.lpp. 16.r.
+	-----
+	1
+
+
+atïauju
+
+	1 CekFV1796_NL 13.lpp. 17.r.
 	-----
 	1
 
@@ -313,20 +320,6 @@ atrohdami
 	1
 
 
-atwehlejis
-
-	1 CekFV1796_NL 4.lpp. 15.r.
-	-----
-	1
-
-
-atïauju
-
-	1 CekFV1796_NL 13.lpp. 17.r.
-	-----
-	1
-
-
 atúlehga
 
 	1 CekFV1796_NL 7.lpp. 6.r.
@@ -339,6 +332,13 @@ atúlehga
 atúlehgas
 
 	1 CekFV1796_NL 12.lpp. 19.r.
+	-----
+	1
+
+
+atwehlejis
+
+	1 CekFV1796_NL 4.lpp. 15.r.
 	-----
 	1
 
@@ -522,11 +522,27 @@ dalikta
 	1
 
 
+daïïa
+
+	1 CekFV1796_NL 6.lpp. 14.r.
+	1 CekFV1796_NL 10.lpp. 1.r.
+	-----
+	2
+
+
 dallu
 
 	1 CekFV1796_NL 5.lpp. 22.r.
 	-----
 	1
+
+
+daïïu
+
+	1 CekFV1796_NL 6.lpp. 8.r.
+	1 CekFV1796_NL 6.lpp. 10.r.
+	-----
+	2
 
 
 daniel
@@ -583,22 +599,6 @@ daud§{dau§}
 	1 CekFV1796_NL 4.lpp. 12.r.
 	-----
 	1
-
-
-daïïa
-
-	1 CekFV1796_NL 6.lpp. 14.r.
-	1 CekFV1796_NL 10.lpp. 1.r.
-	-----
-	2
-
-
-daïïu
-
-	1 CekFV1796_NL 6.lpp. 8.r.
-	1 CekFV1796_NL 6.lpp. 10.r.
-	-----
-	2
 
 
 deena^
@@ -950,15 +950,6 @@ ikgaddo^s
 	7
 
 
-ikkurúch
-
-	1 CekFV1796_NL 6.lpp. 15.r.
-	1 CekFV1796_NL 8.lpp. 6.r.
-	1 CekFV1796_NL 14.lpp. 4.r.
-	-----
-	3
-
-
 ikkuººa^
 
 	1 CekFV1796_NL 6.lpp. 18.r.
@@ -988,6 +979,15 @@ ikkuººu
 	1 CekFV1796_NL 13.lpp. 5.r.
 	-----
 	1
+
+
+ikkurúch
+
+	1 CekFV1796_NL 6.lpp. 15.r.
+	1 CekFV1796_NL 8.lpp. 6.r.
+	1 CekFV1796_NL 14.lpp. 4.r.
+	-----
+	3
 
 
 ikpahrneddeï
@@ -1061,16 +1061,16 @@ isdibbinaht
 	1
 
 
-isdoht
+isdohúees
 
-	1 CekFV1796_NL 8.lpp. 22.r.
+	1 CekFV1796_NL 14.lpp. 4.r.
 	-----
 	1
 
 
-isdohúees
+isdoht
 
-	1 CekFV1796_NL 14.lpp. 4.r.
+	1 CekFV1796_NL 8.lpp. 22.r.
 	-----
 	1
 
@@ -1088,6 +1088,13 @@ islikts
 	1 CekFV1796_NL 10.lpp. 6.r.
 	-----
 	2
+
+
+isòemtu
+
+	1 CekFV1796_NL 14.lpp. 8.r.
+	-----
+	1
 
 
 isnihktu
@@ -1132,13 +1139,6 @@ isred§ehtam
 	1
 
 
-istehreta
-
-	1 CekFV1796_NL 8.lpp. 12.r.
-	-----
-	1
-
-
 is§pree§ch
 
 	1 CekFV1796_NL 10.lpp. 21.r.
@@ -1153,9 +1153,9 @@ is§tah§tihs
 	1
 
 
-isòemtu
+istehreta
 
-	1 CekFV1796_NL 14.lpp. 8.r.
+	1 CekFV1796_NL 8.lpp. 12.r.
 	-----
 	1
 
@@ -1252,6 +1252,13 @@ janeús
 	1
 
 
+jaúchu
+
+	1 CekFV1796_NL 14.lpp. 7.r.
+	-----
+	1
+
+
 jau
 
 	1 CekFV1796_NL 4.lpp. 5.r.
@@ -1298,13 +1305,6 @@ jauni
 jazeïï
 
 	1 CekFV1796_NL 7.lpp. 20.r.
-	-----
-	1
-
-
-jaúchu
-
-	1 CekFV1796_NL 14.lpp. 7.r.
 	-----
 	1
 
@@ -1536,6 +1536,28 @@ klehts
 	1
 
 
+kïuhs
+
+	1 CekFV1796_NL 7.lpp. 18.r.
+	-----
+	1
+
+
+kïuh§t
+
+	1 CekFV1796_NL 7.lpp. 2.r.
+	1 CekFV1796_NL 13.lpp. 14.r.
+	-----
+	2
+
+
+kïuht
+
+	1 CekFV1796_NL 4.lpp. 2.r.
+	-----
+	1
+
+
 ko
 
 	1 CekFV1796_NL 5.lpp. 2.r.
@@ -1594,19 +1616,19 @@ krahjuma
 	26
 
 
+krahjuma{krahjuhma}
+
+	1 CekFV1796_NL 4.lpp. 22.r.
+	-----
+	1
+
+
 krahjumam
 
 	1 CekFV1796_NL 5.lpp. 17.r.
 	1 CekFV1796_NL 9.lpp. 17.r.
 	-----
 	2
-
-
-krahjuma{krahjuhma}
-
-	1 CekFV1796_NL 4.lpp. 22.r.
-	-----
-	1
 
 
 krahjums
@@ -1632,6 +1654,20 @@ krahjuúees
 	1
 
 
+krahúchanas
+
+	1 CekFV1796_NL 1.lpp. 3.r.
+	-----
+	1
+
+
+krahúchani
+
+	1 CekFV1796_NL 4.lpp. 10.r.
+	-----
+	1
+
+
 krahta
 
 	1 CekFV1796_NL 6.lpp. 20.r.
@@ -1647,20 +1683,6 @@ krahtu
 	2
 
 
-krahúchanas
-
-	1 CekFV1796_NL 1.lpp. 3.r.
-	-----
-	1
-
-
-krahúchani
-
-	1 CekFV1796_NL 4.lpp. 10.r.
-	-----
-	1
-
-
 krohpli
 
 	1 CekFV1796_NL 11.lpp. 4.r.
@@ -1668,16 +1690,16 @@ krohpli
 	1
 
 
-kru§§u
+kruúúu
 
-	1 CekFV1796_NL 11.lpp. 12.r.
+	1 CekFV1796_NL 5.lpp. 18.r.
 	-----
 	1
 
 
-kruúúu
+kru§§u
 
-	1 CekFV1796_NL 5.lpp. 18.r.
+	1 CekFV1796_NL 11.lpp. 12.r.
 	-----
 	1
 
@@ -1703,15 +1725,6 @@ kur
 	1 CekFV1796_NL 14.lpp. 9.r.
 	-----
 	2
-
-
-kurúch
-
-	1 CekFV1796_NL 6.lpp. 7.r.
-	1 CekFV1796_NL 6.lpp. 9.r.
-	1 CekFV1796_NL 6.lpp. 10.r.
-	-----
-	3
 
 
 kuººa
@@ -1742,26 +1755,13 @@ kuººus
 	1
 
 
-kïuhs
+kurúch
 
-	1 CekFV1796_NL 7.lpp. 18.r.
+	1 CekFV1796_NL 6.lpp. 7.r.
+	1 CekFV1796_NL 6.lpp. 9.r.
+	1 CekFV1796_NL 6.lpp. 10.r.
 	-----
-	1
-
-
-kïuht
-
-	1 CekFV1796_NL 4.lpp. 2.r.
-	-----
-	1
-
-
-kïuh§t
-
-	1 CekFV1796_NL 7.lpp. 2.r.
-	1 CekFV1796_NL 13.lpp. 14.r.
-	-----
-	2
+	3
 
 
 labbak
@@ -1912,6 +1912,21 @@ lattweeúchu
 	1
 
 
+ïaudim
+
+	1 CekFV1796_NL 11.lpp. 10.r.
+	-----
+	1
+
+
+ïaudis
+
+	1 CekFV1796_NL 6.lpp. 17.r.
+	1 CekFV1796_NL 10.lpp. 10.r.
+	-----
+	2
+
+
 leelkunga
 
 	1 CekFV1796_NL 7.lpp. 19.r.
@@ -2024,13 +2039,6 @@ mai§i
 	1
 
 
-makti
-
-	1 CekFV1796_NL 8.lpp. 15.r.
-	-----
-	1
-
-
 makúajis
 
 	1 CekFV1796_NL 6.lpp. 10.r.
@@ -2048,6 +2056,13 @@ makúaschanu
 makúatu
 
 	1 CekFV1796_NL 12.lpp. 17.r.
+	-----
+	1
+
+
+makti
+
+	1 CekFV1796_NL 8.lpp. 15.r.
 	-----
 	1
 
@@ -2130,16 +2145,16 @@ muh§cham
 	1
 
 
-muischa^
+mui§cha
 
-	1 CekFV1796_NL 15.lpp. 4.r.
+	1 CekFV1796_NL 5.lpp. 8.r.
 	-----
 	1
 
 
-mui§cha
+muischa^
 
-	1 CekFV1796_NL 5.lpp. 8.r.
+	1 CekFV1796_NL 15.lpp. 4.r.
 	-----
 	1
 
@@ -2161,6 +2176,13 @@ mui§chai
 	4
 
 
+muiúchas
+
+	1 CekFV1796_NL 4.lpp. 13.r.
+	-----
+	1
+
+
 mui§chas
 
 	1 CekFV1796_NL 7.lpp. 14.r.
@@ -2177,13 +2199,6 @@ mui§chas
 mui§chu
 
 	1 CekFV1796_NL 8.lpp. 21.r.
-	-----
-	1
-
-
-muiúchas
-
-	1 CekFV1796_NL 4.lpp. 13.r.
 	-----
 	1
 
@@ -2231,6 +2246,13 @@ nahkt
 	2
 
 
+na§tu
+
+	1 CekFV1796_NL 10.lpp. 8.r.
+	-----
+	1
+
+
 nau
 
 	1 CekFV1796_NL 7.lpp. 19.r.
@@ -2256,13 +2278,6 @@ naudas
 naudu
 
 	1 CekFV1796_NL 13.lpp. 4.r.
-	-----
-	1
-
-
-na§tu
-
-	1 CekFV1796_NL 10.lpp. 8.r.
 	-----
 	1
 
@@ -2315,6 +2330,13 @@ ned§
 	1 CekFV1796_NL 14.lpp. 1.r.
 	-----
 	4
+
+
+òehmu§chi
+
+	1 CekFV1796_NL 6.lpp. 18.r.
+	-----
+	1
 
 
 nekad
@@ -2388,13 +2410,6 @@ nelaimijeem
 	1
 
 
-nema§
-
-	1 CekFV1796_NL 5.lpp. 15.r.
-	-----
-	1
-
-
 nemaú
 
 	1 CekFV1796_NL 12.lpp. 1.r.
@@ -2402,16 +2417,39 @@ nemaú
 	1
 
 
-neneeka
+nema§
 
-	1 CekFV1796_NL 14.lpp. 11.r.
+	1 CekFV1796_NL 5.lpp. 15.r.
 	-----
 	1
 
 
-newarrehs
+òemm
 
-	1 CekFV1796_NL 11.lpp. 17.r.
+	1 CekFV1796_NL 8.lpp. 4.r.
+	-----
+	1
+
+
+òemt
+
+	1 CekFV1796_NL 9.lpp. 1.r.
+	1 CekFV1796_NL 10.lpp. 9.r.
+	-----
+	2
+
+
+òemts
+
+	1 CekFV1796_NL 6.lpp. 16.r.
+	1 CekFV1796_NL 7.lpp. 1.r.
+	-----
+	2
+
+
+neneeka
+
+	1 CekFV1796_NL 14.lpp. 11.r.
 	-----
 	1
 
@@ -2433,6 +2471,13 @@ ne§pehjneeks
 neúúahs
 
 	1 CekFV1796_NL 13.lpp. 13.r.
+	-----
+	1
+
+
+newarrehs
+
+	1 CekFV1796_NL 11.lpp. 17.r.
 	-----
 	1
 
@@ -2511,9 +2556,16 @@ nopraúchanas
 	1
 
 
-notikt
+noúazzitas
 
-	1 CekFV1796_NL 11.lpp. 17.r.
+	1 CekFV1796_NL 4.lpp. 14.r.
+	-----
+	1
+
+
+noúpree§ch
+
+	1 CekFV1796_NL 9.lpp. 3.r.
 	-----
 	1
 
@@ -2525,16 +2577,9 @@ no§uhd
 	1
 
 
-noúazzitas
+notikt
 
-	1 CekFV1796_NL 4.lpp. 14.r.
-	-----
-	1
-
-
-noúpree§ch
-
-	1 CekFV1796_NL 9.lpp. 3.r.
+	1 CekFV1796_NL 11.lpp. 17.r.
 	-----
 	1
 
@@ -2685,6 +2730,13 @@ paliktu
 	1
 
 
+paòemúees
+
+	1 CekFV1796_NL 14.lpp. 6.r.
+	-----
+	1
+
+
 papilnam
 
 	1 CekFV1796_NL 4.lpp. 4.r.
@@ -2711,6 +2763,13 @@ par
 	1 CekFV1796_NL 13.lpp. 6.r.
 	-----
 	7
+
+
+par{parusluhku}
+
+	1 CekFV1796_NL 7.lpp. 17.r.
+	-----
+	1
 
 
 parei§i
@@ -2751,9 +2810,23 @@ parradus
 	1
 
 
-par{parusluhku}
+paúazzihs
 
-	1 CekFV1796_NL 7.lpp. 17.r.
+	1 CekFV1796_NL 15.lpp. 1.r.
+	-----
+	1
+
+
+paúcham
+
+	1 CekFV1796_NL 5.lpp. 21.r.
+	-----
+	1
+
+
+paúchi
+
+	1 CekFV1796_NL 6.lpp. 17.r.
 	-----
 	1
 
@@ -2765,19 +2838,19 @@ patikke
 	1
 
 
+patúmita^
+
+	1 CekFV1796_NL 14.lpp. 21.r.
+	-----
+	1
+
+
 patti
 
 	1 CekFV1796_NL 5.lpp. 10.r.
 	1 CekFV1796_NL 13.lpp. 9.r.
 	-----
 	2
-
-
-patúmita^
-
-	1 CekFV1796_NL 14.lpp. 21.r.
-	-----
-	1
 
 
 paweeneem
@@ -2800,34 +2873,6 @@ pawiúúam
 	1 CekFV1796_NL 9.lpp. 8.r.
 	-----
 	2
-
-
-paòemúees
-
-	1 CekFV1796_NL 14.lpp. 6.r.
-	-----
-	1
-
-
-paúazzihs
-
-	1 CekFV1796_NL 15.lpp. 1.r.
-	-----
-	1
-
-
-paúcham
-
-	1 CekFV1796_NL 5.lpp. 21.r.
-	-----
-	1
-
-
-paúchi
-
-	1 CekFV1796_NL 6.lpp. 17.r.
-	-----
-	1
 
 
 pee
@@ -2928,6 +2973,13 @@ peenahkahs
 	1
 
 
+peeòemts
+
+	1 CekFV1796_NL 7.lpp. 18.r.
+	-----
+	1
+
+
 peepalihd§eht
 
 	1 CekFV1796_NL 10.lpp. 20.r.
@@ -2938,6 +2990,34 @@ peepalihd§eht
 peerahts
 
 	1 CekFV1796_NL 8.lpp. 5.r.
+	-----
+	1
+
+
+peeúazzihs
+
+	1 CekFV1796_NL 8.lpp. 20.r.
+	-----
+	1
+
+
+peeúchkihris
+
+	1 CekFV1796_NL 5.lpp. 17.r.
+	-----
+	1
+
+
+pee§ihmehts
+
+	1 CekFV1796_NL 3.lpp. 10.r.
+	-----
+	1
+
+
+peeúpee§t
+
+	1 CekFV1796_NL 8.lpp. 16.r.
 	-----
 	1
 
@@ -2973,41 +3053,6 @@ peez
 peezpatúmita^
 
 	1 CekFV1796_NL 7.lpp. 1.r.
-	-----
-	1
-
-
-pee§ihmehts
-
-	1 CekFV1796_NL 3.lpp. 10.r.
-	-----
-	1
-
-
-peeòemts
-
-	1 CekFV1796_NL 7.lpp. 18.r.
-	-----
-	1
-
-
-peeúazzihs
-
-	1 CekFV1796_NL 8.lpp. 20.r.
-	-----
-	1
-
-
-peeúchkihris
-
-	1 CekFV1796_NL 5.lpp. 17.r.
-	-----
-	1
-
-
-peeúpee§t
-
-	1 CekFV1796_NL 8.lpp. 16.r.
 	-----
 	1
 
@@ -3281,16 +3326,16 @@ rehkenihúchee
 	1
 
 
-rehkeni§chi
+rehkeniúcheem
 
-	1 CekFV1796_NL 14.lpp. 19.r.
+	1 CekFV1796_NL 15.lpp. 1.r.
 	-----
 	1
 
 
-rehkeniúcheem
+rehkeni§chi
 
-	1 CekFV1796_NL 15.lpp. 1.r.
+	1 CekFV1796_NL 14.lpp. 19.r.
 	-----
 	1
 
@@ -3370,6 +3415,71 @@ rud§u=úamantoúchanas
 	1
 
 
+úadohmahts
+
+	1 CekFV1796_NL 14.lpp. 18.r.
+	-----
+	1
+
+
+úad§ennami
+
+	1 CekFV1796_NL 10.lpp. 17.r.
+	-----
+	1
+
+
+úagahdaúchana
+
+	1 CekFV1796_NL 13.lpp. 14.r.
+	-----
+	1
+
+
+úahktu
+
+	1 CekFV1796_NL 5.lpp. 20.r.
+	1 CekFV1796_NL 9.lpp. 12.r.
+	-----
+	2
+
+
+úaimneeka
+
+	1 CekFV1796_NL 6.lpp. 11.r.
+	1 CekFV1796_NL 10.lpp. 14.r.
+	-----
+	2
+
+
+úaimneekam
+
+	1 CekFV1796_NL 4.lpp. 16.r.
+	1 CekFV1796_NL 10.lpp. 4.r.
+	1 CekFV1796_NL 11.lpp. 7.r.
+	1 CekFV1796_NL 12.lpp. 7.r.
+	1 CekFV1796_NL 14.lpp. 14.r.
+	-----
+	5
+
+
+úaimneekeem
+
+	1 CekFV1796_NL 5.lpp. 9.r.
+	1 CekFV1796_NL 6.lpp. 22.r.
+	1 CekFV1796_NL 9.lpp. 15.r.
+	1 CekFV1796_NL 13.lpp. 2.r.
+	-----
+	4
+
+
+úaimneeki
+
+	1 CekFV1796_NL 11.lpp. 19.r.
+	-----
+	1
+
+
 saimneeks
 
 	1 CekFV1796_NL 9.lpp. 19.r.
@@ -3377,9 +3487,285 @@ saimneeks
 	1
 
 
+úaimneeks
+
+	1 CekFV1796_NL 5.lpp. 1.r.
+	1 CekFV1796_NL 5.lpp. 13.r.
+	1 CekFV1796_NL 6.lpp. 8.r.
+	1 CekFV1796_NL 8.lpp. 7.r.
+	-----
+	4
+
+
+úaimneeku
+
+	1 CekFV1796_NL 7.lpp. 5.r.
+	1 CekFV1796_NL 11.lpp. 11.r.
+	-----
+	2
+
+
+úaimnekeem
+
+	1 CekFV1796_NL 11.lpp. 2.r.
+	-----
+	1
+
+
+úakrahúchanas
+
+	1 CekFV1796_NL 6.lpp. 8.r.
+	1 CekFV1796_NL 9.lpp. 7.r.
+	-----
+	2
+
+
+§akrahta
+
+	1 CekFV1796_NL 8.lpp. 11.r.
+	-----
+	1
+
+
+úakrahti
+
+	1 CekFV1796_NL 10.lpp. 19.r.
+	1 CekFV1796_NL 12.lpp. 12.r.
+	-----
+	2
+
+
+úaòemm
+
+	1 CekFV1796_NL 7.lpp. 10.r.
+	-----
+	1
+
+
+úaòems
+
+	1 CekFV1796_NL 9.lpp. 6.r.
+	-----
+	1
+
+
+úarehkinahs
+
+	1 CekFV1796_NL 7.lpp. 15.r.
+	-----
+	1
+
+
+úarunnadamees
+
+	1 CekFV1796_NL 11.lpp. 2.r.
+	-----
+	1
+
+
+úa§iòadamees
+
+	1 CekFV1796_NL 12.lpp. 14.r.
+	-----
+	1
+
+
+úawa^
+
+	1 CekFV1796_NL 7.lpp. 5.r.
+	-----
+	1
+
+
+úawada^
+
+	1 CekFV1796_NL 6.lpp. 6.r.
+	-----
+	1
+
+
+úawadu
+
+	1 CekFV1796_NL 12.lpp. 19.r.
+	-----
+	1
+
+
+úawahm
+
+	1 CekFV1796_NL 10.lpp. 7.r.
+	-----
+	1
+
+
+§aweem
+
+	1 CekFV1796_NL 8.lpp. 7.r.
+	-----
+	1
+
+
+úawu
+
+	1 CekFV1796_NL 5.lpp. 22.r.
+	-----
+	1
+
+
+úcha
+
+	1 CekFV1796_NL 4.lpp. 7.r.
+	1 CekFV1796_NL 10.lpp. 2.r.
+	-----
+	2
+
+
+úchahs
+
+	1 CekFV1796_NL 3.lpp. 8.r.
+	1 CekFV1796_NL 4.lpp. 3.r.
+	1 CekFV1796_NL 6.lpp. 8.r.
+	1 CekFV1796_NL 13.lpp. 1.r.
+	1 CekFV1796_NL 13.lpp. 8.r.
+	-----
+	5
+
+
+úchee
+
+	1 CekFV1796_NL 3.lpp. 14.r.
+	-----
+	1
+
+
+úcheem
+
+	1 CekFV1796_NL 3.lpp. 10.r.
+	1 CekFV1796_NL 5.lpp. 5.r.
+	1 CekFV1796_NL 5.lpp. 8.r.
+	1 CekFV1796_NL 11.lpp. 20.r.
+	-----
+	4
+
+
 schehla§tibas
 
 	1 CekFV1796_NL 13.lpp. 19.r.
+	-----
+	1
+
+
+§chehloht
+
+	1 CekFV1796_NL 11.lpp. 15.r.
+	-----
+	1
+
+
+§chehlojahs
+
+	1 CekFV1796_NL 8.lpp. 18.r.
+	-----
+	1
+
+
+úchi
+
+	1 CekFV1796_NL 13.lpp. 14.r.
+	-----
+	1
+
+
+úchim
+
+	1 CekFV1796_NL 7.lpp. 21.r.
+	-----
+	1
+
+
+úchkinkoju
+
+	1 CekFV1796_NL 3.lpp. 9.r.
+	-----
+	1
+
+
+§chkinkoti
+
+	1 CekFV1796_NL 4.lpp. 11.r.
+	-----
+	1
+
+
+úchkir§tu
+
+	1 CekFV1796_NL 12.lpp. 19.r.
+	-----
+	1
+
+
+úcho
+
+	1 CekFV1796_NL 9.lpp. 5.r.
+	1 CekFV1796_NL 13.lpp. 4.r.
+	-----
+	2
+
+
+úchohs
+
+	1 CekFV1796_NL 3.lpp. 4.r.
+	1 CekFV1796_NL 14.lpp. 1.r.
+	1 CekFV1796_NL 14.lpp. 15.r.
+	-----
+	3
+
+
+úeeziòeem
+
+	1 CekFV1796_NL 12.lpp. 6.r.
+	-----
+	1
+
+
+úeeziòu
+
+	1 CekFV1796_NL 6.lpp. 20.r.
+	-----
+	1
+
+
+úehjamu
+
+	1 CekFV1796_NL 12.lpp. 7.r.
+	-----
+	1
+
+
+úehklas
+
+	1 CekFV1796_NL 12.lpp. 4.r.
+	-----
+	1
+
+
+úehta^
+
+	1 CekFV1796_NL 14.lpp. 13.r.
+	-----
+	1
+
+
+úehtas
+
+	1 CekFV1796_NL 6.lpp. 12.r.
+	-----
+	1
+
+
+úehtas{úehtasna§tu}
+
+	1 CekFV1796_NL 10.lpp. 8.r.
 	-----
 	1
 
@@ -3439,9 +3825,96 @@ se§tu
 	1
 
 
+úew
+
+	1 CekFV1796_NL 10.lpp. 9.r.
+	-----
+	1
+
+
+úewiúchkigi
+
+	1 CekFV1796_NL 10.lpp. 10.r.
+	-----
+	1
+
+
+úimti
+
+	1 CekFV1796_NL 10.lpp. 18.r.
+	1 CekFV1796_NL 12.lpp. 10.r.
+	1 CekFV1796_NL 12.lpp. 11.r.
+	-----
+	3
+
+
+úimts
+
+	1 CekFV1796_NL 3.lpp. 11.r.
+	-----
+	1
+
+
+§inn
+
+	1 CekFV1796_NL 5.lpp. 18.r.
+	1 CekFV1796_NL 14.lpp. 18.r.
+	-----
+	2
+
+
+siòòa
+
+	1 CekFV1796_NL 8.lpp. 13.r.
+	-----
+	1
+
+
+§innaht
+
+	1 CekFV1796_NL 6.lpp. 13.r.
+	-----
+	1
+
+
 sinnams
 
 	1 CekFV1796_NL 3.lpp. 1.r.
+	-----
+	1
+
+
+§innams
+
+	1 CekFV1796_NL 8.lpp. 5.r.
+	-----
+	1
+
+
+§innamu
+
+	1 CekFV1796_NL 10.lpp. 12.r.
+	-----
+	1
+
+
+§innamus
+
+	1 CekFV1796_NL 14.lpp. 15.r.
+	-----
+	1
+
+
+siòòu
+
+	1 CekFV1796_NL 9.lpp. 4.r.
+	-----
+	1
+
+
+úirds
+
+	1 CekFV1796_NL 13.lpp. 12.r.
 	-----
 	1
 
@@ -3453,16 +3926,121 @@ sirgu
 	1
 
 
-siòòa
+úkahdi
+
+	1 CekFV1796_NL 11.lpp. 12.r.
+	-----
+	1
+
+
+§kaidrakas
+
+	1 CekFV1796_NL 14.lpp. 16.r.
+	-----
+	1
+
+
+úkaidri
+
+	1 CekFV1796_NL 7.lpp. 12.r.
+	-----
+	1
+
+
+úlikteem
+
+	1 CekFV1796_NL 11.lpp. 18.r.
+	-----
+	1
+
+
+úliktos
+
+	1 CekFV1796_NL 11.lpp. 17.r.
+	-----
+	1
+
+
+úlinkuma
+
+	1 CekFV1796_NL 8.lpp. 3.r.
+	-----
+	1
+
+
+úpee§ts
+
+	1 CekFV1796_NL 13.lpp. 12.r.
+	-----
+	1
+
+
+§pehjoht
+
+	1 CekFV1796_NL 13.lpp. 13.r.
+	-----
+	1
+
+
+§pehtu
+
+	1 CekFV1796_NL 10.lpp. 8.r.
+	-----
+	1
+
+
+úpreedu
+
+	1 CekFV1796_NL 3.lpp. 4.r.
+	-----
+	1
+
+
+úpreedumus
+
+	1 CekFV1796_NL 14.lpp. 15.r.
+	-----
+	1
+
+
+§preesdams
+
+	1 CekFV1796_NL 13.lpp. 21.r.
+	-----
+	1
+
+
+úpree§t
+
+	1 CekFV1796_NL 11.lpp. 11.r.
+	-----
+	1
+
+
+§tarpa^
+
+	1 CekFV1796_NL 7.lpp. 5.r.
+	-----
+	1
+
+
+§trahdaht
 
 	1 CekFV1796_NL 8.lpp. 13.r.
 	-----
 	1
 
 
-siòòu
+§u§tu
 
-	1 CekFV1796_NL 9.lpp. 4.r.
+	1 CekFV1796_NL 14.lpp. 12.r.
+	-----
+	1
+
+
+úweúchi
+
+	1 CekFV1796_NL 6.lpp. 17.r.
 	-----
 	1
 
@@ -3645,19 +4223,19 @@ tannis
 	1
 
 
+tapaúcha
+
+	1 CekFV1796_NL 9.lpp. 22.r.
+	-----
+	1
+
+
 tapat
 
 	1 CekFV1796_NL 11.lpp. 9.r.
 	1 CekFV1796_NL 11.lpp. 20.r.
 	-----
 	2
-
-
-tapaúcha
-
-	1 CekFV1796_NL 9.lpp. 22.r.
-	-----
-	1
 
 
 tapehz
@@ -3862,6 +4440,13 @@ truhkums
 	1
 
 
+túchettr
+
+	1 CekFV1796_NL 13.lpp. 6.r.
+	-----
+	1
+
+
 tudaliò
 
 	1 CekFV1796_NL 6.lpp. 12.r.
@@ -3894,13 +4479,6 @@ turklaht
 turrama
 
 	1 CekFV1796_NL 13.lpp. 9.r.
-	-----
-	1
-
-
-túchettr
-
-	1 CekFV1796_NL 13.lpp. 6.r.
 	-----
 	1
 
@@ -4016,6 +4594,20 @@ uspreekúch
 	1
 
 
+us§ihmehts
+
+	1 CekFV1796_NL 6.lpp. 7.r.
+	-----
+	1
+
+
+us§kubbinahts
+
+	1 CekFV1796_NL 5.lpp. 2.r.
+	-----
+	1
+
+
 ustizz
 
 	1 CekFV1796_NL 7.lpp. 14.r.
@@ -4033,20 +4625,6 @@ ustizzejiúchi
 usturra
 
 	1 CekFV1796_NL 11.lpp. 4.r.
-	-----
-	1
-
-
-us§ihmehts
-
-	1 CekFV1796_NL 6.lpp. 7.r.
-	-----
-	1
-
-
-us§kubbinahts
-
-	1 CekFV1796_NL 5.lpp. 2.r.
 	-----
 	1
 
@@ -4115,16 +4693,16 @@ wairak
 	1
 
 
-wairotohs
+wairoúchanas
 
-	1 CekFV1796_NL 14.lpp. 11.r.
+	1 CekFV1796_NL 13.lpp. 4.r.
 	-----
 	1
 
 
-wairoúchanas
+wairotohs
 
-	1 CekFV1796_NL 13.lpp. 4.r.
+	1 CekFV1796_NL 14.lpp. 11.r.
 	-----
 	1
 
@@ -4154,16 +4732,16 @@ waldineeks
 	3
 
 
-walloda^
+waïïas
 
-	1 CekFV1796_NL 14.lpp. 14.r.
+	1 CekFV1796_NL 3.lpp. 6.r.
 	-----
 	1
 
 
-walsts=ïaudim
+walloda^
 
-	1 CekFV1796_NL 7.lpp. 10.r.
+	1 CekFV1796_NL 14.lpp. 14.r.
 	-----
 	1
 
@@ -4189,6 +4767,13 @@ wal§ts
 	1 CekFV1796_NL 11.lpp. 10.r.
 	-----
 	3
+
+
+walsts=ïaudim
+
+	1 CekFV1796_NL 7.lpp. 10.r.
+	-----
+	1
 
 
 wal§ts=ïaudim
@@ -4230,13 +4815,6 @@ warrehs
 warretu
 
 	1 CekFV1796_NL 9.lpp. 14.r.
-	-----
-	1
-
-
-waïïas
-
-	1 CekFV1796_NL 3.lpp. 6.r.
 	-----
 	1
 
@@ -4380,28 +4958,6 @@ wih§i
 	1
 
 
-wirú
-
-	1 CekFV1796_NL 6.lpp. 19.r.
-	1 CekFV1796_NL 12.lpp. 5.r.
-	-----
-	2
-
-
-wirú=úeeziòus
-
-	1 CekFV1796_NL 11.lpp. 15.r.
-	-----
-	1
-
-
-wiò§ch
-
-	1 CekFV1796_NL 8.lpp. 8.r.
-	-----
-	1
-
-
 wiòòa
 
 	1 CekFV1796_NL 5.lpp. 21.r.
@@ -4428,6 +4984,28 @@ wiòòeem
 wiòòu
 
 	1 CekFV1796_NL 8.lpp. 18.r.
+	-----
+	1
+
+
+wiò§ch
+
+	1 CekFV1796_NL 8.lpp. 8.r.
+	-----
+	1
+
+
+wirú
+
+	1 CekFV1796_NL 6.lpp. 19.r.
+	1 CekFV1796_NL 12.lpp. 5.r.
+	-----
+	2
+
+
+wirú=úeeziòus
+
+	1 CekFV1796_NL 11.lpp. 15.r.
 	-----
 	1
 
@@ -4589,584 +5167,6 @@ zittur
 zoeckell
 
 	1 CekFV1796_NL 15.lpp. 6.r.
-	-----
-	1
-
-
-§akrahta
-
-	1 CekFV1796_NL 8.lpp. 11.r.
-	-----
-	1
-
-
-§aweem
-
-	1 CekFV1796_NL 8.lpp. 7.r.
-	-----
-	1
-
-
-§chehloht
-
-	1 CekFV1796_NL 11.lpp. 15.r.
-	-----
-	1
-
-
-§chehlojahs
-
-	1 CekFV1796_NL 8.lpp. 18.r.
-	-----
-	1
-
-
-§chkinkoti
-
-	1 CekFV1796_NL 4.lpp. 11.r.
-	-----
-	1
-
-
-§inn
-
-	1 CekFV1796_NL 5.lpp. 18.r.
-	1 CekFV1796_NL 14.lpp. 18.r.
-	-----
-	2
-
-
-§innaht
-
-	1 CekFV1796_NL 6.lpp. 13.r.
-	-----
-	1
-
-
-§innams
-
-	1 CekFV1796_NL 8.lpp. 5.r.
-	-----
-	1
-
-
-§innamu
-
-	1 CekFV1796_NL 10.lpp. 12.r.
-	-----
-	1
-
-
-§innamus
-
-	1 CekFV1796_NL 14.lpp. 15.r.
-	-----
-	1
-
-
-§kaidrakas
-
-	1 CekFV1796_NL 14.lpp. 16.r.
-	-----
-	1
-
-
-§pehjoht
-
-	1 CekFV1796_NL 13.lpp. 13.r.
-	-----
-	1
-
-
-§pehtu
-
-	1 CekFV1796_NL 10.lpp. 8.r.
-	-----
-	1
-
-
-§preesdams
-
-	1 CekFV1796_NL 13.lpp. 21.r.
-	-----
-	1
-
-
-§tarpa^
-
-	1 CekFV1796_NL 7.lpp. 5.r.
-	-----
-	1
-
-
-§trahdaht
-
-	1 CekFV1796_NL 8.lpp. 13.r.
-	-----
-	1
-
-
-§u§tu
-
-	1 CekFV1796_NL 14.lpp. 12.r.
-	-----
-	1
-
-
-ïaudim
-
-	1 CekFV1796_NL 11.lpp. 10.r.
-	-----
-	1
-
-
-ïaudis
-
-	1 CekFV1796_NL 6.lpp. 17.r.
-	1 CekFV1796_NL 10.lpp. 10.r.
-	-----
-	2
-
-
-òehmu§chi
-
-	1 CekFV1796_NL 6.lpp. 18.r.
-	-----
-	1
-
-
-òemm
-
-	1 CekFV1796_NL 8.lpp. 4.r.
-	-----
-	1
-
-
-òemt
-
-	1 CekFV1796_NL 9.lpp. 1.r.
-	1 CekFV1796_NL 10.lpp. 9.r.
-	-----
-	2
-
-
-òemts
-
-	1 CekFV1796_NL 6.lpp. 16.r.
-	1 CekFV1796_NL 7.lpp. 1.r.
-	-----
-	2
-
-
-úadohmahts
-
-	1 CekFV1796_NL 14.lpp. 18.r.
-	-----
-	1
-
-
-úad§ennami
-
-	1 CekFV1796_NL 10.lpp. 17.r.
-	-----
-	1
-
-
-úagahdaúchana
-
-	1 CekFV1796_NL 13.lpp. 14.r.
-	-----
-	1
-
-
-úahktu
-
-	1 CekFV1796_NL 5.lpp. 20.r.
-	1 CekFV1796_NL 9.lpp. 12.r.
-	-----
-	2
-
-
-úaimneeka
-
-	1 CekFV1796_NL 6.lpp. 11.r.
-	1 CekFV1796_NL 10.lpp. 14.r.
-	-----
-	2
-
-
-úaimneekam
-
-	1 CekFV1796_NL 4.lpp. 16.r.
-	1 CekFV1796_NL 10.lpp. 4.r.
-	1 CekFV1796_NL 11.lpp. 7.r.
-	1 CekFV1796_NL 12.lpp. 7.r.
-	1 CekFV1796_NL 14.lpp. 14.r.
-	-----
-	5
-
-
-úaimneekeem
-
-	1 CekFV1796_NL 5.lpp. 9.r.
-	1 CekFV1796_NL 6.lpp. 22.r.
-	1 CekFV1796_NL 9.lpp. 15.r.
-	1 CekFV1796_NL 13.lpp. 2.r.
-	-----
-	4
-
-
-úaimneeki
-
-	1 CekFV1796_NL 11.lpp. 19.r.
-	-----
-	1
-
-
-úaimneeks
-
-	1 CekFV1796_NL 5.lpp. 1.r.
-	1 CekFV1796_NL 5.lpp. 13.r.
-	1 CekFV1796_NL 6.lpp. 8.r.
-	1 CekFV1796_NL 8.lpp. 7.r.
-	-----
-	4
-
-
-úaimneeku
-
-	1 CekFV1796_NL 7.lpp. 5.r.
-	1 CekFV1796_NL 11.lpp. 11.r.
-	-----
-	2
-
-
-úaimnekeem
-
-	1 CekFV1796_NL 11.lpp. 2.r.
-	-----
-	1
-
-
-úakrahti
-
-	1 CekFV1796_NL 10.lpp. 19.r.
-	1 CekFV1796_NL 12.lpp. 12.r.
-	-----
-	2
-
-
-úakrahúchanas
-
-	1 CekFV1796_NL 6.lpp. 8.r.
-	1 CekFV1796_NL 9.lpp. 7.r.
-	-----
-	2
-
-
-úarehkinahs
-
-	1 CekFV1796_NL 7.lpp. 15.r.
-	-----
-	1
-
-
-úarunnadamees
-
-	1 CekFV1796_NL 11.lpp. 2.r.
-	-----
-	1
-
-
-úawa^
-
-	1 CekFV1796_NL 7.lpp. 5.r.
-	-----
-	1
-
-
-úawada^
-
-	1 CekFV1796_NL 6.lpp. 6.r.
-	-----
-	1
-
-
-úawadu
-
-	1 CekFV1796_NL 12.lpp. 19.r.
-	-----
-	1
-
-
-úawahm
-
-	1 CekFV1796_NL 10.lpp. 7.r.
-	-----
-	1
-
-
-úawu
-
-	1 CekFV1796_NL 5.lpp. 22.r.
-	-----
-	1
-
-
-úa§iòadamees
-
-	1 CekFV1796_NL 12.lpp. 14.r.
-	-----
-	1
-
-
-úaòemm
-
-	1 CekFV1796_NL 7.lpp. 10.r.
-	-----
-	1
-
-
-úaòems
-
-	1 CekFV1796_NL 9.lpp. 6.r.
-	-----
-	1
-
-
-úcha
-
-	1 CekFV1796_NL 4.lpp. 7.r.
-	1 CekFV1796_NL 10.lpp. 2.r.
-	-----
-	2
-
-
-úchahs
-
-	1 CekFV1796_NL 3.lpp. 8.r.
-	1 CekFV1796_NL 4.lpp. 3.r.
-	1 CekFV1796_NL 6.lpp. 8.r.
-	1 CekFV1796_NL 13.lpp. 1.r.
-	1 CekFV1796_NL 13.lpp. 8.r.
-	-----
-	5
-
-
-úchee
-
-	1 CekFV1796_NL 3.lpp. 14.r.
-	-----
-	1
-
-
-úcheem
-
-	1 CekFV1796_NL 3.lpp. 10.r.
-	1 CekFV1796_NL 5.lpp. 5.r.
-	1 CekFV1796_NL 5.lpp. 8.r.
-	1 CekFV1796_NL 11.lpp. 20.r.
-	-----
-	4
-
-
-úchi
-
-	1 CekFV1796_NL 13.lpp. 14.r.
-	-----
-	1
-
-
-úchim
-
-	1 CekFV1796_NL 7.lpp. 21.r.
-	-----
-	1
-
-
-úchkinkoju
-
-	1 CekFV1796_NL 3.lpp. 9.r.
-	-----
-	1
-
-
-úchkir§tu
-
-	1 CekFV1796_NL 12.lpp. 19.r.
-	-----
-	1
-
-
-úcho
-
-	1 CekFV1796_NL 9.lpp. 5.r.
-	1 CekFV1796_NL 13.lpp. 4.r.
-	-----
-	2
-
-
-úchohs
-
-	1 CekFV1796_NL 3.lpp. 4.r.
-	1 CekFV1796_NL 14.lpp. 1.r.
-	1 CekFV1796_NL 14.lpp. 15.r.
-	-----
-	3
-
-
-úeeziòeem
-
-	1 CekFV1796_NL 12.lpp. 6.r.
-	-----
-	1
-
-
-úeeziòu
-
-	1 CekFV1796_NL 6.lpp. 20.r.
-	-----
-	1
-
-
-úehjamu
-
-	1 CekFV1796_NL 12.lpp. 7.r.
-	-----
-	1
-
-
-úehklas
-
-	1 CekFV1796_NL 12.lpp. 4.r.
-	-----
-	1
-
-
-úehta^
-
-	1 CekFV1796_NL 14.lpp. 13.r.
-	-----
-	1
-
-
-úehtas
-
-	1 CekFV1796_NL 6.lpp. 12.r.
-	-----
-	1
-
-
-úehtas{úehtasna§tu}
-
-	1 CekFV1796_NL 10.lpp. 8.r.
-	-----
-	1
-
-
-úew
-
-	1 CekFV1796_NL 10.lpp. 9.r.
-	-----
-	1
-
-
-úewiúchkigi
-
-	1 CekFV1796_NL 10.lpp. 10.r.
-	-----
-	1
-
-
-úimti
-
-	1 CekFV1796_NL 10.lpp. 18.r.
-	1 CekFV1796_NL 12.lpp. 10.r.
-	1 CekFV1796_NL 12.lpp. 11.r.
-	-----
-	3
-
-
-úimts
-
-	1 CekFV1796_NL 3.lpp. 11.r.
-	-----
-	1
-
-
-úirds
-
-	1 CekFV1796_NL 13.lpp. 12.r.
-	-----
-	1
-
-
-úkahdi
-
-	1 CekFV1796_NL 11.lpp. 12.r.
-	-----
-	1
-
-
-úkaidri
-
-	1 CekFV1796_NL 7.lpp. 12.r.
-	-----
-	1
-
-
-úlikteem
-
-	1 CekFV1796_NL 11.lpp. 18.r.
-	-----
-	1
-
-
-úliktos
-
-	1 CekFV1796_NL 11.lpp. 17.r.
-	-----
-	1
-
-
-úlinkuma
-
-	1 CekFV1796_NL 8.lpp. 3.r.
-	-----
-	1
-
-
-úpee§ts
-
-	1 CekFV1796_NL 13.lpp. 12.r.
-	-----
-	1
-
-
-úpreedu
-
-	1 CekFV1796_NL 3.lpp. 4.r.
-	-----
-	1
-
-
-úpreedumus
-
-	1 CekFV1796_NL 14.lpp. 15.r.
-	-----
-	1
-
-
-úpree§t
-
-	1 CekFV1796_NL 11.lpp. 11.r.
-	-----
-	1
-
-
-úweúchi
-
-	1 CekFV1796_NL 6.lpp. 17.r.
 	-----
 	1
 

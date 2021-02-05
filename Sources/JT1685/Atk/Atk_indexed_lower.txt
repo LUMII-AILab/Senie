@@ -194,21 +194,6 @@ akminaiòus
 	1
 
 
-akmini
-
-	1 JT1685 Atk 18:12
-	1 JT1685 Atk 18:21
-	-----
-	2
-
-
-akmins
-
-	1 JT1685 Atk 21:11
-	-----
-	1
-
-
 akmiòam
 
 	1 JT1685 Atk 4:3
@@ -227,6 +212,21 @@ akmiòeem
 	5
 
 
+akmini
+
+	1 JT1685 Atk 18:12
+	1 JT1685 Atk 18:21
+	-----
+	2
+
+
+akmiòòam
+
+	1 JT1685 Atk 21:11
+	-----
+	1
+
+
 akmiòo^s
 
 	1 JT1685 Atk 6:15
@@ -234,7 +234,7 @@ akmiòo^s
 	1
 
 
-akmiòòam
+akmins
 
 	1 JT1685 Atk 21:11
 	-----
@@ -259,14 +259,6 @@ alleluja
 	4
 
 
-altari
-
-	1 JT1685 Atk 6:0
-	1 JT1685 Atk 11:1
-	-----
-	2
-
-
 altaºa
 
 	1 JT1685 Atk 8:3
@@ -276,6 +268,14 @@ altaºa
 	1 JT1685 Atk 16:7
 	-----
 	5
+
+
+altari
+
+	1 JT1685 Atk 6:0
+	1 JT1685 Atk 11:1
+	-----
+	2
 
 
 amata=wihrs
@@ -428,6 +428,50 @@ apgaiúmota
 	1
 
 
+apìehrbta
+
+	1 JT1685 Atk 12:1
+	1 JT1685 Atk 17:4
+	1 JT1685 Atk 19:8
+	-----
+	3
+
+
+apìehrbti
+
+	1 JT1685 Atk 7:13
+	1 JT1685 Atk 11:3
+	1 JT1685 Atk 15:6
+	1 JT1685 Atk 19:14
+	-----
+	4
+
+
+apìehrbts
+
+	1 JT1685 Atk 3:5
+	1 JT1685 Atk 3:18
+	1 JT1685 Atk 10:1
+	1 JT1685 Atk 19:13
+	-----
+	4
+
+
+apìehrbtu
+
+	1 JT1685 Atk 1:13
+	1 JT1685 Atk 7:9
+	-----
+	2
+
+
+apìehrbtus
+
+	1 JT1685 Atk 4:4
+	-----
+	1
+
+
 apgohdinajuúi
 
 	1 JT1685 Atk 18:7
@@ -530,16 +574,16 @@ aprak§ta
 	2
 
 
-aprak§titu
+aprak§tiúchana
 
-	1 JT1685 Atk 5:1
+	1 JT1685 Atk 21:0
 	-----
 	1
 
 
-aprak§tiúchana
+aprak§titu
 
-	1 JT1685 Atk 21:0
+	1 JT1685 Atk 5:1
 	-----
 	1
 
@@ -561,6 +605,94 @@ aprihje
 aprihs
 
 	1 JT1685 Atk 11:5
+	-----
+	1
+
+
+ap§ehgele
+
+	1 JT1685 Atk 22:10
+	-----
+	1
+
+
+ap§ehgeleúim
+
+	1 JT1685 Atk 7:3
+	-----
+	1
+
+
+ap§ehgeleti
+
+	1 JT1685 Atk 7:4
+	3 JT1685 Atk 7:5
+	3 JT1685 Atk 7:6
+	3 JT1685 Atk 7:7
+	3 JT1685 Atk 7:8
+	-----
+	13
+
+
+ap§ehgeleto
+
+	1 JT1685 Atk 7:4
+	-----
+	1
+
+
+ap§ehgeletu
+
+	1 JT1685 Atk 5:1
+	-----
+	1
+
+
+ap§ehgeli
+
+	1 JT1685 Atk 10:4
+	-----
+	1
+
+
+ap§ihgeleti
+
+	1 JT1685 Atk 7:0
+	-----
+	1
+
+
+apúlehpahs
+
+	1 JT1685 Atk 6:15
+	-----
+	1
+
+
+apúlehpeet
+
+	1 JT1685 Atk 6:16
+	-----
+	1
+
+
+apúlehptas
+
+	1 JT1685 Atk 2:17
+	-----
+	1
+
+
+apúuhd§eja
+
+	1 JT1685 Atk 12:10
+	-----
+	1
+
+
+apúuhd§etajs
+
+	1 JT1685 Atk 12:10
 	-----
 	1
 
@@ -612,138 +744,6 @@ apwainoht
 apzeetinaúchanas
 
 	1 JT1685 Atk 16:0
-	-----
-	1
-
-
-ap§ehgele
-
-	1 JT1685 Atk 22:10
-	-----
-	1
-
-
-ap§ehgeleti
-
-	1 JT1685 Atk 7:4
-	3 JT1685 Atk 7:5
-	3 JT1685 Atk 7:6
-	3 JT1685 Atk 7:7
-	3 JT1685 Atk 7:8
-	-----
-	13
-
-
-ap§ehgeleto
-
-	1 JT1685 Atk 7:4
-	-----
-	1
-
-
-ap§ehgeletu
-
-	1 JT1685 Atk 5:1
-	-----
-	1
-
-
-ap§ehgeleúim
-
-	1 JT1685 Atk 7:3
-	-----
-	1
-
-
-ap§ehgeli
-
-	1 JT1685 Atk 10:4
-	-----
-	1
-
-
-ap§ihgeleti
-
-	1 JT1685 Atk 7:0
-	-----
-	1
-
-
-apìehrbta
-
-	1 JT1685 Atk 12:1
-	1 JT1685 Atk 17:4
-	1 JT1685 Atk 19:8
-	-----
-	3
-
-
-apìehrbti
-
-	1 JT1685 Atk 7:13
-	1 JT1685 Atk 11:3
-	1 JT1685 Atk 15:6
-	1 JT1685 Atk 19:14
-	-----
-	4
-
-
-apìehrbts
-
-	1 JT1685 Atk 3:5
-	1 JT1685 Atk 3:18
-	1 JT1685 Atk 10:1
-	1 JT1685 Atk 19:13
-	-----
-	4
-
-
-apìehrbtu
-
-	1 JT1685 Atk 1:13
-	1 JT1685 Atk 7:9
-	-----
-	2
-
-
-apìehrbtus
-
-	1 JT1685 Atk 4:4
-	-----
-	1
-
-
-apúlehpahs
-
-	1 JT1685 Atk 6:15
-	-----
-	1
-
-
-apúlehpeet
-
-	1 JT1685 Atk 6:16
-	-----
-	1
-
-
-apúlehptas
-
-	1 JT1685 Atk 2:17
-	-----
-	1
-
-
-apúuhd§eja
-
-	1 JT1685 Atk 12:10
-	-----
-	1
-
-
-apúuhd§etajs
-
-	1 JT1685 Atk 12:10
 	-----
 	1
 
@@ -889,6 +889,138 @@ arrid§an
 	1 JT1685 Atk 17:11
 	-----
 	14
+
+
+a§eºa
+
+	1 JT1685 Atk 7:6
+	-----
+	1
+
+
+a§ias
+
+	1 JT1685 Atk 1:11
+	-----
+	1
+
+
+a§ijas
+
+	1 JT1685 Atk 1:0
+	1 JT1685 Atk 1:4
+	-----
+	2
+
+
+aús
+
+	1 JT1685 Atk 1:16
+	1 JT1685 Atk 2:12
+	1 JT1685 Atk 19:15
+	-----
+	3
+
+
+aúú
+
+	1 JT1685 Atk 14:17
+	1 JT1685 Atk 14:18
+	-----
+	2
+
+
+aúúaras
+
+	1 JT1685 Atk 7:17
+	1 JT1685 Atk 21:4
+	-----
+	2
+
+
+aúúina
+
+	2 JT1685 Atk 17:6
+	-----
+	2
+
+
+aúúini
+
+	1 JT1685 Atk 5:9
+	1 JT1685 Atk 6:10
+	1 JT1685 Atk 12:11
+	2 JT1685 Atk 16:6
+	1 JT1685 Atk 19:2
+	-----
+	6
+
+
+aúúini^
+
+	1 JT1685 Atk 11:6
+	1 JT1685 Atk 19:13
+	-----
+	2
+
+
+aúúinim
+
+	1 JT1685 Atk 1:5
+	1 JT1685 Atk 7:14
+	1 JT1685 Atk 8:7
+	-----
+	3
+
+
+aúúins
+
+	1 JT1685 Atk 6:12
+	1 JT1685 Atk 8:8
+	1 JT1685 Atk 14:20
+	1 JT1685 Atk 16:3
+	1 JT1685 Atk 16:4
+	1 JT1685 Atk 18:24
+	-----
+	6
+
+
+aúúu
+
+	1 JT1685 Atk 14:14
+	1 JT1685 Atk 14:18
+	-----
+	2
+
+
+a§ta
+
+	1 JT1685 Atk 12:4
+	-----
+	1
+
+
+a§tahm
+
+	1 JT1685 Atk 9:10
+	-----
+	1
+
+
+a§tas
+
+	1 JT1685 Atk 9:10
+	1 JT1685 Atk 9:19
+	-----
+	2
+
+
+a§tohts
+
+	1 JT1685 Atk 17:11
+	1 JT1685 Atk 21:20
+	-----
+	2
 
 
 atbildeja
@@ -1077,13 +1209,6 @@ atraddis
 	2
 
 
-atraitne
-
-	1 JT1685 Atk 18:7
-	-----
-	1
-
-
 atraiúa
 
 	1 JT1685 Atk 6:0
@@ -1105,13 +1230,6 @@ atraiúihts
 	1
 
 
-atraiúiti
-
-	1 JT1685 Atk 9:15
-	-----
-	1
-
-
 atraiúiúchanas
 
 	1 JT1685 Atk 6:0
@@ -1119,23 +1237,16 @@ atraiúiúchanas
 	1
 
 
-atrauj
+atraiúiti
 
-	1 JT1685 Atk 22:19
+	1 JT1685 Atk 9:15
 	-----
 	1
 
 
-atraus
+atraitne
 
-	1 JT1685 Atk 22:19
-	-----
-	1
-
-
-atraut
-
-	1 JT1685 Atk 22:0
+	1 JT1685 Atk 18:7
 	-----
 	1
 
@@ -1167,6 +1278,27 @@ atra§ts
 	5
 
 
+atrauj
+
+	1 JT1685 Atk 22:19
+	-----
+	1
+
+
+atraus
+
+	1 JT1685 Atk 22:19
+	-----
+	1
+
+
+atraut
+
+	1 JT1685 Atk 22:0
+	-----
+	1
+
+
 atreebi
 
 	1 JT1685 Atk 6:10
@@ -1177,6 +1309,51 @@ atreebi
 atreebis
 
 	1 JT1685 Atk 19:2
+	-----
+	1
+
+
+at§ihs
+
+	1 JT1685 Atk 3:9
+	-----
+	1
+
+
+at§iht
+
+	1 JT1685 Atk 2:23
+	-----
+	1
+
+
+atúlehgas
+
+	1 JT1685 Atk 1:18
+	1 JT1685 Atk 3:7
+	1 JT1685 Atk 9:1
+	1 JT1685 Atk 20:1
+	-----
+	4
+
+
+at§pihdejuúchas
+
+	1 JT1685 Atk 15:4
+	-----
+	1
+
+
+at§tahjis
+
+	1 JT1685 Atk 2:4
+	-----
+	1
+
+
+at§tahjuúchi
+
+	1 JT1685 Atk 20:9
 	-----
 	1
 
@@ -1243,51 +1420,6 @@ atweºº
 	2
 
 
-at§ihs
-
-	1 JT1685 Atk 3:9
-	-----
-	1
-
-
-at§iht
-
-	1 JT1685 Atk 2:23
-	-----
-	1
-
-
-at§pihdejuúchas
-
-	1 JT1685 Atk 15:4
-	-----
-	1
-
-
-at§tahjis
-
-	1 JT1685 Atk 2:4
-	-----
-	1
-
-
-at§tahjuúchi
-
-	1 JT1685 Atk 20:9
-	-----
-	1
-
-
-atúlehgas
-
-	1 JT1685 Atk 1:18
-	1 JT1685 Atk 3:7
-	1 JT1685 Atk 9:1
-	1 JT1685 Atk 20:1
-	-----
-	4
-
-
 audekli
 
 	1 JT1685 Atk 18:16
@@ -1319,9 +1451,44 @@ augli
 	1
 
 
+augïus
+
+	1 JT1685 Atk 22:2
+	-----
+	1
+
+
+augúcham
+
+	1 JT1685 Atk 9:2
+	-----
+	1
+
+
 aug§cham
 
 	1 JT1685 Atk 12:0
+	-----
+	1
+
+
+augúcham=zelúchanas
+
+	1 JT1685 Atk 20:6
+	-----
+	1
+
+
+augúchamzellúchana
+
+	1 JT1685 Atk 20:0
+	-----
+	1
+
+
+augúchamzelúchana
+
+	1 JT1685 Atk 20:5
 	-----
 	1
 
@@ -1354,54 +1521,12 @@ aug§tums
 	1
 
 
-augïus
-
-	1 JT1685 Atk 22:2
-	-----
-	1
-
-
-augúcham
-
-	1 JT1685 Atk 9:2
-	-----
-	1
-
-
-augúcham=zelúchanas
-
-	1 JT1685 Atk 20:6
-	-----
-	1
-
-
-augúchamzellúchana
-
-	1 JT1685 Atk 20:0
-	-----
-	1
-
-
-augúchamzelúchana
-
-	1 JT1685 Atk 20:5
-	-----
-	1
-
-
 auk§ts
 
 	2 JT1685 Atk 3:15
 	1 JT1685 Atk 3:16
 	-----
 	3
-
-
-au§truma
-
-	1 JT1685 Atk 21:13
-	-----
-	1
 
 
 auúis
@@ -1416,6 +1541,13 @@ auúis
 	1 JT1685 Atk 13:9
 	-----
 	8
+
+
+au§truma
+
+	1 JT1685 Atk 21:13
+	-----
+	1
 
 
 awis
@@ -1452,138 +1584,6 @@ azzo=sahles
 	1 JT1685 Atk 3:18
 	-----
 	1
-
-
-a§eºa
-
-	1 JT1685 Atk 7:6
-	-----
-	1
-
-
-a§ias
-
-	1 JT1685 Atk 1:11
-	-----
-	1
-
-
-a§ijas
-
-	1 JT1685 Atk 1:0
-	1 JT1685 Atk 1:4
-	-----
-	2
-
-
-a§ta
-
-	1 JT1685 Atk 12:4
-	-----
-	1
-
-
-a§tahm
-
-	1 JT1685 Atk 9:10
-	-----
-	1
-
-
-a§tas
-
-	1 JT1685 Atk 9:10
-	1 JT1685 Atk 9:19
-	-----
-	2
-
-
-a§tohts
-
-	1 JT1685 Atk 17:11
-	1 JT1685 Atk 21:20
-	-----
-	2
-
-
-aús
-
-	1 JT1685 Atk 1:16
-	1 JT1685 Atk 2:12
-	1 JT1685 Atk 19:15
-	-----
-	3
-
-
-aúú
-
-	1 JT1685 Atk 14:17
-	1 JT1685 Atk 14:18
-	-----
-	2
-
-
-aúúaras
-
-	1 JT1685 Atk 7:17
-	1 JT1685 Atk 21:4
-	-----
-	2
-
-
-aúúina
-
-	2 JT1685 Atk 17:6
-	-----
-	2
-
-
-aúúini
-
-	1 JT1685 Atk 5:9
-	1 JT1685 Atk 6:10
-	1 JT1685 Atk 12:11
-	2 JT1685 Atk 16:6
-	1 JT1685 Atk 19:2
-	-----
-	6
-
-
-aúúini^
-
-	1 JT1685 Atk 11:6
-	1 JT1685 Atk 19:13
-	-----
-	2
-
-
-aúúinim
-
-	1 JT1685 Atk 1:5
-	1 JT1685 Atk 7:14
-	1 JT1685 Atk 8:7
-	-----
-	3
-
-
-aúúins
-
-	1 JT1685 Atk 6:12
-	1 JT1685 Atk 8:8
-	1 JT1685 Atk 14:20
-	1 JT1685 Atk 16:3
-	1 JT1685 Atk 16:4
-	1 JT1685 Atk 18:24
-	-----
-	6
-
-
-aúúu
-
-	1 JT1685 Atk 14:14
-	1 JT1685 Atk 14:18
-	-----
-	2
 
 
 babilon
@@ -1757,6 +1757,49 @@ bals
 	4
 
 
+balúi
+
+	1 JT1685 Atk 1:10
+	1 JT1685 Atk 1:12
+	1 JT1685 Atk 3:20
+	1 JT1685 Atk 5:2
+	1 JT1685 Atk 5:12
+	1 JT1685 Atk 6:6
+	1 JT1685 Atk 6:7
+	1 JT1685 Atk 6:10
+	1 JT1685 Atk 7:2
+	1 JT1685 Atk 7:10
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 9:13
+	1 JT1685 Atk 10:3
+	1 JT1685 Atk 10:4
+	1 JT1685 Atk 18:2
+	1 JT1685 Atk 18:4
+	1 JT1685 Atk 19:1
+	1 JT1685 Atk 21:3
+	-----
+	18
+
+
+balúi^
+
+	1 JT1685 Atk 6:1
+	-----
+	1
+
+
+balúis
+
+	1 JT1685 Atk 4:5
+	1 JT1685 Atk 8:5
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 10:3
+	1 JT1685 Atk 10:4
+	1 JT1685 Atk 16:18
+	-----
+	6
+
+
 balta
 
 	1 JT1685 Atk 1:14
@@ -1814,56 +1857,12 @@ baltu
 	2
 
 
-balúi
+baººota
 
-	1 JT1685 Atk 1:10
-	1 JT1685 Atk 1:12
-	1 JT1685 Atk 3:20
-	1 JT1685 Atk 5:2
-	1 JT1685 Atk 5:12
-	1 JT1685 Atk 6:6
-	1 JT1685 Atk 6:7
-	1 JT1685 Atk 6:10
-	1 JT1685 Atk 7:2
-	1 JT1685 Atk 7:10
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 9:13
-	1 JT1685 Atk 10:3
-	1 JT1685 Atk 10:4
-	1 JT1685 Atk 18:2
-	1 JT1685 Atk 18:4
-	1 JT1685 Atk 19:1
-	1 JT1685 Atk 21:3
+	1 JT1685 Atk 12:6
+	1 JT1685 Atk 12:14
 	-----
-	18
-
-
-balúi^
-
-	1 JT1685 Atk 6:1
-	-----
-	1
-
-
-balúis
-
-	1 JT1685 Atk 4:5
-	1 JT1685 Atk 8:5
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 10:3
-	1 JT1685 Atk 10:4
-	1 JT1685 Atk 16:18
-	-----
-	6
-
-
-bauúlus
-
-	1 JT1685 Atk 12:17
-	1 JT1685 Atk 14:12
-	1 JT1685 Atk 22:14
-	-----
-	3
+	2
 
 
 ba§une
@@ -1879,6 +1878,20 @@ ba§unehs
 	1 JT1685 Atk 10:7
 	-----
 	2
+
+
+baúuneht
+
+	1 JT1685 Atk 8:6
+	-----
+	1
+
+
+baúuneja
+
+	1 JT1685 Atk 8:7
+	-----
+	1
 
 
 ba§uneja
@@ -1899,13 +1912,6 @@ ba§unes
 	1 JT1685 Atk 8:6
 	-----
 	2
-
-
-ba§unetajo
-
-	1 JT1685 Atk 18:22
-	-----
-	1
 
 
 ba§uneúchana
@@ -1930,6 +1936,13 @@ ba§uneúchanu
 	1
 
 
+ba§unetajo
+
+	1 JT1685 Atk 18:22
+	-----
+	1
+
+
 ba§uni
 
 	1 JT1685 Atk 1:10
@@ -1945,26 +1958,13 @@ ba§uòo
 	1
 
 
-baººota
+bauúlus
 
-	1 JT1685 Atk 12:6
-	1 JT1685 Atk 12:14
+	1 JT1685 Atk 12:17
+	1 JT1685 Atk 14:12
+	1 JT1685 Atk 22:14
 	-----
-	2
-
-
-baúuneht
-
-	1 JT1685 Atk 8:6
-	-----
-	1
-
-
-baúuneja
-
-	1 JT1685 Atk 8:7
-	-----
-	1
+	3
 
 
 bedre^s
@@ -2117,6 +2117,19 @@ besdeewigeem
 	1
 
 
+besdibbeòa
+
+	1 JT1685 Atk 9:1
+	1 JT1685 Atk 9:2
+	1 JT1685 Atk 9:11
+	1 JT1685 Atk 11:0
+	1 JT1685 Atk 11:7
+	1 JT1685 Atk 17:8
+	1 JT1685 Atk 20:1
+	-----
+	7
+
+
 besdibbeni
 
 	1 JT1685 Atk 9:0
@@ -2130,19 +2143,6 @@ besdibbeni^
 	1 JT1685 Atk 20:0
 	-----
 	1
-
-
-besdibbeòa
-
-	1 JT1685 Atk 9:1
-	1 JT1685 Atk 9:2
-	1 JT1685 Atk 9:11
-	1 JT1685 Atk 11:0
-	1 JT1685 Atk 11:7
-	1 JT1685 Atk 17:8
-	1 JT1685 Atk 20:1
-	-----
-	7
 
 
 beswainigi
@@ -2194,13 +2194,6 @@ bihjaúchanas
 	1
 
 
-bihtohs
-
-	1 JT1685 Atk 15:4
-	-----
-	1
-
-
 bih§ta
 
 	1 JT1685 Atk 19:5
@@ -2226,6 +2219,13 @@ bih§tees
 bih§teetees
 
 	1 JT1685 Atk 14:7
+	-----
+	1
+
+
+bihtohs
+
+	1 JT1685 Atk 15:4
 	-----
 	1
 
@@ -2380,6 +2380,28 @@ bijuúchi
 	1
 
 
+biííeri
+
+	1 JT1685 Atk 14:10
+	1 JT1685 Atk 17:4
+	-----
+	2
+
+
+biííeri^
+
+	1 JT1685 Atk 18:6
+	-----
+	1
+
+
+biííeris
+
+	1 JT1685 Atk 16:19
+	-----
+	1
+
+
 bildei
 
 	1 JT1685 Atk 13:15
@@ -2409,34 +2431,19 @@ bir§umeem
 	2
 
 
-biííeri
-
-	1 JT1685 Atk 14:10
-	1 JT1685 Atk 17:4
-	-----
-	2
-
-
-biííeri^
-
-	1 JT1685 Atk 18:6
-	-----
-	1
-
-
-biííeris
-
-	1 JT1685 Atk 16:19
-	-----
-	1
-
-
 bohja
 
 	1 JT1685 Atk 17:8
 	1 JT1685 Atk 19:0
 	-----
 	2
+
+
+bohja^
+
+	1 JT1685 Atk 17:11
+	-----
+	1
 
 
 bohja=eeúchana
@@ -2453,9 +2460,9 @@ bohja=eeúchanu
 	1
 
 
-bohja^
+brahïi
 
-	1 JT1685 Atk 17:11
+	1 JT1685 Atk 6:11
 	-----
 	1
 
@@ -2463,13 +2470,6 @@ bohja^
 brahlis
 
 	1 JT1685 Atk 1:9
-	-----
-	1
-
-
-brahïi
-
-	1 JT1685 Atk 6:11
 	-----
 	1
 
@@ -2571,6 +2571,13 @@ brihnijees
 	1
 
 
+brihniúees
+
+	1 JT1685 Atk 17:8
+	-----
+	1
+
+
 brihni§ki
 
 	1 JT1685 Atk 15:3
@@ -2581,13 +2588,6 @@ brihni§ki
 brihni§ku
 
 	1 JT1685 Atk 15:1
-	-----
-	1
-
-
-brihniúees
-
-	1 JT1685 Atk 17:8
 	-----
 	1
 
@@ -2690,6 +2690,20 @@ buhs
 	31
 
 
+buhúchu
+
+	1 JT1685 Atk 21:7
+	-----
+	1
+
+
+buhúi
+
+	1 JT1685 Atk 3:3
+	-----
+	1
+
+
 buht
 
 	1 JT1685 Atk 2:0
@@ -2706,16 +2720,9 @@ buhtu
 	3
 
 
-buhúchu
+burúchanahm
 
-	1 JT1685 Atk 21:7
-	-----
-	1
-
-
-buhúi
-
-	1 JT1685 Atk 3:3
+	1 JT1685 Atk 9:21
 	-----
 	1
 
@@ -2730,13 +2737,6 @@ burwjeem
 burwji
 
 	1 JT1685 Atk 22:15
-	-----
-	1
-
-
-burúchanahm
-
-	1 JT1685 Atk 9:21
 	-----
 	1
 
@@ -2866,6 +2866,13 @@ darba=beedris
 	1
 
 
+darbee~
+
+	1 JT1685 Atk 2:23
+	-----
+	1
+
+
 darbeem
 
 	1 JT1685 Atk 2:22
@@ -2876,13 +2883,6 @@ darbeem
 	1 JT1685 Atk 20:13
 	-----
 	6
-
-
-darbee~
-
-	1 JT1685 Atk 2:23
-	-----
-	1
 
 
 darbi
@@ -3008,13 +3008,6 @@ darrijis
 	4
 
 
-darritu
-
-	1 JT1685 Atk 13:15
-	-----
-	1
-
-
 darriúchanu
 
 	1 JT1685 Atk 13:0
@@ -3028,6 +3021,13 @@ darriúchu
 	1 JT1685 Atk 3:12
 	-----
 	2
+
+
+darritu
+
+	1 JT1685 Atk 13:15
+	-----
+	1
 
 
 darru
@@ -3082,16 +3082,16 @@ debbes
 	16
 
 
-debbes=swaig§nes
+debbes=§illas
 
-	1 JT1685 Atk 6:13
+	1 JT1685 Atk 9:17
 	-----
 	1
 
 
-debbes=§illas
+debbes=swaig§nes
 
-	1 JT1685 Atk 9:17
+	1 JT1685 Atk 6:13
 	-----
 	1
 
@@ -3106,6 +3106,13 @@ debbeúi
 	1 JT1685 Atk 21:3
 	-----
 	6
+
+
+debbeúi`
+
+	1 JT1685 Atk 12:1
+	-----
+	1
 
 
 debbeúi^
@@ -3139,13 +3146,6 @@ debbeúi^s
 	1
 
 
-debbeúi`
-
-	1 JT1685 Atk 12:1
-	-----
-	1
-
-
 debbeúim
 
 	1 JT1685 Atk 18:5
@@ -3156,6 +3156,13 @@ debbeúim
 debbeúis
 
 	1 JT1685 Atk 4:0
+	-----
+	1
+
+
+debbeúúis
+
+	1 JT1685 Atk 12:12
 	-----
 	1
 
@@ -3178,13 +3185,6 @@ debbeúu
 	1 JT1685 Atk 21:10
 	-----
 	14
-
-
-debbeúúis
-
-	1 JT1685 Atk 12:12
-	-----
-	1
 
 
 deena
@@ -3309,6 +3309,13 @@ deewa
 	60
 
 
+deewa=nam~a^
+
+	1 JT1685 Atk 3:12
+	-----
+	1
+
+
 deewa=namma
 
 	1 JT1685 Atk 11:2
@@ -3341,13 +3348,6 @@ deewa=nams
 	1 JT1685 Atk 15:8
 	-----
 	3
-
-
-deewa=nam~a^
-
-	1 JT1685 Atk 3:12
-	-----
-	1
 
 
 deewa=parahdi§a
@@ -3482,6 +3482,22 @@ deggoúi
 	1
 
 
+dehï
+
+	2 JT1685 Atk 1:9
+	1 JT1685 Atk 2:3
+	2 JT1685 Atk 6:9
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 15:0
+	1 JT1685 Atk 16:0
+	1 JT1685 Atk 18:10
+	1 JT1685 Atk 18:15
+	1 JT1685 Atk 19:0
+	2 JT1685 Atk 20:4
+	-----
+	13
+
+
 dehlam
 
 	1 JT1685 Atk 1:13
@@ -3520,22 +3536,6 @@ dehwehts
 	1
 
 
-dehï
-
-	2 JT1685 Atk 1:9
-	1 JT1685 Atk 2:3
-	2 JT1685 Atk 6:9
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 15:0
-	1 JT1685 Atk 16:0
-	1 JT1685 Atk 18:10
-	1 JT1685 Atk 18:15
-	1 JT1685 Atk 19:0
-	2 JT1685 Atk 20:4
-	-----
-	13
-
-
 derr
 
 	1 JT1685 Atk 22:2
@@ -3548,6 +3548,36 @@ derribas
 	1 JT1685 Atk 11:19
 	-----
 	1
+
+
+deúmita
+
+	1 JT1685 Atk 11:13
+	-----
+	1
+
+
+deúmits
+
+	1 JT1685 Atk 2:1
+	1 JT1685 Atk 2:10
+	1 JT1685 Atk 5:11
+	1 JT1685 Atk 7:4
+	1 JT1685 Atk 9:16
+	1 JT1685 Atk 11:3
+	1 JT1685 Atk 12:3
+	1 JT1685 Atk 13:0
+	2 JT1685 Atk 13:1
+	1 JT1685 Atk 13:5
+	1 JT1685 Atk 13:18
+	1 JT1685 Atk 14:1
+	1 JT1685 Atk 17:3
+	1 JT1685 Atk 17:7
+	2 JT1685 Atk 17:12
+	1 JT1685 Atk 17:16
+	1 JT1685 Atk 21:20
+	-----
+	19
 
 
 dewe
@@ -3584,36 +3614,6 @@ dewuúchi
 	1 JT1685 Atk 11:13
 	-----
 	1
-
-
-deúmita
-
-	1 JT1685 Atk 11:13
-	-----
-	1
-
-
-deúmits
-
-	1 JT1685 Atk 2:1
-	1 JT1685 Atk 2:10
-	1 JT1685 Atk 5:11
-	1 JT1685 Atk 7:4
-	1 JT1685 Atk 9:16
-	1 JT1685 Atk 11:3
-	1 JT1685 Atk 12:3
-	1 JT1685 Atk 13:0
-	2 JT1685 Atk 13:1
-	1 JT1685 Atk 13:5
-	1 JT1685 Atk 13:18
-	1 JT1685 Atk 14:1
-	1 JT1685 Atk 17:3
-	1 JT1685 Atk 17:7
-	2 JT1685 Atk 17:12
-	1 JT1685 Atk 17:16
-	1 JT1685 Atk 21:20
-	-----
-	19
 
 
 dibbinaúchanas
@@ -3765,6 +3765,21 @@ dohmu
 	2
 
 
+dohúchu
+
+	1 JT1685 Atk 2:7
+	1 JT1685 Atk 2:10
+	2 JT1685 Atk 2:17
+	1 JT1685 Atk 2:23
+	1 JT1685 Atk 2:26
+	1 JT1685 Atk 2:28
+	1 JT1685 Atk 3:21
+	1 JT1685 Atk 11:3
+	1 JT1685 Atk 21:6
+	-----
+	10
+
+
 doht
 
 	1 JT1685 Atk 13:15
@@ -3826,21 +3841,6 @@ dohtu
 	1 JT1685 Atk 16:9
 	-----
 	3
-
-
-dohúchu
-
-	1 JT1685 Atk 2:7
-	1 JT1685 Atk 2:10
-	2 JT1685 Atk 2:17
-	1 JT1685 Atk 2:23
-	1 JT1685 Atk 2:26
-	1 JT1685 Atk 2:28
-	1 JT1685 Atk 3:21
-	1 JT1685 Atk 11:3
-	1 JT1685 Atk 21:6
-	-----
-	10
 
 
 drahnahm
@@ -3956,148 +3956,6 @@ drih§
 	6
 
 
-duhmeem
-
-	1 JT1685 Atk 9:2
-	1 JT1685 Atk 9:3
-	1 JT1685 Atk 9:18
-	-----
-	3
-
-
-duhmi
-
-	1 JT1685 Atk 8:4
-	2 JT1685 Atk 9:2
-	1 JT1685 Atk 9:17
-	1 JT1685 Atk 14:11
-	1 JT1685 Atk 19:3
-	-----
-	6
-
-
-duhmo
-
-	1 JT1685 Atk 15:8
-	-----
-	1
-
-
-duhmus
-
-	1 JT1685 Atk 18:9
-	1 JT1685 Atk 18:18
-	-----
-	2
-
-
-duhruúchi
-
-	1 JT1685 Atk 1:7
-	-----
-	1
-
-
-durwim
-
-	1 JT1685 Atk 3:20
-	-----
-	1
-
-
-durwis
-
-	1 JT1685 Atk 3:8
-	1 JT1685 Atk 3:20
-	1 JT1685 Atk 4:1
-	1 JT1685 Atk 20:3
-	-----
-	4
-
-
-duúmiba
-
-	1 JT1685 Atk 15:1
-	-----
-	1
-
-
-duúmibas
-
-	1 JT1685 Atk 6:16
-	1 JT1685 Atk 6:17
-	1 JT1685 Atk 14:8
-	1 JT1685 Atk 14:10
-	1 JT1685 Atk 14:19
-	1 JT1685 Atk 16:1
-	1 JT1685 Atk 16:19
-	1 JT1685 Atk 18:3
-	1 JT1685 Atk 19:15
-	-----
-	9
-
-
-duúmibu
-
-	1 JT1685 Atk 12:12
-	1 JT1685 Atk 14:0
-	1 JT1685 Atk 15:7
-	-----
-	3
-
-
-duúúe
-
-	1 JT1685 Atk 14:13
-	-----
-	1
-
-
-duúúetu
-
-	1 JT1685 Atk 6:11
-	-----
-	1
-
-
-duúúeúchana
-
-	1 JT1685 Atk 4:8
-	-----
-	1
-
-
-duúúeúchanas
-
-	1 JT1685 Atk 14:11
-	-----
-	1
-
-
-dwaúcha
-
-	1 JT1685 Atk 16:3
-	-----
-	1
-
-
-dwehúele
-
-	1 JT1685 Atk 18:14
-	-----
-	1
-
-
-dwehúeles
-
-	1 JT1685 Atk 6:0
-	1 JT1685 Atk 6:9
-	1 JT1685 Atk 18:13
-	1 JT1685 Atk 20:4
-	-----
-	4
-
-
 d§eedaja
 
 	1 JT1685 Atk 5:9
@@ -4114,19 +3972,19 @@ d§eedatajo
 	1
 
 
+d§eedinaúchanu
+
+	1 JT1685 Atk 22:2
+	-----
+	1
+
+
 d§eedinata
 
 	1 JT1685 Atk 13:3
 	1 JT1685 Atk 13:12
 	-----
 	2
-
-
-d§eedinaúchanu
-
-	1 JT1685 Atk 22:2
-	-----
-	1
 
 
 d§eeúmahm
@@ -4399,6 +4257,13 @@ d§ihws
 	4
 
 
+d§iïïumus
+
+	1 JT1685 Atk 2:24
+	-----
+	1
+
+
 d§immuma
 
 	1 JT1685 Atk 12:17
@@ -4523,11 +4388,146 @@ d§irnawas
 	1
 
 
-d§iïïumus
+duhmeem
 
-	1 JT1685 Atk 2:24
+	1 JT1685 Atk 9:2
+	1 JT1685 Atk 9:3
+	1 JT1685 Atk 9:18
+	-----
+	3
+
+
+duhmi
+
+	1 JT1685 Atk 8:4
+	2 JT1685 Atk 9:2
+	1 JT1685 Atk 9:17
+	1 JT1685 Atk 14:11
+	1 JT1685 Atk 19:3
+	-----
+	6
+
+
+duhmo
+
+	1 JT1685 Atk 15:8
 	-----
 	1
+
+
+duhmus
+
+	1 JT1685 Atk 18:9
+	1 JT1685 Atk 18:18
+	-----
+	2
+
+
+duhruúchi
+
+	1 JT1685 Atk 1:7
+	-----
+	1
+
+
+durwim
+
+	1 JT1685 Atk 3:20
+	-----
+	1
+
+
+durwis
+
+	1 JT1685 Atk 3:8
+	1 JT1685 Atk 3:20
+	1 JT1685 Atk 4:1
+	1 JT1685 Atk 20:3
+	-----
+	4
+
+
+duúmiba
+
+	1 JT1685 Atk 15:1
+	-----
+	1
+
+
+duúmibas
+
+	1 JT1685 Atk 6:16
+	1 JT1685 Atk 6:17
+	1 JT1685 Atk 14:8
+	1 JT1685 Atk 14:10
+	1 JT1685 Atk 14:19
+	1 JT1685 Atk 16:1
+	1 JT1685 Atk 16:19
+	1 JT1685 Atk 18:3
+	1 JT1685 Atk 19:15
+	-----
+	9
+
+
+duúmibu
+
+	1 JT1685 Atk 12:12
+	1 JT1685 Atk 14:0
+	1 JT1685 Atk 15:7
+	-----
+	3
+
+
+duúúe
+
+	1 JT1685 Atk 14:13
+	-----
+	1
+
+
+duúúeúchana
+
+	1 JT1685 Atk 4:8
+	-----
+	1
+
+
+duúúeúchanas
+
+	1 JT1685 Atk 14:11
+	-----
+	1
+
+
+duúúetu
+
+	1 JT1685 Atk 6:11
+	-----
+	1
+
+
+dwaúcha
+
+	1 JT1685 Atk 16:3
+	-----
+	1
+
+
+dwehúele
+
+	1 JT1685 Atk 18:14
+	-----
+	1
+
+
+dwehúeles
+
+	1 JT1685 Atk 6:0
+	1 JT1685 Atk 6:9
+	1 JT1685 Atk 18:13
+	1 JT1685 Atk 20:4
+	-----
+	4
 
 
 ebra&i§ki
@@ -4551,19 +4551,19 @@ ee=ees
 	1
 
 
+ee=eeúchu
+
+	1 JT1685 Atk 3:20
+	-----
+	1
+
+
 ee=eet
 
 	1 JT1685 Atk 15:8
 	1 JT1685 Atk 22:14
 	-----
 	2
-
-
-ee=eeúchu
-
-	1 JT1685 Atk 3:20
-	-----
-	1
 
 
 eedabbujees
@@ -4840,45 +4840,6 @@ ees
 	2
 
 
-eet
-
-	1 JT1685 Atk 9:9
-	1 JT1685 Atk 14:4
-	1 JT1685 Atk 17:11
-	1 JT1685 Atk 19:14
-	-----
-	4
-
-
-eewainotu
-
-	1 JT1685 Atk 13:3
-	-----
-	1
-
-
-eezehrti
-
-	1 JT1685 Atk 14:15
-	1 JT1685 Atk 14:18
-	-----
-	2
-
-
-ee§ehlis
-
-	1 JT1685 Atk 9:5
-	-----
-	1
-
-
-ee§ihmojis
-
-	1 JT1685 Atk 1:1
-	-----
-	1
-
-
 eeúahkums
 
 	1 JT1685 Atk 1:8
@@ -4903,6 +4864,20 @@ eeúchkigi
 	1
 
 
+ee§ehlis
+
+	1 JT1685 Atk 9:5
+	-----
+	1
+
+
+ee§ihmojis
+
+	1 JT1685 Atk 1:1
+	-----
+	1
+
+
 eeúihmota
 
 	1 JT1685 Atk 12:0
@@ -4923,6 +4898,31 @@ eeúlehd§e
 	1 JT1685 Atk 20:3
 	-----
 	1
+
+
+eet
+
+	1 JT1685 Atk 9:9
+	1 JT1685 Atk 14:4
+	1 JT1685 Atk 17:11
+	1 JT1685 Atk 19:14
+	-----
+	4
+
+
+eewainotu
+
+	1 JT1685 Atk 13:3
+	-----
+	1
+
+
+eezehrti
+
+	1 JT1685 Atk 14:15
+	1 JT1685 Atk 14:18
+	-----
+	2
 
 
 egiptus
@@ -4992,6 +4992,34 @@ elewanto
 	1
 
 
+eïiju
+
+	1 JT1685 Atk 6:6
+	-----
+	1
+
+
+eïjes=kohki
+
+	1 JT1685 Atk 11:4
+	-----
+	1
+
+
+eïjes=lukteri
+
+	1 JT1685 Atk 4:5
+	-----
+	1
+
+
+eïji
+
+	1 JT1685 Atk 18:13
+	-----
+	1
+
+
 elka=deewa
 
 	1 JT1685 Atk 2:14
@@ -5049,6 +5077,146 @@ enaidneeki
 	1 JT1685 Atk 20:0
 	-----
 	1
+
+
+eòìeïa
+
+	1 JT1685 Atk 8:4
+	2 JT1685 Atk 9:0
+	1 JT1685 Atk 10:7
+	1 JT1685 Atk 10:8
+	1 JT1685 Atk 10:10
+	1 JT1685 Atk 12:0
+	1 JT1685 Atk 22:8
+	-----
+	8
+
+
+eòìeïam
+
+	1 JT1685 Atk 3:7
+	1 JT1685 Atk 3:14
+	1 JT1685 Atk 21:17
+	-----
+	3
+
+
+eòìeïeem
+
+	1 JT1685 Atk 3:5
+	1 JT1685 Atk 7:0
+	1 JT1685 Atk 7:2
+	1 JT1685 Atk 14:10
+	1 JT1685 Atk 15:0
+	1 JT1685 Atk 15:7
+	1 JT1685 Atk 16:1
+	1 JT1685 Atk 17:1
+	1 JT1685 Atk 21:9
+	-----
+	9
+
+
+eòìeli
+
+	1 JT1685 Atk 1:1
+	1 JT1685 Atk 2:1
+	1 JT1685 Atk 2:8
+	1 JT1685 Atk 2:12
+	1 JT1685 Atk 2:18
+	1 JT1685 Atk 3:1
+	1 JT1685 Atk 5:2
+	1 JT1685 Atk 7:2
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 9:14
+	1 JT1685 Atk 10:1
+	1 JT1685 Atk 10:9
+	1 JT1685 Atk 14:6
+	1 JT1685 Atk 16:5
+	1 JT1685 Atk 18:1
+	1 JT1685 Atk 19:17
+	1 JT1685 Atk 20:1
+	1 JT1685 Atk 22:6
+	1 JT1685 Atk 22:16
+	-----
+	19
+
+
+eògeïi
+
+	1 JT1685 Atk 8:6
+	-----
+	1
+
+
+eòìeïi
+
+	1 JT1685 Atk 1:20
+	1 JT1685 Atk 7:11
+	1 JT1685 Atk 9:15
+	2 JT1685 Atk 12:7
+	1 JT1685 Atk 12:9
+	1 JT1685 Atk 15:6
+	1 JT1685 Atk 19:0
+	1 JT1685 Atk 21:12
+	-----
+	9
+
+
+eòìelis
+
+	1 JT1685 Atk 7:0
+	1 JT1685 Atk 8:0
+	1 JT1685 Atk 8:3
+	1 JT1685 Atk 8:5
+	1 JT1685 Atk 8:7
+	1 JT1685 Atk 8:8
+	1 JT1685 Atk 8:10
+	1 JT1685 Atk 8:12
+	1 JT1685 Atk 9:1
+	1 JT1685 Atk 9:11
+	1 JT1685 Atk 9:13
+	1 JT1685 Atk 10:0
+	1 JT1685 Atk 10:5
+	1 JT1685 Atk 11:1
+	1 JT1685 Atk 11:15
+	2 JT1685 Atk 14:0
+	1 JT1685 Atk 14:8
+	1 JT1685 Atk 14:9
+	1 JT1685 Atk 14:15
+	1 JT1685 Atk 14:17
+	1 JT1685 Atk 14:18
+	1 JT1685 Atk 14:19
+	1 JT1685 Atk 16:3
+	1 JT1685 Atk 16:4
+	1 JT1685 Atk 16:8
+	1 JT1685 Atk 16:10
+	1 JT1685 Atk 16:12
+	1 JT1685 Atk 16:17
+	1 JT1685 Atk 17:7
+	1 JT1685 Atk 18:21
+	-----
+	31
+
+
+eòìeïo
+
+	1 JT1685 Atk 5:11
+	1 JT1685 Atk 8:0
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 15:8
+	-----
+	4
+
+
+eòìeïus
+
+	1 JT1685 Atk 7:1
+	1 JT1685 Atk 8:0
+	1 JT1685 Atk 8:2
+	1 JT1685 Atk 9:14
+	1 JT1685 Atk 15:1
+	-----
+	5
 
 
 es
@@ -5188,210 +5356,6 @@ es
 	161
 
 
-euwrates
-
-	1 JT1685 Atk 9:14
-	1 JT1685 Atk 16:12
-	-----
-	2
-
-
-ewangeljums
-
-	1 JT1685 Atk 14:6
-	-----
-	1
-
-
-ewe§a
-
-	1 JT1685 Atk 2:0
-	-----
-	1
-
-
-ewe§eºo=draud§es
-
-	1 JT1685 Atk 2:1
-	-----
-	1
-
-
-ewe§u
-
-	1 JT1685 Atk 1:11
-	-----
-	1
-
-
-eïiju
-
-	1 JT1685 Atk 6:6
-	-----
-	1
-
-
-eïjes=kohki
-
-	1 JT1685 Atk 11:4
-	-----
-	1
-
-
-eïjes=lukteri
-
-	1 JT1685 Atk 4:5
-	-----
-	1
-
-
-eïji
-
-	1 JT1685 Atk 18:13
-	-----
-	1
-
-
-eògeïi
-
-	1 JT1685 Atk 8:6
-	-----
-	1
-
-
-eòìeli
-
-	1 JT1685 Atk 1:1
-	1 JT1685 Atk 2:1
-	1 JT1685 Atk 2:8
-	1 JT1685 Atk 2:12
-	1 JT1685 Atk 2:18
-	1 JT1685 Atk 3:1
-	1 JT1685 Atk 5:2
-	1 JT1685 Atk 7:2
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 9:14
-	1 JT1685 Atk 10:1
-	1 JT1685 Atk 10:9
-	1 JT1685 Atk 14:6
-	1 JT1685 Atk 16:5
-	1 JT1685 Atk 18:1
-	1 JT1685 Atk 19:17
-	1 JT1685 Atk 20:1
-	1 JT1685 Atk 22:6
-	1 JT1685 Atk 22:16
-	-----
-	19
-
-
-eòìelis
-
-	1 JT1685 Atk 7:0
-	1 JT1685 Atk 8:0
-	1 JT1685 Atk 8:3
-	1 JT1685 Atk 8:5
-	1 JT1685 Atk 8:7
-	1 JT1685 Atk 8:8
-	1 JT1685 Atk 8:10
-	1 JT1685 Atk 8:12
-	1 JT1685 Atk 9:1
-	1 JT1685 Atk 9:11
-	1 JT1685 Atk 9:13
-	1 JT1685 Atk 10:0
-	1 JT1685 Atk 10:5
-	1 JT1685 Atk 11:1
-	1 JT1685 Atk 11:15
-	2 JT1685 Atk 14:0
-	1 JT1685 Atk 14:8
-	1 JT1685 Atk 14:9
-	1 JT1685 Atk 14:15
-	1 JT1685 Atk 14:17
-	1 JT1685 Atk 14:18
-	1 JT1685 Atk 14:19
-	1 JT1685 Atk 16:3
-	1 JT1685 Atk 16:4
-	1 JT1685 Atk 16:8
-	1 JT1685 Atk 16:10
-	1 JT1685 Atk 16:12
-	1 JT1685 Atk 16:17
-	1 JT1685 Atk 17:7
-	1 JT1685 Atk 18:21
-	-----
-	31
-
-
-eòìeïa
-
-	1 JT1685 Atk 8:4
-	2 JT1685 Atk 9:0
-	1 JT1685 Atk 10:7
-	1 JT1685 Atk 10:8
-	1 JT1685 Atk 10:10
-	1 JT1685 Atk 12:0
-	1 JT1685 Atk 22:8
-	-----
-	8
-
-
-eòìeïam
-
-	1 JT1685 Atk 3:7
-	1 JT1685 Atk 3:14
-	1 JT1685 Atk 21:17
-	-----
-	3
-
-
-eòìeïeem
-
-	1 JT1685 Atk 3:5
-	1 JT1685 Atk 7:0
-	1 JT1685 Atk 7:2
-	1 JT1685 Atk 14:10
-	1 JT1685 Atk 15:0
-	1 JT1685 Atk 15:7
-	1 JT1685 Atk 16:1
-	1 JT1685 Atk 17:1
-	1 JT1685 Atk 21:9
-	-----
-	9
-
-
-eòìeïi
-
-	1 JT1685 Atk 1:20
-	1 JT1685 Atk 7:11
-	1 JT1685 Atk 9:15
-	2 JT1685 Atk 12:7
-	1 JT1685 Atk 12:9
-	1 JT1685 Atk 15:6
-	1 JT1685 Atk 19:0
-	1 JT1685 Atk 21:12
-	-----
-	9
-
-
-eòìeïo
-
-	1 JT1685 Atk 5:11
-	1 JT1685 Atk 8:0
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 15:8
-	-----
-	4
-
-
-eòìeïus
-
-	1 JT1685 Atk 7:1
-	1 JT1685 Atk 8:0
-	1 JT1685 Atk 8:2
-	1 JT1685 Atk 9:14
-	1 JT1685 Atk 15:1
-	-----
-	5
-
-
 eúmu
 
 	1 JT1685 Atk 1:8
@@ -5464,6 +5428,13 @@ eúúi
 	38
 
 
+eúúoúcheem
+
+	1 JT1685 Atk 2:24
+	-----
+	1
+
+
 eúúoti
 
 	1 JT1685 Atk 22:14
@@ -5471,9 +5442,38 @@ eúúoti
 	1
 
 
-eúúoúcheem
+euwrates
 
-	1 JT1685 Atk 2:24
+	1 JT1685 Atk 9:14
+	1 JT1685 Atk 16:12
+	-----
+	2
+
+
+ewangeljums
+
+	1 JT1685 Atk 14:6
+	-----
+	1
+
+
+ewe§a
+
+	1 JT1685 Atk 2:0
+	-----
+	1
+
+
+ewe§eºo=draud§es
+
+	1 JT1685 Atk 2:1
+	-----
+	1
+
+
+ewe§u
+
+	1 JT1685 Atk 1:11
 	-----
 	1
 
@@ -5678,9 +5678,31 @@ garra^
 	4
 
 
+gaººahm
+
+	1 JT1685 Atk 7:9
+	1 JT1685 Atk 7:13
+	-----
+	2
+
+
+gaººas
+
+	1 JT1685 Atk 6:11
+	-----
+	1
+
+
 garreem
 
 	1 JT1685 Atk 1:4
+	-----
+	1
+
+
+gaººeem
+
+	1 JT1685 Atk 1:13
 	-----
 	1
 
@@ -5738,6 +5760,13 @@ garru
 	1
 
 
+gaººums
+
+	1 JT1685 Atk 21:16
+	-----
+	1
+
+
 garrus
 
 	1 JT1685 Atk 16:13
@@ -5782,33 +5811,18 @@ gawilejam
 	1
 
 
-gaººahm
+ìihmi
 
-	1 JT1685 Atk 7:9
-	1 JT1685 Atk 7:13
+	1 JT1685 Atk 9:7
+	-----
+	1
+
+
+ìihmis
+
+	2 JT1685 Atk 4:3
 	-----
 	2
-
-
-gaººas
-
-	1 JT1685 Atk 6:11
-	-----
-	1
-
-
-gaººeem
-
-	1 JT1685 Atk 1:13
-	-----
-	1
-
-
-gaººums
-
-	1 JT1685 Atk 21:16
-	-----
-	1
 
 
 glah§a
@@ -6275,6 +6289,14 @@ ikweena^
 	1
 
 
+ikweena~
+
+	1 JT1685 Atk 2:23
+	1 JT1685 Atk 4:8
+	-----
+	2
+
+
 ikweenam
 
 	1 JT1685 Atk 6:11
@@ -6288,14 +6310,6 @@ ikweenas
 	1 JT1685 Atk 21:21
 	-----
 	1
-
-
-ikweena~
-
-	1 JT1685 Atk 2:23
-	1 JT1685 Atk 4:8
-	-----
-	2
 
 
 ikweens
@@ -6525,6 +6539,13 @@ is
 	8
 
 
+i§aúchar
+
+	1 JT1685 Atk 7:7
+	-----
+	1
+
+
 isded§e
 
 	2 JT1685 Atk 8:7
@@ -6668,12 +6689,61 @@ ispuúchkota
 	1
 
 
+i§ra&e&la
+
+	1 JT1685 Atk 21:12
+	-----
+	1
+
+
+i§ra&e&ïa
+
+	1 JT1685 Atk 2:14
+	-----
+	1
+
+
+i§raeïa
+
+	1 JT1685 Atk 7:4
+	-----
+	1
+
+
 isred§eti
 
 	1 JT1685 Atk 7:0
 	1 JT1685 Atk 17:14
 	-----
 	2
+
+
+isúalks
+
+	1 JT1685 Atk 7:16
+	-----
+	1
+
+
+isúikke
+
+	1 JT1685 Atk 16:12
+	-----
+	1
+
+
+is§pïaut
+
+	1 JT1685 Atk 3:16
+	-----
+	1
+
+
+isúuhtiti
+
+	1 JT1685 Atk 5:6
+	-----
+	1
 
 
 istaiúiti
@@ -6707,34 +6777,6 @@ istwihks
 istwihkuúcham
 
 	1 JT1685 Atk 21:6
-	-----
-	1
-
-
-is§pïaut
-
-	1 JT1685 Atk 3:16
-	-----
-	1
-
-
-isúalks
-
-	1 JT1685 Atk 7:16
-	-----
-	1
-
-
-isúikke
-
-	1 JT1685 Atk 16:12
-	-----
-	1
-
-
-isúuhtiti
-
-	1 JT1685 Atk 5:6
 	-----
 	1
 
@@ -6807,34 +6849,6 @@ ittin
 	8
 
 
-i§aúchar
-
-	1 JT1685 Atk 7:7
-	-----
-	1
-
-
-i§ra&e&la
-
-	1 JT1685 Atk 21:12
-	-----
-	1
-
-
-i§ra&e&ïa
-
-	1 JT1685 Atk 2:14
-	-----
-	1
-
-
-i§raeïa
-
-	1 JT1685 Atk 7:4
-	-----
-	1
-
-
 ja
 
 	2 JT1685 Atk 2:5
@@ -6853,6 +6867,20 @@ ja
 	1 JT1685 Atk 22:20
 	-----
 	17
+
+
+jahòam
+
+	1 JT1685 Atk 1:1
+	1 JT1685 Atk 2:0
+	1 JT1685 Atk 10:0
+	1 JT1685 Atk 11:0
+	1 JT1685 Atk 17:0
+	1 JT1685 Atk 18:0
+	1 JT1685 Atk 19:0
+	1 JT1685 Atk 22:0
+	-----
+	8
 
 
 jahnis
@@ -6874,13 +6902,6 @@ jahnis
 	13
 
 
-jahtneeko
-
-	1 JT1685 Atk 9:16
-	-----
-	1
-
-
 jah§epa
 
 	1 JT1685 Atk 7:8
@@ -6888,18 +6909,11 @@ jah§epa
 	1
 
 
-jahòam
+jahtneeko
 
-	1 JT1685 Atk 1:1
-	1 JT1685 Atk 2:0
-	1 JT1685 Atk 10:0
-	1 JT1685 Atk 11:0
-	1 JT1685 Atk 17:0
-	1 JT1685 Atk 18:0
-	1 JT1685 Atk 19:0
-	1 JT1685 Atk 22:0
+	1 JT1685 Atk 9:16
 	-----
-	8
+	1
 
 
 jakints
@@ -6907,6 +6921,22 @@ jakints
 	1 JT1685 Atk 21:20
 	-----
 	1
+
+
+ja§pim
+
+	1 JT1685 Atk 4:3
+	-----
+	1
+
+
+ja§pis
+
+	1 JT1685 Atk 21:11
+	1 JT1685 Atk 21:18
+	1 JT1685 Atk 21:19
+	-----
+	3
 
 
 jaunas
@@ -6935,22 +6965,6 @@ jazeeúch
 	1 JT1685 Atk 2:10
 	-----
 	1
-
-
-ja§pim
-
-	1 JT1685 Atk 4:3
-	-----
-	1
-
-
-ja§pis
-
-	1 JT1685 Atk 21:11
-	1 JT1685 Atk 21:18
-	1 JT1685 Atk 21:19
-	-----
-	3
 
 
 jeb
@@ -7171,17 +7185,6 @@ juddus
 	2
 
 
-juhs
-
-	1 JT1685 Atk 2:10
-	2 JT1685 Atk 12:12
-	2 JT1685 Atk 18:4
-	2 JT1685 Atk 18:20
-	1 JT1685 Atk 19:18
-	-----
-	8
-
-
 juhºa
 
 	1 JT1685 Atk 20:13
@@ -7225,6 +7228,17 @@ juhºu
 	1 JT1685 Atk 10:8
 	1 JT1685 Atk 14:7
 	1 JT1685 Atk 18:17
+	-----
+	8
+
+
+juhs
+
+	1 JT1685 Atk 2:10
+	2 JT1685 Atk 12:12
+	2 JT1685 Atk 18:4
+	2 JT1685 Atk 18:20
+	1 JT1685 Atk 19:18
 	-----
 	8
 
@@ -7408,6 +7422,13 @@ ka`
 	46
 
 
+ka~
+
+	1 JT1685 Atk 13:9
+	-----
+	1
+
+
 kad
 
 	1 JT1685 Atk 1:17
@@ -7534,16 +7555,16 @@ kahrdinaht
 	1
 
 
-kahrdinati
+kahrdinaúchanas=stundas
 
-	1 JT1685 Atk 2:10
+	1 JT1685 Atk 3:10
 	-----
 	1
 
 
-kahrdinaúchanas=stundas
+kahrdinati
 
-	1 JT1685 Atk 3:10
+	1 JT1685 Atk 2:10
 	-----
 	1
 
@@ -7815,6 +7836,21 @@ kappa^s
 	1
 
 
+kaººa
+
+	2 JT1685 Atk 19:19
+	-----
+	2
+
+
+kaººa^
+
+	1 JT1685 Atk 9:9
+	1 JT1685 Atk 20:8
+	-----
+	2
+
+
 karrites
 
 	1 JT1685 Atk 18:13
@@ -7822,9 +7858,70 @@ karrites
 	1
 
 
+kaººo
+
+	1 JT1685 Atk 19:11
+	-----
+	1
+
+
 karrogi
 
 	1 JT1685 Atk 19:14
+	-----
+	1
+
+
+kaººohs
+
+	1 JT1685 Atk 11:7
+	1 JT1685 Atk 17:14
+	-----
+	2
+
+
+kaººoht
+
+	1 JT1685 Atk 12:17
+	1 JT1685 Atk 13:4
+	1 JT1685 Atk 13:5
+	1 JT1685 Atk 13:7
+	-----
+	4
+
+
+kaººoja
+
+	2 JT1685 Atk 12:7
+	-----
+	2
+
+
+kaººojam
+
+	1 JT1685 Atk 19:19
+	-----
+	1
+
+
+kaººoúchu
+
+	1 JT1685 Atk 2:16
+	-----
+	1
+
+
+kaººu
+
+	1 JT1685 Atk 9:7
+	1 JT1685 Atk 16:14
+	-----
+	2
+
+
+karúch
+
+	1 JT1685 Atk 12:7
 	-----
 	1
 
@@ -7854,13 +7951,6 @@ kar§tums
 kar§tumu
 
 	1 JT1685 Atk 16:9
-	-----
-	1
-
-
-karúch
-
-	1 JT1685 Atk 12:7
 	-----
 	1
 
@@ -8079,13 +8169,6 @@ kauns
 	2
 
 
-kaut
-
-	1 JT1685 Atk 3:15
-	-----
-	1
-
-
 kauúi
 
 	1 JT1685 Atk 17:1
@@ -8115,80 +8198,107 @@ kauúus
 	3
 
 
-ka~
+kaut
 
-	1 JT1685 Atk 13:9
+	1 JT1685 Atk 3:15
 	-----
 	1
 
 
-kaººa
+íehniòeem
 
-	2 JT1685 Atk 19:19
+	1 JT1685 Atk 1:6
+	1 JT1685 Atk 5:10
 	-----
 	2
 
 
-kaººa^
+íehniòi
 
-	1 JT1685 Atk 9:9
-	1 JT1685 Atk 20:8
+	1 JT1685 Atk 6:15
+	1 JT1685 Atk 17:0
+	1 JT1685 Atk 18:0
 	-----
-	2
+	3
 
 
-kaººo
+íehniòinna
 
-	1 JT1685 Atk 19:11
+	1 JT1685 Atk 18:7
 	-----
 	1
 
 
-kaººohs
+íehniòòeem
 
-	1 JT1685 Atk 11:7
+	1 JT1685 Atk 10:11
+	1 JT1685 Atk 16:14
+	1 JT1685 Atk 17:18
+	-----
+	3
+
+
+íehniòòi
+
+	1 JT1685 Atk 17:2
+	1 JT1685 Atk 17:10
+	2 JT1685 Atk 17:12
+	1 JT1685 Atk 18:3
+	1 JT1685 Atk 18:9
+	1 JT1685 Atk 21:24
+	-----
+	7
+
+
+íehniòòo
+
+	1 JT1685 Atk 16:12
 	1 JT1685 Atk 17:14
+	1 JT1685 Atk 19:12
+	1 JT1685 Atk 19:16
+	1 JT1685 Atk 19:18
 	-----
-	2
+	5
 
 
-kaººoht
-
-	1 JT1685 Atk 12:17
-	1 JT1685 Atk 13:4
-	1 JT1685 Atk 13:5
-	1 JT1685 Atk 13:7
-	-----
-	4
-
-
-kaººoja
-
-	2 JT1685 Atk 12:7
-	-----
-	2
-
-
-kaººojam
+íehniòòus
 
 	1 JT1685 Atk 19:19
 	-----
 	1
 
 
-kaººoúchu
+íehniòo
 
-	1 JT1685 Atk 2:16
+	1 JT1685 Atk 1:5
+	1 JT1685 Atk 12:3
+	1 JT1685 Atk 13:1
+	-----
+	3
+
+
+íehniòúch
+
+	1 JT1685 Atk 9:11
+	1 JT1685 Atk 17:11
+	1 JT1685 Atk 17:14
+	1 JT1685 Atk 19:16
+	-----
+	4
+
+
+íehniò§ch
+
+	1 JT1685 Atk 15:3
 	-----
 	1
 
 
-kaººu
+íekkarus
 
-	1 JT1685 Atk 9:7
-	1 JT1685 Atk 16:14
+	1 JT1685 Atk 14:18
 	-----
-	2
+	1
 
 
 klaht
@@ -8208,6 +8318,20 @@ klaud§inaju
 klauúa
 
 	1 JT1685 Atk 3:20
+	-----
+	1
+
+
+kïu&u&úchas
+
+	1 JT1685 Atk 11:15
+	-----
+	1
+
+
+kïu&u&úi
+
+	1 JT1685 Atk 12:10
 	-----
 	1
 
@@ -8407,50 +8531,6 @@ krihteet
 	1
 
 
-kritte
-
-	1 JT1685 Atk 6:13
-	1 JT1685 Atk 8:7
-	1 JT1685 Atk 8:10
-	1 JT1685 Atk 11:11
-	1 JT1685 Atk 11:13
-	1 JT1685 Atk 11:16
-	1 JT1685 Atk 16:19
-	1 JT1685 Atk 16:21
-	1 JT1685 Atk 19:4
-	-----
-	9
-
-
-krittihs
-
-	1 JT1685 Atk 7:16
-	-----
-	1
-
-
-krittu
-
-	1 JT1685 Atk 1:17
-	-----
-	1
-
-
-krittuúchi
-
-	1 JT1685 Atk 17:10
-	-----
-	1
-
-
-krittuúi
-
-	2 JT1685 Atk 14:8
-	2 JT1685 Atk 18:2
-	-----
-	4
-
-
 kri§olits
 
 	1 JT1685 Atk 21:20
@@ -8540,6 +8620,50 @@ kri§tus
 	12
 
 
+kritte
+
+	1 JT1685 Atk 6:13
+	1 JT1685 Atk 8:7
+	1 JT1685 Atk 8:10
+	1 JT1685 Atk 11:11
+	1 JT1685 Atk 11:13
+	1 JT1685 Atk 11:16
+	1 JT1685 Atk 16:19
+	1 JT1685 Atk 16:21
+	1 JT1685 Atk 19:4
+	-----
+	9
+
+
+krittihs
+
+	1 JT1685 Atk 7:16
+	-----
+	1
+
+
+krittu
+
+	1 JT1685 Atk 1:17
+	-----
+	1
+
+
+krittuúchi
+
+	1 JT1685 Atk 17:10
+	-----
+	1
+
+
+krittuúi
+
+	2 JT1685 Atk 14:8
+	2 JT1685 Atk 18:2
+	-----
+	4
+
+
 krohni
 
 	1 JT1685 Atk 2:10
@@ -8549,19 +8673,19 @@ krohni
 	3
 
 
+krohòi
+
+	1 JT1685 Atk 9:7
+	-----
+	1
+
+
 krohnis
 
 	1 JT1685 Atk 6:2
 	1 JT1685 Atk 12:1
 	-----
 	2
-
-
-krohòi
-
-	1 JT1685 Atk 9:7
-	-----
-	1
 
 
 krohòus
@@ -8579,13 +8703,6 @@ kruhtim
 	2
 
 
-kru§ta^
-
-	1 JT1685 Atk 11:8
-	-----
-	1
-
-
 kruúúa
 
 	1 JT1685 Atk 8:7
@@ -8598,6 +8715,13 @@ kruúúa
 kruúúas
 
 	1 JT1685 Atk 16:21
+	-----
+	1
+
+
+kru§ta^
+
+	1 JT1685 Atk 11:8
 	-----
 	1
 
@@ -8672,37 +8796,6 @@ kur
 	9
 
 
-kurren
-
-	1 JT1685 Atk 14:4
-	-----
-	1
-
-
-kurrenes
-
-	1 JT1685 Atk 2:5
-	1 JT1685 Atk 7:13
-	-----
-	2
-
-
-kurúch
-
-	1 JT1685 Atk 5:2
-	1 JT1685 Atk 18:18
-	1 JT1685 Atk 21:27
-	-----
-	3
-
-
-ku§tinatas
-
-	1 JT1685 Atk 6:14
-	-----
-	1
-
-
 kuººa
 
 	1 JT1685 Atk 2:18
@@ -8747,6 +8840,21 @@ kuººeem
 	1
 
 
+kurren
+
+	1 JT1685 Atk 14:4
+	-----
+	1
+
+
+kurrenes
+
+	1 JT1685 Atk 2:5
+	1 JT1685 Atk 7:13
+	-----
+	2
+
+
 kuººo
 
 	1 JT1685 Atk 13:8
@@ -8762,6 +8870,22 @@ kuººu
 	1 JT1685 Atk 18:22
 	-----
 	2
+
+
+kurúch
+
+	1 JT1685 Atk 5:2
+	1 JT1685 Atk 18:18
+	1 JT1685 Atk 21:27
+	-----
+	3
+
+
+ku§tinatas
+
+	1 JT1685 Atk 6:14
+	-----
+	1
 
 
 kweeúcho
@@ -8813,20 +8937,6 @@ kwehpja=trauku
 	1 JT1685 Atk 8:5
 	-----
 	2
-
-
-kïu&u&úchas
-
-	1 JT1685 Atk 11:15
-	-----
-	1
-
-
-kïu&u&úi
-
-	1 JT1685 Atk 12:10
-	-----
-	1
 
 
 lab
@@ -8962,6 +9072,13 @@ laimigs
 	1
 
 
+lai§tam
+
+	1 JT1685 Atk 20:3
+	-----
+	1
+
+
 laiwas
 
 	1 JT1685 Atk 18:19
@@ -8987,13 +9104,6 @@ laiweneeki
 laiwo
 
 	1 JT1685 Atk 8:9
-	-----
-	1
-
-
-lai§tam
-
-	1 JT1685 Atk 20:3
 	-----
 	1
 
@@ -9026,6 +9136,78 @@ lappas
 	1
 
 
+laúúa
+
+	1 JT1685 Atk 1:3
+	-----
+	1
+
+
+laúúiht
+
+	1 JT1685 Atk 5:4
+	-----
+	1
+
+
+ïaudim
+
+	1 JT1685 Atk 5:9
+	1 JT1685 Atk 7:9
+	1 JT1685 Atk 10:0
+	1 JT1685 Atk 10:11
+	1 JT1685 Atk 11:9
+	1 JT1685 Atk 14:6
+	-----
+	6
+
+
+ïaudis
+
+	1 JT1685 Atk 11:18
+	1 JT1685 Atk 15:4
+	1 JT1685 Atk 17:15
+	1 JT1685 Atk 18:3
+	1 JT1685 Atk 18:4
+	1 JT1685 Atk 18:23
+	1 JT1685 Atk 20:3
+	1 JT1685 Atk 20:8
+	1 JT1685 Atk 21:3
+	1 JT1685 Atk 21:24
+	-----
+	10
+
+
+ïauns
+
+	1 JT1685 Atk 16:2
+	-----
+	1
+
+
+ïaunus
+
+	1 JT1685 Atk 2:2
+	-----
+	1
+
+
+ïau§cho
+
+	1 JT1685 Atk 8:11
+	1 JT1685 Atk 17:15
+	1 JT1685 Atk 19:6
+	-----
+	3
+
+
+ïau§chu
+
+	1 JT1685 Atk 19:1
+	-----
+	1
+
+
 lauwa
 
 	1 JT1685 Atk 13:2
@@ -9054,20 +9236,6 @@ lauwo
 	1 JT1685 Atk 9:17
 	-----
 	2
-
-
-laúúa
-
-	1 JT1685 Atk 1:3
-	-----
-	1
-
-
-laúúiht
-
-	1 JT1685 Atk 5:4
-	-----
-	1
 
 
 leek
@@ -9213,6 +9381,14 @@ leelus
 	2
 
 
+leeúma
+
+	1 JT1685 Atk 1:14
+	1 JT1685 Atk 19:12
+	-----
+	2
+
+
 leeta
 
 	1 JT1685 Atk 5:13
@@ -9319,14 +9495,6 @@ leezineeks
 	3
 
 
-leeúma
-
-	1 JT1685 Atk 1:14
-	1 JT1685 Atk 19:12
-	-----
-	2
-
-
 lehgeri
 
 	1 JT1685 Atk 20:9
@@ -9404,14 +9572,14 @@ lihd§i
 	5
 
 
-lihd§ina§chana
+lihd§inaúchana
 
 	1 JT1685 Atk 13:18
 	-----
 	1
 
 
-lihd§inaúchana
+lihd§ina§chana
 
 	1 JT1685 Atk 13:18
 	-----
@@ -9611,6 +9779,13 @@ luktuºus
 	1
 
 
+maììu
+
+	1 JT1685 Atk 6:11
+	-----
+	1
+
+
 magog
 
 	1 JT1685 Atk 20:0
@@ -9649,6 +9824,13 @@ mahjohs
 mahla=trauki
 
 	1 JT1685 Atk 2:27
+	-----
+	1
+
+
+mahòus
+
+	1 JT1685 Atk 9:20
 	-----
 	1
 
@@ -9709,9 +9891,9 @@ mahzitees
 	1
 
 
-mahòus
+maiúeem
 
-	1 JT1685 Atk 9:20
+	1 JT1685 Atk 11:3
 	-----
 	1
 
@@ -9744,11 +9926,12 @@ maitatu
 	1
 
 
-maiúeem
+maííeniht
 
-	1 JT1685 Atk 11:3
+	1 JT1685 Atk 2:14
+	1 JT1685 Atk 2:20
 	-----
-	1
+	2
 
 
 makúas
@@ -9788,6 +9971,27 @@ man
 	1 JT1685 Atk 22:10
 	-----
 	19
+
+
+man~a
+
+	1 JT1685 Atk 2:3
+	-----
+	1
+
+
+man~a^
+
+	1 JT1685 Atk 3:12
+	-----
+	1
+
+
+man~us
+
+	1 JT1685 Atk 2:20
+	-----
+	1
 
 
 manaúúus
@@ -9908,32 +10112,71 @@ mantas
 	1
 
 
-man~a
-
-	1 JT1685 Atk 2:3
-	-----
-	1
-
-
-man~a^
-
-	1 JT1685 Atk 3:12
-	-----
-	1
-
-
-man~us
-
-	1 JT1685 Atk 2:20
-	-----
-	1
-
-
 marmeïa
 
 	1 JT1685 Atk 18:12
 	-----
 	1
+
+
+ma§
+
+	1 JT1685 Atk 3:4
+	1 JT1685 Atk 3:8
+	1 JT1685 Atk 12:12
+	-----
+	3
+
+
+ma§eem
+
+	1 JT1685 Atk 11:18
+	-----
+	1
+
+
+ma§gajis
+
+	1 JT1685 Atk 1:5
+	-----
+	1
+
+
+ma§gajuúchi
+
+	1 JT1685 Atk 7:14
+	-----
+	1
+
+
+ma§i
+
+	1 JT1685 Atk 19:5
+	-----
+	1
+
+
+ma§o
+
+	1 JT1685 Atk 19:18
+	-----
+	1
+
+
+ma§u
+
+	1 JT1685 Atk 17:10
+	1 JT1685 Atk 20:3
+	-----
+	2
+
+
+ma§us
+
+	1 JT1685 Atk 13:16
+	1 JT1685 Atk 20:12
+	-----
+	2
 
 
 matti
@@ -10016,81 +10259,6 @@ mauzineekeem
 	1
 
 
-ma§
-
-	1 JT1685 Atk 3:4
-	1 JT1685 Atk 3:8
-	1 JT1685 Atk 12:12
-	-----
-	3
-
-
-ma§eem
-
-	1 JT1685 Atk 11:18
-	-----
-	1
-
-
-ma§gajis
-
-	1 JT1685 Atk 1:5
-	-----
-	1
-
-
-ma§gajuúchi
-
-	1 JT1685 Atk 7:14
-	-----
-	1
-
-
-ma§i
-
-	1 JT1685 Atk 19:5
-	-----
-	1
-
-
-ma§o
-
-	1 JT1685 Atk 19:18
-	-----
-	1
-
-
-ma§u
-
-	1 JT1685 Atk 17:10
-	1 JT1685 Atk 20:3
-	-----
-	2
-
-
-ma§us
-
-	1 JT1685 Atk 13:16
-	1 JT1685 Atk 20:12
-	-----
-	2
-
-
-maììu
-
-	1 JT1685 Atk 6:11
-	-----
-	1
-
-
-maííeniht
-
-	1 JT1685 Atk 2:14
-	1 JT1685 Atk 2:20
-	-----
-	2
-
-
 meddus
 
 	1 JT1685 Atk 10:9
@@ -10114,13 +10282,6 @@ meeru
 	2
 
 
-mee§cho
-
-	1 JT1685 Atk 6:6
-	-----
-	1
-
-
 meeúahm
 
 	1 JT1685 Atk 19:21
@@ -10136,6 +10297,13 @@ meeúas
 	5 JT1685 Atk 19:18
 	-----
 	9
+
+
+mee§cho
+
+	1 JT1685 Atk 6:6
+	-----
+	1
 
 
 meeúu
@@ -10192,23 +10360,16 @@ mehneúúes
 	1
 
 
+mehºama
+
+	1 JT1685 Atk 11:1
+	-----
+	1
+
+
 mehri
 
 	1 JT1685 Atk 6:6
-	-----
-	1
-
-
-mehrs
-
-	1 JT1685 Atk 6:6
-	-----
-	1
-
-
-mehru
-
-	1 JT1685 Atk 21:17
 	-----
 	1
 
@@ -10231,23 +10392,6 @@ mehríis
 	1 JT1685 Atk 16:2
 	-----
 	2
-
-
-mehs
-
-	1 JT1685 Atk 5:10
-	1 JT1685 Atk 7:3
-	1 JT1685 Atk 11:17
-	1 JT1685 Atk 19:7
-	-----
-	4
-
-
-mehºama
-
-	1 JT1685 Atk 11:1
-	-----
-	1
 
 
 mehºo
@@ -10278,6 +10422,30 @@ mehºotu
 	1 JT1685 Atk 21:15
 	-----
 	1
+
+
+mehrs
+
+	1 JT1685 Atk 6:6
+	-----
+	1
+
+
+mehru
+
+	1 JT1685 Atk 21:17
+	-----
+	1
+
+
+mehs
+
+	1 JT1685 Atk 5:10
+	1 JT1685 Atk 7:3
+	1 JT1685 Atk 11:17
+	1 JT1685 Atk 19:7
+	-----
+	4
 
 
 meklehs
@@ -10329,6 +10497,24 @@ melus
 	1 JT1685 Atk 22:15
 	-----
 	2
+
+
+me§ti
+
+	1 JT1685 Atk 19:20
+	-----
+	1
+
+
+me§ts
+
+	1 JT1685 Atk 8:8
+	1 JT1685 Atk 12:9
+	1 JT1685 Atk 18:21
+	1 JT1685 Atk 19:0
+	1 JT1685 Atk 20:10
+	-----
+	5
 
 
 mett
@@ -10390,24 +10576,6 @@ mettu
 	1
 
 
-me§ti
-
-	1 JT1685 Atk 19:20
-	-----
-	1
-
-
-me§ts
-
-	1 JT1685 Atk 8:8
-	1 JT1685 Atk 12:9
-	1 JT1685 Atk 18:21
-	1 JT1685 Atk 19:0
-	1 JT1685 Atk 20:10
-	-----
-	5
-
-
 mihle
 
 	1 JT1685 Atk 22:15
@@ -10451,6 +10619,13 @@ mihle§tibu
 	1
 
 
+mihïu
+
+	1 JT1685 Atk 20:9
+	-----
+	1
+
+
 mihts
 
 	1 JT1685 Atk 14:20
@@ -10458,9 +10633,9 @@ mihts
 	1
 
 
-mihïu
+miííelis
 
-	1 JT1685 Atk 20:9
+	1 JT1685 Atk 12:7
 	-----
 	1
 
@@ -10472,9 +10647,23 @@ miltus
 	1
 
 
+miòò
+
+	1 JT1685 Atk 19:15
+	-----
+	1
+
+
 mirroòee~
 
 	1 JT1685 Atk 1:5
+	-----
+	1
+
+
+miººoòi
+
+	1 JT1685 Atk 12:0
 	-----
 	1
 
@@ -10525,27 +10714,6 @@ mirruúchus
 mir§t
 
 	1 JT1685 Atk 14:0
-	-----
-	1
-
-
-miííelis
-
-	1 JT1685 Atk 12:7
-	-----
-	1
-
-
-miòò
-
-	1 JT1685 Atk 19:15
-	-----
-	1
-
-
-miººoòi
-
-	1 JT1685 Atk 12:0
 	-----
 	1
 
@@ -10626,6 +10794,13 @@ mohzijuúchi
 	1
 
 
+mohziúchana
+
+	2 JT1685 Atk 9:5
+	-----
+	2
+
+
 mohzitajo
 
 	1 JT1685 Atk 6:0
@@ -10648,18 +10823,19 @@ mohzitu
 	1
 
 
-mohziúchana
-
-	2 JT1685 Atk 9:5
-	-----
-	2
-
-
 mo§us
 
 	1 JT1685 Atk 15:3
 	-----
 	1
+
+
+muhºa
+
+	1 JT1685 Atk 21:18
+	1 JT1685 Atk 21:19
+	-----
+	2
 
 
 muhri
@@ -10683,6 +10859,13 @@ muhris
 	1
 
 
+muhºus
+
+	1 JT1685 Atk 21:15
+	-----
+	1
+
+
 muhs
 
 	2 JT1685 Atk 1:5
@@ -10692,6 +10875,14 @@ muhs
 	1 JT1685 Atk 6:16
 	-----
 	6
+
+
+muhúam
+
+	1 JT1685 Atk 11:15
+	1 JT1685 Atk 12:10
+	-----
+	2
 
 
 muh§cham
@@ -10745,29 +10936,6 @@ muh§chigs
 	1 JT1685 Atk 14:6
 	-----
 	1
-
-
-muhºa
-
-	1 JT1685 Atk 21:18
-	1 JT1685 Atk 21:19
-	-----
-	2
-
-
-muhºus
-
-	1 JT1685 Atk 21:15
-	-----
-	1
-
-
-muhúam
-
-	1 JT1685 Atk 11:15
-	1 JT1685 Atk 12:10
-	-----
-	2
 
 
 muhúeem
@@ -10919,6 +11087,16 @@ nahks
 	6
 
 
+nahkúchu
+
+	1 JT1685 Atk 2:5
+	1 JT1685 Atk 2:16
+	1 JT1685 Atk 2:25
+	2 JT1685 Atk 3:3
+	-----
+	5
+
+
 nahkt
 
 	1 JT1685 Atk 16:12
@@ -10960,16 +11138,6 @@ nahkuúi
 	1 JT1685 Atk 14:7
 	1 JT1685 Atk 14:15
 	1 JT1685 Atk 18:10
-	-----
-	5
-
-
-nahkúchu
-
-	1 JT1685 Atk 2:5
-	1 JT1685 Atk 2:16
-	1 JT1685 Atk 2:25
-	2 JT1685 Atk 3:3
 	-----
 	5
 
@@ -11104,6 +11272,13 @@ nakts
 	3
 
 
+nam~u
+
+	1 JT1685 Atk 15:6
+	-----
+	1
+
+
 namma
 
 	1 JT1685 Atk 16:17
@@ -11133,9 +11308,9 @@ nams
 	1
 
 
-nam~u
+na§tu
 
-	1 JT1685 Atk 15:6
+	1 JT1685 Atk 2:24
 	-----
 	1
 
@@ -11143,13 +11318,6 @@ nam~u
 nawtaïa
 
 	1 JT1685 Atk 7:6
-	-----
-	1
-
-
-na§tu
-
-	1 JT1685 Atk 2:24
 	-----
 	1
 
@@ -11321,6 +11489,66 @@ negantibu
 	1
 
 
+òehme
+
+	1 JT1685 Atk 5:7
+	1 JT1685 Atk 8:5
+	-----
+	2
+
+
+òehmis
+
+	1 JT1685 Atk 5:8
+	-----
+	1
+
+
+òehmu
+
+	1 JT1685 Atk 10:10
+	-----
+	1
+
+
+òem
+
+	1 JT1685 Atk 10:9
+	1 JT1685 Atk 22:17
+	-----
+	2
+
+
+òemm
+
+	1 JT1685 Atk 3:11
+	-----
+	1
+
+
+òemmi
+
+	1 JT1685 Atk 10:8
+	-----
+	1
+
+
+òems
+
+	1 JT1685 Atk 11:0
+	-----
+	1
+
+
+òemt
+
+	1 JT1685 Atk 5:9
+	1 JT1685 Atk 5:12
+	1 JT1685 Atk 6:4
+	-----
+	3
+
+
 neneeka
 
 	1 JT1685 Atk 2:10
@@ -11340,48 +11568,6 @@ nepateeúa
 neraudi
 
 	1 JT1685 Atk 5:5
-	-----
-	1
-
-
-netaiúnibas
-
-	1 JT1685 Atk 18:5
-	-----
-	1
-
-
-netaiúnibu
-
-	2 JT1685 Atk 22:11
-	-----
-	2
-
-
-netizzigeem
-
-	1 JT1685 Atk 21:8
-	-----
-	1
-
-
-newa
-
-	1 JT1685 Atk 14:11
-	-----
-	1
-
-
-ne§dams
-
-	2 JT1685 Atk 22:2
-	-----
-	2
-
-
-ne§ts
-
-	1 JT1685 Atk 21:26
 	-----
 	1
 
@@ -11414,6 +11600,13 @@ neúchíih§tus
 	1
 
 
+ne§dams
+
+	2 JT1685 Atk 22:2
+	-----
+	2
+
+
 neúúe
 
 	1 JT1685 Atk 17:7
@@ -11424,6 +11617,41 @@ neúúe
 neúúihs
 
 	1 JT1685 Atk 21:24
+	-----
+	1
+
+
+ne§ts
+
+	1 JT1685 Atk 21:26
+	-----
+	1
+
+
+netaiúnibas
+
+	1 JT1685 Atk 18:5
+	-----
+	1
+
+
+netaiúnibu
+
+	2 JT1685 Atk 22:11
+	-----
+	2
+
+
+netizzigeem
+
+	1 JT1685 Atk 21:8
+	-----
+	1
+
+
+newa
+
+	1 JT1685 Atk 14:11
 	-----
 	1
 
@@ -11628,16 +11856,16 @@ nogahju
 	1
 
 
-nogah§ti
+nogahúchanu
 
-	1 JT1685 Atk 20:0
+	1 JT1685 Atk 18:21
 	-----
 	1
 
 
-nogahúchanu
+nogah§ti
 
-	1 JT1685 Atk 18:21
+	1 JT1685 Atk 20:0
 	-----
 	1
 
@@ -11693,6 +11921,13 @@ nokauj
 nokaus
 
 	1 JT1685 Atk 11:7
+	-----
+	1
+
+
+nokauú
+
+	1 JT1685 Atk 11:0
 	-----
 	1
 
@@ -11764,9 +11999,9 @@ nokautu
 	2
 
 
-nokauú
+nokri§t
 
-	1 JT1685 Atk 11:0
+	1 JT1685 Atk 13:13
 	-----
 	1
 
@@ -11774,13 +12009,6 @@ nokauú
 nokritte
 
 	1 JT1685 Atk 8:10
-	-----
-	1
-
-
-nokri§t
-
-	1 JT1685 Atk 13:13
 	-----
 	1
 
@@ -11799,13 +12027,6 @@ nomakúaht
 	1
 
 
-nomettahs
-
-	1 JT1685 Atk 4:10
-	-----
-	1
-
-
 nome§ti
 
 	1 JT1685 Atk 12:9
@@ -11819,6 +12040,13 @@ nome§ts
 	1 JT1685 Atk 12:13
 	-----
 	2
+
+
+nomettahs
+
+	1 JT1685 Atk 4:10
+	-----
+	1
 
 
 nomirre
@@ -11840,19 +12068,19 @@ nomirris
 	4
 
 
+nomir§t
+
+	1 JT1685 Atk 14:13
+	-----
+	1
+
+
 nomirt
 
 	1 JT1685 Atk 3:2
 	1 JT1685 Atk 9:6
 	-----
 	2
-
-
-nomir§t
-
-	1 JT1685 Atk 14:13
-	-----
-	1
 
 
 nomohda^
@@ -11902,6 +12130,43 @@ noneúúe
 norihje
 
 	1 JT1685 Atk 20:9
+	-----
+	1
+
+
+no§chahwehs
+
+	1 JT1685 Atk 21:4
+	-----
+	1
+
+
+no§chehlohs
+
+	1 JT1685 Atk 18:9
+	-----
+	1
+
+
+noúlehpums
+
+	1 JT1685 Atk 10:7
+	1 JT1685 Atk 17:5
+	-----
+	2
+
+
+noúlehpumu
+
+	1 JT1685 Atk 1:20
+	1 JT1685 Atk 17:7
+	-----
+	2
+
+
+no§tumúchu
+
+	1 JT1685 Atk 2:5
 	-----
 	1
 
@@ -11983,43 +12248,6 @@ nozir§ta
 	1 JT1685 Atk 20:4
 	-----
 	1
-
-
-no§chahwehs
-
-	1 JT1685 Atk 21:4
-	-----
-	1
-
-
-no§chehlohs
-
-	1 JT1685 Atk 18:9
-	-----
-	1
-
-
-no§tumúchu
-
-	1 JT1685 Atk 2:5
-	-----
-	1
-
-
-noúlehpums
-
-	1 JT1685 Atk 10:7
-	1 JT1685 Atk 17:5
-	-----
-	2
-
-
-noúlehpumu
-
-	1 JT1685 Atk 1:20
-	1 JT1685 Atk 17:7
-	-----
-	2
 
 
 nu
@@ -12317,16 +12545,16 @@ pahrmahzu
 	1
 
 
-pahrwehr§t
+pahrúkaita
 
-	1 JT1685 Atk 11:6
+	1 JT1685 Atk 13:18
 	-----
 	1
 
 
-pahrúkaita
+pahrwehr§t
 
-	1 JT1685 Atk 13:18
+	1 JT1685 Atk 11:6
 	-----
 	1
 
@@ -12468,6 +12696,97 @@ pardeïam
 	1
 
 
+paúargaúchu
+
+	1 JT1685 Atk 3:10
+	-----
+	1
+
+
+paúargata
+
+	1 JT1685 Atk 12:0
+	-----
+	1
+
+
+paúaule
+
+	1 JT1685 Atk 12:9
+	-----
+	1
+
+
+paúaules
+
+	1 JT1685 Atk 11:15
+	1 JT1685 Atk 13:8
+	1 JT1685 Atk 16:14
+	1 JT1685 Atk 17:8
+	-----
+	4
+
+
+paúauli
+
+	1 JT1685 Atk 3:10
+	-----
+	1
+
+
+paúchu
+
+	1 JT1685 Atk 10:4
+	1 JT1685 Atk 16:14
+	1 JT1685 Atk 18:7
+	1 JT1685 Atk 19:20
+	-----
+	4
+
+
+paúluddina
+
+	1 JT1685 Atk 14:0
+	-----
+	1
+
+
+paúluddinaht
+
+	1 JT1685 Atk 10:11
+	1 JT1685 Atk 14:6
+	-----
+	2
+
+
+paúluddinajis
+
+	1 JT1685 Atk 10:7
+	-----
+	1
+
+
+pa§tahweht
+
+	1 JT1685 Atk 6:17
+	-----
+	1
+
+
+pa§tara
+
+	1 JT1685 Atk 18:0
+	-----
+	1
+
+
+pa§tarahm
+
+	1 JT1685 Atk 15:0
+	-----
+	1
+
+
 pateeúas
 
 	1 JT1685 Atk 16:7
@@ -12579,19 +12898,19 @@ pawehl
 	1
 
 
+pawehï
+
+	1 JT1685 Atk 10:0
+	-----
+	1
+
+
 pawehlehts
 
 	1 JT1685 Atk 2:0
 	1 JT1685 Atk 22:0
 	-----
 	2
-
-
-pawehï
-
-	1 JT1685 Atk 10:0
-	-----
-	1
 
 
 pazeeúchana
@@ -12625,97 +12944,6 @@ pazehle
 	1 JT1685 Atk 18:21
 	-----
 	2
-
-
-pa§tahweht
-
-	1 JT1685 Atk 6:17
-	-----
-	1
-
-
-pa§tara
-
-	1 JT1685 Atk 18:0
-	-----
-	1
-
-
-pa§tarahm
-
-	1 JT1685 Atk 15:0
-	-----
-	1
-
-
-paúargata
-
-	1 JT1685 Atk 12:0
-	-----
-	1
-
-
-paúargaúchu
-
-	1 JT1685 Atk 3:10
-	-----
-	1
-
-
-paúaule
-
-	1 JT1685 Atk 12:9
-	-----
-	1
-
-
-paúaules
-
-	1 JT1685 Atk 11:15
-	1 JT1685 Atk 13:8
-	1 JT1685 Atk 16:14
-	1 JT1685 Atk 17:8
-	-----
-	4
-
-
-paúauli
-
-	1 JT1685 Atk 3:10
-	-----
-	1
-
-
-paúchu
-
-	1 JT1685 Atk 10:4
-	1 JT1685 Atk 16:14
-	1 JT1685 Atk 18:7
-	1 JT1685 Atk 19:20
-	-----
-	4
-
-
-paúluddina
-
-	1 JT1685 Atk 14:0
-	-----
-	1
-
-
-paúluddinaht
-
-	1 JT1685 Atk 10:11
-	1 JT1685 Atk 14:6
-	-----
-	2
-
-
-paúluddinajis
-
-	1 JT1685 Atk 10:7
-	-----
-	1
 
 
 pee
@@ -12892,6 +13120,13 @@ peeluhgs
 	4
 
 
+peeluhgúchanahm
+
+	1 JT1685 Atk 8:4
+	-----
+	1
+
+
 peeluhgt
 
 	1 JT1685 Atk 19:0
@@ -12909,13 +13144,6 @@ peeluhguúchi
 	1 JT1685 Atk 20:4
 	-----
 	4
-
-
-peeluhgúchanahm
-
-	1 JT1685 Atk 8:4
-	-----
-	1
 
 
 peemahjo
@@ -12939,6 +13167,14 @@ peenahk
 	1 JT1685 Atk 19:1
 	-----
 	3
+
+
+peeòemm
+
+	1 JT1685 Atk 14:9
+	1 JT1685 Atk 14:11
+	-----
+	2
 
 
 peepeúchi
@@ -13030,6 +13266,15 @@ peewihlis
 	1
 
 
+peewiïï
+
+	1 JT1685 Atk 12:9
+	1 JT1685 Atk 13:0
+	1 JT1685 Atk 13:14
+	-----
+	3
+
+
 peewilt
 
 	1 JT1685 Atk 2:20
@@ -13052,15 +13297,6 @@ peewiltu
 	1
 
 
-peewiïï
-
-	1 JT1685 Atk 12:9
-	1 JT1685 Atk 13:0
-	1 JT1685 Atk 13:14
-	-----
-	3
-
-
 peezi
 
 	1 JT1685 Atk 17:10
@@ -13072,14 +13308,6 @@ peezus
 
 	1 JT1685 Atk 9:5
 	1 JT1685 Atk 9:10
-	-----
-	2
-
-
-peeòemm
-
-	1 JT1685 Atk 14:9
-	1 JT1685 Atk 14:11
 	-----
 	2
 
@@ -13293,6 +13521,21 @@ pilnus
 	2
 
 
+pilúata
+
+	1 JT1685 Atk 21:14
+	-----
+	1
+
+
+pilúats
+
+	1 JT1685 Atk 18:16
+	1 JT1685 Atk 18:18
+	-----
+	2
+
+
 pilsúata
 
 	1 JT1685 Atk 3:12
@@ -13347,21 +13590,6 @@ pilsúatu
 	1 JT1685 Atk 21:16
 	-----
 	6
-
-
-pilúata
-
-	1 JT1685 Atk 21:14
-	-----
-	1
-
-
-pilúats
-
-	1 JT1685 Atk 18:16
-	1 JT1685 Atk 18:18
-	-----
-	2
 
 
 pirk
@@ -13483,6 +13711,34 @@ plattumu
 	1
 
 
+pïauji
+
+	1 JT1685 Atk 14:15
+	-----
+	1
+
+
+pïaujums
+
+	1 JT1685 Atk 14:15
+	-----
+	1
+
+
+pïauúchanas
+
+	1 JT1685 Atk 14:15
+	-----
+	1
+
+
+pïauta
+
+	1 JT1685 Atk 14:16
+	-----
+	1
+
+
 pliks
 
 	1 JT1685 Atk 16:15
@@ -13520,28 +13776,6 @@ prahtu
 	2 JT1685 Atk 17:17
 	-----
 	3
-
-
-praweeta
-
-	1 JT1685 Atk 16:13
-	-----
-	1
-
-
-praweetneezi
-
-	1 JT1685 Atk 2:20
-	-----
-	1
-
-
-praweets
-
-	1 JT1685 Atk 19:20
-	1 JT1685 Atk 20:10
-	-----
-	2
 
 
 praweeúcheem
@@ -13583,6 +13817,28 @@ praweeúcho=mahzibas
 	1 JT1685 Atk 22:19
 	-----
 	3
+
+
+praweeta
+
+	1 JT1685 Atk 16:13
+	-----
+	1
+
+
+praweetneezi
+
+	1 JT1685 Atk 2:20
+	-----
+	1
+
+
+praweets
+
+	1 JT1685 Atk 19:20
+	1 JT1685 Atk 20:10
+	-----
+	2
 
 
 preeka
@@ -13655,6 +13911,21 @@ preekúcha^
 	3
 
 
+pree§teºeem
+
+	1 JT1685 Atk 1:6
+	1 JT1685 Atk 5:10
+	-----
+	2
+
+
+pree§teºi
+
+	1 JT1685 Atk 20:6
+	-----
+	1
+
+
 preezajahs
 
 	1 JT1685 Atk 18:0
@@ -13680,21 +13951,6 @@ preezajeetees
 preezaúees
 
 	1 JT1685 Atk 11:10
-	-----
-	1
-
-
-pree§teºeem
-
-	1 JT1685 Atk 1:6
-	1 JT1685 Atk 5:10
-	-----
-	2
-
-
-pree§teºi
-
-	1 JT1685 Atk 20:6
 	-----
 	1
 
@@ -13757,13 +14013,6 @@ prohti
 	2
 
 
-puh§tu
-
-	1 JT1685 Atk 7:1
-	-----
-	1
-
-
 puhía
 
 	1 JT1685 Atk 12:0
@@ -13795,6 +14044,13 @@ puhíis
 	1 JT1685 Atk 13:11
 	-----
 	9
+
+
+puh§tu
+
+	1 JT1685 Atk 7:1
+	-----
+	1
 
 
 puiúiti
@@ -13852,41 +14108,6 @@ purpuri
 	3
 
 
-puszettorta
-
-	1 JT1685 Atk 11:11
-	-----
-	1
-
-
-puszettortas
-
-	1 JT1685 Atk 11:9
-	-----
-	1
-
-
-putneem
-
-	1 JT1685 Atk 19:17
-	-----
-	1
-
-
-putni
-
-	1 JT1685 Atk 19:21
-	-----
-	1
-
-
-putno
-
-	1 JT1685 Atk 18:2
-	-----
-	1
-
-
 puú
 
 	1 JT1685 Atk 12:14
@@ -13918,30 +14139,37 @@ puúúes
 	5
 
 
-pïauji
+puszettorta
 
-	1 JT1685 Atk 14:15
+	1 JT1685 Atk 11:11
 	-----
 	1
 
 
-pïaujums
+puszettortas
 
-	1 JT1685 Atk 14:15
+	1 JT1685 Atk 11:9
 	-----
 	1
 
 
-pïauta
+putneem
 
-	1 JT1685 Atk 14:16
+	1 JT1685 Atk 19:17
 	-----
 	1
 
 
-pïauúchanas
+putni
 
-	1 JT1685 Atk 14:15
+	1 JT1685 Atk 19:21
+	-----
+	1
+
+
+putno
+
+	1 JT1685 Atk 18:2
 	-----
 	1
 
@@ -14029,15 +14257,6 @@ rahdija
 	3
 
 
-rahdita
-
-	1 JT1685 Atk 17:0
-	1 JT1685 Atk 18:0
-	1 JT1685 Atk 22:0
-	-----
-	3
-
-
 rahdiúchanu
 
 	1 JT1685 Atk 9:17
@@ -14050,6 +14269,15 @@ rahdiúchu
 	1 JT1685 Atk 4:1
 	1 JT1685 Atk 17:1
 	1 JT1685 Atk 21:9
+	-----
+	3
+
+
+rahdita
+
+	1 JT1685 Atk 17:0
+	1 JT1685 Atk 18:0
+	1 JT1685 Atk 22:0
 	-----
 	3
 
@@ -14100,6 +14328,13 @@ rak§tihts
 	7
 
 
+rak§tiúchu
+
+	1 JT1685 Atk 3:12
+	-----
+	1
+
+
 rak§titas
 
 	1 JT1685 Atk 22:18
@@ -14121,13 +14356,6 @@ rak§titi
 rak§titu
 
 	1 JT1685 Atk 2:17
-	-----
-	1
-
-
-rak§tiúchu
-
-	1 JT1685 Atk 3:12
 	-----
 	1
 
@@ -14380,16 +14608,16 @@ rihk§tu
 	2
 
 
-rihta=swaig§ni
+rihta=§waig§ne
 
-	1 JT1685 Atk 2:28
+	1 JT1685 Atk 22:16
 	-----
 	1
 
 
-rihta=§waig§ne
+rihta=swaig§ni
 
-	1 JT1685 Atk 22:16
+	1 JT1685 Atk 2:28
 	-----
 	1
 
@@ -14474,6 +14702,13 @@ ruhkti
 	1
 
 
+ºuhz
+
+	1 JT1685 Atk 10:3
+	-----
+	1
+
+
 runna
 
 	1 JT1685 Atk 21:27
@@ -14536,12 +14771,55 @@ sabuloòa
 	1
 
 
+úadau§iti
+
+	1 JT1685 Atk 2:27
+	-----
+	1
+
+
+úaded§enaúchanas
+
+	1 JT1685 Atk 18:9
+	1 JT1685 Atk 18:18
+	-----
+	2
+
+
+úaded§enata
+
+	1 JT1685 Atk 18:8
+	-----
+	1
+
+
+úaded§innahs
+
+	1 JT1685 Atk 17:16
+	-----
+	1
+
+
 saglis
 
 	1 JT1685 Atk 3:3
 	1 JT1685 Atk 16:15
 	-----
 	2
+
+
+úagrahbe
+
+	1 JT1685 Atk 20:2
+	-----
+	1
+
+
+úagrahbts
+
+	1 JT1685 Atk 19:20
+	-----
+	1
 
 
 sahd§ibahm
@@ -14579,6 +14857,37 @@ sahli
 	1
 
 
+úahpehm
+
+	1 JT1685 Atk 16:10
+	1 JT1685 Atk 16:11
+	-----
+	2
+
+
+§aimo
+
+	1 JT1685 Atk 13:0
+	-----
+	1
+
+
+§aimodams
+
+	1 JT1685 Atk 13:6
+	-----
+	1
+
+
+§aimoja
+
+	1 JT1685 Atk 16:9
+	1 JT1685 Atk 16:11
+	1 JT1685 Atk 16:21
+	-----
+	3
+
+
 saimoúchanas
 
 	1 JT1685 Atk 13:1
@@ -14595,9 +14904,233 @@ saimoúchanu
 	2
 
 
+úai§tija
+
+	1 JT1685 Atk 20:2
+	-----
+	1
+
+
+úai§titi
+
+	1 JT1685 Atk 9:14
+	-----
+	1
+
+
+úajaukta
+
+	1 JT1685 Atk 8:7
+	-----
+	1
+
+
+úajaukts
+
+	1 JT1685 Atk 8:8
+	1 JT1685 Atk 14:10
+	-----
+	2
+
+
+úajauktu
+
+	1 JT1685 Atk 15:2
+	-----
+	1
+
+
+úakka
+
+	1 JT1685 Atk 1:8
+	1 JT1685 Atk 2:1
+	1 JT1685 Atk 2:2
+	1 JT1685 Atk 2:7
+	1 JT1685 Atk 2:8
+	1 JT1685 Atk 2:9
+	1 JT1685 Atk 2:11
+	1 JT1685 Atk 2:12
+	1 JT1685 Atk 2:17
+	1 JT1685 Atk 2:18
+	1 JT1685 Atk 2:20
+	1 JT1685 Atk 2:24
+	1 JT1685 Atk 2:29
+	1 JT1685 Atk 3:1
+	1 JT1685 Atk 3:6
+	1 JT1685 Atk 3:7
+	1 JT1685 Atk 3:9
+	1 JT1685 Atk 3:13
+	1 JT1685 Atk 3:14
+	1 JT1685 Atk 3:22
+	1 JT1685 Atk 14:13
+	1 JT1685 Atk 18:7
+	2 JT1685 Atk 22:17
+	1 JT1685 Atk 22:20
+	-----
+	25
+
+
+úakkam
+
+	1 JT1685 Atk 1:11
+	1 JT1685 Atk 5:13
+	1 JT1685 Atk 6:1
+	1 JT1685 Atk 6:3
+	1 JT1685 Atk 6:5
+	1 JT1685 Atk 6:6
+	1 JT1685 Atk 6:7
+	1 JT1685 Atk 7:10
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 9:14
+	1 JT1685 Atk 10:4
+	1 JT1685 Atk 11:12
+	1 JT1685 Atk 12:10
+	1 JT1685 Atk 14:13
+	1 JT1685 Atk 16:1
+	1 JT1685 Atk 16:5
+	1 JT1685 Atk 16:7
+	1 JT1685 Atk 18:4
+	1 JT1685 Atk 19:1
+	1 JT1685 Atk 19:6
+	1 JT1685 Atk 21:3
+	-----
+	21
+
+
+úakki
+
+	1 JT1685 Atk 3:17
+	-----
+	1
+
+
+úakku
+
+	1 JT1685 Atk 2:24
+	1 JT1685 Atk 12:9
+	-----
+	2
+
+
+úakne
+
+	1 JT1685 Atk 5:5
+	1 JT1685 Atk 22:16
+	-----
+	2
+
+
+úakohde
+
+	1 JT1685 Atk 16:10
+	-----
+	1
+
+
+úalda
+
+	1 JT1685 Atk 10:9
+	1 JT1685 Atk 10:10
+	-----
+	2
+
+
+úaldas
+
+	1 JT1685 Atk 18:13
+	-----
+	1
+
+
+úaldi
+
+	1 JT1685 Atk 18:12
+	-----
+	1
+
+
+§aïïa
+
+	1 JT1685 Atk 8:7
+	-----
+	1
+
+
+úalla^
+
+	1 JT1685 Atk 1:9
+	-----
+	1
+
+
+úallas
+
+	1 JT1685 Atk 6:14
+	1 JT1685 Atk 16:20
+	-----
+	2
+
+
+saïïumu
+
+	1 JT1685 Atk 9:4
+	-----
+	1
+
+
 salwes
 
 	1 JT1685 Atk 18:13
+	-----
+	1
+
+
+úamaita
+
+	1 JT1685 Atk 6:6
+	-----
+	1
+
+
+úamaitaht
+
+	1 JT1685 Atk 7:2
+	-----
+	1
+
+
+úamaitaja
+
+	1 JT1685 Atk 9:19
+	-----
+	1
+
+
+úamaitajeet
+
+	1 JT1685 Atk 7:3
+	-----
+	1
+
+
+úamaitajuúi
+
+	1 JT1685 Atk 19:2
+	-----
+	1
+
+
+úamaitata
+
+	1 JT1685 Atk 8:9
+	1 JT1685 Atk 8:12
+	-----
+	2
+
+
+úamihs
+
+	1 JT1685 Atk 11:2
 	-----
 	1
 
@@ -14617,6 +15150,35 @@ saníi^
 	1 JT1685 Atk 20:15
 	-----
 	3
+
+
+úapulzenadami
+
+	1 JT1685 Atk 16:14
+	-----
+	1
+
+
+úapulzenajeetees
+
+	1 JT1685 Atk 19:17
+	-----
+	1
+
+
+úapulzenajuúchi
+
+	1 JT1685 Atk 16:16
+	-----
+	1
+
+
+úapulzenatus
+
+	1 JT1685 Atk 19:19
+	1 JT1685 Atk 20:8
+	-----
+	2
 
 
 sardi
@@ -14656,6 +15218,244 @@ sardus
 	3
 
 
+úargajis
+
+	1 JT1685 Atk 3:8
+	-----
+	1
+
+
+úargatees
+
+	1 JT1685 Atk 2:0
+	-----
+	1
+
+
+úarkans
+
+	1 JT1685 Atk 6:0
+	1 JT1685 Atk 6:4
+	1 JT1685 Atk 12:3
+	-----
+	3
+
+
+úarkanu
+
+	1 JT1685 Atk 17:0
+	1 JT1685 Atk 17:3
+	1 JT1685 Atk 18:16
+	-----
+	3
+
+
+úarkanumu
+
+	1 JT1685 Atk 17:4
+	1 JT1685 Atk 18:12
+	-----
+	2
+
+
+úaººo=maiús
+
+	1 JT1685 Atk 6:12
+	-----
+	1
+
+
+úataiúihts
+
+	1 JT1685 Atk 16:12
+	-----
+	1
+
+
+úataiúijuúees
+
+	1 JT1685 Atk 19:7
+	-----
+	1
+
+
+úataiúita
+
+	1 JT1685 Atk 12:6
+	1 JT1685 Atk 21:0
+	-----
+	2
+
+
+úataiúiti
+
+	1 JT1685 Atk 9:7
+	-----
+	1
+
+
+úataòa
+
+	1 JT1685 Atk 2:9
+	1 JT1685 Atk 2:13
+	1 JT1685 Atk 2:24
+	1 JT1685 Atk 3:9
+	-----
+	4
+
+
+úatans
+
+	1 JT1685 Atk 2:10
+	1 JT1685 Atk 2:13
+	1 JT1685 Atk 12:9
+	1 JT1685 Atk 20:2
+	1 JT1685 Atk 20:7
+	-----
+	5
+
+
+úatihta
+
+	1 JT1685 Atk 6:14
+	-----
+	1
+
+
+úaukta
+
+	1 JT1685 Atk 1:9
+	1 JT1685 Atk 11:8
+	1 JT1685 Atk 16:16
+	-----
+	3
+
+
+úaukts
+
+	1 JT1685 Atk 8:11
+	1 JT1685 Atk 19:11
+	1 JT1685 Atk 19:13
+	-----
+	3
+
+
+úaule
+
+	1 JT1685 Atk 1:16
+	1 JT1685 Atk 6:12
+	1 JT1685 Atk 7:16
+	1 JT1685 Atk 9:2
+	1 JT1685 Atk 10:1
+	1 JT1685 Atk 12:1
+	1 JT1685 Atk 16:8
+	1 JT1685 Atk 21:23
+	-----
+	8
+
+
+úaule^
+
+	1 JT1685 Atk 19:17
+	-----
+	1
+
+
+úaules
+
+	1 JT1685 Atk 8:12
+	1 JT1685 Atk 16:12
+	1 JT1685 Atk 22:5
+	-----
+	3
+
+
+úawa
+
+	1 JT1685 Atk 20:7
+	1 JT1685 Atk 21:8
+	-----
+	2
+
+
+úawa^
+
+	1 JT1685 Atk 1:16
+	1 JT1685 Atk 2:1
+	1 JT1685 Atk 6:4
+	1 JT1685 Atk 12:14
+	1 JT1685 Atk 14:14
+	1 JT1685 Atk 17:4
+	1 JT1685 Atk 18:7
+	-----
+	7
+
+
+úawahm
+
+	1 JT1685 Atk 1:1
+	1 JT1685 Atk 1:5
+	1 JT1685 Atk 4:4
+	1 JT1685 Atk 6:14
+	1 JT1685 Atk 9:4
+	3 JT1685 Atk 9:21
+	1 JT1685 Atk 11:11
+	1 JT1685 Atk 12:3
+	1 JT1685 Atk 14:2
+	1 JT1685 Atk 14:13
+	1 JT1685 Atk 16:11
+	1 JT1685 Atk 18:19
+	2 JT1685 Atk 19:16
+	1 JT1685 Atk 21:2
+	-----
+	17
+
+
+úawam
+
+	1 JT1685 Atk 1:6
+	-----
+	1
+
+
+úawas
+
+	1 JT1685 Atk 2:5
+	1 JT1685 Atk 2:21
+	1 JT1685 Atk 3:4
+	1 JT1685 Atk 6:13
+	2 JT1685 Atk 7:14
+	1 JT1685 Atk 9:21
+	1 JT1685 Atk 10:3
+	1 JT1685 Atk 10:4
+	1 JT1685 Atk 12:11
+	1 JT1685 Atk 12:15
+	1 JT1685 Atk 12:16
+	1 JT1685 Atk 14:8
+	1 JT1685 Atk 14:9
+	1 JT1685 Atk 16:10
+	1 JT1685 Atk 16:15
+	1 JT1685 Atk 20:4
+	-----
+	17
+
+
+úaweem
+
+	1 JT1685 Atk 1:1
+	1 JT1685 Atk 2:22
+	1 JT1685 Atk 2:23
+	1 JT1685 Atk 10:7
+	2 JT1685 Atk 11:16
+	2 JT1685 Atk 16:11
+	1 JT1685 Atk 19:0
+	1 JT1685 Atk 20:12
+	1 JT1685 Atk 20:13
+	1 JT1685 Atk 22:6
+	-----
+	12
+
+
 sawirs
 
 	1 JT1685 Atk 21:19
@@ -14663,11 +15463,241 @@ sawirs
 	1
 
 
-saïïumu
+úawo
 
-	1 JT1685 Atk 9:4
+	1 JT1685 Atk 9:20
+	1 JT1685 Atk 19:2
+	-----
+	2
+
+
+úawu
+
+	1 JT1685 Atk 1:1
+	1 JT1685 Atk 1:17
+	1 JT1685 Atk 7:11
+	1 JT1685 Atk 10:2
+	1 JT1685 Atk 10:5
+	1 JT1685 Atk 11:7
+	1 JT1685 Atk 12:11
+	1 JT1685 Atk 12:16
+	2 JT1685 Atk 13:2
+	1 JT1685 Atk 13:6
+	1 JT1685 Atk 14:9
+	1 JT1685 Atk 14:14
+	1 JT1685 Atk 14:16
+	1 JT1685 Atk 14:19
+	1 JT1685 Atk 16:2
+	1 JT1685 Atk 16:3
+	1 JT1685 Atk 16:4
+	1 JT1685 Atk 16:8
+	1 JT1685 Atk 16:10
+	1 JT1685 Atk 16:17
+	1 JT1685 Atk 17:13
+	1 JT1685 Atk 17:17
+	1 JT1685 Atk 19:2
+	1 JT1685 Atk 21:24
+	1 JT1685 Atk 22:2
+	1 JT1685 Atk 22:6
+	1 JT1685 Atk 22:16
+	-----
+	28
+
+
+úawus
+
+	1 JT1685 Atk 4:10
+	1 JT1685 Atk 16:12
+	-----
+	2
+
+
+úazzidama
+
+	1 JT1685 Atk 16:17
+	1 JT1685 Atk 19:5
+	-----
+	2
+
+
+úazzidamas
+
+	1 JT1685 Atk 11:15
 	-----
 	1
+
+
+úazzidami
+
+	1 JT1685 Atk 4:8
+	1 JT1685 Atk 4:10
+	1 JT1685 Atk 5:9
+	1 JT1685 Atk 5:12
+	1 JT1685 Atk 6:10
+	1 JT1685 Atk 7:12
+	1 JT1685 Atk 11:17
+	1 JT1685 Atk 13:4
+	1 JT1685 Atk 15:3
+	1 JT1685 Atk 17:1
+	1 JT1685 Atk 18:10
+	1 JT1685 Atk 18:16
+	1 JT1685 Atk 18:18
+	1 JT1685 Atk 18:19
+	1 JT1685 Atk 19:4
+	-----
+	15
+
+
+úazzidams
+
+	1 JT1685 Atk 1:17
+	1 JT1685 Atk 7:3
+	1 JT1685 Atk 7:13
+	1 JT1685 Atk 10:9
+	1 JT1685 Atk 11:1
+	1 JT1685 Atk 13:14
+	1 JT1685 Atk 14:8
+	1 JT1685 Atk 14:9
+	1 JT1685 Atk 14:18
+	1 JT1685 Atk 18:2
+	1 JT1685 Atk 18:21
+	1 JT1685 Atk 19:17
+	1 JT1685 Atk 21:9
+	-----
+	13
+
+
+úazzihts
+
+	1 JT1685 Atk 6:11
+	1 JT1685 Atk 9:4
+	-----
+	2
+
+
+úazzija
+
+	1 JT1685 Atk 4:1
+	1 JT1685 Atk 5:5
+	1 JT1685 Atk 5:14
+	1 JT1685 Atk 6:16
+	1 JT1685 Atk 7:14
+	1 JT1685 Atk 10:8
+	1 JT1685 Atk 10:9
+	1 JT1685 Atk 10:11
+	1 JT1685 Atk 14:7
+	1 JT1685 Atk 17:7
+	1 JT1685 Atk 17:15
+	1 JT1685 Atk 19:3
+	2 JT1685 Atk 19:9
+	1 JT1685 Atk 19:10
+	2 JT1685 Atk 21:5
+	1 JT1685 Atk 21:6
+	1 JT1685 Atk 22:6
+	1 JT1685 Atk 22:9
+	1 JT1685 Atk 22:10
+	-----
+	21
+
+
+úazziju
+
+	1 JT1685 Atk 7:14
+	-----
+	1
+
+
+úazziúchu
+
+	1 JT1685 Atk 17:7
+	-----
+	1
+
+
+úchahm
+
+	1 JT1685 Atk 9:20
+	1 JT1685 Atk 16:9
+	-----
+	2
+
+
+úchahs
+
+	1 JT1685 Atk 1:3
+	2 JT1685 Atk 22:8
+	1 JT1685 Atk 22:16
+	1 JT1685 Atk 22:19
+	-----
+	5
+
+
+§chahs
+
+	1 JT1685 Atk 22:0
+	-----
+	1
+
+
+§chahwehs
+
+	1 JT1685 Atk 7:17
+	-----
+	1
+
+
+úcham
+
+	1 JT1685 Atk 18:18
+	-----
+	1
+
+
+úchaubihts
+
+	1 JT1685 Atk 6:13
+	-----
+	1
+
+
+úche
+
+	1 JT1685 Atk 13:10
+	1 JT1685 Atk 17:9
+	-----
+	2
+
+
+úchee
+
+	1 JT1685 Atk 7:13
+	1 JT1685 Atk 7:14
+	1 JT1685 Atk 11:4
+	1 JT1685 Atk 11:10
+	3 JT1685 Atk 14:4
+	1 JT1685 Atk 17:14
+	1 JT1685 Atk 17:16
+	1 JT1685 Atk 19:9
+	1 JT1685 Atk 21:5
+	1 JT1685 Atk 22:6
+	-----
+	12
+
+
+úcheem
+
+	1 JT1685 Atk 7:1
+	1 JT1685 Atk 7:9
+	1 JT1685 Atk 9:12
+	1 JT1685 Atk 9:18
+	1 JT1685 Atk 11:6
+	1 JT1685 Atk 17:13
+	1 JT1685 Atk 18:1
+	1 JT1685 Atk 19:1
+	1 JT1685 Atk 20:6
+	1 JT1685 Atk 22:18
+	-----
+	10
 
 
 schehla§tiba
@@ -14685,9 +15715,148 @@ schehla§tibu
 	1
 
 
+§chehlodamees
+
+	1 JT1685 Atk 18:15
+	1 JT1685 Atk 18:19
+	-----
+	2
+
+
+§chehlohs
+
+	1 JT1685 Atk 18:11
+	-----
+	1
+
+
+§chehlotins
+
+	1 JT1685 Atk 3:17
+	-----
+	1
+
+
+úcheit
+
+	1 JT1685 Atk 13:18
+	2 JT1685 Atk 14:12
+	-----
+	3
+
+
+úchi
+
+	1 JT1685 Atk 2:24
+	1 JT1685 Atk 20:5
+	1 JT1685 Atk 20:14
+	-----
+	3
+
+
+úchihs
+
+	1 JT1685 Atk 22:9
+	-----
+	1
+
+
+§chihs
+
+	1 JT1685 Atk 22:7
+	-----
+	1
+
+
+úchim
+
+	1 JT1685 Atk 1:19
+	-----
+	1
+
+
+úchinni^
+
+	1 JT1685 Atk 22:10
+	2 JT1685 Atk 22:18
+	1 JT1685 Atk 22:19
+	-----
+	4
+
+
+úchíehdes
+
+	1 JT1685 Atk 20:1
+	-----
+	1
+
+
+úchíih§ta
+
+	1 JT1685 Atk 21:18
+	1 JT1685 Atk 21:21
+	-----
+	2
+
+
+úchíih§tai
+
+	1 JT1685 Atk 21:18
+	-----
+	1
+
+
+úchíih§tu
+
+	1 JT1685 Atk 19:8
+	1 JT1685 Atk 22:1
+	-----
+	2
+
+
+§chíih§tu
+
+	1 JT1685 Atk 15:6
+	1 JT1685 Atk 19:14
+	-----
+	2
+
+
 schíir§ts
 
 	1 JT1685 Atk 11:19
+	-----
+	1
+
+
+úcho
+
+	1 JT1685 Atk 8:4
+	1 JT1685 Atk 15:5
+	1 JT1685 Atk 18:15
+	-----
+	3
+
+
+úchohs
+
+	1 JT1685 Atk 22:9
+	-----
+	1
+
+
+úchur
+
+	1 JT1685 Atk 11:12
+	1 JT1685 Atk 17:1
+	1 JT1685 Atk 21:9
+	-----
+	3
+
+
+úchurp
+
+	1 JT1685 Atk 4:1
 	-----
 	1
 
@@ -14697,6 +15866,132 @@ seemela
 	1 JT1685 Atk 21:13
 	-----
 	1
+
+
+úeewa
+
+	1 JT1685 Atk 12:1
+	1 JT1685 Atk 12:6
+	1 JT1685 Atk 17:4
+	1 JT1685 Atk 17:9
+	1 JT1685 Atk 17:18
+	1 JT1685 Atk 19:7
+	-----
+	6
+
+
+úeewahm
+
+	1 JT1685 Atk 14:4
+	-----
+	1
+
+
+úeewai
+
+	1 JT1685 Atk 2:20
+	1 JT1685 Atk 12:14
+	1 JT1685 Atk 12:15
+	1 JT1685 Atk 12:16
+	-----
+	4
+
+
+úeewas
+
+	1 JT1685 Atk 12:4
+	1 JT1685 Atk 17:7
+	-----
+	2
+
+
+úeewju
+
+	1 JT1685 Atk 12:0
+	-----
+	1
+
+
+úeewo
+
+	1 JT1685 Atk 9:8
+	-----
+	1
+
+
+úeewu
+
+	1 JT1685 Atk 12:13
+	1 JT1685 Atk 12:17
+	1 JT1685 Atk 17:3
+	1 JT1685 Atk 17:6
+	1 JT1685 Atk 21:9
+	-----
+	5
+
+
+úehdedams
+
+	1 JT1685 Atk 14:14
+	-----
+	1
+
+
+úehdeht
+
+	1 JT1685 Atk 3:21
+	-----
+	1
+
+
+úehdeja
+
+	1 JT1685 Atk 4:2
+	1 JT1685 Atk 4:3
+	1 JT1685 Atk 4:9
+	1 JT1685 Atk 4:10
+	1 JT1685 Atk 5:1
+	1 JT1685 Atk 5:7
+	1 JT1685 Atk 6:2
+	1 JT1685 Atk 6:4
+	1 JT1685 Atk 6:5
+	1 JT1685 Atk 6:8
+	1 JT1685 Atk 9:17
+	1 JT1685 Atk 14:15
+	1 JT1685 Atk 14:16
+	1 JT1685 Atk 19:4
+	1 JT1685 Atk 19:11
+	1 JT1685 Atk 19:19
+	1 JT1685 Atk 19:21
+	1 JT1685 Atk 20:4
+	1 JT1685 Atk 20:11
+	1 JT1685 Atk 21:5
+	-----
+	20
+
+
+úehdejis
+
+	1 JT1685 Atk 3:21
+	-----
+	1
+
+
+sehgeïa
+
+	1 JT1685 Atk 6:0
+	1 JT1685 Atk 8:0
+	-----
+	2
+
+
+sehgeïeem
+
+	1 JT1685 Atk 5:0
+	1 JT1685 Atk 5:1
+	1 JT1685 Atk 6:1
+	-----
+	3
 
 
 sehgeli
@@ -14719,23 +16014,6 @@ sehgelis
 	1
 
 
-sehgeïa
-
-	1 JT1685 Atk 6:0
-	1 JT1685 Atk 8:0
-	-----
-	2
-
-
-sehgeïeem
-
-	1 JT1685 Atk 5:0
-	1 JT1685 Atk 5:1
-	1 JT1685 Atk 6:1
-	-----
-	3
-
-
 sehgeïus
 
 	1 JT1685 Atk 5:2
@@ -14743,6 +16021,69 @@ sehgeïus
 	1 JT1685 Atk 5:9
 	-----
 	3
+
+
+úehra
+
+	1 JT1685 Atk 20:10
+	-----
+	1
+
+
+úehri§kas
+
+	1 JT1685 Atk 9:17
+	-----
+	1
+
+
+úehrs
+
+	1 JT1685 Atk 9:17
+	-----
+	1
+
+
+úehru
+
+	1 JT1685 Atk 9:18
+	1 JT1685 Atk 14:10
+	1 JT1685 Atk 19:20
+	1 JT1685 Atk 21:8
+	-----
+	4
+
+
+úeh§ch
+
+	1 JT1685 Atk 4:0
+	1 JT1685 Atk 5:13
+	1 JT1685 Atk 6:16
+	1 JT1685 Atk 7:10
+	1 JT1685 Atk 7:15
+	1 JT1685 Atk 11:16
+	1 JT1685 Atk 17:0
+	1 JT1685 Atk 17:1
+	1 JT1685 Atk 17:9
+	1 JT1685 Atk 17:15
+	1 JT1685 Atk 19:18
+	-----
+	11
+
+
+úeh§cham
+
+	1 JT1685 Atk 4:4
+	1 JT1685 Atk 17:3
+	-----
+	2
+
+
+úeh§chu
+
+	1 JT1685 Atk 18:7
+	-----
+	1
 
 
 selta
@@ -14756,6 +16097,17 @@ selta
 	1 JT1685 Atk 21:21
 	-----
 	7
+
+
+§elta
+
+	1 JT1685 Atk 14:14
+	1 JT1685 Atk 15:6
+	1 JT1685 Atk 15:7
+	1 JT1685 Atk 17:4
+	1 JT1685 Atk 21:15
+	-----
+	5
 
 
 selta=altari
@@ -14810,6 +16162,29 @@ seltu
 	3
 
 
+úeltu
+
+	1 JT1685 Atk 18:12
+	-----
+	1
+
+
+sem~es
+
+	1 JT1685 Atk 7:1
+	1 JT1685 Atk 11:13
+	1 JT1685 Atk 17:8
+	-----
+	3
+
+
+sem~i
+
+	1 JT1685 Atk 12:9
+	-----
+	1
+
+
 semme
 
 	2 JT1685 Atk 12:16
@@ -14831,6 +16206,13 @@ semme^
 	1 JT1685 Atk 22:8
 	-----
 	4
+
+
+§emme^
+
+	1 JT1685 Atk 7:11
+	-----
+	1
 
 
 semmes
@@ -14938,18 +16320,228 @@ semmi
 	22
 
 
-sem~es
+úeptihts
 
-	1 JT1685 Atk 7:1
-	1 JT1685 Atk 11:13
-	1 JT1685 Atk 17:8
+	1 JT1685 Atk 11:15
+	1 JT1685 Atk 16:17
+	-----
+	2
+
+
+úeptiò
+
+	2 JT1685 Atk 1:20
+	1 JT1685 Atk 4:5
+	1 JT1685 Atk 5:0
+	1 JT1685 Atk 5:1
+	1 JT1685 Atk 8:0
+	1 JT1685 Atk 13:0
+	1 JT1685 Atk 16:0
+	-----
+	8
+
+
+úeptiòahm
+
+	1 JT1685 Atk 1:0
+	1 JT1685 Atk 1:4
+	1 JT1685 Atk 1:20
+	1 JT1685 Atk 15:0
+	1 JT1685 Atk 21:9
+	-----
+	5
+
+
+úeptiòas
+
+	1 JT1685 Atk 1:16
+	2 JT1685 Atk 1:20
+	1 JT1685 Atk 3:1
+	1 JT1685 Atk 5:6
+	1 JT1685 Atk 8:2
+	1 JT1685 Atk 8:6
+	-----
+	7
+
+
+úeptiòee~
+
+	1 JT1685 Atk 1:13
+	-----
+	1
+
+
+úeptiòeem
+
+	1 JT1685 Atk 1:4
+	1 JT1685 Atk 2:1
+	1 JT1685 Atk 15:0
+	1 JT1685 Atk 17:1
+	1 JT1685 Atk 21:9
+	-----
+	5
+
+
+úeptiòi
+
+	1 JT1685 Atk 3:1
+	1 JT1685 Atk 4:5
+	2 JT1685 Atk 5:6
+	1 JT1685 Atk 8:6
+	1 JT1685 Atk 10:3
+	1 JT1685 Atk 10:4
+	-----
+	7
+
+
+úeptiòòas
+
+	1 JT1685 Atk 12:3
+	1 JT1685 Atk 13:1
+	1 JT1685 Atk 15:1
+	1 JT1685 Atk 15:6
+	1 JT1685 Atk 15:8
+	1 JT1685 Atk 17:3
+	1 JT1685 Atk 17:7
+	1 JT1685 Atk 17:9
+	-----
+	8
+
+
+úeptiòòeem
+
+	1 JT1685 Atk 15:7
+	1 JT1685 Atk 16:1
+	1 JT1685 Atk 17:11
 	-----
 	3
 
 
-sem~i
+úeptiòòi
 
-	1 JT1685 Atk 12:9
+	1 JT1685 Atk 10:4
+	1 JT1685 Atk 11:13
+	1 JT1685 Atk 12:3
+	1 JT1685 Atk 15:6
+	1 JT1685 Atk 17:1
+	1 JT1685 Atk 17:9
+	1 JT1685 Atk 17:10
+	1 JT1685 Atk 21:9
+	-----
+	8
+
+
+§eptiòòo
+
+	1 JT1685 Atk 15:8
+	-----
+	1
+
+
+úeptiòòus
+
+	1 JT1685 Atk 15:1
+	1 JT1685 Atk 15:7
+	-----
+	2
+
+
+úeptiòus
+
+	1 JT1685 Atk 1:12
+	1 JT1685 Atk 1:20
+	1 JT1685 Atk 5:5
+	1 JT1685 Atk 8:2
+	-----
+	4
+
+
+úeptita
+
+	1 JT1685 Atk 8:0
+	1 JT1685 Atk 10:7
+	1 JT1685 Atk 12:0
+	-----
+	3
+
+
+úeptits
+
+	1 JT1685 Atk 21:20
+	-----
+	1
+
+
+úeptitu
+
+	1 JT1685 Atk 8:1
+	-----
+	1
+
+
+úeúch
+
+	1 JT1685 Atk 11:3
+	2 JT1685 Atk 13:18
+	1 JT1685 Atk 14:20
+	-----
+	4
+
+
+úeúchdeúmitts
+
+	1 JT1685 Atk 12:6
+	-----
+	1
+
+
+úeúchi
+
+	1 JT1685 Atk 4:8
+	1 JT1685 Atk 13:18
+	-----
+	2
+
+
+úe§ta
+
+	1 JT1685 Atk 9:0
+	-----
+	1
+
+
+úe§ts
+
+	1 JT1685 Atk 9:13
+	1 JT1685 Atk 16:12
+	1 JT1685 Atk 21:20
+	-----
+	3
+
+
+úe§tu
+
+	1 JT1685 Atk 6:0
+	1 JT1685 Atk 6:12
+	1 JT1685 Atk 9:14
+	-----
+	3
+
+
+úew
+
+	1 JT1685 Atk 2:2
+	1 JT1685 Atk 2:9
+	1 JT1685 Atk 2:20
+	1 JT1685 Atk 3:9
+	1 JT1685 Atk 18:7
+	-----
+	5
+
+
+úewiúki
+
+	1 JT1685 Atk 4:8
 	-----
 	1
 
@@ -15023,6 +16615,95 @@ simeaòa
 	1
 
 
+úimts
+
+	1 JT1685 Atk 7:4
+	1 JT1685 Atk 13:18
+	1 JT1685 Atk 14:1
+	1 JT1685 Atk 14:3
+	1 JT1685 Atk 14:20
+	1 JT1685 Atk 21:17
+	-----
+	6
+
+
+§inna
+
+	1 JT1685 Atk 2:17
+	-----
+	1
+
+
+§innadams
+
+	1 JT1685 Atk 12:12
+	-----
+	1
+
+
+§innaja
+
+	1 JT1685 Atk 19:12
+	-----
+	1
+
+
+§innaúi
+
+	1 JT1685 Atk 3:3
+	-----
+	1
+
+
+§inni
+
+	1 JT1685 Atk 3:17
+	1 JT1685 Atk 7:14
+	-----
+	2
+
+
+§innu
+
+	1 JT1685 Atk 2:2
+	1 JT1685 Atk 2:9
+	1 JT1685 Atk 2:13
+	1 JT1685 Atk 2:19
+	1 JT1685 Atk 3:1
+	1 JT1685 Atk 3:8
+	1 JT1685 Atk 3:15
+	-----
+	7
+
+
+úirdi^
+
+	1 JT1685 Atk 18:7
+	-----
+	1
+
+
+úirdi^s
+
+	1 JT1685 Atk 17:17
+	-----
+	1
+
+
+úirdis
+
+	1 JT1685 Atk 2:23
+	-----
+	1
+
+
+úirds
+
+	1 JT1685 Atk 22:0
+	-----
+	1
+
+
 sirgeem
 
 	1 JT1685 Atk 9:7
@@ -15075,12 +16756,228 @@ sirgus
 	2
 
 
+úiúúeòi
+
+	1 JT1685 Atk 9:3
+	-----
+	1
+
+
+úiúúeòo
+
+	1 JT1685 Atk 9:7
+	-----
+	1
+
+
+úi§t
+
+	1 JT1685 Atk 11:6
+	-----
+	1
+
+
+úi§ts
+
+	1 JT1685 Atk 11:8
+	-----
+	1
+
+
+úi§tu
+
+	1 JT1685 Atk 19:15
+	-----
+	1
+
+
+§kaidru
+
+	1 JT1685 Atk 22:1
+	-----
+	1
+
+
+§kaitiht
+
+	1 JT1685 Atk 7:9
+	-----
+	1
+
+
+úkarpija
+
+	1 JT1685 Atk 9:5
+	-----
+	1
+
+
 skarpijeem
 
 	1 JT1685 Atk 9:3
 	1 JT1685 Atk 9:10
 	-----
 	2
+
+
+§kattidami
+
+	1 JT1685 Atk 18:18
+	-----
+	1
+
+
+§kattijahs
+
+	1 JT1685 Atk 11:12
+	-----
+	1
+
+
+úkattitees
+
+	1 JT1685 Atk 1:12
+	-----
+	1
+
+
+§kreen
+
+	1 JT1685 Atk 19:17
+	-----
+	1
+
+
+§kreenam
+
+	1 JT1685 Atk 14:6
+	-----
+	1
+
+
+§kreetu
+
+	1 JT1685 Atk 12:14
+	-----
+	1
+
+
+úkrejam
+
+	1 JT1685 Atk 8:13
+	-----
+	1
+
+
+úkrejamam
+
+	1 JT1685 Atk 4:7
+	-----
+	1
+
+
+úlawa
+
+	1 JT1685 Atk 5:13
+	1 JT1685 Atk 7:12
+	1 JT1685 Atk 19:1
+	1 JT1685 Atk 21:26
+	-----
+	4
+
+
+úlawe
+
+	1 JT1685 Atk 4:0
+	-----
+	1
+
+
+úlawehts
+
+	1 JT1685 Atk 5:0
+	-----
+	1
+
+
+úlaweti
+
+	1 JT1685 Atk 19:0
+	-----
+	1
+
+
+úlawu
+
+	1 JT1685 Atk 4:9
+	1 JT1685 Atk 4:11
+	1 JT1685 Atk 5:12
+	1 JT1685 Atk 21:24
+	-----
+	4
+
+
+úlepkawehm
+
+	1 JT1685 Atk 21:8
+	-----
+	1
+
+
+úlepkawes
+
+	1 JT1685 Atk 22:15
+	-----
+	1
+
+
+úlepkawibahm
+
+	1 JT1685 Atk 9:21
+	-----
+	1
+
+
+úluddenahs
+
+	1 JT1685 Atk 11:3
+	-----
+	1
+
+
+úluddina
+
+	1 JT1685 Atk 14:0
+	-----
+	1
+
+
+úluddinaht
+
+	1 JT1685 Atk 10:0
+	-----
+	1
+
+
+úluddinajam
+
+	1 JT1685 Atk 5:2
+	-----
+	1
+
+
+úmaragdam
+
+	1 JT1685 Atk 4:3
+	-----
+	1
+
+
+úmaragds
+
+	1 JT1685 Atk 21:19
+	-----
+	1
 
 
 smarúchiga
@@ -15097,9 +16994,9 @@ smiltim
 	1
 
 
-smirna=draud§es
+úmiltis
 
-	1 JT1685 Atk 2:8
+	1 JT1685 Atk 20:8
 	-----
 	1
 
@@ -15107,6 +17004,27 @@ smirna=draud§es
 smirna^
 
 	1 JT1685 Atk 2:0
+	-----
+	1
+
+
+smirna=draud§es
+
+	1 JT1685 Atk 2:8
+	-----
+	1
+
+
+úmirnu
+
+	1 JT1685 Atk 1:11
+	-----
+	1
+
+
+úneegs
+
+	1 JT1685 Atk 1:14
 	-----
 	1
 
@@ -15123,6 +17041,13 @@ sohbi
 	2 JT1685 Atk 9:8
 	-----
 	2
+
+
+sohbiòa
+
+	1 JT1685 Atk 13:14
+	-----
+	1
 
 
 sohbini
@@ -15152,9 +17077,68 @@ sohbinu
 	3
 
 
-sohbiòa
+úohda
 
-	1 JT1685 Atk 13:14
+	1 JT1685 Atk 18:8
+	1 JT1685 Atk 19:11
+	-----
+	2
+
+
+úohdi
+
+	1 JT1685 Atk 6:10
+	-----
+	1
+
+
+úohdiba
+
+	1 JT1685 Atk 11:18
+	1 JT1685 Atk 17:0
+	1 JT1685 Atk 18:10
+	1 JT1685 Atk 20:0
+	1 JT1685 Atk 20:4
+	-----
+	5
+
+
+úohdibas
+
+	1 JT1685 Atk 14:7
+	1 JT1685 Atk 15:0
+	1 JT1685 Atk 19:2
+	-----
+	3
+
+
+úohdibu
+
+	1 JT1685 Atk 14:0
+	1 JT1685 Atk 17:1
+	1 JT1685 Atk 18:20
+	-----
+	3
+
+
+úohdijis
+
+	1 JT1685 Atk 18:20
+	1 JT1685 Atk 19:2
+	-----
+	2
+
+
+úohditi
+
+	1 JT1685 Atk 11:18
+	-----
+	1
+
+
+úohliti
+
+	1 JT1685 Atk 11:0
 	-----
 	1
 
@@ -15162,6 +17146,13 @@ sohbiòa
 spahrni
 
 	1 JT1685 Atk 12:14
+	-----
+	1
+
+
+úpahrni
+
+	1 JT1685 Atk 4:8
 	-----
 	1
 
@@ -15176,6 +17167,13 @@ spahrno
 spaidu
 
 	1 JT1685 Atk 14:20
+	-----
+	1
+
+
+§pehje
+
+	1 JT1685 Atk 12:8
 	-----
 	1
 
@@ -15217,6 +17215,109 @@ spehkus
 	1
 
 
+§pehzige
+
+	1 JT1685 Atk 18:2
+	-----
+	1
+
+
+§pehzigo
+
+	1 JT1685 Atk 19:6
+	-----
+	1
+
+
+§pehzigs
+
+	1 JT1685 Atk 18:8
+	1 JT1685 Atk 18:10
+	1 JT1685 Atk 18:21
+	-----
+	3
+
+
+úpehzigu
+
+	1 JT1685 Atk 5:2
+	-----
+	1
+
+
+§pehzigu
+
+	1 JT1685 Atk 10:1
+	-----
+	1
+
+
+§pihd
+
+	1 JT1685 Atk 1:16
+	-----
+	1
+
+
+§pihdama
+
+	1 JT1685 Atk 21:21
+	-----
+	1
+
+
+§pihdedams
+
+	1 JT1685 Atk 21:11
+	-----
+	1
+
+
+§pihdehs
+
+	1 JT1685 Atk 18:23
+	-----
+	1
+
+
+§pihdeja
+
+	1 JT1685 Atk 1:16
+	-----
+	1
+
+
+§pihdetu
+
+	1 JT1685 Atk 8:12
+	1 JT1685 Atk 21:23
+	-----
+	2
+
+
+§poh§ch
+
+	1 JT1685 Atk 18:14
+	-----
+	1
+
+
+§poh§cha
+
+	1 JT1685 Atk 14:14
+	1 JT1685 Atk 22:16
+	-----
+	2
+
+
+§poh§chu
+
+	1 JT1685 Atk 15:6
+	1 JT1685 Atk 19:8
+	-----
+	2
+
+
 spoh§chuma
 
 	1 JT1685 Atk 18:1
@@ -15254,6 +17355,132 @@ stah§tiúchana
 	3
 
 
+§tahw
+
+	1 JT1685 Atk 10:8
+	1 JT1685 Atk 11:4
+	-----
+	2
+
+
+§tahwam
+
+	1 JT1685 Atk 7:1
+	1 JT1685 Atk 7:9
+	1 JT1685 Atk 10:5
+	1 JT1685 Atk 14:0
+	1 JT1685 Atk 15:2
+	1 JT1685 Atk 19:17
+	1 JT1685 Atk 20:12
+	-----
+	7
+
+
+§tahwedami
+
+	1 JT1685 Atk 18:10
+	-----
+	1
+
+
+§tahwehs
+
+	1 JT1685 Atk 18:15
+	-----
+	1
+
+
+§tahweja
+
+	1 JT1685 Atk 5:6
+	1 JT1685 Atk 7:11
+	1 JT1685 Atk 8:2
+	1 JT1685 Atk 8:3
+	1 JT1685 Atk 9:19
+	1 JT1685 Atk 11:1
+	1 JT1685 Atk 11:11
+	1 JT1685 Atk 12:4
+	1 JT1685 Atk 14:1
+	1 JT1685 Atk 18:17
+	-----
+	10
+
+
+§tahweju
+
+	1 JT1685 Atk 12:18
+	-----
+	1
+
+
+§tahwu
+
+	1 JT1685 Atk 3:20
+	-----
+	1
+
+
+§taiga
+
+	1 JT1685 Atk 2:1
+	1 JT1685 Atk 14:4
+	1 JT1685 Atk 16:15
+	-----
+	3
+
+
+§taigahs
+
+	1 JT1685 Atk 3:4
+	1 JT1685 Atk 21:24
+	-----
+	2
+
+
+§taigaht
+
+	1 JT1685 Atk 9:20
+	-----
+	1
+
+
+§tarp
+
+	1 JT1685 Atk 1:13
+	1 JT1685 Atk 2:1
+	-----
+	2
+
+
+§tarpa^
+
+	1 JT1685 Atk 2:14
+	1 JT1685 Atk 6:4
+	-----
+	2
+
+
+§tippra
+
+	1 JT1685 Atk 16:17
+	-----
+	1
+
+
+§tippras
+
+	1 JT1685 Atk 11:15
+	-----
+	1
+
+
+§tipprini
+
+	1 JT1685 Atk 3:2
+	-----
+	1
+
+
 stippro
 
 	1 JT1685 Atk 19:18
@@ -15261,9 +17488,37 @@ stippro
 	1
 
 
+§tippru
+
+	1 JT1685 Atk 5:2
+	1 JT1685 Atk 5:12
+	1 JT1685 Atk 6:10
+	1 JT1685 Atk 7:2
+	1 JT1685 Atk 7:10
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 10:3
+	1 JT1685 Atk 11:12
+	1 JT1685 Atk 12:10
+	1 JT1685 Atk 14:7
+	1 JT1685 Atk 14:9
+	1 JT1685 Atk 14:15
+	1 JT1685 Atk 16:1
+	1 JT1685 Atk 18:2
+	1 JT1685 Atk 19:17
+	-----
+	15
+
+
 stipprumu
 
 	1 JT1685 Atk 5:12
+	-----
+	1
+
+
+§tipru
+
+	1 JT1685 Atk 1:10
 	-----
 	1
 
@@ -15323,6 +17578,98 @@ stundu
 	2
 
 
+§udde
+
+	1 JT1685 Atk 21:1
+	-----
+	1
+
+
+úuddrabu
+
+	1 JT1685 Atk 18:12
+	-----
+	1
+
+
+úudraba
+
+	1 JT1685 Atk 9:20
+	-----
+	1
+
+
+úuhti
+
+	1 JT1685 Atk 1:11
+	-----
+	1
+
+
+úuhtidams
+
+	1 JT1685 Atk 1:1
+	-----
+	1
+
+
+úuhtihs
+
+	1 JT1685 Atk 11:10
+	-----
+	1
+
+
+úuhtijis
+
+	1 JT1685 Atk 22:6
+	1 JT1685 Atk 22:16
+	-----
+	2
+
+
+úuòòi
+
+	1 JT1685 Atk 22:15
+	-----
+	1
+
+
+úwabbadi
+
+	1 JT1685 Atk 6:15
+	-----
+	1
+
+
+úwabbado
+
+	1 JT1685 Atk 19:18
+	-----
+	1
+
+
+úwabbadus
+
+	1 JT1685 Atk 13:16
+	-----
+	1
+
+
+úwahrkeem
+
+	1 JT1685 Atk 1:13
+	-----
+	1
+
+
+úwaidi
+
+	1 JT1685 Atk 3:18
+	-----
+	1
+
+
 swaig§ne
 
 	1 JT1685 Atk 8:10
@@ -15365,6 +17712,13 @@ swaig§no
 	2
 
 
+úwarrs
+
+	1 JT1685 Atk 6:5
+	-----
+	1
+
+
 swehra
 
 	1 JT1685 Atk 13:12
@@ -15393,6 +17747,13 @@ swehram
 swehreem
 
 	1 JT1685 Atk 6:8
+	-----
+	1
+
+
+§wehreja
+
+	1 JT1685 Atk 10:6
 	-----
 	1
 
@@ -15432,6 +17793,125 @@ swehru
 	1 JT1685 Atk 20:4
 	-----
 	18
+
+
+úwehta
+
+	1 JT1685 Atk 22:19
+	-----
+	1
+
+
+úwehtai
+
+	1 JT1685 Atk 21:0
+	-----
+	1
+
+
+úwehtajs
+
+	1 JT1685 Atk 3:7
+	-----
+	1
+
+
+úwehteem
+
+	1 JT1685 Atk 11:18
+	1 JT1685 Atk 13:7
+	1 JT1685 Atk 14:10
+	-----
+	3
+
+
+úwehti
+
+	1 JT1685 Atk 12:0
+	1 JT1685 Atk 15:0
+	1 JT1685 Atk 18:20
+	1 JT1685 Atk 21:24
+	-----
+	4
+
+
+úwehtigi
+
+	1 JT1685 Atk 14:13
+	1 JT1685 Atk 19:0
+	1 JT1685 Atk 22:14
+	-----
+	3
+
+
+úwehtigs
+
+	1 JT1685 Atk 1:3
+	1 JT1685 Atk 22:7
+	-----
+	2
+
+
+úwehtigus
+
+	1 JT1685 Atk 14:0
+	-----
+	1
+
+
+úwehtiúchana
+
+	1 JT1685 Atk 7:12
+	-----
+	1
+
+
+úwehto
+
+	1 JT1685 Atk 5:8
+	1 JT1685 Atk 7:0
+	1 JT1685 Atk 8:0
+	1 JT1685 Atk 8:3
+	1 JT1685 Atk 8:4
+	1 JT1685 Atk 13:10
+	1 JT1685 Atk 14:12
+	1 JT1685 Atk 15:3
+	1 JT1685 Atk 16:6
+	1 JT1685 Atk 17:6
+	1 JT1685 Atk 18:24
+	1 JT1685 Atk 19:8
+	1 JT1685 Atk 20:9
+	1 JT1685 Atk 22:6
+	-----
+	14
+
+
+úwehts
+
+	3 JT1685 Atk 4:8
+	1 JT1685 Atk 6:10
+	1 JT1685 Atk 15:4
+	1 JT1685 Atk 16:5
+	1 JT1685 Atk 20:6
+	2 JT1685 Atk 22:11
+	-----
+	9
+
+
+úwehtu
+
+	1 JT1685 Atk 11:2
+	1 JT1685 Atk 21:2
+	1 JT1685 Atk 21:10
+	-----
+	3
+
+
+úwezzes
+
+	1 JT1685 Atk 18:23
+	-----
+	1
 
 
 ta
@@ -15625,6 +18105,13 @@ ta`
 	9
 
 
+ta~
+
+	1 JT1685 Atk 13:14
+	-----
+	1
+
+
 tad
 
 	1 JT1685 Atk 1:0
@@ -15669,6 +18156,22 @@ tahda
 	1 JT1685 Atk 18:16
 	-----
 	2
+
+
+tahïenes
+
+	1 JT1685 Atk 18:10
+	1 JT1685 Atk 18:15
+	1 JT1685 Atk 18:17
+	-----
+	3
+
+
+tahïuma^
+
+	1 JT1685 Atk 14:20
+	-----
+	1
 
 
 tahm
@@ -15835,22 +18338,6 @@ tahs
 	3 JT1685 Atk 22:19
 	-----
 	168
-
-
-tahïenes
-
-	1 JT1685 Atk 18:10
-	1 JT1685 Atk 18:15
-	1 JT1685 Atk 18:17
-	-----
-	3
-
-
-tahïuma^
-
-	1 JT1685 Atk 14:20
-	-----
-	1
 
 
 tai
@@ -16480,13 +18967,6 @@ tawus
 	9
 
 
-ta~
-
-	1 JT1685 Atk 13:14
-	-----
-	1
-
-
 tee
 
 	1 JT1685 Atk 1:3
@@ -16830,6 +19310,13 @@ teizzeet
 	1
 
 
+teïïam
+
+	1 JT1685 Atk 4:7
+	-----
+	1
+
+
 tew
 
 	1 JT1685 Atk 2:3
@@ -16885,13 +19372,6 @@ tewis
 	2
 
 
-teïïam
-
-	1 JT1685 Atk 4:7
-	-----
-	1
-
-
 tiatira
 
 	1 JT1685 Atk 2:0
@@ -16899,16 +19379,16 @@ tiatira
 	1
 
 
-tiatira=draud§es
+tiatira^
 
-	1 JT1685 Atk 2:18
+	1 JT1685 Atk 2:24
 	-----
 	1
 
 
-tiatira^
+tiatira=draud§es
 
-	1 JT1685 Atk 2:24
+	1 JT1685 Atk 2:18
 	-----
 	1
 
@@ -17400,6 +19880,152 @@ trohkúnis
 	2
 
 
+túchetr
+
+	1 JT1685 Atk 13:5
+	1 JT1685 Atk 14:1
+	-----
+	2
+
+
+túchetrdeúmits
+
+	1 JT1685 Atk 11:2
+	1 JT1685 Atk 14:3
+	1 JT1685 Atk 21:17
+	-----
+	3
+
+
+túchetree~
+
+	1 JT1685 Atk 7:1
+	-----
+	1
+
+
+túchetreem
+
+	1 JT1685 Atk 21:17
+	-----
+	1
+
+
+túchetri
+
+	1 JT1685 Atk 4:4
+	1 JT1685 Atk 14:1
+	2 JT1685 Atk 19:4
+	-----
+	4
+
+
+túchetrituhk§toúchi
+
+	1 JT1685 Atk 14:3
+	-----
+	1
+
+
+túchetro^s
+
+	1 JT1685 Atk 20:8
+	-----
+	1
+
+
+túchetr§tuhrigs
+
+	1 JT1685 Atk 21:16
+	-----
+	1
+
+
+túchetrus
+
+	1 JT1685 Atk 4:4
+	1 JT1685 Atk 4:6
+	-----
+	2
+
+
+túchettr
+
+	1 JT1685 Atk 7:4
+	-----
+	1
+
+
+túchettr=tuhk§toúchi
+
+	1 JT1685 Atk 7:4
+	-----
+	1
+
+
+túchettrahm
+
+	1 JT1685 Atk 9:13
+	-----
+	1
+
+
+túchettree
+
+	1 JT1685 Atk 5:14
+	-----
+	1
+
+
+túchettreem
+
+	1 JT1685 Atk 4:8
+	1 JT1685 Atk 5:0
+	1 JT1685 Atk 6:1
+	1 JT1685 Atk 7:0
+	1 JT1685 Atk 7:2
+	1 JT1685 Atk 7:11
+	1 JT1685 Atk 14:3
+	1 JT1685 Atk 15:7
+	-----
+	8
+
+
+túchettri
+
+	1 JT1685 Atk 4:10
+	2 JT1685 Atk 5:8
+	1 JT1685 Atk 5:14
+	1 JT1685 Atk 9:15
+	1 JT1685 Atk 11:16
+	-----
+	6
+
+
+túchettro
+
+	1 JT1685 Atk 5:6
+	1 JT1685 Atk 6:6
+	-----
+	2
+
+
+t§chettro
+
+	1 JT1685 Atk 8:0
+	-----
+	1
+
+
+túchettrus
+
+	1 JT1685 Atk 4:0
+	2 JT1685 Atk 7:1
+	1 JT1685 Atk 9:14
+	-----
+	4
+
+
 tu
 
 	1 JT1685 Atk 1:11
@@ -17446,16 +20072,9 @@ tudaïï
 	1
 
 
-tuhkumeem
+tuhkúchu
 
-	1 JT1685 Atk 16:11
-	-----
-	1
-
-
-tuhkums
-
-	1 JT1685 Atk 16:2
+	1 JT1685 Atk 17:16
 	-----
 	1
 
@@ -17511,9 +20130,16 @@ tuhk§toúchus
 	4
 
 
-tuhkúchu
+tuhkumeem
 
-	1 JT1685 Atk 17:16
+	1 JT1685 Atk 16:11
+	-----
+	1
+
+
+tuhkums
+
+	1 JT1685 Atk 16:2
 	-----
 	1
 
@@ -17636,6 +20262,13 @@ turrejis
 	1
 
 
+turreúchu
+
+	1 JT1685 Atk 3:20
+	-----
+	1
+
+
 turreta
 
 	1 JT1685 Atk 20:0
@@ -17646,13 +20279,6 @@ turreta
 turreti
 
 	1 JT1685 Atk 19:0
-	-----
-	1
-
-
-turreúchu
-
-	1 JT1685 Atk 3:20
 	-----
 	1
 
@@ -17711,150 +20337,13 @@ tzuhúchku
 	1
 
 
-t§chettro
+u~
 
-	1 JT1685 Atk 8:0
-	-----
-	1
-
-
-túchetr
-
-	1 JT1685 Atk 13:5
-	1 JT1685 Atk 14:1
-	-----
-	2
-
-
-túchetrdeúmits
-
-	1 JT1685 Atk 11:2
-	1 JT1685 Atk 14:3
-	1 JT1685 Atk 21:17
+	1 JT1685 Atk 2:8
+	1 JT1685 Atk 2:20
+	1 JT1685 Atk 17:16
 	-----
 	3
-
-
-túchetreem
-
-	1 JT1685 Atk 21:17
-	-----
-	1
-
-
-túchetree~
-
-	1 JT1685 Atk 7:1
-	-----
-	1
-
-
-túchetri
-
-	1 JT1685 Atk 4:4
-	1 JT1685 Atk 14:1
-	2 JT1685 Atk 19:4
-	-----
-	4
-
-
-túchetrituhk§toúchi
-
-	1 JT1685 Atk 14:3
-	-----
-	1
-
-
-túchetro^s
-
-	1 JT1685 Atk 20:8
-	-----
-	1
-
-
-túchetrus
-
-	1 JT1685 Atk 4:4
-	1 JT1685 Atk 4:6
-	-----
-	2
-
-
-túchetr§tuhrigs
-
-	1 JT1685 Atk 21:16
-	-----
-	1
-
-
-túchettr
-
-	1 JT1685 Atk 7:4
-	-----
-	1
-
-
-túchettr=tuhk§toúchi
-
-	1 JT1685 Atk 7:4
-	-----
-	1
-
-
-túchettrahm
-
-	1 JT1685 Atk 9:13
-	-----
-	1
-
-
-túchettree
-
-	1 JT1685 Atk 5:14
-	-----
-	1
-
-
-túchettreem
-
-	1 JT1685 Atk 4:8
-	1 JT1685 Atk 5:0
-	1 JT1685 Atk 6:1
-	1 JT1685 Atk 7:0
-	1 JT1685 Atk 7:2
-	1 JT1685 Atk 7:11
-	1 JT1685 Atk 14:3
-	1 JT1685 Atk 15:7
-	-----
-	8
-
-
-túchettri
-
-	1 JT1685 Atk 4:10
-	2 JT1685 Atk 5:8
-	1 JT1685 Atk 5:14
-	1 JT1685 Atk 9:15
-	1 JT1685 Atk 11:16
-	-----
-	6
-
-
-túchettro
-
-	1 JT1685 Atk 5:6
-	1 JT1685 Atk 6:6
-	-----
-	2
-
-
-túchettrus
-
-	1 JT1685 Atk 4:0
-	2 JT1685 Atk 7:1
-	1 JT1685 Atk 9:14
-	-----
-	4
 
 
 ugguni
@@ -17925,6 +20414,20 @@ ugguns=leeúma
 	1
 
 
+uhdeòa
+
+	1 JT1685 Atk 21:6
+	-----
+	1
+
+
+uhdeòeem
+
+	1 JT1685 Atk 17:1
+	-----
+	1
+
+
 uhdeni
 
 	1 JT1685 Atk 12:15
@@ -17941,6 +20444,17 @@ uhdenim
 	1 JT1685 Atk 11:6
 	-----
 	2
+
+
+uhdeòo
+
+	1 JT1685 Atk 1:14
+	1 JT1685 Atk 14:2
+	1 JT1685 Atk 16:4
+	1 JT1685 Atk 16:5
+	1 JT1685 Atk 19:6
+	-----
+	5
 
 
 uhdeno=akkas
@@ -17978,31 +20492,6 @@ uhdens=teeúa
 	1 JT1685 Atk 8:11
 	-----
 	1
-
-
-uhdeòa
-
-	1 JT1685 Atk 21:6
-	-----
-	1
-
-
-uhdeòeem
-
-	1 JT1685 Atk 17:1
-	-----
-	1
-
-
-uhdeòo
-
-	1 JT1685 Atk 1:14
-	1 JT1685 Atk 14:2
-	1 JT1685 Atk 16:4
-	1 JT1685 Atk 16:5
-	1 JT1685 Atk 19:6
-	-----
-	5
 
 
 uhs
@@ -18735,13 +21224,6 @@ uswarrejuúchi
 	2
 
 
-uswarretu
-
-	1 JT1685 Atk 6:2
-	-----
-	1
-
-
 uswarreúchana
 
 	1 JT1685 Atk 15:2
@@ -18756,13 +21238,11 @@ uswarreúchanas
 	1
 
 
-u~
+uswarretu
 
-	1 JT1685 Atk 2:8
-	1 JT1685 Atk 2:20
-	1 JT1685 Atk 17:16
+	1 JT1685 Atk 6:2
 	-----
-	3
+	1
 
 
 waddihs
@@ -19076,6 +21556,13 @@ waldijis
 	1
 
 
+waldiúim
+
+	1 JT1685 Atk 5:10
+	-----
+	1
+
+
 walditais
 
 	1 JT1685 Atk 1:5
@@ -19090,11 +21577,14 @@ walditajs
 	1
 
 
-waldiúim
+waïïa
 
-	1 JT1685 Atk 5:10
+	1 JT1685 Atk 9:5
+	2 JT1685 Atk 13:7
+	1 JT1685 Atk 13:15
+	1 JT1685 Atk 20:3
 	-----
-	1
+	5
 
 
 walloda^
@@ -19133,6 +21623,14 @@ wallodu
 	1 JT1685 Atk 13:7
 	-----
 	1
+
+
+waïïu
+
+	1 JT1685 Atk 2:20
+	1 JT1685 Atk 11:3
+	-----
+	2
 
 
 wal§tiba
@@ -19202,6 +21700,29 @@ warra
 	18
 
 
+waººa
+
+	1 JT1685 Atk 9:20
+	1 JT1685 Atk 10:1
+	-----
+	2
+
+
+waººam
+
+	1 JT1685 Atk 1:14
+	1 JT1685 Atk 2:18
+	-----
+	2
+
+
+waººawihkúne
+
+	1 JT1685 Atk 4:3
+	-----
+	1
+
+
 warreja
 
 	1 JT1685 Atk 5:3
@@ -19269,47 +21790,6 @@ warru
 	6
 
 
-waïïa
-
-	1 JT1685 Atk 9:5
-	2 JT1685 Atk 13:7
-	1 JT1685 Atk 13:15
-	1 JT1685 Atk 20:3
-	-----
-	5
-
-
-waïïu
-
-	1 JT1685 Atk 2:20
-	1 JT1685 Atk 11:3
-	-----
-	2
-
-
-waººa
-
-	1 JT1685 Atk 9:20
-	1 JT1685 Atk 10:1
-	-----
-	2
-
-
-waººam
-
-	1 JT1685 Atk 1:14
-	1 JT1685 Atk 2:18
-	-----
-	2
-
-
-waººawihkúne
-
-	1 JT1685 Atk 4:3
-	-----
-	1
-
-
 waººu
 
 	1 JT1685 Atk 18:12
@@ -19370,6 +21850,13 @@ weena
 	29
 
 
+weena`
+
+	1 JT1685 Atk 4:0
+	-----
+	1
+
+
 weena^
 
 	1 JT1685 Atk 18:8
@@ -19380,9 +21867,9 @@ weena^
 	4
 
 
-weena`
+weena~
 
-	1 JT1685 Atk 4:0
+	1 JT1685 Atk 4:7
 	-----
 	1
 
@@ -19404,13 +21891,6 @@ weenas
 	1 JT1685 Atk 21:21
 	-----
 	2
-
-
-weena~
-
-	1 JT1685 Atk 4:7
-	-----
-	1
 
 
 weenpadeúmits
@@ -19768,19 +22248,19 @@ widdu
 	8
 
 
+widdu`
+
+	1 JT1685 Atk 22:2
+	-----
+	1
+
+
 widdu^
 
 	2 JT1685 Atk 5:6
 	1 JT1685 Atk 7:17
 	-----
 	3
-
-
-widdu`
-
-	1 JT1685 Atk 22:2
-	-----
-	1
 
 
 widdus
@@ -19944,76 +22424,6 @@ wiltigs
 	1 JT1685 Atk 20:10
 	-----
 	2
-
-
-wirs
-
-	1 JT1685 Atk 1:5
-	1 JT1685 Atk 3:10
-	1 JT1685 Atk 5:10
-	1 JT1685 Atk 6:2
-	1 JT1685 Atk 6:10
-	1 JT1685 Atk 6:15
-	2 JT1685 Atk 7:1
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 10:8
-	2 JT1685 Atk 11:10
-	1 JT1685 Atk 12:12
-	1 JT1685 Atk 13:8
-	2 JT1685 Atk 13:14
-	1 JT1685 Atk 16:18
-	1 JT1685 Atk 17:2
-	1 JT1685 Atk 17:8
-	-----
-	19
-
-
-wirú
-
-	1 JT1685 Atk 14:6
-	1 JT1685 Atk 18:24
-	-----
-	2
-
-
-wirúneeki
-
-	1 JT1685 Atk 6:15
-	-----
-	1
-
-
-wirúneeko
-
-	1 JT1685 Atk 19:18
-	-----
-	1
-
-
-wirús
-
-	1 JT1685 Atk 5:3
-	1 JT1685 Atk 9:3
-	-----
-	2
-
-
-wirúu
-
-	1 JT1685 Atk 4:0
-	1 JT1685 Atk 4:3
-	1 JT1685 Atk 5:13
-	1 JT1685 Atk 10:8
-	1 JT1685 Atk 21:12
-	-----
-	5
-
-
-wisdahrgakam
-
-	1 JT1685 Atk 21:11
-	-----
-	1
 
 
 wiòòa
@@ -20304,9 +22714,79 @@ wiòúch
 	40
 
 
+wirs
+
+	1 JT1685 Atk 1:5
+	1 JT1685 Atk 3:10
+	1 JT1685 Atk 5:10
+	1 JT1685 Atk 6:2
+	1 JT1685 Atk 6:10
+	1 JT1685 Atk 6:15
+	2 JT1685 Atk 7:1
+	1 JT1685 Atk 8:13
+	1 JT1685 Atk 10:8
+	2 JT1685 Atk 11:10
+	1 JT1685 Atk 12:12
+	1 JT1685 Atk 13:8
+	2 JT1685 Atk 13:14
+	1 JT1685 Atk 16:18
+	1 JT1685 Atk 17:2
+	1 JT1685 Atk 17:8
+	-----
+	19
+
+
+wirú
+
+	1 JT1685 Atk 14:6
+	1 JT1685 Atk 18:24
+	-----
+	2
+
+
+wirúneeki
+
+	1 JT1685 Atk 6:15
+	-----
+	1
+
+
+wirúneeko
+
+	1 JT1685 Atk 19:18
+	-----
+	1
+
+
+wirús
+
+	1 JT1685 Atk 5:3
+	1 JT1685 Atk 9:3
+	-----
+	2
+
+
+wirúu
+
+	1 JT1685 Atk 4:0
+	1 JT1685 Atk 4:3
+	1 JT1685 Atk 5:13
+	1 JT1685 Atk 10:8
+	1 JT1685 Atk 21:12
+	-----
+	5
+
+
 wiúapkahrt
 
 	1 JT1685 Atk 20:9
+	-----
+	1
+
+
+wisdahrgakam
+
+	1 JT1685 Atk 21:11
 	-----
 	1
 
@@ -20563,6 +23043,13 @@ zeenigs
 	5
 
 
+zee§dama
+
+	1 JT1685 Atk 12:2
+	-----
+	1
+
+
 zeetuma
 
 	1 JT1685 Atk 20:7
@@ -20585,9 +23072,9 @@ zeetums
 	2
 
 
-zee§dama
+zeïïahs
 
-	1 JT1685 Atk 12:2
+	1 JT1685 Atk 12:0
 	-----
 	1
 
@@ -20595,6 +23082,20 @@ zee§dama
 zellees
 
 	1 JT1685 Atk 11:1
+	-----
+	1
+
+
+zeïïi
+
+	1 JT1685 Atk 15:3
+	-----
+	1
+
+
+zeïúch
+
+	1 JT1685 Atk 16:12
 	-----
 	1
 
@@ -20620,6 +23121,13 @@ zepli
 	1
 
 
+zeppïa
+
+	1 JT1685 Atk 9:2
+	-----
+	1
+
+
 zeppures
 
 	1 JT1685 Atk 13:1
@@ -20633,13 +23141,6 @@ zeppuri
 	1 JT1685 Atk 19:12
 	-----
 	2
-
-
-zeppïa
-
-	1 JT1685 Atk 9:2
-	-----
-	1
 
 
 zettorta
@@ -20666,27 +23167,6 @@ zettortu
 	1 JT1685 Atk 6:8
 	-----
 	3
-
-
-zeïïahs
-
-	1 JT1685 Atk 12:0
-	-----
-	1
-
-
-zeïïi
-
-	1 JT1685 Atk 15:3
-	-----
-	1
-
-
-zeïúch
-
-	1 JT1685 Atk 16:12
-	-----
-	1
 
 
 zilti
@@ -20887,2486 +23367,6 @@ zittu
 zittus
 
 	1 JT1685 Atk 2:10
-	-----
-	1
-
-
-§aimo
-
-	1 JT1685 Atk 13:0
-	-----
-	1
-
-
-§aimodams
-
-	1 JT1685 Atk 13:6
-	-----
-	1
-
-
-§aimoja
-
-	1 JT1685 Atk 16:9
-	1 JT1685 Atk 16:11
-	1 JT1685 Atk 16:21
-	-----
-	3
-
-
-§aïïa
-
-	1 JT1685 Atk 8:7
-	-----
-	1
-
-
-§chahs
-
-	1 JT1685 Atk 22:0
-	-----
-	1
-
-
-§chahwehs
-
-	1 JT1685 Atk 7:17
-	-----
-	1
-
-
-§chehlodamees
-
-	1 JT1685 Atk 18:15
-	1 JT1685 Atk 18:19
-	-----
-	2
-
-
-§chehlohs
-
-	1 JT1685 Atk 18:11
-	-----
-	1
-
-
-§chehlotins
-
-	1 JT1685 Atk 3:17
-	-----
-	1
-
-
-§chihs
-
-	1 JT1685 Atk 22:7
-	-----
-	1
-
-
-§chíih§tu
-
-	1 JT1685 Atk 15:6
-	1 JT1685 Atk 19:14
-	-----
-	2
-
-
-§elta
-
-	1 JT1685 Atk 14:14
-	1 JT1685 Atk 15:6
-	1 JT1685 Atk 15:7
-	1 JT1685 Atk 17:4
-	1 JT1685 Atk 21:15
-	-----
-	5
-
-
-§emme^
-
-	1 JT1685 Atk 7:11
-	-----
-	1
-
-
-§eptiòòo
-
-	1 JT1685 Atk 15:8
-	-----
-	1
-
-
-§inna
-
-	1 JT1685 Atk 2:17
-	-----
-	1
-
-
-§innadams
-
-	1 JT1685 Atk 12:12
-	-----
-	1
-
-
-§innaja
-
-	1 JT1685 Atk 19:12
-	-----
-	1
-
-
-§innaúi
-
-	1 JT1685 Atk 3:3
-	-----
-	1
-
-
-§inni
-
-	1 JT1685 Atk 3:17
-	1 JT1685 Atk 7:14
-	-----
-	2
-
-
-§innu
-
-	1 JT1685 Atk 2:2
-	1 JT1685 Atk 2:9
-	1 JT1685 Atk 2:13
-	1 JT1685 Atk 2:19
-	1 JT1685 Atk 3:1
-	1 JT1685 Atk 3:8
-	1 JT1685 Atk 3:15
-	-----
-	7
-
-
-§kaidru
-
-	1 JT1685 Atk 22:1
-	-----
-	1
-
-
-§kaitiht
-
-	1 JT1685 Atk 7:9
-	-----
-	1
-
-
-§kattidami
-
-	1 JT1685 Atk 18:18
-	-----
-	1
-
-
-§kattijahs
-
-	1 JT1685 Atk 11:12
-	-----
-	1
-
-
-§kreen
-
-	1 JT1685 Atk 19:17
-	-----
-	1
-
-
-§kreenam
-
-	1 JT1685 Atk 14:6
-	-----
-	1
-
-
-§kreetu
-
-	1 JT1685 Atk 12:14
-	-----
-	1
-
-
-§pehje
-
-	1 JT1685 Atk 12:8
-	-----
-	1
-
-
-§pehzige
-
-	1 JT1685 Atk 18:2
-	-----
-	1
-
-
-§pehzigo
-
-	1 JT1685 Atk 19:6
-	-----
-	1
-
-
-§pehzigs
-
-	1 JT1685 Atk 18:8
-	1 JT1685 Atk 18:10
-	1 JT1685 Atk 18:21
-	-----
-	3
-
-
-§pehzigu
-
-	1 JT1685 Atk 10:1
-	-----
-	1
-
-
-§pihd
-
-	1 JT1685 Atk 1:16
-	-----
-	1
-
-
-§pihdama
-
-	1 JT1685 Atk 21:21
-	-----
-	1
-
-
-§pihdedams
-
-	1 JT1685 Atk 21:11
-	-----
-	1
-
-
-§pihdehs
-
-	1 JT1685 Atk 18:23
-	-----
-	1
-
-
-§pihdeja
-
-	1 JT1685 Atk 1:16
-	-----
-	1
-
-
-§pihdetu
-
-	1 JT1685 Atk 8:12
-	1 JT1685 Atk 21:23
-	-----
-	2
-
-
-§poh§ch
-
-	1 JT1685 Atk 18:14
-	-----
-	1
-
-
-§poh§cha
-
-	1 JT1685 Atk 14:14
-	1 JT1685 Atk 22:16
-	-----
-	2
-
-
-§poh§chu
-
-	1 JT1685 Atk 15:6
-	1 JT1685 Atk 19:8
-	-----
-	2
-
-
-§tahw
-
-	1 JT1685 Atk 10:8
-	1 JT1685 Atk 11:4
-	-----
-	2
-
-
-§tahwam
-
-	1 JT1685 Atk 7:1
-	1 JT1685 Atk 7:9
-	1 JT1685 Atk 10:5
-	1 JT1685 Atk 14:0
-	1 JT1685 Atk 15:2
-	1 JT1685 Atk 19:17
-	1 JT1685 Atk 20:12
-	-----
-	7
-
-
-§tahwedami
-
-	1 JT1685 Atk 18:10
-	-----
-	1
-
-
-§tahwehs
-
-	1 JT1685 Atk 18:15
-	-----
-	1
-
-
-§tahweja
-
-	1 JT1685 Atk 5:6
-	1 JT1685 Atk 7:11
-	1 JT1685 Atk 8:2
-	1 JT1685 Atk 8:3
-	1 JT1685 Atk 9:19
-	1 JT1685 Atk 11:1
-	1 JT1685 Atk 11:11
-	1 JT1685 Atk 12:4
-	1 JT1685 Atk 14:1
-	1 JT1685 Atk 18:17
-	-----
-	10
-
-
-§tahweju
-
-	1 JT1685 Atk 12:18
-	-----
-	1
-
-
-§tahwu
-
-	1 JT1685 Atk 3:20
-	-----
-	1
-
-
-§taiga
-
-	1 JT1685 Atk 2:1
-	1 JT1685 Atk 14:4
-	1 JT1685 Atk 16:15
-	-----
-	3
-
-
-§taigahs
-
-	1 JT1685 Atk 3:4
-	1 JT1685 Atk 21:24
-	-----
-	2
-
-
-§taigaht
-
-	1 JT1685 Atk 9:20
-	-----
-	1
-
-
-§tarp
-
-	1 JT1685 Atk 1:13
-	1 JT1685 Atk 2:1
-	-----
-	2
-
-
-§tarpa^
-
-	1 JT1685 Atk 2:14
-	1 JT1685 Atk 6:4
-	-----
-	2
-
-
-§tippra
-
-	1 JT1685 Atk 16:17
-	-----
-	1
-
-
-§tippras
-
-	1 JT1685 Atk 11:15
-	-----
-	1
-
-
-§tipprini
-
-	1 JT1685 Atk 3:2
-	-----
-	1
-
-
-§tippru
-
-	1 JT1685 Atk 5:2
-	1 JT1685 Atk 5:12
-	1 JT1685 Atk 6:10
-	1 JT1685 Atk 7:2
-	1 JT1685 Atk 7:10
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 10:3
-	1 JT1685 Atk 11:12
-	1 JT1685 Atk 12:10
-	1 JT1685 Atk 14:7
-	1 JT1685 Atk 14:9
-	1 JT1685 Atk 14:15
-	1 JT1685 Atk 16:1
-	1 JT1685 Atk 18:2
-	1 JT1685 Atk 19:17
-	-----
-	15
-
-
-§tipru
-
-	1 JT1685 Atk 1:10
-	-----
-	1
-
-
-§udde
-
-	1 JT1685 Atk 21:1
-	-----
-	1
-
-
-§wehreja
-
-	1 JT1685 Atk 10:6
-	-----
-	1
-
-
-ìihmi
-
-	1 JT1685 Atk 9:7
-	-----
-	1
-
-
-ìihmis
-
-	2 JT1685 Atk 4:3
-	-----
-	2
-
-
-íehniòeem
-
-	1 JT1685 Atk 1:6
-	1 JT1685 Atk 5:10
-	-----
-	2
-
-
-íehniòi
-
-	1 JT1685 Atk 6:15
-	1 JT1685 Atk 17:0
-	1 JT1685 Atk 18:0
-	-----
-	3
-
-
-íehniòinna
-
-	1 JT1685 Atk 18:7
-	-----
-	1
-
-
-íehniòo
-
-	1 JT1685 Atk 1:5
-	1 JT1685 Atk 12:3
-	1 JT1685 Atk 13:1
-	-----
-	3
-
-
-íehniò§ch
-
-	1 JT1685 Atk 15:3
-	-----
-	1
-
-
-íehniòòeem
-
-	1 JT1685 Atk 10:11
-	1 JT1685 Atk 16:14
-	1 JT1685 Atk 17:18
-	-----
-	3
-
-
-íehniòòi
-
-	1 JT1685 Atk 17:2
-	1 JT1685 Atk 17:10
-	2 JT1685 Atk 17:12
-	1 JT1685 Atk 18:3
-	1 JT1685 Atk 18:9
-	1 JT1685 Atk 21:24
-	-----
-	7
-
-
-íehniòòo
-
-	1 JT1685 Atk 16:12
-	1 JT1685 Atk 17:14
-	1 JT1685 Atk 19:12
-	1 JT1685 Atk 19:16
-	1 JT1685 Atk 19:18
-	-----
-	5
-
-
-íehniòòus
-
-	1 JT1685 Atk 19:19
-	-----
-	1
-
-
-íehniòúch
-
-	1 JT1685 Atk 9:11
-	1 JT1685 Atk 17:11
-	1 JT1685 Atk 17:14
-	1 JT1685 Atk 19:16
-	-----
-	4
-
-
-íekkarus
-
-	1 JT1685 Atk 14:18
-	-----
-	1
-
-
-ïaudim
-
-	1 JT1685 Atk 5:9
-	1 JT1685 Atk 7:9
-	1 JT1685 Atk 10:0
-	1 JT1685 Atk 10:11
-	1 JT1685 Atk 11:9
-	1 JT1685 Atk 14:6
-	-----
-	6
-
-
-ïaudis
-
-	1 JT1685 Atk 11:18
-	1 JT1685 Atk 15:4
-	1 JT1685 Atk 17:15
-	1 JT1685 Atk 18:3
-	1 JT1685 Atk 18:4
-	1 JT1685 Atk 18:23
-	1 JT1685 Atk 20:3
-	1 JT1685 Atk 20:8
-	1 JT1685 Atk 21:3
-	1 JT1685 Atk 21:24
-	-----
-	10
-
-
-ïauns
-
-	1 JT1685 Atk 16:2
-	-----
-	1
-
-
-ïaunus
-
-	1 JT1685 Atk 2:2
-	-----
-	1
-
-
-ïau§cho
-
-	1 JT1685 Atk 8:11
-	1 JT1685 Atk 17:15
-	1 JT1685 Atk 19:6
-	-----
-	3
-
-
-ïau§chu
-
-	1 JT1685 Atk 19:1
-	-----
-	1
-
-
-òehme
-
-	1 JT1685 Atk 5:7
-	1 JT1685 Atk 8:5
-	-----
-	2
-
-
-òehmis
-
-	1 JT1685 Atk 5:8
-	-----
-	1
-
-
-òehmu
-
-	1 JT1685 Atk 10:10
-	-----
-	1
-
-
-òem
-
-	1 JT1685 Atk 10:9
-	1 JT1685 Atk 22:17
-	-----
-	2
-
-
-òemm
-
-	1 JT1685 Atk 3:11
-	-----
-	1
-
-
-òemmi
-
-	1 JT1685 Atk 10:8
-	-----
-	1
-
-
-òems
-
-	1 JT1685 Atk 11:0
-	-----
-	1
-
-
-òemt
-
-	1 JT1685 Atk 5:9
-	1 JT1685 Atk 5:12
-	1 JT1685 Atk 6:4
-	-----
-	3
-
-
-ºuhz
-
-	1 JT1685 Atk 10:3
-	-----
-	1
-
-
-úadau§iti
-
-	1 JT1685 Atk 2:27
-	-----
-	1
-
-
-úaded§enata
-
-	1 JT1685 Atk 18:8
-	-----
-	1
-
-
-úaded§enaúchanas
-
-	1 JT1685 Atk 18:9
-	1 JT1685 Atk 18:18
-	-----
-	2
-
-
-úaded§innahs
-
-	1 JT1685 Atk 17:16
-	-----
-	1
-
-
-úagrahbe
-
-	1 JT1685 Atk 20:2
-	-----
-	1
-
-
-úagrahbts
-
-	1 JT1685 Atk 19:20
-	-----
-	1
-
-
-úahpehm
-
-	1 JT1685 Atk 16:10
-	1 JT1685 Atk 16:11
-	-----
-	2
-
-
-úai§tija
-
-	1 JT1685 Atk 20:2
-	-----
-	1
-
-
-úai§titi
-
-	1 JT1685 Atk 9:14
-	-----
-	1
-
-
-úajaukta
-
-	1 JT1685 Atk 8:7
-	-----
-	1
-
-
-úajaukts
-
-	1 JT1685 Atk 8:8
-	1 JT1685 Atk 14:10
-	-----
-	2
-
-
-úajauktu
-
-	1 JT1685 Atk 15:2
-	-----
-	1
-
-
-úakka
-
-	1 JT1685 Atk 1:8
-	1 JT1685 Atk 2:1
-	1 JT1685 Atk 2:2
-	1 JT1685 Atk 2:7
-	1 JT1685 Atk 2:8
-	1 JT1685 Atk 2:9
-	1 JT1685 Atk 2:11
-	1 JT1685 Atk 2:12
-	1 JT1685 Atk 2:17
-	1 JT1685 Atk 2:18
-	1 JT1685 Atk 2:20
-	1 JT1685 Atk 2:24
-	1 JT1685 Atk 2:29
-	1 JT1685 Atk 3:1
-	1 JT1685 Atk 3:6
-	1 JT1685 Atk 3:7
-	1 JT1685 Atk 3:9
-	1 JT1685 Atk 3:13
-	1 JT1685 Atk 3:14
-	1 JT1685 Atk 3:22
-	1 JT1685 Atk 14:13
-	1 JT1685 Atk 18:7
-	2 JT1685 Atk 22:17
-	1 JT1685 Atk 22:20
-	-----
-	25
-
-
-úakkam
-
-	1 JT1685 Atk 1:11
-	1 JT1685 Atk 5:13
-	1 JT1685 Atk 6:1
-	1 JT1685 Atk 6:3
-	1 JT1685 Atk 6:5
-	1 JT1685 Atk 6:6
-	1 JT1685 Atk 6:7
-	1 JT1685 Atk 7:10
-	1 JT1685 Atk 8:13
-	1 JT1685 Atk 9:14
-	1 JT1685 Atk 10:4
-	1 JT1685 Atk 11:12
-	1 JT1685 Atk 12:10
-	1 JT1685 Atk 14:13
-	1 JT1685 Atk 16:1
-	1 JT1685 Atk 16:5
-	1 JT1685 Atk 16:7
-	1 JT1685 Atk 18:4
-	1 JT1685 Atk 19:1
-	1 JT1685 Atk 19:6
-	1 JT1685 Atk 21:3
-	-----
-	21
-
-
-úakki
-
-	1 JT1685 Atk 3:17
-	-----
-	1
-
-
-úakku
-
-	1 JT1685 Atk 2:24
-	1 JT1685 Atk 12:9
-	-----
-	2
-
-
-úakne
-
-	1 JT1685 Atk 5:5
-	1 JT1685 Atk 22:16
-	-----
-	2
-
-
-úakohde
-
-	1 JT1685 Atk 16:10
-	-----
-	1
-
-
-úalda
-
-	1 JT1685 Atk 10:9
-	1 JT1685 Atk 10:10
-	-----
-	2
-
-
-úaldas
-
-	1 JT1685 Atk 18:13
-	-----
-	1
-
-
-úaldi
-
-	1 JT1685 Atk 18:12
-	-----
-	1
-
-
-úalla^
-
-	1 JT1685 Atk 1:9
-	-----
-	1
-
-
-úallas
-
-	1 JT1685 Atk 6:14
-	1 JT1685 Atk 16:20
-	-----
-	2
-
-
-úamaita
-
-	1 JT1685 Atk 6:6
-	-----
-	1
-
-
-úamaitaht
-
-	1 JT1685 Atk 7:2
-	-----
-	1
-
-
-úamaitaja
-
-	1 JT1685 Atk 9:19
-	-----
-	1
-
-
-úamaitajeet
-
-	1 JT1685 Atk 7:3
-	-----
-	1
-
-
-úamaitajuúi
-
-	1 JT1685 Atk 19:2
-	-----
-	1
-
-
-úamaitata
-
-	1 JT1685 Atk 8:9
-	1 JT1685 Atk 8:12
-	-----
-	2
-
-
-úamihs
-
-	1 JT1685 Atk 11:2
-	-----
-	1
-
-
-úapulzenadami
-
-	1 JT1685 Atk 16:14
-	-----
-	1
-
-
-úapulzenajeetees
-
-	1 JT1685 Atk 19:17
-	-----
-	1
-
-
-úapulzenajuúchi
-
-	1 JT1685 Atk 16:16
-	-----
-	1
-
-
-úapulzenatus
-
-	1 JT1685 Atk 19:19
-	1 JT1685 Atk 20:8
-	-----
-	2
-
-
-úargajis
-
-	1 JT1685 Atk 3:8
-	-----
-	1
-
-
-úargatees
-
-	1 JT1685 Atk 2:0
-	-----
-	1
-
-
-úarkans
-
-	1 JT1685 Atk 6:0
-	1 JT1685 Atk 6:4
-	1 JT1685 Atk 12:3
-	-----
-	3
-
-
-úarkanu
-
-	1 JT1685 Atk 17:0
-	1 JT1685 Atk 17:3
-	1 JT1685 Atk 18:16
-	-----
-	3
-
-
-úarkanumu
-
-	1 JT1685 Atk 17:4
-	1 JT1685 Atk 18:12
-	-----
-	2
-
-
-úataiúihts
-
-	1 JT1685 Atk 16:12
-	-----
-	1
-
-
-úataiúijuúees
-
-	1 JT1685 Atk 19:7
-	-----
-	1
-
-
-úataiúita
-
-	1 JT1685 Atk 12:6
-	1 JT1685 Atk 21:0
-	-----
-	2
-
-
-úataiúiti
-
-	1 JT1685 Atk 9:7
-	-----
-	1
-
-
-úatans
-
-	1 JT1685 Atk 2:10
-	1 JT1685 Atk 2:13
-	1 JT1685 Atk 12:9
-	1 JT1685 Atk 20:2
-	1 JT1685 Atk 20:7
-	-----
-	5
-
-
-úataòa
-
-	1 JT1685 Atk 2:9
-	1 JT1685 Atk 2:13
-	1 JT1685 Atk 2:24
-	1 JT1685 Atk 3:9
-	-----
-	4
-
-
-úatihta
-
-	1 JT1685 Atk 6:14
-	-----
-	1
-
-
-úaukta
-
-	1 JT1685 Atk 1:9
-	1 JT1685 Atk 11:8
-	1 JT1685 Atk 16:16
-	-----
-	3
-
-
-úaukts
-
-	1 JT1685 Atk 8:11
-	1 JT1685 Atk 19:11
-	1 JT1685 Atk 19:13
-	-----
-	3
-
-
-úaule
-
-	1 JT1685 Atk 1:16
-	1 JT1685 Atk 6:12
-	1 JT1685 Atk 7:16
-	1 JT1685 Atk 9:2
-	1 JT1685 Atk 10:1
-	1 JT1685 Atk 12:1
-	1 JT1685 Atk 16:8
-	1 JT1685 Atk 21:23
-	-----
-	8
-
-
-úaule^
-
-	1 JT1685 Atk 19:17
-	-----
-	1
-
-
-úaules
-
-	1 JT1685 Atk 8:12
-	1 JT1685 Atk 16:12
-	1 JT1685 Atk 22:5
-	-----
-	3
-
-
-úawa
-
-	1 JT1685 Atk 20:7
-	1 JT1685 Atk 21:8
-	-----
-	2
-
-
-úawa^
-
-	1 JT1685 Atk 1:16
-	1 JT1685 Atk 2:1
-	1 JT1685 Atk 6:4
-	1 JT1685 Atk 12:14
-	1 JT1685 Atk 14:14
-	1 JT1685 Atk 17:4
-	1 JT1685 Atk 18:7
-	-----
-	7
-
-
-úawahm
-
-	1 JT1685 Atk 1:1
-	1 JT1685 Atk 1:5
-	1 JT1685 Atk 4:4
-	1 JT1685 Atk 6:14
-	1 JT1685 Atk 9:4
-	3 JT1685 Atk 9:21
-	1 JT1685 Atk 11:11
-	1 JT1685 Atk 12:3
-	1 JT1685 Atk 14:2
-	1 JT1685 Atk 14:13
-	1 JT1685 Atk 16:11
-	1 JT1685 Atk 18:19
-	2 JT1685 Atk 19:16
-	1 JT1685 Atk 21:2
-	-----
-	17
-
-
-úawam
-
-	1 JT1685 Atk 1:6
-	-----
-	1
-
-
-úawas
-
-	1 JT1685 Atk 2:5
-	1 JT1685 Atk 2:21
-	1 JT1685 Atk 3:4
-	1 JT1685 Atk 6:13
-	2 JT1685 Atk 7:14
-	1 JT1685 Atk 9:21
-	1 JT1685 Atk 10:3
-	1 JT1685 Atk 10:4
-	1 JT1685 Atk 12:11
-	1 JT1685 Atk 12:15
-	1 JT1685 Atk 12:16
-	1 JT1685 Atk 14:8
-	1 JT1685 Atk 14:9
-	1 JT1685 Atk 16:10
-	1 JT1685 Atk 16:15
-	1 JT1685 Atk 20:4
-	-----
-	17
-
-
-úaweem
-
-	1 JT1685 Atk 1:1
-	1 JT1685 Atk 2:22
-	1 JT1685 Atk 2:23
-	1 JT1685 Atk 10:7
-	2 JT1685 Atk 11:16
-	2 JT1685 Atk 16:11
-	1 JT1685 Atk 19:0
-	1 JT1685 Atk 20:12
-	1 JT1685 Atk 20:13
-	1 JT1685 Atk 22:6
-	-----
-	12
-
-
-úawo
-
-	1 JT1685 Atk 9:20
-	1 JT1685 Atk 19:2
-	-----
-	2
-
-
-úawu
-
-	1 JT1685 Atk 1:1
-	1 JT1685 Atk 1:17
-	1 JT1685 Atk 7:11
-	1 JT1685 Atk 10:2
-	1 JT1685 Atk 10:5
-	1 JT1685 Atk 11:7
-	1 JT1685 Atk 12:11
-	1 JT1685 Atk 12:16
-	2 JT1685 Atk 13:2
-	1 JT1685 Atk 13:6
-	1 JT1685 Atk 14:9
-	1 JT1685 Atk 14:14
-	1 JT1685 Atk 14:16
-	1 JT1685 Atk 14:19
-	1 JT1685 Atk 16:2
-	1 JT1685 Atk 16:3
-	1 JT1685 Atk 16:4
-	1 JT1685 Atk 16:8
-	1 JT1685 Atk 16:10
-	1 JT1685 Atk 16:17
-	1 JT1685 Atk 17:13
-	1 JT1685 Atk 17:17
-	1 JT1685 Atk 19:2
-	1 JT1685 Atk 21:24
-	1 JT1685 Atk 22:2
-	1 JT1685 Atk 22:6
-	1 JT1685 Atk 22:16
-	-----
-	28
-
-
-úawus
-
-	1 JT1685 Atk 4:10
-	1 JT1685 Atk 16:12
-	-----
-	2
-
-
-úazzidama
-
-	1 JT1685 Atk 16:17
-	1 JT1685 Atk 19:5
-	-----
-	2
-
-
-úazzidamas
-
-	1 JT1685 Atk 11:15
-	-----
-	1
-
-
-úazzidami
-
-	1 JT1685 Atk 4:8
-	1 JT1685 Atk 4:10
-	1 JT1685 Atk 5:9
-	1 JT1685 Atk 5:12
-	1 JT1685 Atk 6:10
-	1 JT1685 Atk 7:12
-	1 JT1685 Atk 11:17
-	1 JT1685 Atk 13:4
-	1 JT1685 Atk 15:3
-	1 JT1685 Atk 17:1
-	1 JT1685 Atk 18:10
-	1 JT1685 Atk 18:16
-	1 JT1685 Atk 18:18
-	1 JT1685 Atk 18:19
-	1 JT1685 Atk 19:4
-	-----
-	15
-
-
-úazzidams
-
-	1 JT1685 Atk 1:17
-	1 JT1685 Atk 7:3
-	1 JT1685 Atk 7:13
-	1 JT1685 Atk 10:9
-	1 JT1685 Atk 11:1
-	1 JT1685 Atk 13:14
-	1 JT1685 Atk 14:8
-	1 JT1685 Atk 14:9
-	1 JT1685 Atk 14:18
-	1 JT1685 Atk 18:2
-	1 JT1685 Atk 18:21
-	1 JT1685 Atk 19:17
-	1 JT1685 Atk 21:9
-	-----
-	13
-
-
-úazzihts
-
-	1 JT1685 Atk 6:11
-	1 JT1685 Atk 9:4
-	-----
-	2
-
-
-úazzija
-
-	1 JT1685 Atk 4:1
-	1 JT1685 Atk 5:5
-	1 JT1685 Atk 5:14
-	1 JT1685 Atk 6:16
-	1 JT1685 Atk 7:14
-	1 JT1685 Atk 10:8
-	1 JT1685 Atk 10:9
-	1 JT1685 Atk 10:11
-	1 JT1685 Atk 14:7
-	1 JT1685 Atk 17:7
-	1 JT1685 Atk 17:15
-	1 JT1685 Atk 19:3
-	2 JT1685 Atk 19:9
-	1 JT1685 Atk 19:10
-	2 JT1685 Atk 21:5
-	1 JT1685 Atk 21:6
-	1 JT1685 Atk 22:6
-	1 JT1685 Atk 22:9
-	1 JT1685 Atk 22:10
-	-----
-	21
-
-
-úazziju
-
-	1 JT1685 Atk 7:14
-	-----
-	1
-
-
-úazziúchu
-
-	1 JT1685 Atk 17:7
-	-----
-	1
-
-
-úaººo=maiús
-
-	1 JT1685 Atk 6:12
-	-----
-	1
-
-
-úchahm
-
-	1 JT1685 Atk 9:20
-	1 JT1685 Atk 16:9
-	-----
-	2
-
-
-úchahs
-
-	1 JT1685 Atk 1:3
-	2 JT1685 Atk 22:8
-	1 JT1685 Atk 22:16
-	1 JT1685 Atk 22:19
-	-----
-	5
-
-
-úcham
-
-	1 JT1685 Atk 18:18
-	-----
-	1
-
-
-úchaubihts
-
-	1 JT1685 Atk 6:13
-	-----
-	1
-
-
-úche
-
-	1 JT1685 Atk 13:10
-	1 JT1685 Atk 17:9
-	-----
-	2
-
-
-úchee
-
-	1 JT1685 Atk 7:13
-	1 JT1685 Atk 7:14
-	1 JT1685 Atk 11:4
-	1 JT1685 Atk 11:10
-	3 JT1685 Atk 14:4
-	1 JT1685 Atk 17:14
-	1 JT1685 Atk 17:16
-	1 JT1685 Atk 19:9
-	1 JT1685 Atk 21:5
-	1 JT1685 Atk 22:6
-	-----
-	12
-
-
-úcheem
-
-	1 JT1685 Atk 7:1
-	1 JT1685 Atk 7:9
-	1 JT1685 Atk 9:12
-	1 JT1685 Atk 9:18
-	1 JT1685 Atk 11:6
-	1 JT1685 Atk 17:13
-	1 JT1685 Atk 18:1
-	1 JT1685 Atk 19:1
-	1 JT1685 Atk 20:6
-	1 JT1685 Atk 22:18
-	-----
-	10
-
-
-úcheit
-
-	1 JT1685 Atk 13:18
-	2 JT1685 Atk 14:12
-	-----
-	3
-
-
-úchi
-
-	1 JT1685 Atk 2:24
-	1 JT1685 Atk 20:5
-	1 JT1685 Atk 20:14
-	-----
-	3
-
-
-úchihs
-
-	1 JT1685 Atk 22:9
-	-----
-	1
-
-
-úchim
-
-	1 JT1685 Atk 1:19
-	-----
-	1
-
-
-úchinni^
-
-	1 JT1685 Atk 22:10
-	2 JT1685 Atk 22:18
-	1 JT1685 Atk 22:19
-	-----
-	4
-
-
-úcho
-
-	1 JT1685 Atk 8:4
-	1 JT1685 Atk 15:5
-	1 JT1685 Atk 18:15
-	-----
-	3
-
-
-úchohs
-
-	1 JT1685 Atk 22:9
-	-----
-	1
-
-
-úchur
-
-	1 JT1685 Atk 11:12
-	1 JT1685 Atk 17:1
-	1 JT1685 Atk 21:9
-	-----
-	3
-
-
-úchurp
-
-	1 JT1685 Atk 4:1
-	-----
-	1
-
-
-úchíehdes
-
-	1 JT1685 Atk 20:1
-	-----
-	1
-
-
-úchíih§ta
-
-	1 JT1685 Atk 21:18
-	1 JT1685 Atk 21:21
-	-----
-	2
-
-
-úchíih§tai
-
-	1 JT1685 Atk 21:18
-	-----
-	1
-
-
-úchíih§tu
-
-	1 JT1685 Atk 19:8
-	1 JT1685 Atk 22:1
-	-----
-	2
-
-
-úeewa
-
-	1 JT1685 Atk 12:1
-	1 JT1685 Atk 12:6
-	1 JT1685 Atk 17:4
-	1 JT1685 Atk 17:9
-	1 JT1685 Atk 17:18
-	1 JT1685 Atk 19:7
-	-----
-	6
-
-
-úeewahm
-
-	1 JT1685 Atk 14:4
-	-----
-	1
-
-
-úeewai
-
-	1 JT1685 Atk 2:20
-	1 JT1685 Atk 12:14
-	1 JT1685 Atk 12:15
-	1 JT1685 Atk 12:16
-	-----
-	4
-
-
-úeewas
-
-	1 JT1685 Atk 12:4
-	1 JT1685 Atk 17:7
-	-----
-	2
-
-
-úeewju
-
-	1 JT1685 Atk 12:0
-	-----
-	1
-
-
-úeewo
-
-	1 JT1685 Atk 9:8
-	-----
-	1
-
-
-úeewu
-
-	1 JT1685 Atk 12:13
-	1 JT1685 Atk 12:17
-	1 JT1685 Atk 17:3
-	1 JT1685 Atk 17:6
-	1 JT1685 Atk 21:9
-	-----
-	5
-
-
-úehdedams
-
-	1 JT1685 Atk 14:14
-	-----
-	1
-
-
-úehdeht
-
-	1 JT1685 Atk 3:21
-	-----
-	1
-
-
-úehdeja
-
-	1 JT1685 Atk 4:2
-	1 JT1685 Atk 4:3
-	1 JT1685 Atk 4:9
-	1 JT1685 Atk 4:10
-	1 JT1685 Atk 5:1
-	1 JT1685 Atk 5:7
-	1 JT1685 Atk 6:2
-	1 JT1685 Atk 6:4
-	1 JT1685 Atk 6:5
-	1 JT1685 Atk 6:8
-	1 JT1685 Atk 9:17
-	1 JT1685 Atk 14:15
-	1 JT1685 Atk 14:16
-	1 JT1685 Atk 19:4
-	1 JT1685 Atk 19:11
-	1 JT1685 Atk 19:19
-	1 JT1685 Atk 19:21
-	1 JT1685 Atk 20:4
-	1 JT1685 Atk 20:11
-	1 JT1685 Atk 21:5
-	-----
-	20
-
-
-úehdejis
-
-	1 JT1685 Atk 3:21
-	-----
-	1
-
-
-úehra
-
-	1 JT1685 Atk 20:10
-	-----
-	1
-
-
-úehri§kas
-
-	1 JT1685 Atk 9:17
-	-----
-	1
-
-
-úehrs
-
-	1 JT1685 Atk 9:17
-	-----
-	1
-
-
-úehru
-
-	1 JT1685 Atk 9:18
-	1 JT1685 Atk 14:10
-	1 JT1685 Atk 19:20
-	1 JT1685 Atk 21:8
-	-----
-	4
-
-
-úeh§ch
-
-	1 JT1685 Atk 4:0
-	1 JT1685 Atk 5:13
-	1 JT1685 Atk 6:16
-	1 JT1685 Atk 7:10
-	1 JT1685 Atk 7:15
-	1 JT1685 Atk 11:16
-	1 JT1685 Atk 17:0
-	1 JT1685 Atk 17:1
-	1 JT1685 Atk 17:9
-	1 JT1685 Atk 17:15
-	1 JT1685 Atk 19:18
-	-----
-	11
-
-
-úeh§cham
-
-	1 JT1685 Atk 4:4
-	1 JT1685 Atk 17:3
-	-----
-	2
-
-
-úeh§chu
-
-	1 JT1685 Atk 18:7
-	-----
-	1
-
-
-úeltu
-
-	1 JT1685 Atk 18:12
-	-----
-	1
-
-
-úeptihts
-
-	1 JT1685 Atk 11:15
-	1 JT1685 Atk 16:17
-	-----
-	2
-
-
-úeptita
-
-	1 JT1685 Atk 8:0
-	1 JT1685 Atk 10:7
-	1 JT1685 Atk 12:0
-	-----
-	3
-
-
-úeptits
-
-	1 JT1685 Atk 21:20
-	-----
-	1
-
-
-úeptitu
-
-	1 JT1685 Atk 8:1
-	-----
-	1
-
-
-úeptiò
-
-	2 JT1685 Atk 1:20
-	1 JT1685 Atk 4:5
-	1 JT1685 Atk 5:0
-	1 JT1685 Atk 5:1
-	1 JT1685 Atk 8:0
-	1 JT1685 Atk 13:0
-	1 JT1685 Atk 16:0
-	-----
-	8
-
-
-úeptiòahm
-
-	1 JT1685 Atk 1:0
-	1 JT1685 Atk 1:4
-	1 JT1685 Atk 1:20
-	1 JT1685 Atk 15:0
-	1 JT1685 Atk 21:9
-	-----
-	5
-
-
-úeptiòas
-
-	1 JT1685 Atk 1:16
-	2 JT1685 Atk 1:20
-	1 JT1685 Atk 3:1
-	1 JT1685 Atk 5:6
-	1 JT1685 Atk 8:2
-	1 JT1685 Atk 8:6
-	-----
-	7
-
-
-úeptiòeem
-
-	1 JT1685 Atk 1:4
-	1 JT1685 Atk 2:1
-	1 JT1685 Atk 15:0
-	1 JT1685 Atk 17:1
-	1 JT1685 Atk 21:9
-	-----
-	5
-
-
-úeptiòee~
-
-	1 JT1685 Atk 1:13
-	-----
-	1
-
-
-úeptiòi
-
-	1 JT1685 Atk 3:1
-	1 JT1685 Atk 4:5
-	2 JT1685 Atk 5:6
-	1 JT1685 Atk 8:6
-	1 JT1685 Atk 10:3
-	1 JT1685 Atk 10:4
-	-----
-	7
-
-
-úeptiòus
-
-	1 JT1685 Atk 1:12
-	1 JT1685 Atk 1:20
-	1 JT1685 Atk 5:5
-	1 JT1685 Atk 8:2
-	-----
-	4
-
-
-úeptiòòas
-
-	1 JT1685 Atk 12:3
-	1 JT1685 Atk 13:1
-	1 JT1685 Atk 15:1
-	1 JT1685 Atk 15:6
-	1 JT1685 Atk 15:8
-	1 JT1685 Atk 17:3
-	1 JT1685 Atk 17:7
-	1 JT1685 Atk 17:9
-	-----
-	8
-
-
-úeptiòòeem
-
-	1 JT1685 Atk 15:7
-	1 JT1685 Atk 16:1
-	1 JT1685 Atk 17:11
-	-----
-	3
-
-
-úeptiòòi
-
-	1 JT1685 Atk 10:4
-	1 JT1685 Atk 11:13
-	1 JT1685 Atk 12:3
-	1 JT1685 Atk 15:6
-	1 JT1685 Atk 17:1
-	1 JT1685 Atk 17:9
-	1 JT1685 Atk 17:10
-	1 JT1685 Atk 21:9
-	-----
-	8
-
-
-úeptiòòus
-
-	1 JT1685 Atk 15:1
-	1 JT1685 Atk 15:7
-	-----
-	2
-
-
-úew
-
-	1 JT1685 Atk 2:2
-	1 JT1685 Atk 2:9
-	1 JT1685 Atk 2:20
-	1 JT1685 Atk 3:9
-	1 JT1685 Atk 18:7
-	-----
-	5
-
-
-úewiúki
-
-	1 JT1685 Atk 4:8
-	-----
-	1
-
-
-úe§ta
-
-	1 JT1685 Atk 9:0
-	-----
-	1
-
-
-úe§ts
-
-	1 JT1685 Atk 9:13
-	1 JT1685 Atk 16:12
-	1 JT1685 Atk 21:20
-	-----
-	3
-
-
-úe§tu
-
-	1 JT1685 Atk 6:0
-	1 JT1685 Atk 6:12
-	1 JT1685 Atk 9:14
-	-----
-	3
-
-
-úeúch
-
-	1 JT1685 Atk 11:3
-	2 JT1685 Atk 13:18
-	1 JT1685 Atk 14:20
-	-----
-	4
-
-
-úeúchdeúmitts
-
-	1 JT1685 Atk 12:6
-	-----
-	1
-
-
-úeúchi
-
-	1 JT1685 Atk 4:8
-	1 JT1685 Atk 13:18
-	-----
-	2
-
-
-úimts
-
-	1 JT1685 Atk 7:4
-	1 JT1685 Atk 13:18
-	1 JT1685 Atk 14:1
-	1 JT1685 Atk 14:3
-	1 JT1685 Atk 14:20
-	1 JT1685 Atk 21:17
-	-----
-	6
-
-
-úirdi^
-
-	1 JT1685 Atk 18:7
-	-----
-	1
-
-
-úirdi^s
-
-	1 JT1685 Atk 17:17
-	-----
-	1
-
-
-úirdis
-
-	1 JT1685 Atk 2:23
-	-----
-	1
-
-
-úirds
-
-	1 JT1685 Atk 22:0
-	-----
-	1
-
-
-úi§t
-
-	1 JT1685 Atk 11:6
-	-----
-	1
-
-
-úi§ts
-
-	1 JT1685 Atk 11:8
-	-----
-	1
-
-
-úi§tu
-
-	1 JT1685 Atk 19:15
-	-----
-	1
-
-
-úiúúeòi
-
-	1 JT1685 Atk 9:3
-	-----
-	1
-
-
-úiúúeòo
-
-	1 JT1685 Atk 9:7
-	-----
-	1
-
-
-úkarpija
-
-	1 JT1685 Atk 9:5
-	-----
-	1
-
-
-úkattitees
-
-	1 JT1685 Atk 1:12
-	-----
-	1
-
-
-úkrejam
-
-	1 JT1685 Atk 8:13
-	-----
-	1
-
-
-úkrejamam
-
-	1 JT1685 Atk 4:7
-	-----
-	1
-
-
-úlawa
-
-	1 JT1685 Atk 5:13
-	1 JT1685 Atk 7:12
-	1 JT1685 Atk 19:1
-	1 JT1685 Atk 21:26
-	-----
-	4
-
-
-úlawe
-
-	1 JT1685 Atk 4:0
-	-----
-	1
-
-
-úlawehts
-
-	1 JT1685 Atk 5:0
-	-----
-	1
-
-
-úlaweti
-
-	1 JT1685 Atk 19:0
-	-----
-	1
-
-
-úlawu
-
-	1 JT1685 Atk 4:9
-	1 JT1685 Atk 4:11
-	1 JT1685 Atk 5:12
-	1 JT1685 Atk 21:24
-	-----
-	4
-
-
-úlepkawehm
-
-	1 JT1685 Atk 21:8
-	-----
-	1
-
-
-úlepkawes
-
-	1 JT1685 Atk 22:15
-	-----
-	1
-
-
-úlepkawibahm
-
-	1 JT1685 Atk 9:21
-	-----
-	1
-
-
-úluddenahs
-
-	1 JT1685 Atk 11:3
-	-----
-	1
-
-
-úluddina
-
-	1 JT1685 Atk 14:0
-	-----
-	1
-
-
-úluddinaht
-
-	1 JT1685 Atk 10:0
-	-----
-	1
-
-
-úluddinajam
-
-	1 JT1685 Atk 5:2
-	-----
-	1
-
-
-úmaragdam
-
-	1 JT1685 Atk 4:3
-	-----
-	1
-
-
-úmaragds
-
-	1 JT1685 Atk 21:19
-	-----
-	1
-
-
-úmiltis
-
-	1 JT1685 Atk 20:8
-	-----
-	1
-
-
-úmirnu
-
-	1 JT1685 Atk 1:11
-	-----
-	1
-
-
-úneegs
-
-	1 JT1685 Atk 1:14
-	-----
-	1
-
-
-úohda
-
-	1 JT1685 Atk 18:8
-	1 JT1685 Atk 19:11
-	-----
-	2
-
-
-úohdi
-
-	1 JT1685 Atk 6:10
-	-----
-	1
-
-
-úohdiba
-
-	1 JT1685 Atk 11:18
-	1 JT1685 Atk 17:0
-	1 JT1685 Atk 18:10
-	1 JT1685 Atk 20:0
-	1 JT1685 Atk 20:4
-	-----
-	5
-
-
-úohdibas
-
-	1 JT1685 Atk 14:7
-	1 JT1685 Atk 15:0
-	1 JT1685 Atk 19:2
-	-----
-	3
-
-
-úohdibu
-
-	1 JT1685 Atk 14:0
-	1 JT1685 Atk 17:1
-	1 JT1685 Atk 18:20
-	-----
-	3
-
-
-úohdijis
-
-	1 JT1685 Atk 18:20
-	1 JT1685 Atk 19:2
-	-----
-	2
-
-
-úohditi
-
-	1 JT1685 Atk 11:18
-	-----
-	1
-
-
-úohliti
-
-	1 JT1685 Atk 11:0
-	-----
-	1
-
-
-úpahrni
-
-	1 JT1685 Atk 4:8
-	-----
-	1
-
-
-úpehzigu
-
-	1 JT1685 Atk 5:2
-	-----
-	1
-
-
-úuddrabu
-
-	1 JT1685 Atk 18:12
-	-----
-	1
-
-
-úudraba
-
-	1 JT1685 Atk 9:20
-	-----
-	1
-
-
-úuhti
-
-	1 JT1685 Atk 1:11
-	-----
-	1
-
-
-úuhtidams
-
-	1 JT1685 Atk 1:1
-	-----
-	1
-
-
-úuhtihs
-
-	1 JT1685 Atk 11:10
-	-----
-	1
-
-
-úuhtijis
-
-	1 JT1685 Atk 22:6
-	1 JT1685 Atk 22:16
-	-----
-	2
-
-
-úuòòi
-
-	1 JT1685 Atk 22:15
-	-----
-	1
-
-
-úwabbadi
-
-	1 JT1685 Atk 6:15
-	-----
-	1
-
-
-úwabbado
-
-	1 JT1685 Atk 19:18
-	-----
-	1
-
-
-úwabbadus
-
-	1 JT1685 Atk 13:16
-	-----
-	1
-
-
-úwahrkeem
-
-	1 JT1685 Atk 1:13
-	-----
-	1
-
-
-úwaidi
-
-	1 JT1685 Atk 3:18
-	-----
-	1
-
-
-úwarrs
-
-	1 JT1685 Atk 6:5
-	-----
-	1
-
-
-úwehta
-
-	1 JT1685 Atk 22:19
-	-----
-	1
-
-
-úwehtai
-
-	1 JT1685 Atk 21:0
-	-----
-	1
-
-
-úwehtajs
-
-	1 JT1685 Atk 3:7
-	-----
-	1
-
-
-úwehteem
-
-	1 JT1685 Atk 11:18
-	1 JT1685 Atk 13:7
-	1 JT1685 Atk 14:10
-	-----
-	3
-
-
-úwehti
-
-	1 JT1685 Atk 12:0
-	1 JT1685 Atk 15:0
-	1 JT1685 Atk 18:20
-	1 JT1685 Atk 21:24
-	-----
-	4
-
-
-úwehtigi
-
-	1 JT1685 Atk 14:13
-	1 JT1685 Atk 19:0
-	1 JT1685 Atk 22:14
-	-----
-	3
-
-
-úwehtigs
-
-	1 JT1685 Atk 1:3
-	1 JT1685 Atk 22:7
-	-----
-	2
-
-
-úwehtigus
-
-	1 JT1685 Atk 14:0
-	-----
-	1
-
-
-úwehtiúchana
-
-	1 JT1685 Atk 7:12
-	-----
-	1
-
-
-úwehto
-
-	1 JT1685 Atk 5:8
-	1 JT1685 Atk 7:0
-	1 JT1685 Atk 8:0
-	1 JT1685 Atk 8:3
-	1 JT1685 Atk 8:4
-	1 JT1685 Atk 13:10
-	1 JT1685 Atk 14:12
-	1 JT1685 Atk 15:3
-	1 JT1685 Atk 16:6
-	1 JT1685 Atk 17:6
-	1 JT1685 Atk 18:24
-	1 JT1685 Atk 19:8
-	1 JT1685 Atk 20:9
-	1 JT1685 Atk 22:6
-	-----
-	14
-
-
-úwehts
-
-	3 JT1685 Atk 4:8
-	1 JT1685 Atk 6:10
-	1 JT1685 Atk 15:4
-	1 JT1685 Atk 16:5
-	1 JT1685 Atk 20:6
-	2 JT1685 Atk 22:11
-	-----
-	9
-
-
-úwehtu
-
-	1 JT1685 Atk 11:2
-	1 JT1685 Atk 21:2
-	1 JT1685 Atk 21:10
-	-----
-	3
-
-
-úwezzes
-
-	1 JT1685 Atk 18:23
 	-----
 	1
 

@@ -110,6 +110,13 @@ aisne§t
 	1
 
 
+aisúlehgtas
+
+	1 VD1689_94 Mac 12:4
+	-----
+	1
+
+
 aistek
 
 	1 VD1689_94 Mac 12:6
@@ -120,13 +127,6 @@ aistek
 aiswedd
 
 	1 VD1689_94 Mac 10:20
-	-----
-	1
-
-
-aisúlehgtas
-
-	1 VD1689_94 Mac 12:4
 	-----
 	1
 
@@ -174,20 +174,6 @@ apbehdinahts
 	1
 
 
-apbehdinataji
-
-	1 VD1689_94 Mac 4:1
-	-----
-	1
-
-
-apbehdinato
-
-	1 VD1689_94 Mac 4:1
-	-----
-	1
-
-
 apbehdinaúchana
 
 	1 VD1689_94 Mac 7:8
@@ -196,6 +182,20 @@ apbehdinaúchana
 
 
 apbehdinaúchanas
+
+	1 VD1689_94 Mac 4:1
+	-----
+	1
+
+
+apbehdinataji
+
+	1 VD1689_94 Mac 4:1
+	-----
+	1
+
+
+apbehdinato
 
 	1 VD1689_94 Mac 4:1
 	-----
@@ -252,14 +252,14 @@ apkahrt
 	2
 
 
-apkampt
+apkampúchanas{amkampúchanas}
 
 	1 VD1689_94 Mac 3:5
 	-----
 	1
 
 
-apkampúchanas{amkampúchanas}
+apkampt
 
 	1 VD1689_94 Mac 3:5
 	-----
@@ -283,6 +283,46 @@ apmahneta
 apmahnetaja
 
 	1 VD1689_94 Mac 10:11
+	-----
+	1
+
+
+apòehmis
+
+	1 VD1689_94 Mac 9:1
+	-----
+	1
+
+
+apòehmohs
+
+	1 VD1689_94 Mac 1:13
+	1 VD1689_94 Mac 1:17
+	1 VD1689_94 Mac 8:16
+	-----
+	3
+
+
+apòehmos
+
+	1 VD1689_94 Mac 2:3
+	-----
+	1
+
+
+apòemúchanai
+
+	1 VD1689_94 Mac 3:0
+	1 VD1689_94 Mac 3:1
+	1 VD1689_94 Mac 3:17
+	1 VD1689_94 Mac 8:6
+	-----
+	4
+
+
+apòemúchanu
+
+	1 VD1689_94 Mac 11:0
 	-----
 	1
 
@@ -340,13 +380,6 @@ aprahj
 	1
 
 
-aprakti
-
-	1 VD1689_94 Mac 8:10
-	-----
-	1
-
-
 aprak§ta
 
 	1 VD1689_94 Mac 2:0
@@ -357,6 +390,13 @@ aprak§ta
 aprak§tija
 
 	1 VD1689_94 Mac 12:10
+	-----
+	1
+
+
+aprakti
+
+	1 VD1689_94 Mac 8:10
 	-----
 	1
 
@@ -375,34 +415,6 @@ aprihj
 	1
 
 
-apteeíeºa
-
-	1 VD1689_94 Mac 10:1
-	-----
-	1
-
-
-aptumúchotas
-
-	1 VD1689_94 Mac 12:2
-	-----
-	1
-
-
-aptumúchoti
-
-	1 VD1689_94 Mac 12:3
-	-----
-	1
-
-
-ap§kai§tees
-
-	1 VD1689_94 Mac 5:5
-	-----
-	1
-
-
 ap§kaiúchana^
 
 	1 VD1689_94 Mac 5:16
@@ -410,49 +422,9 @@ ap§kaiúchana^
 	1
 
 
-ap§tahje
+ap§kai§tees
 
-	1 VD1689_94 Mac 9:14
-	-----
-	1
-
-
-apòehmis
-
-	1 VD1689_94 Mac 9:1
-	-----
-	1
-
-
-apòehmohs
-
-	1 VD1689_94 Mac 1:13
-	1 VD1689_94 Mac 1:17
-	1 VD1689_94 Mac 8:16
-	-----
-	3
-
-
-apòehmos
-
-	1 VD1689_94 Mac 2:3
-	-----
-	1
-
-
-apòemúchanai
-
-	1 VD1689_94 Mac 3:0
-	1 VD1689_94 Mac 3:1
-	1 VD1689_94 Mac 3:17
-	1 VD1689_94 Mac 8:6
-	-----
-	4
-
-
-apòemúchanu
-
-	1 VD1689_94 Mac 11:0
+	1 VD1689_94 Mac 5:5
 	-----
 	1
 
@@ -485,6 +457,13 @@ apúohlijis
 	1
 
 
+apúohliúchana^
+
+	1 VD1689_94 Mac 5:3
+	-----
+	1
+
+
 apúohli§chanu
 
 	1 VD1689_94 Mac 5:0
@@ -492,9 +471,30 @@ apúohli§chanu
 	1
 
 
-apúohliúchana^
+ap§tahje
 
-	1 VD1689_94 Mac 5:3
+	1 VD1689_94 Mac 9:14
+	-----
+	1
+
+
+apteeíeºa
+
+	1 VD1689_94 Mac 10:1
+	-----
+	1
+
+
+aptumúchotas
+
+	1 VD1689_94 Mac 12:2
+	-----
+	1
+
+
+aptumúchoti
+
+	1 VD1689_94 Mac 12:3
 	-----
 	1
 
@@ -581,6 +581,34 @@ arrid§an
 	1 VD1689_94 Mac 8:17
 	-----
 	9
+
+
+aúmins
+
+	1 VD1689_94 Mac 10:10
+	-----
+	1
+
+
+a§oti^
+
+	1 VD1689_94 Mac 7:10
+	-----
+	1
+
+
+aúúaras
+
+	1 VD1689_94 Mac 4:1
+	-----
+	1
+
+
+a§toòeem
+
+	1 VD1689_94 Mac 11:2
+	-----
+	1
 
 
 ateet
@@ -740,24 +768,9 @@ atrahwu
 	1
 
 
-atrauji
+atraúúi
 
-	1 VD1689_94 Mac 7:19
-	1 VD1689_94 Mac 11:6
-	-----
-	2
-
-
-atrauju
-
-	1 VD1689_94 Mac 4:8
-	-----
-	1
-
-
-atraut
-
-	1 VD1689_94 Mac 3:14
+	1 VD1689_94 Mac 11:1
 	-----
 	1
 
@@ -785,9 +798,24 @@ atra§tu
 	1
 
 
-atraúúi
+atrauji
 
-	1 VD1689_94 Mac 11:1
+	1 VD1689_94 Mac 7:19
+	1 VD1689_94 Mac 11:6
+	-----
+	2
+
+
+atrauju
+
+	1 VD1689_94 Mac 4:8
+	-----
+	1
+
+
+atraut
+
+	1 VD1689_94 Mac 3:14
 	-----
 	1
 
@@ -842,6 +870,13 @@ augligus
 	1
 
 
+augúchop
+
+	1 VD1689_94 Mac 3:21
+	-----
+	1
+
+
 aug§tahm
 
 	1 VD1689_94 Mac 12:5
@@ -866,13 +901,6 @@ aug§ts
 aug§tu
 
 	1 VD1689_94 Mac 5:7
-	-----
-	1
-
-
-augúchop
-
-	1 VD1689_94 Mac 3:21
 	-----
 	1
 
@@ -932,34 +960,6 @@ azzis
 	4
 
 
-a§oti^
-
-	1 VD1689_94 Mac 7:10
-	-----
-	1
-
-
-a§toòeem
-
-	1 VD1689_94 Mac 11:2
-	-----
-	1
-
-
-aúmins
-
-	1 VD1689_94 Mac 10:10
-	-----
-	1
-
-
-aúúaras
-
-	1 VD1689_94 Mac 4:1
-	-----
-	1
-
-
 baggata
 
 	1 VD1689_94 Mac 5:11
@@ -1013,6 +1013,13 @@ bailoúees
 	1
 
 
+balíi
+
+	1 VD1689_94 Mac 10:18
+	-----
+	1
+
+
 balkúne
 
 	1 VD1689_94 Mac 5:2
@@ -1027,23 +1034,16 @@ balkúni
 	1
 
 
-baltas
-
-	1 VD1689_94 Mac 9:8
-	-----
-	1
-
-
-balíi
-
-	1 VD1689_94 Mac 10:18
-	-----
-	1
-
-
 balúi
 
 	1 VD1689_94 Mac 12:4
+	-----
+	1
+
+
+baltas
+
+	1 VD1689_94 Mac 9:8
 	-----
 	1
 
@@ -1286,14 +1286,6 @@ bet
 	34
 
 
-bihtees
-
-	1 VD1689_94 Mac 3:14
-	2 VD1689_94 Mac 12:0
-	-----
-	3
-
-
 bih§tahs
 
 	1 VD1689_94 Mac 7:19
@@ -1311,6 +1303,14 @@ bih§tees
 	1 VD1689_94 Mac 12:13
 	-----
 	2
+
+
+bihtees
+
+	1 VD1689_94 Mac 3:14
+	2 VD1689_94 Mac 12:0
+	-----
+	3
 
 
 bij
@@ -1476,28 +1476,6 @@ buhs
 	29
 
 
-buht
-
-	1 VD1689_94 Mac 3:5
-	1 VD1689_94 Mac 8:0
-	5 VD1689_94 Mac 9:11
-	1 VD1689_94 Mac 11:0
-	-----
-	8
-
-
-buhtu
-
-	1 VD1689_94 Mac 2:3
-	1 VD1689_94 Mac 6:3
-	1 VD1689_94 Mac 7:21
-	1 VD1689_94 Mac 8:8
-	2 VD1689_94 Mac 8:14
-	1 VD1689_94 Mac 11:6
-	-----
-	7
-
-
 buhúchana
 
 	1 VD1689_94 Mac 10:5
@@ -1518,6 +1496,28 @@ buhúchanu
 	1 VD1689_94 Mac 7:26
 	-----
 	1
+
+
+buht
+
+	1 VD1689_94 Mac 3:5
+	1 VD1689_94 Mac 8:0
+	5 VD1689_94 Mac 9:11
+	1 VD1689_94 Mac 11:0
+	-----
+	8
+
+
+buhtu
+
+	1 VD1689_94 Mac 2:3
+	1 VD1689_94 Mac 6:3
+	1 VD1689_94 Mac 7:21
+	1 VD1689_94 Mac 8:8
+	2 VD1689_94 Mac 8:14
+	1 VD1689_94 Mac 11:6
+	-----
+	7
 
 
 bulweríus
@@ -1594,6 +1594,31 @@ dahwanu
 dahwida
 
 	1 VD1689_94 Mac 1:1
+	-----
+	1
+
+
+daïïa
+
+	1 VD1689_94 Mac 2:10
+	1 VD1689_94 Mac 2:21
+	1 VD1689_94 Mac 3:22
+	1 VD1689_94 Mac 5:17
+	1 VD1689_94 Mac 9:9
+	-----
+	5
+
+
+daïïas
+
+	1 VD1689_94 Mac 9:6
+	-----
+	1
+
+
+daïïu
+
+	1 VD1689_94 Mac 5:18
 	-----
 	1
 
@@ -1779,15 +1804,6 @@ darrijs
 	4
 
 
-darriju
-
-	1 VD1689_94 Mac 2:4
-	1 VD1689_94 Mac 2:5
-	1 VD1689_94 Mac 2:6
-	-----
-	3
-
-
 darrijúchas
 
 	1 VD1689_94 Mac 2:11
@@ -1799,6 +1815,23 @@ darrijúchi
 
 	1 VD1689_94 Mac 8:10
 	1 VD1689_94 Mac 9:5
+	-----
+	2
+
+
+darriju
+
+	1 VD1689_94 Mac 2:4
+	1 VD1689_94 Mac 2:5
+	1 VD1689_94 Mac 2:6
+	-----
+	3
+
+
+darriúchanas
+
+	1 VD1689_94 Mac 2:0
+	1 VD1689_94 Mac 12:12
 	-----
 	2
 
@@ -1820,43 +1853,6 @@ darritas
 darritu
 
 	1 VD1689_94 Mac 7:21
-	-----
-	1
-
-
-darriúchanas
-
-	1 VD1689_94 Mac 2:0
-	1 VD1689_94 Mac 12:12
-	-----
-	2
-
-
-daud§
-
-	1 VD1689_94 Mac 1:16
-	2 VD1689_94 Mac 1:18
-	2 VD1689_94 Mac 5:6
-	1 VD1689_94 Mac 5:11
-	1 VD1689_94 Mac 5:19
-	1 VD1689_94 Mac 6:1
-	1 VD1689_94 Mac 6:3
-	1 VD1689_94 Mac 6:11
-	1 VD1689_94 Mac 7:30
-	1 VD1689_94 Mac 8:6
-	1 VD1689_94 Mac 9:14
-	1 VD1689_94 Mac 9:18
-	1 VD1689_94 Mac 10:14
-	2 VD1689_94 Mac 11:8
-	1 VD1689_94 Mac 12:9
-	2 VD1689_94 Mac 12:12
-	-----
-	20
-
-
-daud§ina
-
-	1 VD1689_94 Mac 6:0
 	-----
 	1
 
@@ -1887,27 +1883,31 @@ da§chkahrt
 	4
 
 
-daïïa
+daud§
 
-	1 VD1689_94 Mac 2:10
-	1 VD1689_94 Mac 2:21
-	1 VD1689_94 Mac 3:22
-	1 VD1689_94 Mac 5:17
-	1 VD1689_94 Mac 9:9
+	1 VD1689_94 Mac 1:16
+	2 VD1689_94 Mac 1:18
+	2 VD1689_94 Mac 5:6
+	1 VD1689_94 Mac 5:11
+	1 VD1689_94 Mac 5:19
+	1 VD1689_94 Mac 6:1
+	1 VD1689_94 Mac 6:3
+	1 VD1689_94 Mac 6:11
+	1 VD1689_94 Mac 7:30
+	1 VD1689_94 Mac 8:6
+	1 VD1689_94 Mac 9:14
+	1 VD1689_94 Mac 9:18
+	1 VD1689_94 Mac 10:14
+	2 VD1689_94 Mac 11:8
+	1 VD1689_94 Mac 12:9
+	2 VD1689_94 Mac 12:12
 	-----
-	5
+	20
 
 
-daïïas
+daud§ina
 
-	1 VD1689_94 Mac 9:6
-	-----
-	1
-
-
-daïïu
-
-	1 VD1689_94 Mac 5:18
+	1 VD1689_94 Mac 6:0
 	-----
 	1
 
@@ -2068,6 +2068,13 @@ deewu
 	8
 
 
+dehï
+
+	1 VD1689_94 Mac 11:9
+	-----
+	1
+
+
 dehla
 
 	1 VD1689_94 Mac 1:1
@@ -2106,16 +2113,16 @@ deh§titu
 	1
 
 
-dehï
+derretu
 
-	1 VD1689_94 Mac 11:9
+	1 VD1689_94 Mac 4:0
 	-----
 	1
 
 
-derretu
+deúmits
 
-	1 VD1689_94 Mac 4:0
+	1 VD1689_94 Mac 7:20
 	-----
 	1
 
@@ -2135,13 +2142,6 @@ dewis
 	1 VD1689_94 Mac 12:7
 	-----
 	4
-
-
-deúmits
-
-	1 VD1689_94 Mac 7:20
-	-----
-	1
 
 
 dihíus
@@ -2240,87 +2240,6 @@ drih§
 	1
 
 
-durwis
-
-	1 VD1689_94 Mac 12:4
-	-----
-	1
-
-
-duúmiba
-
-	1 VD1689_94 Mac 7:10
-	1 VD1689_94 Mac 10:4
-	-----
-	2
-
-
-duúmot
-
-	1 VD1689_94 Mac 7:10
-	-----
-	1
-
-
-duús
-
-	1 VD1689_94 Mac 2:23
-	1 VD1689_94 Mac 7:10
-	-----
-	2
-
-
-duúúeúchanas
-
-	1 VD1689_94 Mac 6:5
-	-----
-	1
-
-
-dwaúcha
-
-	1 VD1689_94 Mac 3:19
-	-----
-	1
-
-
-dwaúchu
-
-	2 VD1689_94 Mac 3:21
-	-----
-	2
-
-
-dwehúele
-
-	1 VD1689_94 Mac 6:3
-	1 VD1689_94 Mac 7:29
-	-----
-	2
-
-
-dwehúelei
-
-	1 VD1689_94 Mac 2:24
-	1 VD1689_94 Mac 4:8
-	-----
-	2
-
-
-dwehúeles=nomohziúchana
-
-	1 VD1689_94 Mac 2:11
-	-----
-	1
-
-
-dwehúeles=wahrd§inaúchana
-
-	1 VD1689_94 Mac 4:4
-	-----
-	1
-
-
 d§eedatajas
 
 	1 VD1689_94 Mac 2:8
@@ -2386,14 +2305,6 @@ d§ennuïi
 	1
 
 
-d§ert
-
-	1 VD1689_94 Mac 5:17
-	1 VD1689_94 Mac 8:15
-	-----
-	2
-
-
 d§eºº
 
 	1 VD1689_94 Mac 2:24
@@ -2401,6 +2312,14 @@ d§eºº
 	1 VD1689_94 Mac 9:7
 	-----
 	3
+
+
+d§ert
+
+	1 VD1689_94 Mac 5:17
+	1 VD1689_94 Mac 8:15
+	-----
+	2
 
 
 d§ihres
@@ -2485,14 +2404,6 @@ d§ihwohs
 	1
 
 
-d§ihwotu
-
-	1 VD1689_94 Mac 6:3
-	1 VD1689_94 Mac 6:6
-	-----
-	2
-
-
 d§ihwoúchana
 
 	1 VD1689_94 Mac 9:9
@@ -2522,6 +2433,14 @@ d§ihwoúchanu
 	1
 
 
+d§ihwotu
+
+	1 VD1689_94 Mac 6:3
+	1 VD1689_94 Mac 6:6
+	-----
+	2
+
+
 d§ihws
 
 	1 VD1689_94 Mac 9:3
@@ -2536,6 +2455,13 @@ d§ihwus
 	1 VD1689_94 Mac 10:19
 	-----
 	3
+
+
+d§iïúch
+
+	1 VD1689_94 Mac 7:25
+	-----
+	1
 
 
 d§immis
@@ -2574,9 +2500,83 @@ d§irdoht
 	1
 
 
-d§iïúch
+durwis
 
-	1 VD1689_94 Mac 7:25
+	1 VD1689_94 Mac 12:4
+	-----
+	1
+
+
+duúmiba
+
+	1 VD1689_94 Mac 7:10
+	1 VD1689_94 Mac 10:4
+	-----
+	2
+
+
+duúmot
+
+	1 VD1689_94 Mac 7:10
+	-----
+	1
+
+
+duús
+
+	1 VD1689_94 Mac 2:23
+	1 VD1689_94 Mac 7:10
+	-----
+	2
+
+
+duúúeúchanas
+
+	1 VD1689_94 Mac 6:5
+	-----
+	1
+
+
+dwaúcha
+
+	1 VD1689_94 Mac 3:19
+	-----
+	1
+
+
+dwaúchu
+
+	2 VD1689_94 Mac 3:21
+	-----
+	2
+
+
+dwehúele
+
+	1 VD1689_94 Mac 6:3
+	1 VD1689_94 Mac 7:29
+	-----
+	2
+
+
+dwehúelei
+
+	1 VD1689_94 Mac 2:24
+	1 VD1689_94 Mac 4:8
+	-----
+	2
+
+
+dwehúeles=nomohziúchana
+
+	1 VD1689_94 Mac 2:11
+	-----
+	1
+
+
+dwehúeles=wahrd§inaúchana
+
+	1 VD1689_94 Mac 4:4
 	-----
 	1
 
@@ -2602,16 +2602,16 @@ eed§ehluúi
 	1
 
 
-eed§els
+eed§eïï
 
-	1 VD1689_94 Mac 10:8
+	1 VD1689_94 Mac 10:11
 	-----
 	1
 
 
-eed§eïï
+eed§els
 
-	1 VD1689_94 Mac 10:11
+	1 VD1689_94 Mac 10:8
 	-----
 	1
 
@@ -2747,6 +2747,28 @@ ees
 	1
 
 
+eeúahkums
+
+	1 VD1689_94 Mac 7:9
+	1 VD1689_94 Mac 10:13
+	-----
+	2
+
+
+eeúakuma
+
+	1 VD1689_94 Mac 3:11
+	-----
+	1
+
+
+eeúi§ti
+
+	1 VD1689_94 Mac 12:11
+	-----
+	1
+
+
 eet
 
 	1 VD1689_94 Mac 1:6
@@ -2780,28 +2802,6 @@ eetih§titi
 eezehlu
 
 	1 VD1689_94 Mac 2:8
-	-----
-	1
-
-
-eeúahkums
-
-	1 VD1689_94 Mac 7:9
-	1 VD1689_94 Mac 10:13
-	-----
-	2
-
-
-eeúakuma
-
-	1 VD1689_94 Mac 3:11
-	-----
-	1
-
-
-eeúi§ti
-
-	1 VD1689_94 Mac 12:11
 	-----
 	1
 
@@ -2863,6 +2863,21 @@ eh§t
 eij
 
 	1 VD1689_94 Mac 9:7
+	-----
+	1
+
+
+eïje
+
+	1 VD1689_94 Mac 7:2
+	1 VD1689_94 Mac 9:8
+	-----
+	2
+
+
+eòìeïa
+
+	1 VD1689_94 Mac 5:5
 	-----
 	1
 
@@ -2939,21 +2954,6 @@ es
 e§cha^s
 
 	1 VD1689_94 Mac 1:6
-	-----
-	1
-
-
-eïje
-
-	1 VD1689_94 Mac 7:2
-	1 VD1689_94 Mac 9:8
-	-----
-	2
-
-
-eòìeïa
-
-	1 VD1689_94 Mac 5:5
 	-----
 	1
 
@@ -3150,6 +3150,90 @@ gars
 	1
 
 
+ìeíía
+
+	1 VD1689_94 Mac 2:17
+	1 VD1689_94 Mac 5:2
+	1 VD1689_94 Mac 7:6
+	1 VD1689_94 Mac 7:7
+	1 VD1689_94 Mac 10:2
+	1 VD1689_94 Mac 10:12
+	-----
+	6
+
+
+ìeííam
+
+	1 VD1689_94 Mac 2:15
+	1 VD1689_94 Mac 6:8
+	-----
+	2
+
+
+ìeííeem
+
+	1 VD1689_94 Mac 4:17
+	1 VD1689_94 Mac 5:3
+	1 VD1689_94 Mac 9:17
+	-----
+	3
+
+
+ìeííiba
+
+	1 VD1689_94 Mac 10:13
+	-----
+	1
+
+
+ìeííibas
+
+	1 VD1689_94 Mac 10:1
+	-----
+	1
+
+
+ìeííibu
+
+	1 VD1689_94 Mac 1:17
+	1 VD1689_94 Mac 2:3
+	1 VD1689_94 Mac 2:12
+	1 VD1689_94 Mac 2:13
+	1 VD1689_94 Mac 7:26
+	-----
+	5
+
+
+ìeííigs
+
+	1 VD1689_94 Mac 7:18
+	-----
+	1
+
+
+ìeííis
+
+	1 VD1689_94 Mac 2:14
+	1 VD1689_94 Mac 2:17
+	1 VD1689_94 Mac 2:19
+	1 VD1689_94 Mac 4:5
+	1 VD1689_94 Mac 4:13
+	2 VD1689_94 Mac 10:3
+	1 VD1689_94 Mac 10:6
+	1 VD1689_94 Mac 10:14
+	-----
+	9
+
+
+ìeííu
+
+	1 VD1689_94 Mac 7:5
+	1 VD1689_94 Mac 7:10
+	1 VD1689_94 Mac 10:15
+	-----
+	3
+
+
 glabbaht
 
 	1 VD1689_94 Mac 3:6
@@ -3157,16 +3241,16 @@ glabbaht
 	1
 
 
-gohda=gribbetaji
+gohda^
 
-	1 VD1689_94 Mac 6:0
+	1 VD1689_94 Mac 10:6
 	-----
 	1
 
 
-gohda^
+gohda=gribbetaji
 
-	1 VD1689_94 Mac 10:6
+	1 VD1689_94 Mac 6:0
 	-----
 	1
 
@@ -3279,6 +3363,75 @@ gribbi
 	1 VD1689_94 Mac 7:18
 	-----
 	2
+
+
+gºuhta
+
+	1 VD1689_94 Mac 1:3
+	-----
+	1
+
+
+gºuhtahm
+
+	1 VD1689_94 Mac 5:13
+	-----
+	1
+
+
+gºuhtas
+
+	1 VD1689_94 Mac 1:8
+	1 VD1689_94 Mac 11:5
+	-----
+	2
+
+
+gºuhteem
+
+	1 VD1689_94 Mac 9:5
+	-----
+	1
+
+
+gºuhti
+
+	1 VD1689_94 Mac 2:11
+	-----
+	1
+
+
+gºuhtibas
+
+	1 VD1689_94 Mac 1:18
+	-----
+	1
+
+
+gºuhtu
+
+	1 VD1689_94 Mac 1:13
+	-----
+	1
+
+
+gºuhtums
+
+	1 VD1689_94 Mac 4:8
+	-----
+	1
+
+
+gºuhtumu
+
+	1 VD1689_94 Mac 2:26
+	1 VD1689_94 Mac 3:10
+	1 VD1689_94 Mac 4:6
+	1 VD1689_94 Mac 5:19
+	1 VD1689_94 Mac 8:16
+	1 VD1689_94 Mac 12:0
+	-----
+	6
 
 
 gudra
@@ -3394,13 +3547,6 @@ gudru
 	5
 
 
-gullama^
-
-	1 VD1689_94 Mac 10:20
-	-----
-	1
-
-
 guïï
 
 	1 VD1689_94 Mac 4:11
@@ -3408,73 +3554,11 @@ guïï
 	1
 
 
-gºuhta
+gullama^
 
-	1 VD1689_94 Mac 1:3
+	1 VD1689_94 Mac 10:20
 	-----
 	1
-
-
-gºuhtahm
-
-	1 VD1689_94 Mac 5:13
-	-----
-	1
-
-
-gºuhtas
-
-	1 VD1689_94 Mac 1:8
-	1 VD1689_94 Mac 11:5
-	-----
-	2
-
-
-gºuhteem
-
-	1 VD1689_94 Mac 9:5
-	-----
-	1
-
-
-gºuhti
-
-	1 VD1689_94 Mac 2:11
-	-----
-	1
-
-
-gºuhtibas
-
-	1 VD1689_94 Mac 1:18
-	-----
-	1
-
-
-gºuhtu
-
-	1 VD1689_94 Mac 1:13
-	-----
-	1
-
-
-gºuhtums
-
-	1 VD1689_94 Mac 4:8
-	-----
-	1
-
-
-gºuhtumu
-
-	1 VD1689_94 Mac 2:26
-	1 VD1689_94 Mac 3:10
-	1 VD1689_94 Mac 4:6
-	1 VD1689_94 Mac 5:19
-	1 VD1689_94 Mac 8:16
-	1 VD1689_94 Mac 12:0
-	-----
-	6
 
 
 ih§ta^
@@ -3749,14 +3833,14 @@ isdohmaúchana
 	1
 
 
-isdohtohs
+isdohúees
 
 	1 VD1689_94 Mac 11:6
 	-----
 	1
 
 
-isdohúees
+isdohtohs
 
 	1 VD1689_94 Mac 11:6
 	-----
@@ -3841,6 +3925,13 @@ ispra§t
 	2
 
 
+i§rae#lu
+
+	1 VD1689_94 Mac 1:12
+	-----
+	1
+
+
 israweht
 
 	1 VD1689_94 Mac 3:2
@@ -3854,6 +3945,20 @@ isrunnaht
 	1 VD1689_94 Mac 5:1
 	-----
 	2
+
+
+is§pruhk
+
+	1 VD1689_94 Mac 7:19
+	-----
+	1
+
+
+is§tah§tiúchanu
+
+	1 VD1689_94 Mac 8:1
+	-----
+	1
 
 
 iswaizaht
@@ -3877,20 +3982,6 @@ iswaizatu
 	1
 
 
-is§pruhk
-
-	1 VD1689_94 Mac 7:19
-	-----
-	1
-
-
-is§tah§tiúchanu
-
-	1 VD1689_94 Mac 8:1
-	-----
-	1
-
-
 itt
 
 	1 VD1689_94 Mac 2:13
@@ -3901,13 +3992,6 @@ itt
 	1 VD1689_94 Mac 12:7
 	-----
 	7
-
-
-i§rae#lu
-
-	1 VD1689_94 Mac 1:12
-	-----
-	1
 
 
 ja
@@ -4524,6 +4608,34 @@ kappa^
 	1
 
 
+kaººa
+
+	1 VD1689_94 Mac 9:18
+	-----
+	1
+
+
+kaººa^
+
+	1 VD1689_94 Mac 8:8
+	-----
+	1
+
+
+kaººam
+
+	1 VD1689_94 Mac 3:8
+	-----
+	1
+
+
+kaººoúchanas
+
+	1 VD1689_94 Mac 9:11
+	-----
+	1
+
+
 kas
 
 	2 VD1689_94 Mac 1:9
@@ -4643,32 +4755,42 @@ kawejees
 	1
 
 
-kaººa
+íehniòa
 
-	1 VD1689_94 Mac 9:18
+	1 VD1689_94 Mac 1:1
+	2 VD1689_94 Mac 8:2
+	1 VD1689_94 Mac 8:4
 	-----
-	1
+	4
 
 
-kaººa^
+íehniòam
 
-	1 VD1689_94 Mac 8:8
+	2 VD1689_94 Mac 5:8
 	-----
-	1
+	2
 
 
-kaººam
+íehniò§ch
 
-	1 VD1689_94 Mac 3:8
+	1 VD1689_94 Mac 1:12
+	1 VD1689_94 Mac 4:13
+	1 VD1689_94 Mac 9:14
+	1 VD1689_94 Mac 10:16
+	1 VD1689_94 Mac 10:17
 	-----
-	1
+	5
 
 
-kaººoúchanas
+íehniòu
 
-	1 VD1689_94 Mac 9:11
+	1 VD1689_94 Mac 2:8
+	1 VD1689_94 Mac 2:12
+	1 VD1689_94 Mac 4:0
+	1 VD1689_94 Mac 4:14
+	1 VD1689_94 Mac 10:20
 	-----
-	1
+	5
 
 
 klahjahs
@@ -4686,20 +4808,6 @@ klahjahs
 klahjjahs
 
 	1 VD1689_94 Mac 2:14
-	-----
-	1
-
-
-klaht
-
-	1 VD1689_94 Mac 7:15
-	-----
-	1
-
-
-klahtees
-
-	1 VD1689_94 Mac 2:15
 	-----
 	1
 
@@ -4724,6 +4832,20 @@ klahúees
 	1 VD1689_94 Mac 8:13
 	-----
 	2
+
+
+klaht
+
+	1 VD1689_94 Mac 7:15
+	-----
+	1
+
+
+klahtees
+
+	1 VD1689_94 Mac 2:15
+	-----
+	1
 
 
 klauúa
@@ -5193,13 +5315,6 @@ lammaúchanu
 	1
 
 
-lauwa
-
-	1 VD1689_94 Mac 9:3
-	-----
-	1
-
-
 laúúiht
 
 	1 VD1689_94 Mac 3:5
@@ -5210,6 +5325,108 @@ laúúiht
 laúúiúchanas
 
 	1 VD1689_94 Mac 12:12
+	-----
+	1
+
+
+ïaudis
+
+	1 VD1689_94 Mac 12:9
+	-----
+	1
+
+
+ïauna
+
+	1 VD1689_94 Mac 2:21
+	1 VD1689_94 Mac 5:12
+	1 VD1689_94 Mac 5:15
+	1 VD1689_94 Mac 6:1
+	1 VD1689_94 Mac 6:2
+	1 VD1689_94 Mac 8:3
+	1 VD1689_94 Mac 9:3
+	-----
+	7
+
+
+ïaunas
+
+	1 VD1689_94 Mac 12:1
+	-----
+	1
+
+
+ïauni
+
+	1 VD1689_94 Mac 3:0
+	-----
+	1
+
+
+ïauno
+
+	1 VD1689_94 Mac 11:0
+	-----
+	1
+
+
+ïauns
+
+	1 VD1689_94 Mac 4:8
+	1 VD1689_94 Mac 12:14
+	-----
+	2
+
+
+ïaunu
+
+	1 VD1689_94 Mac 2:17
+	1 VD1689_94 Mac 4:17
+	1 VD1689_94 Mac 5:12
+	1 VD1689_94 Mac 7:15
+	1 VD1689_94 Mac 8:5
+	1 VD1689_94 Mac 8:9
+	2 VD1689_94 Mac 8:11
+	1 VD1689_94 Mac 8:12
+	1 VD1689_94 Mac 9:12
+	1 VD1689_94 Mac 10:1
+	-----
+	11
+
+
+ïaunuma
+
+	1 VD1689_94 Mac 8:6
+	-----
+	1
+
+
+ïaunums
+
+	1 VD1689_94 Mac 10:5
+	1 VD1689_94 Mac 11:2
+	-----
+	2
+
+
+ïaunumu
+
+	1 VD1689_94 Mac 11:10
+	-----
+	1
+
+
+ïau§chu
+
+	1 VD1689_94 Mac 4:16
+	1 VD1689_94 Mac 9:14
+	-----
+	2
+
+
+lauwa
+
+	1 VD1689_94 Mac 9:3
 	-----
 	1
 
@@ -5466,16 +5683,16 @@ lihku
 	2
 
 
-likt
+lik§ta^
 
-	1 VD1689_94 Mac 5:0
+	1 VD1689_94 Mac 10:9
 	-----
 	1
 
 
-lik§ta^
+likt
 
-	1 VD1689_94 Mac 10:9
+	1 VD1689_94 Mac 5:0
 	-----
 	1
 
@@ -5529,6 +5746,13 @@ lohpu
 	1
 
 
+ïohti
+
+	1 VD1689_94 Mac 7:25
+	-----
+	1
+
+
 lohziúees
 
 	1 VD1689_94 Mac 12:3
@@ -5546,6 +5770,13 @@ luhgt
 luhpas
 
 	1 VD1689_94 Mac 10:12
+	-----
+	1
+
+
+maì
+
+	1 VD1689_94 Mac 5:11
 	-----
 	1
 
@@ -5626,13 +5857,6 @@ mahzitajs
 	6
 
 
-maita
-
-	1 VD1689_94 Mac 10:1
-	-----
-	1
-
-
 mai§es
 
 	1 VD1689_94 Mac 9:11
@@ -5646,6 +5870,20 @@ mai§i
 	1 VD1689_94 Mac 11:1
 	-----
 	2
+
+
+maita
+
+	1 VD1689_94 Mac 10:1
+	-----
+	1
+
+
+maííeniht
+
+	1 VD1689_94 Mac 10:1
+	-----
+	1
 
 
 makúa
@@ -5672,16 +5910,16 @@ malku
 	1
 
 
-malteneeki
+malúchanas
 
-	1 VD1689_94 Mac 12:3
+	1 VD1689_94 Mac 12:4
 	-----
 	1
 
 
-malúchanas
+malteneeki
 
-	1 VD1689_94 Mac 12:4
+	1 VD1689_94 Mac 12:3
 	-----
 	1
 
@@ -5826,20 +6064,6 @@ ma§s
 	1
 
 
-maì
-
-	1 VD1689_94 Mac 5:11
-	-----
-	1
-
-
-maííeniht
-
-	1 VD1689_94 Mac 10:1
-	-----
-	1
-
-
 meegs
 
 	1 VD1689_94 Mac 5:11
@@ -5951,16 +6175,16 @@ mekleja
 	1
 
 
-mekletu
+mekleúchanas
 
-	1 VD1689_94 Mac 7:26
+	1 VD1689_94 Mac 9:11
 	-----
 	1
 
 
-mekleúchanas
+mekletu
 
-	1 VD1689_94 Mac 9:11
+	1 VD1689_94 Mac 7:26
 	-----
 	1
 
@@ -6022,17 +6246,17 @@ mirroúchus
 	1
 
 
-mir§t
-
-	2 VD1689_94 Mac 3:19
-	-----
-	2
-
-
 mirúchanas
 
 	1 VD1689_94 Mac 7:2
 	1 VD1689_94 Mac 8:8
+	-----
+	2
+
+
+mir§t
+
+	2 VD1689_94 Mac 3:19
 	-----
 	2
 
@@ -6099,6 +6323,13 @@ mums
 	2
 
 
+muúchas
+
+	1 VD1689_94 Mac 10:1
+	-----
+	1
+
+
 muttei
 
 	1 VD1689_94 Mac 5:5
@@ -6118,13 +6349,6 @@ muttes
 mutti
 
 	1 VD1689_94 Mac 5:1
-	-----
-	1
-
-
-muúchas
-
-	1 VD1689_94 Mac 10:1
 	-----
 	1
 
@@ -6264,16 +6488,16 @@ nahzis
 	1
 
 
-nakti^
+nakti`
 
-	1 VD1689_94 Mac 2:23
+	1 VD1689_94 Mac 8:16
 	-----
 	1
 
 
-nakti`
+nakti^
 
-	1 VD1689_94 Mac 8:16
+	1 VD1689_94 Mac 2:23
 	-----
 	1
 
@@ -6306,6 +6530,13 @@ nams
 	1
 
 
+na§tu
+
+	1 VD1689_94 Mac 12:5
+	-----
+	1
+
+
 nauda
 
 	1 VD1689_94 Mac 10:19
@@ -6331,13 +6562,6 @@ naudas=gribbetaji{naudas=}
 naudu
 
 	1 VD1689_94 Mac 5:9
-	-----
-	1
-
-
-na§tu
-
-	1 VD1689_94 Mac 12:5
 	-----
 	1
 
@@ -6460,6 +6684,14 @@ negauúcham
 	1
 
 
+neììi
+
+	1 VD1689_94 Mac 2:24
+	1 VD1689_94 Mac 6:6
+	-----
+	2
+
+
 nei
 
 	2 VD1689_94 Mac 8:16
@@ -6479,14 +6711,6 @@ neka
 
 	1 VD1689_94 Mac 6:5
 	1 VD1689_94 Mac 10:11
-	-----
-	2
-
-
-neka^
-
-	1 VD1689_94 Mac 2:13
-	1 VD1689_94 Mac 6:3
 	-----
 	2
 
@@ -6525,6 +6749,14 @@ neka`
 	30
 
 
+neka^
+
+	1 VD1689_94 Mac 2:13
+	1 VD1689_94 Mac 6:3
+	-----
+	2
+
+
 nelabbi
 
 	1 VD1689_94 Mac 8:13
@@ -6539,16 +6771,16 @@ nelaika
 	1
 
 
-nelaika^
+nelaika`
 
-	1 VD1689_94 Mac 7:18
+	1 VD1689_94 Mac 6:4
 	-----
 	1
 
 
-nelaika`
+nelaika^
 
-	1 VD1689_94 Mac 6:4
+	1 VD1689_94 Mac 7:18
 	-----
 	1
 
@@ -6647,6 +6879,20 @@ nelihd§enas
 	1
 
 
+òem
+
+	1 VD1689_94 Mac 7:15
+	-----
+	1
+
+
+òems
+
+	1 VD1689_94 Mac 5:14
+	-----
+	1
+
+
 neneeka
 
 	1 VD1689_94 Mac 1:0
@@ -6659,6 +6905,34 @@ neneeka
 nepateeúi
 
 	1 VD1689_94 Mac 5:0
+	-----
+	1
+
+
+neúapraúcha
+
+	1 VD1689_94 Mac 4:0
+	-----
+	1
+
+
+neúchíihk§tam
+
+	1 VD1689_94 Mac 9:2
+	-----
+	1
+
+
+ne§inni
+
+	1 VD1689_94 Mac 11:5
+	-----
+	1
+
+
+ne§ta
+
+	1 VD1689_94 Mac 8:11
 	-----
 	1
 
@@ -6685,42 +6959,6 @@ neweens
 	1 VD1689_94 Mac 9:15
 	-----
 	2
-
-
-ne§inni
-
-	1 VD1689_94 Mac 11:5
-	-----
-	1
-
-
-ne§ta
-
-	1 VD1689_94 Mac 8:11
-	-----
-	1
-
-
-neììi
-
-	1 VD1689_94 Mac 2:24
-	1 VD1689_94 Mac 6:6
-	-----
-	2
-
-
-neúapraúcha
-
-	1 VD1689_94 Mac 4:0
-	-----
-	1
-
-
-neúchíihk§tam
-
-	1 VD1689_94 Mac 9:2
-	-----
-	1
 
 
 nihdeúchana
@@ -6900,6 +7138,13 @@ nomirruúchi
 	2
 
 
+nomir§t
+
+	1 VD1689_94 Mac 2:17
+	-----
+	1
+
+
 nomirt
 
 	1 VD1689_94 Mac 3:2
@@ -6908,16 +7153,37 @@ nomirt
 	2
 
 
-nomir§t
+noproht
 
-	1 VD1689_94 Mac 2:17
+	1 VD1689_94 Mac 8:5
 	-----
 	1
 
 
-noproht
+noúaukts
 
-	1 VD1689_94 Mac 8:5
+	1 VD1689_94 Mac 6:10
+	-----
+	1
+
+
+no§kumúchana
+
+	1 VD1689_94 Mac 7:4
+	-----
+	1
+
+
+no§kumúchanu
+
+	1 VD1689_94 Mac 7:4
+	-----
+	1
+
+
+no§t
+
+	1 VD1689_94 Mac 7:25
 	-----
 	1
 
@@ -6982,34 +7248,6 @@ notwerti
 noweïï
 
 	1 VD1689_94 Mac 10:9
-	-----
-	1
-
-
-no§kumúchana
-
-	1 VD1689_94 Mac 7:4
-	-----
-	1
-
-
-no§kumúchanu
-
-	1 VD1689_94 Mac 7:4
-	-----
-	1
-
-
-no§t
-
-	1 VD1689_94 Mac 7:25
-	-----
-	1
-
-
-noúaukts
-
-	1 VD1689_94 Mac 6:10
 	-----
 	1
 
@@ -7210,6 +7448,13 @@ paklauúiht
 	2
 
 
+païautees
+
+	1 VD1689_94 Mac 1:0
+	-----
+	1
+
+
 paleek
 
 	1 VD1689_94 Mac 3:14
@@ -7336,6 +7581,119 @@ parei§i
 	5
 
 
+paúaule^
+
+	1 VD1689_94 Mac 1:0
+	1 VD1689_94 Mac 9:5
+	-----
+	2
+
+
+paúaules
+
+	1 VD1689_94 Mac 3:11
+	-----
+	1
+
+
+paúauligas
+
+	1 VD1689_94 Mac 3:0
+	-----
+	1
+
+
+paúcha
+
+	1 VD1689_94 Mac 7:27
+	-----
+	1
+
+
+paúcham
+
+	2 VD1689_94 Mac 5:8
+	1 VD1689_94 Mac 12:5
+	-----
+	3
+
+
+paúcheem
+
+	1 VD1689_94 Mac 5:12
+	1 VD1689_94 Mac 10:5
+	-----
+	2
+
+
+paúchi
+
+	1 VD1689_94 Mac 12:3
+	-----
+	1
+
+
+paúchu
+
+	1 VD1689_94 Mac 1:0
+	1 VD1689_94 Mac 2:12
+	1 VD1689_94 Mac 2:24
+	1 VD1689_94 Mac 4:5
+	1 VD1689_94 Mac 7:29
+	1 VD1689_94 Mac 9:15
+	1 VD1689_94 Mac 10:8
+	1 VD1689_94 Mac 10:12
+	-----
+	8
+
+
+pa§ih§t
+
+	1 VD1689_94 Mac 9:1
+	-----
+	1
+
+
+pa§tahw
+
+	1 VD1689_94 Mac 1:4
+	1 VD1689_94 Mac 7:16
+	-----
+	2
+
+
+pa§tahwi
+
+	1 VD1689_94 Mac 8:3
+	-----
+	1
+
+
+pa§tahwigs
+
+	1 VD1689_94 Mac 1:0
+	1 VD1689_94 Mac 3:0
+	-----
+	2
+
+
+pa§trahda
+
+	1 VD1689_94 Mac 1:3
+	1 VD1689_94 Mac 3:9
+	1 VD1689_94 Mac 9:9
+	-----
+	3
+
+
+pa§trahdajs
+
+	1 VD1689_94 Mac 2:11
+	1 VD1689_94 Mac 2:18
+	-----
+	2
+
+
 pataiúija
 
 	1 VD1689_94 Mac 12:9
@@ -7414,126 +7772,6 @@ pawehòa
 	2 VD1689_94 Mac 7:13
 	-----
 	2
-
-
-pa§ih§t
-
-	1 VD1689_94 Mac 9:1
-	-----
-	1
-
-
-pa§tahw
-
-	1 VD1689_94 Mac 1:4
-	1 VD1689_94 Mac 7:16
-	-----
-	2
-
-
-pa§tahwi
-
-	1 VD1689_94 Mac 8:3
-	-----
-	1
-
-
-pa§tahwigs
-
-	1 VD1689_94 Mac 1:0
-	1 VD1689_94 Mac 3:0
-	-----
-	2
-
-
-pa§trahda
-
-	1 VD1689_94 Mac 1:3
-	1 VD1689_94 Mac 3:9
-	1 VD1689_94 Mac 9:9
-	-----
-	3
-
-
-pa§trahdajs
-
-	1 VD1689_94 Mac 2:11
-	1 VD1689_94 Mac 2:18
-	-----
-	2
-
-
-païautees
-
-	1 VD1689_94 Mac 1:0
-	-----
-	1
-
-
-paúaule^
-
-	1 VD1689_94 Mac 1:0
-	1 VD1689_94 Mac 9:5
-	-----
-	2
-
-
-paúaules
-
-	1 VD1689_94 Mac 3:11
-	-----
-	1
-
-
-paúauligas
-
-	1 VD1689_94 Mac 3:0
-	-----
-	1
-
-
-paúcha
-
-	1 VD1689_94 Mac 7:27
-	-----
-	1
-
-
-paúcham
-
-	2 VD1689_94 Mac 5:8
-	1 VD1689_94 Mac 12:5
-	-----
-	3
-
-
-paúcheem
-
-	1 VD1689_94 Mac 5:12
-	1 VD1689_94 Mac 10:5
-	-----
-	2
-
-
-paúchi
-
-	1 VD1689_94 Mac 12:3
-	-----
-	1
-
-
-paúchu
-
-	1 VD1689_94 Mac 1:0
-	1 VD1689_94 Mac 2:12
-	1 VD1689_94 Mac 2:24
-	1 VD1689_94 Mac 4:5
-	1 VD1689_94 Mac 7:29
-	1 VD1689_94 Mac 9:15
-	1 VD1689_94 Mac 10:8
-	1 VD1689_94 Mac 10:12
-	-----
-	8
 
 
 pee
@@ -7621,16 +7859,16 @@ peeminnehts
 	1
 
 
-peeminnetas
+peeminneúchana
 
-	1 VD1689_94 Mac 1:11
+	1 VD1689_94 Mac 9:6
 	-----
 	1
 
 
-peeminneúchana
+peeminnetas
 
-	1 VD1689_94 Mac 9:6
+	1 VD1689_94 Mac 1:11
 	-----
 	1
 
@@ -7648,20 +7886,6 @@ peenahkahs
 	1 VD1689_94 Mac 12:13
 	-----
 	3
-
-
-peepeúchi
-
-	1 VD1689_94 Mac 9:12
-	-----
-	1
-
-
-peeteek
-
-	2 VD1689_94 Mac 1:8
-	-----
-	2
 
 
 peeòehmis
@@ -7690,6 +7914,20 @@ peeòemt
 	1 VD1689_94 Mac 4:13
 	-----
 	1
+
+
+peepeúchi
+
+	1 VD1689_94 Mac 9:12
+	-----
+	1
+
+
+peeteek
+
+	2 VD1689_94 Mac 1:8
+	-----
+	2
 
 
 pehdigi
@@ -7824,6 +8062,13 @@ pirms
 	4
 
 
+pïaus
+
+	1 VD1689_94 Mac 11:4
+	-----
+	1
+
+
 plihteúchanu
 
 	1 VD1689_94 Mac 10:17
@@ -7876,17 +8121,6 @@ prahtu
 	3
 
 
-preeku
-
-	1 VD1689_94 Mac 2:0
-	1 VD1689_94 Mac 2:26
-	1 VD1689_94 Mac 5:19
-	1 VD1689_94 Mac 8:15
-	1 VD1689_94 Mac 9:7
-	-----
-	5
-
-
 preekúch
 
 	1 VD1689_94 Mac 1:10
@@ -7935,6 +8169,17 @@ preekúchajo^s
 	1
 
 
+preeku
+
+	1 VD1689_94 Mac 2:0
+	1 VD1689_94 Mac 2:26
+	1 VD1689_94 Mac 5:19
+	1 VD1689_94 Mac 8:15
+	1 VD1689_94 Mac 9:7
+	-----
+	5
+
+
 preezajahs
 
 	1 VD1689_94 Mac 2:10
@@ -7951,6 +8196,13 @@ preezajees
 	1
 
 
+preezaúees
+
+	1 VD1689_94 Mac 4:16
+	-----
+	1
+
+
 preezatees
 
 	1 VD1689_94 Mac 3:12
@@ -7958,13 +8210,6 @@ preezatees
 	1 VD1689_94 Mac 8:15
 	-----
 	3
-
-
-preezaúees
-
-	1 VD1689_94 Mac 4:16
-	-----
-	1
 
 
 preeziba^
@@ -8047,13 +8292,6 @@ putni
 putniòi
 
 	1 VD1689_94 Mac 9:12
-	-----
-	1
-
-
-pïaus
-
-	1 VD1689_94 Mac 11:4
 	-----
 	1
 
@@ -8167,6 +8405,13 @@ red§ejs
 	11
 
 
+red§ejúi
+
+	1 VD1689_94 Mac 1:16
+	-----
+	1
+
+
 red§eju
 
 	1 VD1689_94 Mac 2:13
@@ -8178,13 +8423,6 @@ red§eju
 	1 VD1689_94 Mac 9:11
 	-----
 	7
-
-
-red§ejúi
-
-	1 VD1689_94 Mac 1:16
-	-----
-	1
 
 
 red§etu
@@ -8316,13 +8554,6 @@ runnaju
 	1
 
 
-runnati
-
-	1 VD1689_94 Mac 7:22
-	-----
-	1
-
-
 runnaúchanas
 
 	1 VD1689_94 Mac 5:2
@@ -8330,9 +8561,113 @@ runnaúchanas
 	1
 
 
+runnati
+
+	1 VD1689_94 Mac 7:22
+	-----
+	1
+
+
+úadohmajs
+
+	1 VD1689_94 Mac 2:19
+	-----
+	1
+
+
+úagahds
+
+	1 VD1689_94 Mac 2:7
+	-----
+	1
+
+
+úaguh§tihts
+
+	1 VD1689_94 Mac 7:27
+	-----
+	1
+
+
 sahlei
 
 	1 VD1689_94 Mac 10:1
+	-----
+	1
+
+
+úahpes
+
+	1 VD1689_94 Mac 2:23
+	1 VD1689_94 Mac 10:9
+	-----
+	2
+
+
+úaimes
+
+	1 VD1689_94 Mac 2:7
+	-----
+	1
+
+
+úaites
+
+	1 VD1689_94 Mac 7:27
+	-----
+	1
+
+
+úakka
+
+	1 VD1689_94 Mac 1:2
+	1 VD1689_94 Mac 7:28
+	1 VD1689_94 Mac 10:3
+	1 VD1689_94 Mac 12:8
+	-----
+	4
+
+
+úakkamus
+
+	1 VD1689_94 Mac 12:9
+	-----
+	1
+
+
+úakki
+
+	1 VD1689_94 Mac 5:5
+	1 VD1689_94 Mac 7:11
+	-----
+	2
+
+
+úakku
+
+	1 VD1689_94 Mac 6:3
+	1 VD1689_94 Mac 8:2
+	-----
+	2
+
+
+úakrahj
+
+	1 VD1689_94 Mac 2:26
+	-----
+	1
+
+
+úakrahju
+
+	1 VD1689_94 Mac 2:8
+	-----
+	1
+
+
+salamaòa
+
+	1 VD1689_94 Mac 12:14
 	-----
 	1
 
@@ -8355,9 +8690,81 @@ salamans
 	12
 
 
-salamaòa
+úalau§chahs
 
-	1 VD1689_94 Mac 12:14
+	1 VD1689_94 Mac 12:6
+	-----
+	1
+
+
+úalda
+
+	1 VD1689_94 Mac 7:2
+	-----
+	1
+
+
+úalds
+
+	1 VD1689_94 Mac 11:7
+	-----
+	1
+
+
+úaleek
+
+	1 VD1689_94 Mac 4:5
+	-----
+	1
+
+
+§aïïoja
+
+	1 VD1689_94 Mac 2:6
+	-----
+	1
+
+
+úamaita
+
+	1 VD1689_94 Mac 7:8
+	1 VD1689_94 Mac 9:18
+	-----
+	2
+
+
+úamanniju
+
+	1 VD1689_94 Mac 1:17
+	1 VD1689_94 Mac 3:12
+	-----
+	2
+
+
+úaplohúa
+
+	1 VD1689_94 Mac 10:8
+	-----
+	1
+
+
+úaplohúiht
+
+	1 VD1689_94 Mac 3:7
+	-----
+	1
+
+
+úapnis
+
+	1 VD1689_94 Mac 5:2
+	-----
+	1
+
+
+úapnu
+
+	1 VD1689_94 Mac 5:6
 	-----
 	1
 
@@ -8367,6 +8774,342 @@ sapnus
 	1 VD1689_94 Mac 5:0
 	-----
 	1
+
+
+úapra§tu
+
+	1 VD1689_94 Mac 9:1
+	-----
+	1
+
+
+úaprattigam
+
+	1 VD1689_94 Mac 9:11
+	-----
+	1
+
+
+úapulzina
+
+	1 VD1689_94 Mac 2:26
+	-----
+	1
+
+
+úarau§tihts
+
+	1 VD1689_94 Mac 4:12
+	-----
+	1
+
+
+úarau§tita
+
+	1 VD1689_94 Mac 12:6
+	-----
+	1
+
+
+úargajs
+
+	1 VD1689_94 Mac 12:12
+	-----
+	1
+
+
+úargata
+
+	1 VD1689_94 Mac 5:12
+	-----
+	1
+
+
+úargi
+
+	1 VD1689_94 Mac 4:17
+	2 VD1689_94 Mac 8:2
+	1 VD1689_94 Mac 12:3
+	-----
+	4
+
+
+úaúchuht
+
+	1 VD1689_94 Mac 3:7
+	-----
+	1
+
+
+úaúilditees
+
+	1 VD1689_94 Mac 4:11
+	-----
+	1
+
+
+úatwerri
+
+	1 VD1689_94 Mac 7:19
+	-----
+	1
+
+
+§audeta
+
+	1 VD1689_94 Mac 5:7
+	-----
+	1
+
+
+úauja
+
+	1 VD1689_94 Mac 4:6
+	-----
+	1
+
+
+úaujas
+
+	1 VD1689_94 Mac 4:6
+	-----
+	1
+
+
+úaule
+
+	2 VD1689_94 Mac 1:5
+	1 VD1689_94 Mac 12:2
+	-----
+	3
+
+
+úaules
+
+	1 VD1689_94 Mac 1:3
+	1 VD1689_94 Mac 1:9
+	1 VD1689_94 Mac 1:14
+	1 VD1689_94 Mac 2:11
+	1 VD1689_94 Mac 2:17
+	1 VD1689_94 Mac 2:18
+	1 VD1689_94 Mac 2:19
+	1 VD1689_94 Mac 2:20
+	1 VD1689_94 Mac 2:22
+	1 VD1689_94 Mac 3:16
+	1 VD1689_94 Mac 4:1
+	1 VD1689_94 Mac 4:3
+	1 VD1689_94 Mac 4:7
+	1 VD1689_94 Mac 4:15
+	1 VD1689_94 Mac 5:12
+	1 VD1689_94 Mac 5:17
+	1 VD1689_94 Mac 6:1
+	1 VD1689_94 Mac 7:1
+	1 VD1689_94 Mac 8:9
+	2 VD1689_94 Mac 8:15
+	1 VD1689_94 Mac 8:17
+	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:6
+	2 VD1689_94 Mac 9:9
+	1 VD1689_94 Mac 9:11
+	1 VD1689_94 Mac 9:13
+	1 VD1689_94 Mac 10:5
+	-----
+	29
+
+
+úauli
+
+	1 VD1689_94 Mac 6:5
+	1 VD1689_94 Mac 7:12
+	1 VD1689_94 Mac 11:7
+	-----
+	3
+
+
+úawa
+
+	1 VD1689_94 Mac 1:3
+	1 VD1689_94 Mac 2:21
+	1 VD1689_94 Mac 2:22
+	1 VD1689_94 Mac 2:24
+	1 VD1689_94 Mac 3:13
+	1 VD1689_94 Mac 3:17
+	1 VD1689_94 Mac 3:18
+	1 VD1689_94 Mac 3:22
+	1 VD1689_94 Mac 4:9
+	1 VD1689_94 Mac 5:0
+	1 VD1689_94 Mac 5:14
+	1 VD1689_94 Mac 5:17
+	1 VD1689_94 Mac 5:18
+	1 VD1689_94 Mac 8:15
+	-----
+	14
+
+
+úawa^
+
+	1 VD1689_94 Mac 1:13
+	1 VD1689_94 Mac 1:16
+	1 VD1689_94 Mac 1:17
+	2 VD1689_94 Mac 2:3
+	2 VD1689_94 Mac 2:15
+	1 VD1689_94 Mac 3:0
+	1 VD1689_94 Mac 3:11
+	1 VD1689_94 Mac 3:12
+	1 VD1689_94 Mac 3:18
+	1 VD1689_94 Mac 4:14
+	1 VD1689_94 Mac 7:1
+	2 VD1689_94 Mac 7:16
+	1 VD1689_94 Mac 9:1
+	-----
+	16
+
+
+úawa^s
+
+	1 VD1689_94 Mac 1:6
+	1 VD1689_94 Mac 5:16
+	-----
+	2
+
+
+úawahm
+
+	1 VD1689_94 Mac 2:0
+	1 VD1689_94 Mac 8:16
+	-----
+	2
+
+
+úawai
+
+	1 VD1689_94 Mac 2:24
+	-----
+	1
+
+
+úawajus
+
+	1 VD1689_94 Mac 8:8
+	-----
+	1
+
+
+úawas
+
+	1 VD1689_94 Mac 2:22
+	1 VD1689_94 Mac 4:5
+	1 VD1689_94 Mac 5:19
+	1 VD1689_94 Mac 6:2
+	1 VD1689_94 Mac 6:7
+	1 VD1689_94 Mac 7:3
+	1 VD1689_94 Mac 8:0
+	1 VD1689_94 Mac 12:5
+	-----
+	8
+
+
+úaweem
+
+	1 VD1689_94 Mac 9:1
+	1 VD1689_94 Mac 9:5
+	-----
+	2
+
+
+úaws
+
+	1 VD1689_94 Mac 3:0
+	2 VD1689_94 Mac 3:1
+	4 VD1689_94 Mac 3:2
+	4 VD1689_94 Mac 3:3
+	4 VD1689_94 Mac 3:4
+	4 VD1689_94 Mac 3:5
+	4 VD1689_94 Mac 3:6
+	4 VD1689_94 Mac 3:7
+	4 VD1689_94 Mac 3:8
+	1 VD1689_94 Mac 3:17
+	1 VD1689_94 Mac 8:6
+	-----
+	33
+
+
+úawu
+
+	1 VD1689_94 Mac 1:5
+	1 VD1689_94 Mac 2:1
+	1 VD1689_94 Mac 2:10
+	1 VD1689_94 Mac 2:21
+	1 VD1689_94 Mac 4:5
+	1 VD1689_94 Mac 4:10
+	1 VD1689_94 Mac 5:0
+	1 VD1689_94 Mac 5:14
+	1 VD1689_94 Mac 5:18
+	1 VD1689_94 Mac 7:19
+	1 VD1689_94 Mac 7:26
+	1 VD1689_94 Mac 9:12
+	1 VD1689_94 Mac 9:15
+	-----
+	13
+
+
+úawus
+
+	1 VD1689_94 Mac 11:0
+	-----
+	1
+
+
+úazziht
+
+	1 VD1689_94 Mac 1:10
+	1 VD1689_94 Mac 8:4
+	-----
+	2
+
+
+úazziju
+
+	1 VD1689_94 Mac 1:16
+	1 VD1689_94 Mac 2:1
+	1 VD1689_94 Mac 2:2
+	2 VD1689_94 Mac 2:15
+	1 VD1689_94 Mac 3:17
+	1 VD1689_94 Mac 3:18
+	1 VD1689_94 Mac 7:24
+	1 VD1689_94 Mac 8:14
+	1 VD1689_94 Mac 9:16
+	-----
+	10
+
+
+úazziúi
+
+	1 VD1689_94 Mac 12:1
+	-----
+	1
+
+
+úazzitu
+
+	1 VD1689_94 Mac 8:17
+	-----
+	1
+
+
+úchee
+
+	1 VD1689_94 Mac 7:11
+	-----
+	1
+
+
+úcheem
+
+	1 VD1689_94 Mac 4:1
+	1 VD1689_94 Mac 7:29
+	-----
+	2
 
 
 schehla§tibas
@@ -8383,12 +9126,140 @@ schehlotaji
 	1
 
 
+úchi
+
+	1 VD1689_94 Mac 1:10
+	1 VD1689_94 Mac 2:10
+	1 VD1689_94 Mac 5:15
+	1 VD1689_94 Mac 9:3
+	2 VD1689_94 Mac 9:9
+	-----
+	6
+
+
+úchim
+
+	1 VD1689_94 Mac 11:6
+	-----
+	1
+
+
+úchinni`
+
+	1 VD1689_94 Mac 8:8
+	1 VD1689_94 Mac 9:6
+	1 VD1689_94 Mac 9:9
+	-----
+	3
+
+
+úchinni^
+
+	1 VD1689_94 Mac 1:0
+	1 VD1689_94 Mac 7:1
+	1 VD1689_94 Mac 9:5
+	-----
+	3
+
+
+úchis
+
+	1 VD1689_94 Mac 3:19
+	1 VD1689_94 Mac 12:9
+	1 VD1689_94 Mac 12:13
+	-----
+	3
+
+
+úchíihk§tam
+
+	1 VD1689_94 Mac 9:2
+	-----
+	1
+
+
+úcho
+
+	1 VD1689_94 Mac 1:13
+	2 VD1689_94 Mac 2:17
+	1 VD1689_94 Mac 7:15
+	1 VD1689_94 Mac 7:19
+	1 VD1689_94 Mac 7:24
+	1 VD1689_94 Mac 7:28
+	1 VD1689_94 Mac 7:30
+	1 VD1689_94 Mac 8:9
+	2 VD1689_94 Mac 9:1
+	1 VD1689_94 Mac 9:9
+	1 VD1689_94 Mac 9:13
+	1 VD1689_94 Mac 11:9
+	-----
+	14
+
+
+§eedehs
+
+	1 VD1689_94 Mac 12:5
+	-----
+	1
+
+
 seemeïa=puúúi
 
 	1 VD1689_94 Mac 1:6
 	1 VD1689_94 Mac 11:3
 	-----
 	2
+
+
+úeewas
+
+	1 VD1689_94 Mac 11:5
+	-----
+	1
+
+
+úeewu
+
+	1 VD1689_94 Mac 7:27
+	1 VD1689_94 Mac 7:29
+	1 VD1689_94 Mac 9:9
+	-----
+	3
+
+
+úehji
+
+	1 VD1689_94 Mac 11:6
+	-----
+	1
+
+
+úehklu
+
+	1 VD1689_94 Mac 11:6
+	-----
+	1
+
+
+úehs
+
+	1 VD1689_94 Mac 11:4
+	-----
+	1
+
+
+úeh§ch
+
+	1 VD1689_94 Mac 10:6
+	-----
+	1
+
+
+úehtu
+
+	1 VD1689_94 Mac 10:8
+	-----
+	1
 
 
 selta
@@ -8401,6 +9272,13 @@ selta
 seltu
 
 	1 VD1689_94 Mac 2:8
+	-----
+	1
+
+
+sem~es
+
+	1 VD1689_94 Mac 5:8
 	-----
 	1
 
@@ -8433,6 +9311,13 @@ semmes
 	6
 
 
+úemmes
+
+	1 VD1689_94 Mac 5:8
+	-----
+	1
+
+
 semmi
 
 	1 VD1689_94 Mac 11:3
@@ -8440,9 +9325,108 @@ semmi
 	1
 
 
-sem~es
+§emmjop
 
-	1 VD1689_94 Mac 5:8
+	1 VD1689_94 Mac 3:21
+	-----
+	1
+
+
+úeptiòeem
+
+	1 VD1689_94 Mac 11:2
+	-----
+	1
+
+
+úew
+
+	1 VD1689_94 Mac 12:5
+	-----
+	1
+
+
+úewi
+
+	1 VD1689_94 Mac 1:0
+	-----
+	1
+
+
+úewim
+
+	1 VD1689_94 Mac 2:5
+	1 VD1689_94 Mac 2:8
+	1 VD1689_94 Mac 8:9
+	1 VD1689_94 Mac 12:0
+	-----
+	4
+
+
+úiltums
+
+	1 VD1689_94 Mac 4:11
+	-----
+	1
+
+
+úimts
+
+	1 VD1689_94 Mac 6:3
+	1 VD1689_94 Mac 8:12
+	-----
+	2
+
+
+§inn
+
+	1 VD1689_94 Mac 2:12
+	1 VD1689_94 Mac 2:19
+	-----
+	2
+
+
+§inna
+
+	1 VD1689_94 Mac 4:13
+	1 VD1689_94 Mac 4:17
+	1 VD1689_94 Mac 6:8
+	1 VD1689_94 Mac 7:1
+	1 VD1689_94 Mac 7:23
+	1 VD1689_94 Mac 8:1
+	1 VD1689_94 Mac 8:7
+	2 VD1689_94 Mac 9:5
+	1 VD1689_94 Mac 9:12
+	1 VD1689_94 Mac 10:14
+	1 VD1689_94 Mac 10:15
+	-----
+	12
+
+
+§innadans
+
+	1 VD1689_94 Mac 4:0
+	-----
+	1
+
+
+§innaht
+
+	1 VD1689_94 Mac 7:15
+	-----
+	1
+
+
+§innams
+
+	1 VD1689_94 Mac 6:10
+	-----
+	1
+
+
+§innamu
+
+	1 VD1689_94 Mac 10:20
 	-----
 	1
 
@@ -8473,9 +9457,149 @@ sinnaúchanu
 	4
 
 
+§innatu
+
+	1 VD1689_94 Mac 7:26
+	-----
+	1
+
+
+§inni
+
+	1 VD1689_94 Mac 11:2
+	1 VD1689_94 Mac 11:5
+	1 VD1689_94 Mac 11:6
+	1 VD1689_94 Mac 11:9
+	-----
+	4
+
+
+§innu
+
+	1 VD1689_94 Mac 3:14
+	1 VD1689_94 Mac 8:12
+	-----
+	2
+
+
+siòòu
+
+	1 VD1689_94 Mac 10:14
+	-----
+	1
+
+
+úirdi
+
+	1 VD1689_94 Mac 2:1
+	1 VD1689_94 Mac 2:10
+	1 VD1689_94 Mac 2:15
+	1 VD1689_94 Mac 5:19
+	1 VD1689_94 Mac 7:8
+	1 VD1689_94 Mac 7:26
+	1 VD1689_94 Mac 8:9
+	-----
+	7
+
+
+úirdi`
+
+	1 VD1689_94 Mac 3:17
+	-----
+	1
+
+
+úirdi^
+
+	1 VD1689_94 Mac 1:13
+	1 VD1689_94 Mac 1:16
+	1 VD1689_94 Mac 1:17
+	1 VD1689_94 Mac 2:3
+	1 VD1689_94 Mac 2:15
+	1 VD1689_94 Mac 3:11
+	1 VD1689_94 Mac 3:18
+	1 VD1689_94 Mac 9:1
+	1 VD1689_94 Mac 10:20
+	-----
+	9
+
+
+úirdi^s
+
+	1 VD1689_94 Mac 9:3
+	-----
+	1
+
+
+úirds
+
+	1 VD1689_94 Mac 1:16
+	1 VD1689_94 Mac 2:3
+	1 VD1689_94 Mac 2:10
+	1 VD1689_94 Mac 2:20
+	1 VD1689_94 Mac 2:23
+	1 VD1689_94 Mac 5:1
+	1 VD1689_94 Mac 6:2
+	1 VD1689_94 Mac 6:7
+	1 VD1689_94 Mac 6:9
+	1 VD1689_94 Mac 7:3
+	1 VD1689_94 Mac 7:4
+	2 VD1689_94 Mac 7:5
+	1 VD1689_94 Mac 7:23
+	1 VD1689_94 Mac 7:27
+	1 VD1689_94 Mac 8:5
+	1 VD1689_94 Mac 8:11
+	1 VD1689_94 Mac 9:3
+	2 VD1689_94 Mac 10:2
+	1 VD1689_94 Mac 10:3
+	2 VD1689_94 Mac 11:9
+	1 VD1689_94 Mac 11:10
+	-----
+	24
+
+
+úirds=wahrd§inaúchana
+
+	1 VD1689_94 Mac 2:17
+	1 VD1689_94 Mac 2:26
+	-----
+	2
+
+
+úirds=wahrd§inaúchanas
+
+	1 VD1689_94 Mac 2:22
+	-----
+	1
+
+
+úirds=wahrgoúchana
+
+	1 VD1689_94 Mac 1:14
+	1 VD1689_94 Mac 4:16
+	1 VD1689_94 Mac 6:9
+	-----
+	3
+
+
+úirds=wahrgoúchanu
+
+	1 VD1689_94 Mac 1:17
+	1 VD1689_94 Mac 4:6
+	-----
+	2
+
+
 sirgeem
 
 	1 VD1689_94 Mac 10:7
+	-----
+	1
+
+
+úiúúenis
+
+	1 VD1689_94 Mac 12:5
 	-----
 	1
 
@@ -8487,9 +9611,45 @@ siwis
 	1
 
 
-siòòu
+§kaidri
 
-	1 VD1689_94 Mac 10:14
+	1 VD1689_94 Mac 3:18
+	1 VD1689_94 Mac 9:1
+	-----
+	2
+
+
+§kai§tus
+
+	1 VD1689_94 Mac 12:10
+	-----
+	1
+
+
+úkaitiht
+
+	1 VD1689_94 Mac 1:15
+	-----
+	1
+
+
+§kalda
+
+	1 VD1689_94 Mac 10:9
+	-----
+	1
+
+
+skaòòa
+
+	1 VD1689_94 Mac 12:4
+	-----
+	1
+
+
+§kattahs
+
+	1 VD1689_94 Mac 12:3
 	-----
 	1
 
@@ -8508,9 +9668,9 @@ skaudiúchana
 	1
 
 
-skaòòa
+§kau§ch
 
-	1 VD1689_94 Mac 12:4
+	1 VD1689_94 Mac 4:4
 	-----
 	1
 
@@ -8543,6 +9703,73 @@ skummibu
 	1
 
 
+úlawa
+
+	1 VD1689_94 Mac 7:0
+	1 VD1689_94 Mac 7:2
+	-----
+	2
+
+
+úlaweju
+
+	1 VD1689_94 Mac 4:2
+	1 VD1689_94 Mac 8:15
+	-----
+	2
+
+
+úlazzinatu
+
+	1 VD1689_94 Mac 2:6
+	-----
+	1
+
+
+úliòkahm
+
+	1 VD1689_94 Mac 10:18
+	-----
+	1
+
+
+úmarúchu
+
+	1 VD1689_94 Mac 10:1
+	-----
+	1
+
+
+úmeeúchana
+
+	1 VD1689_94 Mac 7:4
+	1 VD1689_94 Mac 7:7
+	-----
+	2
+
+
+úmeeúchanu
+
+	1 VD1689_94 Mac 2:2
+	1 VD1689_94 Mac 10:19
+	-----
+	2
+
+
+úmeetees
+
+	1 VD1689_94 Mac 3:4
+	-----
+	1
+
+
+§pahrnaiòa
+
+	1 VD1689_94 Mac 10:20
+	-----
+	1
+
+
 spehka
 
 	1 VD1689_94 Mac 10:10
@@ -8557,11 +9784,97 @@ spehles
 	1
 
 
+§tahdiju
+
+	1 VD1689_94 Mac 2:5
+	-----
+	1
+
+
+§tah§ta
+
+	1 VD1689_94 Mac 7:0
+	-----
+	1
+
+
+§tah§tihs
+
+	1 VD1689_94 Mac 8:7
+	-----
+	1
+
+
+§tah§tiht
+
+	1 VD1689_94 Mac 7:1
+	-----
+	1
+
+
+§tahw
+
+	1 VD1689_94 Mac 2:14
+	-----
+	1
+
+
+§tahwehs
+
+	1 VD1689_94 Mac 4:15
+	1 VD1689_94 Mac 12:3
+	-----
+	2
+
+
+§taiga
+
+	1 VD1689_94 Mac 2:14
+	1 VD1689_94 Mac 4:17
+	1 VD1689_94 Mac 10:3
+	1 VD1689_94 Mac 11:9
+	-----
+	4
+
+
+§taigaht
+
+	1 VD1689_94 Mac 6:8
+	1 VD1689_94 Mac 12:0
+	-----
+	2
+
+
+§taigajam
+
+	1 VD1689_94 Mac 4:15
+	1 VD1689_94 Mac 10:7
+	-----
+	2
+
+
+§taigajúchi
+
+	1 VD1689_94 Mac 8:10
+	-----
+	1
+
+
 starp
 
 	1 VD1689_94 Mac 7:29
 	-----
 	1
+
+
+§tarp
+
+	1 VD1689_94 Mac 6:1
+	1 VD1689_94 Mac 7:29
+	1 VD1689_94 Mac 9:3
+	2 VD1689_94 Mac 11:2
+	-----
+	5
 
 
 starpa^
@@ -8571,9 +9884,59 @@ starpa^
 	1
 
 
+§teid§ahs
+
+	1 VD1689_94 Mac 1:5
+	1 VD1689_94 Mac 5:1
+	-----
+	2
+
+
+§teid§ees
+
+	1 VD1689_94 Mac 8:3
+	-----
+	1
+
+
+§tipraks
+
+	1 VD1689_94 Mac 6:10
+	-----
+	1
+
+
+§tipram
+
+	1 VD1689_94 Mac 9:11
+	-----
+	1
+
+
+§tipri
+
+	1 VD1689_94 Mac 12:3
+	-----
+	1
+
+
+§tiprina
+
+	1 VD1689_94 Mac 7:20
+	-----
+	1
+
+
 stiprinaúchanu
 
 	1 VD1689_94 Mac 10:17
+	-----
+	1
+
+
+§tipru
+
+	1 VD1689_94 Mac 11:3
 	-----
 	1
 
@@ -8586,9 +9949,74 @@ stiprums
 	2
 
 
+§trahda
+
+	1 VD1689_94 Mac 3:9
+	1 VD1689_94 Mac 4:8
+	-----
+	2
+
+
+§trahdajs
+
+	1 VD1689_94 Mac 2:21
+	1 VD1689_94 Mac 5:15
+	-----
+	2
+
+
+§trahdaju
+
+	1 VD1689_94 Mac 4:8
+	-----
+	1
+
+
 strahdneekam
 
 	1 VD1689_94 Mac 5:11
+	-----
+	1
+
+
+úudraba
+
+	1 VD1689_94 Mac 12:6
+	-----
+	1
+
+
+úudrabu
+
+	1 VD1689_94 Mac 2:8
+	-----
+	1
+
+
+úuhd§
+
+	1 VD1689_94 Mac 3:0
+	-----
+	1
+
+
+úuhd§eht
+
+	1 VD1689_94 Mac 5:0
+	-----
+	1
+
+
+úuhti
+
+	1 VD1689_94 Mac 11:1
+	-----
+	1
+
+
+úuns
+
+	1 VD1689_94 Mac 9:3
 	-----
 	1
 
@@ -8600,9 +10028,58 @@ swaig§nes
 	1
 
 
+§wehre
+
+	1 VD1689_94 Mac 9:2
+	-----
+	1
+
+
+§wehrejs
+
+	2 VD1689_94 Mac 8:2
+	-----
+	2
+
+
 swehreúchanu
 
 	1 VD1689_94 Mac 9:2
+	-----
+	1
+
+
+úwehta
+
+	1 VD1689_94 Mac 5:7
+	-----
+	1
+
+
+úwehta^
+
+	1 VD1689_94 Mac 8:10
+	-----
+	1
+
+
+úwehtajs
+
+	1 VD1689_94 Mac 5:7
+	-----
+	1
+
+
+§weijotas
+
+	1 VD1689_94 Mac 9:12
+	-----
+	1
+
+
+úweúchajs
+
+	1 VD1689_94 Mac 6:2
 	-----
 	1
 
@@ -8800,6 +10277,15 @@ tahdu
 	2
 
 
+tahïu
+
+	1 VD1689_94 Mac 3:5
+	1 VD1689_94 Mac 7:24
+	1 VD1689_94 Mac 7:25
+	-----
+	3
+
+
 tahm
 
 	1 VD1689_94 Mac 2:10
@@ -8834,28 +10320,10 @@ tahs
 	29
 
 
-tahïu
-
-	1 VD1689_94 Mac 3:5
-	1 VD1689_94 Mac 7:24
-	1 VD1689_94 Mac 7:25
-	-----
-	3
-
-
 tai
 
 	2 VD1689_94 Mac 1:8
 	1 VD1689_94 Mac 10:1
-	-----
-	3
-
-
-tai^
-
-	1 VD1689_94 Mac 3:22
-	1 VD1689_94 Mac 9:10
-	1 VD1689_94 Mac 12:3
 	-----
 	3
 
@@ -8866,6 +10334,15 @@ tai`
 	1 VD1689_94 Mac 11:3
 	-----
 	2
+
+
+tai^
+
+	1 VD1689_94 Mac 3:22
+	1 VD1689_94 Mac 9:10
+	1 VD1689_94 Mac 12:3
+	-----
+	3
 
 
 taiúnajs
@@ -9708,13 +11185,6 @@ triaidiba
 	1
 
 
-trihskahrtigs
-
-	1 VD1689_94 Mac 4:12
-	-----
-	1
-
-
 trihúehs
 
 	1 VD1689_94 Mac 12:3
@@ -9722,9 +11192,9 @@ trihúehs
 	1
 
 
-truhkums
+trihskahrtigs
 
-	1 VD1689_94 Mac 6:2
+	1 VD1689_94 Mac 4:12
 	-----
 	1
 
@@ -9734,6 +11204,28 @@ truhk§t
 	1 VD1689_94 Mac 1:15
 	1 VD1689_94 Mac 9:8
 	1 VD1689_94 Mac 10:3
+	-----
+	3
+
+
+truhkums
+
+	1 VD1689_94 Mac 6:2
+	-----
+	1
+
+
+túchaklam
+
+	1 VD1689_94 Mac 9:11
+	-----
+	1
+
+
+túchuhúka
+
+	1 VD1689_94 Mac 10:8
+	2 VD1689_94 Mac 10:11
 	-----
 	3
 
@@ -9859,21 +11351,6 @@ turri
 	1 VD1689_94 Mac 12:13
 	-----
 	1
-
-
-túchaklam
-
-	1 VD1689_94 Mac 9:11
-	-----
-	1
-
-
-túchuhúka
-
-	1 VD1689_94 Mac 10:8
-	2 VD1689_94 Mac 10:11
-	-----
-	3
 
 
 uhdeni
@@ -10225,6 +11702,13 @@ wahrds
 	5
 
 
+wahrd§inatees
+
+	1 VD1689_94 Mac 1:13
+	-----
+	1
+
+
 wahrdu
 
 	2 VD1689_94 Mac 5:1
@@ -10243,13 +11727,6 @@ wahrdus
 	2 VD1689_94 Mac 12:10
 	-----
 	4
-
-
-wahrd§inatees
-
-	1 VD1689_94 Mac 1:13
-	-----
-	1
 
 
 wai
@@ -10371,6 +11848,21 @@ waldihs
 	1
 
 
+waldiúchana
+
+	1 VD1689_94 Mac 10:0
+	-----
+	1
+
+
+waldiúchanas
+
+	1 VD1689_94 Mac 3:0
+	1 VD1689_94 Mac 10:0
+	-----
+	2
+
+
 walditaja
 
 	1 VD1689_94 Mac 10:4
@@ -10390,21 +11882,6 @@ walditaji
 	1 VD1689_94 Mac 7:20
 	-----
 	1
-
-
-waldiúchana
-
-	1 VD1689_94 Mac 10:0
-	-----
-	1
-
-
-waldiúchanas
-
-	1 VD1689_94 Mac 3:0
-	1 VD1689_94 Mac 10:0
-	-----
-	2
 
 
 waldneekeem
@@ -10448,6 +11925,15 @@ wallodu
 	1 VD1689_94 Mac 5:5
 	-----
 	1
+
+
+waïïu
+
+	1 VD1689_94 Mac 5:5
+	1 VD1689_94 Mac 5:18
+	1 VD1689_94 Mac 6:2
+	-----
+	3
 
 
 wal§tai
@@ -10529,15 +12015,6 @@ warru
 	1 VD1689_94 Mac 2:1
 	-----
 	1
-
-
-waïïu
-
-	1 VD1689_94 Mac 5:5
-	1 VD1689_94 Mac 5:18
-	1 VD1689_94 Mac 6:2
-	-----
-	3
 
 
 weddihs
@@ -10715,18 +12192,18 @@ wehja
 	1
 
 
-wehju
-
-	1 VD1689_94 Mac 11:4
-	-----
-	1
-
-
 wehjúch
 
 	2 VD1689_94 Mac 1:6
 	-----
 	2
+
+
+wehju
+
+	1 VD1689_94 Mac 11:4
+	-----
+	1
 
 
 wehl
@@ -10849,86 +12326,11 @@ winna
 	1
 
 
-wirs
-
-	1 VD1689_94 Mac 7:21
-	1 VD1689_94 Mac 8:16
-	1 VD1689_94 Mac 10:7
-	1 VD1689_94 Mac 11:2
-	-----
-	4
-
-
-wirwe
-
-	1 VD1689_94 Mac 12:6
-	-----
-	1
-
-
-wirúneeka
-
-	1 VD1689_94 Mac 9:17
-	-----
-	1
-
-
-wirúu^
-
-	1 VD1689_94 Mac 5:1
-	1 VD1689_94 Mac 8:14
-	-----
-	2
-
-
 wiòna
 
 	1 VD1689_94 Mac 6:3
 	-----
 	1
-
-
-wiòu
-
-	1 VD1689_94 Mac 10:14
-	-----
-	1
-
-
-wiò§ch
-
-	1 VD1689_94 Mac 1:0
-	1 VD1689_94 Mac 1:3
-	1 VD1689_94 Mac 2:0
-	2 VD1689_94 Mac 2:19
-	1 VD1689_94 Mac 2:22
-	1 VD1689_94 Mac 2:24
-	2 VD1689_94 Mac 2:26
-	1 VD1689_94 Mac 3:9
-	2 VD1689_94 Mac 3:11
-	1 VD1689_94 Mac 4:0
-	1 VD1689_94 Mac 4:8
-	5 VD1689_94 Mac 5:14
-	2 VD1689_94 Mac 5:15
-	1 VD1689_94 Mac 5:16
-	1 VD1689_94 Mac 5:19
-	1 VD1689_94 Mac 6:6
-	1 VD1689_94 Mac 6:10
-	2 VD1689_94 Mac 7:1
-	1 VD1689_94 Mac 7:14
-	2 VD1689_94 Mac 8:3
-	1 VD1689_94 Mac 8:7
-	2 VD1689_94 Mac 8:13
-	3 VD1689_94 Mac 8:17
-	1 VD1689_94 Mac 9:9
-	1 VD1689_94 Mac 10:3
-	2 VD1689_94 Mac 11:3
-	1 VD1689_94 Mac 11:8
-	1 VD1689_94 Mac 12:0
-	1 VD1689_94 Mac 12:4
-	1 VD1689_94 Mac 12:9
-	-----
-	44
 
 
 wiòòa
@@ -11034,9 +12436,91 @@ wiòòu
 	14
 
 
+wiò§ch
+
+	1 VD1689_94 Mac 1:0
+	1 VD1689_94 Mac 1:3
+	1 VD1689_94 Mac 2:0
+	2 VD1689_94 Mac 2:19
+	1 VD1689_94 Mac 2:22
+	1 VD1689_94 Mac 2:24
+	2 VD1689_94 Mac 2:26
+	1 VD1689_94 Mac 3:9
+	2 VD1689_94 Mac 3:11
+	1 VD1689_94 Mac 4:0
+	1 VD1689_94 Mac 4:8
+	5 VD1689_94 Mac 5:14
+	2 VD1689_94 Mac 5:15
+	1 VD1689_94 Mac 5:16
+	1 VD1689_94 Mac 5:19
+	1 VD1689_94 Mac 6:6
+	1 VD1689_94 Mac 6:10
+	2 VD1689_94 Mac 7:1
+	1 VD1689_94 Mac 7:14
+	2 VD1689_94 Mac 8:3
+	1 VD1689_94 Mac 8:7
+	2 VD1689_94 Mac 8:13
+	3 VD1689_94 Mac 8:17
+	1 VD1689_94 Mac 9:9
+	1 VD1689_94 Mac 10:3
+	2 VD1689_94 Mac 11:3
+	1 VD1689_94 Mac 11:8
+	1 VD1689_94 Mac 12:0
+	1 VD1689_94 Mac 12:4
+	1 VD1689_94 Mac 12:9
+	-----
+	44
+
+
+wiòu
+
+	1 VD1689_94 Mac 10:14
+	-----
+	1
+
+
+wirs
+
+	1 VD1689_94 Mac 7:21
+	1 VD1689_94 Mac 8:16
+	1 VD1689_94 Mac 10:7
+	1 VD1689_94 Mac 11:2
+	-----
+	4
+
+
+wirúneeka
+
+	1 VD1689_94 Mac 9:17
+	-----
+	1
+
+
+wirúu^
+
+	1 VD1689_94 Mac 5:1
+	1 VD1689_94 Mac 8:14
+	-----
+	2
+
+
+wirwe
+
+	1 VD1689_94 Mac 12:6
+	-----
+	1
+
+
 wiúapkahrt
 
 	1 VD1689_94 Mac 1:6
+	-----
+	1
+
+
+wiúíim
+
+	1 VD1689_94 Mac 7:18
 	-----
 	1
 
@@ -11058,13 +12542,6 @@ wiús
 	1 VD1689_94 Mac 12:8
 	-----
 	14
-
-
-wiúíim
-
-	1 VD1689_94 Mac 7:18
-	-----
-	1
 
 
 wiúúa
@@ -11311,16 +12788,9 @@ zeenigu
 	1
 
 
-zeetihs
+zeeúch
 
-	1 VD1689_94 Mac 10:9
-	-----
-	1
-
-
-zeetuma=namma
-
-	1 VD1689_94 Mac 4:14
+	1 VD1689_94 Mac 5:0
 	-----
 	1
 
@@ -11332,23 +12802,16 @@ zee§t
 	1
 
 
-zeeúch
+zeetihs
 
-	1 VD1689_94 Mac 5:0
+	1 VD1689_94 Mac 10:9
 	-----
 	1
 
 
-zelts
+zeetuma=namma
 
-	1 VD1689_94 Mac 10:6
-	-----
-	1
-
-
-zerriba
-
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 4:14
 	-----
 	1
 
@@ -11380,6 +12843,20 @@ zeïïu
 zeïúch
 
 	1 VD1689_94 Mac 11:5
+	-----
+	1
+
+
+zelts
+
+	1 VD1689_94 Mac 10:6
+	-----
+	1
+
+
+zerriba
+
+	1 VD1689_94 Mac 9:3
 	-----
 	1
 
@@ -11509,1483 +12986,6 @@ zittus
 	1 VD1689_94 Mac 7:23
 	-----
 	2
-
-
-§audeta
-
-	1 VD1689_94 Mac 5:7
-	-----
-	1
-
-
-§aïïoja
-
-	1 VD1689_94 Mac 2:6
-	-----
-	1
-
-
-§eedehs
-
-	1 VD1689_94 Mac 12:5
-	-----
-	1
-
-
-§emmjop
-
-	1 VD1689_94 Mac 3:21
-	-----
-	1
-
-
-§inn
-
-	1 VD1689_94 Mac 2:12
-	1 VD1689_94 Mac 2:19
-	-----
-	2
-
-
-§inna
-
-	1 VD1689_94 Mac 4:13
-	1 VD1689_94 Mac 4:17
-	1 VD1689_94 Mac 6:8
-	1 VD1689_94 Mac 7:1
-	1 VD1689_94 Mac 7:23
-	1 VD1689_94 Mac 8:1
-	1 VD1689_94 Mac 8:7
-	2 VD1689_94 Mac 9:5
-	1 VD1689_94 Mac 9:12
-	1 VD1689_94 Mac 10:14
-	1 VD1689_94 Mac 10:15
-	-----
-	12
-
-
-§innadans
-
-	1 VD1689_94 Mac 4:0
-	-----
-	1
-
-
-§innaht
-
-	1 VD1689_94 Mac 7:15
-	-----
-	1
-
-
-§innams
-
-	1 VD1689_94 Mac 6:10
-	-----
-	1
-
-
-§innamu
-
-	1 VD1689_94 Mac 10:20
-	-----
-	1
-
-
-§innatu
-
-	1 VD1689_94 Mac 7:26
-	-----
-	1
-
-
-§inni
-
-	1 VD1689_94 Mac 11:2
-	1 VD1689_94 Mac 11:5
-	1 VD1689_94 Mac 11:6
-	1 VD1689_94 Mac 11:9
-	-----
-	4
-
-
-§innu
-
-	1 VD1689_94 Mac 3:14
-	1 VD1689_94 Mac 8:12
-	-----
-	2
-
-
-§kaidri
-
-	1 VD1689_94 Mac 3:18
-	1 VD1689_94 Mac 9:1
-	-----
-	2
-
-
-§kai§tus
-
-	1 VD1689_94 Mac 12:10
-	-----
-	1
-
-
-§kalda
-
-	1 VD1689_94 Mac 10:9
-	-----
-	1
-
-
-§kattahs
-
-	1 VD1689_94 Mac 12:3
-	-----
-	1
-
-
-§kau§ch
-
-	1 VD1689_94 Mac 4:4
-	-----
-	1
-
-
-§pahrnaiòa
-
-	1 VD1689_94 Mac 10:20
-	-----
-	1
-
-
-§tahdiju
-
-	1 VD1689_94 Mac 2:5
-	-----
-	1
-
-
-§tahw
-
-	1 VD1689_94 Mac 2:14
-	-----
-	1
-
-
-§tahwehs
-
-	1 VD1689_94 Mac 4:15
-	1 VD1689_94 Mac 12:3
-	-----
-	2
-
-
-§tah§ta
-
-	1 VD1689_94 Mac 7:0
-	-----
-	1
-
-
-§tah§tihs
-
-	1 VD1689_94 Mac 8:7
-	-----
-	1
-
-
-§tah§tiht
-
-	1 VD1689_94 Mac 7:1
-	-----
-	1
-
-
-§taiga
-
-	1 VD1689_94 Mac 2:14
-	1 VD1689_94 Mac 4:17
-	1 VD1689_94 Mac 10:3
-	1 VD1689_94 Mac 11:9
-	-----
-	4
-
-
-§taigaht
-
-	1 VD1689_94 Mac 6:8
-	1 VD1689_94 Mac 12:0
-	-----
-	2
-
-
-§taigajam
-
-	1 VD1689_94 Mac 4:15
-	1 VD1689_94 Mac 10:7
-	-----
-	2
-
-
-§taigajúchi
-
-	1 VD1689_94 Mac 8:10
-	-----
-	1
-
-
-§tarp
-
-	1 VD1689_94 Mac 6:1
-	1 VD1689_94 Mac 7:29
-	1 VD1689_94 Mac 9:3
-	2 VD1689_94 Mac 11:2
-	-----
-	5
-
-
-§teid§ahs
-
-	1 VD1689_94 Mac 1:5
-	1 VD1689_94 Mac 5:1
-	-----
-	2
-
-
-§teid§ees
-
-	1 VD1689_94 Mac 8:3
-	-----
-	1
-
-
-§tipraks
-
-	1 VD1689_94 Mac 6:10
-	-----
-	1
-
-
-§tipram
-
-	1 VD1689_94 Mac 9:11
-	-----
-	1
-
-
-§tipri
-
-	1 VD1689_94 Mac 12:3
-	-----
-	1
-
-
-§tiprina
-
-	1 VD1689_94 Mac 7:20
-	-----
-	1
-
-
-§tipru
-
-	1 VD1689_94 Mac 11:3
-	-----
-	1
-
-
-§trahda
-
-	1 VD1689_94 Mac 3:9
-	1 VD1689_94 Mac 4:8
-	-----
-	2
-
-
-§trahdajs
-
-	1 VD1689_94 Mac 2:21
-	1 VD1689_94 Mac 5:15
-	-----
-	2
-
-
-§trahdaju
-
-	1 VD1689_94 Mac 4:8
-	-----
-	1
-
-
-§wehre
-
-	1 VD1689_94 Mac 9:2
-	-----
-	1
-
-
-§wehrejs
-
-	2 VD1689_94 Mac 8:2
-	-----
-	2
-
-
-§weijotas
-
-	1 VD1689_94 Mac 9:12
-	-----
-	1
-
-
-ìeíía
-
-	1 VD1689_94 Mac 2:17
-	1 VD1689_94 Mac 5:2
-	1 VD1689_94 Mac 7:6
-	1 VD1689_94 Mac 7:7
-	1 VD1689_94 Mac 10:2
-	1 VD1689_94 Mac 10:12
-	-----
-	6
-
-
-ìeííam
-
-	1 VD1689_94 Mac 2:15
-	1 VD1689_94 Mac 6:8
-	-----
-	2
-
-
-ìeííeem
-
-	1 VD1689_94 Mac 4:17
-	1 VD1689_94 Mac 5:3
-	1 VD1689_94 Mac 9:17
-	-----
-	3
-
-
-ìeííiba
-
-	1 VD1689_94 Mac 10:13
-	-----
-	1
-
-
-ìeííibas
-
-	1 VD1689_94 Mac 10:1
-	-----
-	1
-
-
-ìeííibu
-
-	1 VD1689_94 Mac 1:17
-	1 VD1689_94 Mac 2:3
-	1 VD1689_94 Mac 2:12
-	1 VD1689_94 Mac 2:13
-	1 VD1689_94 Mac 7:26
-	-----
-	5
-
-
-ìeííigs
-
-	1 VD1689_94 Mac 7:18
-	-----
-	1
-
-
-ìeííis
-
-	1 VD1689_94 Mac 2:14
-	1 VD1689_94 Mac 2:17
-	1 VD1689_94 Mac 2:19
-	1 VD1689_94 Mac 4:5
-	1 VD1689_94 Mac 4:13
-	2 VD1689_94 Mac 10:3
-	1 VD1689_94 Mac 10:6
-	1 VD1689_94 Mac 10:14
-	-----
-	9
-
-
-ìeííu
-
-	1 VD1689_94 Mac 7:5
-	1 VD1689_94 Mac 7:10
-	1 VD1689_94 Mac 10:15
-	-----
-	3
-
-
-íehniòa
-
-	1 VD1689_94 Mac 1:1
-	2 VD1689_94 Mac 8:2
-	1 VD1689_94 Mac 8:4
-	-----
-	4
-
-
-íehniòam
-
-	2 VD1689_94 Mac 5:8
-	-----
-	2
-
-
-íehniòu
-
-	1 VD1689_94 Mac 2:8
-	1 VD1689_94 Mac 2:12
-	1 VD1689_94 Mac 4:0
-	1 VD1689_94 Mac 4:14
-	1 VD1689_94 Mac 10:20
-	-----
-	5
-
-
-íehniò§ch
-
-	1 VD1689_94 Mac 1:12
-	1 VD1689_94 Mac 4:13
-	1 VD1689_94 Mac 9:14
-	1 VD1689_94 Mac 10:16
-	1 VD1689_94 Mac 10:17
-	-----
-	5
-
-
-ïaudis
-
-	1 VD1689_94 Mac 12:9
-	-----
-	1
-
-
-ïauna
-
-	1 VD1689_94 Mac 2:21
-	1 VD1689_94 Mac 5:12
-	1 VD1689_94 Mac 5:15
-	1 VD1689_94 Mac 6:1
-	1 VD1689_94 Mac 6:2
-	1 VD1689_94 Mac 8:3
-	1 VD1689_94 Mac 9:3
-	-----
-	7
-
-
-ïaunas
-
-	1 VD1689_94 Mac 12:1
-	-----
-	1
-
-
-ïauni
-
-	1 VD1689_94 Mac 3:0
-	-----
-	1
-
-
-ïauno
-
-	1 VD1689_94 Mac 11:0
-	-----
-	1
-
-
-ïauns
-
-	1 VD1689_94 Mac 4:8
-	1 VD1689_94 Mac 12:14
-	-----
-	2
-
-
-ïaunu
-
-	1 VD1689_94 Mac 2:17
-	1 VD1689_94 Mac 4:17
-	1 VD1689_94 Mac 5:12
-	1 VD1689_94 Mac 7:15
-	1 VD1689_94 Mac 8:5
-	1 VD1689_94 Mac 8:9
-	2 VD1689_94 Mac 8:11
-	1 VD1689_94 Mac 8:12
-	1 VD1689_94 Mac 9:12
-	1 VD1689_94 Mac 10:1
-	-----
-	11
-
-
-ïaunuma
-
-	1 VD1689_94 Mac 8:6
-	-----
-	1
-
-
-ïaunums
-
-	1 VD1689_94 Mac 10:5
-	1 VD1689_94 Mac 11:2
-	-----
-	2
-
-
-ïaunumu
-
-	1 VD1689_94 Mac 11:10
-	-----
-	1
-
-
-ïau§chu
-
-	1 VD1689_94 Mac 4:16
-	1 VD1689_94 Mac 9:14
-	-----
-	2
-
-
-ïohti
-
-	1 VD1689_94 Mac 7:25
-	-----
-	1
-
-
-òem
-
-	1 VD1689_94 Mac 7:15
-	-----
-	1
-
-
-òems
-
-	1 VD1689_94 Mac 5:14
-	-----
-	1
-
-
-úadohmajs
-
-	1 VD1689_94 Mac 2:19
-	-----
-	1
-
-
-úagahds
-
-	1 VD1689_94 Mac 2:7
-	-----
-	1
-
-
-úaguh§tihts
-
-	1 VD1689_94 Mac 7:27
-	-----
-	1
-
-
-úahpes
-
-	1 VD1689_94 Mac 2:23
-	1 VD1689_94 Mac 10:9
-	-----
-	2
-
-
-úaimes
-
-	1 VD1689_94 Mac 2:7
-	-----
-	1
-
-
-úaites
-
-	1 VD1689_94 Mac 7:27
-	-----
-	1
-
-
-úakka
-
-	1 VD1689_94 Mac 1:2
-	1 VD1689_94 Mac 7:28
-	1 VD1689_94 Mac 10:3
-	1 VD1689_94 Mac 12:8
-	-----
-	4
-
-
-úakkamus
-
-	1 VD1689_94 Mac 12:9
-	-----
-	1
-
-
-úakki
-
-	1 VD1689_94 Mac 5:5
-	1 VD1689_94 Mac 7:11
-	-----
-	2
-
-
-úakku
-
-	1 VD1689_94 Mac 6:3
-	1 VD1689_94 Mac 8:2
-	-----
-	2
-
-
-úakrahj
-
-	1 VD1689_94 Mac 2:26
-	-----
-	1
-
-
-úakrahju
-
-	1 VD1689_94 Mac 2:8
-	-----
-	1
-
-
-úalau§chahs
-
-	1 VD1689_94 Mac 12:6
-	-----
-	1
-
-
-úalda
-
-	1 VD1689_94 Mac 7:2
-	-----
-	1
-
-
-úalds
-
-	1 VD1689_94 Mac 11:7
-	-----
-	1
-
-
-úaleek
-
-	1 VD1689_94 Mac 4:5
-	-----
-	1
-
-
-úamaita
-
-	1 VD1689_94 Mac 7:8
-	1 VD1689_94 Mac 9:18
-	-----
-	2
-
-
-úamanniju
-
-	1 VD1689_94 Mac 1:17
-	1 VD1689_94 Mac 3:12
-	-----
-	2
-
-
-úaplohúa
-
-	1 VD1689_94 Mac 10:8
-	-----
-	1
-
-
-úaplohúiht
-
-	1 VD1689_94 Mac 3:7
-	-----
-	1
-
-
-úapnis
-
-	1 VD1689_94 Mac 5:2
-	-----
-	1
-
-
-úapnu
-
-	1 VD1689_94 Mac 5:6
-	-----
-	1
-
-
-úaprattigam
-
-	1 VD1689_94 Mac 9:11
-	-----
-	1
-
-
-úapra§tu
-
-	1 VD1689_94 Mac 9:1
-	-----
-	1
-
-
-úapulzina
-
-	1 VD1689_94 Mac 2:26
-	-----
-	1
-
-
-úarau§tihts
-
-	1 VD1689_94 Mac 4:12
-	-----
-	1
-
-
-úarau§tita
-
-	1 VD1689_94 Mac 12:6
-	-----
-	1
-
-
-úargajs
-
-	1 VD1689_94 Mac 12:12
-	-----
-	1
-
-
-úargata
-
-	1 VD1689_94 Mac 5:12
-	-----
-	1
-
-
-úargi
-
-	1 VD1689_94 Mac 4:17
-	2 VD1689_94 Mac 8:2
-	1 VD1689_94 Mac 12:3
-	-----
-	4
-
-
-úatwerri
-
-	1 VD1689_94 Mac 7:19
-	-----
-	1
-
-
-úauja
-
-	1 VD1689_94 Mac 4:6
-	-----
-	1
-
-
-úaujas
-
-	1 VD1689_94 Mac 4:6
-	-----
-	1
-
-
-úaule
-
-	2 VD1689_94 Mac 1:5
-	1 VD1689_94 Mac 12:2
-	-----
-	3
-
-
-úaules
-
-	1 VD1689_94 Mac 1:3
-	1 VD1689_94 Mac 1:9
-	1 VD1689_94 Mac 1:14
-	1 VD1689_94 Mac 2:11
-	1 VD1689_94 Mac 2:17
-	1 VD1689_94 Mac 2:18
-	1 VD1689_94 Mac 2:19
-	1 VD1689_94 Mac 2:20
-	1 VD1689_94 Mac 2:22
-	1 VD1689_94 Mac 3:16
-	1 VD1689_94 Mac 4:1
-	1 VD1689_94 Mac 4:3
-	1 VD1689_94 Mac 4:7
-	1 VD1689_94 Mac 4:15
-	1 VD1689_94 Mac 5:12
-	1 VD1689_94 Mac 5:17
-	1 VD1689_94 Mac 6:1
-	1 VD1689_94 Mac 7:1
-	1 VD1689_94 Mac 8:9
-	2 VD1689_94 Mac 8:15
-	1 VD1689_94 Mac 8:17
-	1 VD1689_94 Mac 9:3
-	1 VD1689_94 Mac 9:6
-	2 VD1689_94 Mac 9:9
-	1 VD1689_94 Mac 9:11
-	1 VD1689_94 Mac 9:13
-	1 VD1689_94 Mac 10:5
-	-----
-	29
-
-
-úauli
-
-	1 VD1689_94 Mac 6:5
-	1 VD1689_94 Mac 7:12
-	1 VD1689_94 Mac 11:7
-	-----
-	3
-
-
-úawa
-
-	1 VD1689_94 Mac 1:3
-	1 VD1689_94 Mac 2:21
-	1 VD1689_94 Mac 2:22
-	1 VD1689_94 Mac 2:24
-	1 VD1689_94 Mac 3:13
-	1 VD1689_94 Mac 3:17
-	1 VD1689_94 Mac 3:18
-	1 VD1689_94 Mac 3:22
-	1 VD1689_94 Mac 4:9
-	1 VD1689_94 Mac 5:0
-	1 VD1689_94 Mac 5:14
-	1 VD1689_94 Mac 5:17
-	1 VD1689_94 Mac 5:18
-	1 VD1689_94 Mac 8:15
-	-----
-	14
-
-
-úawa^
-
-	1 VD1689_94 Mac 1:13
-	1 VD1689_94 Mac 1:16
-	1 VD1689_94 Mac 1:17
-	2 VD1689_94 Mac 2:3
-	2 VD1689_94 Mac 2:15
-	1 VD1689_94 Mac 3:0
-	1 VD1689_94 Mac 3:11
-	1 VD1689_94 Mac 3:12
-	1 VD1689_94 Mac 3:18
-	1 VD1689_94 Mac 4:14
-	1 VD1689_94 Mac 7:1
-	2 VD1689_94 Mac 7:16
-	1 VD1689_94 Mac 9:1
-	-----
-	16
-
-
-úawa^s
-
-	1 VD1689_94 Mac 1:6
-	1 VD1689_94 Mac 5:16
-	-----
-	2
-
-
-úawahm
-
-	1 VD1689_94 Mac 2:0
-	1 VD1689_94 Mac 8:16
-	-----
-	2
-
-
-úawai
-
-	1 VD1689_94 Mac 2:24
-	-----
-	1
-
-
-úawajus
-
-	1 VD1689_94 Mac 8:8
-	-----
-	1
-
-
-úawas
-
-	1 VD1689_94 Mac 2:22
-	1 VD1689_94 Mac 4:5
-	1 VD1689_94 Mac 5:19
-	1 VD1689_94 Mac 6:2
-	1 VD1689_94 Mac 6:7
-	1 VD1689_94 Mac 7:3
-	1 VD1689_94 Mac 8:0
-	1 VD1689_94 Mac 12:5
-	-----
-	8
-
-
-úaweem
-
-	1 VD1689_94 Mac 9:1
-	1 VD1689_94 Mac 9:5
-	-----
-	2
-
-
-úaws
-
-	1 VD1689_94 Mac 3:0
-	2 VD1689_94 Mac 3:1
-	4 VD1689_94 Mac 3:2
-	4 VD1689_94 Mac 3:3
-	4 VD1689_94 Mac 3:4
-	4 VD1689_94 Mac 3:5
-	4 VD1689_94 Mac 3:6
-	4 VD1689_94 Mac 3:7
-	4 VD1689_94 Mac 3:8
-	1 VD1689_94 Mac 3:17
-	1 VD1689_94 Mac 8:6
-	-----
-	33
-
-
-úawu
-
-	1 VD1689_94 Mac 1:5
-	1 VD1689_94 Mac 2:1
-	1 VD1689_94 Mac 2:10
-	1 VD1689_94 Mac 2:21
-	1 VD1689_94 Mac 4:5
-	1 VD1689_94 Mac 4:10
-	1 VD1689_94 Mac 5:0
-	1 VD1689_94 Mac 5:14
-	1 VD1689_94 Mac 5:18
-	1 VD1689_94 Mac 7:19
-	1 VD1689_94 Mac 7:26
-	1 VD1689_94 Mac 9:12
-	1 VD1689_94 Mac 9:15
-	-----
-	13
-
-
-úawus
-
-	1 VD1689_94 Mac 11:0
-	-----
-	1
-
-
-úazziht
-
-	1 VD1689_94 Mac 1:10
-	1 VD1689_94 Mac 8:4
-	-----
-	2
-
-
-úazziju
-
-	1 VD1689_94 Mac 1:16
-	1 VD1689_94 Mac 2:1
-	1 VD1689_94 Mac 2:2
-	2 VD1689_94 Mac 2:15
-	1 VD1689_94 Mac 3:17
-	1 VD1689_94 Mac 3:18
-	1 VD1689_94 Mac 7:24
-	1 VD1689_94 Mac 8:14
-	1 VD1689_94 Mac 9:16
-	-----
-	10
-
-
-úazzitu
-
-	1 VD1689_94 Mac 8:17
-	-----
-	1
-
-
-úazziúi
-
-	1 VD1689_94 Mac 12:1
-	-----
-	1
-
-
-úaúchuht
-
-	1 VD1689_94 Mac 3:7
-	-----
-	1
-
-
-úaúilditees
-
-	1 VD1689_94 Mac 4:11
-	-----
-	1
-
-
-úchee
-
-	1 VD1689_94 Mac 7:11
-	-----
-	1
-
-
-úcheem
-
-	1 VD1689_94 Mac 4:1
-	1 VD1689_94 Mac 7:29
-	-----
-	2
-
-
-úchi
-
-	1 VD1689_94 Mac 1:10
-	1 VD1689_94 Mac 2:10
-	1 VD1689_94 Mac 5:15
-	1 VD1689_94 Mac 9:3
-	2 VD1689_94 Mac 9:9
-	-----
-	6
-
-
-úchim
-
-	1 VD1689_94 Mac 11:6
-	-----
-	1
-
-
-úchinni^
-
-	1 VD1689_94 Mac 1:0
-	1 VD1689_94 Mac 7:1
-	1 VD1689_94 Mac 9:5
-	-----
-	3
-
-
-úchinni`
-
-	1 VD1689_94 Mac 8:8
-	1 VD1689_94 Mac 9:6
-	1 VD1689_94 Mac 9:9
-	-----
-	3
-
-
-úchis
-
-	1 VD1689_94 Mac 3:19
-	1 VD1689_94 Mac 12:9
-	1 VD1689_94 Mac 12:13
-	-----
-	3
-
-
-úcho
-
-	1 VD1689_94 Mac 1:13
-	2 VD1689_94 Mac 2:17
-	1 VD1689_94 Mac 7:15
-	1 VD1689_94 Mac 7:19
-	1 VD1689_94 Mac 7:24
-	1 VD1689_94 Mac 7:28
-	1 VD1689_94 Mac 7:30
-	1 VD1689_94 Mac 8:9
-	2 VD1689_94 Mac 9:1
-	1 VD1689_94 Mac 9:9
-	1 VD1689_94 Mac 9:13
-	1 VD1689_94 Mac 11:9
-	-----
-	14
-
-
-úchíihk§tam
-
-	1 VD1689_94 Mac 9:2
-	-----
-	1
-
-
-úeewas
-
-	1 VD1689_94 Mac 11:5
-	-----
-	1
-
-
-úeewu
-
-	1 VD1689_94 Mac 7:27
-	1 VD1689_94 Mac 7:29
-	1 VD1689_94 Mac 9:9
-	-----
-	3
-
-
-úehji
-
-	1 VD1689_94 Mac 11:6
-	-----
-	1
-
-
-úehklu
-
-	1 VD1689_94 Mac 11:6
-	-----
-	1
-
-
-úehs
-
-	1 VD1689_94 Mac 11:4
-	-----
-	1
-
-
-úehtu
-
-	1 VD1689_94 Mac 10:8
-	-----
-	1
-
-
-úeh§ch
-
-	1 VD1689_94 Mac 10:6
-	-----
-	1
-
-
-úemmes
-
-	1 VD1689_94 Mac 5:8
-	-----
-	1
-
-
-úeptiòeem
-
-	1 VD1689_94 Mac 11:2
-	-----
-	1
-
-
-úew
-
-	1 VD1689_94 Mac 12:5
-	-----
-	1
-
-
-úewi
-
-	1 VD1689_94 Mac 1:0
-	-----
-	1
-
-
-úewim
-
-	1 VD1689_94 Mac 2:5
-	1 VD1689_94 Mac 2:8
-	1 VD1689_94 Mac 8:9
-	1 VD1689_94 Mac 12:0
-	-----
-	4
-
-
-úiltums
-
-	1 VD1689_94 Mac 4:11
-	-----
-	1
-
-
-úimts
-
-	1 VD1689_94 Mac 6:3
-	1 VD1689_94 Mac 8:12
-	-----
-	2
-
-
-úirdi
-
-	1 VD1689_94 Mac 2:1
-	1 VD1689_94 Mac 2:10
-	1 VD1689_94 Mac 2:15
-	1 VD1689_94 Mac 5:19
-	1 VD1689_94 Mac 7:8
-	1 VD1689_94 Mac 7:26
-	1 VD1689_94 Mac 8:9
-	-----
-	7
-
-
-úirdi^
-
-	1 VD1689_94 Mac 1:13
-	1 VD1689_94 Mac 1:16
-	1 VD1689_94 Mac 1:17
-	1 VD1689_94 Mac 2:3
-	1 VD1689_94 Mac 2:15
-	1 VD1689_94 Mac 3:11
-	1 VD1689_94 Mac 3:18
-	1 VD1689_94 Mac 9:1
-	1 VD1689_94 Mac 10:20
-	-----
-	9
-
-
-úirdi^s
-
-	1 VD1689_94 Mac 9:3
-	-----
-	1
-
-
-úirdi`
-
-	1 VD1689_94 Mac 3:17
-	-----
-	1
-
-
-úirds
-
-	1 VD1689_94 Mac 1:16
-	1 VD1689_94 Mac 2:3
-	1 VD1689_94 Mac 2:10
-	1 VD1689_94 Mac 2:20
-	1 VD1689_94 Mac 2:23
-	1 VD1689_94 Mac 5:1
-	1 VD1689_94 Mac 6:2
-	1 VD1689_94 Mac 6:7
-	1 VD1689_94 Mac 6:9
-	1 VD1689_94 Mac 7:3
-	1 VD1689_94 Mac 7:4
-	2 VD1689_94 Mac 7:5
-	1 VD1689_94 Mac 7:23
-	1 VD1689_94 Mac 7:27
-	1 VD1689_94 Mac 8:5
-	1 VD1689_94 Mac 8:11
-	1 VD1689_94 Mac 9:3
-	2 VD1689_94 Mac 10:2
-	1 VD1689_94 Mac 10:3
-	2 VD1689_94 Mac 11:9
-	1 VD1689_94 Mac 11:10
-	-----
-	24
-
-
-úirds=wahrd§inaúchana
-
-	1 VD1689_94 Mac 2:17
-	1 VD1689_94 Mac 2:26
-	-----
-	2
-
-
-úirds=wahrd§inaúchanas
-
-	1 VD1689_94 Mac 2:22
-	-----
-	1
-
-
-úirds=wahrgoúchana
-
-	1 VD1689_94 Mac 1:14
-	1 VD1689_94 Mac 4:16
-	1 VD1689_94 Mac 6:9
-	-----
-	3
-
-
-úirds=wahrgoúchanu
-
-	1 VD1689_94 Mac 1:17
-	1 VD1689_94 Mac 4:6
-	-----
-	2
-
-
-úiúúenis
-
-	1 VD1689_94 Mac 12:5
-	-----
-	1
-
-
-úkaitiht
-
-	1 VD1689_94 Mac 1:15
-	-----
-	1
-
-
-úlawa
-
-	1 VD1689_94 Mac 7:0
-	1 VD1689_94 Mac 7:2
-	-----
-	2
-
-
-úlaweju
-
-	1 VD1689_94 Mac 4:2
-	1 VD1689_94 Mac 8:15
-	-----
-	2
-
-
-úlazzinatu
-
-	1 VD1689_94 Mac 2:6
-	-----
-	1
-
-
-úliòkahm
-
-	1 VD1689_94 Mac 10:18
-	-----
-	1
-
-
-úmarúchu
-
-	1 VD1689_94 Mac 10:1
-	-----
-	1
-
-
-úmeetees
-
-	1 VD1689_94 Mac 3:4
-	-----
-	1
-
-
-úmeeúchana
-
-	1 VD1689_94 Mac 7:4
-	1 VD1689_94 Mac 7:7
-	-----
-	2
-
-
-úmeeúchanu
-
-	1 VD1689_94 Mac 2:2
-	1 VD1689_94 Mac 10:19
-	-----
-	2
-
-
-úudraba
-
-	1 VD1689_94 Mac 12:6
-	-----
-	1
-
-
-úudrabu
-
-	1 VD1689_94 Mac 2:8
-	-----
-	1
-
-
-úuhd§
-
-	1 VD1689_94 Mac 3:0
-	-----
-	1
-
-
-úuhd§eht
-
-	1 VD1689_94 Mac 5:0
-	-----
-	1
-
-
-úuhti
-
-	1 VD1689_94 Mac 11:1
-	-----
-	1
-
-
-úuns
-
-	1 VD1689_94 Mac 9:3
-	-----
-	1
-
-
-úwehta
-
-	1 VD1689_94 Mac 5:7
-	-----
-	1
-
-
-úwehta^
-
-	1 VD1689_94 Mac 8:10
-	-----
-	1
-
-
-úwehtajs
-
-	1 VD1689_94 Mac 5:7
-	-----
-	1
-
-
-úweúchajs
-
-	1 VD1689_94 Mac 6:2
-	-----
-	1
 
 
 1

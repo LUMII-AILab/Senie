@@ -1,7 +1,7 @@
 Vârdformu skaits:	332
 Vârdlietojumu skaits:	575
-	
-	
+
+
 23	un
 13	no
 13	tee
@@ -30,7 +30,6 @@ Vârdlietojumu skaits:	575
 4	KUNGS
 4	pee
 4	ta
-3	§tarp
 3	Behdu
 3	es
 3	isdeldehts
@@ -40,21 +39,22 @@ Vârdlietojumu skaits:	575
 3	Pagaòeem
 3	prett
 3	úakka
+3	§tarp
 3	ta`
 3	tawu
 3	weenu
 3	wiòòo
 3	zaur
-2	Aiswe§tee
 2	ar
 2	arri
+2	Aiswe§tee
 2	Beedri
 2	Bet
-2	d§ers
-2	d§ihwo
 2	darrijs
 2	Deenu
 2	dehï
+2	d§ers
+2	d§ihwo
 2	Eedoma
 2	eekúch
 2	itt
@@ -80,30 +80,22 @@ Vârdlietojumu skaits:	575
 2	weena
 2	weens
 2	Zianas
-1	1
-1	3
-1	7
-1	10
-1	17
-1	18
-1	§tahweji
-1	§tahweúi
 1	ahra
-1	Aisd§ihtus
 1	ak
-1	Akmiòa=Kalnu
 1	appakúch
 1	apúegs
 1	apúlehptas
-1	Ar
 1	arrid§an
 1	atgree§iúees
 1	atkaï
-1	Atlikkuúchus
 1	atliks
 1	atlizzinajúchi
-1	Atmakúaúchana
 1	aug§to^s
+1	Aisd§ihtus
+1	Akmiòa=Kalnu
+1	Ar
+1	Atlikkuúchus
+1	Atmakúaúchana
 1	Bailibas
 1	bailoúees
 1	Behgïus
@@ -118,9 +110,6 @@ Vârdlietojumu skaits:	575
 1	Bohja^=Eeúchanas
 1	Brahïa
 1	Brahïam
-1	d§ehruúchi
-1	D§ihwokïo^s
-1	d§irdejúchi
 1	darrihs
 1	darrihts
 1	darrijuúchi
@@ -132,6 +121,9 @@ Vârdlietojumu skaits:	575
 1	Deews
 1	Derribas
 1	Draudúi
+1	d§ehruúchi
+1	D§ihwokïo^s
+1	d§irdejúchi
 1	ee=eeúi
 1	eedegs
 1	Eedomiteºu
@@ -154,23 +146,23 @@ Vârdlietojumu skaits:	575
 1	Gudrus
 1	ikweens
 1	ir
-1	is§teepúi
-1	isd§ihs
 1	isdeldeht
+1	isd§ihs
 1	ismekletas
 1	isnihzinaúchu
+1	is§teepúi
 1	iswaizatas
-1	J§ra&e&ïa
-1	J§rae#ïa
 1	Jah§epa
 1	jeb
 1	Jehkabam
-1	Jepúchu
 1	jepúchu
+1	Jepúchu
 1	Jeru§alemes
 1	Jeru§alemi
 1	jo
 1	Jsglahbúchana
+1	J§ra&e&ïa
+1	J§rae#ïa
 1	Jtt
 1	Juhda
 1	juhs
@@ -189,8 +181,8 @@ Vârdlietojumu skaits:	575
 1	KUngs
 1	labbad
 1	Labklahúchanas
-1	Ïau§chu
 1	Ïaunumu
+1	Ïau§chu
 1	Leeúma
 1	Leetas
 1	Lepnibas
@@ -199,7 +191,6 @@ Vârdlietojumu skaits:	575
 1	lihd§
 1	lihgúmotees
 1	ïohti
-1	ma§u
 1	Mai§i
 1	Maitaúchanas
 1	manni
@@ -207,6 +198,7 @@ Vârdlietojumu skaits:	575
 1	mannu
 1	Mantahm
 1	Mantas
+1	ma§u
 1	Mehs
 1	meúlojahs
 1	Mitteúchanas
@@ -219,11 +211,11 @@ Vârdlietojumu skaits:	575
 1	Nelaimi
 1	neweens
 1	nizzinahts
-1	no§agguúchi
 1	nodohúi
 1	nomettihs
 1	nomettiúchu
 1	norihs
+1	no§agguúchi
 1	notiks
 1	Obadijum
 1	Obadijus
@@ -234,12 +226,12 @@ Vârdlietojumu skaits:	575
 1	Papreekúchúluddinaúchana
 1	parahdijs
 1	paúchu
-1	Pe§titaji
 1	peederrehs
 1	peederreja
 1	peewihluúi
 1	peewils
 1	pehz
+1	Pe§titaji
 1	Pilsúahtus
 1	Plaiúumeem
 1	Plaukúchíinaúchanas
@@ -274,6 +266,8 @@ Vârdlietojumu skaits:	575
 1	Úlepkawibu
 1	úohdiht
 1	Spehku
+1	§tahweji
+1	§tahweúi
 1	úuhtihts
 1	Swaig§nehm
 1	Úwehtibu
@@ -295,8 +289,8 @@ Vârdlietojumu skaits:	575
 1	tatúchu
 1	Tawa
 1	tawam
-1	Tawi
 1	tawi
+1	Tawi
 1	tawo^s
 1	Teeman
 1	Teeúas
@@ -324,8 +318,8 @@ Vârdlietojumu skaits:	575
 1	wiòòeem
 1	wiòòu
 1	wiúúeem
-1	Wiúúi
 1	wiúúi
+1	Wiúúi
 1	Zarwatai
 1	Zeetuma^
 1	Zeïïa
@@ -334,3 +328,9 @@ Vârdlietojumu skaits:	575
 1	zelúimees
 1	zik
 1	zilwezigu
+1	1
+1	10
+1	17
+1	18
+1	3
+1	7
