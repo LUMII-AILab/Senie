@@ -49,7 +49,6 @@ END
 	while (my $line = <$in>)
 	{
 		# Some lines contain fields to be ignored.
-		# TODO valodas
 		unless ($line =~
 			/^\s*(\@[abcdefghiklnrsvxz1]\{.*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/)
 			#/^\s*(\@a\{.*\}|\@g\{\w+\}|\@n\{\d+\}|\@x\{\s*\}|\[[\-\w\{\}]+\.lpp\.\]|\@z\{\w+\})\s*$/) 		# Author | Book | Chapter | Empty | Page | Source
@@ -57,6 +56,7 @@ END
 			for my $target (keys %table)
 			{
 				my $subst = encodeString($table{$target});
+				# TODO valodas: vajag, lai ja rindā ir neliels fragmens svešvalodā vidū, tad to arī neaiztiek.
 				# Do not replace in "\@[a-z]{" fragments
 				$line =~ s/(?<!\@|\N{U+E001})$target|$target(?!\{|\N{U+E002})/$subst/g;
 			}
