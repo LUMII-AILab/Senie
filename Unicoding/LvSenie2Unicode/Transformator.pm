@@ -4,7 +4,7 @@ use utf8;
 use warnings;
 use IO::Dir;
 use IO::File;
-use LvSenie2Unicode::Tables qw(substTable hasTable);
+use LvSenie2Unicode::Win1257ToUnicodeTables qw(substTable hasTable);
 
 use Exporter();
 our @ISA = qw(Exporter);
