@@ -27,6 +27,9 @@ Script for transliterating a single SENIE Unicode source. Source file name must
 correspond name used in transformation tables + _Unicode_unhyphened.txt Output
 file name is formed as filename stub + _Unicode_translitered.txt.
 
+NB! Input files can't use Unicode Private Use Area sumbols U+E001 and U+E002 for
+    any meaningful data encoding, those symbols will be lost!
+
 Params:
    data directory
    source filename stub without extension, e.g. Baum1699_LVV
@@ -51,17 +54,22 @@ END
 		# Some lines contain fields to be ignored.
 		unless ($line =~
 			/^\s*(\@[abcdefghiklnrsvxz1]\{.*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/)
-			#/^\s*(\@a\{.*\}|\@g\{\w+\}|\@n\{\d+\}|\@x\{\s*\}|\[[\-\w\{\}]+\.lpp\.\]|\@z\{\w+\})\s*$/) 		# Author | Book | Chapter | Empty | Page | Source
 		{
+			# To avoid replacements in small foreign fragments within the line
+			# we encode that text the same way as we encode already substituted
+			# text - each character is inclosed in \N{U+E001} and \N{U+E002}.
+			$line =~ s/(\@[abcdefghiklnrsvxz1]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
 			for my $target (keys %table)
 			{
 				my $subst = $table{$target};
-				# TODO valodas: vajag, lai ja rindā ir neliels fragments svešvalodā vidū, tad to arī neaiztiek.
-				# Do not replace in "\@[a-z]{" fragments
+				# Do not replace in "\@[a-z]{" fragments, and don't replace, what
+				# has already been escaped (denoted by \N{U+E001} and \N{U+E002})
 				$line =~ s/(?<!\@|\N{U+E001})$target|$target(?!\{|\N{U+E002})/$subst/g;
 			}
 
 		}
+		# Remove all the \N{U+E001} and \N{U+E002} we used for marking places
+		# where to avoid substitutions.
 		print $out decodeString($line);
 	}
 

@@ -7,6 +7,7 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(substTable hasTable encodeString decodeString);
 
+# Human readable substitution tables.
 my $ST = {
 	'Br1520_PN' => {
 		'^Tew' => 'Tēv',
@@ -222,6 +223,9 @@ my $ST = {
 	},
 };
 
+# Substitution tables we actually use: here each character in resulting string
+# is surrounded by \N{U+E001} and \N{U+E002} to ensure that it is never replaced
+# again.
 our $EncodedST = encodeST();
 
 sub encodeST
