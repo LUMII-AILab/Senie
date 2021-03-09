@@ -7,11 +7,11 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(substTable hasTable encodeString decodeString);
 
-our $ST = {
+my $ST = {
 	'Br1520_PN' => {
 		'^Tew' => 'Tēv',
 		'uſs\b' => 'ūs',
-		'\bexcã\b' => 'iekšan ',
+		'\bexcã\b' => 'iekšan',
 		'bb' => 'b',
 		'ſs\b' => 's',
 		'\bAEth\bpeſ' => 'Atpes',
@@ -26,13 +26,13 @@ our $ST = {
 		'\bka\b' => 'kā',
 		'\beckſch' => 'iekš',
 		'ss' => 's',
-		'\bTa\b' => '\bTā\b ',
+		'\bTa\b' => 'Tā',
 		'\barriſ' => 'arīdz',
 		'\bwurſ' => 'virs',
 		'\bſemm' => 'zem',
 		'\bden' => 'dien',
 		'yſ' => 'iz',
-		'\bduth\b' => 'dot ',
+		'\bduth\b' => 'dot',
 		'\bſchodeẽ' => 'šodien',
 		'mm' => 'm',
 		'\bgrec' => 'grē',
@@ -222,16 +222,33 @@ our $ST = {
 	},
 };
 
+our $EncodedST = encodeST();
+
+sub encodeST
+{
+	my $resultST = {};
+	for my $source (keys %{$ST})
+	{
+		my $subtable = {};
+		for my $target (keys %{$ST->{$source}})
+		{
+			$subtable->{$target} = encodeString($ST->{$source}->{$target});
+		}
+		$resultST->{$source} = $subtable;
+	}
+	return $resultST;
+}
+
 sub substTable
 {
 	my $tableName = shift @_;
-	return $ST->{$tableName};
+	return $EncodedST->{$tableName};
 }
 
 sub hasTable
 {
 	my $tableName = shift @_;
-	return exists $ST->{$tableName};
+	return exists $EncodedST->{$tableName};
 }
 
 sub encodeString
@@ -245,7 +262,6 @@ sub decodeString
 {
 	my $string = shift @_;
 	$string =~ s/[\N{U+E001}\N{U+E002}]//g;
-	#$string =~ tr/\x{E001}\x{E002}//g;
 	return $string;
 }
 1;

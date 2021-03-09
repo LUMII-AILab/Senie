@@ -55,8 +55,8 @@ END
 		{
 			for my $target (keys %table)
 			{
-				my $subst = encodeString($table{$target});
-				# TODO valodas: vajag, lai ja rindā ir neliels fragmens svešvalodā vidū, tad to arī neaiztiek.
+				my $subst = $table{$target};
+				# TODO valodas: vajag, lai ja rindā ir neliels fragments svešvalodā vidū, tad to arī neaiztiek.
 				# Do not replace in "\@[a-z]{" fragments
 				$line =~ s/(?<!\@|\N{U+E001})$target|$target(?!\{|\N{U+E002})/$subst/g;
 			}
