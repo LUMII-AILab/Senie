@@ -13,19 +13,21 @@ our @EXPORT_OK = qw(verticalizeFile verticalizeDir);
 sub verticalizeDir
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ != 1)
+	if (not @_ or @_ != 2)
 	{
 		print <<END;
 Script for transforming SENIE sources to Sketch-appropriate vertical format.
 
 Params:
    data directory
+   endoding, expected cp1257 or UTF-8
 
 AILab, LUMII, 2020, provided under GPL
 END
 		exit 1;
 	}
 	my $dirName = shift @_;
+	my $encoding = shift @_;
 	my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 
 	my $baddies = 0;
@@ -39,7 +41,7 @@ END
 			{
 				local $SIG{__WARN__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval count warnings.
 				local $SIG{__DIE__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval warn on die and count it as problem.
-				verticalizeFile($dirName, $inFile);
+				verticalizeFile($dirName, $inFile, $encoding);
 			};
 			$baddies = $baddies + $isBad;
 			$all++;
@@ -60,7 +62,7 @@ END
 sub verticalizeFile
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ < 2)
+	if (not @_ or @_ != 3)
 	{
 		print <<END;
 Script for transforming a single SENIE source to Sketch-appropriate vertical
@@ -71,6 +73,7 @@ filename stub + _vertical.txt. It is expected that file starts with lines
 Params:
    data directory
    source filename, e.g. Baum1699_LVV_Unicode.txt
+   endoding, expected cp1257 or UTF-8
 
 AILab, LUMII, 2020, provided under GPL
 END
@@ -79,10 +82,11 @@ END
 
 	my $dirName = shift @_;
 	my $fileName = shift @_;
+	my $encoding = shift @_;
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
-	my $in = IO::File->new("$dirName/$fileName", "< :encoding(UTF-8)")
+	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
 		or die "Could not open file $dirName/$fileName: $!";
 
 	my $author = <$in>;
