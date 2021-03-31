@@ -172,6 +172,7 @@ END
 	$out->close;
 }
 
+# Split line so that each fragment in different language becomes a new segment.
 sub splitByLang
 {
 	my $line = shift @_;
@@ -181,6 +182,7 @@ sub splitByLang
 	return \@result;
 }
 
+# Split a line in tokens, taking into account specifics like "=" usage.
 sub tokenize
 {
 	my $line = shift @_;
@@ -189,6 +191,7 @@ sub tokenize
 	return \@result;
 }
 
+# Split token{correction} into two strings and remove {}.
 sub splitCorrection
 {
 	my $token = shift @_;
