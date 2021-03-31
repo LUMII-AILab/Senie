@@ -32,6 +32,7 @@ sub loadCatalog
 			$result->{$source} = $type;
 		}
 	}
+	$in->close;
 	return $result;
 }
 
