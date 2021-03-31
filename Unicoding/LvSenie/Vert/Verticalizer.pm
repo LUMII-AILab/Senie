@@ -1,4 +1,4 @@
-package LvSenieTranslit::Verticalizer;
+package LvSenie::Translit::Verticalizer;
 use strict;
 use utf8;
 use warnings;

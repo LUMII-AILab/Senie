@@ -1,11 +1,11 @@
-package LvSenieTranslit::Transliterator;
+package LvSenie::Translit::Transliterator;
 use strict;
 use utf8;
 use warnings;
 
 use IO::Dir;
 use IO::File;
-use LvSenieTranslit::TranslitTables qw(substTable hasTable encodeString decodeString);
+use TranslitTables qw(substTable hasTable encodeString decodeString);
 
 use Exporter();
 our @ISA = qw(Exporter);

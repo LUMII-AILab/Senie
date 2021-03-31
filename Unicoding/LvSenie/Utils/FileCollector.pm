@@ -1,4 +1,4 @@
-package LvSenieUtils::FileCollector;
+package LvSenie::Utils::FileCollector;
 use strict;
 use utf8;
 use warnings;

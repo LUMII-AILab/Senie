@@ -1,4 +1,4 @@
-package LvSenie2Unicode::Win1257ToUnicodeTables;
+package LvSenie::Unicode::Win1257ToUnicodeTables;
 use strict;
 use utf8;
 use warnings;

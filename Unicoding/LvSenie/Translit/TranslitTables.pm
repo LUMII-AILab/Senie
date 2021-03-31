@@ -1,4 +1,4 @@
-package LvSenieTranslit::TranslitTables;
+package LvSenie::Translit::TranslitTables;
 use strict;
 use warnings FATAL => 'all';
 use utf8;
