@@ -3,11 +3,21 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <perl5>
-      <path value="file://$MODULE_DIR$/LvSenie2Unicode" type="perl-library" />
-      <path value="file://$MODULE_DIR$/LvSenieTranslit" type="perl-library" />
-      <path value="file://$MODULE_DIR$/LvSenieUtils" type="perl-library" />
+      <path value="file://$MODULE_DIR$/LvSenie" type="perl-library" />
+      <path value="file://$MODULE_DIR$/LvSenie/Vert" type="perl-library" />
+      <path value="file://$MODULE_DIR$/LvSenie/Translit" type="perl-library" />
+      <path value="file://$MODULE_DIR$/LvSenie/Unicode" type="perl-library" />
+      <path value="file://$MODULE_DIR$/LvSenie/Utils" type="perl-library" />
     </perl5>
-    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/LvSenie" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/res" />
+      <excludeFolder url="file://$MODULE_DIR$/data" />
+      <excludeFolder url="file://$MODULE_DIR$/data-Apokr" />
+      <excludeFolder url="file://$MODULE_DIR$/data-ignore" />
+      <excludeFolder url="file://$MODULE_DIR$/data-JT" />
+      <excludeFolder url="file://$MODULE_DIR$/data-VD" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>

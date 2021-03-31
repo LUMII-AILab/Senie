@@ -1,4 +1,4 @@
-package LvSenieUtils::CodeCollector;
+package LvSenie::Utils::CodeCollector;
 use strict;
 use utf8;
 use warnings;
