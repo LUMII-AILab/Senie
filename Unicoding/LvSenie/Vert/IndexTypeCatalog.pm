@@ -13,7 +13,7 @@ our @EXPORT_OK = qw(getIndexType);
 our $sourcePath = '../Sources/indexing.txt';
 # Catalog mapping source code, e.g., Has1550_PN or JT1685/1J to indexing type
 # GNP, GLR, LR, or P.
-our $indexSpec = loadCatalog;
+our $indexSpec = &loadCatalog();
 
 # Load file where indexing type for each source is listed
 sub loadCatalog
@@ -41,7 +41,7 @@ sub loadCatalog
 # and then book code, e.g., JT1685/1J.
 sub getIndexType
 {
-	my $source = join '/', @_;
+	my $source = join '/', (grep {defined} @_);
 	$source =~ tr#\t#/#;
 	$source =~ s/^\s*(.*?)\s*$/$1/;
 	return $indexSpec->{$source} if (exists $indexSpec->{$source});
