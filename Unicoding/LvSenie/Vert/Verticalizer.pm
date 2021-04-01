@@ -2,9 +2,12 @@ package LvSenie::Vert::Verticalizer;
 use strict;
 use utf8;
 use warnings;
+
 use IO::Dir;
 use IO::File;
 #use Data::Dumper;
+use LvSenie::Utils::SourceProperties qw(getSourceProperties);
+use LvSenie::Vert::IndexTypeCatalog qw(getIndexType);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -86,34 +89,62 @@ END
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
+	print "Processing $fileNameStub.\n";
+
+	# Get general file info and indexing type
+	my $properties = getSourceProperties("$dirName/$fileName", $encoding);
+	my $indexType = getIndexType ($properties->{'z'}, $properties->{'g'});
+	my $fullSourceStub = $properties->{'z'};
+	$fullSourceStub = $fullSourceStub . "/" . $properties->{'g'} if (exists $properties->{'g'});
+	my $lowerSourceId = ($properties->{'g'} or $properties->{'z'});
+
+	# Prepare input
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
 		or die "Could not open file $dirName/$fileName: $!";
 
-	my $author = <$in>;
-	my $sourceId = <$in>;
-	$author =~ s/^\N{BOM}?\s*\@a\{(.*?)\}\s*$/$1/;
-	$sourceId =~ s/^\s*\@z\{(.*?)\}\s*$/$1/;
+	# First two lines should always be file properties, not actual text.
+	my $line = <$in>;
+	warn "Author is not in the first line!" unless $line =~ /^\N{BOM}?\s*\@a\{(.*?)\}\s*$/;
+	$line = <$in>;
+	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
+	if ($indexType eq 'GNP' or $indexType eq 'GLR')
+	{
+		$line = <$in>;
+		$line = <$in> while ($line =~ /^\p{Z}*$/);
+		$line = <$in> if ($line =~ /^\s*\@k\{(.*?)\}\s*$/);
+		warn "Bible book is not in the third/fourth nonempty line!" unless $line =~ /^\s*\@g\{(.*?)\}\s*$/;
+	}
 
+	# Prepare output
 	mkdir "$dirName/res/";
-	mkdir "$dirName/res/${sourceId}/";
-	my $out = IO::File->new("$dirName/res/${sourceId}/${fileNameStub}_vertical.txt", "> :encoding(UTF-8)")
-		or die "Could not open file $dirName/res/${sourceId}/${fileNameStub}_vertical.txt: $!";
+	mkdir "$dirName/res/$lowerSourceId/";
+	my $out = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}_vertical.txt", "> :encoding(UTF-8)")
+		or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}_vertical.txt: $!";
 
-	print $out "<doc id=\"$sourceId\" author=\"$author\">\n";
-	my ($inPara, $inPage) = (0, 0);
+	# Doc header
+	print $out "<doc id=\"$fullSourceStub\" author=\"${\$properties->{'a'}}\"";
+	print $out " commentary=\"${\$properties->{'k'}}\"" if (($indexType eq 'GNP' or $indexType eq 'GLR') and $properties->{'k'});
+	print $out ">\n";
+
+	my ($inPara, $inPage, $inVerse, $inChapter) = (0, 0, 0, 0);
+	my ($currentPage, $currentLine, $currentChapter, $currentVerse, $currentWord) = (0, 0, 0, 0, 0);
 	while (my $line = <$in>)
 	{
 		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)	# start of a new page
 		{
 
+			# Retrieve written and corrected page numbers
 			my $corrPageNo = $1;
 			my $fullBookPageNo = $2;
 			my $bookPageNo = $3;
 			$bookPageNo = $corrPageNo unless($fullBookPageNo);
 			#print "$line $corrPageNo, $fullBookPageNo, $bookPageNo @ $sourceId\n" if ($line =~ /[{}]/);
-			if ($inPara)
+
+			# Print paragraph and page borders.
+			if ($inVerse or $inPara)
 			{
 				print $out "</para>\n";
+				$inVerse = 0;
 				$inPara = 0;
 			}
 			if ($inPage)
@@ -123,23 +154,55 @@ END
 			}
 			print $out "<page correctedNo=\"$corrPageNo\" sourceNo=\"$bookPageNo\">\n";
 			$inPage = 1;
+			# Update indexing data.
+			$currentPage = $corrPageNo;
+			$currentLine = 0;
+		}
+		elsif ($line =~ /^\s*\@n\{(.*)\}\s*$/)	# bible chapter
+		{
+			if ($inVerse or $inPara)
+			{
+				print $out "</para>\n";
+				$inVerse = 0;
+				$inPara = 0;
+			}
+			print $out "</chapter>\n" if ($inChapter);
+			$currentChapter = $1;
+			print $out "<chapter no=\"$currentChapter\">\n" if ($inChapter);
+			#TODO chapter commentary
+			$currentVerse = 0;
 		}
 		elsif ($line =~ /^\s*$/)	# empty line - paragraph border
 		{
-			if ($inPara)
+			if ($inVerse or $inPara)
 			{
 				print $out "</para>\n";
+				$inVerse = 0;
 				$inPara = 0;
 			}
 		}
 		else
 		{
-			unless ($inPara)
+			unless ($inPara or $indexType eq 'GNP' or $indexType eq 'P')
 			{
-				print $out "<para>\n";
+				print $out "<para type=\"paragraph\">\n";
 				$inPara = 1;
 			}
+			if($line =~ /^\s*\@\@(.*?)\p{Z}(.*$)/) # verse in bible or in law
+			{
+				$currentVerse = $1;
+				$line = $2;
+
+				print $out "</para>\n" if ($inVerse);
+				my $paraType = "section";
+				$paraType = "verse"if ($indexType eq 'GNP');
+				print $out "<para no=\"$currentVerse\" type=\"$paraType\">\n";
+				$inVerse = 1;
+			}
 			print $out "<line>\n";
+			my $firstWord = 1;
+			$currentLine++;
+			$currentWord = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
 			my $lineParts = &splitByLang($line);
 			for my $linePart (@$lineParts)
 			{
@@ -154,10 +217,17 @@ END
 
 				for my $token (@{&tokenize($linePart)})
 				{
-					print $out "<g/>\n" unless ($token =~ /^\s+(.*)$/);
+					$currentWord++;
+					print $out "<g/>\n" unless ($token =~ /^\s+(.*)$/ or $firstWord);
 					$token =~ s/^\p{Z}*(.*)$/$1/;
 					print $out join "\t", @{&splitCorrection($token)};
+					print $out "\t${fullSourceStub}_";
+					print $out "${currentChapter}:" if($indexType eq 'GNP');
+					print $out "${currentVerse}_" if($indexType eq 'GNP' or $indexType eq 'P');
+					print $out "${currentPage}_${currentLine}_" if ($indexType eq 'LR' or $indexType eq 'GLR');
+					print $out $currentWord;
 					print $out "\n";
+					$firstWord = 0;
 				}
 
 				print $out "</foreign>\n" if ($language);
@@ -166,7 +236,7 @@ END
 		}
 	}
 
-	print $out "</para>\n" if ($inPara);
+	print $out "</para>\n" if ($inPara or $inVerse);
 	print $out "</page>\n" if ($inPage);
 	print $out "</doc>";
 	$out->close;
@@ -187,7 +257,7 @@ sub tokenize
 {
 	my $line = shift @_;
 	$line =~ s/^\s*(.*?)\s*$/$1/;
-	my @result = split /(?=\p{Z}+)|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}])|(?<=[.,?!\(])(?=[\p{L}\p{N}])/, $line;
+	my @result = split /(?=\p{Z}+)|(?=[^=\{\}\[\]\p{L}\p{M}\p{N},^~`'´\\\/ß§\$#"])|(?<=[.?!\(])(?=[\p{L}\p{N}])/, $line;
 	return \@result;
 }
 

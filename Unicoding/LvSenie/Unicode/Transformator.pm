@@ -2,9 +2,11 @@ package LvSenie::Unicode::Transformator;
 use strict;
 use utf8;
 use warnings;
+
 use IO::Dir;
 use IO::File;
-use Win1257ToUnicodeTables qw(substTable hasTable);
+
+use LvSenie::Unicode::Win1257ToUnicodeTables qw(substTable hasTable);
 
 use Exporter();
 our @ISA = qw(Exporter);

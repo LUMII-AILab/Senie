@@ -4,6 +4,7 @@ use utf8;
 use warnings;
 
 use IO::File;
+#use Data::Dumper;
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -42,7 +43,7 @@ sub loadCatalog
 sub getIndexType
 {
 	my $source = join '/', (grep {defined} @_);
-	$source =~ tr#\t#/#;
+	$source =~ tr#\t\\#//#;
 	$source =~ s/^\s*(.*?)\s*$/$1/;
 	return $indexSpec->{$source} if (exists $indexSpec->{$source});
 	return undef;
