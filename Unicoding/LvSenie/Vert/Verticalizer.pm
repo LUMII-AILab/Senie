@@ -197,17 +197,18 @@ END
 				$inPara = 1;
 			}
 			# @@ ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
-			if($line =~ /^\s*\@\@((?:\d+\.)+)(\p{Z}.*$)/ or
-				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}.*$)/) # verse in bible or in law
+			if($line =~ /^\s*\@\@((?:\d+\.)+)(\p{Z}+)(.*$)/ or
+				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}+)(.*$)/) # verse in bible or in law
 			{
 				$currentVerse = $1;
-				$line = "$1$2";
+				$line = "$3";
 
 				print $out "</para>\n" if ($inVerse);
 				my $paraType = "section";
 				$paraType = "verse"if ($indexType eq 'GNP');
 				print $out "<para no=\"$currentVerse\" type=\"$paraType\">\n";
 				$inVerse = 1;
+				$currentWord = 0;
 			}
 			print $out "<line>\n";
 			my $firstWord = 1;
