@@ -13,6 +13,7 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(verticalizeFile verticalizeDir);
 
+# TODO manis vienotie dehyp faili ir citādāki kā Normunda, laikam jāpāriet visur uz maniem???
 sub verticalizeDir
 {
 	autoflush STDOUT 1;
@@ -107,13 +108,13 @@ END
 	warn "Author is not in the first line!" unless $line =~ /^\N{BOM}?\s*\@a\{(.*?)\}\s*$/;
 	$line = <$in>;
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
-	if ($indexType eq 'GNP' or $indexType eq 'GLR')
-	{
-		$line = <$in>;
-		$line = <$in> while ($line =~ /^\p{Z}*$/);
-		$line = <$in> if ($line =~ /^\s*\@k\{(.*?)\}\s*$/);
-		warn "Bible book is not in the third/fourth nonempty line!" unless $line =~ /^\s*\@g\{(.*?)\}\s*$/;
-	}
+	#if ($indexType eq 'GNP' or $indexType eq 'GLR')
+	#{
+	#	$line = <$in>;
+	#	$line = <$in> while ($line =~ /^\p{Z}*$/);
+	#	$line = <$in> if ($line =~ /^\s*\@k\{(.*?)\}\s*$/);
+	#	warn "Bible book is not in the third/fourth nonempty line!" unless $line =~ /^\s*\@g\{(.*?)\}\s*$/;
+	#}
 
 	# Prepare output
 	mkdir "$dirName/res/";
@@ -128,6 +129,7 @@ END
 
 	my ($inPara, $inPage, $inVerse, $inChapter) = (0, 0, 0, 0);
 	my ($currentPage, $currentLine, $currentChapter, $currentVerse, $currentWord) = (0, 0, 0, 0, 0);
+	my $seenBookCode = 0;
 	while (my $line = <$in>)
 	{
 		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)	# start of a new page
@@ -157,6 +159,11 @@ END
 			# Update indexing data.
 			$currentPage = $corrPageNo;
 			$currentLine = 0;
+		}
+		elsif ($line =~ /^\s*\@g\{(.*)\}\s*$/)	# bible book
+		{
+			warn "Repeated Bible book code g (\@g{$1}!" if ($seenBookCode);
+			$seenBookCode = 1;
 		}
 		elsif ($line =~ /^\s*\@n\{(.*)\}\s*$/)	# bible chapter
 		{
@@ -188,10 +195,12 @@ END
 				print $out "<para type=\"paragraph\">\n";
 				$inPara = 1;
 			}
-			if($line =~ /^\s*\@\@(.*?)\p{Z}(.*$)/) # verse in bible or in law
+			# TODO šitais ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
+			if($line =~ /^\s*\@\@((?:\d+\.)+)(\p{Z}.*$)/ or
+				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}.*$)/) # verse in bible or in law
 			{
 				$currentVerse = $1;
-				$line = $2;
+				$line = "$1$2";
 
 				print $out "</para>\n" if ($inVerse);
 				my $paraType = "section";
