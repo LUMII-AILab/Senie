@@ -6,6 +6,7 @@ use warnings;
 use IO::Dir;
 use IO::File;
 #use Data::Dumper;
+use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
 use LvSenie::Vert::IndexTypeCatalog qw(getIndexType);
 
@@ -124,7 +125,7 @@ END
 
 	# Doc header
 	print $out "<doc id=\"$fullSourceStub\" author=\"${\$properties->{'a'}}\"";
-	print $out " commentary=\"${\$properties->{'k'}}\"" if (($indexType eq 'GNP' or $indexType eq 'GLR') and $properties->{'k'});
+	#print $out " commentary=\"${\$properties->{'k'}}\"" if (($indexType eq 'GNP' or $indexType eq 'GLR') and $properties->{'k'});
 	print $out ">\n";
 
 	my ($inPara, $inPage, $inVerse, $inChapter) = (0, 0, 0, 0);
@@ -195,7 +196,7 @@ END
 				print $out "<para type=\"paragraph\">\n";
 				$inPara = 1;
 			}
-			# TODO šitais ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
+			# @@ ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
 			if($line =~ /^\s*\@\@((?:\d+\.)+)(\p{Z}.*$)/ or
 				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}.*$)/) # verse in bible or in law
 			{
@@ -215,14 +216,19 @@ END
 			my $lineParts = &splitByLang($line);
 			for my $linePart (@$lineParts)
 			{
-				my $language = 0;
+				my $codeLetter = 0;
 				if ($linePart =~ /^\s*@([\w\d]+){(.*?)}(\s*)$/)
 				{
-					$language = $1;
+					$codeLetter = $1;
 					$linePart = $2;
 				}
+				my $isLang = isLanguage($codeLetter);
+				my $decoded = $codeLetter;
+				$decoded = decode($codeLetter) if (canDecode($codeLetter));
+				my $sketchElemType = ($isLang ? 'foreign' : 'block');
+				my $sketchAttrType = ($isLang ? 'lang' : 'type');
 
-				print $out "<foreign lang=\"$language\">\n" if ($language);
+				print $out "<$sketchElemType $sketchAttrType=\"$decoded\">\n" if ($codeLetter);
 
 				for my $token (@{&tokenize($linePart)})
 				{
@@ -239,7 +245,7 @@ END
 					$firstWord = 0;
 				}
 
-				print $out "</foreign>\n" if ($language);
+				print $out "</$sketchElemType>\n" if ($codeLetter);
 			}
 			print $out "</line>\n";
 		}
