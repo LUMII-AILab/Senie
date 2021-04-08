@@ -41,6 +41,7 @@ END
 	}
 	my $dirName = shift @_;
 	my $fileName = shift @_;
+	print "Processing $fileName\n";
 	die "No table found for file $fileName" unless (hasTable($fileName));
 	my %table = %{substTable($fileName)};
 	my $in = IO::File->new("$dirName/${fileName}_Unicode_unhyphened.txt", "< :encoding(UTF-8)")
@@ -54,12 +55,12 @@ END
 	{
 		# Some lines contain fields to be ignored.
 		unless ($line =~
-			/^\s*(\@[abcdefghiklnrsvxz1]\{.*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/)
+			/^\s*(\@[1abcdefghilnrsvxz]\{.*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/)
 		{
 			# To avoid replacements in small foreign fragments within the line
 			# we encode that text the same way as we encode already substituted
 			# text - each character is inclosed in \N{U+E001} and \N{U+E002}.
-			$line =~ s/(\@[abcdefghiklnrsvxz1]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
+			$line =~ s/(\@[1abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
 			for my $target (keys %table)
 			{
 				my $subst = $table{$target};
@@ -85,7 +86,7 @@ sub transformDir
 	{
 		print <<END;
 Script for transforming SENIE sources to Unicode. Source must be provided in
-input folder with canonical names and sufix _Unicode_translitered.txt, e.g.,
+input folder with canonical names and suffix _Unicode_translitered.txt, e.g.,
 Baum1699_LVV_Unicode_translitered.txt.
 
 Params:
@@ -102,7 +103,7 @@ END
 	my $all = 0;
 	while (defined(my $inFile = $dir->read))
 	{
-		if ((-f "$dirName/$inFile") and $inFile =~ /^(.*?)_Unicode_translitered\.txt$/)
+		if ((-f "$dirName/$inFile") and $inFile =~ /^(.*?)_Unicode_unhyphened\.txt$/)
 		{
 			my $nameStub = $1;
 			my $isBad = 0;

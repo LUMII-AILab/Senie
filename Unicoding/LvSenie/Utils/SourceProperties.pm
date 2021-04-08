@@ -30,7 +30,7 @@ sub getSourceProperties
 	{
 		$res->{'a'} = $1 if ($line =~ /\@a\{([^}]*)\}/); # a - autors
 		$res->{'z'} = $1 if ($line =~ /\@z\{([^}]*)\}/); # g - bībeles grāmata priekš GLR un GNP
-		$res->{'k'} = $1 if ($line =~ /\@k\{([^}]*)\}/ and not defined $res->{'g'}); # k - pirmais komentārs priekš GLR un GNP pirms g
+		#$res->{'k'} = $1 if ($line =~ /\@k\{([^}]*)\}/ and not defined $res->{'g'}); # k - pirmais komentārs priekš GLR un GNP pirms g
 		$res->{'g'} = $1 if ($line =~ /\@g\{([^}]*)\}/); # z - avota saīsinājums - visiem
 		last if (scalar keys %$res > 3 or $noG and scalar keys %$res > 2);
 	}
