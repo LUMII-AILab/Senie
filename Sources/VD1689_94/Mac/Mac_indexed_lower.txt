@@ -1,5 +1,5 @@
-Vârdformu skaits:	1423
-Vârdlietojumu skaits:	5446
+Vârdformu skaits:	1424
+Vârdlietojumu skaits:	5451
 
 
 abbeem
@@ -2390,7 +2390,8 @@ d§ihwo
 	1 VD1689_94 Mac 5:17
 	1 VD1689_94 Mac 7:1
 	1 VD1689_94 Mac 7:3
-	2 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	1 VD1689_94 Mac 11:0
 	1 VD1689_94 Mac 11:8
 	-----
@@ -2443,7 +2444,7 @@ d§ihwotu
 
 d§ihws
 
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	-----
 	1
 
@@ -3753,7 +3754,8 @@ irr
 	1 VD1689_94 Mac 8:15
 	2 VD1689_94 Mac 9:1
 	1 VD1689_94 Mac 9:2
-	6 VD1689_94 Mac 9:3
+	4 VD1689_94 Mac 9:3
+	2 VD1689_94 Mac 9:4
 	2 VD1689_94 Mac 9:5
 	2 VD1689_94 Mac 9:6
 	1 VD1689_94 Mac 9:7
@@ -4267,7 +4269,7 @@ jo
 	1 VD1689_94 Mac 8:3
 	2 VD1689_94 Mac 8:6
 	2 VD1689_94 Mac 8:7
-	1 VD1689_94 Mac 9:3
+	2 VD1689_94 Mac 9:4
 	2 VD1689_94 Mac 9:5
 	1 VD1689_94 Mac 9:7
 	1 VD1689_94 Mac 9:9
@@ -4287,7 +4289,7 @@ jo
 	1 VD1689_94 Mac 12:13
 	1 VD1689_94 Mac 12:14
 	-----
-	76
+	77
 
 
 joprohjam
@@ -4708,6 +4710,7 @@ kas
 	1 VD1689_94 Mac 9:1
 	4 VD1689_94 Mac 9:2
 	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	1 VD1689_94 Mac 9:6
 	1 VD1689_94 Mac 9:10
 	1 VD1689_94 Mac 9:12
@@ -4731,7 +4734,7 @@ kas
 	1 VD1689_94 Mac 12:13
 	1 VD1689_94 Mac 12:14
 	-----
-	133
+	134
 
 
 kauli
@@ -5097,7 +5100,7 @@ labbaks
 	1 VD1689_94 Mac 6:3
 	1 VD1689_94 Mac 6:9
 	2 VD1689_94 Mac 7:9
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	1 VD1689_94 Mac 10:11
 	1 VD1689_94 Mac 11:6
 	-----
@@ -5426,7 +5429,7 @@ laúúiúchanas
 
 lauwa
 
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	-----
 	1
 
@@ -6741,7 +6744,7 @@ neka`
 	1 VD1689_94 Mac 7:11
 	1 VD1689_94 Mac 7:20
 	1 VD1689_94 Mac 7:27
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	1 VD1689_94 Mac 9:16
 	1 VD1689_94 Mac 9:17
 	1 VD1689_94 Mac 9:18
@@ -7118,7 +7121,7 @@ nolikts
 
 nomirris
 
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	-----
 	1
 
@@ -8119,6 +8122,13 @@ prahtu
 	1 VD1689_94 Mac 11:9
 	-----
 	3
+
+
+preekúa'h
+
+	1 VD1689_94 Mac 9:4
+	-----
+	1
 
 
 preekúch
@@ -10016,7 +10026,7 @@ strahdneekam
 
 úuns
 
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	-----
 	1
 
@@ -10126,6 +10136,7 @@ ta
 	1 VD1689_94 Mac 8:6
 	1 VD1689_94 Mac 8:8
 	1 VD1689_94 Mac 8:11
+	1 VD1689_94 Mac 9:4
 	1 VD1689_94 Mac 9:13
 	1 VD1689_94 Mac 9:14
 	1 VD1689_94 Mac 9:15
@@ -10151,7 +10162,7 @@ ta
 	1 VD1689_94 Mac 12:6
 	1 VD1689_94 Mac 12:14
 	-----
-	83
+	84
 
 
 ta`
@@ -12220,11 +12231,12 @@ wehl
 	1 VD1689_94 Mac 7:24
 	2 VD1689_94 Mac 7:29
 	1 VD1689_94 Mac 8:10
+	1 VD1689_94 Mac 9:4
 	1 VD1689_94 Mac 10:5
 	1 VD1689_94 Mac 12:9
 	1 VD1689_94 Mac 12:12
 	-----
-	18
+	19
 
 
 wehra^
@@ -12856,7 +12868,7 @@ zelts
 
 zerriba
 
-	1 VD1689_94 Mac 9:3
+	1 VD1689_94 Mac 9:4
 	-----
 	1
 
