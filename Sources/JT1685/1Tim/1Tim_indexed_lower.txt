@@ -1,5 +1,5 @@
-Vârdformu skaits:	896
-Vârdlietojumu skaits:	2299
+Vârdformu skaits:	900
+Vârdlietojumu skaits:	2308
 
 
 adams
@@ -652,7 +652,7 @@ bet
 	1 JT1685 1Tim 1:16
 	1 JT1685 1Tim 1:17
 	1 JT1685 1Tim 2:10
-	2 JT1685 1Tim 2:11
+	2 JT1685 1Tim 2:12
 	1 JT1685 1Tim 2:14
 	1 JT1685 1Tim 2:15
 	1 JT1685 1Tim 3:3
@@ -761,7 +761,7 @@ buhs
 	1 JT1685 1Tim 1:0
 	1 JT1685 1Tim 1:16
 	2 JT1685 1Tim 2:0
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 3:7
 	1 JT1685 1Tim 3:8
 	1 JT1685 1Tim 3:10
@@ -1476,7 +1476,7 @@ es
 	1 JT1685 1Tim 2:1
 	2 JT1685 1Tim 2:7
 	1 JT1685 1Tim 2:8
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 3:14
 	1 JT1685 1Tim 3:15
 	1 JT1685 1Tim 4:13
@@ -1562,6 +1562,13 @@ gaddus
 gahdaht
 
 	1 JT1685 1Tim 3:5
+	-----
+	1
+
+
+gahju
+
+	1 JT1685 1Tim 1:3
 	-----
 	1
 
@@ -2177,7 +2184,7 @@ juhgas
 
 ka
 
-	1 JT1685 1Tim 1:3
+	2 JT1685 1Tim 1:3
 	1 JT1685 1Tim 1:4
 	1 JT1685 1Tim 1:6
 	1 JT1685 1Tim 1:8
@@ -2229,7 +2236,7 @@ ka
 	1 JT1685 1Tim 6:18
 	1 JT1685 1Tim 6:19
 	-----
-	55
+	56
 
 
 ka`
@@ -2275,9 +2282,10 @@ kahdam
 
 kahdu
 
+	1 JT1685 1Tim 1:3
 	1 JT1685 1Tim 5:14
 	-----
-	1
+	2
 
 
 kahjas
@@ -2554,7 +2562,7 @@ kïuh§t
 
 kluúúu
 
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	-----
 	1
 
@@ -3225,7 +3233,7 @@ mahzibu
 mahziht
 
 	1 JT1685 1Tim 1:3
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 3:2
 	-----
 	3
@@ -3255,6 +3263,13 @@ mahzitaja
 mahzitajs
 
 	1 JT1685 1Tim 2:7
+	-----
+	1
+
+
+makedoniju
+
+	1 JT1685 1Tim 1:3
 	-----
 	1
 
@@ -3619,6 +3634,7 @@ naudas
 
 ne
 
+	1 JT1685 1Tim 1:3
 	1 JT1685 1Tim 1:7
 	1 JT1685 1Tim 1:9
 	1 JT1685 1Tim 1:10
@@ -3626,7 +3642,7 @@ ne
 	1 JT1685 1Tim 1:20
 	1 JT1685 1Tim 2:7
 	1 JT1685 1Tim 2:9
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 2:14
 	5 JT1685 1Tim 3:3
 	1 JT1685 1Tim 3:5
@@ -3659,7 +3675,7 @@ ne
 	2 JT1685 1Tim 6:17
 	1 JT1685 1Tim 6:20
 	-----
-	51
+	52
 
 
 nebijigeem
@@ -3673,7 +3689,7 @@ neds
 
 	1 JT1685 1Tim 1:4
 	2 JT1685 1Tim 1:7
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 5:22
 	1 JT1685 1Tim 6:7
 	1 JT1685 1Tim 6:16
@@ -4002,7 +4018,7 @@ pahr
 
 	1 JT1685 1Tim 1:18
 	1 JT1685 1Tim 2:1
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 3:5
 	-----
 	4
@@ -4108,7 +4124,7 @@ paklauúiúchanu
 
 païauju
 
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	-----
 	1
 
@@ -4321,6 +4337,13 @@ paúkubbinajis
 paúkubbinaúchanu
 
 	1 JT1685 1Tim 4:13
+	-----
+	1
+
+
+pa§kubbinatu
+
+	1 JT1685 1Tim 1:3
 	-----
 	1
 
@@ -5333,7 +5356,7 @@ schehla§tibu
 
 úeewai
 
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	-----
 	1
 
@@ -6251,7 +6274,7 @@ to
 	1 JT1685 1Tim 1:18
 	1 JT1685 1Tim 1:19
 	2 JT1685 1Tim 2:7
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 2:13
 	1 JT1685 1Tim 3:6
 	1 JT1685 1Tim 3:9
@@ -6353,6 +6376,7 @@ trinnite
 
 tu
 
+	1 JT1685 1Tim 1:3
 	1 JT1685 1Tim 1:18
 	1 JT1685 1Tim 3:15
 	3 JT1685 1Tim 4:6
@@ -6360,7 +6384,7 @@ tu
 	1 JT1685 1Tim 6:11
 	1 JT1685 1Tim 6:12
 	-----
-	8
+	9
 
 
 tudaliò
@@ -6438,13 +6462,14 @@ uhdeni
 
 uhs
 
+	1 JT1685 1Tim 1:3
 	1 JT1685 1Tim 1:16
 	1 JT1685 1Tim 3:14
 	1 JT1685 1Tim 4:6
 	1 JT1685 1Tim 5:6
 	1 JT1685 1Tim 5:24
 	-----
-	5
+	6
 
 
 un
@@ -6697,7 +6722,7 @@ walda
 
 waldiht
 
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	1 JT1685 1Tim 3:5
 	1 JT1685 1Tim 5:4
 	-----
@@ -7022,7 +7047,7 @@ wihri
 
 wihru
 
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	-----
 	1
 
@@ -7065,7 +7090,7 @@ wiòòa
 
 wiòòai
 
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	-----
 	1
 
@@ -7194,7 +7219,7 @@ zeenigus
 
 zee§t
 
-	1 JT1685 1Tim 2:11
+	1 JT1685 1Tim 2:12
 	-----
 	1
 
@@ -7367,14 +7392,22 @@ zitto
 
 zittu
 
+	1 JT1685 1Tim 1:3
 	1 JT1685 1Tim 6:3
 	-----
-	1
+	2
 
 
 zittus
 
 	1 JT1685 1Tim 3:2
+	-----
+	1
+
+
+zittus{zitzus}
+
+	1 JT1685 1Tim 1:3
 	-----
 	1
 
@@ -7401,9 +7434,8 @@ zittus
 12
 
 	1 JT1685 1Tim 1:0
-	1 JT1685 1Tim 2:11
 	-----
-	2
+	1
 
 
 15

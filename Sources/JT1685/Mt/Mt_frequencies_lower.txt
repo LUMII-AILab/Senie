@@ -1,36 +1,36 @@
-Vârdformu skaits:	4412
-Vârdlietojumu skaits:	22465
+Vârdformu skaits:	4419
+Vârdlietojumu skaits:	22498
 
 
-1540	un
-468	to
+1541	un
+469	to
 405	no
 390	ne
 382	tas
 373	tee
-367	irr
+369	irr
 340	kas
 334	bet
-332	ka
-289	úazzija
-285	teem
+333	ka
+290	úazzija
+286	teem
 269	tad
-265	us
+267	us
 245	wiòúch
-240	juhs
+243	juhs
 203	es
 191	pee
 178	wiòòa
 176	jo
 157	je§us
-154	jums
+155	jums
 152	kad
 151	ar
 142	tha
 127	buhs
-123	tohs
-122	ta
-122	tu
+124	tohs
+123	ta
+123	tu
 116	wiòòu
 108	ko
 99	tam
@@ -48,16 +48,16 @@ Vârdlietojumu skaits:	22465
 61	zaur
 60	thas
 60	tho
+58	kungs
 58	red§i
 58	ta`
 57	daud§
-57	kungs
 56	nahze
+52	eúúaht
 51	dehls
 51	tur
-50	eúúaht
+49	deewa
 49	pahr
-48	deewa
 48	nu
 48	wiòòam
 47	tapehz
@@ -69,7 +69,7 @@ Vârdlietojumu skaits:	22465
 43	par
 42	man
 41	mahzekïi
-39	eúúi
+40	eúúi
 39	gahje
 39	ïaudis
 39	lihd§
@@ -145,13 +145,13 @@ Vârdlietojumu skaits:	22465
 19	tomehr
 19	wiúúahs
 19	zilweks
+19	1
 18	augúcham
 18	òehme
 18	úcho
 18	waj
 18	wirs
 18	wiús
-18	1
 17	eúúam
 17	patt
 17	úawa
@@ -219,6 +219,7 @@ Vârdlietojumu skaits:	22465
 13	zeïïu
 12	ikkatrs
 12	itt
+12	labbu
 12	mahti
 12	paúchu
 12	peepildihts
@@ -234,7 +235,6 @@ Vârdlietojumu skaits:	22465
 11	grehkeem
 11	kapehz
 11	kru§ta^
-11	labbu
 11	laika
 11	leekuïi
 11	lihd§ibu
@@ -447,6 +447,7 @@ Vârdlietojumu skaits:	22465
 6	leela
 6	leezibu
 6	meita
+6	mo§us
 6	muttes
 6	nahkuúi
 6	nahz
@@ -549,7 +550,6 @@ Vârdlietojumu skaits:	22465
 5	meeru
 5	meeúahs
 5	meeúu
-5	mo§us
 5	muhs
 5	nahkam
 5	nammu
@@ -898,6 +898,7 @@ Vârdlietojumu skaits:	22465
 3	juddo=semme^
 3	juhúahm
 3	juhúahs
+3	juhúas
 3	kahjahs
 3	kahrt
 3	kalna
@@ -993,6 +994,7 @@ Vârdlietojumu skaits:	22465
 3	poh§ta^
 3	prahtu
 3	praweeúcheem
+3	praweeúcho
 3	preeku
 3	preeúch
 3	preezas
@@ -1313,7 +1315,6 @@ Vârdlietojumu skaits:	22465
 2	juhºa
 2	juhrmalli^
 2	juhúa^s
-2	juhúas
 2	juh§o
 2	juhúus
 2	jumprawahs
@@ -1548,7 +1549,6 @@ Vârdlietojumu skaits:	22465
 2	pliks
 2	pohdneeka=tihrumu
 2	prahtam
-2	praweeúcho
 2	preeka^
 2	pree§teºa
 2	pree§teris
@@ -1948,6 +1948,7 @@ Vârdlietojumu skaits:	22465
 1	ap§tahjahs
 1	ap§tahta
 1	ap§tiprinahts
+1	apúuhds
 1	apúuhd§ehts
 1	apúuhd§etais
 1	apúuhd§etu
@@ -2167,7 +2168,6 @@ Vârdlietojumu skaits:	22465
 1	brinidamees
 1	bruhtganam
 1	bruòòahs
-1	bu
 1	buhdahs
 1	buhdama
 1	buhdas
@@ -2285,6 +2285,7 @@ Vârdlietojumu skaits:	22465
 1	d§ihwohúchanas
 1	d§ihwoja
 1	d§ihwoúchanas
+1	d§ihwo§chanu
 1	d§ihwotajeem
 1	d§ihws
 1	d§ihwu
@@ -2493,6 +2494,7 @@ Vârdlietojumu skaits:	22465
 1	gawejs
 1	gaweúchanu
 1	ìehrbúimees
+1	ìehrbúitees
 1	ìeííam
 1	genezaret
 1	gerge§enero
@@ -2684,6 +2686,7 @@ Vârdlietojumu skaits:	22465
 1	jaunu
 1	jautaht
 1	jautaúchanu
+1	jebkad
 1	jeb§chu
 1	jehru
 1	jekoniu
@@ -3001,9 +3004,9 @@ Vârdlietojumu skaits:	22465
 1	mahzeklim
 1	mahzi
 1	mahzibahs
+1	mahzibu{mahzizibu}
 1	mahzihs
 1	mahzijs
-1	mahzipraweeúcho
 1	mahzitajus
 1	mahzoht
 1	mai§e
@@ -3170,9 +3173,13 @@ Vârdlietojumu skaits:	22465
 1	nee
 1	needras=steebri
 1	neehduúchus
+1	neg'
+1	neì'
 1	negantibas
 1	negantibu
 1	negauúibas
+1	negg'
+1	neìì'
 1	neììi
 1	negribbeja
 1	òehmuúchees
@@ -3881,6 +3888,7 @@ Vârdlietojumu skaits:	22465
 1	§innatut
 1	§inni
 1	úirdi^s
+1	úirds{úiºds}
 1	úirds=lepnibu
 1	siriu
 1	úirrds
@@ -4398,7 +4406,6 @@ Vârdlietojumu skaits:	22465
 1	zitteem
 1	zorobabels
 1	zorobabeïu
-1	0
 1	118
 1	26
 1	35

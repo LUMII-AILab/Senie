@@ -1,27 +1,27 @@
-Vârdformu skaits:	5468
-Vârdlietojumu skaits:	28796
+Vârdformu skaits:	5473
+Vârdlietojumu skaits:	28831
 
 
-1194	un
+1195	un
 701	irr
 597	to
 475	ne
-360	ka
-357	no
+361	ka
+359	no
 345	kas
 336	ta
 325	tas
-267	1
+268	1
 261	eekúch
 250	buhs
-226	ar
+227	ar
 221	2
-218	tahs
+219	tahs
 185	DEewa
-173	tee
-172	mehs
+174	tee
+173	mehs
+168	3
 168	teem
-167	3
 165	bet
 156	pee
 156	tad
@@ -31,9 +31,9 @@ Vârdlietojumu skaits:	28796
 140	es
 140	wiòòa
 138	zaur
-135	us
+136	us
 129	Kas
-122	juhs
+123	juhs
 119	Es
 118	ka`
 115	ko
@@ -52,15 +52,15 @@ Vârdlietojumu skaits:	28796
 86	Tas
 85	KUngs
 84	D§
-83	6
+84	6
 82	Kad
 82	pahr
 82	tam
 81	tohp
 78	DEewu
+78	muhúu
 77	Dahw
 77	jums
-77	muhúu
 74	Grehkeem
 66	tawu
 66	weenu
@@ -69,15 +69,15 @@ Vârdlietojumu skaits:	28796
 65	arrid§an
 64	neds
 63	kad
+63	Ne
 62	muhs
-62	Ne
 62	weens
 61	preekúch
 59	prett
 58	KUnga
 58	Mums
-56	10
-55	9
+57	10
+56	9
 54	úew
 53	eúúam
 53	mann
@@ -111,18 +111,18 @@ Vârdlietojumu skaits:	28796
 42	Grehkus
 42	Meeúas
 42	ta`
+42	18
 41	nu
 41	Reem
 41	14
-41	18
 40	paúchu
 40	wiúúas
 40	22
 39	ja
+39	Kor
 39	Tehws
 39	11
 38	dohd
-38	Kor
 38	Tew
 37	Grehku
 37	JE§us
@@ -159,8 +159,8 @@ Vârdlietojumu skaits:	28796
 30	mannim
 30	tai
 30	Zilweku
+30	24
 29	Gars
-29	24
 28	daud§
 28	eúúi
 28	muh§chigi
@@ -169,6 +169,7 @@ Vârdlietojumu skaits:	28796
 27	lai
 27	wiúúi
 26	buhtu
+26	Jo
 26	KRi§tus
 26	labbi
 26	Wiòòa
@@ -177,7 +178,6 @@ Vârdlietojumu skaits:	28796
 25	dehï
 25	gann
 25	Garra
-25	Jo
 25	úakka
 25	úcho
 25	Semmes
@@ -318,6 +318,7 @@ Vârdlietojumu skaits:	28796
 13	Aúúins
 13	Barribu
 13	bihtees
+13	c
 13	Deena^
 13	eet
 13	E§ai
@@ -334,11 +335,11 @@ Vârdlietojumu skaits:	28796
 13	Wal§tibu
 13	wiòòo
 12	Ap
-12	c
 12	Deenu
 12	Dwehúele
 12	Dwehúeles
 12	ittin
+12	labbad
 12	labpraht
 12	Leetu
 12	Luhk
@@ -365,7 +366,6 @@ Vârdlietojumu skaits:	28796
 11	Dwehúeli
 11	JESUS
 11	Kungam
-11	labbad
 11	Lai
 11	Luhgúchanu
 11	Man
@@ -436,6 +436,7 @@ Vârdlietojumu skaits:	28796
 9	Matth
 9	Nahwe
 9	Semme
+9	Sir
 9	Spehks
 9	Spehku
 9	§taigaht
@@ -485,8 +486,8 @@ Vârdlietojumu skaits:	28796
 8	úawahm
 8	úchahs
 8	úchi
+8	§innat
 8	§innu
-8	Sir
 8	Spehka
 8	§tarpa^
 8	tahdas
@@ -547,7 +548,6 @@ Vârdlietojumu skaits:	28796
 7	úche
 7	úchíih§ti
 7	Úeewu
-7	§innat
 7	§kaidri
 7	§tipri
 7	Úwehtibas
@@ -1087,6 +1087,7 @@ Vârdlietojumu skaits:	28796
 3	Kahrdinaúchana
 3	kahrt
 3	Kalpam
+3	Kalpoúchanas
 3	Kalpu
 3	Íehniòu
 3	Kohks
@@ -1125,6 +1126,7 @@ Vârdlietojumu skaits:	28796
 3	Lohzekïi
 3	luhd§eet
 3	luhd§ohs
+3	Luhgúchanahm
 3	Mahriòas
 3	Mahtei
 3	Mahti
@@ -1440,6 +1442,7 @@ Vârdlietojumu skaits:	28796
 2	Diwi
 2	Diwkahrtigi
 2	dohdams
+2	dohma
 2	dohmaht
 2	Dohmaúchanas
 2	dohti
@@ -1495,6 +1498,7 @@ Vârdlietojumu skaits:	28796
 2	Eògeïi
 2	eúúohts
 2	eúúus
+2	Gadda^
 2	Gaddi
 2	gaddigi
 2	gahda
@@ -1588,7 +1592,6 @@ Vârdlietojumu skaits:	28796
 2	Kalpeem
 2	kalpojam
 2	Kalponei
-2	Kalpoúchanas
 2	Kalpoúchanu
 2	Kalps
 2	kamehr
@@ -1658,7 +1661,6 @@ Vârdlietojumu skaits:	28796
 2	Lohzeklis
 2	luhd§at
 2	luhd§is
-2	Luhgúchanahm
 2	Luhgúchanai
 2	luhko
 2	Luhpahm
@@ -1684,6 +1686,7 @@ Vârdlietojumu skaits:	28796
 2	meklejeet
 2	mellotu
 2	mettahs
+2	mettamees
 2	mihïa
 2	mihïais
 2	mihïajs
@@ -2445,8 +2448,10 @@ Vârdlietojumu skaits:	28796
 1	Azzmirkla
 1	Azzu=mirkli
 1	Baa&lam
+1	Badda=Laikeem
 1	Badda=Laiku
 1	Baddu
+1	Baggata^
 1	Baggatiba
 1	Baggatibas
 1	Baggatibu
@@ -2566,7 +2571,6 @@ Vârdlietojumu skaits:	28796
 1	Burwibu
 1	Burwjeem
 1	Cor
-1	da=Laikeem
 1	Dabbu
 1	dabbujat
 1	dabbuj§chi
@@ -2692,7 +2696,6 @@ Vârdlietojumu skaits:	28796
 1	dohdees
 1	dohdeet
 1	dohdi
-1	dohma
 1	dohmajat
 1	dohmaju
 1	dohmat
@@ -2926,7 +2929,6 @@ Vârdlietojumu skaits:	28796
 1	eúúoúchi
 1	eúúot
 1	eúúu
-1	Gadda^
 1	gaddigeem
 1	Gaddus
 1	Gads
@@ -3019,6 +3021,7 @@ Vârdlietojumu skaits:	28796
 1	gribbu{grribbu}
 1	gºuht=úirdigee
 1	gºuhtaku
+1	gruhtas
 1	gruhts
 1	gudri
 1	gudrus
@@ -3611,7 +3614,6 @@ Vârdlietojumu skaits:	28796
 1	me§t
 1	me§ts
 1	mett
-1	mettamees
 1	mettees
 1	metti
 1	mihla
@@ -3646,6 +3648,7 @@ Vârdlietojumu skaits:	28796
 1	mohdrigi
 1	Mohku
 1	Mohú
+1	Mohúu
 1	mohzi
 1	Mohziba
 1	Mugguras
@@ -3769,6 +3772,7 @@ Vârdlietojumu skaits:	28796
 1	neúúuúchi
 1	ne§t
 1	Netaiúneem
+1	Netaiúni
 1	Netaiúniba
 1	Netaisnibu
 1	Netaiúnibu
@@ -4663,6 +4667,7 @@ Vârdlietojumu skaits:	28796
 1	§innamus
 1	§innatu
 1	Sinnu
+1	Úirdeh§teem
 1	úirdigu
 1	Sirds
 1	Úirdß

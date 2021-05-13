@@ -1,5 +1,5 @@
-Vârdformu skaits:	1591
-Vârdlietojumu skaits:	5932
+Vârdformu skaits:	1593
+Vârdlietojumu skaits:	5940
 
 
 ahra
@@ -1044,6 +1044,13 @@ Augïus
 Aug§tumu
 
 	1 JT1685 2Kor 10:5
+	-----
+	1
+
+
+baggata
+
+	1 JT1685 2Kor 8:20
 	-----
 	1
 
@@ -2234,11 +2241,12 @@ dehï
 	1 JT1685 2Kor 7:0
 	1 JT1685 2Kor 8:8
 	1 JT1685 2Kor 8:9
+	1 JT1685 2Kor 8:20
 	1 JT1685 2Kor 8:22
 	1 JT1685 2Kor 12:7
 	1 JT1685 2Kor 12:10
 	-----
-	13
+	14
 
 
 Dehleem
@@ -4802,7 +4810,7 @@ ka
 	1 JT1685 2Kor 8:11
 	2 JT1685 2Kor 8:13
 	1 JT1685 2Kor 8:14
-	1 JT1685 2Kor 8:20
+	2 JT1685 2Kor 8:20
 	1 JT1685 2Kor 9:2
 	1 JT1685 2Kor 9:3
 	3 JT1685 2Kor 9:5
@@ -4841,7 +4849,7 @@ ka
 	1 JT1685 2Kor 13:9
 	1 JT1685 2Kor 13:10
 	-----
-	167
+	168
 
 
 Ka
@@ -5026,8 +5034,9 @@ Kalpi
 kalpojam
 
 	1 JT1685 2Kor 8:19
+	1 JT1685 2Kor 8:20
 	-----
-	1
+	2
 
 
 Kalpoúchana
@@ -5373,10 +5382,11 @@ Korintu
 
 Krahjuma
 
+	1 JT1685 2Kor 8:20
 	1 JT1685 2Kor 9:1
 	1 JT1685 2Kor 9:12
 	-----
-	2
+	3
 
 
 kreiúas
@@ -6802,6 +6812,7 @@ mehs
 	1 JT1685 2Kor 8:6
 	1 JT1685 2Kor 8:18
 	1 JT1685 2Kor 8:19
+	1 JT1685 2Kor 8:20
 	2 JT1685 2Kor 8:22
 	1 JT1685 2Kor 9:4
 	1 JT1685 2Kor 10:3
@@ -6823,7 +6834,7 @@ mehs
 	1 JT1685 2Kor 13:8
 	3 JT1685 2Kor 13:9
 	-----
-	106
+	107
 
 
 Mehs
@@ -9417,6 +9428,13 @@ pee
 	46
 
 
+pee{pee ka}
+
+	1 JT1685 2Kor 8:20
+	-----
+	1
+
+
 pee=augt
 
 	1 JT1685 2Kor 9:10
@@ -10657,10 +10675,11 @@ Runnaúchanas
 
 úcha
 
+	1 JT1685 2Kor 8:20
 	1 JT1685 2Kor 9:12
 	1 JT1685 2Kor 12:5
 	-----
-	2
+	3
 
 
 úchahs

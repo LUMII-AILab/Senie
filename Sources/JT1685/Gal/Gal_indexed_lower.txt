@@ -1,5 +1,5 @@
 Vârdformu skaits:	925
-Vârdlietojumu skaits:	3087
+Vârdlietojumu skaits:	3092
 
 
 abba
@@ -1040,9 +1040,10 @@ buht
 
 	1 JT1685 Gal 4:15
 	1 JT1685 Gal 4:20
+	1 JT1685 Gal 4:21
 	1 JT1685 Gal 5:7
 	-----
-	3
+	4
 
 
 buhtu
@@ -1806,7 +1807,8 @@ es
 	1 JT1685 Gal 3:17
 	1 JT1685 Gal 4:1
 	2 JT1685 Gal 4:11
-	4 JT1685 Gal 4:12
+	3 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	1 JT1685 Gal 4:15
 	1 JT1685 Gal 4:16
 	1 JT1685 Gal 4:18
@@ -1839,7 +1841,8 @@ eúmu
 	1 JT1685 Gal 2:18
 	1 JT1685 Gal 2:19
 	1 JT1685 Gal 2:20
-	2 JT1685 Gal 4:12
+	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	1 JT1685 Gal 4:16
 	1 JT1685 Gal 4:18
 	1 JT1685 Gal 5:21
@@ -1881,11 +1884,12 @@ eúúat
 	1 JT1685 Gal 4:9
 	1 JT1685 Gal 4:12
 	2 JT1685 Gal 4:14
+	1 JT1685 Gal 4:21
 	2 JT1685 Gal 5:4
 	1 JT1685 Gal 5:13
 	1 JT1685 Gal 5:18
 	-----
-	21
+	22
 
 
 eúúeet
@@ -2146,8 +2150,9 @@ gribbahs
 gribbat
 
 	1 JT1685 Gal 4:9
+	1 JT1685 Gal 4:21
 	-----
-	1
+	2
 
 
 gribbedami
@@ -2673,11 +2678,12 @@ juhs
 	2 JT1685 Gal 4:8
 	3 JT1685 Gal 4:9
 	1 JT1685 Gal 4:10
-	4 JT1685 Gal 4:12
+	3 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	2 JT1685 Gal 4:14
 	1 JT1685 Gal 4:15
 	1 JT1685 Gal 4:17
-	1 JT1685 Gal 4:21
+	2 JT1685 Gal 4:21
 	1 JT1685 Gal 5:2
 	3 JT1685 Gal 5:4
 	2 JT1685 Gal 5:7
@@ -2694,7 +2700,7 @@ juhs
 	1 JT1685 Gal 6:12
 	1 JT1685 Gal 6:13
 	-----
-	57
+	58
 
 
 juhúo
@@ -2722,7 +2728,7 @@ jums
 	1 JT1685 Gal 3:5
 	1 JT1685 Gal 4:1
 	1 JT1685 Gal 4:11
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	2 JT1685 Gal 4:15
 	1 JT1685 Gal 4:17
 	1 JT1685 Gal 4:18
@@ -2774,7 +2780,7 @@ ka
 	1 JT1685 Gal 4:6
 	1 JT1685 Gal 4:9
 	1 JT1685 Gal 4:11
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	1 JT1685 Gal 4:15
 	1 JT1685 Gal 4:17
 	1 JT1685 Gal 4:22
@@ -2906,7 +2912,7 @@ kahrt
 kahrta^
 
 	1 JT1685 Gal 1:14
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	-----
 	2
 
@@ -3850,7 +3856,7 @@ meeúas
 
 	1 JT1685 Gal 1:15
 	1 JT1685 Gal 1:16
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	1 JT1685 Gal 4:23
 	1 JT1685 Gal 4:29
 	1 JT1685 Gal 5:0
@@ -4251,6 +4257,13 @@ neds
 neeka
 
 	1 JT1685 Gal 2:6
+	-----
+	1
+
+
+neìì'
+
+	1 JT1685 Gal 4:21
 	-----
 	1
 
@@ -5013,7 +5026,7 @@ paúluddinahts
 
 paúluddinajis
 
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	-----
 	1
 
@@ -5328,7 +5341,7 @@ pilareem
 
 pirma^
 
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	-----
 	1
 
@@ -5464,7 +5477,7 @@ preezas=mahzibu
 
 	1 JT1685 Gal 1:7
 	1 JT1685 Gal 2:0
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	-----
 	3
 
@@ -6094,7 +6107,7 @@ sinnadami
 
 §innat
 
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	-----
 	1
 
@@ -6641,7 +6654,7 @@ tahs
 	1 JT1685 Gal 4:3
 	1 JT1685 Gal 4:4
 	1 JT1685 Gal 4:5
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	1 JT1685 Gal 4:21
 	2 JT1685 Gal 4:22
 	3 JT1685 Gal 4:23
@@ -7188,9 +7201,10 @@ to
 	1 JT1685 Gal 4:5
 	1 JT1685 Gal 4:6
 	2 JT1685 Gal 4:8
-	2 JT1685 Gal 4:12
+	2 JT1685 Gal 4:13
 	1 JT1685 Gal 4:15
 	1 JT1685 Gal 4:16
+	1 JT1685 Gal 4:21
 	1 JT1685 Gal 4:23
 	2 JT1685 Gal 4:29
 	2 JT1685 Gal 4:30
@@ -7213,7 +7227,7 @@ to
 	1 JT1685 Gal 6:13
 	1 JT1685 Gal 6:16
 	-----
-	93
+	94
 
 
 tohp
@@ -7466,7 +7480,7 @@ un
 	1 JT1685 Gal 4:6
 	2 JT1685 Gal 4:9
 	3 JT1685 Gal 4:10
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	1 JT1685 Gal 4:14
 	1 JT1685 Gal 4:15
 	1 JT1685 Gal 4:18
@@ -7573,7 +7587,7 @@ wahji
 
 wahjibu
 
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	-----
 	1
 
@@ -8000,7 +8014,7 @@ zaur
 	1 JT1685 Gal 3:26
 	1 JT1685 Gal 4:0
 	1 JT1685 Gal 4:7
-	1 JT1685 Gal 4:12
+	1 JT1685 Gal 4:13
 	1 JT1685 Gal 4:23
 	1 JT1685 Gal 5:6
 	2 JT1685 Gal 5:13
@@ -8216,13 +8230,6 @@ zittu
 	1 JT1685 Gal 4:0
 	-----
 	2
-
-
-13
-
-	1 JT1685 Gal 4:12
-	-----
-	1
 
 
 14

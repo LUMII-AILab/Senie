@@ -1,12 +1,12 @@
-Vârdformu skaits:	896
-Vârdlietojumu skaits:	2299
+Vârdformu skaits:	900
+Vârdlietojumu skaits:	2308
 
 
 99	un
 87	irr
 60	kas
-55	ka
-51	ne
+56	ka
+52	ne
 41	eekúch
 40	to
 35	ta
@@ -42,11 +42,11 @@ Vârdlietojumu skaits:	2299
 9	tahm
 9	tew
 9	tohp
+9	tu
 8	mahza
 8	neds
 8	pehz
 8	tad
-8	tu
 8	weena
 8	wiúúeem
 7	pahwils
@@ -57,6 +57,7 @@ Vârdlietojumu skaits:	2299
 6	mahzibas
 6	mehs
 6	úawu
+6	uhs
 6	wairak
 6	weenu
 5	buht
@@ -70,7 +71,6 @@ Vârdlietojumu skaits:	2299
 5	schehla§tiba
 5	úcho
 5	ta`
-5	uhs
 5	us
 5	warr
 5	zaur
@@ -186,6 +186,7 @@ Vârdlietojumu skaits:	2299
 2	grehzineekeem
 2	gribbu
 2	ih§tena
+2	kahdu
 2	kalpo
 2	kalpoúchanas
 2	klahjahs
@@ -262,8 +263,8 @@ Vârdlietojumu skaits:	2299
 2	zerre
 2	zilweko
 2	zitteem
+2	zittu
 2	11
-2	12
 2	15
 2	4
 2	6
@@ -404,6 +405,7 @@ Vârdlietojumu skaits:	2299
 1	gaddigam
 1	gaddus
 1	gahdaht
+1	gahju
 1	gah§ch
 1	gaiúchiba^
 1	gals
@@ -463,7 +465,6 @@ Vârdlietojumu skaits:	2299
 1	kahda
 1	kahdai
 1	kahdam
-1	kahdu
 1	kahjas
 1	kahrdinaúchanas
 1	kahribu
@@ -546,6 +547,7 @@ Vârdlietojumu skaits:	2299
 1	mahziúchanu
 1	mahzitaja
 1	mahzitajs
+1	makedoniju
 1	maííeniht
 1	malla^s
 1	mannam
@@ -645,6 +647,7 @@ Vârdlietojumu skaits:	2299
 1	pa§kubbina
 1	paúkubbinajis
 1	paúkubbinaúchanu
+1	pa§kubbinatu
 1	paúluddinadami
 1	paúneed§
 1	pa§tahw
@@ -892,8 +895,9 @@ Vârdlietojumu skaits:	2299
 1	zittam
 1	zittas
 1	zitto
-1	zittu
 1	zittus
+1	zittus{zitzus}
+1	12
 1	16
 1	17
 1	18

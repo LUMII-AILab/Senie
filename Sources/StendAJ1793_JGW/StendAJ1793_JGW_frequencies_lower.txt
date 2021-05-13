@@ -1,15 +1,15 @@
-Vârdformu skaits:	720
-Vârdlietojumu skaits:	1371
+Vârdformu skaits:	742
+Vârdlietojumu skaits:	1407
 
 
-32	un
-31	ne
-27	tew
-24	tu
+34	un
+32	ne
+29	tew
+25	tu
 23	lai
+21	us
 20	ka
 20	kas
-20	us
 20	zik
 18	tas
 17	no
@@ -19,7 +19,7 @@ Vârdlietojumu skaits:	1371
 13	muhúu
 13	pee
 12	deews
-11	tad
+12	tad
 10	kad
 10	mehs
 9	bet
@@ -38,14 +38,17 @@ Vârdlietojumu skaits:	1371
 6	warr
 5	bes
 5	buhs
+5	es
 5	kur
+5	man
 5	úawu
+5	tewim
 5	tik
 4	ak
 4	daud§
-4	es
 4	eúúi
 4	gads
+4	jauna
 4	jauna^
 4	jaunas
 4	jaunu
@@ -53,14 +56,12 @@ Vârdlietojumu skaits:	1371
 4	juhs
 4	juhúu
 4	kungs
-4	man
 4	mums
 4	preeks
 4	úirds
 4	tam
 4	tawa
 4	tee
-4	tewim
 4	tohs
 4	wairak
 4	weens
@@ -73,8 +74,8 @@ Vârdlietojumu skaits:	1371
 3	eúúam
 3	gaddiòa^
 3	gaddiòu
+3	ilgi
 3	irraid
-3	jauna
 3	jelgawa^
 3	jo
 3	laimiba
@@ -252,6 +253,7 @@ Vârdlietojumu skaits:	1371
 1	deeniòahm
 1	deewiò
 1	deewu
+1	dehl
 1	dehls
 1	di§chu
 1	draud§ibas
@@ -319,11 +321,11 @@ Vârdlietojumu skaits:	1371
 1	gruhteem
 1	gºuhtibas
 1	gruhtus
+1	gudra
 1	gudrais
 1	gulleht
 1	ih§tam
 1	ikgads
-1	ilgi
 1	isdalli
 1	isd§err
 1	isgahjuúcho^s
@@ -341,6 +343,7 @@ Vârdlietojumu skaits:	1371
 1	ja
 1	jabreen
 1	jaktetees
+1	jauka
 1	jaunai
 1	jauns
 1	jaunuma^
@@ -354,6 +357,7 @@ Vârdlietojumu skaits:	1371
 1	kahrte^s
 1	kappeju
 1	katru
+1	kauúchanas
 1	kaut
 1	kautkahdu
 1	klaht
@@ -386,6 +390,7 @@ Vârdlietojumu skaits:	1371
 1	labbdarriht
 1	labbi
 1	labbiba
+1	lahtúchu
 1	laidara
 1	laika
 1	laika^
@@ -401,6 +406,7 @@ Vârdlietojumu skaits:	1371
 1	ïau§chu
 1	leelais
 1	leelijees
+1	lehkataija
 1	lepni
 1	lepniba
 1	lihd§
@@ -413,6 +419,7 @@ Vârdlietojumu skaits:	1371
 1	luhd§ams
 1	mahmiò
 1	mahúei
+1	mahúiò
 1	mahte
 1	mahtei
 1	mahzibas
@@ -438,16 +445,21 @@ Vârdlietojumu skaits:	1371
 1	mee§chus
 1	meita
 1	meitahm
+1	meitiò
 1	mett
 1	mihïa
 1	mihïam
 1	mihïas
 1	mihli
 1	mihïi
+1	mihïo
+1	mihïoju
+1	mihïoúchu
 1	mihïotais
 1	mihïotu
 1	mir§toht
 1	mohkahm
+1	mudra
 1	mudri
 1	muh§cham
 1	mui§chas
@@ -511,6 +523,7 @@ Vârdlietojumu skaits:	1371
 1	peenahkahs
 1	peeúchíirr
 1	peezeltees
+1	pehd'gu
 1	pehrn
 1	pehz
 1	pelnijúchi
@@ -538,7 +551,9 @@ Vârdlietojumu skaits:	1371
 1	proht
 1	puhíis
 1	puhriòu
+1	puííiht'
 1	pulks
+1	putneem
 1	putniòus
 1	raddiòeem
 1	rahdahs
@@ -562,16 +577,19 @@ Vârdlietojumu skaits:	1371
 1	úagahda
 1	úagahdahs
 1	§ahbaku
+1	§aííeem
 1	§aííus
 1	úakrahjam
 1	úakrahú
 1	úaldu
+1	úaneúú
 1	úauzami
 1	úawa^
 1	úaweem
 1	úawus
 1	úchahdu
 1	úchai^
+1	úchauj
 1	§chehl
 1	§chehligs
 1	úchi^
@@ -582,6 +600,7 @@ Vârdlietojumu skaits:	1371
 1	úehja
 1	úehji
 1	§eïï
+1	selta=maggoniht'
 1	seltenitei
 1	§eltu
 1	§emmes=kohpeja
@@ -591,6 +610,7 @@ Vârdlietojumu skaits:	1371
 1	úewis
 1	§ihtaru
 1	úimtu=úimtu
+1	sinìetaija
 1	úirdi^
 1	§irgi
 1	§irgu=§agïi
@@ -692,6 +712,7 @@ Vârdlietojumu skaits:	1371
 1	wehleúchanu
 1	wehleta
 1	wehletas
+1	wehrdiòu{wehdriòu}
 1	weizahs
 1	weúúelibu
 1	we§umus
@@ -702,6 +723,7 @@ Vârdlietojumu skaits:	1371
 1	wezzuma^
 1	wihriòu
 1	wih§e
+1	wilk'
 1	wiòòa^
 1	wiòòam
 1	wiòòas
