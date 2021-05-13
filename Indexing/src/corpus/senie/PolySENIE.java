@@ -3,6 +3,7 @@ package corpus.senie;
 import corpus.senie.indexing.IndexType;
 
 import java.io.*;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.StandardCopyOption;
@@ -11,6 +12,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+import java.util.stream.Stream;
 
 public class PolySENIE
 {
@@ -129,6 +131,8 @@ public class PolySENIE
 							StandardCopyOption.REPLACE_EXISTING);
 				else if (resultFileName.equals(fileCodeStub + ".txt"))
 					Files.delete(resultFile.toPath());
+				else if (resultFileName.equals(fileCodeStub + "_log.txt") && isLogFileEmpty(resultFile))
+					Files.delete(resultFile.toPath());
 				else if (resultFileName.endsWith(".txt"))
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(txtResultDir.getPath(), resultFile.getName()),
@@ -201,6 +205,22 @@ public class PolySENIE
 		}
 	}
 
+	public static boolean isLogFileEmpty (File logFilePath)
+	throws IOException
+	{
+		Stream<String> contentStream = Files.lines(logFilePath.toPath(), StandardCharsets.UTF_8);
+		StringBuilder contentBuilder = new StringBuilder();
+		contentStream.forEach(s -> contentBuilder.append(s).append("\n"));
+		Pattern emptyFilePattern = Pattern.compile("\\s*" +
+				"TEKSTA ATTĪRĪŠANA UN PĀRBAUDE:\\s*" +
+				"VĀRDLIETOJUMU SAVILKŠANA TEKSTĀ:\\s*" +
+				"TEKSTA INDEKSĒŠANA UN STATISTIKA:\\s*" +
+				"TEKSTA INDEKSĒŠANA UN STATISTIKA:\\s*" +
+				"INVERSĀ VĀRDNĪCA:\\s*" +
+				"TEKSTA MARĶĒŠANA UN GRĀMATZĪMJU SALIKŠANA:\\s*");
+		Matcher m = emptyFilePattern.matcher(contentBuilder.toString());
+		return m.matches();
+	}
 	/**
 	 * Class for storing pre-configured parameters for this processing wrapper.
 	 */
