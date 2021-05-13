@@ -1,5 +1,5 @@
-Vârdformu skaits:	378
-Vârdlietojumu skaits:	927
+Vârdformu skaits:	380
+Vârdlietojumu skaits:	932
 
 
 abakuks
@@ -432,12 +432,12 @@ bij
 
 	2 Apokr1689 Bel 1:3
 	1 Apokr1689 Bel 1:13
-	2 Apokr1689 Bel 1:14
+	3 Apokr1689 Bel 1:14
 	1 Apokr1689 Bel 1:21
 	1 Apokr1689 Bel 2:32
 	1 Apokr1689 Bel 2:33
 	-----
-	8
+	9
 
 
 bija
@@ -1078,11 +1078,12 @@ ka
 
 	2 Apokr1689 Bel 1:9
 	1 Apokr1689 Bel 1:13
+	1 Apokr1689 Bel 1:14
 	1 Apokr1689 Bel 1:19
 	1 Apokr1689 Bel 2:30
 	1 Apokr1689 Bel 2:32
 	-----
-	6
+	7
 
 
 ka`
@@ -1121,6 +1122,13 @@ kahrt
 
 
 kaiúiht
+
+	1 Apokr1689 Bel 1:14
+	-----
+	1
+
+
+kalpeem{ka'lpeem}
 
 	1 Apokr1689 Bel 1:14
 	-----
@@ -1884,6 +1892,13 @@ pehz
 	3
 
 
+pelnus
+
+	1 Apokr1689 Bel 1:14
+	-----
+	1
+
+
 per§eris
 
 	1 Apokr1689 Bel 1:1
@@ -2564,10 +2579,11 @@ teem
 	1 Apokr1689 Bel 1:3
 	1 Apokr1689 Bel 1:8
 	1 Apokr1689 Bel 1:13
+	1 Apokr1689 Bel 1:14
 	1 Apokr1689 Bel 1:21
 	1 Apokr1689 Bel 2:33
 	-----
-	5
+	6
 
 
 tehweem

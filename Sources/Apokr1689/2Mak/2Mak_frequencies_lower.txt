@@ -1,14 +1,14 @@
-Vârdformu skaits:	3429
-Vârdlietojumu skaits:	14392
+Vârdformu skaits:	3433
+Vârdlietojumu skaits:	14409
 
 
 1001	un
 420	to
 268	kas
-261	ka
-239	tee
+263	ka
+240	tee
 238	wiò§ch
-221	tas
+222	tas
 220	ar
 208	teem
 188	no
@@ -23,17 +23,17 @@ Vârdlietojumu skaits:	14392
 108	us
 101	pee
 99	tahs
-95	par
+96	par
 92	nu
 79	ka`
 77	pehz
-72	ta`
+73	ta`
 69	irr
 68	jo
 64	arri
 63	wiòòu
 60	prett
-55	tappe
+56	tappe
 54	ko
 54	tam
 49	pahr
@@ -41,7 +41,7 @@ Vârdlietojumu skaits:	14392
 46	zaur
 45	es
 45	kïua
-43	wiòòa
+44	wiòòa
 42	arrid§an
 42	úawu
 41	deewa
@@ -49,7 +49,7 @@ Vârdlietojumu skaits:	14392
 39	buhtu
 39	eekúch
 38	wehl
-37	wiòòam
+38	wiòòam
 36	atkaï
 35	leetas
 35	mehs
@@ -287,6 +287,7 @@ Vârdlietojumu skaits:	14392
 6	drohúchi
 6	d§ihwibu
 6	eekúcha^
+6	eezehlis
 6	gohdu
 6	greekeºu
 6	gribbus
@@ -333,7 +334,6 @@ Vârdlietojumu skaits:	14392
 5	dehls
 5	dewis
 5	d§irdeja
-5	eezehlis
 5	eh§t
 5	elijodorus
 5	eúúi
@@ -639,6 +639,7 @@ Vârdlietojumu skaits:	14392
 3	makkabeju
 3	mannam
 3	mannu
+3	mans
 3	mantas=kambaºa
 3	mantas=kambari
 3	ma§u
@@ -652,12 +653,14 @@ Vârdlietojumu skaits:	14392
 3	nahzis
 3	nakti^
 3	namma
+3	nanejas
 3	negantibu
 3	negohdigu
 3	òehmuúchi
 3	nekahdu
 3	neúúe
 3	ne§t
+3	nomaitati
 3	nomirris
 3	nonejauúchi
 3	notikkuúchu
@@ -1027,7 +1030,6 @@ Vârdlietojumu skaits:	14392
 2	manna^s
 2	manneem
 2	mannija
-2	mans
 2	mantu
 2	ma§aki
 2	matteem
@@ -1050,7 +1052,6 @@ Vârdlietojumu skaits:	14392
 2	nahkuúchi
 2	nammam
 2	nams
-2	nanejas
 2	nauda
 2	naudas
 2	nekahdas
@@ -1072,7 +1073,6 @@ Vârdlietojumu skaits:	14392
 2	nokawis
 2	nokritte
 2	nomaitaht
-2	nomaitati
 2	nomirre
 2	nomirruúcheem
 2	nomir§t
@@ -1784,7 +1784,6 @@ Vârdlietojumu skaits:	14392
 1	eeneúúis
 1	eenihdehts
 1	eenihdeúchanas
-1	eepar
 1	eepreezinaúchanas
 1	eepreezinati
 1	eeradduma
@@ -1824,6 +1823,7 @@ Vârdlietojumu skaits:	14392
 1	elka=nammus
 1	elkonu
 1	elku
+1	elku=namma'
 1	elkus
 1	eògeli
 1	epiwanus
@@ -2442,7 +2442,6 @@ Vârdlietojumu skaits:	14392
 1	nizzinaju
 1	nizzinati
 1	nizzinatu
-1	no@@27
 1	no=ahrdiúchu
 1	nobahlejs
 1	nobeigt
@@ -2480,6 +2479,7 @@ Vârdlietojumu skaits:	14392
 1	nomirruúchi
 1	nomirruúchus
 1	nomirúchu
+1	nomohdibas
 1	nonahweti
 1	none§t
 1	noplehúe
@@ -2713,6 +2713,7 @@ Vârdlietojumu skaits:	14392
 1	peezdeúmitus
 1	pehdigahm
 1	pehdigi
+1	pehzgalla'
 1	pehznahkoúchus
 1	pelni
 1	pelniht
@@ -3126,7 +3127,6 @@ Vârdlietojumu skaits:	14392
 1	tanni^
 1	tannis
 1	tapatt
-1	tapnomaitati
 1	tappuúchu
 1	tapúim
 1	tar§eºi
@@ -3144,6 +3144,7 @@ Vârdlietojumu skaits:	14392
 1	tehwiúchka^
 1	tehwiúchíi
 1	tehwiúchko^s
+1	tehwi§ka'
 1	tehwi§kas
 1	tehwi§kigas
 1	tehwu=semmi
@@ -3273,6 +3274,7 @@ Vârdlietojumu skaits:	14392
 1	waigs
 1	waijad§etu
 1	waijaga`
+1	waijaga'
 1	waina
 1	wairojahs
 1	wairoúchanu
@@ -3293,6 +3295,7 @@ Vârdlietojumu skaits:	14392
 1	walka
 1	walkaht
 1	walla^
+1	walloda`
 1	waïïu
 1	wal§tim
 1	wal§ts
@@ -3317,6 +3320,7 @@ Vârdlietojumu skaits:	14392
 1	weenpadeúmits
 1	weenprahtigi
 1	weeta`
+1	weeta'
 1	wehdera
 1	wehderu
 1	wehïam

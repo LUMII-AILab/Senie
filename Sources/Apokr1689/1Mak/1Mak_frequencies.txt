@@ -1,8 +1,8 @@
-Vârdformu skaits:	3603
-Vârdlietojumu skaits:	20150
+Vârdformu skaits:	3610
+Vârdlietojumu skaits:	20175
 
 
-1558	un
+1559	un
 479	to
 442	tee
 391	Un
@@ -12,21 +12,21 @@ Vârdlietojumu skaits:	20150
 292	no
 282	us
 276	teem
-261	kas
+264	kas
 229	tas
-192	wiòòa
-181	tohs
-180	pee
+193	wiòòa
+182	tohs
+181	pee
 178	bija
 176	ta
 173	wiòòu
 165	irr
 164	bij
-127	ne
+128	ne
 116	tad
 114	nu
-111	eekúch
-109	tahs
+112	eekúch
+110	tahs
 106	par
 106	prett
 105	Tad
@@ -66,8 +66,8 @@ Vârdlietojumu skaits:	20150
 47	úaweem
 46	bet
 46	es
+46	wiúúi
 45	preekúch
-45	wiúúi
 44	pretti
 44	zaur
 42	ïohti
@@ -134,19 +134,19 @@ Vârdlietojumu skaits:	20150
 20	buhtu
 20	Pagaòi
 20	pawehleja
+20	úawa^
 20	úchee
 20	tai
 20	taps
+20	wiúúus
 19	apmette
 19	Deena^
 19	dewe
 19	Laupijumu
 19	nokawe
-19	úawa^
 19	úawas
 19	úwehtas
 19	úwehtu
-19	wiúúus
 18	darriht
 18	Dehls
 18	eezehle
@@ -215,6 +215,7 @@ Vârdlietojumu skaits:	20150
 13	Wihri
 13	zittus
 12	Bakkidus
+12	darrijs
 12	Dehlu
 12	Ka
 12	kaººoht
@@ -234,9 +235,9 @@ Vârdlietojumu skaits:	20150
 12	wiús
 11	Bauúlibas
 11	Bruòòas
-11	darrijs
 11	Deewa
 11	diwi
+11	diwideúmits
 11	Es
 11	gann
 11	ilgu
@@ -264,7 +265,6 @@ Vârdlietojumu skaits:	20150
 10	Brahlis
 10	darriúim
 10	Deenas
-10	diwideúmits
 10	eúúat
 10	eúúi
 10	eúúu
@@ -542,6 +542,7 @@ Vârdlietojumu skaits:	20150
 5	Namma
 5	Nammu
 5	Ne
+5	nomaitaht
 5	notizzis
 5	Nu
 5	paúchi
@@ -549,6 +550,7 @@ Vârdlietojumu skaits:	20150
 5	peekta^
 5	Pils
 5	Pilsúahtneeki
+5	Pilsúahto^s
 5	Pilsúahts
 5	Pree§teºeem
 5	Reemeºeem
@@ -673,7 +675,6 @@ Vârdlietojumu skaits:	20150
 4	netaiúni
 4	neweenu
 4	noh§t
-4	nomaitaht
 4	Norak§ts
 4	noúaukts
 4	notikkahs
@@ -685,7 +686,6 @@ Vârdlietojumu skaits:	20150
 4	papreekúchu
 4	peektadeúmita^
 4	peepeúchi
-4	Pilsúahto^s
 4	Pree§teºi
 4	Puiúenus
 4	Pulkeem
@@ -717,6 +717,7 @@ Vârdlietojumu skaits:	20150
 4	taws
 4	tezzeja
 4	Timotejus
+4	treúcha^
 4	Uppi
 4	ustaiúiht
 4	Wahrda
@@ -972,7 +973,6 @@ Vârdlietojumu skaits:	20150
 3	Tizzibu
 3	Tohròeem
 3	tomehr
-3	treúcha^
 3	trihsdeúmits
 3	Triwonu
 3	Trummetehm
@@ -1631,8 +1631,8 @@ Vârdlietojumu skaits:	20150
 1	atpe§ti
 1	atpe§tija
 1	atpe§titi
+1	atraddahs
 1	atraddis
-1	atradto^s
 1	atra§t
 1	atra§ta
 1	atrauj
@@ -1834,6 +1834,7 @@ Vârdlietojumu skaits:	20150
 1	Blehdneekeem
 1	Blehòu
 1	Bleh§cheem
+1	bohja'
 1	Bohja=Eeúchanas
 1	Boúúoru
 1	Brahleem
@@ -1890,6 +1891,7 @@ Vârdlietojumu skaits:	20150
 1	Deena
 1	deena^s
 1	Deena^s
+1	Deena'
 1	Deewa=Luhgúchanahm
 1	Deewa=Luhgúchanas=Weeta
 1	Deewa=Namma^
@@ -2182,6 +2184,7 @@ Vârdlietojumu skaits:	20150
 1	ikkatrs
 1	ikkatru
 1	ikkuºa^
+1	ikkuºa'
 1	ikkuººu
 1	ilgaki
 1	ilgi
@@ -2380,6 +2383,7 @@ Vârdlietojumu skaits:	20150
 1	Kappa
 1	Kappeem
 1	Kappu
+1	Kappus
 1	Kapraïus
 1	Kaps
 1	Kapteines
@@ -2441,9 +2445,9 @@ Vârdlietojumu skaits:	20150
 1	klaija^
 1	klaiji
 1	Klaijuma
+1	Klaijuma'
 1	Klaijumam
 1	Klaijumeem
-1	Klaijupee
 1	klauúa
 1	klauúajt
 1	klauúija
@@ -2610,6 +2614,7 @@ Vârdlietojumu skaits:	20150
 1	Meeúalotu
 1	Mee§tam
 1	mehd§e
+1	Mehneúi
 1	Mehneúi`
 1	Meita
 1	mekle
@@ -2674,6 +2679,7 @@ Vârdlietojumu skaits:	20150
 1	Negohdu
 1	òehmahs
 1	nei
+1	neis§kaitama^
 1	nejauks
 1	nekahda
 1	nekahdam
@@ -2689,7 +2695,6 @@ Vârdlietojumu skaits:	20150
 1	netaiúnus
 1	Netaiúnus
 1	netikli
-1	neun
 1	newarreúim
 1	neweúúels
 1	nihdetu
@@ -3009,6 +3014,7 @@ Vârdlietojumu skaits:	20150
 1	Puhúchanu
 1	Puiúcheem
 1	Pulka^
+1	Pulka'
 1	Pulíeem
 1	Pulko
 1	Purpuri
@@ -3051,7 +3057,6 @@ Vârdlietojumu skaits:	20150
 1	Rihtam
 1	rihtdeena^
 1	rihtu
-1	rijs
 1	Riòkiúcheem
 1	Rohbe§chah^s
 1	Rohbeúchahm
@@ -3384,6 +3389,7 @@ Vârdlietojumu skaits:	20150
 1	tikkai
 1	Timnatu
 1	Timoteju
+1	tizz
 1	Tizziba
 1	Tizzibas
 1	Tizzigo
@@ -3400,6 +3406,7 @@ Vârdlietojumu skaits:	20150
 1	Trauko^s
 1	trejo^s
 1	treju
+1	Treppes
 1	treúchajs
 1	treúchapadeúmita^
 1	trim
@@ -3565,7 +3572,6 @@ Vârdlietojumu skaits:	20150
 1	wiòòus
 1	wiòpuús
 1	Wiolehm
-1	wiúne
 1	wiúúa^s
 1	wiúúahs
 1	wiúúee
@@ -3585,6 +3591,7 @@ Vârdlietojumu skaits:	20150
 1	zeetuúchi
 1	zehlees
 1	Zeïïeem
+1	Zeïïmalla'
 1	Zellu
 1	Zeïïus
 1	Zeïúch

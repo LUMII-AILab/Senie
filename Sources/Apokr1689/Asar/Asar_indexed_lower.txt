@@ -1,5 +1,5 @@
-Vârdformu skaits:	360
-Vârdlietojumu skaits:	977
+Vârdformu skaits:	364
+Vârdlietojumu skaits:	985
 
 
 ahbra&a&ma{ahbra&a& ma}
@@ -71,7 +71,8 @@ ar
 	1 Apokr1689 Asar 1:4
 	1 Apokr1689 Asar 1:7
 	1 Apokr1689 Asar 1:15
-	2 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 1:22
 	1 Apokr1689 Asar 1:25
 	1 Apokr1689 Asar 2:27
@@ -294,7 +295,7 @@ besdibbenu
 bet
 
 	1 Apokr1689 Asar 1:15
-	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 1:25
 	-----
 	3
@@ -360,7 +361,7 @@ darbi
 
 darri
 
-	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	-----
 	1
 
@@ -993,6 +994,13 @@ kauna^
 	4
 
 
+kauna'
+
+	1 Apokr1689 Asar 1:18
+	-----
+	1
+
+
 íehniòa
 
 	1 Apokr1689 Asar 1:22
@@ -1164,7 +1172,7 @@ laipnigs
 
 leelas
 
-	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 1:20
 	1 Apokr1689 Asar 2:54
 	-----
@@ -1186,9 +1194,16 @@ leetus
 	1
 
 
+leez
+
+	1 Apokr1689 Asar 1:18
+	-----
+	1
+
+
 lehnibas
 
-	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	-----
 	1
 
@@ -1280,10 +1295,11 @@ muhs
 
 	1 Apokr1689 Asar 1:8
 	1 Apokr1689 Asar 1:10
+	1 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 1:19
 	3 Apokr1689 Asar 2:63
 	-----
-	6
+	7
 
 
 muh§cham
@@ -1348,9 +1364,10 @@ muhúu
 
 	1 Apokr1689 Asar 1:2
 	1 Apokr1689 Asar 1:4
+	1 Apokr1689 Asar 1:16
 	1 Apokr1689 Asar 2:28
 	-----
-	3
+	4
 
 
 mums
@@ -1360,7 +1377,7 @@ mums
 	2 Apokr1689 Asar 1:7
 	1 Apokr1689 Asar 1:11
 	1 Apokr1689 Asar 1:14
-	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 2:63
 	-----
 	10
@@ -1420,10 +1437,11 @@ ne
 	1 Apokr1689 Asar 1:11
 	1 Apokr1689 Asar 1:13
 	1 Apokr1689 Asar 1:16
+	1 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 1:22
 	1 Apokr1689 Asar 1:26
 	-----
-	10
+	11
 
 
 neds
@@ -1676,7 +1694,7 @@ pehz
 
 	2 Apokr1689 Asar 1:4
 	1 Apokr1689 Asar 1:10
-	2 Apokr1689 Asar 1:17
+	2 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 1:19
 	-----
 	6
@@ -1857,7 +1875,7 @@ schehla§tiba
 
 schehla§tibas
 
-	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	-----
 	1
 
@@ -2156,6 +2174,13 @@ ta`
 	2
 
 
+ta`patt
+
+	1 Apokr1689 Asar 1:16
+	-----
+	1
+
+
 ta^
 
 	1 Apokr1689 Asar 1:17
@@ -2264,7 +2289,7 @@ tappuúchi
 tapt
 
 	1 Apokr1689 Asar 1:16
-	1 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	-----
 	2
 
@@ -2308,6 +2333,13 @@ tawa^
 	2
 
 
+tawa'
+
+	1 Apokr1689 Asar 1:16
+	-----
+	1
+
+
 tawam
 
 	1 Apokr1689 Asar 1:19
@@ -2318,7 +2350,7 @@ tawam
 tawas
 
 	1 Apokr1689 Asar 1:3
-	2 Apokr1689 Asar 1:17
+	2 Apokr1689 Asar 1:18
 	1 Apokr1689 Asar 1:20
 	1 Apokr1689 Asar 2:29
 	1 Apokr1689 Asar 2:30
@@ -2622,7 +2654,8 @@ un
 	1 Apokr1689 Asar 1:14
 	1 Apokr1689 Asar 1:15
 	2 Apokr1689 Asar 1:16
-	3 Apokr1689 Asar 1:17
+	2 Apokr1689 Asar 1:17
+	1 Apokr1689 Asar 1:18
 	2 Apokr1689 Asar 1:19
 	2 Apokr1689 Asar 1:20
 	2 Apokr1689 Asar 1:21
@@ -2683,8 +2716,9 @@ uppureht
 uppuºi
 
 	1 Apokr1689 Asar 1:14
+	1 Apokr1689 Asar 1:16
 	-----
-	1
+	2
 
 
 us

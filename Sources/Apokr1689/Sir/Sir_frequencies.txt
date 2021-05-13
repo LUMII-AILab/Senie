@@ -1,9 +1,9 @@
-Vârdformu skaits:	5294
-Vârdlietojumu skaits:	23847
+Vârdformu skaits:	5293
+Vârdlietojumu skaits:	23858
 
 
 1291	un
-671	irr
+672	irr
 549	ne
 513	to
 375	kas
@@ -26,7 +26,7 @@ Vârdlietojumu skaits:	23847
 128	teem
 126	us
 124	bet
-123	tahs
+124	tahs
 122	Ne
 113	jo
 111	par
@@ -36,7 +36,7 @@ Vârdlietojumu skaits:	23847
 104	ta`
 103	wiòòam
 99	pahr
-96	Kas
+97	Kas
 96	weens
 87	tawu
 86	Kunga
@@ -94,18 +94,18 @@ Vârdlietojumu skaits:	23847
 31	kahds
 31	pats
 31	Tas
+30	ka^
+30	Ïaudis
 30	Úirdi
-29	ka^
 29	labbu
-29	Ïaudis
 28	paúchu
 28	Weens
+27	darrijs
 27	nahk
 27	Semmes
 27	tawas
 27	wiúúas
 26	bih§tahs
-26	darrijs
 26	Dwehúeli
 26	Jtt
 26	juhs
@@ -221,6 +221,7 @@ Vârdlietojumu skaits:	23847
 13	Grehzineeku
 13	ja
 13	klahjahs
+13	ïohti
 13	mann
 13	mekle
 13	neneeka
@@ -236,7 +237,6 @@ Vârdlietojumu skaits:	23847
 12	Duúmiba
 12	Gohdu
 12	ïaunu
-12	ïohti
 12	neweens
 12	pakkaï
 12	red§
@@ -451,6 +451,7 @@ Vârdlietojumu skaits:	23847
 6	Baggats
 6	Balúi
 6	Bihjaúchanu
+6	bijuúchi
 6	buhúi
 6	dohdahs
 6	dohdees
@@ -542,7 +543,6 @@ Vârdlietojumu skaits:	23847
 5	Besdeewigeem
 5	Besdeewigu
 5	Bihjaúchanas
-5	bijuúchi
 5	Daïïa
 5	Darba^
 5	Dehlu
@@ -1109,6 +1109,7 @@ Vârdlietojumu skaits:	23847
 3	úeptiòkahrt
 3	§innadams
 3	§innamu
+3	§kai§tu
 3	Skai§tuma
 3	Skai§tums
 3	§kaudiga
@@ -1144,6 +1145,7 @@ Vârdlietojumu skaits:	23847
 3	Taws
 3	Teem
 3	Tehwam
+3	teizami
 3	Tik
 3	Tomehr
 3	Turrajs
@@ -1768,6 +1770,7 @@ Vârdlietojumu skaits:	23847
 2	úaprattigas
 2	Úaprattigu
 2	úawa^s
+2	úawa'
 2	úawai
 2	úazzija
 2	úchahs
@@ -1792,7 +1795,6 @@ Vârdlietojumu skaits:	23847
 2	§kai§ta
 2	§kai§tas
 2	§kai§ts
-2	§kai§tu
 2	Skai§tumu
 2	§kann
 2	§kattajs
@@ -1869,7 +1871,6 @@ Vârdlietojumu skaits:	23847
 2	Teikúchana
 2	teikúchu
 2	teizamas
-2	teizami
 2	Telti
 2	tikke
 2	tinnahs
@@ -1894,6 +1895,7 @@ Vârdlietojumu skaits:	23847
 2	turrenes
 2	turretees
 2	UN
+2	Uppes=Malla^
 2	Uppi
 2	uppuredams
 2	Uppuºeem
@@ -3413,6 +3415,7 @@ Vârdlietojumu skaits:	23847
 1	likta
 1	liktas
 1	likts
+1	Liljes
 1	Linga^
 1	Liúchíus
 1	ïohki
@@ -4038,7 +4041,7 @@ Vârdlietojumu skaits:	23847
 1	Patweruma
 1	Patwerumu
 1	Pawads
-1	Pawaúpes=Malla^
+1	Pawaúúaras=Laika'
 1	pawehleti
 1	pawilzinahs
 1	Pazeeúchana
@@ -4423,6 +4426,7 @@ Vârdlietojumu skaits:	23847
 1	úaplohúa
 1	Úapneem
 1	Úapni^
+1	Úapraúchana^
 1	Úapraúchanas=At§ihúchanu
 1	Úapraúchanas=Augïi
 1	úaprattigahm
@@ -4898,7 +4902,6 @@ Vârdlietojumu skaits:	23847
 1	teizama
 1	teizameem
 1	teizamus
-1	teizaÚapraúchana^
 1	teizeet
 1	Teizeet
 1	teizi
@@ -4988,7 +4991,6 @@ Vârdlietojumu skaits:	23847
 1	Uhdeòi
 1	Uhdenim
 1	Uhdens=Lahúite
-1	Uppes=Malla^
 1	Uppure
 1	uppureht
 1	uppureúchu
@@ -5289,10 +5291,7 @@ Vârdlietojumu skaits:	23847
 1	Zittus
 1	ZJk
 1	Zorobabelu
-1	1
 1	10
-1	15
 1	21{11}
 1	25{52}
 1	3{4}
-1	7
