@@ -19,7 +19,7 @@ public class PolySENIE
 	protected Params p = new Params();
 	protected Map<String, IndexType> indexSpec;
 
-	public static void main(String args[]) throws IOException
+	public static void main(String[] args) throws IOException
 	{
 		//PrintStream out = new PrintStream(System.out, true, "UTF-8");
 		PrintStream out = new PrintStream(System.out, true, "Windows-1257");
@@ -29,12 +29,14 @@ public class PolySENIE
 			out.println("SENIE korpusa masu apstrādes programma.");
 			out.println("Sagaidāmie parametri:");
 			out.println("    1) apstrādājamo datu mape (struktūra kā Sources mapei);");
-			out.println("    1) ignorēt biblisko avotu Prolog* daļas;");
+			out.println("    2) ignorēt biblisko avotu Prolog* daļas;");
 			out.println("    3) indeksēšanas tipu specifikācijas faila adrese, neobligāti, noklusējuma");
 			out.println("       vērtība \"../../Sources/indexing.txt\"");
 			out.println("NB! Tā kā šis ir ietinamais vecajam skriptam, kas apstrādāja failus pa vienam");
 			out.println("  aktīvajā mapē /senie/Indexing/run, tad turiet šo map brīvu no sev svarīgiem");
 			out.println("  failiem, kas sākas ar avotu kodiem, jo tie tiks pārraktīti un/vai pārvietoti.");
+			out.println("P.S. Mapē Unicoding ir izsaukumpiemērs runFileCollector-sample.bat, kurā");
+			out.println("  parādīts, kā dabūt tieši tādu mapīti ar datiem, kā vajadzīgs 1. punktā.");
 			out.println("AILab, LUMII, ...-2021");
 			return;
 		}
@@ -85,6 +87,13 @@ public class PolySENIE
 				if (!wrapper.p.ignoreProlog || !secondLevelPath.getName().startsWith("Prolog"))
 					wrapper.processFile(secondLevelPath, firstLevelTxtDir, firstLevelHtmlDir, out);
 		}
+
+		out.println();
+		out.println("~~~");
+		out.println("Apstrāde pabeigta.");
+		out.println("Neaizmirstiet pirms TXT failu pārkopēšanas uz Sources mapi tajā iztīrīt vecos");
+		out.println("_log.txt failus.");
+
 
 	}
 
