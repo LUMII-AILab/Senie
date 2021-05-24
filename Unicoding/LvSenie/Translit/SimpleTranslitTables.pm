@@ -1328,36 +1328,50 @@ my $ST = {
 	},
 };
 
-# Substitution tables we actually use: here each character in resulting string
-# is surrounded by \N{U+E001} and \N{U+E002} to ensure that it is never replaced
-# again.
-our $EncodedST = encodeST();
+# First project specification required to ensure that strings already replaced
+# would never be considered for replacment agan, so the derived tables were used
+# Where each character in resulting string is surrounded by \N{U+E001} and
+# \N{U+E002} to ensure that it is never replaced again.
+# Currently deprecated.
+#our $DerivedST = deriveNonreplacementST();
 
-sub encodeST
-{
-	my $resultST = {};
-	for my $source (keys %{$ST})
-	{
-		my $subtable = {};
-		for my $target (keys %{$ST->{$source}})
-		{
-			$subtable->{$target} = encodeString($ST->{$source}->{$target});
-		}
-		$resultST->{$source} = $subtable;
-	}
-	return $resultST;
-}
+#sub deriveNonreplacementST
+#{
+#	my $resultST = {};
+#	for my $source (keys %{$ST})
+#	{
+#		my $subtable = {};
+#		for my $target (keys %{$ST->{$source}})
+#		{
+#			$subtable->{$target} = encodeString($ST->{$source}->{$target});
+#		}
+#		$resultST->{$source} = $subtable;
+#	}
+#	return $resultST;
+#}
+
+#sub derivedSubstTable
+#{
+#	my $tableName = shift @_;
+#	return $DerivedST->{$tableName};
+#}
 
 sub substTable
 {
 	my $tableName = shift @_;
-	return $EncodedST->{$tableName};
+	return $ST->{$tableName};
 }
+
+#sub hasDerivedTable
+#{
+#	my $tableName = shift @_;
+#	return exists $DerivedST->{$tableName};
+#}
 
 sub hasTable
 {
 	my $tableName = shift @_;
-	return exists $EncodedST->{$tableName};
+	return exists $ST->{$tableName};
 }
 
 sub encodeString
