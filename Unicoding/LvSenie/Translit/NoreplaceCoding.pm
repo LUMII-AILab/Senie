@@ -1,10 +1,9 @@
-package LvSenie::Translit::NoreplaceTranslitTables;
+package LvSenie::Translit::NoreplaceCoding;
 use strict;
 use utf8;
 use warnings;
 
-use LvSenie::Translit::SimpleTranslitTables qw(TABLES);
-
+#use LvSenie::Translit::SimpleTranslitTables qw(TABLES);
 
 use Exporter();
 our @ISA = qw(Exporter);

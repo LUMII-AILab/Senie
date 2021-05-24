@@ -7,7 +7,7 @@ use IO::Dir;
 use IO::File;
 
 use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable);
-use LvSenie::Translit::NoreplaceTranslitTables qw(encodeString decodeString);
+use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -44,7 +44,7 @@ END
 	my $fileName = shift @_;
 	print "Processing $fileName\n";
 	die "No table found for file $fileName" unless (hasTable($fileName));
-	my %table = %{substTable($fileName)};
+	my @table = @{substTable($fileName)};
 	my $in = IO::File->new("$dirName/${fileName}_Unicode_unhyphened.txt", "< :encoding(UTF-8)")
 		or die "Could not open file $dirName/${fileName}_Unicode_unhyphened.txt: $!";
 	mkdir "$dirName/res/";
@@ -62,12 +62,14 @@ END
 			# we encode that text the same way as we encode already substituted
 			# text - each character is inclosed in \N{U+E001} and \N{U+E002}.
 			$line =~ s/(\@[1abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
-			for my $target (keys %table)
+			for my $rulle (@table)
 			{
-				my $subst = $table{$target};
+				my ($target, $subst, $iFlag) = @$rulle;
 				# Do not replace in "\@[a-z]{" fragments, and don't replace, what
 				# has already been escaped (denoted by \N{U+E001} and \N{U+E002})
-				$line =~ s/(?<!\@|\N{U+E001})$target|$target(?!\{|\N{U+E002})/$subst/g;
+				$iFlag ?
+					$line =~ s/(?<!\@|\N{U+E001})$target]|$target(?!\{|\N{U+E002})/$subst/gi :
+					$line =~ s/(?<!\@|\N{U+E001})$target|$target(?!\{|\N{U+E002})/$subst/g;
 			}
 
 		}
