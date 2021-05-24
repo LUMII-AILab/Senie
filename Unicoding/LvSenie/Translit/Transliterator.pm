@@ -6,7 +6,8 @@ use warnings;
 use IO::Dir;
 use IO::File;
 
-use LvSenie::Translit::TranslitTables qw(substTable hasTable encodeString decodeString);
+use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable);
+use LvSenie::Translit::NoreplaceTranslitTables qw(encodeString decodeString);
 
 use Exporter();
 our @ISA = qw(Exporter);
