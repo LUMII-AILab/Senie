@@ -272,6 +272,24 @@ our $ST_SINGLES = {
 		'z'  => "\x{0292}",
 		'u~' => "\x{0169}",
 	},
+	'Glueck1699_SBM'   => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'a^' => "\x{00E2}",
+		'a&' => "\x{0227}",
+		'a`' => "\x{00E0}",
+		'i^' => "\x{00EE}",
+		'e`' => "\x{00E8}",
+		'i`' => "\x{00EC}",
+		'o^' => "\x{00F4}",
+		'e^' => "\x{00EA}",
+		't^' => "t\x{00E2}",	# error correction t^ -> ta^
+		'a#' => "\x{00E4}",
+		'e#' => "\x{00EB}",
+		'a´' => "\x{00E1}",
+		'u^' => "\x{00FB}",
+		'Ś' => "\x{A7A8}",
+	},
 	'Gr1520_PN'        => {
 		'§'  => "\x{017F}",
 		'y#' => "\x{00FF}",
@@ -470,6 +488,51 @@ our $ST_SINGLES = {
 		'u~' => "\x{0169}",
 		'a~' => "\x{00E3}",
 		'o~' => "\x{00F5}",
+	},
+	'Manc1643_44_Cat'  => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'e~' => "\x{1EBD}",
+		'a`' => "\x{00E0}",
+		'm~' => "m\x{0303}",
+		'n~' => "\x{00F1}",
+		'a&' => "\x{0227}",
+		'a~' => "\x{00E3}",
+		'Ś' => "\x{A7A8}",
+	},
+	'Manc1643_44_LVM'  => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'a´' => "\x{00E1}",
+		'e~' => "\x{1EBD}",
+		'm~' => "m\x{0303}",
+		'a~' => "\x{00E3}",
+		'n~' => "\x{00F1}",
+		# 'e~' => "\x{1EBD}",
+		'e#' => "\x{00EB}",
+		'Ś' => "\x{A7A8}",
+	},
+	'Manc1643_LGL'     => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'a`' => "\x{00E0}",
+		'e~' => "\x{1EBD}",
+		'a~' => "\x{00E3}",
+		'n~' => "\x{00F1}",
+		'm~' => "m\x{0303}",
+		'e#' => "\x{00EB}",
+		'a´' => "\x{00E1}",
+		'Ś' => "\x{A7A8}",
+	},
+	'Manc1643_Syr'     => {
+		'§'  => "\x{017F}",
+		'ś'  => "\x{1E9C}",
+		'a`' => "\x{00E0}",
+		'a~' => "\x{00E3}",
+		'a´' => "\x{00E1}",
+		'n~' => "\x{00F1}",
+		'm~' => "m\x{0303}",
+		'Ś' => "\x{A7A8}",
 	},
 	'Manc1654_LP1'     => {
 		'ś'  => "\x{1E9C}",
@@ -982,7 +1045,7 @@ our $ST_JT1685 = {
 		'e&' => "\x{0117}",
 		'u^' => "\x{00FB}",
 		'e`' => "\x{00E8}",
-		'a#' => "\x{0227}", #todo: ask a&
+		'a#' => "\x{0227}", #Yes, the same as a&
 		'm~' => "m\x{0303}",
 		'u&' => "u\x{0307}",
 		'o&' => "\x{022F}",
@@ -1952,6 +2015,7 @@ sub substTable
 {
 	my $tableName = shift @_;
 	my $collection = shift @_;
+	return $ST_SINGLES->{$tableName} unless ($collection);
 	return $ST_Apokr1689->{$tableName} if ($collection =~ /\s*Apokr1689\s*/);
 	return $ST_JT1685->{$tableName} if ($collection =~ /\s*JT1685\s*/);
 	return $ST_VD1689_94->{$tableName} if ($collection =~ /\s*VD1689_94\s*/);
@@ -1962,6 +2026,7 @@ sub hasTable
 {
 	my $tableName = shift @_;
 	my $collection = shift @_;
+	return exists $ST_SINGLES->{$tableName} unless ($collection);
 	return exists $ST_Apokr1689->{$tableName} if ($collection =~ /\s*Apokr1689\s*/);
 	return exists $ST_JT1685->{$tableName} if ($collection =~ /\s*JT1685\s*/);
 	return exists $ST_VD1689_94->{$tableName} if ($collection =~ /\s*VD1689_94\s*/);
