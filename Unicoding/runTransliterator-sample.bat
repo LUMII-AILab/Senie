@@ -4,8 +4,8 @@
 
 :: Run for a folder like this.
 ::perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data
-::perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-VD
-::perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-JT
-::perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-Apokr
+::perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-VD VD1689_94
+::perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-JT JT1685
+::perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-Apokr Apokr1689
 
 pause

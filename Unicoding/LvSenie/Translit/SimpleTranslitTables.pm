@@ -8,7 +8,7 @@ our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(substTable hasTable TABLES);
 
 # Human readable substitution tables.
-our $TABLES = {
+our $TABLES_SINGLES = {
 	'Br1520_PN'   => [ ### IR OK.
 		[ '^Tew', 'Tēv', ],
 		[ '\b{wb}muſe\b{wb}', 'mūse', ],
@@ -82,16 +82,32 @@ our $TABLES = {
 	],
 };
 
+our $TABLES_Apokr1689 = {};
+
+our $TABLES_JT1685 = {};
+
+our $TABLES_VD1689_94 = {};
+
 sub substTable
 {
 	my $tableName = shift @_;
-	return $TABLES->{$tableName};
+	my $collection = shift @_;
+	return $TABLES_SINGLES->{$tableName} unless ($collection);
+	return $TABLES_Apokr1689->{$tableName} if ($collection =~ /\s*Apokr1689\s*/);
+	return $TABLES_JT1685->{$tableName} if ($collection =~ /\s*JT1685\s*/);
+	return $TABLES_VD1689_94->{$tableName} if ($collection =~ /\s*VD1689_94\s*/);
+	return $TABLES_SINGLES->{$tableName};
 }
 
 sub hasTable
 {
 	my $tableName = shift @_;
-	return exists $TABLES->{$tableName};
+	my $collection = shift @_;
+	return exists $TABLES_SINGLES->{$tableName} unless ($collection);
+	return exists $TABLES_Apokr1689->{$tableName} if ($collection =~ /\s*Apokr1689\s*/);
+	return exists $TABLES_JT1685->{$tableName} if ($collection =~ /\s*JT1685\s*/);
+	return exists $TABLES_VD1689_94->{$tableName} if ($collection =~ /\s*VD1689_94\s*/);
+	return exists $TABLES_SINGLES->{$tableName};
 }
 
 1;

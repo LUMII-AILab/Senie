@@ -7,7 +7,7 @@ use IO::Dir;
 use IO::File;
 
 use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable);
-use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString);
+use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString SPECIAL1 SPECIAL2);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -22,7 +22,7 @@ our @EXPORT_OK = qw(transformFile transformDir);
 sub transformFile
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ < 2)
+	if (not @_ or @_ < 2 or @_ > 3)
 	{
 		print <<END;
 Script for transliterating a single SENIE Unicode source. Source file name must
@@ -35,6 +35,7 @@ NB! Input files can't use Unicode Private Use Area sumbols U+E001 and U+E002 for
 Params:
    data directory
    source filename stub without extension, e.g. Baum1699_LVV
+   collection identifier - Apokr1689, JT1685, VD1689_94 - if applicable
 
 AILab, LUMII, 2021, provided under GPL
 END
@@ -42,6 +43,8 @@ END
 	}
 	my $dirName = shift @_;
 	my $fileName = shift @_;
+	my $collection = shift @_;
+
 	print "Processing $fileName\n";
 	die "No table found for file $fileName" unless (hasTable($fileName));
 	my @table = @{substTable($fileName)};
@@ -66,14 +69,13 @@ END
 			{
 				my ($target, $subst, $iFlag) = @$rulle;
 				# Do not replace in "\@[a-z]{" fragments, and don't replace, what
-				# has already been escaped (denoted by \N{U+E001} and \N{U+E002})
+				# has already been escaped (denoted by $SPECIAL1 and $SPECIAL2)
 				$iFlag ?
-					$line =~ s/(?<!\@|\N{U+E001})$target]|$target(?!\{|\N{U+E002})/$subst/gi :
-					$line =~ s/(?<!\@|\N{U+E001})$target|$target(?!\{|\N{U+E002})/$subst/g;
+					$line =~ s/(?<!\@|$SPECIAL1)$target]|$target(?!\{|$SPECIAL2)/$subst/gi :
+					$line =~ s/(?<!\@|$SPECIAL1)$target|$target(?!\{|$SPECIAL2)/$subst/g;
 			}
-
 		}
-		# Remove all the \N{U+E001} and \N{U+E002} we used for marking places
+		# Remove all the special simbols we used for marking places
 		# where to avoid substitutions.
 		print $out decodeString($line);
 	}
@@ -85,7 +87,7 @@ END
 sub transformDir
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ != 1)
+	if (not @_ or @_ < 1 or @_ > 2)
 	{
 		print <<END;
 Script for transforming SENIE sources to Unicode. Source must be provided in
@@ -94,12 +96,14 @@ Baum1699_LVV_Unicode_translitered.txt.
 
 Params:
    data directory
+   collection identifier - Apokr1689, JT1685, VD1689_94 - if applicable
 
 AILab, LUMII, 2021, provided under GPL
 END
 		exit 1;
 	}
 	my $dirName = shift @_;
+	my $collection = shift @_;
 	my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 
 	my $baddies = 0;
@@ -114,7 +118,7 @@ END
 			{
 				local $SIG{__WARN__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval count warnings.
 				local $SIG{__DIE__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval warn on die and count it as problem.
-				transformFile($dirName, $nameStub);
+				transformFile($dirName, $nameStub, $collection);
 			};
 			$baddies = $baddies + $isBad;
 			$all++;
