@@ -7,7 +7,7 @@ use warnings;
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(encodeString decodeString $firstSymb $lastSymb);
+our @EXPORT_OK = qw(encodeString decodeString smartLowercase $firstSymb $lastSymb);
 
 # First project specification required to ensure that strings already replaced
 # would never be considered for replacment agan, so the derived tables were used
@@ -30,6 +30,13 @@ sub decodeString
 {
 	my $string = shift @_;
 	$string =~ s/($firstSymb|$lastSymb)//g;
+	return $string;
+}
+
+sub smartLowercase
+{
+	my $string = shift @_;
+	$string =~ s/(?<!\@|$firstSymb)((?!$firstSymb|$lastSymb).)(?!\{|$lastSymb)/lc($1)/ge;
 	return $string;
 }
 

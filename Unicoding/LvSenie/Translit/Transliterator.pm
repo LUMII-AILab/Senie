@@ -7,7 +7,7 @@ use IO::Dir;
 use IO::File;
 
 use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable);
-use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString $firstSymb $lastSymb);
+use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString smartLowercase $firstSymb $lastSymb);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -71,13 +71,13 @@ END
 				# Do not replace in "\@[a-z]{" fragments, and don't replace, what
 				# has already been escaped (denoted by $SPECIAL1 and $SPECIAL2)
 				$iFlag ?
-					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/gi :
-					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/g;
+					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/g :
+					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/gi;
 			}
 		}
 		# Remove all the special simbols we used for marking places
 		# where to avoid substitutions.
-		print $out decodeString($line);
+		print $out decodeString(smartLowercase($line));
 	}
 
 	$in->close();
