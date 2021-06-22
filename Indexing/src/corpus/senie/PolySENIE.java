@@ -6,7 +6,9 @@ import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.FileSystems;
 import java.nio.file.Files;
+import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
+import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -66,6 +68,8 @@ public class PolySENIE
 
 		File resTxtDir = new File("result-txt");
 		File resHtmlDir = new File("result-html");
+		File trashDir = new File("result-trash");
+		trashDir.mkdirs();
 
 		for (File firstLevelDir : sourceDir.listFiles(File::isDirectory))
 		{
@@ -81,12 +85,20 @@ public class PolySENIE
 				secondLevelHtmlDir.mkdirs();
 				for (File thirdLevelPath : secondLevelPath.listFiles(File::isFile))
 					if (!wrapper.p.ignoreProlog || !thirdLevelPath.getName().startsWith("Prolog"))
-						wrapper.processFile(thirdLevelPath, secondLevelTxtDir, secondLevelHtmlDir, out);
+						wrapper.processFile(thirdLevelPath, secondLevelTxtDir, secondLevelHtmlDir, trashDir, out);
 			}
 			for (File secondLevelPath : firstLevelDir.listFiles(File::isFile))
 				if (!wrapper.p.ignoreProlog || !secondLevelPath.getName().startsWith("Prolog"))
-					wrapper.processFile(secondLevelPath, firstLevelTxtDir, firstLevelHtmlDir, out);
+					wrapper.processFile(secondLevelPath, firstLevelTxtDir, firstLevelHtmlDir, trashDir, out);
 		}
+
+		String[] trash = trashDir.list();
+		for(String s : trash) {
+			File currentFile = new File(trashDir.getPath(), s);
+			currentFile.delete();
+		}
+		//java.nio.file.Files.delete(trashDir.toPath());
+		trashDir.delete();
 
 		out.println();
 		out.println("~~~");
@@ -102,10 +114,13 @@ public class PolySENIE
 	 * @param fileName		path to the file to be indexed
 	 * @param txtResultDir	folder for all .txt results
 	 * @param htmlResultDir	folder for all .htm results
-	 * @param out			status mesage output
+	 * @param trashDir		folder for all unneeded results - workaround for
+	 *                      windows occasionally blocking names of recently
+	 *                      deleted files
+	 * @param out			status message output
 	 * @throws IOException
 	 */
-	protected void processFile (File fileName, File txtResultDir, File htmlResultDir, PrintStream out)
+	protected void processFile (File fileName, File txtResultDir, File htmlResultDir, File trashDir, PrintStream out)
 	throws IOException
 	{
 		out.println();
@@ -139,11 +154,17 @@ public class PolySENIE
 							FileSystems.getDefault().getPath(htmlResultDir.getPath(), resultFile.getName()),
 							StandardCopyOption.REPLACE_EXISTING);
 				else if (resultFileName.equals(fileCodeStub + ".txt"))
-					Files.delete(resultFile.toPath());
+					//Files.delete(resultFile.toPath());
+					Files.move(resultFile.toPath(),
+							FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName()),
+							StandardCopyOption.REPLACE_EXISTING);
 				else if (resultFileName.equals(fileCodeStub + "_log.txt") && isLogFileEmpty(resultFile))
 				{
 					System.out.println ("Deleting " + resultFileName);
-					Files.delete(resultFile.toPath());
+					//Files.delete(resultFile.toPath());
+					Files.move(resultFile.toPath(),
+							FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName()),
+							StandardCopyOption.REPLACE_EXISTING);
 				}
 				else if (resultFileName.endsWith(".txt"))
 					Files.move(resultFile.toPath(),
