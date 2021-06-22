@@ -84,6 +84,7 @@ public class Cleaner extends Recognizer {
 		{
 			case GNP: cleanGNP(); return true;
 			case LR: cleanLR(); return true;
+			case GLR: cleanGLR(); return true;
 			case P: cleanP(); return true;
 			default: return false;
 		}
@@ -194,6 +195,55 @@ public class Cleaner extends Recognizer {
 		}
 	}
 
+	/**
+	 * Processes source text according to rules of book->page->row structure.
+	 *
+	 * Note: this is added >10 years latter without clear understanding.
+	 */
+	public void cleanGLR() throws IOException {
+		String line = "";
+
+		while ((line = reader.readLine()) != null) {
+			line = line.trim();
+
+			Matcher mPage = getPagePattern().matcher(line);
+			Matcher mSuspicPage = getSuspicPagePattern().matcher(line);
+
+			if (!mPage.matches() && mSuspicPage.matches()) log.append(Logger.SUSPICIOUS, line);
+
+			line = encodeNestedBraces(line);
+
+			Matcher mAuthor = getAuthorPattern().matcher(line);
+			Matcher mBook = getBookPattern().matcher(line);
+			Matcher mHead = getHeaderPattern().matcher(line);
+			Matcher mFoot = getFooterPattern().matcher(line);
+			Matcher mMixed = getMixedPattern().matcher(line);
+			Matcher mParallel = getParallelPattern().matcher(line);
+			Matcher mPlain = getPlainPattern().matcher(line);
+			Matcher mSource = getSourcePattern().matcher(line);
+			Matcher mWaste = getIgnorePattern().matcher(line);
+
+
+			if (mHead.matches() || mFoot.matches() || mParallel.matches()) {
+				//log.append(Logger.DROPPED, line);
+			}
+			else if (mWaste.matches() || mPage.matches() ||	mBook.matches() || mAuthor.matches() || mSource.matches()
+					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line))) {
+				writer.write(decodeNestedBraces(line) + "\r\n");	// Do not change that type of line
+			}
+			else if (mMixed.matches() && validBracesInContext(line)) {
+				line = cleanupWaste(cleanupManual(line));			// Clean up the mixed line
+				if (!line.isEmpty()) writer.write(decodeNestedBraces(line) + "\r\n");
+			}
+			else if (!line.isEmpty()) {
+				if (!validBracesInContext(line)) {
+					log.append(Logger.ILLEGAL, decodeNestedBraces(line));	// Braces are not well-formed
+				} else {
+					log.append(Logger.UNDEFINED, decodeNestedBraces(line));	// Line did not match any pattern
+				}
+			}
+		}
+	}
 
 	/**
 	 * Processes source text according to rules of verse structure.

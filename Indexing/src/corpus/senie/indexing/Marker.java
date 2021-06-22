@@ -228,6 +228,7 @@ public class Marker extends Recognizer {
 		{
 			case GNP: markupGNP(); return true;
 			case LR: markupLR(); return true;
+			case GLR: markupGLR(); return true;
 			case P: markupP(); return true;
 			default: return false;
 		}
@@ -389,6 +390,79 @@ public class Marker extends Recognizer {
 		}
 	}
 
+	/**
+	 * Processes a well-formed source text according to the page->row structure.
+	 * Note: this is added >10 years latter without clear understanding.
+	 */
+	public void markupGLR() throws IOException {
+		String book  = "";
+		String line = "";
+		int row = 0;
+
+		while ((line = text.readLine()) != null) {
+			line = encodeNestedBraces(line.trim());
+
+			Matcher mAuthor   = getAuthorPattern().matcher(line);
+			Matcher mBook     = getBookPattern().matcher(line);
+			Matcher mHead     = getHeaderPattern().matcher(line);
+			Matcher mFoot     = getFooterPattern().matcher(line);
+			Matcher mMixed    = getMixedPattern().matcher(line);
+			Matcher mPage     = getPagePattern().matcher(line);
+			Matcher mParallel = getParallelPattern().matcher(line);
+			Matcher mPlain    = getPlainPattern().matcher(line);
+			Matcher mSource   = getSourcePattern().matcher(line);
+
+			if (mBook.matches()) {
+				html.write("</div>\n");									// Closes previous verse
+				book = mBook.group(1);
+				html.write(markupBook(book) + "\n");					// Marked book codificator
+			}
+			else if (mPage.matches()) {
+				html.write("</div>\n");											// Closes previous page
+				html.write("<div class=\"page\">\n");							// Opens new page
+
+				line = markupPage(mPage.group(1));
+				html.write(decodeNestedBraces(line) + "\n");					// Marked page number
+				row = 0;
+			}
+			else if (!line.isEmpty() && mPlain.matches()) {
+				line = markupErrata(line);
+				html.write(++row + ": " + decodeNestedBraces(line) + "<br>\n");	// Marked regular line
+			}
+			else if (mMixed.matches()) {
+				line = markupComment(line);
+				line = markupLang(line);
+				line = markupNote(line);
+				line = markupManual(line);
+				line = markupErrata(line);
+
+				html.write(++row + ": " + decodeNestedBraces(line) + "<br>\n");	// Marked mixed line
+			}
+			else if (mParallel.matches()) {
+				line = markupParallel(line);
+				html.write(decodeNestedBraces(line) + "\n");					// Marked parallel text reference
+			}
+			else if (mFoot.matches()) {
+				line = markupFooter(line);
+				html.write(decodeNestedBraces(line) + "\n");					// Marked end of page
+			}
+			else if (mHead.matches()) {
+				line = markupHeader(line);
+				html.write(decodeNestedBraces(line) + "\n");					// Marked beginning of page
+			}
+			else if (mAuthor.matches()) {
+				line = markupAuthor(mAuthor.group(1));
+				html.write(decodeNestedBraces(line) + "\n");					// Marked author's name
+			}
+			else if (mSource.matches()) {
+				line = markupSource(mSource.group(1));
+				html.write(decodeNestedBraces(line) + "\n");					// Marked source codificator
+			}
+			else if (!line.isEmpty()) {
+				log.append(Logger.DROPPED, decodeNestedBraces(line));
+			}
+		}
+	}
 
 	/**
 	 * Processes a well-formed source text according to the verse structure.

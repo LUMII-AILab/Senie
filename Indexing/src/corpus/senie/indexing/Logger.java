@@ -1,9 +1,8 @@
 package corpus.senie.indexing;
 
-import java.io.BufferedWriter;
-import java.io.FileOutputStream;
-import java.io.OutputStreamWriter;
-import java.io.IOException;
+import java.awt.*;
+import java.io.*;
+import java.util.concurrent.TimeUnit;
 
 
 /**
@@ -59,14 +58,14 @@ public class Logger extends Object {
 	 * this section will be appended at the end of existing log file, otherwise log file will be overwritten.
 	 */
 	public Logger(String name, String title, boolean append) {
-		log = null;
 		try {
 			log = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(name + "_log.txt", append), "UTF-8"));
 			log.write("\r\n" + title + ":\r\n\r\n");
 		}
 		catch (IOException ioe) {
 			log = null;
-			System.err.println("Error assinging log file: " + ioe);
+			System.err.println("Error assinging log file: ");
+			ioe.printStackTrace();
 		}
 	}
 	
@@ -125,6 +124,7 @@ public class Logger extends Object {
 			log = null;
 			System.err.println("Error closing Logger: " + ioe);
 		}
+
 	}
 
 }

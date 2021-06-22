@@ -74,6 +74,7 @@ public class Inverser extends Recognizer {
 		{
 			case GNP: indexGNP(); return true;
 			case LR: indexLR(); return true;
+			case GLR: indexGLR(); return true;
 			case P: indexP(); return true;
 			default: return false;
 		}
@@ -157,6 +158,42 @@ public class Inverser extends Recognizer {
 		reader.close();
 	}
 
+	/**
+	 * Indexes all running words from the given unhyphened source text.
+	 * Positioning structure: book->page->row.
+	 * Note: this is added >10 years latter without clear understanding.
+	 */
+	public void indexGLR() throws IOException {
+		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
+		String line = "";
+
+		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
+		if (!mAuthor.matches()) {
+			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+		}
+
+		Matcher mSource = getSourcePattern().matcher(reader.readLine());
+		if (!mSource.matches()) {
+			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+		}
+
+		while ((line = reader.readLine()) != null) {
+			line = encodeNestedBraces(line);
+
+			Matcher mPage = getPagePattern().matcher(line);
+			Matcher mWaste = getIgnorePattern().matcher(line);
+			Matcher mBook = getBookPattern().matcher(line);
+			mAuthor = getAuthorPattern().matcher(line);
+
+			if (mPage.matches() || mBook.matches() || mAuthor.matches() || mWaste.matches()) {
+				// Skip
+			} else {
+				addWordForm(Indexer.tokenize(decodeNestedBraces(line), true, log));
+			}
+		}
+
+		reader.close();
+	}
 
 	/**
 	 * Indexes all running words from the given unhyphened source text.

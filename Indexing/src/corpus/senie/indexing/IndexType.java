@@ -2,7 +2,7 @@ package corpus.senie.indexing;
 
 public enum IndexType
 {
-	GNP, LR, P;
+	GNP, LR, P, GLR;
 	public static IndexType getByLegacyCode(int i)
 	{
 		switch (i)
@@ -13,6 +13,8 @@ public enum IndexType
 				return LR;
 			case 3:
 				return P;
+			case 4:
+				return GLR;
 			default:
 				return null;
 		}
@@ -30,6 +32,9 @@ public enum IndexType
 			case "P":
 			case "p":
 				return P;
+			case "GLR":
+			case "glr":
+				return GLR;
 			default:
 				return null;
 		}

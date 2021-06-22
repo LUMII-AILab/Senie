@@ -455,6 +455,7 @@ public class Indexer extends Recognizer {
 		{
 			case GNP: indexGNP(src, auth, lower, db); return true;
 			case LR: indexLR(src, auth, lower, db); return true;
+			case GLR: indexGLR(src, auth, lower, db); return true;
 			case P: indexP(src, auth, lower, db); return true;
 			default: return false;
 		}
@@ -647,6 +648,97 @@ public class Indexer extends Recognizer {
 		reader.close();
 	}
 
+	/**
+	 * Indexes all running words from the given unhyphened source text fragments written by the given author.
+	 * Positioning structure: book->page->row.
+	 * Note: this is added >10 years latter without clear understanding.
+	 *
+	 * @param src - source codificator.
+	 * @param auth - author's name; if empty, author is ignored.
+	 * @param lower - if true, converts all running words to lower case before updating the index.
+	 */
+	public void indexGLR(String src, String auth, boolean lower, boolean db) throws IOException {
+		if (db) throw new UnsupportedOperationException("GLR with DB connection is not implemented");
+
+		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
+
+		StringBuilder plain = new StringBuilder(" ");
+
+		String line = "";
+		String source = "";
+		String page = "";
+		String book = "";
+		int row = 0;
+
+		boolean process = false;
+
+		// Author's name must be on first line
+		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
+		if (mAuthor.matches()) {
+			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
+		} else {
+			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+		}
+
+		// Source codificator must be on second line
+		Matcher mSource = getSourcePattern().matcher(reader.readLine());
+		if (mSource.matches()) {
+			source = mSource.group(1);
+		} else {
+			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+		}
+
+		while ((line = reader.readLine()) != null) {
+			line = encodeNestedBraces(line);
+
+			Matcher mPage = getPagePattern().matcher(line);
+			Matcher mWaste = getIgnorePattern().matcher(line);
+			Matcher mBook = getBookPattern().matcher(line);
+
+			mAuthor = getAuthorPattern().matcher(line);
+
+			if (mPage.matches()) {
+				page = mPage.group(1);
+				row = 0;
+			}
+			else if (mBook.matches())
+			{
+				book = mBook.group(1);
+			}
+			else if (mAuthor.matches()) {
+				if (mAuthor.group(1).equals(auth) || auth.equals("")) {
+					// Indexes only fragments written by the given author
+					process = true;
+				} else {
+					process = false;
+					log.append(Logger.SUSPICIOUS, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
+				}
+			}
+			else if (mWaste.matches()) {
+				if (line.startsWith("@2") || line.startsWith("@3")) System.err.println(decodeNestedBraces(line));
+				row++;
+			}
+			else {
+				row++;
+
+				if (process) {
+					List<String> tokens = tokenize(decodeNestedBraces(line), lower, log);
+
+					running += tokens.size();
+
+					plain.setLength(0);
+					plain.append(" " + tokensToString(tokens));
+
+					//TODO implement and uncoment this, but I have no clue, how
+					//if (!lower && db) insPlainLR(plain.toString(), page, row);
+
+					addPosition(tokens, new LRPosition(source + ":" + book, page, row));
+				}
+			}
+		}
+
+		reader.close();
+	}
 
 	/**
 	 * Indexes all running words from the given unhyphened source text.

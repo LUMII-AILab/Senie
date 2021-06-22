@@ -141,7 +141,10 @@ public class PolySENIE
 				else if (resultFileName.equals(fileCodeStub + ".txt"))
 					Files.delete(resultFile.toPath());
 				else if (resultFileName.equals(fileCodeStub + "_log.txt") && isLogFileEmpty(resultFile))
+				{
+					System.out.println ("Deleting " + resultFileName);
 					Files.delete(resultFile.toPath());
+				}
 				else if (resultFileName.endsWith(".txt"))
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(txtResultDir.getPath(), resultFile.getName()),
@@ -238,8 +241,8 @@ public class PolySENIE
 		/**
 		 * Path to the file with information how which file should be indexed.
 		 * Format:
-		 * GNP/LR/P tab MainSourceCode tab BookCode (if needed)
-		 * GNP/LR/P tab MainSourceCode tab BookCode (if needed)
+		 * GNP/LR/P/GLR tab MainSourceCode tab BookCode (if needed)
+		 * GNP/LR/P/GLR tab MainSourceCode tab BookCode (if needed)
 		 * ...
 		 */
 		public File indexSpecPath = new File("../../Sources/indexing.txt");
@@ -254,6 +257,6 @@ public class PolySENIE
 		 * Whether to ignore sources with codes starting with "Prolog".
 		 * This is used to skip Bible prefaces etc.
 		 */
-		public boolean ignoreProlog = true;
+		public boolean ignoreProlog = false;
 	}
 }

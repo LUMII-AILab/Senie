@@ -24,6 +24,7 @@ public class MonoSENIE {
 		out.println("(1) grāmata->nodaļa->pants");
 		out.println("(2) lappuse->rinda");
 		out.println("(3) pants");
+		out.println("(4) grāmata->lapuse->rinda");
 		out.print("Izvēle: ");
 		int pos = Integer.parseInt(input.readLine().trim());
 		IndexType indexType = IndexType.getByLegacyCode(pos);

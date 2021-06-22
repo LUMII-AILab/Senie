@@ -88,7 +88,7 @@ public class Unhyphener extends Recognizer {
 			if (concat) {
 				Matcher mPage = getPagePattern().matcher(curr);
 				Matcher mLang = getLangPattern().matcher(curr);
-				
+
 				if (!mPage.matches() && !mLang.matches()) {
 					// Check for hyphenation over pages
 					
@@ -301,6 +301,7 @@ public class Unhyphener extends Recognizer {
 		{
 			case GNP: unhyphenVerse(true); return true;
 			case LR: unhyphenRow(); return true;
+			case GLR: unhyphenRow(); return true;
 			case P: unhyphenVerse(false); return true;
 			default: return false;
 		}
