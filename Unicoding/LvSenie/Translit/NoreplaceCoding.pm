@@ -7,7 +7,7 @@ use warnings;
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(encodeString decodeString smartLowercase $firstSymb $lastSymb);
+our @EXPORT_OK = qw(encodeString decodeString smartLowercase ignoreLine $firstSymb $lastSymb);
 
 # First project specification required to ensure that strings already replaced
 # would never be considered for replacment agan, so the derived tables were used
@@ -36,8 +36,15 @@ sub decodeString
 sub smartLowercase
 {
 	my $string = shift @_;
-	$string =~ s/(?<!\@|$firstSymb)((?!$firstSymb|$lastSymb).)(?!\{|$lastSymb)/lc($1)/ge;
+	$string =~ s/(?<!\@|$firstSymb)((?!$firstSymb|$lastSymb).)(?!\{|$lastSymb)/lc($1)/ge
+		unless (ignoreLine($string));
 	return $string;
+}
+
+sub ignoreLine
+{
+	my $string = shift @_;
+	return $string =~ /^\s*(\@[1abcdefghilnrsvxz]\{.*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/;
 }
 
 1;

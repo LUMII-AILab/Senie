@@ -7,7 +7,7 @@ use IO::Dir;
 use IO::File;
 
 use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable);
-use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString smartLowercase $firstSymb $lastSymb);
+use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString smartLowercase ignoreLine $firstSymb $lastSymb);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -58,8 +58,7 @@ END
 	while (my $line = <$in>)
 	{
 		# Some lines contain fields to be ignored.
-		unless ($line =~
-			/^\s*(\@[1abcdefghilnrsvxz]\{.*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/)
+		unless (ignoreLine($line))
 		{
 			# To avoid replacements in small foreign fragments within the line
 			# we encode that text the same way as we encode already substituted
