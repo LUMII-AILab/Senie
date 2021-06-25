@@ -41,6 +41,7 @@ END
 		or die "Could not open file $dirName/res/$corpusId/${fileNameStub}_unhyphened.txt: $!";
 
 	my $prevLine = 0;
+	my @emptyLineBuffer = ();
 	my $checkBom = 1;
 	while (my $line = <$in>)
 	{
@@ -57,6 +58,10 @@ END
 		{
 			print $out $line;
 		}
+		elsif ($line =~ /^\s*$/ and $prevLine =~ /[^\s]-(\s*)$/)
+		{
+			push @emptyLineBuffer, $line;
+		}
 		else
 		{
 			# First: process printout previous line, if it has been stored for
@@ -66,14 +71,16 @@ END
 				$line =~ /^\s*([^\s]+) *(.*\s+)$/; #Funny. Why is the last \s+ needed for correct newline processing?
 				my $wordEnd = $1;
 				$line = $2;
-				$prevLine =~ s/^(.*?)-(\s*)$/$1$wordEnd$2/;
+				$prevLine =~ s/^(.*?[^\s])-(\s*)$/$1$wordEnd$2/;
 				print $out $prevLine;
+				print $out join('', @emptyLineBuffer);
+				@emptyLineBuffer = ();
 				$prevLine = 0;
 			}
 
 			# Then check, if this line is complete and can be printed out or
 			# must be stored for next cycle.
-			if ($line =~ /-\s*$/)
+			if ($line =~ /[^\s]-\s*$/)
 			{
 				$prevLine = $line;
 			}
