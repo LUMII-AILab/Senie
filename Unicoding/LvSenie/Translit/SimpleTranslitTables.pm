@@ -7,9 +7,9 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(substTable hasTable TABLES);
 
-# Human readable substitution tables.
+# Jāņem vērā, ka reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu.
 our $TABLES_SINGLES = {
-	'Br1520_PN'    => [ ### IR OK.
+	'Br1520_PN'    => [ ### Labots papildus pēc pēdējā word ### IR OK.
 		[ '^Tew', 'Tēv', ],
 		[ '\b{wb}muſe\b{wb}', 'mūse', ],
 		[ '\b{wb}muſs', 'mūs', ],
@@ -28,12 +28,13 @@ our $TABLES_SINGLES = {
 		[ 'atz\b{wb}', 'āts', ],
 		[ '\b{wb}bus\b{wb}', 'būs', ],
 		[ '\b{wb}ka\b{wb}', 'kā', ],
+		[ '\b{wb}wyſs', 'vis', ],
 		[ 'ss', 's', ],
 		[ '\b{wb}Ta\b{wb}', 'Tā', ],
 		[ '\b{wb}arriſ', 'arīdz', ],
 		[ '\b{wb}wurſ', 'virs', ],
 		[ '\b{wb}ſemm', 'zem', ],
-		[ '\b{wb}deniſ', 'dieni', ],
+		[ '\b{wb}deniſ', 'dienis', ],
 		[ 'yſe\b{wb}', 'ize', ],
 		[ '\b{wb}duth\b{wb}', 'dot', ],
 		[ 'deẽ', 'dien', ],
@@ -43,10 +44,9 @@ our $TABLES_SINGLES = {
 		[ 'rr', 'r', ],
 		[ 'adu', 'ādnie', ],
 		[ 'ekw', 'iev', ],
-		[ 'dſ', 'dz', ],
+		[ 'dſ', 'dz', 1],
 		[ '\b{wb}ļou', 'ļau', ],
 		[ '\b{wb}AEth\s*peſti', 'Atpesti', ],
-		[ '\b{wb}wyſs', 'vis', ],
 	],
 	'Ench1586'     => [
 		[ '\b{wb}Amen\b{wb}', 'Āmen ', ],
