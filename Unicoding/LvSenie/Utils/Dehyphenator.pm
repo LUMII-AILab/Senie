@@ -58,7 +58,7 @@ END
 		{
 			print $out $line;
 		}
-		elsif ($line =~ /^\s*$/ and $prevLine =~ /[^\s]-(\s*)$/)
+		elsif ($line =~ /^\s*$/ and $prevLine =~ /[^\s]-(\{[^}]*\})?(\s*)$/)
 		{
 			push @emptyLineBuffer, $line;
 		}
@@ -68,10 +68,19 @@ END
 			# latter processing.
 			if ($prevLine)
 			{
-				$line =~ /^\s*([^\s]+) *(.*\s+)$/; #Funny. Why is the last \s+ needed for correct newline processing?
-				my $wordEnd = $1;
-				$line = $2;
-				$prevLine =~ s/^(.*?[^\s])-(\s*)$/$1$wordEnd$2/;
+				$line =~ /^\s*([^\s]+)(?:{([^}])})? *(.*\s+)$/; #Funny. Why is the last \s+ needed for correct newline processing?
+				my ($wordEnd, $corrEnd) = ($1, $2);
+				$line = $3;
+				$prevLine =~ /^(.*?)([^\s]*)(?:\{([^}-]*)\})?-(?:\{([^}-]*)-?\})?(\s*)$/;
+				my ($wordStart, $corrStart1, $corrStart2, $newline) = ($2, $3, $4, $5);
+				$prevLine = $1.$wordStart.$wordEnd;
+				if ($corrStart1 or $corrStart2 or $corrEnd)
+				{
+					$prevLine = $prevLine.'{'.($corrStart1 or $corrStart2 or $wordStart).($corrEnd or $wordEnd).'}';
+				}
+				$prevLine = $prevLine.$newline;
+
+				#$prevLine =~ s/^(.*?[^\s])-(\s*)$/$1$wordEnd$2/;
 				print $out $prevLine;
 				print $out join('', @emptyLineBuffer);
 				@emptyLineBuffer = ();
@@ -80,7 +89,7 @@ END
 
 			# Then check, if this line is complete and can be printed out or
 			# must be stored for next cycle.
-			if ($line =~ /[^\s]-\s*$/)
+			if ($line =~ /[^\s]-(\{[^}]*\})?\s*$/)
 			{
 				$prevLine = $line;
 			}
