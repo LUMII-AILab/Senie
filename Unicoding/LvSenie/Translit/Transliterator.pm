@@ -46,8 +46,8 @@ END
 	my $collection = shift @_;
 
 	print "Processing $fileName\n";
-	die "No table found for file $fileName" unless (hasTable($fileName));
-	my @table = @{substTable($fileName)};
+	die "No table found for file $fileName" unless (hasTable($fileName, $collection));
+	my @table = @{substTable($fileName, $collection)};
 	my $in = IO::File->new("$dirName/${fileName}_Unicode_unhyphened.txt", "< :encoding(UTF-8)")
 		or die "Could not open file $dirName/${fileName}_Unicode_unhyphened.txt: $!";
 	mkdir "$dirName/res/";
