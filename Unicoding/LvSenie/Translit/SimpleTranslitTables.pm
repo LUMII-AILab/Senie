@@ -5833,16 +5833,16 @@ our $TABLES_JT1685 = {
 		[ 'ë', 'e', ],
 		[ 'eij', 'ej', ],
 		[ 'aij', 'aj', ],
-		[ 'b{wb}ell', 'e#', ],     # Palīgmaiņa
+		[ '\b{wb}ell', 'e#', ],     # Palīgmaiņa
 		[ 'Vell', 'Ve#', '1' ],    # Palīgmaiņa
-		[ 'b{wb}allaſ', 'a#aſ', ], # Palīgmaiņa
+		[ '\b{wb}allaſ', 'a#aſ', ], # Palīgmaiņa
 		[ 'll', 'l', ],
 		[ '#', 'll', ], # Palīgmaiņas novākšana
 		[ 'bb', 'b', ],
 		[ 'dd', 'd', ],
 		[ 'gg', 'g', ],
 		[ 'ģģ', 'ģ', ],
-		[ 'b{wb}ikk', 'i#', ], # Palīgmaiņa
+		[ '\b{wb}ikk', 'i#', ], # Palīgmaiņa
 		[ 'kk', 'k', ],
 		[ '#', 'kk', ], # Palīgmaiņas novākšana
 		[ 'ķķ', 'ķ', ],
@@ -5855,10 +5855,10 @@ our $TABLES_JT1685 = {
 		[ 'rr', 'r', ],
 		[ '#', 'rr', ], # Palīgmaiņas novākšana
 		[ 'ŗŗ', 'ŗ', ],
-		[ 'b{wb}att', 'a#', ], # Palīgmaiņa
+		[ '\b{wb}att', 'a#', ], # Palīgmaiņa
 		[ 'tt', 't', ],
 		[ '#', 'tt', ], # Palīgmaiņas novākšana
-		[ 'b{wb}atẜch', 'atš', ],
+		[ '\b{wb}atẜch', 'atš', ],
 		[ 'tẜch', 'č', ],
 		[ 'tſch', 'č', ],
 		[ 'ẜch', 'š', ],
@@ -5870,11 +5870,11 @@ our $TABLES_JT1685 = {
 		[ 'Sch', 'Ž', '1' ],
 		[ 'z', 'c', ],
 		[ 'cc', 'c', ],
-		[ 'b{wb}ais', 'aiz', ],
-		[ 'b{wb}iz', 'iz', ],
-		[ 'b{wb}us', 'uz', ],
-		[ 'b{wb}ūs', 'ūz', ],
-		[ 'b{wb}bes', 'bez', ],
+		[ '\b{wb}ais', 'aiz', ],
+		[ '\b{wb}iz', 'iz', ],
+		[ '\b{wb}us', 'uz', ],
+		[ '\b{wb}ūs', 'ūz', ],
+		[ '\b{wb}bes', 'bez', ],
 		[ 'ſk', 'sk', ],
 		[ 'ſl', 'sl', ],
 		[ 'ſp', 'sp', ],
