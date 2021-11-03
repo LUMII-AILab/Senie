@@ -3325,8 +3325,8 @@ our $TABLES_SINGLES = {
 		[ 'Sarr', '&ar', ],	# Palīgmaiņa
 		[ 'Sagg', '&ag', ],	# Palīgmaiņa
 		[ 'Swehr', '&vēr', ],	# Palīgmaiņa
-		[ 'Swei', '&vej', ]	# Palīgmaiņa,
-			[ 'So', '&o', ],	# Palīgmaiņa
+		[ 'Swei', '&vej', ],	# Palīgmaiņa
+		[ 'So', '&o', ],	# Palīgmaiņa
 		[ 'Swär', '&vēr', ],	# Palīgmaiņa
 		[ 'Swann', '&van', ],	# Palīgmaiņa
 		[ 'Säll', '&el', ],	# Palīgmaiņa
