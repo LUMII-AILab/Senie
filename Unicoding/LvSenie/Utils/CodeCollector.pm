@@ -71,6 +71,7 @@ sub reviewFile
 		}
 	}
 
+	$in -> close();
 	return $codeCollector;
 }
 
