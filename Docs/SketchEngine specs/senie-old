@@ -1,0 +1,65 @@
+NAME "SENIE sākotnējais"
+PATH  /corpora/data/senie-old
+VERTICAL /corpora/vert/senie-old.vert
+ENCODING "UTF-8"
+
+ATTRIBUTE sourceWord {
+	LABEL "Vārdforma avotā"
+}
+ATTRIBUTE word {
+	LABEL "Vārdforma ar labojumiem"
+}
+
+ATTRIBUTE   lc {
+	LABEL	"Vārdforma (ar maziem burtiem)"
+	DYNAMIC  utf8lowercase
+	DYNLIB   internal
+	ARG1     "C"
+	FUNTYPE  s
+	FROMATTR word
+	TYPE     index
+	TRANSQUERY	yes
+}
+
+STRUCTURE doc {
+	LABEL "Dokuments"
+	ATTRIBUTE sorceId
+	ATTRIBUTE author
+}
+STRUCTURE page {
+	LABEL "Lappuse"
+	ATTRIBUTE sourceNo
+	ATTRIBUTE correctedNo
+}
+STRUCTURE para {
+	LABEL "Rindkopa"
+	ATTRIBUTE type {
+		LABEL "Rindkopas veids"
+	}
+	ATTRIBUTE no {
+		LABEL "Panta numurs"
+	}
+}
+STRUCTURE line {
+	LABEL "Rinda"
+	DISPLAYTAG 0
+	DISPLAYBEGIN " "
+}
+STRUCTURE foreign {
+	LABEL "Teksts svešvalodā"
+	ATTRIBUTE lang {
+		LABEL "Valoda"
+	}
+}
+STRUCTURE block {
+	LABEL "Cits teksta bloks"
+	ATTRIBUTE type {
+		LABEL "Bloka veids"
+	}
+}
+STRUCTURE g {
+	DISPLAYTAG 0
+	DISPLAYBEGIN "_EMPTY_"
+}
+
+SIMPLEQUERY "[lc="%s"] !within (<foreign/>|<block/>)"

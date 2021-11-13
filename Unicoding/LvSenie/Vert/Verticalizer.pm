@@ -14,7 +14,9 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(verticalizeFile verticalizeDir);
 
-# TODO manis vienotie dehyp faili ir citādāki kā Normunda, laikam jāpāriet visur uz maniem???
+# TODO manis vienotie dehyp faili ir citādāki kā Normunda??
+# TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
+
 sub verticalizeDir
 {
 	autoflush STDOUT 1;
@@ -35,6 +37,8 @@ END
 	my $encoding = shift @_;
 	my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 
+	my $outForTotal = IO::File->new("$dirName/res/all.vert", "> :encoding(UTF-8)")
+		or die "Could not open file $dirName/res/all.vert: $!";
 	my $baddies = 0;
 	my $all = 0;
 	while (defined(my $inFile = $dir->read))
@@ -46,12 +50,13 @@ END
 			{
 				local $SIG{__WARN__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval count warnings.
 				local $SIG{__DIE__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval warn on die and count it as problem.
-				verticalizeFile($dirName, $inFile, $encoding);
+				verticalizeFile($dirName, $inFile, $encoding, $outForTotal);
 			};
 			$baddies = $baddies + $isBad;
 			$all++;
 		}
 	}
+	$outForTotal->close();
 	if ($baddies)
 	{
 		print "Processing $dirName finished, $baddies of $all files failed!";
@@ -67,7 +72,7 @@ END
 sub verticalizeFile
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ != 3)
+	if (not @_ or @_ < 3 or @_ > 4)
 	{
 		print <<END;
 Script for transforming a single SENIE source to Sketch-appropriate vertical
@@ -79,6 +84,7 @@ Params:
    data directory
    source filename, e.g. Baum1699_LVV_Unicode.txt
    endoding, expected cp1257 or UTF-8
+   filehandle for dumping copy of the processed contents [optional]
 
 AILab, LUMII, 2020, provided under GPL
 END
@@ -88,6 +94,7 @@ END
 	my $dirName = shift @_;
 	my $fileName = shift @_;
 	my $encoding = shift @_;
+	my $outTotal = shift @_;
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
@@ -120,16 +127,19 @@ END
 	# Prepare output
 	mkdir "$dirName/res/";
 	mkdir "$dirName/res/$lowerSourceId/";
-	my $out = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}_vertical.txt", "> :encoding(UTF-8)")
-		or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}_vertical.txt: $!";
+	my $outSingle = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
+		or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
 
 	# Doc header
-	print $out "<doc id=\"$fullSourceStub\" author=\"${\$properties->{'a'}}\"";
+	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'a'}}\"", $outSingle, $outTotal);
 	#print $out " commentary=\"${\$properties->{'k'}}\"" if (($indexType eq 'GNP' or $indexType eq 'GLR') and $properties->{'k'});
-	print $out ">\n";
+	&printInVerts(">\n", $outSingle, $outTotal);
 
+	# Counters for adreses
 	my ($inPara, $inPage, $inVerse, $inChapter) = (0, 0, 0, 0);
 	my ($currentPage, $currentLine, $currentChapter, $currentVerse, $currentWord) = (0, 0, 0, 0, 0);
+
+	# Line by line processing
 	my $seenBookCode = 0;
 	while (my $line = <$in>)
 	{
@@ -146,16 +156,16 @@ END
 			# Print paragraph and page borders.
 			if ($inVerse or $inPara)
 			{
-				print $out "</para>\n";
+				&printInVerts("</para>\n", $outSingle, $outTotal);
 				$inVerse = 0;
 				$inPara = 0;
 			}
 			if ($inPage)
 			{
-				print $out "</page>\n";
+				&printInVerts("</page>\n", $outSingle, $outTotal);
 				$inPage = 0;
 			}
-			print $out "<page correctedNo=\"$corrPageNo\" sourceNo=\"$bookPageNo\">\n";
+			&printInVerts("<page sourceNo=\"$bookPageNo\" correctedNo=\"$corrPageNo\">\n", $outSingle, $outTotal);
 			$inPage = 1;
 			# Update indexing data.
 			$currentPage = $corrPageNo;
@@ -170,13 +180,13 @@ END
 		{
 			if ($inVerse or $inPara)
 			{
-				print $out "</para>\n";
+				&printInVerts("</para>\n", $outSingle, $outTotal);
 				$inVerse = 0;
 				$inPara = 0;
 			}
-			print $out "</chapter>\n" if ($inChapter);
+			&printInVerts("</chapter>\n", $outSingle, $outTotal) if ($inChapter);
 			$currentChapter = $1;
-			print $out "<chapter no=\"$currentChapter\">\n" if ($inChapter);
+			&printInVerts("<chapter no=\"$currentChapter\">\n", $outSingle, $outTotal) if ($inChapter);
 			#TODO chapter commentary
 			$currentVerse = 0;
 		}
@@ -184,7 +194,7 @@ END
 		{
 			if ($inVerse or $inPara)
 			{
-				print $out "</para>\n";
+				&printInVerts("</para>\n", $outSingle, $outTotal);
 				$inVerse = 0;
 				$inPara = 0;
 			}
@@ -193,7 +203,7 @@ END
 		{
 			unless ($inPara or $indexType eq 'GNP' or $indexType eq 'P')
 			{
-				print $out "<para type=\"paragraph\">\n";
+				&printInVerts("<para type=\"paragraph\">\n", $outSingle, $outTotal);
 				$inPara = 1;
 			}
 			# @@ ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
@@ -203,14 +213,14 @@ END
 				$currentVerse = $1;
 				$line = "$3";
 
-				print $out "</para>\n" if ($inVerse);
+				&printInVerts("</para>\n", $outSingle, $outTotal) if ($inVerse);
 				my $paraType = "section";
 				$paraType = "verse"if ($indexType eq 'GNP');
-				print $out "<para no=\"$currentVerse\" type=\"$paraType\">\n";
+				&printInVerts("<para no=\"$currentVerse\" type=\"$paraType\">\n", $outSingle, $outTotal);
 				$inVerse = 1;
 				$currentWord = 0;
 			}
-			print $out "<line>\n";
+			&printInVerts("<line>\n", $outSingle, $outTotal);
 			my $firstWord = 1;
 			$currentLine++;
 			$currentWord = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
@@ -229,33 +239,42 @@ END
 				my $sketchElemType = ($isLang ? 'foreign' : 'block');
 				my $sketchAttrType = ($isLang ? 'lang' : 'type');
 
-				print $out "<$sketchElemType $sketchAttrType=\"$decoded\">\n" if ($codeLetter);
+				&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingle, $outTotal) if ($codeLetter);
 
 				for my $token (@{&tokenize($linePart)})
 				{
 					$currentWord++;
-					print $out "<g/>\n" unless ($token =~ /^\s+(.*)$/ or $firstWord);
+					&printInVerts("<g/>\n", $outSingle, $outTotal) unless ($token =~ /^\s+(.*)$/ or $firstWord);
 					$token =~ s/^\p{Z}*(.*)$/$1/;
-					print $out join "\t", @{&splitCorrection($token)};
-					print $out "\t${fullSourceStub}_";
-					print $out "${currentChapter}:" if($indexType eq 'GNP');
-					print $out "${currentVerse}_" if($indexType eq 'GNP' or $indexType eq 'P');
-					print $out "${currentPage}_${currentLine}_" if ($indexType eq 'LR' or $indexType eq 'GLR');
-					print $out $currentWord;
-					print $out "\n";
+					&printInVerts(join("\t", @{&splitCorrection($token)}), $outSingle, $outTotal);
+					&printInVerts("\t${fullSourceStub}_", $outSingle, $outTotal);
+					&printInVerts("${currentChapter}:", $outSingle, $outTotal) if($indexType eq 'GNP');
+					&printInVerts("${currentVerse}_", $outSingle, $outTotal) if($indexType eq 'GNP' or $indexType eq 'P');
+					&printInVerts("${currentPage}_${currentLine}_", $outSingle, $outTotal) if ($indexType eq 'LR' or $indexType eq 'GLR');
+					&printInVerts("$currentWord\n", $outSingle, $outTotal);
 					$firstWord = 0;
 				}
 
-				print $out "</$sketchElemType>\n" if ($codeLetter);
+				&printInVerts("</$sketchElemType>\n", $outSingle, $outTotal) if ($codeLetter);
 			}
-			print $out "</line>\n";
+			&printInVerts("</line>\n", $outSingle, $outTotal);
 		}
 	}
 
-	print $out "</para>\n" if ($inPara or $inVerse);
-	print $out "</page>\n" if ($inPage);
-	print $out "</doc>";
-	$out->close;
+	&printInVerts("</para>\n", $outSingle, $outTotal) if ($inPara or $inVerse);
+	&printInVerts("</page>\n", $outSingle, $outTotal) if ($inPage);
+	&printInVerts("</doc>\n", $outSingle, $outTotal);
+	$outSingle->close;
+}
+
+sub printInVerts
+{
+	my $text = shift @_;
+	my @outs = @_;
+	for my $out (@outs)
+	{
+		print $out $text if ($out);
+	}
 }
 
 # Split line so that each fragment in different language becomes a new segment.
