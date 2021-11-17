@@ -1,6 +1,6 @@
 NAME "SENIE sākotnējais"
-PATH  /corpora/data/senie-old
-VERTICAL /corpora/vert/senie-old.vert
+PATH /corpora/data/senie_sakotnejs
+VERTICAL /corpora/vert/senie_sakotnejs.vert
 ENCODING "UTF-8"
 
 ATTRIBUTE sourceWord {
@@ -8,6 +8,10 @@ ATTRIBUTE sourceWord {
 }
 ATTRIBUTE word {
 	LABEL "Vārdforma ar labojumiem"
+}
+
+ATTRIBUTE address {
+	LABEL "Adrese"
 }
 
 ATTRIBUTE   lc {
@@ -23,21 +27,29 @@ ATTRIBUTE   lc {
 
 STRUCTURE doc {
 	LABEL "Dokuments"
-	ATTRIBUTE sorceId
-	ATTRIBUTE author
+	ATTRIBUTE id {
+		LABEL "Dokumenta ID"
+	}
+	ATTRIBUTE author {
+		LABEL "Autors"
+	}
 }
 STRUCTURE page {
 	LABEL "Lappuse"
-	ATTRIBUTE sourceNo
-	ATTRIBUTE correctedNo
+	ATTRIBUTE sourceNo {
+		LABEL "Lappuses numurs avotā"
+	}
+	ATTRIBUTE correctedNo {
+		LABEL "Lappuses numurs ar labojumiem"
+	}
 }
 STRUCTURE para {
 	LABEL "Rindkopa"
-	ATTRIBUTE type {
-		LABEL "Rindkopas veids"
-	}
 	ATTRIBUTE no {
 		LABEL "Panta numurs"
+	}
+	ATTRIBUTE type {
+		LABEL "Rindkopas veids"
 	}
 }
 STRUCTURE line {
@@ -45,10 +57,10 @@ STRUCTURE line {
 	DISPLAYTAG 0
 	DISPLAYBEGIN " "
 }
-STRUCTURE foreign {
-	LABEL "Teksts svešvalodā"
-	ATTRIBUTE lang {
-		LABEL "Valoda"
+STRUCTURE language {
+	LABEL "Valoda"
+	ATTRIBUTE langName {
+		LABEL "Valodas nosaukums"
 	}
 }
 STRUCTURE block {
@@ -57,9 +69,10 @@ STRUCTURE block {
 		LABEL "Bloka veids"
 	}
 }
+
 STRUCTURE g {
 	DISPLAYTAG 0
 	DISPLAYBEGIN "_EMPTY_"
 }
 
-SIMPLEQUERY "[lc="%s"] !within (<foreign/>|<block/>)"
+SIMPLEQUERY '[lc="%s"] within <language langName="Latvian" />'

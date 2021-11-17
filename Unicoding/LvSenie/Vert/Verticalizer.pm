@@ -37,6 +37,7 @@ END
 	my $encoding = shift @_;
 	my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 
+	mkdir "$dirName/res/";
 	my $outForTotal = IO::File->new("$dirName/res/all.vert", "> :encoding(UTF-8)")
 		or die "Could not open file $dirName/res/all.vert: $!";
 	my $baddies = 0;
@@ -203,7 +204,7 @@ END
 		{
 			unless ($inPara or $indexType eq 'GNP' or $indexType eq 'P')
 			{
-				&printInVerts("<para type=\"paragraph\">\n", $outSingle, $outTotal);
+				&printInVerts("<para type=\"Paragraph\">\n", $outSingle, $outTotal);
 				$inPara = 1;
 			}
 			# @@ ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
@@ -214,8 +215,8 @@ END
 				$line = "$3";
 
 				&printInVerts("</para>\n", $outSingle, $outTotal) if ($inVerse);
-				my $paraType = "section";
-				$paraType = "verse"if ($indexType eq 'GNP');
+				my $paraType = "Section";
+				$paraType = "Verse"if ($indexType eq 'GNP');
 				&printInVerts("<para no=\"$currentVerse\" type=\"$paraType\">\n", $outSingle, $outTotal);
 				$inVerse = 1;
 				$currentWord = 0;
@@ -236,10 +237,13 @@ END
 				my $isLang = isLanguage($codeLetter);
 				my $decoded = $codeLetter;
 				$decoded = decode($codeLetter) if (canDecode($codeLetter));
-				my $sketchElemType = ($isLang ? 'foreign' : 'block');
-				my $sketchAttrType = ($isLang ? 'lang' : 'type');
+				my $sketchElemType = ($isLang ? 'language' : 'block');
+				my $sketchAttrType = ($isLang ? 'langName' : 'type');
 
-				&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingle, $outTotal) if ($codeLetter);
+				$codeLetter ?
+					&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingle, $outTotal) :
+					&printInVerts("<language langName=\"Latvian\">\n", $outSingle, $outTotal);
+
 
 				for my $token (@{&tokenize($linePart)})
 				{
@@ -254,8 +258,10 @@ END
 					&printInVerts("$currentWord\n", $outSingle, $outTotal);
 					$firstWord = 0;
 				}
+				$codeLetter ?
+					&printInVerts("</$sketchElemType>\n", $outSingle, $outTotal) :
+					&printInVerts("</language>\n", $outSingle, $outTotal);
 
-				&printInVerts("</$sketchElemType>\n", $outSingle, $outTotal) if ($codeLetter);
 			}
 			&printInVerts("</line>\n", $outSingle, $outTotal);
 		}
@@ -291,8 +297,17 @@ sub splitByLang
 sub tokenize
 {
 	my $line = shift @_;
-	$line =~ s/^\s*(.*?)\s*$/$1/;
-	my @result = split /(?=\p{Z}+)|(?=[^=\{\}\[\]\p{L}\p{M}\p{N},^~`'´\\\/ß§\$#"])|(?<=[.?!\(])(?=[\p{L}\p{N}])/, $line;
+	$line =~ s/^\s*(.*?)\s*$/$1/;	# Remove leading and trailing whitespaces
+	$line =~ tr/\t/ /;	# Remove tabs
+	$line =~ s/(\p{Z})\p{Z}+(?!\p{Z})/$1/g;	# Remove double whitespaces
+	my @tooMuchTokens = split /(?=\p{Z})|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
+	my @result = ();
+	while (@tooMuchTokens)
+	{
+		my $token = shift @tooMuchTokens;
+		$token = $token . shift(@tooMuchTokens) while ($token =~ /^\p{Z}*$/);
+		push @result, $token;
+	}
 	return \@result;
 }
 
