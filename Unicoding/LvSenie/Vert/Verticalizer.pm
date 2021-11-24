@@ -255,12 +255,18 @@ END
 					$currentWord++;
 					&printInVerts("<g/>\n", $outSingle, $outTotal) unless ($token =~ /^\s+(.*)$/ or $firstWord);
 					$token =~ s/^\p{Z}*(.*)$/$1/;
-					&printInVerts(join("\t", @{&splitCorrection($token)}), $outSingle, $outTotal);
-					&printInVerts("\t${fullSourceStub}_", $outSingle, $outTotal);
-					&printInVerts("${currentChapter}:", $outSingle, $outTotal) if($indexType eq 'GNP');
-					&printInVerts("${currentVerse}_", $outSingle, $outTotal) if($indexType eq 'GNP' or $indexType eq 'P');
-					&printInVerts("${currentPage}_${currentLine}_", $outSingle, $outTotal) if ($indexType eq 'LR' or $indexType eq 'GLR');
-					&printInVerts("$currentWord\n", $outSingle, $outTotal);
+					my $address = "${fullSourceStub}_";
+					$address = "$address${currentChapter}:" if($indexType eq 'GNP');
+					$address = "$address${currentVerse}_" if($indexType eq 'GNP' or $indexType eq 'P');
+					$address = "$address${currentPage}_${currentLine}_" if ($indexType eq 'LR' or $indexType eq 'GLR');
+					$address = "$address$currentWord";
+					#&printInVerts("\t${fullSourceStub}_", $outSingle, $outTotal);
+					#&printInVerts("${currentChapter}:", $outSingle, $outTotal) if($indexType eq 'GNP');
+					#&printInVerts("${currentVerse}_", $outSingle, $outTotal) if($indexType eq 'GNP' or $indexType eq 'P');
+					#&printInVerts("${currentPage}_${currentLine}_", $outSingle, $outTotal) if ($indexType eq 'LR' or $indexType eq 'GLR');
+					#&printInVerts("$currentWord\n", $outSingle, $outTotal);
+					&printInVerts(join("\t", @{&splitCorrection($token, $address)}), $outSingle, $outTotal);
+					&printInVerts("\t$address\n", $outSingle, $outTotal);
 					$firstWord = 0;
 				}
 				$codeLetter ?
@@ -320,14 +326,13 @@ sub tokenize
 sub splitCorrection
 {
 	my $token = shift @_;
-	if ($token =~ /^([^{]+){([^}]+)}$/ )
-	{
-		return [$1, $2];
-	}
-	else
-	{
-		return [$token, $token];
-	}
+	my $address = shift @_;
+	my ($form, $corr) = ($token, $token);
+	($form, $corr) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
+	warn "Suspicious token $form at $address\n" if ($token =~/[@\{\}]]/);
+	warn "Suspicious correction $corr at $address\n" if ($corr =~/[@\{\}]]/);
+
+	return [$form, $corr];
 }
 
 1;
