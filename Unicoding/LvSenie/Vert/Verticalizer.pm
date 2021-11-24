@@ -191,6 +191,11 @@ END
 			#TODO chapter commentary
 			$currentVerse = 0;
 		}
+		elsif ($line =~ /^\s*\@b\{(.*)\}\s*$/)	# repeated first word from next book;
+		{
+			# Omit it.
+			$currentLine++;
+		}
 		elsif ($line =~ /^\s*$/)	# empty line - paragraph border
 		{
 			if ($inVerse or $inPara)
@@ -288,7 +293,7 @@ sub splitByLang
 {
 	my $line = shift @_;
 	my @result = split /\s*(?=\@[\w\d]+{)/, $line;
-	@result = map {/^\s*(\@[\w\d]+\{[^\{\}]*(?:\{[^[]]*\})*[^\{\}]*\})?\s*(.*?)\s*$/; ($1, $2)} @result;
+	@result = map {/^\s*(\@[\w\d]+\{(?:[^\{\}]*\{[^{}]*\})*[^\{\}]*\})?\s*(.*?)\s*$/; ($1, $2)} @result;
 	@result = grep {$_} @result;
 	return \@result;
 }
