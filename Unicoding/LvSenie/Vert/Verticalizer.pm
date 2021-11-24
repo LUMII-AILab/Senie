@@ -14,6 +14,9 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(verticalizeFile verticalizeDir);
 
+our $doWarnAts = 1;
+our $doWarnBraces = 0;
+
 # TODO manis vienotie dehyp faili ir citādāki kā Normunda??
 # TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
 
@@ -329,8 +332,10 @@ sub splitCorrection
 	my $address = shift @_;
 	my ($form, $corr) = ($token, $token);
 	($form, $corr) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
-	warn "Suspicious token $form at $address\n" if ($token =~/[@\{\}]]/);
-	warn "Suspicious correction $corr at $address\n" if ($corr =~/[@\{\}]]/);
+	warn "Suspicious token $form at $address\n" if ($token =~/[@]/ and $doWarnAts);
+	warn "Suspicious token $form at $address\n" if ($token =~/[\{\}]/ and $doWarnBraces);
+	warn "Suspicious correction $corr at $address\n" if ($corr =~/[@]/ and $doWarnAts);
+	warn "Suspicious correction $corr at $address\n" if ($corr =~/[\{\}]/ and $doWarnBraces);
 
 	return [$form, $corr];
 }
