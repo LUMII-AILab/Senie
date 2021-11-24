@@ -1,5 +1,5 @@
 Vârdformu skaits:	5473
-Vârdlietojumu skaits:	28831
+Vârdlietojumu skaits:	28857
 
 
 1195	un
@@ -15,7 +15,7 @@ Vârdlietojumu skaits:	28831
 261	eekúch
 250	buhs
 227	ar
-221	2
+222	2
 219	tahs
 185	DEewa
 174	tee
@@ -37,8 +37,8 @@ Vârdlietojumu skaits:	28831
 119	Es
 118	ka`
 115	ko
-113	4
-111	5
+114	4
+112	5
 110	par
 109	tu
 104	man
@@ -50,9 +50,9 @@ Vârdlietojumu skaits:	28831
 99	tohs
 96	tew
 86	Tas
+86	6
 85	KUngs
 84	D§
-84	6
 82	Kad
 82	pahr
 82	tam
@@ -62,10 +62,10 @@ Vârdlietojumu skaits:	28831
 77	Dahw
 77	jums
 74	Grehkeem
+67	weenu
+67	8
 66	tawu
-66	weenu
 66	Zilweks
-66	8
 65	arrid§an
 64	neds
 63	kad
@@ -76,38 +76,38 @@ Vârdlietojumu skaits:	28831
 59	prett
 58	KUnga
 58	Mums
-57	10
+58	10
 56	9
 54	úew
 53	eúúam
 53	mann
 52	DEewam
 52	wiúúu
+52	12
 51	Jahn
 51	Ta
 51	wiòòu
 51	wiò§ch
 51	19
 50	Un
-50	12
 50	15
+50	7
 49	Moh§
 49	Úirds
 49	Tu
 49	Wahrdu
-49	7
 47	Ko
 46	Grehki
 46	wiúúeem
 45	darra
 45	KUngu
+45	13
+45	16
 45	17
+44	20
 43	darriht
 43	eúmu
 43	eúúat
-43	13
-43	16
-43	20
 42	Grehkus
 42	Meeúas
 42	ta`
@@ -115,19 +115,19 @@ Vârdlietojumu skaits:	28831
 41	nu
 41	Reem
 41	14
+41	22
 40	paúchu
 40	wiúúas
-40	22
 39	ja
 39	Kor
 39	Tehws
 39	11
 38	dohd
 38	Tew
+38	21
 37	Grehku
 37	JE§us
 37	Ka`
-37	21
 36	Gr
 36	Matt
 36	weena
@@ -168,12 +168,12 @@ Vârdlietojumu skaits:	28831
 27	darrijs
 27	lai
 27	wiúúi
+27	25
 26	buhtu
 26	Jo
 26	KRi§tus
 26	labbi
 26	Wiòòa
-26	25
 25	atkaï
 25	dehï
 25	gann
@@ -510,6 +510,7 @@ Vârdlietojumu skaits:	28831
 7	Bauúleem
 7	Bauúlibu
 7	darrijúchi
+7	Debbeúi
 7	Debbeúis
 7	Deenas
 7	Deewa
@@ -574,7 +575,6 @@ Vârdlietojumu skaits:	28831
 6	bih§tahs
 6	Darbus
 6	darriti
-6	Debbeúi
 6	DEEWS
 6	Derribu
 6	deúmits
@@ -866,6 +866,7 @@ Vârdlietojumu skaits:	28831
 4	Kri§tum
 4	Kungs
 4	kuººa
+4	l
 4	Labba
 4	laipnigs
 4	Laudis
@@ -980,6 +981,7 @@ Vârdlietojumu skaits:	28831
 4	46
 4	54
 4	66
+4	92
 3	aiskawe
 3	aisleed§
 3	aizinati
@@ -1102,7 +1104,6 @@ Vârdlietojumu skaits:	28831
 3	kurne
 3	kurrenes
 3	kuººu
-3	l
 3	labbaki
 3	labban
 3	Labbibu
@@ -1299,7 +1300,6 @@ Vârdlietojumu skaits:	28831
 3	79
 3	82
 3	91
-3	92
 2	agri
 2	ahra
 2	ahran
@@ -2025,6 +2025,7 @@ Vârdlietojumu skaits:	28831
 2	Uhdens=Pehrúchanu
 2	Uppes
 2	Uppure
+2	uppureja
 2	Uppuºi
 2	Uppuºus
 2	usaugt
@@ -2126,6 +2127,9 @@ Vârdlietojumu skaits:	28831
 2	77
 2	80
 2	81
+2	83
+2	93
+2	95
 2	96
 1	abbejeem
 1	abbu
@@ -5003,7 +5007,6 @@ Vârdlietojumu skaits:	28831
 1	Uhdens=P
 1	Uppe^
 1	uppure
-1	uppureja
 1	uppurejs
 1	uppureúim
 1	uppuºeúim
@@ -5461,7 +5464,6 @@ Vârdlietojumu skaits:	28831
 1	69
 1	74
 1	78
-1	83
 1	84
 1	85
 1	86
@@ -5469,9 +5471,7 @@ Vârdlietojumu skaits:	28831
 1	88
 1	89
 1	90
-1	93
 1	94
-1	95
 1	97
 1	98
 1	99
