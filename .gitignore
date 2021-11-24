@@ -11,6 +11,7 @@
 /Unicoding/*_ignore.bat
 /Unicoding/*-ignore.bat
 /Unicoding/*-ignore
+/Unicoding/*.vert
 
 /Indexing/run/data
 /Indexing/run/result-*
