@@ -40,9 +40,12 @@ END
 	my $out = IO::File->new("$dirName/res/$corpusId/${fileNameStub}_unhyphened.txt", "> :encoding(UTF-8)")
 		or die "Could not open file $dirName/res/$corpusId/${fileNameStub}_unhyphened.txt: $!";
 
+	print "Processing $corpusId/$fileNameStub.\n";
+
 	my $prevLine = 0;
 	my @emptyLineBuffer = ();
 	my $checkBom = 1;
+	my $cutFirstFromNextPage = 0;
 	while (my $line = <$in>)
 	{
 		if ($checkBom)
@@ -68,23 +71,66 @@ END
 			# latter processing.
 			if ($prevLine)
 			{
-				$line =~ /^\s*([^\s]+)(?:{([^}])})? *(.*\s+)$/; #Funny. Why is the last \s+ needed for correct newline processing?
-				my ($wordEnd, $corrEnd) = ($1, $2);
-				$line = $3;
+				# Chop next line in pieces: leading spaces, ending of the word, correction of the ending, the rest.
+				$line =~ /^(\s*)([^\s{]+)(?:{([^}]+)})?(.*\s*)$/; #Funny. Why is the last \s+ needed for correct newline processing?
+				my ($spaces, $wordEnd, $corrEnd) = ($1, $2, $3);
+				$line = $4;
+				# Next line retains original spacing without the first word.
+				$line =~ s/^\s*(.*)$/$spaces$1/;
+				# Chop the previous line in pieces: the rest, beginning of the word, correction of the beginning, spacing.
 				$prevLine =~ /^(.*?)([^\s]*)(?:\{([^}-]*)\})?-(?:\{([^}-]*)-?\})?(\s*)$/;
 				my ($wordStart, $corrStart1, $corrStart2, $newline) = ($2, $3, $4, $5);
-				$prevLine = $1.$wordStart.$wordEnd;
-				if ($corrStart1 or $corrStart2 or $corrEnd)
+				my $newPrevLine = $1;
+				# Speciall procesing if the $line was @b{smth}
+				if ($wordEnd =~ /^\s*\@b$/)
 				{
-					$prevLine = $prevLine.'{'.($corrStart1 or $corrStart2 or $wordStart).($corrEnd or $wordEnd).'}';
+					$cutFirstFromNextPage = 1;
 				}
-				$prevLine = $prevLine.$newline;
+				# Glue together previous line.
+				# There is @b and it contains something.
+				if ($cutFirstFromNextPage and $corrEnd)
+				{
+					$corrEnd =~ s/^([^\s]+)(\s.*)?$/$1/;
+					# No corrections.
+					$newPrevLine = $newPrevLine.$wordStart.$corrEnd;
+					# Has corrections.
+					$newPrevLine = $newPrevLine.'{'.($corrStart1 or $corrStart2).$corrEnd.'}'
+						if ($corrStart1 or $corrStart2);
+					# Reappend newline.
+					$newPrevLine = $newPrevLine.$newline;
+				}
+				# There is @b, but contains nothing.
+				elsif ($cutFirstFromNextPage)
+				{
+					# Do nothing.
+					$newPrevLine = $prevLine;
+				}
+				# There is no @b
+				else
+				{
+					# No corrections.
+					$newPrevLine = $newPrevLine.$wordStart.$wordEnd;
+					# Has corrections
+					$newPrevLine = $newPrevLine.'{'.($corrStart1 or $corrStart2 or $wordStart).($corrEnd or $wordEnd).'}'
+						if ($corrStart1 or $corrStart2 or $corrEnd);
+					# Reappend newline.
+					$newPrevLine = $newPrevLine.$newline;
+				}
 
-				#$prevLine =~ s/^(.*?[^\s])-(\s*)$/$1$wordEnd$2/;
-				print $out $prevLine;
+
+				print $out $newPrevLine;
 				print $out join('', @emptyLineBuffer);
 				@emptyLineBuffer = ();
 				$prevLine = 0;
+			}
+
+			# Process previously left $cutFirstFromNextPage
+			if ($cutFirstFromNextPage and ($line =~ /^\s*[^\[@\s]/))
+			{
+				#print $line;
+				$cutFirstFromNextPage = 0;
+				$line =~ /^\s*[^\s{]+\s*(.*\s*)$/; #Funny. Why is the last \s+ needed for correct newline processing?
+				$line = $1 ? $1 :"";
 			}
 
 			# Then check, if this line is complete and can be printed out or
