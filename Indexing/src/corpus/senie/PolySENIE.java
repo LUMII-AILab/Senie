@@ -8,7 +8,6 @@ import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
@@ -161,9 +160,10 @@ public class PolySENIE
 				else if (resultFileName.equals(fileCodeStub + "_log.txt") && isLogFileEmpty(resultFile))
 				{
 					System.out.println ("Deleting " + resultFileName);
+					Path target = FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName());
+					//while (!Files.isWritable(target));
 					//Files.delete(resultFile.toPath());
-					Files.move(resultFile.toPath(),
-							FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName()),
+					Files.move(resultFile.toPath(), target,
 							StandardCopyOption.REPLACE_EXISTING);
 				}
 				else if (resultFileName.endsWith(".txt"))
