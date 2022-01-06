@@ -260,14 +260,9 @@ END
 					$token =~ s/^\p{Z}*(.*)$/$1/;
 					my $address = "${fullSourceStub}_";
 					$address = "$address${currentChapter}:" if($indexType eq 'GNP');
-					$address = "$address${currentVerse}_" if($indexType eq 'GNP' or $indexType eq 'P');
-					$address = "$address${currentPage}_${currentLine}_" if ($indexType eq 'LR' or $indexType eq 'GLR');
-					$address = "$address$currentWord";
-					#&printInVerts("\t${fullSourceStub}_", $outSingle, $outTotal);
-					#&printInVerts("${currentChapter}:", $outSingle, $outTotal) if($indexType eq 'GNP');
-					#&printInVerts("${currentVerse}_", $outSingle, $outTotal) if($indexType eq 'GNP' or $indexType eq 'P');
-					#&printInVerts("${currentPage}_${currentLine}_", $outSingle, $outTotal) if ($indexType eq 'LR' or $indexType eq 'GLR');
-					#&printInVerts("$currentWord\n", $outSingle, $outTotal);
+					$address = "$address${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
+					$address = "$address${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
+					#$address = "$address_$currentWord"; #Everita pašlaik negrib vārda numuru
 					&printInVerts(join("\t", @{&splitCorrection($token, $address)}), $outSingle, $outTotal);
 					&printInVerts("\t$address\n", $outSingle, $outTotal);
 					$firstWord = 0;
@@ -314,7 +309,7 @@ sub tokenize
 	$line =~ s/^\s*(.*?)\s*$/$1/;	# Remove leading and trailing whitespaces
 	$line =~ tr/\t/ /;	# Remove tabs
 	$line =~ s/(\p{Z})\p{Z}+(?!\p{Z})/$1/g;	# Remove double whitespaces
-	my @tooMuchTokens = split /(?=\p{Z})|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
+	my @tooMuchTokens = split /(?=\p{Z})|(?=[\\\/]\p{Z})|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
 	my @result = ();
 	while (@tooMuchTokens)
 	{

@@ -5713,7 +5713,7 @@ our $TABLES_SINGLES = {
 		[ 'gg', 'g', ],
 		[ '\b{wb}ikk', 'i$', ],	# Palīgmaiņa
 		[ 'kk', 'k', ],
-		[ '$', 'kk', ],	# Palīgmaiņas novākšana
+		[ '\$', 'kk', ],	# Palīgmaiņas novākšana
 		[ 'ķķ', 'ķ', ],
 		[ 'ļļ', 'ļ', ],
 		[ 'mm', 'm', ],
