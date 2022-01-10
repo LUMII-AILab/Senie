@@ -309,7 +309,8 @@ sub tokenize
 	$line =~ s/^\s*(.*?)\s*$/$1/;	# Remove leading and trailing whitespaces
 	$line =~ tr/\t/ /;	# Remove tabs
 	$line =~ s/(\p{Z})\p{Z}+(?!\p{Z})/$1/g;	# Remove double whitespaces
-	my @tooMuchTokens = split /(?=\p{Z})|(?=[\\\/]\p{Z})|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
+	my @tooMuchTokens = split /(?=\p{Z})|(?=[\\\/](\p{Z}|$))|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
+	@tooMuchTokens = grep {$_} @tooMuchTokens;
 	my @result = ();
 	while (@tooMuchTokens)
 	{
