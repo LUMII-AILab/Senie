@@ -2,6 +2,7 @@ NAME "SENIE Unicode"
 PATH /corpora/data/senie_unicode
 VERTICAL /corpora/vert/senie_unicode.vert
 ENCODING "UTF-8"
+LANGUAGE "Latvian"
 
 ATTRIBUTE sourceWord {
 	LABEL "Vārdforma avotā"
@@ -32,6 +33,12 @@ STRUCTURE doc {
 	}
 	ATTRIBUTE author {
 		LABEL "Autors"
+	}
+	ATTRIBUTE year {
+		LABEL "Gads"
+	}
+	ATTRIBUTE century {
+		LABEL "Gadsimts"
 	}
 }
 STRUCTURE page {

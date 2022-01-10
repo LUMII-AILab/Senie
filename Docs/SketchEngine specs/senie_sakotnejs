@@ -2,6 +2,8 @@ NAME "SENIE sākotnējais"
 PATH /corpora/data/senie_sakotnejs
 VERTICAL /corpora/vert/senie_sakotnejs.vert
 ENCODING "UTF-8"
+LANGUAGE "Latvian"
+
 
 ATTRIBUTE sourceWord {
 	LABEL "Vārdforma avotā"
@@ -32,6 +34,12 @@ STRUCTURE doc {
 	}
 	ATTRIBUTE author {
 		LABEL "Autors"
+	}
+	ATTRIBUTE year {
+		LABEL "Gads"
+	}
+	ATTRIBUTE century {
+		LABEL "Gadsimts"
 	}
 }
 STRUCTURE page {

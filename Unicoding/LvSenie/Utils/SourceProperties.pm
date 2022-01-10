@@ -29,12 +29,15 @@ sub getSourceProperties
 	while (my $line = <$in>)
 	{
 		$res->{'a'} = $1 if ($line =~ /\@a\{([^}]*)\}/); # a - autors
-		$res->{'z'} = $1 if ($line =~ /\@z\{([^}]*)\}/); # g - bībeles grāmata priekš GLR un GNP
+		$res->{'z'} = $1 if ($line =~ /\@z\{([^}]*)\}/); # z - avota saīsinājums - visiem
 		#$res->{'k'} = $1 if ($line =~ /\@k\{([^}]*)\}/ and not defined $res->{'g'}); # k - pirmais komentārs priekš GLR un GNP pirms g
-		$res->{'g'} = $1 if ($line =~ /\@g\{([^}]*)\}/); # z - avota saīsinājums - visiem
+		$res->{'g'} = $1 if ($line =~ /\@g\{([^}]*)\}/); # g - bībeles grāmata priekš GLR un GNP
 		last if (scalar keys %$res > 3 or $noG and scalar keys %$res > 2);
 	}
 	$res->{'k'} = undef unless $res->{'g'};
+
+	$res->{'year'} = $1 if ($res->{'z'} =~ /^.*?(\d{4}(_\d+)?).*$/);
+	$res->{'cent'} = $1 + 1 if ($res->{'year'} and $res->{'year'} =~ /^(\d\d)/);
 
 	$in->close;
 	return $res;

@@ -137,6 +137,8 @@ END
 
 	# Doc header
 	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'a'}}\"", $outSingle, $outTotal);
+	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingle, $outTotal) if ($properties->{'year'});
+	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingle, $outTotal) if ($properties->{'cent'});
 	#print $out " commentary=\"${\$properties->{'k'}}\"" if (($indexType eq 'GNP' or $indexType eq 'GLR') and $properties->{'k'});
 	&printInVerts(">\n", $outSingle, $outTotal);
 
