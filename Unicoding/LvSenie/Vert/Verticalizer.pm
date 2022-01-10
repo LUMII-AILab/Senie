@@ -15,7 +15,8 @@ our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(verticalizeFile verticalizeDir);
 
 our $doWarnAts = 1;
-our $doWarnBraces = 0;
+our $doWarnEmptyBraces = 0;
+our $doWarnOtherBraces = 1;
 
 # TODO manis vienotie dehyp faili ir citādāki kā Normunda??
 # TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
@@ -309,13 +310,13 @@ sub tokenize
 	$line =~ s/^\s*(.*?)\s*$/$1/;	# Remove leading and trailing whitespaces
 	$line =~ tr/\t/ /;	# Remove tabs
 	$line =~ s/(\p{Z})\p{Z}+(?!\p{Z})/$1/g;	# Remove double whitespaces
-	my @tooMuchTokens = split /(?=\p{Z})|(?=[\\\/](\p{Z}|$))|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
+	my @tooMuchTokens = split /(?=\p{Z})|(?=\{\})|(?=[\\\/](\p{Z}|$))|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
 	@tooMuchTokens = grep {$_} @tooMuchTokens;
 	my @result = ();
 	while (@tooMuchTokens)
 	{
 		my $token = shift @tooMuchTokens;
-		$token = $token . shift(@tooMuchTokens) while ($token =~ /^\p{Z}*$/);
+		$token = $token . shift(@tooMuchTokens) while ($token =~ /^\p{Z}*$/ or ($token =~ /\{[^}]*$/ and @tooMuchTokens));
 		push @result, $token;
 	}
 	return \@result;
@@ -328,11 +329,15 @@ sub splitCorrection
 	my $address = shift @_;
 	my ($form, $corr) = ($token, $token);
 	($form, $corr) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
-	warn "Suspicious token $form at $address\n" if ($token =~/[@]/ and $doWarnAts);
-	warn "Suspicious token $form at $address\n" if ($token =~/[\{\}]/ and $doWarnBraces);
+	warn "Suspicious token $form at $address\n" if ($form =~/[@]/ and $doWarnAts);
+	warn "Suspicious token $form at $address\n" if ($form =~/\{\}/ and $doWarnEmptyBraces);
+	warn "Suspicious token $form at $address\n" if ($form =~/[\{\}]/ and $form !~ /\{\}/ and $doWarnOtherBraces);
 	warn "Suspicious correction $corr at $address\n" if ($corr =~/[@]/ and $doWarnAts);
-	warn "Suspicious correction $corr at $address\n" if ($corr =~/[\{\}]/ and $doWarnBraces);
+	warn "Suspicious correction $corr at $address\n" if ($corr =~/\{\}/ and $doWarnEmptyBraces);
+	warn "Suspicious correction $corr at $address\n" if ($corr =~/[\{\}]/ and $corr !~ /\{\}/ and $doWarnOtherBraces);
 
+	#TODO kā pareizi apstrādāt tos tukšos? Jo tas nenozīmē, ka iepriekšējo vārdu nevajag.
+	#$corr = '_' unless $corr;
 	return [$form, $corr];
 }
 
