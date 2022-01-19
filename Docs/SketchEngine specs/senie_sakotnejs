@@ -63,7 +63,7 @@ STRUCTURE para {
 STRUCTURE line {
 	LABEL "Rinda"
 	DISPLAYTAG 0
-	DISPLAYBEGIN " "
+	DISPLAYEND "<br/>"
 }
 STRUCTURE language {
 	LABEL "Valoda"
