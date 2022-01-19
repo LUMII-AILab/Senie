@@ -6,7 +6,7 @@ use warnings;
 use IO::Dir;
 use IO::File;
 #use Data::Dumper;
-use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode);
+use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
 use LvSenie::Vert::IndexTypeCatalog qw(getIndexType);
 
@@ -264,10 +264,14 @@ END
 				my $sketchElemType = ($isLang ? 'language' : 'block');
 				my $sketchAttrType = ($isLang ? 'langName' : 'type');
 
-				$codeLetter ?
-					&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingle, $outTotal) :
+				if ($codeLetter) {
+					&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingle, $outTotal);
+					&printInVerts("<language langName=\"Latvian\">\n", $outSingle, $outTotal)
+						if (mustIncludeLanguage($codeLetter));
+				}
+				else {
 					&printInVerts("<language langName=\"Latvian\">\n", $outSingle, $outTotal);
-
+				}
 
 				for my $token (@{&tokenize($linePart)})
 				{
@@ -283,10 +287,14 @@ END
 					&printInVerts("\t$address\n", $outSingle, $outTotal);
 					$firstWord = 0;
 				}
-				$codeLetter ?
-					&printInVerts("</$sketchElemType>\n", $outSingle, $outTotal) :
+				if ($codeLetter) {
+					&printInVerts("</$sketchElemType>\n", $outSingle, $outTotal);
+					&printInVerts("</language>\n", $outSingle, $outTotal)
+						if (mustIncludeLanguage($codeLetter));
+				}
+				else {
 					&printInVerts("</language>\n", $outSingle, $outTotal);
-
+				}
 			}
 			&printInVerts("</line>\n", $outSingle, $outTotal);
 		}

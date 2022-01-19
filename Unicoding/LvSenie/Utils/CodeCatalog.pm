@@ -5,51 +5,58 @@ use warnings;
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(canDecode decode isLanguage);
+our @EXPORT_OK = qw(canDecode decode isLanguage mustIncludeLanguage);
 
 our $CODES = {
-	'1' => [ 'Sheet', 0 ],
-	'2' => [ 'Title (even)', 0 ],
-	'3' => [ 'Title (odd)', 0 ],
-	'a' => [ 'Author', 0],
-	'b' => [ 'Carry over', 0],
-	'c' => [ 'Polish', 1],
-	'd' => [ 'French', 1],
-	'e' => [ 'Estonian', 1],
-	'f' => [ 'Flemish', 1],
-	#'g' => [ 'Bible Book', 0],
-	'h' => [ 'Greek', 1],
-	'i' => [ 'Italian', 1],
-	#'j' => [ 0, 0],
-	'k' => [ 'Comment', 0],
-	'l' => [ 'Latin', 1],
-	#'m' => [ 0, 0],
-	#'o' => [ 0, 0],
-	'p' => [ 'Remark', 0],
-	#'q' => [ 0, 0],
-	'r' => [ 'Aramaic', 1],
-	's' => [ 'English', 1],
-	't' => [ 'Parallel', 0],
-	#'u' => [ 0, 0],
-	'v' => [ 'German', 1],
-	#'w' => [ 0, 0],
-	'x' => [ 'Empty', 0],
-	#'y' => [ 0, 0],
-	#'z' => [ 'sorce-id', 0],
+	'1' => { 'Name' => 'Sheet', 'IsLang' => 0, },
+	'2' => { 'Name' => 'Title (even)', 'IsLang' => 0, },
+	'3' => { 'Name' => 'Title (odd)', 'IsLang' => 0, },
+	'a' => { 'Name' => 'Author', 'IsLang' => 0, },
+	'b' => { 'Name' => 'Carry over', 'IsLang' => 0, },
+	'c' => { 'Name' => 'Polish', 'IsLang' => 1, },
+	'd' => { 'Name' => 'French', 'IsLang' => 1, },
+	'e' => { 'Name' => 'Estonian', 'IsLang' => 1, },
+	'f' => { 'Name' => 'Flemish', 'IsLang' => 1, },
+	#'g' => { 'Name' => 'Bible Book', 'IsLang' => 0, 'LangInside' => 0, },
+	'h' => { 'Name' => 'Greek', 'IsLang' => 1, },
+	'i' => { 'Name' => 'Italian', 'IsLang' => 1, },
+	#'j' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	'k' => { 'Name' => 'Comment', 'IsLang' => 0, 'LangInside' => 1, },
+	'l' => { 'Name' => 'Latin', 'IsLang' => 1, },
+	#'m' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	#'o' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	'p' => { 'Name' => 'Remark', 'IsLang' => 0, 'LangInside' => 1, },
+	#'q' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	'r' => { 'Name' => 'Aramaic', 'IsLang' => 1, },
+	's' => { 'Name' => 'English', 'IsLang' => 1, },
+	't' => { 'Name' => 'Parallel', 'IsLang' => 0, },
+	#'u' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	'v' => { 'Name' => 'German', 'IsLang' => 1, },
+	#'w' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	'x' => { 'Name' => 'Empty', 'IsLang' => 0, },
+	#'y' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	#'z' => { 'Name' => 'sorce-id', 'IsLang' => 0, 'LangInside' => 0, },
 };
 
 sub isLanguage
 {
 	my $codifier = shift @_;
 	return 0 unless exists $CODES->{$codifier};
-	return $CODES->{$codifier}->[1];
+	return $CODES->{$codifier}->{'IsLang'};
+}
+
+sub mustIncludeLanguage
+{
+	my $codifier = shift @_;
+	return 0 unless exists $CODES->{$codifier};
+	return $CODES->{$codifier}->{'LangInside'};
 }
 
 sub decode
 {
 	my $codifier = shift @_;
 	return undef unless exists $CODES->{$codifier};
-	return $CODES->{$codifier}->[0];
+	return $CODES->{$codifier}->{'Name'};
 }
 
 sub canDecode
