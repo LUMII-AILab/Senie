@@ -12,7 +12,7 @@ use LvSenie::Vert::IndexTypeCatalog qw(getIndexType);
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(verticalizeFile verticalizeDir);
+our @EXPORT_OK = qw(verticalizeFile verticalizeDirs);
 
 our $doWarnAts = 1;
 our $doWarnEmptyBraces = 0;
@@ -21,54 +21,67 @@ our $doWarnOtherBraces = 1;
 # TODO manis vienotie dehyp faili ir citādāki kā Normunda??
 # TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
 
-sub verticalizeDir
+sub verticalizeDirs
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ != 2)
+	if (not @_ or @_ < 3)
 	{
 		print <<END;
 Script for transforming SENIE sources to Sketch-appropriate vertical format.
 
 Params:
-   data directory
    endoding, expected cp1257 or UTF-8
+   place for summarized result files
+   data directories
 
 AILab, LUMII, 2020, provided under GPL
 END
 		exit 1;
 	}
-	my $dirName = shift @_;
+	my $totalResultDirName = shift @_;
 	my $encoding = shift @_;
-	my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
+	my @dirNames = @_;
 
-	mkdir "$dirName/res/";
-	my $outForTotal = IO::File->new("$dirName/res/all.vert", "> :encoding(UTF-8)")
-		or die "Could not open file $dirName/res/all.vert: $!";
+	#my $totalResDir = IO::Dir->new($totalResultDirName)
+	#	or die "Folder $totalResultDirName is not available: $!";
+	my $outForTotal = IO::File->new("$totalResultDirName/all.vert", "> :encoding(UTF-8)")
+		or die "Could not open file $totalResultDirName/all.vert: $!";
 	my $baddies = 0;
 	my $all = 0;
-	while (defined(my $inFile = $dir->read))
-	{
-		if ((-f "$dirName/$inFile") and $inFile =~ /^(.*?)\.txt$/)
-		{
-			my $isBad = 0;
-			eval
-			{
-				local $SIG{__WARN__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval count warnings.
-				local $SIG{__DIE__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval warn on die and count it as problem.
-				verticalizeFile($dirName, $inFile, $encoding, $outForTotal);
-			};
-			$baddies = $baddies + $isBad;
-			$all++;
+
+	for my $dirName (@dirNames) {
+		my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
+		mkdir "$dirName/res/";
+		#my $outForDir = IO::File->new("$dirName/res/all.vert", "> :encoding(UTF-8)")
+		#	or die "Could not open file $dirName/res/all.vert: $!";
+
+		while (defined(my $inFile = $dir->read)) {
+			if ((-f "$dirName/$inFile") and $inFile =~ /^(.*?)\.txt$/) {
+				my $isBad = 0;
+				eval
+				{
+					local $SIG{__WARN__} = sub {
+						$isBad = 1;
+						warn $_[0]
+					}; # This magic makes eval count warnings.
+					local $SIG{__DIE__} = sub {
+						$isBad = 1;
+						warn $_[0]
+					}; # This magic makes eval warn on die and count it as problem.
+					verticalizeFile($dirName, $inFile, $encoding, $outForTotal);
+				};
+				$baddies = $baddies + $isBad;
+				$all++;
+			}
 		}
+		#$outForDir->close();
 	}
 	$outForTotal->close();
-	if ($baddies)
-	{
-		print "Processing $dirName finished, $baddies of $all files failed!";
+	if ($baddies) {
+		print "Processing finished, $baddies of $all files failed!";
 	}
-	else
-	{
-		print "Processing $dirName ($all files) finished successfully!";
+	else {
+		print "Processing $all files finished successfully!";
 	}
 	return $baddies;
 }
