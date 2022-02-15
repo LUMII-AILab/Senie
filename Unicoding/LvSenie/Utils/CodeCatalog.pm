@@ -41,28 +41,28 @@ our $CODES = {
 sub isLanguage
 {
 	my $codifier = shift @_;
-	return 0 unless exists $CODES->{$codifier};
+	return 0 unless (exists $CODES->{$codifier} and $CODES->{$codifier});
 	return $CODES->{$codifier}->{'IsLang'};
 }
 
 sub mustIncludeLanguage
 {
 	my $codifier = shift @_;
-	return 0 unless exists $CODES->{$codifier};
+	return 0 unless (exists $CODES->{$codifier} and $CODES->{$codifier});
 	return $CODES->{$codifier}->{'LangInside'};
 }
 
 sub decode
 {
 	my $codifier = shift @_;
-	return undef unless exists $CODES->{$codifier};
+	return undef unless (exists $CODES->{$codifier} and $CODES->{$codifier});
 	return $CODES->{$codifier}->{'Name'};
 }
 
 sub canDecode
 {
 	my $codifier = shift @_;
-	return exists $CODES->{$codifier};
+	return (exists $CODES->{$codifier} and $CODES->{$codifier});
 }
 
 1;
