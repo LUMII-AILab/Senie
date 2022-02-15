@@ -2658,7 +2658,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}muſch', 'mūž', ],
 		[ '\b{wb}meſſcha', 'meža', ],
 		[ 'mehſch', 'mēž', ],
-		[ 'allaſch', 'a%až', ], # Palīgmaiņa
+		[ 'allaſch', 'a%až', ],	# Palīgmaiņa
 		[ 'ghauſch', 'gauž', ],
 		[ 'ļauſch', 'ļauž', ],
 		[ 'abſchäl', 'apžēl', ],
@@ -2670,22 +2670,22 @@ our $TABLES_SINGLES = {
 		[ 'ſchähl', 'žēl', ],
 		[ 'ẜehſch', 'sēž', ],
 		[ 'dadſch', 'dadž', ],
-		[ 'ghreeſch', 'gr#ž', ], # Palīgmaiņa
+		[ 'ghreeſch', 'gr#ž', ],	# Palīgmaiņa
 		[ '\b{wb}eſch', 'ež', ],
-		[ 'meeſcha', 'm#ža', ], # Palīgmaiņa
+		[ 'meeſcha', 'm#ža', ],	# Palīgmaiņa
 		[ 'ſchaw', 'žāv', ],
 		[ '\b{wb}ahſch', 'āž', ],
 		[ 'muiſch', 'muiž', ],
 		[ '\b{wb}diſchan', 'dižan', ],
-		[ 'ſchņauds', 'žņaud&', ], # Palīgmaiņa
-		[ 'sieſch', '&īž', ],      # Palīgmaiņa
+		[ 'ſchņauds', 'žņaud&', ],	# Palīgmaiņa
+		[ 'sieſch', '&īž', ],	# Palīgmaiņa
 		[ 'balloſch', 'balož', ],
-		[ 'luhdſch', 'lūd&', ], # Palīgmaiņa
+		[ 'luhdſch', 'lūd&', ],	# Palīgmaiņa
 		[ 'ſẜch', 'š', ],
-		[ 'iſẜuddys', 'i&&udīs', ],    # Palīgmaiņa
-		[ 'iſẜplauxt', 'i&plaukst', ], # Palīgmaiņa
-		[ '\b{wb}iſẜ', 'i&s', ],       # Palīgmaiņa
-		[ 'ſẜ', 's', ],
+		[ 'iſẜuddys', 'i&&udīs', ],	# Palīgmaiņa
+		[ 'iſẜplauxt', 'i&plaukst', ],	# Palīgmaiņa
+		[ '\b{wb}iſẜ', 'i&s', ],	# Palīgmaiņa
+		[ 'ſẜ', 's', '1' ],
 		[ 'ſſch', 'š', ],
 		[ 'sch', 'š', ],
 		[ 'patteitſchu', 'pateicu', ],
@@ -2696,18 +2696,18 @@ our $TABLES_SINGLES = {
 		[ 'ſchk', 'šķ', ],
 		[ 'ſch', 'š', ],
 		[ 'ẜch', 'š', ],
-		[ 'ẜuhds', 'sūd&', ],       # Palīgmaiņa
-		[ 'lieds', 'līd&', ],       # Palīgmaiņa
-		[ 'leeds', 'l#d&', ],       # Palīgmaiņa
-		[ 'neds', 'ned&', ],        # Palīgmaiņa
-		[ 'dauds', 'daud&', ],      # Palīgmaiņa
-		[ 'räds', 'red&', ],        # Palīgmaiņa
-		[ 'reds', 'red&', ],        # Palīgmaiņa
-		[ 'ſneeds', 'sn#d&', ],     # Palīgmaiņa
-		[ 'ẜneeds', 'sn#d&', ],     # Palīgmaiņa
-		[ 'ſlähds', 'slēd&', ],     # Palīgmaiņa
-		[ 'arridsan', 'arid&an', ], # Palīgmaiņa
-		[ 'ſnaudſ', 'žņaud&', ],    # Palīgmaiņa
+		[ 'ẜuhds', 'sūd&', ],	# Palīgmaiņa
+		[ 'lieds', 'līd&', ],	# Palīgmaiņa
+		[ 'leeds', 'l#d&', ],	# Palīgmaiņa
+		[ 'neds', 'ned&', ],	# Palīgmaiņa
+		[ 'dauds', 'daud&', ],	# Palīgmaiņa
+		[ 'räds', 'red&', ],	# Palīgmaiņa
+		[ 'reds', 'red&', ],	# Palīgmaiņa
+		[ 'ſneeds', 'sn#d&', ],	# Palīgmaiņa
+		[ 'ẜneeds', 'sn#d&', ],	# Palīgmaiņa
+		[ 'ſlähds', 'slēd&', ],	# Palīgmaiņa
+		[ 'arridsan', 'arid&an', ],	# Palīgmaiņa
+		[ 'ſnaudſ', 'žņaud&', ],	# Palīgmaiņa
 		[ 'Ꞩirrdtz', 'sirds', ],
 		[ 'Ꞩirdtz', 'sirds', ],
 		[ 'Ꞩirrtz', 'sirds', ],
@@ -2723,7 +2723,7 @@ our $TABLES_SINGLES = {
 		[ 'kahts', 'kāds', ],
 		[ '\b{wb}tahtz\b{wb}', 'tāds', ],
 		[ 'ẜimbtz', 'simts', ],
-		[ 'peedſimbtz', 'p#dzimts', ], # Palīgmaiņa
+		[ 'peedſimbtz', 'p#dzimts', ],	# Palīgmaiņa
 		[ 'ſimbtz', 'simts', ],
 		[ 'ſimbtt', 'simt', ],
 		[ 'prahtz', 'prāts', ],
@@ -2733,13 +2733,13 @@ our $TABLES_SINGLES = {
 		[ 'ẜaitz', 'saits', ],
 		[ 'Ꞩwabbatz', 'svabads', ],
 		[ 'ẜawahtz', 'savāds', ],
-		[ 'peewilltz', 'p#wilts', ], # Palīgmaiņa
+		[ 'peewilltz', 'p#wilts', ],	# Palīgmaiņa
 		[ 'noẜauktz', 'nosaukts', ],
-		[ 'ẜaseetz', 'sas#ts', ], # Palīgmaiņa
+		[ 'ẜaseetz', 'sas#ts', ],	# Palīgmaiņa
 		[ 'ẜayämtz', 'sajemts', ],
 		[ 'ẜaucktz', 'saukts', ],
 		[ 'ẜaudts', 'sauc', ],
-		[ 'proweetz', 'prow#ts', ], # Palīgmaiņa
+		[ 'proweetz', 'prow#ts', ],	# Palīgmaiņa
 		[ '\b{wb}teicktz', 'teikts', ],
 		[ 'ſteicktz', 'steigts', ],
 		[ 'nolicktz', 'nolikts', ],
@@ -2747,10 +2747,10 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}patz\b{wb}', 'pats', ],
 		[ 'pattz', 'pats', ],
 		[ 'czittz', 'cits', ],
-		[ 'ißleetz', 'i&l#ts', ], # Palīgmaiņa
+		[ 'ißleetz', 'i&l#ts', ],	# Palīgmaiņa
 		[ 'aptährptz', 'aptērpts', ],
 		[ 'apghärbtz', 'apģērbts', ],
-		[ 'vsjämbtz', 'u&jemts', ], # Palīgmaiņa
+		[ 'vsjämbtz', 'u&jemts', ],	# Palīgmaiņa
 		[ 'apracktz', 'aprakts', ],
 		[ 'ſiſtz', 'sists', ],
 		[ 'mäſtz', 'mests', ],
@@ -2761,9 +2761,9 @@ our $TABLES_SINGLES = {
 		[ 'deßmittz', 'desmits', ],
 		[ 'norautz', 'norauts', ],
 		[ 'nokautz', 'nokauts', ],
-		[ 'meetz', 'm#ts', ], # Palīgmaiņa
+		[ 'meetz', 'm#ts', ],	# Palīgmaiņa
 		[ '\b{wb}autz\b{wb}', 'auts', ],
-		[ 'sälltz', '&elts', ], # Palīgmaiņa
+		[ 'sälltz', '&elts', ],	# Palīgmaiņa
 		[ '\b{wb}atz\b{wb}', 'acs', ],
 		[ '\b{wb}nahtz\b{wb}', 'nāc', ],
 		[ 'brähtz', 'brēc', ],
@@ -2779,9 +2779,9 @@ our $TABLES_SINGLES = {
 		[ 'cz', 'c', ],
 		[ 'tz', 'c', ],
 		[ 'z', 'c', ],
-		[ '&', 'z', ], # Palīgmaiņa
+		[ '\&', 'z', ],	# Palīgmaiņas noņemšana
 		[ 'dẜ', 'dz', ],
-		[ 'wirrẜees', 'wirz#s', ], # Palīgmaiņa
+		[ 'wirrẜees', 'wirz#s', ],	# Palīgmaiņa
 		[ 'ẜämm', 'zem', ],
 		[ 'ẜ', 's', ],
 		[ 'säll', 'zel', ],
@@ -2794,8 +2794,8 @@ our $TABLES_SINGLES = {
 		[ 'sied', 'zīd', ],
 		[ 'sohb', 'zob', ],
 		[ 'sob', 'zob', ],
-		[ '\b{wb}seem', 'z#m', ], # Palīgmaiņa
-		[ 'seep', 'z#p', ],       # Palīgmaiņa
+		[ '\b{wb}seem', 'z#m', ],	# Palīgmaiņa
+		[ 'seep', 'z#p', ],	# Palīgmaiņa
 		[ 'sinn', 'zin', ],
 		[ 'sagg', 'zag', ],
 		[ 'sarrus', 'zarus', ],
@@ -2806,18 +2806,18 @@ our $TABLES_SINGLES = {
 		[ 'kruhß', 'krūz', ],
 		[ 'ſkieſt', 'šķīst', ],
 		[ 'skieſt', 'šķīst', ],
-		[ 'ſkeet', 'šķ#t', ], # Palīgmaiņa
-		[ 'skeet', 'šķ#t', ], # Palīgmaiņa
+		[ 'ſkeet', 'šķ#t', ],	# Palīgmaiņa
+		[ 'skeet', 'šķ#t', ],	# Palīgmaiņa
 		[ 'ſkie', 'šķī', ],
 		[ 'ſki', 'šķi', ],
-		[ 'eekſckan', '#kškan', ], # Palīgmaiņa
+		[ 'eekſckan', '#kškan', ],	# Palīgmaiņa
 		[ '\b{wb}iſſ', 'izz', ],
-		[ 'ſſ', 's', ],
+		[ 'ſſ', 's', '1' ],
 		[ 'ſackt', 'zagt', ],
 		[ 'Pillsſaim', 'pilssaim', ],
 		[ 'ſaim', 'zaim', ],
 		[ 'ſaļļ', 'zaļ', ],
-		[ '\b{wb}ſa', 'sa', ],
+		[ '\b{wb}ſa', 'sa', '1' ],
 		[ 'ißniex', 'iznīks', ],
 		[ 'iex\b{wb}', 'īgs', ],
 		[ 'yx\b{wb}', 'īgs', ],
@@ -2825,7 +2825,7 @@ our $TABLES_SINGLES = {
 		[ 'à', 'ā', ],
 		[ 'ie', 'ī', ],
 		[ 'ee', 'ie', ],
-		[ '\#', 'ie', ], # Palīgmaiņas novākšana
+		[ '\#', 'ie', ],	# Palīgmaiņas noņemšana
 		[ 'ahy', 'āj', ],
 		[ '\b{wb}tahw', 'tēw', ],
 		[ '\b{wb}ahw', 'aw', ],
@@ -2843,13 +2843,13 @@ our $TABLES_SINGLES = {
 		[ 'ſwehr', 'zwēr', ],
 		[ 'ſwät', 'swēt', ],
 		[ 'swäth', 'swēt', ],
-		[ '\b{wb}wäll', 'we%', ], # Palīgmaiņa
+		[ '\b{wb}wäll', 'we%', ],	# Palīgmaiņa
 		[ 'yä', 'je', ],
 		[ 'ä', 'e', ],
 		[ 'nabbax', 'nabags', ],
 		[ 'bb', 'b', ],
 		[ 'dd', 'd', ],
-		[ 'dſ', 'dz', ],
+		[ 'dſ', 'dz', '1' ],
 		[ 'dh', 'd', ],
 		[ 'dehwehts', 'dēwēts', ],
 		[ 'ehts\b{wb}', 'ēc', ],
@@ -2861,22 +2861,22 @@ our $TABLES_SINGLES = {
 		[ 'gk', 'ķ', ],
 		[ 'ck', 'k', ],
 		[ 'gir', 'jir', ],
-		[ 'pills', 'pi%s', 1 ],       # Palīgmaiņa
-		[ 'pillß', 'pi%s', 1 ],       # Palīgmaiņa
-		[ 'pilla', 'pi%a', 1 ],       # Palīgmaiņa
-		[ 'pilli\b{wb}', 'pi%i', 1 ], # Palīgmaiņa
-		[ 'pillu', 'pi%u', 1 ],       # Palīgmaiņa
-		[ '\b{wb}ell', 'e%', ],       # Palīgmaiņa
+		[ 'pills', 'pi%s', '1' ],	# Palīgmaiņa
+		[ 'pillß', 'pi%s', '1' ],	# Palīgmaiņa
+		[ 'pilla', 'pi%a', '1' ],	# Palīgmaiņa
+		[ 'pilli\b{wb}', 'pi%i', '1' ],	# Palīgmaiņa
+		[ 'pillu', 'pi%u', '1' ],	# Palīgmaiņa
+		[ '\b{wb}ell', 'e%', ],	# Palīgmaiņa
 		[ 'll', 'l', ],
-		[ '\%', 'll', ], # Palīgmaiņas novākšana
+		[ '\%', 'll', ],	# Palīgmaiņas noņemšana
 		[ 'ļļ', 'ļ', ],
 		[ 'mm', 'm', ],
-		[ 'kamb', 'ka$', ],             # Palīgmaiņa
-		[ 'septembris', 'septe$ris', ], # Palīgmaiņa
-		[ 'auxtamba', 'augsta$a', ],    # Palīgmaiņa
+		[ 'kamb', 'ka$', ],	# Palīgmaiņa
+		[ 'septembris', 'septe$ris', ],	# Palīgmaiņa
+		[ 'auxtamba', 'augsta$a', ],	# Palīgmaiņa
 		[ 'mbſ', 'ms', ],
 		[ 'mb', 'm', ],
-		[ '\$', 'mb', ], # Palīgmaiņas novākšana
+		[ '\$', 'mb', ],	# Palīgmaiņas noņemšana
 		[ 'm̃', 'm', ],
 		[ 'MJe', 'mī', ],
 		[ 'mye', 'mī', ],
@@ -2893,13 +2893,13 @@ our $TABLES_SINGLES = {
 		[ 'pp', 'p', ],
 		[ 'ph', 'f', ],
 		[ 'ſarrg', 'sarg', ],
-		[ 'myrrhes', 'mi*es', ], # Palīgmaiņa
-		[ 'mirrhem', 'mi*ēm', ], # Palīgmaiņa
+		[ 'myrrhes', 'mi*es', ],	# Palīgmaiņa
+		[ 'mirrhem', 'mi*ēm', ],	# Palīgmaiņa
 		[ 'rr', 'r', ],
 		[ 'ŗŗ', 'ŗ', ],
 		[ 'rŗ', 'ŗ', ],
 		[ 'baryo', 'baŗo', ],
-		[ '\*', 'rr', ], # Palīgmaiņas novākšana
+		[ '\*', 'rr', ],	# Palīgmaiņas noņemšana
 		[ 'tt', 't', ],
 		[ '\b{wb}tha\b{wb}', 'tā', ],
 		[ 'th', 't', ],
@@ -2910,8 +2910,8 @@ our $TABLES_SINGLES = {
 		[ 'uhy', 'ūj', ],
 		[ 'yuhß', 'jūs', ],
 		[ 'uh', 'ū', ],
-		[ 'Ꞩch', 'š', 1 ],
-		[ 'he', 'ē', 1 ],
+		[ 'Ꞩch', 'š', '1' ],
+		[ 'he', 'ē', '1' ],
 		[ '\b{wb}vs', 'uz', ],
 		[ '=vs', '=uz', ],
 		[ '\b{wb}vhs', 'ūz', ],
@@ -2928,7 +2928,7 @@ our $TABLES_SINGLES = {
 		[ 'nj', 'ņ', ],
 		[ 'ny\b{wb}', 'nī', ],
 		[ 'ny', 'ņ', ],
-		[ 'ſw', 'sv', ],
+		[ 'ſw', 'sv', '1' ],
 		[ 'swaigſn', 'zvaigzn', ],
 		[ 'swaigsn', 'zvaigzn', ],
 		[ 'sw', 'sv', ],
@@ -2941,10 +2941,10 @@ our $TABLES_SINGLES = {
 		[ 'qu', 'kv', ],
 		[ 'q', 'k', ],
 		[ '\b{wb}py', 'pi', ],
-		[ '\b{wb}PJ', 'pi', 1 ],
+		[ '\b{wb}PJ', 'pi', '1' ],
 		[ '\b{wb}by\b{wb}', 'bij', ],
 		[ 'byeſt', 'bīst', ],
-		[ '\b{wb}iſ', 'īs', ],
+		[ '\b{wb}iſ', 'īs', '1' ],
 		[ '\b{wb}iß', 'iz', ],
 		[ '\b{wb}Jßa', 'izsa', ],
 		[ '\b{wb}Jß', 'iz', ],
@@ -2952,8 +2952,8 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}ihß\b{wb}', 'īz', ],
 		[ '\b{wb}Jhß', 'īz', ],
 		[ '\b{wb}ihs\b{wb}', 'īz', ],
-		[ 'ih', 'ī', 1 ],
-		[ 'Jh', 'ī', 1 ],
+		[ 'ih', 'ī', '1' ],
+		[ 'Jh', 'ī', '1' ],
 		[ 'yh', 'ī', ],
 		[ '\b{wb}beß', 'bez', ],
 		[ '\b{wb}aiß', 'aiz', ],
@@ -3001,9 +3001,9 @@ our $TABLES_SINGLES = {
 		[ 'ſl', 'sl', ],
 		[ 'ſm', 'sm', ],
 		[ 'tapſi', 'tapsi', ],
-		[ '\b{wb}Jſ', 'iz', 1 ],
-		[ 'ſ', 'z', ],
-		[ 'Ꞩ', 's', 1 ],
+		[ '\b{wb}Jſ', 'iz', '1' ],
+		[ 'ſ', 'z', '1' ],
+		[ 'Ꞩ', 's', '1' ],
 		[ '\b{wb}adb', 'atb', ],
 		[ '\b{wb}abd', 'apd', ],
 		[ 'ch', 'h', ],
@@ -3011,7 +3011,7 @@ our $TABLES_SINGLES = {
 		[ 'gries', 'griez', ],
 		[ '\b{wb}drīs\b{wb}', 'drīz', ],
 		[ '\b{wb}mas\b{wb}', 'maz', ],
-		[ 'Jr', 'ir', 1 ],
+		[ 'Jr', 'ir', '1' ],
 		[ 'Jk', 'ik', ],
 		[ 'lūks', 'lūgs', ],
 		[ 'jepše', 'jebšu', ],
@@ -3053,7 +3053,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}daſch', 'daž', ],
 		[ 'muhſch', 'mūž', ],
 		[ '\b{wb}muſch', 'mūž', ],
-		[ 'allaſch', 'a%až', ], # Palīgmaiņa
+		[ 'allaſch', 'a%až', ],	# Palīgmaiņa
 		[ '\b{wb}ghauſch', 'gauž', ],
 		[ '\b{wb}ļauſch', 'ļauž', ],
 		[ 'abſchäl', 'apžēl', ],
@@ -3066,19 +3066,19 @@ our $TABLES_SINGLES = {
 		[ 'ẜehſch', 'sēž', ],
 		[ 'ſehſch', 'sēž', ],
 		[ 'dadſch', 'dadž', ],
-		[ 'ghreeſch', 'gr#ž', ],
+		[ 'ghreeſch', 'gr#ž', ],	# Palīgmaiņa
 		[ 'blehſch', 'blēž', ],
 		[ '\b{wb}eſch', 'ež', ],
 		[ '\b{wb}ehſch', 'ež', ],
 		[ 'raſch', 'raž', ],
-		[ 'breeſcha', 'br#ža', ],
+		[ 'breeſcha', 'br#ža', ],	# Palīgmaiņa
 		[ 'lauſch', 'lauž', ],
 		[ 'ghruhſch', 'grūž', ],
-		[ 'ſpeeſch', 'sp#ž', ],
+		[ 'ſpeeſch', 'sp#ž', ],	# Palīgmaiņa
 		[ 'kohſch', 'kož', ],
 		[ 'johſch', 'jož', ],
 		[ 'ſẜch', 'š', ],
-		[ 'ſẜ', 's', ],
+		[ 'ſẜ', 's', '1' ],
 		[ 'ſſch', 'š', ],
 		[ 'ẜſch', 'š', ],
 		[ 'schaß', 'šās', ],
@@ -3089,20 +3089,20 @@ our $TABLES_SINGLES = {
 		[ 'tſch', 'č', ],
 		[ 'aukſch', 'augš', ],
 		[ 'luhkſch', 'lūgš', ],
-		[ 'preekſha', 'pr#kšā', ],
+		[ 'preekſha', 'pr#kšā', ],	# Palīgmaiņa
 		[ 'ſchk', 'šķ', ],
 		[ 'ſch', 'š', ],
 		[ 'ẜch', 'š', ],
-		[ 'dẜ', 'd&', ],        # Palīgmaiņa
-		[ 'ẜäds', 'sed&', ],    # Palīgmaiņa
-		[ 'ẜuhds', 'sūd&', ],   # Palīgmaiņa
-		[ 'lieds', 'līd&', ],   # Palīgmaiņa
-		[ 'leeds', 'l#d&', ],   # Palīgmaiņa
-		[ 'neds', 'ned&', ],    # Palīgmaiņa
-		[ 'dauds', 'daud&', ],  # Palīgmaiņa
-		[ 'räds', 'red&', ],    # Palīgmaiņa
-		[ 'ſneeds', 'sn#d&', ], # Palīgmaiņa
-		[ 'sirr', '&ir', ],     # Palīgmaiņa
+		[ 'dẜ', 'd&', ],	# Palīgmaiņa
+		[ 'ẜäds', 'sed&', ],	# Palīgmaiņa
+		[ 'ẜuhds', 'sūd&', ],	# Palīgmaiņa
+		[ 'lieds', 'līd&', ],	# Palīgmaiņa
+		[ 'leeds', 'l#d&', ],	# Palīgmaiņa
+		[ 'neds', 'ned&', ],	# Palīgmaiņa
+		[ 'dauds', 'daud&', ],	# Palīgmaiņa
+		[ 'räds', 'red&', ],	# Palīgmaiņa
+		[ 'ſneeds', 'sn#d&', ],	# Palīgmaiņa
+		[ 'sirr', '&ir', ],	# Palīgmaiņa
 		[ 'Ꞩirrtz', 'sirds', ],
 		[ 'ẜirrtz', 'sirds', ],
 		[ 'wahrtz', 'wārds', ],
@@ -3115,9 +3115,9 @@ our $TABLES_SINGLES = {
 		[ 'blehtz', 'blēds', ],
 		[ 'prahtz', 'prāts', ],
 		[ 'nacktz', 'nakts', ],
-		[ 'peewilltz', 'p#wilts', ], # Palīgmaiņa
+		[ 'peewilltz', 'p#wilts', ],	# Palīgmaiņa
 		[ 'noẜauktz', 'nosaukts', ],
-		[ 'ẜaseetz', 'sas#ts', ], # Palīgmaiņa
+		[ 'ẜaseetz', 'sas#ts', ],	# Palīgmaiņa
 		[ 'ẜayämbtz', 'sajemts', ],
 		[ 'ẜatwärrtz', 'satwerts', ],
 		[ 'pahrwährtz', 'pārwērts', ],
@@ -3132,8 +3132,8 @@ our $TABLES_SINGLES = {
 		[ 'pattz', 'pats', ],
 		[ 'zittz', 'cits', ],
 		[ 'strautz', 'strauts', ],
-		[ 'sälltz', '&elts', ], # Palīgmaiņa
-		[ 'sältz', '&elts', ],  # Palīgmaiņa
+		[ 'sälltz', '&elts', ],	# Palīgmaiņa
+		[ 'sältz', '&elts', ],	# Palīgmaiņa
 		[ 'ẜalltz', 'salds', ],
 		[ '\b{wb}atz\b{wb}', 'acs', ],
 		[ 'ohtz\b{wb}', 'ots', ],
@@ -3147,7 +3147,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}wätz\b{wb}', 'wecs', ],
 		[ 'tz', 'c', ],
 		[ 'z', 'c', ],
-		[ '\&', 'z', ], # Palīgmaiņas novākšana
+		[ '\&', 'z', ],	# Palīgmaiņas novākšana
 		[ 'ẜ', 's', ],
 		[ 'säll', 'zel', ],
 		[ 'sämm', 'zem', ],
@@ -3156,7 +3156,7 @@ our $TABLES_SINGLES = {
 		[ 'sied', 'zīd', ],
 		[ 'sohb', 'zob', ],
 		[ 'sob', 'zob', ],
-		[ '\b{wb}seem', 'z#m', ],
+		[ '\b{wb}seem', 'z#m', ],	# Palīgmaiņa
 		[ 'sinn', 'zin', ],
 		[ 'sagg', 'zag', ],
 		[ 'sackta', 'zagta', ],
@@ -3164,14 +3164,14 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}mais\b{wb}', 'maiz', ],
 		[ 'ſkieſt', 'šķīst', ],
 		[ 'skieſt', 'šķīst', ],
-		[ 'ſkeet', 'šķ#t', ],
-		[ 'Hiſkia', 'Hiskia', 1 ],
+		[ 'ſkeet', 'šķ#t', ],	# Palīgmaiņa
+		[ 'Hiſkia', 'Hiskia', '1' ],
 		[ 'ſki', 'šķi', ],
-		[ 'ſſ', 's', ],
-		[ 'ſackt', 'zagt', ],
+		[ 'ſſ', 's', '1' ],
+		[ 'ſackt', 'zagt', '1' ],
 		[ 'ſaim', 'zaim', ],
 		[ 'ſaļļ', 'zaļ', ],
-		[ '\b{wb}ſa', 'sa', ],
+		[ '\b{wb}ſa', 'sa', '1' ],
 		[ 'ißniex', 'iznīks', ],
 		[ 'notiex', 'notiks', ],
 		[ 'iex\b{wb}', 'īgs', ],
@@ -3181,7 +3181,7 @@ our $TABLES_SINGLES = {
 		[ 'à', 'ā', ],
 		[ 'ie', 'ī', ],
 		[ 'ee', 'ie', ],
-		[ '#', 'ie', ],
+		[ '#', 'ie', ],	# Palīgmaiņas novākšana
 		[ 'ahy', 'āj', ],
 		[ '\b{wb}tahw', 'tēw', ],
 		[ '\b{wb}ahw', 'aw', ],
@@ -3198,7 +3198,7 @@ our $TABLES_SINGLES = {
 		[ 'nabbax', 'nabags', ],
 		[ 'bb', 'b', ],
 		[ 'dd', 'd', ],
-		[ 'dſ', 'dz', ],
+		[ 'dſ', 'dz', '1' ],
 		[ 'ehy', 'ēj', ],
 		[ 'eh', 'ē', ],
 		[ 'gg', 'g', ],
@@ -3207,23 +3207,23 @@ our $TABLES_SINGLES = {
 		[ 'ck', 'k', ],
 		[ '\b{wb}gir\b{wb}', 'jir', ],
 		[ '\b{wb}gyr\b{wb}', 'jir', ],
-		[ 'pills', 'pi%s', 1 ],       # Palīgmaiņa
-		[ 'pillß', 'pi%s', 1 ],       # Palīgmaiņa
-		[ 'pilla', 'pi%a', 1 ],       # Palīgmaiņa
-		[ 'pilli\b{wb}', 'pi%i', 1 ], # Palīgmaiņa
-		[ '\b{wb}ell', 'e%', ],       # Palīgmaiņa
-		[ 'stallis', 'sta%is', ],     # Palīgmaiņa
-		[ 'willu', 'wi%u', ],         # Palīgmaiņa
+		[ 'pills', 'pi%s', '1' ],	# Palīgmaiņa
+		[ 'pillß', 'pi%s', '1' ],	# Palīgmaiņa
+		[ 'pilla', 'pi%a', '1' ],	# Palīgmaiņa
+		[ 'pilli\b{wb}', 'pi%i', '1' ],	# Palīgmaiņa
+		[ '\b{wb}ell', 'e%', ],	# Palīgmaiņa
+		[ 'stallis', 'sta%is', ],	# Palīgmaiņa
+		[ 'willu', 'wi%u', ],	# Palīgmaiņa
 		[ 'll', 'l', ],
-		[ '\%', 'll', ], # Palīgmaiņas novākšana
+		[ '\%', 'll', ],	# Palīgmaiņas novākšana
 		[ 'ļļ', 'ļ', ],
-		[ 'kammary', 'ka*arī', ], # Palīgmaiņa
+		[ 'kammary', 'ka*arī', ],	# Palīgmaiņa
 		[ 'mm', 'm', ],
-		[ 'kamb', 'ka$', ],   # Palīgmaiņa
-		[ 'dambi', 'da$i', ], # Palīgmaiņa
+		[ 'kamb', 'ka$', ],	# Palīgmaiņa
+		[ 'dambi', 'da$i', ],	# Palīgmaiņa
 		[ 'mb', 'm', ],
-		[ '\$', 'mb', ], # Palīgmaiņas novākšana
-		[ '\*', 'mm', ], # Palīgmaiņas novākšana
+		[ '\$', 'mb', ],	# Palīgmaiņas novākšana
+		[ '\*', 'mm', ],	# Palīgmaiņas novākšana
 		[ 'm̃', 'm', ],
 		[ 'nn', 'n', ],
 		[ 'nņ', 'ņ', ],
@@ -3234,12 +3234,12 @@ our $TABLES_SINGLES = {
 		[ 'ö', 'e', ],
 		[ 'pp', 'p', ],
 		[ 'ph', 'p', ],
-		[ 'myrrēm', 'mi*ēm', ], # Palīgmaiņa
+		[ 'myrrēm', 'mi*ēm', ],	# Palīgmaiņa
 		[ 'rr', 'r', ],
 		[ 'rŗ', 'ŗ', ],
 		[ 'ry\b{wb}', 'rij', ],
 		[ 'ry', 'ŗ', ],
-		[ '\*', 'rr', ], # Palīgmaiņas novākšana
+		[ '\*', 'rr', ],	# Palīgmaiņas novākšana
 		[ 'tt', 't', ],
 		[ '\b{wb}the\b{wb}', 'te', ],
 		[ 'he', 'ē', ],
@@ -3251,26 +3251,26 @@ our $TABLES_SINGLES = {
 		[ '=vs', '=uz', ],
 		[ '\b{wb}vhs', 'ūz', ],
 		[ 'vh', 'ū', ],
-		[ 'David', 'Dawid', 1 ],
+		[ 'David', 'Dawid', '1' ],
 		[ 'vien', 'wien', ],
 		[ 'v', 'u', ],
 		[ 'ings\b{wb}', 'iņš', ],
 		[ 'ing', 'iņ', ],
 		[ 'ny\b{wb}', 'nī', ],
 		[ 'ny', 'ņ', ],
-		[ 'ſw', 'sv', ],
+		[ 'ſw', 'sv', '1' ],
 		[ 'sw', 'sv', ],
 		[ 'waix', 'vaigs', ],
 		[ 'jaw', 'jau', ],
-		[ 'WJ', 'vi', 1 ],
+		[ 'WJ', 'vi', '1' ],
 		[ 'w', 'v', ],
 		[ '\b{wb}py', 'pi', ],
 		[ '\b{wb}by\b{wb}', 'bij', ],
 		[ '\b{wb}iß', 'iz', ],
 		[ 'iß=', 'iz=', ],
-		[ 'Jß', 'iz', 1 ],
-		[ 'ih', 'ī', 1 ],
-		[ 'Jh', 'ī', 1 ],
+		[ 'Jß', 'iz', '1' ],
+		[ 'ih', 'ī', '1' ],
+		[ 'Jh', 'ī', '1' ],
 		[ '\b{wb}beß', 'bez', ],
 		[ '\b{wb}aiß', 'aiz', ],
 		[ '\b{wb}ais', 'aiz', ],
@@ -3301,15 +3301,15 @@ our $TABLES_SINGLES = {
 		[ 'ſm', 'sm', ],
 		[ 'ſn', 'sn', ],
 		[ 'tapſi', 'tapsi', ],
-		[ 'ſ', 'z', ],
+		[ 'ſ', 'z', '1' ],
 		[ 'Ꞩ', 's', ],
 		[ '\b{wb}adb', 'atb', ],
 		[ '\b{wb}abd', 'apd', ],
 		[ 'ch', 'h', ],
 		[ 'reis\b{wb}', 'reiz', ],
 		[ 'gries', 'griez', ],
-		[ 'Jr', 'ir', 1 ],
-		[ 'Jlga', 'ilga', 1 ],
+		[ 'Jr', 'ir', '1' ],
+		[ 'Jlga', 'ilga', '1' ],
 		[ 'lūksi', 'lūgsi', ],
 		[ 'jepše', 'jebšu', ],
 		[ 'gērb', 'ģērb', ],
@@ -3350,162 +3350,163 @@ our $TABLES_SINGLES = {
 		[ 'vs', 'u&', ],	# Palīgmaiņa
 		[ 'v', 'u', ],
 		[ 'Salluies', 'Salvijes', ],
-		[ 'ſſchk', 'šķ', ],
+		[ 'ſſchk', 'šķ', '1' ],
 		[ 'daſchkahrt', 'dažkārt', ],
-		[ 'ſchk', 'šķ', ],
+		[ 'ſchk', 'šķ', '1' ],
 		[ 'attſchirrt', 'atšķir', ],
-		[ 'tſch', 'č', ],
-		[ 'diſſch', 'diž', ],
+		[ 'tſch', 'č', '1' ],
+		[ 'diſſch', 'diž', '1' ],
 		[ 'ſſch', 'š', '1' ],
-		[ '\b{wb}diſchan', 'dižan', ],
+		[ '\b{wb}diſchan', 'dižan', '1' ],
 		[ 'ee', '©', ],	# Palīgmaiņa
 		[ 'ie', 'ī', ],
-		[ 'eſchan', 'ēšan', ],
-		[ '©', 'ie', ],	# Palīgmaiņas novākšana
-		[ 'aſchan', 'āšan', ],
-		[ 'iſchan', 'īšan', ],
-		[ 'ſchan', 'šan', ],
+		[ 'eſchan', 'ēšan', '1' ],
+		[ '©', 'ie', ],	# Palīgmaiņas ovākšana
+		[ 'aſchan', 'āšan', '1' ],
+		[ 'dabbuiſchan', 'dabuišan', '1' ],
+		[ 'iſchan', 'īšan', '1' ],
+		[ 'ſchan', 'šan', '1' ],
 		[ 'priekſch', 'priekš', ],
 		[ 'Muiſch', 'muiž', ],
-		[ 'allaſch', 'allaž', ],
-		[ 'ſchaw', 'žāv', ],
-		[ 'ſchehl', 'žēl', ],
-		[ 'ſchäl', 'žēl', ],
-		[ 'ſchiggl', 'žigl', ],
-		[ 'Kaſch', 'kaž', ],
-		[ 'brīſch', 'brīž', ],
+		[ 'allaſch', 'allaž', '1' ],
+		[ 'ſchaw', 'žāv', '1' ],
+		[ 'ſchehl', 'žēl', '1' ],
+		[ 'ſchäl', 'žēl', '1' ],
+		[ 'ſchiggl', 'žigl', '1' ],
+		[ 'Kaſch', 'kaž', '1' ],
+		[ 'brīſch', 'brīž', '1' ],
 		[ 'Nheghauſcha', 'negauša', ],
-		[ 'ghauſch', 'gauž', ],
+		[ 'ghauſch', 'gauž', '1' ],
 		[ '\b{wb}Meſch', 'mež', ],
-		[ 'ſchähl', 'žēl', ],
-		[ 'daſch', 'daž', ],
-		[ 'brieſch', 'briež', ],
-		[ 'muhſch', 'mūž', ],
-		[ 'waſch', 'važ', ],
-		[ 'ſchahw', 'žāv', ],
-		[ '\b{wb}Eſcha', 'eža', ],
-		[ 'Robeſch', 'robež', ],
+		[ 'ſchähl', 'žēl', '1' ],
+		[ '\b{wb}daſch', 'daž', '1' ],
+		[ 'brieſch', 'briež', '1' ],
+		[ 'muhſch', 'mūž', '1' ],
+		[ '\b{wb}waſch', 'važ', '1' ],
+		[ 'ſchahw', 'žāv', '1' ],
+		[ '\b{wb}Eſcha', 'eža', '1' ],
+		[ 'Robeſch', 'robež', '1' ],
 		[ 'ghuhſch', 'gūž', ],
-		[ 'Ehſcha', 'ēža', ],
+		[ 'Ehſcha', 'ēža', '1' ],
 		[ 'Ghaſpaſch', 'gaspaž', ],
-		[ 'Mieſch', 'miež', ],
-		[ 'ẜmarrſch', 'smarž', ],
-		[ 'Spoſch', 'spož', ],
-		[ 'ſpohſch', 'spož', ],
-		[ 'ghrieſch', 'griež', ],
-		[ 'Ꞩirrſch', 'sirž', ],
-		[ 'ddſch', 'dž', ],
-		[ 'dſch', 'dž', ],
+		[ 'Mieſch', 'miež', '1' ],
+		[ 'ẜmarrſch', 'smarž', '1' ],
+		[ 'Spoſch', 'spož', '1' ],
+		[ 'ſpohſch', 'spož', '1' ],
+		[ 'ghrieſch', 'griež', '1' ],
+		[ 'Ꞩirrſch', 'sirž', '1' ],
+		[ 'ddſch', 'dž', '1' ],
+		[ 'dſch', 'dž', '1' ],
 		[ 'ſchagg', 'žag', ],
 		[ 'ẜaraſchgh', 'saražģ', ],
-		[ 'ghruhſch', 'grūž', ],
-		[ 'Ļauſch', 'ļauž', ],
-		[ 'Sīſch', '&īž', ],	# Palīgmaiņa
-		[ 'Spieſch', 'spiež', ],
-		[ 'Wambſch', 'vamž', ],
-		[ 'Wambaſch', 'vambaž', ],
-		[ 'ſchņau', 'žņau', ],
-		[ 'ſchnau', 'žņau', ],
+		[ 'ghruhſch', 'grūž', '1' ],
+		[ 'Ļauſch', 'ļauž', '1' ],
+		[ 'Sīſch', '&īž', '1' ],	# Palīgmaiņa
+		[ 'Spieſch', 'spiež', '1' ],
+		[ 'Wambſch', 'vamž', '1' ],
+		[ 'Wambaſch', 'vambaž', '1' ],
+		[ 'ſchņau', 'žņau', '1' ],
+		[ 'ſchnau', 'žņau', '1' ],
 		[ 'Baſch', 'baž', ],
-		[ 'ſchn', 'šņ', ],
-		[ 'ſchl', 'šļ', ],
-		[ 'llſch', 'ļš', ],
-		[ 'ſch', 'š', ],
+		[ 'ſchn', 'šņ', '1' ],
+		[ 'ſchl', 'šļ', '1' ],
+		[ 'llſch', 'ļš', '1' ],
+		[ 'ſch', 'š', '1' ],
 		[ 'ſſ', 's', '1' ],
 		[ 'ſẜ', 's', '1' ],
-		[ 'aiſto', 'ai&to', ],	# Palīgmaiņa
-		[ 'lauſt', 'lau&t', ],	# Palīgmaiņa
-		[ 'drahſt', 'drā&t', ],	# Palīgmaiņa
-		[ 'ghrieſt', 'grie&t', ],	# Palīgmaiņa
-		[ 'berrſt', 'ber&t', ],	# Palīgmaiņa
-		[ 'bahſt', 'bā&t', ],	# Palīgmaiņa
-		[ 'mehſt', 'mē&t', ],	# Palīgmaiņa
+		[ 'aiſto', 'ai&to', '1' ],	# Palīgmaiņa
+		[ 'lauſt', 'lau&t', '1' ],	# Palīgmaiņa
+		[ 'drahſt', 'drā&t', '1' ],	# Palīgmaiņa
+		[ 'ghrieſt', 'grie&t', '1' ],	# Palīgmaiņa
+		[ 'berrſt', 'ber&t', '1' ],	# Palīgmaiņa
+		[ 'bahſt', 'bā&t', '1' ],	# Palīgmaiņa
+		[ 'mehſt', 'mē&t', '1' ],	# Palīgmaiņa
 		[ 'johſta', 'josta', ],
-		[ 'johſt', 'jo&t', ],	# Palīgmaiņa
-		[ 'ghahſt', 'gā&t', ],	# Palīgmaiņa
-		[ 'mīſt.', 'mī&t.', ],	# Palīgmaiņa
-		[ 'ghrauſt', 'grau&t', ],	# Palīgmaiņa
-		[ 'aeſto', 'ae&to', ],	# Palīgmaiņa
-		[ 'ſt', 'st', ],
-		[ 'ſki', 'šķi', ],
-		[ 'ſkehrši', 'šķērši', ],
-		[ 'brīniſke', 'brīnišķi', ],
-		[ 'ſkī', 'šķī', ],
-		[ 'ſk', 'sk', ],
-		[ 'ſp', 'sp', ],
-		[ 'ſwehre', '&vēre', ],	# Palīgmaiņa
-		[ 'ſwehrē', '&vērē', ],	# Palīgmaiņa
-		[ 'ſwiek', '&vieg', ],	# Palīgmaiņa
-		[ 'ſwirrgſd', '&virg&d', ],	# Palīgmaiņa
-		[ 'ſwīņ', '&vīņ', ],	# Palīgmaiņa
-		[ 'ſwaig', '&vaig', ],	# Palīgmaiņa
-		[ 'ſwähr', '&vēr', ],	# Palīgmaiņa
-		[ 'ſweij', '&vej', ],	# Palīgmaiņa
-		[ 'ſwieg', '&vieg', ],	# Palīgmaiņa
-		[ 'ſweio', '&vejo', ],	# Palīgmaiņa
-		[ 'ſwañ', '&van', ],	# Palīgmaiņa
-		[ 'ſwall', '&val', ],	# Palīgmaiņa
-		[ 'ſwirrgs', '&virg&', ],	# Palīgmaiņa
-		[ 'ſw', 'sv', ],
-		[ 'ſl', 'sl', ],
+		[ 'johſt', 'jo&t', '1' ],	# Palīgmaiņa
+		[ 'ghahſt', 'gā&t', '1' ],	# Palīgmaiņa
+		[ 'mīſt.', 'mī&t.', '1' ],	# Palīgmaiņa
+		[ 'ghrauſt', 'grau&t', '1' ],	# Palīgmaiņa
+		[ 'aeſto', 'ae&to', '1' ],	# Palīgmaiņa
+		[ 'ſt', 'st', '1' ],
+		[ 'ſki', 'šķi', '1' ],
+		[ 'ſkehrši', 'šķērši', '1' ],
+		[ 'brīniſke', 'brīnišķi', '1' ],
+		[ 'ſkī', 'šķī', '1' ],
+		[ 'ſk', 'sk', '1' ],
+		[ 'ſp', 'sp', '1' ],
+		[ 'ſwehre', '&vēre', '1' ],	# Palīgmaiņa
+		[ 'ſwehrē', '&vērē', '1' ],	# Palīgmaiņa
+		[ 'ſwiek', '&vieg', '1' ],	# Palīgmaiņa
+		[ 'ſwirrgſd', '&virg&d', '1' ],	# Palīgmaiņa
+		[ 'ſwīņ', '&vīņ', '1' ],	# Palīgmaiņa
+		[ 'ſwaig', '&vaig', '1' ],	# Palīgmaiņa
+		[ 'ſwähr', '&vēr', '1' ],	# Palīgmaiņa
+		[ 'ſweij', '&vej', '1' ],	# Palīgmaiņa
+		[ 'ſwieg', '&vieg', '1' ],	# Palīgmaiņa
+		[ 'ſweio', '&vejo', '1' ],	# Palīgmaiņa
+		[ 'ſwañ', '&van', '1' ],	# Palīgmaiņa
+		[ 'ſwall', '&val', '1' ],	# Palīgmaiņa
+		[ 'ſwirrgs', '&virg&', '1' ],	# Palīgmaiņa
+		[ 'ſw', 'sv', '1' ],
+		[ 'ſl', 'sl', '1' ],
 		[ 'Wäſm', 've&m', ],	# Palīgmaiņa
-		[ 'ſm', 'sm', ],
-		[ 'ſuhdſ', 'sūd&', ],	# Palīgmaiņa
+		[ 'ſm', 'sm', '1' ],
+		[ 'ſuhdſ', 'sūd&', '1' ],	# Palīgmaiņa
 		[ 'apſa', 'apsa', ],
-		[ 'ſatz', 'sac', ],
-		[ 'ſniek', 'sniek', ],
-		[ 'ſnieds', 'snied&', ],	# Palīgmaiņa
-		[ 'ſahkt', 'sākt', ],
-		[ 'ſimbti', 'simti', ],
-		[ 'ſiexst', 'siekst', ],
-		[ 'ſarrgh', 'sarg', ],
-		[ 'ſilles', 'sīles', ],
-		[ 'ſährgh', 'sērg', ],
-		[ 'ſäggl', 'segl', ],
-		[ 'ſirrm', 'sirm', ],
-		[ 'ſakuden', 'sakūden', ],
-		[ 'ſ', '&', ],	# Palīgmaiņa
-		[ 'Sehd', 'Sēd', ],
-		[ 'Se', '&e', ],	# Palīgmaiņa
-		[ 'Swaig', '&vaig', ],	# Palīgmaiņa
-		[ 'Si', '&i', ],	# Palīgmaiņa
-		[ 'Saa', '&ā', ],	# Palīgmaiņa
-		[ 'Sagh', '&āģ', ],	# Palīgmaiņa
-		[ 'Swahrgh', '&vārg', ],	# Palīgmaiņa
-		[ 'Su', '&u', ],	# Palīgmaiņa
-		[ 'Sī', '&ī', ],	# Palīgmaiņa
-		[ 'Sah', '&ā', ],	# Palīgmaiņa
-		[ 'Sarr', '&ar', ],	# Palīgmaiņa
-		[ 'Sagg', '&ag', ],	# Palīgmaiņa
-		[ 'Swehr', '&vēr', ],	# Palīgmaiņa
-		[ 'Swei', '&vej', ],	# Palīgmaiņa
-		[ 'So', '&o', ],	# Palīgmaiņa
-		[ 'Swär', '&vēr', ],	# Palīgmaiņa
-		[ 'Swann', '&van', ],	# Palīgmaiņa
-		[ 'Säll', '&el', ],	# Palīgmaiņa
-		[ 'Sagk', '&aķ', ],	# Palīgmaiņa
-		[ 'San', '&an', ],	# Palīgmaiņa
-		[ 'Sallw', '&alv', ],	# Palīgmaiņa
+		[ 'ſatz', 'sac', '1' ],
+		[ 'ſniek', 'sniek', '1' ],
+		[ 'ſnieds', 'snied&', '1' ],	# Palīgmaiņa
+		[ 'ſahkt', 'sākt', '1' ],
+		[ 'ſimbti', 'simti', '1' ],
+		[ 'ſiexst', 'siekst', '1' ],
+		[ 'ſarrgh', 'sarg', '1' ],
+		[ 'ſilles', 'sīles', '1' ],
+		[ 'ſährgh', 'sērg', '1' ],
+		[ 'ſäggl', 'segl', '1' ],
+		[ 'ſirrm', 'sirm', '1' ],
+		[ 'ſakuden', 'sakūden', '1' ],
+		[ 'ſ', '&', '1' ],	# Palīgmaiņa
+		[ 'Sehd', 'Sēd', '1' ],
+		[ 'Se', '&e', '1' ],	# Palīgmaiņa
+		[ 'Swaig', '&vaig', '1' ],	# Palīgmaiņa
+		[ 'Si', '&i', '1' ],	# Palīgmaiņa
+		[ 'Saa', '&ā', '1' ],	# Palīgmaiņa
+		[ 'Sagh', '&āģ', '1' ],	# Palīgmaiņa
+		[ 'Swahrgh', '&vārg', '1' ],	# Palīgmaiņa
+		[ 'Su', '&u', '1' ],	# Palīgmaiņa
+		[ 'Sī', '&ī', '1' ],	# Palīgmaiņa
+		[ 'Sah', '&ā', '1' ],	# Palīgmaiņa
+		[ 'Sarr', '&ar', '1' ],	# Palīgmaiņa
+		[ 'Sagg', '&ag', '1' ],	# Palīgmaiņa
+		[ 'Swehr', '&vēr', '1' ],	# Palīgmaiņa
+		[ 'Swei', '&vej', '1' ],	# Palīgmaiņa
+		[ 'So', '&o', '1' ],	# Palīgmaiņa
+		[ 'Swär', '&vēr', '1' ],	# Palīgmaiņa
+		[ 'Swann', '&van', '1' ],	# Palīgmaiņa
+		[ 'Säll', '&el', '1' ],	# Palīgmaiņa
+		[ 'Sagk', '&aķ', '1' ],	# Palīgmaiņa
+		[ 'San', '&an', '1' ],	# Palīgmaiņa
+		[ 'Sallw', '&alv', '1' ],	# Palīgmaiņa
 		[ 'Swī', '&vī', ],	# Palīgmaiņa
-		[ 'Sno', '&no', ],	# Palīgmaiņa
-		[ 'Swer', '&vēr', ],	# Palīgmaiņa
-		[ 'Swir', '&vir', ],	# Palīgmaiņa
-		[ 'Sab', '&āb', ],	# Palīgmaiņa
-		[ 'Schk', 'šķ', ],
-		[ 'Scha', 'ža', ],
-		[ 'Schuhp', 'šūp', ],
-		[ 'Schu', 'žu', ],
-		[ 'Scho', 'žo', ],
-		[ 'Schä', 'žē', ],
+		[ 'Sno', '&no', '1' ],	# Palīgmaiņa
+		[ 'Swer', '&vēr', '1' ],	# Palīgmaiņa
+		[ 'Swir', '&vir', '1' ],	# Palīgmaiņa
+		[ 'Sab', '&āb', '1' ],	# Palīgmaiņa
+		[ 'Schk', 'šķ', '1' ],
+		[ 'Scha', 'ža', '1' ],
+		[ 'Schuhp', 'šūp', '1' ],
+		[ 'Schu', 'žu', '1' ],
+		[ 'Scho', 'žo', '1' ],
+		[ 'Schä', 'žē', '1' ],
 		[ 'Sch', 'š', ],
 		[ 'līds', 'līd&', ],	# Palīgmaiņa
 		[ 'duhds', 'dūc', ],
 		[ 'dauds', 'daud&', ],	# Palīgmaiņa
-		[ 'ẜchk', 'šķ', ],
-		[ 'ẜch', 'š', ],
-		[ 'ẜirrg', '&irg', ],	# Palīgmaiņa
-		[ 'ẜ', 's', ],
-		[ 'Ꞩ', 'S', ],
+		[ 'ẜchk', 'šķ', '1' ],
+		[ 'ẜch', 'š', '1' ],
+		[ 'ẜirrg', '&irg', '1' ],	# Palīgmaiņa
+		[ 'ẜ', 's', '1' ],
+		[ 'Ꞩ', 'S', '1' ],
 		[ 'ohtz', 'ots', ],
 		[ 'enahtz', 'enāts', ],
 		[ 'pehtz', 'pēc', ],
@@ -3656,8 +3657,8 @@ our $TABLES_SINGLES = {
 		[ 'Krell', 'kre%', ],	# Palīgmaiņa
 		[ 'willane', 'wi%ane', ],	# Palīgmaiņa
 		[ 'Dille', 'Di%e', ],	# Palīgmaiņa
-		[ 'pills', 'pi%s', ],	# Palīgmaiņa
-		[ 'Elle', 'E%e', ],	# Palīgmaiņa
+		[ 'pills', 'pi%s', '1' ],	# Palīgmaiņa
+		[ 'Elle', 'E%e', '1' ],	# Palīgmaiņa
 		[ 'pillà', 'pi%à', ],	# Palīgmaiņa
 		[ 'stall', 'sta%', ],	# Palīgmaiņa
 		[ 'brill', 'bri%', ],	# Palīgmaiņa
@@ -3698,15 +3699,15 @@ our $TABLES_SINGLES = {
 		[ 'skramb', 'skra$', ],	# Palīgmaiņa
 		[ 'Vamb', 'Va$', ],	# Palīgmaiņa
 		[ 'mb', 'm', ],
-		[ '\$', 'mb', ],	# Palīgmaiņa
+		[ '\$', 'mb', ],	# Palīgmaiņas novākšana
 		[ 'ñ', 'n', ],
 		[ 'nh', 'n', ],
 		[ 'Spann', 'Spa#', ],	# Palīgmaiņa
 		[ 'Kanna', 'Ka#a', ],	# Palīgmaiņa
 		[ 'Panna', 'Pa#a', ],	# Palīgmaiņa
-		[ 'Wanne', 'Wa#e', ],	# Palīgmaiņa
+		[ 'Wanne', 'Wa#e', ],
 		[ 'nn', 'n', ],
-		[ '\#', 'nn', ],	# Palīgmaiņas novākšana
+		[ '\#', 'nn', ],	# Palīgmaiņa
 		[ 'ings', 'iņš', ],
 		[ 'ngk', 'ņķ', ],
 		[ 'lgk', 'ļķ', ],
@@ -3759,6 +3760,7 @@ our $TABLES_SINGLES = {
 		[ 'qu', 'kv', ],
 		[ 'adb', 'atb', ],
 		[ 'drīs\b{wb}', 'drīz', ],
+		[ 'lauts', 'lauc', ],
 	],
 	'Manc1638_Run' => [
 		[ '\b{wb}ẜwähtz\b{wb}', 'svēts', ],
@@ -4735,7 +4737,7 @@ our $TABLES_SINGLES = {
 		[ 'ẜs', 's', ],
 		[ 'ẜ', 's', ],
 		[ 'Ꞩchk', 'šķ', ],
-		[ 'Sweedrof', 'zviedru', ],
+		[ 'Sweedro', 'zviedru', ],
 		[ 'Sem̃', 'zem', ],
 		[ 'Saldaht', 'zaldāt', ],
 		[ 'Suš', 'zuš', ],
@@ -4794,6 +4796,9 @@ our $TABLES_SINGLES = {
 		[ 'vesal', 'vesel', ],
 		[ 'pirkt', 'pirgt', ],
 		[ 'telēt', 'tellēt', ],
+		[ 'ādz\b{wb}', 'āds', ],
+		[ 'vārdz', 'vārds', ],
+		[ 'sviedro', 'zviedru', ],
 	],
 	'SKL1696_RA'   => [
 		[ 'tſch', 'č', ],
@@ -4890,6 +4895,8 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}jz', 'iz', ],
 		[ 'vesal', 'vesel', ],
 		[ 'pirkt', 'pirgt', ],
+		[ 'ādz\b{wb}', 'āds', ],
+		[ 'vārdz', 'vārds', ],
 	],
 	'Thev1575_PN'  => [
 		[ '\b{wb}MVs\b{wb}', 'MŪs', ],
