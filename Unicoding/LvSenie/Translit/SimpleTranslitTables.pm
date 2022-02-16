@@ -2334,6 +2334,659 @@ our $TABLES_SINGLES = {
 		[ 'vējž', 'vējš', ],
 		[ 'dvēzel', 'dvēsel', ],
 	],
+	'LGL1685_V5'     => [
+		[ 'vñ', 'un', ],
+		[ 'atſchl', 'atsl', ],
+		[ 'ſchki', 'šķi', ],
+		[ 'ſchke', 'šķe', ],
+		[ 'atſchķ', 'atšķ', ],
+		[ 'tſch', 'č', '1' ],
+		[ 'Daſſch', 'daž', ],
+		[ 'ſſch', 'š', '1' ],
+		[ 'daſch', 'daž', ],
+		[ 'muhſch', 'mūž', ],
+		[ 'allaſch', 'a%až', ],	# Palīgmaiņa
+		[ 'Ļauſch', 'ļauž', ],
+		[ 'laiſch', 'laiž', ],
+		[ 'ſpoſch', 'spož', ],
+		[ 'ſchäl', 'žēl', ],
+		[ 'gruhſch', 'grūž', ],
+		[ 'ſchehl', 'žēl', ],
+		[ 'muhẜſch', 'mūž', ],
+		[ 'Sieſch', '&īž', ],	# Palīgmaiņa
+		[ 'ſchähl', 'žēl', ],
+		[ 'Ꞩirſch', 'sirž', ],
+		[ 'Spoſch', 'spož', ],
+		[ 'ſpeeſch', 'speež', ],
+		[ 'greeſch', 'greež', ],
+		[ 'zſch', 'č', ],
+		[ 'muſch', 'mūž', ],
+		[ 'ſpohſch', 'spož', ],
+		[ 'eekſch', 'eekš', ],
+		[ 'alļaſch', 'a%až', ],	# Palīgmaiņa
+		[ 'preekſch', 'preekš', ],
+		[ 'aukſcham', 'augšām', ],
+		[ 'Ghaſpaſch', 'gaspaž', ],
+		[ 'ẜpeeſch', 'speež', ],
+		[ 'gauſch', 'gauž', ],
+		[ 'abſchö', 'apžē', ],
+		[ 'ẜehſch', 'sēž', ],
+		[ 'Balloſch', 'balož', ],
+		[ 'ſchel', 'žēl', ],
+		[ 'dſch', 'dž', ],
+		[ 'gahſch', 'gāž', ],
+		[ 'bahſch', 'bāž', ],
+		[ 'ſchņauds', 'žņaud&', ],	# Palīgmaiņa
+		[ 'ſchaw', 'žāv', ],
+		[ 'allahſch', 'a%až', ],	# Palīgmaiņa
+		[ 'Spohſch', 'spož', ],
+		[ 'ſchâl', 'žēl', ],
+		[ 'brieſcham', 'brīžam', ],
+		[ 'mehſch', 'mēž', ],
+		[ 'ſchehig', 'žēlīg', ],
+		[ 'blehſch', 'blēž', ],
+		[ 'ſchinn', 'šin', ],
+		[ 'yuſch', 'juš', ],
+		[ 'ſcho', 'šo', ],
+		[ 'baſch', 'baž', ],
+		[ 'wiņſch', 'viņš', ],
+		[ 'ſchan', 'šan', ],
+		[ 'Breeſch', 'breež', ],
+		[ 'Meſch', 'mež', ],
+		[ 'deſchad', 'dažād', ],
+		[ 'ſpreeſch', 'spreež', ],
+		[ 'ẜweeſch', 'sveež', ],
+		[ 'ẜpoſch', 'spož', ],
+		[ 'auſch', 'auž', ],
+		[ 'ẜpreeſch', 'spriež', ],
+		[ 'briſcham', 'brīžam', ],
+		[ 'Speeſch', 'Speež', ],
+		[ '\b{wb}kohſch', 'kož', ],
+		[ 'ſch', 'š', ],
+		[ 'ie', 'ī', ],
+		[ 'ee', 'ie', ],
+		[ 'jaw', 'jau', ],
+		[ 'w', 'w', ],
+		[ 'maſſ', 'ma&', ],	# Palīgmaiņa
+		[ 'iſſami', 'i&sami', ],	# Palīgmaiņa
+		[ 'paſſih', 'pa&ih', ],	# Palīgmaiņa
+		[ 'Kahſſu', 'Kā&u', ],	# Palīgmaiņa
+		[ 'iſſpru', 'i&spru', ],	# Palīgmaiņa
+		[ 'paſſu', 'pa&u', ],	# Palīgmaiņa
+		[ 'iſſudd', 'i&&udd', ],	# Palīgmaiņa
+		[ 'beſſp', 'be&sp', ],	# Palīgmaiņa
+		[ 'ſſ', 's', '1' ],
+		[ 'ſẜch', 'š', ],
+		[ '\b{wb}iſẜami', 'i&sami', ],	# Palīgmaiņa
+		[ 'Jſẜami', 'i&sami', ],	# Palīgmaiņa
+		[ 'aiſẜiet', 'ai&siet', ],	# Palīgmaiņa
+		[ 'ſẜ', 's', '1' ],
+		[ 'dſ', 'd&', ],	# Palīgmaiņa
+		[ 'ſki', 'šķi', ],
+		[ 'ſkī', 'šķī', ],
+		[ 'ſkch', 'šķ', ],
+		[ 'aiſk', 'ai&sk', ],	# Palīgmaiņa
+		[ 'iſk', 'išķ', ],
+		[ 'isſk', 'i&sk', ],	# Palīgmaiņa
+		[ 'ſky', 'šķī', ],
+		[ 'ſk', 'sk', ],
+		[ 'Aiſto', 'Ai&to', ],	# Palīgmaiņa
+		[ 'ſt', 'st', ],
+		[ 'ſöv', 'sev', ],
+		[ 'iſprutz', 'i&spruc', ],	# Palīgmaiņa
+		[ 'ſp', 'sp', ],
+		[ '\b{wb}aiſ', 'ai&', ],	# Palīgmaiņa
+		[ 'blahſma', 'blā&ma', ],	# Palīgmaiņa
+		[ 'iſmäh', 'i&mē', ],	# Palīgmaiņa
+		[ 'uſmod', 'u&mod', ],	# Palīgmaiņa
+		[ 'ſm', 'sm', ],
+		[ 'mſ', 'ms', ],
+		[ 'kſ', 'ks', ],
+		[ 'beigſi', 'beigsi', ],
+		[ 'iſl', 'i&l', ],	# Palīgmaiņa
+		[ 'ſl', 'sl', ],
+		[ 'apſinn', 'ap&in', ],	# Palīgmaiņa
+		[ 'pſ', 'ps', ],
+		[ 'ſaim', '&aim', ],	# Palīgmaiņa
+		[ 'paſack', 'pasak', ],
+		[ 'ſack', '&ag', ],	# Palīgmaiņa
+		[ 'ſaļļ', '&aļ', ],	# Palīgmaiņa
+		[ 'ſaud', '&aud', ],	# Palīgmaiņa
+		[ 'ſakt', '&agt', ],	# Palīgmaiņa
+		[ '\b{wb}ſa', 'sa', ],
+		[ 'Paſaul', 'pasaul', ],
+		[ 'Ieſak', 'iesāk', ],
+		[ 'Mieſ', 'mies', ],
+		[ 'ſahk', 'sāk', ],
+		[ 'ſatz', 'sac', ],
+		[ 'Eſai', 'esai', ],
+		[ 'ſarrg', 'sarg', ],
+		[ 'ſaht', 'sākt', ],
+		[ 'muhſ', 'mūs', ],
+		[ 'Ꞩauſ', 'saus', ],
+		[ 'ſazz', 'sac', ],
+		[ 'klauſ', 'klaus', ],
+		[ 'ſauzz', 'sauc', ],
+		[ 'ſa', '&a', ],	# Palīgmaiņa
+		[ 'ſo', 'so', ],
+		[ 'ſvähr', '&vēr', ],	# Palīgmaiņa
+		[ 'ſväht', 'svēt', ],
+		[ 'ſvä', 'svē', ],
+		[ 'ſveš', 'sveš', ],
+		[ 'ſveik', 'sveik', ],
+		[ 'ſv', '&v', ],	# Palīgmaiņa
+		[ 'iſs', 'is', ],
+		[ 'ghrieſ', 'grie&', ],	# Palīgmaiņa
+		[ 'ſies', 'sies', ],
+		[ 'eleiſ', 'eleis', ],
+		[ 'tſis', 't&īs', ],	# Palīgmaiņa
+		[ 'ſist', 'sist', ],
+		[ 'ſuhz', 'sūc', ],
+		[ 'ſiẜ', 'siẜ', ],
+		[ 'ſähd', 'sēd', ],
+		[ 'ſehy', 'sēj', ],
+		[ 'ſuht', 'sūt', ],
+		[ 'taiſn', 'taisn', ],
+		[ 'buhſ', 'būs', ],
+		[ 'Debbeſ', 'debes', ],
+		[ 'eſ=ẜi', 'esi', ],
+		[ 'dhſ', 'd&', ],	# Palīgmaiņa
+		[ 'Vallſi', 'valsti', ],
+		[ 'ſnieds', 'snied&', ],	# Palīgmaiņa
+		[ 'allaſjch', 'a%až', ],	# Palīgmaiņa
+		[ 'ſept', 'sept', ],
+		[ 'ſķir', 'šķir', ],
+		[ 'Dvehſ', 'dvēs', ],
+		[ 'dveſ', 'dvēs', ],
+		[ 'ſehd', 'sēd', ],
+		[ 'ſeht', 'sēt', ],
+		[ 'mbſ', 'ms', ],
+		[ 'Viſ', 'vis', ],
+		[ 'pattieſ', 'paties', ],
+		[ 'taiſ', 'tais', ],
+		[ 'ſev', 'sev', ],
+		[ 'Kummohſiņg', 'kumosiņ', ],
+		[ '\b{wb}Aſn', 'asn', ],
+		[ 'Gaiſ', 'gais', ],
+		[ 'ſitt', 'sit', ],
+		[ 'plohſ', 'plos', ],
+		[ '\b{wb}raiſī', 'raisī', ],
+		[ 'raiſy', 'raisī', ],
+		[ 'ſuhd\&', 'sūd&', ],	# Palīgmaiņas lietošana
+		[ 'ſilld', 'sild', ],
+		[ '\b{wb}Auſ', 'aus', ],
+		[ 'ghauſ', 'gaus', ],
+		[ 'ſiks', 'sīks', ],
+		[ 'plehſ', 'plēs', ],
+		[ 'Tieſ', 'ties', ],
+		[ 'zelſ', 'cels', ],
+		[ 'dvieſel', 'dvēsel', ],
+		[ 'ſ', '&', '1' ],	# Palīgmaiņa
+		[ 'Schäl', 'žēl', '1' ],
+		[ 'Schehl', 'žēl', '1' ],
+		[ 'Schel', 'žēl', '1' ],
+		[ 'Schul', 'žul', '1' ],
+		[ 'Schähl', 'žēl', '1' ],
+		[ 'Schäļ', 'žēļ', '1' ],
+		[ 'Schohgl', 'žogl', '1' ],
+		[ 'Schk', 'šķ', '1' ],
+		[ 'Sch', 'š', ],
+		[ 'Sämm', '&em', '1' ],	# Palīgmaiņa
+		[ 'Sinņ', '&iņ', '1' ],	# Palīgmaiņa
+		[ 'Semm', '&em', '1' ],	# Palīgmaiņa
+		[ 'Sīm', '&īm', '1' ],	# Palīgmaiņa
+		[ 'Säl', '&el', '1' ],	# Palīgmaiņa
+		[ 'Simī', '&īmī', '1' ],	# Palīgmaiņa
+		[ 'Selt', '&elt', '1' ],	# Palīgmaiņa
+		[ 'Siņņ', '&iņ', '1' ],	# Palīgmaiņa
+		[ 'Sem̃', '&em', '1' ],	# Palīgmaiņa
+		[ 'Svahrg', '&vārg', '1' ],	# Palīgmaiņa
+		[ 'Svaigs', '&vaig&', '1' ],	# Palīgmaiņa
+		[ 'Sar', '&ar', '1' ],	# Palīgmaiņa
+		[ '\&arrgs', 'sargs', '1' ],	# Palīgmaiņas novākšana
+		[ 'Sahl', '&āl', '1' ],	# Palīgmaiņa
+		[ 'Sagg', '&ag', '1' ],	# Palīgmaiņa
+		[ 'Shult', 'žult', '1' ],
+		[ 'Sohb', '&ob', '1' ],	# Palīgmaiņa
+		[ 'Saldat', '&aldāt', '1' ],	# Palīgmaiņa
+		[ 'Salt', '&alt', '1' ],	# Palīgmaiņa
+		[ 'Saud', '&aud', '1' ],	# Palīgmaiņa
+		[ 'Sinnaš', '&ināš', '1' ],	# Palīgmaiņa
+		[ 'JES', 'Je&', '1' ],	# Palīgmaiņa
+		[ '\b{wb}JS', 'I&', '1' ],	# Palīgmaiņa
+		[ 'Sinn\'š', '&ināš', '1' ],	# Palīgmaiņa
+		[ 'Siedß', '&ieds', '1' ],	# Palīgmaiņa
+		[ 'Sinaš', '&ināš', '1' ],	# Palīgmaiņa
+		[ 'Svähr', '&vēr', '1' ],	# Palīgmaiņa
+		[ 'Svehr', '&vēr', '1' ],	# Palīgmaiņa
+		[ 'Sob', '&ob', '1' ],	# Palīgmaiņa
+		[ 'Sinnâ', '&iņā', '1' ],	# Palīgmaiņa
+		[ 'Si\&l', '&i&l', '1' ],	# Palīgmaiņas lietošana
+		[ 'Sibb', '&ib', '1' ],	# Palīgmaiņa
+		[ 'Siv', '&iv', '1' ],	# Palīgmaiņa
+		[ 'Sirg', '&irg', '1' ],	# Palīgmaiņa
+		[ '\b{wb}US', 'U&', '1' ],	# Palīgmaiņa
+		[ 'Salẜch', '&alš', '1' ],	# Palīgmaiņa
+		[ 'Sz', 's', '1' ],
+		[ 'Saļļ', '&aļ', '1' ],	# Palīgmaiņa
+		[ 'Svaig\&', '&vaig&', '1' ],	# Palīgmaiņas lietošana
+		[ 'Svai\&', '&vai&', '1' ],	# Palīgmaiņas lietošana
+		[ 'Siedinņs', '&iediņš', '1' ],	# Palīgmaiņa
+		[ 'Sallš', '&alš', '1' ],	# Palīgmaiņa
+		[ 'Siem', '&iem', '1' ],	# Palīgmaiņa
+		[ 'ski', 'šķi', ],
+		[ 'skä', 'šķē', ],
+		[ 'dauds', 'daud&', ],	# Palīgmaiņa
+		[ 'līds', 'līd&', ],	# Palīgmaiņa
+		[ 'neds', 'ned&', ],	# Palīgmaiņa
+		[ 'steids', 'steid&', ],	# Palīgmaiņa
+		[ 'beids', 'beid&', ],	# Palīgmaiņa
+		[ 'drauds', 'draud&', ],	# Palīgmaiņa
+		[ 'slähds', 'slēd&', ],	# Palīgmaiņa
+		[ 'Reds', 'Red&', ],	# Palīgmaiņa
+		[ 'drīds', 'drīd&', ],	# Palīgmaiņa
+		[ 'ẜauds', 'saud&', ],	# Palīgmaiņa
+		[ 'luhds', 'lūd&', ],	# Palīgmaiņa
+		[ 'DSied', 'D&ied', ],	# Palīgmaiņa
+		[ 'šķirds', 'šķirts', ],
+		[ 'ẜläds', 'slēd&', ],	# Palīgmaiņa
+		[ 'Räds', 'red&', ],	# Palīgmaiņa
+		[ 'släds', 'slēd&', ],	# Palīgmaiņa
+		[ 'ẜlehds', 'slēd&', ],	# Palīgmaiņa
+		[ 'ẜuhds', 'sūd&', ],	# Palīgmaiņa
+		[ 'ẜeds', 'sed&', ],	# Palīgmaiņa
+		[ 'dohds', 'dots', ],
+		[ 'lieds', 'lied&', ],	# Palīgmaiņa
+		[ 'Sieds', '&ieds', ],	# Palīgmaiņa
+		[ 'Snieds', 'Snied&', ],	# Palīgmaiņa
+		[ 'slehds', 'slehd&', ],	# Palīgmaiņa
+		[ 'ẜäds', 'sed&', ],	# Palīgmaiņa
+		[ 'Ꞩeds', 'sed&', ],	# Palīgmaiņa
+		[ 'palids', 'palīd&', ],	# Palīgmaiņa
+		[ 'ẜnieds', 'snied&', ],	# Palīgmaiņa
+		[ 'pallihds', 'palīd&', ],	# Palīgmaiņa
+		[ 'drids', 'drīd&', ],	# Palīgmaiņa
+		[ 'lihds', 'līd&', ],	# Palīgmaiņa
+		[ 'Kauds', 'Kaud&', ],	# Palīgmaiņa
+		[ '\b{wb}ohds', 'od&', ],	# Palīgmaiņa
+		[ 'behds', 'bēd&', ],	# Palīgmaiņa
+		[ 'šnauds', 'žņaud&', ],	# Palīgmaiņa
+		[ 'tẜch', 'č', ],
+		[ 'muhẜch', 'mūž', ],
+		[ 'ẜchehl', 'žēl', ],
+		[ 'Ļauẜch', 'ļauž', ],
+		[ 'ẜch', 'š', ],
+		[ 'ẜ', 's', ],
+		[ 'Ꞩchäl', 'žēl', ],
+		[ 'Ꞩch', 'š', ],
+		[ 'Ꞩ', 'S', ],
+		[ 'Vehrsītz', 'vērsīts', ],
+		[ 'usnaktz', 'u&nākts', ],	# Palīgmaiņa
+		[ 'pullghoyohtz', 'pulgojots', ],
+		[ 'deßmitz', 'desmits', ],
+		[ 'deßmittz', 'desmits', ],
+		[ 'nacktz', 'nakts', ],
+		[ 'tz', 'c', ],
+		[ 'z', 'c', ],
+		[ 'cc', 'c', ],
+		[ '\&', 'z', ],	# Palīgmaiņas novākšana
+		[ '\b{wb}iß', 'iz', ],
+		[ 'aiß', 'aiz', '1' ],
+		[ 'maiß', 'maiz', ],
+		[ '\b{wb}beß', 'bez', ],
+		[ 'maß', 'mazs', ],
+		[ 'kummazâ', 'kumasā', ],
+		[ '\b{wb}uß', 'uz', ],
+		[ 'Jß', 'iz', ],
+		[ 'Ghlaß', 'glāz', ],
+		[ 'Jhß', 'īz', ],
+		[ 'taß', 'tas', ],
+		[ 'buhß', 'būs', ],
+		[ 'zvaigßne', 'zvaigzne', ],
+		[ 'eß', 'es', ],
+		[ 'yhß', 'īz', ],
+		[ 'ßch', 'š', ],
+		[ 'ghrußd', 'gruzd', ],
+		[ 'Lißda', 'lizda', ],
+		[ 'Slaßd', 'slazd', ],
+		[ 'Baßn', 'bazn', ],
+		[ 'ghrieß', 'griez', ],
+		[ 'daßiem', 'dažiem', ],
+		[ 'ghahß', 'gāž', ],
+		[ 'grieß', 'griez', ],
+		[ '\b{wb}Raiß', 'raiz', ],
+		[ 'drīß', 'drīz', ],
+		[ 'ghräßus', 'grezus', ],
+		[ 'pabbeidß', 'pabeidz', ],
+		[ 'lehdß', 'liedz', ],
+		[ 'ß', 's', ],
+		[ 'byst', 'bīst', ],
+		[ 'Byd', 'bīd', ],
+		[ 'byt', 'bīt', ],
+		[ 'byh', 'bī', ],
+		[ 'Babyl', 'babīl', ],
+		[ 'byš', 'bīš', ],
+		[ 'by', 'bij', ],
+		[ 'jj', 'j', ],
+		[ 'py\b{wb}', 'pi', ],
+		[ 'pellny', 'pelnīj', ],
+		[ 'nyu', 'ņu', ],
+		[ 'ya', 'ja', ],
+		[ 'šy', 'šī', ],
+		[ 'lyx', 'līks', ],
+		[ 'MYļ', 'mīļ', ],
+		[ 'Kyr', 'kir', ],
+		[ '\b{wb}tay', 'tai', ],
+		[ 'Debbesys', 'debesīs', ],
+		[ 'Myl', 'mīļ', ],
+		[ 'kļuys', 'kļuvis', ],
+		[ 'Vyr', 'vīr', ],
+		[ 'Myr', 'mir', ],
+		[ 'šinny', 'šinī', ],
+		[ 'Bausly', 'bauslī', ],
+		[ 'paradyz', 'paradīz', ],
+		[ 'Tanny', 'tanī', ],
+		[ 'šiny', 'šinī', ],
+		[ 'cieny', 'cienī', ],
+		[ 'Pysk', 'pīsk', ],
+		[ 'vayr', 'vair', ],
+		[ 'Ghimy', 'ģīmi', ],
+		[ 'Ryt', 'rīt', ],
+		[ 'darry', 'darī', ],
+		[ 'tyhr', 'tīr', ],
+		[ 'dryz', 'drīz', ],
+		[ 'Ghays', 'gais', ],
+		[ 'tyr', 'tīr', ],
+		[ 'Miesy', 'miesi', ],
+		[ 'Vyn', 'vīn', ],
+		[ 'zy', 'zī', ],
+		[ 'apry', 'aprij', ],
+		[ '\b{wb}stay', 'stai', ],
+		[ 'sohly', 'solīj', ],
+		[ 'Eggly', 'egli', ],
+		[ 'vayh', 'vāj', ],
+		[ 'yh', 'ī', ],
+		[ 'Egypt', 'Ēģipt', ],
+		[ 'Juhry', 'jūrī', ],
+		[ 'yiem', 'jiem', ],
+		[ 'Ugguny', 'ugunī', ],
+		[ 'usvarrys', 'uzvarīs', ],
+		[ 'Rykle', 'rīkle', ],
+		[ 'mirckly', 'mirklī', ],
+		[ 'ty', 'tī', ],
+		[ 'dy', 'dī', ],
+		[ 'šīnny', 'šinī', ],
+		[ 'sys', 'sys', ],
+		[ 'pys', 'pīs', ],
+		[ 'rys', 'rīs', ],
+		[ 'Sapny', 'sapnī', ],
+		[ 'y', 'j', ],
+		[ 'äh', 'ē', ],
+		[ 'Thäv', 'tēv', ],
+		[ 'Cillvä', 'cilvē', ],
+		[ 'ädam', 'ēdam', ],
+		[ 'cätt', 'cet', ],
+		[ 'mätt', 'met', ],
+		[ 'Nä', 'ne', ],
+		[ 'vätc', 'vecs', ],
+		[ 'ät', 'ēt', ],
+		[ 'späc', 'spēc', ],
+		[ 'päc', 'päc', ],
+		[ 'Ghrä', 'grē', ],
+		[ 'Kräsl', 'krēsl', ],
+		[ 'Bär', 'bēr', ],
+		[ 'Cilvä', 'cilvē', ],
+		[ 'Gräk', 'grēk', ],
+		[ 'tomär', 'tomēr', ],
+		[ 'dräb', 'drēb', ],
+		[ 'ņämūž', 'ņēmuš', ],
+		[ 'Bäd', 'bēd', ],
+		[ 'Täv', 'tēv', ],
+		[ 'tärp', 'tērp', ],
+		[ 'skäp', 'šķēp', ],
+		[ '\b{wb}Mäs', 'mēs', ],
+		[ 'päd', 'pēd', ],
+		[ 'Spä', 'spē', ],
+		[ 'Dzär', 'dzēr', ],
+		[ 'säd', 'sēd', ],
+		[ 'Dväs', 'dvēs', ],
+		[ 'bäg', 'bēg', ],
+		[ 'Dzvä', 'dvē', ],
+		[ 'Jäc', 'jēk', ],
+		[ 'Täd', 'tād', ],
+		[ 'cäl', 'cel', ],
+		[ 'sphä', 'spē', ],
+		[ 'län', 'lēn', ],
+		[ 'vär', 'vēr', ],
+		[ 'ghärb', 'ģērb', ],
+		[ 'Atslägh', 'atslēg', ],
+		[ 'ädi', 'ēdi', ],
+		[ 'välē', 'vēlē', ],
+		[ 'šäl', 'žēl', ],
+		[ 'särgh', 'sērg', ],
+		[ 'Gräc', 'grēc', ],
+		[ 'säkl', 'sēkl', ],
+		[ 'ä', 'e', ],
+		[ 'aux', 'augs', ],
+		[ 'spirx', 'spirgs', ],
+		[ 'vaiņax', 'vaiņags', ],
+		[ 'liex', 'liegs', ],
+		[ 'dex', 'degs', ],
+		[ 'Kunx', 'kungs', ],
+		[ 'x', 'ks', ],
+		[ 'Ellk', 'elk', '1' ],
+		[ 'Ell', 'e%', '1' ],	# Palīgmaiņa
+		[ 'Velln', 'veln', ],
+		[ 'vellt', 'velt', ],
+		[ 'vellk', 'velk', ],
+		[ 'vell', 've%', ],	# Palīgmaiņa
+		[ 'pilln', 'piln', ],
+		[ 'Pilla', 'pi%a', '1' ],	# Palīgmaiņa
+		[ 'Pillu', 'pi%u', '1' ],	# Palīgmaiņa
+		[ 'Pill', 'pil', '1' ],
+		[ '\b{wb}pill', 'pi%', ],	# Palīgmaiņa
+		[ 'halle', 'hale', ],
+		[ 'll', 'l', ],
+		[ '\%', 'll', ],	# Palīgmaiņas novākšana
+		[ 'bb', 'b', ],
+		[ 'ck', 'k',, ],
+		[ 'dd', 'd', ],
+		[ 'eh', 'ē', ],
+		[ 'Ghī', 'ģī', ],
+		[ 'Ghim', 'ģī', ],
+		[ 'skaughi', 'skauģi', ],
+		[ 'ghelb', 'ģelb', ],
+		[ 'ghērb', 'ģē', ],
+		[ 'Gher', 'ģer', ],
+		[ 'gh', 'g', ],
+		[ 'gg', 'g', ],
+		[ 'gir', 'jir', ],
+		[ 'ah', 'ā', ],
+		[ 'àh', 'ā', ],
+		[ 'à', 'ā', ],
+		[ 'ih', 'ī', ],
+		[ 'jh', 'ī', ],
+		[ 'ļļ', 'ļ', ],
+		[ 'mm', 'm', ],
+		[ 'kamb', 'ka$', ],	# Palīgmaiņa
+		[ 'mb', 'm', ],
+		[ '\$', 'mb', ],	# Palīgmaiņas novākšana
+		[ 'ñ', 'n', ],
+		[ 'nh', 'n', ],
+		[ 'Hoziann', 'Hozia#', ],	# Palīgmaiņa
+		[ 'nn', 'n', ],
+		[ '#', 'nn', ],	# Palīgmaiņas novākšana
+		[ 'ing', 'iņ', ],
+		[ 'nņs', 'ņš', ],
+		[ 'septingk', 'septiņk', ],
+		[ 'bēgk', 'bēg', ],
+		[ 'steigk', 'steig', ],
+		[ 'gk', 'ķ', ],
+		[ 'oh', 'o', ],
+		[ 'Kön', 'ķēn', ],
+		[ 'söv', 'sev', ],
+		[ 'töv', 'tev', ],
+		[ 'ķöh', 'ķē', ],
+		[ 'Köh', 'ķē', ],
+		[ 'Ölj', 'eļļ', ],
+		[ 'möd', 'mod', ],
+		[ 'öj', 'oj', ],
+		[ 'iöv', 'tev', ],
+		[ 'th', 't', ],
+		[ 'tt', 't', ],
+		[ 'ņs', 'ņš', ],
+		[ 'uh', 'ū', ],
+		[ 'rr', 'r', ],
+		[ 'ŗŗ', 'ŗ', ],
+		[ 'pp', 'p', ],
+		[ 'Chr', 'Kr', ],
+		[ 'á', 'ā', ],
+		[ 'kis', 'ķis', ],
+		[ 'Jzra', 'izra', ],
+		[ 'Jn', 'in', ],
+		[ 'Jr', 'ir', ],
+		[ 'Js', 'iz', ],
+		[ 'Jk', 'ik', ],
+		[ 'Jman', 'iman', ],
+		[ 'Jzaak', 'izāk', ],
+		[ 'Jt', 'it', ],
+		[ 'CJlv', 'cilv', ],
+		[ '\b{wb}JS', 'iz', ],
+		[ 'LJe', 'lī', ],
+		[ 'Jlg', 'ilg', ],
+		[ 'DJv', 'div', ],
+		[ 'KRJStJ', 'kristi', ],
+		[ 'KRJST', 'krist', ],
+		[ 'EJm', 'eim', ],
+		[ 'Jz', 'iz', ],
+		[ 'Jpat', 'īpat', ],
+		[ 'â', 'ā', ],
+		[ 'nņ', 'ņ', ],
+		[ 'iss', 'izs', ],
+		[ 'izsūd', 'izzūd', ],
+		[ 'Āss', 'āzs', ],
+		[ 'Ausiss', 'ausis', ],
+		[ '\b{wb}uss', 'uzs', ],
+		[ 'aiss', 'aizs', ],
+		[ 'miss', 'mis', ],
+		[ 'Rītass', 'rītas', ],
+		[ 'ass', 'āzs', ],
+		[ 'virss', 'virs', ],
+		[ 'aukss', 'auks', ],
+		[ 'mumss', 'mums', ],
+		[ 'ph', 'p', ],
+		[ '\b{wb}isa', 'izsa', ],
+		[ 'rŗ', 'ŗ', ],
+		[ 'chk', 'šķ', ],
+		[ 'ch', 'h', ],
+		[ 'koninj', 'ķēniņ', ],
+		[ 'ķēninj', 'ķēniņ', ],
+		[ 'koniņj', 'ķēniņ', ],
+		[ 'ņj', 'ņ', ],
+		[ 'ê', 'ē', ],
+		[ 'î', 'ī', ],
+		[ '\b{wb}ais', 'aiz', ],
+		[ 'ņņ', 'ņ', ],
+		[ 'kk', 'k', ],
+		[ 'dt', 't', ],
+		[ '\b{wb}us', 'uz', ],
+		[ '\b{wb}ad', 'at', ],
+		[ 'šv', 'sv', ],
+		[ 'o~', 'on', ],
+		[ '\b{wb}rūkt', 'rūgt', ],
+		[ '\b{wb}is', 'iz', ],
+		[ '\b{wb}bes', 'bez', ],
+		[ 'glās', 'glāz', ],
+		[ '\b{wb}mas', 'maz', ],
+		[ 'skī', 'šķī', ],
+		[ 'Nozeg', 'nozieg', ],
+		[ 'm̃', 'm', ],
+		[ 'Mirh', 'mirr', ],
+		[ 'skink', 'šķiņķ', ],
+		[ '\b{wb}mj', 'mij', ],
+		[ '\b{wb}ās', 'āz', ],
+		[ 'ôh', 'o', ],
+		[ 'ô', 'o', ],
+		[ 'uis\b{wb}', 'uvis', ],
+		[ 'lūkt', 'lūgt', ],
+		[ 'Lūkš', 'lūgš', ],
+		[ 'gries', 'griez', ],
+		[ 'lļ', 'ļ', ],
+		[ 'beik', 'beig', ],
+		[ 'û', 'ū', ],
+		[ 'drīs\b{wb}', 'drīz', ],
+		[ '\b{wb}īs\b{wb}', 'īz', ],
+		[ 'sirdz', 'sirds', ],
+		[ 'ũ', 'um', ],
+		[ 'ã', 'am', ],
+		[ 'abž', 'apž', ],
+		[ 'ķķ', 'ķ', ],
+		[ 'Habacuc', 'Habakuk', ],
+		[ 'Kēd', 'ķēd', ],
+		[ 'reis\b{wb}', 'reiz', ],
+		[ '\b{wb}Mais', 'maiz', ],
+		[ 'saļām', 'zaļām', ],
+		[ 'Elj', 'eļļ', ],
+		[ 'skumūž', 'skumuš', ],
+		[ 'sinam', 'zinam', ],
+		[ 'žan', 'šan', ],
+		[ 'Sīde', 'zīde', ],
+		[ '\b{wb}laus', 'lauz', ],
+		[ '\b{wb}ūs', 'ūz', ],
+		[ 'sog', 'soģ', ],
+		[ 'mūži\b{wb}', 'muši', ],
+		[ 'Qu', 'kv', ],
+		[ 'eẽ', 'iem', ],
+		[ 'ẽ', 'en', ],
+		[ 'saļ', 'zaļ', ],
+		[ 'zh', 'z', ],
+		[ 'celss', 'cels', ],
+		[ 'atriep', 'atrieb', ],
+		[ '\b{wb}vīs\b{wb}', 'vīz', ],
+		[ 'Vaids', 'vaidz', ],
+		[ 'mik', 'mig', ],
+		[ 'Dev', 'Diev', ],
+		[ 'dievis', 'devis', ],
+		[ 'dievums', 'devums', ],
+		[ 'škī', 'šķī', ],
+		[ 'ĩ', 'ī', ],
+		[ 'Koni', 'ķēni', ],
+		[ 'daus', 'dauz', ],
+		[ 'Jac', 'Jak', ],
+		[ 'selt', 'zelt', ],
+		[ 'ske', 'šķe', ],
+		[ 'sēl', 'žēl', ],
+		[ 'vv',, ],
+		[ 'skiņk', 'šķiņķ', ],
+		[ 'skie', 'šķie', ],
+		[ 'gauz', 'gaus', ],
+		[ 'Ļiel', 'liel', ],
+		[ 'spoš', 'spož', ],
+		[ 'skik', 'šķīk', ],
+		[ 'geld', 'ģeld', ],
+		[ 'Dzīus', 'dzīvs', ],
+		[ 'sieg', 'zieg', ],
+		[ 'gj', 'ģ', ],
+		[ 'sūdā', 'zūdā', ],
+		[ 'tt', 't', ],
+		[ 'glēv', 'ģļēv', ],
+		[ '\b{wb}diša', 'diža', ],
+		[ 'škumūžu', 'skumuš', ],
+		[ 'āh', 'ā', ],
+		[ 'sirg', 'zirg', ],
+		[ 'Gīm', 'ģīm', ],
+		[ 'bruc', 'brūc', ],
+		[ 'Majna', 'maiņa', ],
+		[ 'Svhēt', 'svēt', ],
+		[ '\b{wb}īs\b{wb}', 'īz', ],
+		[ 'valhk', 'valk', ],
+		[ 'bēci', 'bēdzi', ],
+		[ 'šlēdz', 'slēdz', ],
+		[ 'uzaka', 'uzsaka', ],
+		[ 'krāshņi', 'krāšņi', ],
+		[ 'Ļoc', 'loc', ],
+		[ 'dzīh', 'dzī', ],
+	],
 	'Manc1631_LGL'   => [
 		[ '\b{wb}David', 'Dawid', '1' ],
 		[ '\b{wb}vß', 'u%', '1' ], # Palīgmaiņa
