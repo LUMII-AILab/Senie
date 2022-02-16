@@ -10,7 +10,7 @@
 *.py text eol=lf
 *.sh text eol=lf
 *.sql text eol=lf
-*/Docs/SketchEngine specs/* text eol=lf
+*/Docs/SketchEngine* text eol=lf
 
 # Declare text files always to be normalized and converted to
 # native line endings on checkout.
