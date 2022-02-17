@@ -127,19 +127,21 @@ public class PolySENIE
 		String[] fileParams = getParamsFromFile(fileName.getPath());
 		out.print("  Avots: " + fileParams[0]);
 		if (fileParams[1] != null) out.print(", grāmata: " + fileParams[1]);
-		out.println(", autors: " + fileParams[2]);
+		out.print(", autors: " + fileParams[2]);
+		if (fileParams[3] != null) out.print(", virsraksts: " + fileParams[3]);
+		out.println();
 		Files.copy(fileName.toPath(), FileSystems.getDefault().getPath(".", fileName.getName()), StandardCopyOption.REPLACE_EXISTING);
 		if (fileParams[1] != null)
 		{
 			IndexType iType = indexSpec.get(fileParams[0] + "/" + fileParams[1]);
 			out.println("  Indeksa veids: " + iType);
-			MonoSENIE.fullNondbProcessing(iType, fileParams[1], fileParams[2], out);
+			MonoSENIE.fullNondbProcessing(iType, fileParams[1], fileParams[2], fileParams[3], out);
 		}
 		else
 		{
 			IndexType iType = indexSpec.get(fileParams[0]);
 			out.println("  Indeksa veids: " + iType);
-			MonoSENIE.fullNondbProcessing(iType, fileParams[0], fileParams[2], out);
+			MonoSENIE.fullNondbProcessing(iType, fileParams[0], fileParams[2], fileParams[3], out);
 		}
 
 		for (File resultFile : (new File(".")).listFiles(File::isFile))
@@ -148,7 +150,7 @@ public class PolySENIE
 			String fileCodeStub = fileParams[1] == null ? fileParams[0] : fileParams[1];
 			if (resultFileName.startsWith(fileCodeStub))
 			{
-				if (resultFileName.endsWith(".htm"))
+				if (resultFileName.endsWith(".htm") || resultFileName.endsWith(".html"))
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(htmlResultDir.getPath(), resultFile.getName()),
 							StandardCopyOption.REPLACE_EXISTING);
@@ -189,8 +191,9 @@ public class PolySENIE
 		String authorName = null;
 		String sourceCode = null;
 		String bookCode = null;
+		String firstComment = null;
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(filePath), "Cp1257"));
-		Pattern codePattern = Pattern.compile(".*?@([agz])\\{([^}]+)\\}.*");
+		Pattern codePattern = Pattern.compile(".*?@([agzk])\\{([^}]+)\\}.*");
 		String line = reader.readLine();
 		while (line != null && (authorName == null || sourceCode == null || bookCode == null))
 		{
@@ -204,12 +207,13 @@ public class PolySENIE
 					case "a" : authorName = value; break;
 					case "g" : bookCode = value; break;
 					case "z" : sourceCode = value; break;
+					case "k" : if (firstComment == null || firstComment.isEmpty()) firstComment = value; break;
 				}
 			}
 			line = reader.readLine();
 		}
 		reader.close();
-		return new String[] {sourceCode, bookCode, authorName};
+		return new String[] {sourceCode, bookCode, authorName, firstComment};
 	}
 
 	/**

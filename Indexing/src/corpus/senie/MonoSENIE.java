@@ -34,6 +34,7 @@ public class MonoSENIE {
 		boolean loop = true;
 
 		String name = "";
+		String title = "";
 
 		do {
 			out.println("Ievadiet veicamo uzdevumu: ");
@@ -43,7 +44,8 @@ public class MonoSENIE {
 			out.println("(4) inversā vārdnīca");
 			out.println("(5) fragmentēšana (DB)");
 			out.println("(6) marķēšana");
-			out.println("(7) viss, ko var izdarīt bez DB");
+			out.println("(7) \"ietinamie\" HTML faili");
+			out.println("(8) viss, ko var izdarīt bez DB");
 			out.println("(0) beigt");
 			out.print("Izvēle: ");
 			int task = Integer.parseInt(input.readLine().trim());
@@ -214,11 +216,34 @@ public class MonoSENIE {
 					break;
 
 				case 7:
+					// TODO
+					out.println("+-----------------------------------+");
+					out.println("| \"Ietinamo\" HTML failu izveidošana |");
+					out.println("+-----------------------------------+");
+					out.println("");
+
+					HtmlWrapperPrinter printer = new HtmlWrapperPrinter(source);
+					printer.writeHtml();
+
 					name = "";
 					out.print("Ievadiet avota autoru: ");
 					name = input.readLine().trim();
+					out.print("Ievadiet avota nosaukumu: ");
+					title = input.readLine().trim();
+					out.print("Ievadiet vārdformu skaitu (reģistrinejūtīgo): ");
+					String wordforms = input.readLine().trim();
+					out.print("Ievadiet vārdu skaitu (reģistrinejūtīgo): ");
+					String words = input.readLine().trim();
+					printer.writeTitleHtm(name, title, wordforms, words);
+					break;
+				case 8:
+					name = "";
+					out.print("Ievadiet avota autoru: ");
+					name = input.readLine().trim();
+					out.print("Ievadiet avota nosaukumu: ");
+					title = input.readLine().trim();
 					out.println("");
-					boolean result = fullNondbProcessing(indexType, source, name, out);
+					boolean result = fullNondbProcessing(indexType, source, name, title, out);
 					if (!result) System.out.println("Kāds no soļiem neizdevās!");
 					System.out.println();
 					break;
@@ -234,7 +259,8 @@ public class MonoSENIE {
 		} while (loop);
 	}
 
-	public static boolean fullNondbProcessing(IndexType indexType, String source, String author, PrintStream out)
+	public static boolean fullNondbProcessing(
+			IndexType indexType, String source, String author, String title, PrintStream out)
 	throws IOException
 	{
 		if (indexType == null) throw new IllegalArgumentException();
@@ -276,6 +302,8 @@ public class MonoSENIE {
 		out.println("Vārdformu indeksēšana un statistika, reģistrnejūtīga.");
 		indexer = new Indexer(source);
 		stepSuccess = indexer.index(indexType, source, author, true, false);
+		int wordformsLC = indexer.countWF();
+		int wordsLC = indexer.countRW();
 		indexer.storePlaintext(true);
 		indexer.storeHTML(true);
 		indexer.storeFrequencies(true);
@@ -306,6 +334,11 @@ public class MonoSENIE {
 			fullSuccess = false;
 			System.out.println("\tNeizdevās!");
 		}
+
+		out.println("\"Ietinamo\" HTML failu izveidošana.");
+		HtmlWrapperPrinter printer = new HtmlWrapperPrinter(source);
+		printer.writeHtml();
+		printer.writeTitleHtm(author, title, Integer.toString(wordformsLC), Integer.toString(wordsLC));
 
 		return fullSuccess;
 	}
