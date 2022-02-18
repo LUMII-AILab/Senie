@@ -33,6 +33,7 @@ public class MonoSENIE {
 		String confirm = "";
 		boolean loop = true;
 
+		String collection = "";
 		String name = "";
 		String title = "";
 
@@ -222,18 +223,19 @@ public class MonoSENIE {
 					out.println("+-----------------------------------+");
 					out.println("");
 
-					HtmlWrapperPrinter printer = new HtmlWrapperPrinter(source);
-					printer.writeHtml();
-
 					name = "";
 					out.print("Ievadiet avota autoru: ");
 					name = input.readLine().trim();
 					out.print("Ievadiet avota nosaukumu: ");
 					title = input.readLine().trim();
+					out.print("Ievadiet avotu ietverošo kolekciju): ");
+					collection = input.readLine().trim();
 					out.print("Ievadiet vārdformu skaitu (reģistrinejūtīgo): ");
 					String wordforms = input.readLine().trim();
 					out.print("Ievadiet vārdu skaitu (reģistrinejūtīgo): ");
 					String words = input.readLine().trim();
+					HtmlWrapperPrinter printer = new HtmlWrapperPrinter(source, collection);
+					printer.writeHtml();
 					printer.writeTitleHtm(name, title, wordforms, words);
 					break;
 				case 8:
@@ -242,8 +244,10 @@ public class MonoSENIE {
 					name = input.readLine().trim();
 					out.print("Ievadiet avota nosaukumu: ");
 					title = input.readLine().trim();
+					out.print("Ievadiet avotu ietverošo kolekciju): ");
+					collection = input.readLine().trim();
 					out.println("");
-					boolean result = fullNondbProcessing(indexType, source, name, title, out);
+					boolean result = fullNondbProcessing(indexType, source, collection, name, title, out);
 					if (!result) System.out.println("Kāds no soļiem neizdevās!");
 					System.out.println();
 					break;
@@ -260,7 +264,7 @@ public class MonoSENIE {
 	}
 
 	public static boolean fullNondbProcessing(
-			IndexType indexType, String source, String author, String title, PrintStream out)
+			IndexType indexType, String source, String collection, String author, String title, PrintStream out)
 	throws IOException
 	{
 		if (indexType == null) throw new IllegalArgumentException();
@@ -336,7 +340,7 @@ public class MonoSENIE {
 		}
 
 		out.println("\"Ietinamo\" HTML failu izveidošana.");
-		HtmlWrapperPrinter printer = new HtmlWrapperPrinter(source);
+		HtmlWrapperPrinter printer = new HtmlWrapperPrinter(source, collection);
 		printer.writeHtml();
 		printer.writeTitleHtm(author, title, Integer.toString(wordformsLC), Integer.toString(wordsLC));
 

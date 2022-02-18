@@ -7,7 +7,8 @@ public class HtmlWrapperPrinter {
     //private BufferedReader reader;
     private BufferedWriter html;
     private BufferedWriter titleHtm;
-    private String source;
+    private final String collection;
+    private final String source;
     //private Logger log;
 
     /**
@@ -15,9 +16,11 @@ public class HtmlWrapperPrinter {
      *
      * @param source - codificator of source text, will be used as absolute file name for HtmlWrapperPrinter results.
      */
-    public HtmlWrapperPrinter(String source) throws IOException {
+    public HtmlWrapperPrinter(String source, String collection) throws IOException {
         //super();
+        this.collection = collection;
         this.source = source;
+        if (collection == null || collection.trim().isEmpty()) collection = source;
         //reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
         html = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + ".html"), "Cp1257"));
         titleHtm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + "_title.htm"), "Cp1257"));
@@ -56,18 +59,26 @@ public class HtmlWrapperPrinter {
             throws IOException {
         if (title == null) title = "~~~";
         titleHtm.write(
-                "<html>\r\n" +
+                "<html>\n" +
                 "\t<head>\r\n" +
                 "\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1257\">\r\n" +
                 "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"./title.css\">\r\n" +
                 "\t</head>\r\n" +
                 "\r\n" +
                 "\t<body>\r\n" +
-                "\t\t<p class=\"author\">" + author + "</p>\r\n" +
-                "\t\t<p class=\"source\">" + title + "</p>\r\n" +
-                "\t\t<p class=\"statistic\">Vārdformas: <b>" + wordformsLC +"</b>, vārdlietojumi: <b>" + wordsLC +"</b> (reģistrnejūtība).</p>\r\n" +
+                "\t\t<p class=\"author\">" + author +"</p>\r\n" +
+                "\t\t<p class=\"source\">" + title +"</p>\r\n" +
+                "\t\t<table border=\"0\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">\r\n" +
+                "\t\t<tr>\r\n" +
+                "\t\t\t<td><p class=\"statistic\">Vārdformas: <b>" + wordformsLC + "</b>, vārdlietojumi: <b>" + wordsLC +"</b> (reģistrnejūtība).</p></td>\r\n" +
+                "\t\t\t<td><p class=\"navig\">\r\n" +
+                "\t\t\t\t<a href=\"../source.jsp?codificator=" + collection + "\" class=\"button\" target=\"_top\">&nbsp;" + collection + "&nbsp;</a>&nbsp;\r\n" +
+                "\t\t\t\t<a href=\"../senie.jsp\" class=\"button\" target=\"_top\">&nbsp;SĀKUMLAPA&nbsp;</a>\r\n" +
+                "\t\t\t</p></td>\r\n" +
+                "\t\t</tr>\r\n" +
+                "\t\t</table>\r\n" +
                 "\t</body>\r\n" +
-                "</html>");
+                "</html>\r\n");
         titleHtm.flush();
         titleHtm.close();
     }

@@ -135,13 +135,13 @@ public class PolySENIE
 		{
 			IndexType iType = indexSpec.get(fileParams[0] + "/" + fileParams[1]);
 			out.println("  Indeksa veids: " + iType);
-			MonoSENIE.fullNondbProcessing(iType, fileParams[1], fileParams[2], fileParams[3], out);
+			MonoSENIE.fullNondbProcessing(iType, fileParams[1], fileParams[0], fileParams[2], fileParams[3], out);
 		}
 		else
 		{
 			IndexType iType = indexSpec.get(fileParams[0]);
 			out.println("  Indeksa veids: " + iType);
-			MonoSENIE.fullNondbProcessing(iType, fileParams[0], fileParams[2], fileParams[3], out);
+			MonoSENIE.fullNondbProcessing(iType, fileParams[0], null, fileParams[2], fileParams[3], out);
 		}
 
 		for (File resultFile : (new File(".")).listFiles(File::isFile))
@@ -150,16 +150,8 @@ public class PolySENIE
 			String fileCodeStub = fileParams[1] == null ? fileParams[0] : fileParams[1];
 			if (resultFileName.startsWith(fileCodeStub))
 			{
-				if (resultFileName.endsWith(".htm") || resultFileName.endsWith(".html"))
-					Files.move(resultFile.toPath(),
-							FileSystems.getDefault().getPath(htmlResultDir.getPath(), resultFile.getName()),
-							StandardCopyOption.REPLACE_EXISTING);
-				else if (resultFileName.equals(fileCodeStub + ".txt"))
-					//Files.delete(resultFile.toPath());
-					Files.move(resultFile.toPath(),
-							FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName()),
-							StandardCopyOption.REPLACE_EXISTING);
-				else if (resultFileName.equals(fileCodeStub + "_log.txt") && isLogFileEmpty(resultFile))
+				if (resultFileName.equals(fileCodeStub + "_log.txt") && isLogFileEmpty(resultFile) ||
+						resultFileName.equals(fileCodeStub + "_indexed.htm"))
 				{
 					System.out.println ("Deleting " + resultFileName);
 					Path target = FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName());
@@ -168,6 +160,15 @@ public class PolySENIE
 					Files.move(resultFile.toPath(), target,
 							StandardCopyOption.REPLACE_EXISTING);
 				}
+				else if (resultFileName.endsWith(".htm") || resultFileName.endsWith(".html"))
+					Files.move(resultFile.toPath(),
+							FileSystems.getDefault().getPath(htmlResultDir.getPath(), resultFile.getName()),
+							StandardCopyOption.REPLACE_EXISTING);
+				else if (resultFileName.equals(fileCodeStub + ".txt"))
+					//Files.delete(resultFile.toPath());
+					Files.move(resultFile.toPath(),
+							FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName()),
+							StandardCopyOption.REPLACE_EXISTING);
 				else if (resultFileName.endsWith(".txt"))
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(txtResultDir.getPath(), resultFile.getName()),
@@ -181,7 +182,7 @@ public class PolySENIE
 	 * Helper method for getting contents of the @{....} i.e., author mark form
 	 * somethere in the file. The whole @{...} must be in a single line.
 	 * @param filePath file to check
-	 * @return array with @z field, @g field and @a field in that order
+	 * @return array with @z field, @g field, @a field and @k field in that order
 	 * @throws IOException
 	 */
 	public static String[] getParamsFromFile(String filePath)
@@ -195,7 +196,8 @@ public class PolySENIE
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(filePath), "Cp1257"));
 		Pattern codePattern = Pattern.compile(".*?@([agzk])\\{([^}]+)\\}.*");
 		String line = reader.readLine();
-		while (line != null && (authorName == null || sourceCode == null || bookCode == null))
+		int linecount = 0;
+		while (line != null && (authorName == null || sourceCode == null || bookCode == null || firstComment == null) && linecount < 20)
 		{
 			Matcher codeMatcher = codePattern.matcher(line);
 			if (codeMatcher.matches())
@@ -211,6 +213,7 @@ public class PolySENIE
 				}
 			}
 			line = reader.readLine();
+			linecount++;
 		}
 		reader.close();
 		return new String[] {sourceCode, bookCode, authorName, firstComment};
