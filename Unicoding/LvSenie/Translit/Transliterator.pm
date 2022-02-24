@@ -2,7 +2,12 @@ package LvSenie::Translit::Transliterator;
 use strict;
 use utf8;
 use warnings;
+# This is for unicode printing in comandline, windows enviroments need this.
+use open qw( :std :encoding(UTF-8) );
 
+# This should help ensure that strings are unicode-encoded internaly and uses unicode style regexp semantics?
+# Unsure.
+use Unicode::Semantics qw(up us);
 use IO::Dir;
 use IO::File;
 
@@ -18,6 +23,11 @@ our @EXPORT_OK = qw(transformFile transformDir);
 # unikoda transliteratora, te būtu jāiet cauri un viss jāpārstrādā tā, lai
 # sadarbojas ar vertikālo failu ģeneratoru, bet pieprasījums pēc testa datiem
 # ienāca ar pārāk īsu termiņu, viss paliek liels FIXME.
+
+
+# If this is nonzero, print debug info un lines matching this string.
+our $debugLine = 0;
+#our $debug_line = 'ißredſetees war';
 
 sub transformFile
 {
@@ -55,7 +65,8 @@ END
 	my $out = IO::File->new("$dirName/res/${fileName}/${fileName}_Unicode_translitered.txt", "> :encoding(UTF-8)")
 		or die "Could not open file $dirName/res/${fileName}/${fileName}_Unicode_translitered.txt: $!";
 
-	while (my $line = <$in>)
+	my $firstLine = 1;
+	while (my $line = up(<$in>))
 	{
 		# Some lines contain fields to be ignored.
 		unless (ignoreLine($line))
@@ -64,15 +75,35 @@ END
 			# we encode that text the same way as we encode already substituted
 			# text - each character is inclosed in \N{U+E001} and \N{U+E002}.
 			$line =~ s/(\@[1abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
+			my $print = ($debugLine and ($line =~ /$debugLine/));
+			my $ruleNo = 0;
+			if ($print)
+			{
+				print "$ruleNo: $line";
+				print "\n" unless $line =~ /\n$/;
+			}
 			for my $rulle (@table)
 			{
+				$ruleNo++;
+				my $prevline = $line;
 				my ($target, $subst, $iFlag) = @$rulle;
+				up ($target);
+				up ($subst);
+				warn "$ruleNo: $target->$subst lacks target part " if ($firstLine and not $target);
+				warn "$ruleNo: $target->$subst lacks replacement part " if ($firstLine and not $subst);
+
 				# Do not replace in "\@[a-z]{" fragments, and don't replace, what
 				# has already been escaped (denoted by $SPECIAL1 and $SPECIAL2)
 				$iFlag ?
 					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/g :
 					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/gi;
+				if ($print and $prevline ne $line)
+				{
+					print "$ruleNo: $line";
+					print "\n" unless $line =~ /\n$/;
+				}
 			}
+			$firstLine = 0;
 		}
 		# Remove all the special simbols we used for marking places
 		# where to avoid substitutions.
