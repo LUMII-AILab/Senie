@@ -29,7 +29,7 @@ sub loadCatalog
 		{
 			my $type = $1;
 			my $source = $2;
-			$source =~ tr#\t#/#;
+			$source =~ tr#\\#/#;
 			$result->{$source} = $type;
 		}
 	}
