@@ -1,4 +1,4 @@
-package LvSenie::Vert::IndexTypeCatalog;
+package LvSenie::Utils::IndexTypeCatalog;
 use strict;
 use utf8;
 use warnings;

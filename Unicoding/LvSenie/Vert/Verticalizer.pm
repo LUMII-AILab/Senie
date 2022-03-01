@@ -8,7 +8,7 @@ use IO::File;
 #use Data::Dumper;
 use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
-use LvSenie::Vert::IndexTypeCatalog qw(getIndexType);
+use LvSenie::Utils::IndexTypeCatalog qw(getIndexType);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -30,8 +30,8 @@ sub verticalizeDirs
 Script for transforming SENIE sources to Sketch-appropriate vertical format.
 
 Params:
-   endoding, expected cp1257 or UTF-8
    place for summarized result files
+   endoding, expected cp1257 or UTF-8
    data directories
 
 AILab, LUMII, 2020, provided under GPL
@@ -49,14 +49,17 @@ END
 	my $baddies = 0;
 	my $all = 0;
 
-	for my $dirName (@dirNames) {
+	for my $dirName (@dirNames)
+	{
 		my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 		mkdir "$dirName/res/";
 		#my $outForDir = IO::File->new("$dirName/res/all.vert", "> :encoding(UTF-8)")
 		#	or die "Could not open file $dirName/res/all.vert: $!";
 
-		while (defined(my $inFile = $dir->read)) {
-			if ((-f "$dirName/$inFile") and $inFile =~ /^(.*?)\.txt$/) {
+		while (defined(my $inFile = $dir->read))
+		{
+			if ((-f "$dirName/$inFile") and $inFile =~ /^(.*?)\.txt$/)
+			{
 				my $isBad = 0;
 				eval
 				{
@@ -101,7 +104,7 @@ filename stub + _vertical.txt. It is expected that file starts with lines
 Params:
    data directory
    source filename, e.g. Baum1699_LVV_Unicode.txt
-   endoding, expected cp1257 or UTF-8
+   encoding, expected cp1257 or UTF-8
    filehandle for dumping copy of the processed contents [optional]
 
 AILab, LUMII, 2020, provided under GPL
@@ -120,10 +123,13 @@ END
 
 	# Get general file info and indexing type
 	my $properties = getSourceProperties("$dirName/$fileName", $encoding);
-	my $indexType = getIndexType ($properties->{'z'}, $properties->{'g'});
-	my $fullSourceStub = $properties->{'z'};
-	$fullSourceStub = $fullSourceStub . "/" . $properties->{'g'} if (exists $properties->{'g'});
-	my $lowerSourceId = ($properties->{'g'} or $properties->{'z'});
+	my $fullSourceStub = $properties->{'full ID'};
+	#my $fullSourceStub = $properties->{'z'};
+	#$fullSourceStub = $fullSourceStub . "/" . $properties->{'g'} if (exists $properties->{'g'});
+	my $lowerSourceId = $properties->{'short ID'};
+	#my $lowerSourceId = ($properties->{'g'} or $properties->{'z'});
+	my $indexType = getIndexType ($properties->{'full ID'});
+	#my $indexType = getIndexType ($properties->{'z'}, $properties->{'g'});
 
 	# Prepare input
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
@@ -149,7 +155,7 @@ END
 		or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
 
 	# Doc header
-	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'a'}}\"", $outSingle, $outTotal);
+	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'author'}}\"", $outSingle, $outTotal);
 	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingle, $outTotal) if ($properties->{'year'});
 	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingle, $outTotal) if ($properties->{'cent'});
 	#print $out " commentary=\"${\$properties->{'k'}}\"" if (($indexType eq 'GNP' or $indexType eq 'GLR') and $properties->{'k'});
