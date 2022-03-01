@@ -174,9 +174,9 @@ sub printResult
     say $outHtml '  <meta http-equiv="content-type" content="text/html; charset=UTF-8">';
     say $outHtml '  <title>Simboli korpusā SENIE</title>';
     say $outHtml ' </head>';
-    say $outHtml ' <body>';
+    say $outHtml ' <body style="font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;">';
     say $outHtml '  <table>';
-    say $outHtml "   <tr><th>Simboli\br(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>";
+    say $outHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>";
 
 
     for my $key (sort {$symbolCounter->{$b}->[0] <=> $symbolCounter->{$a}->[0]} (keys %$symbolCounter))
@@ -191,7 +191,7 @@ sub printResult
         #my $codePoints = Unicode::Escape::escape($key);
         my $codePoints = sprintf("%vX", $key);
         say $outTxt "$key\t$count\t$codePoints\t$sources";
-        say $outHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td>$count</td><td>$codePoints</td><td style=\"font-size:smaller\">$sources</td></tr>";
+        say $outHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td><td style=\"font-size:smaller\">$sources</td></tr>";
     }
 
     say $outHtml '  </table>';
