@@ -3,6 +3,8 @@ PATH /corpora/data/senie_unicode
 VERTICAL /corpora/vert/senie_unicode.vert
 ENCODING "UTF-8"
 LANGUAGE "Latvian"
+INFOHREF "http://senie.korpuss.lv/"
+
 
 ATTRIBUTE sourceWord {
 	LABEL "Vārdforma avotā"
@@ -39,6 +41,9 @@ STRUCTURE doc {
 	}
 	ATTRIBUTE century {
 		LABEL "Gadsimts"
+	}
+	ATTRIBUTE external {
+		LABEL "Saite"
 	}
 }
 STRUCTURE page {

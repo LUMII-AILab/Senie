@@ -3,6 +3,7 @@ PATH /corpora/data/senie_sakotnejs
 VERTICAL /corpora/vert/senie_sakotnejs.vert
 ENCODING "UTF-8"
 LANGUAGE "Latvian"
+INFOHREF "http://senie.korpuss.lv/"
 
 
 ATTRIBUTE sourceWord {
@@ -40,6 +41,9 @@ STRUCTURE doc {
 	}
 	ATTRIBUTE century {
 		LABEL "Gadsimts"
+	}
+	ATTRIBUTE external {
+		LABEL "Saite"
 	}
 }
 STRUCTURE page {

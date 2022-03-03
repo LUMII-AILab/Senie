@@ -155,10 +155,12 @@ END
 		or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
 
 	# Doc header
+	my $urlPart = $properties->{'full ID'};
+	$urlPart =~ s/[\/]+/#/
 	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'author'}}\"", $outSingle, $outTotal);
 	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingle, $outTotal) if ($properties->{'year'});
 	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingle, $outTotal) if ($properties->{'cent'});
-	#print $out " commentary=\"${\$properties->{'k'}}\"" if (($indexType eq 'GNP' or $indexType eq 'GLR') and $properties->{'k'});
+	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingle, $outTotal);
 	&printInVerts(">\n", $outSingle, $outTotal);
 
 	# Counters for adreses
