@@ -156,7 +156,7 @@ END
 
 	# Doc header
 	my $urlPart = $properties->{'full ID'};
-	$urlPart =~ s/[\/]+/#/
+	$urlPart =~ s/[\/]+/#/;
 	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'author'}}\"", $outSingle, $outTotal);
 	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingle, $outTotal) if ($properties->{'year'});
 	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingle, $outTotal) if ($properties->{'cent'});
@@ -249,13 +249,18 @@ END
 				&printInVerts("</para>\n", $outSingle, $outTotal) if ($inVerse);
 				my $paraType = "Section";
 				$paraType = "Verse"if ($indexType eq 'GNP');
-				&printInVerts("<para no=\"$currentVerse\" type=\"$paraType\">\n", $outSingle, $outTotal);
+				&printInVerts("<para no=\"$currentVerse\" type=\"$paraType\" address=\"${fullSourceStub}_", $outSingle, $outTotal);
+				&printInVerts("${currentChapter}:", $outSingle, $outTotal) if($indexType eq 'GNP');
+				&printInVerts("${currentVerse}\">\n", $outSingle, $outTotal);
 				$inVerse = 1;
 				$currentWord = 0;
 			}
-			&printInVerts("<line>\n", $outSingle, $outTotal);
-			my $firstWord = 1;
+			&printInVerts("<line", $outSingle, $outTotal);
 			$currentLine++;
+			&printInVerts(" no=\"$currentLine\" address=\"${fullSourceStub}_${currentPage}_${currentLine}\"", $outSingle, $outTotal)
+				if ($indexType eq 'LR' or $indexType eq 'GLR');
+			&printInVerts(">\n", $outSingle, $outTotal);
+			my $firstWord = 1;
 			$currentWord = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
 			my $lineParts = &splitByLang($line);
 			for my $linePart (@$lineParts)
@@ -290,7 +295,7 @@ END
 					$address = "$address${currentChapter}:" if($indexType eq 'GNP');
 					$address = "$address${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
 					$address = "$address${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
-					#$address = "$address_$currentWord"; #Everita pašlaik negrib vārda numuru
+					$address = "${address}_$currentWord"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
 					&printInVerts(join("\t", @{&splitCorrection($token, $address)}), $outSingle, $outTotal);
 					&printInVerts("\t$address\n", $outSingle, $outTotal);
 					$firstWord = 0;

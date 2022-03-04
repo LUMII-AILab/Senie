@@ -63,11 +63,17 @@ STRUCTURE para {
 	ATTRIBUTE type {
 		LABEL "Rindkopas veids"
 	}
+	ATTRIBUTE address {
+		LABEL "Panta adrese"
+	}
 }
 STRUCTURE line {
 	LABEL "Rinda"
 	DISPLAYTAG 0
 	DISPLAYEND "<br/>"
+	ATTRIBUTE address {
+		LABEL "Rindas adrese"
+	}
 }
 STRUCTURE language {
 	LABEL "Valoda"
