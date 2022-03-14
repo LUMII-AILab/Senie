@@ -1,12 +1,5 @@
 Vârdformu skaits:	6327
-Vârdlietojumu skaits:	37533
-
-
-{pat tei tzibu}
-
-	1 Manc1643_LGL 304.lpp. 9.r.
-	-----
-	1
+Vârdlietojumu skaits:	37535
 
 
 a
@@ -5174,7 +5167,7 @@ baggatu
 	3
 
 
-baggatu{baggutu}laiku
+baggatu{baggutu}
 
 	1 Manc1643_LGL 235.lpp. 18.r.
 	-----
@@ -27172,6 +27165,7 @@ laiku
 
 	1 Manc1643_LGL 222.lpp. 33.r.
 	1 Manc1643_LGL 227.lpp. 28.r.
+	1 Manc1643_LGL 235.lpp. 18.r.
 	1 Manc1643_LGL 235.lpp. 21.r.
 	1 Manc1643_LGL 240.lpp. 28.r.
 	1 Manc1643_LGL 265.lpp. 12.r.
@@ -27194,7 +27188,7 @@ laiku
 	1 Manc1643_LGL 383.lpp. 6.r.
 	1 Manc1643_LGL 401.lpp. 32.r.
 	-----
-	23
+	24
 
 
 laim
@@ -33017,7 +33011,7 @@ muh§chige
 	90
 
 
-muh§chige{mu§chige}pa§u§ta
+muh§chige{mu§chige}
 
 	1 Manc1643_LGL 371.lpp. 12.r.
 	-----
@@ -42584,8 +42578,9 @@ pa§u§t
 pa§u§ta
 
 	1 Manc1643_LGL 288.lpp. 3.r.
+	1 Manc1643_LGL 371.lpp. 12.r.
 	-----
-	1
+	2
 
 
 pa§u§ti
@@ -42962,7 +42957,6 @@ patteitzibu
 	1 Manc1643_LGL 241.lpp. 14.r.
 	1 Manc1643_LGL 248.lpp. 31.r.
 	1 Manc1643_LGL 304.lpp. 2.r.
-	1 Manc1643_LGL 304.lpp. 9.r.
 	1 Manc1643_LGL 313.lpp. 17.r.
 	1 Manc1643_LGL 323.lpp. 2.r.
 	1 Manc1643_LGL 381.lpp. 5.r.
@@ -42970,7 +42964,14 @@ patteitzibu
 	1 Manc1643_LGL 412.lpp. 23.r.
 	1 Manc1643_LGL 413.lpp. 20.r.
 	-----
-	12
+	11
+
+
+patteitzibu{pat tei tzibu}
+
+	1 Manc1643_LGL 304.lpp. 9.r.
+	-----
+	1
 
 
 patteitzigu
@@ -49245,7 +49246,7 @@ satziya
 	11
 
 
-úatziya{úatziyn}taß
+úatziya{úatziyn}
 
 	1 Manc1643_LGL 251.lpp. 33.r.
 	-----
@@ -58160,6 +58161,7 @@ taß
 	1 Manc1643_LGL 251.lpp. 15.r.
 	1 Manc1643_LGL 251.lpp. 18.r.
 	1 Manc1643_LGL 251.lpp. 31.r.
+	1 Manc1643_LGL 251.lpp. 33.r.
 	1 Manc1643_LGL 252.lpp. 7.r.
 	1 Manc1643_LGL 252.lpp. 19.r.
 	1 Manc1643_LGL 252.lpp. 25.r.
@@ -58446,7 +58448,7 @@ taß
 	1 Manc1643_LGL 395.lpp. 29.r.
 	1 Manc1643_LGL 397.lpp. 32.r.
 	-----
-	459
+	460
 
 
 taß{tvß}

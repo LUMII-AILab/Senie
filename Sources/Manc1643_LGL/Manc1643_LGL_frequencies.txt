@@ -1,5 +1,5 @@
 Vârdformu skaits:	7064
-Vârdlietojumu skaits:	37533
+Vârdlietojumu skaits:	37535
 
 
 967	vnd
@@ -16,7 +16,7 @@ Vârdlietojumu skaits:	37533
 325	Ka
 311	mann
 310	tawu
-308	taß
+309	taß
 297	mehs
 293	ka
 217	O
@@ -372,6 +372,7 @@ Vârdlietojumu skaits:	37533
 15	Konings
 15	labpraht
 15	Laika`
+15	Laiku
 15	man~
 15	mannus
 15	pa
@@ -395,7 +396,6 @@ Vârdlietojumu skaits:	37533
 14	E§úi
 14	ghull
 14	Kungu
-14	Laiku
 14	Mannu
 14	näß
 14	nheneeka
@@ -530,7 +530,6 @@ Vârdlietojumu skaits:	37533
 10	Och
 10	Paddomu
 10	Patteitziba
-10	Patteitzibu
 10	preezayahs
 10	prettieb
 10	úatziya
@@ -578,6 +577,7 @@ Vârdlietojumu skaits:	37533
 9	pa§tara`
 9	pa§uddu§chi
 9	pattee§úu
+9	Patteitzibu
 9	Pe§ti§chana
 9	Pe§ti§chanas
 9	úackam
@@ -2262,6 +2262,7 @@ Vârdlietojumu skaits:	37533
 2	pa§uddis
 2	pa§uddu§úi
 2	pa§u§t
+2	pa§u§ta
 2	pa§u§ts
 2	pateitzam
 2	pattee§úa
@@ -2663,7 +2664,6 @@ Vârdlietojumu skaits:	37533
 2	87
 2	94
 2	95
-1	{Pat tei tzibu}
 1	abbediwi
 1	abbeem
 1	abbejadu
@@ -3087,7 +3087,7 @@ Vârdlietojumu skaits:	37533
 1	baggate
 1	baggati
 1	baggatiba
-1	baggatu{baggutu}Laiku
+1	baggatu{baggutu}
 1	baggatz
 1	bagghahtz
 1	bagghatz
@@ -4783,7 +4783,7 @@ Vârdlietojumu skaits:	37533
 1	Muh§chiegs
 1	muh§chiegu
 1	muh§chiga`
-1	muh§chige{mu§chige}pa§u§ta
+1	muh§chige{mu§chige}
 1	muh§chigeem
 1	muh§chigs
 1	muh§chohs
@@ -5360,7 +5360,6 @@ Vârdlietojumu skaits:	37533
 1	pa§uddu§§chi
 1	pa§uhd
 1	pa§uhdam
-1	pa§u§ta
 1	pa§u§ti
 1	Patagam
 1	Patagu
@@ -5385,6 +5384,7 @@ Vârdlietojumu skaits:	37533
 1	Patteitzam
 1	Patteitzeta
 1	Patteitzibas
+1	Patteitzibu{Pat tei tzibu}
 1	Patteitzigu
 1	patteitzo
 1	patteizu
@@ -5919,7 +5919,7 @@ Vârdlietojumu skaits:	37533
 1	úatzitu
 1	Satziya
 1	Úatziya
-1	úatziya{úatziyn}taß
+1	úatziya{úatziyn}
 1	úauds
 1	Úauds
 1	úaud§ehß
