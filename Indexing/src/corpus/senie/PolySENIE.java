@@ -19,6 +19,7 @@ public class PolySENIE
 {
 	protected Params p = new Params();
 	protected Map<String, IndexType> indexSpec;
+	protected Map<String, String> shortNameSpec;
 
 	public static void main(String[] args) throws IOException
 	{
@@ -63,7 +64,7 @@ public class PolySENIE
 			}
 		}
 
-		wrapper.loadIndexSpec(out);
+		wrapper.loadAdditionalSpecs(out);
 
 		File resTxtDir = new File("result-txt");
 		File resHtmlDir = new File("result-html");
@@ -124,34 +125,25 @@ public class PolySENIE
 	{
 		out.println();
 		out.println("Apstrādā failu " + fileName.getName() + "...");
-		String[] fileParams = getParamsFromFile(fileName.getPath());
-		out.print("  Avots: " + fileParams[0]);
-		if (fileParams[1] != null) out.print(", grāmata: " + fileParams[1]);
-		out.print(", autors: " + fileParams[2]);
-		if (fileParams[3] != null) out.print(", virsraksts: " + fileParams[3]);
+		FileProperties fileProperties = getParamsFromFile(fileName.getPath());
+		String shortTitle = shortNameSpec.get(fileProperties.fullSourceId);
+		out.print("  Avots: " + fileProperties.fullSourceId);
+		out.print(", autors: " + fileProperties.author);
+		if (shortTitle != null) out.print(", virsraksts: " + shortTitle);
 		out.println();
+		IndexType iType = indexSpec.get(fileProperties.fullSourceId);
+		out.println("  Indeksa veids: " + iType);
+
 		Files.copy(fileName.toPath(), FileSystems.getDefault().getPath(".", fileName.getName()), StandardCopyOption.REPLACE_EXISTING);
-		if (fileParams[1] != null)
-		{
-			IndexType iType = indexSpec.get(fileParams[0] + "/" + fileParams[1]);
-			out.println("  Indeksa veids: " + iType);
-			MonoSENIE.fullNondbProcessing(iType, fileParams[1], fileParams[0], fileParams[2], fileParams[3], out);
-		}
-		else
-		{
-			IndexType iType = indexSpec.get(fileParams[0]);
-			out.println("  Indeksa veids: " + iType);
-			MonoSENIE.fullNondbProcessing(iType, fileParams[0], null, fileParams[2], fileParams[3], out);
-		}
+		MonoSENIE.fullNondbProcessing(iType, fileProperties.shortSourceId, fileProperties.collectionId, fileProperties.author, shortTitle, out);
 
 		for (File resultFile : (new File(".")).listFiles(File::isFile))
 		{
 			String resultFileName = resultFile.getName();
-			String fileCodeStub = fileParams[1] == null ? fileParams[0] : fileParams[1];
-			if (resultFileName.startsWith(fileCodeStub))
+			if (resultFileName.startsWith(fileProperties.shortSourceId))
 			{
-				if (resultFileName.equals(fileCodeStub + "_log.txt") && isLogFileEmpty(resultFile) ||
-						resultFileName.equals(fileCodeStub + "_indexed.htm"))
+				if (resultFileName.equals(fileProperties.shortSourceId + "_log.txt") && isLogFileEmpty(resultFile) ||
+						resultFileName.equals(fileProperties.shortSourceId + "_indexed.htm"))
 				{
 					System.out.println ("Deleting " + resultFileName);
 					Path target = FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName());
@@ -164,7 +156,7 @@ public class PolySENIE
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(htmlResultDir.getPath(), resultFile.getName()),
 							StandardCopyOption.REPLACE_EXISTING);
-				else if (resultFileName.equals(fileCodeStub + ".txt"))
+				else if (resultFileName.equals(fileProperties.shortSourceId + ".txt"))
 					//Files.delete(resultFile.toPath());
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName()),
@@ -185,19 +177,18 @@ public class PolySENIE
 	 * @return array with @z field, @g field, @a field and @k field in that order
 	 * @throws IOException
 	 */
-	public static String[] getParamsFromFile(String filePath)
+	public static FileProperties getParamsFromFile(String filePath)
 	throws IOException
 	{
 		if(filePath == null) return null;
-		String authorName = null;
+		FileProperties result = new FileProperties();
 		String sourceCode = null;
 		String bookCode = null;
-		String firstComment = null;
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(filePath), "Cp1257"));
 		Pattern codePattern = Pattern.compile(".*?@([agzk])\\{([^}]+)\\}.*");
 		String line = reader.readLine();
 		int linecount = 0;
-		while (line != null && (authorName == null || sourceCode == null || bookCode == null || firstComment == null) && linecount < 20)
+		while (line != null && (result.author == null || sourceCode == null || bookCode == null || result.firstComment == null) && linecount < 20)
 		{
 			Matcher codeMatcher = codePattern.matcher(line);
 			if (codeMatcher.matches())
@@ -206,17 +197,32 @@ public class PolySENIE
 				String value = codeMatcher.group(2);
 				switch (code)
 				{
-					case "a" : authorName = value; break;
+					case "a" : result.author = value; break;
 					case "g" : bookCode = value; break;
 					case "z" : sourceCode = value; break;
-					case "k" : if (firstComment == null || firstComment.isEmpty()) firstComment = value; break;
+					case "k" : if (result.firstComment == null || result.firstComment.isEmpty())
+						result.firstComment = value; break;
 				}
 			}
 			line = reader.readLine();
 			linecount++;
 		}
+		if (bookCode == null || bookCode.trim().isEmpty())
+		{
+			result.shortSourceId = sourceCode;
+			result.fullSourceId = sourceCode;
+			result.bookId = null;
+			result.collectionId = null;
+		} else
+		{
+			result.shortSourceId = bookCode;
+			result.bookId = bookCode;
+			result.fullSourceId = sourceCode + "/" + bookCode;
+			result.collectionId = sourceCode;
+		}
 		reader.close();
-		return new String[] {sourceCode, bookCode, authorName, firstComment};
+		return result;
+		//return new String[] {sourceCode, bookCode, authorName, firstComment};
 	}
 
 	/**
@@ -224,22 +230,26 @@ public class PolySENIE
 	 * @param out	output stream for non-fatal complaints
 	 * @throws IOException
 	 */
-	public void loadIndexSpec(PrintStream out)
+	public void loadAdditionalSpecs(PrintStream out)
 	throws IOException
 	{
 		indexSpec = new HashMap<>();
+		shortNameSpec = new HashMap<>();
 		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(p.indexSpecPath)));
 		String line = reader.readLine();
 		while (line != null)
 		{
 			if (!line.isEmpty())
 			{
-				String[] parts = line.split("\t", 2);
-				if (parts.length < 2)
+				String[] parts = line.split("\t");
+				if (parts.length < 3)
 					out.println("Indeksācijas failā ir nesaprotama rinda: " + line);
-				else indexSpec.put(
-						parts[1].replace("\t", "/").trim(),
-						IndexType.getByStringCode(parts[0]));
+				else
+				{
+					String sourceCode = parts[1].replace("\\", "/").trim();
+					indexSpec.put(sourceCode, IndexType.getByStringCode(parts[0]));
+					shortNameSpec.put(sourceCode, parts[2]);
+				}
 			}
 			line = reader.readLine();
 		}
@@ -286,5 +296,15 @@ public class PolySENIE
 		 * This is used to skip Bible prefaces etc.
 		 */
 		public boolean ignoreProlog = false;
+	}
+
+	public static class FileProperties
+	{
+		public String author;
+		public String fullSourceId;
+		public String shortSourceId;
+		public String collectionId;
+		public String bookId;
+		public String firstComment;
 	}
 }

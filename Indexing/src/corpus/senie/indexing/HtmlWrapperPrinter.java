@@ -14,16 +14,16 @@ public class HtmlWrapperPrinter {
     /**
      * Constructor.
      *
-     * @param source - codificator of source text, will be used as absolute file name for HtmlWrapperPrinter results.
+     * @param shortSourceId - codificator of source text, will be used as absolute file name for HtmlWrapperPrinter results.
      */
-    public HtmlWrapperPrinter(String source, String collection) throws IOException {
+    public HtmlWrapperPrinter(String shortSourceId, String collection) throws IOException {
         //super();
         this.collection = collection;
-        this.source = source;
-        if (collection == null || collection.trim().isEmpty()) collection = source;
+        this.source = shortSourceId;
+        if (collection == null || collection.trim().isEmpty()) collection = shortSourceId;
         //reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
-        html = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + ".html"), "Cp1257"));
-        titleHtm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + "_title.htm"), "Cp1257"));
+        html = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + ".html"), "Cp1257"));
+        titleHtm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + "_title.htm"), "Cp1257"));
         //log = new Logger(source, "TEKSTA MARĶĒŠANA UN GRĀMATZĪMJU SALIKŠANA", true);
     }
 
