@@ -98,13 +98,16 @@ public class Contexter extends Recognizer {
 	/**
 	 * Constructor.
 	 *
-	 * @param source codificator of source text, will be used as absolute file name for Contexter results.
-	 */
-	public Contexter(String source) throws IOException {
+	 * @param source		codificator of source text, will be used as
+	 *                      absolute file name for Contexter results.
+	 * @param collection	codificator of text collection, or null, will be
+	 *                      used for Marker.
+	 **/
+	public Contexter(String source, String collection) throws IOException {
 		super();
 
 		text = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
-		marker = new Marker(source);
+		marker = new Marker(source, collection);
 		log = new Logger(source, "KONTEKSTU ATDALĪŠANA, MARĶĒŠANA UN IEVIETOŠANA DATUBĀZĒ", true);
 		db = new DBManager();
 	}

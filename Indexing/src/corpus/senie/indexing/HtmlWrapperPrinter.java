@@ -1,6 +1,7 @@
 package corpus.senie.indexing;
 
 import java.io.*;
+import java.nio.charset.StandardCharsets;
 
 public class HtmlWrapperPrinter {
 
@@ -20,10 +21,10 @@ public class HtmlWrapperPrinter {
         //super();
         this.collection = collection;
         this.source = shortSourceId;
-        if (collection == null || collection.trim().isEmpty()) collection = shortSourceId;
+        //if (collection == null || collection.trim().isEmpty()) collection = shortSourceId;
         //reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
         html = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + ".html"), "Cp1257"));
-        titleHtm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + "_title.htm"), "Cp1257"));
+        titleHtm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + "_title.htm"), StandardCharsets.UTF_8));
         //log = new Logger(source, "TEKSTA MARĶĒŠANA UN GRĀMATZĪMJU SALIKŠANA", true);
     }
 
@@ -61,8 +62,14 @@ public class HtmlWrapperPrinter {
         titleHtm.write(
                 "<html>\n" +
                 "\t<head>\r\n" +
-                "\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1257\">\r\n" +
-                "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"./title.css\">\r\n" +
+                "\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n");
+
+        if (collection == null || collection.trim().isEmpty()) titleHtm.write(
+                "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../title.css\">\r\n");
+        else titleHtm.write(
+                "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../../title.css\">\r\n");
+
+        titleHtm.write(
                 "\t</head>\r\n" +
                 "\r\n" +
                 "\t<body>\r\n" +
@@ -71,9 +78,14 @@ public class HtmlWrapperPrinter {
                 "\t\t<table border=\"0\" width=\"100%\" cellpadding=\"0\" cellspacing=\"0\">\r\n" +
                 "\t\t<tr>\r\n" +
                 "\t\t\t<td><p class=\"statistic\">Vārdformas: <b>" + wordformsLC + "</b>, vārdlietojumi: <b>" + wordsLC +"</b> (reģistrnejūtība).</p></td>\r\n" +
-                "\t\t\t<td><p class=\"navig\">\r\n" +
-                "\t\t\t\t<a href=\"../source.jsp?codificator=" + collection + "\" class=\"button\" target=\"_top\">&nbsp;" + collection + "&nbsp;</a>&nbsp;\r\n" +
-                "\t\t\t\t<a href=\"../senie.jsp\" class=\"button\" target=\"_top\">&nbsp;SĀKUMLAPA&nbsp;</a>\r\n" +
+                "\t\t\t<td><p class=\"navig\">\r\n");
+        if (collection == null || collection.trim().isEmpty()) titleHtm.write(
+                "\t\t\t\t<a href=\"../../source.jsp?codificator=" + source + "\" class=\"button\" target=\"_top\">&nbsp;" + source + "&nbsp;</a>&nbsp;\r\n" +
+                "\t\t\t\t<a href=\"../../senie.jsp\" class=\"button\" target=\"_top\">&nbsp;SĀKUMLAPA&nbsp;</a>\r\n");
+        else titleHtm.write(
+                "\t\t\t\t<a href=\"../../../source.jsp?codificator=" + collection + "\" class=\"button\" target=\"_top\">&nbsp;" + collection + "&nbsp;</a>&nbsp;\r\n" +
+                        "\t\t\t\t<a href=\"../../../senie.jsp\" class=\"button\" target=\"_top\">&nbsp;SĀKUMLAPA&nbsp;</a>\r\n");
+        titleHtm.write(
                 "\t\t\t</p></td>\r\n" +
                 "\t\t</tr>\r\n" +
                 "\t\t</table>\r\n" +

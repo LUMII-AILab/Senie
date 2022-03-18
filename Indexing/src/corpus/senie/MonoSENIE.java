@@ -33,11 +33,11 @@ public class MonoSENIE {
 		String confirm = "";
 		boolean loop = true;
 
-		String collection = "";
-		String name = "";
-		String title = "";
-
 		do {
+			String collection = "";
+			String name = "";
+			String title = "";
+
 			out.println("Ievadiet veicamo uzdevumu: ");
 			out.println("(1) tīrīšana & pārbaude");
 			out.println("(2) savilkšana");
@@ -114,15 +114,15 @@ public class MonoSENIE {
 								out.println("[E] DB kļūda: nav atrasts autors '" + name + "'");
 							}
 							
-							String source_prim = source;
-							if (pos == 1) {
+							collection = source;
+							if (pos == 1 || pos == 4) {
 								out.print("Ievadiet virsavota kodu: ");
-								source_prim = input.readLine().trim();
-								out.println("");
+								collection = input.readLine().trim();
+								out.println();
 							}
 							
-							if (!indexer.setSource(source_prim)) {
-								out.println("[E] DB kļūda: nav atrasts avots '" + source_prim + "'");
+							if (!indexer.setSource(collection)) {
+								out.println("[E] DB kļūda: nav atrasts avots '" + collection + "'");
 							}
 						}
 					}
@@ -136,7 +136,7 @@ public class MonoSENIE {
 					out.println("Darīts.");
 					out.println("");
 					out.print("Indekss tiek rakstīts HTML failā... ");
-					indexer.storeHTML(lower);
+					indexer.storeHTML(lower, pos == 1 || pos == 4);
 					out.println("Darīts.");
 					out.println("");
 
@@ -189,7 +189,13 @@ public class MonoSENIE {
 					out.println("+-----------------------------------+");
 					out.println("");
 
-					Contexter contexter = new Contexter(source);
+					if (pos == 1 || pos == 4) {
+						out.print("Ievadiet virsavota kodu: ");
+						collection = input.readLine().trim();
+						out.println();
+					}
+
+					Contexter contexter = new Contexter(source, collection);
 					contexter.dbConnect("//localhost:3306/senie", "senie", "corpsbase03");
 					if (contexter.dbConnected()) {
 						if (indexType == null)
@@ -209,7 +215,14 @@ public class MonoSENIE {
 					out.println("+-------------------------------------------+");
 					out.println("");
 
-					Marker marker = new Marker(source);
+					//String source_prim = null;
+					if (pos == 1 || pos == 4) {
+						out.print("Ievadiet virsavota kodu: ");
+						collection = input.readLine().trim();
+						out.println();
+					}
+
+					Marker marker = new Marker(source, collection);
 					if (indexType == null)
 						out.println("[E] Adresācijas struktūra nav definēta!");
 					else marker.markup(indexType);
@@ -228,7 +241,7 @@ public class MonoSENIE {
 					name = input.readLine().trim();
 					out.print("Ievadiet avota nosaukumu: ");
 					title = input.readLine().trim();
-					out.print("Ievadiet avotu ietverošo kolekciju): ");
+					out.print("Ievadiet virsavota kodu: ");
 					collection = input.readLine().trim();
 					out.print("Ievadiet vārdformu skaitu (reģistrinejūtīgo): ");
 					String wordforms = input.readLine().trim();
@@ -294,7 +307,7 @@ public class MonoSENIE {
 		Indexer indexer = new Indexer(source);
 		stepSuccess = indexer.index(indexType, source, author, false, false);
 		indexer.storePlaintext(false);
-		indexer.storeHTML(false);
+		indexer.storeHTML(false, collection == null || collection.trim().isEmpty());
 		indexer.storeFrequencies(false);
 		indexer.close();
 		if (!stepSuccess)
@@ -309,7 +322,7 @@ public class MonoSENIE {
 		int wordformsLC = indexer.countWF();
 		int wordsLC = indexer.countRW();
 		indexer.storePlaintext(true);
-		indexer.storeHTML(true);
+		indexer.storeHTML(true, collection == null || collection.trim().isEmpty());
 		indexer.storeFrequencies(true);
 		indexer.close();
 		if (!stepSuccess)
@@ -330,7 +343,7 @@ public class MonoSENIE {
 		}
 
 		out.println("Teksta marķēšana un grāmatzīmju salikšana.");
-		Marker marker = new Marker(source);
+		Marker marker = new Marker(source, collection);
 		stepSuccess = marker.markup(indexType);
 		marker.close();
 		if (!stepSuccess)

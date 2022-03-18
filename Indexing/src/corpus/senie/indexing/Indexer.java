@@ -955,8 +955,9 @@ public class Indexer extends Recognizer {
 	 * Developed for demo version, must be used only for single source index.
 	 *
 	 * @param lower - true if index is in lower case, false otherwise.
+	 * @param inCollection true, if this source
 	 */
-	public void storeHTML(boolean lower) throws IOException {
+	public void storeHTML(boolean lower, boolean inCollection) throws IOException {
 		String fname = (lower) ? abssrc + "_indexed_lower.htm" : abssrc + "_indexed.htm";
 		String target = abssrc + "_marked.htm";
 
@@ -964,7 +965,10 @@ public class Indexer extends Recognizer {
 
 		writer.write("<html>\n<head>\n");
 		writer.write("<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1257\">\n");
-		writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"./index.css\">\n");
+		if (!inCollection)
+			writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../index.css\">\n");
+		else
+			writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../index.css\">\n");
 		writer.write("</head>\n<body>\n<pre>\n");
 
 		writer.write("Vārdformu skaits: <b>"+countWF()+"</b>\n");

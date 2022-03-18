@@ -103,9 +103,12 @@ public class Marker extends Recognizer {
 	/**
 	 * Constructor.
 	 * 
-	 * @param source codificator of source text, will be used as absolute file name for Marker results.
+	 * @param source		codificator of source text, will be used as
+	 *                      absolute file name for Marker results.
+	 * @param collection	codificator of text collection, or null, will be
+	 *                      used to indicate path to css files in the html.
 	 */
-	public Marker(String source) throws IOException {
+	public Marker(String source, String collection) throws IOException {
 		super();
 
 		text = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
@@ -113,7 +116,10 @@ public class Marker extends Recognizer {
 
 		html.write("<html>\n<head>\n");
 		html.write("<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1257\">\n");
-		html.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"./source.css\">\n");
+		if (collection == null || collection.trim().isEmpty())
+			html.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../source.css\">\n");
+		else
+			html.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../source.css\">\n");
 		html.write("</head>\n<body>\n");
 		html.write("<table align=\"center\" border=\"0\" width=\"80%\"><tr><td>\n");
 

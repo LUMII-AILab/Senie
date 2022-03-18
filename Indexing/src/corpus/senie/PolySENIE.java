@@ -15,6 +15,8 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
 
+// TODO: kā saskaitīt statistiku veselai kolekcijai?
+
 public class PolySENIE
 {
 	protected Params p = new Params();
@@ -235,7 +237,7 @@ public class PolySENIE
 	{
 		indexSpec = new HashMap<>();
 		shortNameSpec = new HashMap<>();
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(p.indexSpecPath)));
+		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(p.indexSpecPath), StandardCharsets.UTF_8));
 		String line = reader.readLine();
 		while (line != null)
 		{
