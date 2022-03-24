@@ -303,9 +303,11 @@ public class MonoSENIE {
 			System.out.println("\tNeizdevās!");
 		}
 
-		out.println("Vārdformu indeksēšana un statistika, reģistrjūtīga.");
+		out.println("Vārdformu indeksēšana un statistika, reģistrjūtīga, visiem autoriem.");
 		Indexer indexer = new Indexer(source);
-		stepSuccess = indexer.index(indexType, source, author, false, false);
+		// Priekš neDB apstrādes vajag, lai indeksē visus autorus, tapēc te
+		// nedrīkst norādīt konkrētu autoru.
+		stepSuccess = indexer.index(indexType, source, "", false, false);
 		indexer.storePlaintext(false);
 		indexer.storeHTML(false, collection == null || collection.trim().isEmpty());
 		indexer.storeFrequencies(false);
@@ -316,9 +318,11 @@ public class MonoSENIE {
 			System.out.println("\tNeizdevās!");
 		}
 
-		out.println("Vārdformu indeksēšana un statistika, reģistrnejūtīga.");
+		out.println("Vārdformu indeksēšana un statistika, reģistrnejūtīga, visiem autoriem.");
 		indexer = new Indexer(source);
-		stepSuccess = indexer.index(indexType, source, author, true, false);
+		// Priekš neDB apstrādes vajag, lai indeksē visus autorus, tapēc te
+		// nedrīkst norādīt konkrētu autoru.
+		stepSuccess = indexer.index(indexType, source, "", true, false);
 		int wordformsLC = indexer.countWF();
 		int wordsLC = indexer.countRW();
 		indexer.storePlaintext(true);

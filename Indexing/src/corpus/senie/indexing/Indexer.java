@@ -444,13 +444,17 @@ public class Indexer extends Recognizer {
 	 * Wrapper for invoking any of indexX methods by given indexation type.
 	 * @param type	source indexing type
 	 * @param src	source codificator
-	 * @param auth	author's name
+	 * @param auth	author's name; if empty, author is ignored
 	 * @param lower	if true, converts all running words to lower case before updating the index
 	 * @return true, if any method was called
 	 */
 	public boolean index (IndexType type, String src, String auth, boolean lower, boolean db)
 	throws IOException
 	{
+		// TODO: maybe this should be moved further down the line?
+		// Indexer was built with cli interface with mind, thus,
+		// it relies on not having to deal with null arguments.
+		if (auth == null) auth = "";
 		switch (type)
 		{
 			case GNP: indexGNP(src, auth, lower, db); return true;
@@ -468,7 +472,7 @@ public class Indexer extends Recognizer {
 	 * Positioning structure: book->chapter->verse.
 	 *
 	 * @param src - source codificator.
-	 * @param auth - author's name.
+	 * @param auth - author's name; if empty, author is ignored.
 	 * @param lower - if true, converts all running words to lower case before updating the index.
 	 */
 	public void indexGNP(String src, String auth, boolean lower, boolean db) throws IOException {
@@ -488,7 +492,7 @@ public class Indexer extends Recognizer {
 		// Author's name must be on first line
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (mAuthor.matches()) {
-			if (mAuthor.group(1).equals(auth)) process = true;
+			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
 		} else {
 			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
 		}
@@ -500,6 +504,9 @@ public class Indexer extends Recognizer {
 		} else {
 			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
 		}
+
+		if (!lower && db && auth.equals(""))
+			log.append(Logger.SUSPICIOUS, "datubāzē mēģinās ielikt GNP indeksētu avotu, nezinot autoru!");
 
 		while ((line = reader.readLine()) != null) {
 			Matcher mBook = getBookPattern().matcher(line);
@@ -529,7 +536,7 @@ public class Indexer extends Recognizer {
 				chapter = Integer.parseInt(mChapter.group(1));
 			}
 			else if (mAuthor.matches()) {
-				if (mAuthor.group(1).equals(auth)) {
+				if (mAuthor.group(1).equals(auth) || auth.equals("")) {
 					// Indexes only fragments written by the given author
 					process = true;
 				} else {
@@ -743,9 +750,11 @@ public class Indexer extends Recognizer {
 	/**
 	 * Indexes all running words from the given unhyphened source text.
 	 * Positioning structure: verse.
+	 * Note: 10 years latter added posibility to index even if author is "",
+	 * however, if DB insert is tried in such case, it produces warning.
 	 *
 	 * @param src - source codificator.
-	 * @param auth - author's name.
+	 * @param auth - author's name; if empty, author is ignored.
 	 * @param lower - if true, converts all running words to lower case before updating the index.
 	 */
 	public void indexP(String src, String auth, boolean lower, boolean db) throws IOException {
@@ -762,7 +771,7 @@ public class Indexer extends Recognizer {
 		// Author's name must be on first line
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (mAuthor.matches()) {
-			if (mAuthor.group(1).equals(auth)) process = true;
+			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
 		} else {
 			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
 		}
@@ -780,7 +789,7 @@ public class Indexer extends Recognizer {
 			mAuthor = getAuthorPattern().matcher(line);
 
 			if (mAuthor.matches()) {
-				if (mAuthor.group(1).equals(auth)) {
+				if (mAuthor.group(1).equals(auth) || auth.equals("")) {
 					// Indexes only fragments written by the given author
 					process = true;
 				} else {
@@ -809,7 +818,12 @@ public class Indexer extends Recognizer {
 			}
 		}
 
-		if (plain.length() > 1 && !lower && db) insPlainP(plain.toString(), verse);
+		if (plain.length() > 1 && !lower && db)
+		{
+			if (auth.equals(""))
+				log.append(Logger.SUSPICIOUS, "datubāzē mēģina ielikt P indeksētu avotu, nezinot autoru!");
+			insPlainP(plain.toString(), verse);
+		}
 
 		reader.close();
 	}
