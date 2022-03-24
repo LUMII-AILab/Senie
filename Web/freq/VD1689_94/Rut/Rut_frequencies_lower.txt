@@ -1,5 +1,7 @@
-774
-2404
+Vârdformu skaits:	774
+Vârdlietojumu skaits:	2404
+
+
 172	un
 52	tad
 48	úazzija
@@ -88,7 +90,6 @@
 5	úcho
 5	tawa
 5	weenu
-4	1
 4	arri
 4	darra
 4	dewe
@@ -115,8 +116,7 @@
 4	wahrdu
 4	wahrpas
 4	weena
-3	6
-3	§trahdajúi
+4	1
 3	apúehdehs
 3	atgree§eetees
 3	atgree§tees
@@ -150,6 +150,7 @@
 3	úawas
 3	úchis
 3	semmes
+3	§trahdajúi
 3	tahm
 3	tapehz
 3	tawas
@@ -165,11 +166,7 @@
 3	wiús
 3	zehlahs
 3	zitta
-2	10
-2	14
-2	17
-2	18
-2	§innams
+3	6
 2	abbee
 2	ap
 2	apgullahs
@@ -183,7 +180,6 @@
 2	balkúni
 2	boaúu
 2	buhtu
-2	d§emdejúi
 2	darriúchu
 2	daud§
 2	deews
@@ -191,6 +187,7 @@
 2	deúmits
 2	dewis
 2	dohd
+2	d§emdejúi
 2	duúúeúchanu
 2	eita
 2	elimeleka
@@ -262,6 +259,7 @@
 2	semmi
 2	úeúchus
 2	úew
+2	§innams
 2	úwehtits
 2	tai
 2	tappe
@@ -288,28 +286,10 @@
 2	wiúúuwarrenajs
 2	zeldams
 2	zelts
-1	3
-1	4
-1	11
-1	12
-1	15
-1	16
-1	20
-1	§chehl
-1	§chehligu
-1	§innamu
-1	§inni
-1	§innu
-1	§kuhp§ija
-1	§kuhp§tija
-1	§tah§tihs
-1	§tah§tihts
-1	§tah§tija
-1	§tahwejuúi
-1	§taiga
-1	§tarp
-1	§tipri
-1	§tiprina
+2	10
+2	14
+2	17
+2	18
 1	abbi
 1	agri
 1	ais
@@ -320,7 +300,6 @@
 1	alga
 1	amminadabs
 1	amminadabu
-1	ap§tiprinata
 1	apbehdinajs
 1	apdahwina
 1	apgahdaúchanu
@@ -337,10 +316,8 @@
 1	apúehdees
 1	apúehdeetees
 1	apúohlahs
+1	ap§tiprinata
 1	apwelz
-1	at§pird§inaúchanu
-1	at§tahjahs
-1	at§tahjuúi
 1	atgree§damees
 1	atgree§ees
 1	atkahpt
@@ -358,6 +335,9 @@
 1	atrohmu
 1	atúed§
 1	atúed§e
+1	at§pird§inaúchanu
+1	at§tahjahs
+1	at§tahjuúi
 1	augumi
 1	azzi`s
 1	azzis
@@ -376,19 +356,6 @@
 1	brahïam
 1	brahïeem
 1	buhtut
-1	d§ehris
-1	d§emde
-1	d§emdeja
-1	d§emdetu
-1	d§err
-1	d§ert
-1	d§ihweem
-1	d§ihwo
-1	d§immis
-1	d§immuma
-1	d§imtas=semmi
-1	d§irdejúi
-1	d§irdi
 1	dabbuht
 1	dahwidu
 1	darbu
@@ -408,6 +375,19 @@
 1	dohdams
 1	dohs
 1	drehbes
+1	d§ehris
+1	d§emde
+1	d§emdeja
+1	d§emdetu
+1	d§err
+1	d§ert
+1	d§ihweem
+1	d§ihwo
+1	d§immis
+1	d§immuma
+1	d§imtas=semmi
+1	d§irdejúi
+1	d§irdi
 1	dwehúeles
 1	eed§iwotaju
 1	eekúcha
@@ -421,12 +401,12 @@
 1	eeúi
 1	eewra&iteri
 1	eewratas
-1	eh§t
 1	ehd
 1	ehdamu
 1	ehde
 1	ehdis
 1	ehdoht
+1	eh§t
 1	ekumeleka
 1	eúúam
 1	eúúohts
@@ -453,14 +433,12 @@
 1	gubbu
 1	gull
 1	gulleja
-1	i§aja
-1	i§aju
-1	i§ajus
-1	i§raeïa
 1	ihpaúchu
 1	ir
 1	irrag
-1	is§teepuúees
+1	i§aja
+1	i§aju
+1	i§ajus
 1	isbihjajahs
 1	isdeldehts
 1	isdohúchanas
@@ -468,6 +446,8 @@
 1	iseij
 1	iskuhle
 1	isplett
+1	i§raeïa
+1	is§teepuúees
 1	istruhzinajahs
 1	ittin
 1	jadarra
@@ -520,7 +500,6 @@
 1	leetu
 1	leu#
 1	likkuúi
-1	ma§gajees
 1	mahja^s
 1	mahlona
 1	mahlonam
@@ -541,16 +520,17 @@
 1	mannu
 1	mantas=òehmejam
 1	mantas=òehmeju
-1	mee§chus
+1	ma§gajees
 1	meeru
 1	meeúa^s
+1	mee§chus
 1	mehºoja
 1	meklejúi
 1	mettehs
-1	mi§t
 1	mihligi
 1	mihïo
 1	mirúchanas
+1	mi§t
 1	mittejahs
 1	muggura^
 1	muhúam
@@ -575,9 +555,9 @@
 1	no=eij
 1	nobeid§is
 1	noh§t
-1	nomir§t
 1	nomirúchu
 1	nomirúi
+1	nomir§t
 1	noúauze
 1	noúauzeet
 1	notikkahs
@@ -587,10 +567,6 @@
 1	ohtras
 1	ohtru
 1	pa
-1	pa§ih§ti
-1	pa§iht
-1	pa§inni
-1	pa§innis
 1	pabeiguúchi
 1	padohmu
 1	pagahjuúi
@@ -604,6 +580,10 @@
 1	pametteet
 1	papreekúchu
 1	paúchahm
+1	pa§ih§ti
+1	pa§iht
+1	pa§inni
+1	pa§innis
 1	paúneed§e
 1	paúummina
 1	patt
@@ -666,6 +646,8 @@
 1	úazzijúi
 1	úazzitu
 1	úche
+1	§chehl
+1	§chehligu
 1	úcheitam
 1	úcheitan
 1	úchennenes
@@ -677,8 +659,13 @@
 1	sem~es
 1	úeptiò
 1	úezen
+1	§innamu
+1	§inni
+1	§innu
 1	úirds
 1	úirds=ruhktumu
+1	§kuhp§ija
+1	§kuhp§tija
 1	úlahp§t
 1	úlawejams
 1	úlawu
@@ -687,7 +674,15 @@
 1	spahrneem
 1	spahrnus
 1	spirtim
+1	§tah§tihs
+1	§tah§tihts
+1	§tah§tija
+1	§tahwejuúi
+1	§taiga
+1	§tarp
 1	starpa^
+1	§tipri
+1	§tiprina
 1	úunnijat
 1	úwaidajs
 1	úwehti
@@ -774,3 +769,10 @@
 1	zeïïu
 1	zerribas
 1	zik
+1	11
+1	12
+1	15
+1	16
+1	20
+1	3
+1	4

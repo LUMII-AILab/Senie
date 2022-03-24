@@ -1,5 +1,7 @@
-160
-203
+Vârdformu skaits:	161
+Vârdlietojumu skaits:	204
+
+
 11	un
 5	ka
 4	mehs
@@ -22,19 +24,15 @@
 2	tas
 2	tik
 2	turreht
-1	§chinni^
-1	§pree§tees
-1	§tarpa
-1	§tippraku
-1	§wehram
+1	@@0
+1	apglahbt
+1	ap§ehdets
+1	arrid§am
 1	Am~ata
 1	Ammata~
 1	Ammatneeki
 1	Andlangeri
-1	ap§ehdets
 1	Ap§tipprinaúchanu
-1	apglahbt
-1	arrid§am
 1	Aúúini
 1	Aúúinu=Lahúihti
 1	Awer=Mineerers
@@ -56,16 +54,16 @@
 1	Eenaidneekeem
 1	eúúim
 1	gaddijamahm
-1	Gruhtumu
 1	ìelbeht
+1	Gruhtumu
 1	jo
-1	KAd
 1	kahds
 1	kahdu
 1	kas
+1	KAd
 1	Kehniòa
-1	kohpa=turrehtees
 1	Íehniòa
+1	kohpa=turrehtees
 1	labba^
 1	Labbumu
 1	labpraht
@@ -91,21 +89,21 @@
 1	neustizzigs
 1	nodoht
 1	nolikti
-1	pa§chi
-1	pa§chu
-1	pa§trahdaht
 1	pahr
 1	Pahrgalwibu
 1	Paklau§iúchanu
 1	palihds
 1	parahdiht
 1	parahdiúees
+1	pa§chi
 1	paúchu
+1	pa§chu
+1	pa§trahdaht
 1	Pawehleúchanahm
 1	pawehleti
-1	pee§pee§ts
 1	peeklahjahs
 1	peelikt
+1	pee§pee§ts
 1	pehdigaj
 1	Pils=úahts
 1	Prahta^
@@ -120,14 +118,19 @@
 1	úawa
 1	úawa^
 1	úawas
+1	§chinni^
 1	úchis
-1	Úcho
 1	úcho
+1	Úcho
 1	úew
 1	Úirds
 1	Úohdu
 1	Spehka
 1	Spehku
+1	§pree§tees
+1	§tarpa
+1	§tippraku
+1	§wehram
 1	tad
 1	tahm
 1	tam
