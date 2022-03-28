@@ -12,12 +12,12 @@ our $CODES = {
 	'2' => { 'Name' => 'Title (even)', 'IsLang' => 0, },
 	'3' => { 'Name' => 'Title (odd)', 'IsLang' => 0, },
 	'a' => { 'Name' => 'Author', 'IsLang' => 0, },
-	'b' => { 'Name' => 'Carry over', 'IsLang' => 0, },
+	'b' => { 'Name' => 'Carry-over', 'IsLang' => 0, },
 	'c' => { 'Name' => 'Polish', 'IsLang' => 1, },
 	'd' => { 'Name' => 'French', 'IsLang' => 1, },
 	'e' => { 'Name' => 'Estonian', 'IsLang' => 1, },
 	'f' => { 'Name' => 'Flemish', 'IsLang' => 1, },
-	#'g' => { 'Name' => 'Bible Book', 'IsLang' => 0, 'LangInside' => 0, },
+	'g' => { 'Name' => 'Chapter ID', 'IsLang' => 0, 'LangInside' => 0, },
 	'h' => { 'Name' => 'Greek', 'IsLang' => 1, },
 	'i' => { 'Name' => 'Italian', 'IsLang' => 1, },
 	#'j' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
@@ -35,7 +35,7 @@ our $CODES = {
 	#'w' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
 	'x' => { 'Name' => 'Empty', 'IsLang' => 0, },
 	#'y' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
-	#'z' => { 'Name' => 'sorce-id', 'IsLang' => 0, 'LangInside' => 0, },
+	'z' => { 'Name' => 'Source ID', 'IsLang' => 0, 'LangInside' => 0, },
 };
 
 sub isLanguage

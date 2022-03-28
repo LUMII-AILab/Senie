@@ -12,29 +12,34 @@ use LvSenie::Utils::IndexTypeCatalog qw(getIndexType);
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(verticalizeFile verticalizeDirs);
+our @EXPORT_OK = qw(processFile processDirs);
 
 our $doWarnAts = 1;
 our $doWarnEmptyBraces = 0;
 our $doWarnOtherBraces = 1;
 
+our $doVert = 1;
+our $doHtml = 1;
+
 # TODO manis vienotie dehyp faili ir citādāki kā Normunda??
 # TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
 
-sub verticalizeDirs
+sub processDirs
 {
 	autoflush STDOUT 1;
 	if (not @_ or @_ < 3)
 	{
 		print <<END;
-Script for transforming SENIE sources to Sketch-appropriate vertical format.
+Script for transforming SENIE sources to Sketch-appropriate vertical
+format and/or html for senie.korpuss.lv.
 
 Params:
    place for summarized result files
    endoding, expected cp1257 or UTF-8
    data directories
 
-AILab, LUMII, 2020, provided under GPL
+
+AILab, LUMII, 2022, provided under GPL
 END
 		exit 1;
 	}
@@ -90,24 +95,15 @@ END
 }
 
 
-sub verticalizeFile
+sub processFile
 {
 	autoflush STDOUT 1;
 	if (not @_ or @_ < 3 or @_ > 4)
 	{
 		print <<END;
-Script for transforming a single SENIE source to Sketch-appropriate vertical
-format. Source file name must end with .txt. Output file name is formed as
-filename stub + _vertical.txt. It is expected that file starts with lines
-\@a{author name} and \@z{source code}/
 
-Params:
-   data directory
-   source filename, e.g. Baum1699_LVV_Unicode.txt
-   encoding, expected cp1257 or UTF-8
-   filehandle for dumping copy of the processed contents [optional]
 
-AILab, LUMII, 2020, provided under GPL
+AILab, LUMII, 2022, provided under GPL
 END
 		exit 1;
 	}
@@ -115,11 +111,18 @@ END
 	my $dirName = shift @_;
 	my $fileName = shift @_;
 	my $encoding = shift @_;
+	$doVert = !(shift @_);
+	$doHtml = !(shift @_);
 	my $outTotal = shift @_;
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
 	print "Processing $fileNameStub.\n";
+	if ($skipHtml and $skipVert)
+	{
+		print "\tNothing to do.\n";
+		return;
+	}
 
 	# Get general file info and indexing type
 	my $properties = getSourceProperties("$dirName/$fileName", $encoding);
@@ -134,34 +137,45 @@ END
 	# Prepare input
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
 		or die "Could not open file $dirName/$fileName: $!";
+	mkdir "$dirName/res/";
+	mkdir "$dirName/res/$lowerSourceId/";
+
+	my ($outSingleVert, $outHtml) = (0,0);
+	if ($doVert)
+	{
+		$outSingleVert = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
+	}
+
+	# Vert header
+	my $urlPart = $properties->{'full ID'};
+	$urlPart =~ s/[\/]+/#/;
+	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'author'}}\"", $outSingleVert, $outTotal);
+	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingleVert, $outTotal) if ($properties->{'year'});
+	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingleVert, $outTotal) if ($properties->{'cent'});
+	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingleVert, $outTotal);
+	&printInVerts(">\n", $outSingleVert, $outTotal);
+
+	if ($doHtml)
+	{
+		$outHtml = IO::File->new("$dirName/res/$lowerSourceId/${lowerSourceId}.html", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/${lowerSourceId}.html: $!";
+	}
+	# Html header
+	&printInHtml("<html>\n\t<head>\n\t\t<meta charset=\"UTF-8\"/>\n", $outHtml);
+	my $cssPath = $properties->{'full ID'} eq $properties->{'short ID'} ? '..' : '../..';
+	&printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/source.css\">\n", $outHtml)
+	&printInHtml("\t\t<title>$fullSourceStub</title>\n", $outHtml);
+	&printInHtml("\t</head>\n", $outHtml);
+	&printInHtml("\t<body>\n", $outHtml);
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
 	warn "Author is not in the first line!" unless $line =~ /^\N{BOM}?\s*\@a\{(.*?)\}\s*$/;
+	&printInHtml(&formLineForHtml($line), $outHtml);
 	$line = <$in>;
+	&printInHtml(&formLineForHtml($line), $outHtml);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
-	#if ($indexType eq 'GNP' or $indexType eq 'GLR')
-	#{
-	#	$line = <$in>;
-	#	$line = <$in> while ($line =~ /^\p{Z}*$/);
-	#	$line = <$in> if ($line =~ /^\s*\@k\{(.*?)\}\s*$/);
-	#	warn "Bible book is not in the third/fourth nonempty line!" unless $line =~ /^\s*\@g\{(.*?)\}\s*$/;
-	#}
-
-	# Prepare output
-	mkdir "$dirName/res/";
-	mkdir "$dirName/res/$lowerSourceId/";
-	my $outSingle = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
-		or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
-
-	# Doc header
-	my $urlPart = $properties->{'full ID'};
-	$urlPart =~ s/[\/]+/#/;
-	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'author'}}\"", $outSingle, $outTotal);
-	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingle, $outTotal) if ($properties->{'year'});
-	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingle, $outTotal) if ($properties->{'cent'});
-	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingle, $outTotal);
-	&printInVerts(">\n", $outSingle, $outTotal);
 
 	# Counters for adreses
 	my ($inPara, $inPage, $inVerse, $inChapter) = (0, 0, 0, 0);
@@ -169,8 +183,12 @@ END
 
 	# Line by line processing
 	my $seenBookCode = 0;
+	my $previousHtmlLineAddress = 0; #for HTML printing
+	my $newHtmlLineAddress = 0; #for HTML printing
 	while (my $line = <$in>)
 	{
+		$previousHtmlLineAddress = $newHtmlLineAddress;
+		$newHtmlLineAddress = 0;
 		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)	# start of a new page
 		{
 
@@ -184,16 +202,16 @@ END
 			# Print paragraph and page borders.
 			if ($inVerse or $inPara)
 			{
-				&printInVerts("</para>\n", $outSingle, $outTotal);
+				&printInVerts("</para>\n", $outSingleVert, $outTotal);
 				$inVerse = 0;
 				$inPara = 0;
 			}
 			if ($inPage)
 			{
-				&printInVerts("</page>\n", $outSingle, $outTotal);
+				&printInVerts("</page>\n", $outSingleVert, $outTotal);
 				$inPage = 0;
 			}
-			&printInVerts("<page sourceNo=\"$bookPageNo\" correctedNo=\"$corrPageNo\">\n", $outSingle, $outTotal);
+			&printInVerts("<page sourceNo=\"$bookPageNo\" correctedNo=\"$corrPageNo\">\n", $outSingleVert, $outTotal);
 			$inPage = 1;
 			# Update indexing data.
 			$currentPage = $corrPageNo;
@@ -208,13 +226,13 @@ END
 		{
 			if ($inVerse or $inPara)
 			{
-				&printInVerts("</para>\n", $outSingle, $outTotal);
+				&printInVerts("</para>\n", $outSingleVert, $outTotal);
 				$inVerse = 0;
 				$inPara = 0;
 			}
-			&printInVerts("</chapter>\n", $outSingle, $outTotal) if ($inChapter);
+			&printInVerts("</chapter>\n", $outSingleVert, $outTotal) if ($inChapter);
 			$currentChapter = $1;
-			&printInVerts("<chapter no=\"$currentChapter\">\n", $outSingle, $outTotal) if ($inChapter);
+			&printInVerts("<chapter no=\"$currentChapter\">\n", $outSingleVert, $outTotal) if ($inChapter);
 			#TODO chapter commentary
 			$currentVerse = 0;
 		}
@@ -227,7 +245,7 @@ END
 		{
 			if ($inVerse or $inPara)
 			{
-				&printInVerts("</para>\n", $outSingle, $outTotal);
+				&printInVerts("</para>\n", $outSingleVert, $outTotal);
 				$inVerse = 0;
 				$inPara = 0;
 			}
@@ -236,7 +254,7 @@ END
 		{
 			unless ($inPara or $indexType eq 'GNP' or $indexType eq 'P')
 			{
-				&printInVerts("<para type=\"Paragraph\">\n", $outSingle, $outTotal);
+				&printInVerts("<para type=\"Paragraph\">\n", $outSingleVert, $outTotal);
 				$inPara = 1;
 			}
 			# @@ ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
@@ -246,20 +264,20 @@ END
 				$currentVerse = $1;
 				$line = "$3";
 
-				&printInVerts("</para>\n", $outSingle, $outTotal) if ($inVerse);
+				&printInVerts("</para>\n", $outSingleVert, $outTotal) if ($inVerse);
 				my $paraType = "Section";
-				$paraType = "Verse"if ($indexType eq 'GNP');
-				&printInVerts("<para no=\"$currentVerse\" type=\"$paraType\" address=\"${fullSourceStub}_", $outSingle, $outTotal);
-				&printInVerts("${currentChapter}:", $outSingle, $outTotal) if($indexType eq 'GNP');
-				&printInVerts("${currentVerse}\">\n", $outSingle, $outTotal);
+				$paraType = "Verse" if ($indexType eq 'GNP');
+				&printInVerts("<para no=\"$currentVerse\" type=\"$paraType\" address=\"${fullSourceStub}_", $outSingleVert, $outTotal);
+				&printInVerts("${currentChapter}:", $outSingleVert, $outTotal) if($indexType eq 'GNP');
+				&printInVerts("${currentVerse}\">\n", $outSingleVert, $outTotal);
 				$inVerse = 1;
 				$currentWord = 0;
 			}
-			&printInVerts("<line", $outSingle, $outTotal);
+			&printInVerts("<line", $outSingleVert, $outTotal);
 			$currentLine++;
-			&printInVerts(" no=\"$currentLine\" address=\"${fullSourceStub}_${currentPage}_${currentLine}\"", $outSingle, $outTotal)
+			&printInVerts(" no=\"$currentLine\" address=\"${fullSourceStub}_${currentPage}_${currentLine}\"", $outSingleVert, $outTotal)
 				if ($indexType eq 'LR' or $indexType eq 'GLR');
-			&printInVerts(">\n", $outSingle, $outTotal);
+			&printInVerts(">\n", $outSingleVert, $outTotal);
 			my $firstWord = 1;
 			$currentWord = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
 			my $lineParts = &splitByLang($line);
@@ -278,48 +296,89 @@ END
 				my $sketchAttrType = ($isLang ? 'langName' : 'type');
 
 				if ($codeLetter) {
-					&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingle, $outTotal);
-					&printInVerts("<language langName=\"Latvian\">\n", $outSingle, $outTotal)
+					&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingleVert, $outTotal);
+					&printInVerts("<language langName=\"Latvian\">\n", $outSingleVert, $outTotal)
 						if (mustIncludeLanguage($codeLetter));
 				}
 				else {
-					&printInVerts("<language langName=\"Latvian\">\n", $outSingle, $outTotal);
+					&printInVerts("<language langName=\"Latvian\">\n", $outSingleVert, $outTotal);
 				}
 
 				for my $token (@{&tokenize($linePart)})
 				{
 					$currentWord++;
-					&printInVerts("<g/>\n", $outSingle, $outTotal) unless ($token =~ /^\s+(.*)$/ or $firstWord);
+					&printInVerts("<g/>\n", $outSingleVert, $outTotal) unless ($token =~ /^\s+(.*)$/ or $firstWord);
 					$token =~ s/^\p{Z}*(.*)$/$1/;
 					my $address = "${fullSourceStub}_";
 					$address = "$address${currentChapter}:" if($indexType eq 'GNP');
 					$address = "$address${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
 					$address = "$address${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
+					$newHtmlLineAddress = $address;
 					$address = "${address}_$currentWord"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
-					&printInVerts(join("\t", @{&splitCorrection($token, $address)}), $outSingle, $outTotal);
-					&printInVerts("\t$address\n", $outSingle, $outTotal);
+					&printInVerts(join("\t", @{&splitCorrection($token, $address)}), $outSingleVert, $outTotal);
+					&printInVerts("\t$address\n", $outSingleVert, $outTotal);
 					$firstWord = 0;
 				}
 				if ($codeLetter) {
-					&printInVerts("</$sketchElemType>\n", $outSingle, $outTotal);
-					&printInVerts("</language>\n", $outSingle, $outTotal)
+					&printInVerts("</$sketchElemType>\n", $outSingleVert, $outTotal);
+					&printInVerts("</language>\n", $outSingleVert, $outTotal)
 						if (mustIncludeLanguage($codeLetter));
 				}
 				else {
-					&printInVerts("</language>\n", $outSingle, $outTotal);
+					&printInVerts("</language>\n", $outSingleVert, $outTotal);
 				}
 			}
-			&printInVerts("</line>\n", $outSingle, $outTotal);
+			&printInVerts("</line>\n", $outSingleVert, $outTotal);
 		}
+
+		my $htmlLine = &formLineForHtml($line, $newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress);
+		&printInHtml($htmlLine, $outHtml);
 	}
 
-	&printInVerts("</para>\n", $outSingle, $outTotal) if ($inPara or $inVerse);
-	&printInVerts("</page>\n", $outSingle, $outTotal) if ($inPage);
-	&printInVerts("</doc>\n", $outSingle, $outTotal);
-	$outSingle->close;
+	&printInVerts("</para>\n", $outSingleVert, $outTotal) if ($inPara or $inVerse);
+	&printInVerts("</page>\n", $outSingleVert, $outTotal) if ($inPage);
+	&printInVerts("</doc>\n", $outSingleVert, $outTotal);
+	$outSingleVert->close if ($doVert);
+
+	&printInHtml("\t</body>\n</html>", $outHtml);
+	$outHtml->close if ($doVert);
+
+}
+
+sub formLineForHtml
+{
+	my $line = shift @_;
+	my $address = shift @_;
+
+	return '<tr><td class=\"source-address\">&nbsp;</td><td class=\"source-line\">&nbsp;</td></tr>\n'
+		if ($line =~ /^\s*$/);
+	$address = '&nbsp;' unless ($address);
+	$line =~ /^\s*(.*?)\s*$/;
+	$line = $1;
+	#Some formating
+	$line =~ s/(\[[^\]]*\])/<em class="source-page">$1<\/em>/g;
+	$line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<em class="source-marked">$1<\/em>/g;
+	$line =~ s/(\@([^{])){/"<span class=\"source-atcode\" tooltip=\"".&decode($2)."\">$1<\/span>{"/ge;
+	$line =~ s/(?!\@.)({[^}]*})/<sub class="source-correction">$1<\/sub>/g;
+	#Mandatory escapes
+	$line =~ s/\&/&amp;/g;
+	$line =~ s/</&lt;/g;
+	return "<tr><td class=\"source-address\">$address</td><td class=\"source-line\">$line</td></tr>\n";
 }
 
 sub printInVerts
+{
+	return if (not $doVert);
+	&printInAllStreems(@_)
+}
+
+sub printInHtml
+{
+	return if (not $doHtml);
+	&printInAllStreems(@_)
+}
+
+sub printInAllStreems
 {
 	my $text = shift @_;
 	my @outs = @_;
