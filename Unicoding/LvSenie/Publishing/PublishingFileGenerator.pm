@@ -1,4 +1,4 @@
-package LvSenie::Vert::Verticalizer;
+package LvSenie::Publisher::PublishingFileGenerator;
 use strict;
 use utf8;
 use warnings;
