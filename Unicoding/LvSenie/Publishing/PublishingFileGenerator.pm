@@ -204,7 +204,7 @@ END
 
 	# Counters for adreses
 	my ($inPara, $inPage, $inVerse, $inChapter) = (0, 0, 0, 0);
-	my ($currentPage, $currentLine, $currentChapter, $currentVerse, $currentWord) = (0, 0, 0, 0, 0);
+	my ($currentPage, $currentLine, $currentChapter, $currentVerse, $currentWord) = (0, 0, 0, '0.', 0);
 
 	# Line by line processing
 	my $seenBookCode = 0;
@@ -259,7 +259,7 @@ END
 			$currentChapter = $1;
 			&printInVerts("<chapter no=\"$currentChapter\">\n", $outSingleVert, $outTotal) if ($inChapter);
 			#TODO chapter commentary
-			$currentVerse = 0;
+			$currentVerse = '0.';
 		}
 		elsif ($line =~ /^\s*\@b\{(.*)\}\s*$/)	# repeated first word from next book;
 		{
