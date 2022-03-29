@@ -36,6 +36,9 @@ STRUCTURE doc {
 	ATTRIBUTE author {
 		LABEL "Autors"
 	}
+	ATTRIBUTE title {
+		LABEL "Dokumenta nosaukums"
+	}
 	ATTRIBUTE year {
 		LABEL "Gads"
 	}

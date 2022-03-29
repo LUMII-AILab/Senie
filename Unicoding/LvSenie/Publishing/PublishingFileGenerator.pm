@@ -8,7 +8,7 @@ use IO::File;
 #use Data::Dumper;
 use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
-use LvSenie::Utils::IndexTypeCatalog qw(getIndexType);
+use LvSenie::Utils::IndexTypeCatalog qw(getIndexType getShortName);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -154,6 +154,7 @@ END
 	my $lowerSourceId = $properties->{'short ID'};
 	#my $lowerSourceId = ($properties->{'g'} or $properties->{'z'});
 	my $indexType = getIndexType($properties->{'full ID'});
+	my $shortName = getShortName($properties->{'full ID'});
 	#my $indexType = getIndexType ($properties->{'z'}, $properties->{'g'});
 
 	# Prepare input
@@ -173,6 +174,7 @@ END
 	my $urlPart = $properties->{'full ID'};
 	$urlPart =~ s/[\/]+/#/;
 	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'author'}}\"", $outSingleVert, $outTotal);
+	&printInVerts(" title=\"$shortName\"", $outSingleVert, $outTotal) if ($shortName);
 	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingleVert, $outTotal) if ($properties->{'year'});
 	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingleVert, $outTotal) if ($properties->{'cent'});
 	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingleVert, $outTotal);

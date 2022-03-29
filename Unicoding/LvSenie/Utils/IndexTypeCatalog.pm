@@ -8,7 +8,7 @@ use IO::File;
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(getIndexType);
+our @EXPORT_OK = qw(getIndexType getShortName);
 
 # Path to file where indexing type for each source is listed
 our $SOURCE_PATH = '../Sources/indexing.txt';
