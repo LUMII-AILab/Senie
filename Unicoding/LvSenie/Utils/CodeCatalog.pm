@@ -24,6 +24,7 @@ our $CODES = {
 	'k' => { 'Name' => 'Comment', 'IsLang' => 0, 'LangInside' => 1, },
 	'l' => { 'Name' => 'Latin', 'IsLang' => 1, },
 	#'m' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
+	'n' => { 'Name' => 'Chapter ID', 'IsLang' => 0, 'LangInside' => 0, },
 	#'o' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
 	'p' => { 'Name' => 'Remark', 'IsLang' => 0, 'LangInside' => 1, },
 	#'q' => { 'Name' => 0, 'IsLang' => 0, 'LangInside' => 0, },
@@ -55,6 +56,7 @@ sub mustIncludeLanguage
 sub decode
 {
 	my $codifier = shift @_;
+	warn "Missing $codifier $!" unless (exists $CODES->{$codifier} and $CODES->{$codifier});
 	return undef unless (exists $CODES->{$codifier} and $CODES->{$codifier});
 	return $CODES->{$codifier}->{'Name'};
 }

@@ -1,4 +1,4 @@
-package LvSenie::Publisher::PublishingFileGenerator;
+package LvSenie::Publishing::PublishingFileGenerator;
 use strict;
 use utf8;
 use warnings;
@@ -36,8 +36,9 @@ format and/or html for senie.korpuss.lv.
 Params:
    place for summarized result files
    endoding, expected cp1257 or UTF-8
+   do vertical files?
+   do html files?
    data directories
-
 
 AILab, LUMII, 2022, provided under GPL
 END
@@ -45,7 +46,15 @@ END
 	}
 	my $totalResultDirName = shift @_;
 	my $encoding = shift @_;
+	$doVert = shift @_;
+	$doHtml = shift @_;
 	my @dirNames = @_;
+
+	unless ($doVert or $doHtml)
+	{
+		print "\tNothing to do.\n";
+		return;
+	}
 
 	#my $totalResDir = IO::Dir->new($totalResultDirName)
 	#	or die "Folder $totalResultDirName is not available: $!";
@@ -76,7 +85,7 @@ END
 						$isBad = 1;
 						warn $_[0]
 					}; # This magic makes eval warn on die and count it as problem.
-					verticalizeFile($dirName, $inFile, $encoding, $outForTotal);
+					processFile($dirName, $inFile, $encoding, $doVert, $doHtml, $outForTotal);
 				};
 				$baddies = $baddies + $isBad;
 				$all++;
@@ -98,10 +107,23 @@ END
 sub processFile
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ < 3 or @_ > 4)
+	if (not @_ or @_ < 3 or @_ > 6)
 	{
 		print <<END;
 
+Script for transforming a single SENIE source to Sketch-appropriate vertical
+format and/or html for senie.korpuss.lv. Source file name must end with .txt.
+Output file name is formed as filename stub + .vert and/or source id + .html.
+It is expected that file starts with lines \@a{author name} and
+\@z{source code}.
+
+Params:
+   data directory
+   source filename, e.g. Baum1699_LVV_Unicode.txt
+   encoding, expected cp1257 or UTF-8
+   do vertical files?
+   do html files?
+   filehandle for dumping copy of the processed contents [optional]
 
 AILab, LUMII, 2022, provided under GPL
 END
@@ -111,14 +133,14 @@ END
 	my $dirName = shift @_;
 	my $fileName = shift @_;
 	my $encoding = shift @_;
-	$doVert = !(shift @_);
-	$doHtml = !(shift @_);
+	$doVert = shift @_;
+	$doHtml = shift @_;
 	my $outTotal = shift @_;
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
 	print "Processing $fileNameStub.\n";
-	if ($skipHtml and $skipVert)
+	unless ($doVert or $doHtml)
 	{
 		print "\tNothing to do.\n";
 		return;
@@ -131,7 +153,7 @@ END
 	#$fullSourceStub = $fullSourceStub . "/" . $properties->{'g'} if (exists $properties->{'g'});
 	my $lowerSourceId = $properties->{'short ID'};
 	#my $lowerSourceId = ($properties->{'g'} or $properties->{'z'});
-	my $indexType = getIndexType ($properties->{'full ID'});
+	my $indexType = getIndexType($properties->{'full ID'});
 	#my $indexType = getIndexType ($properties->{'z'}, $properties->{'g'});
 
 	# Prepare input
@@ -158,16 +180,19 @@ END
 
 	if ($doHtml)
 	{
-		$outHtml = IO::File->new("$dirName/res/$lowerSourceId/${lowerSourceId}.html", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/${lowerSourceId}.html: $!";
+		my $htmlFileName = $lowerSourceId;
+		$htmlFileName =~ s/_Unicode//;
+		$outHtml = IO::File->new("$dirName/res/$lowerSourceId/${htmlFileName}.html", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/${htmlFileName}.html: $!";
 	}
 	# Html header
 	&printInHtml("<html>\n\t<head>\n\t\t<meta charset=\"UTF-8\"/>\n", $outHtml);
 	my $cssPath = $properties->{'full ID'} eq $properties->{'short ID'} ? '..' : '../..';
-	&printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/source.css\">\n", $outHtml)
+	&printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/source.css\">\n", $outHtml);
 	&printInHtml("\t\t<title>$fullSourceStub</title>\n", $outHtml);
 	&printInHtml("\t</head>\n", $outHtml);
-	&printInHtml("\t<body>\n", $outHtml);
+	&printInHtml("\t<body style=\"font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;\">\n", $outHtml);
+	&printInHtml("\t\t<table>\n", $outHtml);
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
@@ -338,10 +363,10 @@ END
 	&printInVerts("</para>\n", $outSingleVert, $outTotal) if ($inPara or $inVerse);
 	&printInVerts("</page>\n", $outSingleVert, $outTotal) if ($inPage);
 	&printInVerts("</doc>\n", $outSingleVert, $outTotal);
-	$outSingleVert->close if ($doVert);
+	$outSingleVert->close() if ($doVert);
 
-	&printInHtml("\t</body>\n</html>", $outHtml);
-	$outHtml->close if ($doVert);
+	&printInHtml("\t\t<\/table>\t</body>\n</html>", $outHtml);
+	$outHtml->close() if ($doHtml);
 
 }
 
@@ -350,19 +375,19 @@ sub formLineForHtml
 	my $line = shift @_;
 	my $address = shift @_;
 
-	return '<tr><td class=\"source-address\">&nbsp;</td><td class=\"source-line\">&nbsp;</td></tr>\n'
+	return "<tr><td class=\"source-address\">&nbsp;</td><td class=\"source-line\">&nbsp;</td></tr>\n"
 		if ($line =~ /^\s*$/);
 	$address = '&nbsp;' unless ($address);
 	$line =~ /^\s*(.*?)\s*$/;
 	$line = $1;
-	#Some formating
-	$line =~ s/(\[[^\]]*\])/<em class="source-page">$1<\/em>/g;
-	$line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<em class="source-marked">$1<\/em>/g;
-	$line =~ s/(\@([^{])){/"<span class=\"source-atcode\" tooltip=\"".&decode($2)."\">$1<\/span>{"/ge;
-	$line =~ s/(?!\@.)({[^}]*})/<sub class="source-correction">$1<\/sub>/g;
 	#Mandatory escapes
 	$line =~ s/\&/&amp;/g;
 	$line =~ s/</&lt;/g;
+	#Some formating
+	$line =~ s/(\[[^\]]*\])/<em class="source-page">$1<\/em>/g;
+	$line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<em class="source-marked">$1<\/em>/g;
+	$line =~ s/(?<!\@.)({[^}]*})/<sub class="source-correction">$1<\/sub>/g;
+	$line =~ s/(\@([^{])){/"<span class=\"source-atcode\" title=\"".&decode($2)."\">$1<\/span>{"/ge;
 	return "<tr><td class=\"source-address\">$address</td><td class=\"source-line\">$line</td></tr>\n";
 }
 
