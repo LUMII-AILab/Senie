@@ -1,0 +1,43 @@
+body {
+	background-color: #EEFFBB;
+	font-family: Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;
+	/*margin:	0px 0px 0px 0px;*/
+}
+
+.source-address
+{
+	font-size: .9em;
+	font-family: monospace;
+	vertical-align: middle;
+	text-align: right;
+}
+
+.source-line
+{
+	padding-left: 0.15em;
+	font-size: 1.1em;
+}
+
+.source-page
+{
+	display: block;
+	font-style: italic;
+	/*text-align: center;*/
+	padding-left: 3em;	
+}
+
+.source-marked
+{
+	font-style: italic;
+}
+
+.source-correction
+{
+	font-size: .83em;
+	vertical-align: sub;
+}
+
+.source-atcode
+{
+	border-bottom: 1px dotted black;
+}

@@ -191,7 +191,7 @@ END
 	&printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/source.css\">\n", $outHtml);
 	&printInHtml("\t\t<title>$fullSourceStub</title>\n", $outHtml);
 	&printInHtml("\t</head>\n", $outHtml);
-	&printInHtml("\t<body style=\"font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;\">\n", $outHtml);
+	&printInHtml("\t<body>\n", $outHtml);
 	&printInHtml("\t\t<table>\n", $outHtml);
 
 	# First two lines should always be file properties, not actual text.
@@ -384,9 +384,9 @@ sub formLineForHtml
 	$line =~ s/\&/&amp;/g;
 	$line =~ s/</&lt;/g;
 	#Some formating
-	$line =~ s/(\[[^\]]*\])/<em class="source-page">$1<\/em>/g;
-	$line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<em class="source-marked">$1<\/em>/g;
-	$line =~ s/(?<!\@.)({[^}]*})/<sub class="source-correction">$1<\/sub>/g;
+	$line =~ s/(\[[^\]]*\])/<span class="source-page">$1<\/span>/g;
+	$line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<span class="source-marked">$1<\/span>/g;
+	$line =~ s/(?<!\@.)({[^}]*})/<span class="source-correction">$1<\/span>/g;
 	$line =~ s/(\@([^{])){/"<span class=\"source-atcode\" title=\"".&decode($2)."\">$1<\/span>{"/ge;
 	return "<tr><td class=\"source-address\">$address</td><td class=\"source-line\">$line</td></tr>\n";
 }
