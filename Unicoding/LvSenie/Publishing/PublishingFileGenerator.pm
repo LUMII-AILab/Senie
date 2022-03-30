@@ -95,7 +95,7 @@ END
 	}
 	$outForTotal->close();
 	if ($baddies) {
-		print "Processing finished, $baddies of $all files failed!";
+		print "Processing finished, $baddies of $all files had problems!";
 	}
 	else {
 		print "Processing $all files finished successfully!";
@@ -149,13 +149,10 @@ END
 	# Get general file info and indexing type
 	my $properties = getSourceProperties("$dirName/$fileName", $encoding);
 	my $fullSourceStub = $properties->{'full ID'};
-	#my $fullSourceStub = $properties->{'z'};
-	#$fullSourceStub = $fullSourceStub . "/" . $properties->{'g'} if (exists $properties->{'g'});
 	my $lowerSourceId = $properties->{'short ID'};
-	#my $lowerSourceId = ($properties->{'g'} or $properties->{'z'});
 	my $indexType = getIndexType($properties->{'full ID'});
 	my $shortName = getShortName($properties->{'full ID'});
-	#my $indexType = getIndexType ($properties->{'z'}, $properties->{'g'});
+	my $author = $properties->{'author'};
 
 	# Prepare input
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
@@ -173,7 +170,7 @@ END
 	# Vert header
 	my $urlPart = $properties->{'full ID'};
 	$urlPart =~ s/[\/]+/#/;
-	&printInVerts("<doc id=\"$fullSourceStub\" author=\"${\$properties->{'author'}}\"", $outSingleVert, $outTotal);
+	&printInVerts("<doc id=\"$fullSourceStub\"", $outSingleVert, $outTotal);
 	&printInVerts(" title=\"$shortName\"", $outSingleVert, $outTotal) if ($shortName);
 	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingleVert, $outTotal) if ($properties->{'year'});
 	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingleVert, $outTotal) if ($properties->{'cent'});
@@ -268,6 +265,11 @@ END
 			# Omit it.
 			$currentLine++;
 		}
+		elsif ($line =~ /^\s*\@a\{(.*)\}\s*$/)	# other author;
+		{
+			$author = $1;
+			$currentLine++;
+		}
 		elsif ($line =~ /^\s*$/)	# empty line - paragraph border
 		{
 			if ($inVerse or $inPara)
@@ -300,7 +302,7 @@ END
 				$inVerse = 1;
 				$currentWord = 0;
 			}
-			&printInVerts("<line", $outSingleVert, $outTotal);
+			&printInVerts("<line author=\"$author\"", $outSingleVert, $outTotal);
 			$currentLine++;
 			&printInVerts(" no=\"$currentLine\" address=\"${fullSourceStub}_${currentPage}_${currentLine}\"", $outSingleVert, $outTotal)
 				if ($indexType eq 'LR' or $indexType eq 'GLR');

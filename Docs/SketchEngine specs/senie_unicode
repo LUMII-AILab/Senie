@@ -33,9 +33,6 @@ STRUCTURE doc {
 	ATTRIBUTE id {
 		LABEL "Dokumenta ID"
 	}
-	ATTRIBUTE author {
-		LABEL "Autors"
-	}
 	ATTRIBUTE title {
 		LABEL "Dokumenta nosaukums"
 	}
@@ -76,6 +73,9 @@ STRUCTURE line {
 	DISPLAYEND "<br/>"
 	ATTRIBUTE address {
 		LABEL "Rindas adrese"
+	}
+	ATTRIBUTE author {
+		LABEL "Autors"
 	}
 }
 STRUCTURE language {
