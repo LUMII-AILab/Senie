@@ -77,6 +77,9 @@ STRUCTURE line {
 	ATTRIBUTE author {
 		LABEL "Autors"
 	}
+	ATTRIBUTE no {
+		LABEL "Rindas numurs"
+	}
 }
 STRUCTURE language {
 	LABEL "Valoda"
