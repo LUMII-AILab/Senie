@@ -22,6 +22,7 @@ public class PolySENIE
 	protected Params p = new Params();
 	protected Map<String, IndexType> indexSpec;
 	protected Map<String, String> shortNameSpec;
+	//protected BufferedWriter specsLog;
 
 	public static void main(String[] args) throws IOException
 	{
@@ -53,6 +54,7 @@ public class PolySENIE
 		}
 
 		PolySENIE wrapper = new PolySENIE();
+		//wrapper.specsLog = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("specs_log.txt"), StandardCharsets.UTF_8));
 
 		if (args.length > 1) wrapper.p.ignoreProlog = Boolean.parseBoolean(args[2]);
 		if (args.length > 2)
@@ -102,6 +104,8 @@ public class PolySENIE
 		//java.nio.file.Files.delete(trashDir.toPath());
 		trashDir.delete();
 
+		//wrapper.specsLog.close();
+
 		out.println();
 		out.println("~~~");
 		out.println("Apstrāde pabeigta.");
@@ -135,6 +139,9 @@ public class PolySENIE
 		out.println();
 		IndexType iType = indexSpec.get(fileProperties.fullSourceId);
 		out.println("  Indeksa veids: " + iType);
+
+		//specsLog.write(iType + "\t" + fileProperties.fullSourceId + "\t" + shortTitle + "\t" + fileProperties.author);
+		//specsLog.newLine();
 
 		Files.copy(fileName.toPath(), FileSystems.getDefault().getPath(".", fileName.getName()), StandardCopyOption.REPLACE_EXISTING);
 		MonoSENIE.fullNondbProcessing(iType, fileProperties.shortSourceId, fileProperties.collectionId, fileProperties.author, shortTitle, out);
