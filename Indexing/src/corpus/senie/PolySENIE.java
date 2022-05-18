@@ -111,8 +111,6 @@ public class PolySENIE
 		out.println("Apstrāde pabeigta.");
 		out.println("Neaizmirstiet pirms TXT failu pārkopēšanas uz Sources mapi tajā iztīrīt vecos");
 		out.println("_log.txt failus.");
-
-
 	}
 
 	/**

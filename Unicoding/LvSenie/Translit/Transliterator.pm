@@ -11,12 +11,12 @@ use Unicode::Semantics qw(up us);
 use IO::Dir;
 use IO::File;
 
-use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable);
+use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable printTableErrors);
 use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString smartLowercase ignoreLine $firstSymb $lastSymb);
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(transformFile transformDir);
+our @EXPORT_OK = qw(transformFile transformDir transliterateString);
 
 # TODO FIXME
 # Nu vispār ir baigi nepieklājīgi te tā vienkārši pārkopēt koda gabalu no
@@ -57,7 +57,8 @@ END
 
 	print "Processing $fileName\n";
 	die "No table found for file $fileName" unless (hasTable($fileName, $collection));
-	my @table = @{substTable($fileName, $collection)};
+	my $table = substTable($fileName, $collection);
+	printTableErrors($fileName, $collection);
 	my $in = IO::File->new("$dirName/${fileName}_Unicode_unhyphened.txt", "< :encoding(UTF-8)")
 		or die "Could not open file $dirName/${fileName}_Unicode_unhyphened.txt: $!";
 	mkdir "$dirName/res/";
@@ -65,54 +66,58 @@ END
 	my $out = IO::File->new("$dirName/res/${fileName}/${fileName}_Unicode_translitered.txt", "> :encoding(UTF-8)")
 		or die "Could not open file $dirName/res/${fileName}/${fileName}_Unicode_translitered.txt: $!";
 
-	my $firstLine = 1;
 	while (my $line = up(<$in>))
 	{
-		# Some lines contain fields to be ignored.
-		unless (ignoreLine($line))
-		{
-			# To avoid replacements in small foreign fragments within the line
-			# we encode that text the same way as we encode already substituted
-			# text - each character is inclosed in \N{U+E001} and \N{U+E002}.
-			$line =~ s/(\@[1abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
-			my $print = ($debugLine and ($line =~ /$debugLine/));
-			my $ruleNo = 0;
-			if ($print)
-			{
-				print "$ruleNo: $line";
-				print "\n" unless $line =~ /\n$/;
-			}
-			for my $rulle (@table)
-			{
-				$ruleNo++;
-				my $prevline = $line;
-				my ($target, $subst, $iFlag) = @$rulle;
-				up ($target);
-				up ($subst);
-				warn "$ruleNo: $target->$subst lacks target part " if ($firstLine and not $target);
-				warn "$ruleNo: $target->$subst lacks replacement part " if ($firstLine and not $subst);
+		$line = &transliterateString($line, $table)
+			unless (ignoreLine($line)); # Some lines contain fields to be ignored.
 
-				# Do not replace in "\@[a-z]{" fragments, and don't replace, what
-				# has already been escaped (denoted by $SPECIAL1 and $SPECIAL2)
-				$iFlag ?
-					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/g :
-					$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/gi;
-				if ($print and $prevline ne $line)
-				{
-					print "$ruleNo: $line";
-					print "\n" unless $line =~ /\n$/;
-				}
-			}
-			$firstLine = 0;
-		}
 		# Remove all the special simbols we used for marking places
 		# where to avoid substitutions.
-		print $out decodeString(smartLowercase($line));
+		print $out $line;
 	}
 
 	$in->close();
 	$out->close();
 }
+
+sub transliterateString
+{
+	my $line = shift @_;
+	my $table = shift @_;
+	# To avoid replacements in small foreign fragments within the line
+	# we encode them: each character is enclosed in \N{U+E001} and \N{U+E002}.
+	$line =~ s/(\@[1abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
+	return decodeString(smartLowercase($line)) unless (@$table);
+
+	my $printDebugInfo = ($debugLine and ($line =~ /$debugLine/));
+	my $ruleNo = 0;
+	if ($printDebugInfo)
+	{
+		print "$ruleNo: $line";
+		print "\n" unless $line =~ /\n$/;
+	}
+	for my $rule (@$table)
+	{
+		$ruleNo++;
+		my $prevline = $line;
+		my ($target, $subst, $iFlag) = @$rule;
+		up ($target);
+		up ($subst);
+
+		# Do not replace in "\@[a-z]{" fragments, and don't replace, what
+		# has already been escaped (denoted by $firstSymb and $lastSymb)
+		$iFlag ?
+			$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/g :
+			$line =~ s/(?<!\@|$firstSymb)$target|$target(?!\{|$lastSymb)/$subst/gi;
+		if ($printDebugInfo and $prevline ne $line)
+		{
+			print "$ruleNo: $line";
+			print "\n" unless $line =~ /\n$/;
+		}
+	}
+	return decodeString(smartLowercase($line));
+}
+
 
 sub transformDir
 {

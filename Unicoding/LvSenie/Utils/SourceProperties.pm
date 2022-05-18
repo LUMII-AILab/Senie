@@ -43,6 +43,8 @@ sub getSourceProperties
 	$res->{'full ID'} = $res->{'full ID'} . "/" . $res->{'g'} if (exists $res->{'g'});
 	$res->{'short ID'} = $res->{'z'};
 	$res->{'short ID'} = $res->{'g'} if (exists $res->{'g'});
+	$res->{'collection'} = "";
+	$res->{'collection'} = $res->{'z'} if (exists $res->{'g'});
 
 	$in->close;
 	return $res;

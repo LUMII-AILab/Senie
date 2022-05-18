@@ -25,13 +25,13 @@ sub loadCatalog
 	my $result = {};
 	while (my $line = <$in>)
 	{
-		if ($line =~ /^\s*([^\t]*?)\s*\t\s*([^\t]*?)\s*\t\s*(.*?)\s*$/)
+		if ($line =~ /^\s*([^\t]*?)\s*\t\s*([^\t]*?)\s*\t\s*([^\t]*?)\s*\t\s*.*?\s*$/)
 		{
 			my $type = $1;
 			my $source = $2;
-			my $name = $3;
+			my $shortName = $3;
 			$source =~ tr#\\#/#;
-			$result->{$source} = {'index' => $type, 'short name' => $name};
+			$result->{$source} = {'index' => $type, 'short name' => $shortName};
 		}
 	}
 	$in->close;

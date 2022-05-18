@@ -5,7 +5,7 @@ use utf8;
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw(substTable hasTable TABLES);
+our @EXPORT_OK = qw(substTable hasTable printTableErrors TABLES);
 
 # Jāņem vērā, ka reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu, arī ß un ss.
 our $TABLES_SINGLES = {
@@ -8513,6 +8513,25 @@ sub hasTable
 	return exists $TABLES_JT1685->{$tableName} if ($collection =~ /\s*JT1685\s*/);
 	return exists $TABLES_VD1689_94->{$tableName} if ($collection =~ /\s*VD1689_94\s*/);
 	return exists $TABLES_SINGLES->{$tableName};
+}
+
+sub printTableErrors
+{
+	my $tableName = shift @_;
+	my $collection = shift @_;
+	my $table = &substTable($tableName, $collection);
+	return unless @$table;
+	my $ruleNo = 0;
+	my $problems = 0;
+	for my $rule (@$table)
+	{
+		my ($target, $subst, $iFlag) = @$rule;
+		$ruleNo++;
+		warn "$ruleNo: $target->$subst lacks target part " if (not $target);
+		warn "$ruleNo: $target->$subst lacks replacement part " if (not $subst);
+		$problems++ if (not $target or not $subst);
+	}
+	return $problems;
 }
 
 1;

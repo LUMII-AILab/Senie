@@ -6,6 +6,9 @@ use warnings;
 use IO::Dir;
 use IO::File;
 #use Data::Dumper;
+use LvSenie::Translit::Transliterator qw(transliterateString);
+use LvSenie::Translit::SimpleTranslitTables qw(substTable);
+
 use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
 use LvSenie::Utils::IndexTypeCatalog qw(getIndexType getShortName);
@@ -20,6 +23,7 @@ our $doWarnOtherBraces = 1;
 
 our $doVert = 1;
 our $doHtml = 1;
+our $doTranslit = 0;
 
 # TODO manis vienotie dehyp faili ir citādāki kā Normunda??
 # TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
@@ -27,7 +31,7 @@ our $doHtml = 1;
 sub processDirs
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ < 3)
+	if (not @_ or @_ < 6)
 	{
 		print <<END;
 Script for transforming SENIE sources to Sketch-appropriate vertical
@@ -38,6 +42,7 @@ Params:
    endoding, expected cp1257 or UTF-8
    do vertical files?
    do html files?
+   do transliteration?
    data directories
 
 AILab, LUMII, 2022, provided under GPL
@@ -48,6 +53,7 @@ END
 	my $encoding = shift @_;
 	$doVert = shift @_;
 	$doHtml = shift @_;
+	$doTranslit = shift @_;
 	my @dirNames = @_;
 
 	unless ($doVert or $doHtml)
@@ -154,17 +160,21 @@ END
 	my $shortName = getShortName($properties->{'full ID'});
 	my $author = $properties->{'author'};
 
-	# Prepare input
+	# Prepare IO
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
 		or die "Could not open file $dirName/$fileName: $!";
 	mkdir "$dirName/res/";
 	mkdir "$dirName/res/$lowerSourceId/";
 
-	my ($outSingleVert, $outHtml) = (0,0);
+	my ($outSingleVert, $outHtml, $translitTable) = (0,0, 0);
 	if ($doVert)
 	{
 		$outSingleVert = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
 			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
+	}
+	if ($doTranslit)
+	{
+		$translitTable = substTable($lowerSourceId, $properties->{'collection'});
 	}
 
 	# Vert header
@@ -201,8 +211,8 @@ END
 	&printInHtml(&formLineForHtml($line), $outHtml);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
 
-	# Counters for adreses
-	my ($inPara, $inPage, $inVerse, $inChapter) = (0, 0, 0, 0);
+	# Counters for addresses
+	my ($inPara, $inPage, $inVerse, $inChapter, $isLatvian) = (0, 0, 0, 0, 0);
 	my ($currentPage, $currentLine, $currentChapter, $currentVerse, $currentWord) = (0, 0, 0, '0.', 0);
 
 	# Line by line processing
@@ -324,13 +334,19 @@ END
 				my $sketchElemType = ($isLang ? 'language' : 'block');
 				my $sketchAttrType = ($isLang ? 'langName' : 'type');
 
-				if ($codeLetter) {
+				if ($codeLetter)
+				{
 					&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingleVert, $outTotal);
-					&printInVerts("<language langName=\"Latvian\">\n", $outSingleVert, $outTotal)
-						if (mustIncludeLanguage($codeLetter));
+					if (mustIncludeLanguage($codeLetter))
+					{
+						&printInVerts("<language langName=\"Latvian\">\n", $outSingleVert, $outTotal);
+						$isLatvian = 1;
+					}
 				}
-				else {
+				else
+				{
 					&printInVerts("<language langName=\"Latvian\">\n", $outSingleVert, $outTotal);
+					$isLatvian = 1;
 				}
 
 				for my $token (@{&tokenize($linePart)})
@@ -344,17 +360,27 @@ END
 					$address = "$address${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
 					$newHtmlLineAddress = $address;
 					$address = "${address}_$currentWord"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
-					&printInVerts(join("\t", @{&splitCorrection($token, $address)}), $outSingleVert, $outTotal);
+					my ($splitTok, $splitCorr) = @{&splitCorrection($token, $address)};
+					&printInVerts("$splitTok\t$splitCorr", $outSingleVert, $outTotal);
+					if ($doTranslit)
+					{
+						my $translitToken = $isLatvian ? transliterateString($splitCorr, $translitTable) : $splitCorr;
+						&printInVerts("\t$translitToken", $outSingleVert, $outTotal);
+					}
 					&printInVerts("\t$address\n", $outSingleVert, $outTotal);
 					$firstWord = 0;
 				}
 				if ($codeLetter) {
 					&printInVerts("</$sketchElemType>\n", $outSingleVert, $outTotal);
-					&printInVerts("</language>\n", $outSingleVert, $outTotal)
-						if (mustIncludeLanguage($codeLetter));
+					if (mustIncludeLanguage($codeLetter))
+					{
+						&printInVerts("</language>\n", $outSingleVert, $outTotal);
+						$isLatvian = 0;
+					}
 				}
 				else {
 					&printInVerts("</language>\n", $outSingleVert, $outTotal);
+					$isLatvian = 0;
 				}
 			}
 			&printInVerts("</line>\n", $outSingleVert, $outTotal);
