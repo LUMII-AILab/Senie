@@ -42,7 +42,6 @@ ATTRIBUTE   translit_lc {
 	TRANSQUERY	yes
 }
 
-
 STRUCTURE doc {
 	LABEL "Dokuments"
 	ATTRIBUTE id {
@@ -57,10 +56,22 @@ STRUCTURE doc {
 	ATTRIBUTE century {
 		LABEL "Gadsimts"
 	}
+	ATTRIBUTE genre {
+		LABEL "Žanrs"
+	}
+	ATTRIBUTE subgenre {
+		LABEL "Apakšžanrs"
+		MULTIVALUE  "1"
+        MULTISEP ","
+	}
+	ATTRIBUTE manuscript {
+		LABEL "Manuskripts"
+	}
 	ATTRIBUTE external {
 		LABEL "Saite"
 	}
 }
+
 STRUCTURE page {
 	LABEL "Lappuse"
 	ATTRIBUTE sourceNo {

@@ -81,7 +81,7 @@ END
 				$prevLine =~ /^(.*?)([^\s]*)(?:\{([^}-]*)\})?-(?:\{([^}-]*)-?\})?(\s*)$/;
 				my ($wordStart, $corrStart1, $corrStart2, $newline) = ($2, $3, $4, $5);
 				my $newPrevLine = $1;
-				# Speciall procesing if the $line was @b{smth}
+				# Special processing if the $line was @b{smth}
 				if ($wordEnd =~ /^\s*\@b$/)
 				{
 					$cutFirstFromNextPage = 1;

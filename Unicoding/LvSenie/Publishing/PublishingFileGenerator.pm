@@ -5,13 +5,13 @@ use warnings;
 
 use IO::Dir;
 use IO::File;
-#use Data::Dumper;
+use Data::Dumper;
 use LvSenie::Translit::Transliterator qw(transliterateString);
 use LvSenie::Translit::SimpleTranslitTables qw(substTable);
 
 use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
-use LvSenie::Utils::IndexTypeCatalog qw(getIndexType getShortName);
+use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType getExternalProperties);
 
 use Exporter();
 our @ISA = qw(Exporter);
@@ -153,12 +153,14 @@ END
 	}
 
 	# Get general file info and indexing type
-	my $properties = getSourceProperties("$dirName/$fileName", $encoding);
-	my $fullSourceStub = $properties->{'full ID'};
-	my $lowerSourceId = $properties->{'short ID'};
-	my $indexType = getIndexType($properties->{'full ID'});
-	my $shortName = getShortName($properties->{'full ID'});
-	my $author = $properties->{'author'};
+	my $internalProperties = getSourceProperties("$dirName/$fileName", $encoding);
+	my $fullSourceStub = $internalProperties->{'full ID'};
+	my $lowerSourceId = $internalProperties->{'short ID'};
+	my $indexType = getIndexType($internalProperties->{'full ID'});
+	my $externalProperties = getExternalProperties($internalProperties->{'full ID'});
+	#my $shortName = getShortName($internalProperties->{'full ID'});
+	#my $author = $internalProperties->{'author'};
+	my $author = $externalProperties->{'author'};
 
 	# Prepare IO
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
@@ -174,16 +176,23 @@ END
 	}
 	if ($doTranslit)
 	{
-		$translitTable = substTable($lowerSourceId, $properties->{'collection'});
+		$translitTable = substTable($lowerSourceId, $internalProperties->{'collection'});
 	}
 
 	# Vert header
-	my $urlPart = $properties->{'full ID'};
+	my $urlPart = $internalProperties->{'full ID'};
 	$urlPart =~ s/[\/]+/#/;
 	&printInVerts("<doc id=\"$fullSourceStub\"", $outSingleVert, $outTotal);
-	&printInVerts(" title=\"$shortName\"", $outSingleVert, $outTotal) if ($shortName);
-	&printInVerts(" year=\"${\$properties->{'year'}}\"", $outSingleVert, $outTotal) if ($properties->{'year'});
-	&printInVerts(" century=\"${\$properties->{'cent'}}\"", $outSingleVert, $outTotal) if ($properties->{'cent'});
+	&printInVerts(" title=\"${\$externalProperties->{'short name'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'short name'});
+	&printInVerts(" year=\"${\$externalProperties->{'year'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'year'});
+	&printInVerts(" century=\"${\$externalProperties->{'century'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'century'});
+	&printInVerts(" genre=\"${\$externalProperties->{'genre'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'genre'});
+
+	my $subgenre = 0;
+	$subgenre = join(',', @{$externalProperties->{'subgenre'}}) if ($externalProperties->{'subgenre'});
+	&printInVerts(" subgenre=\"$subgenre\"", $outSingleVert, $outTotal) if ($subgenre);
+	my $manuscript = $externalProperties->{'manuscript'} ? 'Jā' : 'Nē';
+	&printInVerts(" manuscript=\"$manuscript\"", $outSingleVert, $outTotal);
 	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingleVert, $outTotal);
 	&printInVerts(">\n", $outSingleVert, $outTotal);
 
@@ -196,7 +205,7 @@ END
 	}
 	# Html header
 	&printInHtml("<html>\n\t<head>\n\t\t<meta charset=\"UTF-8\"/>\n", $outHtml);
-	my $cssPath = $properties->{'full ID'} eq $properties->{'short ID'} ? '..' : '../..';
+	my $cssPath = $internalProperties->{'full ID'} eq $internalProperties->{'short ID'} ? '..' : '../..';
 	&printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/source.css\">\n", $outHtml);
 	&printInHtml("\t\t<title>$fullSourceStub</title>\n", $outHtml);
 	&printInHtml("\t</head>\n", $outHtml);
