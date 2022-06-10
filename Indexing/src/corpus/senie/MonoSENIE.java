@@ -6,6 +6,7 @@ import java.io.IOException;
 import java.io.PrintStream;
 
 import corpus.senie.indexing.*;
+import corpus.senie.util.IndexType;
 
 
 public class MonoSENIE {

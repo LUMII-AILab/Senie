@@ -1,5 +1,7 @@
 package corpus.senie.indexing;
 
+import corpus.senie.util.IndexType;
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileInputStream;

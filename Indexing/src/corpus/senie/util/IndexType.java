@@ -1,4 +1,4 @@
-package corpus.senie.indexing;
+package corpus.senie.util;
 
 public enum IndexType
 {

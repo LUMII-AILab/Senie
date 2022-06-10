@@ -1,6 +1,8 @@
 package corpus.senie;
 
-import corpus.senie.indexing.IndexType;
+import corpus.senie.util.ExternalProperties;
+import corpus.senie.util.IndexType;
+import corpus.senie.util.InternalProperties;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;
@@ -8,9 +10,7 @@ import java.nio.file.FileSystems;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.StandardCopyOption;
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Stream;
@@ -20,8 +20,7 @@ import java.util.stream.Stream;
 public class PolySENIE
 {
 	protected Params p = new Params();
-	protected Map<String, IndexType> indexSpec;
-	protected Map<String, String> shortNameSpec;
+	protected ExternalProperties eSpecsCatalog = new ExternalProperties();
 	//protected BufferedWriter specsLog;
 
 	public static void main(String[] args) throws IOException
@@ -67,8 +66,7 @@ public class PolySENIE
 				return;
 			}
 		}
-
-		wrapper.loadAdditionalSpecs(out);
+		wrapper.eSpecsCatalog.loadExternalProperties(wrapper.p.indexSpecPath, out);
 
 		File resTxtDir = new File("result-txt");
 		File resHtmlDir = new File("result-html");
@@ -129,28 +127,28 @@ public class PolySENIE
 	{
 		out.println();
 		out.println("Apstrādā failu " + fileName.getName() + "...");
-		FileProperties fileProperties = getParamsFromFile(fileName.getPath());
-		String shortTitle = shortNameSpec.get(fileProperties.fullSourceId);
-		out.print("  Avots: " + fileProperties.fullSourceId);
-		out.print(", autors: " + fileProperties.author);
-		if (shortTitle != null) out.print(", virsraksts: " + shortTitle);
+		InternalProperties internSpecs = InternalProperties.loadInternalProperties(fileName.getPath());
+		ExternalProperties.SingleFileProperties externSpecs = eSpecsCatalog.getProperties(internSpecs.fullSourceId);
+		out.print("  Avots: " + internSpecs.fullSourceId);
+		out.print(", autors: " + externSpecs.author);
+		if (externSpecs.shortTitle != null) out.print(", virsraksts: " + externSpecs.shortTitle);
 		out.println();
-		IndexType iType = indexSpec.get(fileProperties.fullSourceId);
+		IndexType iType = externSpecs.index;
 		out.println("  Indeksa veids: " + iType);
 
 		//specsLog.write(iType + "\t" + fileProperties.fullSourceId + "\t" + shortTitle + "\t" + fileProperties.author);
 		//specsLog.newLine();
 
 		Files.copy(fileName.toPath(), FileSystems.getDefault().getPath(".", fileName.getName()), StandardCopyOption.REPLACE_EXISTING);
-		MonoSENIE.fullNondbProcessing(iType, fileProperties.shortSourceId, fileProperties.collectionId, fileProperties.author, shortTitle, out);
+		MonoSENIE.fullNondbProcessing(iType, internSpecs.shortSourceId, internSpecs.collectionId, externSpecs.author, externSpecs.shortTitle, out);
 
 		for (File resultFile : (new File(".")).listFiles(File::isFile))
 		{
 			String resultFileName = resultFile.getName();
-			if (resultFileName.startsWith(fileProperties.shortSourceId))
+			if (resultFileName.startsWith(internSpecs.shortSourceId))
 			{
-				if (resultFileName.equals(fileProperties.shortSourceId + "_log.txt") && isLogFileEmpty(resultFile) ||
-						resultFileName.equals(fileProperties.shortSourceId + "_indexed.htm"))
+				if (resultFileName.equals(internSpecs.shortSourceId + "_log.txt") && isLogFileEmpty(resultFile) ||
+						resultFileName.equals(internSpecs.shortSourceId + "_indexed.htm"))
 				{
 					System.out.println ("Deleting " + resultFileName);
 					Path target = FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName());
@@ -163,7 +161,7 @@ public class PolySENIE
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(htmlResultDir.getPath(), resultFile.getName()),
 							StandardCopyOption.REPLACE_EXISTING);
-				else if (resultFileName.equals(fileProperties.shortSourceId + ".txt"))
+				else if (resultFileName.equals(internSpecs.shortSourceId + ".txt"))
 					//Files.delete(resultFile.toPath());
 					Files.move(resultFile.toPath(),
 							FileSystems.getDefault().getPath(trashDir.getPath(), resultFile.getName()),
@@ -174,91 +172,6 @@ public class PolySENIE
 							StandardCopyOption.REPLACE_EXISTING);
 				else continue; // not a valid result file.
 			}
-		}
-	}
-
-	/**
-	 * Helper method for getting contents of the @{....} i.e., author mark form
-	 * somethere in the file. The whole @{...} must be in a single line.
-	 * @param filePath file to check
-	 * @return array with @z field, @g field, @a field and @k field in that order
-	 * @throws IOException
-	 */
-	public static FileProperties getParamsFromFile(String filePath)
-	throws IOException
-	{
-		if(filePath == null) return null;
-		FileProperties result = new FileProperties();
-		String sourceCode = null;
-		String bookCode = null;
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(filePath), "Cp1257"));
-		Pattern codePattern = Pattern.compile(".*?@([agzk])\\{([^}]+)\\}.*");
-		String line = reader.readLine();
-		int linecount = 0;
-		while (line != null && (result.author == null || sourceCode == null || bookCode == null || result.firstComment == null) && linecount < 20)
-		{
-			Matcher codeMatcher = codePattern.matcher(line);
-			if (codeMatcher.matches())
-			{
-				String code = codeMatcher.group(1);
-				String value = codeMatcher.group(2);
-				switch (code)
-				{
-					case "a" : result.author = value; break;
-					case "g" : bookCode = value; break;
-					case "z" : sourceCode = value; break;
-					case "k" : if (result.firstComment == null || result.firstComment.isEmpty())
-						result.firstComment = value; break;
-				}
-			}
-			line = reader.readLine();
-			linecount++;
-		}
-		if (bookCode == null || bookCode.trim().isEmpty())
-		{
-			result.shortSourceId = sourceCode;
-			result.fullSourceId = sourceCode;
-			result.bookId = null;
-			result.collectionId = null;
-		} else
-		{
-			result.shortSourceId = bookCode;
-			result.bookId = bookCode;
-			result.fullSourceId = sourceCode + "/" + bookCode;
-			result.collectionId = sourceCode;
-		}
-		reader.close();
-		return result;
-		//return new String[] {sourceCode, bookCode, authorName, firstComment};
-	}
-
-	/**
-	 * Load into memory information about how which file should be processed.
-	 * @param out	output stream for non-fatal complaints
-	 * @throws IOException
-	 */
-	public void loadAdditionalSpecs(PrintStream out)
-	throws IOException
-	{
-		indexSpec = new HashMap<>();
-		shortNameSpec = new HashMap<>();
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(p.indexSpecPath), StandardCharsets.UTF_8));
-		String line = reader.readLine();
-		while (line != null)
-		{
-			if (!line.isEmpty())
-			{
-				String[] parts = line.split("\t");
-				if (parts.length < 3)
-					out.println("Indeksācijas failā ir nesaprotama rinda: " + line);
-				else
-				{
-					String sourceCode = parts[1].replace("\\", "/").trim();
-					indexSpec.put(sourceCode, IndexType.getByStringCode(parts[0]));
-					shortNameSpec.put(sourceCode, parts[2]);
-				}
-			}
-			line = reader.readLine();
 		}
 	}
 
@@ -303,15 +216,5 @@ public class PolySENIE
 		 * This is used to skip Bible prefaces etc.
 		 */
 		public boolean ignoreProlog = false;
-	}
-
-	public static class FileProperties
-	{
-		public String author;
-		public String fullSourceId;
-		public String shortSourceId;
-		public String collectionId;
-		public String bookId;
-		public String firstComment;
 	}
 }
