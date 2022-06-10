@@ -377,7 +377,7 @@ END
 					@translitTokens = @{&tokenize($translitLine)};
 					if (scalar(@origTokens) ne @translitTokens)
 					{
-						warn "$address tokenization problem for \"$linePart\"->\"$translitLine\"";
+						print "$address tokenization problem for \"$linePart\"->\"$translitLine\"\n";
 						@translitTokens = @origTokens
 					}
 				}
