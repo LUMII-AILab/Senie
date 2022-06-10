@@ -158,26 +158,31 @@ END
 	my $lowerSourceId = $internalProperties->{'short ID'};
 	my $indexType = getIndexType($internalProperties->{'full ID'});
 	my $externalProperties = getExternalProperties($internalProperties->{'full ID'});
-	#my $shortName = getShortName($internalProperties->{'full ID'});
-	#my $author = $internalProperties->{'author'};
 	my $author = $externalProperties->{'author'};
 
 	# Prepare IO
+	my ($outSingleVert, $outHtml, $translitTable) = (0,0, 0);
+	if ($doTranslit)
+	{
+		$translitTable = substTable($lowerSourceId, $internalProperties->{'collection'});
+		if (not $translitTable)
+		{
+			print "\t$fullSourceStub has no transliteration table, ommiting.\n";
+			return;
+		}
+	}
+
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
 		or die "Could not open file $dirName/$fileName: $!";
 	mkdir "$dirName/res/";
 	mkdir "$dirName/res/$lowerSourceId/";
 
-	my ($outSingleVert, $outHtml, $translitTable) = (0,0, 0);
 	if ($doVert)
 	{
 		$outSingleVert = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
 			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
 	}
-	if ($doTranslit)
-	{
-		$translitTable = substTable($lowerSourceId, $internalProperties->{'collection'});
-	}
+
 
 	# Vert header
 	my $urlPart = $internalProperties->{'full ID'};
@@ -358,24 +363,40 @@ END
 					$isLatvian = 1;
 				}
 
-				for my $token (@{&tokenize($linePart)})
+				my $address = "${fullSourceStub}_";
+				$address = "$address${currentChapter}:" if($indexType eq 'GNP');
+				$address = "$address${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
+				$address = "$address${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
+
+				my @origTokens = @{&tokenize($linePart)};
+				my $translitLine = 0;
+				my @translitTokens = 0;
+				if ($doTranslit)
 				{
+					$translitLine = $isLatvian ? transliterateString($linePart, $translitTable) : $linePart;
+					@translitTokens = @{&tokenize($translitLine)};
+					if (scalar(@origTokens) ne @translitTokens)
+					{
+						warn "$address tokenization problem for \"$linePart\"->\"$translitLine\"";
+						@translitTokens = @origTokens
+					}
+				}
+
+				#for my $token (@origTokens)
+				for my $tokenNo (0..scalar(@origTokens)-1)
+				{
+
+					my $token = $origTokens[$tokenNo];
+					my $translitToken = $translitTokens[$tokenNo];
 					$currentWord++;
 					&printInVerts("<g/>\n", $outSingleVert, $outTotal) unless ($token =~ /^\s+(.*)$/ or $firstWord);
 					$token =~ s/^\p{Z}*(.*)$/$1/;
-					my $address = "${fullSourceStub}_";
-					$address = "$address${currentChapter}:" if($indexType eq 'GNP');
-					$address = "$address${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
-					$address = "$address${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
+
 					$newHtmlLineAddress = $address;
 					$address = "${address}_$currentWord"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
 					my ($splitTok, $splitCorr) = @{&splitCorrection($token, $address)};
 					&printInVerts("$splitTok\t$splitCorr", $outSingleVert, $outTotal);
-					if ($doTranslit)
-					{
-						my $translitToken = $isLatvian ? transliterateString($splitCorr, $translitTable) : $splitCorr;
-						&printInVerts("\t$translitToken", $outSingleVert, $outTotal);
-					}
+					&printInVerts("\t$translitToken", $outSingleVert, $outTotal) if ($doTranslit);
 					&printInVerts("\t$address\n", $outSingleVert, $outTotal);
 					$firstWord = 0;
 				}
