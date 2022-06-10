@@ -377,7 +377,7 @@ END
 					@translitTokens = @{&tokenize($translitLine)};
 					if (scalar(@origTokens) ne @translitTokens)
 					{
-						print "$address tokenization problem for \"$linePart\"->\"$translitLine\"\n";
+						warn "$address tokenization problem for \"$linePart\"->\"$translitLine\"";
 						@translitTokens = @origTokens
 					}
 				}
@@ -385,7 +385,6 @@ END
 				#for my $token (@origTokens)
 				for my $tokenNo (0..scalar(@origTokens)-1)
 				{
-
 					my $token = $origTokens[$tokenNo];
 					my $translitToken = $translitTokens[$tokenNo];
 					$currentWord++;

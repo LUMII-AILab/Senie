@@ -12,7 +12,7 @@ our @EXPORT_OK = qw(transformFile transformDir);
 sub transformFile
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ != 3)
+	if (not @_ or @_ != 4)
 	{
 		print <<END;
 Script for de-hyphenating a single SENIE file. Output file name is formed as
@@ -22,6 +22,7 @@ Params:
    data directory
    source name stub, e.g. Baum1699_LVV
    source filename, e.g. Baum1699_LVV_Unicode.txt
+   encoding, expected cp1257 or UTF-8
 
 AILab, LUMII, 2020, provided under GPL
 END
@@ -30,14 +31,15 @@ END
 	my $dirName = shift @_;
 	my $corpusId = shift @_;
 	my $fileName = shift @_;
+	my $encoding = shift @_;
 	$fileName =~ /^(.*?)(\.txt)?$/;
 	my $fileNameStub = $1;
 
-	my $in = IO::File->new("$dirName/$fileName", "< :encoding(UTF-8)")
+	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
 		or die "Could not open file $dirName/$fileName: $!";
 	mkdir "$dirName/res/";
 	mkdir "$dirName/res/$corpusId/";
-	my $out = IO::File->new("$dirName/res/$corpusId/${fileNameStub}_unhyphened.txt", "> :encoding(UTF-8)")
+	my $out = IO::File->new("$dirName/res/$corpusId/${fileNameStub}_unhyphened.txt", "> :encoding($encoding)")
 		or die "Could not open file $dirName/res/$corpusId/${fileNameStub}_unhyphened.txt: $!";
 
 	print "Processing $corpusId/$fileNameStub.\n";
@@ -157,7 +159,7 @@ END
 sub transformDir
 {
 	autoflush STDOUT 1;
-	if (not @_ or @_ < 1 or @_ > 2)
+	if (not @_ or @_ < 1 or @_ > 3)
 	{
 		print <<END;
 Script for de-hyphenating SENIE Unicode sources. Source must be provided in
@@ -167,6 +169,7 @@ inbetween canonical name and .txt, except the leading underscore.
 
 Params:
    data directory
+   encoding, expected cp1257 or UTF-8
    infix
 
 AILab, LUMII, 2018, provided under GPL
@@ -174,7 +177,8 @@ END
 		exit 1;
 	}
 	my $dirName = shift @_;
-	my $infix = shift @_;
+	my $encoding = shift @_;
+	my $infix = (shift @_ or '');
 	my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 	$infix = "_$infix" if (length $infix);
 
@@ -190,7 +194,7 @@ END
 			{
 				local $SIG{__WARN__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval count warnings.
 				local $SIG{__DIE__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval warn on die and count it as problem.
-				transformFile($dirName, $nameStub, $inFile);
+				transformFile($dirName, $nameStub, $inFile, $encoding);
 			};
 			$baddies = $baddies + $isBad;
 			$all++;

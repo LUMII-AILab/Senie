@@ -12,10 +12,14 @@ REM Run for a folder to make html files like this.
 ::perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 1 0 data
 
 REM Run for multiple folders to make vert file like this (for publishing in Sketch use unhyphened unicode files, if available).
+REM For old Senie files it is better to use the new perl dehyphenator, not the old java one.
 ::perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . cp1257 1 0 0 data data-Apokr data-JT data-VD
 ::perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 1 0 0 data data-Apokr data-JT data-VD
+REM Run for multiple folders to make vert file with transliterationlike this (use unhyphened unicode files).
+::perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 1 0 1 data data-JT
 REM Run for multiple folders to make html files like this (for publishing in SENIE homepage use files with original hyphens).
 ::perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . cp1257 0 1 0 data data-Apokr data-JT data-VD
 ::perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 1 0 data data-Apokr data-JT data-VD
+
 
 pause
