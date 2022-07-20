@@ -44,7 +44,7 @@ sub smartLowercase
 sub ignoreLine
 {
 	my $string = shift @_;
-	return $string =~ /^\s*(\@[1abcdefghilnrsvxz]\{.*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/;
+	return $string =~ /^\s*(\@[1abcdefghilnrsvxz]\{([^{}]*\{[^{}]*\})*[^{}]*\}|\[[\-\w\{\}]+\.lpp\.\])\s*$/;
 }
 
 1;
