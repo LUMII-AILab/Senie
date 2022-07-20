@@ -68,12 +68,15 @@ END
 
 	while (my $line = up(<$in>))
 	{
+		$line =~ /^(\s*)(|.*\S)(\s*)$/;
+		$line = $2;
+		my ($pref, $postf) = ($1, $3);
 		$line = &transliterateString($line, $table)
 			unless (ignoreLine($line)); # Some lines contain fields to be ignored.
 
 		# Remove all the special simbols we used for marking places
 		# where to avoid substitutions.
-		print $out $line;
+		print $out "$pref$line$postf";
 	}
 
 	$in->close();
