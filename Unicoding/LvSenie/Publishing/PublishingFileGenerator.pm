@@ -363,10 +363,10 @@ END
 					$isLatvian = 1;
 				}
 
-				my $address = "${fullSourceStub}_";
-				$address = "$address${currentChapter}:" if($indexType eq 'GNP');
-				$address = "$address${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
-				$address = "$address${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
+				my $addressStub = "${fullSourceStub}_";
+				$addressStub = "$addressStub${currentChapter}:" if($indexType eq 'GNP');
+				$addressStub = "$addressStub${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
+				$addressStub = "$addressStub${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
 
 				my @origTokens = @{&tokenize($linePart)};
 				my $translitLine = 0;
@@ -377,7 +377,7 @@ END
 					@translitTokens = @{&tokenize($translitLine)};
 					if (scalar(@origTokens) ne @translitTokens)
 					{
-						warn "$address tokenization problem for \"$linePart\"->\"$translitLine\"";
+						warn "$addressStub tokenization problem for \"$linePart\"->\"$translitLine\"";
 						@translitTokens = @origTokens
 					}
 				}
@@ -391,12 +391,12 @@ END
 					&printInVerts("<g/>\n", $outSingleVert, $outTotal) unless ($token =~ /^\s+(.*)$/ or $firstWord);
 					$token =~ s/^\p{Z}*(.*)$/$1/;
 
-					$newHtmlLineAddress = $address;
-					$address = "${address}_$currentWord"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
-					my ($splitTok, $splitCorr) = @{&splitCorrection($token, $address)};
+					$newHtmlLineAddress = $addressStub;
+					my $tokenAddress = "${addressStub}_$currentWord"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
+					my ($splitTok, $splitCorr) = @{&splitCorrection($token, $tokenAddress)};
 					&printInVerts("$splitTok\t$splitCorr", $outSingleVert, $outTotal);
 					&printInVerts("\t$translitToken", $outSingleVert, $outTotal) if ($doTranslit);
-					&printInVerts("\t$address\n", $outSingleVert, $outTotal);
+					&printInVerts("\t$tokenAddress\n", $outSingleVert, $outTotal);
 					$firstWord = 0;
 				}
 				if ($codeLetter) {
