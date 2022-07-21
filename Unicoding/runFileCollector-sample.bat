@@ -6,6 +6,7 @@ REM This collect everything in folders data, data-VD, data-JT, data-Apokr.
 REM perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened
 REM perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode
 REM perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)"
+REM perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" unhyphened_full
 
 REM This collect everything in folder data with appropriate subfolders.
 REM perl -e "use LvSenie::Utils::FileCollector qw(collectNested); collectNested(@ARGV)" Unicode_unhyphened
