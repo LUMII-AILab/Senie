@@ -7449,7 +7449,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}nu\b{wb}', 'no', ],
 		[ '\b{wb}Amen\b{wb}', 'Āmen', ],
 	],
-	'Hag_1790_IM'      => [
+	'Hag1790_IM'      => [
 		[ 'w', 'v', ],
 		[ 'ee', 'ie', ],
 		[ 'ah', 'ā', ],
