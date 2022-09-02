@@ -18,16 +18,16 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(transformFile transformDir transliterateString);
 
-# TODO FIXME
-# Nu vispār ir baigi nepieklājīgi te tā vienkārši pārkopēt koda gabalu no
-# unikoda transliteratora, te būtu jāiet cauri un viss jāpārstrādā tā, lai
-# sadarbojas ar vertikālo failu ģeneratoru, bet pieprasījums pēc testa datiem
-# ienāca ar pārāk īsu termiņu, viss paliek liels FIXME.
-
-
-# If this is nonzero, print debug info un lines matching this string.
-our $debugLine = 0;
-#our $debug_line = 'ißredſetees war';
+# If this is nonzero, print debug info un lines matching something in this array.
+our @debugLines = ();
+#our @debugLines = (
+#	'likt klaht ſiſt un tahs Neſahles, kas pee paẜchahm',
+#	'ẜataiſiht, kà Semmes=Ahboļus,',
+#	'ẜmalku Stellaſchiņņu buhs ustaiſiht, no',
+#	'ſweijoht warr.',
+#	'Lai katru Zilweku Apmihleju kà Draugu, Lai iſtâ Laikâ',
+#	'dohd\' ilgi wahrdſinaht, Tohs Elles Garrus ne peelaid\',',
+#);
 
 sub transformFile
 {
@@ -92,7 +92,8 @@ sub transliterateString
 	$line =~ s/(\@[1abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
 	return decodeString(smartLowercase($line)) unless (@$table);
 
-	my $printDebugInfo = ($debugLine and ($line =~ /$debugLine/));
+	#my $printDebugInfo = ($line and grep(/\Q$line\E/, @debugLines));
+	my $printDebugInfo = ($line and (map {$line =~ /\Q$_\E/} @debugLines));
 	my $ruleNo = 0;
 	if ($printDebugInfo)
 	{
