@@ -13,7 +13,7 @@ ATTRIBUTE word {
 	LABEL "Vārdforma ar labojumiem"
 }
 ATTRIBUTE translit {
-	LABEL "Transliterācija"
+	LABEL "Konvertācija"
 }
 
 ATTRIBUTE address {
@@ -32,7 +32,7 @@ ATTRIBUTE   lc {
 }
 
 ATTRIBUTE   translit_lc {
-	LABEL	"Transliterācija (indekss)"
+	LABEL	"Konvertācija (indekss)"
 	DYNAMIC  utf8lowercase
 	DYNLIB   internal
 	ARG1     "C"
