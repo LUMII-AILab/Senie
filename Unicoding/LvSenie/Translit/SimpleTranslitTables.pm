@@ -9,7 +9,7 @@ our @EXPORT_OK = qw(substTable hasTable printTableErrors TABLES);
 
 # Jāņem vērā, ka reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu, arī ß un ss.
 our $TABLES_SINGLES = {
-	'Baum1699_LVV'    => [
+	'Baum1699_LVV'     => [
 		[ 'wezz', 'vecs', ],
 		[ 'lezz', 'lec', ],
 		[ 'zz', 'c', ],
@@ -821,7 +821,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}svētis', 'svēteis', ],
 		[ 'oūž', 'aus', ],
 	],
-	'CekFV1796_NL'    => [
+	'CekFV1796_NL'     => [
 		[ 'ſchk', 'šķ', '1' ],
 		[ 'ſchan', 'šan', '1' ],
 		[ 'muſchi', 'muši', '1' ],
@@ -924,7 +924,7 @@ our $TABLES_SINGLES = {
 		[ 'ness', 'nes', ],
 		[ 'apgad', 'apgād', ],
 	],
-	'Eid1701_KB'      => [
+	'Eid1701_KB'       => [
 		[ 'ah', 'ā', ],
 		[ 'eh', 'ē', ],
 		[ 'uh', 'ū', ],
@@ -969,7 +969,7 @@ our $TABLES_SINGLES = {
 		[ 'kēn', 'ķēn', ],
 		[ 'aj', 'ai', ],
 	],
-	'Eid1701_RA'      => [
+	'Eid1701_RA'       => [
 		[ 'ah', 'ā', ],
 		[ 'eh', 'ē', ],
 		[ 'uh', 'ū', ],
@@ -1012,7 +1012,7 @@ our $TABLES_SINGLES = {
 		[ 'ſ', 's', '1' ],
 		[ 'mēsa', 'miesa', ],
 	],
-	'Elg1621_GCG'     => [
+	'Elg1621_GCG'      => [
 		[ 'vs', 'uz', ],
 		[ 'v', 'u', ],
 		[ 'wyſſ', 'vis', ],
@@ -1664,7 +1664,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}viš', 'vis', ],
 		[ 'vešel', 'vesel', ],
 	],
-	'Ench1586'        => [
+	'Ench1586'         => [
 		[ '\b{wb}Jeſ', 'Jēz', '1' ],
 		[ '\b{wb}IESVM\b{wb}', 'Jēzum', '1' ],
 		[ '\b{wb}Chriſ', 'Kris', '1' ],
@@ -2301,7 +2301,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}eua', 'eva', ],
 		[ 'eī', 'ī', ],
 	],
-	'Ench1615'        => [
+	'Ench1615'         => [
 		[ '\b{wb}JESVM\b{wb}', 'JĒZUM', '1' ],
 		[ '\b{wb}Jeſ', 'Jēz', '1' ],
 		[ '\b{wb}CHRISTVM\b{wb}', 'KRISTUM', '1' ],
@@ -4423,7 +4423,7 @@ our $TABLES_SINGLES = {
 		[ 'šķīrs', 'šķirs', ],
 		[ '\+', 'ese', ],
 	],
-	'EvEp1615'        => [
+	'EvEp1615'         => [
 		[ 'Jeſſ', 'Jes', '1' ],
 		[ '\b{wb}Jeſ', 'Jēz', '1' ],
 		[ '\b{wb}Chriſ', 'Kris', '1' ],
@@ -7438,7 +7438,7 @@ our $TABLES_SINGLES = {
 		[ 'beikt', 'beigt', ],
 		[ 'lūkt', 'lūgt', ],
 	],
-	'Gis1507_PN'      => [
+	'Gis1507_PN'       => [
 		[ '\b{wb}Teweß\b{wb}', 'Tēves', ],
 		[ '\b{wb}müß\b{wb}', 'mūs', ],
 		[ '\b{wb}tw\b{wb}', 'tu', ],
@@ -7464,7 +7464,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}dynyʒe\b{wb}', 'dieniske', ],
 		[ 'yſ', 'iz', ],
 	],
-	'Gr1520_PN'       => [
+	'Gr1520_PN'        => [
 		[ '\b{wb}Nosſen\b{wb}', 'Nosen', '1' ],
 		[ '\b{wb}Thew', 'Tēv', ],
 		[ '\b{wb}Cur\b{wb}', 'Kur', ],
@@ -7509,7 +7509,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}Amen\b{wb}', 'Āmen', ],
 		[ '\b{wb}mumiz\b{wb}', 'mums', ],
 	],
-	'Has1550_PN'      => [
+	'Has1550_PN'       => [
 		[ '\b{wb}Täb', 'Tēv', ],
 		[ '\b{wb}mus\b{wb}', 'mūs', ],
 		[ '\b{wb}muß', 'mūs', ],
@@ -7546,7 +7546,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}nu\b{wb}', 'no', ],
 		[ '\b{wb}Amen\b{wb}', 'Āmen', ],
 	],
-	'Hag1790_IM'      =>  [
+	'Hag1790_IM'       => [
 		[ 'w', 'v', ],
 		[ 'ee', 'ie', ],
 		[ 'ah', 'ā', ],
@@ -7637,7 +7637,7 @@ our $TABLES_SINGLES = {
 		[ 'drīs', 'drīz', ],
 		[ 'sh', 'š', ],
 	],
-	'Laz1557_PN'      => [
+	'Laz1557_PN'       => [
 		[ '\b{wb}tab', 'tēv', ],
 		[ '\b{wb}MVs\b{wb}', 'MŪs', ],
 		[ '\b{wb}tV\b{wb}', 'tU', ],
@@ -8540,7 +8540,7 @@ our $TABLES_SINGLES = {
 		[ 'kīl', 'ķīl', ],
 		[ 'lūkša', 'lūgša', ],
 	],
-	'Lod1778_WTMD'    => [
+	'Lod1778_WTMD'     => [
 		[ 'ah', 'ā', ],
 		[ 'eh', 'ē', ],
 		[ 'uh', 'ū', ],
@@ -9146,7 +9146,7 @@ our $TABLES_SINGLES = {
 		[ 'büv', 'bij', ],
 		[ 'ü', 'i', ],
 	],
-	'Manc1631_LGL'    => [
+	'Manc1631_LGL'     => [
 		[ '\b{wb}David', 'Dawid', '1' ],
 		[ '\b{wb}vß', 'u%', '1' ], # Palīgmaiņa
 		[ '\b{wb}Vß', 'U%', '1' ], # Palīgmaiņa
@@ -10400,7 +10400,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}auš\b{wb}', 'auž', ],
 		[ 'tš', 'č', ],
 	],
-	'Manc1638_L'      => [
+	'Manc1638_L'       => [
 		[ 'vs', 'u&', ], # Palīgmaiņa
 		[ 'v', 'u', ],
 		[ 'Salluies', 'Salvijes', ],
@@ -11277,7 +11277,7 @@ our $TABLES_SINGLES = {
 		[ 'grut', 'grūt', ],
 		[ 'īh', 'ī', ],
 	],
-	'Manc1638_Run'    => [
+	'Manc1638_Run'     => [
 		[ '\b{wb}ẜwähtz\b{wb}', 'svēts', ],
 		[ 'ẜw', 'sv', ],
 		[ 'ẜch', 'š', ],
@@ -11871,7 +11871,7 @@ our $TABLES_SINGLES = {
 		[ 'gries', 'griez', ],
 		[ 'aa', 'ā', ],
 	],
-	'MD1788'          => [
+	'MD1788'           => [
 		[ 'w', 'v', ],
 		[ 'ee', 'ie', ],
 		[ 'ah', 'ā', ],
@@ -11960,7 +11960,7 @@ our $TABLES_SINGLES = {
 		[ 'peklājās', 'pieklājas', ],
 		[ 'pemin', 'piemin', ],
 	],
-	'Meg1593_PN'      => [
+	'Meg1593_PN'       => [
 		[ '\b{wb}Mus\b{wb}', 'Mūs', ],
 		[ '\b{wb}tab', 'tēv', ],
 		[ '\b{wb}eckſch', 'iekš', ],
@@ -13727,7 +13727,7 @@ our $TABLES_SINGLES = {
 		[ 'aizkār', 'aizskār', ],
 		[ 'svēdien', 'svētdien', ],
 	],
-	'Reit1675_OD'     => [
+	'Reit1675_OD'      => [
 		[ 'muuſch', 'mūž', ],
 		[ 'ſch', 'š', ],
 		[ 'Maiſ', 'maiz', ],
@@ -13759,7 +13759,7 @@ our $TABLES_SINGLES = {
 		[ 'den', 'dien', ],
 		[ 'MŪso', 'mūsu', ],
 	],
-	'Reit1675_UeP'    => [
+	'Reit1675_UeP'     => [
 		[ 'wingſch', 'viņš', ],
 		[ 'ſchäl', 'žēl', ],
 		[ 'laiſch', 'laiž', ],
@@ -14010,7 +14010,7 @@ our $TABLES_SINGLES = {
 		[ 'celš', 'ceļš', ],
 		[ 'mac', 'māc', ],
 	],
-	'SL1684'          => [
+	'SL1684'           => [
 		[ 'tſch', 'č', ],
 		[ 'daſch', 'daž', ],
 		[ 'pauſch', 'pauž', ],
@@ -14225,7 +14225,7 @@ our $TABLES_SINGLES = {
 		[ 'rukt', 'rūgt', ],
 		[ 'griest', 'griezt', ],
 	],
-	'SLM1648'         => [
+	'SLM1648'          => [
 		[ 'v', 'u', ],
 		[ 'ł', 'l', '1' ],
 		[ 'w', 'v', ],
@@ -14246,7 +14246,7 @@ our $TABLES_SINGLES = {
 		[ 'Lei', 'lai', ],
 		[ 'Už', 'uz', ],
 	],
-	'SKL1696_KB'      => [
+	'SKL1696_KB'       => [
 		[ 'tſch', 'č', ],
 		[ 'ſpreeſch', 'spriež', ],
 		[ 'ſpeeſch', 'spiež', ],
@@ -14333,7 +14333,7 @@ our $TABLES_SINGLES = {
 		[ 'vārdz', 'vārds', ],
 		[ 'sviedro', 'zviedru', ],
 	],
-	'SKL1696_RA'      => [
+	'SKL1696_RA'       => [
 		[ 'tſch', 'č', ],
 		[ 'ſpreeſch', 'spriež', ],
 		[ 'ſpeeſch', 'spiež', ],
@@ -14768,7 +14768,7 @@ our $TABLES_SINGLES = {
 		[ 'neds', 'nedz', ],
 		[ 'tukš\b{wb}', 'tukšs', ],
 	],
-	'Sulc1764_ARMST'  => [
+	'Sulc1764_ARMST'   => [
 		[ 'tſch', 'č', '1' ],
 		[ 'muiſch', 'muiž', '1' ],
 		[ 'ſchehl', 'žēl', '1' ],
@@ -14859,7 +14859,7 @@ our $TABLES_SINGLES = {
 		[ 'ven', 'vien', ],
 		[ 'sesd', 'sestd', ],
 	],
-	'Thev1575_PN'     => [
+	'Thev1575_PN'      => [
 		[ '\b{wb}MVs\b{wb}', 'MŪs', ],
 		[ '\b{wb}tab', 'tēv', ],
 		[ '\b{wb}eckſc', 'iekš', ],
@@ -16013,7 +16013,7 @@ our $TABLES_SINGLES = {
 		[ 'daŗš', 'darījs', ],
 		[ 'sch', 'š', ],
 	],
-	'V1771_SZA'       => [
+	'V1771_SZA'        => [
 		[ 'ah', 'ā', ],
 		[ 'uh', 'ū', ],
 		[ 'oh', 'o', ],
@@ -16579,7 +16579,7 @@ our $TABLES_SINGLES = {
 		[ 'švinu', 'svinu', ],
 		[ 'svedriem', 'sviedriem', ],
 	],
-	'ZP1685'          => [
+	'ZP1685'           => [
 		[ 'ſt', 'st', '1' ],
 		[ 'ſp', 'sp', '1' ],
 		[ 'ſẜ', 's', '1' ],
@@ -16623,7 +16623,7 @@ our $TABLES_SINGLES = {
 		[ 'â', 'ā', ],
 		[ 'sirdz', 'sirds', ],
 	],
-	'Zv1638_VAR'      => [
+	'Zv1638_VAR'       => [
 		[ 'Shwere', '%vērē', '1' ], # Palīgmaiņa
 		[ 'S', 's', '1' ],
 		[ '\b{wb}iſ', 'i%', ], # Palīgmaiņa
@@ -16655,7 +16655,7 @@ our $TABLES_SINGLES = {
 		[ 'tes', 'ties', ],
 		[ 'ter', 'der', ],
 	],
-	'Zv1681_Kok'      => [
+	'Zv1681_Kok'       => [
 		[ 'ſchk', 'šķ', '1' ],
 		[ 'ſch', 'š', '1' ],
 		[ 'pallihds', 'palīd%', ],	# Palīgmaiņa
@@ -16696,7 +16696,7 @@ our $TABLES_SINGLES = {
 		[ 'ck', 'k', ],
 		[ 'Kem', 'ķem', ],
 	],
-	'Zv1681_Liec_1'   => [
+	'Zv1681_Liec_1'    => [
 		[ 'ſch', 'š', '1' ],
 		[ 'ſa', 'sa', '1' ],
 		[ 'ſſ', 's', '1' ],
@@ -16722,7 +16722,7 @@ our $TABLES_SINGLES = {
 		[ 'dzid', 'cit', ],
 		[ 'enaidz', 'ienaid', ],
 	],
-	'Zv1681_Liec_2'   => [
+	'Zv1681_Liec_2'    => [
 		[ 'ſch', 'š', '1' ],
 		[ 'ſ', '%', '1' ],	# Palīgmaiņa
 		[ 'us', 'u%', ],	# Palīgmaiņa
@@ -16754,7 +16754,7 @@ our $TABLES_SINGLES = {
 		[ 'dzot', 'cot', ],
 		[ 'enaidz', 'ienaid', ],
 	],
-	'Zv1689_Kan'      => [
+	'Zv1689_Kan'       => [
 		[ 'ſch', 'š', '1' ],
 		[ 'pallieds', 'palīd%', ],	# Palīgmaiņa
 		[ '\b{wb}neds\b{wb}', 'ned%', ],	# Palīgmaiņa
@@ -16799,7 +16799,7 @@ our $TABLES_SINGLES = {
 		[ 'Auglus', 'augļus', ],
 		[ 'Brak', 'braķ', ],
 	],
-	'Zv1689_Salsnes'  => [
+	'Zv1689_Salsnes'   => [
 		[ 'ſch', 'š', '1' ],
 		[ '\b{wb}us', 'u%', ],	# Palīgmaiņa
 		[ 'palieds', 'palīd%', ],	# Palīgmaiņa
@@ -16842,7 +16842,7 @@ our $TABLES_SINGLES = {
 		[ 'auglus', 'augļus', ],
 		[ 'drēg', 'drēģ', ],
 	],
-	'Zv1698_Lig'      => [[ 'dſch', 'dž', '1' ],
+	'Zv1698_Lig'       => [[ 'dſch', 'dž', '1' ],
 		[ 'ſch', 'š', '1' ],
 		[ 'uſ', 'u%', '1' ],	# Palīgmaiņa
 		[ 'ſſ', 's', '1' ],
