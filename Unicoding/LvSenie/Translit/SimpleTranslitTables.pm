@@ -21693,7 +21693,7 @@ our $TABLES_VD1689_94 = {
 		[ 'ẜ', 's', ],
 		[ 'Ꞩ', 'S', '1' ],
 	],
-	'Il'   => $Am_Hoz_Jl_Jon_Mih_Ob,
+	'Jl'   => $Am_Hoz_Jl_Jon_Mih_Ob,
 	'Jer'  => [
 		[ 'J', 'I', '1' ],
 		[ 'Ia', 'Ja', '1' ],
