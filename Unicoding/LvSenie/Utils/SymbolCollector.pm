@@ -106,7 +106,7 @@ END
         }
         #$outForDir->close();
     }
-    printResult("$totalResultDirName/SENIE_symbols.txt", "$totalResultDirName/SENIE_symbols.html");
+    printResult("$totalResultDirName/unicode_symbols.txt", "$totalResultDirName/unicode_symbols.html");
     if ($baddies) {
         say "Processing finished, $baddies of $all files failed!";
     }
@@ -172,10 +172,11 @@ sub printResult
     say $outHtml '<html>';
     say $outHtml ' <head>';
     say $outHtml '  <meta http-equiv="content-type" content="text/html; charset=UTF-8">';
+    say $outHtml '  <link rel="stylesheet" type="text/css" href="./senie.css">';
     say $outHtml '  <title>Simboli korpusā SENIE</title>';
     say $outHtml ' </head>';
     say $outHtml ' <body style="font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;">';
-    say $outHtml '  <table>';
+    say $outHtml '  <table class="symbol-table">';
     say $outHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>";
 
 
