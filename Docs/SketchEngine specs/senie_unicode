@@ -1,4 +1,4 @@
-NAME "SENIE Unicode"
+NAME "SENIE: 16.-18.gs. tekstu korpuss"
 PATH /corpora/data/senie_unicode
 VERTICAL /corpora/vert/senie_unicode.vert
 ENCODING "UTF-8"
@@ -12,6 +12,9 @@ ATTRIBUTE sourceWord {
 ATTRIBUTE word {
 	LABEL "Vārdforma ar labojumiem"
 }
+ATTRIBUTE translit {
+	LABEL "Konvertācija"
+}
 
 ATTRIBUTE address {
 	LABEL "Adrese"
@@ -24,6 +27,17 @@ ATTRIBUTE   lc {
 	ARG1     "C"
 	FUNTYPE  s
 	FROMATTR word
+	TYPE     index
+	TRANSQUERY	yes
+}
+
+ATTRIBUTE   translit_lc {
+	LABEL	"Konvertācija (indekss)"
+	DYNAMIC  utf8lowercase
+	DYNLIB   internal
+	ARG1     "C"
+	FUNTYPE  s
+	FROMATTR translit
 	TYPE     index
 	TRANSQUERY	yes
 }
@@ -111,4 +125,4 @@ STRUCTURE g {
 	DISPLAYBEGIN "_EMPTY_"
 }
 
-SIMPLEQUERY '[lc="%s"] within <language langName="Latvian" />'
+SIMPLEQUERY '[lc="%s" | translit_lc="%s"] within <language langName="Latvian" />'
