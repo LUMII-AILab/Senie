@@ -165,11 +165,8 @@ END
 	if ($doTranslit)
 	{
 		$translitTable = substTable($lowerSourceId, $internalProperties->{'collection'});
-		if (not $translitTable)
-		{
-			print "\t$fullSourceStub has no transliteration table, ommiting.\n";
-			return;
-		}
+		print "\t$fullSourceStub has no transliteration table.\n"
+			if (not $translitTable);
 	}
 
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
@@ -201,7 +198,7 @@ END
 	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingleVert, $outTotal);
 	&printInVerts(">\n", $outSingleVert, $outTotal);
 
-	if ($doHtml)
+	if ($doHtml and $translitTable)
 	{
 		my $htmlFileName = $lowerSourceId;
 		$htmlFileName =~ s/_Unicode//;
@@ -373,7 +370,8 @@ END
 				my @translitTokens = 0;
 				if ($doTranslit)
 				{
-					$translitLine = $isLatvian ? transliterateString($linePart, $translitTable) : $linePart;
+					$translitLine = $isLatvian and $translitTable ?
+						transliterateString($linePart, $translitTable) : $linePart;
 					@translitTokens = @{&tokenize($translitLine)};
 					if (scalar(@origTokens) ne @translitTokens)
 					{
@@ -425,7 +423,7 @@ END
 	$outSingleVert->close() if ($doVert);
 
 	&printInHtml("\t\t<\/table>\t</body>\n</html>", $outHtml);
-	$outHtml->close() if ($doHtml);
+	$outHtml->close() if ($doHtml and $translitTable);
 
 }
 
