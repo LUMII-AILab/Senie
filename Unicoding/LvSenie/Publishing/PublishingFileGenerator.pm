@@ -370,7 +370,7 @@ END
 				my @translitTokens = 0;
 				if ($doTranslit)
 				{
-					$translitLine = $isLatvian and $translitTable ?
+					$translitLine = ($isLatvian and $translitTable) ?
 						transliterateString($linePart, $translitTable) : $linePart;
 					@translitTokens = @{&tokenize($translitLine)};
 					if (scalar(@origTokens) ne @translitTokens)
