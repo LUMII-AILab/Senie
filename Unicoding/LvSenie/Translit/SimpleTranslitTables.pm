@@ -19704,7 +19704,7 @@ our $TABLES_JT1685 = {
 		[ 'ü', 'u', ],
 		[ 'eij', 'ej', ],
 		[ 'aij', 'aj', ],
-		[ 'tha ', 'tā', ],
+		[ 'tha', 'tā', ],
 		[ 'th', 't', ],
 		[ '\b{wb}ell', 'e#', ],	# Palīgmaiņa
 		[ 'Vell', 'Ve#', '1' ],	# Palīgmaiņa
