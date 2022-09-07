@@ -198,7 +198,7 @@ END
 	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingleVert, $outTotal);
 	&printInVerts(">\n", $outSingleVert, $outTotal);
 
-	if ($doHtml and $translitTable)
+	if ($doHtml)
 	{
 		my $htmlFileName = $lowerSourceId;
 		$htmlFileName =~ s/_Unicode//;
@@ -423,7 +423,7 @@ END
 	$outSingleVert->close() if ($doVert);
 
 	&printInHtml("\t\t<\/table>\t</body>\n</html>", $outHtml);
-	$outHtml->close() if ($doHtml and $translitTable);
+	$outHtml->close() if ($doHtml);
 
 }
 
