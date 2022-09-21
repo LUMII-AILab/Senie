@@ -122,3 +122,8 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 3. Jaunos `.vert` failus (sk. pirmās divu nodaļu attiecīgās sadaļas) iekopē korpusu servera mapē `/data_nosketch/vert`
 4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `sudo compilecorp --recompile-corpus --no-sketches korpusa_vārds`
 5. Paskatās, vai komandrindā/logfailos nav kas acīmredzami slikts.
+
+
+
+
+P.S. `chcp 65001` var noderēt, ja kļūdu paziņojumi neizskatās smalki.
