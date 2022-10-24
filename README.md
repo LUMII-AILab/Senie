@@ -7,3 +7,6 @@ Repozitorija saturs:
 - `Docs` - topošā korpusa dokumentācija, specifikāciju faili
 - `Indexing` & `Unicoding` - iekšējie korpusa apstrādes rīki
 - `DB` & `Web` - ar mājaslapu saisītais (daļēji novecojis)
+
+Publiskā pieejamība: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+LU MII Mākslīgā intelekta laboratorija, 2002.-...
