@@ -8,5 +8,5 @@ Repozitorija saturs:
 - `Indexing` & `Unicoding` - iekšējie korpusa apstrādes rīki
 - `DB` & `Web` - ar mājaslapu saisītais (daļēji novecojis)
 
-Publiskā pieejamība: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+Pieejamība: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) \
 LU MII Mākslīgā intelekta laboratorija, 2002.-...
