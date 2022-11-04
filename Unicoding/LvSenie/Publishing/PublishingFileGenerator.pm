@@ -6,10 +6,15 @@ use warnings;
 use IO::Dir;
 use IO::File;
 use Data::Dumper;
+
+use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
+use LvSenie::Publishing::TeiTools qw($DO_TEI printInTei printTeiDocHead printTeiDocTail printTeiCorpusHead printTeiCorpusTail);
+use LvSenie::Publishing::VertTools qw($DO_VERT printVertDocHead printVertDocTail changeVertPage
+	changeVertBibleBook startVertVerse startVertParagraph endVertParagraphVerse startVertLine endVertLine
+	startVertSubBlock endVertSubBlock printVertToken);
+use LvSenie::Publishing::Utils qw(splitByLang tokenize printInAllStreams calculateAddressStub);
 use LvSenie::Translit::Transliterator qw(transliterateString);
 use LvSenie::Translit::SimpleTranslitTables qw(substTable);
-
-use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
 use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType getExternalProperties);
 
@@ -17,21 +22,15 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(processFile processDirs);
 
-our $doWarnAts = 1;
-our $doWarnEmptyBraces = 0;
-our $doWarnOtherBraces = 1;
-
-our $doVert = 1;
-our $doHtml = 1;
-our $doTranslit = 0;
+our $DO_TRANSLIT = 0;
 
 # TODO manis vienotie dehyp faili ir citādāki kā Normunda??
 # TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
 
 sub processDirs
 {
-	autoflush STDOUT 1;
-	if (not @_ or @_ < 6)
+	#STDOUT->autoflush(1);
+	if (not @_ or @_ < 7)
 	{
 		print <<END;
 Script for transforming SENIE sources to Sketch-appropriate vertical
@@ -42,6 +41,7 @@ Params:
    endoding, expected cp1257 or UTF-8
    do vertical files?
    do html files?
+   do TEI files?
    do transliteration?
    data directories
 
@@ -51,21 +51,28 @@ END
 	}
 	my $totalResultDirName = shift @_;
 	my $encoding = shift @_;
-	$doVert = shift @_;
-	$doHtml = shift @_;
-	$doTranslit = shift @_;
+	$DO_VERT = shift @_;
+	$DO_HTML = shift @_;
+	$DO_TEI = shift @_;
+	$DO_TRANSLIT = shift @_;
 	my @dirNames = @_;
 
-	unless ($doVert or $doHtml)
-	{
+	unless ($DO_VERT or $DO_HTML or $DO_TEI) {
 		print "\tNothing to do.\n";
 		return;
 	}
 
-	#my $totalResDir = IO::Dir->new($totalResultDirName)
-	#	or die "Folder $totalResultDirName is not available: $!";
-	my $outForTotal = IO::File->new("$totalResultDirName/all.vert", "> :encoding(UTF-8)")
-		or die "Could not open file $totalResultDirName/all.vert: $!";
+	my ($outForTotalVert, $outForTotalTei) = (0, 0);
+	if ($DO_VERT) {
+		$outForTotalVert = IO::File->new("$totalResultDirName/all.vert", "> :encoding(UTF-8)")
+			or die "Could not open file $totalResultDirName/all.vert: $!";
+	}
+	if ($DO_TEI) {
+		$outForTotalTei = IO::File->new("$totalResultDirName/all.tei.xml", "> :encoding(UTF-8)")
+			or die "Could not open file $totalResultDirName/all.tei.xml: $!";
+	}
+	printTeiCorpusHead($outForTotalTei);
+
 	my $baddies = 0;
 	my $all = 0;
 
@@ -73,8 +80,6 @@ END
 	{
 		my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 		mkdir "$dirName/res/";
-		#my $outForDir = IO::File->new("$dirName/res/all.vert", "> :encoding(UTF-8)")
-		#	or die "Could not open file $dirName/res/all.vert: $!";
 
 		while (defined(my $inFile = $dir->read))
 		{
@@ -85,21 +90,24 @@ END
 				{
 					local $SIG{__WARN__} = sub {
 						$isBad = 1;
-						warn $_[0]
+						warn $_[0];
 					}; # This magic makes eval count warnings.
 					local $SIG{__DIE__} = sub {
 						$isBad = 1;
 						warn $_[0]
 					}; # This magic makes eval warn on die and count it as problem.
-					processFile($dirName, $inFile, $encoding, $doVert, $doHtml, $outForTotal);
+					processFile($dirName, $inFile, $encoding, $DO_VERT, $DO_HTML, $DO_TEI,
+						$outForTotalVert, $outForTotalTei);
 				};
 				$baddies = $baddies + $isBad;
 				$all++;
 			}
 		}
-		#$outForDir->close();
 	}
-	$outForTotal->close();
+	$outForTotalVert->close() if $DO_VERT;
+	printTeiCorpusTail($outForTotalTei);
+	$outForTotalTei->close() if ($DO_TEI);
+
 	if ($baddies) {
 		print "Processing finished, $baddies of $all files had problems!";
 	}
@@ -112,8 +120,8 @@ END
 
 sub processFile
 {
-	autoflush STDOUT 1;
-	if (not @_ or @_ < 3 or @_ > 6)
+	#STDOUT->autoflush(1);
+	if (not @_ or @_ < 3 or @_ > 8)
 	{
 		print <<END;
 
@@ -128,8 +136,10 @@ Params:
    source filename, e.g. Baum1699_LVV_Unicode.txt
    encoding, expected cp1257 or UTF-8
    do vertical files?
-   do html files?
-   filehandle for dumping copy of the processed contents [optional]
+   do HTML files?
+   do TEI files?
+   filehandle for dumping copy of the processed vert contents [optional]
+   filehandle for dumping copy of the processed Tei contents [optional]
 
 AILab, LUMII, 2022, provided under GPL
 END
@@ -139,15 +149,16 @@ END
 	my $dirName = shift @_;
 	my $fileName = shift @_;
 	my $encoding = shift @_;
-	$doVert = shift @_;
-	$doHtml = shift @_;
-	my $outTotal = shift @_;
+	$DO_VERT = shift @_;
+	$DO_HTML = shift @_;
+	$DO_TEI = shift @_;
+	my $outTotalVert = shift @_;
+	my $outTotalTei = shift @_;
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
 	print "Processing $fileNameStub.\n";
-	unless ($doVert or $doHtml)
-	{
+	unless ($DO_VERT or $DO_HTML or $DO_TEI) {
 		print "\tNothing to do.\n";
 		return;
 	}
@@ -160,362 +171,189 @@ END
 	my $externalProperties = getExternalProperties($internalProperties->{'full ID'});
 	my $author = $externalProperties->{'author'};
 
-	# Prepare IO
-	my ($outSingleVert, $outHtml, $translitTable) = (0,0, 0);
-	if ($doTranslit)
-	{
+	# Prepare translit table
+	my $translitTable = 0;
+	if ($DO_TRANSLIT) {
 		$translitTable = substTable($lowerSourceId, $internalProperties->{'collection'});
 		print "\t$fullSourceStub has no transliteration table.\n"
 			if (not $translitTable);
 	}
 
+	# Prepare IO
 	my $in = IO::File->new("$dirName/$fileName", "< :encoding($encoding)")
 		or die "Could not open file $dirName/$fileName: $!";
 	mkdir "$dirName/res/";
 	mkdir "$dirName/res/$lowerSourceId/";
-
-	if ($doVert)
-	{
-		$outSingleVert = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
-	}
-
-
-	# Vert header
-	my $urlPart = $internalProperties->{'full ID'};
-	$urlPart =~ s/[\/]+/#/;
-	&printInVerts("<doc id=\"$fullSourceStub\"", $outSingleVert, $outTotal);
-	&printInVerts(" title=\"${\$externalProperties->{'short name'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'short name'});
-	&printInVerts(" year=\"${\$externalProperties->{'year'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'year'});
-	&printInVerts(" century=\"${\$externalProperties->{'century'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'century'});
-	&printInVerts(" genre=\"${\$externalProperties->{'genre'}}\"", $outSingleVert, $outTotal) if ($externalProperties->{'genre'});
-
-	my $subgenre = 0;
-	$subgenre = join(',', @{$externalProperties->{'subgenre'}}) if ($externalProperties->{'subgenre'});
-	&printInVerts(" subgenre=\"$subgenre\"", $outSingleVert, $outTotal) if ($subgenre);
-	my $manuscript = $externalProperties->{'manuscript'} ? 'Jā' : 'Nē';
-	&printInVerts(" manuscript=\"$manuscript\"", $outSingleVert, $outTotal);
-	&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outSingleVert, $outTotal);
-	&printInVerts(">\n", $outSingleVert, $outTotal);
-
-	if ($doHtml)
-	{
-		my $htmlFileName = $lowerSourceId;
-		$htmlFileName =~ s/_Unicode//;
-		$outHtml = IO::File->new("$dirName/res/$lowerSourceId/${htmlFileName}.html", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/${htmlFileName}.html: $!";
-	}
-	# Html header
-	&printInHtml("<html>\n\t<head>\n\t\t<meta charset=\"UTF-8\"/>\n", $outHtml);
-	my $cssPath = $internalProperties->{'full ID'} eq $internalProperties->{'short ID'} ? '..' : '../..';
-	&printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/source.css\">\n", $outHtml);
-	&printInHtml("\t\t<title>$fullSourceStub</title>\n", $outHtml);
-	&printInHtml("\t</head>\n", $outHtml);
-	&printInHtml("\t<body>\n", $outHtml);
-	&printInHtml("\t\t<table>\n", $outHtml);
+	my $outs = {'vert' => 0, 'tei' => 0, 'html' => '0', 'total vert' => $outTotalVert, 'total tei' => $outTotalTei};
+	&_initialize_outputs($fileNameStub, $internalProperties, $externalProperties, $dirName, $outs);
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
 	warn "Author is not in the first line!" unless $line =~ /^\N{BOM}?\s*\@a\{(.*?)\}\s*$/;
-	&printInHtml(&formLineForHtml($line), $outHtml);
+	printInHtml(formLineForHtml($line), $outs);
 	$line = <$in>;
-	&printInHtml(&formLineForHtml($line), $outHtml);
+	printInHtml(formLineForHtml($line), $outs);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
 
+	# Booleans for positions inside certain elements
+	my $status = {'paragraph' => 0, 'page' => 0, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
 	# Counters for addresses
-	my ($inPara, $inPage, $inVerse, $inChapter, $isLatvian) = (0, 0, 0, 0, 0);
-	my ($currentPage, $currentLine, $currentChapter, $currentVerse, $currentWord) = (0, 0, 0, '0.', 0);
+	my $counters = {'page' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0};
 
 	# Line by line processing
 	my $seenBookCode = 0;
 	my $previousHtmlLineAddress = 0; #for HTML printing
 	my $newHtmlLineAddress = 0; #for HTML printing
-	while (my $line = <$in>)
+	while ($line = <$in>)
 	{
 		$previousHtmlLineAddress = $newHtmlLineAddress;
 		$newHtmlLineAddress = 0;
-		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)	# start of a new page
+		# start of a new page
+		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)
 		{
-
 			# Retrieve written and corrected page numbers
 			my $corrPageNo = $1;
 			my $fullBookPageNo = $2;
 			my $bookPageNo = $3;
-			$bookPageNo = $corrPageNo unless($fullBookPageNo);
-			#print "$line $corrPageNo, $fullBookPageNo, $bookPageNo @ $sourceId\n" if ($line =~ /[{}]/);
-
-			# Print paragraph and page borders.
-			if ($inVerse or $inPara)
-			{
-				&printInVerts("</para>\n", $outSingleVert, $outTotal);
-				$inVerse = 0;
-				$inPara = 0;
-			}
-			if ($inPage)
-			{
-				&printInVerts("</page>\n", $outSingleVert, $outTotal);
-				$inPage = 0;
-			}
-			&printInVerts("<page sourceNo=\"$bookPageNo\" correctedNo=\"$corrPageNo\">\n", $outSingleVert, $outTotal);
-			$inPage = 1;
-			# Update indexing data.
-			$currentPage = $corrPageNo;
-			$currentLine = 0;
+			$bookPageNo = $corrPageNo unless ($fullBookPageNo);
+			changeVertPage($status, $counters, $outs, $bookPageNo, $corrPageNo);
 		}
-		elsif ($line =~ /^\s*\@g\{(.*)\}\s*$/)	# bible book
-		{
+		# bible book
+		elsif ($line =~ /^\s*\@g\{(.*)\}\s*$/) {
 			warn "Repeated Bible book code g (\@g{$1}!" if ($seenBookCode);
 			$seenBookCode = 1;
 		}
-		elsif ($line =~ /^\s*\@n\{(.*)\}\s*$/)	# bible chapter
-		{
-			if ($inVerse or $inPara)
-			{
-				&printInVerts("</para>\n", $outSingleVert, $outTotal);
-				$inVerse = 0;
-				$inPara = 0;
-			}
-			&printInVerts("</chapter>\n", $outSingleVert, $outTotal) if ($inChapter);
-			$currentChapter = $1;
-			&printInVerts("<chapter no=\"$currentChapter\">\n", $outSingleVert, $outTotal) if ($inChapter);
-			#TODO chapter commentary
-			$currentVerse = '0.';
+		# bible chapter
+		elsif ($line =~ /^\s*\@n\{(.*)\}\s*$/) {
+			changeVertBibleBook($status, $counters, $outs, $1);
 		}
-		elsif ($line =~ /^\s*\@b\{(.*)\}\s*$/)	# repeated first word from next book;
-		{
+		# repeated first word from next book;
+		elsif ($line =~ /^\s*\@b\{(.*)\}\s*$/) {
 			# Omit it.
-			$currentLine++;
+			$counters->{'line'}++;
 		}
-		elsif ($line =~ /^\s*\@a\{(.*)\}\s*$/)	# other author;
-		{
+		# other author;
+		elsif ($line =~ /^\s*\@a\{(.*)\}\s*$/) {
 			$author = $1;
-			$currentLine++;
+			$counters->{'line'}++;
 		}
-		elsif ($line =~ /^\s*$/)	# empty line - paragraph border
-		{
-			if ($inVerse or $inPara)
-			{
-				&printInVerts("</para>\n", $outSingleVert, $outTotal);
-				$inVerse = 0;
-				$inPara = 0;
-			}
+		# empty line - paragraph border
+		elsif ($line =~ /^\s*$/) {
+			endVertParagraphVerse($status, $outs);
 		}
+		# line with tokens
 		else
 		{
-			unless ($inPara or $indexType eq 'GNP' or $indexType eq 'P')
-			{
-				&printInVerts("<para type=\"Paragraph\">\n", $outSingleVert, $outTotal);
-				$inPara = 1;
-			}
+			startVertParagraph($status, $outs)
+				unless ($status->{'paragraph'} or $indexType eq 'GNP' or $indexType eq 'P');
+			# Start verse (bible or law) if need be
 			# @@ ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
 			if($line =~ /^\s*\@\@((?:\d+\.)+)(\p{Z}+)(.*$)/ or
-				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}+)(.*$)/) # verse in bible or in law
+				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}+)(.*$)/)
 			{
-				$currentVerse = $1;
 				$line = "$3";
-
-				&printInVerts("</para>\n", $outSingleVert, $outTotal) if ($inVerse);
-				my $paraType = "Section";
-				$paraType = "Verse" if ($indexType eq 'GNP');
-				&printInVerts("<para no=\"$currentVerse\" type=\"$paraType\" address=\"${fullSourceStub}_", $outSingleVert, $outTotal);
-				&printInVerts("${currentChapter}:", $outSingleVert, $outTotal) if($indexType eq 'GNP');
-				&printInVerts("${currentVerse}\">\n", $outSingleVert, $outTotal);
-				$inVerse = 1;
-				$currentWord = 0;
+				startVertVerse($internalProperties, $status, $counters, $outs, $1,);
 			}
-			&printInVerts("<line author=\"$author\"", $outSingleVert, $outTotal);
-			$currentLine++;
-			&printInVerts(" no=\"$currentLine\" address=\"${fullSourceStub}_${currentPage}_${currentLine}\"", $outSingleVert, $outTotal)
-				if ($indexType eq 'LR' or $indexType eq 'GLR');
-			&printInVerts(">\n", $outSingleVert, $outTotal);
-			my $firstWord = 1;
-			$currentWord = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
-			my $lineParts = &splitByLang($line);
+
+			# Start line
+			startVertLine($internalProperties, $counters, $outs, $author);
+			$status->{'first word'} = 1;
+			my $lineParts = splitByLang($line);
 			for my $linePart (@$lineParts)
 			{
 				my $codeLetter = 0;
-				if ($linePart =~ /^\s*@([\w\d]+){(.*?)}(\s*)$/)
-				{
+				if ($linePart =~ /^\s*@([\w\d]+){(.*?)}(\s*)$/) {
 					$codeLetter = $1;
 					$linePart = $2;
 				}
-				my $isLang = isLanguage($codeLetter);
-				my $decoded = $codeLetter;
-				$decoded = decode($codeLetter) if (canDecode($codeLetter));
-				my $sketchElemType = ($isLang ? 'language' : 'block');
-				my $sketchAttrType = ($isLang ? 'langName' : 'type');
 
-				if ($codeLetter)
-				{
-					&printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outSingleVert, $outTotal);
-					if (mustIncludeLanguage($codeLetter))
-					{
-						&printInVerts("<language langName=\"Latvian\">\n", $outSingleVert, $outTotal);
-						$isLatvian = 1;
-					}
-				}
-				else
-				{
-					&printInVerts("<language langName=\"Latvian\">\n", $outSingleVert, $outTotal);
-					$isLatvian = 1;
-				}
-
-				my $addressStub = "${fullSourceStub}_";
-				$addressStub = "$addressStub${currentChapter}:" if($indexType eq 'GNP');
-				$addressStub = "$addressStub${currentVerse}" if($indexType eq 'GNP' or $indexType eq 'P');
-				$addressStub = "$addressStub${currentPage}_${currentLine}" if ($indexType eq 'LR' or $indexType eq 'GLR');
-
-				my @origTokens = @{&tokenize($linePart)};
+				startVertSubBlock($status, $outs, $codeLetter);
+				my $addressStub = calculateAddressStub($internalProperties, $counters, 1);
+				my @origTokens = @{tokenize($linePart)};
 				my $translitLine = 0;
 				my @translitTokens = 0;
-				if ($doTranslit)
+				$newHtmlLineAddress = $addressStub if @origTokens;
+				if ($DO_TRANSLIT)
 				{
-					$translitLine = ($isLatvian and $translitTable) ?
+					$translitLine = ($status->{'Latvian'} and $translitTable) ?
 						transliterateString($linePart, $translitTable) : $linePart;
-					@translitTokens = @{&tokenize($translitLine)};
-					if (scalar(@origTokens) ne @translitTokens)
-					{
+					@translitTokens = @{tokenize($translitLine)};
+					if (scalar(@origTokens) ne @translitTokens) {
 						warn "$addressStub tokenization problem for \"$linePart\"->\"$translitLine\"";
 						@translitTokens = @origTokens
 					}
 				}
-
-				#for my $token (@origTokens)
 				for my $tokenNo (0..scalar(@origTokens)-1)
 				{
-					my $token = $origTokens[$tokenNo];
-					my $translitToken = $translitTokens[$tokenNo];
-					$currentWord++;
-					&printInVerts("<g/>\n", $outSingleVert, $outTotal) unless ($token =~ /^\s+(.*)$/ or $firstWord);
-					$token =~ s/^\p{Z}*(.*)$/$1/;
-
-					$newHtmlLineAddress = $addressStub;
-					my $tokenAddress = "${addressStub}_$currentWord"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
-					my ($splitTok, $splitCorr) = @{&splitCorrection($token, $tokenAddress)};
-					&printInVerts("$splitTok\t$splitCorr", $outSingleVert, $outTotal);
-					&printInVerts("\t$translitToken", $outSingleVert, $outTotal) if ($doTranslit);
-					&printInVerts("\t$tokenAddress\n", $outSingleVert, $outTotal);
-					$firstWord = 0;
+					printVertToken($internalProperties, $status, $counters, $outs,
+							$origTokens[$tokenNo], $translitTokens[$tokenNo], $DO_TRANSLIT)
 				}
-				if ($codeLetter) {
-					&printInVerts("</$sketchElemType>\n", $outSingleVert, $outTotal);
-					if (mustIncludeLanguage($codeLetter))
-					{
-						&printInVerts("</language>\n", $outSingleVert, $outTotal);
-						$isLatvian = 0;
-					}
-				}
-				else {
-					&printInVerts("</language>\n", $outSingleVert, $outTotal);
-					$isLatvian = 0;
-				}
+				endVertSubBlock($status, $outs, $codeLetter);
 			}
-			&printInVerts("</line>\n", $outSingleVert, $outTotal);
+			endVertLine($outs);
 		}
 
-		my $htmlLine = &formLineForHtml($line, $newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress);
-		&printInHtml($htmlLine, $outHtml);
+		# Do HTML for this line
+		my $htmlLine = formLineForHtml($line,
+			$newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress);
+		printInHtml($htmlLine, $outs);
 	}
 
-	&printInVerts("</para>\n", $outSingleVert, $outTotal) if ($inPara or $inVerse);
-	&printInVerts("</page>\n", $outSingleVert, $outTotal) if ($inPage);
-	&printInVerts("</doc>\n", $outSingleVert, $outTotal);
-	$outSingleVert->close() if ($doVert);
-
-	&printInHtml("\t\t<\/table>\t</body>\n</html>", $outHtml);
-	$outHtml->close() if ($doHtml);
-
+	# Print footers and finish everything.
+	&_finish_outputs($status, $outs);
 }
 
-sub formLineForHtml
+sub _initialize_outputs
 {
-	my $line = shift @_;
-	my $address = shift @_;
+	my $fileNameStub = shift @_;
+	my $internalProperties = shift @_;
+	my $externalProperties = shift @_;
+	my $dirName = shift @_;
+	my $outs = shift @_;
 
-	return "<tr><td class=\"source-address\">&nbsp;</td><td class=\"source-line\">&nbsp;</td></tr>\n"
-		if ($line =~ /^\s*$/);
-	$address = '&nbsp;' unless ($address);
-	$line =~ /^\s*(.*?)\s*$/;
-	$line = $1;
-	#Mandatory escapes
-	$line =~ s/\&/&amp;/g;
-	$line =~ s/</&lt;/g;
-	#Some formating
-	$line =~ s/(\[[^\]]*\])/<span class="source-page">$1<\/span>/g;
-	$line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<span class="source-marked">$1<\/span>/g;
-	$line =~ s/(?<!\@.)({[^}]*})/<span class="source-correction">$1<\/span>/g;
-	$line =~ s/(\@([^{])){/"<span class=\"source-atcode\" title=\"".&decode($2)."\">$1<\/span>{"/ge;
-	return "<tr><td class=\"source-address\">$address</td><td class=\"source-line\">$line</td></tr>\n";
-}
+	my $fullSourceStub = $internalProperties->{'full ID'};
+	my $lowerSourceId = $internalProperties->{'short ID'};
 
-sub printInVerts
-{
-	return if (not $doVert);
-	&printInAllStreems(@_)
-}
-
-sub printInHtml
-{
-	return if (not $doHtml);
-	&printInAllStreems(@_)
-}
-
-sub printInAllStreems
-{
-	my $text = shift @_;
-	my @outs = @_;
-	for my $out (@outs)
+	if ($DO_VERT)
 	{
-		print $out $text if ($out);
+		$outs->{'vert'} = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
 	}
-}
+	# Vert header
+	printVertDocHead($internalProperties, $externalProperties, $outs);
 
-# Split line so that each fragment in different language becomes a new segment.
-sub splitByLang
-{
-	my $line = shift @_;
-	my @result = split /\s*(?=\@[\w\d]+{)/, $line;
-	@result = map {/^\s*(\@[\w\d]+\{(?:[^\{\}]*\{[^{}]*\})*[^\{\}]*\})?\s*(.*?)\s*$/; ($1, $2)} @result;
-	@result = grep {$_} @result;
-	return \@result;
-}
-
-# Split a line in tokens, taking into account specifics like "=" usage.
-sub tokenize
-{
-	my $line = shift @_;
-	$line =~ s/^\s*(.*?)\s*$/$1/;	# Remove leading and trailing whitespaces
-	$line =~ tr/\t/ /;	# Remove tabs
-	$line =~ s/(\p{Z})\p{Z}+(?!\p{Z})/$1/g;	# Remove double whitespaces
-	my @tooMuchTokens = split /(?=\p{Z})|(?=\{\})|(?=[\\\/](\p{Z}|$))|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
-	@tooMuchTokens = grep {$_} @tooMuchTokens;
-	my @result = ();
-	while (@tooMuchTokens)
+	if ($DO_HTML)
 	{
-		my $token = shift @tooMuchTokens;
-		$token = $token . shift(@tooMuchTokens) while ($token =~ /^\p{Z}*$/ or ($token =~ /\{[^}]*$/ and @tooMuchTokens));
-		push @result, $token;
+		my $htmlFileName = $lowerSourceId;
+		$htmlFileName =~ s/_Unicode//;
+		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/${htmlFileName}.html", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/${htmlFileName}.html: $!";
 	}
-	return \@result;
+	# Html header
+	printHtmlDocHead($fullSourceStub, $internalProperties, $outs);
+
+	if ($DO_TEI)
+	{
+		$outs->{'tei'} = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.tei.xml", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.tei.xml: $!";
+	}
+	printTeiDocHead($fullSourceStub, $internalProperties, $externalProperties, $outs);
+
 }
 
-# Split token{correction} into two strings and remove {}.
-sub splitCorrection
+sub _finish_outputs
 {
-	my $token = shift @_;
-	my $address = shift @_;
-	my ($form, $corr) = ($token, $token);
-	($form, $corr) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
-	warn "Suspicious token $form at $address\n" if ($form =~/[@]/ and $doWarnAts);
-	warn "Suspicious token $form at $address\n" if ($form =~/\{\}/ and $doWarnEmptyBraces);
-	warn "Suspicious token $form at $address\n" if ($form =~/[\{\}]/ and $form !~ /\{\}/ and $doWarnOtherBraces);
-	warn "Suspicious correction $corr at $address\n" if ($corr =~/[@]/ and $doWarnAts);
-	warn "Suspicious correction $corr at $address\n" if ($corr =~/\{\}/ and $doWarnEmptyBraces);
-	warn "Suspicious correction $corr at $address\n" if ($corr =~/[\{\}]/ and $corr !~ /\{\}/ and $doWarnOtherBraces);
+	my $status = shift @_;
+	my $outs = shift @_;
 
-	#TODO kā pareizi apstrādāt tos tukšos? Jo tas nenozīmē, ka iepriekšējo vārdu nevajag.
-	#$corr = '_' unless $corr;
-	return [$form, $corr];
+	printVertDocTail($status, $outs);
+	close($outs->{'vert'}) if ($DO_VERT);
+
+	printHtmlDocTail($outs);
+	close($outs->{'html'}) if ($DO_HTML);
+
+	printTeiDocTail($outs);
+	close($outs->{'tei'}) if ($DO_TEI);
 }
 
 1;

@@ -11,7 +11,7 @@ our @EXPORT_OK = qw(transformFile transformDir);
 
 sub transformFile
 {
-	autoflush STDOUT 1;
+	#autoflush STDOUT 1;
 	if (not @_ or @_ < 4 or @_ > 5)
 	{
 		print <<END;
@@ -160,7 +160,7 @@ END
 
 sub transformDir
 {
-	autoflush STDOUT 1;
+	#autoflush STDOUT 1;
 	if (not @_ or @_ < 1 or @_ > 4)
 	{
 		print <<END;

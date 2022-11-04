@@ -31,7 +31,7 @@ our @debugLines = ();
 
 sub transformFile
 {
-	autoflush STDOUT 1;
+	#autoflush STDOUT 1;
 	if (not @_ or @_ < 2 or @_ > 3)
 	{
 		print <<END;
@@ -125,7 +125,7 @@ sub transliterateString
 
 sub transformDir
 {
-	autoflush STDOUT 1;
+	#autoflush STDOUT 1;
 	if (not @_ or @_ < 1 or @_ > 2)
 	{
 		print <<END;
