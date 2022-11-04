@@ -9,7 +9,7 @@ use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType);
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw($DO_VERT printInVerts printVertDocHead printVertDocTail changeVertPage changeVertBibleBook
+our @EXPORT_OK = qw($DO_VERT printInVerts printVertDocHead printVertDocTail changeVertPage changeVertBibleChapter
     startVertVerse startVertParagraph endVertParagraphVerse startVertLine endVertLine startVertSubBlock endVertSubBlock
     printVertToken);
 
@@ -67,7 +67,7 @@ sub changeVertPage
     $counters->{'line'} = 0;
 }
 
-sub changeVertBibleBook
+sub changeVertBibleChapter
 {
     my $status = shift @_;
     my $counters = shift @_;

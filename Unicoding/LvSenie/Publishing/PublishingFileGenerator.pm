@@ -10,7 +10,7 @@ use Data::Dumper;
 use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
 use LvSenie::Publishing::TeiTools qw($DO_TEI printInTei printTeiDocHead printTeiDocTail printTeiCorpusHead printTeiCorpusTail);
 use LvSenie::Publishing::VertTools qw($DO_VERT printVertDocHead printVertDocTail changeVertPage
-	changeVertBibleBook startVertVerse startVertParagraph endVertParagraphVerse startVertLine endVertLine
+	changeVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse startVertLine endVertLine
 	startVertSubBlock endVertSubBlock printVertToken);
 use LvSenie::Publishing::Utils qw(splitByLang tokenize printInAllStreams calculateAddressStub);
 use LvSenie::Translit::Transliterator qw(transliterateString);
@@ -104,7 +104,7 @@ END
 			}
 		}
 	}
-	$outForTotalVert->close() if $DO_VERT;
+	$outForTotalVert->close() if ($DO_VERT);
 	printTeiCorpusTail($outForTotalTei);
 	$outForTotalTei->close() if ($DO_TEI);
 
@@ -225,7 +225,7 @@ END
 		}
 		# bible chapter
 		elsif ($line =~ /^\s*\@n\{(.*)\}\s*$/) {
-			changeVertBibleBook($status, $counters, $outs, $1);
+			changeVertBibleChapter($status, $counters, $outs, $1);
 		}
 		# repeated first word from next book;
 		elsif ($line =~ /^\s*\@b\{(.*)\}\s*$/) {
@@ -314,14 +314,15 @@ sub _initialize_outputs
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $lowerSourceId = $internalProperties->{'short ID'};
 
+	# Vert file and its header
 	if ($DO_VERT)
 	{
 		$outs->{'vert'} = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
 			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
 	}
-	# Vert header
 	printVertDocHead($internalProperties, $externalProperties, $outs);
 
+	# HTML file and its header
 	if ($DO_HTML)
 	{
 		my $htmlFileName = $lowerSourceId;
@@ -329,15 +330,15 @@ sub _initialize_outputs
 		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/${htmlFileName}.html", "> :encoding(UTF-8)")
 			or die "Could not open file $dirName/res/$lowerSourceId/${htmlFileName}.html: $!";
 	}
-	# Html header
 	printHtmlDocHead($fullSourceStub, $internalProperties, $outs);
 
+	# TEI file and its header
 	if ($DO_TEI)
 	{
 		$outs->{'tei'} = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.tei.xml", "> :encoding(UTF-8)")
 			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.tei.xml: $!";
 	}
-	printTeiDocHead($fullSourceStub, $internalProperties, $externalProperties, $outs);
+	printTeiDocHead($internalProperties, $externalProperties, $outs);
 
 }
 
