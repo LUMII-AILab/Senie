@@ -42,8 +42,8 @@ sub printTeiDocHead
     elsif ($externalProperties->{'genre'} eq 'Laicīgie teksti') {$domainType = 'public';}
     else {warn "Unrecognised genree \"${\$externalProperties->{'author'}}\" for ${\$internalProperties->{'full ID'}}"};
 
-    print {$outs->{'tei'}} "<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n";
-    print {$outs->{'total tei'}} " <TEI>\n";
+    print {$outs->{'tei'}} "<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n" if ($outs->{'tei'});
+    print {$outs->{'total tei'}} " <TEI>\n" if ($outs->{'total tei'});
     printInTei("  <teiHeader>\n", $outs);
     printInTei("   <fileDesc id=\"${\$internalProperties->{'full ID'}}\">\n", $outs);
     printInTei("    <sourceDesc>\n", $outs);
@@ -56,7 +56,9 @@ sub printTeiDocHead
     printInTei("    <chanel>manuscript</chanel\n", $outs) if ($externalProperties->{'manuscript'});
     printInTei("    <domain", $outs);
     printInTei(" type=\"$domainType\"", $outs) if ($domainType);
-    printInTei(">${\$externalProperties->{'genre'}}; ${\$externalProperties->{'subgenre'}}</domain\n", $outs);
+    printInTei(">${\$externalProperties->{'genre'}}", $outs);
+    printInTei("; ${\$externalProperties->{'subgenre'}}", $outs) if ($externalProperties->{'subgenre'});
+    printInTei("</domain\n", $outs);
     printInTei("   </profileDesc>\n", $outs);
     printInTei("  </teiHeader>\n", $outs);
     printInTei("  <text>\n", $outs);

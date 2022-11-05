@@ -9,12 +9,14 @@ use Data::Dumper;
 
 use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
 use LvSenie::Publishing::TeiTools qw($DO_TEI printInTei printTeiDocHead printTeiDocTail printTeiCorpusHead printTeiCorpusTail);
-use LvSenie::Publishing::VertTools qw($DO_VERT printVertDocHead printVertDocTail changeVertPage
-	changeVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse startVertLine endVertLine
-	startVertSubBlock endVertSubBlock printVertToken);
+use LvSenie::Publishing::VertTools qw($DO_VERT printVertDocHead printVertDocTail startVertPage endVertPage
+	startVertBibleChapter endVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse
+	startVertLine endVertLine startVertSubBlock endVertSubBlock startVertLatvian endVertLatvian printVertToken
+	printVertGlue);
 use LvSenie::Publishing::Utils qw(splitByLang tokenize printInAllStreams calculateAddressStub);
 use LvSenie::Translit::Transliterator qw(transliterateString);
 use LvSenie::Translit::SimpleTranslitTables qw(substTable);
+use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
 use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType getExternalProperties);
 
@@ -216,7 +218,7 @@ END
 			my $fullBookPageNo = $2;
 			my $bookPageNo = $3;
 			$bookPageNo = $corrPageNo unless ($fullBookPageNo);
-			changeVertPage($status, $counters, $outs, $bookPageNo, $corrPageNo);
+			_change_page($status, $counters, $outs, $bookPageNo, $corrPageNo);
 		}
 		# bible book
 		elsif ($line =~ /^\s*\@g\{(.*)\}\s*$/) {
@@ -225,7 +227,7 @@ END
 		}
 		# bible chapter
 		elsif ($line =~ /^\s*\@n\{(.*)\}\s*$/) {
-			changeVertBibleChapter($status, $counters, $outs, $1);
+			_change_Bible_chapter($status, $counters, $outs, $1);
 		}
 		# repeated first word from next book;
 		elsif ($line =~ /^\s*\@b\{(.*)\}\s*$/) {
@@ -239,12 +241,12 @@ END
 		}
 		# empty line - paragraph border
 		elsif ($line =~ /^\s*$/) {
-			endVertParagraphVerse($status, $outs);
+			&_end_paragraph_verse($status, $outs);
 		}
 		# line with tokens
 		else
 		{
-			startVertParagraph($status, $outs)
+			&_start_paragraph($status, $outs)
 				unless ($status->{'paragraph'} or $indexType eq 'GNP' or $indexType eq 'P');
 			# Start verse (bible or law) if need be
 			# @@ ir tikai Normunda savienoto domuzīmju failos, manos tāda nav.
@@ -252,11 +254,11 @@ END
 				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}+)(.*$)/)
 			{
 				$line = "$3";
-				startVertVerse($internalProperties, $status, $counters, $outs, $1,);
+				&_start_verse($internalProperties, $status, $counters, $outs, $1,);
 			}
 
 			# Start line
-			startVertLine($internalProperties, $counters, $outs, $author);
+			&_start_line($internalProperties, $counters, $outs, $author);
 			$status->{'first word'} = 1;
 			my $lineParts = splitByLang($line);
 			for my $linePart (@$lineParts)
@@ -267,7 +269,7 @@ END
 					$linePart = $2;
 				}
 
-				startVertSubBlock($status, $outs, $codeLetter);
+				_start_sub_line($status, $outs, $codeLetter);
 				my $addressStub = calculateAddressStub($internalProperties, $counters, 1);
 				my @origTokens = @{tokenize($linePart)};
 				my $translitLine = 0;
@@ -285,12 +287,12 @@ END
 				}
 				for my $tokenNo (0..scalar(@origTokens)-1)
 				{
-					printVertToken($internalProperties, $status, $counters, $outs,
+					&_print_token($internalProperties, $status, $counters, $outs,
 							$origTokens[$tokenNo], $translitTokens[$tokenNo], $DO_TRANSLIT)
 				}
-				endVertSubBlock($status, $outs, $codeLetter);
+				&_end_sub_line($status, $outs, $codeLetter);
 			}
-			endVertLine($outs);
+			&_end_line($outs);
 		}
 
 		# Do HTML for this line
@@ -356,5 +358,165 @@ sub _finish_outputs
 	printTeiDocTail($outs);
 	close($outs->{'tei'}) if ($DO_TEI);
 }
+
+sub _change_page
+{
+	my ($status, $counters, $outs, $bookPageNo, $corrPageNo) = @_;
+
+	_end_paragraph_verse($status, $outs);
+	if ($status->{'page'}) {
+		endVertPage($outs);
+		$status->{'page'} = 0;
+	}
+	startVertPage($outs, $bookPageNo, $corrPageNo);
+	$status->{'page'} = 1;
+	$counters->{'page'} = $corrPageNo;
+	$counters->{'line'} = 0;
+}
+
+sub _change_Bible_chapter
+{
+	my $status = shift @_;
+	my $counters = shift @_;
+	my $outs = shift @_;
+	my $chapterNo = shift @_;
+
+	_end_paragraph_verse($status, $outs);
+	endVertBibleChapter($outs) if ($status->{'chapter'});
+	$counters->{'chapter'} = $chapterNo;
+	startVertBibleChapter($outs, $counters->{'chapter'}) if ($status->{'chapter'});
+	#TODO chapter commentary
+	$counters->{'verse'} = '0.';
+}
+
+sub _start_paragraph
+{
+	my $status = shift @_;
+	my $outs = shift @_;
+
+	startVertParagraph($outs);
+	$status->{'paragraph'} = 1;
+}
+
+sub _start_verse
+{
+	my $internalProperties = shift @_;
+	my $status = shift @_;
+	my $counters = shift @_;
+	my $outs = shift @_;
+	my $verseNo = shift @_;
+	my $indexType = getIndexType($internalProperties->{'full ID'});
+
+	$counters->{'verse'} = $verseNo;
+	endVertParagraphVerse($outs) if ($status->{'verse'});
+	my $address = calculateAddressStub($internalProperties, $counters, 0);
+	startVertVerse($outs, $address, $verseNo, $indexType);
+	$status->{'verse'} = 1;
+	$counters->{'word'} = 0;
+}
+
+sub _end_paragraph_verse
+{
+	my $status = shift @_;
+	my $outs = shift @_;
+
+	if ($status->{'verse'} or $status->{'paragraph'}) {
+		$status->{'verse'} = 0;
+		$status->{'paragraph'} = 0;
+		endVertParagraphVerse($outs),
+	}
+}
+
+sub _start_line
+{
+	my $internalProperties = shift @_;
+	my $counters = shift @_;
+	my $outs = shift @_;
+	my $currentAuthor = shift @_;
+
+	my $fullSourceStub = $internalProperties->{'full ID'};
+	my $indexType = getIndexType($internalProperties->{'full ID'});
+	$counters->{'line'}++;
+	my $address = "${fullSourceStub}_${\$counters->{'page'}}_${\$counters->{'line'}}";
+	startVertLine($outs, $address, $counters->{'line'}, $currentAuthor, $indexType);
+	$counters->{'word'} = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
+}
+
+sub _end_line
+{
+	my $outs = shift @_;
+	endVertLine($outs);
+}
+
+sub _start_sub_line
+{
+	my $status = shift @_;
+	my $outs = shift @_;
+	my $codeLetter = shift @_;
+
+	my $isLang = isLanguage($codeLetter);
+	my $decoded = $codeLetter;
+	$decoded = decode($codeLetter) if (canDecode($codeLetter));
+	my $sketchElemType = ($isLang ? 'language' : 'block');
+	my $sketchAttrType = ($isLang ? 'langName' : 'type');
+
+	if ($codeLetter)
+	{
+		startVertSubBlock($outs, $sketchElemType, $sketchAttrType, $decoded);
+		if (mustIncludeLanguage($codeLetter))
+		{
+			startVertLatvian($outs);
+			$status->{'Latvian'} = 1;
+		};
+	}
+	else
+	{
+		startVertLatvian($outs);
+		$status->{'Latvian'} = 1;
+	}
+}
+
+sub _end_sub_line
+{
+	my $status = shift @_;
+	my $outs = shift @_;
+	my $codeLetter = shift @_;
+
+	my $isLang = isLanguage($codeLetter);
+	my $sketchElemType = ($isLang ? 'language' : 'block');
+
+	if ($codeLetter) {
+		endVertSubBlock($outs, $sketchElemType);
+		if (mustIncludeLanguage($codeLetter)) {
+			endVertLatvian($outs);
+			$status->{'Latvian'} = 0;
+		}
+	}
+	else {
+		endVertLatvian($outs);
+		$status->{'Latvian'} = 0;
+	}
+}
+
+sub _print_token
+{
+	my $internalProperties = shift @_;
+	my $status = shift @_;
+	my $counters = shift @_;
+	my $outs = shift @_;
+	my $token = shift @_;
+	my $translitToken = shift @_;
+	my $doTranslit = shift @_;
+	my $addressStub = calculateAddressStub($internalProperties, $counters, 1);
+
+	$counters->{'word'}++;
+	printVertGlue($outs) unless ($token =~ /^\s+(.*)$/ or $status->{'first word'});
+	$token =~ s/^\p{Z}*(.*)$/$1/;
+	my $tokenAddress = "${addressStub}_${\$counters->{'word'}}"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
+	printVertToken($outs, $token, $translitToken, $doTranslit, $tokenAddress);
+	$status->{'first word'} = 0;
+}
+
+
 
 1;

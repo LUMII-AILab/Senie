@@ -47,18 +47,18 @@ sub splitCorrection
 {
     my $token = shift @_;
     my $address = shift @_;
-    my ($form, $corr) = ($token, $token);
-    ($form, $corr) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
-    warn "Suspicious token $form at $address\n" if ($form =~/[@]/ and $DO_WARN_ATS);
-    warn "Suspicious token $form at $address\n" if ($form =~/\{\}/ and $DO_WARN_EMPTY_BRACES);
-    warn "Suspicious token $form at $address\n" if ($form =~/[\{\}]/ and $form !~ /\{\}/ and $DO_WARN_OTHER_BRACES);
+    my ($orig, $corr) = ($token, $token);
+    ($corr, $orig) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
+    warn "Suspicious token $orig at $address\n" if ($orig =~/[@]/ and $DO_WARN_ATS);
+    warn "Suspicious token $orig at $address\n" if ($orig =~/\{\}/ and $DO_WARN_EMPTY_BRACES);
+    warn "Suspicious token $orig at $address\n" if ($orig =~/[\{\}]/ and $orig !~ /\{\}/ and $DO_WARN_OTHER_BRACES);
     warn "Suspicious correction $corr at $address\n" if ($corr =~/[@]/ and $DO_WARN_ATS);
     warn "Suspicious correction $corr at $address\n" if ($corr =~/\{\}/ and $DO_WARN_EMPTY_BRACES);
     warn "Suspicious correction $corr at $address\n" if ($corr =~/[\{\}]/ and $corr !~ /\{\}/ and $DO_WARN_OTHER_BRACES);
 
     #TODO kā pareizi apstrādāt tos tukšos? Jo tas nenozīmē, ka iepriekšējo vārdu nevajag.
     #$corr = '_' unless $corr;
-    return [$form, $corr];
+    return [$corr, $orig];
 }
 
 sub printInAllStreams

@@ -9,9 +9,10 @@ use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType);
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw($DO_VERT printInVerts printVertDocHead printVertDocTail changeVertPage changeVertBibleChapter
-    startVertVerse startVertParagraph endVertParagraphVerse startVertLine endVertLine startVertSubBlock endVertSubBlock
-    printVertToken);
+our @EXPORT_OK = qw($DO_VERT printInVerts printVertDocHead printVertDocTail startVertPage endVertPage
+    startVertBibleChapter endVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse
+    startVertLine endVertLine startVertSubBlock endVertSubBlock startVertLatvian endVertLatvian
+    printVertToken printVertGlue);
 
 our $DO_VERT = 0;
 
@@ -47,97 +48,69 @@ sub printVertDocTail
     &printInVerts("</doc>\n", $outs);
 }
 
-sub changeVertPage
+sub startVertPage
 {
-    my $status = shift @_;
-    my $counters = shift @_;
     my $outs = shift @_;
     my $bookPageNo = shift @_;
     my $corrPageNo = shift @_;
-
-    endVertParagraphVerse($status, $outs);
-    if ($status->{'page'}) {
-        printInVerts("</page>\n", $outs);
-        $status->{'page'} = 0;
-    }
     printInVerts("<page sourceNo=\"$bookPageNo\" correctedNo=\"$corrPageNo\">\n", $outs);
-    $status->{'page'} = 1;
-
-    $counters->{'page'} = $corrPageNo;
-    $counters->{'line'} = 0;
 }
 
-sub changeVertBibleChapter
+sub endVertPage
 {
-    my $status = shift @_;
-    my $counters = shift @_;
+    my $outs = shift @_;
+    printInVerts("</page>\n", $outs);
+}
+
+sub startVertBibleChapter
+{
     my $outs = shift @_;
     my $chapterNo = shift @_;
+    printInVerts("<chapter no=\"$chapterNo}\">\n", $outs);
+}
 
-    endVertParagraphVerse($status, $outs);
-    printInVerts("</chapter>\n", $outs) if ($status->{'chapter'});
-    $counters->{'chapter'} = $chapterNo;
-    printInVerts("<chapter no=\"${\$counters->{'chapter'}}\">\n", $outs) if ($status->{'chapter'});
-    #TODO chapter commentary
-    $counters->{'verse'} = '0.';
+sub endVertBibleChapter
+{
+    my $outs = shift @_;
+    printInVerts("</chapter>\n", $outs);
 }
 
 sub startVertParagraph
 {
-    my $status = shift @_;
     my $outs = shift @_;
-
     printInVerts("<para type=\"Paragraph\">\n", $outs);
-    $status->{'paragraph'} = 1;
-}
-
-sub endVertParagraphVerse
-{
-    my $status = shift @_;
-    my $outs = shift @_;
-
-    if ($status->{'verse'} or $status->{'paragraph'}) {
-        printInVerts("</para>\n", $outs);
-        $status->{'verse'} = 0;
-        $status->{'paragraph'} = 0;
-    }
 }
 
 sub startVertVerse
 {
-    my $internalProperties = shift @_;
-    my $status = shift @_;
-    my $counters = shift @_;
     my $outs = shift @_;
+    my $address = shift @_;
     my $verseNo = shift @_;
-    my $indexType = getIndexType($internalProperties->{'full ID'});
+    my $indexType = shift @_;
 
-    $counters->{'verse'} = $verseNo;
-    printInVerts("</para>\n", $outs) if ($status->{'verse'});
     my $paraType = "Section";
     $paraType = "Verse" if ($indexType eq 'GNP');
-    my $address = calculateAddressStub($internalProperties, $counters, 0);
-    printInVerts("<para no=\"${\$counters->{'verse'}}\" type=\"$paraType\" address=\"${address}\">\n", $outs);
-    $status->{'verse'} = 1;
-    $counters->{'word'} = 0;
+    printInVerts("<para no=\"$verseNo\" type=\"$paraType\" address=\"${address}\">\n", $outs);
+}
+
+sub endVertParagraphVerse
+{
+    my $outs = shift @_;
+    printInVerts("</para>\n", $outs);
 }
 
 sub startVertLine
 {
-    my $internalProperties = shift @_;
-    my $counters = shift @_;
     my $outs = shift @_;
+    my $address = shift @_;
+    my $lineNo = shift @_;
     my $currentAuthor = shift @_;
-
-    my $fullSourceStub = $internalProperties->{'full ID'};
-    my $indexType = getIndexType($internalProperties->{'full ID'});
+    my $indexType = shift @_;
 
     printInVerts("<line author=\"$currentAuthor\"", $outs);
-    $counters->{'line'}++;
-    printInVerts(" no=\"${\$counters->{'line'}}\" address=\"${fullSourceStub}_${\$counters->{'page'}}_${\$counters->{'line'}}\"", $outs)
+    printInVerts(" no=\"$lineNo\" address=\"$address\"", $outs)
         if ($indexType eq 'LR' or $indexType eq 'GLR');
     printInVerts(">\n", $outs);
-    $counters->{'word'} = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
 }
 
 sub endVertLine
@@ -148,82 +121,52 @@ sub endVertLine
 
 sub startVertSubBlock
 {
-    my $status = shift @_;
     my $outs = shift @_;
-    my $codeLetter = shift @_;
-
-    my $isLang = isLanguage($codeLetter);
-    my $decoded = $codeLetter;
-    $decoded = decode($codeLetter) if (canDecode($codeLetter));
-    my $sketchElemType = ($isLang ? 'language' : 'block');
-    my $sketchAttrType = ($isLang ? 'langName' : 'type');
-
-    if ($codeLetter)
-    {
-        printInVerts("<$sketchElemType $sketchAttrType=\"$decoded\">\n", $outs);
-        startVertLatvian($status, $outs)
-            if (mustIncludeLanguage($codeLetter));
-    }
-    else
-    {
-        startVertLatvian($status, $outs);
-    }
+    my $element = shift @_;
+    my $attribute = shift @_;
+    my $attrValue = shift @_;
+    printInVerts("<$element $attribute=\"$attrValue\">\n", $outs);
 }
 
 sub endVertSubBlock
 {
-    my $status = shift @_;
     my $outs = shift @_;
-    my $codeLetter = shift @_;
-
-    my $isLang = isLanguage($codeLetter);
-    my $sketchElemType = ($isLang ? 'language' : 'block');
-
-    if ($codeLetter) {
-        printInVerts("</$sketchElemType>\n", $outs);
-        endVertLatvian($status, $outs) if (mustIncludeLanguage($codeLetter));
-    }
-    else {
-        endVertLatvian($status, $outs);
-    }
+    my $element = shift @_;
+    printInVerts("</$element>\n", $outs);
 }
 sub startVertLatvian
 {
-    my $status = shift @_;
     my $outs = shift @_;
     printInVerts("<language langName=\"Latvian\">\n", $outs);
-    $status->{'Latvian'} = 1;
 }
 
 sub endVertLatvian
 {
-    my $status = shift @_;
     my $outs = shift @_;
     printInVerts("</language>\n", $outs);
-    $status->{'Latvian'} = 0;
 }
 
 sub printVertToken
 {
-    my $internalProperties = shift @_;
-    my $status = shift @_;
-    my $counters = shift @_;
     my $outs = shift @_;
     my $token = shift @_;
     my $translitToken = shift @_;
     my $doTranslit = shift @_;
-    my $addressStub = calculateAddressStub($internalProperties, $counters, 1);
-
-    $counters->{'word'}++;
-    printInVerts("<g/>\n", $outs) unless ($token =~ /^\s+(.*)$/ or $status->{'first word'});
-    $token =~ s/^\p{Z}*(.*)$/$1/;
-
-    my $tokenAddress = "${addressStub}_${\$counters->{'word'}}"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
+    my $tokenAddress = shift @_;
+    #my ($splitCorr, $splitTok) = @{splitCorrection($token, $tokenAddress)};
     my ($splitTok, $splitCorr) = @{splitCorrection($token, $tokenAddress)};
     printInVerts("$splitTok\t$splitCorr", $outs);
-    printInVerts("\t$translitToken", $outs) if ($doTranslit);
+    if ($doTranslit) {
+        #my ($splitTranslitTok, $splitTranslitCorr) = @{splitCorrection($translitToken, $tokenAddress)};
+        printInVerts("\t$translitToken", $outs);
+    }
     printInVerts("\t$tokenAddress\n", $outs);
-    $status->{'first word'} = 0;
+}
+
+sub printVertGlue
+{
+    my $outs = shift @_;
+    printInVerts("<g/>\n", $outs);
 }
 
 sub printInVerts
