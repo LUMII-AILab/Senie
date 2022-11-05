@@ -153,12 +153,11 @@ sub printVertToken
     my $translitToken = shift @_;
     my $doTranslit = shift @_;
     my $tokenAddress = shift @_;
-    #my ($splitCorr, $splitTok) = @{splitCorrection($token, $tokenAddress)};
-    my ($splitTok, $splitCorr) = @{splitCorrection($token, $tokenAddress)};
-    printInVerts("$splitTok\t$splitCorr", $outs);
+    my ($splitCorr, $splitOrig) = @{splitCorrection($token, $tokenAddress)};
+    printInVerts("$splitOrig\t$splitCorr", $outs);
     if ($doTranslit) {
-        #my ($splitTranslitTok, $splitTranslitCorr) = @{splitCorrection($translitToken, $tokenAddress)};
-        printInVerts("\t$translitToken", $outs);
+        my ($splitTranslitCorr, ) = @{splitCorrection($translitToken, $tokenAddress)};
+        printInVerts("\t$splitTranslitCorr", $outs);
     }
     printInVerts("\t$tokenAddress\n", $outs);
 }
