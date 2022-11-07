@@ -348,7 +348,12 @@ sub _initialize_outputs
 
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $lowerSourceId = $internalProperties->{'short ID'};
-	my $fullFileNameStub = $DO_TRANSLIT ? "${fileNameStub}_translitered" : "${fileNameStub}";
+	my $fullFileNameStub = $fileNameStub;
+	if ($DO_TRANSLIT)
+	{
+		$fullFileNameStub =~ s/_unhyphened$//;
+		$fullFileNameStub = "${fullFileNameStub}_translitered";
+	}
 
 	# Vert file and its header
 	if ($DO_VERT)

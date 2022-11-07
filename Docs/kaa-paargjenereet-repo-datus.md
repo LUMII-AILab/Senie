@@ -79,7 +79,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 2. Pārģenerē TEI failus ar komandu `perl -CS -e "perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 1 data data-Apokr1689 data-JT1685 data-VD1689_94` (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
-5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode_transliterated.tei.xml` un pārvieto uz mapi `TEI`.
+5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode_translitered.tei.xml` un pārvieto uz mapi `TEI`.
 
 
 ## Vajag pārģenerēt vert failu
