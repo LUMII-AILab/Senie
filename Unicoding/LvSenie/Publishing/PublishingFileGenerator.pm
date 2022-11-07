@@ -349,10 +349,12 @@ sub _initialize_outputs
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $lowerSourceId = $internalProperties->{'short ID'};
 	my $fullFileNameStub = $fileNameStub;
+	my $htmlFileNameStub = $fullSourceStub;
 	if ($DO_TRANSLIT)
 	{
 		$fullFileNameStub =~ s/_unhyphened$//;
 		$fullFileNameStub = "${fullFileNameStub}_translitered";
+		$htmlFileNameStub = "${htmlFileNameStub}_translitered";
 	}
 
 	# Vert file and its header
@@ -368,8 +370,8 @@ sub _initialize_outputs
 	{
 		my $htmlFileName = $lowerSourceId;
 		$htmlFileName =~ s/_Unicode//;
-		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/$fullFileNameStub.html", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/$fullFileNameStub.html: $!";
+		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/$htmlFileNameStub.html", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/$htmlFileNameStub.html: $!";
 	}
 	printHtmlDocHead($fullSourceStub, $internalProperties, $outs);
 
