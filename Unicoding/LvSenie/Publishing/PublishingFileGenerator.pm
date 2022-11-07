@@ -349,12 +349,12 @@ sub _initialize_outputs
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $lowerSourceId = $internalProperties->{'short ID'};
 	my $fullFileNameStub = $fileNameStub;
-	my $htmlFileNameStub = $fullSourceStub;
+	my $htmlFileNameStub = $lowerSourceId;
 	if ($DO_TRANSLIT)
 	{
 		$fullFileNameStub =~ s/_unhyphened$//;
 		$fullFileNameStub = "${fullFileNameStub}_translitered";
-		$htmlFileNameStub = "${htmlFileNameStub}_translitered";
+		$htmlFileNameStub = "${lowerSourceId}_translitered";
 	}
 
 	# Vert file and its header
