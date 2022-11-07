@@ -1,0 +1,58 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Zv1681_Liec_1">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>[Liecinieku zvērests, 1]</title>
+      <date>1681</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <chanel>manuscript</chanel>
+     <domain type="public">Laicīgie teksti; lietišķie teksti, zvēresti</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Zv1681_Liec_1_--_1"/>
+       <div type="Language" lang="Latin">Formula Juramenti Teſtium</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1681_Liec_1_--_2"/>
+       <div type="Language" lang="German">Jch NN: red= v: ſchwere, ds Jch auf die</div>
+       <lb id="Zv1681_Liec_1_--_3"/>
+       <div type="Language" lang="German">articul= v: interrogatonen, auf welche</div>
+       <lb id="Zv1681_Liec_1_--_4"/>
+       <div type="Language" lang="German">ich befraget werde, die lautere wahr-</div>
+       <lb id="Zv1681_Liec_1_--_5"/>
+       <div type="Language" lang="German">heit ſag v: ſolche <corr>nicht</corr><sic>õ</sic> ſchweig wil umb</div>
+       <lb id="Zv1681_Liec_1_--_6"/>
+       <div type="Language" lang="German">Giftt, Gabe, feind= v: freundſchaftt willen;</div>
+       <lb id="Zv1681_Liec_1_--_7"/>
+       <div type="Language" lang="German">ſo wahr mir Gott hilffet v: ſein heiliges</div>
+       <lb id="Zv1681_Liec_1_--_8"/>
+       <div type="Language" lang="German">Evangelium:</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1681_Liec_1_--_9"/>
+        <div type="Language" lang="Latvian">Es runny v: ſwere py dewam mannam</div>
+       <lb id="Zv1681_Liec_1_--_10"/>
+        <div type="Language" lang="Latvian">pestatey, ka es gribbe us tho, ko man</div>
+       <lb id="Zv1681_Liec_1_--_11"/>
+        <div type="Language" lang="Latvian">klus waydzed, teſchen un tayſſen yſſadzid,</div>
+       <lb id="Zv1681_Liec_1_--_12"/>
+        <div type="Language" lang="Latvian">und to aſſchleket neh par wene dawan,</div>
+       <lb id="Zv1681_Liec_1_--_13"/>
+        <div type="Language" lang="Latvian">neh no draugepuss, neh no enaidzibe</div>
+       <lb id="Zv1681_Liec_1_--_14"/>
+        <div type="Language" lang="Latvian">neh pats bailibe, tick teſchem Ka man</div>
+       <lb id="Zv1681_Liec_1_--_15"/>
+        <div type="Language" lang="Latvian">dews pallidz und winge ſwete Evange-</div>
+       <lb id="Zv1681_Liec_1_--_16"/>
+        <div type="Language" lang="Latvian">lium</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

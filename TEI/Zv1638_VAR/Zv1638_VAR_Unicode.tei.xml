@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Zv1638_VAR">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>[Ziņu sniedzēja zvērests Vidzemes arklu revīzijā]</title>
+      <date>1638</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <chanel>manuscript</chanel>
+     <domain type="public">Laicīgie teksti; lietišķie teksti, zvēresti</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Zv1638_VAR_--_1"/>
+       <div type="Language" lang="German">Formula juramenti uff Teutſch:</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1638_VAR_--_2"/>
+       <div type="Language" lang="German">Jch N. schwerr bei dem Allmechtigen Gott, das Jch uff alle puncten, wor-</div>
+       <lb id="Zv1638_VAR_--_3"/>
+       <div type="Language" lang="German">uber Jch von den H. Reviſoren befragt werde, die rechte wahrheit, niemandt</div>
+       <lb id="Zv1638_VAR_--_4"/>
+       <div type="Language" lang="German">zu liebe oder leide, aus ſagen will, und nichts darin verſchweigen, ſo wahr Gott</div>
+       <lb id="Zv1638_VAR_--_5"/>
+       <div type="Language" lang="German">mich, mein Weib und Kindt, Acker, Viehe und alle das meinige helffen und ge-</div>
+       <lb id="Zv1638_VAR_--_6"/>
+       <div type="Language" lang="German">ſegnen ſoll.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1638_VAR_--_7"/>
+       <div type="Language" lang="German">Vff Lettisch alſo:</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1638_VAR_--_8"/>
+        <div type="Language" lang="Latvian">Es N. Shwere by Tewam Auxtam, Ka es uſſe</div>
+       <lb id="Zv1638_VAR_--_9"/>
+        <div type="Language" lang="Latvian">wüſſims letims Ko te Kunge man weitzes, taiſne</div>
+       <lb id="Zv1638_VAR_--_10"/>
+        <div type="Language" lang="Latvian">un patteſe, ne wenam no milibe etter Enaidibe</div>
+       <lb id="Zv1638_VAR_--_11"/>
+        <div type="Language" lang="Latvian">grib iſſatcit dic daisne man Tews pallice manne</div>
+       <lb id="Zv1638_VAR_--_12"/>
+        <div type="Language" lang="Latvian">Sewa, bärne Tirumme, lupe, un wüſſe Kas man pieter.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

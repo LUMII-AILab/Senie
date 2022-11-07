@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Stobbe1796_PTK">
+     <sourceDesc>
+      <author>Matiāss Stobe</author>
+      <title>Pee ta Kappa ta zeeniga G. W. Stendera</title>
+      <date>1796</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; gadījuma dzeja</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="Stobbe1796_PTK_1_1"/>
+        <div type="Language" lang="Latvian">Pee ta Kappa</div>
+       <lb id="Stobbe1796_PTK_1_2"/>
+        <div type="Language" lang="Latvian">ta zeeniga</div>
+       <lb id="Stobbe1796_PTK_1_3"/>
+        <div type="Language" lang="Latvian">G. W. Stendera.</div>
+       <lb id="Stobbe1796_PTK_1_4"/>
+        <div type="Language" lang="Latvian">nelaika Ꞩehrpilles un Ꞩonnakſtes</div>
+       <lb id="Stobbe1796_PTK_1_5"/>
+        <div type="Language" lang="Latvian">Baſnizkunga.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Stobbe1796_PTK_1_6"/>
+        <div type="Language" lang="Latvian">Ꞩcho wahrgu paẜaul atſtahjis,</div>
+       <lb id="Stobbe1796_PTK_1_7"/>
+        <div type="Language" lang="Latvian">Pee Debbestehwa nogahjis,</div>
+       <lb id="Stobbe1796_PTK_1_8"/>
+        <div type="Language" lang="Latvian">Kas ilgu laiku Kurſemneekeem,</div>
+       <lb id="Stobbe1796_PTK_1_9"/>
+        <div type="Language" lang="Latvian">Ar daudſ neisteizameem preekeem</div>
+       <lb id="Stobbe1796_PTK_1_10"/>
+        <div type="Language" lang="Latvian">Ak zik daudſ labbu darrijis!</div>
+       <lb id="Stobbe1796_PTK_1_11"/>
+        <div type="Language" lang="Latvian">Mihļẜch wezzais Stenders aismidſis -</div>
+       <lb id="Stobbe1796_PTK_1_12"/>
+        <div type="Language" lang="Latvian">Wiņẜch tehwu ſemmi mihļodams,</div>
+       <lb id="Stobbe1796_PTK_1_13"/>
+        <div type="Language" lang="Latvian">Tai draudſei Deewa wahrdu ſtahſtidams</div>
+       <lb id="Stobbe1796_PTK_1_14"/>
+        <div type="Language" lang="Latvian">Muhs Kurſemneekus mahzidams:</div>
+       <lb id="Stobbe1796_PTK_1_15"/>
+        <div type="Language" lang="Latvian">Kas augſta ẜwehta gudriba,</div>
+       <lb id="Stobbe1796_PTK_1_16"/>
+        <div type="Language" lang="Latvian">Kas ẜkaidra jauka walloda,</div>
+       <lb id="Stobbe1796_PTK_1_17"/>
+        <div type="Language" lang="Latvian">Kas ẜalda mihļa dſeeẜmiņa;</div>
+       <lb id="Stobbe1796_PTK_1_18"/>
+        <div type="Language" lang="Latvian">Ar ẜirmu galwiņu, pehz aſtoņdeẜmits gaddeem</div>
+       <lb id="Stobbe1796_PTK_1_19"/>
+        <div type="Language" lang="Latvian">Muhs atſtahjis - Pee tehweem, draugeem, raddeem,</div>
+       <lb id="Stobbe1796_PTK_1_20"/>
+        <div type="Language" lang="Latvian">Nu Deewa klehpî miht -</div>
+       <lb id="Stobbe1796_PTK_1_21"/>
+        <div type="Language" lang="Latvian">Gan ẜcheitan daſcha aẜẜariņa kriht!</div>
+       <lb id="Stobbe1796_PTK_1_22"/>
+        <div type="Language" lang="Latvian">Tur katrais Kurſemneeks tam leelu gohdu dohs,</div>
+       <lb id="Stobbe1796_PTK_1_23"/>
+        <div type="Language" lang="Latvian">Un pateizibas pilns wehl rohkas pabutẜchohs -</div>
+       <lb id="Stobbe1796_PTK_1_24"/>
+        <div type="Language" lang="Latvian">Ak kahdu ẜwehtu preeku juht,</div>
+       <lb id="Stobbe1796_PTK_1_25"/>
+        <div type="Language" lang="Latvian">Kam gohds irr dwehẜels glahbeis buht! -</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

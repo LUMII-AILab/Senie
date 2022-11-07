@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Zv1689_Kan">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>[Kaņepāju kulstītāju amata zvērests]</title>
+      <date>1689</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <chanel>manuscript</chanel>
+     <domain type="public">Laicīgie teksti; lietišķie teksti, zvēresti</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="251"/>
+      <div type="Paragraph">
+       <lb id="Zv1689_Kan_251_1"/>
+       <div type="Language" lang="German">Den 30. Aprilis Anno 1689.</div>
+      </div>
+      <pb n="252"/>
+      <div type="Paragraph">
+       <lb id="Zv1689_Kan_252_1"/>
+       <div type="Language" lang="German">Henffſchwinger Eyd.</div>
+       <lb id="Zv1689_Kan_252_2"/>
+       <div type="Language" lang="German">Jch N. rede und ſchwere, daß ich bey</div>
+       <lb id="Zv1689_Kan_252_3"/>
+       <div type="Language" lang="German">dieſem Ambt des Henffſchwingens,</div>
+       <lb id="Zv1689_Kan_252_4"/>
+       <div type="Language" lang="German">dabey ich angenommen worden bin,</div>
+       <lb id="Zv1689_Kan_252_5"/>
+       <div type="Language" lang="German">getreulich, fleißig, und nüchtern</div>
+       <lb id="Zv1689_Kan_252_6"/>
+       <div type="Language" lang="German">mich verhalten, weder durch Ge-</div>
+       <lb id="Zv1689_Kan_252_7"/>
+       <div type="Language" lang="German">ſchenk und Gaben, noch durch andere</div>
+       <lb id="Zv1689_Kan_252_8"/>
+       <div type="Language" lang="German">verbohtene Mittel den Henff und</div>
+       <lb id="Zv1689_Kan_252_9"/>
+       <div type="Language" lang="German">Flachß nicht verfälſchen, noch et-</div>
+       <lb id="Zv1689_Kan_252_10"/>
+       <div type="Language" lang="German">waß unreines drinlegen und</div>
+       <lb id="Zv1689_Kan_252_11"/>
+       <div type="Language" lang="German">vermiſchen, nochſelbſten etwaß da-</div>
+       <lb id="Zv1689_Kan_252_12"/>
+       <div type="Language" lang="German">von nehmen und mir zu nutzen</div>
+       <lb id="Zv1689_Kan_252_13"/>
+       <div type="Language" lang="German">machen; ſondern ſo, wie es die Wrahk</div>
+       <lb id="Zv1689_Kan_252_14"/>
+       <div type="Language" lang="German">erfodert reinigen und binden will.</div>
+       <lb id="Zv1689_Kan_252_15"/>
+       <div type="Language" lang="German">So wahr mir Gott helffe und ſein</div>
+       <lb id="Zv1689_Kan_252_16"/>
+       <div type="Language" lang="German">Heiliges Evangelium!</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1689_Kan_252_17"/>
+       <div type="Language" lang="Latin">Letticè.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1689_Kan_252_18"/>
+        <div type="Language" lang="Latvian">Es runnaju un ſwäru, ka es pee</div>
+       <lb id="Zv1689_Kan_252_19"/>
+        <div type="Language" lang="Latvian">ſcho Kannep=Kuhleju=Ammatu,</div>
+       <lb id="Zv1689_Kan_252_20"/>
+        <div type="Language" lang="Latvian">eekſchan kurru es äßmu usjemts,</div>
+       <lb id="Zv1689_Kan_252_21"/>
+        <div type="Language" lang="Latvian">peetitzigi, truwi, ghoddigi un tikku-</div>
+       <lb id="Zv1689_Kan_252_22"/>
+        <div type="Language" lang="Latvian">ſchi ſöw gribbu turrehtees, ney zaur</div>
+       <lb id="Zv1689_Kan_252_23"/>
+        <div type="Language" lang="Latvian">kadu dawanu, jeb dſerramu Naudu, jeb</div>
+       <lb id="Zv1689_Kan_252_24"/>
+        <div type="Language" lang="Latvian">us zittu aisleektu Wiſi jeb Zeļļu, pee</div>
+       <lb id="Zv1689_Kan_252_25"/>
+        <div type="Language" lang="Latvian">teem Kannepeem un Linneem neh-</div>
+       <lb id="Zv1689_Kan_252_26"/>
+        <div type="Language" lang="Latvian">kadu wiltu dariet. Neds arridzan</div>
+      </div>
+      <pb n="253"/>
+      <div type="Paragraph">
+       <lb id="Zv1689_Kan_253_1"/>
+        <div type="Language" lang="Latvian">Kadu nehſkieſtu Pretz ſtarpa lickt jeb</div>
+       <lb id="Zv1689_Kan_253_2"/>
+        <div type="Language" lang="Latvian">ſajaukt, neds arri nehneeka no to</div>
+       <lb id="Zv1689_Kan_253_3"/>
+        <div type="Language" lang="Latvian">jemt, un ſöw Kadus Auglus dariet,</div>
+       <lb id="Zv1689_Kan_253_4"/>
+        <div type="Language" lang="Latvian">jeb mekleht, bett ta, ka tai Brakehſchanai</div>
+       <lb id="Zv1689_Kan_253_5"/>
+        <div type="Language" lang="Latvian">peenahkahß, tieriet un ſeett gribbu;</div>
+       <lb id="Zv1689_Kan_253_6"/>
+        <div type="Language" lang="Latvian">tik teeſcham, ka mann Deews pal-</div>
+       <lb id="Zv1689_Kan_253_7"/>
+        <div type="Language" lang="Latvian">lieds un winja ſwätz Ewange-</div>
+       <lb id="Zv1689_Kan_253_8"/>
+        <div type="Language" lang="Latvian">liums!</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

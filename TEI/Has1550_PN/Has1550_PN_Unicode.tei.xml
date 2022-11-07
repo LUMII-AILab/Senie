@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Has1550_PN">
+     <sourceDesc>
+      <author>Johans Hazentēters</author>
+      <title>[Hazentētera tēvreize]</title>
+      <date>1550</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Has1550_PN_--_1"/>
+        <div type="Language" lang="Latvian">Täbes mus kas tu es eckſchan debbeſſis/ Schwetitz tows waartz/ enack</div>
+       <lb id="Has1550_PN_--_2"/>
+        <div type="Language" lang="Latvian">mums tows walſtibe tows praats bus ka eckſchan Debbes/ ta wurſan</div>
+       <lb id="Has1550_PN_--_3"/>
+        <div type="Language" lang="Latvian">ſemmes. Muſſe deniſche Mäyſe důth mümß ſchodeen/ pammate müms</div>
+       <lb id="Has1550_PN_--_4"/>
+        <div type="Language" lang="Latvian">muße gräke ka meß pammat muße parradueken/ Ne wedde mums</div>
+       <lb id="Has1550_PN_--_5"/>
+        <div type="Language" lang="Latvian">louna badeckle/ pett paſſarga mums nu wüſſe loune Amen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

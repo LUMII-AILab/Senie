@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Gr1520_PN">
+     <sourceDesc>
+      <author>Simons Grūnavs</author>
+      <title>[Grūnava tēvreize]</title>
+      <date>1520</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Gr1520_PN_--_1"/>
+        <div type="Language" lang="Latvian">Nosſen Thewes Cur thu es delbas Zweÿtz giſcher thowes</div>
+       <lb id="Gr1520_PN_--_2"/>
+        <div type="Language" lang="Latvian">wardes Penag munis Tholbe müſtlaſtilbi Tolpes pratres</div>
+       <lb id="Gr1520_PN_--_3"/>
+        <div type="Language" lang="Latvian">Gir <corr>kade</corr><sic>Girkade</sic> delbesſime tade Sÿmmes Semmes Worsünÿ</div>
+       <lb id="Gr1520_PN_--_4"/>
+        <div type="Language" lang="Latvian">dodi mommÿs Annosse igdemas maÿse, unde Gaÿtkas</div>
+       <lb id="Gr1520_PN_--_5"/>
+        <div type="Language" lang="Latvian">Pammes mumÿs nusſe nozegimi Cade <corr>mes</corr><sic>Cademes</sic> Pametam mu-</div>
+       <lb id="Gr1520_PN_--_6"/>
+        <div type="Language" lang="Latvian">sen <corr>Prettaunekans</corr><sic>Prettaune kans</sic> newede munis lawnan Padoman</div>
+       <lb id="Gr1520_PN_--_7"/>
+        <div type="Language" lang="Latvian">Swalbadi munis no <corr>wusſe</corr><sic>nowusſe</sic> Loyne Jesus Amen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

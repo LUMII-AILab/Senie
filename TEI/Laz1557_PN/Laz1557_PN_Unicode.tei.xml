@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Laz1557_PN">
+     <sourceDesc>
+      <author>Volfgangs Lācijs</author>
+      <title>[Lācija tēvreize]</title>
+      <date>1557</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Laz1557_PN_--_1"/>
+        <div type="Language" lang="Latvian">tabes MVs kas tV es eckSchan debbessis schvve-</div>
+       <lb id="Laz1557_PN_--_2"/>
+        <div type="Language" lang="Latvian">titz tovvs vvaarcz ENAK MVMS tovvs vvalstibe</div>
+       <lb id="Laz1557_PN_--_3"/>
+        <div type="Language" lang="Latvian">tovvs praatz bvs ka eckschan debbes ta vvvrsan</div>
+       <lb id="Laz1557_PN_--_4"/>
+        <div type="Language" lang="Latvian">svmmes Mvsse denische mayse dvth mums schoden</div>
+       <lb id="Laz1557_PN_--_5"/>
+        <div type="Language" lang="Latvian">pammate mvms mvsse grake ka mess pammat mvs-</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Laz1557_PN_--_6"/>
+        <div type="Language" lang="Latvian">se patradveken, Ne vvedde mvms lovna bade-</div>
+       <lb id="Laz1557_PN_--_7"/>
+        <div type="Language" lang="Latvian">ckle, pett passarza mvms nv vvvsse lovne, Amen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

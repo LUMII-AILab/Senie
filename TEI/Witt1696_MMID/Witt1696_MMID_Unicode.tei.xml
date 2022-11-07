@@ -1,0 +1,47 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Witt1696_MMID">
+     <sourceDesc>
+      <author>Mihaels Vitenburgs</author>
+      <title>Man man ir Deews</title>
+      <date>1696</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; gadījuma dzeja</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Witt1696_MMID_--_1"/>
+        <div type="Language" lang="Latvian">Man man ir Deews in gan, drohſch Paggans ne war ſazziht,</div>
+       <lb id="Witt1696_MMID_--_2"/>
+        <div type="Language" lang="Latvian">Jo tã tas Garringſch truhxſt, kas ta mehds ſirdis ſchlazziht</div>
+       <lb id="Witt1696_MMID_--_3"/>
+        <div type="Language" lang="Latvian">Ka Mutte pahri ruhkſt, in gahſchahs Deewu teikt,</div>
+       <lb id="Witt1696_MMID_--_4"/>
+        <div type="Language" lang="Latvian">Kas Trihs eekſch Wahrdeem ir, kas dſihwoht ne war beikt.</div>
+       <lb id="Witt1696_MMID_--_5"/>
+        <div type="Language" lang="Latvian">Brahl tew ir Deews in gan, Tu turri ſchadu Schwarru,</div>
+       <lb id="Witt1696_MMID_--_6"/>
+        <div type="Language" lang="Latvian">Kas paſcham Platonam wehl pahri ſtaw ar Warru;</div>
+       <lb id="Witt1696_MMID_--_7"/>
+        <div type="Language" lang="Latvian">Reds ſtipprais Akmintinoſch kas wisſohs Mallohs miht</div>
+       <lb id="Witt1696_MMID_--_8"/>
+        <div type="Language" lang="Latvian">Tas Mutteh ſinnu skils tohs Prettineekus dſiht.</div>
+       <lb id="Witt1696_MMID_--_9"/>
+        <div type="Language" lang="Latvian">Pats ſtipprais Dſimtu Kungs tehs Schwinnu Skohlas krahjas,</div>
+       <lb id="Witt1696_MMID_--_10"/>
+        <div type="Language" lang="Latvian">Eeſahkoht in ar beikt ta ſcheitan ka jau Mahjahs,</div>
+       <lb id="Witt1696_MMID_--_11"/>
+        <div type="Language" lang="Latvian">Tas buhs Taws Algs in Gohds, Tas puſchkos! ſakki man</div>
+       <lb id="Witt1696_MMID_--_12"/>
+        <div type="Language" lang="Latvian">Brahl? War es wehlet wehl, kad Tew ir Deews in gan.</div>
+       <lb id="Witt1696_MMID_--_13"/>
+        <div type="Language" lang="Latvian">M.W.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

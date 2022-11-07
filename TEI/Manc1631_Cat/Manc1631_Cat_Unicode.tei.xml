@@ -1,0 +1,3097 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Manc1631_Cat">
+     <sourceDesc>
+      <author>Georgs Mancelis</author>
+      <title>Der kleine Catechismus, 1631</title>
+      <date>1631</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; katehisms</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="446"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_446_1"/>
+       <div type="Language" lang="German">Der kleine</div>
+       <lb id="Manc1631_Cat_446_2"/>
+       <div type="Language" lang="German">Catechiſmus</div>
+       <lb id="Manc1631_Cat_446_3"/>
+       <div type="Language" lang="Latin">D. MARTINI LUTHERI,</div>
+       <lb id="Manc1631_Cat_446_4"/>
+       <div type="Language" lang="German">Seliger gedächtnis.</div>
+       <lb id="Manc1631_Cat_446_5"/>
+       <div type="Language" lang="German">Von newen vberſehen</div>
+       <lb id="Manc1631_Cat_446_6"/>
+       <div type="Language" lang="German">durch</div>
+       <lb id="Manc1631_Cat_446_7"/>
+       <div type="Language" lang="Latin">GEORGIVM MANCELIVM</div>
+       <lb id="Manc1631_Cat_446_8"/>
+       <div type="Language" lang="Latin">Semgallum P.</div>
+       <lb id="Manc1631_Cat_446_9"/>
+       <div type="Language" lang="Latin">Ad Zoilum:</div>
+       <lb id="Manc1631_Cat_446_10"/>
+       <div type="Language" lang="Latin">Serviat omne DEO ſtudium, ſremat Orbis et Orcus:</div>
+       <lb id="Manc1631_Cat_446_11"/>
+       <div type="Language" lang="Latin">Rumpatur Momus: Sat placuiſſe DEO</div>
+       <lb id="Manc1631_Cat_446_12"/>
+       <div type="Language" lang="Latin">Cum Grat. &amp; Privileg. Seren Reg. Maj. Svec.</div>
+       <lb id="Manc1631_Cat_446_13"/>
+       <div type="Language" lang="German">Gedruckt in der Königlichen Häupt vnd See-</div>
+       <lb id="Manc1631_Cat_446_14"/>
+       <div type="Language" lang="German">Statt Riga in Lieffland/ durch vnd in Verle-</div>
+       <lb id="Manc1631_Cat_446_15"/>
+       <div type="Language" lang="German">gung Gerhard Schröders.</div>
+      </div>
+      <pb n="447"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_447_1"/>
+       <div type="Language" lang="German">Die fünff Häuptſtück des heiligen</div>
+       <lb id="Manc1631_Cat_447_2"/>
+       <div type="Language" lang="German">Catechiſmi /</div>
+       <lb id="Manc1631_Cat_447_3"/>
+       <div type="Language" lang="German">Neben der Beicht / Frage vnd Antwort / die</div>
+       <lb id="Manc1631_Cat_447_4"/>
+       <div type="Language" lang="German">da ſonderlich den einfältigen Bawren vor vnd nach</div>
+       <lb id="Manc1631_Cat_447_5"/>
+       <div type="Language" lang="German">der Predigt ſollen fein deutlich vnd langſam vor-</div>
+       <lb id="Manc1631_Cat_447_6"/>
+       <div type="Language" lang="German">geleſen vnd gebehtet werden.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_447_7"/>
+        <div type="Language" lang="Latvian">Tee Peezi Ghallwaghabbali tahß ſwätahß</div>
+       <lb id="Manc1631_Cat_447_8"/>
+        <div type="Language" lang="Latvian">Bährna=Mazibas /</div>
+       <lb id="Manc1631_Cat_447_9"/>
+        <div type="Language" lang="Latvian">Ar to Ghräko=ẜuhdſeſchanu / Jautaſchaneems vnd</div>
+       <lb id="Manc1631_Cat_447_10"/>
+        <div type="Language" lang="Latvian">Adbilldeſchaneems.</div>
+       <lb id="Manc1631_Cat_447_11"/>
+        <div type="Language" lang="Latvian">I.</div>
+       <lb id="Manc1631_Cat_447_12"/>
+        <div type="Language" lang="Latvian">Tee deßmitte Deewa Baußli.</div>
+       <lb id="Manc1631_Cat_447_13"/>
+        <div type="Language" lang="Latvian">Taß pirmais Baußlis.</div>
+       <lb id="Manc1631_Cat_447_14"/>
+        <div type="Language" lang="Latvian">ES äßmu tas Kunx taws Deews /</div>
+       <lb id="Manc1631_Cat_447_15"/>
+        <div type="Language" lang="Latvian">katters töw no AEgypteŗo Semmes</div>
+       <lb id="Manc1631_Cat_447_16"/>
+        <div type="Language" lang="Latvian">ißweddis gir / Töw nhe buhß czittus</div>
+       <lb id="Manc1631_Cat_447_17"/>
+        <div type="Language" lang="Latvian">Deewus turreht preekſchan mann.</div>
+       <lb id="Manc1631_Cat_447_18"/>
+        <div type="Language" lang="Latvian">Tas ohters.</div>
+       <lb id="Manc1631_Cat_447_19"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß Deewa tawa Kungha</div>
+       <lb id="Manc1631_Cat_447_20"/>
+        <div type="Language" lang="Latvian">Wahrdu nhe=patteeſẜe walkoht.</div>
+      </div>
+      <pb n="448"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_448_1"/>
+        <div type="Language" lang="Latvian">Tas treſſchais.</div>
+       <lb id="Manc1631_Cat_448_2"/>
+        <div type="Language" lang="Latvian">Töw buhß to Swähtu=deenu ſwähtiet.</div>
+       <lb id="Manc1631_Cat_448_3"/>
+        <div type="Language" lang="Latvian">Tas czettortz.</div>
+       <lb id="Manc1631_Cat_448_4"/>
+        <div type="Language" lang="Latvian">Töw buhß tawu Tähwu vnd tawu Maht</div>
+       <lb id="Manc1631_Cat_448_5"/>
+        <div type="Language" lang="Latvian">czeeniet / ka töw labb klahjahß / vnd thu illghe</div>
+       <lb id="Manc1631_Cat_448_6"/>
+        <div type="Language" lang="Latvian">dſiwo wirſẜu Semmes.</div>
+       <lb id="Manc1631_Cat_448_7"/>
+        <div type="Language" lang="Latvian">Tas Peektz.</div>
+       <lb id="Manc1631_Cat_448_8"/>
+        <div type="Language" lang="Latvian">Töw nhe buhs Nokaut.</div>
+       <lb id="Manc1631_Cat_448_9"/>
+        <div type="Language" lang="Latvian">Tas ſäſts.</div>
+       <lb id="Manc1631_Cat_448_10"/>
+        <div type="Language" lang="Latvian">Töw nhe buhs Laulibu pahrkapht.</div>
+       <lb id="Manc1631_Cat_448_11"/>
+        <div type="Language" lang="Latvian">Tas ſeptietz.</div>
+       <lb id="Manc1631_Cat_448_12"/>
+        <div type="Language" lang="Latvian">Töw nhe buhs Sackt.</div>
+       <lb id="Manc1631_Cat_448_13"/>
+        <div type="Language" lang="Latvian">Tas aſtohtz.</div>
+       <lb id="Manc1631_Cat_448_14"/>
+        <div type="Language" lang="Latvian">Töw nhe buhs nhe=patteeſẜu Leezibu</div>
+       <lb id="Manc1631_Cat_448_15"/>
+        <div type="Language" lang="Latvian">doht / prettie tawu Tuaku.</div>
+       <lb id="Manc1631_Cat_448_16"/>
+        <div type="Language" lang="Latvian">Tas dewietz.</div>
+       <lb id="Manc1631_Cat_448_17"/>
+        <div type="Language" lang="Latvian">Töw nhe buhs eekarohtees Tawa Tu-</div>
+       <lb id="Manc1631_Cat_448_18"/>
+        <div type="Language" lang="Latvian">awka Nammu.</div>
+       <lb id="Manc1631_Cat_448_19"/>
+        <div type="Language" lang="Latvian">Tas deßmitz.</div>
+       <lb id="Manc1631_Cat_448_20"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß eekarohtees tawa Tu-</div>
+       <lb id="Manc1631_Cat_448_21"/>
+        <div type="Language" lang="Latvian">waka Ꞩeewu / Kallpu / Kalpon / Lohpu / jeb</div>
+       <lb id="Manc1631_Cat_448_22"/>
+        <div type="Language" lang="Latvian">wiß kas tam pedärr.</div>
+      </div>
+      <pb n="449"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_449_1"/>
+        <div type="Language" lang="Latvian">Ko ẜacka Deews wiſẜeems ſcheems Bauß-</div>
+       <lb id="Manc1631_Cat_449_2"/>
+        <div type="Language" lang="Latvian">leems?    Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_449_3"/>
+        <div type="Language" lang="Latvian">Wings ẜacka tha:</div>
+       <lb id="Manc1631_Cat_449_4"/>
+        <div type="Language" lang="Latvian">Es tas Kunx taws Deews / äßmu weens</div>
+       <lb id="Manc1631_Cat_449_5"/>
+        <div type="Language" lang="Latvian">dußmiex Deews / katters par teems kattri</div>
+       <lb id="Manc1631_Cat_449_6"/>
+        <div type="Language" lang="Latvian">mann eenied / tohs Tähwa Ghräkus mah-</div>
+       <lb id="Manc1631_Cat_449_7"/>
+        <div type="Language" lang="Latvian">jahs peemeckleyu py teems Bährneems</div>
+       <lb id="Manc1631_Cat_449_8"/>
+        <div type="Language" lang="Latvian">lieds treſſchu vnnd czätturtu Aughumu.</div>
+       <lb id="Manc1631_Cat_449_9"/>
+        <div type="Language" lang="Latvian">Bett teems kattri mann mieļo / vnd man-</div>
+       <lb id="Manc1631_Cat_449_10"/>
+        <div type="Language" lang="Latvian">nus Baußlus turr / teems darru es labb /</div>
+       <lb id="Manc1631_Cat_449_11"/>
+        <div type="Language" lang="Latvian">lieds tuhxtota Aughumu.</div>
+       <lb id="Manc1631_Cat_449_12"/>
+        <div type="Language" lang="Latvian">Ko mahzais tu no teems deßmitteems Bauß-</div>
+       <lb id="Manc1631_Cat_449_13"/>
+        <div type="Language" lang="Latvian">leems?    Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_449_14"/>
+        <div type="Language" lang="Latvian">Es mahzohs no teems mannus Ghräkus adſiet /</div>
+       <lb id="Manc1631_Cat_449_15"/>
+        <div type="Language" lang="Latvian">vnd ka es tohs deßmittus Baußlus nhe ſpehyu turreht /</div>
+       <lb id="Manc1631_Cat_449_16"/>
+        <div type="Language" lang="Latvian">ka Deews mann pawehleyis gir.</div>
+       <lb id="Manc1631_Cat_449_17"/>
+        <div type="Language" lang="Latvian">II.</div>
+       <lb id="Manc1631_Cat_449_18"/>
+       <div type="Language" lang="German">Der Glaube.</div>
+       <lb id="Manc1631_Cat_449_19"/>
+        <div type="Language" lang="Latvian">Ta Titziba.</div>
+       <lb id="Manc1631_Cat_449_20"/>
+        <div type="Language" lang="Latvian">ES titzu eekſchan Deewu to Tähwu / wiſ-</div>
+       <lb id="Manc1631_Cat_449_21"/>
+        <div type="Language" lang="Latvian">walditayu / Radditayu Debbes vnd</div>
+       <lb id="Manc1631_Cat_449_22"/>
+        <div type="Language" lang="Latvian">Semmes.</div>
+       <lb id="Manc1631_Cat_449_23"/>
+        <div type="Language" lang="Latvian">Vnd eekſchan JEſum Chriſtum / winja</div>
+      </div>
+      <pb n="450"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_450_1"/>
+        <div type="Language" lang="Latvian">wenighu Dählu / muhſẜu Kunghu / katters e-</div>
+       <lb id="Manc1631_Cat_450_2"/>
+        <div type="Language" lang="Latvian">jämtz gir no to ſwähtu Gharru / pedſimbtz no</div>
+       <lb id="Manc1631_Cat_450_3"/>
+        <div type="Language" lang="Latvian">thas Jumprawas Maria / czeetis appack-</div>
+       <lb id="Manc1631_Cat_450_4"/>
+        <div type="Language" lang="Latvian">ſchan Pontio Pilato / Kruſtà ẜiſts / nomirris</div>
+       <lb id="Manc1631_Cat_450_5"/>
+        <div type="Language" lang="Latvian">vnd Apracktz / Semme kahpis eekſchan El-</div>
+       <lb id="Manc1631_Cat_450_6"/>
+        <div type="Language" lang="Latvian">les / treſſchà deenà attkal aukſcham czehlees</div>
+       <lb id="Manc1631_Cat_450_7"/>
+        <div type="Language" lang="Latvian">no teems Mirroņeems / Vßbrautzis Debbeſ-</div>
+       <lb id="Manc1631_Cat_450_8"/>
+        <div type="Language" lang="Latvian">ẜies / ẜehdees py labbahs Rohkas Deewa tha</div>
+       <lb id="Manc1631_Cat_450_9"/>
+        <div type="Language" lang="Latvian">wiſẜewallditaya Thäwa /no turrenes tas at-</div>
+       <lb id="Manc1631_Cat_450_10"/>
+        <div type="Language" lang="Latvian">ees / ẜohdiet tohs dſiwus vnd mirruſchus.</div>
+       <lb id="Manc1631_Cat_450_11"/>
+        <div type="Language" lang="Latvian">Es titzu eekſchan to Swähtu Gharru /</div>
+       <lb id="Manc1631_Cat_450_12"/>
+        <div type="Language" lang="Latvian">weenu ſwähtu Chriſtitu Baſnizu / to drau-</div>
+       <lb id="Manc1631_Cat_450_13"/>
+        <div type="Language" lang="Latvian">dſibu to ſwähto / Pedoſchanu tho Ghräko /</div>
+       <lb id="Manc1631_Cat_450_14"/>
+        <div type="Language" lang="Latvian">Aukſcham=czellſchanu tahs Meeſẜas / vnd</div>
+       <lb id="Manc1631_Cat_450_15"/>
+        <div type="Language" lang="Latvian">weenu muſchigu dſiewoſchanu / Amen.</div>
+       <lb id="Manc1631_Cat_450_16"/>
+        <div type="Language" lang="Latvian">Ko mahzais tu no tahß Titzibas?</div>
+       <lb id="Manc1631_Cat_450_17"/>
+        <div type="Language" lang="Latvian">Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_450_18"/>
+        <div type="Language" lang="Latvian">Es mahzohs no tahs / ka Deews mann Raddiyis</div>
+       <lb id="Manc1631_Cat_450_19"/>
+        <div type="Language" lang="Latvian">gir / vnd JEſus Chriſtus gir mann Peſtiyis / vnd ka</div>
+       <lb id="Manc1631_Cat_450_20"/>
+        <div type="Language" lang="Latvian">manni Ghräki czaur to ween peedohti tohp / vnd tas</div>
+       <lb id="Manc1631_Cat_450_21"/>
+        <div type="Language" lang="Latvian">ſwähtz Ghars gir manns ſwähtadarritais.</div>
+       <lb id="Manc1631_Cat_450_22"/>
+        <div type="Language" lang="Latvian">III.</div>
+       <lb id="Manc1631_Cat_450_23"/>
+       <div type="Language" lang="German">Das Gebet oder Vater vnſer.</div>
+      </div>
+      <pb n="451"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_451_1"/>
+        <div type="Language" lang="Latvian">Ta ſwähta Luhkſchana.</div>
+       <lb id="Manc1631_Cat_451_2"/>
+        <div type="Language" lang="Latvian">MVſẜo Thäws eekſchan Däbbeſẜu / ſwäh-</div>
+       <lb id="Manc1631_Cat_451_3"/>
+        <div type="Language" lang="Latvian">tietz tohp taws Wahrtz / Eenahkahs</div>
+       <lb id="Manc1631_Cat_451_4"/>
+        <div type="Language" lang="Latvian">mums tawa Wallſtiba / Taws Prahtz no-</div>
+       <lb id="Manc1631_Cat_451_5"/>
+        <div type="Language" lang="Latvian">teek ka eekſchan Däbbeſẜu / tha arridſan wirſ-</div>
+       <lb id="Manc1631_Cat_451_6"/>
+        <div type="Language" lang="Latvian">ẜu Semmes. Muhſẜu deeniſchku Mais</div>
+       <lb id="Manc1631_Cat_451_7"/>
+        <div type="Language" lang="Latvian">dohd mums ſchodeen / Vnd peedohd mums</div>
+       <lb id="Manc1631_Cat_451_8"/>
+        <div type="Language" lang="Latvian">muhſẜu Parradu / ka mehs pedohdam muhſ-</div>
+       <lb id="Manc1631_Cat_451_9"/>
+        <div type="Language" lang="Latvian">ẜeems Parradneekeems / Vnd nhe eewedd</div>
+       <lb id="Manc1631_Cat_451_10"/>
+        <div type="Language" lang="Latvian">mums eekſchan Kahrdenaſchanas / Bett</div>
+       <lb id="Manc1631_Cat_451_11"/>
+        <div type="Language" lang="Latvian">attpeſti mums no to Ļaunu / Aiſto töw pee-</div>
+       <lb id="Manc1631_Cat_451_12"/>
+        <div type="Language" lang="Latvian">där tha Wallſtiba / vnd tas Spähx / vnd tas</div>
+       <lb id="Manc1631_Cat_451_13"/>
+        <div type="Language" lang="Latvian">Ghodtz muhſchige muhſcham / Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_451_14"/>
+        <div type="Language" lang="Latvian">Ko mahzais tu no tahs ſwähtas Luhkſchanas?</div>
+       <lb id="Manc1631_Cat_451_15"/>
+        <div type="Language" lang="Latvian">Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_451_16"/>
+        <div type="Language" lang="Latvian">Es mahzohß no tahs / Deewu teeſcham peeẜauckt /</div>
+       <lb id="Manc1631_Cat_451_17"/>
+        <div type="Language" lang="Latvian">par Gharrighahms vnd Laizighahms leetahms / vnd ka</div>
+       <lb id="Manc1631_Cat_451_18"/>
+        <div type="Language" lang="Latvian">wings mums ghribbätu ar ẜawu ſwähtu Gharru wall-</div>
+       <lb id="Manc1631_Cat_451_19"/>
+        <div type="Language" lang="Latvian">diet / ghlabboht / muhſẜus Ghräkus peedoht / par Kahrde-</div>
+       <lb id="Manc1631_Cat_451_20"/>
+        <div type="Language" lang="Latvian">naſchanu paſẜarghat / vnd no wiſẜu Ļaun peſtiet.</div>
+       <lb id="Manc1631_Cat_451_21"/>
+        <div type="Language" lang="Latvian">IV.</div>
+       <lb id="Manc1631_Cat_451_22"/>
+       <div type="Language" lang="German">Von der Heiligen Tauff.</div>
+       <lb id="Manc1631_Cat_451_23"/>
+        <div type="Language" lang="Latvian">No tahs ſwähtas Chriſtibas.</div>
+      </div>
+      <pb n="452"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_452_1"/>
+        <div type="Language" lang="Latvian">MVhſẜo Kunx JEſus Chriſtus ẜatziya vs</div>
+       <lb id="Manc1631_Cat_452_2"/>
+        <div type="Language" lang="Latvian">ẜaweems Mazekļeems: Eita czaur wiſ-</div>
+       <lb id="Manc1631_Cat_452_3"/>
+        <div type="Language" lang="Latvian">ẜu Paſẜaul / vnd mahzaita wiſẜus Ļaudis /</div>
+       <lb id="Manc1631_Cat_452_4"/>
+        <div type="Language" lang="Latvian">vñ Chriſtiyeeta tohß eekſchan to Wahrdu ta</div>
+       <lb id="Manc1631_Cat_452_5"/>
+        <div type="Language" lang="Latvian">Tähwa / vnd ta Dähla / vnd ta ſwähta Ghar-</div>
+       <lb id="Manc1631_Cat_452_6"/>
+        <div type="Language" lang="Latvian">ra. Kas titz tohp Chriſtietz / tas taps</div>
+       <lb id="Manc1631_Cat_452_7"/>
+        <div type="Language" lang="Latvian">ſwähtz / bett kas nhe titz / tas taps paſuddis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_452_8"/>
+        <div type="Language" lang="Latvian">Ko mahzais tu no tahs Chriſtibas?</div>
+       <lb id="Manc1631_Cat_452_9"/>
+        <div type="Language" lang="Latvian">Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_452_10"/>
+        <div type="Language" lang="Latvian">Es mahzohß no tahß / ka Deews mann ghrib ſcheh-</div>
+       <lb id="Manc1631_Cat_452_11"/>
+        <div type="Language" lang="Latvian">liex buht / vnd tick teeſcham ka es Chriſtietz äßmu / tick tee-</div>
+       <lb id="Manc1631_Cat_452_12"/>
+        <div type="Language" lang="Latvian">ſcham ghribb wings mann mannus Ghräkus peedoht /</div>
+       <lb id="Manc1631_Cat_452_13"/>
+        <div type="Language" lang="Latvian">vnd mann par ẜawu Bährnu tahs muſchighas dſiwo-</div>
+       <lb id="Manc1631_Cat_452_14"/>
+        <div type="Language" lang="Latvian">ſchanas vsjämbt / taißnu vnd ſwähtu darriet.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_452_15"/>
+        <div type="Language" lang="Latvian">No teems Atzlägheems tahs Debbeſẜes /</div>
+       <lb id="Manc1631_Cat_452_16"/>
+        <div type="Language" lang="Latvian">Jeb no to Ghräko peedoſchanu.</div>
+       <lb id="Manc1631_Cat_452_17"/>
+        <div type="Language" lang="Latvian">Jeſus ẜatzija vs ẜaweems Mahzekļeems:</div>
+       <lb id="Manc1631_Cat_452_18"/>
+        <div type="Language" lang="Latvian">Meers gir ar jums: Jhten ka mann taß</div>
+       <lb id="Manc1631_Cat_452_19"/>
+        <div type="Language" lang="Latvian">Tähws ẜuhtiyis gir / ta ẜuhtu es jums. Vnd</div>
+       <lb id="Manc1631_Cat_452_20"/>
+        <div type="Language" lang="Latvian">to ẜatziyis / vspuhte wings tohß / vnd ẜatziya:</div>
+       <lb id="Manc1631_Cat_452_21"/>
+        <div type="Language" lang="Latvian">Jemmeeta to ſwähtu Gharru / kattreems</div>
+       <lb id="Manc1631_Cat_452_22"/>
+        <div type="Language" lang="Latvian">juhs tohs Ghräkus peedohſẜeeta / teems gir</div>
+      </div>
+      <pb n="453"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_453_1"/>
+        <div type="Language" lang="Latvian">tee peedohti / vnd kattreems juhs tohs pat-</div>
+       <lb id="Manc1631_Cat_453_2"/>
+        <div type="Language" lang="Latvian">turreſẜeeta / teems gir te patturräti.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_453_3"/>
+        <div type="Language" lang="Latvian">Ko mahzais tu no teems Wahrdeems no to Ghräko</div>
+       <lb id="Manc1631_Cat_453_4"/>
+        <div type="Language" lang="Latvian">pammeſſchanu?       Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_453_5"/>
+        <div type="Language" lang="Latvian">Es mahzohs no teems / ka Chriſtus gir teems Ba-</div>
+       <lb id="Manc1631_Cat_453_6"/>
+        <div type="Language" lang="Latvian">ſnizas Thäweems tahdu ſpähku vnd Warru dehwis /</div>
+       <lb id="Manc1631_Cat_453_7"/>
+        <div type="Language" lang="Latvian">teems nabbagheems Ghräzenekeems tohs Ghräkus pee-</div>
+       <lb id="Manc1631_Cat_453_8"/>
+        <div type="Language" lang="Latvian">doht / vnd teems Nhetitzigeems nhe peedoht. Vnd ko tee</div>
+       <lb id="Manc1631_Cat_453_9"/>
+        <div type="Language" lang="Latvian">peedohd eekſchan to Wahrdu JEſu / to pedohd arridſan</div>
+       <lb id="Manc1631_Cat_453_10"/>
+        <div type="Language" lang="Latvian">Deews Debbeſẜies.</div>
+       <lb id="Manc1631_Cat_453_11"/>
+        <div type="Language" lang="Latvian">V.</div>
+       <lb id="Manc1631_Cat_453_12"/>
+       <div type="Language" lang="German">Von dem heiligen Nachtmahl vnſers HEr-</div>
+       <lb id="Manc1631_Cat_453_13"/>
+       <div type="Language" lang="German">ren vnd Heylandes JEſu Chriſti.</div>
+       <lb id="Manc1631_Cat_453_14"/>
+        <div type="Language" lang="Latvian">No to Eeſtadiyumu tahs czeenigas vnnd</div>
+       <lb id="Manc1631_Cat_453_15"/>
+        <div type="Language" lang="Latvian">dahrgas Meeſẜas vnd Aſẜini muhſẜa Kungha</div>
+       <lb id="Manc1631_Cat_453_16"/>
+        <div type="Language" lang="Latvian">vnd Peſtitaya JEſu Chriſti.</div>
+       <lb id="Manc1631_Cat_453_17"/>
+        <div type="Language" lang="Latvian">MVhſẜo Kunx JEſus Chriſtus tanny</div>
+       <lb id="Manc1631_Cat_453_18"/>
+        <div type="Language" lang="Latvian">Nackty / kad tas peewilltz tappa / jehme</div>
+       <lb id="Manc1631_Cat_453_19"/>
+        <div type="Language" lang="Latvian">tas to Mais / patteitze vnd pahrlauſe to / vnd</div>
+       <lb id="Manc1631_Cat_453_20"/>
+        <div type="Language" lang="Latvian">dehwe to ẜaweems Mahzekleems / vnd ẜatzi-</div>
+       <lb id="Manc1631_Cat_453_21"/>
+        <div type="Language" lang="Latvian">ya: Jemmeeta / ähdeeta / ta gir manna Meeſ-</div>
+       <lb id="Manc1631_Cat_453_22"/>
+        <div type="Language" lang="Latvian">ẜa / kattra per jums tohp dohta / to darraita</div>
+       <lb id="Manc1631_Cat_453_23"/>
+        <div type="Language" lang="Latvian">mann peeminnädami.</div>
+       <lb id="Manc1631_Cat_453_24"/>
+        <div type="Language" lang="Latvian">Ta lieds arridſan jehme tas to Bigkeri /</div>
+      </div>
+      <pb n="454"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_454_1"/>
+        <div type="Language" lang="Latvian">pehtz to Wackarähden / patteitze / vnd dehwe</div>
+       <lb id="Manc1631_Cat_454_2"/>
+        <div type="Language" lang="Latvian">teems to / vnd ẜatziya: Jemmeeta / vnd dſer-</div>
+       <lb id="Manc1631_Cat_454_3"/>
+        <div type="Language" lang="Latvian">reeta wiſẜi no to / Schis Bigkeris gir ta jau-</div>
+       <lb id="Manc1631_Cat_454_4"/>
+        <div type="Language" lang="Latvian">na Eeſtadiſchana eekſchan mannu Aſẜini /</div>
+       <lb id="Manc1631_Cat_454_5"/>
+        <div type="Language" lang="Latvian">katters par jums vnd par dauds ißleetz tohp /</div>
+       <lb id="Manc1631_Cat_454_6"/>
+        <div type="Language" lang="Latvian">par peedoſchanu tho Ghräko / to darraita</div>
+       <lb id="Manc1631_Cat_454_7"/>
+        <div type="Language" lang="Latvian">czeekahrt juhß to dſerreeta / mann peminnä-</div>
+       <lb id="Manc1631_Cat_454_8"/>
+        <div type="Language" lang="Latvian">dami.</div>
+       <lb id="Manc1631_Cat_454_9"/>
+        <div type="Language" lang="Latvian">Ko mahzais tu no teems Wahrdeems no to ſwähtu</div>
+       <lb id="Manc1631_Cat_454_10"/>
+        <div type="Language" lang="Latvian">Wackar=Ehden muhſẜa Kunga JEſu Chriſti?</div>
+       <lb id="Manc1631_Cat_454_11"/>
+        <div type="Language" lang="Latvian">Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_454_12"/>
+        <div type="Language" lang="Latvian">Es mahzohs no teems / ka mans Kunx JEſus Chri-</div>
+       <lb id="Manc1631_Cat_454_13"/>
+        <div type="Language" lang="Latvian">ſtus ẜawu dahrgu Meeſẜu vnd Aſẜini mann par labb ee=</div>
+       <lb id="Manc1631_Cat_454_14"/>
+        <div type="Language" lang="Latvian">ſtadiyis gir / vnd ka mann ſtippre titzeht buhß / ka mann</div>
+       <lb id="Manc1631_Cat_454_15"/>
+        <div type="Language" lang="Latvian">Deews / vnd wiſẜeems Titzigeems tohs deewißkus vnd</div>
+       <lb id="Manc1631_Cat_454_16"/>
+        <div type="Language" lang="Latvian">debbeßkus Dahwanus tahs muſchigas dſiewoſchanas</div>
+       <lb id="Manc1631_Cat_454_17"/>
+        <div type="Language" lang="Latvian">eeſchkinkoht vnd doht gribb / kattri mann ween par labb</div>
+       <lb id="Manc1631_Cat_454_18"/>
+        <div type="Language" lang="Latvian">nopellniti gir / czaur JEſum Chriſtum mannu Peſtitayu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_454_19"/>
+       <div type="Language" lang="German">Von der Beicht.</div>
+       <lb id="Manc1631_Cat_454_20"/>
+        <div type="Language" lang="Latvian">No tahs Ghräko ſuhdſeſchanas.</div>
+       <lb id="Manc1631_Cat_454_21"/>
+        <div type="Language" lang="Latvian">Zeeniex vnd mieļais Baſnizas Kunx / es luhdſcho no</div>
+       <lb id="Manc1631_Cat_454_22"/>
+        <div type="Language" lang="Latvian">Deewa puſẜes / tu gribbi mannus Ghräkus klauſẜiet /</div>
+       <lb id="Manc1631_Cat_454_23"/>
+        <div type="Language" lang="Latvian">vnd peedoſchanu tho Ghräko ſluddenaht.</div>
+       <lb id="Manc1631_Cat_454_24"/>
+        <div type="Language" lang="Latvian">MYļais Baſnizas Kunx / es äßmu Deewam ẜuh-</div>
+       <lb id="Manc1631_Cat_454_25"/>
+        <div type="Language" lang="Latvian">dſeyis mannus Ghräkus / vnd ẜuhdſcho töw arri-</div>
+      </div>
+      <pb n="455"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_455_1"/>
+        <div type="Language" lang="Latvian">dſan Deewa weetà / ka es nabbax Czillwähx Deewu</div>
+       <lb id="Manc1631_Cat_455_2"/>
+        <div type="Language" lang="Latvian">mannu Kungu / ļoht vnd warrän apkaitenayis äſmu ar</div>
+       <lb id="Manc1631_Cat_455_3"/>
+        <div type="Language" lang="Latvian">manneems leeleems vnd ghruteems Ghräkeems / Man-</div>
+       <lb id="Manc1631_Cat_455_4"/>
+        <div type="Language" lang="Latvian">nu Deewu vnd Kungu no Ꞩirrtz dibbänu nhe peeluh-</div>
+       <lb id="Manc1631_Cat_455_5"/>
+        <div type="Language" lang="Latvian">dſis/ deewa Wahrdu daſchekahrt wellte wallkoyis / Ba-</div>
+       <lb id="Manc1631_Cat_455_6"/>
+        <div type="Language" lang="Latvian">ſniza nheghayis / Deewa Wahrdu nhe labpraht dſirr-</div>
+       <lb id="Manc1631_Cat_455_7"/>
+        <div type="Language" lang="Latvian">deyis: Mannu Thäwu vnd Maht / mannu Kungu vnd</div>
+       <lb id="Manc1631_Cat_455_8"/>
+        <div type="Language" lang="Latvian">Ghaſpaſchu (jeb Saimnezenu) nhe klauſẜiyis / ar ẜawu</div>
+       <lb id="Manc1631_Cat_455_9"/>
+        <div type="Language" lang="Latvian">Tuwaku Czillwäku daſchekahrt bahrees / eekſchan Enai-</div>
+       <lb id="Manc1631_Cat_455_10"/>
+        <div type="Language" lang="Latvian">dibas vnd Dußmibas dſiwoyis / Es äßmu arridſan beß-</div>
+       <lb id="Manc1631_Cat_455_11"/>
+        <div type="Language" lang="Latvian">kauniex biyis eekſchan Wahrdeems vnd darrbeems / eek-</div>
+       <lb id="Manc1631_Cat_455_12"/>
+        <div type="Language" lang="Latvian">ſchan leekas Ähſchanas vnd dſerrſchanas dſiwoyis / vnd</div>
+       <lb id="Manc1631_Cat_455_13"/>
+        <div type="Language" lang="Latvian">tha prettie wiſẜeems Deewa Baußleems Ghräkoyis /</div>
+       <lb id="Manc1631_Cat_455_14"/>
+        <div type="Language" lang="Latvian">Tas gir mann ļohte ſchähl. Tapehtz luhdſcho es no</div>
+       <lb id="Manc1631_Cat_455_15"/>
+        <div type="Language" lang="Latvian">Deewa puſẜes / mieļais Baſnizas Kunx / tu gribbi man-</div>
+       <lb id="Manc1631_Cat_455_16"/>
+        <div type="Language" lang="Latvian">nus Ghräkus czaur Chriſtum peedoht / vnd mannu iß-</div>
+       <lb id="Manc1631_Cat_455_17"/>
+        <div type="Language" lang="Latvian">bailohtu Ꞩirrdi ar Deewa Wahrdu eepreezenaht. Eß</div>
+       <lb id="Manc1631_Cat_455_18"/>
+        <div type="Language" lang="Latvian">ẜohlu Deewam vnd töw / es nhe ghrihbu wairs tieſche</div>
+       <lb id="Manc1631_Cat_455_19"/>
+        <div type="Language" lang="Latvian">Ghräkoht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_455_20"/>
+       <div type="Language" lang="German">Frage vnd Antwort auffs fürtzeſte geſtellet</div>
+       <lb id="Manc1631_Cat_455_21"/>
+       <div type="Language" lang="German">für dieſelbig ſo zum Nachtmahl des HErrn</div>
+       <lb id="Manc1631_Cat_455_22"/>
+       <div type="Language" lang="German">gehen wollen.</div>
+       <lb id="Manc1631_Cat_455_23"/>
+        <div type="Language" lang="Latvian">Tahß diwideßmittis Jautaſchanas vnd Adbil-</div>
+       <lb id="Manc1631_Cat_455_24"/>
+        <div type="Language" lang="Latvian">deſchanas.</div>
+       <lb id="Manc1631_Cat_455_25"/>
+        <div type="Language" lang="Latvian">Ta pirrma Jautaſchana.</div>
+       <lb id="Manc1631_Cat_455_26"/>
+        <div type="Language" lang="Latvian">1.	Titzi tu / ka tu <corr>weens</corr><sic>weenns</sic> Ghräzeneex eſẜi?		Adbilld.</div>
+       <lb id="Manc1631_Cat_455_27"/>
+        <div type="Language" lang="Latvian">Ja es titzu to / es eßmu weens Ghräzeneex.</div>
+      </div>
+      <pb n="456"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_456_1"/>
+        <div type="Language" lang="Latvian">Ta ohtra Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_2"/>
+        <div type="Language" lang="Latvian">2.	Ka ſinni tu to?	Adbilld.</div>
+       <lb id="Manc1631_Cat_456_3"/>
+        <div type="Language" lang="Latvian">Aran teems deßmitteems Baußleems / tohß nhe</div>
+       <lb id="Manc1631_Cat_456_4"/>
+        <div type="Language" lang="Latvian">äßmu es turreyis.</div>
+       <lb id="Manc1631_Cat_456_5"/>
+        <div type="Language" lang="Latvian">Ta treſſcha Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_6"/>
+        <div type="Language" lang="Latvian">3.	Gir töw tawi Ghräki arridſan ſchähl?	Adbilld.</div>
+       <lb id="Manc1631_Cat_456_7"/>
+        <div type="Language" lang="Latvian">Ja tas gir mann ſchähl / ka es prettie Deewu</div>
+       <lb id="Manc1631_Cat_456_8"/>
+        <div type="Language" lang="Latvian">Ghräkoyis äßmu.</div>
+       <lb id="Manc1631_Cat_456_9"/>
+        <div type="Language" lang="Latvian">Ta czättortta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_10"/>
+        <div type="Language" lang="Latvian">4.	Ko eſẜi tu ar taweems Ghräkeems pellniyis? Adb.</div>
+       <lb id="Manc1631_Cat_456_11"/>
+        <div type="Language" lang="Latvian">Nhe neeka labb / Deewa dußmibu vnd Enaidibu /</div>
+       <lb id="Manc1631_Cat_456_12"/>
+        <div type="Language" lang="Latvian">to laizigu Nahwu / vnd to muhſchigu paſuſſchanu.</div>
+       <lb id="Manc1631_Cat_456_13"/>
+        <div type="Language" lang="Latvian">Ta peekta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_14"/>
+        <div type="Language" lang="Latvian">5.	Titzi tu Ghräko peedoſchana?		Adbilld.</div>
+       <lb id="Manc1631_Cat_456_15"/>
+        <div type="Language" lang="Latvian">Es titzi no wiſẜas Ꞩirrdtz.</div>
+       <lb id="Manc1631_Cat_456_16"/>
+        <div type="Language" lang="Latvian">Ta ẜäſta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_17"/>
+        <div type="Language" lang="Latvian">6.	Ka tohp tawi Ghräki peedohti?		Adbilld.</div>
+       <lb id="Manc1631_Cat_456_18"/>
+        <div type="Language" lang="Latvian">Czaur Jeſum Chriſtum.</div>
+       <lb id="Manc1631_Cat_456_19"/>
+        <div type="Language" lang="Latvian">Ta ẜeptita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_20"/>
+        <div type="Language" lang="Latvian">7.	Kas gir Chriſtus?	Adbilld.</div>
+       <lb id="Manc1631_Cat_456_21"/>
+        <div type="Language" lang="Latvian">Deewa Dähls / patteeß Deews vnd Czillwähx.</div>
+       <lb id="Manc1631_Cat_456_22"/>
+        <div type="Language" lang="Latvian">Ta aſtota Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_23"/>
+        <div type="Language" lang="Latvian">8.	Czeek gir tur Deewi?	Adbilld.</div>
+       <lb id="Manc1631_Cat_456_24"/>
+        <div type="Language" lang="Latvian">Tur gir weens weeniex Deews / bett trieß Perẜoni /</div>
+       <lb id="Manc1631_Cat_456_25"/>
+        <div type="Language" lang="Latvian">Deews Tähws / Deews Dähls / Deews ſwätz Gharrs.</div>
+       <lb id="Manc1631_Cat_456_26"/>
+        <div type="Language" lang="Latvian">Ta dewita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_456_27"/>
+        <div type="Language" lang="Latvian">9.	Kas gir Deews tas Tähws?		Adbilld.</div>
+       <lb id="Manc1631_Cat_456_28"/>
+        <div type="Language" lang="Latvian">Deews tas Tähws gir muhſẜo Radditais / Deb-</div>
+       <lb id="Manc1631_Cat_456_29"/>
+        <div type="Language" lang="Latvian">bes vnd Semmes / vnd wiſẜo leeto.</div>
+      </div>
+      <pb n="457"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_457_1"/>
+        <div type="Language" lang="Latvian">Kas gir Deewa Dähls?	Adbilld.</div>
+       <lb id="Manc1631_Cat_457_2"/>
+        <div type="Language" lang="Latvian">Deewa Dähls gir muhſẜo Peſtitais / kas mums no</div>
+       <lb id="Manc1631_Cat_457_3"/>
+        <div type="Language" lang="Latvian">Ghräkeems Peſtiyis gir.</div>
+       <lb id="Manc1631_Cat_457_4"/>
+        <div type="Language" lang="Latvian">Kas gir tas ſwähtz Gharrs?	Adbilld.</div>
+       <lb id="Manc1631_Cat_457_5"/>
+        <div type="Language" lang="Latvian">Tas ſwähtz Gharrs gir muhſẜo ſwähtzdarritais vnd</div>
+       <lb id="Manc1631_Cat_457_6"/>
+        <div type="Language" lang="Latvian">Eepreezetais.</div>
+       <lb id="Manc1631_Cat_457_7"/>
+        <div type="Language" lang="Latvian">Ta deßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_457_8"/>
+        <div type="Language" lang="Latvian">10.	Gir tur trieß Radditayi / Peſtitayi / vnd ſwähte=dar-</div>
+       <lb id="Manc1631_Cat_457_9"/>
+        <div type="Language" lang="Latvian">ritayi?	Adbilld.</div>
+       <lb id="Manc1631_Cat_457_10"/>
+        <div type="Language" lang="Latvian">Nheneekahd / bett weens weeniex Deews / taß Rad-</div>
+       <lb id="Manc1631_Cat_457_11"/>
+        <div type="Language" lang="Latvian">ditaiß / Peſtitaiß / vnd ſwähte=darritais.</div>
+       <lb id="Manc1631_Cat_457_12"/>
+        <div type="Language" lang="Latvian">Ta weenapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_457_13"/>
+        <div type="Language" lang="Latvian">11.	Kas gir töw no Ghräkeems peſtiyis?		Adbilld.</div>
+       <lb id="Manc1631_Cat_457_14"/>
+        <div type="Language" lang="Latvian">Deewa Dähls JEſus Chriſtus / tas gir par man-</div>
+       <lb id="Manc1631_Cat_457_15"/>
+        <div type="Language" lang="Latvian">neems Ghräkeems to ruhktu Nahwu czeetis / vnd ẜawu</div>
+       <lb id="Manc1631_Cat_457_16"/>
+        <div type="Language" lang="Latvian">dahrgu Aſẜini ißlehyis py to Kruſta kohku.</div>
+       <lb id="Manc1631_Cat_457_17"/>
+        <div type="Language" lang="Latvian">Ta ohtrapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_457_18"/>
+        <div type="Language" lang="Latvian">12.	Ko buhß weenam Czillwäkam darriet / kad ta Ꞩirtz</div>
+       <lb id="Manc1631_Cat_457_19"/>
+        <div type="Language" lang="Latvian">no Ghräkeems ghruta gir?		Adbilld.</div>
+       <lb id="Manc1631_Cat_457_20"/>
+        <div type="Language" lang="Latvian">Tam buhß py ẜawu Baſnizas Kungu eet / vnd luhkt</div>
+       <lb id="Manc1631_Cat_457_21"/>
+        <div type="Language" lang="Latvian">Ghräko peedoſchanu czaur Chriſtum / vnd py Deewa</div>
+       <lb id="Manc1631_Cat_457_22"/>
+        <div type="Language" lang="Latvian">ghaldu eet.</div>
+       <lb id="Manc1631_Cat_457_23"/>
+        <div type="Language" lang="Latvian">Ta treſſchapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_457_24"/>
+        <div type="Language" lang="Latvian">13.	Ka buhß teems tad dſiewoht / kattri py Deewa=</div>
+       <lb id="Manc1631_Cat_457_25"/>
+        <div type="Language" lang="Latvian">ghalldu eet?	Adbilld.</div>
+       <lb id="Manc1631_Cat_457_26"/>
+        <div type="Language" lang="Latvian">Teems buhß dſiewoht eekſchan Deewa biyaſcha-</div>
+       <lb id="Manc1631_Cat_457_27"/>
+        <div type="Language" lang="Latvian">nas vnd Deewa peeluhkſchanas / eekſchan Ähſchanas</div>
+       <lb id="Manc1631_Cat_457_28"/>
+        <div type="Language" lang="Latvian">vnd dſerrſchanas ghaddige turrehtees.</div>
+      </div>
+      <pb n="458"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_458_1"/>
+        <div type="Language" lang="Latvian">Ta czättortapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_458_2"/>
+        <div type="Language" lang="Latvian">14.	Ghribbi tu labpraht py Deewa ghalldu eet / jeb kaß</div>
+       <lb id="Manc1631_Cat_458_3"/>
+        <div type="Language" lang="Latvian">ſpeeſch töw turr klaht?		Adbilld.</div>
+       <lb id="Manc1631_Cat_458_4"/>
+        <div type="Language" lang="Latvian">Manni ghräki vnd Deewa pa=wehleſchana.</div>
+       <lb id="Manc1631_Cat_458_5"/>
+        <div type="Language" lang="Latvian">Ta peektapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_458_6"/>
+        <div type="Language" lang="Latvian">15.	Ko ähd vnd dſerr tu py Deewa ghalldu?	Adbilld.</div>
+       <lb id="Manc1631_Cat_458_7"/>
+        <div type="Language" lang="Latvian">Es ähmu vnd <corr>dſeŗŗu</corr><sic>dſeeŗŗu</sic> turr to patteeſẜu Meeſẜu vnd</div>
+       <lb id="Manc1631_Cat_458_8"/>
+        <div type="Language" lang="Latvian">Aſẜini JEſu Chriſti / par eeſtipproſchanu mannu wahyu</div>
+       <lb id="Manc1631_Cat_458_9"/>
+        <div type="Language" lang="Latvian">Titzibu.</div>
+       <lb id="Manc1631_Cat_458_10"/>
+        <div type="Language" lang="Latvian">Ta ẜeſtapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_458_11"/>
+        <div type="Language" lang="Latvian">16.	Kattri Czillwäki eet zeenige py Deewa ghalldu?</div>
+       <lb id="Manc1631_Cat_458_12"/>
+        <div type="Language" lang="Latvian">Adbilld.</div>
+       <lb id="Manc1631_Cat_458_13"/>
+        <div type="Language" lang="Latvian">Tee / kattreems ta Titziba gir eekſchan Chriſto JE-</div>
+       <lb id="Manc1631_Cat_458_14"/>
+        <div type="Language" lang="Latvian">ſu / vnd titz / ka wings par teems ẜawu dahrgu Aſẜini iß-</div>
+       <lb id="Manc1631_Cat_458_15"/>
+        <div type="Language" lang="Latvian">leyis / nomiris vnd aukſcham czehlees gir.</div>
+       <lb id="Manc1631_Cat_458_16"/>
+        <div type="Language" lang="Latvian">Ta ẜeptitapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_458_17"/>
+        <div type="Language" lang="Latvian">17.	Kattri Czillwäki eet nhezenige py Deewa ghaldu? Ad.</div>
+       <lb id="Manc1631_Cat_458_18"/>
+        <div type="Language" lang="Latvian">Tee / kattri eekſchan Chriſto JEſu nhetitz / vnd pal-</div>
+       <lb id="Manc1631_Cat_458_19"/>
+        <div type="Language" lang="Latvian">leek eekſchan ẜaweems ruppyeems Ghräkeems.</div>
+       <lb id="Manc1631_Cat_458_20"/>
+        <div type="Language" lang="Latvian">Ta aſtotapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_458_21"/>
+        <div type="Language" lang="Latvian">18.	Ka buhß tad weenam Czillwäkam turrehtees / kad</div>
+       <lb id="Manc1631_Cat_458_22"/>
+        <div type="Language" lang="Latvian">tas py Deewa ghallda biyis gir?	Adbilld.</div>
+       <lb id="Manc1631_Cat_458_23"/>
+        <div type="Language" lang="Latvian">Tam buhß ghodige vnd ghaddige turretees / vnd eek-</div>
+       <lb id="Manc1631_Cat_458_24"/>
+        <div type="Language" lang="Latvian">ſchan Deewa biyaſchanas dſiewoht / vnd allaſchien Dee-</div>
+       <lb id="Manc1631_Cat_458_25"/>
+        <div type="Language" lang="Latvian">wu peeluhkt vnd peeẜauckt / vnd ẜawu Ꞩirrdi vnd Dweh-</div>
+       <lb id="Manc1631_Cat_458_26"/>
+        <div type="Language" lang="Latvian">ẜel tieſche ar Ghräkeems nhe apghaniet.</div>
+       <lb id="Manc1631_Cat_458_27"/>
+        <div type="Language" lang="Latvian">Ta dewitapadeßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_458_28"/>
+        <div type="Language" lang="Latvian">19.	Ka buhß weenam Czillwäkam Deewu peeluhkt /</div>
+       <lb id="Manc1631_Cat_458_29"/>
+        <div type="Language" lang="Latvian">kad tas py Deewa ghalldu ghrib eet?	Adbilld.</div>
+      </div>
+      <pb n="459"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_459_1"/>
+        <div type="Language" lang="Latvian">O wißwalldiex Deews vnd Debbeſẜo Tähws / es</div>
+       <lb id="Manc1631_Cat_459_2"/>
+        <div type="Language" lang="Latvian">luhdſohß töw / tu gribbi mann tawu ſwähtu Gharru</div>
+       <lb id="Manc1631_Cat_459_3"/>
+        <div type="Language" lang="Latvian">doht / ka es czaur weenu ghodigu vnd labbu ſchwehtigu</div>
+       <lb id="Manc1631_Cat_459_4"/>
+        <div type="Language" lang="Latvian">dſiewoſchanu / ſcho dahrgu Meeſẜu vnd Aſẜini tawa mie-</div>
+       <lb id="Manc1631_Cat_459_5"/>
+        <div type="Language" lang="Latvian">ļa Dähla / manna Kunga vnd Peſtitaya JEſu Chriſti</div>
+       <lb id="Manc1631_Cat_459_6"/>
+        <div type="Language" lang="Latvian">czeenige warru ähſt vnd dſerrt / vnd ka manna Titziba</div>
+       <lb id="Manc1631_Cat_459_7"/>
+        <div type="Language" lang="Latvian">warr eeſtiprohta tapt / vnd ka es eekſchan mieläſtibas</div>
+       <lb id="Manc1631_Cat_459_8"/>
+        <div type="Language" lang="Latvian">vnd zerribas vnd eekſchan tahß Titzibas peeaukt / vnd ihs</div>
+       <lb id="Manc1631_Cat_459_9"/>
+        <div type="Language" lang="Latvian">patt ghallam ſtippre paſtaweht warru / töw par ghodu</div>
+       <lb id="Manc1631_Cat_459_10"/>
+        <div type="Language" lang="Latvian">vnd ſlawu / vnd patteeſẜu paklauſẜiſchanu: Czaur to paſ-</div>
+       <lb id="Manc1631_Cat_459_11"/>
+        <div type="Language" lang="Latvian">ſchu tawu mieļu Dählu / mannu Kungu Jeſum Chri-</div>
+       <lb id="Manc1631_Cat_459_12"/>
+        <div type="Language" lang="Latvian">ſtum / Amen.</div>
+       <lb id="Manc1631_Cat_459_13"/>
+        <div type="Language" lang="Latvian">Ta ohtra deßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_459_14"/>
+        <div type="Language" lang="Latvian">20.	Ka buhß weenam Czillwäkam pehtz to / kad tas py</div>
+       <lb id="Manc1631_Cat_459_15"/>
+        <div type="Language" lang="Latvian">Deewa=ghalldu biyis gir / Deewam patteickt? Adbilld.</div>
+       <lb id="Manc1631_Cat_459_16"/>
+        <div type="Language" lang="Latvian">O Kunx JEſu Chriſte / es patteitſchu töw / ka tu</div>
+       <lb id="Manc1631_Cat_459_17"/>
+        <div type="Language" lang="Latvian">mann czaur tawu ruhktu Nahwu vnd Mohkams no</div>
+       <lb id="Manc1631_Cat_459_18"/>
+        <div type="Language" lang="Latvian">leeleems bähdeems / vnd Deewa dußmibu peſtiyis eſẜi /</div>
+       <lb id="Manc1631_Cat_459_19"/>
+        <div type="Language" lang="Latvian">vnd ka es tawu ſwähtu mohzibu allaſchien warru pee-</div>
+       <lb id="Manc1631_Cat_459_20"/>
+        <div type="Language" lang="Latvian">minneht / vnd ar to eeliexmotees / dohd mums tawu ſwä-</div>
+       <lb id="Manc1631_Cat_459_21"/>
+        <div type="Language" lang="Latvian">tu Gharru / ka es to paſſchu tawu dahrgu Meeſẜu vnd</div>
+       <lb id="Manc1631_Cat_459_22"/>
+        <div type="Language" lang="Latvian">Aſẜini tha warru wallkotees / ähſt vud dſerrt / ka alla-</div>
+       <lb id="Manc1631_Cat_459_23"/>
+        <div type="Language" lang="Latvian">ſchien tawu leelu mieläſtibu eekſchan mann auglige ap-</div>
+       <lb id="Manc1631_Cat_459_24"/>
+        <div type="Language" lang="Latvian">dohmaht warru / vnd pehtz tawu prahtu darriet / katters</div>
+       <lb id="Manc1631_Cat_459_25"/>
+        <div type="Language" lang="Latvian">tu dſiewo vnd walldi ar Deewu to Thäwu / vnd to ſwäh-</div>
+       <lb id="Manc1631_Cat_459_26"/>
+        <div type="Language" lang="Latvian">tu Gharru eekſchan weenas deewigas buhſchanas mu-</div>
+       <lb id="Manc1631_Cat_459_27"/>
+        <div type="Language" lang="Latvian">ſchige muhſcham / Amen.</div>
+      </div>
+      <pb n="460"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_460_1"/>
+       <div type="Language" lang="German">Die fünff fragen des hochwürdigen Sacra-</div>
+       <lb id="Manc1631_Cat_460_2"/>
+       <div type="Language" lang="German">ments vnſers HErren JEſu Chriſti.</div>
+       <lb id="Manc1631_Cat_460_3"/>
+        <div type="Language" lang="Latvian">Tahs peezis Jautaſchanas vnd Adbilldaſchanas.</div>
+       <lb id="Manc1631_Cat_460_4"/>
+        <div type="Language" lang="Latvian">Kaß py Deewa Ghalldu to Meeſẜu vnd to Aſẜini muhſẜa Kun-</div>
+       <lb id="Manc1631_Cat_460_5"/>
+        <div type="Language" lang="Latvian">gha vnd Peſtitaya JEſu Chriſti jembt gribb / tam buhß ſinnaht vs</div>
+       <lb id="Manc1631_Cat_460_6"/>
+        <div type="Language" lang="Latvian">ſcheems peezeems Jautaſchaneems adbilldeht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_460_7"/>
+        <div type="Language" lang="Latvian">Ta pirrma Jautaſchana.</div>
+       <lb id="Manc1631_Cat_460_8"/>
+        <div type="Language" lang="Latvian">Kapehtz ey tu py Deewa ghalldu?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_460_9"/>
+        <div type="Language" lang="Latvian">Ta pehtz / ka es weens Mannteneex äßmu / vnd mann</div>
+       <lb id="Manc1631_Cat_460_10"/>
+        <div type="Language" lang="Latvian">dalliba gir ar Chriſto / ar wiſẜeems mieļeems Enge-</div>
+       <lb id="Manc1631_Cat_460_11"/>
+        <div type="Language" lang="Latvian">leems / vnd ar wiſẜeems ghodigeems Chriſtiteems Ļau-</div>
+       <lb id="Manc1631_Cat_460_12"/>
+        <div type="Language" lang="Latvian">deems / ar teems zeeſt / vnd mirrth / vnd ſwähtz tapt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_460_13"/>
+        <div type="Language" lang="Latvian">Ta ohtra Jautaſchana.</div>
+       <lb id="Manc1631_Cat_460_14"/>
+        <div type="Language" lang="Latvian">Ko titzi tu / jeb ko ẜacki tu / ko tu py Deewa=ghalldu ee=</div>
+       <lb id="Manc1631_Cat_460_15"/>
+        <div type="Language" lang="Latvian">dams dabbu?	Adbilld.</div>
+       <lb id="Manc1631_Cat_460_16"/>
+        <div type="Language" lang="Latvian">Appackſchan vnd ar to Mais vnd Wienu gir turr</div>
+       <lb id="Manc1631_Cat_460_17"/>
+        <div type="Language" lang="Latvian">ta Meeſẜa vnd Aſẜinis JEſu Chriſti. Bett tas nhe gir</div>
+       <lb id="Manc1631_Cat_460_18"/>
+        <div type="Language" lang="Latvian">ghann / ka es to ſinnu / bett mann buhß to arridſan titzeht /</div>
+       <lb id="Manc1631_Cat_460_19"/>
+        <div type="Language" lang="Latvian">ka manns Kunx Chriſtus mann to par patteeſẜu Apſtip-</div>
+       <lb id="Manc1631_Cat_460_20"/>
+        <div type="Language" lang="Latvian">prenaſchanu / Siem vnd Eeſchkingkoſchanu dehwis gir.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_460_21"/>
+        <div type="Language" lang="Latvian">Ta treſſcha Jautaſchana.</div>
+       <lb id="Manc1631_Cat_460_22"/>
+        <div type="Language" lang="Latvian">Ka ſkann te Wahrdi tahß Eeſtadiſchanas / kattrus</div>
+       <lb id="Manc1631_Cat_460_23"/>
+        <div type="Language" lang="Latvian">tas Kunx Chriſtus runnayis gir?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_460_24"/>
+        <div type="Language" lang="Latvian">Ta ẜacka tas Kunx vs ẜaweems Mahzekļeems / to</div>
+       <lb id="Manc1631_Cat_460_25"/>
+        <div type="Language" lang="Latvian">Mais teems dohdams: Jemmeta vnd ähdeeta /</div>
+       <lb id="Manc1631_Cat_460_26"/>
+        <div type="Language" lang="Latvian">ta gir manna Meeſẜa kattra par jums dohta</div>
+       <lb id="Manc1631_Cat_460_27"/>
+        <div type="Language" lang="Latvian">tohp.</div>
+      </div>
+      <pb n="461"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_461_1"/>
+        <div type="Language" lang="Latvian">Vnd winyeems to Bigkeri dohdams / ſatziya tas:</div>
+       <lb id="Manc1631_Cat_461_2"/>
+        <div type="Language" lang="Latvian">Tas gir mannas Aſẜinis tahß jaunahß Ee-</div>
+       <lb id="Manc1631_Cat_461_3"/>
+        <div type="Language" lang="Latvian">ſtadiſchanas / katters par jums ißlietz tohp /</div>
+       <lb id="Manc1631_Cat_461_4"/>
+        <div type="Language" lang="Latvian">vnd par daudſeems eekſchan Ghräko peedo-</div>
+       <lb id="Manc1631_Cat_461_5"/>
+        <div type="Language" lang="Latvian">ſchanu / to darraita mannis peeminnädam̃i.</div>
+       <lb id="Manc1631_Cat_461_6"/>
+        <div type="Language" lang="Latvian">Ta czättorta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_461_7"/>
+        <div type="Language" lang="Latvian">Kapehtz jemm tu to Siem / jo töw ta Titziba ghann</div>
+       <lb id="Manc1631_Cat_461_8"/>
+        <div type="Language" lang="Latvian">gir ?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_461_9"/>
+        <div type="Language" lang="Latvian">To Siem jämmu es tapetz / ka es ẜawu Titzibu ap-</div>
+       <lb id="Manc1631_Cat_461_10"/>
+        <div type="Language" lang="Latvian">ſtipprenayu / nhe ka es tai Titzibai nhepaļautohß / bett kad</div>
+       <lb id="Manc1631_Cat_461_11"/>
+        <div type="Language" lang="Latvian">mann Deews to Siem lieds ar to Wahrdu dehwis gir /</div>
+       <lb id="Manc1631_Cat_461_12"/>
+        <div type="Language" lang="Latvian">no tieras lehnibas vnd ſchäläſtibas / nhe gribbu es to</div>
+       <lb id="Manc1631_Cat_461_13"/>
+        <div type="Language" lang="Latvian">pahrkahpt / Aiſto ta gir mann labba vnd wayaga py At-</div>
+       <lb id="Manc1631_Cat_461_14"/>
+        <div type="Language" lang="Latvian">jaunaſchanas / vnd par peeminneſchana tahs Ꞩaliedſe-</div>
+       <lb id="Manc1631_Cat_461_15"/>
+        <div type="Language" lang="Latvian">naſchanas / kattra mann gir ar mannu Kunghu Chriſto</div>
+       <lb id="Manc1631_Cat_461_16"/>
+        <div type="Language" lang="Latvian">vnd ar ẜawu Aſẜini / prett wiſẜu kahrdenaſchanu. Aiſto</div>
+       <lb id="Manc1631_Cat_461_17"/>
+        <div type="Language" lang="Latvian">tha gir Chriſtus pawehleyis / ka mums to darriet buhß</div>
+       <lb id="Manc1631_Cat_461_18"/>
+        <div type="Language" lang="Latvian">py ẜawas peeminneſchanas. Tas gir mums buhß win-</div>
+       <lb id="Manc1631_Cat_461_19"/>
+        <div type="Language" lang="Latvian">ja Nahwu paſluddenaht / kattra gir muhſẜo Swähtiba</div>
+       <lb id="Manc1631_Cat_461_20"/>
+        <div type="Language" lang="Latvian">vnd muhſchiga  dſiewoſchana.</div>
+       <lb id="Manc1631_Cat_461_21"/>
+        <div type="Language" lang="Latvian">Ta peekta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_461_22"/>
+        <div type="Language" lang="Latvian">Ka ghribbi tu to Deewa Meeläſtu jembt ?  Adbilldi:</div>
+       <lb id="Manc1631_Cat_461_23"/>
+        <div type="Language" lang="Latvian">Es ghribbu ähſt vnd dſerrt / vnd winya Wahrdeems</div>
+       <lb id="Manc1631_Cat_461_24"/>
+        <div type="Language" lang="Latvian">titzeht / kattrus wings vs ẜaweems Mahzekleems run-</div>
+       <lb id="Manc1631_Cat_461_25"/>
+        <div type="Language" lang="Latvian">naya / to Deewa Meelaſtu dohdams.</div>
+       <lb id="Manc1631_Cat_461_26"/>
+        <div type="Language" lang="Latvian">Scho preezighu Ꞩoliſchanu buhß mums ar titzigu</div>
+       <lb id="Manc1631_Cat_461_27"/>
+        <div type="Language" lang="Latvian">Ꞩirdi ſayembt.</div>
+      </div>
+      <pb n="462"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_462_1"/>
+       <div type="Language" lang="German">Die heiligen zehen Ge-</div>
+       <lb id="Manc1631_Cat_462_2"/>
+       <div type="Language" lang="German">bot GOttes / mit der Erklerung</div>
+       <lb id="Manc1631_Cat_462_3"/>
+       <div type="Language" lang="German">Doctor. Martini Lutheri.</div>
+       <lb id="Manc1631_Cat_462_4"/>
+        <div type="Language" lang="Latvian">Tee deßmitti Deewa Baußli / ka tohß ick=kat-</div>
+       <lb id="Manc1631_Cat_462_5"/>
+        <div type="Language" lang="Latvian">tram Ꞩaimneekam ẜawi Ꞩaimai ẜaprohtige</div>
+       <lb id="Manc1631_Cat_462_6"/>
+        <div type="Language" lang="Latvian">mahziet buhß.</div>
+       <lb id="Manc1631_Cat_462_7"/>
+        <div type="Language" lang="Latvian">Tas pirrmais Baußlis.</div>
+       <lb id="Manc1631_Cat_462_8"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß czittus Deewus turreht</div>
+       <lb id="Manc1631_Cat_462_9"/>
+        <div type="Language" lang="Latvian">preekſchan mann.</div>
+       <lb id="Manc1631_Cat_462_10"/>
+        <div type="Language" lang="Latvian">Kas gir tas?	 Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_462_11"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu par wiſẜams leetahms bietees /</div>
+       <lb id="Manc1631_Cat_462_12"/>
+        <div type="Language" lang="Latvian">mieļoht / vnd vs to czerreht.</div>
+      </div>
+      <pb n="463"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_463_1"/>
+        <div type="Language" lang="Latvian">Tas ohters Baußlis.</div>
+       <lb id="Manc1631_Cat_463_2"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß Deewa tawa Kungha</div>
+       <lb id="Manc1631_Cat_463_3"/>
+        <div type="Language" lang="Latvian">Wahrdu nhe patteeſẜe wallkoht.</div>
+       <lb id="Manc1631_Cat_463_4"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_463_5"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_463_6"/>
+        <div type="Language" lang="Latvian">py winya Wahrdu nhe Lahdam / neds nhe patteeſẜu Dee-</div>
+       <lb id="Manc1631_Cat_463_7"/>
+        <div type="Language" lang="Latvian">wu minnam / ney Buŗŗam / Mälloyam / nei Peewiļļam:</div>
+       <lb id="Manc1631_Cat_463_8"/>
+        <div type="Language" lang="Latvian">Bett winyu wiſẜahs bähdahß peeẜauzam / luhdſam / teit-</div>
+       <lb id="Manc1631_Cat_463_9"/>
+        <div type="Language" lang="Latvian">zam vnd ſlaweyam.</div>
+      </div>
+      <pb n="464"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_464_1"/>
+        <div type="Language" lang="Latvian">Tas Treſſchais Baußlis.</div>
+       <lb id="Manc1631_Cat_464_2"/>
+        <div type="Language" lang="Latvian">Töw buhß to ſwähtu Deenu ſwähtiet.</div>
+       <lb id="Manc1631_Cat_464_3"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_464_4"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_464_5"/>
+        <div type="Language" lang="Latvian">to Mahzibu vnd winya Wahrdu nhe pullghoyam / bett</div>
+       <lb id="Manc1631_Cat_464_6"/>
+        <div type="Language" lang="Latvian">to paſſchu ſwähtu turram / labpraht dſirrdam / vnd mah-</div>
+       <lb id="Manc1631_Cat_464_7"/>
+        <div type="Language" lang="Latvian">zamees.</div>
+      </div>
+      <pb n="465"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_465_1"/>
+        <div type="Language" lang="Latvian">Tas czättortz Baußlis.</div>
+       <lb id="Manc1631_Cat_465_2"/>
+        <div type="Language" lang="Latvian">Töw buhß tawu Tähwu vnd tawu Maht</div>
+       <lb id="Manc1631_Cat_465_3"/>
+        <div type="Language" lang="Latvian">czeeniet / ka töw labb klahyahß / vnd tu illghe</div>
+       <lb id="Manc1631_Cat_465_4"/>
+        <div type="Language" lang="Latvian">dſiewo wirſẜu Semmes.</div>
+       <lb id="Manc1631_Cat_465_5"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbildeſchana.</div>
+       <lb id="Manc1631_Cat_465_6"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_465_7"/>
+        <div type="Language" lang="Latvian">muhſẜo Thäwu vnd Maht / vnd Kungus nhe pullgho-</div>
+       <lb id="Manc1631_Cat_465_8"/>
+        <div type="Language" lang="Latvian">yam / neds apkaitenayam / bett tohß ghodam / teems kall-</div>
+       <lb id="Manc1631_Cat_465_9"/>
+        <div type="Language" lang="Latvian">poyam / packlauſẜigi äſẜam / tohs mieļoyam / vnd czeenam.</div>
+      </div>
+      <pb n="466"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_466_1"/>
+        <div type="Language" lang="Latvian">Tas peektz Baußlis.</div>
+       <lb id="Manc1631_Cat_466_2"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß Nokaut.</div>
+       <lb id="Manc1631_Cat_466_3"/>
+        <div type="Language" lang="Latvian">Kas gir tas?		 Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_466_4"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_466_5"/>
+        <div type="Language" lang="Latvian">muhſẜam Tuwakam py ſawu Meeſẜu nhekadu kaitu neds</div>
+       <lb id="Manc1631_Cat_466_6"/>
+        <div type="Language" lang="Latvian">Wainu darram / bett tam palliedſam vnd kallpoyam eek-</div>
+       <lb id="Manc1631_Cat_466_7"/>
+        <div type="Language" lang="Latvian">ſchan wiſẜahms meeſẜigahms bähdahms.</div>
+      </div>
+      <pb n="467"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_467_1"/>
+        <div type="Language" lang="Latvian">Tas ẜäſtz Baußlis.</div>
+       <lb id="Manc1631_Cat_467_2"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß Laulibu <corr>pahrkahpt</corr><sic>pahrkaht</sic>.</div>
+       <lb id="Manc1631_Cat_467_3"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_467_4"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_467_5"/>
+        <div type="Language" lang="Latvian">ſchkieſte vnd kaunige dſiewoyam eekſchan Wahrdeems</div>
+       <lb id="Manc1631_Cat_467_6"/>
+        <div type="Language" lang="Latvian">vnd Darrbeems / vnd ickweenam buhß ẜawu Laulahtu</div>
+       <lb id="Manc1631_Cat_467_7"/>
+        <div type="Language" lang="Latvian">Draugu mieļoht vnd czeeniet.</div>
+      </div>
+      <pb n="468"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_468_1"/>
+        <div type="Language" lang="Latvian">Tas ẜeptietz Baußlis.</div>
+       <lb id="Manc1631_Cat_468_2"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß Sackt.</div>
+       <lb id="Manc1631_Cat_468_3"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_468_4"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_468_5"/>
+        <div type="Language" lang="Latvian">muhſẜa Tuwaka Naudu jeb Paddomu nhe jämmam /</div>
+       <lb id="Manc1631_Cat_468_6"/>
+        <div type="Language" lang="Latvian">neds ar willtigu Pretz jeb Pretzeſchanu py mums dab-</div>
+       <lb id="Manc1631_Cat_468_7"/>
+        <div type="Language" lang="Latvian">buyam / bett winyam ſawu Manntu vnd Vßturreſcha-</div>
+       <lb id="Manc1631_Cat_468_8"/>
+        <div type="Language" lang="Latvian">nu palliedſam wairoht vnd paſẜarghaht.</div>
+      </div>
+      <pb n="469"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_469_1"/>
+        <div type="Language" lang="Latvian">Tas aſtohtz Baußlis.</div>
+       <lb id="Manc1631_Cat_469_2"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß nhepatteeſẜu Leezibu doht</div>
+       <lb id="Manc1631_Cat_469_3"/>
+        <div type="Language" lang="Latvian">prettie tawu Tuwaku.</div>
+       <lb id="Manc1631_Cat_469_4"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_469_5"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu biet vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_469_6"/>
+        <div type="Language" lang="Latvian">muhſẜu Tuwaku nhepatteeſẜe nhe apmälloyam neds pee-</div>
+       <lb id="Manc1631_Cat_469_7"/>
+        <div type="Language" lang="Latvian">wiļļaam / aprunnayam / jeb kahdu nicknu ſlawu darram /</div>
+       <lb id="Manc1631_Cat_469_8"/>
+        <div type="Language" lang="Latvian">bett mums buhß to aißbilldeht / wiſẜu labbu no to run-</div>
+       <lb id="Manc1631_Cat_469_9"/>
+        <div type="Language" lang="Latvian">naht / vnd wiſẜas leetas par labbu ghreeſt.</div>
+      </div>
+      <pb n="470"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_470_1"/>
+        <div type="Language" lang="Latvian">Tas dewietz Baußlis.</div>
+       <lb id="Manc1631_Cat_470_2"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß eekarotees tawa Tuwa-</div>
+       <lb id="Manc1631_Cat_470_3"/>
+        <div type="Language" lang="Latvian">ka Nammu.</div>
+       <lb id="Manc1631_Cat_470_4"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_470_5"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_470_6"/>
+        <div type="Language" lang="Latvian">muhſẜam Tuwakam nhe ar Willtu pehtz ſawu Manntu</div>
+       <lb id="Manc1631_Cat_470_7"/>
+        <div type="Language" lang="Latvian">jeb Nammu twarrſtam / neds / to tees ſatzidami / py</div>
+       <lb id="Manc1631_Cat_470_8"/>
+        <div type="Language" lang="Latvian">mums wällkam : Bett tam palliedſam / ka tas to warr</div>
+       <lb id="Manc1631_Cat_470_9"/>
+        <div type="Language" lang="Latvian">patturreht.</div>
+      </div>
+      <pb n="471"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_471_1"/>
+        <div type="Language" lang="Latvian">Tas deßmitz Baußlis.</div>
+       <lb id="Manc1631_Cat_471_2"/>
+        <div type="Language" lang="Latvian">Töw nhe buhß eekarotees tawa Tuwa-</div>
+       <lb id="Manc1631_Cat_471_3"/>
+        <div type="Language" lang="Latvian">ka Ꞩeewu / Kallpu / Kallpon / Lohpu / jeb wiß</div>
+       <lb id="Manc1631_Cat_471_4"/>
+        <div type="Language" lang="Latvian">kas tam peedärr.</div>
+       <lb id="Manc1631_Cat_471_5"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_471_6"/>
+        <div type="Language" lang="Latvian">Mums buhß Deewu bietees vnd mieļoht / ka mehß</div>
+       <lb id="Manc1631_Cat_471_7"/>
+        <div type="Language" lang="Latvian">muhſẜam Tuwakam ẜawu Ꞩeewu / Ꞩaim / jeb Lohpus</div>
+       <lb id="Manc1631_Cat_471_8"/>
+        <div type="Language" lang="Latvian">nhe attwiļļam / jeb nowehrſcham / bett tohß pamahzam /</div>
+       <lb id="Manc1631_Cat_471_9"/>
+        <div type="Language" lang="Latvian">ka teems pallickt buhß vnd darriet / kas teems peedärr.</div>
+      </div>
+      <pb n="472"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_472_1"/>
+        <div type="Language" lang="Latvian">Ko ẜacka nu Deews no wiſẜeems ſcheems</div>
+       <lb id="Manc1631_Cat_472_2"/>
+        <div type="Language" lang="Latvian">Baußleems ?		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_472_3"/>
+        <div type="Language" lang="Latvian">Wings ẜacka tha: Es tas Kunx taws</div>
+       <lb id="Manc1631_Cat_472_4"/>
+        <div type="Language" lang="Latvian">Deews / äßmu weens dußmiex Deews / kat-</div>
+       <lb id="Manc1631_Cat_472_5"/>
+        <div type="Language" lang="Latvian">ters par teems / kattri mann eenied / tohß</div>
+       <lb id="Manc1631_Cat_472_6"/>
+        <div type="Language" lang="Latvian">Thäwa Ghräkus mahyahs peemeckleyu</div>
+       <lb id="Manc1631_Cat_472_7"/>
+        <div type="Language" lang="Latvian">py teems Bährneems lieds treſſchu vnd</div>
+       <lb id="Manc1631_Cat_472_8"/>
+        <div type="Language" lang="Latvian">czätturtu Aughumu. Bett teems kattri</div>
+       <lb id="Manc1631_Cat_472_9"/>
+        <div type="Language" lang="Latvian">mann mieļo / vnd mannus Baußlus turr /</div>
+       <lb id="Manc1631_Cat_472_10"/>
+        <div type="Language" lang="Latvian">teems darru es labb / lieds tuhxtotu Aughu-</div>
+       <lb id="Manc1631_Cat_472_11"/>
+        <div type="Language" lang="Latvian">mu.</div>
+       <lb id="Manc1631_Cat_472_12"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_472_13"/>
+        <div type="Language" lang="Latvian">Deews beedina Ꞩohdiet wiſẜus kattri ſchoſt Bauß-</div>
+       <lb id="Manc1631_Cat_472_14"/>
+        <div type="Language" lang="Latvian">lus pahrkahp. Tapehtz buhß mums bietees par winya</div>
+       <lb id="Manc1631_Cat_472_15"/>
+        <div type="Language" lang="Latvian">dußmibu / vnd prett tahdeems Baußleems nhe Ghrä-</div>
+       <lb id="Manc1631_Cat_472_16"/>
+        <div type="Language" lang="Latvian">koht. Bett wings ẜohla ſchälaſtibu / vnd wiſẜenahdu</div>
+       <lb id="Manc1631_Cat_472_17"/>
+        <div type="Language" lang="Latvian">labbumu wiſẜeems kattri ſchohſt Baußlus turr. Ta-</div>
+       <lb id="Manc1631_Cat_472_18"/>
+        <div type="Language" lang="Latvian">pehtz buhß mums winyu arridſan mieļoht vnd winjam</div>
+       <lb id="Manc1631_Cat_472_19"/>
+        <div type="Language" lang="Latvian">vstitzeht / vnd labpraht darriet pehtz winja Baußleems.</div>
+       <lb id="Manc1631_Cat_472_20"/>
+       <div type="Language" lang="German">Der Glaube mit der Erklerung</div>
+       <lb id="Manc1631_Cat_472_21"/>
+       <div type="Language" lang="German">D. Mart. Luther.</div>
+       <lb id="Manc1631_Cat_472_22"/>
+        <div type="Language" lang="Latvian">Ta titziba / Ka to ick=kattram Ꞩaimneekam</div>
+       <lb id="Manc1631_Cat_472_23"/>
+        <div type="Language" lang="Latvian">ſawai Ꞩaimei ẜaprohtige mahziet buhs.</div>
+      </div>
+      <pb n="473"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_473_1"/>
+        <div type="Language" lang="Latvian">Tas pirrmais Lohzeklis / no tahs Raddibas.</div>
+       <lb id="Manc1631_Cat_473_2"/>
+        <div type="Language" lang="Latvian">Es titzu eekſchan Deewu to Tähwu Wiſ-</div>
+       <lb id="Manc1631_Cat_473_3"/>
+        <div type="Language" lang="Latvian">ẜewallditayu / Radditayu / Debbes vnnd</div>
+       <lb id="Manc1631_Cat_473_4"/>
+        <div type="Language" lang="Latvian">Semmes.</div>
+       <lb id="Manc1631_Cat_473_5"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_473_6"/>
+        <div type="Language" lang="Latvian">Es titzu ka mann Deews raddiyis gir / ar wiſẜahms</div>
+       <lb id="Manc1631_Cat_473_7"/>
+        <div type="Language" lang="Latvian">Radditahms leetahms / mann Meeſẜu vnd Dwehſẜel /</div>
+       <lb id="Manc1631_Cat_473_8"/>
+        <div type="Language" lang="Latvian">Atzis / Auſẜis vnd wiſẜus Lohzeklus / Ꞩapraſſchanu vnd</div>
+       <lb id="Manc1631_Cat_473_9"/>
+        <div type="Language" lang="Latvian">pillu Prahtu dehwis gir / vnd wehl vsturr / Turrklaht</div>
+       <lb id="Manc1631_Cat_473_10"/>
+        <div type="Language" lang="Latvian">Drahnas vnd Kurrpes / Ähſchanu vnd Dſerrſchanu /</div>
+      </div>
+      <pb n="474"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_474_1"/>
+        <div type="Language" lang="Latvian">Ähkas vnd Muiſchu / Ꞩeewu vnd Bährnus / Tierumu /</div>
+       <lb id="Manc1631_Cat_474_2"/>
+        <div type="Language" lang="Latvian">Lohpus / vnd wiſẜenahdu Manntu / ar wiſẜenahdu Wai-</div>
+       <lb id="Manc1631_Cat_474_3"/>
+        <div type="Language" lang="Latvian">jadſibu vnd vsturreſchanu tahs Meeſẜas vnd dſiewi-</div>
+       <lb id="Manc1631_Cat_474_4"/>
+        <div type="Language" lang="Latvian">bas / baggatige / vnd ick=deenas apghada / no wiſẜu breeß-</div>
+       <lb id="Manc1631_Cat_474_5"/>
+        <div type="Language" lang="Latvian">mibu paſẜarga / vnd preekſch wiſẜu ļaun paghlabba vnd</div>
+       <lb id="Manc1631_Cat_474_6"/>
+        <div type="Language" lang="Latvian">ẜarrga / vnd to wißnotaļļ aran tieru Tähwigu / Deewigu</div>
+       <lb id="Manc1631_Cat_474_7"/>
+        <div type="Language" lang="Latvian">lehnibu vnd ſchälaſtlbu / beß wiſẜu mannu Nopällnu / vnd</div>
+       <lb id="Manc1631_Cat_474_8"/>
+        <div type="Language" lang="Latvian">ka es tahdus Dahwanus ẜayembt / nhe=czeniex äßmu.</div>
+       <lb id="Manc1631_Cat_474_9"/>
+        <div type="Language" lang="Latvian">Par ſcho wißnotaļļ buhß mann winjam patteickt / vnd</div>
+       <lb id="Manc1631_Cat_474_10"/>
+        <div type="Language" lang="Latvian">ſlahweht / <corr>kallpoht</corr><sic>kollpoht</sic> vnd packlauſigam buht / Tas gir tee-</div>
+       <lb id="Manc1631_Cat_474_11"/>
+        <div type="Language" lang="Latvian">ſcham tees.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_474_12"/>
+        <div type="Language" lang="Latvian">Tas ohters Lohzeklis / No tahs</div>
+       <lb id="Manc1631_Cat_474_13"/>
+        <div type="Language" lang="Latvian">Peſtiſchanas.</div>
+       <lb id="Manc1631_Cat_474_14"/>
+        <div type="Language" lang="Latvian">Vnd eekſchan JEſum Chriſtum / winja</div>
+       <lb id="Manc1631_Cat_474_15"/>
+        <div type="Language" lang="Latvian">wenighu Dählu / muhſẜu Kunghu / katters</div>
+       <lb id="Manc1631_Cat_474_16"/>
+        <div type="Language" lang="Latvian">ejämtz gir no to ſwähtu Gharru / peedſimbtz</div>
+       <lb id="Manc1631_Cat_474_17"/>
+        <div type="Language" lang="Latvian">no tahs Jumprawas Maria / czeetis appack-</div>
+       <lb id="Manc1631_Cat_474_18"/>
+        <div type="Language" lang="Latvian">ſchan Pontio Pilato / Kruſtà ẜiſts / nomirris</div>
+       <lb id="Manc1631_Cat_474_19"/>
+        <div type="Language" lang="Latvian">vnd Apracktz / Semme kahpis eeckſchan El-</div>
+       <lb id="Manc1631_Cat_474_20"/>
+        <div type="Language" lang="Latvian">les / treſſchà deenà attkal aukſcham czehlees</div>
+       <lb id="Manc1631_Cat_474_21"/>
+        <div type="Language" lang="Latvian">no teems Mirroņeems / Vßbrautzis Debbeſ-</div>
+       <lb id="Manc1631_Cat_474_22"/>
+        <div type="Language" lang="Latvian">ẜies / ẜehdees py labbahs Rohkas Deewa tha</div>
+       <lb id="Manc1631_Cat_474_23"/>
+        <div type="Language" lang="Latvian">wiſẜewallditaya Tähwa / no turrenes tas at-</div>
+       <lb id="Manc1631_Cat_474_24"/>
+        <div type="Language" lang="Latvian">ees / ẜohdiet tohs dſiewus vnd mirruſchus.</div>
+      </div>
+      <pb n="475"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_475_1"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_475_2"/>
+        <div type="Language" lang="Latvian">Es titzu ka JEſus Chriſtus pattes Deews no to Täh-</div>
+       <lb id="Manc1631_Cat_475_3"/>
+        <div type="Language" lang="Latvian">wu eekſchan muhſchibas pedſimbtz / vnd arridſan pattees</div>
+       <lb id="Manc1631_Cat_475_4"/>
+        <div type="Language" lang="Latvian">Czillwähx no tahs Jumprawas Maria peedſimmis / gir</div>
+       <lb id="Manc1631_Cat_475_5"/>
+        <div type="Language" lang="Latvian">mans Kunx / katters mann paſudduſchu vnd paſuhdena-</div>
+       <lb id="Manc1631_Cat_475_6"/>
+        <div type="Language" lang="Latvian">tu Czillwäku attpeſtiyis / vnd attpirzis gir / no wiſẜeems</div>
+       <lb id="Manc1631_Cat_475_7"/>
+        <div type="Language" lang="Latvian">Ghräkeems / no to Nahwu / vnd to ſpähku ta Wälla / nhe</div>
+       <lb id="Manc1631_Cat_475_8"/>
+        <div type="Language" lang="Latvian">ar Sälltu jeb ar Ꞩuddrabu / bett ar ẜawu dahrgu ẜwähtu</div>
+       <lb id="Manc1631_Cat_475_9"/>
+        <div type="Language" lang="Latvian">Aſẜini / vnd ar ẜawu nhenopelnitu czeeſchanu vnd Nahwi /</div>
+       <lb id="Manc1631_Cat_475_10"/>
+        <div type="Language" lang="Latvian">ka es winja paſſcha buhtu / vnd winja Wallſtibà appack-</div>
+       <lb id="Manc1631_Cat_475_11"/>
+        <div type="Language" lang="Latvian">ſchan winja dſiwotu / vnd winjam kalpohtu eekſchan mu-</div>
+       <lb id="Manc1631_Cat_475_12"/>
+        <div type="Language" lang="Latvian">ſchigas Taißnibas / Nhenoſeedſibas vnd ſwehtibas / ihten</div>
+       <lb id="Manc1631_Cat_475_13"/>
+        <div type="Language" lang="Latvian">ka wings attkall aukſcham czeehlees gir no teems Mirro-</div>
+       <lb id="Manc1631_Cat_475_14"/>
+        <div type="Language" lang="Latvian">ņeems / dſiewo vñ wallda muſchige / Tas gir teeſcham tees.</div>
+      </div>
+      <pb n="476"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_476_1"/>
+        <div type="Language" lang="Latvian">Tas treſſchais Lohzeklis / no tahs Swäh-</div>
+       <lb id="Manc1631_Cat_476_2"/>
+        <div type="Language" lang="Latvian">tadarriſchanas.</div>
+       <lb id="Manc1631_Cat_476_3"/>
+        <div type="Language" lang="Latvian">Es titzu eekſchan to ſwähtu Gharru / wee-</div>
+       <lb id="Manc1631_Cat_476_4"/>
+        <div type="Language" lang="Latvian">nu ſwähtu Chriſtitu Baſnizu / to draudſibu</div>
+       <lb id="Manc1631_Cat_476_5"/>
+        <div type="Language" lang="Latvian">to ſwähto / Peedoſchanu to Ghräko / Auk-</div>
+       <lb id="Manc1631_Cat_476_6"/>
+        <div type="Language" lang="Latvian">ſcham=czellſchanu tahß Meeſẜas / vnd weenu</div>
+       <lb id="Manc1631_Cat_476_7"/>
+        <div type="Language" lang="Latvian">muhſchige dſiewoſchanu / Amen.</div>
+       <lb id="Manc1631_Cat_476_8"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_476_9"/>
+        <div type="Language" lang="Latvian">Es titzu ka es ar ẜawu paſſchu Ꞩpähku vnd Ꞩa-</div>
+       <lb id="Manc1631_Cat_476_10"/>
+        <div type="Language" lang="Latvian">praſſchanu eekſchan JEſum Chriſtum mannu Kungu</div>
+       <lb id="Manc1631_Cat_476_11"/>
+        <div type="Language" lang="Latvian">nhe warru titzeht / neds py to nahkt / Bett tas ſwähtz</div>
+       <lb id="Manc1631_Cat_476_12"/>
+        <div type="Language" lang="Latvian">Gharrs gir mann czaur to Ewangelium aitzenayis / ar</div>
+       <lb id="Manc1631_Cat_476_13"/>
+        <div type="Language" lang="Latvian">ẜaweems dahwaneems apſkaidroyis / eekſchan to ihſtänu</div>
+       <lb id="Manc1631_Cat_476_14"/>
+        <div type="Language" lang="Latvian">Titzibu ſwähtiyis / vnd vsturreyis / ihten ka wings to</div>
+       <lb id="Manc1631_Cat_476_15"/>
+        <div type="Language" lang="Latvian">wiſẜu Chriſtitu Draudſibu wirß Semmes aitzena / ẜac-</div>
+       <lb id="Manc1631_Cat_476_16"/>
+        <div type="Language" lang="Latvian">krah / apſkaidro / ſwähti / vnd py JEſu Chriſto vsturr /</div>
+       <lb id="Manc1631_Cat_476_17"/>
+        <div type="Language" lang="Latvian">eekſchan weenas patteeſẜas ihſtänas Titzibas.  Eek-</div>
+       <lb id="Manc1631_Cat_476_18"/>
+        <div type="Language" lang="Latvian">ſchan kattras Chriſtitas Draudſibas wings mann vnd</div>
+       <lb id="Manc1631_Cat_476_19"/>
+        <div type="Language" lang="Latvian">wiſẜeems Titzigeems ick=deenas wiſẜus Ghräkus bagga-</div>
+       <lb id="Manc1631_Cat_476_20"/>
+        <div type="Language" lang="Latvian">tige peedohd / vnd paſtarà deenà / mann vnd wiſẜus Mir-</div>
+       <lb id="Manc1631_Cat_476_21"/>
+        <div type="Language" lang="Latvian">roņus attkall vsmohdenahß / vnd mann vnd wiſẜeems</div>
+       <lb id="Manc1631_Cat_476_22"/>
+        <div type="Language" lang="Latvian">Titzigeems eekſchan Chriſto weenu muhſchigu dſie-</div>
+       <lb id="Manc1631_Cat_476_23"/>
+        <div type="Language" lang="Latvian">woſchanu dohß. 	Tas gir tee-</div>
+       <lb id="Manc1631_Cat_476_24"/>
+        <div type="Language" lang="Latvian">ſcham tees.</div>
+      </div>
+      <pb n="477"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_477_1"/>
+       <div type="Language" lang="German">Das heilige Vater vnſer / mit der Erklerung</div>
+       <lb id="Manc1631_Cat_477_2"/>
+       <div type="Language" lang="German">Doctor. Martini Lutheri.</div>
+       <lb id="Manc1631_Cat_477_3"/>
+        <div type="Language" lang="Latvian">Ta ſwähta Luhkſchana / ka to <corr>ick=kattram</corr><sic>ick=kattam</sic></div>
+       <lb id="Manc1631_Cat_477_4"/>
+        <div type="Language" lang="Latvian">Ꞩaimneekam ẜawai Ꞩaimei ẜaprohtige</div>
+       <lb id="Manc1631_Cat_477_5"/>
+        <div type="Language" lang="Latvian">mahziet buhs.</div>
+       <lb id="Manc1631_Cat_477_6"/>
+        <div type="Language" lang="Latvian">Muhſẜo Tähws eekſchan Debeſẜu ?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_477_7"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_477_8"/>
+        <div type="Language" lang="Latvian">Deews gribb mums ar to aizenaht / ka mums titzeht</div>
+       <lb id="Manc1631_Cat_477_9"/>
+        <div type="Language" lang="Latvian">buhß / wings äſẜohtz muhſẜo ißſtäns Tähws / vnd mehß</div>
+       <lb id="Manc1631_Cat_477_10"/>
+        <div type="Language" lang="Latvian">winya ihſtäni Bährni / ka mums preezige / droſch vnd vs</div>
+       <lb id="Manc1631_Cat_477_11"/>
+        <div type="Language" lang="Latvian">winyu paļaudamees winyu peeluhkt buhß / ka te mieļi</div>
+       <lb id="Manc1631_Cat_477_12"/>
+        <div type="Language" lang="Latvian">Bährni ẜawu mieļu Tähwu luhds.</div>
+      </div>
+      <pb n="478"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_478_1"/>
+        <div type="Language" lang="Latvian">Ta pirrma Luhkſchana.</div>
+       <lb id="Manc1631_Cat_478_2"/>
+        <div type="Language" lang="Latvian">Swähtietz tohp taws Wahrtz.</div>
+       <lb id="Manc1631_Cat_478_3"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_478_4"/>
+        <div type="Language" lang="Latvian">Deewa Wahrtz gir jaw no ẜöw paſſchu ſwähtz / bett</div>
+       <lb id="Manc1631_Cat_478_5"/>
+        <div type="Language" lang="Latvian">mehß luhdſam ſchinny Luhkſchanà / ka tas arridſan py</div>
+       <lb id="Manc1631_Cat_478_6"/>
+        <div type="Language" lang="Latvian">mums ſwähtz tohp.</div>
+       <lb id="Manc1631_Cat_478_7"/>
+        <div type="Language" lang="Latvian">Ka noteek tas ? 	  Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_478_8"/>
+        <div type="Language" lang="Latvian">Kad Deewa Wahrtz ſkieſte vnd ſkaidre mahziet</div>
+       <lb id="Manc1631_Cat_478_9"/>
+        <div type="Language" lang="Latvian">tohp / vnd mehs arridſan ſwähtige / ka Deewa Bähr-</div>
+       <lb id="Manc1631_Cat_478_10"/>
+        <div type="Language" lang="Latvian">neems klahyahs / pehtz to dſiewoyam / To palliedſi mums</div>
+       <lb id="Manc1631_Cat_478_11"/>
+        <div type="Language" lang="Latvian">mieļais Tähws Debbeſẜies. Bett kas czittahde mah-</div>
+       <lb id="Manc1631_Cat_478_12"/>
+        <div type="Language" lang="Latvian">za vnd dſiewo / ka Deewa Wahrtz mahza / tas nhe ſwäh-</div>
+       <lb id="Manc1631_Cat_478_13"/>
+        <div type="Language" lang="Latvian">ti muhſẜo ſtarpà to Deewa Wahrdu. Par to paſẜarr-</div>
+       <lb id="Manc1631_Cat_478_14"/>
+        <div type="Language" lang="Latvian">gi mums mieļais Debbeſẜo Tähws.</div>
+      </div>
+      <pb n="479"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_479_1"/>
+        <div type="Language" lang="Latvian">Ta ohtra Luhkſchana.</div>
+       <lb id="Manc1631_Cat_479_2"/>
+        <div type="Language" lang="Latvian">Eenahkahs mums tawa Wallſtiba.</div>
+       <lb id="Manc1631_Cat_479_3"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_479_4"/>
+        <div type="Language" lang="Latvian">Deewa Wallſtiba nahk ghann beß muhſẜu Luhk-</div>
+       <lb id="Manc1631_Cat_479_5"/>
+        <div type="Language" lang="Latvian">ſchanu no ẜöw paſſchu / bett mehs luhdſam ſchinni Luhk-</div>
+       <lb id="Manc1631_Cat_479_6"/>
+        <div type="Language" lang="Latvian">ſchanà / ka ta arridſan py mums nahk.</div>
+       <lb id="Manc1631_Cat_479_7"/>
+        <div type="Language" lang="Latvian">Ka noteek tas ? 	  Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_479_8"/>
+        <div type="Language" lang="Latvian">Kad mums tas Debbeſẜo Tähws ẜawu ſwähtu</div>
+       <lb id="Manc1631_Cat_479_9"/>
+        <div type="Language" lang="Latvian">Gharru dohd / ka mehß ẜawam ſwähtam Wahrdam /</div>
+       <lb id="Manc1631_Cat_479_10"/>
+        <div type="Language" lang="Latvian">czaur winya ſchälaſtibu titzam / vnd Deewiſke dſiewo-</div>
+       <lb id="Manc1631_Cat_479_11"/>
+        <div type="Language" lang="Latvian">jam / ſcheit laizige vnd turr muhſchige.</div>
+      </div>
+      <pb n="480"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_480_1"/>
+        <div type="Language" lang="Latvian">Ta treſſcha Luhkſchana.</div>
+       <lb id="Manc1631_Cat_480_2"/>
+        <div type="Language" lang="Latvian">Taws Prahtz noteek / ka eekſchan Debbeſ-</div>
+       <lb id="Manc1631_Cat_480_3"/>
+        <div type="Language" lang="Latvian">ẜu / tha arridſan wirſẜu Semmes.</div>
+       <lb id="Manc1631_Cat_480_4"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_480_5"/>
+        <div type="Language" lang="Latvian">Deewa labbs vnd ſchehliex Prahtz noteek ghann beß</div>
+       <lb id="Manc1631_Cat_480_6"/>
+        <div type="Language" lang="Latvian">muhſẜu luhkſchanu : bett mehß luhdſam ſchinny Luhk-</div>
+       <lb id="Manc1631_Cat_480_7"/>
+        <div type="Language" lang="Latvian">ſchanà / ka tas arridſan py mums noteek.</div>
+       <lb id="Manc1631_Cat_480_8"/>
+        <div type="Language" lang="Latvian">Ka noteek tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_480_9"/>
+        <div type="Language" lang="Latvian">Kad Deews wiſẜu ļaunu Paddomu vnd Prahtu</div>
+       <lb id="Manc1631_Cat_480_10"/>
+        <div type="Language" lang="Latvian">nowehrſch / vnd nhe dohd teems waļļu / kattri to Deewa</div>
+       <lb id="Manc1631_Cat_480_11"/>
+        <div type="Language" lang="Latvian">Wahrdu mums nhe grib lickt ſwehtiet / vnd winja Wall-</div>
+       <lb id="Manc1631_Cat_480_12"/>
+        <div type="Language" lang="Latvian">ſtibu kahwe py mums nahkt / ka turr gir tas Wällß / ta</div>
+       <lb id="Manc1631_Cat_480_13"/>
+        <div type="Language" lang="Latvian">Paſẜaule / vnd muhſẜas Meeſẜas kahriba / bett wings ee-</div>
+       <lb id="Manc1631_Cat_480_14"/>
+        <div type="Language" lang="Latvian">droſchina vnd patturr mums ſtippre eekſchan ẜawu</div>
+       <lb id="Manc1631_Cat_480_15"/>
+        <div type="Language" lang="Latvian">Wahrdu vnd Titzibu / ihs patt muhſẜam ghallam / tas</div>
+       <lb id="Manc1631_Cat_480_16"/>
+        <div type="Language" lang="Latvian">gir winja ſchehliex vnd labbs Prahtz.</div>
+      </div>
+      <pb n="481"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_481_1"/>
+        <div type="Language" lang="Latvian">Ta czättorta Luhkſchana.</div>
+       <lb id="Manc1631_Cat_481_2"/>
+        <div type="Language" lang="Latvian">Muhſẜu deeniſchku Mais dohd mums</div>
+       <lb id="Manc1631_Cat_481_3"/>
+        <div type="Language" lang="Latvian">ſchodeen.</div>
+       <lb id="Manc1631_Cat_481_4"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_481_5"/>
+        <div type="Language" lang="Latvian">Deews dohd deeniſchku Mais beß muhſẜu luhkſcha-</div>
+       <lb id="Manc1631_Cat_481_6"/>
+        <div type="Language" lang="Latvian">nu irr wiſẜeems ļauneems Czilwäkeems / bett mehs luh-</div>
+       <lb id="Manc1631_Cat_481_7"/>
+        <div type="Language" lang="Latvian">dſam ſchinni Luhkſchanà / ka wings mums muhſẜu dee-</div>
+       <lb id="Manc1631_Cat_481_8"/>
+        <div type="Language" lang="Latvian">niſchku Mais mahzitu adſiet / vnd ar Patteitzibu ẜayembt.</div>
+       <lb id="Manc1631_Cat_481_9"/>
+        <div type="Language" lang="Latvian">Kas gir tad ta deeniſchka Maiſe ? 	  Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_481_10"/>
+        <div type="Language" lang="Latvian">Wis kas py muhſẜas Meeſẜas vsturreſchanas vnd</div>
+       <lb id="Manc1631_Cat_481_11"/>
+        <div type="Language" lang="Latvian">Wayadſibas peedärr / ar wahrdu / Ähſchana / Dſerrſchan-</div>
+       <lb id="Manc1631_Cat_481_12"/>
+        <div type="Language" lang="Latvian">na / Drehbes / Kurpes Ähkas / Muiſcha / Thierumi / Loh-</div>
+       <lb id="Manc1631_Cat_481_13"/>
+        <div type="Language" lang="Latvian">pi / Nauda / Mañta / labs laulahtz Draux / rahmi Bähr-</div>
+       <lb id="Manc1631_Cat_481_14"/>
+        <div type="Language" lang="Latvian">ni / labba Ꞩaime / vnd peetitzigi Kungi / labba Walldiſcha-</div>
+      </div>
+      <pb n="482"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_482_1"/>
+        <div type="Language" lang="Latvian">na / labs ghaiß / Meers / Weſẜeliba / kauniga dſiwoſchana /</div>
+       <lb id="Manc1631_Cat_482_2"/>
+        <div type="Language" lang="Latvian">gohtz / labbi Draughi / vstitzami Kaimiņņi / vñ ta proyam.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_482_3"/>
+        <div type="Language" lang="Latvian">Ta peekta Luhkſchana.</div>
+       <lb id="Manc1631_Cat_482_4"/>
+        <div type="Language" lang="Latvian">Vnd Peedohd mums muhſẜu Parradu /</div>
+       <lb id="Manc1631_Cat_482_5"/>
+        <div type="Language" lang="Latvian">ka mehs peedohdam muhſẜeems Parradnee-</div>
+       <lb id="Manc1631_Cat_482_6"/>
+        <div type="Language" lang="Latvian">keems.</div>
+       <lb id="Manc1631_Cat_482_7"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_482_8"/>
+        <div type="Language" lang="Latvian">Mehs luhdſam ſchinny Luhkſchanà / ka tas Tähws</div>
+       <lb id="Manc1631_Cat_482_9"/>
+        <div type="Language" lang="Latvian">Debeſẜies nhe ghribbätu vsluhkoht muhſẜus Ghräkus /</div>
+       <lb id="Manc1631_Cat_482_10"/>
+        <div type="Language" lang="Latvian">vnd tohdeļ tahdu luhkſchanu mums nhe aißleekt / aiſto</div>
+       <lb id="Manc1631_Cat_482_11"/>
+        <div type="Language" lang="Latvian">mehs to / ko mehs luhdſam nhe äſẜam czenigi / neds arri-</div>
+       <lb id="Manc1631_Cat_482_12"/>
+        <div type="Language" lang="Latvian">dſan nopellniyuſchi / bett Wings ghribbätu mums to wiß-</div>
+       <lb id="Manc1631_Cat_482_13"/>
+        <div type="Language" lang="Latvian">notaļļ ſchählodams doht / aiſto mehs Ghräkoyam ickdee-</div>
+       <lb id="Manc1631_Cat_482_14"/>
+        <div type="Language" lang="Latvian">nas dauds / vnd Ꞩohdibu ween nopällnam / tad ghrib-</div>
+      </div>
+      <pb n="483"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_483_1"/>
+        <div type="Language" lang="Latvian">bam mehs arridſan no Ꞩirtz peedoht / vnd labbe darriet /</div>
+       <lb id="Manc1631_Cat_483_2"/>
+        <div type="Language" lang="Latvian">teems / kattri ẜöw pretti mums apghräkoyahß.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_483_3"/>
+        <div type="Language" lang="Latvian">Ta ẜäſta Luhkſchana.</div>
+       <lb id="Manc1631_Cat_483_4"/>
+        <div type="Language" lang="Latvian">Vnd nhe eewedd mums eekſchan Kahr-</div>
+       <lb id="Manc1631_Cat_483_5"/>
+        <div type="Language" lang="Latvian">denaſchanas.</div>
+       <lb id="Manc1631_Cat_483_6"/>
+        <div type="Language" lang="Latvian">Kas gir tas ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_483_7"/>
+        <div type="Language" lang="Latvian">Deews nhe Kahrdena nhe weenu / bett mehs luh-</div>
+       <lb id="Manc1631_Cat_483_8"/>
+        <div type="Language" lang="Latvian">dſam ſchinny Luhkſchanà / ka mums Deews ghribbätu</div>
+       <lb id="Manc1631_Cat_483_9"/>
+        <div type="Language" lang="Latvian">paſẜarrghaht vnd vsturreht / ka mums tas Wälls / tha</div>
+       <lb id="Manc1631_Cat_483_10"/>
+        <div type="Language" lang="Latvian">Paſẜaule / vnd muhſẜa Meeſẜa nhe peewiļļ / vnd nhe eewedd</div>
+       <lb id="Manc1631_Cat_483_11"/>
+        <div type="Language" lang="Latvian">eekſchan Nhetitzibas / Jſẜamiſẜaſchanas / vnd czittu leelu</div>
+       <lb id="Manc1631_Cat_483_12"/>
+        <div type="Language" lang="Latvian">Kaunu vnd Ghräku / vnd jeb mehs ar to kahrdinati tap-</div>
+       <lb id="Manc1631_Cat_483_13"/>
+        <div type="Language" lang="Latvian">tam / ka mehs tomähr pehtz vswahram / vnd wirrſẜu pal-</div>
+       <lb id="Manc1631_Cat_483_14"/>
+        <div type="Language" lang="Latvian">leekam.</div>
+      </div>
+      <pb n="484"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_484_1"/>
+        <div type="Language" lang="Latvian">Ta ẜeptita Luhkſchana.</div>
+       <lb id="Manc1631_Cat_484_2"/>
+        <div type="Language" lang="Latvian">Bett attpeſti mums no Ļaunu.</div>
+       <lb id="Manc1631_Cat_484_3"/>
+        <div type="Language" lang="Latvian">Kas gir tas? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_484_4"/>
+        <div type="Language" lang="Latvian">Mehß luhdſam ſchinni Luhkſchanà / ka mums tas</div>
+       <lb id="Manc1631_Cat_484_5"/>
+        <div type="Language" lang="Latvian">Tähws Debbeſẜies no wiſẜenahdu ļaun tahß Meeſẜas</div>
+       <lb id="Manc1631_Cat_484_6"/>
+        <div type="Language" lang="Latvian">vnd Dwehſẜeles / Manntas vnd Ghohda ghribbätu at-</div>
+       <lb id="Manc1631_Cat_484_7"/>
+        <div type="Language" lang="Latvian">peſtiet / vnd pehtz kad muhſẜa ſtundingja nahk / weenu</div>
+       <lb id="Manc1631_Cat_484_8"/>
+        <div type="Language" lang="Latvian">ſchehligu ghallu doht / vnd ar ſchehlaſtibu no ſchahß beh-</div>
+       <lb id="Manc1631_Cat_484_9"/>
+        <div type="Language" lang="Latvian">digas Paſẜaules py ſöw jembt / eekſchan Debbeſẜu.</div>
+       <lb id="Manc1631_Cat_484_10"/>
+        <div type="Language" lang="Latvian">AMEN.</div>
+       <lb id="Manc1631_Cat_484_11"/>
+        <div type="Language" lang="Latvian">Kas gir tas? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_484_12"/>
+        <div type="Language" lang="Latvian">Ka mann buhß teeſcham titzeht / tahda luhkſchana</div>
+       <lb id="Manc1631_Cat_484_13"/>
+        <div type="Language" lang="Latvian">pattiek Tähwam Debbeſẜies / vnd gir packlauſẜieta / aiſto</div>
+       <lb id="Manc1631_Cat_484_14"/>
+        <div type="Language" lang="Latvian">Wings patz gir mums pawehleyis ta luhkt / vnd ẜohliyis /</div>
+       <lb id="Manc1631_Cat_484_15"/>
+        <div type="Language" lang="Latvian">Wings ghribbohtz mums packlauſẜiet. 	Amen / Amen /</div>
+       <lb id="Manc1631_Cat_484_16"/>
+        <div type="Language" lang="Latvian">tas gir / Ja / Ja / tam buhß ta notickt.</div>
+      </div>
+      <pb n="485"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_485_1"/>
+       <div type="Language" lang="German">Vom Sacrament der heiligen Tauffe / mit</div>
+       <lb id="Manc1631_Cat_485_2"/>
+       <div type="Language" lang="German">der Erklerung Doctor. Martin. Lutheri.</div>
+       <lb id="Manc1631_Cat_485_3"/>
+        <div type="Language" lang="Latvian">No tahs ſwähtas Chriſtibas / ka to paſſchu</div>
+       <lb id="Manc1631_Cat_485_4"/>
+        <div type="Language" lang="Latvian">ick=kattram Ꞩaimneekam ẜawi Ꞩaimei ẜapro-</div>
+       <lb id="Manc1631_Cat_485_5"/>
+        <div type="Language" lang="Latvian">tige mahziet buhs.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_485_6"/>
+        <div type="Language" lang="Latvian">Kas gir tha Chriſtiba ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_485_7"/>
+        <div type="Language" lang="Latvian">Ta Chriſtiba nhe gir ween tiers Vhdens / bett ta gir</div>
+       <lb id="Manc1631_Cat_485_8"/>
+        <div type="Language" lang="Latvian">tas Vhdens / katters Deewa Wahrdà eelicktz / vnd ar</div>
+       <lb id="Manc1631_Cat_485_9"/>
+        <div type="Language" lang="Latvian">Deewa Wahrdu ẜaſẜaiſtietz gir.</div>
+       <lb id="Manc1631_Cat_485_10"/>
+        <div type="Language" lang="Latvian">Katters gir tad tahtz Deewa Wahrtz ? 	Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_485_11"/>
+        <div type="Language" lang="Latvian">Kad muhſẜo Kunx JEſus Chriſtus ẜacka / Matth. 28:</div>
+       <lb id="Manc1631_Cat_485_12"/>
+        <div type="Language" lang="Latvian">Eita / zaur wiſẜu Paſẜaul / vnd mazaita wiſẜus</div>
+       <lb id="Manc1631_Cat_485_13"/>
+        <div type="Language" lang="Latvian">Ļaudis / vnd Chriſtiyeeta tohs eekſchan to</div>
+       <lb id="Manc1631_Cat_485_14"/>
+        <div type="Language" lang="Latvian">Wahrdu ta Tähwa / vnd ta Dähla / vnd ta</div>
+       <lb id="Manc1631_Cat_485_15"/>
+        <div type="Language" lang="Latvian">ſwähta Gharra.</div>
+      </div>
+      <pb n="486"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_486_1"/>
+        <div type="Language" lang="Latvian">Ko dohd / jeb ko pallieds mums ta Chriſtiba ?</div>
+       <lb id="Manc1631_Cat_486_2"/>
+        <div type="Language" lang="Latvian">Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_486_3"/>
+        <div type="Language" lang="Latvian">Ta nopällna Ghrähko peedoſchanu / atpeſtie no Na-</div>
+       <lb id="Manc1631_Cat_486_4"/>
+        <div type="Language" lang="Latvian">wes / vnd Wällu / vnd dohd to muhſchigu dſiewoſchanu</div>
+       <lb id="Manc1631_Cat_486_5"/>
+        <div type="Language" lang="Latvian">wiſẜeems / kattri to titz / ka tee Wahrdi vnd Deewa Ꞩoh-</div>
+       <lb id="Manc1631_Cat_486_6"/>
+        <div type="Language" lang="Latvian">liſchana ſkann.</div>
+       <lb id="Manc1631_Cat_486_7"/>
+        <div type="Language" lang="Latvian">Kattri gir tahdi Wahrdi vnd Deewa Ꞩohliſchana ? 	Adbilld.</div>
+       <lb id="Manc1631_Cat_486_8"/>
+        <div type="Language" lang="Latvian">Kad muhſẜu Kunx JEſus Chriſtus ſacka : Marc. 16.</div>
+       <lb id="Manc1631_Cat_486_9"/>
+        <div type="Language" lang="Latvian">Kas titz vnd tohp Chriſtietz / tas taps ſwähtz /</div>
+       <lb id="Manc1631_Cat_486_10"/>
+        <div type="Language" lang="Latvian">bett kas nhetitz / tas taps paſuddis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_486_11"/>
+        <div type="Language" lang="Latvian">Ka war Vdens tahdu leelu leetu darriet ?	Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_486_12"/>
+        <div type="Language" lang="Latvian">Vhdens to teeſcham nhe darra / bett Deewa Wahrtz /</div>
+       <lb id="Manc1631_Cat_486_13"/>
+        <div type="Language" lang="Latvian">katters ar vnd py to Vhdeni gir / vnd ta Titziba / kattra</div>
+       <lb id="Manc1631_Cat_486_14"/>
+        <div type="Language" lang="Latvian">tahdam Deewa Wahrdam eekſchan Vhdeni vstitz. Ai-</div>
+       <lb id="Manc1631_Cat_486_15"/>
+        <div type="Language" lang="Latvian">ſto beß Deewa Wahrdu gir tas Vhdens tiers Vhdens /</div>
+       <lb id="Manc1631_Cat_486_16"/>
+        <div type="Language" lang="Latvian">vnd nhe gir Chriſtiba : Bett ar to Deewa Wahrdu gir</div>
+       <lb id="Manc1631_Cat_486_17"/>
+        <div type="Language" lang="Latvian">tas weena Chriſtiba / tas gir weens Vhdens baggahtz no</div>
+       <lb id="Manc1631_Cat_486_18"/>
+        <div type="Language" lang="Latvian">ſchälaſtibas / vnd tahß dſiewibas / vnd weena nomaßgha-</div>
+       <lb id="Manc1631_Cat_486_19"/>
+        <div type="Language" lang="Latvian">ſchana tahß jaunas Attdſimbtibas eckſchan to ſwähtu</div>
+       <lb id="Manc1631_Cat_486_20"/>
+        <div type="Language" lang="Latvian"><corr>Gharru</corr><sic>Gharrru</sic> / ka tas ſwähtz Pahwils ẜacka: Tit. 3. Czaur</div>
+       <lb id="Manc1631_Cat_486_21"/>
+        <div type="Language" lang="Latvian">to Maſghaſchannu tahs Attſimbſchanas</div>
+       <lb id="Manc1631_Cat_486_22"/>
+        <div type="Language" lang="Latvian">vnd attjaunaſchanas tha ſwähta Gharra /</div>
+       <lb id="Manc1631_Cat_486_23"/>
+        <div type="Language" lang="Latvian">kattru wings baggatige ißleyis gir par</div>
+       <lb id="Manc1631_Cat_486_24"/>
+        <div type="Language" lang="Latvian">mums / czaur JEſum Chriſtum muhſẜam Pe-</div>
+       <lb id="Manc1631_Cat_486_25"/>
+        <div type="Language" lang="Latvian">ſtitayam. Kad mehs czaur winja ſchälaſtiba</div>
+      </div>
+      <pb n="487"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_487_1"/>
+        <div type="Language" lang="Latvian">taßni tappuſchi / irr Bährni buhtam tahs</div>
+       <lb id="Manc1631_Cat_487_2"/>
+        <div type="Language" lang="Latvian">muſchigas Dſiewoſchanas / czerredami / tas</div>
+       <lb id="Manc1631_Cat_487_3"/>
+        <div type="Language" lang="Latvian">gir itt teeſcham teeſẜe.</div>
+       <lb id="Manc1631_Cat_487_4"/>
+        <div type="Language" lang="Latvian">Ko ſiemo tad tahda Vhdens Chriſtiſchana ?	Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_487_5"/>
+        <div type="Language" lang="Latvian">Ta ſiemo / ka tam wätzam Adamam eekſchan mums</div>
+       <lb id="Manc1631_Cat_487_6"/>
+        <div type="Language" lang="Latvian">ick=deenas waidädami vnd attſtahdami no Ghräkeems</div>
+       <lb id="Manc1631_Cat_487_7"/>
+        <div type="Language" lang="Latvian">buhß apſlietzenatam tapt / vnd mirrt ar wiſẜeems Ghrä-</div>
+       <lb id="Manc1631_Cat_487_8"/>
+        <div type="Language" lang="Latvian">keems / vnd nhelabbu kahribu / vnd attkal ick=deenas</div>
+       <lb id="Manc1631_Cat_487_9"/>
+        <div type="Language" lang="Latvian">preekſcha nahkt / vnd aukſcham czellteeß weenam jaunam</div>
+       <lb id="Manc1631_Cat_487_10"/>
+        <div type="Language" lang="Latvian">Czillwäkam / katters eekſchan Taißnibas vnd Skieſti-</div>
+       <lb id="Manc1631_Cat_487_11"/>
+        <div type="Language" lang="Latvian">bas preekſchan Deewu muhſchige dſiewo.</div>
+       <lb id="Manc1631_Cat_487_12"/>
+        <div type="Language" lang="Latvian">Kur ſtahw tas Raxtietz ?		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_487_13"/>
+        <div type="Language" lang="Latvian">Tas ſwähtz Pawils ẜacka: Rom. 6. Mehß äſ-</div>
+       <lb id="Manc1631_Cat_487_14"/>
+        <div type="Language" lang="Latvian">ẜam ar Chriſto czaur to Chriſtibu aprackti</div>
+       <lb id="Manc1631_Cat_487_15"/>
+        <div type="Language" lang="Latvian">eekſchan to Nahwu / aiſto ihten ka Chriſtus</div>
+       <lb id="Manc1631_Cat_487_16"/>
+        <div type="Language" lang="Latvian">vsmohdenahtz gir no teems Mirroņeems /</div>
+       <lb id="Manc1631_Cat_487_17"/>
+        <div type="Language" lang="Latvian">czaur to Ghodibu ta Tähwa / ta buhß mums</div>
+       <lb id="Manc1631_Cat_487_18"/>
+        <div type="Language" lang="Latvian">arridſan eekſchan jaunu Dſiewoſchanu ſtai-</div>
+       <lb id="Manc1631_Cat_487_19"/>
+        <div type="Language" lang="Latvian">ghaht.</div>
+       <lb id="Manc1631_Cat_487_20"/>
+       <div type="Language" lang="German">Vom Sacrament des Altars / mit der Er-</div>
+       <lb id="Manc1631_Cat_487_21"/>
+       <div type="Language" lang="German">klerung Doctor. Martin. Luther.</div>
+       <lb id="Manc1631_Cat_487_22"/>
+        <div type="Language" lang="Latvian">No to Eeſtadium tahs czeenigas vnd dahr-</div>
+       <lb id="Manc1631_Cat_487_23"/>
+        <div type="Language" lang="Latvian">gas Meeſẜas vnd Aſẜini muhſẜa Kunga vnd</div>
+       <lb id="Manc1631_Cat_487_24"/>
+        <div type="Language" lang="Latvian">Peſtitaya JEſu Chriſti.</div>
+      </div>
+      <pb n="488"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_488_1"/>
+        <div type="Language" lang="Latvian">Kas gir tas Eeſtadiyums ta ſwähta Wackara Ähdena ?</div>
+       <lb id="Manc1631_Cat_488_2"/>
+        <div type="Language" lang="Latvian">Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_488_3"/>
+        <div type="Language" lang="Latvian">Tas gir ta patteeſẜa Meeſẜa vnd Aſẜinns muhſẜa</div>
+       <lb id="Manc1631_Cat_488_4"/>
+        <div type="Language" lang="Latvian">Kunga JEſu Chriſti / appackſchan to Mais vnd Wienu</div>
+       <lb id="Manc1631_Cat_488_5"/>
+        <div type="Language" lang="Latvian">mums Chriſtiteems Czillwäkeems ähſt vnd dſerrt no</div>
+       <lb id="Manc1631_Cat_488_6"/>
+        <div type="Language" lang="Latvian">paſſchu Chriſto eeſtahdietz.</div>
+       <lb id="Manc1631_Cat_488_7"/>
+        <div type="Language" lang="Latvian">Kur ſtahw tas Raxtietz ?		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_488_8"/>
+        <div type="Language" lang="Latvian">Ta Raxta tee ſwähti Mahzetayi / Mattheus / Mar-</div>
+       <lb id="Manc1631_Cat_488_9"/>
+        <div type="Language" lang="Latvian">cus / Lucas / vnd Pahwils.</div>
+       <lb id="Manc1631_Cat_488_10"/>
+        <div type="Language" lang="Latvian">Muhſẜo Kunx JEſus Chriſtus tanny</div>
+       <lb id="Manc1631_Cat_488_11"/>
+        <div type="Language" lang="Latvian">Nackty / kad tas peewilltz tappa / jehme tas to</div>
+       <lb id="Manc1631_Cat_488_12"/>
+        <div type="Language" lang="Latvian">Mais / patteitze vnd pahrlauſe to / vnd dehwe</div>
+       <lb id="Manc1631_Cat_488_13"/>
+        <div type="Language" lang="Latvian">to ẜaweems Mahzekleems / vnd ẜatziya: Jem-</div>
+       <lb id="Manc1631_Cat_488_14"/>
+        <div type="Language" lang="Latvian">meeta / ähdeeta / ta gir manna Meeſẜa / kattra</div>
+       <lb id="Manc1631_Cat_488_15"/>
+        <div type="Language" lang="Latvian">par jums tohp dohta / to darraita mann pee-</div>
+       <lb id="Manc1631_Cat_488_16"/>
+        <div type="Language" lang="Latvian">minnädami.</div>
+      </div>
+      <pb n="489"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_489_1"/>
+        <div type="Language" lang="Latvian">Ta lieds arridſan jehme tas to Bigkeri /</div>
+       <lb id="Manc1631_Cat_489_2"/>
+        <div type="Language" lang="Latvian">pehtz to Wackar=ähden / patteitze / vnd dehwe</div>
+       <lb id="Manc1631_Cat_489_3"/>
+        <div type="Language" lang="Latvian">teems to / vnd ẜatziya : Jemmeeta / vnd dſer-</div>
+       <lb id="Manc1631_Cat_489_4"/>
+        <div type="Language" lang="Latvian">reeta wiſẜi no to / Schis Bigkeris gir ta jau-</div>
+       <lb id="Manc1631_Cat_489_5"/>
+        <div type="Language" lang="Latvian">na Eeſtadiſchana eekſchan mannu Aſẜini /</div>
+       <lb id="Manc1631_Cat_489_6"/>
+        <div type="Language" lang="Latvian">katters par jums vnd par dauds ißleetz tohp /</div>
+       <lb id="Manc1631_Cat_489_7"/>
+        <div type="Language" lang="Latvian">par peedoſchanu tho Ghräko / to darraita</div>
+       <lb id="Manc1631_Cat_489_8"/>
+        <div type="Language" lang="Latvian">czeekahrt juhß to dſerreeta / mann peemin-</div>
+       <lb id="Manc1631_Cat_489_9"/>
+        <div type="Language" lang="Latvian">nädami.</div>
+       <lb id="Manc1631_Cat_489_10"/>
+        <div type="Language" lang="Latvian">Ko pallieds tahda Ähſchana vnd Dſerrſchana ?  Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_489_11"/>
+        <div type="Language" lang="Latvian">To rahda mums ſchee Wahrdi : Par jums doh-</div>
+       <lb id="Manc1631_Cat_489_12"/>
+        <div type="Language" lang="Latvian">ta vnd ißleetz par peedoſchanu to Ghräko :</div>
+       <lb id="Manc1631_Cat_489_13"/>
+        <div type="Language" lang="Latvian">Ar wahrdu / ka mums eekſchan to Eeſtadiyumu / Peedo-</div>
+       <lb id="Manc1631_Cat_489_14"/>
+        <div type="Language" lang="Latvian">ſchana to Ghräko / dſiewiba / vnd ſwähtiba czaur tah-</div>
+       <lb id="Manc1631_Cat_489_15"/>
+        <div type="Language" lang="Latvian">deems Wahrdeems dohta tohp. Aiſto kur peedoſchana</div>
+       <lb id="Manc1631_Cat_489_16"/>
+        <div type="Language" lang="Latvian">tho Ghräko gir / tur gir arridſan tha dſiewiba vnd ſchä-</div>
+       <lb id="Manc1631_Cat_489_17"/>
+        <div type="Language" lang="Latvian">laſtiba.</div>
+       <lb id="Manc1631_Cat_489_18"/>
+        <div type="Language" lang="Latvian">Ka warr meeſẜiga Ähſchana vnd Dſerrſchana tahdu leelu leetu</div>
+       <lb id="Manc1631_Cat_489_19"/>
+        <div type="Language" lang="Latvian">darriet ? 		Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_489_20"/>
+        <div type="Language" lang="Latvian">Ähſchana vnd Dſerrſchana pattees to nhe darra /</div>
+       <lb id="Manc1631_Cat_489_21"/>
+        <div type="Language" lang="Latvian">bett the Wahrdi / kattri teitan ſtahw : Par jums doh-</div>
+       <lb id="Manc1631_Cat_489_22"/>
+        <div type="Language" lang="Latvian">ta / vnd ißleetz par peedoſchanu tho Ghräko.</div>
+       <lb id="Manc1631_Cat_489_23"/>
+        <div type="Language" lang="Latvian">Kattri Wahrdi gir ar to meeſẜigu Ähſchanu vnd Dſerr-</div>
+       <lb id="Manc1631_Cat_489_24"/>
+        <div type="Language" lang="Latvian">ſchanu / ka tas Ghallwaghabbals eekſchan to Wackara=</div>
+      </div>
+      <pb n="490"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_490_1"/>
+        <div type="Language" lang="Latvian">ähden / vnd kas teems paſſcheems Wahrdeems titz / tas</div>
+       <lb id="Manc1631_Cat_490_2"/>
+        <div type="Language" lang="Latvian">dabbu to / ko te ẜohla / vnd ka te ſkann / ar wahrdu / peedo-</div>
+       <lb id="Manc1631_Cat_490_3"/>
+        <div type="Language" lang="Latvian">ſchanu to Ghräko.</div>
+       <lb id="Manc1631_Cat_490_4"/>
+        <div type="Language" lang="Latvian">Kas jemm tad tahdu Ähden czeenige ?   Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_490_5"/>
+        <div type="Language" lang="Latvian">Ghaweht vnd ſkaiſte ẜöw aptehrptees / gir weena</div>
+       <lb id="Manc1631_Cat_490_6"/>
+        <div type="Language" lang="Latvian">labba krahßna meeſẜiga ſattaiſẜiſchana / bett tas ir ihẜtä-</div>
+       <lb id="Manc1631_Cat_490_7"/>
+        <div type="Language" lang="Latvian">ne czeeniex vnd labbe ẜattaiſẜiyees / katters titz ſcheems</div>
+       <lb id="Manc1631_Cat_490_8"/>
+        <div type="Language" lang="Latvian">Wahrdeems : Par jums dohta / vnd ißleetz par</div>
+       <lb id="Manc1631_Cat_490_9"/>
+        <div type="Language" lang="Latvian">peedoſchanu to Ghräko. Bett kas ſcheems Wahr-</div>
+       <lb id="Manc1631_Cat_490_10"/>
+        <div type="Language" lang="Latvian">deems nhe titz / tas gir nhetitziex vnd nhe labbe ẜattaiſ-</div>
+       <lb id="Manc1631_Cat_490_11"/>
+        <div type="Language" lang="Latvian">ẜiyees : Aiſto tas Wahrtzs (par jums) gribb wiſch-</div>
+       <lb id="Manc1631_Cat_490_12"/>
+        <div type="Language" lang="Latvian">ſkim titzigus Ꞩirrdes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_490_13"/>
+       <div type="Language" lang="German">Eine andere kurtze Forma zu Beichten /</div>
+       <lb id="Manc1631_Cat_490_14"/>
+       <div type="Language" lang="German">D. Mart. Luther.</div>
+       <lb id="Manc1631_Cat_490_15"/>
+        <div type="Language" lang="Latvian">Czitta Ghräkoẜuhdſeſchana.</div>
+       <lb id="Manc1631_Cat_490_16"/>
+        <div type="Language" lang="Latvian">Ta buhß töw vs to Baßniza=Kungu ẜatziet.</div>
+       <lb id="Manc1631_Cat_490_17"/>
+        <div type="Language" lang="Latvian">Czeeniex mieļais Kunx / es luhdſu töw / tu gribbätu</div>
+       <lb id="Manc1631_Cat_490_18"/>
+        <div type="Language" lang="Latvian">mannus Ghräkus klauſẜiet / vnd mann Ghräko</div>
+       <lb id="Manc1631_Cat_490_19"/>
+        <div type="Language" lang="Latvian">peedoſchanu paſluddenaht no Deewa puſẜes.</div>
+       <lb id="Manc1631_Cat_490_20"/>
+        <div type="Language" lang="Latvian">Labpraht.</div>
+       <lb id="Manc1631_Cat_490_21"/>
+        <div type="Language" lang="Latvian">ES nabbahx Ghrehzeneex atſieſtohß ẜöw preekſchan</div>
+       <lb id="Manc1631_Cat_490_22"/>
+        <div type="Language" lang="Latvian">Deewu par weenu leelu Ghrehzeneeku / ihpaſſch</div>
+       <lb id="Manc1631_Cat_490_23"/>
+        <div type="Language" lang="Latvian">atſieſtohß es ẜöw preekſchan thöw / ka es weens Kallps</div>
+      </div>
+      <pb n="491"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_491_1"/>
+        <div type="Language" lang="Latvian">(Kallpone) äßmu / bett / Deews ſchählo / es Kallpoyu ẜa-</div>
+       <lb id="Manc1631_Cat_491_2"/>
+        <div type="Language" lang="Latvian">wam Kungam nhepeetitzige / es nhe äßmu to labpraht</div>
+       <lb id="Manc1631_Cat_491_3"/>
+        <div type="Language" lang="Latvian">darriyis / ko wings mann pawehleyis gir / Es äßmu to</div>
+       <lb id="Manc1631_Cat_491_4"/>
+        <div type="Language" lang="Latvian">apkaitenayis lieds patt lahſteem / es äßmu ſlinnx biyis /</div>
+       <lb id="Manc1631_Cat_491_5"/>
+        <div type="Language" lang="Latvian">vnd Ghräku litzis notickt / es äßmu arridſan ar Wahr-</div>
+       <lb id="Manc1631_Cat_491_6"/>
+        <div type="Language" lang="Latvian">deems vnd Darrbeems nhekauniex biyis / vnd ar ẜawu</div>
+       <lb id="Manc1631_Cat_491_7"/>
+        <div type="Language" lang="Latvian">Tuwaku bahrees / prett ẜawu Kungu vnd Ghaßpaſchu</div>
+       <lb id="Manc1631_Cat_491_8"/>
+        <div type="Language" lang="Latvian">kurrneyis. Tas gir mann wißnotaļļ ſchähl / es luhd-</div>
+       <lb id="Manc1631_Cat_491_9"/>
+        <div type="Language" lang="Latvian">ſchohß ſchälaſtibu / es gribbu / ar Deewa ſpähku / no Ghrä-</div>
+       <lb id="Manc1631_Cat_491_10"/>
+        <div type="Language" lang="Latvian">keems attſtaht / vnd wairs nhe darriet.</div>
+       <lb id="Manc1631_Cat_491_11"/>
+       <div type="Language" lang="German">Darauff ſol der Beichtvater ſagen :</div>
+       <lb id="Manc1631_Cat_491_12"/>
+        <div type="Language" lang="Latvian">Deews gir töw ſchäliex vnd apſtippronayu tawu Titzibu</div>
+       <lb id="Manc1631_Cat_491_13"/>
+       <div type="Language" lang="German">Vnd weiter fragen:</div>
+       <lb id="Manc1631_Cat_491_14"/>
+        <div type="Language" lang="Latvian">Titzi tu arridſan / Ka manna Peedoſchanu / Deewa</div>
+       <lb id="Manc1631_Cat_491_15"/>
+        <div type="Language" lang="Latvian">Peedoſchanu gir?	Adbilldeſchana.</div>
+       <lb id="Manc1631_Cat_491_16"/>
+        <div type="Language" lang="Latvian">Ja / mieļais Kunx.</div>
+       <lb id="Manc1631_Cat_491_17"/>
+       <div type="Language" lang="German">Darauff ſpreche Er :</div>
+       <lb id="Manc1631_Cat_491_18"/>
+        <div type="Language" lang="Latvian">Töw noteek ka tu Titzi / Vnd es aran pawehleſchanu</div>
+       <lb id="Manc1631_Cat_491_19"/>
+        <div type="Language" lang="Latvian">muhſẜa Kunga JEſu Chriſti peedohdi töw tawi Ghrä-</div>
+       <lb id="Manc1631_Cat_491_20"/>
+        <div type="Language" lang="Latvian">ki / eekſchan to Wahrdu tha Tähwa / vnd tha Dähla / vnd</div>
+       <lb id="Manc1631_Cat_491_21"/>
+        <div type="Language" lang="Latvian">tha ſwähta Gharra / Amen.</div>
+       <lb id="Manc1631_Cat_491_22"/>
+        <div type="Language" lang="Latvian">Ey eekſchann Deewa Meeru.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_491_23"/>
+       <div type="Language" lang="German">20. Fragſtücke mit jhren Antworten auffs</div>
+       <lb id="Manc1631_Cat_491_24"/>
+       <div type="Language" lang="German">kürtzeſte geſtellet für die jenigen / ſo zum heiligen</div>
+       <lb id="Manc1631_Cat_491_25"/>
+       <div type="Language" lang="German">Nachtmahl des HErrn gehen wollen /</div>
+       <lb id="Manc1631_Cat_491_26"/>
+       <div type="Language" lang="German">D.M.Luther.</div>
+      </div>
+      <pb n="492"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_492_1"/>
+        <div type="Language" lang="Latvian">Weena Chriſtita Mahziba no teems Jauta-</div>
+       <lb id="Manc1631_Cat_492_2"/>
+        <div type="Language" lang="Latvian">ſchaneems vnd Adbilldeſchaneems preekſchan</div>
+       <lb id="Manc1631_Cat_492_3"/>
+        <div type="Language" lang="Latvian">teems kattri py Deewa Ghalldu eet.</div>
+       <lb id="Manc1631_Cat_492_4"/>
+        <div type="Language" lang="Latvian">Ta pirrma Jautaſchana.</div>
+       <lb id="Manc1631_Cat_492_5"/>
+        <div type="Language" lang="Latvian">1.	Titzi tu / ka tu weens Ghrähzeneex eſẜi ?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_492_6"/>
+        <div type="Language" lang="Latvian">Ja es titzu to / es äßmu weens Ghrähzeneex.</div>
+       <lb id="Manc1631_Cat_492_7"/>
+        <div type="Language" lang="Latvian">Ta ohtra Jautaſchana.</div>
+       <lb id="Manc1631_Cat_492_8"/>
+        <div type="Language" lang="Latvian">2.	Ka ſinni tu to?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_492_9"/>
+        <div type="Language" lang="Latvian">Aran teems deßmitteem Baußleems / tohß nhe äß-</div>
+       <lb id="Manc1631_Cat_492_10"/>
+        <div type="Language" lang="Latvian">mu es turreyis.</div>
+       <lb id="Manc1631_Cat_492_11"/>
+        <div type="Language" lang="Latvian">Ta treſſcha Jautaſchana.</div>
+       <lb id="Manc1631_Cat_492_12"/>
+        <div type="Language" lang="Latvian">3.	Gir töw tawi Ghräki arridſan ſchähl?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_492_13"/>
+        <div type="Language" lang="Latvian">Ja / tas gir mann ſchähl / ka es prettie Deewu Ghrä-</div>
+       <lb id="Manc1631_Cat_492_14"/>
+        <div type="Language" lang="Latvian">koyis äßmu.</div>
+       <lb id="Manc1631_Cat_492_15"/>
+        <div type="Language" lang="Latvian">Ta czättorta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_492_16"/>
+        <div type="Language" lang="Latvian">4.	Ko eſẜi tu ar taweems Ghräkeems pellniyis ?	Adb.</div>
+       <lb id="Manc1631_Cat_492_17"/>
+        <div type="Language" lang="Latvian">Nheneeka labb / Deewa dußmibu vnd Enaidibu / to</div>
+       <lb id="Manc1631_Cat_492_18"/>
+        <div type="Language" lang="Latvian">laizigu Nahwu / vnd to muhſchigu Paſuſſchanu.</div>
+       <lb id="Manc1631_Cat_492_19"/>
+        <div type="Language" lang="Latvian">Ta peekta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_492_20"/>
+        <div type="Language" lang="Latvian">5.	Titzi tu Ghräko peedoſchanu? 		Adbilldi.</div>
+       <lb id="Manc1631_Cat_492_21"/>
+        <div type="Language" lang="Latvian">Ja / es titzu to ?</div>
+       <lb id="Manc1631_Cat_492_22"/>
+        <div type="Language" lang="Latvian">Ta ẜäſta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_492_23"/>
+        <div type="Language" lang="Latvian">6.	Ar ko tu tad eepreezenayees ?		Adbilldi.</div>
+       <lb id="Manc1631_Cat_492_24"/>
+        <div type="Language" lang="Latvian">Ar mannu mieļu Kungu JEſu Chriſto.</div>
+       <lb id="Manc1631_Cat_492_25"/>
+        <div type="Language" lang="Latvian">Ta ẜeptita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_492_26"/>
+        <div type="Language" lang="Latvian">7.	Kas gir Chriſtus?</div>
+       <lb id="Manc1631_Cat_492_27"/>
+        <div type="Language" lang="Latvian">Deewa Dähls / patteeſẜe Deews vnd Czillwähx.</div>
+      </div>
+      <pb n="493"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_493_1"/>
+        <div type="Language" lang="Latvian">Ta aſtota Jautaſchana.</div>
+       <lb id="Manc1631_Cat_493_2"/>
+        <div type="Language" lang="Latvian">8.	Zeek gir Deewi?		Adbilldi.</div>
+       <lb id="Manc1631_Cat_493_3"/>
+        <div type="Language" lang="Latvian">Weens weeniex Deews / bett trieß Perſoni / Tähws /</div>
+       <lb id="Manc1631_Cat_493_4"/>
+        <div type="Language" lang="Latvian">Dähls vnd ſwähtz Gharrs.</div>
+       <lb id="Manc1631_Cat_493_5"/>
+        <div type="Language" lang="Latvian">Ta dewita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_493_6"/>
+        <div type="Language" lang="Latvian">9.	Ko gir tad Chriſtus töwis dehļ darriyis / ka tu ẜöw</div>
+       <lb id="Manc1631_Cat_493_7"/>
+        <div type="Language" lang="Latvian">ar winju eepreezenayeeß?		Adbilldi.</div>
+       <lb id="Manc1631_Cat_493_8"/>
+        <div type="Language" lang="Latvian">Wings gir mannis dehļ mirris / vnd ẜawu Aſẜini py</div>
+       <lb id="Manc1631_Cat_493_9"/>
+        <div type="Language" lang="Latvian">Kruſtu ißleyis / par peedoſchanu to Ghräko.</div>
+       <lb id="Manc1631_Cat_493_10"/>
+        <div type="Language" lang="Latvian">Ta deßmita Jautaſchana.</div>
+       <lb id="Manc1631_Cat_493_11"/>
+        <div type="Language" lang="Latvian">10.	Gir tas Tähws arridſan töwis dehļ mirris? Adbill.</div>
+       <lb id="Manc1631_Cat_493_12"/>
+        <div type="Language" lang="Latvian">Nhe / aiſto tas Tähws gir tickai Deews / tas ſwähtz</div>
+       <lb id="Manc1631_Cat_493_13"/>
+        <div type="Language" lang="Latvian">Gharrs arridſan / bett tas Dähls gir patteeß Deews</div>
+       <lb id="Manc1631_Cat_493_14"/>
+        <div type="Language" lang="Latvian">vnd patteeß Czillwähx mannis dehļ py Kruſtu nomir-</div>
+       <lb id="Manc1631_Cat_493_15"/>
+        <div type="Language" lang="Latvian">ris / vnd ẜawu Aſẜini mannis dehļ ißleyis.</div>
+       <lb id="Manc1631_Cat_493_16"/>
+        <div type="Language" lang="Latvian">Ta weenapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_493_17"/>
+        <div type="Language" lang="Latvian">11.	Ka ſinni tu to?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_493_18"/>
+        <div type="Language" lang="Latvian">Aran to ſwähtu Ewangelio / vnd aran teems</div>
+       <lb id="Manc1631_Cat_493_19"/>
+        <div type="Language" lang="Latvian">Wahrdeems tahß Eeſtadiſchanas / vnd py ẜawu Meeſẜu</div>
+       <lb id="Manc1631_Cat_493_20"/>
+        <div type="Language" lang="Latvian">vnd Aſẜini eekſchan to Eeſtadiſchanu man Kieļà dohtz.</div>
+       <lb id="Manc1631_Cat_493_21"/>
+        <div type="Language" lang="Latvian">Ta ohtrapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_493_22"/>
+        <div type="Language" lang="Latvian">11.	Ka ſkann tee Wahrdi?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_493_23"/>
+        <div type="Language" lang="Latvian">Muhſẜo Kunx JEſus Chriſtus tanny</div>
+       <lb id="Manc1631_Cat_493_24"/>
+        <div type="Language" lang="Latvian">Nackty / kad tas peewilltz tappa / jehme tas to</div>
+       <lb id="Manc1631_Cat_493_25"/>
+        <div type="Language" lang="Latvian">Mais / patteitze vnd pahrlauſe to / vnd dehwe</div>
+       <lb id="Manc1631_Cat_493_26"/>
+        <div type="Language" lang="Latvian">to ẜaweems Mahzekleems / vnd ẜatziya: Jem-</div>
+       <lb id="Manc1631_Cat_493_27"/>
+        <div type="Language" lang="Latvian">meeta / ähdeeta / ta gir manna Meeſẜa / kattra</div>
+      </div>
+      <pb n="494"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_494_1"/>
+        <div type="Language" lang="Latvian">par jums tohp dohta / to darraita mann pee-</div>
+       <lb id="Manc1631_Cat_494_2"/>
+        <div type="Language" lang="Latvian">minnädami.</div>
+       <lb id="Manc1631_Cat_494_3"/>
+        <div type="Language" lang="Latvian">Ta lieds arridſan jehme tas to Bigkeri /</div>
+       <lb id="Manc1631_Cat_494_4"/>
+        <div type="Language" lang="Latvian">pehtz to Wackar=ähden / patteitze / vnd dehwe</div>
+       <lb id="Manc1631_Cat_494_5"/>
+        <div type="Language" lang="Latvian">teems to / vnd ẜatziya : Jemmeeta / vnd dſer-</div>
+       <lb id="Manc1631_Cat_494_6"/>
+        <div type="Language" lang="Latvian">reeta wiſẜi no to / Schis Bigkeris gir ta jau-</div>
+       <lb id="Manc1631_Cat_494_7"/>
+        <div type="Language" lang="Latvian">na Eeſtadiſchana eekſchan mannu Aſẜini /</div>
+       <lb id="Manc1631_Cat_494_8"/>
+        <div type="Language" lang="Latvian">katters par jums vnd par dauds ißleetz tohp /</div>
+       <lb id="Manc1631_Cat_494_9"/>
+        <div type="Language" lang="Latvian">par peedoſchanu tho Ghräko / to darraita</div>
+       <lb id="Manc1631_Cat_494_10"/>
+        <div type="Language" lang="Latvian">czeekahrt juhß dſerreeta / mann peemin-</div>
+       <lb id="Manc1631_Cat_494_11"/>
+        <div type="Language" lang="Latvian">nädami.</div>
+       <lb id="Manc1631_Cat_494_12"/>
+        <div type="Language" lang="Latvian">Ta treſſchapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_494_13"/>
+        <div type="Language" lang="Latvian">13.	Tad titzi tu / ka eekſchan to ſwähtu Wackara=ähden</div>
+       <lb id="Manc1631_Cat_494_14"/>
+        <div type="Language" lang="Latvian">ta patteeſẜa Meeſẜa vnd Aſẜins Chriſti gir?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_494_15"/>
+        <div type="Language" lang="Latvian">Ja / es titzu to.</div>
+       <lb id="Manc1631_Cat_494_16"/>
+        <div type="Language" lang="Latvian">Ta czättortapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_494_17"/>
+        <div type="Language" lang="Latvian">14.	Kapehtz titzi tu to?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_494_18"/>
+        <div type="Language" lang="Latvian">Pehtz teems Wahrdeems Chriſti / Jemmeeta /</div>
+       <lb id="Manc1631_Cat_494_19"/>
+        <div type="Language" lang="Latvian">ähdeeta ta gir manna Meeſẜa / Dſerreeta</div>
+       <lb id="Manc1631_Cat_494_20"/>
+        <div type="Language" lang="Latvian">wiſẜi no to / tas gir manns Aſẜinis.</div>
+       <lb id="Manc1631_Cat_494_21"/>
+        <div type="Language" lang="Latvian">Ta peektapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_494_22"/>
+        <div type="Language" lang="Latvian">15.	Ko buhß mums darriet / kad mehs winja Meeſẜu äh-</div>
+       <lb id="Manc1631_Cat_494_23"/>
+        <div type="Language" lang="Latvian">dam / vnd winja Aſẜini dſerŗam / vnd to Kielu tha jem-</div>
+       <lb id="Manc1631_Cat_494_24"/>
+        <div type="Language" lang="Latvian">mam?		Adbilldi.</div>
+      </div>
+      <pb n="495"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_495_1"/>
+        <div type="Language" lang="Latvian">Mums buhß Winja Nahwu / vnd Aſẜino ißleeſcha-</div>
+       <lb id="Manc1631_Cat_495_2"/>
+        <div type="Language" lang="Latvian">nu ſluddenaht vnd apdohmaht ka Wings mums mah-</div>
+       <lb id="Manc1631_Cat_495_3"/>
+        <div type="Language" lang="Latvian">ziyis gir / To darraita / czeek=kahrt juhß to dar-</div>
+       <lb id="Manc1631_Cat_495_4"/>
+        <div type="Language" lang="Latvian">raita mannis peeminnädami.</div>
+       <lb id="Manc1631_Cat_495_5"/>
+        <div type="Language" lang="Latvian">Ta ẜeſtapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_495_6"/>
+        <div type="Language" lang="Latvian">16.	Kapehtz buhß mums winja Nahwu peeminneht /</div>
+       <lb id="Manc1631_Cat_495_7"/>
+        <div type="Language" lang="Latvian">vnd to paſſchu paſluddenaht?		Adbilldi.</div>
+       <lb id="Manc1631_Cat_495_8"/>
+        <div type="Language" lang="Latvian">Ka mehß mahzammees titzeht / ka nhe weena Rad-</div>
+       <lb id="Manc1631_Cat_495_9"/>
+        <div type="Language" lang="Latvian">dita leeta gir ſpehyuſẜi ghann darriet par muhſẜeems</div>
+       <lb id="Manc1631_Cat_495_10"/>
+        <div type="Language" lang="Latvian">Ghräkeems / ka tickai Chriſtus pattees Deews vnd Czil-</div>
+       <lb id="Manc1631_Cat_495_11"/>
+        <div type="Language" lang="Latvian">wähx / vnd ka mehs mahzammees ißbietes par muhſ-</div>
+       <lb id="Manc1631_Cat_495_12"/>
+        <div type="Language" lang="Latvian">ẜeems Ghräkeems / vnd tohß mahzitees ghrutus turreht /</div>
+       <lb id="Manc1631_Cat_495_13"/>
+        <div type="Language" lang="Latvian">vnd mums vs winju ween preezatees / vnd tha czaur to</div>
+       <lb id="Manc1631_Cat_495_14"/>
+        <div type="Language" lang="Latvian">paſſchu Titzibu ſwähti tapt.</div>
+       <lb id="Manc1631_Cat_495_15"/>
+        <div type="Language" lang="Latvian">Ta ẜeptitapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_495_16"/>
+        <div type="Language" lang="Latvian">17.	Kas gir tad to Kungu Chriſtum ſpeedis tawu Ghrä-</div>
+       <lb id="Manc1631_Cat_495_17"/>
+        <div type="Language" lang="Latvian">ko dehļ mirrt / vnd ghann darriet? 	Adbilldi.</div>
+       <lb id="Manc1631_Cat_495_18"/>
+        <div type="Language" lang="Latvian">Ta leela Mieläſtiba prett ẜawu Tähwu / prett man</div>
+       <lb id="Manc1631_Cat_495_19"/>
+        <div type="Language" lang="Latvian">vnd prett zitteems Ghräzeneekeems.</div>
+       <lb id="Manc1631_Cat_495_20"/>
+        <div type="Language" lang="Latvian">Ta aſtotapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_495_21"/>
+        <div type="Language" lang="Latvian">18.	Kapehtz gribbi tu tad py Deewa=ghalldu eet? Adbi.</div>
+       <lb id="Manc1631_Cat_495_22"/>
+        <div type="Language" lang="Latvian">Ka es mahzitohß titzeht / ka Chriſtus manno Ghrä-</div>
+       <lb id="Manc1631_Cat_495_23"/>
+        <div type="Language" lang="Latvian">ko dehļ no leelas Mieläſtibas mirris gir / ka taggadien</div>
+       <lb id="Manc1631_Cat_495_24"/>
+        <div type="Language" lang="Latvian">ẜatzietz gir / vnd pehtz no winju mahzitohß Deewu vnd</div>
+       <lb id="Manc1631_Cat_495_25"/>
+        <div type="Language" lang="Latvian">mannu Tuwaku mieļoht.</div>
+       <lb id="Manc1631_Cat_495_26"/>
+        <div type="Language" lang="Latvian">Ta dewitapadeßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_495_27"/>
+        <div type="Language" lang="Latvian">19.	Ko buhß weenu Czillwäku pagkudenaht vnd ſpeeſt /</div>
+       <lb id="Manc1631_Cat_495_28"/>
+        <div type="Language" lang="Latvian">daſche=reis py Deewa=ghalldu eet?	Adbilldi.</div>
+      </div>
+      <pb n="496"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_496_1"/>
+        <div type="Language" lang="Latvian">No Deewa puſẜes buhß winju tick lieds ta Kunga</div>
+       <lb id="Manc1631_Cat_496_2"/>
+        <div type="Language" lang="Latvian">Chriſti pawehleſchana vnd Ꞩohliſchana / ka arridſan</div>
+       <lb id="Manc1631_Cat_496_3"/>
+        <div type="Language" lang="Latvian">ẜawi paſſchi Bähdi / kattri tam vs kacklu ghull / ſpeeſt / kat-</div>
+       <lb id="Manc1631_Cat_496_4"/>
+        <div type="Language" lang="Latvian">tro dehļ tahda luhkſchana / aitzenaſchana vnd ẜohliſchana</div>
+       <lb id="Manc1631_Cat_496_5"/>
+        <div type="Language" lang="Latvian">noteek.</div>
+       <lb id="Manc1631_Cat_496_6"/>
+        <div type="Language" lang="Latvian">Ta ohtra deßmitta Jautaſchana.</div>
+       <lb id="Manc1631_Cat_496_7"/>
+        <div type="Language" lang="Latvian">20.	Bett ko buhß weenam Czillwäkam darriet / kad</div>
+       <lb id="Manc1631_Cat_496_8"/>
+        <div type="Language" lang="Latvian">wings tahdas bähdas nhe war juſt / neds tam ghribbahß</div>
+       <lb id="Manc1631_Cat_496_9"/>
+        <div type="Language" lang="Latvian">eet py Deewa=ghalldu?	Adbilldi.</div>
+       <lb id="Manc1631_Cat_496_10"/>
+        <div type="Language" lang="Latvian">Tam nhe warr labbaku Paddomu doht / ka ſcho / ka</div>
+       <lb id="Manc1631_Cat_496_11"/>
+        <div type="Language" lang="Latvian">tas pirmahk ẜawu Rohku ẜawà Aſoty eeſchaun / vnd</div>
+       <lb id="Manc1631_Cat_496_12"/>
+        <div type="Language" lang="Latvian">ghrahpſta arrieg tam Meeſẜas vnd Aſẜinis gir / vnd titza</div>
+       <lb id="Manc1631_Cat_496_13"/>
+        <div type="Language" lang="Latvian">tock Deewa Wahrdam ko tas no to ẜacka.</div>
+       <lb id="Manc1631_Cat_496_14"/>
+        <div type="Language" lang="Latvian">Ohtrà kahrtà / ka tas apſkattahß / arrieg tas wehl</div>
+       <lb id="Manc1631_Cat_496_15"/>
+        <div type="Language" lang="Latvian">Paſẜauleh gir / vnd dohma / ka Ghräki vnd Bähdas nhe</div>
+       <lb id="Manc1631_Cat_496_16"/>
+        <div type="Language" lang="Latvian">Mittehſẜees / ka tas Raxtz ẜacka.</div>
+       <lb id="Manc1631_Cat_496_17"/>
+        <div type="Language" lang="Latvian">Treſſchà kahrtà / Tad jo arridſan tas Wälls ap-</div>
+       <lb id="Manc1631_Cat_496_18"/>
+        <div type="Language" lang="Latvian">kahrt to buhß / katters tam ar Mälleems vnd Ꞩläppka-</div>
+       <lb id="Manc1631_Cat_496_19"/>
+        <div type="Language" lang="Latvian">wibu / nei deenas nei nacktis / no eekſchanas vnd no ah-</div>
+       <lb id="Manc1631_Cat_496_20"/>
+        <div type="Language" lang="Latvian">renes ar meeru lix / ka tas Raxts no to ẜacka.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_496_21"/>
+       <div type="Language" lang="German">Der Morgen vnd Abend Segen.</div>
+       <lb id="Manc1631_Cat_496_22"/>
+        <div type="Language" lang="Latvian">Rietohß kad tu czellees / vnd Wackorohß ghulleht ee-</div>
+       <lb id="Manc1631_Cat_496_23"/>
+        <div type="Language" lang="Latvian">dams / buhß töw Kruſtu meßtees preekſchan /</div>
+       <lb id="Manc1631_Cat_496_24"/>
+        <div type="Language" lang="Latvian">vnd ẜatziet :</div>
+       <lb id="Manc1631_Cat_496_25"/>
+        <div type="Language" lang="Latvian">Nu palliedſi mann Deews Tähws + Dähls + vnd</div>
+       <lb id="Manc1631_Cat_496_26"/>
+        <div type="Language" lang="Latvian">?wähtz Gharrs + Amen.</div>
+      </div>
+      <pb n="497"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_497_1"/>
+        <div type="Language" lang="Latvian">ES patteitſchu thöw manns Debbeſẜo</div>
+       <lb id="Manc1631_Cat_497_2"/>
+        <div type="Language" lang="Latvian">Tähws / zaur JEſum Chriſtum / tawu</div>
+       <lb id="Manc1631_Cat_497_3"/>
+        <div type="Language" lang="Latvian">mieļu Dählu mannu Kungu / ka tu mann</div>
+       <lb id="Manc1631_Cat_497_4"/>
+        <div type="Language" lang="Latvian">ſcho Nackti (Deenu) par wiſẜenahdu Nhe-</div>
+       <lb id="Manc1631_Cat_497_5"/>
+        <div type="Language" lang="Latvian">laim vnd breeßmibu tick ſchälige paghlabo-</div>
+       <lb id="Manc1631_Cat_497_6"/>
+        <div type="Language" lang="Latvian">yis vnd paſẜarghayis eſẜi / vnd luhdſchu töw /</div>
+       <lb id="Manc1631_Cat_497_7"/>
+        <div type="Language" lang="Latvian">tu ghribbätu mann peedoht wiſẜus mannus</div>
+       <lb id="Manc1631_Cat_497_8"/>
+        <div type="Language" lang="Latvian">Ghräkus kur es nhepareis darriyis äßmu /</div>
+       <lb id="Manc1631_Cat_497_9"/>
+        <div type="Language" lang="Latvian">vnd mann ſcho Deen (Nackti) arridſan tick</div>
+       <lb id="Manc1631_Cat_497_10"/>
+        <div type="Language" lang="Latvian">ſchälige paſẜarghat par Ghräkeems vnd wiſ-</div>
+       <lb id="Manc1631_Cat_497_11"/>
+        <div type="Language" lang="Latvian">ẜu ļaun / ka thöw wiß manns Darrbs vnd</div>
+       <lb id="Manc1631_Cat_497_12"/>
+        <div type="Language" lang="Latvian">Dſiewiba pattiek. Aiſto es pawehļu töw</div>
+       <lb id="Manc1631_Cat_497_13"/>
+        <div type="Language" lang="Latvian">Mann / mannu Meeſẜu vnd Dwehſẜel / man-</div>
+       <lb id="Manc1631_Cat_497_14"/>
+        <div type="Language" lang="Latvian">nu Tähwu vnd Maht / mannu Kungu vnd</div>
+       <lb id="Manc1631_Cat_497_15"/>
+        <div type="Language" lang="Latvian">Wirßneekus / mannus Mahzetayus / wiſẜus</div>
+       <lb id="Manc1631_Cat_497_16"/>
+        <div type="Language" lang="Latvian">Chriſtitus Ļaudis / vnd wiſẜas leetas eek-</div>
+       <lb id="Manc1631_Cat_497_17"/>
+        <div type="Language" lang="Latvian">ſchan tawu Rohku / taws ſwähtz Engelis</div>
+       <lb id="Manc1631_Cat_497_18"/>
+        <div type="Language" lang="Latvian">laid palleek py mann / ka tas ļauns Eenaid-</div>
+       <lb id="Manc1631_Cat_497_19"/>
+        <div type="Language" lang="Latvian">neex mann nhe peewarr / Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_497_20"/>
+       <div type="Language" lang="German">Wie ein Haußvater ſein Geſinde ſol leren</div>
+       <lb id="Manc1631_Cat_497_21"/>
+       <div type="Language" lang="German">das Benedicite vnd Gratias ſprechen.</div>
+      </div>
+      <pb n="498"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_498_1"/>
+        <div type="Language" lang="Latvian">Pirms ähden buhß teems Ꞩaimneekeems /</div>
+       <lb id="Manc1631_Cat_498_2"/>
+        <div type="Language" lang="Latvian">Bährneems vnd tai Ꞩaimai rohkas ẜalickuſchi di-</div>
+       <lb id="Manc1631_Cat_498_3"/>
+        <div type="Language" lang="Latvian">ſchanne ghodige preekſchan Ghalldu ſtahweht /</div>
+       <lb id="Manc1631_Cat_498_4"/>
+        <div type="Language" lang="Latvian">vnd ta ẜatziet :</div>
+       <lb id="Manc1631_Cat_498_5"/>
+        <div type="Language" lang="Latvian">WJſẜas Atzis ghaida vs töw Kunx / vnd</div>
+       <lb id="Manc1631_Cat_498_6"/>
+        <div type="Language" lang="Latvian">tu dohd teems winja Barribu ẜawà lai-</div>
+       <lb id="Manc1631_Cat_498_7"/>
+        <div type="Language" lang="Latvian">kà / tu attwerr tawas Rohkas / vnd pee=ähdi-</div>
+       <lb id="Manc1631_Cat_498_8"/>
+        <div type="Language" lang="Latvian">ni wiſẜus kattri dſiewo ar labbu prahtu.</div>
+       <lb id="Manc1631_Cat_498_9"/>
+        <div type="Language" lang="Latvian">Muhſẜo Tähws eekſchan Debbeſẜu / etc.</div>
+       <lb id="Manc1631_Cat_498_10"/>
+        <div type="Language" lang="Latvian">KVnx Deews Debbeſẜo Tähws / ghauſ=</div>
+       <lb id="Manc1631_Cat_498_11"/>
+        <div type="Language" lang="Latvian">ẜini mums ſchoß tawus Dahwanus /</div>
+       <lb id="Manc1631_Cat_498_12"/>
+        <div type="Language" lang="Latvian">kattrus mehs no tawu mieļigu ſchälaſtibu</div>
+       <lb id="Manc1631_Cat_498_13"/>
+        <div type="Language" lang="Latvian">py mums jämmam / zaur JEſum Chriſtum</div>
+       <lb id="Manc1631_Cat_498_14"/>
+        <div type="Language" lang="Latvian">muhſẜu Kungu / Amen.</div>
+       <lb id="Manc1631_Cat_498_15"/>
+       <div type="Language" lang="German">Das Gratias.</div>
+       <lb id="Manc1631_Cat_498_16"/>
+        <div type="Language" lang="Latvian">Pehtz Ähden buhß teems tha ẜatziet:</div>
+       <lb id="Manc1631_Cat_498_17"/>
+        <div type="Language" lang="Latvian">PAtteitzeeta tam Kungam / aioſto Wings</div>
+       <lb id="Manc1631_Cat_498_18"/>
+        <div type="Language" lang="Latvian">gir mieliex / vnd Winja lehniba palleek</div>
+       <lb id="Manc1631_Cat_498_19"/>
+        <div type="Language" lang="Latvian">muhſchige. Katters wiſẜai Meeſẜi Barribu</div>
+       <lb id="Manc1631_Cat_498_20"/>
+        <div type="Language" lang="Latvian">dohd / katters teems Lohpeems ẜawu Barr-</div>
+       <lb id="Manc1631_Cat_498_21"/>
+        <div type="Language" lang="Latvian">joſchanu dohd / teems jauneems Krauck-</div>
+      </div>
+      <pb n="499"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_499_1"/>
+        <div type="Language" lang="Latvian">ļeems / kattri to peeẜautz. Tam Kungam</div>
+       <lb id="Manc1631_Cat_499_2"/>
+        <div type="Language" lang="Latvian">nhe gir labbs Prahtz py to Sirrgo ſtippru-</div>
+       <lb id="Manc1631_Cat_499_3"/>
+        <div type="Language" lang="Latvian">mu / neds winjam pattiek tee Wiera Leeli :</div>
+       <lb id="Manc1631_Cat_499_4"/>
+        <div type="Language" lang="Latvian">tam Kungam pattiek tee / kattri winju bie-</div>
+       <lb id="Manc1631_Cat_499_5"/>
+        <div type="Language" lang="Latvian">ſtahs / vnd vs winja ſchälaſtibu ghaida.</div>
+       <lb id="Manc1631_Cat_499_6"/>
+        <div type="Language" lang="Latvian">Muhſẜo Tähws eekſchan Debbeſẜu / etc.</div>
+       <lb id="Manc1631_Cat_499_7"/>
+        <div type="Language" lang="Latvian">MEhs pateitzam töw / Kunx Deews deb-</div>
+       <lb id="Manc1631_Cat_499_8"/>
+        <div type="Language" lang="Latvian">beſẜo Tähws / czaur JEſum Chriſtum /</div>
+       <lb id="Manc1631_Cat_499_9"/>
+        <div type="Language" lang="Latvian">tawu mieļu Dählu / muhſẜu Kungu / par wiſ-</div>
+       <lb id="Manc1631_Cat_499_10"/>
+        <div type="Language" lang="Latvian">ẜu tawu ſchälaſtibu vnd labbedarriſchanu /</div>
+       <lb id="Manc1631_Cat_499_11"/>
+        <div type="Language" lang="Latvian">katters tu dſiewo vnd walldi muhſchige mu-</div>
+       <lb id="Manc1631_Cat_499_12"/>
+        <div type="Language" lang="Latvian">ſcham / Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_499_13"/>
+       <div type="Language" lang="German">Die Haußtaffel etlicher Sprüche / für aller-</div>
+       <lb id="Manc1631_Cat_499_14"/>
+       <div type="Language" lang="German">ley heilige Orden vnd Stände / dadurch dieſelbige</div>
+       <lb id="Manc1631_Cat_499_15"/>
+       <div type="Language" lang="German">alß durch eine eigene</div>
+       <div type="Language" lang="Latin">lection</div>
+       <div type="Language" lang="German">jhres Ambts vnd</div>
+       <lb id="Manc1631_Cat_499_16"/>
+       <div type="Language" lang="German">dienſtes zuermahnen.</div>
+       <lb id="Manc1631_Cat_499_17"/>
+        <div type="Language" lang="Latvian">Teems Pieſkopeems / Baſnizas=Kungeems /</div>
+       <lb id="Manc1631_Cat_499_18"/>
+        <div type="Language" lang="Latvian">vnd Mazetayeems.</div>
+       <lb id="Manc1631_Cat_499_19"/>
+        <div type="Language" lang="Latvian">WEenam Pieſkopam buhs nhenoſeedſigam buht /</div>
+       <lb id="Manc1631_Cat_499_20"/>
+        <div type="Language" lang="Latvian">weenas Ꞩeewas Wieram / Ghaddigam / Gha-</div>
+       <lb id="Manc1631_Cat_499_21"/>
+        <div type="Language" lang="Latvian">wigam / Ꞩahtam / Mayotayam / Mahzetayam / ka wee-</div>
+       <lb id="Manc1631_Cat_499_22"/>
+        <div type="Language" lang="Latvian">nam Deewa Nammaturretayam / nhe Wienarieyeyam /</div>
+       <lb id="Manc1631_Cat_499_23"/>
+        <div type="Language" lang="Latvian">nhe Rehyeyam / nei tahdam / kas vs nheghodigu Prettze-</div>
+      </div>
+      <pb n="500"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_500_1"/>
+        <div type="Language" lang="Latvian">ſchanu dohdahß / bett Laipnam / nhe Bahreyam / nhe</div>
+       <lb id="Manc1631_Cat_500_2"/>
+        <div type="Language" lang="Latvian">Nheghauſcham / katters vs ẜawu paſſchu Nammu labb</div>
+       <lb id="Manc1631_Cat_500_3"/>
+        <div type="Language" lang="Latvian">ghahda / kattram paklauſẜigi Bährni gir ar wiſẜenahdu</div>
+       <lb id="Manc1631_Cat_500_4"/>
+        <div type="Language" lang="Latvian">ghodibu / nhe tahdam / katters (</div>
+       <div type="Language" lang="Greek">neofutos</div>
+        <div type="Language" lang="Latvian">) nu wehl muhſẜu</div>
+       <lb id="Manc1631_Cat_500_5"/>
+        <div type="Language" lang="Latvian">Titzibu vsjehmees gir / vnd ẜöw vspuhſchahs / etc.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_500_6"/>
+       <div type="Language" lang="German">Den Zuhörern.</div>
+       <lb id="Manc1631_Cat_500_7"/>
+        <div type="Language" lang="Latvian">Teems Klauſẜetayeems.</div>
+       <lb id="Manc1631_Cat_500_8"/>
+        <div type="Language" lang="Latvian">Tas Kunx gir pawehleyis / ka tee kattri to Ewan-</div>
+       <lb id="Manc1631_Cat_500_9"/>
+        <div type="Language" lang="Latvian">gelium mahza / teems buhß no to Ewangelium vsturre-</div>
+       <lb id="Manc1631_Cat_500_10"/>
+        <div type="Language" lang="Latvian">tees.</div>
+       <lb id="Manc1631_Cat_500_11"/>
+        <div type="Language" lang="Latvian">Katters pamahzietz tohp ar Deewa Wahrdu / tam</div>
+       <lb id="Manc1631_Cat_500_12"/>
+        <div type="Language" lang="Latvian">buhß dalliet wiſẜenadu labbumu tam / kas to pamahza.</div>
+       <lb id="Manc1631_Cat_500_13"/>
+        <div type="Language" lang="Latvian">Tee Wätzaki / kattri labb preekſchan ſtahw / tee gir</div>
+       <lb id="Manc1631_Cat_500_14"/>
+        <div type="Language" lang="Latvian">ohter teek czeenitini / wißwairahk tee kattri ſtrada eek-</div>
+       <lb id="Manc1631_Cat_500_15"/>
+        <div type="Language" lang="Latvian">ſchan (Deewa) Wahrdu / vnd eekſchan to Mahzibu. Ai-</div>
+       <lb id="Manc1631_Cat_500_16"/>
+        <div type="Language" lang="Latvian">ſto tas Raxtz ẜacka / töw nhe buhß tam Wehrſcham / kat-</div>
+       <lb id="Manc1631_Cat_500_17"/>
+        <div type="Language" lang="Latvian">ters ſtrahda / to Mutt aiſẜeet. Vnd weens Darrbeneex</div>
+       <lb id="Manc1631_Cat_500_18"/>
+        <div type="Language" lang="Latvian">gir ẜawu Allgu pellniyis.</div>
+       <lb id="Manc1631_Cat_500_19"/>
+        <div type="Language" lang="Latvian">Mehs luhdſam jums / mieļi Brahļi / ka juhß attſie-</div>
+       <lb id="Manc1631_Cat_500_20"/>
+        <div type="Language" lang="Latvian">ſtaht kattri py jums ſtrahda / vnd jums preekſcha ſtahw</div>
+       <lb id="Manc1631_Cat_500_21"/>
+        <div type="Language" lang="Latvian">eekſchan to Kungu / vnd jums peeminn. Mieļoyeeta</div>
+       <lb id="Manc1631_Cat_500_22"/>
+        <div type="Language" lang="Latvian">tohß wißwairahk winjo Darrbu dehl / vnd dſiewoyeeta</div>
+       <lb id="Manc1631_Cat_500_23"/>
+        <div type="Language" lang="Latvian">meerige ar teems.</div>
+       <lb id="Manc1631_Cat_500_24"/>
+        <div type="Language" lang="Latvian">Eſẜeeta packlauſẜigi juhſẜeems Mazetayems / vnd</div>
+       <lb id="Manc1631_Cat_500_25"/>
+        <div type="Language" lang="Latvian">darraita tha / ka winji jums mahza / aiſto winji mohdrigi</div>
+       <lb id="Manc1631_Cat_500_26"/>
+        <div type="Language" lang="Latvian">gir par juhſẜeems Dwehſẜeļeems / ka tee kattreems lah-</div>
+      </div>
+      <pb n="501"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_501_1"/>
+        <div type="Language" lang="Latvian">ghadiba ja=dohd gir par jums / ka tee to preezadammees</div>
+       <lb id="Manc1631_Cat_501_2"/>
+        <div type="Language" lang="Latvian">darra / vnd nhe nopuhßdammes / aiſto tas nhe gir jums</div>
+       <lb id="Manc1631_Cat_501_3"/>
+        <div type="Language" lang="Latvian">labb.</div>
+       <lb id="Manc1631_Cat_501_4"/>
+        <div type="Language" lang="Latvian">No tahs Paſẜauligas Walldiſchanas.</div>
+       <lb id="Manc1631_Cat_501_5"/>
+        <div type="Language" lang="Latvian">Jckweenam buhß tam Wirrſẜeneekam paklauſẜigam</div>
+       <lb id="Manc1631_Cat_501_6"/>
+        <div type="Language" lang="Latvian">buht / katters par to wallda. Aiſto nhe kahda Walldi-</div>
+       <lb id="Manc1631_Cat_501_7"/>
+        <div type="Language" lang="Latvian">ſchana nhe gir / ja ta nhe gir no Deewu. Bett kas tam</div>
+       <lb id="Manc1631_Cat_501_8"/>
+        <div type="Language" lang="Latvian">Wirrſẜeneekam prettie ſtahw / tas ſtahw prettie Deewa</div>
+       <lb id="Manc1631_Cat_501_9"/>
+        <div type="Language" lang="Latvian">Eeſtadiſchanu. Bett kas tai prettie ſtahw / tas ẜawu</div>
+       <lb id="Manc1631_Cat_501_10"/>
+        <div type="Language" lang="Latvian">Teeſẜu dabbuis / aiſto ta (Paſẜauliga Walldiſchana) nhe</div>
+       <lb id="Manc1631_Cat_501_11"/>
+        <div type="Language" lang="Latvian">näß to Sohbinu wellte / ta gir Deewa Kallpone / weena</div>
+       <lb id="Manc1631_Cat_501_12"/>
+        <div type="Language" lang="Latvian">Attrebeya par Ꞩohdibu teems kattri ļaun darra.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_501_13"/>
+        <div type="Language" lang="Latvian">No teems kattri Kungus klauſẜa.</div>
+       <lb id="Manc1631_Cat_501_14"/>
+        <div type="Language" lang="Latvian">Dohdeeta Keyſeŗam / kas Keyſeŗam peedärr. Tad</div>
+       <lb id="Manc1631_Cat_501_15"/>
+        <div type="Language" lang="Latvian">eſẜeeta nu no Waiyadſibas dehļ packlauſẜigi / nhe ween</div>
+       <lb id="Manc1631_Cat_501_16"/>
+        <div type="Language" lang="Latvian">tas Ꞩohdibas dehļ / bett arridſan tahs Dwehſẜeles dehļ.</div>
+       <lb id="Manc1631_Cat_501_17"/>
+        <div type="Language" lang="Latvian">Tapehtz buhß jums arridſan Mättäcklu doht / aiſto tee</div>
+       <lb id="Manc1631_Cat_501_18"/>
+        <div type="Language" lang="Latvian">gir Deewa Kallpi / kattreems tahda ghellbeſchana ja-</div>
+       <lb id="Manc1631_Cat_501_19"/>
+        <div type="Language" lang="Latvian">kohp gir. Tad dohdeeta nu ickweenam / kas peedärr /</div>
+       <lb id="Manc1631_Cat_501_20"/>
+        <div type="Language" lang="Latvian">Mättäcklu / kam Mättäcklis peedärr / Muitu kam Mui-</div>
+       <lb id="Manc1631_Cat_501_21"/>
+        <div type="Language" lang="Latvian">ta peedärr / Biyaſchana kam Biyaſchana peedärr / Gho-</div>
+       <lb id="Manc1631_Cat_501_22"/>
+        <div type="Language" lang="Latvian">du / kam Ghohtz peedärr.</div>
+       <lb id="Manc1631_Cat_501_23"/>
+        <div type="Language" lang="Latvian">Ta attghadayu es jums / ka par wiſẜahms leetahms</div>
+       <lb id="Manc1631_Cat_501_24"/>
+        <div type="Language" lang="Latvian">wißpirrmahk ja ſkaita gir Pahtari / Luhkſchana vnd</div>
+       <lb id="Manc1631_Cat_501_25"/>
+        <div type="Language" lang="Latvian">Patteitziba / par wiſẜeems Czillwäkeems / par teems Ko-</div>
+       <lb id="Manc1631_Cat_501_26"/>
+        <div type="Language" lang="Latvian">ninyeems / vnd wiſẜu paſẜauligu Walldiſchanu / ka mehs</div>
+      </div>
+      <pb n="502"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_502_1"/>
+        <div type="Language" lang="Latvian">meerig vnd rahm dſiewoht warram eekſchan Deewa bi-</div>
+       <lb id="Manc1631_Cat_502_2"/>
+        <div type="Language" lang="Latvian">jaſchanas vnd ghohdibas. Aiſto tas gir labb / vnd arri-</div>
+       <lb id="Manc1631_Cat_502_3"/>
+        <div type="Language" lang="Latvian">dſan pattiek Deewam muhſẜam Peſtitayam.</div>
+       <lb id="Manc1631_Cat_502_4"/>
+        <div type="Language" lang="Latvian">Peeminn tohß / ka teems buhß teems leeleems Kun-</div>
+       <lb id="Manc1631_Cat_502_5"/>
+        <div type="Language" lang="Latvian">gheems / vnd tai paſẜauligai Walldiſchanai packlauſẜi-</div>
+       <lb id="Manc1631_Cat_502_6"/>
+        <div type="Language" lang="Latvian">geems buht.</div>
+       <lb id="Manc1631_Cat_502_7"/>
+        <div type="Language" lang="Latvian">Eſẜeeta packlauſẜigi wiſẜam Czillwäzigam Licku-</div>
+       <lb id="Manc1631_Cat_502_8"/>
+        <div type="Language" lang="Latvian">mam tha Kunga dehļ / tick labb tam Koninyam ka tam</div>
+       <lb id="Manc1631_Cat_502_9"/>
+        <div type="Language" lang="Latvian">Wirrſẜeneekam / jeb teems Pillskungeems / ka teems kat-</div>
+       <lb id="Manc1631_Cat_502_10"/>
+        <div type="Language" lang="Latvian">tri no winyu ẜuhtiti gir / par attreepſchanu teems ļaun-</div>
+       <lb id="Manc1631_Cat_502_11"/>
+        <div type="Language" lang="Latvian">darritayeems / vnd par ſlawu teems Rahmeems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_502_12"/>
+        <div type="Language" lang="Latvian">Teems Wiereems.</div>
+       <lb id="Manc1631_Cat_502_13"/>
+        <div type="Language" lang="Latvian">Juhß Wieri dſiewoyeeta py juhſẜahms Ꞩeewahms</div>
+       <lb id="Manc1631_Cat_502_14"/>
+        <div type="Language" lang="Latvian">ar Prahtu / vnd dohdeeta tahms Ꞩeewiſkahms / ka tam</div>
+       <lb id="Manc1631_Cat_502_15"/>
+        <div type="Language" lang="Latvian">wißwayakayam Ammatariekam ẜawu ghohdu / ka lieds=</div>
+       <lb id="Manc1631_Cat_502_16"/>
+        <div type="Language" lang="Latvian">mannteneeki tahß ſchälaſtibas (vnd) dſiewibas / ka juhſẜo</div>
+       <lb id="Manc1631_Cat_502_17"/>
+        <div type="Language" lang="Latvian">Luhkſchana nhe tohp kahwäta / vnd nhe eſẜeeta barrgi</div>
+       <lb id="Manc1631_Cat_502_18"/>
+        <div type="Language" lang="Latvian">prett tahms.</div>
+       <lb id="Manc1631_Cat_502_19"/>
+        <div type="Language" lang="Latvian">Tahms Ꞩeewahms.</div>
+       <lb id="Manc1631_Cat_502_20"/>
+        <div type="Language" lang="Latvian">Juhß Ꞩeewas eſẜeeta packlauſẜigas juhſẜeems Wie-</div>
+       <lb id="Manc1631_Cat_502_21"/>
+        <div type="Language" lang="Latvian">reems / ka tam Kungam / ka Ꞩara tam Abrahamam</div>
+       <lb id="Manc1631_Cat_502_22"/>
+        <div type="Language" lang="Latvian">packlauſẜiga by / vnd ẜautze to ẜawu Kungu / kattras</div>
+       <lb id="Manc1631_Cat_502_23"/>
+        <div type="Language" lang="Latvian">Meitas juhß eſẜeeta tappuſchi / ja juhß labbe darraht /</div>
+       <lb id="Manc1631_Cat_502_24"/>
+        <div type="Language" lang="Latvian">vnd nhe eſẜeeta tick bailigas.</div>
+      </div>
+      <pb n="503"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_503_1"/>
+        <div type="Language" lang="Latvian">Tähwam vnd Mahtey.</div>
+       <lb id="Manc1631_Cat_503_2"/>
+        <div type="Language" lang="Latvian">Juhß Tähwi nhe apdußmoyeeta juhſẜus Bährnus /</div>
+       <lb id="Manc1631_Cat_503_3"/>
+        <div type="Language" lang="Latvian">ka tee nhe tohp bailigi / bett vsaudſenayeeta tohß eekſchan</div>
+       <lb id="Manc1631_Cat_503_4"/>
+        <div type="Language" lang="Latvian">tha Kunga pamahziſchanas vnd peeminneſchanas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_503_5"/>
+        <div type="Language" lang="Latvian">Teems Bährneems.</div>
+       <lb id="Manc1631_Cat_503_6"/>
+        <div type="Language" lang="Latvian">Juhß Bährni eſẜeta packlauſẜigi juhſẜeems Wätza-</div>
+       <lb id="Manc1631_Cat_503_7"/>
+        <div type="Language" lang="Latvian">keems eekſchan to Kungu / aiſto tas peeklahyahß vnd gir</div>
+       <lb id="Manc1631_Cat_503_8"/>
+        <div type="Language" lang="Latvian">Teeſẜa / czeeni Tähwu vnd Mahtu / tas gir tas pirrmais</div>
+       <lb id="Manc1631_Cat_503_9"/>
+        <div type="Language" lang="Latvian">Baußlis / py kattru Ꞩohliſchana gir / ar wahrdu / ka töw</div>
+       <lb id="Manc1631_Cat_503_10"/>
+        <div type="Language" lang="Latvian">labb klahyahß / vnd tu illge dſiewo wirrs Semmes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_503_11"/>
+        <div type="Language" lang="Latvian">Teems Kallpeems / Kallponeems / All-</div>
+       <lb id="Manc1631_Cat_503_12"/>
+        <div type="Language" lang="Latvian">ghadſcheems / vnd Darrbeneekeems.</div>
+       <lb id="Manc1631_Cat_503_13"/>
+        <div type="Language" lang="Latvian">Juhß Kallpi / eſẜeeta packlauſẜigi juhſẜeems meeſẜi-</div>
+       <lb id="Manc1631_Cat_503_14"/>
+        <div type="Language" lang="Latvian">geems Kungeems / biedamees vnd trieſẜädami / eekſchan</div>
+       <lb id="Manc1631_Cat_503_15"/>
+        <div type="Language" lang="Latvian">weenteeſẜigu Ꞩirrdi / ka paſſcham Chriſto / nhe ween</div>
+       <lb id="Manc1631_Cat_503_16"/>
+        <div type="Language" lang="Latvian">preekſchan Atzeems kallpodami / Czillwäkeems ghrib-</div>
+       <lb id="Manc1631_Cat_503_17"/>
+        <div type="Language" lang="Latvian">bädami pattickt / bett ka tee Kallpi Chriſti / ka juhß tah-</div>
+       <lb id="Manc1631_Cat_503_18"/>
+        <div type="Language" lang="Latvian">du Deewa Prahtu darraht no Ꞩirrdtz / ar labbu Prah-</div>
+       <lb id="Manc1631_Cat_503_19"/>
+        <div type="Language" lang="Latvian">tu / dohmahdami ka juhß tam Kungam / vnd nhe teems</div>
+       <lb id="Manc1631_Cat_503_20"/>
+        <div type="Language" lang="Latvian">Czillwäkeems kallpoyeeta / ſinnadami / ko ick=kattris</div>
+       <lb id="Manc1631_Cat_503_21"/>
+        <div type="Language" lang="Latvian">labb darra / to tas dabbuis / jeb tas gir Kallps / jeb</div>
+       <lb id="Manc1631_Cat_503_22"/>
+        <div type="Language" lang="Latvian">ſwabbatz.</div>
+       <lb id="Manc1631_Cat_503_23"/>
+        <div type="Language" lang="Latvian">Teems Ꞩaimneekeems / vnd Ꞩaim-</div>
+       <lb id="Manc1631_Cat_503_24"/>
+        <div type="Language" lang="Latvian">nezeneems.</div>
+      </div>
+      <pb n="504"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_504_1"/>
+        <div type="Language" lang="Latvian">Juhß Kungi darraita arridſan to paſſchu prett win-</div>
+       <lb id="Manc1631_Cat_504_2"/>
+        <div type="Language" lang="Latvian">jeems / vnd nhe draudeyeeta / vnd ſinnaita / ka jums arri-</div>
+       <lb id="Manc1631_Cat_504_3"/>
+        <div type="Language" lang="Latvian">dſan weens Kunx Debbeſẜies gir / vnd wings nhe bähda</div>
+       <lb id="Manc1631_Cat_504_4"/>
+        <div type="Language" lang="Latvian">pehtz nhe weenu.</div>
+       <lb id="Manc1631_Cat_504_5"/>
+        <div type="Language" lang="Latvian">Wiſẜeems Jaunekļeems.</div>
+       <lb id="Manc1631_Cat_504_6"/>
+        <div type="Language" lang="Latvian">Juhß Jauni eſẜeeta teems Wätzakeems packlauſẜi-</div>
+       <lb id="Manc1631_Cat_504_7"/>
+        <div type="Language" lang="Latvian">gi / vnd paradeeta eekſchan to / to Sämmoſchanu. Aiſto</div>
+       <lb id="Manc1631_Cat_504_8"/>
+        <div type="Language" lang="Latvian">Deews nhe czeeſch tohs ghräſnus / bett teems Sämmo-</div>
+       <lb id="Manc1631_Cat_504_9"/>
+        <div type="Language" lang="Latvian">ſkeems dohd wings ſchälaſtibu. Tad ſämmoyeetees</div>
+       <lb id="Manc1631_Cat_504_10"/>
+        <div type="Language" lang="Latvian">ẜöw nu appackſchan to ſpäzigu Deewa Rohku / ka wings</div>
+       <lb id="Manc1631_Cat_504_11"/>
+        <div type="Language" lang="Latvian">jums pa=auxtena ẜawà laikà.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_504_12"/>
+        <div type="Language" lang="Latvian">Teems Attraitneems.</div>
+       <lb id="Manc1631_Cat_504_13"/>
+        <div type="Language" lang="Latvian">Ta gir weena ihſtäna Attraitne / kattra weena gir /</div>
+       <lb id="Manc1631_Cat_504_14"/>
+        <div type="Language" lang="Latvian">kattra ẜawu czerribu vs Deewu leek / vnd palleek py Luhk-</div>
+       <lb id="Manc1631_Cat_504_15"/>
+        <div type="Language" lang="Latvian">ſchanas Deenas vnd Nacktis. Bett kattra eekſchan</div>
+       <lb id="Manc1631_Cat_504_16"/>
+        <div type="Language" lang="Latvian">Kahribas dſiewo / ta gir dſiewa nomirruſẜi.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_504_17"/>
+        <div type="Language" lang="Latvian">Wiſẜeems Czillwäkeems.</div>
+       <lb id="Manc1631_Cat_504_18"/>
+        <div type="Language" lang="Latvian">Mieļo tawu Tuwaku ka ẜöw paſſchu / eekſchan to</div>
+       <lb id="Manc1631_Cat_504_19"/>
+        <div type="Language" lang="Latvian">Wahrdu gir wiſẜi Baußli ẜayembti. Vnd nhe mitte-</div>
+       <lb id="Manc1631_Cat_504_20"/>
+        <div type="Language" lang="Latvian">jeeta no Luhkſchanas par wiſẜeems Czillwäkeems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_504_21"/>
+       <div type="Language" lang="German">Ein Trawbüchlein /</div>
+       <lb id="Manc1631_Cat_504_22"/>
+       <div type="Language" lang="German">D. Martin. Luther.</div>
+      </div>
+      <pb n="505"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_505_1"/>
+       <div type="Language" lang="German">Zum erſten auff der Cantzel auffbieten / mit</div>
+       <lb id="Manc1631_Cat_505_2"/>
+       <div type="Language" lang="German">ſolchen Wohrten.</div>
+       <lb id="Manc1631_Cat_505_3"/>
+        <div type="Language" lang="Latvian">HAns N. vnd Anna N. ghribbahs ẜöw pehtz Deewa</div>
+       <lb id="Manc1631_Cat_505_4"/>
+        <div type="Language" lang="Latvian">Eeſtadiſchanas eekſchan tahs ſwähtas Laulibas</div>
+       <lb id="Manc1631_Cat_505_5"/>
+        <div type="Language" lang="Latvian">eedohtees / tapehtz luhds tee ſcho Chriſtitu draudſibu / ka</div>
+       <lb id="Manc1631_Cat_505_6"/>
+        <div type="Language" lang="Latvian">ta ghribbätu Deewu par teems luhkt / ka the to ſwähtu</div>
+       <lb id="Manc1631_Cat_505_7"/>
+        <div type="Language" lang="Latvian">Laulibu eekſchan Deewa Wahrdu warr eeẜahkt / vnd ta</div>
+       <lb id="Manc1631_Cat_505_8"/>
+        <div type="Language" lang="Latvian">teems labb ißdohdahß.</div>
+       <lb id="Manc1631_Cat_505_9"/>
+        <div type="Language" lang="Latvian">Vnd ja kam labbam ſcheit ſtarrpa kas ja=runna gir /</div>
+       <lb id="Manc1631_Cat_505_10"/>
+        <div type="Language" lang="Latvian">tas warr to py laiku darriet / vnd czeeſch pehtz kluſẜe.</div>
+       <lb id="Manc1631_Cat_505_11"/>
+        <div type="Language" lang="Latvian">Deews dohd teems labbu Laimu / labbu Weſẜelibu vnd</div>
+       <lb id="Manc1631_Cat_505_12"/>
+        <div type="Language" lang="Latvian">ẜawu ſchälaſtibu / Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_505_13"/>
+       <div type="Language" lang="Latin">Ipſa copulatio.</div>
+       <lb id="Manc1631_Cat_505_14"/>
+        <div type="Language" lang="Latvian">Hans ghribbi tu Annu jembt / vnd arridſan pattur-</div>
+       <lb id="Manc1631_Cat_505_15"/>
+        <div type="Language" lang="Latvian">reht par tawu Laulatu Draughu / ka tu ghribbi ar tahß</div>
+       <lb id="Manc1631_Cat_505_16"/>
+        <div type="Language" lang="Latvian">peezeeſt labb vnd ļaun / Weſẜelibu vnd Nheweſẜelibu / Bag-</div>
+       <lb id="Manc1631_Cat_505_17"/>
+        <div type="Language" lang="Latvian">gatibu vnd Nabbadſibu / vnd wiß ko Deews jums ab-</div>
+       <lb id="Manc1631_Cat_505_18"/>
+        <div type="Language" lang="Latvian">beems peeſkirß / nhe ghribbees ẜöw arridſan no tahs lick-</div>
+       <lb id="Manc1631_Cat_505_19"/>
+        <div type="Language" lang="Latvian">tees noſkirrtees / ka ween czaur to laizigu Nahwu: tad</div>
+       <lb id="Manc1631_Cat_505_20"/>
+        <div type="Language" lang="Latvian">adbilldi preekſchan Deewu vnd ſcho wiſẜu Chriſtitu</div>
+       <lb id="Manc1631_Cat_505_21"/>
+        <div type="Language" lang="Latvian">Draudſibu 	Ja.</div>
+       <lb id="Manc1631_Cat_505_22"/>
+        <div type="Language" lang="Latvian">Anna ghribbi tu Hanſi jembt / vnd arridſan pattur-</div>
+       <lb id="Manc1631_Cat_505_23"/>
+        <div type="Language" lang="Latvian">reht par tawu Laulatu Draughu / ta ka tu ghribbi ar to</div>
+       <lb id="Manc1631_Cat_505_24"/>
+        <div type="Language" lang="Latvian">peezeeſt labb vnd ļaun / Weſẜelibu vnd Nheweſẜelibu / Bag-</div>
+       <lb id="Manc1631_Cat_505_25"/>
+        <div type="Language" lang="Latvian">gatibu vnd Nabbadſibu / vnd wiß ko Deews jums ab-</div>
+       <lb id="Manc1631_Cat_505_26"/>
+        <div type="Language" lang="Latvian">beems peeſkirrs / nhe ghribbees ẜöw arridſan no to lickees</div>
+      </div>
+      <pb n="506"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_506_1"/>
+        <div type="Language" lang="Latvian">noſkirrtees / ka ween czaur to laizigu Nahwu: tad adbil-</div>
+       <lb id="Manc1631_Cat_506_2"/>
+        <div type="Language" lang="Latvian">di preekſchan Deewu vnd ſcho wiſẜu Chriſtito Drau-</div>
+       <lb id="Manc1631_Cat_506_3"/>
+        <div type="Language" lang="Latvian">dſibu	 Ja.</div>
+       <lb id="Manc1631_Cat_506_4"/>
+       <div type="Language" lang="German">Hie laſſe Er ſie ſich einander die Trawringe geben / vnd füge jh-</div>
+       <lb id="Manc1631_Cat_506_5"/>
+       <div type="Language" lang="German">rer beyder rechte Hand zuſammen / vnd ſpreche :</div>
+       <lb id="Manc1631_Cat_506_6"/>
+        <div type="Language" lang="Latvian">Ko Deews gir kohpan ẜalaulayis / to nhe buhß nhe</div>
+       <lb id="Manc1631_Cat_506_7"/>
+        <div type="Language" lang="Latvian">weenam Czillwäkam ſkirrt.</div>
+       <lb id="Manc1631_Cat_506_8"/>
+        <div type="Language" lang="Latvian">Aiſto ka nu Hans N. vnd Anna N. weens ohtru</div>
+       <lb id="Manc1631_Cat_506_9"/>
+        <div type="Language" lang="Latvian">par Laulatu Draughu eeghribbahß / vnd to ſcheitan / wiſ-</div>
+       <lb id="Manc1631_Cat_506_10"/>
+        <div type="Language" lang="Latvian">ẜeems rädſoht / preekſchan Deewu vnd <corr>Paſẜaul</corr><sic>Pauſẜaul</sic> atſieſt /</div>
+       <lb id="Manc1631_Cat_506_11"/>
+        <div type="Language" lang="Latvian">vnd tadehļ tee ẜöw weens ohtram Rohkas vnd Lauli-</div>
+       <lb id="Manc1631_Cat_506_12"/>
+        <div type="Language" lang="Latvian">bas Ghräddſänus däwuſchees gir: tad Ꞩalaulayo es</div>
+       <lb id="Manc1631_Cat_506_13"/>
+        <div type="Language" lang="Latvian">tohs eekſchan to Wahrdu Deewa ta Tähwa / vnd ta</div>
+       <lb id="Manc1631_Cat_506_14"/>
+        <div type="Language" lang="Latvian">Dähla / vnd ta ſwähta Gharra / Amen.</div>
+       <lb id="Manc1631_Cat_506_15"/>
+        <div type="Language" lang="Latvian">Klauſẜeeta laſẜam Deewa ta Kunga Wahrdu / ta</div>
+       <lb id="Manc1631_Cat_506_16"/>
+        <div type="Language" lang="Latvian">ſtahw Raxtietz eekſchan to pirrmo Ghramatu</div>
+       <lb id="Manc1631_Cat_506_17"/>
+        <div type="Language" lang="Latvian">Moſis / ohtrà weetà:</div>
+       <lb id="Manc1631_Cat_506_18"/>
+        <div type="Language" lang="Latvian">Vnd Deews tas Kungs ẜatziya / tas nhe gir labb / ka tas</div>
+       <lb id="Manc1631_Cat_506_19"/>
+        <div type="Language" lang="Latvian">Czillwähx weens gir / es ghribbu tham weenu Palligu</div>
+       <lb id="Manc1631_Cat_506_20"/>
+        <div type="Language" lang="Latvian">darriet / kattrai apkahrt to buhß buht. Tad licka Deews</div>
+       <lb id="Manc1631_Cat_506_21"/>
+        <div type="Language" lang="Latvian">tas Kunx weenu ſtippru Meeghu tam Czilwäkam vs-</div>
+       <lb id="Manc1631_Cat_506_22"/>
+        <div type="Language" lang="Latvian">eet / vnd tas aismigga / vnd wings jehme weenu no winja</div>
+       <lb id="Manc1631_Cat_506_23"/>
+        <div type="Language" lang="Latvian">Ꞩahnakauleems / vnd aisdarriya to weetu ar Meeſẜu.</div>
+       <lb id="Manc1631_Cat_506_24"/>
+        <div type="Language" lang="Latvian">Vnd Deews tas Kunx raddiya weenu Ꞩeewu no to</div>
+       <lb id="Manc1631_Cat_506_25"/>
+        <div type="Language" lang="Latvian">Ꞩahnakaulu / kattru tas no to Czillwäku jehme / vnd</div>
+       <lb id="Manc1631_Cat_506_26"/>
+        <div type="Language" lang="Latvian">wedde to py winju. Tad ẜatziya tas Czillwähx / tas gir</div>
+      </div>
+      <pb n="507"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_507_1"/>
+        <div type="Language" lang="Latvian">jo Kauls no mannu Kaulu / vnd Meeſẜa no mannu Meſ-</div>
+       <lb id="Manc1631_Cat_507_2"/>
+        <div type="Language" lang="Latvian">ẜu / ta taps Wieriſka dähwäta / tapehtz ka ta no Wieru</div>
+       <lb id="Manc1631_Cat_507_3"/>
+        <div type="Language" lang="Latvian">jämbta gir / tapehtz weens Czillwäks Tähwu vnd Maht</div>
+       <lb id="Manc1631_Cat_507_4"/>
+        <div type="Language" lang="Latvian">attſtahs / vnd py ẜawas Ꞩeewas peekahrſẜees / vnd tee di-</div>
+       <lb id="Manc1631_Cat_507_5"/>
+        <div type="Language" lang="Latvian">wi buhß weena Meeſẜa.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_507_6"/>
+       <div type="Language" lang="German">Darnach wende er ſich zu jhnen beiden rede</div>
+       <lb id="Manc1631_Cat_507_7"/>
+       <div type="Language" lang="German">ſie an alſo :</div>
+       <lb id="Manc1631_Cat_507_8"/>
+        <div type="Language" lang="Latvian">Kad juhß nu abbi Diwi eekſchan tahs Laulibas eedä-</div>
+       <lb id="Manc1631_Cat_507_9"/>
+        <div type="Language" lang="Latvian">wuſchees eſẜeeta / eekſchan Deewa Wahrdu / tad klauſẜai-</div>
+       <lb id="Manc1631_Cat_507_10"/>
+        <div type="Language" lang="Latvian">ta pirrmayan kahrtan Deewa Pa=wehleſchanu par to</div>
+       <lb id="Manc1631_Cat_507_11"/>
+        <div type="Language" lang="Latvian">Laulibu.</div>
+       <lb id="Manc1631_Cat_507_12"/>
+        <div type="Language" lang="Latvian">Ta ẜaka tas ſwätz Pawils:</div>
+       <lb id="Manc1631_Cat_507_13"/>
+        <div type="Language" lang="Latvian">Tahms Ꞩeewahms buhß paklauſẜigahms buht ẜa-</div>
+       <lb id="Manc1631_Cat_507_14"/>
+        <div type="Language" lang="Latvian">weems Wiereems / ka tam Kungam / aiſto tas Wiers gir</div>
+       <lb id="Manc1631_Cat_507_15"/>
+        <div type="Language" lang="Latvian">tahß Ꞩeewas ghallwa / ihten ka arridſan Chriſtus ta</div>
+       <lb id="Manc1631_Cat_507_16"/>
+        <div type="Language" lang="Latvian">Ghallwa tahs Draudſibas gir / vnd tas gir ẜawas</div>
+       <lb id="Manc1631_Cat_507_17"/>
+        <div type="Language" lang="Latvian">Meeſẜas Peſtitais. Bett ihten ka nu ta draudſe Chriſto</div>
+       <lb id="Manc1631_Cat_507_18"/>
+        <div type="Language" lang="Latvian">gir paklauſẜiga / ta arridſan buhß tahms Ꞩeewahms ẜa-</div>
+       <lb id="Manc1631_Cat_507_19"/>
+        <div type="Language" lang="Latvian">weems Wiereems paklauſẜigahms buht wiſẜahs leetahs.</div>
+       <lb id="Manc1631_Cat_507_20"/>
+        <div type="Language" lang="Latvian">Juhß Wieri mieļoyeeta ẜawas Ꞩeewas / ihten ka</div>
+       <lb id="Manc1631_Cat_507_21"/>
+        <div type="Language" lang="Latvian">Chriſtus mieļoyis gir to Draudſibu / vnd gir ẜöw pattz</div>
+       <lb id="Manc1631_Cat_507_22"/>
+        <div type="Language" lang="Latvian">par to nodehwees / ka tas to ſwehtitu / vnd gir to ſkieſtiyis</div>
+       <lb id="Manc1631_Cat_507_23"/>
+        <div type="Language" lang="Latvian">czaur to Vhdens=pehrſchanu eekſchan to Wahrdu / ka tas</div>
+       <lb id="Manc1631_Cat_507_24"/>
+        <div type="Language" lang="Latvian">ẜöw paſſcham ẜattaiſẜietu weenu Draudſibu / kattra</div>
+       <lb id="Manc1631_Cat_507_25"/>
+        <div type="Language" lang="Latvian">krahßna warrätu buht / kattrai nhe buhtu kahda ghrum-</div>
+       <lb id="Manc1631_Cat_507_26"/>
+        <div type="Language" lang="Latvian">ba / neds mällums / nei zitta kahda waina / bett kattra</div>
+       <lb id="Manc1631_Cat_507_27"/>
+        <div type="Language" lang="Latvian">ſwähta vnd taißna buhtu.</div>
+      </div>
+      <pb n="508"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_508_1"/>
+        <div type="Language" lang="Latvian">Ta buhß arridſan teems Wiereems ẜawas Ꞩee-</div>
+       <lb id="Manc1631_Cat_508_2"/>
+        <div type="Language" lang="Latvian">was mieļoht / ka ẜawu paſſchu Meeſẜu / kas ẜawu Ꞩee-</div>
+       <lb id="Manc1631_Cat_508_3"/>
+        <div type="Language" lang="Latvian">wu mieļo / tas mieļo ẜöw paſſchu / aiſto nhe weens nhe gir</div>
+       <lb id="Manc1631_Cat_508_4"/>
+        <div type="Language" lang="Latvian">ẜawu paſſchu Meeſẜu eeniedeyis / bett tas Baŗŗo to / vnd</div>
+       <lb id="Manc1631_Cat_508_5"/>
+        <div type="Language" lang="Latvian">ghlabbo to / ihten ka arridſan tas Kunx to Draudſibu.</div>
+       <lb id="Manc1631_Cat_508_6"/>
+        <div type="Language" lang="Latvian">Ohtran kahrtan / Klauſẜaita arridſan to Nhe-</div>
+       <lb id="Manc1631_Cat_508_7"/>
+        <div type="Language" lang="Latvian">laimibu / kattru Deews tai Laulibai vslitzis gir. Ta</div>
+       <lb id="Manc1631_Cat_508_8"/>
+        <div type="Language" lang="Latvian">ẜacka Deews vs tahs Ꞩeewas : Es ghribbu töw dauds</div>
+       <lb id="Manc1631_Cat_508_9"/>
+        <div type="Language" lang="Latvian">Ꞩahpes darriet / kad tu Apghrutenata tapſi / ar Ꞩah-</div>
+       <lb id="Manc1631_Cat_508_10"/>
+        <div type="Language" lang="Latvian">peems buhß töw Bährnus peedſimbt / vnd töw buhß ta-</div>
+       <lb id="Manc1631_Cat_508_11"/>
+        <div type="Language" lang="Latvian">wam Wieram klauſẜiet / vnd winjam buhß tawam Kun-</div>
+       <lb id="Manc1631_Cat_508_12"/>
+        <div type="Language" lang="Latvian">gham buht.</div>
+       <lb id="Manc1631_Cat_508_13"/>
+        <div type="Language" lang="Latvian">Vnd vs to Wieru ẜatziya Deews:</div>
+       <lb id="Manc1631_Cat_508_14"/>
+        <div type="Language" lang="Latvian">Tapehtz / kad tu eſẜi klauſẜiyis to balxni tawas Ꞩee-</div>
+       <lb id="Manc1631_Cat_508_15"/>
+        <div type="Language" lang="Latvian">was / vnd ähdis no to Kohku / no kattru es töw aißleed-</div>
+       <lb id="Manc1631_Cat_508_16"/>
+        <div type="Language" lang="Latvian">ſchu ẜatzidams / Töw nhe buhß no to ähſt. Nolahdähtz</div>
+       <lb id="Manc1631_Cat_508_17"/>
+        <div type="Language" lang="Latvian">gir tas Tierums tawas puſẜes pehtz / ar mohkahms buhß</div>
+       <lb id="Manc1631_Cat_508_18"/>
+        <div type="Language" lang="Latvian">töw no to Baŗŗotees tick illge ka tu dſiewo / Ehrſchus</div>
+       <lb id="Manc1631_Cat_508_19"/>
+        <div type="Language" lang="Latvian">vnd Dadſchus buhß tam töw neſt / vnd töw buhß to</div>
+       <lb id="Manc1631_Cat_508_20"/>
+        <div type="Language" lang="Latvian">Sahl wirſẜon Lauku ähſt / Sweedrus no tawu Waighu</div>
+       <lb id="Manc1631_Cat_508_21"/>
+        <div type="Language" lang="Latvian">pilinadams buhß töw tawu Mais ähſt / teekams ka tu at-</div>
+       <lb id="Manc1631_Cat_508_22"/>
+        <div type="Language" lang="Latvian">kal par Semm tohp / no kattras tu jämbtz eſẜi aiſto tu eſ-</div>
+       <lb id="Manc1631_Cat_508_23"/>
+        <div type="Language" lang="Latvian">ẜi Semme / vnd tapſi atkal Semmeskahrta.</div>
+       <lb id="Manc1631_Cat_508_24"/>
+        <div type="Language" lang="Latvian">Treſſchan kahrtan / Gir tas juhſẜo Eepreeze-</div>
+       <lb id="Manc1631_Cat_508_25"/>
+        <div type="Language" lang="Latvian">naſchana / ka juhß ſinnaht vnd titzaht / ka juhſẜo Lauliba</div>
+       <lb id="Manc1631_Cat_508_26"/>
+        <div type="Language" lang="Latvian">Deewam pattiek / vnd winja preekſcha ſwähta gir. Aiſto</div>
+       <lb id="Manc1631_Cat_508_27"/>
+        <div type="Language" lang="Latvian">ta ſtahw Raxtiex.</div>
+      </div>
+      <pb n="509"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_509_1"/>
+        <div type="Language" lang="Latvian">Deews raddiya to Czillwäku pehtz ẜawu Ghiem /</div>
+       <lb id="Manc1631_Cat_509_2"/>
+        <div type="Language" lang="Latvian">pehtz Deewa Ghiem raddiya Wings to / vnd Wings rad-</div>
+       <lb id="Manc1631_Cat_509_3"/>
+        <div type="Language" lang="Latvian">diya to weenu Wieriſku vnd Ꞩeewiſku. Vnd Deews</div>
+       <lb id="Manc1631_Cat_509_4"/>
+        <div type="Language" lang="Latvian">ſwähtiya tohs / vnd ẜatziya vs teems / Eſẜeeta aughligi</div>
+       <lb id="Manc1631_Cat_509_5"/>
+        <div type="Language" lang="Latvian">vnd wairoyeetees / vnd peepilldaita to Semm / vnd wall-</div>
+       <lb id="Manc1631_Cat_509_6"/>
+        <div type="Language" lang="Latvian">daita par to / vnd walldaita par teems Siweems eekſchan</div>
+       <lb id="Manc1631_Cat_509_7"/>
+        <div type="Language" lang="Latvian">Juhri / vnv par teems Puttneems appakſchan to Deb-</div>
+       <lb id="Manc1631_Cat_509_8"/>
+        <div type="Language" lang="Latvian">beſẜu / vnd par wiſẜeems Swähreems / kattri wirſẜon</div>
+       <lb id="Manc1631_Cat_509_9"/>
+        <div type="Language" lang="Latvian">Semmes kuſt. Vnd Deews vsluhkoya wiß ko Wings</div>
+       <lb id="Manc1631_Cat_509_10"/>
+        <div type="Language" lang="Latvian">by darriyis / vnd redſe  / wißnotaļļ by ļohte labbs.</div>
+       <lb id="Manc1631_Cat_509_11"/>
+        <div type="Language" lang="Latvian">Tapehtz ẜacka arridẜan Salomons / kas weenu Lau-</div>
+       <lb id="Manc1631_Cat_509_12"/>
+        <div type="Language" lang="Latvian">latu Ꞩeewu dabbu / tas dabbu labbu leetu / vnd tas gir</div>
+       <lb id="Manc1631_Cat_509_13"/>
+        <div type="Language" lang="Latvian">tam Kungam paprahtam.</div>
+       <lb id="Manc1631_Cat_509_14"/>
+       <div type="Language" lang="German">Hie recke erdie Hände vber ſie / vnd</div>
+       <lb id="Manc1631_Cat_509_15"/>
+       <div type="Language" lang="German">behte alſo:</div>
+       <lb id="Manc1631_Cat_509_16"/>
+        <div type="Language" lang="Latvian">O Wiſẜewalldiex Kunx Deews / katters</div>
+       <lb id="Manc1631_Cat_509_17"/>
+        <div type="Language" lang="Latvian">tu Wieru vnd Ꞩeewu raddiyis eſẜi / vnd</div>
+       <lb id="Manc1631_Cat_509_18"/>
+        <div type="Language" lang="Latvian">eekſchan tahß Laulibas pa=wehleyis</div>
+       <lb id="Manc1631_Cat_509_19"/>
+        <div type="Language" lang="Latvian">dſiewoht / vnd ar augļeems tahs Meeſẜas ap-</div>
+       <lb id="Manc1631_Cat_509_20"/>
+        <div type="Language" lang="Latvian">dahwenayis / zaur to eſẜi tu eeſiemoyis to lee-</div>
+       <lb id="Manc1631_Cat_509_21"/>
+        <div type="Language" lang="Latvian">lu Myläſtibu tawu mieļa Dähla JEſu Chri-</div>
+       <lb id="Manc1631_Cat_509_22"/>
+        <div type="Language" lang="Latvian">ſti prettie ſawu Bruht to Chriſtitu Drau-</div>
+       <lb id="Manc1631_Cat_509_23"/>
+        <div type="Language" lang="Latvian">dſibu. Mehs luhdſam tawu beßdibbeni-</div>
+       <lb id="Manc1631_Cat_509_24"/>
+        <div type="Language" lang="Latvian">ghu ſchälaſtibu / tu ghribbatu tahdu tawu</div>
+      </div>
+      <pb n="510"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_510_1"/>
+        <div type="Language" lang="Latvian">Raddibu / Eeſtadiyumu vnd ſwähtumu nhe</div>
+       <lb id="Manc1631_Cat_510_2"/>
+        <div type="Language" lang="Latvian">lickt ẜamaitatam tapt / neds bohya eet / bett</div>
+       <lb id="Manc1631_Cat_510_3"/>
+        <div type="Language" lang="Latvian">ſchehlige py mums vsturreht / zaur JEſum</div>
+       <lb id="Manc1631_Cat_510_4"/>
+        <div type="Language" lang="Latvian">Chriſtum muhſẜam Kungam / Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_510_5"/>
+       <div type="Language" lang="German">Das Tauffbüchlein /</div>
+       <lb id="Manc1631_Cat_510_6"/>
+       <div type="Language" lang="German">D. Mart. Luth.</div>
+       <lb id="Manc1631_Cat_510_7"/>
+       <div type="Language" lang="German">Der Täuffer ſpreche.</div>
+       <lb id="Manc1631_Cat_510_8"/>
+        <div type="Language" lang="Latvian">Ey aran tu nheſkieſts Gharrs / vnd dohd</div>
+       <lb id="Manc1631_Cat_510_9"/>
+        <div type="Language" lang="Latvian">weetu tam ſwähtam Gharram.</div>
+       <lb id="Manc1631_Cat_510_10"/>
+        <div type="Language" lang="Latvian">Darnach mache er ein Creutz an die Stirn vnd</div>
+       <lb id="Manc1631_Cat_510_11"/>
+        <div type="Language" lang="Latvian">Bruſt vnd ſpreche:</div>
+       <lb id="Manc1631_Cat_510_12"/>
+        <div type="Language" lang="Latvian">Jemm to Siemu tha ſwähta Kruſta</div>
+       <lb id="Manc1631_Cat_510_13"/>
+        <div type="Language" lang="Latvian">preekſchan tawu Peer / vnd preekſchan tawu</div>
+       <lb id="Manc1631_Cat_510_14"/>
+        <div type="Language" lang="Latvian">Kruhti.</div>
+       <lb id="Manc1631_Cat_510_15"/>
+        <div type="Language" lang="Latvian">Laideeta mums luhkt.</div>
+       <lb id="Manc1631_Cat_510_16"/>
+        <div type="Language" lang="Latvian">O Wiſẜewalldiex Deews / Tähws muhſẜa Kungha</div>
+       <lb id="Manc1631_Cat_510_17"/>
+        <div type="Language" lang="Latvian">JEſu Chriſti / Es peẜautſcho töw par ſcho N. ta-</div>
+       <lb id="Manc1631_Cat_510_18"/>
+        <div type="Language" lang="Latvian">wu Kallpu (Kallpon) katters (kattra) tawas Chriſtibas</div>
+       <lb id="Manc1631_Cat_510_19"/>
+        <div type="Language" lang="Latvian">Dahwanu luhds / vnd tawu muhſchigu ſchälaſtibu zaur</div>
+       <lb id="Manc1631_Cat_510_20"/>
+        <div type="Language" lang="Latvian">to gharrigu Adſimbſchanu eeghribb. Vsjemm to Kunx /</div>
+       <lb id="Manc1631_Cat_510_21"/>
+        <div type="Language" lang="Latvian">vnd ka tu ẜatziyis eſẜi / luhdſeeta / tad juhß dabbuiſẜeeta /</div>
+      </div>
+      <pb n="511"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_511_1"/>
+        <div type="Language" lang="Latvian">meckleyeeta / tad juhß attraſẜeeta / klaudſeenayeeta / tad</div>
+       <lb id="Manc1631_Cat_511_2"/>
+        <div type="Language" lang="Latvian">taps jums attwährtz. Tad dohd nu to Dahwanu tam</div>
+       <lb id="Manc1631_Cat_511_3"/>
+        <div type="Language" lang="Latvian">(tai) katters (kattra) tur luhds / vnd attwerr tahß Durr-</div>
+       <lb id="Manc1631_Cat_511_4"/>
+        <div type="Language" lang="Latvian">wis tam (tai) katters (kattra) tur klaudſena / ka tas (ta)</div>
+       <lb id="Manc1631_Cat_511_5"/>
+        <div type="Language" lang="Latvian">to muhſchigu ſwähtumu tahß Debbeſẜes Nomaſghaſcha-</div>
+       <lb id="Manc1631_Cat_511_6"/>
+        <div type="Language" lang="Latvian">nas dabbu / vnd eekſchan tahß ẜohlitas Wallſtibas ee-</div>
+       <lb id="Manc1631_Cat_511_7"/>
+        <div type="Language" lang="Latvian">nahk / czaur JEſum Chriſtum muhſẜu Kungu / Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_511_8"/>
+        <div type="Language" lang="Latvian">Laideta mums wehl Luhkt.</div>
+       <lb id="Manc1631_Cat_511_9"/>
+        <div type="Language" lang="Latvian">O Wiſẜewalldiex muhſchiex Deews / ketters tu eſẜi</div>
+       <lb id="Manc1631_Cat_511_10"/>
+        <div type="Language" lang="Latvian">czaur to Vhdens=apſliekſchanu pehtz tawu taißnu</div>
+       <lb id="Manc1631_Cat_511_11"/>
+        <div type="Language" lang="Latvian">vnd barrgu Ꞩohdibu / to nhetitzigu Paſẜaul noẜohdiyis /</div>
+       <lb id="Manc1631_Cat_511_12"/>
+        <div type="Language" lang="Latvian">vnd to titzigu Noah ar ẜeptinjeems Czillwäkeems / pehtz</div>
+       <lb id="Manc1631_Cat_511_13"/>
+        <div type="Language" lang="Latvian">tawas leelas ſchälaſtibas vsturreyis / vnd to nhetitzigu</div>
+       <lb id="Manc1631_Cat_511_14"/>
+        <div type="Language" lang="Latvian">Koninju Warao ar wiſẜu ẜawu Pullku ẜarkanà Juhri</div>
+       <lb id="Manc1631_Cat_511_15"/>
+        <div type="Language" lang="Latvian">apſlietzenayis / bett tawus Ļaudes Jſrael ar ſauſẜahm</div>
+       <lb id="Manc1631_Cat_511_16"/>
+        <div type="Language" lang="Latvian">Kahyam zaure weddis / vnd ar to ſcho Maſghaſchanu</div>
+       <lb id="Manc1631_Cat_511_17"/>
+        <div type="Language" lang="Latvian">tawas ſwähtas Chriſtibas eeſiemoyis / vnd zaur to Chri-</div>
+       <lb id="Manc1631_Cat_511_18"/>
+        <div type="Language" lang="Latvian">ſtibu tawa mieļa Dähla / muhſẜa Kunga JEſu Chriſti</div>
+       <lb id="Manc1631_Cat_511_19"/>
+        <div type="Language" lang="Latvian">to Jordani vnd wiſẜu Vhdeni / par ſwähtu apſlietzena-</div>
+       <lb id="Manc1631_Cat_511_20"/>
+        <div type="Language" lang="Latvian">ſchanu vnd baggatigu Nomaſghaſchanu to Ghräko ſwä-</div>
+       <lb id="Manc1631_Cat_511_21"/>
+        <div type="Language" lang="Latvian">tiyis vnd eeſtadiyis. Mehs luhdſam zaur to paſſchu</div>
+       <lb id="Manc1631_Cat_511_22"/>
+        <div type="Language" lang="Latvian">tawu beßdibbenigu ſchälaſtibu / tu gribbätu ſcho N. ſchä-</div>
+       <lb id="Manc1631_Cat_511_23"/>
+        <div type="Language" lang="Latvian">lige vsluhkoht / vnd ar patteeſſu Titzibu ekſchan Gharru</div>
+       <lb id="Manc1631_Cat_511_24"/>
+        <div type="Language" lang="Latvian">abdahwenaht / ka zaur ſcho ſwähtu Apſliezenaſchanu ap-</div>
+       <lb id="Manc1631_Cat_511_25"/>
+        <div type="Language" lang="Latvian">ſiext vnd noghrimbſt wiß kas tam no Adamu ee=dſimbtz</div>
+       <lb id="Manc1631_Cat_511_26"/>
+        <div type="Language" lang="Latvian">gir / vnd patz arridſan peelitzis gir / vnd ka tas no nhetitzi-</div>
+       <lb id="Manc1631_Cat_511_27"/>
+        <div type="Language" lang="Latvian">gas draudſes noſkirrſts / vnd eekſchan to ſwähtu Laiwu</div>
+      </div>
+      <pb n="512"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_512_1"/>
+        <div type="Language" lang="Latvian">tahß Chriſtitas Draudſibas / ẜauß vnd meerige vstur-</div>
+       <lb id="Manc1631_Cat_512_2"/>
+        <div type="Language" lang="Latvian">rähtz / allaſchien karrſts eekſchan Gharru / preeziex eek-</div>
+       <lb id="Manc1631_Cat_512_3"/>
+        <div type="Language" lang="Latvian">ſchan Zerribas tawam Wahrdam warr kallpoht / vnd</div>
+       <lb id="Manc1631_Cat_512_4"/>
+        <div type="Language" lang="Latvian">ar wiſẜeems Titzigeems / ka tu ẜohliyis eſẜi / to muhſchigu</div>
+       <lb id="Manc1631_Cat_512_5"/>
+        <div type="Language" lang="Latvian">dſiewoſchanu dabbuit warr / czaur JEſum Chriſtum</div>
+       <lb id="Manc1631_Cat_512_6"/>
+        <div type="Language" lang="Latvian">muhſẜu Kungu / Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_512_7"/>
+       <div type="Language" lang="Latin">Exorciſmus.</div>
+       <lb id="Manc1631_Cat_512_8"/>
+        <div type="Language" lang="Latvian">ES peeſpeeſchu töw tu nheſkieſts Gharrs / py to</div>
+       <lb id="Manc1631_Cat_512_9"/>
+        <div type="Language" lang="Latvian">Wahrdu Dewa tha Tähwa / tha Dähla / vnd tha</div>
+       <lb id="Manc1631_Cat_512_10"/>
+        <div type="Language" lang="Latvian">ſwähta Gharra / ka töw buhs attſtaht no ſcho Kallpu</div>
+       <lb id="Manc1631_Cat_512_11"/>
+        <div type="Language" lang="Latvian">(ſchahß Kallpones) JEſu Chriſti / kattram (kattrai)</div>
+       <lb id="Manc1631_Cat_512_12"/>
+        <div type="Language" lang="Latvian">Wahrtz gir / N. Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_512_13"/>
+        <div type="Language" lang="Latvian">Klauſẜaita to ſwähtu Ewangelium Marci:</div>
+       <lb id="Manc1631_Cat_512_14"/>
+        <div type="Language" lang="Latvian">TEe Ļaudis neſẜe Behrninyus py JEſu / ka wings</div>
+       <lb id="Manc1631_Cat_512_15"/>
+        <div type="Language" lang="Latvian">tohß aiſkahrtu. Bett tee Mahzekli ſkummige vs-</div>
+       <lb id="Manc1631_Cat_512_16"/>
+        <div type="Language" lang="Latvian">runnaya tohß / kattri tohß attneſẜe. Kad to JEſus redſe-</div>
+       <lb id="Manc1631_Cat_512_17"/>
+        <div type="Language" lang="Latvian">ja / nhe patticka tas winjam / <corr>vnd</corr><sic>vud</sic> ẜatziya vs teems / laidee-</div>
+       <lb id="Manc1631_Cat_512_18"/>
+        <div type="Language" lang="Latvian">ta tohs Behrninyus py mann nahkt / vnd nhe leedſeta</div>
+       <lb id="Manc1631_Cat_512_19"/>
+        <div type="Language" lang="Latvian">teems / aiſto tahdeems peedärr tha Debbeſẜo=Wallſtiba.</div>
+       <lb id="Manc1631_Cat_512_20"/>
+        <div type="Language" lang="Latvian">Pattees es ẜacku jums / kaß to Debbeſẜo=Wallſtibu nhe</div>
+       <lb id="Manc1631_Cat_512_21"/>
+        <div type="Language" lang="Latvian">dabbu ka kahtz Behrnings / tas nhe nahx tur eekſchan.</div>
+       <lb id="Manc1631_Cat_512_22"/>
+        <div type="Language" lang="Latvian">Vnd wings apſkahwe tohß / vnd licka tahß Rohkas wirſ-</div>
+       <lb id="Manc1631_Cat_512_23"/>
+        <div type="Language" lang="Latvian">ẜu teems / vnd ſwähtiya tohs.</div>
+       <lb id="Manc1631_Cat_512_24"/>
+       <div type="Language" lang="German">Denn lege der Prieſter ſeine Hände auffs Kindes Häupt / vnd</div>
+       <lb id="Manc1631_Cat_512_25"/>
+       <div type="Language" lang="German">Behte das Vater Vnſer ſambt den Paten / nieder ge-</div>
+       <lb id="Manc1631_Cat_512_26"/>
+       <div type="Language" lang="German">kniet.</div>
+      </div>
+      <pb n="513"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_513_1"/>
+        <div type="Language" lang="Latvian">Muhſẜo Tähws eekſchan Debbeſẜu / ſwähtietz tohp</div>
+       <lb id="Manc1631_Cat_513_2"/>
+        <div type="Language" lang="Latvian">taws Wahrtz / etc.</div>
+       <lb id="Manc1631_Cat_513_3"/>
+       <div type="Language" lang="German">Darnach leite man das Kind zur Tauffe / vnd der Prieſter</div>
+       <lb id="Manc1631_Cat_513_4"/>
+       <div type="Language" lang="German">ſpreche :</div>
+       <lb id="Manc1631_Cat_513_5"/>
+        <div type="Language" lang="Latvian">Tas Kunx paſẜarrga tawu Eekſchan=eeſchanu / vnd</div>
+       <lb id="Manc1631_Cat_513_6"/>
+        <div type="Language" lang="Latvian">Aran=eeſchanu no ſcho laiku / muſchige beß ghallu / Amen.</div>
+       <lb id="Manc1631_Cat_513_7"/>
+       <div type="Language" lang="German">Darnach laß der Prieſter das Kind durch ſeine Paten dem</div>
+       <lb id="Manc1631_Cat_513_8"/>
+       <div type="Language" lang="German">Teuffel abſagen / vnd ſpreche :</div>
+       <lb id="Manc1631_Cat_513_9"/>
+        <div type="Language" lang="Latvian">Ꞩackaita Bährna Wahrdu ? 	N.</div>
+       <lb id="Manc1631_Cat_513_10"/>
+        <div type="Language" lang="Latvian">Aißleeds tu to Wällu ?</div>
+       <lb id="Manc1631_Cat_513_11"/>
+        <div type="Language" lang="Latvian">Ꞩacki /		Ja es aißleedſcho.</div>
+       <lb id="Manc1631_Cat_513_12"/>
+        <div type="Language" lang="Latvian">Vnd wiſẜu winja darrbu ?</div>
+       <lb id="Manc1631_Cat_513_13"/>
+        <div type="Language" lang="Latvian">Ꞩacki /		Ja es aißleedſcho.</div>
+       <lb id="Manc1631_Cat_513_14"/>
+        <div type="Language" lang="Latvian">Vnd wiſẜu winja buhſchanu ?</div>
+       <lb id="Manc1631_Cat_513_15"/>
+        <div type="Language" lang="Latvian">Ꞩacki /		Ja es aißleedſcho.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_513_16"/>
+       <div type="Language" lang="German">Darnach frage er :</div>
+       <lb id="Manc1631_Cat_513_17"/>
+        <div type="Language" lang="Latvian">Titzi tu eekſchan Deewu to wiſẜewallditayu Täh=</div>
+       <lb id="Manc1631_Cat_513_18"/>
+        <div type="Language" lang="Latvian">wu Radditayu Debbeß vnd Semmes ?</div>
+       <lb id="Manc1631_Cat_513_19"/>
+        <div type="Language" lang="Latvian">Ꞩacki /		Ja es titzu.</div>
+       <lb id="Manc1631_Cat_513_20"/>
+        <div type="Language" lang="Latvian">Titzi tu eekſchan JEſum Chriſtum / winya wenigu</div>
+       <lb id="Manc1631_Cat_513_21"/>
+        <div type="Language" lang="Latvian">Dählu / muhſẜu Kungu / etc.</div>
+       <lb id="Manc1631_Cat_513_22"/>
+        <div type="Language" lang="Latvian">Ꞩacki /		Ja es titzu.</div>
+       <lb id="Manc1631_Cat_513_23"/>
+        <div type="Language" lang="Latvian">Titzi tu eekſchan to ſwähtu Gharru / etc.</div>
+       <lb id="Manc1631_Cat_513_24"/>
+        <div type="Language" lang="Latvian">Ꞩacki /		Ja es titzu.</div>
+       <lb id="Manc1631_Cat_513_25"/>
+        <div type="Language" lang="Latvian">Ghribbees tu ẜöw Chriſtitees lickt ?</div>
+       <lb id="Manc1631_Cat_513_26"/>
+        <div type="Language" lang="Latvian">Ꞩacka /		Ja labpraht.</div>
+      </div>
+      <pb n="514"/>
+      <div type="Paragraph">
+       <lb id="Manc1631_Cat_514_1"/>
+       <div type="Language" lang="German">Da nehme er das Kind / vnd Tauffe es / vnd ſpreche :</div>
+       <lb id="Manc1631_Cat_514_2"/>
+        <div type="Language" lang="Latvian">Vnd es Chriſtiyo töw / eekſchan to Wahrdu tha</div>
+       <lb id="Manc1631_Cat_514_3"/>
+        <div type="Language" lang="Latvian">Tähwa / vnd tha Dähla / vnd tha ſwähta Gharra.</div>
+       <lb id="Manc1631_Cat_514_4"/>
+        <div type="Language" lang="Latvian">Tas Wiſẜewaldiex Deews vnd Tähws muhſẜa Kun-</div>
+       <lb id="Manc1631_Cat_514_5"/>
+        <div type="Language" lang="Latvian">ga JEſu Chriſti / katters töw ohterkahrt peedſimmis gir /</div>
+       <lb id="Manc1631_Cat_514_6"/>
+        <div type="Language" lang="Latvian">zaur to Vhdeni vnd to ſwähtu Gharru / vnd gir töw wiſ-</div>
+       <lb id="Manc1631_Cat_514_7"/>
+        <div type="Language" lang="Latvian">ẜus tawus Ghräkus peedehwis / tas eeſtripprina töw ar</div>
+       <lb id="Manc1631_Cat_514_8"/>
+        <div type="Language" lang="Latvian">ẜawu ſchälaſtibu py tahß muhſchigas dſiewoſchanas /</div>
+       <lb id="Manc1631_Cat_514_9"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+       <lb id="Manc1631_Cat_514_10"/>
+        <div type="Language" lang="Latvian">Deewa Meers gir ar jums.</div>
+       <lb id="Manc1631_Cat_514_11"/>
+        <div type="Language" lang="Latvian">Adbilldeeta /		 Amen.</div>
+       <lb id="Manc1631_Cat_514_12"/>
+       <div type="Language" lang="German">GOtt allein die Ehr /</div>
+       <lb id="Manc1631_Cat_514_13"/>
+       <div type="Language" lang="German">Sonſt auch keinem mehr.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

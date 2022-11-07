@@ -1,0 +1,27 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Gis1507_PN">
+     <sourceDesc>
+      <author>Nikolajs Gisberts</author>
+      <title>[Gisberta tēvreize]</title>
+      <date>1507</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Gis1507_PN_--_1"/>
+        <div type="Language" lang="Latvian">Teweß müß ka tw eſe exkan debbeſyß/ ſwetyt bws towß wardß</div>
+       <lb id="Gis1507_PN_--_2"/>
+        <div type="Language" lang="Latvian">ennak mumß tow walſcyby tawß praaʒ bwß ka exkan <corr>debbeſyß</corr><sic>debbyß</sic> Vnnd</div>
+       <lb id="Gis1507_PN_--_3"/>
+        <div type="Language" lang="Latvian">exkann ſemeß muße dynyʒe mayſe</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

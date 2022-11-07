@@ -1,0 +1,604 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="CekFV1796_NL">
+     <sourceDesc>
+      <author>Frīdrihs Vilhelms Cekels</author>
+      <title>Neapskahpjami Likkumi</title>
+      <date>1796</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_1_1"/>
+        <div type="Language" lang="Latvian">Neapskahpjami Likkumi</div>
+       <lb id="CekFV1796_NL_1_2"/>
+        <div type="Language" lang="Latvian">pehz</div>
+       <lb id="CekFV1796_NL_1_3"/>
+        <div type="Language" lang="Latvian">Labbibas Krahẜchanas</div>
+       <lb id="CekFV1796_NL_1_4"/>
+        <div type="Language" lang="Latvian">preekẜ</div>
+       <lb id="CekFV1796_NL_1_5"/>
+        <div type="Language" lang="Latvian">Mehr=Muiẜchas Semneekeem.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_1_6"/>
+        <div type="Language" lang="Latvian">1796.</div>
+       <lb id="CekFV1796_NL_1_7"/>
+        <div type="Language" lang="Latvian">Rihgâ,</div>
+       <lb id="CekFV1796_NL_1_8"/>
+        <div type="Language" lang="Latvian">pee Julius Conrad Daniel Müller.</div>
+      </div>
+      <pb n="3"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_3_1"/>
+        <div type="Language" lang="Latvian">Sinnams: Labbibas Krahjums preekẜch</div>
+       <lb id="CekFV1796_NL_3_2"/>
+        <div type="Language" lang="Latvian">Semneekeem laikam tà ja=ẜagahda, ka</div>
+       <lb id="CekFV1796_NL_3_3"/>
+        <div type="Language" lang="Latvian">Dſimts=Kungam atlezz Labbums lihdſ</div>
+       <lb id="CekFV1796_NL_3_4"/>
+        <div type="Language" lang="Latvian">ar Semneekeem. Tadehļ ẜpreedu ẜchohs</div>
+       <lb id="CekFV1796_NL_3_5"/>
+        <div type="Language" lang="Latvian">Likkumus, kuŗŗus ne mannim, ne man-</div>
+       <lb id="CekFV1796_NL_3_6"/>
+        <div type="Language" lang="Latvian">neem Pehznahkameem Waļļas buhs,</div>
+       <lb id="CekFV1796_NL_3_7"/>
+        <div type="Language" lang="Latvian">pahrkahpt.</div>
+       <lb id="CekFV1796_NL_3_8"/>
+        <div type="Language" lang="Latvian">1) Pirmehja ẜchahs Labbibas Krah-</div>
+       <lb id="CekFV1796_NL_3_9"/>
+        <div type="Language" lang="Latvian">juma dehļ ẜchkinkoju es, ka Wahrds</div>
+       <lb id="CekFV1796_NL_3_10"/>
+        <div type="Language" lang="Latvian">ẜcheem Rakſteem Gallâ peeſihmehts irr,</div>
+       <lb id="CekFV1796_NL_3_11"/>
+        <div type="Language" lang="Latvian">ẜimts Puhrus Rudſu, peez deẜmit Puh-</div>
+       <lb id="CekFV1796_NL_3_12"/>
+        <div type="Language" lang="Latvian">rus Meeſchu, peez deẜmit Puhrus Auſu,</div>
+       <lb id="CekFV1796_NL_3_13"/>
+        <div type="Language" lang="Latvian">un peez deẜmit Puhrus Griķķu, us tahdu</div>
+       <lb id="CekFV1796_NL_3_14"/>
+        <div type="Language" lang="Latvian">Wihſi, ka ẜchee diwiẜimti peez deẜmit</div>
+       <lb id="CekFV1796_NL_3_15"/>
+        <div type="Language" lang="Latvian">Puhri Labbibas ne muhſcham, ar it ne-</div>
+       <lb id="CekFV1796_NL_3_16"/>
+        <div type="Language" lang="Latvian">kahdeem Rinķeem nedſ no mann, nedſ no</div>
+      </div>
+      <pb n="4"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_4_1"/>
+        <div type="Language" lang="Latvian">manneem <corr>Pehznahkameem</corr><sic>Pehznahkameeem</sic> drihkſt</div>
+       <lb id="CekFV1796_NL_4_2"/>
+        <div type="Language" lang="Latvian">atrauti kļuht: bet aisweenumehr gluſchi</div>
+       <lb id="CekFV1796_NL_4_3"/>
+        <div type="Language" lang="Latvian">pee ẜchahs Labbibas Krahjuma peederr.</div>
+       <lb id="CekFV1796_NL_4_4"/>
+        <div type="Language" lang="Latvian">Us preekẜch, kad Labbiba papilnam</div>
+       <lb id="CekFV1796_NL_4_5"/>
+        <div type="Language" lang="Latvian">jau krahjuẜees, tad turklaht wiẜẜa ta pulka</div>
+       <lb id="CekFV1796_NL_4_6"/>
+        <div type="Language" lang="Latvian">Labbibas, kas no Teeẜas ik gaddôs pahrluh-</div>
+       <lb id="CekFV1796_NL_4_7"/>
+        <div type="Language" lang="Latvian">kota teek pee ẜcha Krahjuma, dalikta guļļ</div>
+       <lb id="CekFV1796_NL_4_8"/>
+        <div type="Language" lang="Latvian"><corr>un</corr><sic>unMuiſchai</sic> Muiſchai par to nekahdas Raiſes wairs</div>
+       <lb id="CekFV1796_NL_4_9"/>
+        <div type="Language" lang="Latvian">buhs; tadehļ ka no mannim tik daudſ</div>
+       <lb id="CekFV1796_NL_4_10"/>
+        <div type="Language" lang="Latvian">Puhri Labbibas tai Labbibas Krahẜchani</div>
+       <lb id="CekFV1796_NL_4_11"/>
+        <div type="Language" lang="Latvian">ſchkinkoti irr.</div>
+       <lb id="CekFV1796_NL_4_12"/>
+        <div type="Language" lang="Latvian">2) Semneekeem ne patikke, tik <corr>daudſ</corr><sic>dauſ</sic></div>
+       <lb id="CekFV1796_NL_4_13"/>
+        <div type="Language" lang="Latvian">Muiẜchas Semmi apſtrahdaht, zik teem</div>
+       <lb id="CekFV1796_NL_4_14"/>
+        <div type="Language" lang="Latvian">pehz noẜazzitas Rudſu=Ꞩamantoẜchanas</div>
+       <lb id="CekFV1796_NL_4_15"/>
+        <div type="Language" lang="Latvian">bihju atwehlejis. Taggad tai Weetâ nah-</div>
+       <lb id="CekFV1796_NL_4_16"/>
+        <div type="Language" lang="Latvian">kahs ikkuŗŗam Ꞩaimneekam, Ruddeni</div>
+       <lb id="CekFV1796_NL_4_17"/>
+        <div type="Language" lang="Latvian">1797ta Gadda weenu puhru Rudſu,</div>
+       <lb id="CekFV1796_NL_4_18"/>
+        <div type="Language" lang="Latvian">Ruddeni 1798ta Gadda atkal weenu</div>
+       <lb id="CekFV1796_NL_4_19"/>
+        <div type="Language" lang="Latvian">Puhru Rudſu, un Ruddeni, 1799ta</div>
+       <lb id="CekFV1796_NL_4_20"/>
+        <div type="Language" lang="Latvian">Gadda pehdigâ Reiſê weenu Puhru</div>
+       <lb id="CekFV1796_NL_4_21"/>
+        <div type="Language" lang="Latvian">Rudſu, ar Labbu Prahtu pee Labbibas</div>
+       <lb id="CekFV1796_NL_4_22"/>
+        <div type="Language" lang="Latvian"><corr>Krahjuma</corr><sic>Krahjuhma</sic> peebehrt. Bet arr</div>
+      </div>
+      <pb n="5"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_5_1"/>
+        <div type="Language" lang="Latvian">3) Jo wairak tas Ꞩaimneeks, kas</div>
+       <lb id="CekFV1796_NL_5_2"/>
+        <div type="Language" lang="Latvian">ne ko aisņemm, tiks usſkubbinahts. Tam,</div>
+       <lb id="CekFV1796_NL_5_3"/>
+        <div type="Language" lang="Latvian">kas pa teem peeminnehteem trim Gad-</div>
+       <lb id="CekFV1796_NL_5_4"/>
+        <div type="Language" lang="Latvian">deem ne ko aisņemm, ne buhs ar ne ko</div>
+       <lb id="CekFV1796_NL_5_5"/>
+        <div type="Language" lang="Latvian">preekẜch ẜcheem Gaddeem pee Labbibas</div>
+       <lb id="CekFV1796_NL_5_6"/>
+        <div type="Language" lang="Latvian">Krahjuma lihdſinaht. Bet ka irr jau</div>
+       <lb id="CekFV1796_NL_5_7"/>
+        <div type="Language" lang="Latvian">wiẜẜai leels Truhkums ne raſtohs, tad</div>
+       <lb id="CekFV1796_NL_5_8"/>
+        <div type="Language" lang="Latvian">nodohd Muiſcha, ẜcheem tahdeem gohdi-</div>
+       <lb id="CekFV1796_NL_5_9"/>
+        <div type="Language" lang="Latvian">geem Ꞩaimneekeem par labbu eekẜch teem</div>
+       <lb id="CekFV1796_NL_5_10"/>
+        <div type="Language" lang="Latvian">trim Gaddeem Patti weenu Puhru</div>
+       <lb id="CekFV1796_NL_5_11"/>
+        <div type="Language" lang="Latvian">Rudſu, tai Rudſu Puhra Weetâ, kas</div>
+       <lb id="CekFV1796_NL_5_12"/>
+        <div type="Language" lang="Latvian">wiņņeem buhtu bihjis jadohd.</div>
+       <lb id="CekFV1796_NL_5_13"/>
+        <div type="Language" lang="Latvian">4) Ja kahds labs Ꞩaimneeks, kas</div>
+       <lb id="CekFV1796_NL_5_14"/>
+        <div type="Language" lang="Latvian">tannis peeminnehtôs treijôs Gaddôs,</div>
+       <lb id="CekFV1796_NL_5_15"/>
+        <div type="Language" lang="Latvian">1797, 1798, un 1799ta Gadda nemaſ</div>
+       <lb id="CekFV1796_NL_5_16"/>
+        <div type="Language" lang="Latvian">Maiſi buhtu aisņehmees un neko arr</div>
+       <lb id="CekFV1796_NL_5_17"/>
+        <div type="Language" lang="Latvian">Labbibas Krahjumam peeẜchkihris, bet</div>
+       <lb id="CekFV1796_NL_5_18"/>
+        <div type="Language" lang="Latvian">kas ſinn wehl pehz tam Laikam ne Kruẜẜu</div>
+       <lb id="CekFV1796_NL_5_19"/>
+        <div type="Language" lang="Latvian">nedſ zittu kahdu Gruhtibu buhtu peedſih-</div>
+       <lb id="CekFV1796_NL_5_20"/>
+        <div type="Language" lang="Latvian">wojis, un tak ẜahktu ko aisņemt, tad buhs</div>
+       <lb id="CekFV1796_NL_5_21"/>
+        <div type="Language" lang="Latvian">tam paẜcham, jeb wiņņa Pehznahkameem</div>
+       <lb id="CekFV1796_NL_5_22"/>
+        <div type="Language" lang="Latvian">ẜawu Dallu lihdſ zitteem, kas bihja ais-</div>
+      </div>
+      <pb n="6"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_6_1"/>
+        <div type="Language" lang="Latvian">ņehmuſchees, ik gaddôs pa trim ar Reiſes</div>
+       <lb id="CekFV1796_NL_6_2"/>
+        <div type="Language" lang="Latvian">nahkameem Gaddeem, ar weenu Puhru</div>
+       <lb id="CekFV1796_NL_6_3"/>
+        <div type="Language" lang="Latvian">Rudſu nolihdſinaht, kaut ir pehz ilgu Lai-</div>
+       <lb id="CekFV1796_NL_6_4"/>
+        <div type="Language" lang="Latvian">ku tas tà buhtu waijadſigs. Tadehļ tee</div>
+       <lb id="CekFV1796_NL_6_5"/>
+        <div type="Language" lang="Latvian">Rehkenihẜchee pee Labbibas Krahjuma</div>
+       <lb id="CekFV1796_NL_6_6"/>
+        <div type="Language" lang="Latvian">gann jau to israhdihs: ẜawadâ Grahma-</div>
+       <lb id="CekFV1796_NL_6_7"/>
+        <div type="Language" lang="Latvian">tâ buhs ar Wahrdu usſihmehts, Kurẜch</div>
+       <lb id="CekFV1796_NL_6_8"/>
+        <div type="Language" lang="Latvian">Ꞩaimneeks kahdu Daļļu pee ẜchahs Ꞩa-</div>
+       <lb id="CekFV1796_NL_6_9"/>
+        <div type="Language" lang="Latvian">krahẜchanas nodewis, kurẜch ne aisņem-</div>
+       <lb id="CekFV1796_NL_6_10"/>
+        <div type="Language" lang="Latvian">moht, irr nekahdu Daļļu makẜajis, kurẜch</div>
+       <lb id="CekFV1796_NL_6_11"/>
+        <div type="Language" lang="Latvian">un kuŗŗa Ꞩaimneeka Pehznahkami us</div>
+       <lb id="CekFV1796_NL_6_12"/>
+        <div type="Language" lang="Latvian">Ꞩehtas Nekohpẜchanu palaiduẜchees. Tu-</div>
+       <lb id="CekFV1796_NL_6_13"/>
+        <div type="Language" lang="Latvian">daliņ ſinnaht warrehs, kam us preekẜch</div>
+       <lb id="CekFV1796_NL_6_14"/>
+        <div type="Language" lang="Latvian">ta nahkama Daļļa wehl buhs jadaẜkappe.</div>
+       <lb id="CekFV1796_NL_6_15"/>
+        <div type="Language" lang="Latvian">5) Jkkurẜch is Labbibas Krahjuma</div>
+       <lb id="CekFV1796_NL_6_16"/>
+        <div type="Language" lang="Latvian">ņemts Labbibas Puhrs, woi buhtu to</div>
+       <lb id="CekFV1796_NL_6_17"/>
+        <div type="Language" lang="Latvian">paẜchi Ļaudis jeb ẜweẜchi prett derrigu</div>
+       <lb id="CekFV1796_NL_6_18"/>
+        <div type="Language" lang="Latvian">Kihlu ņehmuſchi, tiks ikkuŗŗâ Gaddâ</div>
+       <lb id="CekFV1796_NL_6_19"/>
+        <div type="Language" lang="Latvian">Ruddenî bes Kawehſchanas ar seſtu wirẜ</div>
+       <lb id="CekFV1796_NL_6_20"/>
+        <div type="Language" lang="Latvian">Ꞩeeziņu atdohts. Ta krahta Labbiba</div>
+       <lb id="CekFV1796_NL_6_21"/>
+        <div type="Language" lang="Latvian">peederr wiẜẜai Walſtei, tadehl wiẜẜeem</div>
+       <lb id="CekFV1796_NL_6_22"/>
+        <div type="Language" lang="Latvian">Ꞩaimneekeem kohpa jagahda, ka, kas</div>
+      </div>
+      <pb n="7"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_7_1"/>
+        <div type="Language" lang="Latvian">ņemts tuhliht, peezpatẜmitâ Deenâ pehz</div>
+       <lb id="CekFV1796_NL_7_2"/>
+        <div type="Language" lang="Latvian">Mikkeļeem kļuhſt atmakẜahts un nekas</div>
+       <lb id="CekFV1796_NL_7_3"/>
+        <div type="Language" lang="Latvian">noſuhd.</div>
+       <lb id="CekFV1796_NL_7_4"/>
+        <div type="Language" lang="Latvian">6) No Walſts ikgaddôs Jurjudeenâ</div>
+       <lb id="CekFV1796_NL_7_5"/>
+        <div type="Language" lang="Latvian">ẜawâ ſtarpâ kahdu peetizzigu Ꞩaimneeku</div>
+       <lb id="CekFV1796_NL_7_6"/>
+        <div type="Language" lang="Latvian">isredſehs: tam buhs weena Atẜlehga no</div>
+       <lb id="CekFV1796_NL_7_7"/>
+        <div type="Language" lang="Latvian">tahm Klehtim, kas pehz Labbibas Krah-</div>
+       <lb id="CekFV1796_NL_7_8"/>
+        <div type="Language" lang="Latvian">juma usbuhwetas tiks; tas buhs allaſch</div>
+       <lb id="CekFV1796_NL_7_9"/>
+        <div type="Language" lang="Latvian">klaht, kad is Klehts ko is=dohd jeb eekẜcha</div>
+       <lb id="CekFV1796_NL_7_10"/>
+        <div type="Language" lang="Latvian">ẜaņemm, un wiẜẜeem Walsts=Ļaudim to</div>
+       <lb id="CekFV1796_NL_7_11"/>
+        <div type="Language" lang="Latvian">Peewairoẜchanu tahs Labbibas ikgaddôs</div>
+       <lb id="CekFV1796_NL_7_12"/>
+        <div type="Language" lang="Latvian">ẜkaidri isſtahſtihs; ohtra Atẜlehga buhs</div>
+       <lb id="CekFV1796_NL_7_13"/>
+        <div type="Language" lang="Latvian">jeb Dſimtskungam, jeb Junkuram, jeb</div>
+       <lb id="CekFV1796_NL_7_14"/>
+        <div type="Language" lang="Latvian">kam Muiſchas Kungs to ustizz, kas ar-</div>
+       <lb id="CekFV1796_NL_7_15"/>
+        <div type="Language" lang="Latvian">ridſan wiẜẜu peeklahjigi ẜarehkinahs un</div>
+       <lb id="CekFV1796_NL_7_16"/>
+        <div type="Language" lang="Latvian">ikgaddôs pilnigu Atbildehſchanu dohs.</div>
+       <lb id="CekFV1796_NL_7_17"/>
+        <div type="Language" lang="Latvian">Tahds tà <corr>par</corr><sic>parUsluhku</sic> Usluhku pee Labbibas Krah-</div>
+       <lb id="CekFV1796_NL_7_18"/>
+        <div type="Language" lang="Latvian">juma zelts kļuhs, ja labs Wihrs irr, pee-</div>
+       <lb id="CekFV1796_NL_7_19"/>
+        <div type="Language" lang="Latvian">ņemts no Leelkunga; jeb ja tahds nau,</div>
+       <lb id="CekFV1796_NL_7_20"/>
+        <div type="Language" lang="Latvian">atmeſts un Semneekeem zittu jazeļļ.</div>
+       <lb id="CekFV1796_NL_7_21"/>
+        <div type="Language" lang="Latvian">Ꞩchim pee Labbibas Krahjuma isredſeh-</div>
+       <lb id="CekFV1796_NL_7_22"/>
+        <div type="Language" lang="Latvian">tam Usluhkam peekohdinahts tohp.</div>
+      </div>
+      <pb n="8"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_8_1"/>
+        <div type="Language" lang="Latvian">1) Pareiſi isdibbinaht, woi tas</div>
+       <lb id="CekFV1796_NL_8_2"/>
+        <div type="Language" lang="Latvian">Semneeks, kas no Labbibas Krahjuma</div>
+       <lb id="CekFV1796_NL_8_3"/>
+        <div type="Language" lang="Latvian">ko aisņemm, to pehz Ꞩlinkuma, jeb pehz</div>
+       <lb id="CekFV1796_NL_8_4"/>
+        <div type="Language" lang="Latvian">Pahrkuptẜchoẜchanas ņemm; Muiſchai</div>
+       <lb id="CekFV1796_NL_8_5"/>
+        <div type="Language" lang="Latvian">tas ſinnams ja=darr; ka teek peerahts.</div>
+       <lb id="CekFV1796_NL_8_6"/>
+        <div type="Language" lang="Latvian">2) Lai pahrluhko, woi ikkurẜch</div>
+       <lb id="CekFV1796_NL_8_7"/>
+        <div type="Language" lang="Latvian">Ꞩaimneeks muddigs pee ſaweem Dar-</div>
+       <lb id="CekFV1796_NL_8_8"/>
+        <div type="Language" lang="Latvian">beem, ka zerreht warr, wiņſch atdohẜchoht,</div>
+       <lb id="CekFV1796_NL_8_9"/>
+        <div type="Language" lang="Latvian">ko no Labbibas Krahjuma aisņehmis, ka</div>
+       <lb id="CekFV1796_NL_8_10"/>
+        <div type="Language" lang="Latvian">ta Labbiba, kas pehz Semneeku ihpa-</div>
+       <lb id="CekFV1796_NL_8_11"/>
+        <div type="Language" lang="Latvian">ẜchas Paglehbſchanas ſakrahta, ne tiktu</div>
+       <lb id="CekFV1796_NL_8_12"/>
+        <div type="Language" lang="Latvian">aplam istehreta; un Muiſchai jadohd</div>
+       <lb id="CekFV1796_NL_8_13"/>
+        <div type="Language" lang="Latvian">Siņņa no ta, kas ſtrahdaht ne wihſcho.</div>
+       <lb id="CekFV1796_NL_8_14"/>
+        <div type="Language" lang="Latvian">3) Wiņņam buhs to blehdigu Par-</div>
+       <lb id="CekFV1796_NL_8_15"/>
+        <div type="Language" lang="Latvian">radneeku ar wiẜẜu Makti us Makẜaschanu</div>
+       <lb id="CekFV1796_NL_8_16"/>
+        <div type="Language" lang="Latvian">peeẜpeeſt, un krahtu Labbibu pawiẜẜam</div>
+       <lb id="CekFV1796_NL_8_17"/>
+        <div type="Language" lang="Latvian">taupiht, ka Walſts=Ļaudis, kas wiņņam</div>
+       <lb id="CekFV1796_NL_8_18"/>
+        <div type="Language" lang="Latvian">ustizzejiẜchi, ne pahr wiņņu ſchehlojahs.</div>
+       <lb id="CekFV1796_NL_8_19"/>
+        <div type="Language" lang="Latvian">4) Tanni Deenâ, ko Muiſchas Wal-</div>
+       <lb id="CekFV1796_NL_8_20"/>
+        <div type="Language" lang="Latvian">dineeks peeẜazzihs, <corr>jeb</corr><sic>ieb</sic> ik neddeļâs, jeb ik-</div>
+       <lb id="CekFV1796_NL_8_21"/>
+        <div type="Language" lang="Latvian">pahrneddeļ, buhs tam us Muiſchu nahkt,</div>
+       <lb id="CekFV1796_NL_8_22"/>
+        <div type="Language" lang="Latvian">ka warr krahtu Labbibu isdoht jeb pretti</div>
+      </div>
+      <pb n="9"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_9_1"/>
+        <div type="Language" lang="Latvian">ņemt. Ap to Laiku dabbuhs tas dſirdeht</div>
+       <lb id="CekFV1796_NL_9_2"/>
+        <div type="Language" lang="Latvian">ko Labbibas Krahjuma dehļ, Kungs pa-</div>
+       <lb id="CekFV1796_NL_9_3"/>
+        <div type="Language" lang="Latvian">wehl, jeb noẜpreeſch, un ikkuŗŗâ Reiſê</div>
+       <lb id="CekFV1796_NL_9_4"/>
+        <div type="Language" lang="Latvian">buhs tam waijadſigu Siņņu padoht.</div>
+       <lb id="CekFV1796_NL_9_5"/>
+        <div type="Language" lang="Latvian">5) Pahr wiẜẜu ẜcho <corr>Apgahdaẜchanu</corr><sic>Apgahdaẜchauu</sic></div>
+       <lb id="CekFV1796_NL_9_6"/>
+        <div type="Language" lang="Latvian">ẜaņems tas ikgaddôs is Labbibas Krah-</div>
+       <lb id="CekFV1796_NL_9_7"/>
+        <div type="Language" lang="Latvian">juma pee Ꞩakrahẜchanas no ikkuŗŗas</div>
+       <lb id="CekFV1796_NL_9_8"/>
+        <div type="Language" lang="Latvian">Labbibas Puẜspuhru pawiẜẜam diwi</div>
+       <lb id="CekFV1796_NL_9_9"/>
+        <div type="Language" lang="Latvian">Puhrus.</div>
+       <lb id="CekFV1796_NL_9_10"/>
+        <div type="Language" lang="Latvian">7) Ja uspreekẜch tiktu jauni Sem-</div>
+       <lb id="CekFV1796_NL_9_11"/>
+        <div type="Language" lang="Latvian">neeki likti, kas pehz teem peederrigeem</div>
+       <lb id="CekFV1796_NL_9_12"/>
+        <div type="Language" lang="Latvian">briw' Gaddeem, jau ẜahktu Darbôs</div>
+       <lb id="CekFV1796_NL_9_13"/>
+        <div type="Language" lang="Latvian">nahkt, un bes Aisņemẜchanas pahrtikt ne</div>
+       <lb id="CekFV1796_NL_9_14"/>
+        <div type="Language" lang="Latvian">warretu; tad buhs tahdeem jauneem lik-</div>
+       <lb id="CekFV1796_NL_9_15"/>
+        <div type="Language" lang="Latvian">teem Ꞩaimneekeem arridſan eekẜch trim</div>
+       <lb id="CekFV1796_NL_9_16"/>
+        <div type="Language" lang="Latvian">Gaddeem pehz Reiſes pa weenu Puhru</div>
+       <lb id="CekFV1796_NL_9_17"/>
+        <div type="Language" lang="Latvian">Rudſu ikgaddôs Labbibas Krahjumam</div>
+       <lb id="CekFV1796_NL_9_18"/>
+        <div type="Language" lang="Latvian">peebehrt.</div>
+       <lb id="CekFV1796_NL_9_19"/>
+        <div type="Language" lang="Latvian">8) Ja nelabs Saimneeks is kahdu</div>
+       <lb id="CekFV1796_NL_9_20"/>
+        <div type="Language" lang="Latvian">wezzu Zeemu, jeb tahdu, kas taggad jau</div>
+       <lb id="CekFV1796_NL_9_21"/>
+        <div type="Language" lang="Latvian">irr, tiktu islikts, un zits eelikts wiņņa</div>
+       <lb id="CekFV1796_NL_9_22"/>
+        <div type="Language" lang="Latvian">Weetâ, un is tapaẜcha Zeema ta Labbi-</div>
+      </div>
+      <pb n="10"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_10_1"/>
+        <div type="Language" lang="Latvian">bas Daļļa jau buhtu nodohta, tad no</div>
+       <lb id="CekFV1796_NL_10_2"/>
+        <div type="Language" lang="Latvian">ẜcha ne tiks wairs nekas praẜẜihts. Bet</div>
+       <lb id="CekFV1796_NL_10_3"/>
+        <div type="Language" lang="Latvian">tak buhs.</div>
+       <lb id="CekFV1796_NL_10_4"/>
+        <div type="Language" lang="Latvian">9) Tam jaunam eeliktam Ꞩaim-</div>
+       <lb id="CekFV1796_NL_10_5"/>
+        <div type="Language" lang="Latvian">neekam, tohs Parradus, ko preekẜchejs</div>
+       <lb id="CekFV1796_NL_10_6"/>
+        <div type="Language" lang="Latvian">islikts pee Labbibas Krahjuma Parradâ</div>
+       <lb id="CekFV1796_NL_10_7"/>
+        <div type="Language" lang="Latvian">paliktu, bet no ẜawahm ihpaẜchahm Lee-</div>
+       <lb id="CekFV1796_NL_10_8"/>
+        <div type="Language" lang="Latvian">tahm lihdſinaht ne ſpehtu, kà <corr>Ꞩehtas</corr><sic>ꞨehtasNaſtu</sic> Naſtu</div>
+       <lb id="CekFV1796_NL_10_9"/>
+        <div type="Language" lang="Latvian">us ẜew ņemt.  Bet ja tik wiẜẜi Walſts</div>
+       <lb id="CekFV1796_NL_10_10"/>
+        <div type="Language" lang="Latvian">Ļaudis, un ẜewiẜchkigi tee, kas pee Lab-</div>
+       <lb id="CekFV1796_NL_10_11"/>
+        <div type="Language" lang="Latvian">bibas Krahjuma par Usluhkeem zelti,</div>
+       <lb id="CekFV1796_NL_10_12"/>
+        <div type="Language" lang="Latvian">to nekreetnu pee Laika Muiſchai ſinnamu</div>
+       <lb id="CekFV1796_NL_10_13"/>
+        <div type="Language" lang="Latvian">darra, tad palaikam tee Parradi is tahm</div>
+       <lb id="CekFV1796_NL_10_14"/>
+        <div type="Language" lang="Latvian">Islikta Ꞩaimneeka ihpaẜchahm Leetahm</div>
+       <lb id="CekFV1796_NL_10_15"/>
+        <div type="Language" lang="Latvian">warrehs lidſinahti tapt: jo allaſchiņ</div>
+       <lb id="CekFV1796_NL_10_16"/>
+        <div type="Language" lang="Latvian">papreekẜch Labbibas Krahjuma Parradi</div>
+       <lb id="CekFV1796_NL_10_17"/>
+        <div type="Language" lang="Latvian">agrak, ne ka zitti Parradi ẜadſennami buhs.</div>
+       <lb id="CekFV1796_NL_10_18"/>
+        <div type="Language" lang="Latvian">10) Tà lihdſ ka peez ẜimti Puhri</div>
+       <lb id="CekFV1796_NL_10_19"/>
+        <div type="Language" lang="Latvian">Rudſu buhs ẜakrahti, un jau warrehs</div>
+       <lb id="CekFV1796_NL_10_20"/>
+        <div type="Language" lang="Latvian">wezzeem Neſpehjneekeem Walſtî pee-</div>
+       <lb id="CekFV1796_NL_10_21"/>
+        <div type="Language" lang="Latvian">palihdſeht, tad isſpreeſch Muiſchas</div>
+      </div>
+      <pb n="11"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_11_1"/>
+        <div type="Language" lang="Latvian">Waldineeks, ar wiẜẜeem Semnekeem,</div>
+       <lb id="CekFV1796_NL_11_2"/>
+        <div type="Language" lang="Latvian">prohteet teem Ꞩaimnekeem ẜarunnada-</div>
+       <lb id="CekFV1796_NL_11_3"/>
+        <div type="Language" lang="Latvian">mees, kuŗŗi ar Wahrdu tee Wezzi, un</div>
+       <lb id="CekFV1796_NL_11_4"/>
+        <div type="Language" lang="Latvian">Krohpli un zik teem pehz Usturra Druẜ-</div>
+       <lb id="CekFV1796_NL_11_5"/>
+        <div type="Language" lang="Latvian">ziņ Labbibas is Krahjuma ja=atwehle, ka</div>
+       <lb id="CekFV1796_NL_11_6"/>
+        <div type="Language" lang="Latvian">tahds neſpehjneeks, weenigi ween tam</div>
+       <lb id="CekFV1796_NL_11_7"/>
+        <div type="Language" lang="Latvian">Ꞩaimneekam par Gruhtibu ne dſih-</div>
+       <lb id="CekFV1796_NL_11_8"/>
+        <div type="Language" lang="Latvian">wotu.</div>
+       <lb id="CekFV1796_NL_11_9"/>
+        <div type="Language" lang="Latvian">11) Tapat Muiſchas Waldineekam</div>
+       <lb id="CekFV1796_NL_11_10"/>
+        <div type="Language" lang="Latvian">kà walſts Ļaudim kohpa peenahkahs</div>
+       <lb id="CekFV1796_NL_11_11"/>
+        <div type="Language" lang="Latvian">ẜpreeſt, tahdu Ꞩaimneeku, kas zaur Ug-</div>
+       <lb id="CekFV1796_NL_11_12"/>
+        <div type="Language" lang="Latvian">guni jeb Kruſſu Ꞩkahdi buhtu dabbujis,</div>
+       <lb id="CekFV1796_NL_11_13"/>
+        <div type="Language" lang="Latvian">pehz to Leetu Nopraẜchanas, jeb ar Lab-</div>
+       <lb id="CekFV1796_NL_11_14"/>
+        <div type="Language" lang="Latvian">bibas is Krahjuma bes Jaatdohẜchanas</div>
+       <lb id="CekFV1796_NL_11_15"/>
+        <div type="Language" lang="Latvian">ſchehloht, jeb tam tohs Wirẜ=Ꞩeeziņus pee</div>
+       <lb id="CekFV1796_NL_11_16"/>
+        <div type="Language" lang="Latvian">aisņemtas Labbibas atlaist. Tomehr tas</div>
+       <lb id="CekFV1796_NL_11_17"/>
+        <div type="Language" lang="Latvian">newarrehs notikt ẜliktos Gaddôs. Eekẜch</div>
+       <lb id="CekFV1796_NL_11_18"/>
+        <div type="Language" lang="Latvian">ẜlikteem Gaddeem gann arr labbi un goh-</div>
+       <lb id="CekFV1796_NL_11_19"/>
+        <div type="Language" lang="Latvian">digi Ꞩaimneeki bes Aisņemẜchanas ne</div>
+       <lb id="CekFV1796_NL_11_20"/>
+        <div type="Language" lang="Latvian">warrehs palikt: Tak, kad ẜcheem tapat</div>
+       <lb id="CekFV1796_NL_11_21"/>
+        <div type="Language" lang="Latvian">kà teem preekẜchajeem Nelaimijeem grib-</div>
+       <lb id="CekFV1796_NL_11_22"/>
+        <div type="Language" lang="Latvian">betu weeglinaht; tad tas tà pee Krahju-</div>
+      </div>
+      <pb n="12"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_12_1"/>
+        <div type="Language" lang="Latvian">ma nemaẜ ne weiktohs, un tas Krahjums</div>
+       <lb id="CekFV1796_NL_12_2"/>
+        <div type="Language" lang="Latvian">isnihktu.</div>
+       <lb id="CekFV1796_NL_12_3"/>
+        <div type="Language" lang="Latvian">12) Wiẜẜu is Labbibas Krahjuma</div>
+       <lb id="CekFV1796_NL_12_4"/>
+        <div type="Language" lang="Latvian">aisņemtu Ꞩehklas Labbibu, buhs arrid-</div>
+       <lb id="CekFV1796_NL_12_5"/>
+        <div type="Language" lang="Latvian">ſan ar augoẜchas Labbibas lihdſ ar Wirẜ</div>
+       <lb id="CekFV1796_NL_12_6"/>
+        <div type="Language" lang="Latvian">Ꞩeeziņeem atdoht; tapehz ikkuŗŗam</div>
+       <lb id="CekFV1796_NL_12_7"/>
+        <div type="Language" lang="Latvian">Ꞩaimneekam kad ẜehjamu Labbibu at-</div>
+       <lb id="CekFV1796_NL_12_8"/>
+        <div type="Language" lang="Latvian">dohd, Welleni, kur Grauds dihdſis, ja-</div>
+       <lb id="CekFV1796_NL_12_9"/>
+        <div type="Language" lang="Latvian">neẜs lihdſ.</div>
+       <lb id="CekFV1796_NL_12_10"/>
+        <div type="Language" lang="Latvian">13) Kad jau  peez ẜimti Puhri</div>
+       <lb id="CekFV1796_NL_12_11"/>
+        <div type="Language" lang="Latvian">Rudſu un peez ẜimti Puhri Waẜẜaraju</div>
+       <lb id="CekFV1796_NL_12_12"/>
+        <div type="Language" lang="Latvian">ẜakrahti buhtu, tad Muiſchas Waldinee-</div>
+       <lb id="CekFV1796_NL_12_13"/>
+        <div type="Language" lang="Latvian">kam brihwi, ka, ar Semneekeem tik</div>
+       <lb id="CekFV1796_NL_12_14"/>
+        <div type="Language" lang="Latvian">papreekẜch allaſch ẜaſiņadamees, tohs at-</div>
+       <lb id="CekFV1796_NL_12_15"/>
+        <div type="Language" lang="Latvian">leekamus no teem tuhkſtohẜcheem Labbi-</div>
+       <lb id="CekFV1796_NL_12_16"/>
+        <div type="Language" lang="Latvian">bas Puhreem tannîs Laikôs, kad Labbiba</div>
+       <lb id="CekFV1796_NL_12_17"/>
+        <div type="Language" lang="Latvian">dahrgi makẜatu, tohp pahrdohta.  Bet</div>
+       <lb id="CekFV1796_NL_12_18"/>
+        <div type="Language" lang="Latvian">ta Nauda ja=eeleek pee Labbibas Krahju-</div>
+       <lb id="CekFV1796_NL_12_19"/>
+        <div type="Language" lang="Latvian">ma eekẜch ẜawadu Ꞩchkirſtu, kam diwi At-</div>
+       <lb id="CekFV1796_NL_12_20"/>
+        <div type="Language" lang="Latvian">ẜlehgas buhs preekẜcha. Weena Atẜlehga</div>
+       <lb id="CekFV1796_NL_12_21"/>
+        <div type="Language" lang="Latvian">Muiſchas Kungam, ohtra tam par</div>
+       <lb id="CekFV1796_NL_12_22"/>
+        <div type="Language" lang="Latvian">Labbibas Krahjuma eezeltam Usluhkam</div>
+      </div>
+      <pb n="13"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_13_1"/>
+        <div type="Language" lang="Latvian">Rohkâ jadohd; ka no ẜchahs Naudas</div>
+       <lb id="CekFV1796_NL_13_2"/>
+        <div type="Language" lang="Latvian">Ꞩaimneekeem ir Kalpeem pehz waijadſi-</div>
+       <lb id="CekFV1796_NL_13_3"/>
+        <div type="Language" lang="Latvian">gas Sirgu un Lohpu Pirkẜchanas warr</div>
+       <lb id="CekFV1796_NL_13_4"/>
+        <div type="Language" lang="Latvian">aisdoht. Turklaht ẜcho Naudu Wairo-</div>
+       <lb id="CekFV1796_NL_13_5"/>
+        <div type="Language" lang="Latvian">ẜchanas dehl warr aisdoht, un par ikkuŗŗu</div>
+       <lb id="CekFV1796_NL_13_6"/>
+        <div type="Language" lang="Latvian">Dahlderi, tẜchettr wehrdingi par Gaddu</div>
+       <lb id="CekFV1796_NL_13_7"/>
+        <div type="Language" lang="Latvian">pehz peeklahjigeem Augleem jaatpraẜẜa.</div>
+       <lb id="CekFV1796_NL_13_8"/>
+        <div type="Language" lang="Latvian">Pehz tam pee ẜchahs Naudas Krahjuma</div>
+       <lb id="CekFV1796_NL_13_9"/>
+        <div type="Language" lang="Latvian">tahda patti Teeẜa turrama, kà pee ta Lab-</div>
+       <lb id="CekFV1796_NL_13_10"/>
+        <div type="Language" lang="Latvian">bibas Krahjuma.</div>
+       <lb id="CekFV1796_NL_13_11"/>
+        <div type="Language" lang="Latvian">14) Mann un manneem Pehznah-</div>
+       <lb id="CekFV1796_NL_13_12"/>
+        <div type="Language" lang="Latvian">kameem us Ꞩirds ẜpeeſts paleek, katrs</div>
+       <lb id="CekFV1796_NL_13_13"/>
+        <div type="Language" lang="Latvian">Kahts, zik ſpehjoht, lai neẜẜahs us to, ka</div>
+       <lb id="CekFV1796_NL_13_14"/>
+        <div type="Language" lang="Latvian">ẜchi Ꞩagahdaẜchana nekad kļuhſt isnihzi-</div>
+       <lb id="CekFV1796_NL_13_15"/>
+        <div type="Language" lang="Latvian">nata, bet pehz Laika un Waijadſibas jo</div>
+       <lb id="CekFV1796_NL_13_16"/>
+        <div type="Language" lang="Latvian">labbak aisween apſtipprinata.</div>
+       <lb id="CekFV1796_NL_13_17"/>
+        <div type="Language" lang="Latvian">Tàlihdſ atļauju arridſan manneem</div>
+       <lb id="CekFV1796_NL_13_18"/>
+        <div type="Language" lang="Latvian">Pehznahkameem, ko tee klaht nodarritu,</div>
+       <lb id="CekFV1796_NL_13_19"/>
+        <div type="Language" lang="Latvian">wiẜẜu pehz Schehlaſtibas ar Apdohmu</div>
+       <lb id="CekFV1796_NL_13_20"/>
+        <div type="Language" lang="Latvian">un teizamu Apſinnaſchanu padarriht;</div>
+       <lb id="CekFV1796_NL_13_21"/>
+        <div type="Language" lang="Latvian">zeeẜchi wehl no jauna ſpreesdams ne</div>
+       <lb id="CekFV1796_NL_13_22"/>
+        <div type="Language" lang="Latvian">weenam buhs to no mannim pahr Dah-</div>
+      </div>
+      <pb n="14"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_14_1"/>
+        <div type="Language" lang="Latvian">wanu atdohtu Pulku, nedſ ẜchohs apgah-</div>
+       <lb id="CekFV1796_NL_14_2"/>
+        <div type="Language" lang="Latvian">dahtus Glehbẜchanas Likkumus pohſtiht.</div>
+       <lb id="CekFV1796_NL_14_3"/>
+        <div type="Language" lang="Latvian">15) Pahrleezinahts eẜmu, pareiſi</div>
+       <lb id="CekFV1796_NL_14_4"/>
+        <div type="Language" lang="Latvian">wiẜs tas isdohẜees, ja tik ikkurẜch Mui-</div>
+       <lb id="CekFV1796_NL_14_5"/>
+        <div type="Language" lang="Latvian">ſchas Waldineeks tà darriht no Teeẜas</div>
+       <lb id="CekFV1796_NL_14_6"/>
+        <div type="Language" lang="Latvian">paņemẜees, un tizzu tas, kas pehz mann</div>
+       <lb id="CekFV1796_NL_14_7"/>
+        <div type="Language" lang="Latvian">nahks, ne apniks, to Labbibu, ko jaẜchu</div>
+       <lb id="CekFV1796_NL_14_8"/>
+        <div type="Language" lang="Latvian">Semneeki is Labbibas Krahjuma ne is-</div>
+       <lb id="CekFV1796_NL_14_9"/>
+        <div type="Language" lang="Latvian">ņemtu, zittur kur, kà ween warr, isda-</div>
+       <lb id="CekFV1796_NL_14_10"/>
+        <div type="Language" lang="Latvian">waht, ikgaddôs tà us Augleem padoht,</div>
+       <lb id="CekFV1796_NL_14_11"/>
+        <div type="Language" lang="Latvian">ta Krahjums wairotohs un no ta neneeka</div>
+       <lb id="CekFV1796_NL_14_12"/>
+        <div type="Language" lang="Latvian">ſuſtu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_14_13"/>
+        <div type="Language" lang="Latvian">16) Wehl ikkuŗŗâ Ꞩehtâ katram</div>
+       <lb id="CekFV1796_NL_14_14"/>
+        <div type="Language" lang="Latvian">Ꞩaimneekam Lattweeẜchu Wallodâ</div>
+       <lb id="CekFV1796_NL_14_15"/>
+        <div type="Language" lang="Latvian">ẜchohs Ꞩpreedumus ſinnamus darriẜchu,</div>
+       <lb id="CekFV1796_NL_14_16"/>
+        <div type="Language" lang="Latvian">kuŗŗeem us preeẜch pehz jo ſkaidrakas</div>
+       <lb id="CekFV1796_NL_14_17"/>
+        <div type="Language" lang="Latvian">Jspaudeẜchanas warrehs klaht likt, ko no</div>
+       <lb id="CekFV1796_NL_14_18"/>
+        <div type="Language" lang="Latvian">jauna kas ſinn ẜadohmahts tiks. Bet tee</div>
+       <lb id="CekFV1796_NL_14_19"/>
+        <div type="Language" lang="Latvian">Gadskahrtigi Rehkeniſchi paweeneem</div>
+       <lb id="CekFV1796_NL_14_20"/>
+        <div type="Language" lang="Latvian">ween Muiſchâ atrohdami buhs, un peez</div>
+       <lb id="CekFV1796_NL_14_21"/>
+        <div type="Language" lang="Latvian">patẜmitâ Deenâ pehz Mikkeļeem ikgad-</div>
+      </div>
+      <pb n="15"/>
+      <div type="Paragraph">
+       <lb id="CekFV1796_NL_15_1"/>
+        <div type="Language" lang="Latvian">dôs pehz nobeigteem Rehkeniẜcheem pa-</div>
+       <lb id="CekFV1796_NL_15_2"/>
+        <div type="Language" lang="Latvian">ẜazzihs tas pee Labbibas Krahjuma zelts</div>
+       <lb id="CekFV1796_NL_15_3"/>
+        <div type="Language" lang="Latvian">Usluhks Walſts=Ļaudim to Krahjumu</div>
+       <lb id="CekFV1796_NL_15_4"/>
+        <div type="Language" lang="Latvian">wiẜẜu. Mehre Muischâ ohtrâ padeẜmitâ</div>
+       <lb id="CekFV1796_NL_15_5"/>
+        <div type="Language" lang="Latvian">Deenâ Mahrtiņa Mehneẜî. 1796.</div>
+       <lb id="CekFV1796_NL_15_6"/>
+        <div type="Language" lang="Latvian">F. W. v. Zoeckell.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

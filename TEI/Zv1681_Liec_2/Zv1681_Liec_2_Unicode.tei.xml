@@ -1,0 +1,52 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Zv1681_Liec_2">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>[Liecinieku zvērests, 2]</title>
+      <date>1681</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <chanel>manuscript</chanel>
+     <domain type="public">Laicīgie teksti; lietišķie teksti, zvēresti</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Zv1681_Liec_2_--_1"/>
+       <div type="Language" lang="German">Zeugen Eyd:</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1681_Liec_2_--_2"/>
+        <div type="Language" lang="Latvian">Es runnay und ſwehru py Dewam mannam pe-</div>
+       <lb id="Zv1681_Liec_2_--_3"/>
+        <div type="Language" lang="Latvian">stiteyam, ka es gribbu us tho, ko man kluß waydzot,</div>
+       <lb id="Zv1681_Liec_2_--_4"/>
+        <div type="Language" lang="Latvian">pattes und tayßne yßatzit, und to neh ſchlepet ne par</div>
+       <lb id="Zv1681_Liec_2_--_5"/>
+        <div type="Language" lang="Latvian">wene dawan, neh noh trauggu puß, neh no enaidzibe,</div>
+       <lb id="Zv1681_Liec_2_--_6"/>
+        <div type="Language" lang="Latvian">ne pätz bailibe, ta teſchem ka man dews pallidz, und</div>
+       <lb id="Zv1681_Liec_2_--_7"/>
+        <div type="Language" lang="Latvian">winge ſchwäte Evangelium.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Zv1681_Liec_2_--_8"/>
+       <div type="Language" lang="German">Jch rede und ſchwere, daß ich auf die Articul und Jnter-</div>
+       <lb id="Zv1681_Liec_2_--_9"/>
+       <div type="Language" lang="German">rogatoria, auff welche ich befraget werde, die Lautere</div>
+       <lb id="Zv1681_Liec_2_--_10"/>
+       <div type="Language" lang="German">Wahrheit ſagen, und ſolche nicht verſchweigen, will, umb</div>
+       <lb id="Zv1681_Liec_2_--_11"/>
+       <div type="Language" lang="German">Giftt, Gabe, Feind= und Freundſchaftt oder furcht wille,</div>
+       <lb id="Zv1681_Liec_2_--_12"/>
+       <div type="Language" lang="German">ſo Wahr mir Gott helffe und ſein heiliges Evan-</div>
+       <lb id="Zv1681_Liec_2_--_13"/>
+       <div type="Language" lang="German">gelium.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>
