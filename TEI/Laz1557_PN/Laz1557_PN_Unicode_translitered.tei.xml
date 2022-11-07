@@ -1,0 +1,37 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Laz1557_PN">
+     <sourceDesc>
+      <author>Volfgangs Lācijs</author>
+      <title>[Lācija tēvreize]</title>
+      <date>1557</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Laz1557_PN_--_1"/>
+        <div type="Language" lang="Latvian">tēves mūs kas tu es iekšan debesis švētīts</div>
+       <lb id="Laz1557_PN_--_2"/>
+        <div type="Language" lang="Latvian">tavs vārds ienāk mums tavs valstibe</div>
+       <lb id="Laz1557_PN_--_3"/>
+        <div type="Language" lang="Latvian">tavs prāts būs kā iekšan debes tā virsan</div>
+       <lb id="Laz1557_PN_--_4"/>
+        <div type="Language" lang="Latvian">zemes mūse dieniske maize dot mums šodien</div>
+       <lb id="Laz1557_PN_--_5"/>
+        <div type="Language" lang="Latvian">pamete mums mūse grēke kā mēs pamet mūse</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Laz1557_PN_--_6"/>
+        <div type="Language" lang="Latvian">parādnieken, ne vede mums ļauna badekle,</div>
+       <lb id="Laz1557_PN_--_7"/>
+        <div type="Language" lang="Latvian">bet pasarga mums no vise ļaune, āmen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

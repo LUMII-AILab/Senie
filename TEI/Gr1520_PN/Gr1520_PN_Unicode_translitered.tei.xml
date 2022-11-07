@@ -1,0 +1,35 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Gr1520_PN">
+     <sourceDesc>
+      <author>Simons Grūnavs</author>
+      <title>[Grūnava tēvreize]</title>
+      <date>1520</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Gr1520_PN_--_1"/>
+        <div type="Language" lang="Latvian">nosen tēves kur tu es debes svētīts jir taves</div>
+       <lb id="Gr1520_PN_--_2"/>
+        <div type="Language" lang="Latvian">vārdes pienāk mums tave valstībi taves prātes</div>
+       <lb id="Gr1520_PN_--_3"/>
+        <div type="Language" lang="Latvian">jir <corr>kāde</corr><sic>girkade</sic> debesīme tāde zīmes zemes virsūnī</div>
+       <lb id="Gr1520_PN_--_4"/>
+        <div type="Language" lang="Latvian">dodi mums anosen ikdienas maize, unde gaitkas</div>
+       <lb id="Gr1520_PN_--_5"/>
+        <div type="Language" lang="Latvian">pames mums nuse noziegimi kāde <corr>mēs</corr><sic>cademes</sic> pametam mūsen</div>
+       <lb id="Gr1520_PN_--_6"/>
+        <div type="Language" lang="Latvian"><corr>pretiniekam</corr><sic>prettaune kans</sic> nevede mums ļaunan padoman</div>
+       <lb id="Gr1520_PN_--_7"/>
+        <div type="Language" lang="Latvian">svabadi mums no <corr>vise</corr><sic>nowusſe</sic> ļaune jēzus āmen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

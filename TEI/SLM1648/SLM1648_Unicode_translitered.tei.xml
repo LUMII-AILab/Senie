@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="SLM1648">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>Starpan to lele meže</title>
+      <date>1648</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; gadījuma dzeja</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="SLM1648_--_1"/>
+       <div type="Language" lang="Latin">Lotawicae</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="SLM1648_--_2"/>
+        <div type="Language" lang="Latvian">starpan to liele meže tas latvis dzīvojams/</div>
+       <lb id="SLM1648_--_3"/>
+        <div type="Language" lang="Latvian">uz balsme pieņemte slav <corr>visur</corr><sic>sur</sic> gan stipr dziedams</div>
+       <lb id="SLM1648_--_4"/>
+        <div type="Language" lang="Latvian">tade viņš atdod eho o liels kungs vladislav</div>
+       <lb id="SLM1648_--_5"/>
+        <div type="Language" lang="Latvian">lai ta vise pasaule dzieda mums tave slav</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

@@ -1,0 +1,2356 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Apokr1689/Bar">
+     <sourceDesc>
+      <author>Ernsts Gliks</author>
+      <title>Bahruka Grahmata</title>
+      <date>1689</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; Bībele, apokrifi</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+       <lb id="Apokr1689/Bar_0_1"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">bāruka grāmata.</div></div>
+       <lb id="Apokr1689/Bar_0_2"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta i. nodaļa.</div></div>
+      <div n="1." type="Verse" id="Apokr1689/Bar_1:1.">
+       <lb id="Apokr1689/Bar_0_3"/>
+        <div type="Language" lang="Latvian">schie ir tie</div>
+       <lb id="Apokr1689/Bar_0_4"/>
+        <div type="Language" lang="Latvian">vārdi tās</div>
+       <lb id="Apokr1689/Bar_0_5"/>
+        <div type="Language" lang="Latvian">grāmatas/ ko</div>
+       <lb id="Apokr1689/Bar_0_6"/>
+        <div type="Language" lang="Latvian">uzrakstijs ir</div>
+       <lb id="Apokr1689/Bar_0_7"/>
+        <div type="Language" lang="Latvian">bāruks nerijus</div>
+       <lb id="Apokr1689/Bar_0_8"/>
+        <div type="Language" lang="Latvian">dēls/ ta dēla maazejus/</div>
+       <lb id="Apokr1689/Bar_0_9"/>
+        <div type="Language" lang="Latvian">ta dēla sedekijus/ ta</div>
+       <lb id="Apokr1689/Bar_0_10"/>
+        <div type="Language" lang="Latvian">dēla azadijus/ ta dēla elkijus</div>
+       <lb id="Apokr1689/Bar_0_11"/>
+        <div type="Language" lang="Latvian">iekš babilonijas.</div>
+      <div n="2." type="Verse" id="Apokr1689/Bar_1:2.">
+       <lb id="Apokr1689/Bar_0_12"/>
+        <div type="Language" lang="Latvian">piektā gadā septitā</div>
+       <lb id="Apokr1689/Bar_0_13"/>
+        <div type="Language" lang="Latvian">mēnes dienā tai laikā/ kad</div>
+       <lb id="Apokr1689/Bar_0_14"/>
+        <div type="Language" lang="Latvian">tie kaldeeŗi jeruzalemi bij uzņēmusi/</div>
+       <lb id="Apokr1689/Bar_0_15"/>
+        <div type="Language" lang="Latvian">un to ar uguni sadedzinajši.</div>
+      <div n="3." type="Verse" id="Apokr1689/Bar_1:3.">
+       <lb id="Apokr1689/Bar_0_16"/>
+        <div type="Language" lang="Latvian">un bāruks lasija šās</div>
+       <lb id="Apokr1689/Bar_0_17"/>
+        <div type="Language" lang="Latvian">grāmatas vārdus priekš</div>
+       <lb id="Apokr1689/Bar_0_18"/>
+        <div type="Language" lang="Latvian">jekonijus joakima dēla ta</div>
+       <lb id="Apokr1689/Bar_0_19"/>
+        <div type="Language" lang="Latvian">ķēniņa no jūda/ un priekš</div>
+       <lb id="Apokr1689/Bar_0_20"/>
+        <div type="Language" lang="Latvian">visu ļaužu ausim/ kas pie</div>
+       <lb id="Apokr1689/Bar_0_21"/>
+        <div type="Language" lang="Latvian">tās grāmatas atnāce.</div>
+      <div n="4." type="Verse" id="Apokr1689/Bar_1:4.">
+       <lb id="Apokr1689/Bar_0_22"/>
+        <div type="Language" lang="Latvian">ir priekš tām ausim</div>
+       <lb id="Apokr1689/Bar_0_23"/>
+        <div type="Language" lang="Latvian">to varenu/ un to ķēniņa</div>
+       <lb id="Apokr1689/Bar_0_24"/>
+        <div type="Language" lang="Latvian">bērnu/ un to vecaju/ un</div>
+       <lb id="Apokr1689/Bar_0_25"/>
+        <div type="Language" lang="Latvian">visu ļaužu/ tik labi mazu</div>
+       <lb id="Apokr1689/Bar_0_26"/>
+        <div type="Language" lang="Latvian">kā lielu/ priekš visem/ kas</div>
+       <lb id="Apokr1689/Bar_0_27"/>
+        <div type="Language" lang="Latvian">iekš babilonijas dzīvoja pie</div>
+       <lb id="Apokr1689/Bar_0_28"/>
+        <div type="Language" lang="Latvian">tās upes zud.</div>
+      <div n="5." type="Verse" id="Apokr1689/Bar_1:5.">
+       <lb id="Apokr1689/Bar_0_29"/>
+        <div type="Language" lang="Latvian">un tie raudaja un gaveja/</div>
+       <lb id="Apokr1689/Bar_0_30"/>
+        <div type="Language" lang="Latvian">un pielūdze sirdigi ta kunga</div>
+       <lb id="Apokr1689/Bar_0_31"/>
+        <div type="Language" lang="Latvian">priekšā.</div>
+      <div n="6." type="Verse" id="Apokr1689/Bar_1:6.">
+       <lb id="Apokr1689/Bar_0_32"/>
+        <div type="Language" lang="Latvian">un samete naudas/ kā</div>
+       <lb id="Apokr1689/Bar_0_33"/>
+        <div type="Language" lang="Latvian">kuŗam pie rokas bija.</div>
+      <div n="7." type="Verse" id="Apokr1689/Bar_1:7.">
+       <lb id="Apokr1689/Bar_0_34"/>
+        <div type="Language" lang="Latvian">un sūtija to uz jeruzalemi</div>
+       <lb id="Apokr1689/Bar_0_35"/>
+        <div type="Language" lang="Latvian">pie joakima/ ta dēla elkijus/</div>
+       <lb id="Apokr1689/Bar_0_36"/>
+        <div type="Language" lang="Latvian">ta dēla zaloma/ ta</div>
+       <lb id="Apokr1689/Bar_0_37"/>
+        <div type="Language" lang="Latvian">priesteŗa/ un pie tiem citiem</div>
+       <lb id="Apokr1689/Bar_0_38"/>
+        <div type="Language" lang="Latvian">priesteŗiem/ un pie visiem</div>
+       <lb id="Apokr1689/Bar_0_39"/>
+        <div type="Language" lang="Latvian">ļaudim/ kas ar viņu jeruzalemē</div>
+       <lb id="Apokr1689/Bar_0_40"/>
+        <div type="Language" lang="Latvian">atradās.</div>
+      <div n="8." type="Verse" id="Apokr1689/Bar_1:8.">
+       <lb id="Apokr1689/Bar_0_41"/>
+        <div type="Language" lang="Latvian">kad viņš ta kunga</div>
+       <lb id="Apokr1689/Bar_0_42"/>
+        <div type="Language" lang="Latvian">nama rīkus dabuja/ kas</div>
+       <lb id="Apokr1689/Bar_0_43"/>
+        <div type="Language" lang="Latvian">no dieva nama izņemti</div>
+       <lb id="Apokr1689/Bar_0_44"/>
+        <div type="Language" lang="Latvian">tapuši/ un atvede tos atkaļ</div>
+       <lb id="Apokr1689/Bar_0_45"/>
+        <div type="Language" lang="Latvian">uz to zemi jūda/ desmitā</div>
+       <lb id="Apokr1689/Bar_0_46"/>
+        <div type="Language" lang="Latvian">dienā tās mēnes zīval/</div>
+       <lb id="Apokr1689/Bar_0_47"/>
+        <div type="Language" lang="Latvian">sudraba rīkus/ ko zedekijus</div>
+       <lb id="Apokr1689/Bar_0_48"/>
+        <div type="Language" lang="Latvian">jozijus dēls/ kas ķēniņš</div>
+       <lb id="Apokr1689/Bar_0_49"/>
+        <div type="Language" lang="Latvian">no jūda bij licis darīt.</div>
+      <div n="9." type="Verse" id="Apokr1689/Bar_1:9.">
+       <lb id="Apokr1689/Bar_0_50"/>
+        <div type="Language" lang="Latvian">kad nebukadnecars tas</div>
+       <lb id="Apokr1689/Bar_0_51"/>
+        <div type="Language" lang="Latvian">bābeles ķēniņš aizvedis</div>
+       <lb id="Apokr1689/Bar_0_52"/>
+        <div type="Language" lang="Latvian">bij jekoniju/ un tos lielus=</div>
+       <lb id="Apokr1689/Bar_0_53"/>
+        <div type="Language" lang="Latvian">kungus/ un tos cietinatus/ un</div>
+       <lb id="Apokr1689/Bar_0_54"/>
+        <div type="Language" lang="Latvian">tos varenus un tās zemes</div>
+       <lb id="Apokr1689/Bar_0_55"/>
+        <div type="Language" lang="Latvian">ļaudis no jeruzalemes/ un</div>
+       <lb id="Apokr1689/Bar_0_56"/>
+        <div type="Language" lang="Latvian">bij tos uz babiloniju vadijs.</div>
+      <div n="10." type="Verse" id="Apokr1689/Bar_1:10.">
+       <lb id="Apokr1689/Bar_0_57"/>
+        <div type="Language" lang="Latvian">un tie tā rakstija: raugi/</div>
+       <lb id="Apokr1689/Bar_0_58"/>
+        <div type="Language" lang="Latvian">mēs sūtam jums naudu/</div>
+       <lb id="Apokr1689/Bar_0_59"/>
+        <div type="Language" lang="Latvian">par to naudu pirciet dedzamu=</div>
+       <lb id="Apokr1689/Bar_0_60"/>
+        <div type="Language" lang="Latvian">upuŗus un grēku=upuŗus/</div>
+       <lb id="Apokr1689/Bar_0_61"/>
+        <div type="Language" lang="Latvian">un vīraku/ un sadomajiet</div>
+       <lb id="Apokr1689/Bar_0_62"/>
+        <div type="Language" lang="Latvian">dāvanas/ un upurejiet tās</div>
+       <lb id="Apokr1689/Bar_0_63"/>
+        <div type="Language" lang="Latvian">uz to altari ta kunga jūsu</div>
+       <lb id="Apokr1689/Bar_0_64"/>
+        <div type="Language" lang="Latvian">dieva.</div>
+      <div n="11." type="Verse" id="Apokr1689/Bar_1:11.">
+       <lb id="Apokr1689/Bar_0_65"/>
+        <div type="Language" lang="Latvian">un lūdziet par nebukadnecaŗa</div>
+       <lb id="Apokr1689/Bar_0_66"/>
+        <div type="Language" lang="Latvian">ta bābeles ķēniņa</div>
+       <lb id="Apokr1689/Bar_0_67"/>
+        <div type="Language" lang="Latvian">dzīvibu/ un par baltazaŗa</div>
+       <lb id="Apokr1689/Bar_0_68"/>
+        <div type="Language" lang="Latvian">viņa dēla dzīvibu/ ka viņu</div>
+       <lb id="Apokr1689/Bar_0_69"/>
+        <div type="Language" lang="Latvian">dienas tik ilgi stāv ka tās</div>
+       <lb id="Apokr1689/Bar_0_70"/>
+        <div type="Language" lang="Latvian">debes dienas virs zemes.</div>
+      <div n="12." type="Verse" id="Apokr1689/Bar_1:12.">
+       <lb id="Apokr1689/Bar_0_71"/>
+        <div type="Language" lang="Latvian">tad dos tas kungs</div>
+       <lb id="Apokr1689/Bar_0_72"/>
+        <div type="Language" lang="Latvian">mums spēku/ un apgaismos</div>
+       <lb id="Apokr1689/Bar_0_73"/>
+        <div type="Language" lang="Latvian">mūsu acis/ un mēs dzīvosim</div>
+       <lb id="Apokr1689/Bar_0_74"/>
+        <div type="Language" lang="Latvian">apakš nebukadnecaŗa ta</div>
+       <lb id="Apokr1689/Bar_0_75"/>
+        <div type="Language" lang="Latvian">bābeles ķēniņa ēnas/ un</div>
+       <lb id="Apokr1689/Bar_0_76"/>
+        <div type="Language" lang="Latvian">apakš baltazaŗa viņa dēla</div>
+       <lb id="Apokr1689/Bar_0_77"/>
+        <div type="Language" lang="Latvian">ēnas/ un kalposim viņiem</div>
+       <lb id="Apokr1689/Bar_0_78"/>
+        <div type="Language" lang="Latvian">ilgu laiku/ un atrasim žēlastibu</div>
+       <lb id="Apokr1689/Bar_0_79"/>
+        <div type="Language" lang="Latvian">viņu priekšā.</div>
+      <div n="13." type="Verse" id="Apokr1689/Bar_1:13.">
+       <lb id="Apokr1689/Bar_0_80"/>
+        <div type="Language" lang="Latvian">pielūdziet ari to kungu</div>
+       <lb id="Apokr1689/Bar_0_81"/>
+        <div type="Language" lang="Latvian">mūsu dievu priekš mums/</div>
+       <lb id="Apokr1689/Bar_0_82"/>
+        <div type="Language" lang="Latvian">jo mēs esam pret to kungu</div>
+       <lb id="Apokr1689/Bar_0_83"/>
+        <div type="Language" lang="Latvian">mūsu dievu grēkojuši/</div>
+       <lb id="Apokr1689/Bar_0_84"/>
+        <div type="Language" lang="Latvian">un ta kunga bārziba un viņa</div>
+       <lb id="Apokr1689/Bar_0_85"/>
+        <div type="Language" lang="Latvian">dusmiba vēl no mums ne</div>
+       <lb id="Apokr1689/Bar_0_86"/>
+        <div type="Language" lang="Latvian">ir atgriezusies līdz pat šodien.</div>
+      <div n="14." type="Verse" id="Apokr1689/Bar_1:14.">
+       <lb id="Apokr1689/Bar_0_87"/>
+        <div type="Language" lang="Latvian">un lasiet aridzan šo</div>
+       <lb id="Apokr1689/Bar_0_88"/>
+        <div type="Language" lang="Latvian">grāmatu/ ko mēs uz jums</div>
+       <lb id="Apokr1689/Bar_0_89"/>
+        <div type="Language" lang="Latvian">sūtam/ ka jūs to izteicat kunga</div>
+       <lb id="Apokr1689/Bar_0_90"/>
+        <div type="Language" lang="Latvian">namā/ svētkos un noliktās</div>
+       <lb id="Apokr1689/Bar_0_91"/>
+        <div type="Language" lang="Latvian">dienās.</div>
+      <div n="15." type="Verse" id="Apokr1689/Bar_1:15.">
+       <lb id="Apokr1689/Bar_0_92"/>
+        <div type="Language" lang="Latvian">un sakajt: tas kungs</div>
+       <lb id="Apokr1689/Bar_0_93"/>
+        <div type="Language" lang="Latvian">mūsu dievs ir taisns/ bet</div>
+       <lb id="Apokr1689/Bar_0_94"/>
+        <div type="Language" lang="Latvian">mums ir kauns mūsos vaigos/</div>
+       <lb id="Apokr1689/Bar_0_95"/>
+        <div type="Language" lang="Latvian">it kā šodien klājās</div>
+       <lb id="Apokr1689/Bar_0_96"/>
+        <div type="Language" lang="Latvian">tiem jūdu ļaudim un tiem/ kas</div>
+       <lb id="Apokr1689/Bar_0_97"/>
+        <div type="Language" lang="Latvian">jeruzalemē dzīvo.</div>
+       <lb id="Apokr1689/Bar_0_98"/>
+       <div type="Parallel">w:15. Dan: 9,7.</div>
+      <div n="16." type="Verse" id="Apokr1689/Bar_1:16.">
+       <lb id="Apokr1689/Bar_0_99"/>
+        <div type="Language" lang="Latvian">ir mūsu ķēniņiem un</div>
+       <lb id="Apokr1689/Bar_0_100"/>
+        <div type="Language" lang="Latvian">mūsu valdniekiem/ un mūsu</div>
+       <lb id="Apokr1689/Bar_0_101"/>
+        <div type="Language" lang="Latvian">priesteŗiem un mūsu praviešiem/</div>
+       <lb id="Apokr1689/Bar_0_102"/>
+        <div type="Language" lang="Latvian">un mūsu tēviem.</div>
+      <div n="17." type="Verse" id="Apokr1689/Bar_1:17.">
+       <lb id="Apokr1689/Bar_0_103"/>
+        <div type="Language" lang="Latvian">tapēc ka mēs pret to</div>
+       <lb id="Apokr1689/Bar_0_104"/>
+        <div type="Language" lang="Latvian">kungu esam grēkojši/ un</div>
+       <lb id="Apokr1689/Bar_0_105"/>
+        <div type="Language" lang="Latvian">viņam ne esam pieticigi bijuši.</div>
+       <lb id="Apokr1689/Bar_0_106"/>
+       <div type="Parallel">w:17. Dan: 9,5.</div>
+      <div n="18." type="Verse" id="Apokr1689/Bar_1:18.">
+       <lb id="Apokr1689/Bar_0_107"/>
+        <div type="Language" lang="Latvian">neds klausijši tai balsi</div>
+       <lb id="Apokr1689/Bar_0_108"/>
+        <div type="Language" lang="Latvian">ta kunga mūsa dieva/ ka</div>
+       <lb id="Apokr1689/Bar_0_109"/>
+        <div type="Language" lang="Latvian">mēs būtum staigajši iekš</div>
+       <lb id="Apokr1689/Bar_0_110"/>
+        <div type="Language" lang="Latvian">viņa likumiem/ ko viņš</div>
+       <lb id="Apokr1689/Bar_0_111"/>
+        <div type="Language" lang="Latvian">mūsu priekšā devis bij.</div>
+      <div n="19." type="Verse" id="Apokr1689/Bar_1:19.">
+       <lb id="Apokr1689/Bar_0_112"/>
+        <div type="Language" lang="Latvian">no tās dienas/ kad</div>
+       <lb id="Apokr1689/Bar_0_113"/>
+        <div type="Language" lang="Latvian">tas kungs mūsu tēvs izvedis</div>
+       <lb id="Apokr1689/Bar_0_114"/>
+        <div type="Language" lang="Latvian">no egiptes=zemes</div>
+       <lb id="Apokr1689/Bar_0_115"/>
+        <div type="Language" lang="Latvian">līdz pat šodien/ esam mēs</div>
+       <lb id="Apokr1689/Bar_0_116"/>
+        <div type="Language" lang="Latvian">nepieticigi bijuši tam kungam</div>
+       <lb id="Apokr1689/Bar_0_117"/>
+        <div type="Language" lang="Latvian">mūsu dievam/ un esam</div>
+       <lb id="Apokr1689/Bar_0_118"/>
+        <div type="Language" lang="Latvian">par nenieku turejši viņa</div>
+       <lb id="Apokr1689/Bar_0_119"/>
+        <div type="Language" lang="Latvian">balsim klausīt.</div>
+      <div n="20." type="Verse" id="Apokr1689/Bar_1:20.">
+       <lb id="Apokr1689/Bar_0_120"/>
+        <div type="Language" lang="Latvian">tapēc ir mums pielipis</div>
+       <lb id="Apokr1689/Bar_0_121"/>
+        <div type="Language" lang="Latvian">tas ļaunums un tie lāsti/</div>
+       <lb id="Apokr1689/Bar_0_122"/>
+        <div type="Language" lang="Latvian">ko tas kungs nolicis caur</div>
+       <lb id="Apokr1689/Bar_0_123"/>
+        <div type="Language" lang="Latvian">mozu savu kalpu/ tai dienā/</div>
+       <lb id="Apokr1689/Bar_0_124"/>
+        <div type="Language" lang="Latvian">kad viņš mūsu tēvus</div>
+       <lb id="Apokr1689/Bar_0_125"/>
+        <div type="Language" lang="Latvian">no egiptes=zemes izvede/</div>
+       <lb id="Apokr1689/Bar_0_126"/>
+        <div type="Language" lang="Latvian">ka viņš mums dotu tādu</div>
+       <lb id="Apokr1689/Bar_0_127"/>
+        <div type="Language" lang="Latvian">zemi/ kas ar pienu un</div>
+       <lb id="Apokr1689/Bar_0_128"/>
+        <div type="Language" lang="Latvian">medu tecetu/ it kā tas šodien</div>
+       <lb id="Apokr1689/Bar_0_129"/>
+        <div type="Language" lang="Latvian">ir.</div>
+       <lb id="Apokr1689/Bar_0_130"/>
+       <div type="Parallel">w:20. 5.Mohſ:Gr: 8,15.</div>
+      <div n="21." type="Verse" id="Apokr1689/Bar_1:21.">
+       <lb id="Apokr1689/Bar_0_131"/>
+        <div type="Language" lang="Latvian">bet mēs ne esam tai</div>
+       <lb id="Apokr1689/Bar_0_132"/>
+        <div type="Language" lang="Latvian">balsi ta kunga mūsu dieva</div>
+       <lb id="Apokr1689/Bar_0_133"/>
+        <div type="Language" lang="Latvian">klausijši/ pēc visiem vārdiem</div>
+       <lb id="Apokr1689/Bar_0_134"/>
+        <div type="Language" lang="Latvian">to praviešu/ ko viņš</div>
+       <lb id="Apokr1689/Bar_0_135"/>
+        <div type="Language" lang="Latvian">pie mums sūtija.</div>
+      <div n="22." type="Verse" id="Apokr1689/Bar_1:22.">
+       <lb id="Apokr1689/Bar_0_136"/>
+        <div type="Language" lang="Latvian">bet mēs visi staigajam</div>
+       <lb id="Apokr1689/Bar_0_137"/>
+        <div type="Language" lang="Latvian">pēc mūsu ļauna sirds=</div>
+       <lb id="Apokr1689/Bar_0_138"/>
+        <div type="Language" lang="Latvian">prāta/ un kalpojam svēšiem</div>
+       <lb id="Apokr1689/Bar_0_139"/>
+        <div type="Language" lang="Latvian">dieviem/ un darijam</div>
+       <lb id="Apokr1689/Bar_0_140"/>
+        <div type="Language" lang="Latvian">ļauna priekš ta kunga mūsu</div>
+       <lb id="Apokr1689/Bar_0_141"/>
+        <div type="Language" lang="Latvian">dieva acim.</div>
+      </div>
+       <lb id="Apokr1689/Bar_0_142"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta ii. nodaļa.</div></div>
+      <div n="1." type="Verse" id="Apokr1689/Bar_2:1.">
+       <lb id="Apokr1689/Bar_0_143"/>
+        <div type="Language" lang="Latvian">un tas kungs ir savu</div>
+       <lb id="Apokr1689/Bar_0_144"/>
+        <div type="Language" lang="Latvian">vārdu turejs/ ko</div>
+       <lb id="Apokr1689/Bar_0_145"/>
+        <div type="Language" lang="Latvian">viņš runajs uz</div>
+       <lb id="Apokr1689/Bar_0_146"/>
+        <div type="Language" lang="Latvian">mums un uz mūsiem soģiem/</div>
+       <lb id="Apokr1689/Bar_0_147"/>
+        <div type="Language" lang="Latvian">kas izraelu tiesaja/ un uz</div>
+       <lb id="Apokr1689/Bar_0_148"/>
+        <div type="Language" lang="Latvian">mūsiem ķēniņiem un mūsu</div>
+       <lb id="Apokr1689/Bar_0_149"/>
+        <div type="Language" lang="Latvian">valditajiem/ un uz tiem izraeļa</div>
+       <lb id="Apokr1689/Bar_0_150"/>
+        <div type="Language" lang="Latvian">un jūdu ļaudim.</div>
+      <div n="2." type="Verse" id="Apokr1689/Bar_2:2.">
+       <lb id="Apokr1689/Bar_0_151"/>
+        <div type="Language" lang="Latvian">ka tas gribetu pār mums</div>
+       <lb id="Apokr1689/Bar_0_152"/>
+        <div type="Language" lang="Latvian">daudz ļaunuma vest/ ka <corr>apakš</corr><sic>apap pakš</sic></div>
+       <lb id="Apokr1689/Bar_0_153"/>
+        <div type="Language" lang="Latvian">visas debes vēl tā ne</div>
+       <lb id="Apokr1689/Bar_0_154"/>
+        <div type="Language" lang="Latvian">darīts/ it kā viņš <corr>jeruzalemē</corr><sic>jeruzajeruza lemē</sic></div>
+       <lb id="Apokr1689/Bar_0_155"/>
+        <div type="Language" lang="Latvian">darijs ir/ pēc tiem</div>
+       <lb id="Apokr1689/Bar_0_156"/>
+        <div type="Language" lang="Latvian">vārdiem/ kas rakstiti ir iekš</div>
+       <lb id="Apokr1689/Bar_0_157"/>
+        <div type="Language" lang="Latvian">tās bauslibas mozus.</div>
+       <lb id="Apokr1689/Bar_0_158"/>
+       <div type="Parallel">w:2. 5.Mohſ:Gr: 28,53.</div>
+      <div n="3." type="Verse" id="Apokr1689/Bar_2:3.">
+       <lb id="Apokr1689/Bar_0_159"/>
+        <div type="Language" lang="Latvian">ka cilvekam bij sava</div>
+       <lb id="Apokr1689/Bar_0_160"/>
+        <div type="Language" lang="Latvian">dēla un savas meitas miesu</div>
+       <lb id="Apokr1689/Bar_0_161"/>
+        <div type="Language" lang="Latvian">ēst.</div>
+      <div n="4." type="Verse" id="Apokr1689/Bar_2:4.">
+       <lb id="Apokr1689/Bar_0_162"/>
+        <div type="Language" lang="Latvian">un ir tos nodevis par</div>
+       <lb id="Apokr1689/Bar_0_163"/>
+        <div type="Language" lang="Latvian">kalpiem visām valstibām/</div>
+       <lb id="Apokr1689/Bar_0_164"/>
+        <div type="Language" lang="Latvian">kas apkārt mums ir/ par apsmiekli</div>
+       <lb id="Apokr1689/Bar_0_165"/>
+        <div type="Language" lang="Latvian">un postišanu visiem</div>
+       <lb id="Apokr1689/Bar_0_166"/>
+        <div type="Language" lang="Latvian">ļaudim/ kas apkārt mums</div>
+       <lb id="Apokr1689/Bar_0_167"/>
+        <div type="Language" lang="Latvian">dzīvo/ kur tas kungs tos ir</div>
+       <lb id="Apokr1689/Bar_0_168"/>
+        <div type="Language" lang="Latvian">izkaisijs.</div>
+      <div n="5." type="Verse" id="Apokr1689/Bar_2:5.">
+       <lb id="Apokr1689/Bar_0_169"/>
+        <div type="Language" lang="Latvian">un tie ir zemjop tapuši</div>
+       <lb id="Apokr1689/Bar_0_170"/>
+        <div type="Language" lang="Latvian">un ne augšop/ jo mēs esam</div>
+       <lb id="Apokr1689/Bar_0_171"/>
+        <div type="Language" lang="Latvian">pret to kungu mūsu dievu</div>
+       <lb id="Apokr1689/Bar_0_172"/>
+        <div type="Language" lang="Latvian">grēkojši un viņa balsi</div>
+       <lb id="Apokr1689/Bar_0_173"/>
+        <div type="Language" lang="Latvian">ne klausijši.</div>
+      <div n="6." type="Verse" id="Apokr1689/Bar_2:6.">
+       <lb id="Apokr1689/Bar_0_174"/>
+        <div type="Language" lang="Latvian">kas kungs mūsu dievs</div>
+       <lb id="Apokr1689/Bar_0_175"/>
+        <div type="Language" lang="Latvian">ir taisns/ bet mums un mūsiem</div>
+       <lb id="Apokr1689/Bar_0_176"/>
+        <div type="Language" lang="Latvian">tēviem ir kauns mūsos</div>
+       <lb id="Apokr1689/Bar_0_177"/>
+        <div type="Language" lang="Latvian">vaigos/ it kā tas šodien</div>
+       <lb id="Apokr1689/Bar_0_178"/>
+        <div type="Language" lang="Latvian">ir.</div>
+      <div n="7." type="Verse" id="Apokr1689/Bar_2:7.">
+       <lb id="Apokr1689/Bar_0_179"/>
+        <div type="Language" lang="Latvian">ko tas kungs pret mums</div>
+       <lb id="Apokr1689/Bar_0_180"/>
+        <div type="Language" lang="Latvian">runajs/ viss tas ļaunums ir</div>
+       <lb id="Apokr1689/Bar_0_181"/>
+        <div type="Language" lang="Latvian">pār mums nācis.</div>
+      <div n="8." type="Verse" id="Apokr1689/Bar_2:8.">
+       <lb id="Apokr1689/Bar_0_182"/>
+        <div type="Language" lang="Latvian">taču mēs ne pielūdzam</div>
+       <lb id="Apokr1689/Bar_0_183"/>
+        <div type="Language" lang="Latvian">ta kunga vaigu/ ka ikkuŗš</div>
+       <lb id="Apokr1689/Bar_0_184"/>
+        <div type="Language" lang="Latvian">būtu no sava ļauna</div>
+       <lb id="Apokr1689/Bar_0_185"/>
+        <div type="Language" lang="Latvian">sirds prāta atgriezies.</div>
+      <div n="9." type="Verse" id="Apokr1689/Bar_2:9.">
+       <lb id="Apokr1689/Bar_0_186"/>
+        <div type="Language" lang="Latvian">tapēc ir tas kungs</div>
+       <lb id="Apokr1689/Bar_0_187"/>
+        <div type="Language" lang="Latvian">modrigs bijis ar šo ļaunumu/</div>
+       <lb id="Apokr1689/Bar_0_188"/>
+        <div type="Language" lang="Latvian">ko tas kungs pār mums</div>
+       <lb id="Apokr1689/Bar_0_189"/>
+        <div type="Language" lang="Latvian">ir vedis: jo tas kungs ir</div>
+       <lb id="Apokr1689/Bar_0_190"/>
+        <div type="Language" lang="Latvian">taisns iekš visiem saviem</div>
+       <lb id="Apokr1689/Bar_0_191"/>
+        <div type="Language" lang="Latvian">darbiem/ ko viņš mums pavēlejs.</div>
+      <div n="10." type="Verse" id="Apokr1689/Bar_2:10.">
+       <lb id="Apokr1689/Bar_0_192"/>
+        <div type="Language" lang="Latvian">bet mēs ne esam viņa</div>
+       <lb id="Apokr1689/Bar_0_193"/>
+        <div type="Language" lang="Latvian">balsi klausijši/ ka mēs</div>
+       <lb id="Apokr1689/Bar_0_194"/>
+        <div type="Language" lang="Latvian">būtum viņa likumos staigajši/</div>
+       <lb id="Apokr1689/Bar_0_195"/>
+        <div type="Language" lang="Latvian">ko viņš mūsu priekšā</div>
+       <lb id="Apokr1689/Bar_0_196"/>
+        <div type="Language" lang="Latvian">devis ir.</div>
+      <div n="11." type="Verse" id="Apokr1689/Bar_2:11.">
+       <lb id="Apokr1689/Bar_0_197"/>
+        <div type="Language" lang="Latvian">nu tad/ ak kungs izraeļa</div>
+       <lb id="Apokr1689/Bar_0_198"/>
+        <div type="Language" lang="Latvian">dievs! kas tu tavus ļaudis</div>
+       <lb id="Apokr1689/Bar_0_199"/>
+        <div type="Language" lang="Latvian">no egiptes=zemes izvedis</div>
+       <lb id="Apokr1689/Bar_0_200"/>
+        <div type="Language" lang="Latvian">ar stipru roku/ ar zīmēm</div>
+       <lb id="Apokr1689/Bar_0_201"/>
+        <div type="Language" lang="Latvian">un ar brīnumiem/ un</div>
+       <lb id="Apokr1689/Bar_0_202"/>
+        <div type="Language" lang="Latvian">ar lielu spēku un augstu elkonu/</div>
+       <lb id="Apokr1689/Bar_0_203"/>
+        <div type="Language" lang="Latvian">un esi sev vienu vārdu</div>
+       <lb id="Apokr1689/Bar_0_204"/>
+        <div type="Language" lang="Latvian">darijies/ kā tas šodien ir.</div>
+       <lb id="Apokr1689/Bar_0_205"/>
+       <div type="Parallel">w:11. Dan: 9,1.</div>
+      <div n="12." type="Verse" id="Apokr1689/Bar_2:12.">
+       <lb id="Apokr1689/Bar_0_206"/>
+        <div type="Language" lang="Latvian">mēs esam grēkojuši/</div>
+       <lb id="Apokr1689/Bar_0_207"/>
+        <div type="Language" lang="Latvian">bezdievigi bijuši/ netaisni ak</div>
+       <lb id="Apokr1689/Bar_0_208"/>
+        <div type="Language" lang="Latvian">kungs un dievs! pret visām</div>
+       <lb id="Apokr1689/Bar_0_209"/>
+        <div type="Language" lang="Latvian">tavām tiesam darijši.</div>
+      <div n="13." type="Verse" id="Apokr1689/Bar_2:13.">
+       <lb id="Apokr1689/Bar_0_210"/>
+        <div type="Language" lang="Latvian">lai tava dusmiba no</div>
+       <lb id="Apokr1689/Bar_0_211"/>
+        <div type="Language" lang="Latvian">mums nopārvēršās/ jo mēs</div>
+       <lb id="Apokr1689/Bar_0_212"/>
+        <div type="Language" lang="Latvian">esam maģi palikuši starp</div>
+       <lb id="Apokr1689/Bar_0_213"/>
+        <div type="Language" lang="Latvian">tām tautām/ kur tu mūs</div>
+       <lb id="Apokr1689/Bar_0_214"/>
+        <div type="Language" lang="Latvian">esi izkaisijs.</div>
+      <div n="14." type="Verse" id="Apokr1689/Bar_2:14.">
+       <lb id="Apokr1689/Bar_0_215"/>
+        <div type="Language" lang="Latvian">paklausi ak kungs! mūsu</div>
+       <lb id="Apokr1689/Bar_0_216"/>
+        <div type="Language" lang="Latvian">lūgšanu un mūsu sirdigu</div>
+       <lb id="Apokr1689/Bar_0_217"/>
+        <div type="Language" lang="Latvian">piesaukšanu/ un izrauji</div>
+       <lb id="Apokr1689/Bar_0_218"/>
+        <div type="Language" lang="Latvian">mūs tevis pēc/ un dod mums</div>
+       <lb id="Apokr1689/Bar_0_219"/>
+        <div type="Language" lang="Latvian">žēlastibu priekš tiem/ kas</div>
+       <lb id="Apokr1689/Bar_0_220"/>
+        <div type="Language" lang="Latvian">mūs ir aizveduši.</div>
+      <div n="15." type="Verse" id="Apokr1689/Bar_2:15.">
+       <lb id="Apokr1689/Bar_0_221"/>
+        <div type="Language" lang="Latvian">ka visa zeme atzīst/</div>
+       <lb id="Apokr1689/Bar_0_222"/>
+        <div type="Language" lang="Latvian">ka tu ak kungs esi mūsu</div>
+       <lb id="Apokr1689/Bar_0_223"/>
+        <div type="Language" lang="Latvian">dievs/ jo izraels un viņa</div>
+       <lb id="Apokr1689/Bar_0_224"/>
+        <div type="Language" lang="Latvian">dzimums ir pēc tava</div>
+       <lb id="Apokr1689/Bar_0_225"/>
+        <div type="Language" lang="Latvian">vārda nosaukti.</div>
+      <div n="16." type="Verse" id="Apokr1689/Bar_2:16.">
+       <lb id="Apokr1689/Bar_0_226"/>
+        <div type="Language" lang="Latvian">skatajs kungs no tava</div>
+       <lb id="Apokr1689/Bar_0_227"/>
+        <div type="Language" lang="Latvian">svēta nama/ un lieci</div>
+       <lb id="Apokr1689/Bar_0_228"/>
+        <div type="Language" lang="Latvian">mūs vērā/ un atgriez ak</div>
+       <lb id="Apokr1689/Bar_0_229"/>
+        <div type="Language" lang="Latvian">kungs tavu ausi! un klausi.</div>
+       <lb id="Apokr1689/Bar_0_230"/>
+       <div type="Parallel">w:16. 5.Mohſ:Gr: 26,15. Dahw:Dſ: 113,5. Eſ: 64,15.</div>
+      <div n="17." type="Verse" id="Apokr1689/Bar_2:17.">
+       <lb id="Apokr1689/Bar_0_231"/>
+        <div type="Language" lang="Latvian">atver tavas acis/ un</div>
+       <lb id="Apokr1689/Bar_0_232"/>
+        <div type="Language" lang="Latvian">redz/ jo kas nomiruši un bedrē</div>
+       <lb id="Apokr1689/Bar_0_233"/>
+        <div type="Language" lang="Latvian">ir/ kuŗu gars no viņu</div>
+       <lb id="Apokr1689/Bar_0_234"/>
+        <div type="Language" lang="Latvian">miesām atņemts ir/ tie tam</div>
+       <lb id="Apokr1689/Bar_0_235"/>
+        <div type="Language" lang="Latvian">kungam ne parādīs godu</div>
+       <lb id="Apokr1689/Bar_0_236"/>
+        <div type="Language" lang="Latvian">neds tiesu.</div>
+      <div n="18." type="Verse" id="Apokr1689/Bar_2:18.">
+       <lb id="Apokr1689/Bar_0_237"/>
+        <div type="Language" lang="Latvian">bet viena dvēsele/</div>
+       <lb id="Apokr1689/Bar_0_238"/>
+        <div type="Language" lang="Latvian">kas ļoti apbēdinata ir/ kas</div>
+       <lb id="Apokr1689/Bar_0_239"/>
+        <div type="Language" lang="Latvian">nolocita un vāja staiga/ un</div>
+       <lb id="Apokr1689/Bar_0_240"/>
+        <div type="Language" lang="Latvian">ka acis pamirst/ tāda dvēsele/</div>
+       <lb id="Apokr1689/Bar_0_241"/>
+        <div type="Language" lang="Latvian">kas izsalkusi ir/ dod tev</div>
+       <lb id="Apokr1689/Bar_0_242"/>
+        <div type="Language" lang="Latvian">ak kungs godu un tiesu.</div>
+      <div n="19." type="Verse" id="Apokr1689/Bar_2:19.">
+       <lb id="Apokr1689/Bar_0_243"/>
+        <div type="Language" lang="Latvian">un nu/ ak kungs mūsu</div>
+       <lb id="Apokr1689/Bar_0_244"/>
+        <div type="Language" lang="Latvian">dievs! mēs nesam mūsas</div>
+       <lb id="Apokr1689/Bar_0_245"/>
+        <div type="Language" lang="Latvian">žēligas lūgšanas</div>
+       <lb id="Apokr1689/Bar_0_246"/>
+        <div type="Language" lang="Latvian">priekš tev/ ne mūsu tēvu</div>
+       <lb id="Apokr1689/Bar_0_247"/>
+        <div type="Language" lang="Latvian">jeb mūsu ķēniņu taisnibas</div>
+       <lb id="Apokr1689/Bar_0_248"/>
+        <div type="Language" lang="Latvian">dēļ.</div>
+      <div n="20." type="Verse" id="Apokr1689/Bar_2:20.">
+       <lb id="Apokr1689/Bar_0_249"/>
+        <div type="Language" lang="Latvian">jo tu esi tavu dusmibu</div>
+       <lb id="Apokr1689/Bar_0_250"/>
+        <div type="Language" lang="Latvian">un savu bārzibu mums</div>
+       <lb id="Apokr1689/Bar_0_251"/>
+        <div type="Language" lang="Latvian">licis uziet/ it ka tu runajs</div>
+       <lb id="Apokr1689/Bar_0_252"/>
+        <div type="Language" lang="Latvian">esi caur taviem kalpiem tiem</div>
+       <lb id="Apokr1689/Bar_0_253"/>
+        <div type="Language" lang="Latvian">praviešiem.</div>
+      <div n="21." type="Verse" id="Apokr1689/Bar_2:21.">
+       <lb id="Apokr1689/Bar_0_254"/>
+        <div type="Language" lang="Latvian">tā saka tas kungs:</div>
+       <lb id="Apokr1689/Bar_0_255"/>
+        <div type="Language" lang="Latvian">lokajt savu muguru/ un kalpojiet</div>
+       <lb id="Apokr1689/Bar_0_256"/>
+        <div type="Language" lang="Latvian">tam bābeles ķēniņam/</div>
+       <lb id="Apokr1689/Bar_0_257"/>
+        <div type="Language" lang="Latvian">un palieciet tai zemē/ ko es</div>
+       <lb id="Apokr1689/Bar_0_258"/>
+        <div type="Language" lang="Latvian">jūsu tēviem devis esmu.</div>
+      <div n="22." type="Verse" id="Apokr1689/Bar_2:22.">
+       <lb id="Apokr1689/Bar_0_259"/>
+        <div type="Language" lang="Latvian">bet ja jūs ta kunga</div>
+       <lb id="Apokr1689/Bar_0_260"/>
+        <div type="Language" lang="Latvian">balsi ne klausisiet/ un ne kalposiet</div>
+       <lb id="Apokr1689/Bar_0_261"/>
+        <div type="Language" lang="Latvian">tam bābeles ķēniņam/</div>
+       <lb id="Apokr1689/Bar_0_262"/>
+       <div type="Parallel">w:22. Jer: 38,2.</div>
+      <div n="23." type="Verse" id="Apokr1689/Bar_2:23.">
+       <lb id="Apokr1689/Bar_0_263"/>
+        <div type="Language" lang="Latvian">tad likšu es miteties</div>
+       <lb id="Apokr1689/Bar_0_264"/>
+        <div type="Language" lang="Latvian">iekš jūda pilssātiem un</div>
+       <lb id="Apokr1689/Bar_0_265"/>
+        <div type="Language" lang="Latvian">jeruzalemē to balsi tās priecibas</div>
+       <lb id="Apokr1689/Bar_0_266"/>
+        <div type="Language" lang="Latvian">un to balsi tās līgsmibas/</div>
+       <lb id="Apokr1689/Bar_0_267"/>
+        <div type="Language" lang="Latvian">to balsi ta brūdgana</div>
+       <lb id="Apokr1689/Bar_0_268"/>
+        <div type="Language" lang="Latvian">un to balsi tās brūtes/ un</div>
+       <lb id="Apokr1689/Bar_0_269"/>
+        <div type="Language" lang="Latvian">visa zeme paliks posta bez</div>
+       <lb id="Apokr1689/Bar_0_270"/>
+        <div type="Language" lang="Latvian">iedzīvotajiem.</div>
+      <div n="24." type="Verse" id="Apokr1689/Bar_2:24.">
+       <lb id="Apokr1689/Bar_0_271"/>
+        <div type="Language" lang="Latvian">kad nu mēs tavai balsi</div>
+       <lb id="Apokr1689/Bar_0_272"/>
+        <div type="Language" lang="Latvian">ne klausijam/ ka mēc būtum</div>
+       <lb id="Apokr1689/Bar_0_273"/>
+        <div type="Language" lang="Latvian">tam bābeles ķēniņam</div>
+       <lb id="Apokr1689/Bar_0_274"/>
+        <div type="Language" lang="Latvian">kalpojuši/ tad esi tu tavu</div>
+       <lb id="Apokr1689/Bar_0_275"/>
+        <div type="Language" lang="Latvian">vārdu turejs/ ko tu esi runajs</div>
+       <lb id="Apokr1689/Bar_0_276"/>
+        <div type="Language" lang="Latvian">caur taviem kalpiem tiem</div>
+       <lb id="Apokr1689/Bar_0_277"/>
+        <div type="Language" lang="Latvian">praviešiem/ ka mūsu ķēniņu</div>
+       <lb id="Apokr1689/Bar_0_278"/>
+        <div type="Language" lang="Latvian">kauli un mūsu tēvu</div>
+       <lb id="Apokr1689/Bar_0_279"/>
+        <div type="Language" lang="Latvian">kauli no savām vietām izmesti</div>
+       <lb id="Apokr1689/Bar_0_280"/>
+        <div type="Language" lang="Latvian">tapuši.</div>
+      <div n="25." type="Verse" id="Apokr1689/Bar_2:25.">
+       <lb id="Apokr1689/Bar_0_281"/>
+        <div type="Language" lang="Latvian">un raugi/ tie ir atmesti/</div>
+       <lb id="Apokr1689/Bar_0_282"/>
+        <div type="Language" lang="Latvian">dienā pie saules karstuma/</div>
+       <lb id="Apokr1689/Bar_0_283"/>
+        <div type="Language" lang="Latvian">un naktī aukstumā/ un ir</div>
+       <lb id="Apokr1689/Bar_0_284"/>
+        <div type="Language" lang="Latvian">nomiruši caur ļaunām sērgām/</div>
+       <lb id="Apokr1689/Bar_0_285"/>
+        <div type="Language" lang="Latvian">caur badu/ zobinu</div>
+       <lb id="Apokr1689/Bar_0_286"/>
+        <div type="Language" lang="Latvian">un cietumu.</div>
+      <div n="26." type="Verse" id="Apokr1689/Bar_2:26.">
+       <lb id="Apokr1689/Bar_0_287"/>
+        <div type="Language" lang="Latvian">un tu esi to namu nodevis/</div>
+       <lb id="Apokr1689/Bar_0_288"/>
+        <div type="Language" lang="Latvian">kas pēc tava vārda</div>
+       <lb id="Apokr1689/Bar_0_289"/>
+        <div type="Language" lang="Latvian">nosaukts ir/ it kā tas šodien</div>
+       <lb id="Apokr1689/Bar_0_290"/>
+        <div type="Language" lang="Latvian">ir/ tās blēdibas pēc ta izraeļa</div>
+       <lb id="Apokr1689/Bar_0_291"/>
+        <div type="Language" lang="Latvian">nama un ta nama</div>
+       <lb id="Apokr1689/Bar_0_292"/>
+        <div type="Language" lang="Latvian">jūda.</div>
+      <div n="27." type="Verse" id="Apokr1689/Bar_2:27.">
+       <lb id="Apokr1689/Bar_0_293"/>
+        <div type="Language" lang="Latvian">tu ari/ ak kungs mūsu</div>
+       <lb id="Apokr1689/Bar_0_294"/>
+        <div type="Language" lang="Latvian">dievs! esi ar mums darijs</div>
+       <lb id="Apokr1689/Bar_0_295"/>
+        <div type="Language" lang="Latvian">pēc visas tavas lēnibas/</div>
+       <lb id="Apokr1689/Bar_0_296"/>
+        <div type="Language" lang="Latvian">un pēc visas tavas lielas</div>
+       <lb id="Apokr1689/Bar_0_297"/>
+        <div type="Language" lang="Latvian">sirds=žēlastibas.</div>
+      <div n="28." type="Verse" id="Apokr1689/Bar_2:28.">
+       <lb id="Apokr1689/Bar_0_298"/>
+        <div type="Language" lang="Latvian">it kā tu biji caur tavu</div>
+       <lb id="Apokr1689/Bar_0_299"/>
+        <div type="Language" lang="Latvian">kalpu mozu runajs tai dienā/</div>
+       <lb id="Apokr1689/Bar_0_300"/>
+        <div type="Language" lang="Latvian">kad tu viņam pavēleji tavu</div>
+       <lb id="Apokr1689/Bar_0_301"/>
+        <div type="Language" lang="Latvian">bauslibu rakstīt priekš</div>
+       <lb id="Apokr1689/Bar_0_302"/>
+        <div type="Language" lang="Latvian">tiem izraeļa bērniem/ sacidams:</div>
+       <lb id="Apokr1689/Bar_0_303"/>
+       <div type="Parallel">w:28. 3.Mohſ:Gr: 26,14.</div>
+       <lb id="Apokr1689/Bar_0_304"/>
+       <div type="Parallel">5.Mohſ:Gr: 28,15,&amp;</div>
+      <div n="29." type="Verse" id="Apokr1689/Bar_2:29.">
+       <lb id="Apokr1689/Bar_0_305"/>
+        <div type="Language" lang="Latvian">kad jūs manai balsi</div>
+       <lb id="Apokr1689/Bar_0_306"/>
+        <div type="Language" lang="Latvian">ne klausisiet/ tad tiešam šis</div>
+       <lb id="Apokr1689/Bar_0_307"/>
+        <div type="Language" lang="Latvian">pilns un lielajs pulks maģumā</div>
+       <lb id="Apokr1689/Bar_0_308"/>
+        <div type="Language" lang="Latvian">ies starp tiem pagaņiem/</div>
+       <lb id="Apokr1689/Bar_0_309"/>
+        <div type="Language" lang="Latvian">kur es tos izkaisišu.</div>
+      <div n="30." type="Verse" id="Apokr1689/Bar_2:30.">
+       <lb id="Apokr1689/Bar_0_310"/>
+        <div type="Language" lang="Latvian">jo es zinu/ ka tie mani</div>
+       <lb id="Apokr1689/Bar_0_311"/>
+        <div type="Language" lang="Latvian">ne klausīs/ jo tie ir pārgalvigi</div>
+       <lb id="Apokr1689/Bar_0_312"/>
+        <div type="Language" lang="Latvian">ļaudis/ taču kad tie</div>
+       <lb id="Apokr1689/Bar_0_313"/>
+        <div type="Language" lang="Latvian">savā sirdī atgriezisies/ tai</div>
+       <lb id="Apokr1689/Bar_0_314"/>
+        <div type="Language" lang="Latvian">zemē/ kur tie aizvesti ir.</div>
+      <div n="31." type="Verse" id="Apokr1689/Bar_2:31.">
+       <lb id="Apokr1689/Bar_0_315"/>
+        <div type="Language" lang="Latvian">un atzīs/ ka es esmu</div>
+       <lb id="Apokr1689/Bar_0_316"/>
+        <div type="Language" lang="Latvian">tas kungs viņu dievs/ tad</div>
+       <lb id="Apokr1689/Bar_0_317"/>
+        <div type="Language" lang="Latvian">došu es tiem vienu paklausigu</div>
+       <lb id="Apokr1689/Bar_0_318"/>
+        <div type="Language" lang="Latvian">sirdi un ausi.</div>
+      <div n="32." type="Verse" id="Apokr1689/Bar_2:32.">
+       <lb id="Apokr1689/Bar_0_319"/>
+        <div type="Language" lang="Latvian">tad tie mani slavēs</div>
+       <lb id="Apokr1689/Bar_0_320"/>
+        <div type="Language" lang="Latvian">tai zemē/ kur tie aizvesti</div>
+       <lb id="Apokr1689/Bar_0_321"/>
+        <div type="Language" lang="Latvian">ir/ un pieminēs manu</div>
+       <lb id="Apokr1689/Bar_0_322"/>
+        <div type="Language" lang="Latvian">vārdu.</div>
+      <div n="33." type="Verse" id="Apokr1689/Bar_2:33.">
+       <lb id="Apokr1689/Bar_0_323"/>
+        <div type="Language" lang="Latvian">un tie atgriezisies no savas</div>
+       <lb id="Apokr1689/Bar_0_324"/>
+        <div type="Language" lang="Latvian">pārgalvibas un no saviem</div>
+       <lb id="Apokr1689/Bar_0_325"/>
+        <div type="Language" lang="Latvian">ļauniem darbiem/ tapēc</div>
+       <lb id="Apokr1689/Bar_0_326"/>
+        <div type="Language" lang="Latvian">ka tie atminesies sava</div>
+       <lb id="Apokr1689/Bar_0_327"/>
+        <div type="Language" lang="Latvian">tēvu ceļa/ kas pret to</div>
+       <lb id="Apokr1689/Bar_0_328"/>
+        <div type="Language" lang="Latvian">kungu grēkojši.</div>
+      <div n="34." type="Verse" id="Apokr1689/Bar_2:34.">
+       <lb id="Apokr1689/Bar_0_329"/>
+        <div type="Language" lang="Latvian">tad pārvadišu es</div>
+       <lb id="Apokr1689/Bar_0_330"/>
+        <div type="Language" lang="Latvian">tos atkaļ uz to zemi/ ko</div>
+       <lb id="Apokr1689/Bar_0_331"/>
+        <div type="Language" lang="Latvian">es viņu tēviem esmu zvērejs/</div>
+       <lb id="Apokr1689/Bar_0_332"/>
+        <div type="Language" lang="Latvian">ābraamam/ īzaakam</div>
+       <lb id="Apokr1689/Bar_0_333"/>
+        <div type="Language" lang="Latvian">un jēkabam/ ka tie pār to</div>
+       <lb id="Apokr1689/Bar_0_334"/>
+        <div type="Language" lang="Latvian">valdīs/ un es tos vairošu/</div>
+       <lb id="Apokr1689/Bar_0_335"/>
+        <div type="Language" lang="Latvian">ka tie ne kā maģumā ies.</div>
+      <div n="35." type="Verse" id="Apokr1689/Bar_2:35.">
+       <lb id="Apokr1689/Bar_0_336"/>
+        <div type="Language" lang="Latvian">un es turešu tiem to</div>
+       <lb id="Apokr1689/Bar_0_337"/>
+        <div type="Language" lang="Latvian">mūžigu deribu/ kas es tiem</div>
+       <lb id="Apokr1689/Bar_0_338"/>
+        <div type="Language" lang="Latvian">par dievu būšu/ un tie</div>
+       <lb id="Apokr1689/Bar_0_339"/>
+        <div type="Language" lang="Latvian">būs man par ļaudim. un es ne</div>
+       <lb id="Apokr1689/Bar_0_340"/>
+        <div type="Language" lang="Latvian">kustinašu vairs manus izraela</div>
+       <lb id="Apokr1689/Bar_0_341"/>
+        <div type="Language" lang="Latvian">ļaudis no tās zemes/ ko</div>
+       <lb id="Apokr1689/Bar_0_342"/>
+        <div type="Language" lang="Latvian">es tiem devis esmu.</div>
+      </div>
+       <lb id="Apokr1689/Bar_0_343"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta iii. nodaļa.</div></div>
+      <div n="1." type="Verse" id="Apokr1689/Bar_3:1.">
+       <lb id="Apokr1689/Bar_0_344"/>
+        <div type="Language" lang="Latvian">kungs visuvaldigajs izraeļa</div>
+       <lb id="Apokr1689/Bar_0_345"/>
+        <div type="Language" lang="Latvian">dievs/ šinīs</div>
+       <lb id="Apokr1689/Bar_0_346"/>
+        <div type="Language" lang="Latvian">bēdās mana dvēsele un</div>
+       <lb id="Apokr1689/Bar_0_347"/>
+        <div type="Language" lang="Latvian">mans bēdigs gars uz tevim</div>
+       <lb id="Apokr1689/Bar_0_348"/>
+        <div type="Language" lang="Latvian">brēc.</div>
+      <div n="2." type="Verse" id="Apokr1689/Bar_3:2.">
+       <lb id="Apokr1689/Bar_0_349"/>
+        <div type="Language" lang="Latvian">klausajs ak kungs! un</div>
+       <lb id="Apokr1689/Bar_0_350"/>
+        <div type="Language" lang="Latvian">apžēlojies/ jo mēs esam</div>
+       <lb id="Apokr1689/Bar_0_351"/>
+        <div type="Language" lang="Latvian">pret tev grēkojuši.</div>
+      <div n="3." type="Verse" id="Apokr1689/Bar_3:3.">
+       <lb id="Apokr1689/Bar_0_352"/>
+        <div type="Language" lang="Latvian">jo tu paliec mūžigi/</div>
+       <lb id="Apokr1689/Bar_0_353"/>
+        <div type="Language" lang="Latvian">bet mums boja ja=iet mūžigi.</div>
+      <div n="4." type="Verse" id="Apokr1689/Bar_3:4.">
+       <lb id="Apokr1689/Bar_0_354"/>
+        <div type="Language" lang="Latvian">kungs visuvaldigajs izraeļa</div>
+       <lb id="Apokr1689/Bar_0_355"/>
+        <div type="Language" lang="Latvian">dievs/ paklausi jele to</div>
+       <lb id="Apokr1689/Bar_0_356"/>
+        <div type="Language" lang="Latvian">lūgšanu to nomirušu</div>
+       <lb id="Apokr1689/Bar_0_357"/>
+        <div type="Language" lang="Latvian">iekš izraeļa / un to bērnu/</div>
+       <lb id="Apokr1689/Bar_0_358"/>
+        <div type="Language" lang="Latvian">kas pret tev ir grēkojuši/</div>
+       <lb id="Apokr1689/Bar_0_359"/>
+        <div type="Language" lang="Latvian">kas sava dieva balsi ne ir</div>
+       <lb id="Apokr1689/Bar_0_360"/>
+        <div type="Language" lang="Latvian">klausijši/ kadēļ mums tas</div>
+       <lb id="Apokr1689/Bar_0_361"/>
+        <div type="Language" lang="Latvian">ļaunums pielīp.</div>
+      <div n="5." type="Verse" id="Apokr1689/Bar_3:5.">
+       <lb id="Apokr1689/Bar_0_362"/>
+        <div type="Language" lang="Latvian">ne piemini mūsu tēvu</div>
+       <lb id="Apokr1689/Bar_0_363"/>
+        <div type="Language" lang="Latvian">noziegumus/ bet atminies</div>
+       <lb id="Apokr1689/Bar_0_364"/>
+        <div type="Language" lang="Latvian">tavas rokas un tava vārda</div>
+       <lb id="Apokr1689/Bar_0_365"/>
+        <div type="Language" lang="Latvian">šini laikā.</div>
+      <div n="6." type="Verse" id="Apokr1689/Bar_3:6.">
+       <lb id="Apokr1689/Bar_0_366"/>
+        <div type="Language" lang="Latvian">ka tu esi tas kungs mūsu</div>
+       <lb id="Apokr1689/Bar_0_367"/>
+        <div type="Language" lang="Latvian">dievs/ tad slavesim mēs</div>
+       <lb id="Apokr1689/Bar_0_368"/>
+        <div type="Language" lang="Latvian">tevi ak kungs!</div>
+      <div n="7." type="Verse" id="Apokr1689/Bar_3:7.">
+       <lb id="Apokr1689/Bar_0_369"/>
+        <div type="Language" lang="Latvian">jo tadēļ esi tu tavu</div>
+       <lb id="Apokr1689/Bar_0_370"/>
+        <div type="Language" lang="Latvian">bījašanu mūsu sirdī devis/</div>
+       <lb id="Apokr1689/Bar_0_371"/>
+        <div type="Language" lang="Latvian">ka tavs vārds topus</div>
+       <lb id="Apokr1689/Bar_0_372"/>
+        <div type="Language" lang="Latvian">piesaukts/ un mēs slavesim tevi</div>
+       <lb id="Apokr1689/Bar_0_373"/>
+        <div type="Language" lang="Latvian">tai vietā/ kurp mēs aizvesti</div>
+       <lb id="Apokr1689/Bar_0_374"/>
+        <div type="Language" lang="Latvian">esam/ jo mēs atminamies</div>
+       <lb id="Apokr1689/Bar_0_375"/>
+        <div type="Language" lang="Latvian">visas netaisnibas mūsu</div>
+       <lb id="Apokr1689/Bar_0_376"/>
+        <div type="Language" lang="Latvian">tēvu/ kas no ta kunga mūsu</div>
+       <lb id="Apokr1689/Bar_0_377"/>
+        <div type="Language" lang="Latvian">dieva bij atkāpušies.</div>
+      <div n="9." type="Verse" id="Apokr1689/Bar_3:9.">
+       <lb id="Apokr1689/Bar_0_378"/>
+        <div type="Language" lang="Latvian">klausajs izraels tos</div>
+       <lb id="Apokr1689/Bar_0_379"/>
+        <div type="Language" lang="Latvian">bauslus tās dzīvibas/ ņemiet</div>
+       <lb id="Apokr1689/Bar_0_380"/>
+        <div type="Language" lang="Latvian">to ausis/ ka jūs saprašanu</div>
+       <lb id="Apokr1689/Bar_0_381"/>
+        <div type="Language" lang="Latvian">atzīstat.</div>
+      <div n="10." type="Verse" id="Apokr1689/Bar_3:10.">
+       <lb id="Apokr1689/Bar_0_382"/>
+        <div type="Language" lang="Latvian">kas tas ir izraels? ka</div>
+       <lb id="Apokr1689/Bar_0_383"/>
+        <div type="Language" lang="Latvian">tev jamīt iekš ienaidnieku</div>
+       <lb id="Apokr1689/Bar_0_384"/>
+        <div type="Language" lang="Latvian">zemes? un japaliek vecs vienā</div>
+       <lb id="Apokr1689/Bar_0_385"/>
+        <div type="Language" lang="Latvian">svešā zemē? un līdz</div>
+       <lb id="Apokr1689/Bar_0_386"/>
+        <div type="Language" lang="Latvian">sagānijies starp tiem nomirušiem.</div>
+      <div n="11." type="Verse" id="Apokr1689/Bar_3:11.">
+       <lb id="Apokr1689/Bar_0_387"/>
+        <div type="Language" lang="Latvian">un topi starp tiem līdzināts</div>
+       <lb id="Apokr1689/Bar_0_388"/>
+        <div type="Language" lang="Latvian">kas ellē grimst?</div>
+      <div n="12." type="Verse" id="Apokr1689/Bar_3:12.">
+       <lb id="Apokr1689/Bar_0_389"/>
+        <div type="Language" lang="Latvian">tu esi to gudribas avotu</div>
+       <lb id="Apokr1689/Bar_0_390"/>
+        <div type="Language" lang="Latvian">pametis.</div>
+      <div n="13." type="Verse" id="Apokr1689/Bar_3:13.">
+       <lb id="Apokr1689/Bar_0_391"/>
+        <div type="Language" lang="Latvian">būtu tu uz dieva</div>
+       <lb id="Apokr1689/Bar_0_392"/>
+        <div type="Language" lang="Latvian">ceļu staigajs/ tu būtu labā</div>
+       <lb id="Apokr1689/Bar_0_393"/>
+        <div type="Language" lang="Latvian">mierā dzīvojs mūžam.</div>
+      <div n="14." type="Verse" id="Apokr1689/Bar_3:14.">
+       <lb id="Apokr1689/Bar_0_394"/>
+        <div type="Language" lang="Latvian">mācies kur gudriba</div>
+       <lb id="Apokr1689/Bar_0_395"/>
+        <div type="Language" lang="Latvian">ir/ kur ir spēks/ kur saprašana/</div>
+       <lb id="Apokr1689/Bar_0_396"/>
+        <div type="Language" lang="Latvian">ka tu sapratigs topi:</div>
+       <lb id="Apokr1689/Bar_0_397"/>
+        <div type="Language" lang="Latvian">kur ari ir ilga dzīvošana</div>
+       <lb id="Apokr1689/Bar_0_398"/>
+        <div type="Language" lang="Latvian">un dzīviba/ kur ir acu=gaišums</div>
+       <lb id="Apokr1689/Bar_0_399"/>
+        <div type="Language" lang="Latvian">un miers.</div>
+      <div n="15." type="Verse" id="Apokr1689/Bar_3:15.">
+       <lb id="Apokr1689/Bar_0_400"/>
+        <div type="Language" lang="Latvian">kas ir to vietu atradis/</div>
+       <lb id="Apokr1689/Bar_0_401"/>
+        <div type="Language" lang="Latvian">kur viņa ir? jeb kas ir</div>
+       <lb id="Apokr1689/Bar_0_402"/>
+        <div type="Language" lang="Latvian">iegājis pie viņas mantām.</div>
+      <div n="16." type="Verse" id="Apokr1689/Bar_3:16.">
+       <lb id="Apokr1689/Bar_0_403"/>
+        <div type="Language" lang="Latvian">kur ir tie pagaņu valdnieki/</div>
+       <lb id="Apokr1689/Bar_0_404"/>
+        <div type="Language" lang="Latvian">un tie valditaji pār</div>
+       <lb id="Apokr1689/Bar_0_405"/>
+        <div type="Language" lang="Latvian">tiem zvēriem/ kas virs zemes</div>
+       <lb id="Apokr1689/Bar_0_406"/>
+        <div type="Language" lang="Latvian">ir?</div>
+      <div n="17." type="Verse" id="Apokr1689/Bar_3:17.">
+       <lb id="Apokr1689/Bar_0_407"/>
+        <div type="Language" lang="Latvian">kas tos putnus apakš</div>
+       <lb id="Apokr1689/Bar_0_408"/>
+        <div type="Language" lang="Latvian">debesim medi/ un</div>
+       <lb id="Apokr1689/Bar_0_409"/>
+        <div type="Language" lang="Latvian">sudraba mantas sakrāj/ un</div>
+       <lb id="Apokr1689/Bar_0_410"/>
+        <div type="Language" lang="Latvian">zeltu/ uz ko tie cilveki paļaujās/</div>
+       <lb id="Apokr1689/Bar_0_411"/>
+        <div type="Language" lang="Latvian">un viņu krājumam</div>
+       <lb id="Apokr1689/Bar_0_412"/>
+        <div type="Language" lang="Latvian">gala nevaid.</div>
+       <lb id="Apokr1689/Bar_0_413"/>
+        <div type="Language" lang="Latvian"><corr>18</corr><sic>17</sic>. jo kas naudu kaļ un</div>
+       <lb id="Apokr1689/Bar_0_414"/>
+        <div type="Language" lang="Latvian">pēc tās dzenās/ kuŗu darbus</div>
+       <lb id="Apokr1689/Bar_0_415"/>
+        <div type="Language" lang="Latvian">visai ne var izvaicāt.</div>
+      <div n="19." type="Verse" id="Apokr1689/Bar_3:19.">
+       <lb id="Apokr1689/Bar_0_416"/>
+        <div type="Language" lang="Latvian">tie ir pazuduši un</div>
+       <lb id="Apokr1689/Bar_0_417"/>
+        <div type="Language" lang="Latvian">ellē grimuši/ un atkaļ citie</div>
+       <lb id="Apokr1689/Bar_0_418"/>
+        <div type="Language" lang="Latvian">viņu vietā cēlušies.</div>
+      <div n="20." type="Verse" id="Apokr1689/Bar_3:20.">
+       <lb id="Apokr1689/Bar_0_419"/>
+        <div type="Language" lang="Latvian">tie jaunakie gan redz</div>
+       <lb id="Apokr1689/Bar_0_420"/>
+        <div type="Language" lang="Latvian">to gaismu un dzīvo virs</div>
+       <lb id="Apokr1689/Bar_0_421"/>
+        <div type="Language" lang="Latvian">zemes/ bet to vietu tās</div>
+       <lb id="Apokr1689/Bar_0_422"/>
+        <div type="Language" lang="Latvian">saprašanas tie ne pazīst.</div>
+      <div n="21." type="Verse" id="Apokr1689/Bar_3:21.">
+       <lb id="Apokr1689/Bar_0_423"/>
+        <div type="Language" lang="Latvian">neds saprot viņas</div>
+       <lb id="Apokr1689/Bar_0_424"/>
+        <div type="Language" lang="Latvian">ceļus/ neds viņu uzjem:</div>
+       <lb id="Apokr1689/Bar_0_425"/>
+        <div type="Language" lang="Latvian">viņu bērni ir no viņas</div>
+       <lb id="Apokr1689/Bar_0_426"/>
+        <div type="Language" lang="Latvian">ceļu tāļu noklīduši</div>
+      <div n="22." type="Verse" id="Apokr1689/Bar_3:22.">
+       <lb id="Apokr1689/Bar_0_427"/>
+        <div type="Language" lang="Latvian">kanaana zemē ne</div>
+       <lb id="Apokr1689/Bar_0_428"/>
+        <div type="Language" lang="Latvian">top no tās nenieka dzirdēts/</div>
+       <lb id="Apokr1689/Bar_0_429"/>
+        <div type="Language" lang="Latvian">un tiemanā viņa ne ir parādijsies.</div>
+      <div n="23." type="Verse" id="Apokr1689/Bar_3:23.">
+       <lb id="Apokr1689/Bar_0_430"/>
+        <div type="Language" lang="Latvian">āgaras bērni aridzan</div>
+       <lb id="Apokr1689/Bar_0_431"/>
+        <div type="Language" lang="Latvian">to saprašanu gan mekle</div>
+       <lb id="Apokr1689/Bar_0_432"/>
+        <div type="Language" lang="Latvian">virs zemes/ tā pat tie</div>
+       <lb id="Apokr1689/Bar_0_433"/>
+        <div type="Language" lang="Latvian">precinieki no mieranas un</div>
+       <lb id="Apokr1689/Bar_0_434"/>
+        <div type="Language" lang="Latvian">tiemanas/ un gudrnieki un</div>
+       <lb id="Apokr1689/Bar_0_435"/>
+        <div type="Language" lang="Latvian">saprašanas=mekletaji/ taču</div>
+       <lb id="Apokr1689/Bar_0_436"/>
+        <div type="Language" lang="Latvian">tie tās gudribas ceļu ne</div>
+       <lb id="Apokr1689/Bar_0_437"/>
+        <div type="Language" lang="Latvian">ir atzinuši neds viņas celiņus</div>
+       <lb id="Apokr1689/Bar_0_438"/>
+        <div type="Language" lang="Latvian">atminejši.</div>
+      <div n="24." type="Verse" id="Apokr1689/Bar_3:24.">
+       <lb id="Apokr1689/Bar_0_439"/>
+        <div type="Language" lang="Latvian">ak izraels! cik liels ir</div>
+       <lb id="Apokr1689/Bar_0_440"/>
+        <div type="Language" lang="Latvian">tas dieva nams/ un kā</div>
+       <lb id="Apokr1689/Bar_0_441"/>
+        <div type="Language" lang="Latvian">plata ir ta vieta viņa mišanas?</div>
+      <div n="25." type="Verse" id="Apokr1689/Bar_3:25.">
+       <lb id="Apokr1689/Bar_0_442"/>
+        <div type="Language" lang="Latvian">liela/ ka tai gala</div>
+       <lb id="Apokr1689/Bar_0_443"/>
+        <div type="Language" lang="Latvian">nevaid/ augsta un ne=izmēŗojama.</div>
+      <div n="26." type="Verse" id="Apokr1689/Bar_3:26.">
+       <lb id="Apokr1689/Bar_0_444"/>
+        <div type="Language" lang="Latvian">tur citkārt bijuši</div>
+       <lb id="Apokr1689/Bar_0_445"/>
+        <div type="Language" lang="Latvian">milzeni/ apzinati ļaudis/ kas</div>
+       <lb id="Apokr1689/Bar_0_446"/>
+        <div type="Language" lang="Latvian">no iesākuma lieli bijuši un</div>
+       <lb id="Apokr1689/Bar_0_447"/>
+        <div type="Language" lang="Latvian">to kaŗu sapratuši.</div>
+      <div n="27." type="Verse" id="Apokr1689/Bar_3:27.">
+       <lb id="Apokr1689/Bar_0_448"/>
+        <div type="Language" lang="Latvian">bet šos dievs ne</div>
+       <lb id="Apokr1689/Bar_0_449"/>
+        <div type="Language" lang="Latvian">ir izvēlejs/ neds tiem to</div>
+       <lb id="Apokr1689/Bar_0_450"/>
+        <div type="Language" lang="Latvian">zinašanas=ceļu parādijs.</div>
+      <div n="28." type="Verse" id="Apokr1689/Bar_3:28.">
+       <lb id="Apokr1689/Bar_0_451"/>
+        <div type="Language" lang="Latvian">bet tie ir pazuduši/</div>
+       <lb id="Apokr1689/Bar_0_452"/>
+        <div type="Language" lang="Latvian">tapēc ka tiem ši saprašana</div>
+       <lb id="Apokr1689/Bar_0_453"/>
+        <div type="Language" lang="Latvian">bija/ tie ir pazuduši</div>
+       <lb id="Apokr1689/Bar_0_454"/>
+        <div type="Language" lang="Latvian">caur to/ ka tiem padoms</div>
+       <lb id="Apokr1689/Bar_0_455"/>
+        <div type="Language" lang="Latvian">pietrūke.</div>
+      <div n="29." type="Verse" id="Apokr1689/Bar_3:29.">
+       <lb id="Apokr1689/Bar_0_456"/>
+        <div type="Language" lang="Latvian">kas ir uzkāpis debesīs</div>
+       <lb id="Apokr1689/Bar_0_457"/>
+        <div type="Language" lang="Latvian">un viņu dabujs? jeb</div>
+       <lb id="Apokr1689/Bar_0_458"/>
+        <div type="Language" lang="Latvian">viņu iz tām padebesim izvedis.</div>
+      <div n="30." type="Verse" id="Apokr1689/Bar_3:30.">
+       <lb id="Apokr1689/Bar_0_459"/>
+        <div type="Language" lang="Latvian">kas ir pār jūŗu cēlies</div>
+       <lb id="Apokr1689/Bar_0_460"/>
+        <div type="Language" lang="Latvian">un viņu atradis? un atnesis</div>
+       <lb id="Apokr1689/Bar_0_461"/>
+        <div type="Language" lang="Latvian">viņu kā izvēletu zeltu.</div>
+      <div n="31." type="Verse" id="Apokr1689/Bar_3:31.">
+       <lb id="Apokr1689/Bar_0_462"/>
+        <div type="Language" lang="Latvian">neviens ir/ kas viņas</div>
+       <lb id="Apokr1689/Bar_0_463"/>
+        <div type="Language" lang="Latvian">ceļu zin/ jeb viņas celiņu</div>
+       <lb id="Apokr1689/Bar_0_464"/>
+        <div type="Language" lang="Latvian">vērā liek.</div>
+      <div n="32." type="Verse" id="Apokr1689/Bar_3:32.">
+       <lb id="Apokr1689/Bar_0_465"/>
+        <div type="Language" lang="Latvian">bet kas visas lietas</div>
+       <lb id="Apokr1689/Bar_0_466"/>
+        <div type="Language" lang="Latvian">zin/ tas viņu pazīst/ viņš</div>
+       <lb id="Apokr1689/Bar_0_467"/>
+        <div type="Language" lang="Latvian">ir to atradis ar savu gudribu/</div>
+       <lb id="Apokr1689/Bar_0_468"/>
+        <div type="Language" lang="Latvian">kas to zemi ir pataisijs</div>
+       <lb id="Apokr1689/Bar_0_469"/>
+        <div type="Language" lang="Latvian">uz nemitejamu laiku/ un viņu</div>
+       <lb id="Apokr1689/Bar_0_470"/>
+        <div type="Language" lang="Latvian">piepildijs ar četrkājigiem</div>
+       <lb id="Apokr1689/Bar_0_471"/>
+        <div type="Language" lang="Latvian">zvēriem.</div>
+      <div n="33." type="Verse" id="Apokr1689/Bar_3:33.">
+       <lb id="Apokr1689/Bar_0_472"/>
+        <div type="Language" lang="Latvian">viņš izsūta to gaismu/</div>
+       <lb id="Apokr1689/Bar_0_473"/>
+        <div type="Language" lang="Latvian">tad ta iet/ viņš aicina to</div>
+       <lb id="Apokr1689/Bar_0_474"/>
+        <div type="Language" lang="Latvian">atkaļ/ tad ta paklausa ar drebešanu.</div>
+      <div n="34." type="Verse" id="Apokr1689/Bar_3:34.">
+       <lb id="Apokr1689/Bar_0_475"/>
+        <div type="Language" lang="Latvian">ir tās pašas zvaigznes</div>
+       <lb id="Apokr1689/Bar_0_476"/>
+        <div type="Language" lang="Latvian">spīd savās vaktis/ un</div>
+       <lb id="Apokr1689/Bar_0_477"/>
+        <div type="Language" lang="Latvian">priecajās: viņš tās sauc/</div>
+       <lb id="Apokr1689/Bar_0_478"/>
+        <div type="Language" lang="Latvian">tad saka tās: teju mēs esam:</div>
+       <lb id="Apokr1689/Bar_0_479"/>
+        <div type="Language" lang="Latvian">tās spīd ar līgsmibu tam</div>
+       <lb id="Apokr1689/Bar_0_480"/>
+        <div type="Language" lang="Latvian">kas viņas ir darijs.</div>
+      <div n="35." type="Verse" id="Apokr1689/Bar_3:35.">
+       <lb id="Apokr1689/Bar_0_481"/>
+        <div type="Language" lang="Latvian">tas pats ir mūsu</div>
+       <lb id="Apokr1689/Bar_0_482"/>
+        <div type="Language" lang="Latvian">dievs/ neviens citajs ir ar</div>
+       <lb id="Apokr1689/Bar_0_483"/>
+        <div type="Language" lang="Latvian">viņu līdzinajams.</div>
+      <div n="36." type="Verse" id="Apokr1689/Bar_3:36.">
+       <lb id="Apokr1689/Bar_0_484"/>
+        <div type="Language" lang="Latvian">viņš ir visu zinašanas=ceļu</div>
+       <lb id="Apokr1689/Bar_0_485"/>
+        <div type="Language" lang="Latvian">atradis/ un to</div>
+       <lb id="Apokr1689/Bar_0_486"/>
+        <div type="Language" lang="Latvian">devis jēkabam savam kalpam/</div>
+       <lb id="Apokr1689/Bar_0_487"/>
+        <div type="Language" lang="Latvian">un izraeļam savam mīļam.</div>
+      <div n="37." type="Verse" id="Apokr1689/Bar_3:37.">
+       <lb id="Apokr1689/Bar_0_488"/>
+        <div type="Language" lang="Latvian">pēc to ir viņa uz</div>
+       <lb id="Apokr1689/Bar_0_489"/>
+        <div type="Language" lang="Latvian">zemes parādijsies/ un cilveku</div>
+       <lb id="Apokr1689/Bar_0_490"/>
+        <div type="Language" lang="Latvian">starpā mitusi.</div>
+      </div>
+       <lb id="Apokr1689/Bar_0_491"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta iv. nodaļa.</div></div>
+      <div n="1." type="Verse" id="Apokr1689/Bar_4:1.">
+       <lb id="Apokr1689/Bar_0_492"/>
+        <div type="Language" lang="Latvian">schi gudriba ir ta</div>
+       <lb id="Apokr1689/Bar_0_493"/>
+        <div type="Language" lang="Latvian">grāmata to dieva</div>
+       <lb id="Apokr1689/Bar_0_494"/>
+        <div type="Language" lang="Latvian">likumu/ un ta bausliba/</div>
+       <lb id="Apokr1689/Bar_0_495"/>
+        <div type="Language" lang="Latvian">kas mūžigi paliek:</div>
+       <lb id="Apokr1689/Bar_0_496"/>
+        <div type="Language" lang="Latvian">visi/ kas viņu tur/ tie dzīvos/</div>
+       <lb id="Apokr1689/Bar_0_497"/>
+        <div type="Language" lang="Latvian">bet kas viņu atstāj/ tie</div>
+       <lb id="Apokr1689/Bar_0_498"/>
+        <div type="Language" lang="Latvian">nomirs.</div>
+      <div n="2." type="Verse" id="Apokr1689/Bar_4:2.">
+       <lb id="Apokr1689/Bar_0_499"/>
+        <div type="Language" lang="Latvian">atgriezies jēkabs/ un</div>
+       <lb id="Apokr1689/Bar_0_500"/>
+        <div type="Language" lang="Latvian">saņem viņu/ dzenies pēc</div>
+       <lb id="Apokr1689/Bar_0_501"/>
+        <div type="Language" lang="Latvian">viņas gaismas spīdumu.</div>
+      <div n="3." type="Verse" id="Apokr1689/Bar_4:3.">
+       <lb id="Apokr1689/Bar_0_502"/>
+        <div type="Language" lang="Latvian">ne dod citam tavu</div>
+       <lb id="Apokr1689/Bar_0_503"/>
+        <div type="Language" lang="Latvian">godu/ neds svešai tautai</div>
+       <lb id="Apokr1689/Bar_0_504"/>
+        <div type="Language" lang="Latvian">tavu labumu.</div>
+      <div n="4." type="Verse" id="Apokr1689/Bar_4:4.">
+       <lb id="Apokr1689/Bar_0_505"/>
+        <div type="Language" lang="Latvian">svētigi esam mēs/ ak</div>
+       <lb id="Apokr1689/Bar_0_506"/>
+        <div type="Language" lang="Latvian">izraels/ ka tas mums zinams</div>
+       <lb id="Apokr1689/Bar_0_507"/>
+        <div type="Language" lang="Latvian">ir/ kas dievam patīk.</div>
+      <div n="5." type="Verse" id="Apokr1689/Bar_4:5.">
+       <lb id="Apokr1689/Bar_0_508"/>
+        <div type="Language" lang="Latvian">turieties labu prātu</div>
+       <lb id="Apokr1689/Bar_0_509"/>
+        <div type="Language" lang="Latvian">mani ļaudis/ izraeļa pieminešanu.</div>
+      <div n="6." type="Verse" id="Apokr1689/Bar_4:6.">
+       <lb id="Apokr1689/Bar_0_510"/>
+        <div type="Language" lang="Latvian">jūs esat tiem pagaņiem</div>
+       <lb id="Apokr1689/Bar_0_511"/>
+        <div type="Language" lang="Latvian">pārdoti/ bet ne uz pazušanu/</div>
+       <lb id="Apokr1689/Bar_0_512"/>
+        <div type="Language" lang="Latvian">bet tapēc ka jūs dievu</div>
+       <lb id="Apokr1689/Bar_0_513"/>
+        <div type="Language" lang="Latvian">esat apkaitinajši/ esat</div>
+       <lb id="Apokr1689/Bar_0_514"/>
+        <div type="Language" lang="Latvian">jūs tiem pretiniekiem nodoti.</div>
+      <div n="7." type="Verse" id="Apokr1689/Bar_4:7.">
+       <lb id="Apokr1689/Bar_0_515"/>
+        <div type="Language" lang="Latvian">jo jūs esat savu daritaju</div>
+       <lb id="Apokr1689/Bar_0_516"/>
+        <div type="Language" lang="Latvian">kaitinajši/ upuredami</div>
+       <lb id="Apokr1689/Bar_0_517"/>
+        <div type="Language" lang="Latvian">tiem veliem un ne dievam.</div>
+      <div n="8." type="Verse" id="Apokr1689/Bar_4:8.">
+       <lb id="Apokr1689/Bar_0_518"/>
+        <div type="Language" lang="Latvian">jūs esat aizmiršuši</div>
+       <lb id="Apokr1689/Bar_0_519"/>
+        <div type="Language" lang="Latvian">savu uzturetaju/ to mūžigu</div>
+       <lb id="Apokr1689/Bar_0_520"/>
+        <div type="Language" lang="Latvian">dievu/ un apbēdinajši</div>
+       <lb id="Apokr1689/Bar_0_521"/>
+        <div type="Language" lang="Latvian">jeruzalemi/ kas jūs ir audzinajsi.</div>
+      <div n="9." type="Verse" id="Apokr1689/Bar_4:9.">
+       <lb id="Apokr1689/Bar_0_522"/>
+        <div type="Language" lang="Latvian">jo ta redzeja to uzejamu</div>
+       <lb id="Apokr1689/Bar_0_523"/>
+        <div type="Language" lang="Latvian">dusmibu pār jums no dieva/</div>
+       <lb id="Apokr1689/Bar_0_524"/>
+        <div type="Language" lang="Latvian">un sacija: klausajt jūs iedzīvotaji</div>
+       <lb id="Apokr1689/Bar_0_525"/>
+        <div type="Language" lang="Latvian">no cianas/ dievs</div>
+       <lb id="Apokr1689/Bar_0_526"/>
+        <div type="Language" lang="Latvian">ir man licis lielas bēdas</div>
+       <lb id="Apokr1689/Bar_0_527"/>
+        <div type="Language" lang="Latvian">uziet.</div>
+      <div n="10." type="Verse" id="Apokr1689/Bar_4:10.">
+       <lb id="Apokr1689/Bar_0_528"/>
+        <div type="Language" lang="Latvian">jo es esmu redzejsi manu</div>
+       <lb id="Apokr1689/Bar_0_529"/>
+        <div type="Language" lang="Latvian">dēlu un meitu aizvešanu/</div>
+       <lb id="Apokr1689/Bar_0_530"/>
+        <div type="Language" lang="Latvian">ko tas mūžigajs pār</div>
+       <lb id="Apokr1689/Bar_0_531"/>
+        <div type="Language" lang="Latvian">tiem vedis.</div>
+      <div n="11." type="Verse" id="Apokr1689/Bar_4:11.">
+       <lb id="Apokr1689/Bar_0_532"/>
+        <div type="Language" lang="Latvian">es esmu tos ar prieku</div>
+       <lb id="Apokr1689/Bar_0_533"/>
+        <div type="Language" lang="Latvian">audzinajsi/ bet ar raudašanu</div>
+       <lb id="Apokr1689/Bar_0_534"/>
+        <div type="Language" lang="Latvian">un bēdašanu tos</div>
+       <lb id="Apokr1689/Bar_0_535"/>
+        <div type="Language" lang="Latvian">atlaidusi.</div>
+      <div n="12." type="Verse" id="Apokr1689/Bar_4:12.">
+       <lb id="Apokr1689/Bar_0_536"/>
+        <div type="Language" lang="Latvian">lai neviens pār manim</div>
+       <lb id="Apokr1689/Bar_0_537"/>
+        <div type="Language" lang="Latvian">priecājās/ jo es esmu</div>
+       <lb id="Apokr1689/Bar_0_538"/>
+        <div type="Language" lang="Latvian">viena atraitne no daudziem</div>
+       <lb id="Apokr1689/Bar_0_539"/>
+        <div type="Language" lang="Latvian">atstāta/ es esmu postita</div>
+       <lb id="Apokr1689/Bar_0_540"/>
+        <div type="Language" lang="Latvian">manu bērnu grēku dēļ/</div>
+       <lb id="Apokr1689/Bar_0_541"/>
+        <div type="Language" lang="Latvian">tapēc ka tie no tās dieva</div>
+       <lb id="Apokr1689/Bar_0_542"/>
+        <div type="Language" lang="Latvian">bauslibas atkāpušies.</div>
+      <div n="13." type="Verse" id="Apokr1689/Bar_4:13.">
+       <lb id="Apokr1689/Bar_0_543"/>
+        <div type="Language" lang="Latvian">un tie ne ir viņa tiesas</div>
+       <lb id="Apokr1689/Bar_0_544"/>
+        <div type="Language" lang="Latvian">atzinuši/ neds uz to</div>
+       <lb id="Apokr1689/Bar_0_545"/>
+        <div type="Language" lang="Latvian">dieva bauslu ceļiem staigajši/</div>
+       <lb id="Apokr1689/Bar_0_546"/>
+        <div type="Language" lang="Latvian">neds uz tās pamācišanas</div>
+       <lb id="Apokr1689/Bar_0_547"/>
+        <div type="Language" lang="Latvian">celiņiem iekš viņa</div>
+       <lb id="Apokr1689/Bar_0_548"/>
+        <div type="Language" lang="Latvian">taisnibas gājuši.</div>
+      <div n="14." type="Verse" id="Apokr1689/Bar_4:14.">
+       <lb id="Apokr1689/Bar_0_549"/>
+        <div type="Language" lang="Latvian">lai nāk tie cianas kaimiņi/</div>
+       <lb id="Apokr1689/Bar_0_550"/>
+        <div type="Language" lang="Latvian">un atminieties manu</div>
+       <lb id="Apokr1689/Bar_0_551"/>
+        <div type="Language" lang="Latvian">dēlu un meitu aizvešanas/</div>
+       <lb id="Apokr1689/Bar_0_552"/>
+        <div type="Language" lang="Latvian">ko tas mūžigajs tiem licis</div>
+       <lb id="Apokr1689/Bar_0_553"/>
+        <div type="Language" lang="Latvian">uziet.</div>
+      <div n="15." type="Verse" id="Apokr1689/Bar_4:15.">
+       <lb id="Apokr1689/Bar_0_554"/>
+        <div type="Language" lang="Latvian">jo viņš vede pār</div>
+       <lb id="Apokr1689/Bar_0_555"/>
+        <div type="Language" lang="Latvian">tiem vienu tautu no tāļenes/</div>
+       <lb id="Apokr1689/Bar_0_556"/>
+        <div type="Language" lang="Latvian">vienu bezkaunigu tautu/ kas</div>
+       <lb id="Apokr1689/Bar_0_557"/>
+        <div type="Language" lang="Latvian">svešu valodu runaja/ kas</div>
+       <lb id="Apokr1689/Bar_0_558"/>
+        <div type="Language" lang="Latvian">vecus ļaudis ne kaunejās</div>
+       <lb id="Apokr1689/Bar_0_559"/>
+        <div type="Language" lang="Latvian">neds pār jauniem apžēlojās.</div>
+      <div n="16." type="Verse" id="Apokr1689/Bar_4:16.">
+       <lb id="Apokr1689/Bar_0_560"/>
+        <div type="Language" lang="Latvian">tie ir noveduši tos</div>
+       <lb id="Apokr1689/Bar_0_561"/>
+        <div type="Language" lang="Latvian">mīļus bērnus tās atraitnes/</div>
+       <lb id="Apokr1689/Bar_0_562"/>
+        <div type="Language" lang="Latvian">un postija to vientuļu/</div>
+       <lb id="Apokr1689/Bar_0_563"/>
+        <div type="Language" lang="Latvian">ka tai meitas ne palike.</div>
+      <div n="17." type="Verse" id="Apokr1689/Bar_4:17.">
+       <lb id="Apokr1689/Bar_0_564"/>
+        <div type="Language" lang="Latvian">bet es/ ko varešu jums</div>
+       <lb id="Apokr1689/Bar_0_565"/>
+        <div type="Language" lang="Latvian">palīdzēt?</div>
+      <div n="18." type="Verse" id="Apokr1689/Bar_4:18.">
+       <lb id="Apokr1689/Bar_0_566"/>
+        <div type="Language" lang="Latvian">jo kas šo ļaunumu</div>
+       <lb id="Apokr1689/Bar_0_567"/>
+        <div type="Language" lang="Latvian">jums licis uziet/ tas izraus</div>
+       <lb id="Apokr1689/Bar_0_568"/>
+        <div type="Language" lang="Latvian">jūs no jūsu ienaidnieku rokas.</div>
+      <div n="19." type="Verse" id="Apokr1689/Bar_4:19.">
+       <lb id="Apokr1689/Bar_0_569"/>
+        <div type="Language" lang="Latvian">no=eita mani bērni/</div>
+       <lb id="Apokr1689/Bar_0_570"/>
+        <div type="Language" lang="Latvian">eita nost/ bet es topu postā</div>
+       <lb id="Apokr1689/Bar_0_571"/>
+        <div type="Language" lang="Latvian">atlicinata.</div>
+      <div n="20." type="Verse" id="Apokr1689/Bar_4:20.">
+       <lb id="Apokr1689/Bar_0_572"/>
+        <div type="Language" lang="Latvian">es esmu tās miera=</div>
+       <lb id="Apokr1689/Bar_0_573"/>
+        <div type="Language" lang="Latvian">drēbes izvilkusi/ un to pielūgšanas</div>
+       <lb id="Apokr1689/Bar_0_574"/>
+        <div type="Language" lang="Latvian">maisu apvilkusi/</div>
+       <lb id="Apokr1689/Bar_0_575"/>
+        <div type="Language" lang="Latvian">es brēkšu uz to mūžigu</div>
+       <lb id="Apokr1689/Bar_0_576"/>
+        <div type="Language" lang="Latvian">savā laikā.</div>
+      <div n="21." type="Verse" id="Apokr1689/Bar_4:21.">
+       <lb id="Apokr1689/Bar_0_577"/>
+        <div type="Language" lang="Latvian">turieties labu prātu</div>
+       <lb id="Apokr1689/Bar_0_578"/>
+        <div type="Language" lang="Latvian">mani bērni/ piesauciet dievu/</div>
+       <lb id="Apokr1689/Bar_0_579"/>
+        <div type="Language" lang="Latvian">tad izraus viņš jūs no</div>
+       <lb id="Apokr1689/Bar_0_580"/>
+        <div type="Language" lang="Latvian">tās varas un ienaidnieku</div>
+       <lb id="Apokr1689/Bar_0_581"/>
+        <div type="Language" lang="Latvian">rokas.</div>
+      <div n="22." type="Verse" id="Apokr1689/Bar_4:22.">
+       <lb id="Apokr1689/Bar_0_582"/>
+        <div type="Language" lang="Latvian">jo es cereju no ta mūžiga</div>
+       <lb id="Apokr1689/Bar_0_583"/>
+        <div type="Language" lang="Latvian">dieva jūsu atpestišanu/</div>
+       <lb id="Apokr1689/Bar_0_584"/>
+        <div type="Language" lang="Latvian">un man nāk prieks no ta</div>
+       <lb id="Apokr1689/Bar_0_585"/>
+        <div type="Language" lang="Latvian">svēta/ tās žēlastibas</div>
+       <lb id="Apokr1689/Bar_0_586"/>
+        <div type="Language" lang="Latvian">pēc/ kas jums nāksies gan</div>
+       <lb id="Apokr1689/Bar_0_587"/>
+        <div type="Language" lang="Latvian">drīzi no mūsu mūžiga pestitaja.</div>
+      <div n="23." type="Verse" id="Apokr1689/Bar_4:23.">
+       <lb id="Apokr1689/Bar_0_588"/>
+        <div type="Language" lang="Latvian">jo es gan ar raudašanu</div>
+       <lb id="Apokr1689/Bar_0_589"/>
+        <div type="Language" lang="Latvian">un bēdašanu jūs esmu</div>
+       <lb id="Apokr1689/Bar_0_590"/>
+        <div type="Language" lang="Latvian">atlaidusi/ bet dievs man</div>
+       <lb id="Apokr1689/Bar_0_591"/>
+        <div type="Language" lang="Latvian">jūs atdos ar priecibu un ielīgsmošanu</div>
+       <lb id="Apokr1689/Bar_0_592"/>
+        <div type="Language" lang="Latvian">mūžam.</div>
+      <div n="24." type="Verse" id="Apokr1689/Bar_4:24.">
+       <lb id="Apokr1689/Bar_0_593"/>
+        <div type="Language" lang="Latvian">jo it kā cianas kaimiņi</div>
+       <lb id="Apokr1689/Bar_0_594"/>
+        <div type="Language" lang="Latvian">tagad jūsu aizvešanu</div>
+       <lb id="Apokr1689/Bar_0_595"/>
+        <div type="Language" lang="Latvian">redzejši/ tā redzēs tie gan</div>
+       <lb id="Apokr1689/Bar_0_596"/>
+        <div type="Language" lang="Latvian">drīzi jūsu atpestišanu no</div>
+       <lb id="Apokr1689/Bar_0_597"/>
+        <div type="Language" lang="Latvian">dieva/ kas jums nāks ar lielu</div>
+       <lb id="Apokr1689/Bar_0_598"/>
+        <div type="Language" lang="Latvian">godu un spožumu ta</div>
+       <lb id="Apokr1689/Bar_0_599"/>
+        <div type="Language" lang="Latvian">mūžiga.</div>
+      <div n="25." type="Verse" id="Apokr1689/Bar_4:25.">
+       <lb id="Apokr1689/Bar_0_600"/>
+        <div type="Language" lang="Latvian">ak bērni/ panesiet ar</div>
+       <lb id="Apokr1689/Bar_0_601"/>
+        <div type="Language" lang="Latvian">paciešanu to dusmibu/ kas</div>
+       <lb id="Apokr1689/Bar_0_602"/>
+        <div type="Language" lang="Latvian">no dieva pār jums nāk/ tas</div>
+       <lb id="Apokr1689/Bar_0_603"/>
+        <div type="Language" lang="Latvian">ienaidnieks ir tevi gan vajajs/</div>
+       <lb id="Apokr1689/Bar_0_604"/>
+        <div type="Language" lang="Latvian">bet tu redzesi viņa pazušanu</div>
+       <lb id="Apokr1689/Bar_0_605"/>
+        <div type="Language" lang="Latvian">gan drīz/ un staigasi</div>
+       <lb id="Apokr1689/Bar_0_606"/>
+        <div type="Language" lang="Latvian">pāri pār viņu kakliem.</div>
+      <div n="26." type="Verse" id="Apokr1689/Bar_4:26.">
+       <lb id="Apokr1689/Bar_0_607"/>
+        <div type="Language" lang="Latvian">maniem gardiem bērniem</div>
+       <lb id="Apokr1689/Bar_0_608"/>
+        <div type="Language" lang="Latvian">bij pa nejaukiem ceļiem</div>
+       <lb id="Apokr1689/Bar_0_609"/>
+        <div type="Language" lang="Latvian">ja=iet/ tie kļua aizvesti kā ganams</div>
+       <lb id="Apokr1689/Bar_0_610"/>
+        <div type="Language" lang="Latvian">pulks no ienaidniekiem</div>
+       <lb id="Apokr1689/Bar_0_611"/>
+        <div type="Language" lang="Latvian">sagrābts.</div>
+      <div n="27." type="Verse" id="Apokr1689/Bar_4:27.">
+       <lb id="Apokr1689/Bar_0_612"/>
+        <div type="Language" lang="Latvian">ņemieties drošu</div>
+       <lb id="Apokr1689/Bar_0_613"/>
+        <div type="Language" lang="Latvian">prātu/ mani bērni/ un pielūdziet</div>
+       <lb id="Apokr1689/Bar_0_614"/>
+        <div type="Language" lang="Latvian">dievu/ jo kas jums to</div>
+       <lb id="Apokr1689/Bar_0_615"/>
+        <div type="Language" lang="Latvian">licis uziet/ tas pats jūsu atkaļ</div>
+       <lb id="Apokr1689/Bar_0_616"/>
+        <div type="Language" lang="Latvian">atminesies.</div>
+      <div n="28." type="Verse" id="Apokr1689/Bar_4:28.">
+       <lb id="Apokr1689/Bar_0_617"/>
+        <div type="Language" lang="Latvian">jo it kā jums tas prāts</div>
+       <lb id="Apokr1689/Bar_0_618"/>
+        <div type="Language" lang="Latvian">bija no dieva nomaldities/ ta</div>
+       <lb id="Apokr1689/Bar_0_619"/>
+        <div type="Language" lang="Latvian">pat atgriezieties nu/ un meklejiet</div>
+       <lb id="Apokr1689/Bar_0_620"/>
+        <div type="Language" lang="Latvian">viņu desmitskārt vairak.</div>
+      <div n="29." type="Verse" id="Apokr1689/Bar_4:29.">
+       <lb id="Apokr1689/Bar_0_621"/>
+        <div type="Language" lang="Latvian">jo kas šo ļaunumu</div>
+       <lb id="Apokr1689/Bar_0_622"/>
+        <div type="Language" lang="Latvian">jums licis uziet/ tas liks</div>
+       <lb id="Apokr1689/Bar_0_623"/>
+        <div type="Language" lang="Latvian">jums aridzan to mūžigu</div>
+       <lb id="Apokr1689/Bar_0_624"/>
+        <div type="Language" lang="Latvian">prieku uziet ar jūsu atpestišanu.</div>
+      <div n="30." type="Verse" id="Apokr1689/Bar_4:30.">
+       <lb id="Apokr1689/Bar_0_625"/>
+        <div type="Language" lang="Latvian">jeruzaleme/ turies labu</div>
+       <lb id="Apokr1689/Bar_0_626"/>
+        <div type="Language" lang="Latvian">prātu/ viņš iepriecinās</div>
+       <lb id="Apokr1689/Bar_0_627"/>
+        <div type="Language" lang="Latvian">tevi/ un sauks tevi pie vārda.</div>
+      <div n="31." type="Verse" id="Apokr1689/Bar_4:31.">
+       <lb id="Apokr1689/Bar_0_628"/>
+        <div type="Language" lang="Latvian">nelaimigi tie būs/ kas</div>
+       <lb id="Apokr1689/Bar_0_629"/>
+        <div type="Language" lang="Latvian">tev ļaunu dara/ un kas priecajās</div>
+       <lb id="Apokr1689/Bar_0_630"/>
+        <div type="Language" lang="Latvian">pār tavu krišanu.</div>
+      <div n="32." type="Verse" id="Apokr1689/Bar_4:32.">
+       <lb id="Apokr1689/Bar_0_631"/>
+        <div type="Language" lang="Latvian">nelaimigi būs tie pilssāti/</div>
+       <lb id="Apokr1689/Bar_0_632"/>
+        <div type="Language" lang="Latvian">kam tavi bērni ir</div>
+       <lb id="Apokr1689/Bar_0_633"/>
+        <div type="Language" lang="Latvian">kalpojši/ nelaimigs būs/</div>
+       <lb id="Apokr1689/Bar_0_634"/>
+        <div type="Language" lang="Latvian">kas tavus bērnus saņēmis</div>
+      <div n="33." type="Verse" id="Apokr1689/Bar_4:33.">
+       <lb id="Apokr1689/Bar_0_635"/>
+        <div type="Language" lang="Latvian">jo it kā kas pār tavu</div>
+       <lb id="Apokr1689/Bar_0_636"/>
+        <div type="Language" lang="Latvian">krišanu ir priecajies/ un ielīgsmojies</div>
+       <lb id="Apokr1689/Bar_0_637"/>
+        <div type="Language" lang="Latvian">pār tavu bojā=</div>
+       <lb id="Apokr1689/Bar_0_638"/>
+        <div type="Language" lang="Latvian">iešanu/ tā pat bēdasies</div>
+       <lb id="Apokr1689/Bar_0_639"/>
+        <div type="Language" lang="Latvian">viņš pār savu pašu postišanu.</div>
+      <div n="34." type="Verse" id="Apokr1689/Bar_4:34.">
+       <lb id="Apokr1689/Bar_0_640"/>
+        <div type="Language" lang="Latvian">jo es atņemšu viņa</div>
+       <lb id="Apokr1689/Bar_0_641"/>
+        <div type="Language" lang="Latvian">prieku pār savu ļaužu</div>
+       <lb id="Apokr1689/Bar_0_642"/>
+        <div type="Language" lang="Latvian">vairumu/ un viņa lieliba</div>
+       <lb id="Apokr1689/Bar_0_643"/>
+        <div type="Language" lang="Latvian">būs par bēdašanu.</div>
+      <div n="35." type="Verse" id="Apokr1689/Bar_4:35.">
+       <lb id="Apokr1689/Bar_0_644"/>
+        <div type="Language" lang="Latvian">jo uguns pār viņu</div>
+       <lb id="Apokr1689/Bar_0_645"/>
+        <div type="Language" lang="Latvian">nāks no ta mūžiga daudz</div>
+       <lb id="Apokr1689/Bar_0_646"/>
+        <div type="Language" lang="Latvian">dienas/ un taps no veliem iedzīvots</div>
+       <lb id="Apokr1689/Bar_0_647"/>
+        <div type="Language" lang="Latvian">ilgu laiku.</div>
+      <div n="36." type="Verse" id="Apokr1689/Bar_4:36.">
+       <lb id="Apokr1689/Bar_0_648"/>
+        <div type="Language" lang="Latvian">jeruzaleme/ skaties</div>
+       <lb id="Apokr1689/Bar_0_649"/>
+        <div type="Language" lang="Latvian">pret rītiem/ un</div>
+       <lb id="Apokr1689/Bar_0_650"/>
+        <div type="Language" lang="Latvian">uzlūko to priecibu/</div>
+       <lb id="Apokr1689/Bar_0_651"/>
+        <div type="Language" lang="Latvian">kas tev no dieva nāk.</div>
+      <div n="37." type="Verse" id="Apokr1689/Bar_4:37.">
+       <lb id="Apokr1689/Bar_0_652"/>
+        <div type="Language" lang="Latvian">raugi/ tavi bērni</div>
+       <lb id="Apokr1689/Bar_0_653"/>
+        <div type="Language" lang="Latvian">nāk/ ko tu bij atlaidusi/ tie</div>
+       <lb id="Apokr1689/Bar_0_654"/>
+        <div type="Language" lang="Latvian">nāk sapulcinati no rīta puses</div>
+       <lb id="Apokr1689/Bar_0_655"/>
+        <div type="Language" lang="Latvian">līdz vakara pusei/ caur to</div>
+       <lb id="Apokr1689/Bar_0_656"/>
+        <div type="Language" lang="Latvian">vārdu ta svēta/ priecadamies</div>
+       <lb id="Apokr1689/Bar_0_657"/>
+        <div type="Language" lang="Latvian">pār to dieva godibu.</div>
+      </div>
+       <lb id="Apokr1689/Bar_0_658"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta v. nodaļa.</div></div>
+      <div n="1." type="Verse" id="Apokr1689/Bar_5:1.">
+       <lb id="Apokr1689/Bar_0_659"/>
+        <div type="Language" lang="Latvian">izvelc jeruzaleme tavas</div>
+       <lb id="Apokr1689/Bar_0_660"/>
+        <div type="Language" lang="Latvian">raudašanas un bēdu drēbes/</div>
+       <lb id="Apokr1689/Bar_0_661"/>
+        <div type="Language" lang="Latvian">un apvelc to godibas=</div>
+       <lb id="Apokr1689/Bar_0_662"/>
+        <div type="Language" lang="Latvian">glītumu no dieva mūžigi.</div>
+      <div n="2." type="Verse" id="Apokr1689/Bar_5:2.">
+       <lb id="Apokr1689/Bar_0_663"/>
+        <div type="Language" lang="Latvian">ģērbies ar tiem svārkiem</div>
+       <lb id="Apokr1689/Bar_0_664"/>
+        <div type="Language" lang="Latvian">tās dieva taisnibas/</div>
+       <lb id="Apokr1689/Bar_0_665"/>
+        <div type="Language" lang="Latvian">liec galvā to cepuri tās mūžigas</div>
+       <lb id="Apokr1689/Bar_0_666"/>
+        <div type="Language" lang="Latvian">godibas.</div>
+      <div n="3." type="Verse" id="Apokr1689/Bar_5:3.">
+       <lb id="Apokr1689/Bar_0_667"/>
+        <div type="Language" lang="Latvian">jo dievs parādīs tavu</div>
+       <lb id="Apokr1689/Bar_0_668"/>
+        <div type="Language" lang="Latvian">spožumu visiem/ kas</div>
+       <lb id="Apokr1689/Bar_0_669"/>
+        <div type="Language" lang="Latvian">apakš debesim iraida.</div>
+      <div n="4." type="Verse" id="Apokr1689/Bar_5:4.">
+       <lb id="Apokr1689/Bar_0_670"/>
+        <div type="Language" lang="Latvian">jo tu tapsi no dieva pie</div>
+       <lb id="Apokr1689/Bar_0_671"/>
+        <div type="Language" lang="Latvian">vārda saukta mūžigi/ miers</div>
+       <lb id="Apokr1689/Bar_0_672"/>
+        <div type="Language" lang="Latvian">tās taisnibas/ un godiba</div>
+       <lb id="Apokr1689/Bar_0_673"/>
+        <div type="Language" lang="Latvian">tās dieva=kalpošanas.</div>
+      <div n="5." type="Verse" id="Apokr1689/Bar_5:5.">
+       <lb id="Apokr1689/Bar_0_674"/>
+        <div type="Language" lang="Latvian">celies jeruzaleme/ un stājies</div>
+       <lb id="Apokr1689/Bar_0_675"/>
+        <div type="Language" lang="Latvian">augstā vietā/ un skaties</div>
+       <lb id="Apokr1689/Bar_0_676"/>
+        <div type="Language" lang="Latvian">apkārt pret rītiem/ un lūko</div>
+       <lb id="Apokr1689/Bar_0_677"/>
+        <div type="Language" lang="Latvian">tavus bērnus sapulcinatus</div>
+       <lb id="Apokr1689/Bar_0_678"/>
+        <div type="Language" lang="Latvian">no saules no=iešanas līdz</div>
+       <lb id="Apokr1689/Bar_0_679"/>
+        <div type="Language" lang="Latvian">rītapusei/ caur to vārdu</div>
+       <lb id="Apokr1689/Bar_0_680"/>
+        <div type="Language" lang="Latvian">ta svēta/ kas priecajās pār</div>
+       <lb id="Apokr1689/Bar_0_681"/>
+        <div type="Language" lang="Latvian">to/ ka dievs viņus pieminejs.</div>
+      <div n="6." type="Verse" id="Apokr1689/Bar_5:6.">
+       <lb id="Apokr1689/Bar_0_682"/>
+        <div type="Language" lang="Latvian">jo no tevis tie izgāje</div>
+       <lb id="Apokr1689/Bar_0_683"/>
+        <div type="Language" lang="Latvian">kājām no ienaidniekiem dzīti/</div>
+       <lb id="Apokr1689/Bar_0_684"/>
+        <div type="Language" lang="Latvian">bet dievs tos atkaļ pie</div>
+       <lb id="Apokr1689/Bar_0_685"/>
+        <div type="Language" lang="Latvian">tevis atved pa=augstinatus ar</div>
+       <lb id="Apokr1689/Bar_0_686"/>
+        <div type="Language" lang="Latvian">godibu/ it kā uz goda=krēslu</div>
+       <lb id="Apokr1689/Bar_0_687"/>
+        <div type="Language" lang="Latvian">kādas valstibas.</div>
+      <div n="7." type="Verse" id="Apokr1689/Bar_5:7.">
+       <lb id="Apokr1689/Bar_0_688"/>
+        <div type="Language" lang="Latvian">jo dievs ir apņēmies</div>
+       <lb id="Apokr1689/Bar_0_689"/>
+        <div type="Language" lang="Latvian">visus augstus kalnus pazemot/</div>
+       <lb id="Apokr1689/Bar_0_690"/>
+        <div type="Language" lang="Latvian">un visas tāļu gulošas</div>
+       <lb id="Apokr1689/Bar_0_691"/>
+        <div type="Language" lang="Latvian">malas un tās ielejas</div>
+       <lb id="Apokr1689/Bar_0_692"/>
+        <div type="Language" lang="Latvian">piepildīt/ un tai zemei līdzenas</div>
+       <lb id="Apokr1689/Bar_0_693"/>
+        <div type="Language" lang="Latvian">darīt/ ka izraels droši</div>
+       <lb id="Apokr1689/Bar_0_694"/>
+        <div type="Language" lang="Latvian">var atiet pie tās dieva</div>
+       <lb id="Apokr1689/Bar_0_695"/>
+        <div type="Language" lang="Latvian">godibas.</div>
+      <div n="8." type="Verse" id="Apokr1689/Bar_5:8.">
+       <lb id="Apokr1689/Bar_0_696"/>
+        <div type="Language" lang="Latvian">ir visi kalni un jauki</div>
+       <lb id="Apokr1689/Bar_0_697"/>
+        <div type="Language" lang="Latvian">smirdoši koki apēnos izraelu</div>
+       <lb id="Apokr1689/Bar_0_698"/>
+        <div type="Language" lang="Latvian">uz dieva pavēlešanu.</div>
+      <div n="9." type="Verse" id="Apokr1689/Bar_5:9.">
+       <lb id="Apokr1689/Bar_0_699"/>
+        <div type="Language" lang="Latvian">jo dievs atvedīs izraelu</div>
+       <lb id="Apokr1689/Bar_0_700"/>
+        <div type="Language" lang="Latvian">ar prieku caur to gaišumu</div>
+       <lb id="Apokr1689/Bar_0_701"/>
+        <div type="Language" lang="Latvian">savas godibas/ ar apžēlošanu</div>
+       <lb id="Apokr1689/Bar_0_702"/>
+        <div type="Language" lang="Latvian">un taisnibu/ kas no</div>
+       <lb id="Apokr1689/Bar_0_703"/>
+        <div type="Language" lang="Latvian">viņa būs.</div>
+      </div>
+       <lb id="Apokr1689/Bar_0_704"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta vi. nodaļa.</div></div>
+       <lb id="Apokr1689/Bar_0_705"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">jeremijus grāmata.</div></div>
+      <div n="0." type="Verse" id="Apokr1689/Bar_6:0.">
+       <lb id="Apokr1689/Bar_0_706"/>
+        <div type="Language" lang="Latvian">noraksts tās grāmatas/</div>
+       <lb id="Apokr1689/Bar_0_707"/>
+        <div type="Language" lang="Latvian">ko jeremijus</div>
+       <lb id="Apokr1689/Bar_0_708"/>
+        <div type="Language" lang="Latvian">sūtija uz tiem aizvedamiem</div>
+       <lb id="Apokr1689/Bar_0_709"/>
+        <div type="Language" lang="Latvian">uz bābeli no ta</div>
+       <lb id="Apokr1689/Bar_0_710"/>
+        <div type="Language" lang="Latvian">bābeles ķēniņa/ un izstāstija</div>
+       <lb id="Apokr1689/Bar_0_711"/>
+        <div type="Language" lang="Latvian">tiem/ kas viņam bij pavēlēts</div>
+       <lb id="Apokr1689/Bar_0_712"/>
+        <div type="Language" lang="Latvian">no ta kunga.</div>
+      <div n="1." type="Verse" id="Apokr1689/Bar_6:1.">
+       <lb id="Apokr1689/Bar_0_713"/>
+        <div type="Language" lang="Latvian">to grēku pēc/ ar ko</div>
+       <lb id="Apokr1689/Bar_0_714"/>
+        <div type="Language" lang="Latvian">jūs esat apgrēkojušies pret</div>
+       <lb id="Apokr1689/Bar_0_715"/>
+        <div type="Language" lang="Latvian">dievu/ tapsiet jūs cietumā</div>
+       <lb id="Apokr1689/Bar_0_716"/>
+        <div type="Language" lang="Latvian">aizvesti uz babiloniju/ no nebukadnecaŗa/</div>
+       <lb id="Apokr1689/Bar_0_717"/>
+        <div type="Language" lang="Latvian">ta bābeles ķēniņa.</div>
+      <div n="2." type="Verse" id="Apokr1689/Bar_6:2.">
+       <lb id="Apokr1689/Bar_0_718"/>
+        <div type="Language" lang="Latvian">kad jūs nu nāksiet uz</div>
+       <lb id="Apokr1689/Bar_0_719"/>
+        <div type="Language" lang="Latvian">babiloniju/ tad būsiet jūs</div>
+       <lb id="Apokr1689/Bar_0_720"/>
+        <div type="Language" lang="Latvian">tur daudz gadus un ilgu laiku/</div>
+       <lb id="Apokr1689/Bar_0_721"/>
+        <div type="Language" lang="Latvian">līdz septitam augumam:</div>
+       <lb id="Apokr1689/Bar_0_722"/>
+        <div type="Language" lang="Latvian">bet pēc gribu es jūs no turens</div>
+       <lb id="Apokr1689/Bar_0_723"/>
+        <div type="Language" lang="Latvian">izvest ar mieru.</div>
+      <div n="3." type="Verse" id="Apokr1689/Bar_6:3.">
+       <lb id="Apokr1689/Bar_0_724"/>
+        <div type="Language" lang="Latvian">tad nu jūs redzesiet</div>
+       <lb id="Apokr1689/Bar_0_725"/>
+        <div type="Language" lang="Latvian">iekš babilonijas dievekļus</div>
+       <lb id="Apokr1689/Bar_0_726"/>
+        <div type="Language" lang="Latvian">no sudraba/ zelta un koka</div>
+       <lb id="Apokr1689/Bar_0_727"/>
+        <div type="Language" lang="Latvian">uz kamiešiem nesam/ kas</div>
+       <lb id="Apokr1689/Bar_0_728"/>
+        <div type="Language" lang="Latvian">tos pagaņus izbiedina.</div>
+       <lb id="Apokr1689/Bar_0_729"/>
+       <div type="Parallel">w:3. Eſa: 46,7.</div>
+      <div n="4." type="Verse" id="Apokr1689/Bar_6:4.">
+       <lb id="Apokr1689/Bar_0_730"/>
+        <div type="Language" lang="Latvian">tapēc sargajties/ ka</div>
+       <lb id="Apokr1689/Bar_0_731"/>
+        <div type="Language" lang="Latvian">jūs ne kā tie pagaņiem</div>
+       <lb id="Apokr1689/Bar_0_732"/>
+        <div type="Language" lang="Latvian">līdzi turaties/ ka jūs priekš</div>
+       <lb id="Apokr1689/Bar_0_733"/>
+        <div type="Language" lang="Latvian">tiem būtut bījajušies</div>
+      <div n="5." type="Verse" id="Apokr1689/Bar_6:5.">
+       <lb id="Apokr1689/Bar_0_734"/>
+        <div type="Language" lang="Latvian">bet sakajt savā sirdi:</div>
+       <lb id="Apokr1689/Bar_0_735"/>
+        <div type="Language" lang="Latvian">tev/ ak kungs! pieder pielūgt.</div>
+      <div n="6." type="Verse" id="Apokr1689/Bar_6:6.">
+       <lb id="Apokr1689/Bar_0_736"/>
+        <div type="Language" lang="Latvian">jo mans eņģelis ir pie</div>
+       <lb id="Apokr1689/Bar_0_737"/>
+        <div type="Language" lang="Latvian">jums/ un tas pats atriebs jūsas</div>
+       <lb id="Apokr1689/Bar_0_738"/>
+        <div type="Language" lang="Latvian">dvēseles.</div>
+      <div n="7." type="Verse" id="Apokr1689/Bar_6:7.">
+       <lb id="Apokr1689/Bar_0_739"/>
+        <div type="Language" lang="Latvian">jo viņu mēle ir gludinata</div>
+       <lb id="Apokr1689/Bar_0_740"/>
+        <div type="Language" lang="Latvian">no ta kaleja/ un paši</div>
+       <lb id="Apokr1689/Bar_0_741"/>
+        <div type="Language" lang="Latvian">tie ir apzeltiti apsudraboti/</div>
+       <lb id="Apokr1689/Bar_0_742"/>
+        <div type="Language" lang="Latvian">bet tas ir viltiba ar tiem/</div>
+       <lb id="Apokr1689/Bar_0_743"/>
+        <div type="Language" lang="Latvian">un tie ne māk runāt.</div>
+      <div n="8." type="Verse" id="Apokr1689/Bar_6:8.">
+       <lb id="Apokr1689/Bar_0_744"/>
+        <div type="Language" lang="Latvian">tie ņem to zeltu it kā</div>
+       <lb id="Apokr1689/Bar_0_745"/>
+        <div type="Language" lang="Latvian">meitas/ kas skaistumu iemīl/</div>
+       <lb id="Apokr1689/Bar_0_746"/>
+        <div type="Language" lang="Latvian">un pataisa kroņus/ un</div>
+       <lb id="Apokr1689/Bar_0_747"/>
+        <div type="Language" lang="Latvian">liek tos uz savu dievu galvām.</div>
+      <div n="9." type="Verse" id="Apokr1689/Bar_6:9.">
+       <lb id="Apokr1689/Bar_0_748"/>
+        <div type="Language" lang="Latvian">dažkārt ari notiek/</div>
+       <lb id="Apokr1689/Bar_0_749"/>
+        <div type="Language" lang="Latvian">ka tie svētitaji no saviem</div>
+       <lb id="Apokr1689/Bar_0_750"/>
+        <div type="Language" lang="Latvian">dievekļiem to sudrabu un</div>
+       <lb id="Apokr1689/Bar_0_751"/>
+        <div type="Language" lang="Latvian">zeltu nozog/ un priekš sev</div>
+       <lb id="Apokr1689/Bar_0_752"/>
+        <div type="Language" lang="Latvian">pašiem to patur.</div>
+      <div n="10." type="Verse" id="Apokr1689/Bar_6:10.">
+       <lb id="Apokr1689/Bar_0_753"/>
+        <div type="Language" lang="Latvian">un apdāvana no ta ari</div>
+       <lb id="Apokr1689/Bar_0_754"/>
+        <div type="Language" lang="Latvian">tās maukas/ ko tie savā pajumtā</div>
+       <lb id="Apokr1689/Bar_0_755"/>
+        <div type="Language" lang="Latvian">tur/ un izgrezno kā cilvekus</div>
+       <lb id="Apokr1689/Bar_0_756"/>
+        <div type="Language" lang="Latvian">ar drēbēm tos sudraba</div>
+       <lb id="Apokr1689/Bar_0_757"/>
+        <div type="Language" lang="Latvian">elkus/ un zelta un koka</div>
+       <lb id="Apokr1689/Bar_0_758"/>
+        <div type="Language" lang="Latvian">dievekļus.</div>
+      <div n="11." type="Verse" id="Apokr1689/Bar_6:11.">
+       <lb id="Apokr1689/Bar_0_759"/>
+        <div type="Language" lang="Latvian">bet šie ne var glābties</div>
+       <lb id="Apokr1689/Bar_0_760"/>
+        <div type="Language" lang="Latvian">no rūsas un kodiem/</div>
+       <lb id="Apokr1689/Bar_0_761"/>
+        <div type="Language" lang="Latvian">jepšu tie ir ar purpuŗa drēbēm</div>
+       <lb id="Apokr1689/Bar_0_762"/>
+        <div type="Language" lang="Latvian">izģērbti.</div>
+      <div n="12." type="Verse" id="Apokr1689/Bar_6:12.">
+       <lb id="Apokr1689/Bar_0_763"/>
+        <div type="Language" lang="Latvian">no viņu vaigiem janoslauka</div>
+       <lb id="Apokr1689/Bar_0_764"/>
+        <div type="Language" lang="Latvian">tie pīšli iz ta nama/</div>
+       <lb id="Apokr1689/Bar_0_765"/>
+        <div type="Language" lang="Latvian">kas viņiem lielā pulkā</div>
+       <lb id="Apokr1689/Bar_0_766"/>
+        <div type="Language" lang="Latvian">pielīp.</div>
+      <div n="13." type="Verse" id="Apokr1689/Bar_6:13.">
+       <lb id="Apokr1689/Bar_0_767"/>
+        <div type="Language" lang="Latvian">tāds gan tur vienu</div>
+       <lb id="Apokr1689/Bar_0_768"/>
+        <div type="Language" lang="Latvian">scepteri rokā it kā kādas</div>
+       <lb id="Apokr1689/Bar_0_769"/>
+        <div type="Language" lang="Latvian">valstibas soģis/ un taču</div>
+       <lb id="Apokr1689/Bar_0_770"/>
+        <div type="Language" lang="Latvian">ne var nevienam/ kas pret</div>
+       <lb id="Apokr1689/Bar_0_771"/>
+        <div type="Language" lang="Latvian">viņu grēko/ skādas darīt.</div>
+      <div n="14." type="Verse" id="Apokr1689/Bar_6:14.">
+       <lb id="Apokr1689/Bar_0_772"/>
+        <div type="Language" lang="Latvian">viņš tur aridzan</div>
+       <lb id="Apokr1689/Bar_0_773"/>
+        <div type="Language" lang="Latvian">zobini un cirvi rokā/ un</div>
+       <lb id="Apokr1689/Bar_0_774"/>
+        <div type="Language" lang="Latvian">taču ne var pats no kaŗa</div>
+       <lb id="Apokr1689/Bar_0_775"/>
+        <div type="Language" lang="Latvian">un laupitajiem glābties.</div>
+      <div n="15." type="Verse" id="Apokr1689/Bar_6:15.">
+       <lb id="Apokr1689/Bar_0_776"/>
+        <div type="Language" lang="Latvian">caur to top tie zinami/</div>
+       <lb id="Apokr1689/Bar_0_777"/>
+        <div type="Language" lang="Latvian">ka tie dievi ne ir/ tadēļ ne</div>
+       <lb id="Apokr1689/Bar_0_778"/>
+        <div type="Language" lang="Latvian">bīstieties priekš viņiem.</div>
+      <div n="16." type="Verse" id="Apokr1689/Bar_6:16.">
+       <lb id="Apokr1689/Bar_0_779"/>
+        <div type="Language" lang="Latvian">jo it kā kāds sadauzīts</div>
+       <lb id="Apokr1689/Bar_0_780"/>
+        <div type="Language" lang="Latvian">draugs kāda cilveka</div>
+       <lb id="Apokr1689/Bar_0_781"/>
+        <div type="Language" lang="Latvian">vairs lieti ne der/ tādi paši</div>
+       <lb id="Apokr1689/Bar_0_782"/>
+        <div type="Language" lang="Latvian">ir viņu dievekļi/ kur tie iecelti</div>
+       <lb id="Apokr1689/Bar_0_783"/>
+        <div type="Language" lang="Latvian">ir savos namos/ tur ir</div>
+       <lb id="Apokr1689/Bar_0_784"/>
+        <div type="Language" lang="Latvian">viņu acis pilnas pīšlu/ no</div>
+       <lb id="Apokr1689/Bar_0_785"/>
+        <div type="Language" lang="Latvian">tām kājām to/ kas tur ie=</div>
+       <lb id="Apokr1689/Bar_0_786"/>
+        <div type="Language" lang="Latvian">iet.</div>
+       <lb id="Apokr1689/Bar_0_787"/>
+        <div type="Language" lang="Latvian"><corr>17</corr><sic>18</sic>. un it kā kārt kādu/ kas</div>
+       <lb id="Apokr1689/Bar_0_788"/>
+        <div type="Language" lang="Latvian">pret ķēniņu noziedzies/ tie pagalmi</div>
+       <lb id="Apokr1689/Bar_0_789"/>
+        <div type="Language" lang="Latvian">top sargati/ kā vajaga</div>
+       <lb id="Apokr1689/Bar_0_790"/>
+        <div type="Language" lang="Latvian">vienu pie nāves pazudinatu</div>
+       <lb id="Apokr1689/Bar_0_791"/>
+        <div type="Language" lang="Latvian">sargāt/ tā pat stiprina tie</div>
+       <lb id="Apokr1689/Bar_0_792"/>
+        <div type="Language" lang="Latvian">svētitaji viņu namus ar</div>
+       <lb id="Apokr1689/Bar_0_793"/>
+        <div type="Language" lang="Latvian">durvim/ atslēgām un kliņķiem/</div>
+       <lb id="Apokr1689/Bar_0_794"/>
+        <div type="Language" lang="Latvian">ka tie no laupitajiem ne</div>
+       <lb id="Apokr1689/Bar_0_795"/>
+        <div type="Language" lang="Latvian">top laupiti.</div>
+      <div n="18." type="Verse" id="Apokr1689/Bar_6:18.">
+       <lb id="Apokr1689/Bar_0_796"/>
+        <div type="Language" lang="Latvian">tie iededzina luktuŗus/</div>
+       <lb id="Apokr1689/Bar_0_797"/>
+        <div type="Language" lang="Latvian">un vairak ne kā priekš sev pašiem/</div>
+       <lb id="Apokr1689/Bar_0_798"/>
+        <div type="Language" lang="Latvian">no ka tie tomēr nevienu</div>
+       <lb id="Apokr1689/Bar_0_799"/>
+        <div type="Language" lang="Latvian">redzēt var.</div>
+      <div n="19." type="Verse" id="Apokr1689/Bar_6:19.">
+       <lb id="Apokr1689/Bar_0_800"/>
+        <div type="Language" lang="Latvian">tie ir kā kāds balķis</div>
+       <lb id="Apokr1689/Bar_0_801"/>
+        <div type="Language" lang="Latvian">namā/ un tie paši dod</div>
+       <lb id="Apokr1689/Bar_0_802"/>
+        <div type="Language" lang="Latvian">liecibu/ ka no zemes tārpiem</div>
+       <lb id="Apokr1689/Bar_0_803"/>
+        <div type="Language" lang="Latvian">viņu sirds top izēsta/</div>
+       <lb id="Apokr1689/Bar_0_804"/>
+        <div type="Language" lang="Latvian">un kad tie tos un viņu</div>
+       <lb id="Apokr1689/Bar_0_805"/>
+        <div type="Language" lang="Latvian">drēbes ēd/ tad tie tomēr to</div>
+       <lb id="Apokr1689/Bar_0_806"/>
+        <div type="Language" lang="Latvian">ne jūt.</div>
+      <div n="20." type="Verse" id="Apokr1689/Bar_6:20.">
+       <lb id="Apokr1689/Bar_0_807"/>
+        <div type="Language" lang="Latvian">viņu vaigi top melli</div>
+       <lb id="Apokr1689/Bar_0_808"/>
+        <div type="Language" lang="Latvian">no dūmiem/ kas namā ir.</div>
+      <div n="21." type="Verse" id="Apokr1689/Bar_6:21.">
+       <lb id="Apokr1689/Bar_0_809"/>
+        <div type="Language" lang="Latvian">un uz viņiem pašiem/</div>
+       <lb id="Apokr1689/Bar_0_810"/>
+        <div type="Language" lang="Latvian">un uz viņu galvu uztupās</div>
+       <lb id="Apokr1689/Bar_0_811"/>
+        <div type="Language" lang="Latvian">tās pūces/ bezdeligas</div>
+       <lb id="Apokr1689/Bar_0_812"/>
+        <div type="Language" lang="Latvian">un citi putniņi/ tā pat arizan</div>
+       <lb id="Apokr1689/Bar_0_813"/>
+        <div type="Language" lang="Latvian">tie kaķi.</div>
+      <div n="22." type="Verse" id="Apokr1689/Bar_6:22.">
+       <lb id="Apokr1689/Bar_0_814"/>
+        <div type="Language" lang="Latvian">no ta jūs varat atzīt/</div>
+       <lb id="Apokr1689/Bar_0_815"/>
+        <div type="Language" lang="Latvian">ka tie ne ir dievi/ tapēc</div>
+       <lb id="Apokr1689/Bar_0_816"/>
+        <div type="Language" lang="Latvian">priekš tiem ne bīstieties.</div>
+      <div n="23." type="Verse" id="Apokr1689/Bar_6:23.">
+       <lb id="Apokr1689/Bar_0_817"/>
+        <div type="Language" lang="Latvian">tas zelts/ kas tiem par</div>
+       <lb id="Apokr1689/Bar_0_818"/>
+        <div type="Language" lang="Latvian">skaistumu ir aplikts/ ne spīd/</div>
+       <lb id="Apokr1689/Bar_0_819"/>
+        <div type="Language" lang="Latvian">ja cits to rūsu ne noslauka/ tie</div>
+       <lb id="Apokr1689/Bar_0_820"/>
+        <div type="Language" lang="Latvian">ari ne jute/ kad tie lieti tape.</div>
+      <div n="24." type="Verse" id="Apokr1689/Bar_6:24.">
+       <lb id="Apokr1689/Bar_0_821"/>
+        <div type="Language" lang="Latvian">tie ir no visadām</div>
+       <lb id="Apokr1689/Bar_0_822"/>
+        <div type="Language" lang="Latvian">dārgām lietām sadomati/</div>
+       <lb id="Apokr1689/Bar_0_823"/>
+        <div type="Language" lang="Latvian">un tomēr iekš tiem ne ir</div>
+       <lb id="Apokr1689/Bar_0_824"/>
+        <div type="Language" lang="Latvian">dvašas.</div>
+      <div n="25." type="Verse" id="Apokr1689/Bar_6:25.">
+       <lb id="Apokr1689/Bar_0_825"/>
+        <div type="Language" lang="Latvian">tiem pietrūkst kājas/</div>
+       <lb id="Apokr1689/Bar_0_826"/>
+        <div type="Language" lang="Latvian">un ir uz kamiešiem janes.</div>
+       <lb id="Apokr1689/Bar_0_827"/>
+        <div type="Language" lang="Latvian">ar to parāda tie savu pašu</div>
+       <lb id="Apokr1689/Bar_0_828"/>
+        <div type="Language" lang="Latvian">kaunu tiem cilvekiem.</div>
+      <div n="26." type="Verse" id="Apokr1689/Bar_6:26.">
+       <lb id="Apokr1689/Bar_0_829"/>
+        <div type="Language" lang="Latvian">ir tie top kaunā/ kas</div>
+       <lb id="Apokr1689/Bar_0_830"/>
+        <div type="Language" lang="Latvian">viņiem kalpo/ aiz to kad tie</div>
+       <lb id="Apokr1689/Bar_0_831"/>
+        <div type="Language" lang="Latvian">dažkārt pie zemes krīt/</div>
+       <lb id="Apokr1689/Bar_0_832"/>
+        <div type="Language" lang="Latvian">tad tie ne var paši celties/</div>
+       <lb id="Apokr1689/Bar_0_833"/>
+        <div type="Language" lang="Latvian">kad ari tos kas pareizi uzcels/</div>
+       <lb id="Apokr1689/Bar_0_834"/>
+        <div type="Language" lang="Latvian">tad tie ne var paši kusteties/</div>
+       <lb id="Apokr1689/Bar_0_835"/>
+        <div type="Language" lang="Latvian">jeb kad tie top atslieti/ tad tie</div>
+       <lb id="Apokr1689/Bar_0_836"/>
+        <div type="Language" lang="Latvian">ne var taisni uzcelties/ taču</div>
+       <lb id="Apokr1689/Bar_0_837"/>
+        <div type="Language" lang="Latvian">tiem top upuŗi priekšlikti</div>
+       <lb id="Apokr1689/Bar_0_838"/>
+        <div type="Language" lang="Latvian">tā pat kā miŗoņiem.</div>
+      <div n="27." type="Verse" id="Apokr1689/Bar_6:27.">
+       <lb id="Apokr1689/Bar_0_839"/>
+        <div type="Language" lang="Latvian">bet viņu upuŗus</div>
+       <lb id="Apokr1689/Bar_0_840"/>
+        <div type="Language" lang="Latvian">pārdod tie svētitaji/ un</div>
+       <lb id="Apokr1689/Bar_0_841"/>
+        <div type="Language" lang="Latvian">ne valka tos pareizi/ tā pat</div>
+       <lb id="Apokr1689/Bar_0_842"/>
+        <div type="Language" lang="Latvian">aridzan tās sievas tos iesāli/</div>
+       <lb id="Apokr1689/Bar_0_843"/>
+        <div type="Language" lang="Latvian">un ne dod ne nabagam</div>
+       <lb id="Apokr1689/Bar_0_844"/>
+        <div type="Language" lang="Latvian">ne bezspēcigam no ta.</div>
+      <div n="28." type="Verse" id="Apokr1689/Bar_6:28.">
+       <lb id="Apokr1689/Bar_0_845"/>
+        <div type="Language" lang="Latvian">viņu upuŗus aptausta</div>
+       <lb id="Apokr1689/Bar_0_846"/>
+        <div type="Language" lang="Latvian">nešķīstas sievas/ un</div>
+       <lb id="Apokr1689/Bar_0_847"/>
+        <div type="Language" lang="Latvian">kas ne ir dzemdejšas/ tapēc</div>
+       <lb id="Apokr1689/Bar_0_848"/>
+        <div type="Language" lang="Latvian">atzīstiet pie tiem/ ka tie ne ir</div>
+       <lb id="Apokr1689/Bar_0_849"/>
+        <div type="Language" lang="Latvian">dievi/ un ne bīstieties</div>
+       <lb id="Apokr1689/Bar_0_850"/>
+        <div type="Language" lang="Latvian">priekš viņiem.</div>
+      <div n="29." type="Verse" id="Apokr1689/Bar_6:29.">
+       <lb id="Apokr1689/Bar_0_851"/>
+        <div type="Language" lang="Latvian">jo kā varetu tos par</div>
+       <lb id="Apokr1689/Bar_0_852"/>
+        <div type="Language" lang="Latvian">dieviem saukt? jo sievas</div>
+       <lb id="Apokr1689/Bar_0_853"/>
+        <div type="Language" lang="Latvian">apkopj tos sudraba un zelta</div>
+       <lb id="Apokr1689/Bar_0_854"/>
+        <div type="Language" lang="Latvian">un koka=dievekļus.</div>
+      <div n="30." type="Verse" id="Apokr1689/Bar_6:30.">
+       <lb id="Apokr1689/Bar_0_855"/>
+        <div type="Language" lang="Latvian">viņu baznicās sēž</div>
+       <lb id="Apokr1689/Bar_0_856"/>
+        <div type="Language" lang="Latvian">tie svētitaji ar saplositām</div>
+       <lb id="Apokr1689/Bar_0_857"/>
+        <div type="Language" lang="Latvian">drēbēm aptērpti/ un ir galvas</div>
+       <lb id="Apokr1689/Bar_0_858"/>
+        <div type="Language" lang="Latvian">un bārdas nodzinuši/</div>
+       <lb id="Apokr1689/Bar_0_859"/>
+        <div type="Language" lang="Latvian">un sēž ar atsegtām galvām.</div>
+      <div n="31." type="Verse" id="Apokr1689/Bar_6:31.">
+       <lb id="Apokr1689/Bar_0_860"/>
+        <div type="Language" lang="Latvian">tie ŗūc un brēc priekš</div>
+       <lb id="Apokr1689/Bar_0_861"/>
+        <div type="Language" lang="Latvian">saviem dieviem/ kā citi mēdz</div>
+       <lb id="Apokr1689/Bar_0_862"/>
+        <div type="Language" lang="Latvian">pie miŗoņu bedrēm darīt.</div>
+      <div n="32." type="Verse" id="Apokr1689/Bar_6:32.">
+       <lb id="Apokr1689/Bar_0_863"/>
+        <div type="Language" lang="Latvian">no tām drēbēm/ ko</div>
+       <lb id="Apokr1689/Bar_0_864"/>
+        <div type="Language" lang="Latvian">tie svētitaji no viņiem zog/</div>
+       <lb id="Apokr1689/Bar_0_865"/>
+        <div type="Language" lang="Latvian">apģērbj tie savas sievas un</div>
+       <lb id="Apokr1689/Bar_0_866"/>
+        <div type="Language" lang="Latvian">bērnus.</div>
+      <div n="33." type="Verse" id="Apokr1689/Bar_6:33.">
+       <lb id="Apokr1689/Bar_0_867"/>
+        <div type="Language" lang="Latvian">jepšu tiem ari no</div>
+       <lb id="Apokr1689/Bar_0_868"/>
+        <div type="Language" lang="Latvian">kāda ļaunums jacieš/ jeb</div>
+       <lb id="Apokr1689/Bar_0_869"/>
+        <div type="Language" lang="Latvian">kad kas laba dara/ tad tie ne</div>
+       <lb id="Apokr1689/Bar_0_870"/>
+        <div type="Language" lang="Latvian">var ne kā atriebt: tie ne māk</div>
+       <lb id="Apokr1689/Bar_0_871"/>
+        <div type="Language" lang="Latvian">ķēniņus iecelt neds izcelt.</div>
+      <div n="34." type="Verse" id="Apokr1689/Bar_6:34.">
+       <lb id="Apokr1689/Bar_0_872"/>
+        <div type="Language" lang="Latvian">tie ne māk jeb mantu</div>
+       <lb id="Apokr1689/Bar_0_873"/>
+        <div type="Language" lang="Latvian">jeb varu dot/ ja kas tiem ko</div>
+       <lb id="Apokr1689/Bar_0_874"/>
+        <div type="Language" lang="Latvian">sola un ne tur/ tad tie mūžam</div>
+       <lb id="Apokr1689/Bar_0_875"/>
+        <div type="Language" lang="Latvian">ne prasīs.</div>
+      <div n="35." type="Verse" id="Apokr1689/Bar_6:35.">
+       <lb id="Apokr1689/Bar_0_876"/>
+        <div type="Language" lang="Latvian">tie ne māk nevienu no</div>
+       <lb id="Apokr1689/Bar_0_877"/>
+        <div type="Language" lang="Latvian">nāves izraut/ neds to vājaku</div>
+       <lb id="Apokr1689/Bar_0_878"/>
+        <div type="Language" lang="Latvian">no ta stipraka izglābt.</div>
+      <div n="36." type="Verse" id="Apokr1689/Bar_6:36.">
+       <lb id="Apokr1689/Bar_0_879"/>
+        <div type="Language" lang="Latvian">aklu cilveku tie ne var</div>
+       <lb id="Apokr1689/Bar_0_880"/>
+        <div type="Language" lang="Latvian">redzigu darīt/ un kas likstās</div>
+       <lb id="Apokr1689/Bar_0_881"/>
+        <div type="Language" lang="Latvian">ir/ to tie ne māk izpestīt.</div>
+      <div n="37." type="Verse" id="Apokr1689/Bar_6:37.">
+       <lb id="Apokr1689/Bar_0_882"/>
+        <div type="Language" lang="Latvian">tie ne apžēlojās pār</div>
+       <lb id="Apokr1689/Bar_0_883"/>
+        <div type="Language" lang="Latvian">atraitnēm/ un ne dara tiem</div>
+       <lb id="Apokr1689/Bar_0_884"/>
+        <div type="Language" lang="Latvian">bāriņiem laba.</div>
+      <div n="38." type="Verse" id="Apokr1689/Bar_6:38.">
+       <lb id="Apokr1689/Bar_0_885"/>
+        <div type="Language" lang="Latvian">tie ir līdz tiem akmiņiem/</div>
+       <lb id="Apokr1689/Bar_0_886"/>
+        <div type="Language" lang="Latvian">kas no kalniem top izcirsti/</div>
+       <lb id="Apokr1689/Bar_0_887"/>
+        <div type="Language" lang="Latvian">tie ir no koka/ un apzeltiti</div>
+       <lb id="Apokr1689/Bar_0_888"/>
+        <div type="Language" lang="Latvian">un apsudraboti/ un kas</div>
+       <lb id="Apokr1689/Bar_0_889"/>
+        <div type="Language" lang="Latvian">tiem kalpo/ tie taps kaunā.</div>
+      <div n="39." type="Verse" id="Apokr1689/Bar_6:39.">
+       <lb id="Apokr1689/Bar_0_890"/>
+        <div type="Language" lang="Latvian">kā nu varetu domāt</div>
+       <lb id="Apokr1689/Bar_0_891"/>
+        <div type="Language" lang="Latvian">jeb sacīt tos dievus esam?</div>
+      <div n="40." type="Verse" id="Apokr1689/Bar_6:40.">
+       <lb id="Apokr1689/Bar_0_892"/>
+        <div type="Language" lang="Latvian">jo ir tie paši kaldeeri</div>
+       <lb id="Apokr1689/Bar_0_893"/>
+        <div type="Language" lang="Latvian">tos negodā liek. un kad tie</div>
+       <lb id="Apokr1689/Bar_0_894"/>
+        <div type="Language" lang="Latvian">redz kādu mēmu/ kas ne māk</div>
+       <lb id="Apokr1689/Bar_0_895"/>
+        <div type="Language" lang="Latvian">runāt/ ved tie viņu pie</div>
+       <lb id="Apokr1689/Bar_0_896"/>
+        <div type="Language" lang="Latvian">bela/</div>
+      <div n="41." type="Verse" id="Apokr1689/Bar_6:41.">
+       <lb id="Apokr1689/Bar_0_897"/>
+        <div type="Language" lang="Latvian">un lūdz ka tam būs</div>
+       <lb id="Apokr1689/Bar_0_898"/>
+        <div type="Language" lang="Latvian">saukt/ it kā tas tik spēcigs</div>
+       <lb id="Apokr1689/Bar_0_899"/>
+        <div type="Language" lang="Latvian">būtu to sajust/</div>
+      <div n="42." type="Verse" id="Apokr1689/Bar_6:42.">
+       <lb id="Apokr1689/Bar_0_900"/>
+        <div type="Language" lang="Latvian">un jepšu tie to gan</div>
+       <lb id="Apokr1689/Bar_0_901"/>
+        <div type="Language" lang="Latvian">samana/ taču tie ne var no</div>
+       <lb id="Apokr1689/Bar_0_902"/>
+        <div type="Language" lang="Latvian">tām lietām atstāties/ jo tiem</div>
+       <lb id="Apokr1689/Bar_0_903"/>
+        <div type="Language" lang="Latvian">ne ir nekādas jušanas.</div>
+      <div n="43." type="Verse" id="Apokr1689/Bar_6:43.">
+       <lb id="Apokr1689/Bar_0_904"/>
+        <div type="Language" lang="Latvian">bet tās sievas ar</div>
+       <lb id="Apokr1689/Bar_0_905"/>
+        <div type="Language" lang="Latvian">jostām apjozušies sēž</div>
+       <lb id="Apokr1689/Bar_0_906"/>
+        <div type="Language" lang="Latvian">ceļmalās/ un iededzina pelavas.</div>
+      <div n="44." type="Verse" id="Apokr1689/Bar_6:44.">
+       <lb id="Apokr1689/Bar_0_907"/>
+        <div type="Language" lang="Latvian">un kad kāda no tām</div>
+       <lb id="Apokr1689/Bar_0_908"/>
+        <div type="Language" lang="Latvian">top no kuŗa/ kas secen iet/ aizvesta</div>
+       <lb id="Apokr1689/Bar_0_909"/>
+        <div type="Language" lang="Latvian">un apsmieta/ tad viņa</div>
+       <lb id="Apokr1689/Bar_0_910"/>
+        <div type="Language" lang="Latvian">to citu vēl izsmej/ ka ta tik</div>
+       <lb id="Apokr1689/Bar_0_911"/>
+        <div type="Language" lang="Latvian">cieniga ne bijusi kā viņa/ ka</div>
+       <lb id="Apokr1689/Bar_0_912"/>
+        <div type="Language" lang="Latvian">tai ari sava josta būtu atraisita</div>
+       <lb id="Apokr1689/Bar_0_913"/>
+        <div type="Language" lang="Latvian">tapusi.</div>
+      <div n="45." type="Verse" id="Apokr1689/Bar_6:45.">
+       <lb id="Apokr1689/Bar_0_914"/>
+        <div type="Language" lang="Latvian">viss/ kas pie tiem notiek/</div>
+       <lb id="Apokr1689/Bar_0_915"/>
+        <div type="Language" lang="Latvian">ir viltiba/ kā varetu tad</div>
+       <lb id="Apokr1689/Bar_0_916"/>
+        <div type="Language" lang="Latvian">domāt jeb sacīt tos dievus</div>
+       <lb id="Apokr1689/Bar_0_917"/>
+        <div type="Language" lang="Latvian">esam.</div>
+      <div n="46." type="Verse" id="Apokr1689/Bar_6:46.">
+       <lb id="Apokr1689/Bar_0_918"/>
+        <div type="Language" lang="Latvian">no amatniekiem un</div>
+       <lb id="Apokr1689/Bar_0_919"/>
+        <div type="Language" lang="Latvian">sudrab=kalejiem ir tie dariti/</div>
+       <lb id="Apokr1689/Bar_0_920"/>
+        <div type="Language" lang="Latvian">un ne vareja citadi tapt</div>
+       <lb id="Apokr1689/Bar_0_921"/>
+        <div type="Language" lang="Latvian">ne kā tie meisteŗi gribeja/ kādiem</div>
+       <lb id="Apokr1689/Bar_0_922"/>
+        <div type="Language" lang="Latvian">tiem bij kļūt.</div>
+      <div n="47." type="Verse" id="Apokr1689/Bar_6:47.">
+       <lb id="Apokr1689/Bar_0_923"/>
+        <div type="Language" lang="Latvian">un tie paši viņu daritaji</div>
+       <lb id="Apokr1689/Bar_0_924"/>
+        <div type="Language" lang="Latvian">ilgi ne dzīvo/ kā varetu</div>
+       <lb id="Apokr1689/Bar_0_925"/>
+        <div type="Language" lang="Latvian">tad par dievu būt/ kas no</div>
+       <lb id="Apokr1689/Bar_0_926"/>
+        <div type="Language" lang="Latvian">viņiem top padarīts?</div>
+      <div n="48." type="Verse" id="Apokr1689/Bar_6:48.">
+       <lb id="Apokr1689/Bar_0_927"/>
+        <div type="Language" lang="Latvian">jo tie atlicina melus</div>
+       <lb id="Apokr1689/Bar_0_928"/>
+        <div type="Language" lang="Latvian">un kaunu tiem/ kas pie viņiem</div>
+       <lb id="Apokr1689/Bar_0_929"/>
+        <div type="Language" lang="Latvian">turās.</div>
+      <div n="49." type="Verse" id="Apokr1689/Bar_6:49.">
+       <lb id="Apokr1689/Bar_0_930"/>
+        <div type="Language" lang="Latvian">jo kad kaŗš un ļaunums</div>
+       <lb id="Apokr1689/Bar_0_931"/>
+        <div type="Language" lang="Latvian">pār tiem nāk/ tad ņem</div>
+       <lb id="Apokr1689/Bar_0_932"/>
+        <div type="Language" lang="Latvian">tie svētitaji padomu viņu</div>
+       <lb id="Apokr1689/Bar_0_933"/>
+        <div type="Language" lang="Latvian">pēc/ kur tie līdz ar viņiem</div>
+       <lb id="Apokr1689/Bar_0_934"/>
+        <div type="Language" lang="Latvian">var slēpties.</div>
+      <div n="50." type="Verse" id="Apokr1689/Bar_6:50.">
+       <lb id="Apokr1689/Bar_0_935"/>
+        <div type="Language" lang="Latvian">kā nu ne varetu gan</div>
+       <lb id="Apokr1689/Bar_0_936"/>
+        <div type="Language" lang="Latvian">sajust/ ka tie ne ir dievi/ ka</div>
+       <lb id="Apokr1689/Bar_0_937"/>
+        <div type="Language" lang="Latvian">tie paši ne var glābties/ ne</div>
+       <lb id="Apokr1689/Bar_0_938"/>
+        <div type="Language" lang="Latvian">no kaŗa neds no cita ļaunuma.</div>
+      <div n="51." type="Verse" id="Apokr1689/Bar_6:51.">
+       <lb id="Apokr1689/Bar_0_939"/>
+        <div type="Language" lang="Latvian">kas no koka ir un apseltiti</div>
+       <lb id="Apokr1689/Bar_0_940"/>
+        <div type="Language" lang="Latvian">un apsudraboti/ tie taps</div>
+       <lb id="Apokr1689/Bar_0_941"/>
+        <div type="Language" lang="Latvian">pēc atzīti/ ka viltiba ar tiem</div>
+       <lb id="Apokr1689/Bar_0_942"/>
+        <div type="Language" lang="Latvian">ir/ visām tautām un ķēniņiem</div>
+       <lb id="Apokr1689/Bar_0_943"/>
+        <div type="Language" lang="Latvian">būs zinams/ ka tie ne</div>
+       <lb id="Apokr1689/Bar_0_944"/>
+        <div type="Language" lang="Latvian">ir dievi/ bet cilveku roku</div>
+       <lb id="Apokr1689/Bar_0_945"/>
+        <div type="Language" lang="Latvian">darbi/ un ka nekāds dieva</div>
+       <lb id="Apokr1689/Bar_0_946"/>
+        <div type="Language" lang="Latvian">darbs pie tiem ir.</div>
+      <div n="52." type="Verse" id="Apokr1689/Bar_6:52.">
+       <lb id="Apokr1689/Bar_0_947"/>
+        <div type="Language" lang="Latvian">pie ka tad nu var nomanīt/</div>
+       <lb id="Apokr1689/Bar_0_948"/>
+        <div type="Language" lang="Latvian">ka tie ne ir dievi?</div>
+      <div n="53." type="Verse" id="Apokr1689/Bar_6:53.">
+       <lb id="Apokr1689/Bar_0_949"/>
+        <div type="Language" lang="Latvian">tie ne ieceļ nekādas</div>
+       <lb id="Apokr1689/Bar_0_950"/>
+        <div type="Language" lang="Latvian">valstibas ķēniņu/ tie ari</div>
+       <lb id="Apokr1689/Bar_0_951"/>
+        <div type="Language" lang="Latvian">lietu cilvekiem ne dod.</div>
+      <div n="54." type="Verse" id="Apokr1689/Bar_6:54.">
+       <lb id="Apokr1689/Bar_0_952"/>
+        <div type="Language" lang="Latvian">tie ari viņiem tiesu</div>
+       <lb id="Apokr1689/Bar_0_953"/>
+        <div type="Language" lang="Latvian">ne nes/ un tos no netaisnibas</div>
+       <lb id="Apokr1689/Bar_0_954"/>
+        <div type="Language" lang="Latvian">ne izglābj/ jo tie ir paši</div>
+       <lb id="Apokr1689/Bar_0_955"/>
+        <div type="Language" lang="Latvian">bezspēcigi/ un ir it kā</div>
+       <lb id="Apokr1689/Bar_0_956"/>
+        <div type="Language" lang="Latvian">vārnas starp debes un</div>
+       <lb id="Apokr1689/Bar_0_957"/>
+        <div type="Language" lang="Latvian">zemes.</div>
+      <div n="55." type="Verse" id="Apokr1689/Bar_6:55.">
+       <lb id="Apokr1689/Bar_0_958"/>
+        <div type="Language" lang="Latvian">kad aridzan uguns tai</div>
+       <lb id="Apokr1689/Bar_0_959"/>
+        <div type="Language" lang="Latvian">namā lecās/ kur tie apzeltiti</div>
+       <lb id="Apokr1689/Bar_0_960"/>
+        <div type="Language" lang="Latvian">jeb apsudraboti koka=</div>
+       <lb id="Apokr1689/Bar_0_961"/>
+        <div type="Language" lang="Latvian">dievi ir/ tad viņu svētitaji</div>
+       <lb id="Apokr1689/Bar_0_962"/>
+        <div type="Language" lang="Latvian">gan izbēg un glābjās/</div>
+       <lb id="Apokr1689/Bar_0_963"/>
+        <div type="Language" lang="Latvian">bet paši tie sadeg tā</div>
+       <lb id="Apokr1689/Bar_0_964"/>
+        <div type="Language" lang="Latvian">pat kā tie balķi.</div>
+      <div n="56." type="Verse" id="Apokr1689/Bar_6:56.">
+       <lb id="Apokr1689/Bar_0_965"/>
+        <div type="Language" lang="Latvian">bet ķēniņiem un ienaidniekiem</div>
+       <lb id="Apokr1689/Bar_0_966"/>
+        <div type="Language" lang="Latvian">tie preti ne turās/</div>
+       <lb id="Apokr1689/Bar_0_967"/>
+        <div type="Language" lang="Latvian">kā varetu tad domāt jeb</div>
+       <lb id="Apokr1689/Bar_0_968"/>
+        <div type="Language" lang="Latvian">prātā ņemt tos dievus esgam?</div>
+      <div n="57." type="Verse" id="Apokr1689/Bar_6:57.">
+       <lb id="Apokr1689/Bar_0_969"/>
+        <div type="Language" lang="Latvian">tie paši apzeltiti un</div>
+       <lb id="Apokr1689/Bar_0_970"/>
+        <div type="Language" lang="Latvian">apsudraboti koka=dievi ne</div>
+       <lb id="Apokr1689/Bar_0_971"/>
+        <div type="Language" lang="Latvian">var no zagļiem neds laupitajiem</div>
+       <lb id="Apokr1689/Bar_0_972"/>
+        <div type="Language" lang="Latvian">izglābties.</div>
+      <div n="58." type="Verse" id="Apokr1689/Bar_6:58.">
+       <lb id="Apokr1689/Bar_0_973"/>
+        <div type="Language" lang="Latvian">jo tie/ kas viņus</div>
+       <lb id="Apokr1689/Bar_0_974"/>
+        <div type="Language" lang="Latvian">pārspēj/ noplēš no tiem to</div>
+       <lb id="Apokr1689/Bar_0_975"/>
+        <div type="Language" lang="Latvian">zeltu un sudrabu un drēbes/</div>
+       <lb id="Apokr1689/Bar_0_976"/>
+        <div type="Language" lang="Latvian">ar ko tie izģērbti ir/ un</div>
+       <lb id="Apokr1689/Bar_0_977"/>
+        <div type="Language" lang="Latvian">to ņēmuši no=iet/ bet viņi</div>
+       <lb id="Apokr1689/Bar_0_978"/>
+        <div type="Language" lang="Latvian">ne var sev palīdzeties.</div>
+      <div n="59." type="Verse" id="Apokr1689/Bar_6:59.">
+       <lb id="Apokr1689/Bar_0_979"/>
+        <div type="Language" lang="Latvian">tapēc ir labaki par</div>
+       <lb id="Apokr1689/Bar_0_980"/>
+        <div type="Language" lang="Latvian">ķēniņu būt/ kas savu spēku</div>
+       <lb id="Apokr1689/Bar_0_981"/>
+        <div type="Language" lang="Latvian">var parādīt/ jeb kāds</div>
+       <lb id="Apokr1689/Bar_0_982"/>
+        <div type="Language" lang="Latvian">piederigs rīks/ kas tam lieti</div>
+       <lb id="Apokr1689/Bar_0_983"/>
+        <div type="Language" lang="Latvian">der/ kas to namā tur/ ne</div>
+       <lb id="Apokr1689/Bar_0_984"/>
+        <div type="Language" lang="Latvian">kā tāds nepatiess dieveklis;</div>
+       <lb id="Apokr1689/Bar_0_985"/>
+        <div type="Language" lang="Latvian">jeb ari par durvim pie kāda</div>
+       <lb id="Apokr1689/Bar_0_986"/>
+        <div type="Language" lang="Latvian">nama/ kas to glaba/ kas</div>
+       <lb id="Apokr1689/Bar_0_987"/>
+        <div type="Language" lang="Latvian">iekšā ir ne kā tāds nepatiess</div>
+       <lb id="Apokr1689/Bar_0_988"/>
+        <div type="Language" lang="Latvian">dieveklis/ jeb par koku stabu</div>
+       <lb id="Apokr1689/Bar_0_989"/>
+        <div type="Language" lang="Latvian">ķēniņa pilīs ne kā tāds</div>
+       <lb id="Apokr1689/Bar_0_990"/>
+        <div type="Language" lang="Latvian">viltigs dieveklis.</div>
+      <div n="60." type="Verse" id="Apokr1689/Bar_6:60.">
+       <lb id="Apokr1689/Bar_0_991"/>
+        <div type="Language" lang="Latvian">jo saule un mēnes</div>
+       <lb id="Apokr1689/Bar_0_992"/>
+        <div type="Language" lang="Latvian">un tās spožas zvaigznes/</div>
+       <lb id="Apokr1689/Bar_0_993"/>
+        <div type="Language" lang="Latvian">kad tās top sūtitas kur vajagā/</div>
+       <lb id="Apokr1689/Bar_0_994"/>
+        <div type="Language" lang="Latvian">tad tās paklausigas ir.</div>
+      <div n="61." type="Verse" id="Apokr1689/Bar_6:61.">
+       <lb id="Apokr1689/Bar_0_995"/>
+        <div type="Language" lang="Latvian">tā pat ari tas zibins/</div>
+       <lb id="Apokr1689/Bar_0_996"/>
+        <div type="Language" lang="Latvian">kad tas atspīd/ ir skaidrs/</div>
+       <lb id="Apokr1689/Bar_0_997"/>
+        <div type="Language" lang="Latvian">un ari pats vējš caur zemi</div>
+       <lb id="Apokr1689/Bar_0_998"/>
+        <div type="Language" lang="Latvian">pūš.</div>
+      <div n="62." type="Verse" id="Apokr1689/Bar_6:62.">
+       <lb id="Apokr1689/Bar_0_999"/>
+        <div type="Language" lang="Latvian">un kad tām padebesim</div>
+       <lb id="Apokr1689/Bar_0_1000"/>
+        <div type="Language" lang="Latvian">no dieva top pavēlēts/</div>
+       <lb id="Apokr1689/Bar_0_1001"/>
+        <div type="Language" lang="Latvian">ka tām kārt visu pasaules</div>
+       <lb id="Apokr1689/Bar_0_1002"/>
+        <div type="Language" lang="Latvian">virsu jaskrien/ tad tās padara/</div>
+       <lb id="Apokr1689/Bar_0_1003"/>
+        <div type="Language" lang="Latvian">kas pavēlēts ir.</div>
+      <div n="63." type="Verse" id="Apokr1689/Bar_6:63.">
+       <lb id="Apokr1689/Bar_0_1004"/>
+        <div type="Language" lang="Latvian">ir tas uguns no augženes</div>
+       <lb id="Apokr1689/Bar_0_1005"/>
+        <div type="Language" lang="Latvian">sūtīts kalnus un mežus</div>
+       <lb id="Apokr1689/Bar_0_1006"/>
+        <div type="Language" lang="Latvian">nopostīt/ dara <corr>kas</corr><sic>kas</sic> pavēlēts</div>
+       <lb id="Apokr1689/Bar_0_1007"/>
+        <div type="Language" lang="Latvian">ir.</div>
+      <div n="64." type="Verse" id="Apokr1689/Bar_6:64.">
+       <lb id="Apokr1689/Bar_0_1008"/>
+        <div type="Language" lang="Latvian">bet viņi (tie elka=</div>
+       <lb id="Apokr1689/Bar_0_1009"/>
+        <div type="Language" lang="Latvian">dievi) nele savā ģīmī neds</div>
+       <lb id="Apokr1689/Bar_0_1010"/>
+        <div type="Language" lang="Latvian">spēka tiem ir līdzinajami:</div>
+       <lb id="Apokr1689/Bar_0_1011"/>
+        <div type="Language" lang="Latvian">tapēc ne var domāt neds</div>
+       <lb id="Apokr1689/Bar_0_1012"/>
+        <div type="Language" lang="Latvian">sacīt tos dievus esam/ kas</div>
+       <lb id="Apokr1689/Bar_0_1013"/>
+        <div type="Language" lang="Latvian">tiem ne var tiesu nest neds</div>
+       <lb id="Apokr1689/Bar_0_1014"/>
+        <div type="Language" lang="Latvian">cilvekiem laba darīt.</div>
+      <div n="65." type="Verse" id="Apokr1689/Bar_6:65.">
+       <lb id="Apokr1689/Bar_0_1015"/>
+        <div type="Language" lang="Latvian">tadēļ jūs zinadami</div>
+       <lb id="Apokr1689/Bar_0_1016"/>
+        <div type="Language" lang="Latvian">tos dievus ne esam/ priekš</div>
+       <lb id="Apokr1689/Bar_0_1017"/>
+        <div type="Language" lang="Latvian">viņiem ne bīstieties.</div>
+      <div n="66." type="Verse" id="Apokr1689/Bar_6:66.">
+       <lb id="Apokr1689/Bar_0_1018"/>
+        <div type="Language" lang="Latvian">jo tie ne var tiem ķēniņiem</div>
+       <lb id="Apokr1689/Bar_0_1019"/>
+        <div type="Language" lang="Latvian">lādēt neds laba darīt.</div>
+      <div n="67." type="Verse" id="Apokr1689/Bar_6:67.">
+       <lb id="Apokr1689/Bar_0_1020"/>
+        <div type="Language" lang="Latvian">neds pagaņu starpā</div>
+       <lb id="Apokr1689/Bar_0_1021"/>
+        <div type="Language" lang="Latvian">brīnuma=zīmes debesīs</div>
+       <lb id="Apokr1689/Bar_0_1022"/>
+        <div type="Language" lang="Latvian">rādīt/ neds kā saule spīdēt/</div>
+       <lb id="Apokr1689/Bar_0_1023"/>
+        <div type="Language" lang="Latvian">neds kā mēnes spoži</div>
+       <lb id="Apokr1689/Bar_0_1024"/>
+        <div type="Language" lang="Latvian">būt.</div>
+      <div n="68." type="Verse" id="Apokr1689/Bar_6:68.">
+       <lb id="Apokr1689/Bar_0_1025"/>
+        <div type="Language" lang="Latvian">tie zvēri ir labaki</div>
+       <lb id="Apokr1689/Bar_0_1026"/>
+        <div type="Language" lang="Latvian">ne kā viņi/ kas alā bēgdami</div>
+       <lb id="Apokr1689/Bar_0_1027"/>
+        <div type="Language" lang="Latvian">sev pašiem var labu</div>
+       <lb id="Apokr1689/Bar_0_1028"/>
+        <div type="Language" lang="Latvian">darīt.</div>
+      <div n="69." type="Verse" id="Apokr1689/Bar_6:69.">
+       <lb id="Apokr1689/Bar_0_1029"/>
+        <div type="Language" lang="Latvian">tapēc ir redzams/ ka</div>
+       <lb id="Apokr1689/Bar_0_1030"/>
+        <div type="Language" lang="Latvian">tie ne kā par dieviem ir/ tadēļ</div>
+       <lb id="Apokr1689/Bar_0_1031"/>
+        <div type="Language" lang="Latvian">ne bīstieties priekš viņiem.</div>
+      <div n="70." type="Verse" id="Apokr1689/Bar_6:70.">
+       <lb id="Apokr1689/Bar_0_1032"/>
+        <div type="Language" lang="Latvian">jo it kā viens biedeklis</div>
+       <lb id="Apokr1689/Bar_0_1033"/>
+        <div type="Language" lang="Latvian">gurķu=dārzā ir/ kas ne ko</div>
+       <lb id="Apokr1689/Bar_0_1034"/>
+        <div type="Language" lang="Latvian">vērā ņem/ tā pat ir viņu</div>
+       <lb id="Apokr1689/Bar_0_1035"/>
+        <div type="Language" lang="Latvian">kokaiņi apzeltiti un apsudraboti</div>
+       <lb id="Apokr1689/Bar_0_1036"/>
+        <div type="Language" lang="Latvian">dievi.</div>
+      <div n="71." type="Verse" id="Apokr1689/Bar_6:71.">
+       <lb id="Apokr1689/Bar_0_1037"/>
+        <div type="Language" lang="Latvian">tā līdz aridzan kā</div>
+       <lb id="Apokr1689/Bar_0_1038"/>
+        <div type="Language" lang="Latvian">dārzā kāds ērkšķu=</div>
+       <lb id="Apokr1689/Bar_0_1039"/>
+        <div type="Language" lang="Latvian">krūms/ uz ko ikkatrs putnis</div>
+       <lb id="Apokr1689/Bar_0_1040"/>
+        <div type="Language" lang="Latvian">sēžās/ tā pat ir aridzan</div>
+       <lb id="Apokr1689/Bar_0_1041"/>
+        <div type="Language" lang="Latvian">viņu kokaiņi apzeltiti</div>
+       <lb id="Apokr1689/Bar_0_1042"/>
+        <div type="Language" lang="Latvian">un apsudraboti dievi līdz</div>
+       <lb id="Apokr1689/Bar_0_1043"/>
+        <div type="Language" lang="Latvian">vienam miŗoņam/ kas tumsibá</div>
+       <lb id="Apokr1689/Bar_0_1044"/>
+        <div type="Language" lang="Latvian">atmests.</div>
+      <div n="72." type="Verse" id="Apokr1689/Bar_6:72.">
+       <lb id="Apokr1689/Bar_0_1045"/>
+        <div type="Language" lang="Latvian">pie tām purpuŗu</div>
+       <lb id="Apokr1689/Bar_0_1046"/>
+        <div type="Language" lang="Latvian">drēbēm un spožuma/</div>
+       <lb id="Apokr1689/Bar_0_1047"/>
+        <div type="Language" lang="Latvian">ka tās pie tiem satrūd/ varat</div>
+       <lb id="Apokr1689/Bar_0_1048"/>
+        <div type="Language" lang="Latvian">jūs atzīt/ ka tie ne ir</div>
+       <lb id="Apokr1689/Bar_0_1049"/>
+        <div type="Language" lang="Latvian">dievi/ ir tie paši top pēcgalā</div>
+       <lb id="Apokr1689/Bar_0_1050"/>
+        <div type="Language" lang="Latvian">izēsti/ un top kaunā</div>
+       <lb id="Apokr1689/Bar_0_1051"/>
+        <div type="Language" lang="Latvian">savā valstī.</div>
+      <div n="73." type="Verse" id="Apokr1689/Bar_6:73.">
+       <lb id="Apokr1689/Bar_0_1052"/>
+        <div type="Language" lang="Latvian">tapēc labaks ir</div>
+       <lb id="Apokr1689/Bar_0_1053"/>
+        <div type="Language" lang="Latvian">viens taisns cilveks/ kas elka=dievus</div>
+       <lb id="Apokr1689/Bar_0_1054"/>
+        <div type="Language" lang="Latvian">ne tur/ jo viņš</div>
+       <lb id="Apokr1689/Bar_0_1055"/>
+        <div type="Language" lang="Latvian">būs tāļu no kauna.</div>
+       <lb id="Apokr1689/Bar_0_1056"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">bāruka grāmatas gals</div></div>
+      </div>
+    </body>
+   </text>
+  </TEI>

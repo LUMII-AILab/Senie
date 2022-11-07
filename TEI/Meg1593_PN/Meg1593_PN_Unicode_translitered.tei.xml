@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Meg1593_PN">
+     <sourceDesc>
+      <author>Hieronīms Megisers</author>
+      <title>[Megisera tēvreize]</title>
+      <date>1593</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Meg1593_PN_--_1"/>
+        <div type="Language" lang="Latvian">xxxiii.</div>
+       <div type="Language" lang="Latin">LIVONICE.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Meg1593_PN_--_2"/>
+        <div type="Language" lang="Latvian">mūs tēves, kas tu es iekšan</div>
+       <lb id="Meg1593_PN_--_3"/>
+        <div type="Language" lang="Latvian">debesis: švētīts</div>
+       <lb id="Meg1593_PN_--_4"/>
+        <div type="Language" lang="Latvian">tavs vārds: ienāk</div>
+       <lb id="Meg1593_PN_--_5"/>
+        <div type="Language" lang="Latvian">mums tavs valstībe:</div>
+       <lb id="Meg1593_PN_--_6"/>
+        <div type="Language" lang="Latvian">tavs prāts būs kā iekškan</div>
+       <lb id="Meg1593_PN_--_7"/>
+        <div type="Language" lang="Latvian">debes tā virsan</div>
+       <lb id="Meg1593_PN_--_8"/>
+        <div type="Language" lang="Latvian">zemes: mūse dieniske</div>
+       <lb id="Meg1593_PN_--_9"/>
+        <div type="Language" lang="Latvian">maize dot mums</div>
+       <lb id="Meg1593_PN_--_10"/>
+        <div type="Language" lang="Latvian">šodien: pamete mūs</div>
+       <lb id="Meg1593_PN_--_11"/>
+        <div type="Language" lang="Latvian">mūse grēke, kā mēs pamet</div>
+       <lb id="Meg1593_PN_--_12"/>
+        <div type="Language" lang="Latvian">mūse parādnieken:</div>
+       <lb id="Meg1593_PN_--_13"/>
+        <div type="Language" lang="Latvian">ne ievede mūs <corr>ļauna</corr><sic>jauna</sic></div>
+       <lb id="Meg1593_PN_--_14"/>
+        <div type="Language" lang="Latvian">badekle bet: pasarga</div>
+       <lb id="Meg1593_PN_--_15"/>
+        <div type="Language" lang="Latvian">mums no vise <corr>ļaune</corr><sic>jaune</sic>.</div>
+       <lb id="Meg1593_PN_--_16"/>
+        <div type="Language" lang="Latvian">āmen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

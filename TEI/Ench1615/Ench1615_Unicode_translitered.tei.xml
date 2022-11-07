@@ -1,0 +1,3295 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Ench1615">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>Enchiridion, 1615</title>
+      <date>1615</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; katehisms</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="0"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_0_1"/>
+       <div type="Language" lang="German">ENCHIRIDION</div>
+       <lb id="Ench1615_0_2"/>
+       <div type="Language" lang="German">Der kleine Cate-</div>
+       <lb id="Ench1615_0_3"/>
+       <div type="Language" lang="German">chiſmus: Oder Chriſtliche zucht</div>
+       <lb id="Ench1615_0_4"/>
+       <div type="Language" lang="German">für die gemeinen Pfarhern vnd Pre-</div>
+       <lb id="Ench1615_0_5"/>
+       <div type="Language" lang="German">diger auch Hausu_leer etc.</div>
+       <lb id="Ench1615_0_6"/>
+       <div type="Language" lang="German">Durch</div>
+       <lb id="Ench1615_0_7"/>
+       <div type="Language" lang="German">D.Martin. Luther.</div>
+       <lb id="Ench1615_0_8"/>
+       <div type="Language" lang="German">Nun aber aus dem Teudtſchen</div>
+       <lb id="Ench1615_0_9"/>
+       <div type="Language" lang="German">in die Lieffländiſche Pawrſprach ge-</div>
+       <lb id="Ench1615_0_10"/>
+       <div type="Language" lang="German">bracht / vnd von Wort zu Wort/ wie so von</div>
+       <lb id="Ench1615_0_11"/>
+       <div type="Language" lang="German">D. M.L. geſetzet/ gefaſſen werden.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_0_12"/>
+       <div type="Language" lang="German">Das Geſetz iſt durch Moſen gegeben/ die Gnade</div>
+       <lb id="Ench1615_0_13"/>
+       <div type="Language" lang="German">vnd warheit iſt durch Jeſum Chriſtum worden.</div>
+       <lb id="Ench1615_0_14"/>
+       <div type="Language" lang="German">Gedruckt zu Riga in Lieffland</div>
+       <lb id="Ench1615_0_15"/>
+       <div type="Language" lang="German">bey Nicolaus Mollin</div>
+       <lb id="Ench1615_0_16"/>
+       <div type="Language" lang="German">1615</div>
+      </div>
+      <pb n="AA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_AA_1"/>
+       <div type="Language" lang="German">Die fünff Heuptſtütk</div>
+       <lb id="Ench1615_AA_2"/>
+       <div type="Language" lang="German">des Heiligen Cathechiſ-</div>
+       <lb id="Ench1615_AA_3"/>
+       <div type="Language" lang="German">mi: Neben</div>
+       <lb id="Ench1615_AA_4"/>
+       <div type="Language" lang="German">Der Beicht/ Frage vnnd Antwort/ die</div>
+       <lb id="Ench1615_AA_5"/>
+       <div type="Language" lang="German">da ſonderlich den einfeltigen Bawren vor vnd nach</div>
+       <lb id="Ench1615_AA_6"/>
+       <div type="Language" lang="German">der predige ſollen fein deutlich vnd lang-</div>
+       <lb id="Ench1615_AA_7"/>
+       <div type="Language" lang="German">ſam vorgeleſen vnd gebetet werden.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_AA_8"/>
+        <div type="Language" lang="Latvian">i.</div>
+       <lb id="Ench1615_AA_9"/>
+       <div type="Language" lang="German">Die heiligen Zehen Gebot.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_AA_10"/>
+        <div type="Language" lang="Latvian">te desmete dieve <corr>bausle</corr><sic>bovsle</sic></div>
+       <div type="Language" lang="Latin">Exodi</div>
+        <div type="Language" lang="Latvian">tan 20.</div>
+       <lb id="Ench1615_AA_11"/>
+        <div type="Language" lang="Latvian">vietan.</div>
+       <lb id="Ench1615_AA_12"/>
+        <div type="Language" lang="Latvian">tas pirmais bauslis.</div>
+       <lb id="Ench1615_AA_13"/>
+        <div type="Language" lang="Latvian">es esme tas kungs tavs dievs / kas tev</div>
+       <lb id="Ench1615_AA_14"/>
+        <div type="Language" lang="Latvian">no ēgipter zeme  vedis esme / tev</div>
+       <lb id="Ench1615_AA_15"/>
+        <div type="Language" lang="Latvian">ne būs cities dieves turet priekškan</div>
+       <lb id="Ench1615_AA_16"/>
+        <div type="Language" lang="Latvian">man.</div>
+       <lb id="Ench1615_AA_17"/>
+        <div type="Language" lang="Latvian">tas oters.</div>
+       <lb id="Ench1615_AA_18"/>
+        <div type="Language" lang="Latvian">tev ne būs dieve tave kunge</div>
+       <lb id="Ench1615_AA_19"/>
+        <div type="Language" lang="Latvian">vārde ne patiese valkot.</div>
+       <lb id="Ench1615_AA_20"/>
+        <div type="Language" lang="Latvian">tas trešes.</div>
+       <lb id="Ench1615_AA_21"/>
+        <div type="Language" lang="Latvian">tev būs to svēte diene svētīt.</div>
+       <lb id="Ench1615_AA_22"/>
+        <div type="Language" lang="Latvian">tas cetorts.</div>
+       <lb id="Ench1615_AA_23"/>
+        <div type="Language" lang="Latvian">tev būs tav tēve unde tave</div>
+      </div>
+      <pb n="AB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_AB_1"/>
+        <div type="Language" lang="Latvian">māte cienīt / ka tev lab klājas / unde</div>
+       <lb id="Ench1615_AB_2"/>
+        <div type="Language" lang="Latvian">tu ilge dzīvo virson zemes.</div>
+       <lb id="Ench1615_AB_3"/>
+        <div type="Language" lang="Latvian">tas piekts.</div>
+       <lb id="Ench1615_AB_4"/>
+        <div type="Language" lang="Latvian">tev ne būs nokaut.</div>
+       <lb id="Ench1615_AB_5"/>
+        <div type="Language" lang="Latvian">tas sests.</div>
+       <lb id="Ench1615_AB_6"/>
+        <div type="Language" lang="Latvian">tev ne būs laulībe pār kāpt.</div>
+       <lb id="Ench1615_AB_7"/>
+        <div type="Language" lang="Latvian">tas septīts.</div>
+       <lb id="Ench1615_AB_8"/>
+        <div type="Language" lang="Latvian">tev ne būs zagt.</div>
+       <lb id="Ench1615_AB_9"/>
+        <div type="Language" lang="Latvian">tas astots.</div>
+       <lb id="Ench1615_AB_10"/>
+        <div type="Language" lang="Latvian">tev ne būs ne patiese liecībe dot /</div>
+       <lb id="Ench1615_AB_11"/>
+        <div type="Language" lang="Latvian">pretībe tave tuvāke.</div>
+       <lb id="Ench1615_AB_12"/>
+        <div type="Language" lang="Latvian">tas devīts.</div>
+       <lb id="Ench1615_AB_13"/>
+        <div type="Language" lang="Latvian">tev ne būs iekārot / tave tuvāke</div>
+       <lb id="Ench1615_AB_14"/>
+        <div type="Language" lang="Latvian">name.</div>
+       <lb id="Ench1615_AB_15"/>
+        <div type="Language" lang="Latvian">tas desmets.</div>
+       <lb id="Ench1615_AB_16"/>
+        <div type="Language" lang="Latvian">tev ne būs iekārot / tave tuvake</div>
+       <lb id="Ench1615_AB_17"/>
+        <div type="Language" lang="Latvian">sieve / kalpe / kalpune / lope / jeb</div>
+       <lb id="Ench1615_AB_18"/>
+        <div type="Language" lang="Latvian">vise kas tam pieder.</div>
+       <lb id="Ench1615_AB_19"/>
+        <div type="Language" lang="Latvian">ko sak dievs no visims šiems</div>
+       <lb id="Ench1615_AB_20"/>
+        <div type="Language" lang="Latvian">bauslims ?    atbilde.</div>
+       <lb id="Ench1615_AB_21"/>
+        <div type="Language" lang="Latvian">tas sake tā.</div>
+       <lb id="Ench1615_AB_22"/>
+        <div type="Language" lang="Latvian">es tas kungs tavs dievs / esme viens</div>
+      </div>
+      <pb n="A2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_A2A_1"/>
+        <div type="Language" lang="Latvian">dusmīgs dievs / katers par tiems / kas</div>
+       <lb id="Ench1615_A2A_2"/>
+        <div type="Language" lang="Latvian">man ienīde / tos grēkes tos tēves</div>
+       <lb id="Ench1615_A2A_3"/>
+        <div type="Language" lang="Latvian">mājas piemekle / pi tiems bērnems</div>
+       <lb id="Ench1615_A2A_4"/>
+        <div type="Language" lang="Latvian">iekškan treše unde cetorte augume /</div>
+       <lb id="Ench1615_A2A_5"/>
+        <div type="Language" lang="Latvian">bet tiems / katre man piemile / und manes</div>
+       <lb id="Ench1615_A2A_6"/>
+        <div type="Language" lang="Latvian">bausles tur tiems dar es labe iekškan</div>
+       <lb id="Ench1615_A2A_7"/>
+        <div type="Language" lang="Latvian">tūkstoše augume .</div>
+       <lb id="Ench1615_A2A_8"/>
+        <div type="Language" lang="Latvian">ko māce tu aran tiems desmete</div>
+       <lb id="Ench1615_A2A_9"/>
+        <div type="Language" lang="Latvian">bauslims ?   atbilde.</div>
+       <lb id="Ench1615_A2A_10"/>
+        <div type="Language" lang="Latvian">es māce tur aran manes grēkes atzīt /</div>
+       <lb id="Ench1615_A2A_11"/>
+        <div type="Language" lang="Latvian">unde ka es tos ne var turet  /  ka man dievs</div>
+       <lb id="Ench1615_A2A_12"/>
+        <div type="Language" lang="Latvian">pavēlējs jir.</div>
+       <lb id="Ench1615_A2A_13"/>
+        <div type="Language" lang="Latvian">ii.</div>
+       <lb id="Ench1615_A2A_14"/>
+       <div type="Language" lang="German">Der Glaube.</div>
+       <lb id="Ench1615_A2A_15"/>
+        <div type="Language" lang="Latvian">ta ticībe.</div>
+       <lb id="Ench1615_A2A_16"/>
+        <div type="Language" lang="Latvian">es tic iekškan dieve to tēve / visevaldītāje</div>
+       <lb id="Ench1615_A2A_17"/>
+        <div type="Language" lang="Latvian">/ radītāje / debes und tās zemes.</div>
+       <lb id="Ench1615_A2A_18"/>
+        <div type="Language" lang="Latvian">unde iekškan jēzum kristum viņam</div>
+       <lb id="Ench1615_A2A_19"/>
+        <div type="Language" lang="Latvian">vienigam dēlam mūsam kungam</div>
+       <lb id="Ench1615_A2A_20"/>
+        <div type="Language" lang="Latvian">katers iejemts jir / no to svēte gare /</div>
+       <lb id="Ench1615_A2A_21"/>
+        <div type="Language" lang="Latvian">piedzimis no tās jumpravas maria /</div>
+      </div>
+      <pb n="A2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_A2B_1"/>
+        <div type="Language" lang="Latvian">cietis apeškan pontio pilato / krustan</div>
+       <lb id="Ench1615_A2B_2"/>
+        <div type="Language" lang="Latvian">sists / nomiris unde apbēsts / zemen</div>
+       <lb id="Ench1615_A2B_3"/>
+        <div type="Language" lang="Latvian">kāpis iekškan helles <corr>trešan</corr><sic>trešan</sic> dienan atkal</div>
+       <lb id="Ench1615_A2B_4"/>
+        <div type="Language" lang="Latvian">augškām cēles no tiems mironims / uz=</div>
+       <lb id="Ench1615_A2B_5"/>
+        <div type="Language" lang="Latvian">kāpis debesis / sēde pi to labe roke /</div>
+       <lb id="Ench1615_A2B_6"/>
+        <div type="Language" lang="Latvian">dieve ta visevaldītāje tēve / no turenes</div>
+       <lb id="Ench1615_A2B_7"/>
+        <div type="Language" lang="Latvian">tas aties  / sodit tos dzīves unde</div>
+       <lb id="Ench1615_A2B_8"/>
+        <div type="Language" lang="Latvian">mirones.</div>
+       <lb id="Ench1615_A2B_9"/>
+        <div type="Language" lang="Latvian">es tic iekškan to svēte gare / viena</div>
+       <lb id="Ench1615_A2B_10"/>
+        <div type="Language" lang="Latvian">svēta krustīta baznīca /  to <corr>draudzībe</corr><sic>drovcībe</sic></div>
+       <lb id="Ench1615_A2B_11"/>
+        <div type="Language" lang="Latvian">tos svētis /  pamešen tos grēkes</div>
+       <lb id="Ench1615_A2B_12"/>
+        <div type="Language" lang="Latvian">augškām celšene / tas mieses / und</div>
+       <lb id="Ench1615_A2B_13"/>
+        <div type="Language" lang="Latvian">viene mūžīge dzīvošen / amen.</div>
+       <lb id="Ench1615_A2B_14"/>
+        <div type="Language" lang="Latvian">ko māce tu aran to ticībe ?</div>
+       <lb id="Ench1615_A2B_15"/>
+        <div type="Language" lang="Latvian">atbilde.</div>
+       <lb id="Ench1615_A2B_16"/>
+        <div type="Language" lang="Latvian">es māce tur aran  / ka man / dievs</div>
+       <lb id="Ench1615_A2B_17"/>
+        <div type="Language" lang="Latvian">radis jir /  unde jēzus kristus jir man</div>
+       <lb id="Ench1615_A2B_18"/>
+        <div type="Language" lang="Latvian">pestis  / unde ka mane grēke caur to viene</div>
+       <lb id="Ench1615_A2B_19"/>
+        <div type="Language" lang="Latvian">pameste tope / unde tas svēts gars</div>
+       <lb id="Ench1615_A2B_20"/>
+        <div type="Language" lang="Latvian">jir mans svēte daritājs.</div>
+      </div>
+      <pb n="A3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_A3A_1"/>
+        <div type="Language" lang="Latvian">iii.</div>
+       <lb id="Ench1615_A3A_2"/>
+       <div type="Language" lang="German">Das Gebet oder Vater vnſer.</div>
+       <lb id="Ench1615_A3A_3"/>
+        <div type="Language" lang="Latvian">tā svēta lūgšene.</div>
+       <lb id="Ench1615_A3A_4"/>
+        <div type="Language" lang="Latvian">mūse tēvs / iekškan to debes.</div>
+       <lb id="Ench1615_A3A_5"/>
+        <div type="Language" lang="Latvian">svētīts tope tavs vārds. ienākas</div>
+       <lb id="Ench1615_A3A_6"/>
+        <div type="Language" lang="Latvian">mums tave valstībe.  tavs prāts notieke</div>
+       <lb id="Ench1615_A3A_7"/>
+        <div type="Language" lang="Latvian">/  ka iekškan debes / tā arīdzan</div>
+       <lb id="Ench1615_A3A_8"/>
+        <div type="Language" lang="Latvian">virson zemes.  mūse dienišķe maize</div>
+       <lb id="Ench1615_A3A_9"/>
+        <div type="Language" lang="Latvian">dode mums šodien. unde pamet mums</div>
+       <lb id="Ench1615_A3A_10"/>
+        <div type="Language" lang="Latvian">mūse parade / ka mēs pametam mūsims</div>
+       <lb id="Ench1615_A3A_11"/>
+        <div type="Language" lang="Latvian">paradenekims. unde ne vede</div>
+       <lb id="Ench1615_A3A_12"/>
+        <div type="Language" lang="Latvian">mums iekškan kārdenāšene. bet atpesti</div>
+       <lb id="Ench1615_A3A_13"/>
+        <div type="Language" lang="Latvian">mums no to ļaune. aizto tava jir tā</div>
+       <lb id="Ench1615_A3A_14"/>
+        <div type="Language" lang="Latvian">valstībe / unde tas spēks und tas gods</div>
+       <lb id="Ench1615_A3A_15"/>
+        <div type="Language" lang="Latvian">tur mūžīge / amen.</div>
+       <lb id="Ench1615_A3A_16"/>
+        <div type="Language" lang="Latvian">ko māce tu aran to lūgšene jeb</div>
+       <lb id="Ench1615_A3A_17"/>
+        <div type="Language" lang="Latvian">patrims ?           atbilde.</div>
+       <lb id="Ench1615_A3A_18"/>
+        <div type="Language" lang="Latvian">es māce tur aran /  dieve tiešām</div>
+       <lb id="Ench1615_A3A_19"/>
+        <div type="Language" lang="Latvian">piesaukt par garigems unde laikigems</div>
+       <lb id="Ench1615_A3A_20"/>
+        <div type="Language" lang="Latvian">lietiems /  ka tas mums gribet ar save</div>
+       <lb id="Ench1615_A3A_21"/>
+        <div type="Language" lang="Latvian">svēte gare valdit  /  glabot / mūses</div>
+      </div>
+      <pb n="A3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_A3B_1"/>
+        <div type="Language" lang="Latvian">grēkes pamest / pār kārdenāšene</div>
+       <lb id="Ench1615_A3B_2"/>
+        <div type="Language" lang="Latvian">pasargat /  und no vise ļaune pestīt.</div>
+       <lb id="Ench1615_A3B_3"/>
+        <div type="Language" lang="Latvian">iiii.</div>
+       <lb id="Ench1615_A3B_4"/>
+       <div type="Language" lang="German">Die Heilige Tauffe</div>
+       <lb id="Ench1615_A3B_5"/>
+        <div type="Language" lang="Latvian">no to svēte krustībe.</div>
+       <lb id="Ench1615_A3B_6"/>
+        <div type="Language" lang="Latvian">mūse kungs jēzus kristus sacī uz</div>
+       <lb id="Ench1615_A3B_7"/>
+        <div type="Language" lang="Latvian">savems māceklems. ejte iekškan to</div>
+       <lb id="Ench1615_A3B_8"/>
+        <div type="Language" lang="Latvian">vise pasaule /  unde mācet vises ļaudes</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_A3B_9"/>
+        <div type="Language" lang="Latvian">/ unde krustījet tos iekškan to vārde</div>
+       <lb id="Ench1615_A3B_10"/>
+        <div type="Language" lang="Latvian">to tēve / unde to dēle / unde to svēte</div>
+       <lb id="Ench1615_A3B_11"/>
+        <div type="Language" lang="Latvian">gare. kas tur tic unde krustīts tope /</div>
+       <lb id="Ench1615_A3B_12"/>
+        <div type="Language" lang="Latvian">tas taps svēts / bet kas ne tic / tope</div>
+       <lb id="Ench1615_A3B_13"/>
+        <div type="Language" lang="Latvian">pazusts.</div>
+       <lb id="Ench1615_A3B_14"/>
+        <div type="Language" lang="Latvian">ko māce tu aran to krustībe ?   atbilde.</div>
+       <lb id="Ench1615_A3B_15"/>
+        <div type="Language" lang="Latvian">es māce tur aran /  ka man dievs grib seliks būt /</div>
+       <lb id="Ench1615_A3B_16"/>
+        <div type="Language" lang="Latvian">unde tā patiese ka es krustīts esme / tā patiese grib</div>
+       <lb id="Ench1615_A3B_17"/>
+        <div type="Language" lang="Latvian">tas manes grēkes pamest / und man par save</div>
+       <lb id="Ench1615_A3B_18"/>
+        <div type="Language" lang="Latvian">bērne tas mūžīges dzīvošenes uzjemt / taisne</div>
+       <lb id="Ench1615_A3B_19"/>
+        <div type="Language" lang="Latvian">unde svēte darīt.</div>
+       <lb id="Ench1615_A3B_20"/>
+       <div type="Language" lang="German">Von des Himelſreichs Schlüſſel/ oder</div>
+       <lb id="Ench1615_A3B_21"/>
+       <div type="Language" lang="German">der Abſolucton / Johan. 20.</div>
+      </div>
+      <pb n="A4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_A4A_1"/>
+        <div type="Language" lang="Latvian">no tiems atslēgems tās debeses / jeb</div>
+       <lb id="Ench1615_A4A_2"/>
+        <div type="Language" lang="Latvian">no to grēke pamešene.</div>
+       <lb id="Ench1615_A4A_3"/>
+        <div type="Language" lang="Latvian">jēzus sacī uz savims māceklims:</div>
+       <lb id="Ench1615_A4A_4"/>
+        <div type="Language" lang="Latvian">miers jir ar jums / līdz ka man tas</div>
+       <lb id="Ench1615_A4A_5"/>
+        <div type="Language" lang="Latvian">tēvs sūtīs jir / ta sūte es jums und</div>
+       <lb id="Ench1615_A4A_6"/>
+        <div type="Language" lang="Latvian">kad tas to sacī pūte tas uz tiems /</div>
+       <lb id="Ench1615_A4A_7"/>
+        <div type="Language" lang="Latvian">jemet to svēte gare / katrims jūs</div>
+       <lb id="Ench1615_A4A_8"/>
+        <div type="Language" lang="Latvian">tos grēkes pameset tiems jir te pameste</div>
+       <lb id="Ench1615_A4A_9"/>
+        <div type="Language" lang="Latvian">/ unde katrims jūs tos paturēset</div>
+       <lb id="Ench1615_A4A_10"/>
+        <div type="Language" lang="Latvian">/ tiems jir te paturēte.</div>
+       <lb id="Ench1615_A4A_11"/>
+        <div type="Language" lang="Latvian">ko māce tu aran tiems vārdims no to</div>
+       <lb id="Ench1615_A4A_12"/>
+        <div type="Language" lang="Latvian">grēke pamešene ?  atbilde.</div>
+       <lb id="Ench1615_A4A_13"/>
+        <div type="Language" lang="Latvian">es māce tur aran ka kristus jir tiems baznīce</div>
+       <lb id="Ench1615_A4A_14"/>
+        <div type="Language" lang="Latvian">tēvims /  tāde spēke unde vare devis /</div>
+       <lb id="Ench1615_A4A_15"/>
+        <div type="Language" lang="Latvian">tiems nabagims grēcenekims tos grēkes pamest</div>
+       <lb id="Ench1615_A4A_16"/>
+        <div type="Language" lang="Latvian">/ unde tiems neticigims ne pamēst / und</div>
+       <lb id="Ench1615_A4A_17"/>
+        <div type="Language" lang="Latvian">ko tie pamet iekškan to vārde jēzu / to pamet</div>
+       <lb id="Ench1615_A4A_18"/>
+        <div type="Language" lang="Latvian">arīdzan dievs iekškan debes.</div>
+       <lb id="Ench1615_A4A_19"/>
+        <div type="Language" lang="Latvian">v.</div>
+       <lb id="Ench1615_A4A_20"/>
+       <div type="Language" lang="German">Von dem Heiligen Abendtmal vnſers</div>
+       <lb id="Ench1615_A4A_21"/>
+       <div type="Language" lang="German">HERRN vnd Heilandes</div>
+       <lb id="Ench1615_A4A_22"/>
+       <div type="Language" lang="German">JEſu Chriſti.</div>
+      </div>
+      <pb n="A4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_A4B_1"/>
+        <div type="Language" lang="Latvian">no to iestādījume to cienīge unde dārge</div>
+       <lb id="Ench1615_A4B_2"/>
+        <div type="Language" lang="Latvian">miese unde asene mūse kunge</div>
+       <lb id="Ench1615_A4B_3"/>
+        <div type="Language" lang="Latvian">jēzu kristi.</div>
+       <lb id="Ench1615_A4B_4"/>
+        <div type="Language" lang="Latvian">mūse kungs jēzus kristus / iekškan to</div>
+       <lb id="Ench1615_A4B_5"/>
+        <div type="Language" lang="Latvian">nakte kad tas pievilts tape / jeme tas</div>
+       <lb id="Ench1615_A4B_6"/>
+        <div type="Language" lang="Latvian">to maize /  pateice unde pārlauze to / deve</div>
+       <lb id="Ench1615_A4B_7"/>
+        <div type="Language" lang="Latvian">to savims māceklims / und sacī /</div>
+       <lb id="Ench1615_A4B_8"/>
+        <div type="Language" lang="Latvian">jemet / ēdiet  / ta jir mana miesa / katra</div>
+       <lb id="Ench1615_A4B_9"/>
+        <div type="Language" lang="Latvian">par jums tope dota  / to daret iekšan</div>
+       <lb id="Ench1615_A4B_10"/>
+        <div type="Language" lang="Latvian">mane pieminēšene.</div>
+       <lb id="Ench1615_A4B_11"/>
+        <div type="Language" lang="Latvian">ta līdz arīdzan jēme tas to biķere</div>
+       <lb id="Ench1615_A4B_12"/>
+        <div type="Language" lang="Latvian">/ pēc to vakare ēdene /  pateice /</div>
+       <lb id="Ench1615_A4B_13"/>
+        <div type="Language" lang="Latvian">unde deve tiems to unde sacī: jemet /</div>
+       <lb id="Ench1615_A4B_14"/>
+        <div type="Language" lang="Latvian"><corr>und</corr><sic>vud</sic> dzeret vise tur aran /  šis biķers</div>
+       <lb id="Ench1615_A4B_15"/>
+        <div type="Language" lang="Latvian">jir ta jaune iestādīšene /  iekškan mane</div>
+       <lb id="Ench1615_A4B_16"/>
+        <div type="Language" lang="Latvian">asen katers par jums /  unde par daudzems</div>
+       <lb id="Ench1615_A4B_17"/>
+        <div type="Language" lang="Latvian">izliets tope /  par pamešene tos</div>
+       <lb id="Ench1615_A4B_18"/>
+        <div type="Language" lang="Latvian">grēkes /  to daret /  ciekārt jūs to</div>
+       <lb id="Ench1615_A4B_19"/>
+        <div type="Language" lang="Latvian">dzeret /  iekšan mane pieminēšane.</div>
+       <lb id="Ench1615_A4B_20"/>
+        <div type="Language" lang="Latvian">ko māce tu aran tiems vārdims no</div>
+       <lb id="Ench1615_A4B_21"/>
+        <div type="Language" lang="Latvian">to vakare <corr>ēdene</corr><sic>ēdei</sic> mūse kunge jēzu</div>
+       <lb id="Ench1615_A4B_22"/>
+        <div type="Language" lang="Latvian">kristi ?          atbilde.</div>
+      </div>
+      <pb n="BA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_BA_1"/>
+        <div type="Language" lang="Latvian">es māce šeit aran  / ka mans kungs jēzus</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_BA_2"/>
+        <div type="Language" lang="Latvian">kristus save dārge miese unde asen man pār</div>
+       <lb id="Ench1615_BA_3"/>
+        <div type="Language" lang="Latvian">labe iestādījs jir /  und ka man stipre ticet būs /</div>
+       <lb id="Ench1615_BA_4"/>
+        <div type="Language" lang="Latvian">ka man dievs /  unde visims ticigims tos debešķīes</div>
+       <lb id="Ench1615_BA_5"/>
+        <div type="Language" lang="Latvian">unde dieviskes bagātībes /  tās mūžīges dzīvošenes</div>
+       <lb id="Ench1615_BA_6"/>
+        <div type="Language" lang="Latvian">dāvināt unde dot grib / katre man</div>
+       <lb id="Ench1615_BA_7"/>
+        <div type="Language" lang="Latvian">viene pār labe nopelnite jir /  <corr>caur</corr><sic>canr</sic> jēzum kristum</div>
+       <lb id="Ench1615_BA_8"/>
+        <div type="Language" lang="Latvian">mane pestītāje.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_BA_9"/>
+       <div type="Language" lang="German">Von der Beicht,</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_BA_10"/>
+        <div type="Language" lang="Latvian">cienīgs unde mīleis baznīce kungs es lūdz no dieve</div>
+       <lb id="Ench1615_BA_11"/>
+        <div type="Language" lang="Latvian">puses /  tu grib manes grēkes klausīt / unde</div>
+       <lb id="Ench1615_BA_12"/>
+        <div type="Language" lang="Latvian">pamešen tos grēkes / sludenāt.</div>
+       <lb id="Ench1615_BA_13"/>
+        <div type="Language" lang="Latvian">mīleis baznīcekungs / es eseme dievan sūdzējs</div>
+       <lb id="Ench1615_BA_14"/>
+        <div type="Language" lang="Latvian">manes grēkes /  und sūdz tev arīdzan</div>
+       <lb id="Ench1615_BA_15"/>
+        <div type="Language" lang="Latvian">iekšan dieve viete /  ka es nabags cilvēks dieve</div>
+       <lb id="Ench1615_BA_16"/>
+        <div type="Language" lang="Latvian">mane kunge /  lote unde varen eseme apkaitenais</div>
+       <lb id="Ench1615_BA_17"/>
+        <div type="Language" lang="Latvian">/  ar manims lielims unde grūtiems grēkims /</div>
+       <lb id="Ench1615_BA_18"/>
+        <div type="Language" lang="Latvian">mane dieve unde kunge no sirde dibene ne</div>
+       <lb id="Ench1615_BA_19"/>
+        <div type="Language" lang="Latvian">pielūdzis /  dieve vārde dažkārte velte valkojs</div>
+       <lb id="Ench1615_BA_20"/>
+        <div type="Language" lang="Latvian">/  baznīcan negais /  dieve vārde nelabprāte</div>
+       <lb id="Ench1615_BA_21"/>
+        <div type="Language" lang="Latvian"><corr>dzirdeis</corr><sic>cideis</sic> /  mane tēve unde māte / mane</div>
+       <lb id="Ench1615_BA_22"/>
+        <div type="Language" lang="Latvian">kunge und gaspaže jeb saimnecene neklausīs.</div>
+       <lb id="Ench1615_BA_23"/>
+        <div type="Language" lang="Latvian">ar mane tuvāke cilvēke dažekārte bares / iekškan</div>
+       <lb id="Ench1615_BA_24"/>
+        <div type="Language" lang="Latvian">ienaidībe unde dusmībe dzīvojs /  es esme arīdzan</div>
+       <lb id="Ench1615_BA_25"/>
+        <div type="Language" lang="Latvian">nekaunīgs bijis /  iekškan vārdims und darbims /</div>
+      </div>
+      <pb n="BB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_BB_1"/>
+        <div type="Language" lang="Latvian">iekškan lieke ēšen unde dzeršen dzīvojs / unde</div>
+       <lb id="Ench1615_BB_2"/>
+        <div type="Language" lang="Latvian">tā pretībe visims dieve bauslims grēkojs / tas</div>
+       <lb id="Ench1615_BB_3"/>
+        <div type="Language" lang="Latvian">jir man lote žēle. tapēc lūdze es no dieve</div>
+       <lb id="Ench1615_BB_4"/>
+        <div type="Language" lang="Latvian">puses mileis baznīcekungs / tu grib manes grēkes</div>
+       <lb id="Ench1615_BB_5"/>
+        <div type="Language" lang="Latvian">caur kristum pamest / unde mane bailīge sirde</div>
+       <lb id="Ench1615_BB_6"/>
+        <div type="Language" lang="Latvian">ar dieve vārde iepriecenāt . es solī dievam unde</div>
+       <lb id="Ench1615_BB_7"/>
+        <div type="Language" lang="Latvian">tev / es ne grib grēkot .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_BB_8"/>
+       <div type="Language" lang="German">Frage vnd Antwort auffs kürtzeſte</div>
+       <lb id="Ench1615_BB_9"/>
+       <div type="Language" lang="German">geſtellet für dieſelbig ſo zum Abentmal</div>
+       <lb id="Ench1615_BB_10"/>
+       <div type="Language" lang="German">des HErrn gehen wollen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_BB_11"/>
+        <div type="Language" lang="Latvian">viena krustīte mācībe no to jautāšen und</div>
+       <lb id="Ench1615_BB_12"/>
+        <div type="Language" lang="Latvian">atbildēšene priekškan tiems / katre tur pi dieve</div>
+       <lb id="Ench1615_BB_13"/>
+        <div type="Language" lang="Latvian">galdi iet .</div>
+       <lb id="Ench1615_BB_14"/>
+        <div type="Language" lang="Latvian">ta pirma jautāšen .</div>
+       <lb id="Ench1615_BB_15"/>
+        <div type="Language" lang="Latvian">tic tu / ka tu viens grēceneks es ?    atbild .</div>
+       <lb id="Ench1615_BB_16"/>
+        <div type="Language" lang="Latvian">ja / es tic to / es esme viens grēceneks .</div>
+       <lb id="Ench1615_BB_17"/>
+        <div type="Language" lang="Latvian">ta otra jautāšen</div>
+       <lb id="Ench1615_BB_18"/>
+        <div type="Language" lang="Latvian">ka zin tu to ?             atbilde .</div>
+       <lb id="Ench1615_BB_19"/>
+        <div type="Language" lang="Latvian">aran tiems desmete bauslims / tos ne</div>
+       <lb id="Ench1615_BB_20"/>
+        <div type="Language" lang="Latvian">esme es turējs.</div>
+       <lb id="Ench1615_BB_21"/>
+        <div type="Language" lang="Latvian">ta treša jautašen .</div>
+       <lb id="Ench1615_BB_22"/>
+        <div type="Language" lang="Latvian">jir tev tave grēke arīdzan žēle ? atbilde .</div>
+       <lb id="Ench1615_BB_23"/>
+        <div type="Language" lang="Latvian">ja tas jir man žēle / ka es pretībe dieve</div>
+       <lb id="Ench1615_BB_24"/>
+        <div type="Language" lang="Latvian">grēkojs esme .</div>
+       <lb id="Ench1615_BB_25"/>
+        <div type="Language" lang="Latvian">ta cetorta jautašen .</div>
+       <lb id="Ench1615_BB_26"/>
+        <div type="Language" lang="Latvian">ko ese tu ar tavims grēkims pelnis ? atbild .</div>
+      </div>
+      <pb n="B2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_B2A_1"/>
+        <div type="Language" lang="Latvian">nenieke labe / dieve dusmībe unde ienaidībe / to laikīge</div>
+       <lb id="Ench1615_B2A_2"/>
+        <div type="Language" lang="Latvian">nāve / unde to mūžīge pazušene .</div>
+       <lb id="Ench1615_B2A_3"/>
+        <div type="Language" lang="Latvian">tā piekta jautāšene</div>
+       <lb id="Ench1615_B2A_4"/>
+        <div type="Language" lang="Latvian">tic tu grēke pamešene ?  atbilde .</div>
+       <lb id="Ench1615_B2A_5"/>
+        <div type="Language" lang="Latvian">es tic no vise sirde.</div>
+       <lb id="Ench1615_B2A_6"/>
+        <div type="Language" lang="Latvian">ta sesta jautāšene .</div>
+       <lb id="Ench1615_B2A_7"/>
+        <div type="Language" lang="Latvian">ka tope tave grēke pameste ?   atbilde /</div>
+       <lb id="Ench1615_B2A_8"/>
+        <div type="Language" lang="Latvian">caur  jēzum   kristum .</div>
+       <lb id="Ench1615_B2A_9"/>
+        <div type="Language" lang="Latvian">ta septita jautāšene .</div>
+       <lb id="Ench1615_B2A_10"/>
+        <div type="Language" lang="Latvian">kas jir kristus ?        atbilde .</div>
+       <lb id="Ench1615_B2A_11"/>
+        <div type="Language" lang="Latvian">dieve dēls / patiese dievs unde cilvēks .</div>
+       <lb id="Ench1615_B2A_12"/>
+        <div type="Language" lang="Latvian">ta astota jautāšene .</div>
+       <lb id="Ench1615_B2A_13"/>
+        <div type="Language" lang="Latvian">cieke jir tur dieve ?     atbilde .</div>
+       <lb id="Ench1615_B2A_14"/>
+        <div type="Language" lang="Latvian">tur jir viens vienīgs dievs / bet trīs persone</div>
+       <lb id="Ench1615_B2A_15"/>
+        <div type="Language" lang="Latvian">/ dievs tēvs / dievs dēls / dievs svēts</div>
+       <lb id="Ench1615_B2A_16"/>
+        <div type="Language" lang="Latvian">gars .</div>
+       <lb id="Ench1615_B2A_17"/>
+        <div type="Language" lang="Latvian">ta devita jautāšene .</div>
+       <lb id="Ench1615_B2A_18"/>
+        <div type="Language" lang="Latvian">kas jir , dievs tas tēvs ?     atbilde .</div>
+       <lb id="Ench1615_B2A_19"/>
+        <div type="Language" lang="Latvian">dievs tas tēvs jir mūse raditājs / debes</div>
+       <lb id="Ench1615_B2A_20"/>
+        <div type="Language" lang="Latvian">unde tās zemes / unde vises lietes .</div>
+       <lb id="Ench1615_B2A_21"/>
+        <div type="Language" lang="Latvian">kas jir dieve dēls ?          atbilde .</div>
+       <lb id="Ench1615_B2A_22"/>
+        <div type="Language" lang="Latvian">dieve dēls jir mūse pestitājs / kas mums no</div>
+       <lb id="Ench1615_B2A_23"/>
+        <div type="Language" lang="Latvian">grēkims pestīs jir.</div>
+       <lb id="Ench1615_B2A_24"/>
+        <div type="Language" lang="Latvian">kas jir tas svēts gars ?    atbilde .</div>
+       <lb id="Ench1615_B2A_25"/>
+        <div type="Language" lang="Latvian">tas svēts gars jir mūse svēte daritājs unde</div>
+       <lb id="Ench1615_B2A_26"/>
+        <div type="Language" lang="Latvian">iepriecetājs .</div>
+       <lb id="Ench1615_B2A_27"/>
+        <div type="Language" lang="Latvian">ta desmete jautāšen .</div>
+      </div>
+      <pb n="B2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_B2B_1"/>
+        <div type="Language" lang="Latvian">jir tur trīs radītāje / pestītāje unde svēte /</div>
+       <lb id="Ench1615_B2B_2"/>
+        <div type="Language" lang="Latvian">darītāje ?                   atbilde .</div>
+       <lb id="Ench1615_B2B_3"/>
+        <div type="Language" lang="Latvian">neniekade / bet vien vienīgs dievs / tas raditājs</div>
+       <lb id="Ench1615_B2B_4"/>
+        <div type="Language" lang="Latvian">/ pestitājs / unde svēts darītājs .</div>
+       <lb id="Ench1615_B2B_5"/>
+        <div type="Language" lang="Latvian">ta vienepadesmete jautāšene .</div>
+       <lb id="Ench1615_B2B_6"/>
+        <div type="Language" lang="Latvian">kas jir tev no grēkims</div>
+       <lb id="Ench1615_B2B_7"/>
+        <div type="Language" lang="Latvian">pestis ?             atbilde .</div>
+       <lb id="Ench1615_B2B_8"/>
+        <div type="Language" lang="Latvian">dieve dēls jēzus kristus / tas jir par manems</div>
+       <lb id="Ench1615_B2B_9"/>
+        <div type="Language" lang="Latvian">grēkems / to rūgte nāve cietis / unde save</div>
+       <lb id="Ench1615_B2B_10"/>
+        <div type="Language" lang="Latvian">dārge asene izlējs pi to kruste koke .</div>
+       <lb id="Ench1615_B2B_11"/>
+        <div type="Language" lang="Latvian">ta divepadesmete jautāšen .</div>
+       <lb id="Ench1615_B2B_12"/>
+        <div type="Language" lang="Latvian">ko būs vienam cilvēkam darīt / kad ta</div>
+       <lb id="Ench1615_B2B_13"/>
+        <div type="Language" lang="Latvian">sirds no grēkims grūta jir ?     atbilde .</div>
+       <lb id="Ench1615_B2B_14"/>
+        <div type="Language" lang="Latvian">tam būs pi save baznīcekunge iet / unde</div>
+       <lb id="Ench1615_B2B_15"/>
+        <div type="Language" lang="Latvian">lūgt grēke pamešen caur kristum / unde pi</div>
+       <lb id="Ench1615_B2B_16"/>
+        <div type="Language" lang="Latvian">dieve galde iet .</div>
+       <lb id="Ench1615_B2B_17"/>
+        <div type="Language" lang="Latvian">ta treša padesmete jautāšen .</div>
+       <lb id="Ench1615_B2B_18"/>
+        <div type="Language" lang="Latvian">ka būse tiems tad dzīvot / katre tur pi</div>
+       <lb id="Ench1615_B2B_19"/>
+        <div type="Language" lang="Latvian">dieve galde iet ?         atbilde .</div>
+       <lb id="Ench1615_B2B_20"/>
+        <div type="Language" lang="Latvian">tiems būse dzīvot iekškan dieve bijāšene / und</div>
+       <lb id="Ench1615_B2B_21"/>
+        <div type="Language" lang="Latvian">dieve pielūgšene / iekškan ēšen unde dzeršen</div>
+       <lb id="Ench1615_B2B_22"/>
+        <div type="Language" lang="Latvian">gadīge turētes .</div>
+       <lb id="Ench1615_B2B_23"/>
+        <div type="Language" lang="Latvian">ta cetortapadesmete jautāšen .</div>
+       <lb id="Ench1615_B2B_24"/>
+        <div type="Language" lang="Latvian">grib tu labprāt pi dieve galde iet / jeb kas</div>
+       <lb id="Ench1615_B2B_25"/>
+        <div type="Language" lang="Latvian">spiež tev tur klāt ?     atbilde .</div>
+       <lb id="Ench1615_B2B_26"/>
+        <div type="Language" lang="Latvian">mane grēke unde dieve pavēlēšene.</div>
+      </div>
+      <pb n="B3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_B3A_1"/>
+        <div type="Language" lang="Latvian">ta piektapadesmete jautāšen .</div>
+       <lb id="Ench1615_B3A_2"/>
+        <div type="Language" lang="Latvian">ko ēde unde dzer tu <corr>tur</corr><sic>tnr</sic> pi dieve</div>
+       <lb id="Ench1615_B3A_3"/>
+        <div type="Language" lang="Latvian">galde ?                    atbilde .</div>
+       <lb id="Ench1615_B3A_4"/>
+        <div type="Language" lang="Latvian">es ēmo unde dzeŗo tur to patiese miese unde</div>
+       <lb id="Ench1615_B3A_5"/>
+        <div type="Language" lang="Latvian">asen jēzu kristi / par iestiprēšene mane vāje</div>
+       <lb id="Ench1615_B3A_6"/>
+        <div type="Language" lang="Latvian">ticībe .</div>
+       <lb id="Ench1615_B3A_7"/>
+        <div type="Language" lang="Latvian">ta sestapadesmete jautāšen .</div>
+       <lb id="Ench1615_B3A_8"/>
+        <div type="Language" lang="Latvian">katre cilvēke iet ciemā pi dieve</div>
+       <lb id="Ench1615_B3A_9"/>
+        <div type="Language" lang="Latvian">galde .                  atbilde .</div>
+       <lb id="Ench1615_B3A_10"/>
+        <div type="Language" lang="Latvian">tie / katrims tā ticībe jir iekškan kristo jēzu /</div>
+       <lb id="Ench1615_B3A_11"/>
+        <div type="Language" lang="Latvian">unde tic / ka tas pār tiems save dārge asen izlējs</div>
+       <lb id="Ench1615_B3A_12"/>
+        <div type="Language" lang="Latvian">/ nomiris unde augškām cēlis jir .</div>
+       <lb id="Ench1615_B3A_13"/>
+        <div type="Language" lang="Latvian">ta septitepadesmēte jautāšen .</div>
+       <lb id="Ench1615_B3A_14"/>
+        <div type="Language" lang="Latvian">katre cilvēke iet tur necienīge pi dieve</div>
+       <lb id="Ench1615_B3A_15"/>
+        <div type="Language" lang="Latvian">galde ?                     atbilde .</div>
+       <lb id="Ench1615_B3A_16"/>
+        <div type="Language" lang="Latvian">tie / katre iekškan kristo jēzu netic / unde paliek</div>
+       <lb id="Ench1615_B3A_17"/>
+        <div type="Language" lang="Latvian">iekškan savims rupjems grēkims .</div>
+       <lb id="Ench1615_B3A_18"/>
+        <div type="Language" lang="Latvian">ta astota padesmete jautāšen .</div>
+       <lb id="Ench1615_B3A_19"/>
+        <div type="Language" lang="Latvian">ka būs tad vienam cilvēkam tureties /</div>
+       <lb id="Ench1615_B3A_20"/>
+        <div type="Language" lang="Latvian">kad tas pi dieve galde bijis</div>
+       <lb id="Ench1615_B3A_21"/>
+        <div type="Language" lang="Latvian">jir ?                  atbilde .</div>
+       <lb id="Ench1615_B3A_22"/>
+        <div type="Language" lang="Latvian">tam būs godībe unde gadīge tureties / unde</div>
+       <lb id="Ench1615_B3A_23"/>
+        <div type="Language" lang="Latvian">iekškan dieve bijāšene dzīvot / unde allažin dieve</div>
+       <lb id="Ench1615_B3A_24"/>
+        <div type="Language" lang="Latvian">pielūgt unde piesaukte / unde save ziname sirde</div>
+       <lb id="Ench1615_B3A_25"/>
+        <div type="Language" lang="Latvian">tīše ar grēkims ne apgānīt .</div>
+       <lb id="Ench1615_B3A_26"/>
+        <div type="Language" lang="Latvian">ta devite padesmete jautāšen .</div>
+       <lb id="Ench1615_B3A_27"/>
+        <div type="Language" lang="Latvian">ka būs vienam cilvēkam dieve</div>
+      </div>
+      <pb n="B3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_B3B_1"/>
+        <div type="Language" lang="Latvian">pielūgt / kad tas pi dieve galde grib</div>
+       <lb id="Ench1615_B3B_2"/>
+        <div type="Language" lang="Latvian">iet ?                   atbilde .</div>
+       <lb id="Ench1615_B3B_3"/>
+        <div type="Language" lang="Latvian">o vise valdīgs dievs unde debese tēvs /</div>
+       <lb id="Ench1615_B3B_4"/>
+        <div type="Language" lang="Latvian">mēs lūdzam tev /tu grib mums tave svēte</div>
+       <lb id="Ench1615_B3B_5"/>
+        <div type="Language" lang="Latvian">gare dot / ka mēs caur viene godīge unde labe</div>
+       <lb id="Ench1615_B3B_6"/>
+        <div type="Language" lang="Latvian">svētīge  dzīvošen / šo dārge / miese unde asene</div>
+       <lb id="Ench1615_B3B_7"/>
+        <div type="Language" lang="Latvian">tave mīle dēle / mūse kunge unde pestītāje jēzu</div>
+       <lb id="Ench1615_B3B_8"/>
+        <div type="Language" lang="Latvian">kristi cienīge varam ēst unde dzert unde ka mūse</div>
+       <lb id="Ench1615_B3B_9"/>
+        <div type="Language" lang="Latvian">ticībe var iestiprēte tapt / unde ka mēs iekškan mīlestībe</div>
+       <lb id="Ench1615_B3B_10"/>
+        <div type="Language" lang="Latvian">unde cerībe / unde iekškan to ticībe pe augam /</div>
+       <lb id="Ench1615_B3B_11"/>
+        <div type="Language" lang="Latvian">unde īz galam varam stipre pastāvet / tev</div>
+       <lb id="Ench1615_B3B_12"/>
+        <div type="Language" lang="Latvian">par gode unde slave / unde patiese paklausīšene .</div>
+       <lb id="Ench1615_B3B_13"/>
+        <div type="Language" lang="Latvian">caur to pate tave mīle dēle jēzum kristum</div>
+       <lb id="Ench1615_B3B_14"/>
+        <div type="Language" lang="Latvian">mūsam kungam / amen .</div>
+       <lb id="Ench1615_B3B_15"/>
+        <div type="Language" lang="Latvian">ta dive desmete jautāšen .</div>
+       <lb id="Ench1615_B3B_16"/>
+        <div type="Language" lang="Latvian">ka būs vienam cilvēkam pēc to kad</div>
+       <lb id="Ench1615_B3B_17"/>
+        <div type="Language" lang="Latvian">tas pi dieve galde bijis jir / dieve</div>
+       <lb id="Ench1615_B3B_18"/>
+        <div type="Language" lang="Latvian">pateikt ?          atbilde .</div>
+       <lb id="Ench1615_B3B_19"/>
+        <div type="Language" lang="Latvian">o kungs jēzu kriste mēs pateicam tev /</div>
+       <lb id="Ench1615_B3B_20"/>
+        <div type="Language" lang="Latvian">ka tu mums caur tave rūgte nāve / unde mokems /</div>
+       <lb id="Ench1615_B3B_21"/>
+        <div type="Language" lang="Latvian">no lielims bēdims / unde dieve dusmībe pestis ese /</div>
+       <lb id="Ench1615_B3B_22"/>
+        <div type="Language" lang="Latvian">unde ka mēs tave svēte mocībe allažine varam</div>
+       <lb id="Ench1615_B3B_23"/>
+        <div type="Language" lang="Latvian"><corr>pieminēt</corr><sic>piemnēt</sic> unde ar to ielīksmotos / dode mums</div>
+       <lb id="Ench1615_B3B_24"/>
+        <div type="Language" lang="Latvian">tave svēte gare / ka mēs to pate tave dārge</div>
+       <lb id="Ench1615_B3B_25"/>
+        <div type="Language" lang="Latvian">miese unde asen ta varam valkot ēst und dzert /</div>
+       <lb id="Ench1615_B3B_26"/>
+        <div type="Language" lang="Latvian">ka mēs allažin tave liele mīlestībe iekškan mums</div>
+      </div>
+      <pb n="B4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_B4A_1"/>
+        <div type="Language" lang="Latvian">auglīge apdomāt varam / unde pēc tave prāte</div>
+       <lb id="Ench1615_B4A_2"/>
+        <div type="Language" lang="Latvian">darīt / katers tu dzīvo unde valde ar dieve to</div>
+       <lb id="Ench1615_B4A_3"/>
+        <div type="Language" lang="Latvian">tēve / to dēle / unde to svēte gare</div>
+       <lb id="Ench1615_B4A_4"/>
+        <div type="Language" lang="Latvian">iekškan viene dievīge būšen tur</div>
+       <lb id="Ench1615_B4A_5"/>
+        <div type="Language" lang="Latvian">mūžīge / amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_B4A_6"/>
+       <div type="Language" lang="German">Noch die 20. Frage für die Jenigen/</div>
+       <lb id="Ench1615_B4A_7"/>
+       <div type="Language" lang="German">ſo des HERRN Abendmhal gedencken</div>
+       <lb id="Ench1615_B4A_8"/>
+       <div type="Language" lang="German">zu emfangen/ geſtellet durch</div>
+       <lb id="Ench1615_B4A_9"/>
+       <div type="Language" lang="German">D. M. L.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_B4A_10"/>
+        <div type="Language" lang="Latvian">ta pirme jautāšen .</div>
+       <lb id="Ench1615_B4A_11"/>
+        <div type="Language" lang="Latvian">tic tu ka tu viens grēceneks es ?     atbilde .</div>
+       <lb id="Ench1615_B4A_12"/>
+        <div type="Language" lang="Latvian">ja es tic  / ka es viens grēceneks esme .</div>
+       <lb id="Ench1615_B4A_13"/>
+        <div type="Language" lang="Latvian">ta otre jautāšen .</div>
+       <lb id="Ench1615_B4A_14"/>
+        <div type="Language" lang="Latvian">nu kurenes zin tu to ?               atbilde .</div>
+       <lb id="Ench1615_B4A_15"/>
+        <div type="Language" lang="Latvian">aran tiems desmete bauslems /  tos ne esme</div>
+       <lb id="Ench1615_B4A_16"/>
+        <div type="Language" lang="Latvian">es turetis</div>
+       <lb id="Ench1615_B4A_17"/>
+        <div type="Language" lang="Latvian">ta treše jautāšen .</div>
+       <lb id="Ench1615_B4A_18"/>
+        <div type="Language" lang="Latvian">ko es tu ar tavems grēkems pelnis ?   <corr>atbilde</corr><sic>atbil</sic> .</div>
+       <lb id="Ench1615_B4A_19"/>
+        <div type="Language" lang="Latvian">dieve dusmībe unde sodībe / to laikīge  nāve</div>
+       <lb id="Ench1615_B4A_20"/>
+        <div type="Language" lang="Latvian">unde mūžīge pazudīšen .</div>
+       <lb id="Ench1615_B4A_21"/>
+        <div type="Language" lang="Latvian">ta cetorte jautāšen .</div>
+       <lb id="Ench1615_B4A_22"/>
+        <div type="Language" lang="Latvian">jir tev arīdzan tave grēke žēle ? <corr>atbilde</corr><sic>atbil</sic> .</div>
+       <lb id="Ench1615_B4A_23"/>
+        <div type="Language" lang="Latvian">ja te jir man nu vise mane sirde žēle / ka es</div>
+       <lb id="Ench1615_B4A_24"/>
+        <div type="Language" lang="Latvian">pretib mane dieve grēkojs esme .</div>
+      </div>
+      <pb n="B4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_B4B_1"/>
+        <div type="Language" lang="Latvian">ta piekte jautāšen .</div>
+       <lb id="Ench1615_B4B_2"/>
+        <div type="Language" lang="Latvian">doma jeb cerēje tu arīdzan svēts</div>
+       <lb id="Ench1615_B4B_3"/>
+        <div type="Language" lang="Latvian">tapt ?    atbilde .</div>
+       <lb id="Ench1615_B4B_4"/>
+        <div type="Language" lang="Latvian">ja es doma jeb cerēje jo svēts tapt .</div>
+       <lb id="Ench1615_B4B_5"/>
+        <div type="Language" lang="Latvian">ta seste <corr>jautāšen</corr><sic>jontāšen</sic> .</div>
+       <lb id="Ench1615_B4B_6"/>
+        <div type="Language" lang="Latvian">ar ko tu tev tad ieprieces ?    atbilde .</div>
+       <lb id="Ench1615_B4B_7"/>
+        <div type="Language" lang="Latvian">ar mane mīle kunge jēzu kristo .</div>
+       <lb id="Ench1615_B4B_8"/>
+        <div type="Language" lang="Latvian">ta septite jautāšen .</div>
+       <lb id="Ench1615_B4B_9"/>
+        <div type="Language" lang="Latvian">kas jir kristus ?                atbilde .</div>
+       <lb id="Ench1615_B4B_10"/>
+        <div type="Language" lang="Latvian">dieve dēls patiese dievs unde cilvēks .</div>
+       <lb id="Ench1615_B4B_11"/>
+        <div type="Language" lang="Latvian">ta astote jautāšen .</div>
+       <lb id="Ench1615_B4B_12"/>
+        <div type="Language" lang="Latvian">cik dieve jir tade ?            atbilde .</div>
+       <lb id="Ench1615_B4B_13"/>
+        <div type="Language" lang="Latvian">viens dievs vien / bet trīs persone / tas</div>
+       <lb id="Ench1615_B4B_14"/>
+        <div type="Language" lang="Latvian">tēvs / dēls unde svēts gars .</div>
+       <lb id="Ench1615_B4B_15"/>
+        <div type="Language" lang="Latvian">ta devite jautāšen .</div>
+       <lb id="Ench1615_B4B_16"/>
+        <div type="Language" lang="Latvian">ko jir kristus pār tev darīs / ka tu sev</div>
+       <lb id="Ench1615_B4B_17"/>
+        <div type="Language" lang="Latvian">ar vine ieprieces ?                    atbilde .</div>
+       <lb id="Ench1615_B4B_18"/>
+        <div type="Language" lang="Latvian">tas jir par manem nomiris unde sev asen</div>
+       <lb id="Ench1615_B4B_19"/>
+        <div type="Language" lang="Latvian">par manem izlējes  / par pamešen mane grēke .</div>
+       <lb id="Ench1615_B4B_20"/>
+        <div type="Language" lang="Latvian">ta desmete jautāšen .</div>
+       <lb id="Ench1615_B4B_21"/>
+        <div type="Language" lang="Latvian">jir arīdzan dievs tas tēvs par tev nomiris</div>
+       <lb id="Ench1615_B4B_22"/>
+        <div type="Language" lang="Latvian">?            atbilde .</div>
+      </div>
+      <pb n="CA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_CA_1"/>
+        <div type="Language" lang="Latvian">nen / aizto tas tēvs jir dievs vien / tas</div>
+       <lb id="Ench1615_CA_2"/>
+        <div type="Language" lang="Latvian">svēts gars arīdzan / bet tas dēls jir līdz</div>
+       <lb id="Ench1615_CA_3"/>
+        <div type="Language" lang="Latvian">patiese dievs unde cilvēks / katers jir par manems</div>
+       <lb id="Ench1615_CA_4"/>
+        <div type="Language" lang="Latvian">grēkems nomiris und save dārge asen izlējis .</div>
+       <lb id="Ench1615_CA_5"/>
+        <div type="Language" lang="Latvian">ta viene padesmete jautāšen .</div>
+       <lb id="Ench1615_CA_6"/>
+        <div type="Language" lang="Latvian">nu kurenes zin tu to  ?                atbilde .</div>
+       <lb id="Ench1615_CA_7"/>
+        <div type="Language" lang="Latvian">aran to svēte evangelium unde aran tiems</div>
+       <lb id="Ench1615_CA_8"/>
+        <div type="Language" lang="Latvian">vārdems to augste cienīge vakare ēdene / unde pi</div>
+       <lb id="Ench1615_CA_9"/>
+        <div type="Language" lang="Latvian">viņe miese unde asen katra man par viene ķīle jir</div>
+       <lb id="Ench1615_CA_10"/>
+        <div type="Language" lang="Latvian">dots .</div>
+       <lb id="Ench1615_CA_11"/>
+        <div type="Language" lang="Latvian">ta dive padesmete jautāšen .</div>
+       <lb id="Ench1615_CA_12"/>
+        <div type="Language" lang="Latvian">ka skan tie vārde ?                      atbilde .</div>
+       <lb id="Ench1615_CA_13"/>
+        <div type="Language" lang="Latvian">mūse kungs jēzus kristus iekškan to nakte /</div>
+       <lb id="Ench1615_CA_14"/>
+        <div type="Language" lang="Latvian">kad tas pievilts tape jeme tas to maize pateice</div>
+       <lb id="Ench1615_CA_15"/>
+        <div type="Language" lang="Latvian">svētī to / unde dave to savems māceklems</div>
+       <lb id="Ench1615_CA_16"/>
+        <div type="Language" lang="Latvian">unde sacī / jemet unde ēdet tā jir mane</div>
+       <lb id="Ench1615_CA_17"/>
+        <div type="Language" lang="Latvian">miese / katra par jums top / dots  / to daret iekškan</div>
+       <lb id="Ench1615_CA_18"/>
+        <div type="Language" lang="Latvian">mane pieminēšen .</div>
+       <lb id="Ench1615_CA_19"/>
+        <div type="Language" lang="Latvian">ta līdze arīdzan jēme tas to biķer pēc</div>
+       <lb id="Ench1615_CA_20"/>
+        <div type="Language" lang="Latvian">to vakare ēdene pateice  / unde dave to savems</div>
+       <lb id="Ench1615_CA_21"/>
+        <div type="Language" lang="Latvian">māceklems unde sacī  / jemet und iedzeret</div>
+       <lb id="Ench1615_CA_22"/>
+        <div type="Language" lang="Latvian">šeit vise aran / šis jir tas biķers tas jaunes</div>
+       <lb id="Ench1615_CA_23"/>
+        <div type="Language" lang="Latvian">iestādīšenes iekškan mane asen / katers</div>
+       <lb id="Ench1615_CA_24"/>
+        <div type="Language" lang="Latvian">par jums / unde par daudzems top izliets pār grēke</div>
+       <lb id="Ench1615_CA_25"/>
+        <div type="Language" lang="Latvian">pamešen / ciekārt jūs to dzeret / to daret</div>
+       <lb id="Ench1615_CA_26"/>
+        <div type="Language" lang="Latvian">iekškan mane pieminēšen .</div>
+      </div>
+      <pb n="CB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_CB_1"/>
+        <div type="Language" lang="Latvian">ta treše padesmete jautāšen .</div>
+       <lb id="Ench1615_CB_2"/>
+        <div type="Language" lang="Latvian">tic tu ka iekškan to cienīge vakere ēdene jir ta</div>
+       <lb id="Ench1615_CB_3"/>
+        <div type="Language" lang="Latvian">patiese miese unde asen jēzu kristi ?      atbilde .</div>
+       <lb id="Ench1615_CB_4"/>
+        <div type="Language" lang="Latvian">ja es tic to bez vise alošen .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_CB_5"/>
+        <div type="Language" lang="Latvian">ta cetorte padesmete jautāšen .</div>
+       <lb id="Ench1615_CB_6"/>
+        <div type="Language" lang="Latvian">kas piespieže tev to pate ticet ?   atbilde .</div>
+       <lb id="Ench1615_CB_7"/>
+        <div type="Language" lang="Latvian">ta vārde kristi / jemet unde ēdet / tā</div>
+       <lb id="Ench1615_CB_8"/>
+        <div type="Language" lang="Latvian">jir mane miese / jemet und dzeret tas jir mans</div>
+       <lb id="Ench1615_CB_9"/>
+        <div type="Language" lang="Latvian">asens .</div>
+       <lb id="Ench1615_CB_10"/>
+        <div type="Language" lang="Latvian">ta piekte padesmete jautāšen .</div>
+       <lb id="Ench1615_CB_11"/>
+        <div type="Language" lang="Latvian">ko būs mums tad darit / ka mēs viņe</div>
+       <lb id="Ench1615_CB_12"/>
+        <div type="Language" lang="Latvian">miese ēdam / unde viņe asen dzeram / unde tā</div>
+       <lb id="Ench1615_CB_13"/>
+        <div type="Language" lang="Latvian">pate ķīle tā jemt ?atbilde .</div>
+       <lb id="Ench1615_CB_14"/>
+        <div type="Language" lang="Latvian">viņe nāve / unde asen izliešen būs mums</div>
+       <lb id="Ench1615_CB_15"/>
+        <div type="Language" lang="Latvian">sludenāt unde pieminet  / ka viņš mums to pats</div>
+       <lb id="Ench1615_CB_16"/>
+        <div type="Language" lang="Latvian">mācis jir / to daret iekškan mane pieminēšen .</div>
+       <lb id="Ench1615_CB_17"/>
+        <div type="Language" lang="Latvian">ta seste padesmete jautāšen ,</div>
+       <lb id="Ench1615_CB_18"/>
+        <div type="Language" lang="Latvian">kāpēc būs mums pieminet viņe nāve / und</div>
+       <lb id="Ench1615_CB_19"/>
+        <div type="Language" lang="Latvian">to pate sludenāt ?atbilde .</div>
+       <lb id="Ench1615_CB_20"/>
+        <div type="Language" lang="Latvian">tapēc ka mēs mācam ticet / ka neviene</div>
+       <lb id="Ench1615_CB_21"/>
+        <div type="Language" lang="Latvian">cite radītāje liete varete gane darit / par mūsems</div>
+       <lb id="Ench1615_CB_22"/>
+        <div type="Language" lang="Latvian">grēkems  / ka kristus vien patiese dievs und</div>
+       <lb id="Ench1615_CB_23"/>
+        <div type="Language" lang="Latvian">cilvēks  / pēc to arīdzan ka mēs mācam izsabities</div>
+       <lb id="Ench1615_CB_24"/>
+        <div type="Language" lang="Latvian">/ mūse grēke pēc  / unde mums ar viņe</div>
+      </div>
+      <pb n="C2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_C2A_1"/>
+        <div type="Language" lang="Latvian">iepriecenāt / unde tade caur tāde viene ticebe svēte</div>
+       <lb id="Ench1615_C2A_2"/>
+        <div type="Language" lang="Latvian">und žēlīge tapt .</div>
+       <lb id="Ench1615_C2A_3"/>
+        <div type="Language" lang="Latvian">ta septite padesmete jautāšen .</div>
+       <lb id="Ench1615_C2A_4"/>
+        <div type="Language" lang="Latvian">kas jir kristum piespiedis par tavems grēkems</div>
+       <lb id="Ench1615_C2A_5"/>
+        <div type="Language" lang="Latvian">mirt unde gane darit ?               atbilde .</div>
+       <lb id="Ench1615_C2A_6"/>
+        <div type="Language" lang="Latvian">viņe liele mīlestīb pretib save debese tēve</div>
+       <lb id="Ench1615_C2A_7"/>
+        <div type="Language" lang="Latvian">/ pretib man / und vises nabages greceniekes .</div>
+       <lb id="Ench1615_C2A_8"/>
+        <div type="Language" lang="Latvian">ta astote padesmete jautāšen .</div>
+       <lb id="Ench1615_C2A_9"/>
+        <div type="Language" lang="Latvian">kāpēc grib tu pi dieve galde iet .         atbilde .</div>
+       <lb id="Ench1615_C2A_10"/>
+        <div type="Language" lang="Latvian">tapēc ka es māce ticet / ka kristum mane</div>
+       <lb id="Ench1615_C2A_11"/>
+        <div type="Language" lang="Latvian">grēke pēc no liele mīlestīb nomiris jir / unde pēc</div>
+       <lb id="Ench1615_C2A_12"/>
+        <div type="Language" lang="Latvian">to arīdzan / no viņe mācet ticet / dieve unde</div>
+       <lb id="Ench1615_C2A_13"/>
+        <div type="Language" lang="Latvian">mane tuvāke cilvēke mīlet .</div>
+       <lb id="Ench1615_C2A_14"/>
+        <div type="Language" lang="Latvian">ta devite padesmete . jautāšen .</div>
+       <lb id="Ench1615_C2A_15"/>
+        <div type="Language" lang="Latvian">kāpēc būs vienam krustītājam cilvēkam</div>
+       <lb id="Ench1615_C2A_16"/>
+        <div type="Language" lang="Latvian">to vakare ēdene dažekārt valkot ?   atbil.</div>
+       <lb id="Ench1615_C2A_17"/>
+        <div type="Language" lang="Latvian">pirme kārtan dieve unde viņe solīšen unde</div>
+       <lb id="Ench1615_C2A_18"/>
+        <div type="Language" lang="Latvian">pavelēšen pēc / otre kārtan save pate bēdes</div>
+       <lb id="Ench1615_C2A_19"/>
+        <div type="Language" lang="Latvian">pēc / katre ikvienam virson save kamesems</div>
+       <lb id="Ench1615_C2A_20"/>
+        <div type="Language" lang="Latvian">gule .</div>
+       <lb id="Ench1615_C2A_21"/>
+        <div type="Language" lang="Latvian">ta dive desmete jautāšen .</div>
+       <lb id="Ench1615_C2A_22"/>
+        <div type="Language" lang="Latvian">ko būs vienam cilvēkam darit kas tades ledes</div>
+       <lb id="Ench1615_C2A_23"/>
+        <div type="Language" lang="Latvian">ne sajūt  / unde katram neviene izsalkšenes</div>
+       <lb id="Ench1615_C2A_24"/>
+        <div type="Language" lang="Latvian">nedz tvīkstēšen pi to cienīge vakare edene jir ?  atbil .</div>
+      </div>
+      <pb n="C2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_C2B_1"/>
+        <div type="Language" lang="Latvian">tādam cilvēkam nevar viene labake padome</div>
+       <lb id="Ench1615_C2B_2"/>
+        <div type="Language" lang="Latvian">tapt dote / ka šis vien / ka tas iekškan save</div>
+       <lb id="Ench1615_C2B_3"/>
+        <div type="Language" lang="Latvian">pate azote grabe / unde jūt / jeb baude / ja tam arīdzan</div>
+       <lb id="Ench1615_C2B_4"/>
+        <div type="Language" lang="Latvian">vel miese unde asen jir / unde tic tai svētei</div>
+       <lb id="Ench1615_C2B_5"/>
+        <div type="Language" lang="Latvian">rakste / ka tā no to sake .</div>
+       <lb id="Ench1615_C2B_6"/>
+        <div type="Language" lang="Latvian">otran kārtan kad tas apkārt sev lūka jeb tas</div>
+       <lb id="Ench1615_C2B_7"/>
+        <div type="Language" lang="Latvian">vēl iekškan ša pasaul jir / und <corr>piemin</corr><sic>piemim</sic> ka tas bez</div>
+       <lb id="Ench1615_C2B_8"/>
+        <div type="Language" lang="Latvian">bēdems unde grēkems nebūs ka arīdzan ta svete</div>
+       <lb id="Ench1615_C2B_9"/>
+        <div type="Language" lang="Latvian">raksts sak .</div>
+       <lb id="Ench1615_C2B_10"/>
+        <div type="Language" lang="Latvian">trešen kārtan tad būs tas velns allažin apkārt</div>
+       <lb id="Ench1615_C2B_11"/>
+        <div type="Language" lang="Latvian">to kas tam neviene miere liks ar meliums</div>
+       <lb id="Ench1615_C2B_12"/>
+        <div type="Language" lang="Latvian">unde slepkavībe diene und nakt / iekskīge und arīge /</div>
+       <lb id="Ench1615_C2B_13"/>
+        <div type="Language" lang="Latvian">ka arīdzan ta svēte raksts iekškan daudzims vietems</div>
+       <lb id="Ench1615_C2B_14"/>
+        <div type="Language" lang="Latvian">to aprakte / amen .</div>
+       <lb id="Ench1615_C2B_15"/>
+        <div type="Language" lang="Latvian">nu nāk tie piece jautāšen</div>
+       <lb id="Ench1615_C2B_16"/>
+        <div type="Language" lang="Latvian">unde atbildešen .</div>
+       <lb id="Ench1615_C2B_17"/>
+        <div type="Language" lang="Latvian">ta pirme jautāšen .</div>
+       <lb id="Ench1615_C2B_18"/>
+        <div type="Language" lang="Latvian">kāpēc jem tu to svēte iestādījum no to miese</div>
+       <lb id="Ench1615_C2B_19"/>
+        <div type="Language" lang="Latvian">unde asene jēzu kristi ?        atbilde .</div>
+       <lb id="Ench1615_C2B_20"/>
+        <div type="Language" lang="Latvian">tapēc ka es arīdzan esme viens dieve</div>
+       <lb id="Ench1615_C2B_21"/>
+        <div type="Language" lang="Latvian">bērns und man jir dalībe und <corr>draudzībe</corr><sic>daudzībe</sic> ar kristo</div>
+       <lb id="Ench1615_C2B_22"/>
+        <div type="Language" lang="Latvian">ar visems mīlems svētems und ar visems ticigems</div>
+       <lb id="Ench1615_C2B_23"/>
+        <div type="Language" lang="Latvian">labems krustītems ar tiems / labprāt ciest</div>
+       <lb id="Ench1615_C2B_24"/>
+        <div type="Language" lang="Latvian"><corr>unde</corr><sic>vude</sic> mirt .</div>
+       <lb id="Ench1615_C2B_25"/>
+        <div type="Language" lang="Latvian">ta otre jautāšen .</div>
+      </div>
+      <pb n="C3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_C3A_1"/>
+        <div type="Language" lang="Latvian">ko tic tu jeb ko atzīst tu kas iekškan šo svēte</div>
+       <lb id="Ench1615_C3A_2"/>
+        <div type="Language" lang="Latvian">iestādījum jir ?                      atbilde .</div>
+       <lb id="Ench1615_C3A_3"/>
+        <div type="Language" lang="Latvian">apeškan to maize unde vine jir vise ta miese</div>
+       <lb id="Ench1615_C3A_4"/>
+        <div type="Language" lang="Latvian">unde asen jēzu kristi / bet tas nevaid man gan</div>
+       <lb id="Ench1615_C3A_5"/>
+        <div type="Language" lang="Latvian">ka es to zine / bet man būs arīdzan ticet ka</div>
+       <lb id="Ench1615_C3A_6"/>
+        <div type="Language" lang="Latvian">man / mans kungs kristus to pate par viene ziname</div>
+       <lb id="Ench1615_C3A_7"/>
+        <div type="Language" lang="Latvian">patiese zīme / unde save pastare prāte pats</div>
+       <lb id="Ench1615_C3A_8"/>
+        <div type="Language" lang="Latvian">devis jir / iekškan save vaker ēdene .</div>
+       <lb id="Ench1615_C3A_9"/>
+        <div type="Language" lang="Latvian">ta treše jautāšen .</div>
+       <lb id="Ench1615_C3A_10"/>
+        <div type="Language" lang="Latvian">ka skan tie vārde  / no to iestādījum / jeb vakare</div>
+       <lb id="Ench1615_C3A_11"/>
+        <div type="Language" lang="Latvian">ēdene / katres vārdes tas kungs kristus valkojs</div>
+       <lb id="Ench1615_C3A_12"/>
+        <div type="Language" lang="Latvian">unde sacīs jir ?              atbild .</div>
+       <lb id="Ench1615_C3A_13"/>
+        <div type="Language" lang="Latvian">ta sacī tas kungs uz savems māceklems /</div>
+       <lb id="Ench1615_C3A_14"/>
+        <div type="Language" lang="Latvian">kad tas tiems to maize deve / <corr>jemet</corr><sic>jeunet</sic> / unde edet</div>
+       <lb id="Ench1615_C3A_15"/>
+        <div type="Language" lang="Latvian">ta jir mane miese / katers par jums top dote / und</div>
+       <lb id="Ench1615_C3A_16"/>
+        <div type="Language" lang="Latvian">kad tas tiems to biķere dave / sacī tas / dzeret</div>
+       <lb id="Ench1615_C3A_17"/>
+        <div type="Language" lang="Latvian">sev vis aran / šis jir mans asens tās jaunes</div>
+       <lb id="Ench1615_C3A_18"/>
+        <div type="Language" lang="Latvian">iestādīšenes / katers tur top izliets par jums und</div>
+       <lb id="Ench1615_C3A_19"/>
+        <div type="Language" lang="Latvian">par daudzems iekškan grēke pamešene to daret</div>
+       <lb id="Ench1615_C3A_20"/>
+        <div type="Language" lang="Latvian">iekškan mane <corr>pieminešen</corr><sic>penešen</sic>.</div>
+       <lb id="Ench1615_C3A_21"/>
+        <div type="Language" lang="Latvian">ta cetorte jautāšen</div>
+       <lb id="Ench1615_C3A_22"/>
+        <div type="Language" lang="Latvian">kāpēc jem tu to zīme / navaid tev tā ticib</div>
+       <lb id="Ench1615_C3A_23"/>
+        <div type="Language" lang="Latvian">gane ?                      atbilde .</div>
+       <lb id="Ench1615_C3A_24"/>
+        <div type="Language" lang="Latvian">to zīme jem es tapēc / ka es mane ticībe</div>
+       <lb id="Ench1615_C3A_25"/>
+        <div type="Language" lang="Latvian">iestipre / ne tā / ka es pi to ticib izsamis jeb alo /</div>
+       <lb id="Ench1615_C3A_26"/>
+        <div type="Language" lang="Latvian">bet aizto ka dievs to zīme klāt pi to vārde devis/</div>
+      </div>
+      <pb n="C3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_C3B_1"/>
+        <div type="Language" lang="Latvian">/ nu <corr>katre</corr><sic>kate</sic> lenībe / labe darišen unde žēlestīb</div>
+       <lb id="Ench1615_C3B_2"/>
+        <div type="Language" lang="Latvian">grib es to pate zīme valkot unde jemt / unde nepolgāt</div>
+       <lb id="Ench1615_C3B_3"/>
+        <div type="Language" lang="Latvian">/ aizto tā zīme jir man vajag und lab par iestiprošen</div>
+       <lb id="Ench1615_C3B_4"/>
+        <div type="Language" lang="Latvian">/ unde pieminēšen to cietum und solīšen /</div>
+       <lb id="Ench1615_C3B_5"/>
+        <div type="Language" lang="Latvian">katre man jir ar mane kunge jēzu kristo iekškan</div>
+       <lb id="Ench1615_C3B_6"/>
+        <div type="Language" lang="Latvian">viņe asene / pretib visems manems grēkems</div>
+       <lb id="Ench1615_C3B_7"/>
+        <div type="Language" lang="Latvian">bēdems unde kardenašene / aizto ta jir kristus</div>
+       <lb id="Ench1615_C3B_8"/>
+        <div type="Language" lang="Latvian">paveleis / ka mums to būs darit iekškan viņe</div>
+       <lb id="Ench1615_C3B_9"/>
+        <div type="Language" lang="Latvian">pieminšen / tas jir mums būs sludenāt /</div>
+       <lb id="Ench1615_C3B_10"/>
+        <div type="Language" lang="Latvian">viņe nāve katre jir mūse pestīšen svētībe</div>
+       <lb id="Ench1615_C3B_11"/>
+        <div type="Language" lang="Latvian">unde dzīvībe .</div>
+       <lb id="Ench1615_C3B_12"/>
+        <div type="Language" lang="Latvian">ta piekte jautāšen .</div>
+       <lb id="Ench1615_C3B_13"/>
+        <div type="Language" lang="Latvian">ka grib tu to svēte iestādījum valkot unde</div>
+       <lb id="Ench1615_C3B_14"/>
+        <div type="Language" lang="Latvian">jemt ?                       atbilde .</div>
+       <lb id="Ench1615_C3B_15"/>
+        <div type="Language" lang="Latvian">es grib to ēst unde dzert par viene pieminešene</div>
+       <lb id="Ench1615_C3B_16"/>
+        <div type="Language" lang="Latvian">mūse kunge jēzu kristi ka sacīts jir</div>
+       <lb id="Ench1615_C3B_17"/>
+        <div type="Language" lang="Latvian">unde viņems vārdems ticet / unde to ticībe</div>
+       <lb id="Ench1615_C3B_18"/>
+        <div type="Language" lang="Latvian">dot /katres vārdes tas uz savems māceklems</div>
+       <lb id="Ench1615_C3B_19"/>
+        <div type="Language" lang="Latvian">sacī /kad tas tiems to miese unde asene</div>
+       <lb id="Ench1615_C3B_20"/>
+        <div type="Language" lang="Latvian">dav / šo priecīge <corr>piesacīšen</corr><sic>piesat / cīšen</sic> būs mums ar</div>
+       <lb id="Ench1615_C3B_21"/>
+        <div type="Language" lang="Latvian">viene ticīge sirde uzjempt unde sasniegt / amen .</div>
+       <lb id="Ench1615_C3B_22"/>
+        <div type="Language" lang="Latvian">johanes tan piektan vietan sake kristus /</div>
+       <lb id="Ench1615_C3B_23"/>
+        <div type="Language" lang="Latvian">mans tēvs strāda īz <corr>šīm</corr><sic>īšīm</sic> und es arīdzan / tas</div>
+       <lb id="Ench1615_C3B_24"/>
+        <div type="Language" lang="Latvian">jir / tas paliek iekškan savems vārdems</div>
+       <lb id="Ench1615_C3B_25"/>
+        <div type="Language" lang="Latvian">unde darbems /</div>
+      </div>
+      <pb n="C4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_C4A_1"/>
+       <div type="Language" lang="German">Die heiligen Zehen</div>
+       <lb id="Ench1615_C4A_2"/>
+       <div type="Language" lang="German">Gobot Gottes</div>
+       <lb id="Ench1615_C4A_3"/>
+        <div type="Language" lang="Latvian">te desmete bausle / ka tos vienam name tēvam</div>
+       <lb id="Ench1615_C4A_4"/>
+        <div type="Language" lang="Latvian">save saime vienkārtīge priekškan</div>
+       <lb id="Ench1615_C4A_5"/>
+        <div type="Language" lang="Latvian">turēt unde mācīt būs .</div>
+       <lb id="Ench1615_C4A_6"/>
+        <div type="Language" lang="Latvian">tas pirmais bauslis .</div>
+       <lb id="Ench1615_C4A_7"/>
+        <div type="Language" lang="Latvian">tev ne būs cities dieves turēt</div>
+       <lb id="Ench1615_C4A_8"/>
+        <div type="Language" lang="Latvian">priekškan man .</div>
+       <lb id="Ench1615_C4A_9"/>
+        <div type="Language" lang="Latvian">kas jir tas ?          atbilde .</div>
+       <lb id="Ench1615_C4A_10"/>
+        <div type="Language" lang="Latvian">mums būs dieve pār vise liete bīties</div>
+       <lb id="Ench1615_C4A_11"/>
+        <div type="Language" lang="Latvian">/ mīlēt und uz to cerēt .</div>
+      </div>
+      <pb n="C4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_C4B_1"/>
+        <div type="Language" lang="Latvian">tas oters bauslis .</div>
+       <lb id="Ench1615_C4B_2"/>
+        <div type="Language" lang="Latvian">tev ne būs dieve tave kunge</div>
+       <lb id="Ench1615_C4B_3"/>
+        <div type="Language" lang="Latvian">vārde ne patiese valkot .</div>
+       <lb id="Ench1615_C4B_4"/>
+        <div type="Language" lang="Latvian">kas jir tas ?         atbilde .</div>
+       <lb id="Ench1615_C4B_5"/>
+        <div type="Language" lang="Latvian">mums būs dieve bīties unde mīlet /</div>
+       <lb id="Ench1615_C4B_6"/>
+        <div type="Language" lang="Latvian">ka mēs pi viņe vārde ne lādam / nedz</div>
+       <lb id="Ench1615_C4B_7"/>
+        <div type="Language" lang="Latvian">ne patiese dieve minam / nedz buŗam</div>
+       <lb id="Ench1615_C4B_8"/>
+        <div type="Language" lang="Latvian">melojam jeb pieviļam / bet to</div>
+       <lb id="Ench1615_C4B_9"/>
+        <div type="Language" lang="Latvian">pate iekškan <corr>visims</corr><sic>vusims</sic> bēdims piesaucam /</div>
+       <lb id="Ench1615_C4B_10"/>
+        <div type="Language" lang="Latvian">lūdzam / teicam unde slavējam .</div>
+      </div>
+      <pb n="DA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_DA_1"/>
+        <div type="Language" lang="Latvian">tas trešais bauslis .</div>
+       <lb id="Ench1615_DA_2"/>
+        <div type="Language" lang="Latvian">tev būs to svēte diene</div>
+       <lb id="Ench1615_DA_3"/>
+        <div type="Language" lang="Latvian">svētīto .</div>
+       <lb id="Ench1615_DA_4"/>
+        <div type="Language" lang="Latvian">kas jir tas ?            atbilde .</div>
+       <lb id="Ench1615_DA_5"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties / unde</div>
+       <lb id="Ench1615_DA_6"/>
+        <div type="Language" lang="Latvian">mīlet  / ka mēs to predike unde viņe</div>
+       <lb id="Ench1615_DA_7"/>
+        <div type="Language" lang="Latvian">vārde / ne pulgājam / bet to pate</div>
+       <lb id="Ench1615_DA_8"/>
+        <div type="Language" lang="Latvian">svēte turam / labprāt dzirdam /</div>
+       <lb id="Ench1615_DA_9"/>
+        <div type="Language" lang="Latvian"><corr>unde</corr><sic>vnude</sic> mācam .</div>
+      </div>
+      <pb n="DB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_DB_1"/>
+        <div type="Language" lang="Latvian">tas cetorts bauslis .</div>
+       <lb id="Ench1615_DB_2"/>
+        <div type="Language" lang="Latvian">tev būs tave tēve unde</div>
+       <lb id="Ench1615_DB_3"/>
+        <div type="Language" lang="Latvian">tave māte cienīt / ka tev labe klājas</div>
+       <lb id="Ench1615_DB_4"/>
+        <div type="Language" lang="Latvian">und tu ilge dzīvo virson zemes .</div>
+       <lb id="Ench1615_DB_5"/>
+        <div type="Language" lang="Latvian">kas jir tas ?              atbilde .</div>
+       <lb id="Ench1615_DB_6"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties unde mīlēt</div>
+       <lb id="Ench1615_DB_7"/>
+        <div type="Language" lang="Latvian">/ ka mēs mūse vecākes unde kunges</div>
+       <lb id="Ench1615_DB_8"/>
+        <div type="Language" lang="Latvian">ne pulgojam / nedz apkaitenājam .</div>
+       <lb id="Ench1615_DB_9"/>
+        <div type="Language" lang="Latvian">bet tos iekškan gode turam /tiems</div>
+       <lb id="Ench1615_DB_10"/>
+        <div type="Language" lang="Latvian">kalpojam / paklausam / mīlējam / unde</div>
+       <lb id="Ench1615_DB_11"/>
+        <div type="Language" lang="Latvian">cienājam .</div>
+      </div>
+      <pb n="D2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_D2A_1"/>
+        <div type="Language" lang="Latvian">tas piekts bauslis .</div>
+       <lb id="Ench1615_D2A_2"/>
+        <div type="Language" lang="Latvian">tev ne būs nokaut .</div>
+       <lb id="Ench1615_D2A_3"/>
+        <div type="Language" lang="Latvian">kas jir tas ?              atbilde :</div>
+       <lb id="Ench1615_D2A_4"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties unde</div>
+       <lb id="Ench1615_D2A_5"/>
+        <div type="Language" lang="Latvian">mīlēt / ka mēs mūsam tuvākam</div>
+       <lb id="Ench1615_D2A_6"/>
+        <div type="Language" lang="Latvian">pi viņe miese neviene likste / nedz</div>
+       <lb id="Ench1615_D2A_7"/>
+        <div type="Language" lang="Latvian">vaine daram / bet tam palīdzam</div>
+       <lb id="Ench1615_D2A_8"/>
+        <div type="Language" lang="Latvian">unde kalpojam / iekškan visims miese</div>
+       <lb id="Ench1615_D2A_9"/>
+        <div type="Language" lang="Latvian">bēdims .</div>
+      </div>
+      <pb n="D2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_D2B_1"/>
+        <div type="Language" lang="Latvian">tas sests bauslis .</div>
+       <lb id="Ench1615_D2B_2"/>
+        <div type="Language" lang="Latvian">tev ne būs laulībe pārkāpt .</div>
+       <lb id="Ench1615_D2B_3"/>
+        <div type="Language" lang="Latvian">kas jir tas ?              atbilde .</div>
+       <lb id="Ench1615_D2B_4"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties unde</div>
+       <lb id="Ench1615_D2B_5"/>
+        <div type="Language" lang="Latvian">mīlēt / ka mēs šķīste unde kaunīge dzīvojam</div>
+       <lb id="Ench1615_D2B_6"/>
+        <div type="Language" lang="Latvian">/ iekškan vārdims unde darbims /</div>
+       <lb id="Ench1615_D2B_7"/>
+        <div type="Language" lang="Latvian">unde ka ikviens save laulāte drauge</div>
+       <lb id="Ench1615_D2B_8"/>
+        <div type="Language" lang="Latvian">mīle tur / unde gode .</div>
+      </div>
+      <pb n="D3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_D3A_1"/>
+        <div type="Language" lang="Latvian">tas septīts bauslis .</div>
+       <lb id="Ench1615_D3A_2"/>
+        <div type="Language" lang="Latvian">tev ne būs zagt .</div>
+       <lb id="Ench1615_D3A_3"/>
+        <div type="Language" lang="Latvian">kas jir tas ?             atbilde .</div>
+       <lb id="Ench1615_D3A_4"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties und mīlēt</div>
+       <lb id="Ench1615_D3A_5"/>
+        <div type="Language" lang="Latvian">/ ka mēs mūse tuvāke naude jeb</div>
+       <lb id="Ench1615_D3A_6"/>
+        <div type="Language" lang="Latvian">padome ne jemam / nedz ar viltīge</div>
+       <lb id="Ench1615_D3A_7"/>
+        <div type="Language" lang="Latvian">priece jeb priecēšene pi mums</div>
+       <lb id="Ench1615_D3A_8"/>
+        <div type="Language" lang="Latvian">velkam / bet tam viņe padome</div>
+       <lb id="Ench1615_D3A_9"/>
+        <div type="Language" lang="Latvian">unde uzturēšen palīdzam pieauglēt</div>
+       <lb id="Ench1615_D3A_10"/>
+        <div type="Language" lang="Latvian">unde pasargāt .</div>
+      </div>
+      <pb n="D3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_D3B_1"/>
+        <div type="Language" lang="Latvian">tas astots bauslis .</div>
+       <lb id="Ench1615_D3B_2"/>
+        <div type="Language" lang="Latvian">tev ne būs ne patiese liecībe</div>
+       <lb id="Ench1615_D3B_3"/>
+        <div type="Language" lang="Latvian">dot / pretībe tave tuvāke .</div>
+       <lb id="Ench1615_D3B_4"/>
+        <div type="Language" lang="Latvian">kas tas jir ?              atbilde .</div>
+       <lb id="Ench1615_D3B_5"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties und mīlet</div>
+       <lb id="Ench1615_D3B_6"/>
+        <div type="Language" lang="Latvian">/ ka mēs mūse tuvāke unde viltīge</div>
+       <lb id="Ench1615_D3B_7"/>
+        <div type="Language" lang="Latvian">apmelojam <corr>nedz</corr><sic>idz</sic> aptrēsam jeb viene</div>
+       <lb id="Ench1615_D3B_8"/>
+        <div type="Language" lang="Latvian">ļaune slave daram / bet mums būs</div>
+       <lb id="Ench1615_D3B_9"/>
+        <div type="Language" lang="Latvian">to atbildēt / vise labe no to <corr>sacīt</corr><sic>stacīt</sic> / unde</div>
+       <lb id="Ench1615_D3B_10"/>
+        <div type="Language" lang="Latvian">vise liete par labe griezte .</div>
+      </div>
+      <pb n="D4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_D4A_1"/>
+        <div type="Language" lang="Latvian">tas devīts bauslis .</div>
+       <lb id="Ench1615_D4A_2"/>
+        <div type="Language" lang="Latvian">tev ne būs iekārot tave tuvāke</div>
+       <lb id="Ench1615_D4A_3"/>
+        <div type="Language" lang="Latvian">name .</div>
+       <lb id="Ench1615_D4A_4"/>
+        <div type="Language" lang="Latvian">kas jir tas ?               atbilde .</div>
+       <lb id="Ench1615_D4A_5"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties und mīlēt</div>
+       <lb id="Ench1615_D4A_6"/>
+        <div type="Language" lang="Latvian">/ ka mēs mūsam tuvākam ne</div>
+       <lb id="Ench1615_D4A_7"/>
+        <div type="Language" lang="Latvian">ar vilte pēc viņe mante jeb name</div>
+       <lb id="Ench1615_D4A_8"/>
+        <div type="Language" lang="Latvian">stāvam /unde ar spīdībe tās tieses pi</div>
+       <lb id="Ench1615_D4A_9"/>
+        <div type="Language" lang="Latvian">mums ne velkam</div>
+       <div type="Language" lang="Latin">etc</div>
+        <div type="Language" lang="Latvian">. bet tam palīdzam</div>
+       <lb id="Ench1615_D4A_10"/>
+        <div type="Language" lang="Latvian">/ unde pakalpīge esam ka tas</div>
+       <lb id="Ench1615_D4A_11"/>
+        <div type="Language" lang="Latvian">to patūr .</div>
+      </div>
+      <pb n="D4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_D4B_1"/>
+        <div type="Language" lang="Latvian">tas desmets bauslis .</div>
+       <lb id="Ench1615_D4B_2"/>
+        <div type="Language" lang="Latvian">tev ne būs iekārot tave  tuvāke</div>
+       <lb id="Ench1615_D4B_3"/>
+        <div type="Language" lang="Latvian">sieve / kalpe / kalpune / lope / jeb</div>
+       <lb id="Ench1615_D4B_4"/>
+        <div type="Language" lang="Latvian">vise kas tam pieder .</div>
+       <lb id="Ench1615_D4B_5"/>
+        <div type="Language" lang="Latvian">kas jir tas ?                atbilde .</div>
+       <lb id="Ench1615_D4B_6"/>
+        <div type="Language" lang="Latvian">mums būs dieve bījāties und mīlēt</div>
+       <lb id="Ench1615_D4B_7"/>
+        <div type="Language" lang="Latvian">/ ka mēs mūsam tuvākam viņe</div>
+       <lb id="Ench1615_D4B_8"/>
+        <div type="Language" lang="Latvian">sieve / saime / jeb lopes ne nojaucējam</div>
+       <lb id="Ench1615_D4B_9"/>
+        <div type="Language" lang="Latvian">/ jeb ne nospiežam / bet tos paties</div>
+       <lb id="Ench1615_D4B_10"/>
+        <div type="Language" lang="Latvian">pieminam / ka te paliek unde dar /</div>
+       <lb id="Ench1615_D4B_11"/>
+        <div type="Language" lang="Latvian">kas tiems pieder .</div>
+       <lb id="Ench1615_D4B_12"/>
+        <div type="Language" lang="Latvian">ko sak nu dievs no visims šiems</div>
+       <lb id="Ench1615_D4B_13"/>
+        <div type="Language" lang="Latvian">bauslims ?           atbilde .</div>
+      </div>
+      <pb n="EA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_EA_1"/>
+        <div type="Language" lang="Latvian">es tas kungs tavs dievs / esme viens</div>
+       <lb id="Ench1615_EA_2"/>
+        <div type="Language" lang="Latvian">dusmīgs dievs / katers pār tiems / katre</div>
+       <lb id="Ench1615_EA_3"/>
+        <div type="Language" lang="Latvian">man ienaidan tur / tos tēve grēkes</div>
+       <lb id="Ench1615_EA_4"/>
+        <div type="Language" lang="Latvian">mājas piemekle / pi tiems bērnems / iekškan</div>
+       <lb id="Ench1615_EA_5"/>
+        <div type="Language" lang="Latvian">to treše unde cetorte augume /</div>
+       <lb id="Ench1615_EA_6"/>
+        <div type="Language" lang="Latvian">bet tiems  / katre man mīlo / unde manes</div>
+       <lb id="Ench1615_EA_7"/>
+        <div type="Language" lang="Latvian">bausles tur / dare es labe iekškan</div>
+       <lb id="Ench1615_EA_8"/>
+        <div type="Language" lang="Latvian">tūkstoše augume .</div>
+       <lb id="Ench1615_EA_9"/>
+        <div type="Language" lang="Latvian">kas jir tas ?      atbilde .</div>
+       <lb id="Ench1615_EA_10"/>
+        <div type="Language" lang="Latvian">dievs biedena sodīt / vises katre <corr>šos</corr><sic>šos</sic> bausles</div>
+       <lb id="Ench1615_EA_11"/>
+        <div type="Language" lang="Latvian">pārkāpe / tapēc būs mums bījāties par viņe</div>
+       <lb id="Ench1615_EA_12"/>
+        <div type="Language" lang="Latvian">dusmībe / unde pretībe tādems bauselems ne darīt</div>
+       <lb id="Ench1615_EA_13"/>
+        <div type="Language" lang="Latvian">. bet tas solī žēlestībe / unde vise labe /</div>
+       <lb id="Ench1615_EA_14"/>
+        <div type="Language" lang="Latvian">visems / katre šos bausles tur / tapēc būs</div>
+       <lb id="Ench1615_EA_15"/>
+        <div type="Language" lang="Latvian">mums to arīdzan mīle turēt / unde tam pieticet</div>
+       <lb id="Ench1615_EA_16"/>
+        <div type="Language" lang="Latvian">/ unde labprāt darīt / pēc viņems bauslems</div>
+       <lb id="Ench1615_EA_17"/>
+        <div type="Language" lang="Latvian">.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_EA_18"/>
+       <div type="Language" lang="German">Der Glaube.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_EA_19"/>
+        <div type="Language" lang="Latvian">ta ticībe / ka to vienam name</div>
+       <lb id="Ench1615_EA_20"/>
+        <div type="Language" lang="Latvian">tēvam save saime vienkārtīge</div>
+       <lb id="Ench1615_EA_21"/>
+        <div type="Language" lang="Latvian">priešan turēt unde</div>
+       <lb id="Ench1615_EA_22"/>
+        <div type="Language" lang="Latvian">būs mācīt</div>
+      </div>
+      <pb n="EB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_EB_1"/>
+        <div type="Language" lang="Latvian">tas pirmais loceklis no tas radīšenes</div>
+       <lb id="Ench1615_EB_2"/>
+        <div type="Language" lang="Latvian">.</div>
+       <lb id="Ench1615_EB_3"/>
+        <div type="Language" lang="Latvian">es tic iekškan dieve to tēve / visevaldītāje</div>
+       <lb id="Ench1615_EB_4"/>
+        <div type="Language" lang="Latvian">/ radītāje / debes unde</div>
+       <lb id="Ench1615_EB_5"/>
+        <div type="Language" lang="Latvian">tas zemes .</div>
+       <lb id="Ench1615_EB_6"/>
+        <div type="Language" lang="Latvian">kas jir tas ?                atbilde .</div>
+       <lb id="Ench1615_EB_7"/>
+        <div type="Language" lang="Latvian">es tic ka man dievs radis jir / ar visims</div>
+       <lb id="Ench1615_EB_8"/>
+        <div type="Language" lang="Latvian">raditiems lietiems / unde man miese unde dvēsel</div>
+       <lb id="Ench1615_EB_9"/>
+        <div type="Language" lang="Latvian">/ aces / auses / unde vises locekles / saprašene</div>
+       <lb id="Ench1615_EB_10"/>
+        <div type="Language" lang="Latvian">/ unde vises prātes devis jir / unde</div>
+       <lb id="Ench1615_EB_11"/>
+        <div type="Language" lang="Latvian">vēl uztur / turklāt drēbes unde kurpes / ēšen</div>
+       <lb id="Ench1615_EB_12"/>
+        <div type="Language" lang="Latvian">unde dzeršen / name unde muiže / sieve</div>
+      </div>
+      <pb n="E2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_E2A_1"/>
+        <div type="Language" lang="Latvian">unde bērnes / tīrume / lopes / unde / vise padome</div>
+       <lb id="Ench1615_E2A_2"/>
+        <div type="Language" lang="Latvian">ar visade vajadzībe / unde uzturšene</div>
+       <lb id="Ench1615_E2A_3"/>
+        <div type="Language" lang="Latvian">tās mieses unde dzīvībes / bagatīge unde dieniske_</div>
+       <lb id="Ench1615_E2A_4"/>
+        <div type="Language" lang="Latvian">apgāda / pretībe vise briesmībe pasarge / unde pār</div>
+       <lb id="Ench1615_E2A_5"/>
+        <div type="Language" lang="Latvian">vise ļaune paglāb unde sarge / unde to visenotal</div>
+       <lb id="Ench1615_E2A_6"/>
+        <div type="Language" lang="Latvian">/ aran tīre tēvīge / dievīge lenībe / unde žēlestībe</div>
+       <lb id="Ench1615_E2A_7"/>
+        <div type="Language" lang="Latvian">/ bez vise mane nopelnībe unde cienībe . par</div>
+       <lb id="Ench1615_E2A_8"/>
+        <div type="Language" lang="Latvian">šo visenotal esme es tam parādan pateikt /unde</div>
+       <lb id="Ench1615_E2A_9"/>
+        <div type="Language" lang="Latvian">slavet / kalpot unde paklausit / tas jir tiešām tiesa .</div>
+       <lb id="Ench1615_E2A_10"/>
+        <div type="Language" lang="Latvian">tas oters loceklis no tās pestīšenes</div>
+       <lb id="Ench1615_E2A_11"/>
+        <div type="Language" lang="Latvian">.</div>
+       <lb id="Ench1615_E2A_12"/>
+        <div type="Language" lang="Latvian">unde iekškan jēzum kristum viņam</div>
+       <lb id="Ench1615_E2A_13"/>
+        <div type="Language" lang="Latvian">vienigam dēlam mūsam kungam katers</div>
+       <lb id="Ench1615_E2A_14"/>
+        <div type="Language" lang="Latvian">iejemts jir no to svēte gare / piedzimis</div>
+       <lb id="Ench1615_E2A_15"/>
+        <div type="Language" lang="Latvian">no tās jumpraves maria /</div>
+       <lb id="Ench1615_E2A_16"/>
+        <div type="Language" lang="Latvian">cietis apeškan pontio pilato krustan</div>
+       <lb id="Ench1615_E2A_17"/>
+        <div type="Language" lang="Latvian">sists / nomiris unde apbēsts zemen</div>
+       <lb id="Ench1615_E2A_18"/>
+        <div type="Language" lang="Latvian">kāpis iekškan helles / trešen dienan atkal</div>
+       <lb id="Ench1615_E2A_19"/>
+        <div type="Language" lang="Latvian">augškām celes no tiems mironims .</div>
+       <lb id="Ench1615_E2A_20"/>
+        <div type="Language" lang="Latvian">uzkāpis debesis / sēde pi to labe roke</div>
+       <lb id="Ench1615_E2A_21"/>
+        <div type="Language" lang="Latvian">/ dieve ta visevaldītāje tēve / no</div>
+       <lb id="Ench1615_E2A_22"/>
+        <div type="Language" lang="Latvian">turenes tas aties sodīt tos dzīves unde</div>
+       <lb id="Ench1615_E2A_23"/>
+        <div type="Language" lang="Latvian">mirunes .</div>
+      </div>
+      <pb n="E2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_E2B_1"/>
+        <div type="Language" lang="Latvian">kas jir tas ?           atbilde.</div>
+       <lb id="Ench1615_E2B_2"/>
+        <div type="Language" lang="Latvian">es tic ka jēzus kristus patiese dievs / no</div>
+       <lb id="Ench1615_E2B_3"/>
+        <div type="Language" lang="Latvian">tēve iekškan mūžīge piedzimts / unde arīdzan patiese</div>
+       <lb id="Ench1615_E2B_4"/>
+        <div type="Language" lang="Latvian">cilveks no tās jumpraves marie piedzimis /</div>
+       <lb id="Ench1615_E2B_5"/>
+        <div type="Language" lang="Latvian">mans kungs jir / katers man pazuste unde nolādete</div>
+       <lb id="Ench1615_E2B_6"/>
+        <div type="Language" lang="Latvian">cilvēke atpestis jir / no visims grēkims / no</div>
+       <lb id="Ench1615_E2B_7"/>
+        <div type="Language" lang="Latvian">nāve / unde no to vare unde spēke to velne /</div>
+       <lb id="Ench1615_E2B_8"/>
+        <div type="Language" lang="Latvian">ne ar zelte jeb sidrabe / bet ar save dārge</div>
+       <lb id="Ench1615_E2B_9"/>
+        <div type="Language" lang="Latvian">asene / und ar save nenoziedzīge ciešene unde</div>
+       <lb id="Ench1615_E2B_10"/>
+        <div type="Language" lang="Latvian">nāve / ka es viņe paše esme / unde iekškan viņe</div>
+       <lb id="Ench1615_E2B_11"/>
+        <div type="Language" lang="Latvian">valstībe apeškan to dzīvo / unde tam kalpo</div>
+       <lb id="Ench1615_E2B_12"/>
+        <div type="Language" lang="Latvian">iekškan mūžīge taisnībe / nenoziedzībe und svētībe /</div>
+       <lb id="Ench1615_E2B_13"/>
+        <div type="Language" lang="Latvian">līdz ka tas jir atkal uz celes / no nāve / dzīvo unde</div>
+       <lb id="Ench1615_E2B_14"/>
+        <div type="Language" lang="Latvian">valde mūžīge / tas jir tiešām tiese .</div>
+      </div>
+      <pb n="E3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_E3A_1"/>
+        <div type="Language" lang="Latvian">tas trešes loceklis / tas svētīšenes</div>
+       <lb id="Ench1615_E3A_2"/>
+        <div type="Language" lang="Latvian">.</div>
+       <lb id="Ench1615_E3A_3"/>
+        <div type="Language" lang="Latvian">es tic iekškan to svēte gare / viena</div>
+       <lb id="Ench1615_E3A_4"/>
+        <div type="Language" lang="Latvian">svēta krustīta baznīce / ta draugdzībe</div>
+       <lb id="Ench1615_E3A_5"/>
+        <div type="Language" lang="Latvian">tos svētis / pamešen tos</div>
+       <lb id="Ench1615_E3A_6"/>
+        <div type="Language" lang="Latvian">grēkes / augškām celšene tās mieses /</div>
+       <lb id="Ench1615_E3A_7"/>
+        <div type="Language" lang="Latvian">und viene mūžīge dzīvošene / amen .</div>
+       <lb id="Ench1615_E3A_8"/>
+        <div type="Language" lang="Latvian">kas jir tas ?           atbilde .</div>
+       <lb id="Ench1615_E3A_9"/>
+        <div type="Language" lang="Latvian">es tic / ka es ar mane paše saprašene</div>
+       <lb id="Ench1615_E3A_10"/>
+        <div type="Language" lang="Latvian">nedz spēcībe iekškan jēzum kristum mane</div>
+       <lb id="Ench1615_E3A_11"/>
+        <div type="Language" lang="Latvian">kunge / nevar ticet jeb pi <corr>to</corr><sic>pīto</sic> nākt / bet tas</div>
+       <lb id="Ench1615_E3A_12"/>
+        <div type="Language" lang="Latvian">svēts gars jir man caur to evangelium aicenais</div>
+       <lb id="Ench1615_E3A_13"/>
+        <div type="Language" lang="Latvian">/ ar savims dāvanims paskaidrojs / iekškan</div>
+       <lb id="Ench1615_E3A_14"/>
+        <div type="Language" lang="Latvian">patiese ticībe svētis / unde uz turējs /līdz ka</div>
+       <lb id="Ench1615_E3A_15"/>
+        <div type="Language" lang="Latvian">tas to vise krustīte draugdzībe virson zemes /</div>
+       <lb id="Ench1615_E3A_16"/>
+        <div type="Language" lang="Latvian">aicena / sakrāje / apskaidro / svētī / unde pi jēzu</div>
+       <lb id="Ench1615_E3A_17"/>
+        <div type="Language" lang="Latvian">kristo uztur / iekškan viene patiese ticībe . iekškan</div>
+       <lb id="Ench1615_E3A_18"/>
+        <div type="Language" lang="Latvian">katre krustīte draudzībe tas man unde visims</div>
+       <lb id="Ench1615_E3A_19"/>
+        <div type="Language" lang="Latvian">ticigims dienišķe vises grēkes pamet /</div>
+       <lb id="Ench1615_E3A_20"/>
+        <div type="Language" lang="Latvian">unde iekškan to pastare diene man / und vises mirones</div>
+       <lb id="Ench1615_E3A_21"/>
+        <div type="Language" lang="Latvian">atkal uzmodenas / unde man / ar visims</div>
+       <lb id="Ench1615_E3A_22"/>
+        <div type="Language" lang="Latvian">ticigims iekškan kristo / viene mūžīge</div>
+       <lb id="Ench1615_E3A_23"/>
+        <div type="Language" lang="Latvian">dzīvošene dos / tas jir</div>
+       <lb id="Ench1615_E3A_24"/>
+        <div type="Language" lang="Latvian">tiešām tiesa .</div>
+      </div>
+      <pb n="E3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_E3B_1"/>
+       <div type="Language" lang="German">Das Heilige Vater vnſer.</div>
+       <lb id="Ench1615_E3B_2"/>
+        <div type="Language" lang="Latvian">tas lūgšene / ka to vienam name tēvam</div>
+       <lb id="Ench1615_E3B_3"/>
+        <div type="Language" lang="Latvian">save saime vienkārtīge priekškan turet</div>
+       <lb id="Ench1615_E3B_4"/>
+        <div type="Language" lang="Latvian">unde mācīt būs .</div>
+       <lb id="Ench1615_E3B_5"/>
+        <div type="Language" lang="Latvian">mūse tēvs iekškan to debes .</div>
+       <lb id="Ench1615_E3B_6"/>
+        <div type="Language" lang="Latvian">kas jir tas ?                  atbilde .</div>
+       <lb id="Ench1615_E3B_7"/>
+        <div type="Language" lang="Latvian">dievs grib ar to mums jaucēt / ka mums</div>
+       <lb id="Ench1615_E3B_8"/>
+        <div type="Language" lang="Latvian">ticēt būs / tas jir mūse īstens tēvs und mēs</div>
+       <lb id="Ench1615_E3B_9"/>
+        <div type="Language" lang="Latvian">viņe īstene bērne / ka mums priecīge unde ar</div>
+       <lb id="Ench1615_E3B_10"/>
+        <div type="Language" lang="Latvian">vise paļaušene / to lūgt būs / ka tie mīlīge</div>
+       <lb id="Ench1615_E3B_11"/>
+        <div type="Language" lang="Latvian">bērne save mīle tēve lūdze .</div>
+      </div>
+      <pb n="E4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_E4A_1"/>
+        <div type="Language" lang="Latvian">ta pirma <corr>lūgšene</corr><sic>lūchšene</sic> .</div>
+       <lb id="Ench1615_E4A_2"/>
+        <div type="Language" lang="Latvian">svētīts tope tavs vārds</div>
+       <lb id="Ench1615_E4A_3"/>
+        <div type="Language" lang="Latvian">kas tas jir ?                  atbilde :</div>
+       <lb id="Ench1615_E4A_4"/>
+        <div type="Language" lang="Latvian">dieve vārds jir tiešām pi sev patim svēts /</div>
+       <lb id="Ench1615_E4A_5"/>
+        <div type="Language" lang="Latvian">bet mēs lūdzam iekškan šo lūgšene / ka</div>
+       <lb id="Ench1615_E4A_6"/>
+        <div type="Language" lang="Latvian">tas pi mums arīdzan svēts tope .</div>
+       <lb id="Ench1615_E4A_7"/>
+        <div type="Language" lang="Latvian">ka notieke tas ?                atbilde .</div>
+       <lb id="Ench1615_E4A_8"/>
+        <div type="Language" lang="Latvian">kad tas dieve vārds šķīste und skaidre mācīts</div>
+       <lb id="Ench1615_E4A_9"/>
+        <div type="Language" lang="Latvian">tope / unde mēs arīdzan svēte / ka tie dieve</div>
+       <lb id="Ench1615_E4A_10"/>
+        <div type="Language" lang="Latvian">bērne pēc to dzīvojam / to palīdz mums</div>
+       <lb id="Ench1615_E4A_11"/>
+        <div type="Language" lang="Latvian">mīleis tēvs iekškan debes . bet kas citāde māce</div>
+       <lb id="Ench1615_E4A_12"/>
+        <div type="Language" lang="Latvian">unde dzīvo / ka tas dieve vārds māce / tas</div>
+       <lb id="Ench1615_E4A_13"/>
+        <div type="Language" lang="Latvian">ne svētī starpan mums to dieve vārde . no to</div>
+       <lb id="Ench1615_E4A_14"/>
+        <div type="Language" lang="Latvian">pasarge mums mīleis debese tēvs .</div>
+      </div>
+      <pb n="E4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_E4B_1"/>
+        <div type="Language" lang="Latvian">ta otra lūgšene .</div>
+       <lb id="Ench1615_E4B_2"/>
+        <div type="Language" lang="Latvian">ienākas mums tave valstībe .</div>
+       <lb id="Ench1615_E4B_3"/>
+        <div type="Language" lang="Latvian">kas jir tas ?                   atbilde .</div>
+       <lb id="Ench1615_E4B_4"/>
+        <div type="Language" lang="Latvian">dieve valstībe nāk gan bez mūse lūgšene</div>
+       <lb id="Ench1615_E4B_5"/>
+        <div type="Language" lang="Latvian">/ no sev patim / bet mēs lūdzam iekškan</div>
+       <lb id="Ench1615_E4B_6"/>
+        <div type="Language" lang="Latvian">šās lūgšenes / ka tā arīdzan pi mums</div>
+       <lb id="Ench1615_E4B_7"/>
+        <div type="Language" lang="Latvian">nāke .</div>
+       <lb id="Ench1615_E4B_8"/>
+        <div type="Language" lang="Latvian">ka notieke tas ?                atbilde .</div>
+       <lb id="Ench1615_E4B_9"/>
+        <div type="Language" lang="Latvian">kad mums tas debese tēvs / save svēte</div>
+       <lb id="Ench1615_E4B_10"/>
+        <div type="Language" lang="Latvian">gare dode / ka mēs viņam svētam vārdam /</div>
+       <lb id="Ench1615_E4B_11"/>
+        <div type="Language" lang="Latvian">caur viņe žēlestībe ticam / unde dievišķe dzīvojam</div>
+       <lb id="Ench1615_E4B_12"/>
+        <div type="Language" lang="Latvian">/ šeit laikīge unde tur mūžīge .</div>
+      </div>
+      <pb n="FA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_FA_1"/>
+        <div type="Language" lang="Latvian">ta treša lūgšene .</div>
+       <lb id="Ench1615_FA_2"/>
+        <div type="Language" lang="Latvian">tavs prāts notieke / ka iekškan debes</div>
+       <lb id="Ench1615_FA_3"/>
+        <div type="Language" lang="Latvian">/ tā arīdzan virson zemes .</div>
+       <lb id="Ench1615_FA_4"/>
+        <div type="Language" lang="Latvian">kas jir tas  ?                   atbilde .</div>
+       <lb id="Ench1615_FA_5"/>
+        <div type="Language" lang="Latvian">dieve labs unde žēlīgs prāts / notieke gan bez</div>
+       <lb id="Ench1615_FA_6"/>
+        <div type="Language" lang="Latvian">mūse lūgšene / bet mēs <corr>lūdzam</corr><sic>lūdzan</sic> iekškan šo</div>
+       <lb id="Ench1615_FA_7"/>
+        <div type="Language" lang="Latvian">lūgšene / ka tas arīdzan pi mums notieke .</div>
+       <lb id="Ench1615_FA_8"/>
+        <div type="Language" lang="Latvian">ka notieke tas ?                  atbilde .</div>
+       <lb id="Ench1615_FA_9"/>
+        <div type="Language" lang="Latvian">kad dievs vise ļaune padome / unde prāte</div>
+       <lb id="Ench1615_FA_10"/>
+        <div type="Language" lang="Latvian">atverše /unde ne pielaiže / katre mums to dieve</div>
+       <lb id="Ench1615_FA_11"/>
+        <div type="Language" lang="Latvian">vārde ne svētī / unde viņe valstībe ne liek</div>
+       <lb id="Ench1615_FA_12"/>
+        <div type="Language" lang="Latvian">nākt / ka tur jir tas velns / ta pasaule / unde</div>
+      </div>
+      <pb n="FB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_FB_1"/>
+        <div type="Language" lang="Latvian">mūses mieses iegribēšen / bet iestiprena unde</div>
+       <lb id="Ench1615_FB_2"/>
+        <div type="Language" lang="Latvian">patur mums stipre iekškan save vārde unde ticībe</div>
+       <lb id="Ench1615_FB_3"/>
+        <div type="Language" lang="Latvian">/ īz mūsam galam / kas jir viņe žēlīgs</div>
+       <lb id="Ench1615_FB_4"/>
+        <div type="Language" lang="Latvian">unde labs prāts .</div>
+       <lb id="Ench1615_FB_5"/>
+        <div type="Language" lang="Latvian">ta cetorta lūgšene .</div>
+       <lb id="Ench1615_FB_6"/>
+        <div type="Language" lang="Latvian">mūse dienišķe maize dode mums</div>
+       <lb id="Ench1615_FB_7"/>
+        <div type="Language" lang="Latvian">šodiene .</div>
+       <lb id="Ench1615_FB_8"/>
+        <div type="Language" lang="Latvian">kas jir tas atbilde .</div>
+       <lb id="Ench1615_FB_9"/>
+        <div type="Language" lang="Latvian">dievs dode to dienišķe maize / arīdzan bez</div>
+       <lb id="Ench1615_FB_10"/>
+        <div type="Language" lang="Latvian"><corr>mūse</corr><sic>mnse</sic> lūgšene visims ļaunims cilvēkims /</div>
+       <lb id="Ench1615_FB_11"/>
+        <div type="Language" lang="Latvian">bet mēs lūdzam iekškan šo lūgšene / ka tas</div>
+       <lb id="Ench1615_FB_12"/>
+        <div type="Language" lang="Latvian">mums mūse dienišķe maize atzīt lieke / unde ar pateicībe</div>
+       <lb id="Ench1615_FB_13"/>
+        <div type="Language" lang="Latvian">jemt .</div>
+      </div>
+      <pb n="F2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_F2A_1"/>
+        <div type="Language" lang="Latvian">ko dēve tad dienišķe maize ?          atbilde .</div>
+       <lb id="Ench1615_F2A_2"/>
+        <div type="Language" lang="Latvian">vise kas pi tās mieses uzturēšenes unde</div>
+       <lb id="Ench1615_F2A_3"/>
+        <div type="Language" lang="Latvian">vajadzībes pieder / ka ēšeane / dzeršāne /</div>
+       <lb id="Ench1615_F2A_4"/>
+        <div type="Language" lang="Latvian">drēbes / kurpes / name / muiže / tīrume / lope</div>
+       <lb id="Ench1615_F2A_5"/>
+        <div type="Language" lang="Latvian">/ naude / padome / viens labs laulāts draugs / labe</div>
+       <lb id="Ench1615_F2A_6"/>
+        <div type="Language" lang="Latvian">bērne / labe saime / unde pieticīge versenieke</div>
+       <lb id="Ench1615_F2A_7"/>
+        <div type="Language" lang="Latvian">/ viena laba valdīšene / labs gais / miers /</div>
+       <lb id="Ench1615_F2A_8"/>
+        <div type="Language" lang="Latvian">veselībe kaunīge dzīvošene / gode / labe / drauge</div>
+       <lb id="Ench1615_F2A_9"/>
+        <div type="Language" lang="Latvian">pieticame kaimine / und ta projam .</div>
+       <lb id="Ench1615_F2A_10"/>
+        <div type="Language" lang="Latvian">ta pieketa lūgšene .</div>
+       <lb id="Ench1615_F2A_11"/>
+        <div type="Language" lang="Latvian">und pamet mums mūse parade ka</div>
+       <lb id="Ench1615_F2A_12"/>
+        <div type="Language" lang="Latvian">mēs pametam mūsims paradenekims .</div>
+       <lb id="Ench1615_F2A_13"/>
+        <div type="Language" lang="Latvian">kas tas jir ?                   atbilde :</div>
+       <lb id="Ench1615_F2A_14"/>
+        <div type="Language" lang="Latvian">mēs lūdzam iekškan šās lūgšenes / ka</div>
+      </div>
+      <pb n="F2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_F2B_1"/>
+        <div type="Language" lang="Latvian">tas tēvs iekškan debes / ne grib uzlukot mūses /</div>
+       <lb id="Ench1615_F2B_2"/>
+        <div type="Language" lang="Latvian">grēkes / und to tapēc / tāde lūgšene mums</div>
+       <lb id="Ench1615_F2B_3"/>
+        <div type="Language" lang="Latvian">aizsliegt / aizto  mēs ne esem to cienīge / ko mēs</div>
+       <lb id="Ench1615_F2B_4"/>
+        <div type="Language" lang="Latvian">lūdzam / nedz esem arīdzan nopelnīše / bet</div>
+       <lb id="Ench1615_F2B_5"/>
+        <div type="Language" lang="Latvian">tas grib to mums visenotal aran žēlestībe dot /</div>
+       <lb id="Ench1615_F2B_6"/>
+        <div type="Language" lang="Latvian">aizto mēs grēkojam dienišķe daudze / unde nopelnam</div>
+       <lb id="Ench1615_F2B_7"/>
+        <div type="Language" lang="Latvian">ne nieke ka sodībe vien / tā gribam mēs</div>
+       <lb id="Ench1615_F2B_8"/>
+        <div type="Language" lang="Latvian">arīdzan to atkal no sirde labprāt pamēst /</div>
+       <lb id="Ench1615_F2B_9"/>
+        <div type="Language" lang="Latvian">und labe darīt / tiems/ katre sev pretībe mums</div>
+       <lb id="Ench1615_F2B_10"/>
+        <div type="Language" lang="Latvian">apgrēkojas .</div>
+       <lb id="Ench1615_F2B_11"/>
+        <div type="Language" lang="Latvian">ta sesta lūgšene .</div>
+       <lb id="Ench1615_F2B_12"/>
+        <div type="Language" lang="Latvian">unde ne vede mums iekškan kārdenāšene</div>
+       <lb id="Ench1615_F2B_13"/>
+        <div type="Language" lang="Latvian">.</div>
+       <lb id="Ench1615_F2B_14"/>
+        <div type="Language" lang="Latvian">kas jir tas ?          atbilde .</div>
+       <lb id="Ench1615_F2B_15"/>
+        <div type="Language" lang="Latvian">dievs ne kārdena neviene / bet mēs lūdzam</div>
+      </div>
+      <pb n="F3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_F3A_1"/>
+        <div type="Language" lang="Latvian">iekškan šās lūgšenes / ka mums dievs</div>
+       <lb id="Ench1615_F3A_2"/>
+        <div type="Language" lang="Latvian">grib paglabt unde uzturet / ka mums tas velns</div>
+       <lb id="Ench1615_F3A_3"/>
+        <div type="Language" lang="Latvian">tā pasaule unde mūsa miesa ne pievil unde ne</div>
+       <lb id="Ench1615_F3A_4"/>
+        <div type="Language" lang="Latvian">vada iekškan neticībe izsamišene / unde cite liele</div>
+       <lb id="Ench1615_F3A_5"/>
+        <div type="Language" lang="Latvian">kaune unde grēke / unde ja mēs ar to kārdenate topam</div>
+       <lb id="Ench1615_F3A_6"/>
+        <div type="Language" lang="Latvian">/ ka mēs pēc galīge uz varam / unde to čīkstēšene</div>
+       <lb id="Ench1615_F3A_7"/>
+        <div type="Language" lang="Latvian">paturam .</div>
+       <lb id="Ench1615_F3A_8"/>
+        <div type="Language" lang="Latvian">ta septita lūgšene .</div>
+       <lb id="Ench1615_F3A_9"/>
+        <div type="Language" lang="Latvian">bet atpestī mums no to ļaune .</div>
+       <lb id="Ench1615_F3A_10"/>
+        <div type="Language" lang="Latvian">ka notieke tas ?          atbilde .</div>
+       <lb id="Ench1615_F3A_11"/>
+        <div type="Language" lang="Latvian">mēs lūdzam iekškan šās lūgšenes / ka</div>
+       <lb id="Ench1615_F3A_12"/>
+        <div type="Language" lang="Latvian">mums tas tēvs iekškan debes no visade ļaune</div>
+       <lb id="Ench1615_F3A_13"/>
+        <div type="Language" lang="Latvian">tās mieses unde tas dvēseles / to padome und</div>
+      </div>
+      <pb n="F3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_F3B_1"/>
+        <div type="Language" lang="Latvian">und to gode grib atpestīt / unde pēc kad mūsa stunde</div>
+       <lb id="Ench1615_F3B_2"/>
+        <div type="Language" lang="Latvian">nake viene žēlīge gale dot / und ar žēlestībe no šo</div>
+       <lb id="Ench1615_F3B_3"/>
+        <div type="Language" lang="Latvian">bēdīge pasaule / pi sev jemt iekškan to debes .</div>
+       <lb id="Ench1615_F3B_4"/>
+        <div type="Language" lang="Latvian">amen .</div>
+       <lb id="Ench1615_F3B_5"/>
+        <div type="Language" lang="Latvian">kas jir tas ?              atbilde .</div>
+       <lb id="Ench1615_F3B_6"/>
+        <div type="Language" lang="Latvian">ka man būs tiešām ticēt / tāde lūgšene</div>
+       <lb id="Ench1615_F3B_7"/>
+        <div type="Language" lang="Latvian">jir tam tēvam iekškan debes paprāte / und paklausite</div>
+       <lb id="Ench1615_F3B_8"/>
+        <div type="Language" lang="Latvian">/ aizto tas mums pats pavēlējs ta lūgt /</div>
+       <lb id="Ench1615_F3B_9"/>
+        <div type="Language" lang="Latvian">unde piesacīs / ka tas mums grib paklausīt .  amen /</div>
+       <lb id="Ench1615_F3B_10"/>
+        <div type="Language" lang="Latvian">amen / tas dēve ja / ja / tam būs ta notikt .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_F3B_11"/>
+       <div type="Language" lang="German">Vom Sacrament der Heili-</div>
+       <lb id="Ench1615_F3B_12"/>
+       <div type="Language" lang="German">gen Tauffe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_F3B_13"/>
+        <div type="Language" lang="Latvian">no to svēte krustībe / ka to pate vienam name</div>
+       <lb id="Ench1615_F3B_14"/>
+        <div type="Language" lang="Latvian">tēvam save saime vienkārtīge</div>
+       <lb id="Ench1615_F3B_15"/>
+        <div type="Language" lang="Latvian">priešan turēt / unde mācīt būs .</div>
+       <lb id="Ench1615_F3B_16"/>
+        <div type="Language" lang="Latvian">pirman kārtan .</div>
+       <lb id="Ench1615_F3B_17"/>
+        <div type="Language" lang="Latvian">kas jir ta krustībe ?                atbilde .</div>
+      </div>
+      <pb n="F4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_F4A_1"/>
+        <div type="Language" lang="Latvian">ta krustībe ne jir viens vientiesīgs ūdens / bet</div>
+       <lb id="Ench1615_F4A_2"/>
+        <div type="Language" lang="Latvian">ta jir tas ūdens / katers iekškan dieve bausle ietverts</div>
+       <lb id="Ench1615_F4A_3"/>
+        <div type="Language" lang="Latvian">/ unde ar dieve vārde sasiets jir .</div>
+       <lb id="Ench1615_F4A_4"/>
+        <div type="Language" lang="Latvian">katers jir tad tāds dieve vārds ?       atbilde .</div>
+       <lb id="Ench1615_F4A_5"/>
+        <div type="Language" lang="Latvian">kur mūse kungs kristus trēse matei tan</div>
+       <lb id="Ench1615_F4A_6"/>
+        <div type="Language" lang="Latvian">pēdigan vietan . ejet / iekškan vise pasaule /</div>
+       <lb id="Ench1615_F4A_7"/>
+        <div type="Language" lang="Latvian">mācet vises ļaudes / unde krustījet</div>
+       <lb id="Ench1615_F4A_8"/>
+        <div type="Language" lang="Latvian">tos / iekškan to vārde to tēve / unde to</div>
+       <lb id="Ench1615_F4A_9"/>
+        <div type="Language" lang="Latvian">dēle / unde to svēte gare .</div>
+       <lb id="Ench1615_F4A_10"/>
+        <div type="Language" lang="Latvian">otran kārtan .</div>
+       <lb id="Ench1615_F4A_11"/>
+        <div type="Language" lang="Latvian">ko dode ta krustībe jeb ko ta mums palīdze ?   atbilde .</div>
+       <lb id="Ench1615_F4A_12"/>
+        <div type="Language" lang="Latvian">ta dode pamešen tos grēkes / apestī no</div>
+       <lb id="Ench1615_F4A_13"/>
+        <div type="Language" lang="Latvian">nāve / unde velne /unde dode to mūžīge dzīvošene</div>
+       <lb id="Ench1615_F4A_14"/>
+        <div type="Language" lang="Latvian">visims / katre to tice / ka te vārde unde</div>
+       <lb id="Ench1615_F4A_15"/>
+        <div type="Language" lang="Latvian">tā dieve piesacīšene skan .</div>
+       <lb id="Ench1615_F4A_16"/>
+        <div type="Language" lang="Latvian">katre jir tāde vārde und dieve piesacīšene ?   atbild .</div>
+       <lb id="Ench1615_F4A_17"/>
+        <div type="Language" lang="Latvian">kur mūse kungs kristus trēse marei tan pēdigan</div>
+       <lb id="Ench1615_F4A_18"/>
+        <div type="Language" lang="Latvian">vietan .  kas tur tic / unde krustīts</div>
+       <lb id="Ench1615_F4A_19"/>
+        <div type="Language" lang="Latvian">tope / tas tope svēts / bet kas ne</div>
+       <lb id="Ench1615_F4A_20"/>
+        <div type="Language" lang="Latvian">tic / tas tope pazusts .</div>
+       <lb id="Ench1615_F4A_21"/>
+        <div type="Language" lang="Latvian">trešan kārtan .</div>
+       <lb id="Ench1615_F4A_22"/>
+        <div type="Language" lang="Latvian">ka var ūdens / tāde liele liete darīt ?         atbilde .</div>
+      </div>
+      <pb n="F4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_F4B_1"/>
+        <div type="Language" lang="Latvian">ūdens to tiešām ne dar / bet tas dieve</div>
+       <lb id="Ench1615_F4B_2"/>
+        <div type="Language" lang="Latvian">vārds katers ar unde pi to ūdene jir unde tā</div>
+       <lb id="Ench1615_F4B_3"/>
+        <div type="Language" lang="Latvian">ticībe / katra tādam dieve vārdam iekškan ūdene</div>
+       <lb id="Ench1615_F4B_4"/>
+        <div type="Language" lang="Latvian">pietic / aizto / bez dieve vārde / jir tas ūdens</div>
+       <lb id="Ench1615_F4B_5"/>
+        <div type="Language" lang="Latvian">vientiesīgs ūdens / unde ne viena krustībe . bet ar</div>
+       <lb id="Ench1615_F4B_6"/>
+        <div type="Language" lang="Latvian">to dieve vārde jir tā viena krustībe / tas jir /</div>
+       <lb id="Ench1615_F4B_7"/>
+        <div type="Language" lang="Latvian">viens svēts ūdens / tas dzīvībes / unde viena nomazgāšene</div>
+       <lb id="Ench1615_F4B_8"/>
+        <div type="Language" lang="Latvian">/ tas jaunes dzimtībes iekškan to svēte</div>
+       <lb id="Ench1615_F4B_9"/>
+        <div type="Language" lang="Latvian">gare / ka s . paulus sak uz tito iekškan to treše</div>
+       <lb id="Ench1615_F4B_10"/>
+        <div type="Language" lang="Latvian">viete .</div>
+       <lb id="Ench1615_F4B_11"/>
+        <div type="Language" lang="Latvian">caur to nomazgāšene tās atdzimtībes</div>
+       <lb id="Ench1615_F4B_12"/>
+        <div type="Language" lang="Latvian">unde atjaunāšene ta svēte</div>
+       <lb id="Ench1615_F4B_13"/>
+        <div type="Language" lang="Latvian">gare / katre tas bagātīge izlējis</div>
+       <lb id="Ench1615_F4B_14"/>
+        <div type="Language" lang="Latvian">jir / pār mums caur jēzum kristum</div>
+       <lb id="Ench1615_F4B_15"/>
+        <div type="Language" lang="Latvian">mūsam pestītājam / ka mēs caur to</div>
+       <lb id="Ench1615_F4B_16"/>
+        <div type="Language" lang="Latvian">pate žēlestībe taisne / unde bērne /</div>
+       <lb id="Ench1615_F4B_17"/>
+        <div type="Language" lang="Latvian">esem tas mūžīges dzīvošenes / pēc</div>
+       <lb id="Ench1615_F4B_18"/>
+        <div type="Language" lang="Latvian">to cerībe / tas jir tiešām tiese .</div>
+       <lb id="Ench1615_F4B_19"/>
+        <div type="Language" lang="Latvian">cetortan kārtan .</div>
+       <lb id="Ench1615_F4B_20"/>
+        <div type="Language" lang="Latvian">ko zīmo tad tāda ūdene krustīšene ?        atbilde .</div>
+       <lb id="Ench1615_F4B_21"/>
+        <div type="Language" lang="Latvian">tā zīmo ka tas vecs ādams iekškan mums</div>
+       <lb id="Ench1615_F4B_22"/>
+        <div type="Language" lang="Latvian">caur dienišķe vaidēšene unde atmitēšene no</div>
+       <lb id="Ench1615_F4B_23"/>
+        <div type="Language" lang="Latvian">grēkims būs <corr>apslicenatam</corr><sic>apslucenatam</sic> tapt / unde <corr>mirt</corr><sic>mur_rt</sic>  ar</div>
+       <lb id="Ench1615_F4B_24"/>
+        <div type="Language" lang="Latvian">visims grēkims / und ļaunims iegribēšenims .</div>
+      </div>
+      <pb n="GA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_GA_1"/>
+        <div type="Language" lang="Latvian">unde atkal dienišķe priešan nakt / unde atkal augškām</div>
+       <lb id="Ench1615_GA_2"/>
+        <div type="Language" lang="Latvian">celt vienam jaunam cilvēkam katers iekškan taisnībe</div>
+       <lb id="Ench1615_GA_3"/>
+        <div type="Language" lang="Latvian">und šķīstībe priekšan dieve mūžīge dzīvo .</div>
+       <lb id="Ench1615_GA_4"/>
+        <div type="Language" lang="Latvian">kur stāve tas rakstīts ?               atbilde .</div>
+       <lb id="Ench1615_GA_5"/>
+        <div type="Language" lang="Latvian">svēts <corr>paulus</corr><sic>paulns</sic> uz tiems romere ļaudems tan</div>
+       <lb id="Ench1615_GA_6"/>
+        <div type="Language" lang="Latvian">sestan vietan trēs ta . mēs esem ar kristo caur</div>
+       <lb id="Ench1615_GA_7"/>
+        <div type="Language" lang="Latvian">to krustībe aprakte iekškan to nāve / līdz ka kristus</div>
+       <lb id="Ench1615_GA_8"/>
+        <div type="Language" lang="Latvian">jir uzmodenāts no tiems mironims / caur to</div>
+       <lb id="Ench1615_GA_9"/>
+        <div type="Language" lang="Latvian">godībe tā tēve  / tā būs mums arīdzan iekškan</div>
+       <lb id="Ench1615_GA_10"/>
+        <div type="Language" lang="Latvian">viene jaune dzīvošen staigāt .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_GA_11"/>
+       <div type="Language" lang="German">Vom Sacramente des Alters.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_GA_12"/>
+        <div type="Language" lang="Latvian">no to iestādījume jeb vakare ēdene mūse kunge</div>
+       <lb id="Ench1615_GA_13"/>
+        <div type="Language" lang="Latvian">jēzu kristi / ka to vienam name tēvam</div>
+       <lb id="Ench1615_GA_14"/>
+        <div type="Language" lang="Latvian">save saime vienkārtīge priešan turēt</div>
+       <lb id="Ench1615_GA_15"/>
+        <div type="Language" lang="Latvian">und mācīt būs .</div>
+       <lb id="Ench1615_GA_16"/>
+        <div type="Language" lang="Latvian">kas jir tas iestādījums tas vakare ēdenes ?      atbilde .</div>
+      </div>
+      <pb n="GB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_GB_1"/>
+        <div type="Language" lang="Latvian">ta jir ta patiesa miesa und asens mūse kunge</div>
+       <lb id="Ench1615_GB_2"/>
+        <div type="Language" lang="Latvian">jēzu kristi / apeškan to maize unde vīne</div>
+       <lb id="Ench1615_GB_3"/>
+        <div type="Language" lang="Latvian">mums krustītiems par ēšen unde dzeršene</div>
+       <lb id="Ench1615_GB_4"/>
+        <div type="Language" lang="Latvian">no kristo pate iestādīts .</div>
+       <lb id="Ench1615_GB_5"/>
+        <div type="Language" lang="Latvian">kur stāve tas rakstīts ?               atbilde .</div>
+       <lb id="Ench1615_GB_6"/>
+        <div type="Language" lang="Latvian">ta rakste tie svēte mācetāje . mateus /</div>
+       <lb id="Ench1615_GB_7"/>
+        <div type="Language" lang="Latvian">marcus / lucas / s . paulus .</div>
+       <lb id="Ench1615_GB_8"/>
+        <div type="Language" lang="Latvian">mūse kungs jēzus kristus iekškan to</div>
+       <lb id="Ench1615_GB_9"/>
+        <div type="Language" lang="Latvian">nakte / kad tas pievilts tape / jeme tas</div>
+       <lb id="Ench1615_GB_10"/>
+        <div type="Language" lang="Latvian">to maize / pateice unde parlauze to / und</div>
+       <lb id="Ench1615_GB_11"/>
+        <div type="Language" lang="Latvian">deve to savims māceklims / unde</div>
+       <lb id="Ench1615_GB_12"/>
+        <div type="Language" lang="Latvian">sacī / jemet ēdet / ta jir mana miesa</div>
+       <lb id="Ench1615_GB_13"/>
+        <div type="Language" lang="Latvian">/ katra par jums tope dota / to daret</div>
+       <lb id="Ench1615_GB_14"/>
+        <div type="Language" lang="Latvian">iekškan mane pieminēšene .</div>
+       <lb id="Ench1615_GB_15"/>
+        <div type="Language" lang="Latvian">ta līdz arīdzan / jeme tas to</div>
+       <lb id="Ench1615_GB_16"/>
+        <div type="Language" lang="Latvian">biķere / pēc to vakare ēdene / pateice</div>
+       <lb id="Ench1615_GB_17"/>
+        <div type="Language" lang="Latvian">/ unde deve tiems to / unde sacī</div>
+       <lb id="Ench1615_GB_18"/>
+        <div type="Language" lang="Latvian">: jemet unde dzeret vise tur <corr>aran</corr><sic>aturaran</sic></div>
+       <lb id="Ench1615_GB_19"/>
+        <div type="Language" lang="Latvian">/ šis biķers jir ta jaune iestādīšene</div>
+       <lb id="Ench1615_GB_20"/>
+        <div type="Language" lang="Latvian">iekškan mane asen / katers par</div>
+       <lb id="Ench1615_GB_21"/>
+        <div type="Language" lang="Latvian">jums / unde par daudzems izliets tope</div>
+       <lb id="Ench1615_GB_22"/>
+        <div type="Language" lang="Latvian">/ par pamešene tos grēkes / to</div>
+      </div>
+      <pb n="G2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_G2A_1"/>
+        <div type="Language" lang="Latvian">daret / ciekārt jūs to dzeŗet iekškan</div>
+       <lb id="Ench1615_G2A_2"/>
+        <div type="Language" lang="Latvian">mane pieminēšene .</div>
+       <lb id="Ench1615_G2A_3"/>
+        <div type="Language" lang="Latvian">ko palīdze tāde ēšene unde dzeršene</div>
+       <lb id="Ench1615_G2A_4"/>
+        <div type="Language" lang="Latvian">?   atbilde .</div>
+       <lb id="Ench1615_G2A_5"/>
+        <div type="Language" lang="Latvian">to rade mums šie vārde / pār jums dots</div>
+       <lb id="Ench1615_G2A_6"/>
+        <div type="Language" lang="Latvian">unde izliets par pamešen tos grēkes / ar vārde</div>
+       <lb id="Ench1615_G2A_7"/>
+        <div type="Language" lang="Latvian">ka mums iekškan to iestādījume / pamešen tos</div>
+       <lb id="Ench1615_G2A_8"/>
+        <div type="Language" lang="Latvian">grēkes tā dzīvībe / unde svētībe / caur tādems</div>
+       <lb id="Ench1615_G2A_9"/>
+        <div type="Language" lang="Latvian">vārdems tope dota . aizto kur pamešene tos</div>
+       <lb id="Ench1615_G2A_10"/>
+        <div type="Language" lang="Latvian">grēkes jir  / tur jir tas arīdzan tā dzīvībe unde</div>
+       <lb id="Ench1615_G2A_11"/>
+        <div type="Language" lang="Latvian">ta žēlestībe .</div>
+       <lb id="Ench1615_G2A_12"/>
+        <div type="Language" lang="Latvian">ka var miesīge ēšene unde <corr>dzeršene</corr><sic>dzeršone</sic> /</div>
+       <lb id="Ench1615_G2A_13"/>
+        <div type="Language" lang="Latvian">tāde liele liete darīt ?      atbilde .</div>
+       <lb id="Ench1615_G2A_14"/>
+        <div type="Language" lang="Latvian"><corr>ēšene</corr><sic>ēēšene</sic> unde dzeršene to tiešām ne /</div>
+       <lb id="Ench1615_G2A_15"/>
+        <div type="Language" lang="Latvian">dar / bet tie vārde katre tur stāve / par</div>
+       <lb id="Ench1615_G2A_16"/>
+        <div type="Language" lang="Latvian">jums dots unde izliets /par pamešene</div>
+       <lb id="Ench1615_G2A_17"/>
+        <div type="Language" lang="Latvian">tos grēkēs . katre vārde jir pi</div>
+       <lb id="Ench1615_G2A_18"/>
+        <div type="Language" lang="Latvian">to miesīge ēšene / unde dzeršene / ka tas</div>
+       <lb id="Ench1615_G2A_19"/>
+        <div type="Language" lang="Latvian">galve gabals / iekškan to vakare ēdene / und kas</div>
+       <lb id="Ench1615_G2A_20"/>
+        <div type="Language" lang="Latvian">tiems patiems vārdims tice / tam jir tas / ko tie</div>
+       <lb id="Ench1615_G2A_21"/>
+        <div type="Language" lang="Latvian">sake / unde no katre tie tur skan /  ar vārde /</div>
+       <lb id="Ench1615_G2A_22"/>
+        <div type="Language" lang="Latvian">pamešen tos grēkes .</div>
+       <lb id="Ench1615_G2A_23"/>
+        <div type="Language" lang="Latvian">kas jem tad tāde iestādījume cienīge ?    atbilde .</div>
+       <lb id="Ench1615_G2A_24"/>
+        <div type="Language" lang="Latvian">ta gavēšene und ta miesīge sataisišene /</div>
+      </div>
+      <pb n="G2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_G2B_1"/>
+        <div type="Language" lang="Latvian">jir viena laba krāsene arīge spīdībe / bet tas jir</div>
+       <lb id="Ench1615_G2B_2"/>
+        <div type="Language" lang="Latvian">tiešām cienīgs unde lab sataisies / kam tā ticībe</div>
+       <lb id="Ench1615_G2B_3"/>
+        <div type="Language" lang="Latvian">jir / iekškan šiems vārdims /  par jums dots</div>
+       <lb id="Ench1615_G2B_4"/>
+        <div type="Language" lang="Latvian">und izliets / par pamešen tos grēkes .</div>
+       <lb id="Ench1615_G2B_5"/>
+        <div type="Language" lang="Latvian">bet kas šiems vārdims ne tic / tas jir necienīgs</div>
+       <lb id="Ench1615_G2B_6"/>
+        <div type="Language" lang="Latvian">unde netaisnis / aizto tas vārds par jums /</div>
+       <lb id="Ench1615_G2B_7"/>
+        <div type="Language" lang="Latvian">grib visaske ticiges sirdēs .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G2B_8"/>
+       <div type="Language" lang="German">Folget eine kurtze Forma zu beichten</div>
+       <lb id="Ench1615_G2B_9"/>
+       <div type="Language" lang="German">für die Einfeltigen auß dem Catechiſmo</div>
+       <lb id="Ench1615_G2B_10"/>
+       <div type="Language" lang="German">D. M. L.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G2B_11"/>
+        <div type="Language" lang="Latvian">ka tos vientiesiges unde vienkārtiges</div>
+       <lb id="Ench1615_G2B_12"/>
+        <div type="Language" lang="Latvian">būs mācīt / ka tie zin saves grēkes dievam</div>
+       <lb id="Ench1615_G2B_13"/>
+        <div type="Language" lang="Latvian">unde savam baznīce kungam</div>
+       <lb id="Ench1615_G2B_14"/>
+        <div type="Language" lang="Latvian">atzīt unde sūdzet .</div>
+       <lb id="Ench1615_G2B_15"/>
+        <div type="Language" lang="Latvian">tā būs tev uz to baznīcekunge</div>
+       <lb id="Ench1615_G2B_16"/>
+        <div type="Language" lang="Latvian">sacīt .</div>
+       <lb id="Ench1615_G2B_17"/>
+        <div type="Language" lang="Latvian">cienīgs mīlats kungs / es lūdze tev / ka tu</div>
+       <lb id="Ench1615_G2B_18"/>
+        <div type="Language" lang="Latvian">grib manes grēkes klausīt / unde man tos grēkes</div>
+       <lb id="Ench1615_G2B_19"/>
+        <div type="Language" lang="Latvian">pamest no dieve puses .</div>
+       <lb id="Ench1615_G2B_20"/>
+        <div type="Language" lang="Latvian">ja / labprāt / sak šur .</div>
+       <lb id="Ench1615_G2B_21"/>
+        <div type="Language" lang="Latvian">es nabags grēceneks atzīstos man priekškan</div>
+       <lb id="Ench1615_G2B_22"/>
+        <div type="Language" lang="Latvian">dieve <corr>vises</corr><sic>vuses</sic> grēkes parādan / savišķe atzīsto</div>
+       <lb id="Ench1615_G2B_23"/>
+        <div type="Language" lang="Latvian">es priekšan tev / ka es kalps jeb kalpune</div>
+       <div type="Language" lang="Latin">etc</div>
+        <div type="Language" lang="Latvian">. esme /</div>
+       <lb id="Ench1615_G2B_24"/>
+        <div type="Language" lang="Latvian">bet es kalpo / dievs žēlo ne pieticīge manam</div>
+      </div>
+      <pb n="G3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_1"/>
+        <div type="Language" lang="Latvian">kungam / es ne esme to labprāt daris / ko te man</div>
+       <lb id="Ench1615_G3A_2"/>
+        <div type="Language" lang="Latvian"><corr>pavēlējše</corr><sic>pavēleiske</sic> gire / es esme to apdusmojs / unde iekškan</div>
+       <lb id="Ench1615_G3A_3"/>
+        <div type="Language" lang="Latvian">lādēšen ievedis / es esme kutris bijis / unde</div>
+       <lb id="Ench1615_G3A_4"/>
+        <div type="Language" lang="Latvian">grēke licis notikt . es esme arīdzan ar vārdims</div>
+       <lb id="Ench1615_G3A_5"/>
+        <div type="Language" lang="Latvian">unde darbims ne kaunīgs bijis / unde ar mane</div>
+       <lb id="Ench1615_G3A_6"/>
+        <div type="Language" lang="Latvian">tuvāke jeb bedre kalpe dusmojs / pretībe mane</div>
+       <lb id="Ench1615_G3A_7"/>
+        <div type="Language" lang="Latvian">gaspaže kurnējs unde lādējs</div>
+       <div type="Language" lang="Latin">etc</div>
+        <div type="Language" lang="Latvian">. tas jir man</div>
+       <lb id="Ench1615_G3A_8"/>
+        <div type="Language" lang="Latvian">visenotal žēle / unde es lūdze žēlestībe / es</div>
+       <lb id="Ench1615_G3A_9"/>
+        <div type="Language" lang="Latvian">grib no grēkims atmitēt / und vairs nedarit .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_10"/>
+       <div type="Language" lang="German">Daranff ſol der Beichtuater ſagen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_11"/>
+        <div type="Language" lang="Latvian">dievs jir tev žēlīgs unde iestipre tave</div>
+       <lb id="Ench1615_G3A_12"/>
+        <div type="Language" lang="Latvian">ticībe / amen .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_13"/>
+       <div type="Language" lang="German">Vnd ſpreche weiter.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_14"/>
+        <div type="Language" lang="Latvian">tic tu arīdzan / ka mane pamešen /</div>
+       <lb id="Ench1615_G3A_15"/>
+        <div type="Language" lang="Latvian">dieve pamešen jir .                     atbilde.</div>
+       <lb id="Ench1615_G3A_16"/>
+        <div type="Language" lang="Latvian">ja mīleis kungs .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_17"/>
+       <div type="Language" lang="German">Darauff ſpreche Er.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_18"/>
+        <div type="Language" lang="Latvian">tev notieke ka tu tice / und es aran pavēlešen</div>
+       <lb id="Ench1615_G3A_19"/>
+        <div type="Language" lang="Latvian">mūse kunge jēzu kristi pameto tev taves</div>
+       <lb id="Ench1615_G3A_20"/>
+        <div type="Language" lang="Latvian">grēkes/ iekškan to vārde to tēve / unde to</div>
+       <lb id="Ench1615_G3A_21"/>
+        <div type="Language" lang="Latvian">dēle / und to svēte gare / amen .</div>
+       <lb id="Ench1615_G3A_22"/>
+        <div type="Language" lang="Latvian">ej iekškan dieve miere .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3A_23"/>
+       <div type="Language" lang="German">Der Morgenſegen.</div>
+      </div>
+      <pb n="G3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_G3B_1"/>
+        <div type="Language" lang="Latvian">ta rite lūgšene / ka vienam name tēvam</div>
+       <lb id="Ench1615_G3B_2"/>
+        <div type="Language" lang="Latvian">save saime vienkārtīge</div>
+       <lb id="Ench1615_G3B_3"/>
+        <div type="Language" lang="Latvian">mācīt būs .</div>
+       <lb id="Ench1615_G3B_4"/>
+        <div type="Language" lang="Latvian">tan rītan / kad tu augškām celes / tad būs</div>
+       <lb id="Ench1615_G3B_5"/>
+        <div type="Language" lang="Latvian">tev krustīties ar to svēte kruste / unde sacīt .</div>
+       <lb id="Ench1615_G3B_6"/>
+        <div type="Language" lang="Latvian">nu paliīdz man tas dievs tēvs + dēls +</div>
+       <lb id="Ench1615_G3B_7"/>
+        <div type="Language" lang="Latvian">unde svēts gars  + amen .</div>
+       <lb id="Ench1615_G3B_8"/>
+        <div type="Language" lang="Latvian">pēc to ceļos mesdams jeb stāvēdams</div>
+       <lb id="Ench1615_G3B_9"/>
+        <div type="Language" lang="Latvian">var tu tave ticībe unde</div>
+       <lb id="Ench1615_G3B_10"/>
+        <div type="Language" lang="Latvian">to lūgšene trēset / grib tu tad</div>
+       <lb id="Ench1615_G3B_11"/>
+        <div type="Language" lang="Latvian">var tu šo lūgšeniņe tur klāt</div>
+       <lb id="Ench1615_G3B_12"/>
+        <div type="Language" lang="Latvian">trēsēt</div>
+       <lb id="Ench1615_G3B_13"/>
+        <div type="Language" lang="Latvian">es pateice tev mans debese tēvs / caur</div>
+       <lb id="Ench1615_G3B_14"/>
+        <div type="Language" lang="Latvian">jēzum kristum tavam mīlam dēlam</div>
+       <lb id="Ench1615_G3B_15"/>
+        <div type="Language" lang="Latvian">manam kungam / ka tu man šo nakte pār vise</div>
+       <lb id="Ench1615_G3B_16"/>
+        <div type="Language" lang="Latvian">ne laimībe unde briesmībe / paglabais unde pasargais</div>
+       <lb id="Ench1615_G3B_17"/>
+        <div type="Language" lang="Latvian">ese / unde lūdze tev / tu gribēte man šo</div>
+       <lb id="Ench1615_G3B_18"/>
+        <div type="Language" lang="Latvian">diene arīdzan pasargāt / pār grēkims unde</div>
+       <lb id="Ench1615_G3B_19"/>
+        <div type="Language" lang="Latvian">vise ļaune / ka tev vise mans darbs unde dzīvībe</div>
+       <lb id="Ench1615_G3B_20"/>
+        <div type="Language" lang="Latvian">patīke / aizto es pavēle man / mane miese</div>
+       <lb id="Ench1615_G3B_21"/>
+        <div type="Language" lang="Latvian">unde dvēsel / unde vise liete / iekškan tave roke /</div>
+       <lb id="Ench1615_G3B_22"/>
+        <div type="Language" lang="Latvian">tavs svēts engels stāv man klāt / ka tas ļauns</div>
+       <lb id="Ench1615_G3B_23"/>
+        <div type="Language" lang="Latvian"><corr>ienaideneks</corr><sic>ienaidenerks</sic> man ne pievar / amen .</div>
+       <lb id="Ench1615_G3B_24"/>
+        <div type="Language" lang="Latvian">unde tad var tu priecīge pi tave darbe iet /</div>
+       <lb id="Ench1615_G3B_25"/>
+        <div type="Language" lang="Latvian">und dieve dziesme dziedāt / ka tos desmeties</div>
+       <lb id="Ench1615_G3B_26"/>
+        <div type="Language" lang="Latvian">bausles / jeb ko tava sirds edoma .</div>
+      </div>
+      <pb n="G4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_G4A_1"/>
+       <div type="Language" lang="German">Der Abentſegen.</div>
+       <lb id="Ench1615_G4A_2"/>
+        <div type="Language" lang="Latvian">tan vakaran / kad tu gulet ese / tad būs</div>
+       <lb id="Ench1615_G4A_3"/>
+        <div type="Language" lang="Latvian">tev krustīties ar to svēte kruste / und sacīt .</div>
+       <lb id="Ench1615_G4A_4"/>
+        <div type="Language" lang="Latvian">nu palīdze man tas dievs tēvs + dēls +</div>
+       <lb id="Ench1615_G4A_5"/>
+        <div type="Language" lang="Latvian">unde tas svēts gars + amen .</div>
+       <lb id="Ench1615_G4A_6"/>
+        <div type="Language" lang="Latvian">pēc to ceļos mesdams jeb stāvedams</div>
+       <lb id="Ench1615_G4A_7"/>
+        <div type="Language" lang="Latvian">/ var tu tave ticībe unde to</div>
+       <lb id="Ench1615_G4A_8"/>
+        <div type="Language" lang="Latvian">lūgšene trēsēt / grib tu tad var tu</div>
+       <lb id="Ench1615_G4A_9"/>
+        <div type="Language" lang="Latvian">šo lūgšeniņe tur klāt trēset .</div>
+       <lb id="Ench1615_G4A_10"/>
+        <div type="Language" lang="Latvian">es pateice tev mans debese tēvs / caur</div>
+       <lb id="Ench1615_G4A_11"/>
+        <div type="Language" lang="Latvian">jēzum kristum tavam mīlam / dēlam</div>
+       <lb id="Ench1615_G4A_12"/>
+        <div type="Language" lang="Latvian">manam kungam / ka tu man šo diene žēlīge paglabojs</div>
+       <lb id="Ench1615_G4A_13"/>
+        <div type="Language" lang="Latvian">unde pasargais es . unde lūdz tev / tu</div>
+       <lb id="Ench1615_G4A_14"/>
+        <div type="Language" lang="Latvian">grib man pamēst vises manes grēkes kur es</div>
+       <lb id="Ench1615_G4A_15"/>
+        <div type="Language" lang="Latvian">netiesīge darīs esme / unde man šo nakte arīdzan</div>
+       <lb id="Ench1615_G4A_16"/>
+        <div type="Language" lang="Latvian">žēlīge pasargāt / aizto es pavēl man / mane</div>
+       <lb id="Ench1615_G4A_17"/>
+        <div type="Language" lang="Latvian">miese und dvēsel / und vise liete / iekškan tave</div>
+       <lb id="Ench1615_G4A_18"/>
+        <div type="Language" lang="Latvian">roke / tavs svēts engels stāv man klāt / ka</div>
+       <lb id="Ench1615_G4A_19"/>
+        <div type="Language" lang="Latvian">tas ļauns ienaideneks man ne pievar / amen .</div>
+       <lb id="Ench1615_G4A_20"/>
+        <div type="Language" lang="Latvian">unde tudelin var tu prēcīge apgulētes .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G4A_21"/>
+       <div type="Language" lang="German">Wie ein Haußvater ſein Geſinde</div>
+       <lb id="Ench1615_G4A_22"/>
+       <div type="Language" lang="German">ſol leren das Benedicite vnd Gartias</div>
+       <lb id="Ench1615_G4A_23"/>
+       <div type="Language" lang="German">ſprechen.</div>
+      </div>
+      <pb n="G4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_G4B_1"/>
+        <div type="Language" lang="Latvian">tiems bērnems unde tai saime būse ar saliktiems</div>
+       <lb id="Ench1615_G4B_2"/>
+        <div type="Language" lang="Latvian">rokims / und dižane godīge priekškan</div>
+       <lb id="Ench1615_G4B_3"/>
+        <div type="Language" lang="Latvian">to galde stāvēt und sacīt .</div>
+       <lb id="Ench1615_G4B_4"/>
+        <div type="Language" lang="Latvian">vises aces gaide uz tev <corr>kungs</corr><sic>kunrks</sic> /</div>
+       <lb id="Ench1615_G4B_5"/>
+        <div type="Language" lang="Latvian">unde tu dos tiems viņe barībe</div>
+       <lb id="Ench1615_G4B_6"/>
+        <div type="Language" lang="Latvian">savan laikan / tu atver tave / roke</div>
+       <lb id="Ench1615_G4B_7"/>
+        <div type="Language" lang="Latvian">unde peēdena vise / katre tur dzīvo</div>
+       <lb id="Ench1615_G4B_8"/>
+        <div type="Language" lang="Latvian">ar labe prāte .</div>
+       <lb id="Ench1615_G4B_9"/>
+        <div type="Language" lang="Latvian">pēc to mūse tēvs iekškan to debes</div>
+       <lb id="Ench1615_G4B_10"/>
+        <div type="Language" lang="Latvian">unde šo lūgšene .</div>
+       <lb id="Ench1615_G4B_11"/>
+        <div type="Language" lang="Latvian">kungs dievs debese tēvs / gausena</div>
+       <lb id="Ench1615_G4B_12"/>
+        <div type="Language" lang="Latvian">mums šos taves dāvanes / katres</div>
+       <lb id="Ench1615_G4B_13"/>
+        <div type="Language" lang="Latvian">mēs no tave mīlīge žēlestībe pi</div>
+       <lb id="Ench1615_G4B_14"/>
+        <div type="Language" lang="Latvian">mums jemam / caur jēzum kristum</div>
+       <lb id="Ench1615_G4B_15"/>
+        <div type="Language" lang="Latvian">mūsam kungam / amen .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_G4B_16"/>
+       <div type="Language" lang="German">Das Gratias</div>
+       <lb id="Ench1615_G4B_17"/>
+        <div type="Language" lang="Latvian">pateicet tam kungam aizto tas</div>
+       <lb id="Ench1615_G4B_18"/>
+        <div type="Language" lang="Latvian">jir mīlīgs / unde viņe mīlestībe palēk</div>
+       <lb id="Ench1615_G4B_19"/>
+        <div type="Language" lang="Latvian">mūžīge / katers vise miese barībe</div>
+       <lb id="Ench1615_G4B_20"/>
+        <div type="Language" lang="Latvian">dode / katers tiems lopims save baŗošene</div>
+       <lb id="Ench1615_G4B_21"/>
+        <div type="Language" lang="Latvian">dode / tiems jaunems krauklems</div>
+      </div>
+      <pb n="HA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_HA_1"/>
+        <div type="Language" lang="Latvian">katre to piesauc : tam ne jir labs</div>
+       <lb id="Ench1615_HA_2"/>
+        <div type="Language" lang="Latvian">prāts / pi to zirge stiprume / nedz tam</div>
+       <lb id="Ench1615_HA_3"/>
+        <div type="Language" lang="Latvian">jir labs prāts pi tiems vīre lielims / tam</div>
+       <lb id="Ench1615_HA_4"/>
+        <div type="Language" lang="Latvian">kungam jir viens labs prāts / pi tiems</div>
+       <lb id="Ench1615_HA_5"/>
+        <div type="Language" lang="Latvian">katre to bījā / unde uz viņe žēlestībe</div>
+       <lb id="Ench1615_HA_6"/>
+        <div type="Language" lang="Latvian">cere jeb gaide .</div>
+       <lb id="Ench1615_HA_7"/>
+        <div type="Language" lang="Latvian">pēc to / mūse tēvs / unde šo</div>
+       <lb id="Ench1615_HA_8"/>
+        <div type="Language" lang="Latvian">lūgšene .</div>
+       <lb id="Ench1615_HA_9"/>
+        <div type="Language" lang="Latvian">mēs pateicam tev kungs dievs</div>
+       <lb id="Ench1615_HA_10"/>
+        <div type="Language" lang="Latvian">debese tēvs / caur jēzum kristum</div>
+       <lb id="Ench1615_HA_11"/>
+        <div type="Language" lang="Latvian">mūsam kungam / par vise tave</div>
+       <lb id="Ench1615_HA_12"/>
+        <div type="Language" lang="Latvian">labe darīšene / katers tu dzīvo unde</div>
+       <lb id="Ench1615_HA_13"/>
+        <div type="Language" lang="Latvian">valde mūžīge / amen .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_HA_14"/>
+       <div type="Language" lang="German">Folget die Hauſztaffel.</div>
+       <lb id="Ench1615_HA_15"/>
+       <div type="Language" lang="German">Den Biſchouen / Pfarherrn vnde</div>
+       <lb id="Ench1615_HA_16"/>
+       <div type="Language" lang="German">Predigern.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_HA_17"/>
+        <div type="Language" lang="Latvian">vienam pīskopam būs ne no ziedzīgam bute</div>
+       <lb id="Ench1615_HA_18"/>
+        <div type="Language" lang="Latvian">/ vienas sievas viram / gauvigam <corr>gadigam</corr><sic>gadigadr-gam</sic></div>
+       <lb id="Ench1615_HA_19"/>
+        <div type="Language" lang="Latvian">/ ramam / mājotājam / mācetājam /ka vienam</div>
+       <lb id="Ench1615_HA_20"/>
+        <div type="Language" lang="Latvian">dieve nameturetājam / ne vienam vīnerijētājam</div>
+       <lb id="Ench1615_HA_21"/>
+        <div type="Language" lang="Latvian">/ nedz atkodetājam / nedz tādam / kas ne</div>
+       <lb id="Ench1615_HA_22"/>
+        <div type="Language" lang="Latvian">godīge priecēšene ciene / bet laipigam / nedz</div>
+       <lb id="Ench1615_HA_23"/>
+        <div type="Language" lang="Latvian">baretājam / nedz gausīgam / katers savam</div>
+      </div>
+      <pb n="HB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_HB_1"/>
+        <div type="Language" lang="Latvian">patam naman lab priešan stāve / katram paklausīge</div>
+       <lb id="Ench1615_HB_2"/>
+        <div type="Language" lang="Latvian">bērne jir / ar visade godībe / nedz tādam</div>
+       <lb id="Ench1615_HB_3"/>
+        <div type="Language" lang="Latvian">kas jauns jir / und sev uzpūšās / bet katers stipre</div>
+       <lb id="Ench1615_HB_4"/>
+        <div type="Language" lang="Latvian">tur pār to dieve taisnīge vārde unde mācīt</div>
+       <lb id="Ench1615_HB_5"/>
+        <div type="Language" lang="Latvian">var / unde var pieminēt caur to svēte mācībe /</div>
+       <lb id="Ench1615_HB_6"/>
+        <div type="Language" lang="Latvian">und sodīt tos pretībe trēsatājes</div>
+       <div type="Language" lang="Latin">etc</div>
+        <div type="Language" lang="Latvian">. i.tim . 3 . tit . 1.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_HB_7"/>
+       <div type="Language" lang="German">Den Zuhörern.</div>
+       <lb id="Ench1615_HB_8"/>
+        <div type="Language" lang="Latvian">tas kungs jir pavēlējs / ka te / katre to evangelium</div>
+       <lb id="Ench1615_HB_9"/>
+        <div type="Language" lang="Latvian">sludena / tiems būs sev no to evangelio uz</div>
+       <lb id="Ench1615_HB_10"/>
+        <div type="Language" lang="Latvian">turētes / i . corint . 9.</div>
+       <lb id="Ench1615_HB_11"/>
+        <div type="Language" lang="Latvian">tas / katers pamācīts tope ar to dieve</div>
+       <lb id="Ench1615_HB_12"/>
+        <div type="Language" lang="Latvian">vārde / tas dale visade labume / tam / kas to</div>
+       <lb id="Ench1615_HB_13"/>
+        <div type="Language" lang="Latvian">pamāce / gal . 6.</div>
+       <lb id="Ench1615_HB_14"/>
+        <div type="Language" lang="Latvian">te vecāke / katre lab priešan stāve / te jir</div>
+       <lb id="Ench1615_HB_15"/>
+        <div type="Language" lang="Latvian"><corr>divkārtīge</corr><sic>dnevekārtīge</sic> gode cienīge / vēl vairak katre tur</div>
+       <lb id="Ench1615_HB_16"/>
+        <div type="Language" lang="Latvian">strāda / iekškan dieve vārde / unde iekškan to mācībe .</div>
+       <lb id="Ench1615_HB_17"/>
+        <div type="Language" lang="Latvian">aizto tas raksts sak / tev ne būs tam vēršam /</div>
+       <lb id="Ench1615_HB_18"/>
+        <div type="Language" lang="Latvian">katers tur strāda / to mute aizset . item viens darbeneks</div>
+       <lb id="Ench1615_HB_19"/>
+        <div type="Language" lang="Latvian">/ jir save alge pelnis . i. tim . 5.</div>
+       <lb id="Ench1615_HB_20"/>
+        <div type="Language" lang="Latvian">mēs lūdzam jums / mīlīge brale / ka jūs atzīstet</div>
+       <lb id="Ench1615_HB_21"/>
+        <div type="Language" lang="Latvian">/ katre pi jums strāda / und jums priešan stāve</div>
+       <lb id="Ench1615_HB_22"/>
+        <div type="Language" lang="Latvian">iekškan to kunge / und jums piemin . turet tos mīle</div>
+       <lb id="Ench1615_HB_23"/>
+        <div type="Language" lang="Latvian">viņe darbe pēc / unde eset mierīge ar tiems . i . tes 5.</div>
+       <lb id="Ench1615_HB_24"/>
+        <div type="Language" lang="Latvian">eset paklausīge jūsims mācētājms / und daret</div>
+       <lb id="Ench1615_HB_25"/>
+        <div type="Language" lang="Latvian">ta . aizto te jir modrīge pār jūsims dveselims /</div>
+       <lb id="Ench1615_HB_26"/>
+        <div type="Language" lang="Latvian">ka te / katrims tur lagadibo par jums lūdze dot / ka te</div>
+       <lb id="Ench1615_HB_27"/>
+        <div type="Language" lang="Latvian">to ar priecībe dar / und ne ar nopūtēšene / aizto tas</div>
+       <lb id="Ench1615_HB_28"/>
+        <div type="Language" lang="Latvian">ne jir jums labe . ebre . 13.</div>
+      </div>
+      <pb n="H2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_H2A_1"/>
+       <div type="Language" lang="German">Von Weltlicher Oberkeit.</div>
+       <lb id="Ench1615_H2A_2"/>
+        <div type="Language" lang="Latvian">ikviens jir tiems virseniekems paklausīgs / katrems</div>
+       <lb id="Ench1615_H2A_3"/>
+        <div type="Language" lang="Latvian">ta vare pār to jir . aizto vise virsenieke jir</div>
+       <lb id="Ench1615_H2A_4"/>
+        <div type="Language" lang="Latvian">no dieve iestādīte . bet kas tiems virseniekems pretībe</div>
+       <lb id="Ench1615_H2A_5"/>
+        <div type="Language" lang="Latvian">stāve / tas stāve pretībe dieve iestādīšene .</div>
+       <lb id="Ench1615_H2A_6"/>
+        <div type="Language" lang="Latvian">und kas tur pretībe stāve / tas save tiese dabūs /</div>
+       <lb id="Ench1615_H2A_7"/>
+        <div type="Language" lang="Latvian">aizto tie ne nese to zobene velte / tie jir dieve</div>
+       <lb id="Ench1615_H2A_8"/>
+        <div type="Language" lang="Latvian">kalpe / viene atrēdītāje pi sodīšene pār tiems /</div>
+       <lb id="Ench1615_H2A_9"/>
+        <div type="Language" lang="Latvian">katre ļaune dar / rom . 13.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H2A_10"/>
+       <div type="Language" lang="German">Von der Vnderthanen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H2A_11"/>
+        <div type="Language" lang="Latvian">dodet tam keizeram / kas tam keizeram pieder /</div>
+       <lb id="Ench1615_H2A_12"/>
+        <div type="Language" lang="Latvian">mat . 22.  ta eset nu no vajadzībes puses paklausīge</div>
+       <lb id="Ench1615_H2A_13"/>
+        <div type="Language" lang="Latvian">/ ne vien tās sodībes pēc / bet arīdzan</div>
+       <lb id="Ench1615_H2A_14"/>
+        <div type="Language" lang="Latvian">tās zināšenes pēc / tapēc būs jums arīdzan</div>
+       <lb id="Ench1615_H2A_15"/>
+        <div type="Language" lang="Latvian">mesles dot / aizto tie jir dieve kalpe /</div>
+       <lb id="Ench1615_H2A_16"/>
+        <div type="Language" lang="Latvian">katrems tāde paglābšene būse uz turet . ta</div>
+       <lb id="Ench1615_H2A_17"/>
+        <div type="Language" lang="Latvian">dodet nu ikvienam / ko jūs parādan eset / mesles</div>
+       <lb id="Ench1615_H2A_18"/>
+        <div type="Language" lang="Latvian">tam / kam ta mesle pieder . muite tam / kam tā</div>
+       <lb id="Ench1615_H2A_19"/>
+        <div type="Language" lang="Latvian">muite pieder . bijāšene tam / kam tā bijāšene</div>
+       <lb id="Ench1615_H2A_20"/>
+        <div type="Language" lang="Latvian">pieder . gode tam / kam tas gods pieder . rom . 13 .</div>
+       <lb id="Ench1615_H2A_21"/>
+        <div type="Language" lang="Latvian">tā piemino es nu / ka ikviens pār visems lietems</div>
+       <lb id="Ench1615_H2A_22"/>
+        <div type="Language" lang="Latvian">pirmāk lūdz / unde pateicībe sake / pār</div>
+       <lb id="Ench1615_H2A_23"/>
+        <div type="Language" lang="Latvian">visims cilvēkims / pār tiems kēniņims / und par</div>
+       <lb id="Ench1615_H2A_24"/>
+        <div type="Language" lang="Latvian">visems virseniekems / ka mēs viene dusame /</div>
+       <lb id="Ench1615_H2A_25"/>
+        <div type="Language" lang="Latvian">und kluse / mierīge dzīvošene turēt varam / iekškan</div>
+       <lb id="Ench1615_H2A_26"/>
+        <div type="Language" lang="Latvian">vise dieve bijāšene unde godībe . aizto tas</div>
+      </div>
+      <pb n="H2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_H2B_1"/>
+        <div type="Language" lang="Latvian">jir labs und arīdzan paprātīge priekšan dieve mūse</div>
+       <lb id="Ench1615_H2B_2"/>
+        <div type="Language" lang="Latvian">pestītāje i . timot . 2.</div>
+       <lb id="Ench1615_H2B_3"/>
+        <div type="Language" lang="Latvian">piemin tos / ka te tiems lielems kungems und tiems</div>
+       <lb id="Ench1615_H2B_4"/>
+        <div type="Language" lang="Latvian">virseniekems kalpīge und paklausīge jir</div>
+       <div type="Language" lang="Latin">etc</div>
+        <div type="Language" lang="Latvian">. tit . 3 .</div>
+       <lb id="Ench1615_H2B_5"/>
+        <div type="Language" lang="Latvian">eset paklausīge vise cilvēcīge radībe tā</div>
+       <lb id="Ench1615_H2B_6"/>
+        <div type="Language" lang="Latvian">kunge pēc / tik lab tam kēniņam ka tam virsenekam</div>
+       <lb id="Ench1615_H2B_7"/>
+        <div type="Language" lang="Latvian">/ jeb tiems galvenekims / ka tam / kas to sūtīs</div>
+       <lb id="Ench1615_H2B_8"/>
+        <div type="Language" lang="Latvian">jir / pār atrēdīšene tiems ļaunedarītājems / unde</div>
+       <lb id="Ench1615_H2B_9"/>
+        <div type="Language" lang="Latvian">par slave tiems ramims / i . pet . 2.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H2B_10"/>
+       <div type="Language" lang="German">Den Ehemennern.</div>
+       <lb id="Ench1615_H2B_11"/>
+        <div type="Language" lang="Latvian">jūs vīre / dzīvot pi jūsims sievims ar</div>
+       <lb id="Ench1615_H2B_12"/>
+        <div type="Language" lang="Latvian">prāte / unde dodet tiems sievešķims / ka tai māje</div>
+       <lb id="Ench1615_H2B_13"/>
+        <div type="Language" lang="Latvian">būšene viņe gode / katre arīdzan jir līdze</div>
+       <lb id="Ench1615_H2B_14"/>
+        <div type="Language" lang="Latvian">mantenieke tās žēlestībes und tās dzīvošenes /</div>
+       <lb id="Ench1615_H2B_15"/>
+        <div type="Language" lang="Latvian">ka jūse lūgšene ne pakaitenata tope . i . pet . 3 .</div>
+       <lb id="Ench1615_H2B_16"/>
+        <div type="Language" lang="Latvian">und ne eset barge pretībe tiems / colos . 3.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H2B_17"/>
+       <div type="Language" lang="German">Den Ehefrawen.</div>
+       <lb id="Ench1615_H2B_18"/>
+        <div type="Language" lang="Latvian">jūs sieves eset paklausīge <corr>jūsims</corr><sic>īnusims</sic> vīrims</div>
+       <lb id="Ench1615_H2B_19"/>
+        <div type="Language" lang="Latvian">ka tam kungam / līdz ka sara abrāam paklausiga</div>
+       <lb id="Ench1615_H2B_20"/>
+        <div type="Language" lang="Latvian">bij / und dēvēj to kunge katras meities jūs</div>
+       <lb id="Ench1615_H2B_21"/>
+        <div type="Language" lang="Latvian">tapuše eset / kad jūs lab daret / unde ne eset</div>
+       <lb id="Ench1615_H2B_22"/>
+        <div type="Language" lang="Latvian">izsabījuše. i. pet . 3.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H2B_23"/>
+       <div type="Language" lang="German">Den Eltern.</div>
+       <lb id="Ench1615_H2B_24"/>
+        <div type="Language" lang="Latvian">jūs tēve ne apdusmojet jūses bērnes /</div>
+       <lb id="Ench1615_H2B_25"/>
+        <div type="Language" lang="Latvian">bet uz audzenājet tos iekškan to pamācīšene /</div>
+       <lb id="Ench1615_H2B_26"/>
+        <div type="Language" lang="Latvian">und pieminēšene tā kunge . i. ēes. 6.</div>
+      </div>
+      <pb n="H3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3A_1"/>
+       <div type="Language" lang="German">Den Kindern.</div>
+       <lb id="Ench1615_H3A_2"/>
+        <div type="Language" lang="Latvian">jūs bērne eset paklausīge jūsims vecākims</div>
+       <lb id="Ench1615_H3A_3"/>
+        <div type="Language" lang="Latvian">iekškan to kunge / aizto tas pieklājas . / gode tēve</div>
+       <lb id="Ench1615_H3A_4"/>
+        <div type="Language" lang="Latvian">und māte / tas jir tas pirmais <corr>bauslis</corr><sic>bonslis</sic> / katram</div>
+       <lb id="Ench1615_H3A_5"/>
+        <div type="Language" lang="Latvian">viena piesacīšene jir / ar vārde / ka tev labe klājas</div>
+       <lb id="Ench1615_H3A_6"/>
+        <div type="Language" lang="Latvian">/ und tu ilge dzīvo virson zemes / ephes . 6 .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3A_7"/>
+       <div type="Language" lang="German">Den Knechten/ Wegden Tag-</div>
+       <lb id="Ench1615_H3A_8"/>
+       <div type="Language" lang="German">lönern/ vnd arbeitern</div>
+       <div type="Language" lang="Latin">etc.</div>
+       <lb id="Ench1615_H3A_9"/>
+        <div type="Language" lang="Latvian">jūs kalpe / eset paklausīge jūsims miesīge</div>
+       <lb id="Ench1615_H3A_10"/>
+        <div type="Language" lang="Latvian">kungims / ar bijāšene und trīsēšene / iekškan viene</div>
+       <lb id="Ench1615_H3A_11"/>
+        <div type="Language" lang="Latvian">vientiesīge sirde / ka kristus pats / ne ar kalpošene</div>
+       <lb id="Ench1615_H3A_12"/>
+        <div type="Language" lang="Latvian">vien priekškan acems / ka tiems cilvēkims patīke</div>
+       <lb id="Ench1615_H3A_13"/>
+        <div type="Language" lang="Latvian">/ bet ka te kalpe kristi / ka jūs tāde dieve</div>
+       <lb id="Ench1615_H3A_14"/>
+        <div type="Language" lang="Latvian">prāte daret / no sirde ar labe prāte / domādame</div>
+       <lb id="Ench1615_H3A_15"/>
+        <div type="Language" lang="Latvian">ka jūs tam kungam / und ne tiems cilvēkims</div>
+       <lb id="Ench1615_H3A_16"/>
+        <div type="Language" lang="Latvian">kalpojat / und zinet / ko ikviens labe dar / to tas</div>
+       <lb id="Ench1615_H3A_17"/>
+        <div type="Language" lang="Latvian">no to kunge atdabūs . tas jir kalps jeb svabads</div>
+       <lb id="Ench1615_H3A_18"/>
+        <div type="Language" lang="Latvian">/ i. ephes . 6 .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3A_19"/>
+       <div type="Language" lang="German">Den Haußherrn vnd Haußfrawen.</div>
+       <lb id="Ench1615_H3A_20"/>
+        <div type="Language" lang="Latvian">jūs kunge daret arīdzan to pate pretībe</div>
+       <lb id="Ench1615_H3A_21"/>
+        <div type="Language" lang="Latvian">tiems / unde atstājet no tās draudīšenes / unde zināt</div>
+       <lb id="Ench1615_H3A_22"/>
+        <div type="Language" lang="Latvian">ka jums arīdzan viens kungs iekškan debes</div>
+       <lb id="Ench1615_H3A_23"/>
+        <div type="Language" lang="Latvian">jir / und tas ne uz rauge neviene / ephes . 6 .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3A_24"/>
+       <div type="Language" lang="German">Der gemeine Jugent.</div>
+       <lb id="Ench1615_H3A_25"/>
+        <div type="Language" lang="Latvian">jūs jaunake eset tiems vecākims paklausīge</div>
+      </div>
+      <pb n="H3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3B_1"/>
+        <div type="Language" lang="Latvian">/ und paradet iekškan to / to zemošene / aizto</div>
+       <lb id="Ench1615_H3B_2"/>
+        <div type="Language" lang="Latvian">dievs stāve pretībe tiems greznims / bet tiems</div>
+       <lb id="Ench1615_H3B_3"/>
+        <div type="Language" lang="Latvian">zemoskims dode tas žēlestībe / tā zemojaties</div>
+       <lb id="Ench1615_H3B_4"/>
+        <div type="Language" lang="Latvian">jums nu apeškan / to varene dieve roke / ka tas</div>
+       <lb id="Ench1615_H3B_5"/>
+        <div type="Language" lang="Latvian">jums paaugstena savan laikan / i . pet . 5.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3B_6"/>
+       <div type="Language" lang="German">Den Widwen.</div>
+       <lb id="Ench1615_H3B_7"/>
+        <div type="Language" lang="Latvian">ta jir viena īstena atraitne / katra vientiesiga</div>
+       <lb id="Ench1615_H3B_8"/>
+        <div type="Language" lang="Latvian">jir / und save cerībe uz dieve lieke / unde paliek pi</div>
+       <lb id="Ench1615_H3B_9"/>
+        <div type="Language" lang="Latvian">lūgšene diene und nakte / bet katra iekškan karībes</div>
+       <lb id="Ench1615_H3B_10"/>
+        <div type="Language" lang="Latvian">dzīvo / ta jir dzīva miruse / i . timot .5 .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3B_11"/>
+       <div type="Language" lang="German">Der Gemeine.</div>
+       <lb id="Ench1615_H3B_12"/>
+        <div type="Language" lang="Latvian">mīlena tave tuvāke ka tev patim / iekškan</div>
+       <lb id="Ench1615_H3B_13"/>
+        <div type="Language" lang="Latvian">to vārde jir vise bausle aptverte . rom . 13 .</div>
+       <lb id="Ench1615_H3B_14"/>
+        <div type="Language" lang="Latvian">unde ne no mitēt ar lūgšene / par visims</div>
+       <lb id="Ench1615_H3B_15"/>
+        <div type="Language" lang="Latvian">cilvēkims / i . tomot . 2 .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H3B_16"/>
+       <div type="Language" lang="German">Ein Trawbüchlin</div>
+       <lb id="Ench1615_H3B_17"/>
+       <div type="Language" lang="German">für die einfeltigen Pfarherrn.</div>
+       <lb id="Ench1615_H3B_18"/>
+       <div type="Language" lang="German">D. Martin Luth.</div>
+       <lb id="Ench1615_H3B_19"/>
+       <div type="Language" lang="German">Zum erſten auff der Cantzel auffbieten mit ſolchen</div>
+       <lb id="Ench1615_H3B_20"/>
+       <div type="Language" lang="German">Worten.</div>
+       <lb id="Ench1615_H3B_21"/>
+        <div type="Language" lang="Latvian">hans n . und anna n . gribas sev pēc dieve</div>
+       <lb id="Ench1615_H3B_22"/>
+        <div type="Language" lang="Latvian">iestādīšene iekškan to svēte laulībe doties /</div>
+       <lb id="Ench1615_H3B_23"/>
+        <div type="Language" lang="Latvian">tapēc lūdzete šo krustīte draudzībe ka tā</div>
+      </div>
+      <pb n="H4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_H4A_1"/>
+        <div type="Language" lang="Latvian">grib dieve par tiems lūgt / ka tie to iekškan dieve</div>
+       <lb id="Ench1615_H4A_2"/>
+        <div type="Language" lang="Latvian">vārde var iesākte / unde ta tiems lab paklājas .</div>
+       <lb id="Ench1615_H4A_3"/>
+        <div type="Language" lang="Latvian">und ja kam laban šeit  ja trēs jir / tas dar to</div>
+       <lb id="Ench1615_H4A_4"/>
+        <div type="Language" lang="Latvian">pi laike / jeb cieše pēc kluse / dievs dode tiems</div>
+       <lb id="Ench1615_H4A_5"/>
+        <div type="Language" lang="Latvian">save žēlestībe / amen .</div>
+       <lb id="Ench1615_H4A_6"/>
+        <div type="Language" lang="Latvian">hans grib tu anna jemt par viene laulate sieve ?</div>
+       <lb id="Ench1615_H4A_7"/>
+        <div type="Language" lang="Latvian">sak .            ja .</div>
+       <lb id="Ench1615_H4A_8"/>
+        <div type="Language" lang="Latvian">anna grib tu hans jemt par viene laulate vīre ?</div>
+       <lb id="Ench1615_H4A_9"/>
+        <div type="Language" lang="Latvian">sak .            ja .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H4A_10"/>
+       <div type="Language" lang="German">Hie laſſe ſie ſich die Trawringe einander geben/</div>
+       <lb id="Ench1615_H4A_11"/>
+       <div type="Language" lang="German">vnd füge ſie beide rechte Hand zuſamen/ vnd ſpreche.</div>
+       <lb id="Ench1615_H4A_12"/>
+        <div type="Language" lang="Latvian">ko dievs jir kopan salīdzenais to</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H4A_13"/>
+        <div type="Language" lang="Latvian">ne būs vienam cilvēkam šķirt .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H4A_14"/>
+       <div type="Language" lang="German">Darnach ſpreche er für allen gemein.</div>
+       <lb id="Ench1615_H4A_15"/>
+        <div type="Language" lang="Latvian">aizto ka nu hans n . und anna n . viens otre grib</div>
+       <lb id="Ench1615_H4A_16"/>
+        <div type="Language" lang="Latvian">par laulate drauge / unde to šeit redzite priešan</div>
+       <lb id="Ench1615_H4A_17"/>
+        <div type="Language" lang="Latvian">dieve und to pasaule atzīst / und par to tie sev vienotre</div>
+       <lb id="Ench1615_H4A_18"/>
+        <div type="Language" lang="Latvian">rokes unde laulībes gredzenes devuše</div>
+       <lb id="Ench1615_H4A_19"/>
+        <div type="Language" lang="Latvian">jir / ta salaulājo es tos kopan / iekškan to vārde to</div>
+       <lb id="Ench1615_H4A_20"/>
+        <div type="Language" lang="Latvian">tēve / und to dēle / und to svēte gare / amen .</div>
+       <lb id="Ench1615_H4A_21"/>
+        <div type="Language" lang="Latvian">ko dievs jir kopan salaulais / to ne būs</div>
+       <lb id="Ench1615_H4A_22"/>
+        <div type="Language" lang="Latvian">vienam cilvēkam šķirt .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H4A_23"/>
+       <div type="Language" lang="German">Vor dem Alter oder dem Breutgam vnde Braut</div>
+       <lb id="Ench1615_H4A_24"/>
+       <div type="Language" lang="German">leſe er Gottes Wort/ Geneſis 2.</div>
+       <lb id="Ench1615_H4A_25"/>
+        <div type="Language" lang="Latvian">unde dievs tas kungs sacī / tas ne jir lab / ka</div>
+      </div>
+      <pb n="H4B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_H4B_1"/>
+        <div type="Language" lang="Latvian">tas cilvēks viens jir / es grib tam viene palīge darīt</div>
+       <lb id="Ench1615_H4B_2"/>
+        <div type="Language" lang="Latvian">/ katers apkārt to jir . tad like dievs tas kungs</div>
+       <lb id="Ench1615_H4B_3"/>
+        <div type="Language" lang="Latvian">viene dziļe mege krist uz to cilvēke / und tas aizmiga</div>
+       <lb id="Ench1615_H4B_4"/>
+        <div type="Language" lang="Latvian">/ und jēme viņe sāne kaule viene / und aizledze</div>
+       <lb id="Ench1615_H4B_5"/>
+        <div type="Language" lang="Latvian">to viete atkal ar miese / unde dievs tas kungs radīje</div>
+       <lb id="Ench1615_H4B_6"/>
+        <div type="Language" lang="Latvian">viene sieve aran to sānekaule / katre tas no to cilvēke</div>
+       <lb id="Ench1615_H4B_7"/>
+        <div type="Language" lang="Latvian">jēme / und vede to pi to . tad sacī tas cilvēks</div>
+       <lb id="Ench1615_H4B_8"/>
+        <div type="Language" lang="Latvian">/ tas jir viens kauls no mane kaule / und miesa</div>
+       <lb id="Ench1615_H4B_9"/>
+        <div type="Language" lang="Latvian">no mane miese / tā tapse vīrišķe dēvēte / tapēc /</div>
+       <lb id="Ench1615_H4B_10"/>
+        <div type="Language" lang="Latvian">ka tā no to vīre jemta jir / tapēc viens cilvēks</div>
+       <lb id="Ench1615_H4B_11"/>
+        <div type="Language" lang="Latvian">tēve unde māte atstās / unde pi saves</div>
+       <lb id="Ench1615_H4B_12"/>
+        <div type="Language" lang="Latvian">sieves pieskārses / <corr>und</corr><sic>vud</sic> te dive būs viena miesa .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_H4B_13"/>
+       <div type="Language" lang="German">Darnach wende er ſich zu jnen beiden/ Rede ſie</div>
+       <lb id="Ench1615_H4B_14"/>
+       <div type="Language" lang="German">an/ Also.</div>
+       <lb id="Ench1615_H4B_15"/>
+        <div type="Language" lang="Latvian">aizto ka jūs nu abe dive iekškan to laulībe</div>
+       <lb id="Ench1615_H4B_16"/>
+        <div type="Language" lang="Latvian">padevuše eset / iekškan dieve vārde  / tad dzirdet</div>
+       <lb id="Ench1615_H4B_17"/>
+        <div type="Language" lang="Latvian">pirman kārtan to dieve bausle pār to laulībe .</div>
+       <lb id="Ench1615_H4B_18"/>
+        <div type="Language" lang="Latvian">tā trēs svēts paulus .</div>
+       <lb id="Ench1615_H4B_19"/>
+        <div type="Language" lang="Latvian">tās sieves jir paklausīge savims vīrims</div>
+       <lb id="Ench1615_H4B_20"/>
+        <div type="Language" lang="Latvian">/ ka tam kungam / aizto tās vīrs jir tās</div>
+       <lb id="Ench1615_H4B_21"/>
+        <div type="Language" lang="Latvian">sieves galva . līdz ka arīdzan kristus ta</div>
+       <lb id="Ench1615_H4B_22"/>
+        <div type="Language" lang="Latvian">galva tās draudzībes jir / und tas jir saves</div>
+       <lb id="Ench1615_H4B_23"/>
+        <div type="Language" lang="Latvian">mieses pestitājs . bet līdz ka nu tā draudze</div>
+       <lb id="Ench1615_H4B_24"/>
+        <div type="Language" lang="Latvian">kristo jir paklausiga / tā arīdzan tās sieves</div>
+       <lb id="Ench1615_H4B_25"/>
+        <div type="Language" lang="Latvian">savims vīrims iekškan visims lietiems .</div>
+       <lb id="Ench1615_H4B_26"/>
+        <div type="Language" lang="Latvian">jūs vīre turet mīle jūses sieves / līdz</div>
+      </div>
+      <pb n="JA"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_JA_1"/>
+        <div type="Language" lang="Latvian">ka kristus mīleis jir to draudzībe / und jir sev</div>
+       <lb id="Ench1615_JA_2"/>
+        <div type="Language" lang="Latvian">patim par to devis / ka tas to svētite und jir to</div>
+       <lb id="Ench1615_JA_3"/>
+        <div type="Language" lang="Latvian">šķīstis caur to ūdene iekškan to vārde / ka tas sev</div>
+       <lb id="Ench1615_JA_4"/>
+        <div type="Language" lang="Latvian">patim sataisite viene draudzībe katra godiga</div>
+       <lb id="Ench1615_JA_5"/>
+        <div type="Language" lang="Latvian">jir / katre ne viena grumba nedz aplasenāšene</div>
+       <lb id="Ench1615_JA_6"/>
+        <div type="Language" lang="Latvian">jir / jeb cita kāda vaine / bet katra svēta unde</div>
+       <lb id="Ench1615_JA_7"/>
+        <div type="Language" lang="Latvian">taisna jir .</div>
+       <lb id="Ench1615_JA_8"/>
+        <div type="Language" lang="Latvian">ta būs arīdzan tiems vīrims saves sieves</div>
+       <lb id="Ench1615_JA_9"/>
+        <div type="Language" lang="Latvian">mīlēt / ka save pate miese / kas save sieve</div>
+       <lb id="Ench1615_JA_10"/>
+        <div type="Language" lang="Latvian">mīle tur / tas tur sev patim mīle / aizto neviens</div>
+       <lb id="Ench1615_JA_11"/>
+        <div type="Language" lang="Latvian">jir save pate miese ienīdeis / bet tas baŗo unde</div>
+       <lb id="Ench1615_JA_12"/>
+        <div type="Language" lang="Latvian">glabo to / līdz ka arīdzan tas kungs to</div>
+       <lb id="Ench1615_JA_13"/>
+        <div type="Language" lang="Latvian">draudzībe .</div>
+       <lb id="Ench1615_JA_14"/>
+        <div type="Language" lang="Latvian">otran kārtan / dzirdet arīdzan to kruste /</div>
+       <lb id="Ench1615_JA_15"/>
+        <div type="Language" lang="Latvian">katre dievs tai laulībe uz licis jir / tā trēs</div>
+       <lb id="Ench1615_JA_16"/>
+        <div type="Language" lang="Latvian">dievs uz to sieve .</div>
+       <lb id="Ench1615_JA_17"/>
+        <div type="Language" lang="Latvian">es grib tev daudze sapes darīt / kad tu</div>
+       <lb id="Ench1615_JA_18"/>
+        <div type="Language" lang="Latvian">apgrutenata taps / tev būs taves bērnes ar</div>
+       <lb id="Ench1615_JA_19"/>
+        <div type="Language" lang="Latvian">sapems piedzimt / und tev būs tavam vīram</div>
+       <lb id="Ench1615_JA_20"/>
+        <div type="Language" lang="Latvian">klausīt / und viņam būs tavam kungam bute .</div>
+       <lb id="Ench1615_JA_21"/>
+        <div type="Language" lang="Latvian">unde uz to vīre sacī dievs .</div>
+       <lb id="Ench1615_JA_22"/>
+        <div type="Language" lang="Latvian">tapēc / ka tu ese klausīs to baleksne taves</div>
+       <lb id="Ench1615_JA_23"/>
+        <div type="Language" lang="Latvian">sieves / unde ēdis no to koke / no katre es tev</div>
+       <lb id="Ench1615_JA_24"/>
+        <div type="Language" lang="Latvian">aizliedze / und sacī tev ne būs no to ēst / no</div>
+       <lb id="Ench1615_JA_25"/>
+        <div type="Language" lang="Latvian">lādēts jir tas tīrums taves puses pēc / ar bēde</div>
+       <lb id="Ench1615_JA_26"/>
+        <div type="Language" lang="Latvian">būs tev tur virson baŗoties tave dzīvošene</div>
+      </div>
+      <pb n="JB"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_JB_1"/>
+        <div type="Language" lang="Latvian">laike / ēršes unde dadzes būs tam tev nest /</div>
+       <lb id="Ench1615_JB_2"/>
+        <div type="Language" lang="Latvian">und tev būs to zāle virson to lauke ēst / iekškan</div>
+       <lb id="Ench1615_JB_3"/>
+        <div type="Language" lang="Latvian">sviedre tave vaige būs teve tave maize ēst /</div>
+       <lb id="Ench1615_JB_4"/>
+        <div type="Language" lang="Latvian">iekams ka tu atkal par zeme tope / no katre tu</div>
+       <lb id="Ench1615_JB_5"/>
+        <div type="Language" lang="Latvian">jemts ese / aizto tu ese zeme / unde taps atkal</div>
+       <lb id="Ench1615_JB_6"/>
+        <div type="Language" lang="Latvian">zemes kārtan .</div>
+       <lb id="Ench1615_JB_7"/>
+        <div type="Language" lang="Latvian">trešan kārtan / jir ta nu jūse priecībe / ka</div>
+       <lb id="Ench1615_JB_8"/>
+        <div type="Language" lang="Latvian">jūs zināt und ticāt / ka jūse laulībe dievam</div>
+       <lb id="Ench1615_JB_9"/>
+        <div type="Language" lang="Latvian">paprāte unde svētita jir .</div>
+       <lb id="Ench1615_JB_10"/>
+        <div type="Language" lang="Latvian">aizto tā stāve tur rakstīts .</div>
+       <lb id="Ench1615_JB_11"/>
+        <div type="Language" lang="Latvian">dievs radīje to cilvēke pēc save vaige</div>
+       <lb id="Ench1615_JB_12"/>
+        <div type="Language" lang="Latvian">/ ja pēc save vaige radīje dievs to / tas</div>
+       <lb id="Ench1615_JB_13"/>
+        <div type="Language" lang="Latvian">radīje tos viene vīre und viene sieve .</div>
+       <lb id="Ench1615_JB_14"/>
+        <div type="Language" lang="Latvian">unde dievs svētī tos / unde sacī uz tiems /</div>
+       <lb id="Ench1615_JB_15"/>
+        <div type="Language" lang="Latvian">eset auglīge und pieauglētes jums / unde piepildet</div>
+       <lb id="Ench1615_JB_16"/>
+        <div type="Language" lang="Latvian">to zeme / unde daret to jums pakalpīge / unde</div>
+       <lb id="Ench1615_JB_17"/>
+        <div type="Language" lang="Latvian">valdēt pār tiems zivems iekškan to jūre / unde</div>
+       <lb id="Ench1615_JB_18"/>
+        <div type="Language" lang="Latvian">pār tiems putnims apeškan to debes / unde par</div>
+       <lb id="Ench1615_JB_19"/>
+        <div type="Language" lang="Latvian">visems zvērems katre virson to zeme lede .</div>
+       <lb id="Ench1615_JB_20"/>
+        <div type="Language" lang="Latvian">unde dievs uz lūkoje vise ko tas darīs bij unde</div>
+       <lb id="Ench1615_JB_21"/>
+        <div type="Language" lang="Latvian">rauge / tas bij vise notal varen labs . tapēc sake</div>
+       <lb id="Ench1615_JB_22"/>
+        <div type="Language" lang="Latvian">arīdzan salomons / kas viene sieve dabū / tas</div>
+       <lb id="Ench1615_JB_23"/>
+        <div type="Language" lang="Latvian">dabū viene labe liete / unde tas jir tam kungam</div>
+       <lb id="Ench1615_JB_24"/>
+        <div type="Language" lang="Latvian">paprātan .</div>
+       <lb id="Ench1615_JB_25"/>
+       <div type="Language" lang="German">Hie recke er die Hende ober ſie/ vnd</div>
+       <lb id="Ench1615_JB_26"/>
+       <div type="Language" lang="German">Bete alſo.</div>
+      </div>
+      <pb n="J2A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_J2A_1"/>
+        <div type="Language" lang="Latvian">o visevaldīgs kungs dievs / katers tu vīre</div>
+       <lb id="Ench1615_J2A_2"/>
+        <div type="Language" lang="Latvian">unde sieve radīs ese / unde tos iekškan to laulībe</div>
+       <lb id="Ench1615_J2A_3"/>
+        <div type="Language" lang="Latvian">pavēlējs dzīvot / unde ar auglims tās mieses svētis</div>
+       <lb id="Ench1615_J2A_4"/>
+        <div type="Language" lang="Latvian">/ unde caur to es <corr>tu</corr><sic>estu</sic> iezīmojs to liele mīlestībe tave</div>
+       <lb id="Ench1615_J2A_5"/>
+        <div type="Language" lang="Latvian">mīle dēle jēzu kristi pretībe save brute</div>
+       <lb id="Ench1615_J2A_6"/>
+        <div type="Language" lang="Latvian">to krustīte draudzībe . mēs lūdzam tave</div>
+       <lb id="Ench1615_J2A_7"/>
+        <div type="Language" lang="Latvian">bez dibene žēlestībe / tu gribēte tāde tave</div>
+       <lb id="Ench1615_J2A_8"/>
+        <div type="Language" lang="Latvian">radībe / iestādījume unde svētume ne likt</div>
+       <lb id="Ench1615_J2A_9"/>
+        <div type="Language" lang="Latvian">bojan iet / nedz samaitāt / bet žēlīge iekškan</div>
+       <lb id="Ench1615_J2A_10"/>
+        <div type="Language" lang="Latvian">mums paglabāt / caur jēzum kristum mūsam</div>
+       <lb id="Ench1615_J2A_11"/>
+        <div type="Language" lang="Latvian">kungam / amen .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J2A_12"/>
+       <div type="Language" lang="German">Das Tauffbüchlin</div>
+       <lb id="Ench1615_J2A_13"/>
+       <div type="Language" lang="German">D. Martin Luth.</div>
+       <lb id="Ench1615_J2A_14"/>
+       <div type="Language" lang="German">Der Teuffer ſpreche.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J2A_15"/>
+        <div type="Language" lang="Latvian">ej aran tu nešķīsts gars / unde dode viete tam</div>
+       <lb id="Ench1615_J2A_16"/>
+        <div type="Language" lang="Latvian">svētam garam .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J2A_17"/>
+       <div type="Language" lang="German">Darnach mache er ein Creutz and <corr>Stirn</corr><sic>Stiru</sic> vnd</div>
+       <lb id="Ench1615_J2A_18"/>
+       <div type="Language" lang="German">Bruſt vnd ſpreche.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J2A_19"/>
+        <div type="Language" lang="Latvian">jem to zīme tā svēte kruste priešan tave</div>
+       <lb id="Ench1615_J2A_20"/>
+        <div type="Language" lang="Latvian">piere / unde pi to krute .</div>
+       <lb id="Ench1615_J2A_21"/>
+        <div type="Language" lang="Latvian">laidet mums lūgt .</div>
+       <lb id="Ench1615_J2A_22"/>
+        <div type="Language" lang="Latvian">o visevaldīgs dievs / tēvs mūse <corr>kunge</corr><sic>mūsekunge</sic></div>
+       <lb id="Ench1615_J2A_23"/>
+        <div type="Language" lang="Latvian">jēzu kristi / es piesauco tev pār šo  n . tave</div>
+      </div>
+      <pb n="J2B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_J2B_1"/>
+        <div type="Language" lang="Latvian">kalpe / katers taves krustībes dāvane lūdze /</div>
+       <lb id="Ench1615_J2B_2"/>
+        <div type="Language" lang="Latvian">unde tave mūžīge žēlestībe / caur to garīge atdzimtībe</div>
+       <lb id="Ench1615_J2B_3"/>
+        <div type="Language" lang="Latvian">iegrib .</div>
+       <lb id="Ench1615_J2B_4"/>
+        <div type="Language" lang="Latvian">uzjem to kungs / unde ka tu sacīs ese / lūdzet</div>
+       <lb id="Ench1615_J2B_5"/>
+        <div type="Language" lang="Latvian">/ tad jūs dabūset / meklējet / tad jūs</div>
+       <lb id="Ench1615_J2B_6"/>
+        <div type="Language" lang="Latvian">atrasēt / klaudzenāt tad taps jums atvērts /</div>
+       <lb id="Ench1615_J2B_7"/>
+        <div type="Language" lang="Latvian">tad dode nu to dāvane / tam katers tur lūdze /</div>
+       <lb id="Ench1615_J2B_8"/>
+        <div type="Language" lang="Latvian">und atver tās / durves / tam / katers tur klaudzena</div>
+       <lb id="Ench1615_J2B_9"/>
+        <div type="Language" lang="Latvian">/ ka tas to mūžīge svētume tās debese nomazgāšene</div>
+       <lb id="Ench1615_J2B_10"/>
+        <div type="Language" lang="Latvian">dabū / on to piesacīte valstībe taves dāvībes</div>
+       <lb id="Ench1615_J2B_11"/>
+        <div type="Language" lang="Latvian">ienāke / caur jēzum kristum mūsam kungam / amen .</div>
+       <lb id="Ench1615_J2B_12"/>
+        <div type="Language" lang="Latvian">laidet mums lūgt .</div>
+       <lb id="Ench1615_J2B_13"/>
+        <div type="Language" lang="Latvian">o visevaldīgs mūžīgs dievs / katers tu ese</div>
+       <lb id="Ench1615_J2B_14"/>
+        <div type="Language" lang="Latvian">caur to ūdene apslīkšene pēc tave taisne</div>
+       <lb id="Ench1615_J2B_15"/>
+        <div type="Language" lang="Latvian">sode / to neticīge pasaule nosodīs / unde to</div>
+       <lb id="Ench1615_J2B_16"/>
+        <div type="Language" lang="Latvian">ticīge noa ar astonems cilvēkems / pēc taves</div>
+       <lb id="Ench1615_J2B_17"/>
+        <div type="Language" lang="Latvian">lieles žēlestībes uz turējs / und to neticīge kēniņe</div>
+       <lb id="Ench1615_J2B_18"/>
+        <div type="Language" lang="Latvian">farao ar vise save draudzībe iekškan to</div>
+       <lb id="Ench1615_J2B_19"/>
+        <div type="Language" lang="Latvian">sarkane jūre apslīcenais / taves ļaudes izrael</div>
+       <lb id="Ench1615_J2B_20"/>
+        <div type="Language" lang="Latvian">sause tur caur vedis / unde ar to / šo mazgāšene</div>
+       <lb id="Ench1615_J2B_21"/>
+        <div type="Language" lang="Latvian">/ tave svēte krustībe / iezīmojs / unde</div>
+       <lb id="Ench1615_J2B_22"/>
+        <div type="Language" lang="Latvian">caur to krustībe tave mīle dēle / unde mūse</div>
+       <lb id="Ench1615_J2B_23"/>
+        <div type="Language" lang="Latvian">kunge jēzu kristi / to jordan und vise ūdene /</div>
+       <lb id="Ench1615_J2B_24"/>
+        <div type="Language" lang="Latvian">par viene svēte apslīkšene / unde bagātīge nomazgāšene</div>
+       <lb id="Ench1615_J2B_25"/>
+        <div type="Language" lang="Latvian">tos grēkes / svētis und iestādis . mēs</div>
+       <lb id="Ench1615_J2B_26"/>
+        <div type="Language" lang="Latvian">lūdzam caur to pate tave bez dibene žēlestībe</div>
+       <lb id="Ench1615_J2B_27"/>
+        <div type="Language" lang="Latvian">/ tu gribēte šo n . žēlīge uz redzet / unde</div>
+      </div>
+      <pb n="J3A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3A_1"/>
+        <div type="Language" lang="Latvian">ar viene patiese ticībe iekškan gare apdāvenāt / ka</div>
+       <lb id="Ench1615_J3A_2"/>
+        <div type="Language" lang="Latvian">caur šo svēte apslīkšene / var apslīkt unde</div>
+       <lb id="Ench1615_J3A_3"/>
+        <div type="Language" lang="Latvian">noiet vise kas tam no ādam iedzimts jir / und tas</div>
+       <lb id="Ench1615_J3A_4"/>
+        <div type="Language" lang="Latvian">arīdzan pats klāte līdzis jir / und ka tas no</div>
+       <lb id="Ench1615_J3A_5"/>
+        <div type="Language" lang="Latvian">to neticīge draudze var tapt nošķirts / unde iekškan</div>
+       <lb id="Ench1615_J3A_6"/>
+        <div type="Language" lang="Latvian">to svēte šķirste / tās krustīties draudzībes /</div>
+       <lb id="Ench1615_J3A_7"/>
+        <div type="Language" lang="Latvian">sause unde ar miere var uztures / unde ka tas allažin</div>
+       <lb id="Ench1615_J3A_8"/>
+        <div type="Language" lang="Latvian">dedzīge iekškan gare / priecīge iekškan cerēšene</div>
+       <lb id="Ench1615_J3A_9"/>
+        <div type="Language" lang="Latvian">/ tavam vārdam var kalpot / und ar visims</div>
+       <lb id="Ench1615_J3A_10"/>
+        <div type="Language" lang="Latvian">ticigims / tave piesacīte mūžīge dzīvošene</div>
+       <lb id="Ench1615_J3A_11"/>
+        <div type="Language" lang="Latvian">var dabūt / caur jēzum kristum mūsam kungam</div>
+       <lb id="Ench1615_J3A_12"/>
+        <div type="Language" lang="Latvian">/ amen .</div>
+       <lb id="Ench1615_J3A_13"/>
+        <div type="Language" lang="Latvian">es piespieže tev tu nešķīsts gars / pi to</div>
+       <lb id="Ench1615_J3A_14"/>
+        <div type="Language" lang="Latvian">vārde to tēve / unde to dēle / unde to svēte</div>
+       <lb id="Ench1615_J3A_15"/>
+        <div type="Language" lang="Latvian">gare  / ka tu grib aran iet unde bēgt / no šo</div>
+       <lb id="Ench1615_J3A_16"/>
+        <div type="Language" lang="Latvian">kalpe jēzu kristi / n . amen .</div>
+       <lb id="Ench1615_J3A_17"/>
+        <div type="Language" lang="Latvian">laidet mums klausit to svēte evangelium</div>
+       <lb id="Ench1615_J3A_18"/>
+        <div type="Language" lang="Latvian">ka svēts marcus aprakste .</div>
+       <lb id="Ench1615_J3A_19"/>
+        <div type="Language" lang="Latvian">tan laikan nese tie tos bērniņes pi jēzu /</div>
+       <lb id="Ench1615_J3A_20"/>
+        <div type="Language" lang="Latvian">ka tas tos aizskārte . bet tie mācekle piedraudīje</div>
+       <lb id="Ench1615_J3A_21"/>
+        <div type="Language" lang="Latvian">tos / katre tos atnese . kad to jēzus redzēje</div>
+       <lb id="Ench1615_J3A_22"/>
+        <div type="Language" lang="Latvian">/ netike tas tam / und sacī uz tiems / laidet</div>
+       <lb id="Ench1615_J3A_23"/>
+        <div type="Language" lang="Latvian">tos bērniņes pi man nākt / und ne liecet tiems .</div>
+       <lb id="Ench1615_J3A_24"/>
+        <div type="Language" lang="Latvian">aizto tādo jir tā debese valstībe / patiese / es</div>
+       <lb id="Ench1615_J3A_25"/>
+        <div type="Language" lang="Latvian">sake jums / kas to dieve valstībe ne dabū / ka</div>
+       <lb id="Ench1615_J3A_26"/>
+        <div type="Language" lang="Latvian">viens bērniņš / tas ne nāks tur iekškan . unde tas</div>
+      </div>
+      <pb n="J3B"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_1"/>
+        <div type="Language" lang="Latvian">apskave tos / unde like tās rokas virson tiems /</div>
+       <lb id="Ench1615_J3B_2"/>
+        <div type="Language" lang="Latvian">unde svētīje tos .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_3"/>
+       <div type="Language" lang="German">Denn lege der Prieſter ſeine Hende auffs Kindes</div>
+       <lb id="Ench1615_J3B_4"/>
+       <div type="Language" lang="German">Heubt/ vnd bete das Vater onſer/ Sampt den Paten/</div>
+       <lb id="Ench1615_J3B_5"/>
+       <div type="Language" lang="German">nider gekniet.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_6"/>
+        <div type="Language" lang="Latvian">mūse tēvs iekškan to debes / svētīts tope</div>
+       <lb id="Ench1615_J3B_7"/>
+        <div type="Language" lang="Latvian">tavs vārds /</div>
+       <div type="Language" lang="Latin">etc</div>
+        <div type="Language" lang="Latvian">.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_8"/>
+       <div type="Language" lang="German">Darnach leite man das Kindlin zu der Tauffe/</div>
+       <lb id="Ench1615_J3B_9"/>
+       <div type="Language" lang="German">vnd der Prieſter ſpreche.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_10"/>
+        <div type="Language" lang="Latvian">tas kungs pasarge tave iekškan iešene unde</div>
+       <lb id="Ench1615_J3B_11"/>
+        <div type="Language" lang="Latvian">aran iešene no šo laike / iekškan mūžīge bez gale /</div>
+       <lb id="Ench1615_J3B_12"/>
+        <div type="Language" lang="Latvian">amen .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_13"/>
+       <div type="Language" lang="German">Darnach las der Prieſter das Kind durch ſeine</div>
+       <lb id="Ench1615_J3B_14"/>
+       <div type="Language" lang="German">Paten dem Teuffel abſagen vsn/ ſpreche.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_15"/>
+        <div type="Language" lang="Latvian">n . atsak tu to velne ?</div>
+       <lb id="Ench1615_J3B_16"/>
+        <div type="Language" lang="Latvian">atbilde .           ja .</div>
+       <lb id="Ench1615_J3B_17"/>
+        <div type="Language" lang="Latvian">unde visims viņims darbims ?</div>
+       <lb id="Ench1615_J3B_18"/>
+        <div type="Language" lang="Latvian">atbilde .           ja .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_19"/>
+       <div type="Language" lang="German">Darnach frage er.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J3B_20"/>
+        <div type="Language" lang="Latvian">tice tu iekškan dieve to visevaldītāje tēve</div>
+       <lb id="Ench1615_J3B_21"/>
+        <div type="Language" lang="Latvian">/ radītāje debes und tās zemes ?</div>
+       <lb id="Ench1615_J3B_22"/>
+        <div type="Language" lang="Latvian">atbilde .             ja .</div>
+       <lb id="Ench1615_J3B_23"/>
+        <div type="Language" lang="Latvian">tice tu iekškan jēzum kristum viņam vienigam</div>
+       <lb id="Ench1615_J3B_24"/>
+        <div type="Language" lang="Latvian">dēlam mūsam kungam /</div>
+       <div type="Language" lang="Latin">etc</div>
+        <div type="Language" lang="Latvian">.</div>
+       <lb id="Ench1615_J3B_25"/>
+        <div type="Language" lang="Latvian">atbilde .             ja .</div>
+      </div>
+      <pb n="J4A"/>
+      <div type="Paragraph">
+       <lb id="Ench1615_J4A_1"/>
+        <div type="Language" lang="Latvian">tice tu iekškan to svēte gare ?</div>
+       <lb id="Ench1615_J4A_2"/>
+        <div type="Language" lang="Latvian">atbilde .                 ja .</div>
+       <lb id="Ench1615_J4A_3"/>
+        <div type="Language" lang="Latvian">grib tu tev krustīt likt ?</div>
+       <lb id="Ench1615_J4A_4"/>
+        <div type="Language" lang="Latvian">atbilde .             ja .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J4A_5"/>
+       <div type="Language" lang="German">Da neme er das Kind vnd Tauffe es</div>
+       <lb id="Ench1615_J4A_6"/>
+       <div type="Language" lang="German">vnd ſpreche.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J4A_7"/>
+        <div type="Language" lang="Latvian">unde es krustī tev / iekškan to vārde to tēve</div>
+       <lb id="Ench1615_J4A_8"/>
+        <div type="Language" lang="Latvian">/ unde to dēle / unde to svēte gare .</div>
+       <lb id="Ench1615_J4A_9"/>
+        <div type="Language" lang="Latvian">tas visevaldīgs dievs unde tēvs / mūse</div>
+       <lb id="Ench1615_J4A_10"/>
+        <div type="Language" lang="Latvian">kunge jēzu kristi / katers tev oterkārt piedzimis</div>
+       <lb id="Ench1615_J4A_11"/>
+        <div type="Language" lang="Latvian">jir / caur to ūdene unde to svēte gare / und</div>
+       <lb id="Ench1615_J4A_12"/>
+        <div type="Language" lang="Latvian">jir tev vises taves grēkes pametis / tas</div>
+       <lb id="Ench1615_J4A_13"/>
+        <div type="Language" lang="Latvian">iestipre tev ar save žēlestībe  / pi to mūžīge</div>
+       <lb id="Ench1615_J4A_14"/>
+        <div type="Language" lang="Latvian">dzīvošene / amen .</div>
+       <lb id="Ench1615_J4A_15"/>
+        <div type="Language" lang="Latvian">dieve miers jir ar tev .</div>
+       <lb id="Ench1615_J4A_16"/>
+        <div type="Language" lang="Latvian">atbilde .     amen .</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Ench1615_J4A_17"/>
+       <div type="Language" lang="German">Gedruckt in der Königl. Seeſtadt</div>
+       <lb id="Ench1615_J4A_18"/>
+       <div type="Language" lang="German">Riga in Liefflandt durch</div>
+       <lb id="Ench1615_J4A_19"/>
+       <div type="Language" lang="German">Nicolaum Mollinum.</div>
+       <lb id="Ench1615_J4A_20"/>
+       <div type="Language" lang="Latin">Anno M. DC. XV.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

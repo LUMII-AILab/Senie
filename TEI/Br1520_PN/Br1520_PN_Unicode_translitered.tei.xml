@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Br1520_PN">
+     <sourceDesc>
+      <author>Bruno</author>
+      <title>[Bruno tēvreize]</title>
+      <date>1520</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreize</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Br1520_PN_--_1"/>
+       <div type="Language" lang="Latin">Liuonice ſic ſonat.</div>
+       <lb id="Br1520_PN_--_2"/>
+        <div type="Language" lang="Latvian">tēves mūs kas tu es iekšan debesīs.</div>
+       <lb id="Br1520_PN_--_3"/>
+        <div type="Language" lang="Latvian">1. svētīts taves vārds.</div>
+       <lb id="Br1520_PN_--_4"/>
+        <div type="Language" lang="Latvian">2. ienāks mums tavs valstībs.</div>
+       <lb id="Br1520_PN_--_5"/>
+        <div type="Language" lang="Latvian">3. tavs prāts būs kā iekšan <corr>debesis</corr><sic>debesdebes sis</sic></div>
+       <lb id="Br1520_PN_--_6"/>
+        <div type="Language" lang="Latvian">, tā arīdzan virsan zemes</div>
+       <lb id="Br1520_PN_--_7"/>
+        <div type="Language" lang="Latvian">4. mūse deniske maize dot mūs šodien</div>
+       <lb id="Br1520_PN_--_8"/>
+        <div type="Language" lang="Latvian">5. pamete mums mūse grēks, kā mēs</div>
+       <lb id="Br1520_PN_--_9"/>
+        <div type="Language" lang="Latvian">pameten mūse parādniekems</div>
+       <lb id="Br1520_PN_--_10"/>
+        <div type="Language" lang="Latvian">6. neievedze mums ļaunam badeklems</div>
+       <lb id="Br1520_PN_--_11"/>
+        <div type="Language" lang="Latvian">7. <corr>atpesti</corr><sic>aeth pesti</sic> mums no wysem ļaunem.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

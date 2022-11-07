@@ -1,0 +1,641 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="JT1685/Tit">
+     <sourceDesc>
+      <author>Ernsts Gliks</author>
+      <title>Pahwila ta Apustuļa Grahmata uhs Titu rakstita</title>
+      <date>1685</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; Bībele, Jaunā Derība</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+       <lb id="JT1685/Tit_0_1"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">pāvila ta apustuļa grāmata ūz titu rakstita.</div></div>
+       <lb id="JT1685/Tit_0_2"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta i. nodaļa.</div></div>
+      <div n="0." type="Verse" id="JT1685/Tit_1:0.">
+       <lb id="JT1685/Tit_0_3"/>
+        <div type="Language" lang="Latvian">pāvils stāsta/ kadēļ viņš titu iekš krietas</div>
+       <lb id="JT1685/Tit_0_4"/>
+        <div type="Language" lang="Latvian">pametis: 5. un kāds tas amats īsteno</div>
+       <lb id="JT1685/Tit_0_5"/>
+        <div type="Language" lang="Latvian">mācitajo esots/ proti/ mācīt un</div>
+       <lb id="JT1685/Tit_0_6"/>
+        <div type="Language" lang="Latvian">pārliecināt: 7.</div>
+      <div n="1." type="Verse" id="JT1685/Tit_1:1.">
+       <lb id="JT1685/Tit_0_7"/>
+        <div type="Language" lang="Latvian">pāvils viens</div>
+       <lb id="JT1685/Tit_0_8"/>
+        <div type="Language" lang="Latvian">dieva kalps/ un</div>
+       <lb id="JT1685/Tit_0_9"/>
+        <div type="Language" lang="Latvian">apustuls jezus</div>
+       <lb id="JT1685/Tit_0_10"/>
+        <div type="Language" lang="Latvian">kristus/ pēc</div>
+       <lb id="JT1685/Tit_0_11"/>
+        <div type="Language" lang="Latvian">tās ticibas to</div>
+       <lb id="JT1685/Tit_0_12"/>
+        <div type="Language" lang="Latvian">dieva izredzeto/</div>
+       <lb id="JT1685/Tit_0_13"/>
+        <div type="Language" lang="Latvian">un atzīšanas tās patiesibas/</div>
+       <lb id="JT1685/Tit_0_14"/>
+        <div type="Language" lang="Latvian">kas ir pie tās dieva</div>
+       <lb id="JT1685/Tit_0_15"/>
+        <div type="Language" lang="Latvian">kalpošanas:</div>
+       <lb id="JT1685/Tit_0_16"/>
+       <div type="Parallel">w:1. 1.Tim: 3,16. un: 6,3.</div>
+      <div n="2." type="Verse" id="JT1685/Tit_1:2.">
+       <lb id="JT1685/Tit_0_17"/>
+        <div type="Language" lang="Latvian">iekš ceribas tās mūžigas</div>
+       <lb id="JT1685/Tit_0_18"/>
+        <div type="Language" lang="Latvian">dzīvošanas/ ko</div>
+       <lb id="JT1685/Tit_0_19"/>
+        <div type="Language" lang="Latvian">dievs/ kas ne var melot/</div>
+       <lb id="JT1685/Tit_0_20"/>
+        <div type="Language" lang="Latvian">priekš pasaules laikiem ir apsolijis.</div>
+       <lb id="JT1685/Tit_0_21"/>
+       <div type="Parallel">w:2. 4.Gr: Moſ: 23,19. Rom: 1,2. un: 16,25. Eweſ: 1,9.</div>
+       <lb id="JT1685/Tit_0_22"/>
+       <div type="Parallel">un: 3,9. Kol: 1,26. 2.Tim: 1,9,10. un: 2,13. 2.Petr: 1,20.</div>
+      <div n="3." type="Verse" id="JT1685/Tit_1:3.">
+       <lb id="JT1685/Tit_0_23"/>
+        <div type="Language" lang="Latvian">bet savā laikā savu</div>
+       <lb id="JT1685/Tit_0_24"/>
+        <div type="Language" lang="Latvian">vārdu ir zinamu darijis</div>
+       <lb id="JT1685/Tit_0_25"/>
+        <div type="Language" lang="Latvian">caur to pasludinašanu/ kas</div>
+       <lb id="JT1685/Tit_0_26"/>
+        <div type="Language" lang="Latvian">man ir uzticeta pēc tās pavēlešanas</div>
+       <lb id="JT1685/Tit_0_27"/>
+        <div type="Language" lang="Latvian">dieva mūso pestitaja.</div>
+       <lb id="JT1685/Tit_0_28"/>
+       <div type="Parallel">w:3. Ap: Darb: 20,24. un: 9,6,15. 2.Kor: 2,12.</div>
+       <lb id="JT1685/Tit_0_29"/>
+       <div type="Parallel">un: 7,14. un: 8,6,16. Gal: 1,1. un: 2,3. 2.Teẜẜ: 2,4.</div>
+      <div n="4." type="Verse" id="JT1685/Tit_1:4.">
+       <lb id="JT1685/Tit_0_30"/>
+        <div type="Language" lang="Latvian">titum (manam) īstenam</div>
+       <lb id="JT1685/Tit_0_31"/>
+        <div type="Language" lang="Latvian">dēlam pēc tās ticibas: kas</div>
+       <lb id="JT1685/Tit_0_32"/>
+        <div type="Language" lang="Latvian">(mums) abiem kopā ir/ lai ir</div>
+       <lb id="JT1685/Tit_0_33"/>
+        <div type="Language" lang="Latvian">žēlastiba/ apžēlošana/</div>
+       <lb id="JT1685/Tit_0_34"/>
+        <div type="Language" lang="Latvian">miers no dieva ta tēva un ta</div>
+       <lb id="JT1685/Tit_0_35"/>
+        <div type="Language" lang="Latvian">kunga jezus kristus mūso pestitaja.</div>
+       <lb id="JT1685/Tit_0_36"/>
+       <div type="Parallel">w:4. Eweſ: 1,2. Kol: 1,2. 1.Tim: 1,2. 2.Tim: 1,2. 1.Petr:1,2.</div>
+      <div n="5." type="Verse" id="JT1685/Tit_1:5.">
+       <lb id="JT1685/Tit_0_37"/>
+        <div type="Language" lang="Latvian">tadēļ esmu es tev krietā</div>
+       <lb id="JT1685/Tit_0_38"/>
+        <div type="Language" lang="Latvian">pametis/ ka tev bij sataisīt/</div>
+       <lb id="JT1685/Tit_0_39"/>
+        <div type="Language" lang="Latvian">kas vēl atlicis bija/ un pa pilssatiem</div>
+       <lb id="JT1685/Tit_0_40"/>
+        <div type="Language" lang="Latvian">vecajus iecelt/ ka es tev</div>
+       <lb id="JT1685/Tit_0_41"/>
+        <div type="Language" lang="Latvian">esmu pavēlejis.</div>
+       <lb id="JT1685/Tit_0_42"/>
+       <div type="Parallel">w Ap: Darb: 14,23. 2.Tim: 2,2.</div>
+      <div n="6." type="Verse" id="JT1685/Tit_1:6.">
+       <lb id="JT1685/Tit_0_43"/>
+        <div type="Language" lang="Latvian">ja kas ir bezvainigs/ vienas</div>
+       <lb id="JT1685/Tit_0_44"/>
+        <div type="Language" lang="Latvian">sievas vīrs/ kam ticigi</div>
+       <lb id="JT1685/Tit_0_45"/>
+        <div type="Language" lang="Latvian">bērni ir/ kas ne var liekas</div>
+       <lb id="JT1685/Tit_0_46"/>
+        <div type="Language" lang="Latvian">būšanas neds pārgalvibas</div>
+       <lb id="JT1685/Tit_0_47"/>
+        <div type="Language" lang="Latvian">dēļ apsūdzeti tapt.</div>
+       <lb id="JT1685/Tit_0_48"/>
+       <div type="Parallel">w:6. 1.Tim: 3,2.</div>
+      <div n="7." type="Verse" id="JT1685/Tit_1:7.">
+       <lb id="JT1685/Tit_0_49"/>
+        <div type="Language" lang="Latvian">jo vienam pīskopam pienākās</div>
+       <lb id="JT1685/Tit_0_50"/>
+        <div type="Language" lang="Latvian">nenoziedzigam būt/ it</div>
+       <lb id="JT1685/Tit_0_51"/>
+        <div type="Language" lang="Latvian">kā dieva nama=turetajam/</div>
+       <lb id="JT1685/Tit_0_52"/>
+        <div type="Language" lang="Latvian">ne patgalvigam/ ne dusmigam/</div>
+       <lb id="JT1685/Tit_0_53"/>
+        <div type="Language" lang="Latvian">ne vīna=plītniekam/ ne rējejam/</div>
+       <lb id="JT1685/Tit_0_54"/>
+        <div type="Language" lang="Latvian">ne negodigas pelnišanas</div>
+       <lb id="JT1685/Tit_0_55"/>
+        <div type="Language" lang="Latvian">dzinejam.</div>
+       <lb id="JT1685/Tit_0_56"/>
+       <div type="Parallel">w:7. 3.Gr: Moſ: 10,9. Matt: 24,45. 1.Kor: 4,1.</div>
+       <lb id="JT1685/Tit_0_57"/>
+       <div type="Parallel">Eweſ: 5,18. 1.Tim: 3,3,15. 1.Pet: 5,2.</div>
+      <div n="8." type="Verse" id="JT1685/Tit_1:8.">
+       <lb id="JT1685/Tit_0_58"/>
+        <div type="Language" lang="Latvian">kas labprāt mājo/ to labumu</div>
+       <lb id="JT1685/Tit_0_59"/>
+        <div type="Language" lang="Latvian">mīle/ gadigam/ taisnam/</div>
+       <lb id="JT1685/Tit_0_60"/>
+        <div type="Language" lang="Latvian">svētam/ šķīstam.</div>
+       <lb id="JT1685/Tit_0_61"/>
+       <div type="Parallel">w:8. 1.Tim: 3,2.</div>
+      <div n="9." type="Verse" id="JT1685/Tit_1:9.">
+       <lb id="JT1685/Tit_0_62"/>
+        <div type="Language" lang="Latvian">kas pastāvigi turās pēc</div>
+       <lb id="JT1685/Tit_0_63"/>
+        <div type="Language" lang="Latvian">tās mācibas ta pieticiga</div>
+       <lb id="JT1685/Tit_0_64"/>
+        <div type="Language" lang="Latvian">vārda/ ka tas varens esus/</div>
+       <lb id="JT1685/Tit_0_65"/>
+        <div type="Language" lang="Latvian">tik lab caur to veseligu mācibu</div>
+       <lb id="JT1685/Tit_0_66"/>
+        <div type="Language" lang="Latvian">pamācīt/ un tos/ kas preti</div>
+       <lb id="JT1685/Tit_0_67"/>
+        <div type="Language" lang="Latvian">runa pārmācīt.</div>
+       <lb id="JT1685/Tit_0_68"/>
+       <div type="Parallel">w:9. 1.Tim: 1,10. un: 6,3. 2.Tim: 1,13. un: 4,3. Tit: 2,1.</div>
+      <div n="10." type="Verse" id="JT1685/Tit_1:10.">
+       <lb id="JT1685/Tit_0_69"/>
+        <div type="Language" lang="Latvian">jo tur ir aridzan daudz</div>
+       <lb id="JT1685/Tit_0_70"/>
+        <div type="Language" lang="Latvian">nebēdnieki/ kas veltigas lietas</div>
+       <lb id="JT1685/Tit_0_71"/>
+        <div type="Language" lang="Latvian">runa/ un kas to prātu pieviļ/</div>
+       <lb id="JT1685/Tit_0_72"/>
+        <div type="Language" lang="Latvian">vissvairak tie no tās apgraizišanas.</div>
+       <lb id="JT1685/Tit_0_73"/>
+       <div type="Parallel">w:10. Ap: Darb: 15,1. 1.Tim: 1,6.</div>
+      <div n="11." type="Verse" id="JT1685/Tit_1:11.">
+       <lb id="JT1685/Tit_0_74"/>
+        <div type="Language" lang="Latvian">kam pienākās to muti</div>
+       <lb id="JT1685/Tit_0_75"/>
+        <div type="Language" lang="Latvian">aizbāst: tiem/ kas namus</div>
+       <lb id="JT1685/Tit_0_76"/>
+        <div type="Language" lang="Latvian">visai pārgriež/ un māca/ kas</div>
+       <lb id="JT1685/Tit_0_77"/>
+        <div type="Language" lang="Latvian">ne pieklājās negodigas pelnišanas</div>
+       <lb id="JT1685/Tit_0_78"/>
+        <div type="Language" lang="Latvian">dēļ.</div>
+       <lb id="JT1685/Tit_0_79"/>
+       <div type="Parallel">w:11. Matt: 23,23. 1.Tim: 6,5. 2.Tim: 3,6.</div>
+      <div n="12." type="Verse" id="JT1685/Tit_1:12.">
+       <lb id="JT1685/Tit_0_80"/>
+        <div type="Language" lang="Latvian">viens no tiem pašiem</div>
+       <lb id="JT1685/Tit_0_81"/>
+        <div type="Language" lang="Latvian">viens praviets ir sacijis: tie</div>
+       <lb id="JT1685/Tit_0_82"/>
+        <div type="Language" lang="Latvian">krieteŗi ir allažiņ melkuļi/ nikni</div>
+       <lb id="JT1685/Tit_0_83"/>
+        <div type="Language" lang="Latvian">zvēri/ slinki vēderi.</div>
+      <div n="13." type="Verse" id="JT1685/Tit_1:13.">
+       <lb id="JT1685/Tit_0_84"/>
+        <div type="Language" lang="Latvian">ši lieciba ir patiesa:</div>
+       <lb id="JT1685/Tit_0_85"/>
+        <div type="Language" lang="Latvian">tapēc pārmāci tos bārgi/ ka</div>
+       <lb id="JT1685/Tit_0_86"/>
+        <div type="Language" lang="Latvian">tie veseligi esus ticibā.</div>
+      <div n="14." type="Verse" id="JT1685/Tit_1:14.">
+       <lb id="JT1685/Tit_0_87"/>
+        <div type="Language" lang="Latvian">un ne dodās uz judiskām</div>
+       <lb id="JT1685/Tit_0_88"/>
+        <div type="Language" lang="Latvian">pasakām un cilveko</div>
+       <lb id="JT1685/Tit_0_89"/>
+        <div type="Language" lang="Latvian">bausliem/ kas no tās patiesibas</div>
+       <lb id="JT1685/Tit_0_90"/>
+        <div type="Language" lang="Latvian">nogriežās.</div>
+       <lb id="JT1685/Tit_0_91"/>
+       <div type="Parallel">w:14. Eſa: 29,13. Matt: 15,9. Kol: 2,22.</div>
+       <lb id="JT1685/Tit_0_92"/>
+       <div type="Parallel">1.Tim: 1,4. un: 4,7. un: 6,20.</div>
+      <div n="15." type="Verse" id="JT1685/Tit_1:15.">
+       <lb id="JT1685/Tit_0_93"/>
+        <div type="Language" lang="Latvian">visas lietas gan ir</div>
+       <lb id="JT1685/Tit_0_94"/>
+        <div type="Language" lang="Latvian">tiem šķīstiem šķīstas: bet</div>
+       <lb id="JT1685/Tit_0_95"/>
+        <div type="Language" lang="Latvian">tiem apgānitiem un neticigiem</div>
+       <lb id="JT1685/Tit_0_96"/>
+        <div type="Language" lang="Latvian">nenieka ir šķīsts/ bet tur</div>
+       <lb id="JT1685/Tit_0_97"/>
+        <div type="Language" lang="Latvian">ir apgānīts/ tik lab viņo</div>
+       <lb id="JT1685/Tit_0_98"/>
+        <div type="Language" lang="Latvian">prāts/ ka zinama sirds.</div>
+       <lb id="JT1685/Tit_0_99"/>
+       <div type="Parallel">w:15. Matt: 15,11. Luk: 11,39.,41. Ap: Darb: 10,15.</div>
+       <lb id="JT1685/Tit_0_100"/>
+       <div type="Parallel">Rom: 14,14,20. 1.Kor: 6,12. un: 10,23,25. 1.Tim: 4,3,4.</div>
+      <div n="16." type="Verse" id="JT1685/Tit_1:16.">
+       <lb id="JT1685/Tit_0_101"/>
+        <div type="Language" lang="Latvian">tie saka/ ka tie dievu</div>
+       <lb id="JT1685/Tit_0_102"/>
+        <div type="Language" lang="Latvian">pazīst/ bet ar darbiem aizliedz</div>
+       <lb id="JT1685/Tit_0_103"/>
+        <div type="Language" lang="Latvian">tie viņu/ neganti būdami/ un</div>
+       <lb id="JT1685/Tit_0_104"/>
+        <div type="Language" lang="Latvian">neklausigi/ un pie visa laba</div>
+       <lb id="JT1685/Tit_0_105"/>
+        <div type="Language" lang="Latvian">darba nederigi.</div>
+       <lb id="JT1685/Tit_0_106"/>
+       <div type="Parallel">w:16. 2.Tim: 3,5. Jud: w:4.</div>
+      </div>
+       <lb id="JT1685/Tit_0_107"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta ii. nodaļa.</div></div>
+      <div n="0." type="Verse" id="JT1685/Tit_2:0.">
+       <lb id="JT1685/Tit_0_108"/>
+        <div type="Language" lang="Latvian">pāvils māca no ta amata to vecajo: 2.</div>
+       <lb id="JT1685/Tit_0_109"/>
+        <div type="Language" lang="Latvian">sievo: 3/4. vīro: 6. mācitajo: 7.</div>
+       <lb id="JT1685/Tit_0_110"/>
+        <div type="Language" lang="Latvian">kalpo: 9. un viso dieva=bērno: 11. jo</div>
+       <lb id="JT1685/Tit_0_111"/>
+        <div type="Language" lang="Latvian">tadēļ ir kristus nācis/ ka ikvienam būs</div>
+       <lb id="JT1685/Tit_0_112"/>
+        <div type="Language" lang="Latvian">šķīstam/ taisnam un dievabijatigam dzīvot:</div>
+       <lb id="JT1685/Tit_0_113"/>
+        <div type="Language" lang="Latvian">12.</div>
+      <div n="1." type="Verse" id="JT1685/Tit_2:1.">
+       <lb id="JT1685/Tit_0_114"/>
+        <div type="Language" lang="Latvian">bet tu runa/ ka tas tai īstenai</div>
+       <lb id="JT1685/Tit_0_115"/>
+        <div type="Language" lang="Latvian">mācibai pieklājās.</div>
+       <lb id="JT1685/Tit_0_116"/>
+       <div type="Parallel">w:1. 1.Tim: 6,3. 2.Tim: 1,13.</div>
+      <div n="2." type="Verse" id="JT1685/Tit_2:2.">
+       <lb id="JT1685/Tit_0_117"/>
+        <div type="Language" lang="Latvian">ka tiem vecajiem būs</div>
+       <lb id="JT1685/Tit_0_118"/>
+        <div type="Language" lang="Latvian">modrigiem būt/ godigiem/</div>
+       <lb id="JT1685/Tit_0_119"/>
+        <div type="Language" lang="Latvian">gadigiem/ veseligiem ticibā/</div>
+       <lb id="JT1685/Tit_0_120"/>
+        <div type="Language" lang="Latvian">mīlestibā/ paciešanā.</div>
+      <div n="3." type="Verse" id="JT1685/Tit_2:3.">
+       <lb id="JT1685/Tit_0_121"/>
+        <div type="Language" lang="Latvian">it tā pat vecām</div>
+       <lb id="JT1685/Tit_0_122"/>
+        <div type="Language" lang="Latvian">sievām/ ka tām būs tureties</div>
+       <lb id="JT1685/Tit_0_123"/>
+        <div type="Language" lang="Latvian">it kā tiem svētiem/ ka</div>
+       <lb id="JT1685/Tit_0_124"/>
+        <div type="Language" lang="Latvian">tām ne būs lacekļēm būt/</div>
+       <lb id="JT1685/Tit_0_125"/>
+        <div type="Language" lang="Latvian">kas uz daudz vīna ne mācās/</div>
+       <lb id="JT1685/Tit_0_126"/>
+        <div type="Language" lang="Latvian">kas labu mācibu dzen.</div>
+       <lb id="JT1685/Tit_0_127"/>
+       <div type="Parallel">w:3. 1.Tim: 2,9. un: 5,13. 1.Pet: 3,3.</div>
+      <div n="4." type="Verse" id="JT1685/Tit_2:4.">
+       <lb id="JT1685/Tit_0_128"/>
+        <div type="Language" lang="Latvian">ka tās var tās jaunas</div>
+       <lb id="JT1685/Tit_0_129"/>
+        <div type="Language" lang="Latvian">sievas mācīt savus vīrus</div>
+       <lb id="JT1685/Tit_0_130"/>
+        <div type="Language" lang="Latvian">mīlēt/ savus bērnus mīlēt.</div>
+      <div n="5." type="Verse" id="JT1685/Tit_2:5.">
+       <lb id="JT1685/Tit_0_131"/>
+        <div type="Language" lang="Latvian">gadigām būt/ šķīstām/</div>
+       <lb id="JT1685/Tit_0_132"/>
+        <div type="Language" lang="Latvian">nama=turigām/ labām/</div>
+       <lb id="JT1685/Tit_0_133"/>
+        <div type="Language" lang="Latvian">saviem vīriem paklausigām/</div>
+       <lb id="JT1685/Tit_0_134"/>
+        <div type="Language" lang="Latvian">ka dieva vārds zaimots</div>
+       <lb id="JT1685/Tit_0_135"/>
+        <div type="Language" lang="Latvian">ne top.</div>
+       <lb id="JT1685/Tit_0_136"/>
+       <div type="Parallel">w:5. 1.Gr: Moſ: 3,16. 1.Kor: 14,34. Eweſ: 5,22.</div>
+       <lb id="JT1685/Tit_0_137"/>
+       <div type="Parallel">Kol: 3,18. 1.Tim: 6,1. 1.Pet: 3,1.</div>
+      <div n="6." type="Verse" id="JT1685/Tit_2:6.">
+       <lb id="JT1685/Tit_0_138"/>
+        <div type="Language" lang="Latvian">tos jaunus vīrus pamāci/</div>
+       <lb id="JT1685/Tit_0_139"/>
+        <div type="Language" lang="Latvian">tā pat ka tiem būs gadigiem</div>
+       <lb id="JT1685/Tit_0_140"/>
+        <div type="Language" lang="Latvian">būt.</div>
+      <div n="7." type="Verse" id="JT1685/Tit_2:7.">
+       <lb id="JT1685/Tit_0_141"/>
+        <div type="Language" lang="Latvian">parādajs sev pašu visās</div>
+       <lb id="JT1685/Tit_0_142"/>
+        <div type="Language" lang="Latvian">malās ka vienu priekš=</div>
+       <lb id="JT1685/Tit_0_143"/>
+        <div type="Language" lang="Latvian">zīmi/ ar labiem darbiem/</div>
+       <lb id="JT1685/Tit_0_144"/>
+        <div type="Language" lang="Latvian">iekš mācibas tīribu/ godu.</div>
+       <lb id="JT1685/Tit_0_145"/>
+       <div type="Parallel">w:7. 1.Tim: 4,12. 1.Pet: 5,3.</div>
+      <div n="8." type="Verse" id="JT1685/Tit_2:8.">
+       <lb id="JT1685/Tit_0_146"/>
+        <div type="Language" lang="Latvian">to veseligu un bezvainigu</div>
+       <lb id="JT1685/Tit_0_147"/>
+        <div type="Language" lang="Latvian">vārdu/ ka tas pretinieks</div>
+       <lb id="JT1685/Tit_0_148"/>
+        <div type="Language" lang="Latvian">kaunā top/ un tam ne nieka atliek/</div>
+       <lb id="JT1685/Tit_0_149"/>
+        <div type="Language" lang="Latvian">ko tas no jums var ļaunu</div>
+       <lb id="JT1685/Tit_0_150"/>
+        <div type="Language" lang="Latvian">runāt.</div>
+       <lb id="JT1685/Tit_0_151"/>
+       <div type="Parallel">w:8. 1.Tim: 5,14. 1.Pet: 2,12,15. un: 3,16.</div>
+      <div n="9." type="Verse" id="JT1685/Tit_2:9.">
+       <lb id="JT1685/Tit_0_152"/>
+        <div type="Language" lang="Latvian">tos kalpus pamāci/ ka</div>
+       <lb id="JT1685/Tit_0_153"/>
+        <div type="Language" lang="Latvian">tiem būs saviem kungiem padevigiem/</div>
+       <lb id="JT1685/Tit_0_154"/>
+        <div type="Language" lang="Latvian">un visās lietās paticigiem</div>
+       <lb id="JT1685/Tit_0_155"/>
+        <div type="Language" lang="Latvian">būt/ un ne nieka preti</div>
+       <lb id="JT1685/Tit_0_156"/>
+        <div type="Language" lang="Latvian">runāt.</div>
+       <lb id="JT1685/Tit_0_157"/>
+       <div type="Parallel">w:9. Eweſ: 6,5. Kol: 3,22. 1.Tim: 6,1,2. 1.Pet: 2,18.</div>
+      <div n="10." type="Verse" id="JT1685/Tit_2:10.">
+       <lb id="JT1685/Tit_0_158"/>
+        <div type="Language" lang="Latvian">ne ko atraut/ bet visu</div>
+       <lb id="JT1685/Tit_0_159"/>
+        <div type="Language" lang="Latvian">labu pieticibu parādīt: ka</div>
+       <lb id="JT1685/Tit_0_160"/>
+        <div type="Language" lang="Latvian">tie to mācibu dieva mūso pestitaja</div>
+       <lb id="JT1685/Tit_0_161"/>
+        <div type="Language" lang="Latvian">iekš visiem iztaisa.</div>
+       <lb id="JT1685/Tit_0_162"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">lekcions uz ziemas=svētkiem.</div></div>
+      <div n="11." type="Verse" id="JT1685/Tit_2:11.">
+       <lb id="JT1685/Tit_0_163"/>
+        <div type="Language" lang="Latvian">jo ta žēlastiba ta dieva</div>
+       <lb id="JT1685/Tit_0_164"/>
+        <div type="Language" lang="Latvian">mūso pestitaja ir</div>
+       <lb id="JT1685/Tit_0_165"/>
+        <div type="Language" lang="Latvian">atspīdejusi visiem cilvekiem.</div>
+       <lb id="JT1685/Tit_0_166"/>
+       <div type="Parallel">w:11. 1.Tim: 2,4. Tit: 3,4.</div>
+      <div n="12." type="Verse" id="JT1685/Tit_2:12.">
+       <lb id="JT1685/Tit_0_167"/>
+        <div type="Language" lang="Latvian">un pamāca mūs/ ka</div>
+       <lb id="JT1685/Tit_0_168"/>
+        <div type="Language" lang="Latvian">mēs aizliedzam to bezdievibu/</div>
+       <lb id="JT1685/Tit_0_169"/>
+        <div type="Language" lang="Latvian">un tās pasauligas iekārošanas/</div>
+       <lb id="JT1685/Tit_0_170"/>
+        <div type="Language" lang="Latvian">gadigi un taisni un dieva</div>
+       <lb id="JT1685/Tit_0_171"/>
+        <div type="Language" lang="Latvian">bijigi dzīvojam šinī pasaulē.</div>
+       <lb id="JT1685/Tit_0_172"/>
+       <div type="Parallel">w:12. Eweſ: 1,4. Kol: 1,22. 2.Tim: 1,9. 1.Jahn: 2,16.</div>
+      <div n="13." type="Verse" id="JT1685/Tit_2:13.">
+       <lb id="JT1685/Tit_0_173"/>
+        <div type="Language" lang="Latvian">gaididami to labumu</div>
+       <lb id="JT1685/Tit_0_174"/>
+        <div type="Language" lang="Latvian">tās ceribas/ un to atspīdešanu</div>
+       <lb id="JT1685/Tit_0_175"/>
+        <div type="Language" lang="Latvian">tās godibas ta liela dieva/</div>
+       <lb id="JT1685/Tit_0_176"/>
+        <div type="Language" lang="Latvian">un mūso pestitaja jezus kristus.</div>
+       <lb id="JT1685/Tit_0_177"/>
+       <div type="Parallel">w:13. 1.Kor: 1,7. Wilip: 3,20.</div>
+      <div n="14." type="Verse" id="JT1685/Tit_2:14.">
+       <lb id="JT1685/Tit_0_178"/>
+        <div type="Language" lang="Latvian">kas sev pašu par mums</div>
+       <lb id="JT1685/Tit_0_179"/>
+        <div type="Language" lang="Latvian">devies ir/ ka tas mūs atpirktu</div>
+       <lb id="JT1685/Tit_0_180"/>
+        <div type="Language" lang="Latvian">no visas netaisnibas/ un šķīstitos</div>
+       <lb id="JT1685/Tit_0_181"/>
+        <div type="Language" lang="Latvian">sev patim īpašus ļaudis/</div>
+       <lb id="JT1685/Tit_0_182"/>
+        <div type="Language" lang="Latvian">kas čakli dzītos ūz labiem</div>
+       <lb id="JT1685/Tit_0_183"/>
+        <div type="Language" lang="Latvian">darbiem.)</div>
+       <lb id="JT1685/Tit_0_184"/>
+       <div type="Parallel">w:14. 2.r: Moſ: 19,5. Eweſ: 2,10. un: 5,2.</div>
+       <lb id="JT1685/Tit_0_185"/>
+       <div type="Parallel">Gal: 1,4. un: 2,20. Ebr: 9,14.</div>
+      <div n="15." type="Verse" id="JT1685/Tit_2:15.">
+       <lb id="JT1685/Tit_0_186"/>
+        <div type="Language" lang="Latvian">šo runa/ un pamāci/</div>
+       <lb id="JT1685/Tit_0_187"/>
+        <div type="Language" lang="Latvian">un pamāci ar visu pavēlešanu;</div>
+       <lb id="JT1685/Tit_0_188"/>
+        <div type="Language" lang="Latvian">ne vienam būs tev</div>
+       <lb id="JT1685/Tit_0_189"/>
+        <div type="Language" lang="Latvian">nicināt.</div>
+       <lb id="JT1685/Tit_0_190"/>
+       <div type="Parallel">w:15. 1.Kor: 16,11. 1.Tim: 4,12.</div>
+      </div>
+       <lb id="JT1685/Tit_0_191"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ta iii. nodaļa.</div></div>
+      <div n="0." type="Verse" id="JT1685/Tit_3:0.">
+       <lb id="JT1685/Tit_0_192"/>
+        <div type="Language" lang="Latvian">pāvils pavēļ tiem kļauzitajiem paklauzišanu:</div>
+       <lb id="JT1685/Tit_0_193"/>
+        <div type="Language" lang="Latvian">1. un visiem dieva bērniem laipnibu:</div>
+       <lb id="JT1685/Tit_0_194"/>
+        <div type="Language" lang="Latvian">2. māca kā mēs no žēlastibas</div>
+       <lb id="JT1685/Tit_0_195"/>
+        <div type="Language" lang="Latvian">svētigi: 4. un caur to kristibu atdzimdenati</div>
+       <lb id="JT1685/Tit_0_196"/>
+        <div type="Language" lang="Latvian">topam: 5. tadēļ ikvienam būs</div>
+       <lb id="JT1685/Tit_0_197"/>
+        <div type="Language" lang="Latvian">žīs dāvanas dēļ cienigi dzīvot: 8.</div>
+      <div n="1." type="Verse" id="JT1685/Tit_3:1.">
+       <lb id="JT1685/Tit_0_198"/>
+        <div type="Language" lang="Latvian">atgādini tos/ ka tie</div>
+       <lb id="JT1685/Tit_0_199"/>
+        <div type="Language" lang="Latvian">tām virsibām un</div>
+       <lb id="JT1685/Tit_0_200"/>
+        <div type="Language" lang="Latvian">valdišanām paklausigi/</div>
+       <lb id="JT1685/Tit_0_201"/>
+        <div type="Language" lang="Latvian">un ūz visu labu darbu</div>
+       <lb id="JT1685/Tit_0_202"/>
+        <div type="Language" lang="Latvian">gatavi ir.</div>
+       <lb id="JT1685/Tit_0_203"/>
+       <div type="Parallel">w:1. Rom: 13,1. 1.Pet: 2,13.</div>
+      <div n="2." type="Verse" id="JT1685/Tit_3:2.">
+       <lb id="JT1685/Tit_0_204"/>
+        <div type="Language" lang="Latvian">ne vienu zaimo/ ne kāveji</div>
+       <lb id="JT1685/Tit_0_205"/>
+        <div type="Language" lang="Latvian">ir/ lēnigi/ visadu laipnibu</div>
+       <lb id="JT1685/Tit_0_206"/>
+        <div type="Language" lang="Latvian">parāda pret visiem cilvekiem.</div>
+       <lb id="JT1685/Tit_0_207"/>
+       <div type="Parallel">w:2. Wilip: 4,5. 2.Tim: 2,24,25.</div>
+      <div n="3." type="Verse" id="JT1685/Tit_3:3.">
+       <lb id="JT1685/Tit_0_208"/>
+        <div type="Language" lang="Latvian">jo mēs aridzan citkārt</div>
+       <lb id="JT1685/Tit_0_209"/>
+        <div type="Language" lang="Latvian">bijam ne pratigi/ pārgalvigi/</div>
+       <lb id="JT1685/Tit_0_210"/>
+        <div type="Language" lang="Latvian">alodami/ kalpodami tām iekārošanām</div>
+       <lb id="JT1685/Tit_0_211"/>
+        <div type="Language" lang="Latvian">un dažadām kāribām/</div>
+       <lb id="JT1685/Tit_0_212"/>
+        <div type="Language" lang="Latvian">blēdibā un skaudibā</div>
+       <lb id="JT1685/Tit_0_213"/>
+        <div type="Language" lang="Latvian">dzīvodami/ naidigi/ viens otru</div>
+       <lb id="JT1685/Tit_0_214"/>
+        <div type="Language" lang="Latvian">ienīdedami.</div>
+       <lb id="JT1685/Tit_0_215"/>
+       <div type="Parallel">w:3. 1.Kor: 6,11. Eweſ: 2,1. un: 5,3,8. Kol: 3,7. 1.Pet: 4,3. Eweſ: 4,17,18.</div>
+      <div n="4." type="Verse" id="JT1685/Tit_3:4.">
+       <lb id="JT1685/Tit_0_216"/>
+        <div type="Language" lang="Latvian">bet ta laipniba un mīlestiba</div>
+       <lb id="JT1685/Tit_0_217"/>
+        <div type="Language" lang="Latvian">dieva mūso pestitaja pret</div>
+       <lb id="JT1685/Tit_0_218"/>
+        <div type="Language" lang="Latvian">tiem cilvekiem ir atspīdejusi/</div>
+       <lb id="JT1685/Tit_0_219"/>
+       <div type="Parallel">w:4. Tit: 2,11.</div>
+      <div n="5." type="Verse" id="JT1685/Tit_3:5.">
+       <lb id="JT1685/Tit_0_220"/>
+        <div type="Language" lang="Latvian">ne no tiem darbiem tās</div>
+       <lb id="JT1685/Tit_0_221"/>
+        <div type="Language" lang="Latvian">taisnibas/ ko mēs esam darijši/</div>
+       <lb id="JT1685/Tit_0_222"/>
+        <div type="Language" lang="Latvian">bet pēc savu apžēlošanu</div>
+       <lb id="JT1685/Tit_0_223"/>
+        <div type="Language" lang="Latvian">ir viņš mūs svētus darijs/</div>
+       <lb id="JT1685/Tit_0_224"/>
+        <div type="Language" lang="Latvian">caur to mazgašanu tās</div>
+       <lb id="JT1685/Tit_0_225"/>
+        <div type="Language" lang="Latvian">atdzimšanas un atjaunašanas</div>
+       <lb id="JT1685/Tit_0_226"/>
+        <div type="Language" lang="Latvian">ta svēta gara.</div>
+       <lb id="JT1685/Tit_0_227"/>
+       <div type="Parallel">w:5. Jahn: 3,3,1. Ap: Darb: 15,11. Rom: 3,20,28.</div>
+       <lb id="JT1685/Tit_0_228"/>
+       <div type="Parallel">un: 4,2,6. un: 9,11. un: 11,6. Eweſ: 1,4. un: 2,4,9.</div>
+       <lb id="JT1685/Tit_0_229"/>
+       <div type="Parallel">un: 5,26. Gal: 2,16. 2.Tim: 1,9.</div>
+      <div n="6." type="Verse" id="JT1685/Tit_3:6.">
+       <lb id="JT1685/Tit_0_230"/>
+        <div type="Language" lang="Latvian">ko viņš izlējis ir pār</div>
+       <lb id="JT1685/Tit_0_231"/>
+        <div type="Language" lang="Latvian">mums bagatigi caur jezu kristu</div>
+       <lb id="JT1685/Tit_0_232"/>
+        <div type="Language" lang="Latvian">mūso pestitaju.</div>
+       <lb id="JT1685/Tit_0_233"/>
+       <div type="Parallel">w:6. Eſek: 36,25. Joel: 2,28. Ap: Darb: 2,33. Rom: 5,5.</div>
+      <div n="7." type="Verse" id="JT1685/Tit_3:7.">
+       <lb id="JT1685/Tit_0_234"/>
+        <div type="Language" lang="Latvian">ka mēs caur viņa žēlastibu</div>
+       <lb id="JT1685/Tit_0_235"/>
+        <div type="Language" lang="Latvian">taisnoti/ mantnieki topam</div>
+       <lb id="JT1685/Tit_0_236"/>
+        <div type="Language" lang="Latvian">tās mūžigas dzīvošanas</div>
+       <lb id="JT1685/Tit_0_237"/>
+        <div type="Language" lang="Latvian">pēc tās ceribas.</div>
+       <lb id="JT1685/Tit_0_238"/>
+       <div type="Parallel">w:7. Rom: 8,23,24.</div>
+      <div n="8." type="Verse" id="JT1685/Tit_3:8.">
+       <lb id="JT1685/Tit_0_239"/>
+        <div type="Language" lang="Latvian">tas ir paties vārds:</div>
+       <lb id="JT1685/Tit_0_240"/>
+        <div type="Language" lang="Latvian">un šo gribu es/ ka tev būs pastiprināt/</div>
+       <lb id="JT1685/Tit_0_241"/>
+        <div type="Language" lang="Latvian">ka tie/ kas iekš dieva</div>
+       <lb id="JT1685/Tit_0_242"/>
+        <div type="Language" lang="Latvian">ticigi tapuši iekš labiem</div>
+       <lb id="JT1685/Tit_0_243"/>
+        <div type="Language" lang="Latvian">darbiem pastāvigi darbojās:</div>
+       <lb id="JT1685/Tit_0_244"/>
+        <div type="Language" lang="Latvian">šis ir/ kas tiem cilvekiem</div>
+       <lb id="JT1685/Tit_0_245"/>
+        <div type="Language" lang="Latvian">labs un derigs ir.</div>
+      <div n="9." type="Verse" id="JT1685/Tit_3:9.">
+       <lb id="JT1685/Tit_0_246"/>
+        <div type="Language" lang="Latvian">bet no tām ģeķigām</div>
+       <lb id="JT1685/Tit_0_247"/>
+        <div type="Language" lang="Latvian">jautašanām un cilts=rakstiem/</div>
+       <lb id="JT1685/Tit_0_248"/>
+        <div type="Language" lang="Latvian">un riešanām un bāršanām</div>
+       <lb id="JT1685/Tit_0_249"/>
+        <div type="Language" lang="Latvian">pār tās bauslibas</div>
+       <lb id="JT1685/Tit_0_250"/>
+        <div type="Language" lang="Latvian">atraujies/ jo tās ir nederigas</div>
+       <lb id="JT1685/Tit_0_251"/>
+        <div type="Language" lang="Latvian">un nelietas:</div>
+       <lb id="JT1685/Tit_0_252"/>
+       <div type="Parallel">w:9. 1.Tim: 1,4. un: 4,7. un: 6,20. 2.Tim: 2,23. Tit: 1,14.</div>
+      <div n="10." type="Verse" id="JT1685/Tit_3:10.">
+       <lb id="JT1685/Tit_0_253"/>
+        <div type="Language" lang="Latvian">vienu svešticigu cilveku</div>
+       <lb id="JT1685/Tit_0_254"/>
+        <div type="Language" lang="Latvian">atstāj/ pēc vienu un otru</div>
+       <lb id="JT1685/Tit_0_255"/>
+        <div type="Language" lang="Latvian">pakūdinašanu.</div>
+       <lb id="JT1685/Tit_0_256"/>
+       <div type="Parallel">w:10. Matt: 18,17. Rom: 16,17. 2.Teẜẜ: 3,6. 2.Tim: 3,5. 2.Jahn: w:10.</div>
+      <div n="11." type="Verse" id="JT1685/Tit_3:11.">
+       <lb id="JT1685/Tit_0_257"/>
+        <div type="Language" lang="Latvian">zinadams/ ka tāds ir</div>
+       <lb id="JT1685/Tit_0_258"/>
+        <div type="Language" lang="Latvian">pārgrozīts/ un grēkos būdams</div>
+       <lb id="JT1685/Tit_0_259"/>
+        <div type="Language" lang="Latvian">tīša prātā pats pazudinajās.</div>
+      <div n="12." type="Verse" id="JT1685/Tit_3:12.">
+       <lb id="JT1685/Tit_0_260"/>
+        <div type="Language" lang="Latvian">kad es artemu pie tev sūtišu/</div>
+       <lb id="JT1685/Tit_0_261"/>
+        <div type="Language" lang="Latvian">jeb tikiku/ tad steidzies pie</div>
+       <lb id="JT1685/Tit_0_262"/>
+        <div type="Language" lang="Latvian">man nākt nikopoli/ jo tur esmu</div>
+       <lb id="JT1685/Tit_0_263"/>
+        <div type="Language" lang="Latvian">es apņēmies par ziemu mist.</div>
+       <lb id="JT1685/Tit_0_264"/>
+       <div type="Parallel">w:12. Ap: Darb: 20,4. Eweſ: 6,21. Kol: 4,6. 2.Tim: 4,12.</div>
+      <div n="13." type="Verse" id="JT1685/Tit_3:13.">
+       <lb id="JT1685/Tit_0_265"/>
+        <div type="Language" lang="Latvian">cenu to bauslibas=mācitaju</div>
+       <lb id="JT1685/Tit_0_266"/>
+        <div type="Language" lang="Latvian">un apolu pavadi tikuši/</div>
+       <lb id="JT1685/Tit_0_267"/>
+        <div type="Language" lang="Latvian">ka tiem ne nieka trūkst.</div>
+       <lb id="JT1685/Tit_0_268"/>
+       <div type="Parallel">w:13. Ap: Darb: 18,24. 2.Kor: 1,12.</div>
+      <div n="14." type="Verse" id="JT1685/Tit_3:14.">
+       <lb id="JT1685/Tit_0_269"/>
+        <div type="Language" lang="Latvian">un lai aridzan tie/ kas</div>
+       <lb id="JT1685/Tit_0_270"/>
+        <div type="Language" lang="Latvian">mums pieder / labos darbos</div>
+       <lb id="JT1685/Tit_0_271"/>
+        <div type="Language" lang="Latvian">pastāvigi darbojās iekš ta/</div>
+       <lb id="JT1685/Tit_0_272"/>
+        <div type="Language" lang="Latvian">kas vajaga ir/ ka tie ne esus neaugligi.</div>
+      <div n="15." type="Verse" id="JT1685/Tit_3:15.">
+       <lb id="JT1685/Tit_0_273"/>
+        <div type="Language" lang="Latvian">tur apsveicina tev visi/</div>
+       <lb id="JT1685/Tit_0_274"/>
+        <div type="Language" lang="Latvian">kas ar manim ir: apsveicina</div>
+       <lb id="JT1685/Tit_0_275"/>
+        <div type="Language" lang="Latvian">tos/ kas mūs mīle iekš ticibas:</div>
+       <lb id="JT1685/Tit_0_276"/>
+        <div type="Language" lang="Latvian">žēlastiba lai ir ar jums</div>
+       <lb id="JT1685/Tit_0_277"/>
+        <div type="Language" lang="Latvian">visiem/ amen.</div>
+       <lb id="JT1685/Tit_0_278"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">(grāmata) ūz titu to pir-</div></div>
+       <lb id="JT1685/Tit_0_279"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">mu ieceltu pīskopu tās kriete-</div></div>
+       <lb id="JT1685/Tit_0_280"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">ŗo draudzibas/ rakstita no niko-</div></div>
+       <lb id="JT1685/Tit_0_281"/>
+       <div type="Comment">
+        <div type="Language" lang="Latvian">poli iekš makedonijas.</div></div>
+      </div>
+    </body>
+   </text>
+  </TEI>

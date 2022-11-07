@@ -1,0 +1,31 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Has1550_PN">
+     <sourceDesc>
+      <author>Johans Hazentēters</author>
+      <title>[Hazentētera tēvreize]</title>
+      <date>1550</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Has1550_PN_--_1"/>
+        <div type="Language" lang="Latvian">tēves mūs kas tu es iekšan debesis/ švētīts tavs vārds/ ienāk</div>
+       <lb id="Has1550_PN_--_2"/>
+        <div type="Language" lang="Latvian">mums tavs valstībe tavs prāts būs kā iekšan debes/ tā virsan</div>
+       <lb id="Has1550_PN_--_3"/>
+        <div type="Language" lang="Latvian">zemes. mūse dieniske maize dot mums šodien/ pamete mums</div>
+       <lb id="Has1550_PN_--_4"/>
+        <div type="Language" lang="Latvian">mūse grēke kā mēs pamet mūse parādnieken/ ne vede mums</div>
+       <lb id="Has1550_PN_--_5"/>
+        <div type="Language" lang="Latvian">ļauna badekle/ bet pasarga mums no vise ļaune āmen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

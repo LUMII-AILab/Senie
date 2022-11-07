@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Witt1702_PAN">
+     <sourceDesc>
+      <author>Mihaēls Vitenburgs</author>
+      <title>Ta panesama Auna=Nasta apdohmata</title>
+      <date>1702</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; gadījuma dzeja</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_1"/>
+        <div type="Language" lang="Latvian">ta panesama</div>
+       <lb id="Witt1702_PAN_1_2"/>
+        <div type="Language" lang="Latvian">auna=nasta</div>
+       <lb id="Witt1702_PAN_1_3"/>
+        <div type="Language" lang="Latvian">apdomata/</div>
+       <lb id="Witt1702_PAN_1_4"/>
+        <div type="Language" lang="Latvian">kad tas iekš dziļām mācibām mācīts</div>
+       <lb id="Witt1702_PAN_1_5"/>
+        <div type="Language" lang="Latvian">un godigs kungs/</div>
+       <lb id="Witt1702_PAN_1_6"/>
+        <div type="Language" lang="Latvian">tas rigas=kēniņa=</div>
+       <div type="Language" lang="Latin">Lyceûs Con-Rectors</div>
+       <lb id="Witt1702_PAN_1_7"/>
+       <div type="Language" lang="Latin">JOHANNES CASPARUS</div>
+       <lb id="Witt1702_PAN_1_8"/>
+       <div type="Language" lang="Latin">SCHOEPS</div>
+       <lb id="Witt1702_PAN_1_9"/>
+        <div type="Language" lang="Latvian">ar tās</div>
+       <lb id="Witt1702_PAN_1_10"/>
+        <div type="Language" lang="Latvian">augsti cienijamas/ un <corr>iekš</corr><sic>ieš</sic> visiem goda=tikumiem pilnigas</div>
+       <lb id="Witt1702_PAN_1_11"/>
+        <div type="Language" lang="Latvian">jump:</div>
+       <div type="Language" lang="Latin">ELISABETH MAG-</div>
+       <lb id="Witt1702_PAN_1_12"/>
+       <div type="Language" lang="Latin">DALENA</div>
+       <div type="Language" lang="German">Brockhauſen</div>
+       <lb id="Witt1702_PAN_1_13"/>
+        <div type="Language" lang="Latvian">savas kāzas tureja</div>
+       <lb id="Witt1702_PAN_1_14"/>
+       <div type="Language" lang="Latin">Anno 1702.</div>
+        <div type="Language" lang="Latvian">13ta</div>
+       <div type="Language" lang="Latin">Majus</div>
+        <div type="Language" lang="Latvian">dienā.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_15"/>
+       <div type="Language" lang="Latin">JOHANNES CASPARUS SCHOEPS</div>
+       <lb id="Witt1702_PAN_1_16"/>
+        <div type="Language" lang="Latvian">rakstu pārvērtišanā:</div>
+       <lb id="Witt1702_PAN_1_17"/>
+        <div type="Language" lang="Latvian">o! šis auns par šo panese.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_18"/>
+        <div type="Language" lang="Latvian">šis tas var slinkodams ēst saldu kumosiņu/</div>
+       <lb id="Witt1702_PAN_1_19"/>
+        <div type="Language" lang="Latvian">ko viņš nedz malis ir/ nedz mīcijis ar ziņu;</div>
+       <lb id="Witt1702_PAN_1_20"/>
+        <div type="Language" lang="Latvian">būs tam kad augļus nest/ tad šis tad tas ir grūts/</div>
+       <lb id="Witt1702_PAN_1_21"/>
+        <div type="Language" lang="Latvian">un stāv ka jērs jeb auns/ko satur vilka=kūts.</div>
+       <lb id="Witt1702_PAN_1_22"/>
+        <div type="Language" lang="Latvian">bet šis/ kas šodien stāv iekš savām kāzas godām/</div>
+       <lb id="Witt1702_PAN_1_23"/>
+        <div type="Language" lang="Latvian">kā sviedru liecinieks šepat pie saldām bļodām</div>
+       <lb id="Witt1702_PAN_1_24"/>
+        <div type="Language" lang="Latvian">es tīšu ne grib būt/ o! cietigs/ stipris auns!</div>
+       <lb id="Witt1702_PAN_1_25"/>
+        <div type="Language" lang="Latvian">tas droši galvā ņem/ kam panest nevaid kauns.</div>
+       <lb id="Witt1702_PAN_1_26"/>
+        <div type="Language" lang="Latvian">šis bēdu dadžos lien/ un spiežas malu malam/</div>
+       <lb id="Witt1702_PAN_1_27"/>
+        <div type="Language" lang="Latvian">kapēc? ak saki man! ka viņš pa galu galam</div>
+       <lb id="Witt1702_PAN_1_28"/>
+        <div type="Language" lang="Latvian">var vest tos jaunekļus/ var mācīt droši nest</div>
+       <lb id="Witt1702_PAN_1_29"/>
+        <div type="Language" lang="Latvian">tos svinu= mācibas/ visnotāļ grēkus mest.</div>
+       <lb id="Witt1702_PAN_1_30"/>
+        <div type="Language" lang="Latvian">talabad dievs tam dod/ tic man/ it labu biedru/</div>
+       <lb id="Witt1702_PAN_1_31"/>
+        <div type="Language" lang="Latvian">kas šo var ūzturēt/ ka ar tās maizes niedru.</div>
+       <lb id="Witt1702_PAN_1_32"/>
+        <div type="Language" lang="Latvian">redz dieviņš atmaksa/ ko tu ar sviedriem dar’/</div>
+       <lb id="Witt1702_PAN_1_33"/>
+        <div type="Language" lang="Latvian">ka tev būs drošam būt/ ja tu neredzēt var’.</div>
+       <lb id="Witt1702_PAN_1_34"/>
+        <div type="Language" lang="Latvian">tas ir par šo tas spēks/ kas viskim like laupīt</div>
+       <lb id="Witt1702_PAN_1_35"/>
+        <div type="Language" lang="Latvian">to aunu/ kas ne grib šos nesdams sevis taupīt/</div>
+       <lb id="Witt1702_PAN_1_36"/>
+        <div type="Language" lang="Latvian">ar šo šās kāzas auns panese lēnibā</div>
+       <lb id="Witt1702_PAN_1_37"/>
+        <div type="Language" lang="Latvian">un nes šo baltu dien tos cietus grūtibā.</div>
+       <lb id="Witt1702_PAN_1_38"/>
+        <div type="Language" lang="Latvian">lab tev/ mans mīļakais/ ka tu to lietu prasies/</div>
+       <lb id="Witt1702_PAN_1_39"/>
+        <div type="Language" lang="Latvian">ar ko tev spēks un gods no dieva rokām rasies;</div>
+       <lb id="Witt1702_PAN_1_40"/>
+        <div type="Language" lang="Latvian">jo tad kāds laiciņš nāk/ kas tavu sirdi žņaudz/</div>
+       <lb id="Witt1702_PAN_1_41"/>
+        <div type="Language" lang="Latvian">še avoksnaiņa sirds iekš ka tev prieka daudz.</div>
+       <lb id="Witt1702_PAN_1_42"/>
+        <div type="Language" lang="Latvian">redz balta jumpraviņ/ šis <corr>auns</corr><sic>auus</sic> var labi baŗot’/</div>
+       <lb id="Witt1702_PAN_1_43"/>
+        <div type="Language" lang="Latvian">nest villu/ gaļu/ maiz’/ un kādu piena=kaŗot/</div>
+       <lb id="Witt1702_PAN_1_44"/>
+        <div type="Language" lang="Latvian">ak panes/ lūdzama/ ko viņš tev virsu liks.</div>
+       <lb id="Witt1702_PAN_1_45"/>
+        <div type="Language" lang="Latvian">tu smelsi labumu/ viņš ne būs pikts un pliks.</div>
+       <lb id="Witt1702_PAN_1_46"/>
+        <div type="Language" lang="Latvian">laid dieviņš palīdz jums/ kad nemiers jūs grib spaidīt/</div>
+       <lb id="Witt1702_PAN_1_47"/>
+        <div type="Language" lang="Latvian">liek kādu dēlubiņ’ ar līgsmu prātu gaidīt!</div>
+       <lb id="Witt1702_PAN_1_48"/>
+        <div type="Language" lang="Latvian">dod dieviņ auglus nest/ un liec tiem galdu klāt/</div>
+       <lb id="Witt1702_PAN_1_49"/>
+        <div type="Language" lang="Latvian">kur jauns ar vecakiem var godā spiguļāt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_50"/>
+        <div type="Language" lang="Latvian">ta savam it isteni labam draugam</div>
+       <lb id="Witt1702_PAN_1_51"/>
+        <div type="Language" lang="Latvian">labu vēl</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_52"/>
+       <div type="Language" lang="Latin">Michäel Wittenburg.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

@@ -1,0 +1,33 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Thev1575_PN">
+     <sourceDesc>
+      <author>Andrē Tevē</author>
+      <title>[Tevē tēvreize]</title>
+      <date>1575</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Thev1575_PN_--_1"/>
+       <div type="Language" lang="French">En Liuonien.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Thev1575_PN_--_2"/>
+        <div type="Language" lang="Latvian">mūs tēves kas tu es, iekškan debesis, švētīts tavs vārds, ienāk  mums tavs</div>
+       <lb id="Thev1575_PN_--_3"/>
+        <div type="Language" lang="Latvian">valstībe, tavs prāts būs kā iekškan debes tā virsan zemes, mūse dieniske maize</div>
+       <lb id="Thev1575_PN_--_4"/>
+        <div type="Language" lang="Latvian">dot mums šodien, pamete mums mūse grēke kā mēs pamet mūse parādnieken. ne</div>
+       <lb id="Thev1575_PN_--_5"/>
+        <div type="Language" lang="Latvian">ievede mums <corr>ļauna</corr><sic>jauna</sic> badekle bet, pasarga mums no vise <corr>ļaune</corr><sic>jaune</sic>. āmen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>
