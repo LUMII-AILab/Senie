@@ -1,0 +1,43 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Br1520_PN">
+     <sourceDesc>
+      <author>Bruno</author>
+      <title>[Bruno tēvreize]</title>
+      <date>1520</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreize</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Br1520_PN_--_1"/>
+       <div type="Language" lang="Latin">Liuonice ſic ſonat.</div>
+       <lb id="Br1520_PN_--_2"/>
+        <div type="Language" lang="Latvian">Tewes muſs kas tu es excã debbeſiſs.</div>
+       <lb id="Br1520_PN_--_3"/>
+        <div type="Language" lang="Latvian">1. Swetytz touwes waardt.</div>
+       <lb id="Br1520_PN_--_4"/>
+        <div type="Language" lang="Latvian">2. Enacks mums touws wallſtibſs.</div>
+       <lb id="Br1520_PN_--_5"/>
+        <div type="Language" lang="Latvian">3. Touws pratz bus ka eckſchan <corr>debbessis</corr><sic>debbesdebbes sis</sic></div>
+       <lb id="Br1520_PN_--_6"/>
+        <div type="Language" lang="Latvian">, Ta arriſan wurſan ſemmes</div>
+       <lb id="Br1520_PN_--_7"/>
+        <div type="Language" lang="Latvian">4. Muſse deniſske mayſe duth muſs ſchodeẽ</div>
+       <lb id="Br1520_PN_--_8"/>
+        <div type="Language" lang="Latvian">5. Pammete mums muſe grecks, ka mes</div>
+       <lb id="Br1520_PN_--_9"/>
+        <div type="Language" lang="Latvian">pammeten muſse parraduckems</div>
+       <lb id="Br1520_PN_--_10"/>
+        <div type="Language" lang="Latvian">6. Neekwedſe mums ļounam badeklems</div>
+       <lb id="Br1520_PN_--_11"/>
+        <div type="Language" lang="Latvian">7. <corr>AEthpeſti</corr><sic>AEth peſti</sic> mums no wyſsem ļounem.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

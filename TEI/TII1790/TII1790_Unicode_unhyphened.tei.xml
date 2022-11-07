@@ -1,0 +1,855 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="TII1790">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>Ta Jhsa Jsstahstischana</title>
+      <date>1790</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; katehisms</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="TII1790_1_1"/>
+        <div type="Language" lang="Latvian">Ta Jhẜa</div>
+       <lb id="TII1790_1_2"/>
+        <div type="Language" lang="Latvian">Jsſtahſtiẜchana</div>
+       <lb id="TII1790_1_3"/>
+        <div type="Language" lang="Latvian">kuŗŗâ</div>
+       <lb id="TII1790_1_4"/>
+        <div type="Language" lang="Latvian">Tee Mahzibas=Gabbali</div>
+       <lb id="TII1790_1_5"/>
+        <div type="Language" lang="Latvian">jo ẜaprohtami irr darriti preekẜch</div>
+       <lb id="TII1790_1_6"/>
+        <div type="Language" lang="Latvian">Dundangas Draudſes</div>
+       <lb id="TII1790_1_7"/>
+        <div type="Language" lang="Latvian">no jauna eeẜpeeſta.</div>
+       <lb id="TII1790_1_8"/>
+        <div type="Language" lang="Latvian">Jelgawâ 1790,</div>
+       <lb id="TII1790_1_9"/>
+        <div type="Language" lang="Latvian">no Jahņa Wridriķa Steffenhagen, zeeniga</div>
+       <lb id="TII1790_1_10"/>
+        <div type="Language" lang="Latvian">Leela=Kunga Grahmatu=ẜpeedeja.</div>
+      </div>
+      <pb n="3"/>
+      <div type="Paragraph">
+       <lb id="TII1790_3_1"/>
+        <div type="Language" lang="Latvian">Par ko tew wiẜswairak jagahda?</div>
+       <lb id="TII1790_3_2"/>
+        <div type="Language" lang="Latvian">Par ẜawu nemirſtamu Dwehẜeli.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_3_3"/>
+        <div type="Language" lang="Latvian">Pee ka tu to juhti, ka tew Dwehẜeli irr?</div>
+       <lb id="TII1790_3_4"/>
+        <div type="Language" lang="Latvian">Pee ẜawahm Dohmahm, pee ẜawas Wallodas,</div>
+       <lb id="TII1790_3_5"/>
+        <div type="Language" lang="Latvian">un ẜapraẜchanas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_3_6"/>
+        <div type="Language" lang="Latvian">Sinni tu pats, kà tew par tawu Dwehẜeli</div>
+       <lb id="TII1790_3_7"/>
+        <div type="Language" lang="Latvian">jagahda?</div>
+       <lb id="TII1790_3_8"/>
+        <div type="Language" lang="Latvian">Ak ne! kur es tumẜch ſamaitahts Zilweziņẜch</div>
+       <lb id="TII1790_3_9"/>
+        <div type="Language" lang="Latvian">to ſinnatu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_3_10"/>
+        <div type="Language" lang="Latvian">Kur tad Deews tew to irr lizzis mahziht?</div>
+       <lb id="TII1790_3_11"/>
+        <div type="Language" lang="Latvian">Eekẜch ẜawa ẜwehta Wahrda.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_3_12"/>
+        <div type="Language" lang="Latvian">Kà tohp ta Grahmata ẜaukta, kur tas Deewa</div>
+       <lb id="TII1790_3_13"/>
+        <div type="Language" lang="Latvian">Wahrds ẜaweenohts irr?</div>
+       <lb id="TII1790_3_14"/>
+        <div type="Language" lang="Latvian">Ta Bihbele!</div>
+      </div>
+      <pb n="4"/>
+      <div type="Paragraph">
+       <lb id="TII1790_4_1"/>
+        <div type="Language" lang="Latvian">Woi Deews to pats runnajis un rakſtiht</div>
+       <lb id="TII1790_4_2"/>
+        <div type="Language" lang="Latvian">lizzis?</div>
+       <lb id="TII1790_4_3"/>
+        <div type="Language" lang="Latvian">Ja! to pats Deews zaur teem isredſehteem</div>
+       <lb id="TII1790_4_4"/>
+        <div type="Language" lang="Latvian">Deewa=Wihreem rakſtiht lizzis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_4_5"/>
+        <div type="Language" lang="Latvian">Kà tohp ta Bihbele dallita?</div>
+       <lb id="TII1790_4_6"/>
+        <div type="Language" lang="Latvian">Diwejôs gabbalôs, wezzâ un jaunâ Teſtamenttê.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_4_7"/>
+        <div type="Language" lang="Latvian">Kad ta wezza Teſtamente irr rakſtita?</div>
+       <lb id="TII1790_4_8"/>
+        <div type="Language" lang="Latvian">Preekẜch Kriſtus Peedſimẜchanas no Mohſus</div>
+       <lb id="TII1790_4_9"/>
+        <div type="Language" lang="Latvian">un teem Praweeẜcheem.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_4_10"/>
+        <div type="Language" lang="Latvian">Kad ta jauna Teſtamente irr rakſtita?</div>
+       <lb id="TII1790_4_11"/>
+        <div type="Language" lang="Latvian">Pehz Kriſtus Debbes=Braukſchanas no</div>
+       <lb id="TII1790_4_12"/>
+        <div type="Language" lang="Latvian">teem Preezas=Mahzitajeem un Apuſtuļeem.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_4_13"/>
+        <div type="Language" lang="Latvian">Zeekkahrtiga irr ta Mahziba eekẜch abbeem?</div>
+       <lb id="TII1790_4_14"/>
+        <div type="Language" lang="Latvian">Diwkahrtiga, ta Bauẜliba un tas Ewangeliums.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_4_15"/>
+        <div type="Language" lang="Latvian">Us ko wiẜẜa ta Bihbele no Eeẜahkuma lihdſ</div>
+       <lb id="TII1790_4_16"/>
+        <div type="Language" lang="Latvian">pat gallam rahda ?</div>
+       <lb id="TII1790_4_17"/>
+        <div type="Language" lang="Latvian">Us to Kungu un Peſtitaju Jeſus Kriſtus,</div>
+       <lb id="TII1790_4_18"/>
+        <div type="Language" lang="Latvian">tas irr tas Mehrķis wiẜẜu Deewa Wahrdu.</div>
+      </div>
+      <pb n="5"/>
+      <div type="Paragraph">
+       <lb id="TII1790_5_1"/>
+        <div type="Language" lang="Latvian">Woi tu wiẜẜu Bihbeli gan warri ismahzitees?</div>
+       <lb id="TII1790_5_2"/>
+        <div type="Language" lang="Latvian">Ne, to es ne ẜpehju.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_5_3"/>
+        <div type="Language" lang="Latvian">Kur tad tas tew ihẜi rahdihts tohp, kà tu warri</div>
+       <lb id="TII1790_5_4"/>
+        <div type="Language" lang="Latvian">par ẜawu Dwehẜeli gahdaht?</div>
+       <lb id="TII1790_5_5"/>
+        <div type="Language" lang="Latvian">Eekẜch  Katkiẜmes,  jeb Behrnu=Mahzibas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_5_6"/>
+        <div type="Language" lang="Latvian">No kurrenes ta irr ņemta?</div>
+       <lb id="TII1790_5_7"/>
+        <div type="Language" lang="Latvian">No Bihbeles no Deewa Wahrdeem.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_5_8"/>
+        <div type="Language" lang="Latvian">Zik irr Mahzibas=Gabbali?</div>
+       <lb id="TII1790_5_9"/>
+        <div type="Language" lang="Latvian">Ꞩeẜchi:	tas pirmais, no teem Deewa</div>
+       <lb id="TII1790_5_10"/>
+        <div type="Language" lang="Latvian">Bauẜleem.</div>
+       <lb id="TII1790_5_11"/>
+        <div type="Language" lang="Latvian">tas ohtrais, no tahs Tizzibas.</div>
+       <lb id="TII1790_5_12"/>
+        <div type="Language" lang="Latvian">tas treẜchais, no tahs ẜwehtas</div>
+       <lb id="TII1790_5_13"/>
+        <div type="Language" lang="Latvian">Luhgẜchanas.</div>
+       <lb id="TII1790_5_14"/>
+        <div type="Language" lang="Latvian">tas zettortais, no tahs ẜwehtas</div>
+       <lb id="TII1790_5_15"/>
+        <div type="Language" lang="Latvian">Kriſtibas.</div>
+       <lb id="TII1790_5_16"/>
+        <div type="Language" lang="Latvian">tas peektais, no tahs Grehku</div>
+       <lb id="TII1790_5_17"/>
+        <div type="Language" lang="Latvian">peedohẜchanas.</div>
+       <lb id="TII1790_5_18"/>
+        <div type="Language" lang="Latvian">tas ẜeſtais, no ta ẜwehta Wakkar=</div>
+       <lb id="TII1790_5_19"/>
+        <div type="Language" lang="Latvian">Ehdeena.</div>
+      </div>
+      <pb n="6"/>
+      <div type="Paragraph">
+       <lb id="TII1790_6_1"/>
+        <div type="Language" lang="Latvian">Kas tohs Bauẜlus irr dewis?</div>
+       <lb id="TII1790_6_2"/>
+        <div type="Language" lang="Latvian">Pats Deews.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_6_3"/>
+        <div type="Language" lang="Latvian">Kapehz irr wiņẜch tohs dewis?</div>
+       <lb id="TII1790_6_4"/>
+        <div type="Language" lang="Latvian">Ka mums pehz teem dſihwoht buhs, un lai</div>
+       <lb id="TII1790_6_5"/>
+        <div type="Language" lang="Latvian">mehs mahziti tohpam, no Ļauna atſtaht, un</div>
+       <lb id="TII1790_6_6"/>
+        <div type="Language" lang="Latvian">pehz Labba dſihtees.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_6_7"/>
+        <div type="Language" lang="Latvian">Kas irr tas Labbums, kas mums ja darra?</div>
+       <lb id="TII1790_6_8"/>
+        <div type="Language" lang="Latvian">Ta Mihleſtiba prett Deewu, un prett to</div>
+       <lb id="TII1790_6_9"/>
+        <div type="Language" lang="Latvian">Tuwaku.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_6_10"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas pirmais Bauẜlis?</div>
+       <lb id="TII1790_6_11"/>
+        <div type="Language" lang="Latvian">Tew ne buhs zittus ẜweẜchus Deewus turreht</div>
+       <lb id="TII1790_6_12"/>
+        <div type="Language" lang="Latvian">preekẜch mannim.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_6_13"/>
+        <div type="Language" lang="Latvian">Kas irr tas ẜweẜch Deews?</div>
+       <lb id="TII1790_6_14"/>
+        <div type="Language" lang="Latvian">Tas Ꞩatans, kas ẜew paẜchu par Deewu</div>
+       <lb id="TII1790_6_15"/>
+        <div type="Language" lang="Latvian">ẜchihs Paẜaules usmettees, kà arridſan wiẜẜas</div>
+       <lb id="TII1790_6_16"/>
+        <div type="Language" lang="Latvian">radditas Leetas, kas Deews ne irr, un tomehr</div>
+       <lb id="TII1790_6_17"/>
+        <div type="Language" lang="Latvian">kà Deews zeenahts tohp.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_6_18"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas ohtrais Bauẜlis?</div>
+       <lb id="TII1790_6_19"/>
+        <div type="Language" lang="Latvian">Tew ne buhs Deewa tawa Kunga Wahrdu</div>
+       <lb id="TII1790_6_20"/>
+        <div type="Language" lang="Latvian">ne pateeẜi walkaht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_6_21"/>
+        <div type="Language" lang="Latvian">Kas tohp zaur Deewa Wahrdu ẜapraſts?</div>
+       <lb id="TII1790_6_22"/>
+        <div type="Language" lang="Latvian">Pats Deews, ka wiņẜch eekẜch ẜawa ẜwehta</div>
+       <lb id="TII1790_6_23"/>
+        <div type="Language" lang="Latvian">Wahrda parahdijees, un wiņņa ẜwehtais</div>
+       <lb id="TII1790_6_24"/>
+        <div type="Language" lang="Latvian">Prahts.</div>
+      </div>
+      <pb n="7"/>
+      <div type="Paragraph">
+       <lb id="TII1790_7_1"/>
+        <div type="Language" lang="Latvian">Kà tohp Deewa Wahrds nepareiſi walkahts?</div>
+       <lb id="TII1790_7_2"/>
+        <div type="Language" lang="Latvian">Kad mehs lahdam, ſwehram, un pee wiẜẜahm</div>
+       <lb id="TII1790_7_3"/>
+        <div type="Language" lang="Latvian">blehņu Leetahm Deewa Wahrdu peeminnam,</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_7_4"/>
+        <div type="Language" lang="Latvian">Kà mehs Deewa Wahrdu pareiſi walkojam?</div>
+       <lb id="TII1790_7_5"/>
+        <div type="Language" lang="Latvian">Kad mehs to eekẜch wiẜẜahm Behdahm peeẜauzam,</div>
+       <lb id="TII1790_7_6"/>
+        <div type="Language" lang="Latvian">peeluhdſam, un tam Pateizibu dohdam.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_7_7"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas treẜchais Bauẜlis?</div>
+       <lb id="TII1790_7_8"/>
+        <div type="Language" lang="Latvian">Tew buhs to ẜwehtu Deenu ẜwehtiht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_7_9"/>
+        <div type="Language" lang="Latvian">Kà tas noteek?</div>
+       <lb id="TII1790_7_10"/>
+        <div type="Language" lang="Latvian">Kad mehs Baſnizâ eetam, Deewa Wahrdu</div>
+       <lb id="TII1790_7_11"/>
+        <div type="Language" lang="Latvian">klauẜam, Pahtarus ſkaitam un no laizigeem</div>
+       <lb id="TII1790_7_12"/>
+        <div type="Language" lang="Latvian">Darbeem ẜargajamees.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_7_13"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas zettortais Bauẜlis?</div>
+       <lb id="TII1790_7_14"/>
+        <div type="Language" lang="Latvian">Tew buhs tawu Tehwu un Mahti zeenâ</div>
+       <lb id="TII1790_7_15"/>
+        <div type="Language" lang="Latvian">Gohda turreht, ka tew labbi klahjahs, un tu</div>
+       <lb id="TII1790_7_16"/>
+        <div type="Language" lang="Latvian">ilgi dſihwo wirs ſemmes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_7_17"/>
+        <div type="Language" lang="Latvian">Kas tohp zaur Tehwu un Mahti ẜapraſts?</div>
+       <lb id="TII1790_7_18"/>
+        <div type="Language" lang="Latvian">Neween muhẜu Wezzaki, no kuŗŗeem mehs</div>
+       <lb id="TII1790_7_19"/>
+        <div type="Language" lang="Latvian">peedſimmuẜchi eẜẜam, bet arridſan kas Tehwa</div>
+       <lb id="TII1790_7_20"/>
+        <div type="Language" lang="Latvian">Weeta irr, kas walda, kas mahza, kas dohd</div>
+       <lb id="TII1790_7_21"/>
+        <div type="Language" lang="Latvian">Maiſi.</div>
+      </div>
+      <pb n="8"/>
+      <div type="Paragraph">
+       <lb id="TII1790_8_1"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas peektais Bauẜlis?</div>
+       <lb id="TII1790_8_2"/>
+        <div type="Language" lang="Latvian">Tew ne buhs nokaut.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_8_3"/>
+        <div type="Language" lang="Latvian">Kà tohp tas Tuwaks nokauts?</div>
+       <lb id="TII1790_8_4"/>
+        <div type="Language" lang="Latvian">1) Ar Mutti, kad weens ohtru lahd, un</div>
+       <lb id="TII1790_8_5"/>
+        <div type="Language" lang="Latvian">wiņņam Ļaunu wehl.</div>
+       <lb id="TII1790_8_6"/>
+        <div type="Language" lang="Latvian">2) Ar Ꞩirdi, kad weens ẜawu Brahli eenihd,</div>
+       <lb id="TII1790_8_7"/>
+        <div type="Language" lang="Latvian">un Duẜmu prett wiņņu turr.</div>
+       <lb id="TII1790_8_8"/>
+        <div type="Language" lang="Latvian">3) Ar Rohku, kad weens ohtru noẜitt, ar</div>
+       <lb id="TII1790_8_9"/>
+        <div type="Language" lang="Latvian">kahdu Eerohzi gribbedams.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_8_10"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas ẜeſtais Bauẜlis?</div>
+       <lb id="TII1790_8_11"/>
+        <div type="Language" lang="Latvian">Tew ne buhs Laulibu pahrkahpt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_8_12"/>
+        <div type="Language" lang="Latvian">Kas irr tas?</div>
+       <lb id="TII1790_8_13"/>
+        <div type="Language" lang="Latvian">Kad mehs ar ļaunahm Dohmahm, nekaunigeem</div>
+       <lb id="TII1790_8_14"/>
+        <div type="Language" lang="Latvian">Wahrdeem, un Neẜchķihſtibas=Dahrbeem</div>
+       <lb id="TII1790_8_15"/>
+        <div type="Language" lang="Latvian">ẜawu Ꞩirdi un Dwehẜeli apgŗuhtinajam.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_8_16"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas ẜeptitais Bauẜlis?</div>
+       <lb id="TII1790_8_17"/>
+        <div type="Language" lang="Latvian">Tew ne buhs ſagt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_8_18"/>
+        <div type="Language" lang="Latvian">Kas irr tas?</div>
+       <lb id="TII1790_8_19"/>
+        <div type="Language" lang="Latvian">Kad weens zilweks ohtram ko paẜleppen atņemm,</div>
+       <lb id="TII1790_8_20"/>
+        <div type="Language" lang="Latvian">jeb ar wiltu un Krahpẜchanu wiņņam</div>
+       <lb id="TII1790_8_21"/>
+        <div type="Language" lang="Latvian">ļaunu darra.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_8_22"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas aſtotais Bauẜlis?</div>
+       <lb id="TII1790_8_23"/>
+        <div type="Language" lang="Latvian">Tew ne buhs nepateeẜu Leezibu doht prett</div>
+       <lb id="TII1790_8_24"/>
+        <div type="Language" lang="Latvian">tawu Tuwaku.</div>
+      </div>
+      <pb n="9"/>
+      <div type="Paragraph">
+       <lb id="TII1790_9_1"/>
+        <div type="Language" lang="Latvian">Kas irr tas?</div>
+       <lb id="TII1790_9_2"/>
+        <div type="Language" lang="Latvian">Mums ne buhs ohtru Zilweku apmelloht,</div>
+       <lb id="TII1790_9_3"/>
+        <div type="Language" lang="Latvian">apgauſt, un Ļaunu bes Wainas no wiņņa</div>
+       <lb id="TII1790_9_4"/>
+        <div type="Language" lang="Latvian">runnaht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_9_5"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas dewitais Bauẜlis?</div>
+       <lb id="TII1790_9_6"/>
+        <div type="Language" lang="Latvian">Tew ne buhs eekahroht tawa Tuwaka Nammu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_9_7"/>
+        <div type="Language" lang="Latvian">Kas tohp zaur to Nammu ẜapraſts?</div>
+       <lb id="TII1790_9_8"/>
+        <div type="Language" lang="Latvian">Ne tahs Ehkas ween, bet wiẜẜas Leetas, kas</div>
+       <lb id="TII1790_9_9"/>
+        <div type="Language" lang="Latvian">wiņņam peederr.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_9_10"/>
+        <div type="Language" lang="Latvian">Kà ẜkann tas deẜmitais Bauẜlis?</div>
+       <lb id="TII1790_9_11"/>
+        <div type="Language" lang="Latvian">Tew ne buhs eekahroht tawu Tuwaku Ꞩeewu,</div>
+       <lb id="TII1790_9_12"/>
+        <div type="Language" lang="Latvian">Kalpu, Kalponi, Lohpu, jeb wiẜẜu, kas</div>
+       <lb id="TII1790_9_13"/>
+        <div type="Language" lang="Latvian">wiņņam peederr.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_9_14"/>
+        <div type="Language" lang="Latvian">Woi ta Eekahroẜchana arridſan Grehks irr?</div>
+       <lb id="TII1790_9_15"/>
+        <div type="Language" lang="Latvian">Ja! un tapehz Deews to aisleedſis irr.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_9_16"/>
+        <div type="Language" lang="Latvian">Kahda Tizziba irr tewim?</div>
+       <lb id="TII1790_9_17"/>
+        <div type="Language" lang="Latvian">Ta kriſtitu Ļauſchu Tizziba.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_9_18"/>
+        <div type="Language" lang="Latvian">Ko ta mahza?</div>
+       <lb id="TII1790_9_19"/>
+        <div type="Language" lang="Latvian">Ka mums buhs Deewu muhſu Kungu atſiht,</div>
+       <lb id="TII1790_9_20"/>
+        <div type="Language" lang="Latvian">un ka mums buhs taiẜni tizzeht, deewa=</div>
+       <lb id="TII1790_9_21"/>
+        <div type="Language" lang="Latvian">bihjigi dſihwoht un ẜwehtigi nomirt.</div>
+      </div>
+      <pb n="10"/>
+      <div type="Paragraph">
+       <lb id="TII1790_10_1"/>
+        <div type="Language" lang="Latvian">Kas irr Deews?</div>
+       <lb id="TII1790_10_2"/>
+        <div type="Language" lang="Latvian">Deews irr ta wiẜẜu augſtaka Buhẜchana</div>
+       <lb id="TII1790_10_3"/>
+        <div type="Language" lang="Latvian">pahr wiẜẜahm Leetahm, no ka wiẜs Labbums</div>
+       <lb id="TII1790_10_4"/>
+        <div type="Language" lang="Latvian">laizigi un muhſchigi pee mums ateet.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_10_5"/>
+        <div type="Language" lang="Latvian">Zik irr Deewi?</div>
+       <lb id="TII1790_10_6"/>
+        <div type="Language" lang="Latvian">Weens weenigs Deews eekẜch ẜawas Buhẜchanas,</div>
+       <lb id="TII1790_10_7"/>
+        <div type="Language" lang="Latvian">bet trihs irr Deewa Jhpaẜchibas;</div>
+       <lb id="TII1790_10_8"/>
+        <div type="Language" lang="Latvian">Deews Tehws, Deews Dehls, Deews ẜwehtais</div>
+       <lb id="TII1790_10_9"/>
+        <div type="Language" lang="Latvian">Gars!</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_10_10"/>
+        <div type="Language" lang="Latvian">Kas irr Deews tas Tehws?</div>
+       <lb id="TII1790_10_11"/>
+        <div type="Language" lang="Latvian">Deews tas Tehws irr muhẜu Radditais, kas</div>
+       <lb id="TII1790_10_12"/>
+        <div type="Language" lang="Latvian">irr raddijis Debbeẜu, Semmi, un wiẜẜas</div>
+       <lb id="TII1790_10_13"/>
+        <div type="Language" lang="Latvian">radditas Leetas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_10_14"/>
+        <div type="Language" lang="Latvian">No ka irr Deews tohs pirmus Zilwekus raddijs?</div>
+       <lb id="TII1790_10_15"/>
+        <div type="Language" lang="Latvian">No itt ne kahda Leeta.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_10_16"/>
+        <div type="Language" lang="Latvian">Kahdus Deews tohs pirmus Zilwekus raddijs?</div>
+       <lb id="TII1790_10_17"/>
+        <div type="Language" lang="Latvian">Taiẜnus un ẜwehtus pehz ẜawu ģihmi.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_10_18"/>
+        <div type="Language" lang="Latvian">Jrr tee tahdi palikkuẜchi?</div>
+       <lb id="TII1790_10_19"/>
+        <div type="Language" lang="Latvian">Newaid, bet tee irr Grehkôs eekrittuẜchi.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_10_20"/>
+        <div type="Language" lang="Latvian">Zaur kuŗŗa Wainu?</div>
+       <lb id="TII1790_10_21"/>
+        <div type="Language" lang="Latvian">Zaur Welna Wiltibu un zaur ẜawu paẜchu</div>
+       <lb id="TII1790_10_22"/>
+        <div type="Language" lang="Latvian">Wainu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_10_23"/>
+        <div type="Language" lang="Latvian">Kahdi tad wiẜẜi Zilweki irr?</div>
+       <lb id="TII1790_10_24"/>
+        <div type="Language" lang="Latvian">Tee wiẜẜi irr ļauni un grehzigi.</div>
+      </div>
+      <pb n="11"/>
+      <div type="Paragraph">
+       <lb id="TII1790_11_1"/>
+        <div type="Language" lang="Latvian">Kas irr tew no Grehkeem peſtijis?</div>
+       <lb id="TII1790_11_2"/>
+        <div type="Language" lang="Latvian">Deewa Dehls Jeſus Kriſtus, tas irr par</div>
+       <lb id="TII1790_11_3"/>
+        <div type="Language" lang="Latvian">manneem Grehkeem to ruhktu Nahwi zeetis,</div>
+       <lb id="TII1790_11_4"/>
+        <div type="Language" lang="Latvian">un ẜawas dahrgas Aẜẜinis islehjis pee Kruſta</div>
+       <lb id="TII1790_11_5"/>
+        <div type="Language" lang="Latvian">Kohka.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_11_6"/>
+        <div type="Language" lang="Latvian">Kahds irr taws Peſtitais?</div>
+       <lb id="TII1790_11_7"/>
+        <div type="Language" lang="Latvian">Wiņẜch irr pateeſigs Deews un Zilweks.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_11_8"/>
+        <div type="Language" lang="Latvian">Kapehz irr wiņẜch Zilweks?</div>
+       <lb id="TII1790_11_9"/>
+        <div type="Language" lang="Latvian">Ka wiņẜch preekẜch Zilweku Grehkeem zeeſtu</div>
+       <lb id="TII1790_11_10"/>
+        <div type="Language" lang="Latvian">un mirtu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_11_11"/>
+        <div type="Language" lang="Latvian">Kapehz irr wiņẜch Deews?</div>
+       <lb id="TII1790_11_12"/>
+        <div type="Language" lang="Latvian">Ka ta Peſtiẜchana pilniga un muhſchiga</div>
+       <lb id="TII1790_11_13"/>
+        <div type="Language" lang="Latvian">buhtu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_11_14"/>
+        <div type="Language" lang="Latvian">Kad dabbuẜim mehs wiņņu redſeht?</div>
+       <lb id="TII1790_11_15"/>
+        <div type="Language" lang="Latvian">Paſtarâ Deenâ, tad atees wiņẜch ẜohdiht</div>
+       <lb id="TII1790_11_16"/>
+        <div type="Language" lang="Latvian">dſihwus un mirruẜchus.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_11_17"/>
+        <div type="Language" lang="Latvian">Ko tad Kriſtus taws Peſtitais tew irr pelnijis?</div>
+       <lb id="TII1790_11_18"/>
+        <div type="Language" lang="Latvian">Deewa Schehlaſtibu, Grehku Peedohẜchanu,</div>
+       <lb id="TII1790_11_19"/>
+        <div type="Language" lang="Latvian">un to muhſchigu Dſihwoẜchanu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_11_20"/>
+        <div type="Language" lang="Latvian">Kas dohd tew to tizzeht?</div>
+       <lb id="TII1790_11_21"/>
+        <div type="Language" lang="Latvian">Deews tas ẜwehtais Gars.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_11_22"/>
+        <div type="Language" lang="Latvian">Kas irr tas ẜwehtais Gars?</div>
+       <lb id="TII1790_11_23"/>
+        <div type="Language" lang="Latvian">Tas ẜwehtais Gars irr muhẜu ẜwehtu=</div>
+       <lb id="TII1790_11_24"/>
+        <div type="Language" lang="Latvian">darritais un Eepreezinatais.</div>
+      </div>
+      <pb n="12"/>
+      <div type="Paragraph">
+       <lb id="TII1790_12_1"/>
+        <div type="Language" lang="Latvian">Zaur ko darra wiņẜch muhs ẜwehtus?</div>
+       <lb id="TII1790_12_2"/>
+        <div type="Language" lang="Latvian">Zaur Deewa Wahrdu, un teem ẜwehteem</div>
+       <lb id="TII1790_12_3"/>
+        <div type="Language" lang="Latvian">Eeſtahdijumeem</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_12_4"/>
+        <div type="Language" lang="Latvian">Kur wiņẜch to nodarr?</div>
+       <lb id="TII1790_12_5"/>
+        <div type="Language" lang="Latvian">Eekẜch tahs kriſtitas Draudſibas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_12_6"/>
+        <div type="Language" lang="Latvian">Kas irr ta kriſtita Draudẜiba?</div>
+       <lb id="TII1790_12_7"/>
+        <div type="Language" lang="Latvian">Ta irr tas Ļauſchu Pulks, kuŗŗu ſtarpâ</div>
+       <lb id="TII1790_12_8"/>
+        <div type="Language" lang="Latvian">Deewa Wahrds topp taiẜni mahzihts, un tee</div>
+       <lb id="TII1790_12_9"/>
+        <div type="Language" lang="Latvian">ẜwehti Eeſtahdijumi taiẜni tohp isdalliti.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_12_10"/>
+        <div type="Language" lang="Latvian">Kas tohp eekẜch tahs kriſtitas Draudſibas</div>
+       <lb id="TII1790_12_11"/>
+        <div type="Language" lang="Latvian">mahzihts?</div>
+       <lb id="TII1790_12_12"/>
+        <div type="Language" lang="Latvian">Ka mums zaur tahs Tizzibas us Kriſtus</div>
+       <lb id="TII1790_12_13"/>
+        <div type="Language" lang="Latvian">dahrgu Nopelnumu buhs taiẜneem un ẜwehteem</div>
+       <lb id="TII1790_12_14"/>
+        <div type="Language" lang="Latvian">kļuht, un ka mums no Nahwes buhs</div>
+       <lb id="TII1790_12_15"/>
+        <div type="Language" lang="Latvian">peezeltees, un to muhſchigu Dſihwoẜchanu</div>
+       <lb id="TII1790_12_16"/>
+        <div type="Language" lang="Latvian">dabbuht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_12_17"/>
+        <div type="Language" lang="Latvian">Kas mums to ẜwehtu Luhgẜchanu irr mahzijis?</div>
+       <lb id="TII1790_12_18"/>
+        <div type="Language" lang="Latvian">Jeſus Kriſtus muhẜu Peſtitais.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_12_19"/>
+        <div type="Language" lang="Latvian">Kà irr Deews muhẜu Tehws?</div>
+       <lb id="TII1790_12_20"/>
+        <div type="Language" lang="Latvian">No leelas Schehlaſtibas zaur Kriſtus Nopelnumu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_12_21"/>
+        <div type="Language" lang="Latvian">Kà tohpam mehs Deewa Behrni?</div>
+       <lb id="TII1790_12_22"/>
+        <div type="Language" lang="Latvian">Zaur to Tizzibu us Kriſtu muhẜu Peſtitaju.</div>
+      </div>
+      <pb n="13"/>
+      <div type="Paragraph">
+       <lb id="TII1790_13_1"/>
+        <div type="Language" lang="Latvian">Ko luhdſam mehs no Deewa?</div>
+       <lb id="TII1790_13_2"/>
+        <div type="Language" lang="Latvian">Laizigas, un garrigas Leetas un Dahwanas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_13_3"/>
+        <div type="Language" lang="Latvian">Woi tad mums tik ļohti waijag Deewu peeluhgt?</div>
+       <lb id="TII1790_13_4"/>
+        <div type="Language" lang="Latvian">Zinnams! jo Deews irr to mums zeeti</div>
+       <lb id="TII1790_13_5"/>
+        <div type="Language" lang="Latvian">peekohdinajis un muhẜu Waijadſiba muhs us</div>
+       <lb id="TII1790_13_6"/>
+        <div type="Language" lang="Latvian">to dſenn</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_13_7"/>
+        <div type="Language" lang="Latvian">Kà tad buhs mums Deewu peeluhgt?</div>
+       <lb id="TII1790_13_8"/>
+        <div type="Language" lang="Latvian">Ar Paſemmoẜchanas, ar ẜirdiga Apdohma,</div>
+       <lb id="TII1790_13_9"/>
+        <div type="Language" lang="Latvian">ar Tizzibas us Kriſtus Nopelnumu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_13_10"/>
+        <div type="Language" lang="Latvian">Kas irr ta ẜwehta Kriſtiba?</div>
+       <lb id="TII1790_13_11"/>
+        <div type="Language" lang="Latvian">Ta irr tas Deewa Eeſtahdijums tahs garrigas</div>
+       <lb id="TII1790_13_12"/>
+        <div type="Language" lang="Latvian">Atdſimẜchanas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_13_13"/>
+        <div type="Language" lang="Latvian">Zaur ko tohpam mehs garrigi atdſemdinati?</div>
+       <lb id="TII1790_13_14"/>
+        <div type="Language" lang="Latvian">Zaur Uhdeni tahs Kriſtibas, un zaur to</div>
+       <lb id="TII1790_13_15"/>
+        <div type="Language" lang="Latvian">ẜwehtu Garru.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_13_16"/>
+        <div type="Language" lang="Latvian">Par kahdeem tohpam mehs atdſemdinati?</div>
+       <lb id="TII1790_13_17"/>
+        <div type="Language" lang="Latvian">Par Deewa Behrneem.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_13_18"/>
+        <div type="Language" lang="Latvian">Warr tas Uhdens mums pee ta ko lihdſeht?</div>
+       <lb id="TII1790_13_19"/>
+        <div type="Language" lang="Latvian">Ne tas Uhdens ween, bet tas Deewa Wahrds,</div>
+       <lb id="TII1790_13_20"/>
+        <div type="Language" lang="Latvian">kas pee ta Uhdeni irr, un tas ẜwehtais Gars.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_13_21"/>
+        <div type="Language" lang="Latvian">Eẜẜi tu kriſtihts tappis?</div>
+       <lb id="TII1790_13_22"/>
+        <div type="Language" lang="Latvian">Ja, es eẜmu kriſtihts.</div>
+      </div>
+      <pb n="14"/>
+      <div type="Paragraph">
+       <lb id="TII1790_14_1"/>
+        <div type="Language" lang="Latvian">Kà tu to ſinni?</div>
+       <lb id="TII1790_14_2"/>
+        <div type="Language" lang="Latvian">No manna Wahrda.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_14_3"/>
+        <div type="Language" lang="Latvian">Ko eẜẜi tu eekẜch Kriſtibas Deewam ẜohlijis?</div>
+       <lb id="TII1790_14_4"/>
+        <div type="Language" lang="Latvian">Es eẜmu atẜazzijis tam Welnam, Welna</div>
+       <lb id="TII1790_14_5"/>
+        <div type="Language" lang="Latvian">Darbeem, un Welna Buhſchanai, un es eẜmu</div>
+       <lb id="TII1790_14_6"/>
+        <div type="Language" lang="Latvian">ẜohlijis ka es us Deewu gribbu tizzeht un</div>
+       <lb id="TII1790_14_7"/>
+        <div type="Language" lang="Latvian">Deewam ween kalpoht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_14_8"/>
+        <div type="Language" lang="Latvian">Kas irr Welna Darbi un Welna Buhẜchana?</div>
+       <lb id="TII1790_14_9"/>
+        <div type="Language" lang="Latvian">Wiẜẜi neganti Grehki, kas no Welna nahk,</div>
+       <lb id="TII1790_14_10"/>
+        <div type="Language" lang="Latvian">un prett Deewa, un Deewa Bauẜleem ſtahw.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_14_11"/>
+        <div type="Language" lang="Latvian">Eẜẜi tu ẜcho tawu Peeẜohliẜchanu turrejis?</div>
+       <lb id="TII1790_14_12"/>
+        <div type="Language" lang="Latvian">Ne ka, bet es eẜmu daudſ un daſchkahrt</div>
+       <lb id="TII1790_14_13"/>
+        <div type="Language" lang="Latvian">grehkojees un Ļaunu darrijs.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_14_14"/>
+        <div type="Language" lang="Latvian">Kas irr Grehks?</div>
+       <lb id="TII1790_14_15"/>
+        <div type="Language" lang="Latvian">Wiẜs tas Ļaunums, kas prett Deewa un</div>
+       <lb id="TII1790_14_16"/>
+        <div type="Language" lang="Latvian">Deewa Bauẜleem ſtahw.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_14_17"/>
+        <div type="Language" lang="Latvian">Kur eẜẜi tu tohs Grehkus eeņehmis?</div>
+       <lb id="TII1790_14_18"/>
+        <div type="Language" lang="Latvian">Zitti man irr peedſimti, zittus es pats ar</div>
+       <lb id="TII1790_14_19"/>
+        <div type="Language" lang="Latvian">Dohmahm, ar Wahrdeem un Darbeem eẜmu</div>
+       <lb id="TII1790_14_20"/>
+        <div type="Language" lang="Latvian">darrijis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_14_21"/>
+        <div type="Language" lang="Latvian">Kas peedohd Grehkus?</div>
+       <lb id="TII1790_14_22"/>
+        <div type="Language" lang="Latvian">Deews Debbeẜîs zaur ẜaweem Kalpeem teem</div>
+       <lb id="TII1790_14_23"/>
+        <div type="Language" lang="Latvian">Mahzitajeem.</div>
+      </div>
+      <pb n="15"/>
+      <div type="Paragraph">
+       <lb id="TII1790_15_1"/>
+        <div type="Language" lang="Latvian">Kas wiņņeem to Ꞩpehku un Warru irr dewis?</div>
+       <lb id="TII1790_15_2"/>
+        <div type="Language" lang="Latvian">Jeſus Kriſtus tas Waldineeks par to kriſtitu</div>
+       <lb id="TII1790_15_3"/>
+        <div type="Language" lang="Latvian">Draudſibu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_4"/>
+        <div type="Language" lang="Latvian">Kahdeem tohp tee Grehki peedohti?</div>
+       <lb id="TII1790_15_5"/>
+        <div type="Language" lang="Latvian">Teem, kas no Grehkeem atgreeſchahs un us</div>
+       <lb id="TII1790_15_6"/>
+        <div type="Language" lang="Latvian">Kriſtum tizz</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_7"/>
+        <div type="Language" lang="Latvian">Kà atgreeſchahs tas Zilweks no Grehkeem?</div>
+       <lb id="TII1790_15_8"/>
+        <div type="Language" lang="Latvian">Kad wiņẜch ẜawus Grehkus atſihſt, noſchehlo,</div>
+       <lb id="TII1790_15_9"/>
+        <div type="Language" lang="Latvian">Deewam noluhdſ, un no teem atraujahs.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_10"/>
+        <div type="Language" lang="Latvian">Kà tizz wiņẜch us Kriſtum?</div>
+       <lb id="TII1790_15_11"/>
+        <div type="Language" lang="Latvian">Kad wiņẜch Kriſtus Dahrgu Nopelnumu ẜewi</div>
+       <lb id="TII1790_15_12"/>
+        <div type="Language" lang="Latvian">peelihdſina, un us to palaiſchahs.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_13"/>
+        <div type="Language" lang="Latvian">Kas irr to ẜwehtu Wakkar=Ehdeenu eeſtahdijis?</div>
+       <lb id="TII1790_15_14"/>
+        <div type="Language" lang="Latvian">Muhẜu Kungs Jeſus Kriſtus.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_15"/>
+        <div type="Language" lang="Latvian">Kad wiņẜch to irr eeſtahdijis?</div>
+       <lb id="TII1790_15_16"/>
+        <div type="Language" lang="Latvian">Tannî Naktî, kad wiņẜch tappa pee ẜawas</div>
+       <lb id="TII1790_15_17"/>
+        <div type="Language" lang="Latvian">Zeeẜchanas pahrdohts.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_18"/>
+        <div type="Language" lang="Latvian">Ko wiņẜch tur dohd?</div>
+       <lb id="TII1790_15_19"/>
+        <div type="Language" lang="Latvian">Duidas Leetas: redſamas un neredſamas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_20"/>
+        <div type="Language" lang="Latvian">Kas irr tahs redſamas Leetas?</div>
+       <lb id="TII1790_15_21"/>
+        <div type="Language" lang="Latvian">Maiſe un Wihns.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_15_22"/>
+        <div type="Language" lang="Latvian">Kas irr tahs neredſamas Leetas?</div>
+       <lb id="TII1790_15_23"/>
+        <div type="Language" lang="Latvian">Ta Kunga Kriſtus Meeẜa un Aẜẜins.</div>
+      </div>
+      <pb n="16"/>
+      <div type="Paragraph">
+       <lb id="TII1790_16_1"/>
+        <div type="Language" lang="Latvian">Kà warr tas buht?</div>
+       <lb id="TII1790_16_2"/>
+        <div type="Language" lang="Latvian">To mehs ne warram ẜapraſt, bet mums</div>
+       <lb id="TII1790_16_3"/>
+        <div type="Language" lang="Latvian">tas ar Tizzibas irr ja peeņemm.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_16_4"/>
+        <div type="Language" lang="Latvian">Kapehz buhs mums to tizzeht?</div>
+       <lb id="TII1790_16_5"/>
+        <div type="Language" lang="Latvian">Tapehz, ka Kriſtus tas Deewa Dehls, kas</div>
+       <lb id="TII1790_16_6"/>
+        <div type="Language" lang="Latvian">taiẜns un ustizzams irr, mums irr peeẜohlijis</div>
+       <lb id="TII1790_16_7"/>
+        <div type="Language" lang="Latvian">ar Maiſi mums doht ẜawas Meeẜas, un ar</div>
+       <lb id="TII1790_16_8"/>
+        <div type="Language" lang="Latvian">Wihnu ẜawas Aẜẜinis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_16_9"/>
+        <div type="Language" lang="Latvian">Ko ehdi un dſeŗŗi tu pee Deewa Galda?</div>
+       <lb id="TII1790_16_10"/>
+        <div type="Language" lang="Latvian">Es ehdu ar to Maiſi Kriſtus Meeẜas, un</div>
+       <lb id="TII1790_16_11"/>
+        <div type="Language" lang="Latvian">dſeŗŗu ar to Wihnu Kriſtus Aẜẜinis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_16_12"/>
+        <div type="Language" lang="Latvian">Kahdas Meeẜas, kahdas Aẜẜinis?</div>
+       <lb id="TII1790_16_13"/>
+        <div type="Language" lang="Latvian">Tahs paẜchas Meeẜas, kas preekẜch mannim</div>
+       <lb id="TII1790_16_14"/>
+        <div type="Language" lang="Latvian">irr pee Kruſta ẜiſtas, un nokautas; tohs paẜchus</div>
+       <lb id="TII1790_16_15"/>
+        <div type="Language" lang="Latvian">Aẜẜinis, kas no wiņņa Wahtim irr istezzinati.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_16_16"/>
+        <div type="Language" lang="Latvian">Par ko tu to ehdi un dſeŗŗi ?</div>
+       <lb id="TII1790_16_17"/>
+        <div type="Language" lang="Latvian">Par Eeſtipprinaẜchanu mannas Tizzibas,</div>
+       <lb id="TII1790_16_18"/>
+        <div type="Language" lang="Latvian">un par Pameẜchanu mannu Grehku</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_16_19"/>
+        <div type="Language" lang="Latvian">Par ko tu tad nu turri to ẜwehtu Wakkar=</div>
+       <lb id="TII1790_16_20"/>
+        <div type="Language" lang="Latvian">Ehdeenu?</div>
+       <lb id="TII1790_16_21"/>
+        <div type="Language" lang="Latvian">Par weenu Deewigu, ẜwehtu un augſtu</div>
+       <lb id="TII1790_16_22"/>
+        <div type="Language" lang="Latvian">Leetu.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="TII1790_16_23"/>
+        <div type="Language" lang="Latvian">Kà gribbi tu tad tur klaht eet?</div>
+       <lb id="TII1790_16_24"/>
+        <div type="Language" lang="Latvian">Ar Paſemmoẜchanas, ar Deewa Peeluhgẜchanas,</div>
+       <lb id="TII1790_16_25"/>
+        <div type="Language" lang="Latvian">un ar Pateikẜchanas.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

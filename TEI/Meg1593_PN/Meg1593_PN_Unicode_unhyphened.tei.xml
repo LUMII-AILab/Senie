@@ -1,0 +1,56 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Meg1593_PN">
+     <sourceDesc>
+      <author>Hieronīms Megisers</author>
+      <title>[Megisera tēvreize]</title>
+      <date>1593</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; tēvreizes</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="--"/>
+      <div type="Paragraph">
+       <lb id="Meg1593_PN_--_1"/>
+        <div type="Language" lang="Latvian">XXXIII.</div>
+       <div type="Language" lang="Latin">LIVONICE.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Meg1593_PN_--_2"/>
+        <div type="Language" lang="Latvian">Mus tabes, kas tu es eckſchan</div>
+       <lb id="Meg1593_PN_--_3"/>
+        <div type="Language" lang="Latvian">debbeſsis: ſchvvetitz</div>
+       <lb id="Meg1593_PN_--_4"/>
+        <div type="Language" lang="Latvian">tous vvaartz: enack</div>
+       <lb id="Meg1593_PN_--_5"/>
+        <div type="Language" lang="Latvian">mums tovvs vvalﬅibe:</div>
+       <lb id="Meg1593_PN_--_6"/>
+        <div type="Language" lang="Latvian">tovvs praatz bus ka ekakschkan</div>
+       <lb id="Meg1593_PN_--_7"/>
+        <div type="Language" lang="Latvian">debbes ta vvrſan</div>
+       <lb id="Meg1593_PN_--_8"/>
+        <div type="Language" lang="Latvian">ſemmes: muſſe deniſche</div>
+       <lb id="Meg1593_PN_--_9"/>
+        <div type="Language" lang="Latvian">maiſe duth mums</div>
+       <lb id="Meg1593_PN_--_10"/>
+        <div type="Language" lang="Latvian">ſchodeẽ: pammate mũs</div>
+       <lb id="Meg1593_PN_--_11"/>
+        <div type="Language" lang="Latvian">muſſe grake, ka meſs pãmart</div>
+       <lb id="Meg1593_PN_--_12"/>
+        <div type="Language" lang="Latvian">muſſe parradvekẽ:</div>
+       <lb id="Meg1593_PN_--_13"/>
+        <div type="Language" lang="Latvian">ne euuedde mũs <corr>louna</corr><sic>jouna</sic></div>
+       <lb id="Meg1593_PN_--_14"/>
+        <div type="Language" lang="Latvian">badeckle pett: paſſarga</div>
+       <lb id="Meg1593_PN_--_15"/>
+        <div type="Language" lang="Latvian">mums nu vvuſſe <corr>loune</corr><sic>ioune</sic>.</div>
+       <lb id="Meg1593_PN_--_16"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

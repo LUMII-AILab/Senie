@@ -1,0 +1,2334 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="VLH1685_Cat">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>Der kleine Catechismus, 1685</title>
+      <date>1685</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; katehisms</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_1_1"/>
+       <div type="Language" lang="German">Der kleine</div>
+       <lb id="VLH1685_Cat_1_2"/>
+       <div type="Language" lang="German">Catechiſmus/</div>
+       <lb id="VLH1685_Cat_1_3"/>
+       <div type="Language" lang="German">D. MARTINI LUTHERI,</div>
+       <lb id="VLH1685_Cat_1_4"/>
+       <div type="Language" lang="German">Seliger Gedächtniß/</div>
+       <lb id="VLH1685_Cat_1_5"/>
+       <div type="Language" lang="German">Wie er vormahls/ durch den Seel:</div>
+       <lb id="VLH1685_Cat_1_6"/>
+       <div type="Language" lang="German">Hrn:</div>
+       <div type="Language" lang="Latin">GEORGIUM MANCELIUM</div>
+       <lb id="VLH1685_Cat_1_7"/>
+       <div type="Language" lang="Latin">S. S. Theol: Licent:</div>
+       <div type="Language" lang="German">Weyland</div>
+       <lb id="VLH1685_Cat_1_8"/>
+       <div type="Language" lang="German">Fürſtl: Curl: Hof=Predigern/</div>
+       <lb id="VLH1685_Cat_1_9"/>
+       <div type="Language" lang="German">Jn Lettiſcher Sprache außgegeben/</div>
+       <lb id="VLH1685_Cat_1_10"/>
+       <div type="Language" lang="German">Nunmehr aber mit Fleiß durchgeſehen/ und von den</div>
+       <lb id="VLH1685_Cat_1_11"/>
+       <div type="Language" lang="German">mercklichſten Fehlern geſaubert worden.</div>
+       <lb id="VLH1685_Cat_1_12"/>
+       <div type="Language" lang="German">Von</div>
+       <lb id="VLH1685_Cat_1_13"/>
+       <div type="Language" lang="Latin">HENRICO ADOLPHI,</div>
+       <lb id="VLH1685_Cat_1_14"/>
+       <div type="Language" lang="German">Der Hertzogthümer Curland und Semgallen</div>
+       <div type="Language" lang="Latin">Superinten-</div>
+       <lb id="VLH1685_Cat_1_15"/>
+       <div type="Language" lang="Latin">dente</div>
+       <div type="Language" lang="German">und Ober=Paſtorn in Mitau.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_1_16"/>
+       <div type="Language" lang="German">MITAU/</div>
+       <lb id="VLH1685_Cat_1_17"/>
+       <div type="Language" lang="German">Gedruckt/ von Sr: HochFürſtl: Durchl: Hof=Buchdrncker</div>
+       <lb id="VLH1685_Cat_1_18"/>
+       <div type="Language" lang="German">George Radetzky/ 1685.</div>
+      </div>
+      <pb n="3"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_3_1"/>
+        <div type="Language" lang="Latvian">Swehtas Mahzibas Gabbali/ kas pee</div>
+       <lb id="VLH1685_Cat_3_2"/>
+        <div type="Language" lang="Latvian">Deewa Atſihẜchanas in Kriſtito Ļauſchu pateeẜas Tizzibas</div>
+       <lb id="VLH1685_Cat_3_3"/>
+        <div type="Language" lang="Latvian">ikweenam waijaga.</div>
+       <lb id="VLH1685_Cat_3_4"/>
+        <div type="Language" lang="Latvian">I.</div>
+       <lb id="VLH1685_Cat_3_5"/>
+        <div type="Language" lang="Latvian">Tee deẜmits Deewa Bauẜchļi.</div>
+       <lb id="VLH1685_Cat_3_6"/>
+        <div type="Language" lang="Latvian">Tas pirmajs Bauẜchlis.</div>
+       <lb id="VLH1685_Cat_3_7"/>
+        <div type="Language" lang="Latvian">ES eẜmu tas Kungs taws Deews/ tew ne buhs Zittus Deewus</div>
+       <lb id="VLH1685_Cat_3_8"/>
+        <div type="Language" lang="Latvian">turreht preekẜch mann.</div>
+       <lb id="VLH1685_Cat_3_9"/>
+        <div type="Language" lang="Latvian">Tas Ohtrajs.</div>
+       <lb id="VLH1685_Cat_3_10"/>
+        <div type="Language" lang="Latvian">Tew ne buhs Deewa tawa Kunga Wahrdu nepateeẜi (welti)</div>
+       <lb id="VLH1685_Cat_3_11"/>
+        <div type="Language" lang="Latvian">walkaht.</div>
+       <lb id="VLH1685_Cat_3_12"/>
+        <div type="Language" lang="Latvian">Tas treẜchajs.</div>
+       <lb id="VLH1685_Cat_3_13"/>
+        <div type="Language" lang="Latvian">Tew buhs to Ꞩwehtu Deenu ẜwehtiht.</div>
+       <lb id="VLH1685_Cat_3_14"/>
+        <div type="Language" lang="Latvian">Tas Zettortajs.</div>
+       <lb id="VLH1685_Cat_3_15"/>
+        <div type="Language" lang="Latvian">Tew buhs tawu Tehwu in tawu Mahti Zeeniht in Gohdâ turreht/</div>
+       <lb id="VLH1685_Cat_3_16"/>
+        <div type="Language" lang="Latvian">ka tew labbi Klahjahs/ in tu ilgi dſihwo wirẜ Semmes.</div>
+       <lb id="VLH1685_Cat_3_17"/>
+        <div type="Language" lang="Latvian">Tas Peektajs.</div>
+       <lb id="VLH1685_Cat_3_18"/>
+        <div type="Language" lang="Latvian">Tew ne buhs nokaut.</div>
+       <lb id="VLH1685_Cat_3_19"/>
+        <div type="Language" lang="Latvian">Tas ẜeſtajs.</div>
+       <lb id="VLH1685_Cat_3_20"/>
+        <div type="Language" lang="Latvian">Tew ne buhs Laulibu pahrkahpt.</div>
+       <lb id="VLH1685_Cat_3_21"/>
+        <div type="Language" lang="Latvian">Tas ẜeptitajs.</div>
+       <lb id="VLH1685_Cat_3_22"/>
+        <div type="Language" lang="Latvian">Tew ne buhs ſagt.</div>
+       <lb id="VLH1685_Cat_3_23"/>
+        <div type="Language" lang="Latvian">Tas aſtotajs.</div>
+       <lb id="VLH1685_Cat_3_24"/>
+        <div type="Language" lang="Latvian">Tew ne buhs nepateeẜu Leezibu doht prettib tawu Tuwaku.</div>
+       <lb id="VLH1685_Cat_3_25"/>
+        <div type="Language" lang="Latvian">Tas dewitajs.</div>
+       <lb id="VLH1685_Cat_3_26"/>
+        <div type="Language" lang="Latvian">Tew ne buhs eekahroht tawa Tuwaka Nammu.</div>
+       <lb id="VLH1685_Cat_3_27"/>
+        <div type="Language" lang="Latvian">Tas deẜmitajs.</div>
+       <lb id="VLH1685_Cat_3_28"/>
+        <div type="Language" lang="Latvian">Tew ne buhs eekahroht tawa Tuwaka Ꞩeewu/ Kalpu/ Kalponi/</div>
+       <lb id="VLH1685_Cat_3_29"/>
+        <div type="Language" lang="Latvian">Lohpu/ jeb wiẜẜu/ kas tam peedarr.</div>
+       <lb id="VLH1685_Cat_3_30"/>
+        <div type="Language" lang="Latvian">Ko ẜakka Deews no wiẜẜeem ẜcheem Bauẜchleem? Atbildi:</div>
+       <lb id="VLH1685_Cat_3_31"/>
+        <div type="Language" lang="Latvian">Wiņſch ẜakka tà: Es tas Kungs taws Deews/ eẜmu ſtiprs in</div>
+       <lb id="VLH1685_Cat_3_32"/>
+        <div type="Language" lang="Latvian">duẜmigs Deews/ kas pahr teem/ kas manni eenihd/ tohs Tehwu</div>
+       <lb id="VLH1685_Cat_3_33"/>
+       <div type="Sheet">A ij</div>
+      </div>
+      <pb n="4"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_4_1"/>
+        <div type="Language" lang="Latvian">Grehkus mekleju pee teem Behrneem lihdſ treẜchu in Zettortu</div>
+       <lb id="VLH1685_Cat_4_2"/>
+        <div type="Language" lang="Latvian">Augumu: Bett teem/ kas manni mihle in mannus Bauẜchļus</div>
+       <lb id="VLH1685_Cat_4_3"/>
+        <div type="Language" lang="Latvian">turr/ teem darru es labbu eekẜch tuhkſtoẜcheem Augumeem.</div>
+       <lb id="VLH1685_Cat_4_4"/>
+        <div type="Language" lang="Latvian">Ko mahzees tu no teem deẜmits Deewa Bauẜchļeem? Atbildi:</div>
+       <lb id="VLH1685_Cat_4_5"/>
+        <div type="Language" lang="Latvian">Es mahzohs no teem/ mannus Grehkus atſiht/ in ka es tohs deẜmits</div>
+       <lb id="VLH1685_Cat_4_6"/>
+        <div type="Language" lang="Latvian">Deewa Bauẜchļus ne ſpehju turreht/ kà Deews man pawehlejs</div>
+       <lb id="VLH1685_Cat_4_7"/>
+        <div type="Language" lang="Latvian">irr.</div>
+       <lb id="VLH1685_Cat_4_8"/>
+        <div type="Language" lang="Latvian">II.</div>
+       <lb id="VLH1685_Cat_4_9"/>
+        <div type="Language" lang="Latvian">Ta ẜwehta Tizziba.</div>
+       <lb id="VLH1685_Cat_4_10"/>
+        <div type="Language" lang="Latvian">ES tizzu eekẜch Deewu to Tehwu/ Wiẜẜuwalditaju Radditaju</div>
+       <lb id="VLH1685_Cat_4_11"/>
+        <div type="Language" lang="Latvian">Debbes in Semmes.</div>
+       <lb id="VLH1685_Cat_4_12"/>
+        <div type="Language" lang="Latvian">Es tizzu eekẜch Jeſu Kriſtu/ wiņņa weenigu peedſimtu Dehlu</div>
+       <lb id="VLH1685_Cat_4_13"/>
+        <div type="Language" lang="Latvian">muhẜu Kungu/ kas eejemts irr no Ꞩwehta Garra/ peedſimmis</div>
+       <lb id="VLH1685_Cat_4_14"/>
+        <div type="Language" lang="Latvian">no tahs Jumprawas Mahrias/ zeetis appakẜch Panzia Pilata/</div>
+       <lb id="VLH1685_Cat_4_15"/>
+        <div type="Language" lang="Latvian">Kruſtâ ẜiſts/ nomirris/ aprakts/ ſemmê kahpis eekẜch Elles/</div>
+       <lb id="VLH1685_Cat_4_16"/>
+        <div type="Language" lang="Latvian">treẜchâ Deenâ atkal iszehlees no Miŗŗoneem/ uhskahpis Debbeẜîs/</div>
+       <lb id="VLH1685_Cat_4_17"/>
+        <div type="Language" lang="Latvian">ẜehdees pee labbas Rohkas Deewa ta wiẜẜu=walditaja Tehwa/</div>
+       <lb id="VLH1685_Cat_4_18"/>
+        <div type="Language" lang="Latvian">no turrenes wiņſch at=ees/ ẜohdiht tohs dſihwus in mirruẜchus.</div>
+       <lb id="VLH1685_Cat_4_19"/>
+        <div type="Language" lang="Latvian">Es tizzu eekẜch Ꞩwehtu Garru/ weenu Ꞩwehtu Kriſtitu Baſnizu/</div>
+       <lb id="VLH1685_Cat_4_20"/>
+        <div type="Language" lang="Latvian">weenu Draudſibu to Ꞩwehto/ Pameẜchanu to Grehku/ Uhszelẜchanu</div>
+       <lb id="VLH1685_Cat_4_21"/>
+        <div type="Language" lang="Latvian">tahs Meeẜas/ in weenu muhſchigu Dſihwoẜchanu/ Amen.</div>
+       <lb id="VLH1685_Cat_4_22"/>
+        <div type="Language" lang="Latvian">Ko mahzees tu no tahs Ꞩwehtas Tizzibas? Atbildi?</div>
+       <lb id="VLH1685_Cat_4_23"/>
+        <div type="Language" lang="Latvian">Es mahzohs no tahs/ ka Deews manni raddijs irr/ in Jeſus</div>
+       <lb id="VLH1685_Cat_4_24"/>
+        <div type="Language" lang="Latvian">Kriſtus irr manni peſtijs/ in ka manni Grehki zaur to ween pameſti</div>
+       <lb id="VLH1685_Cat_4_25"/>
+        <div type="Language" lang="Latvian">tohp/ in tas Ꞩwehtajs Gars irr mans Ꞩwehtitajs in Eepreezinatajs.</div>
+       <lb id="VLH1685_Cat_4_26"/>
+        <div type="Language" lang="Latvian">III.</div>
+       <lb id="VLH1685_Cat_4_27"/>
+        <div type="Language" lang="Latvian">Ta ẜwehta Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_4_28"/>
+        <div type="Language" lang="Latvian">MUhẜu <corr>Tehws</corr><sic>Tewhs</sic> Debbeẜîs/ ẜwehtihts tohp taws Wahrds/ laid</div>
+      </div>
+      <pb n="5"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_5_1"/>
+        <div type="Language" lang="Latvian">nahk pee mums tawa Walſtiba/ Taws Prahts laid noteek kà</div>
+       <lb id="VLH1685_Cat_5_2"/>
+        <div type="Language" lang="Latvian">Debbeẜîs/ tà arridſan wirs Semmes/ Muhẜu deeniẜchķu Maiſi</div>
+       <lb id="VLH1685_Cat_5_3"/>
+        <div type="Language" lang="Latvian">dohd mums <corr>ẜchodeen</corr><sic>ẜchodeem</sic>/ in pamett mums muhẜus Paradus/ kà</div>
+       <lb id="VLH1685_Cat_5_4"/>
+        <div type="Language" lang="Latvian">mehs pamettam ẜaweem Paradneekeem/ in ne eewed muhs eekẜch</div>
+       <lb id="VLH1685_Cat_5_5"/>
+        <div type="Language" lang="Latvian">Kahrdinaẜchanas/ Bet atpeſti muhs no wiẜẜa Ļauna/ Jo tew peedarr</div>
+       <lb id="VLH1685_Cat_5_6"/>
+        <div type="Language" lang="Latvian">ta Walſtiba/ tas <corr>Spehks</corr><sic>Spehs</sic>/ in tas Gohds/ muhſchigi muhſcham/</div>
+       <lb id="VLH1685_Cat_5_7"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+       <lb id="VLH1685_Cat_5_8"/>
+        <div type="Language" lang="Latvian">Ko mahzees tu no tahs Ꞩwehtas Luhgẜchanas? Atbildi:</div>
+       <lb id="VLH1685_Cat_5_9"/>
+        <div type="Language" lang="Latvian">Es mahzohs no tahs Deewu teeẜcham peeẜaukt/ par Garrigahm</div>
+       <lb id="VLH1685_Cat_5_10"/>
+        <div type="Language" lang="Latvian">in Laizigahm Leetahm/ in ka wiņẜch muhs gribbetu ar ẜawa ẜwehtu</div>
+       <lb id="VLH1685_Cat_5_11"/>
+        <div type="Language" lang="Latvian">Garra waldiht in glabbaht/ muhẜus Grehkus peedoht/ par Kahrdinaẜchanas</div>
+       <lb id="VLH1685_Cat_5_12"/>
+        <div type="Language" lang="Latvian">paẜargaht/ in no wiẜẜa Ļauna peſtiht.</div>
+       <lb id="VLH1685_Cat_5_13"/>
+        <div type="Language" lang="Latvian">IV.</div>
+       <lb id="VLH1685_Cat_5_14"/>
+        <div type="Language" lang="Latvian">No tahs ẜwehtas Kriſtibas.</div>
+       <lb id="VLH1685_Cat_5_15"/>
+        <div type="Language" lang="Latvian">MUhẜu Kungs Jeſus Kriſtus ẜazzija us ẜaweem <corr>Mahzekļeem</corr><sic>Mahzeķleem</sic>:</div>
+       <lb id="VLH1685_Cat_5_16"/>
+        <div type="Language" lang="Latvian">Eita zaur wiẜẜu Paẜaul/ mahzajt wiẜẜus Ļaudis/ in kriſtijaht</div>
+       <lb id="VLH1685_Cat_5_17"/>
+        <div type="Language" lang="Latvian">tohs eekẜch ta Wahrda Deewa ta Tehwa/ Deewa ta Dehla/ in</div>
+       <lb id="VLH1685_Cat_5_18"/>
+        <div type="Language" lang="Latvian">Deewa ta Zeeniga Ꞩwehta Garra: Kas tiz in tohp kriſtihts/ tas</div>
+       <lb id="VLH1685_Cat_5_19"/>
+        <div type="Language" lang="Latvian">taps ẜwehts/ Bet kas ne tiz/ tas taps paſuddis.</div>
+       <lb id="VLH1685_Cat_5_20"/>
+        <div type="Language" lang="Latvian">Ko mahzees tu no tahs Ꞩwehtas Kriſtibas? Atbildi:</div>
+       <lb id="VLH1685_Cat_5_21"/>
+        <div type="Language" lang="Latvian">Es mahzohs no tahs/ ka Deews man grib ſchehligs buht/ in</div>
+       <lb id="VLH1685_Cat_5_22"/>
+        <div type="Language" lang="Latvian">tik teeẜcham/ kà es kriſtihts eẜmu/ tik teeẜcham grib Deews mannim</div>
+       <lb id="VLH1685_Cat_5_23"/>
+        <div type="Language" lang="Latvian">mannus Grehkus peedoht/ in manni par ẜawu Behrnu tahs</div>
+       <lb id="VLH1685_Cat_5_24"/>
+        <div type="Language" lang="Latvian">muhſchigas Dſihwoẜchanas uhsjemt/ taiẜnu in ẜwehtu darriht.</div>
+       <lb id="VLH1685_Cat_5_25"/>
+        <div type="Language" lang="Latvian">V.</div>
+       <lb id="VLH1685_Cat_5_26"/>
+        <div type="Language" lang="Latvian">No tahm Atſlegahm tahs Debbes/ Jeb/ No tahs Grehkupeedohẜchanas.</div>
+       <lb id="VLH1685_Cat_5_27"/>
+        <div type="Language" lang="Latvian">JEſus Ꞩazzija us ẜaweem Mahzekļeem: Meers irr ar jums:</div>
+       <lb id="VLH1685_Cat_5_28"/>
+        <div type="Language" lang="Latvian">Lihdſ kà manni Tehws ẜuhtijs irr/ tà ẜuhtu es juhs. In to ẜazzijs/</div>
+       <lb id="VLH1685_Cat_5_29"/>
+        <div type="Language" lang="Latvian">puhte wiņſch us teem/ in ẜazzija: Jemmeet to Ꞩwehtu</div>
+       <lb id="VLH1685_Cat_5_30"/>
+        <div type="Language" lang="Latvian">Garru/ kam juhs tohs Grehkus peedohẜeet/ tam buhs tee peedohti;</div>
+       <lb id="VLH1685_Cat_5_31"/>
+        <div type="Language" lang="Latvian">In kam juhs tohs Grehkus paturreẜeet/ tam buhs tee paturrehti.</div>
+       <lb id="VLH1685_Cat_5_32"/>
+       <div type="Sheet">A iij</div>
+      </div>
+      <pb n="6"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_6_1"/>
+        <div type="Language" lang="Latvian">Ko mahzees tu no teem Wahrdeem no tahs Grehku</div>
+       <lb id="VLH1685_Cat_6_2"/>
+        <div type="Language" lang="Latvian">peedohẜchanas? Atbildi:</div>
+       <lb id="VLH1685_Cat_6_3"/>
+        <div type="Language" lang="Latvian">Es mahzohs no teem/ ka Kriſtus irr teem Baſnizas Tehweem</div>
+       <lb id="VLH1685_Cat_6_4"/>
+        <div type="Language" lang="Latvian">tahdu Spehku in Warru dewis/ teem nabbageem tizzigeem Grehzineekeem</div>
+       <lb id="VLH1685_Cat_6_5"/>
+        <div type="Language" lang="Latvian">tohs Grehkus peedoht/ in teem Netizzigeem ne peedoht;</div>
+       <lb id="VLH1685_Cat_6_6"/>
+        <div type="Language" lang="Latvian">In ko tee peedohd eekẜch ta Wahrda Jeſus/ to peedohd arridſan</div>
+       <lb id="VLH1685_Cat_6_7"/>
+        <div type="Language" lang="Latvian">Deews Debbeẜîs:</div>
+       <lb id="VLH1685_Cat_6_8"/>
+        <div type="Language" lang="Latvian">VI.</div>
+       <lb id="VLH1685_Cat_6_9"/>
+        <div type="Language" lang="Latvian">No tahs Eeſtahdiẜchanas tahs zeenigas in dahrgas Meeẜas in Aẜẜinu</div>
+       <lb id="VLH1685_Cat_6_10"/>
+        <div type="Language" lang="Latvian">muhẜa Kunga in Peſtitaja Jeſus Kriſtus.</div>
+       <lb id="VLH1685_Cat_6_11"/>
+        <div type="Language" lang="Latvian">MUhẜu Kungs Jeſus Kriſtus tannî Naktî/ kad tas nodohts</div>
+       <lb id="VLH1685_Cat_6_12"/>
+        <div type="Language" lang="Latvian">(ẜajemts) tappa/ jehme tas to Maiſi/ pateize in pahrlauſe/ in</div>
+       <lb id="VLH1685_Cat_6_13"/>
+        <div type="Language" lang="Latvian">dewe to ẜaweem Mahzekļeem/ in ẜazzija: Jemmeet in ehdeet/ tas</div>
+       <lb id="VLH1685_Cat_6_14"/>
+        <div type="Language" lang="Latvian">irr manna Meeẜa/ kas par jums tohp dohta/ to darrajt mannis peeminnedami.</div>
+       <lb id="VLH1685_Cat_6_15"/>
+        <div type="Language" lang="Latvian">Tà lihdſ arridſan jehme wiņſch to Biķķeri/ pehz to Wakkarehdeenu/</div>
+       <lb id="VLH1685_Cat_6_16"/>
+        <div type="Language" lang="Latvian">pateize in dewe teem to/ in ẜazzija: Jemmeet in dſerreet</div>
+       <lb id="VLH1685_Cat_6_17"/>
+        <div type="Language" lang="Latvian">wiẜẜi no ta/ ẜchis Biķķeris irr ta jauna Eeſtahdiẜchana eekẜch</div>
+       <lb id="VLH1685_Cat_6_18"/>
+        <div type="Language" lang="Latvian">mannahm Aẜẜinihm/ kas par jums in par daudſeem tohp isleetas/</div>
+       <lb id="VLH1685_Cat_6_19"/>
+        <div type="Language" lang="Latvian">par Pameẜchanu to Grehku/ to darrajt/ zeekkahrt juhs to</div>
+       <lb id="VLH1685_Cat_6_20"/>
+        <div type="Language" lang="Latvian">dſerreet/ mannis peeminnedami.</div>
+       <lb id="VLH1685_Cat_6_21"/>
+        <div type="Language" lang="Latvian">Ko mahzees tu no teem Wahrdeem no ta Ꞩwehta Wakkarehdeena</div>
+       <lb id="VLH1685_Cat_6_22"/>
+        <div type="Language" lang="Latvian">muhẜa Kunga Jeſus Kriſtus? Atbildi:</div>
+       <lb id="VLH1685_Cat_6_23"/>
+        <div type="Language" lang="Latvian">Es mahzohs no teem/ ka mans Kungs Jeſus Kriſtus ẜawu</div>
+       <lb id="VLH1685_Cat_6_24"/>
+        <div type="Language" lang="Latvian">dahrgu Meeſu in Aẜẜinu/ man par labba eeſtahdijs irr; In ka man</div>
+       <lb id="VLH1685_Cat_6_25"/>
+        <div type="Language" lang="Latvian">ſtipri tizzeht buhs/ ka Deews mannim in wiẜẜeem Tizzigeem tahs</div>
+       <lb id="VLH1685_Cat_6_26"/>
+        <div type="Language" lang="Latvian">Deewigas in Debbeẜigas Baggatibas tahs muhſchigas Dſihwoẜchanas</div>
+       <lb id="VLH1685_Cat_6_27"/>
+        <div type="Language" lang="Latvian">dahwanaht in doht grib/ kas man par labba nopelnitas irr/</div>
+       <lb id="VLH1685_Cat_6_28"/>
+        <div type="Language" lang="Latvian">zaur Jeſu Kriſtu mannu Kungu in Peſtitaju.</div>
+       <lb id="VLH1685_Cat_6_29"/>
+        <div type="Language" lang="Latvian">Ta Grehku Ꞩuhdſeẜchana.</div>
+       <lb id="VLH1685_Cat_6_30"/>
+        <div type="Language" lang="Latvian">ZEenigs in mihļajs Baſnizas Kungs/ es luhſohs no Deewa puẜẜes/</div>
+      </div>
+      <pb n="7"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_7_1"/>
+        <div type="Language" lang="Latvian">tu gribbi mannu Grehku=Ꞩuhdſeẜchanu klauẜiht/ in man to</div>
+       <lb id="VLH1685_Cat_7_2"/>
+        <div type="Language" lang="Latvian">Grehku=Pameẜchanu ẜluddinaht.</div>
+       <lb id="VLH1685_Cat_7_3"/>
+        <div type="Language" lang="Latvian">Mihļajs Baſnizas Kungs; Es eẜmu Deewam ẜuhdſejs mannus</div>
+       <lb id="VLH1685_Cat_7_4"/>
+        <div type="Language" lang="Latvian">Grehkus/ in ẜuhdſu tew arridſan Deewa Weetâ/ ka es nabbags</div>
+       <lb id="VLH1685_Cat_7_5"/>
+        <div type="Language" lang="Latvian">Zilweks Deewu mannu Kungu ļohti warren apkaitinajs eẜmu ar</div>
+       <lb id="VLH1685_Cat_7_6"/>
+        <div type="Language" lang="Latvian">manneem leeleem in gruhteem Grehkeem/ mannu Deewu in Kungu</div>
+       <lb id="VLH1685_Cat_7_7"/>
+        <div type="Language" lang="Latvian">no Ꞩirds=Dibbina ne peeluhdſis/ Deewa Wahrdu daſchukahrt</div>
+       <lb id="VLH1685_Cat_7_8"/>
+        <div type="Language" lang="Latvian">welti walkajs/ Baſnizâ ne gahjis/ Deewa Wahrdu ne labpraht</div>
+       <lb id="VLH1685_Cat_7_9"/>
+        <div type="Language" lang="Latvian">dſirdejs; Mannu Tehwu in Mahti/ mannu Kungu in Gaſpaſchu</div>
+       <lb id="VLH1685_Cat_7_10"/>
+        <div type="Language" lang="Latvian">(Ꞩaimneeku in Ꞩaimneezi) ne klauẜijs/ ar ẜawa Tuwaka Zilweka</div>
+       <lb id="VLH1685_Cat_7_11"/>
+        <div type="Language" lang="Latvian">daſchukahrt bahrees/ eekẜch Eenaidibas in Duẜmibas dſihwojs:</div>
+       <lb id="VLH1685_Cat_7_12"/>
+        <div type="Language" lang="Latvian">Es eẜmu arridſan nekaunigs bijis/ eekẜch Wahrdeem in Darbeem/</div>
+       <lb id="VLH1685_Cat_7_13"/>
+        <div type="Language" lang="Latvian">eekẜch leekas Ehẜchanas in Dſerẜchanas dſihwojs/ in tà prett</div>
+       <lb id="VLH1685_Cat_7_14"/>
+        <div type="Language" lang="Latvian">wiẜẜeem Deewa Bauẜchleem grehkojs/ Tas irr man ļohti ſchehl.</div>
+       <lb id="VLH1685_Cat_7_15"/>
+        <div type="Language" lang="Latvian">Tapehz es luhdſohs no Deewa puẜẜes/ mihļajs Baſnizas Kungs/</div>
+       <lb id="VLH1685_Cat_7_16"/>
+        <div type="Language" lang="Latvian">tu gribbi mannus Grehkus zaur Kriſtu peedoht/ in mannu bailigu</div>
+       <lb id="VLH1685_Cat_7_17"/>
+        <div type="Language" lang="Latvian">Ꞩirdi ar Deewa Wahrdeem eepreezinaht; Es ẜohliju Deewam in</div>
+       <lb id="VLH1685_Cat_7_18"/>
+        <div type="Language" lang="Latvian">tew/ Es ne gribbu wairs tihẜchi grehkoht.</div>
+       <lb id="VLH1685_Cat_7_19"/>
+        <div type="Language" lang="Latvian">Ohtrada Grehkuẜuhdſeẜchana.</div>
+       <lb id="VLH1685_Cat_7_20"/>
+        <div type="Language" lang="Latvian">Zeenigs mihļajs Baſnizas Kungs/ Es nabbags Zilweks/ pee</div>
+       <lb id="VLH1685_Cat_7_21"/>
+        <div type="Language" lang="Latvian">Meeẜas in Dwehẜeles zaur Ahdama Krittumu ẜamaitahts/ atſihſtu/</div>
+       <lb id="VLH1685_Cat_7_22"/>
+        <div type="Language" lang="Latvian">ka es ne ween eekẜch Grehkeem eẜmu eejemts in peedſimmis/</div>
+       <lb id="VLH1685_Cat_7_23"/>
+        <div type="Language" lang="Latvian">bet arridſan pehz/ dabbujs to Ꞩwehtu Kriſtibu/ augdams/ tihẜchi</div>
+       <lb id="VLH1685_Cat_7_24"/>
+        <div type="Language" lang="Latvian">in netihẜchi/ ar ļaunahm Dohmahm/ ar ļauneem Wahrdeem in</div>
+       <lb id="VLH1685_Cat_7_25"/>
+        <div type="Language" lang="Latvian">Darbeem/ daudſ in daſchadi prettib Deewu grehkojs/ Deewu</div>
+       <lb id="VLH1685_Cat_7_26"/>
+        <div type="Language" lang="Latvian">mannu Kungu no Ꞩirds dibbina ne mihlejs/ neds mannu Tuwaku</div>
+       <lb id="VLH1685_Cat_7_27"/>
+        <div type="Language" lang="Latvian">kà ẜewi paẜchu/ in tà muhſchigu Ꞩohdibu in Nahwi nopelnijs.</div>
+       <lb id="VLH1685_Cat_7_28"/>
+        <div type="Language" lang="Latvian">Tahdi manni Grehki irr man no Ꞩirds ļohti ſchehl. Bet es ſinnu</div>
+       <lb id="VLH1685_Cat_7_29"/>
+        <div type="Language" lang="Latvian">in tizzu/ ka mans Kungs Jeſus Kriſtus zaur ẜawu ruhktu</div>
+       <lb id="VLH1685_Cat_7_30"/>
+        <div type="Language" lang="Latvian">Nahwi in Mohkahm irr manni no wiẜẜeem manneem Grehkeem</div>
+       <lb id="VLH1685_Cat_7_31"/>
+        <div type="Language" lang="Latvian">atpeſtijs. Ak Deews/ Eẜẜi man nabbagam Grehzineekam ſchehligs</div>
+       <lb id="VLH1685_Cat_7_32"/>
+        <div type="Language" lang="Latvian">zaur Kriſtu! Tapepz es tewi luhdſohs/ mihļajs Baẜnizas</div>
+      </div>
+      <pb n="8"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_8_1"/>
+        <div type="Language" lang="Latvian">Kungs/ tu gribbetu mannus Grehkus Deewa Weetâ peedoht/ in</div>
+       <lb id="VLH1685_Cat_8_2"/>
+        <div type="Language" lang="Latvian">mannu isbaiditu Ꞩirdi eepreezinaht; Es ẜohliju Deewam in tew/</div>
+       <lb id="VLH1685_Cat_8_3"/>
+        <div type="Language" lang="Latvian">ka es zaur Klahtſtahweẜchanu ta zeeniga Ꞩwehta Garra/ wairs</div>
+       <lb id="VLH1685_Cat_8_4"/>
+        <div type="Language" lang="Latvian">ne gribbu tihẜchi grehkoht.</div>
+       <lb id="VLH1685_Cat_8_5"/>
+        <div type="Language" lang="Latvian">Ta patta pee zittas Draudſibas maģķeniht zittada.</div>
+       <lb id="VLH1685_Cat_8_6"/>
+        <div type="Language" lang="Latvian">Mihļajs Baſnizas Kungs/ Es nabbags Grehzineeks atſihſtu/</div>
+       <lb id="VLH1685_Cat_8_7"/>
+        <div type="Language" lang="Latvian">ka es ne ween eekẜch Grehkeem eejemts in peedſimmis eẜmu/ Bet</div>
+       <lb id="VLH1685_Cat_8_8"/>
+        <div type="Language" lang="Latvian">pehz arridſan dabbujs to Ꞩwehtu Kriſtibu/ augdams/ tihẜchi in</div>
+       <lb id="VLH1685_Cat_8_9"/>
+        <div type="Language" lang="Latvian">netihẜchi/ ar ļaunahm Dohmaẜchanahm/ ar ļaunahm Eegribbeẜchanahm/</div>
+       <lb id="VLH1685_Cat_8_10"/>
+        <div type="Language" lang="Latvian">ar ļauneem Wahrdeem in Darbeem daudẜ/ in daſchadi</div>
+       <lb id="VLH1685_Cat_8_11"/>
+        <div type="Language" lang="Latvian">grehkojs eẜmu; Deewu mannu Kungu es ne eẜmu mihļojs no</div>
+       <lb id="VLH1685_Cat_8_12"/>
+        <div type="Language" lang="Latvian">wiẜẜas Ꞩirds/ no wiẜẜas Dwehẜeles/ in no wiẜẜa manna Prahta/</div>
+       <lb id="VLH1685_Cat_8_13"/>
+        <div type="Language" lang="Latvian">neds mannu Tuwaku kà ẜew paẜchu; Bet es ar to daſchukahrt</div>
+       <lb id="VLH1685_Cat_8_14"/>
+        <div type="Language" lang="Latvian">bahrees/ eekẜch Eenaidibas in Duẜmibas dſihwojs: Tà arridſan</div>
+       <lb id="VLH1685_Cat_8_15"/>
+        <div type="Language" lang="Latvian">prettib wiẜẜeem Deewa Bauẜchļeem grehkojs/ Tas irr man ļohti</div>
+       <lb id="VLH1685_Cat_8_16"/>
+        <div type="Language" lang="Latvian">ſchehl. Bet es ſinnu in tizzu/ ka mans Kungs Jeſus Kriſtus zaur</div>
+       <lb id="VLH1685_Cat_8_17"/>
+        <div type="Language" lang="Latvian">ẜawu ruhktu Nahwi in Mohkahm manni no wiẜẜeem manneem</div>
+       <lb id="VLH1685_Cat_8_18"/>
+        <div type="Language" lang="Latvian">Grehkeem irr atpeſtijs: Ak Deews/ eẜẜi man nabbagam Grehzineekam</div>
+       <lb id="VLH1685_Cat_8_19"/>
+        <div type="Language" lang="Latvian">ſchehligs Zaur Kriſtu. Tahdu Grehkupameẜchanu/ Mihļajs</div>
+       <lb id="VLH1685_Cat_8_20"/>
+        <div type="Language" lang="Latvian">Baſnizas Kungs/ gribbi tu man ſluddinaht/ mannu bailigu</div>
+       <lb id="VLH1685_Cat_8_21"/>
+        <div type="Language" lang="Latvian">Ꞩirdi ar Deewa Wahrdeem eepreezinaht; Es ẜohliju Deewam</div>
+       <lb id="VLH1685_Cat_8_22"/>
+        <div type="Language" lang="Latvian">in tew/ ka es Zaur Deewa Paligu wairs tihẜchi grehkoht ne</div>
+       <lb id="VLH1685_Cat_8_23"/>
+        <div type="Language" lang="Latvian">gribbu.</div>
+       <lb id="VLH1685_Cat_8_24"/>
+        <div type="Language" lang="Latvian">Ta patta Zittur wehl ẜawada.</div>
+       <lb id="VLH1685_Cat_8_25"/>
+        <div type="Language" lang="Latvian">Zeenigs in mihļajs Baſnizas Kungs/ Es eẜmu Deewam ẜuhdſejs</div>
+       <lb id="VLH1685_Cat_8_26"/>
+        <div type="Language" lang="Latvian">ẜawus Grehkus/ in ẜuhdſu tew arridſan Deewa Weetâ/ ka es</div>
+       <lb id="VLH1685_Cat_8_27"/>
+        <div type="Language" lang="Latvian">nabbags Zilweks eekẜch Grehkeem eẜmu eejemts in peedſimmis/</div>
+       <lb id="VLH1685_Cat_8_28"/>
+        <div type="Language" lang="Latvian">ar ļaunahm Dohmaẜchanahm/ ar ļaunahm Eegribbeẜchanahm/</div>
+       <lb id="VLH1685_Cat_8_29"/>
+        <div type="Language" lang="Latvian">ar ļauneem Wahrdeem in Darbeem/ tihẜchi in netihẜchi/ ſinnadams</div>
+       <lb id="VLH1685_Cat_8_30"/>
+        <div type="Language" lang="Latvian">in neſinnadams/ prett wiẜẜeem deẜmits Deewa Bauẜchļeem</div>
+       <lb id="VLH1685_Cat_8_31"/>
+        <div type="Language" lang="Latvian">pretti darrijs eẜmu/ Tahdi manni Grehki irr man wiẜẜaẜchķi</div>
+       <lb id="VLH1685_Cat_8_32"/>
+        <div type="Language" lang="Latvian">ļohti ſchehl. Bet es ſinnu in tizzu/ ka mans Kungs Jeſus Kriſtus</div>
+      </div>
+      <pb n="9"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_9_1"/>
+        <div type="Language" lang="Latvian">zaur ẜawahm ruhktahm Mohkahm manni no wiẜẜeem manneem</div>
+       <lb id="VLH1685_Cat_9_2"/>
+        <div type="Language" lang="Latvian">Grehkeem irraid atpeſtijs. Ak Kungs/ Eẜẜi man nabbagam Grehzineekam</div>
+       <lb id="VLH1685_Cat_9_3"/>
+        <div type="Language" lang="Latvian">ſchehligs zaur Jeſu Kriſtu. Tahdu <corr>Grehkupameẜchanu</corr><sic>Grehkupameẜchvnu</sic>/</div>
+       <lb id="VLH1685_Cat_9_4"/>
+        <div type="Language" lang="Latvian">Mihļajs Baſnizas Kungs/ gribbi tu man ẜluddinaht/ mannu isbaiditu</div>
+       <lb id="VLH1685_Cat_9_5"/>
+        <div type="Language" lang="Latvian">Ꞩirdi ar Deewa Wahrda eepreezinaht; Es ẜohlijohs</div>
+       <lb id="VLH1685_Cat_9_6"/>
+        <div type="Language" lang="Latvian">Deewam in tew/ Es ne gribbu wairs tihẜchi grehkoht/ Deews palihdſi</div>
+       <lb id="VLH1685_Cat_9_7"/>
+        <div type="Language" lang="Latvian">man/ Amen.</div>
+       <lb id="VLH1685_Cat_9_8"/>
+        <div type="Language" lang="Latvian">Tahs Diwideẜmits Jautaẜchanas in Atbildeẜchanas/ kas teem</div>
+       <lb id="VLH1685_Cat_9_9"/>
+        <div type="Language" lang="Latvian">jamazahs/ kas zeenigi grib pee Deewa Galdu eet.</div>
+       <lb id="VLH1685_Cat_9_10"/>
+        <div type="Language" lang="Latvian">1. Tizzi tu/ ka tu weens Grehzineeks eẜẜi? Atbildi;</div>
+       <lb id="VLH1685_Cat_9_11"/>
+        <div type="Language" lang="Latvian">Ja/ es tizzu to/ es eẜmu weens Grehzineeks.</div>
+       <lb id="VLH1685_Cat_9_12"/>
+        <div type="Language" lang="Latvian">2. Kà ſinni tu to? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_13"/>
+        <div type="Language" lang="Latvian">No teem deẜmits Deewa Bauẜchleem/ tohs ne eẜmu es turrejs.</div>
+       <lb id="VLH1685_Cat_9_14"/>
+        <div type="Language" lang="Latvian">3. Irr tew tawi Grehki arridſan ſchehl? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_15"/>
+        <div type="Language" lang="Latvian">Tas irr mannim ſchehl/ ka es prettib Deewu grehkojs eẜmu.</div>
+       <lb id="VLH1685_Cat_9_16"/>
+        <div type="Language" lang="Latvian">4. Ko eẜẜi tu ar taweem Grehkeem pelnijs? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_17"/>
+        <div type="Language" lang="Latvian">Neneeka labba/ ka <corr>Deewa</corr><sic>Deeewa</sic> Duẜmibu in Eenaidibu/ laizigu</div>
+       <lb id="VLH1685_Cat_9_18"/>
+        <div type="Language" lang="Latvian">Nahwi/ in muhſchigu Paſuẜchanu.</div>
+       <lb id="VLH1685_Cat_9_19"/>
+        <div type="Language" lang="Latvian">5. Tizzi tu Grehkupeedoẜchanu? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_20"/>
+        <div type="Language" lang="Latvian">Es tizzu to no wiẜẜas Ꞩirds.</div>
+       <lb id="VLH1685_Cat_9_21"/>
+        <div type="Language" lang="Latvian">6. Kà top tawi Grehki pameſti? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_22"/>
+        <div type="Language" lang="Latvian">Zaur Jeſu Kriſtu.</div>
+       <lb id="VLH1685_Cat_9_23"/>
+        <div type="Language" lang="Latvian">7. Kas ir Kriſtus? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_24"/>
+        <div type="Language" lang="Latvian">Deewa Dehls/ pateẜs Deews in Zilweks.</div>
+       <lb id="VLH1685_Cat_9_25"/>
+        <div type="Language" lang="Latvian">8. Zeek irr Deewi? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_26"/>
+        <div type="Language" lang="Latvian">Weens weenigs Deews eekẜch ẜawas Buhẜchanas/ bet trihs Deewigas</div>
+       <lb id="VLH1685_Cat_9_27"/>
+        <div type="Language" lang="Latvian">Ihpaẜchibas/ Deews Tehws/ Deews Dehls/ Deews Ꞩwehtajs</div>
+       <lb id="VLH1685_Cat_9_28"/>
+        <div type="Language" lang="Latvian">Gars.</div>
+       <lb id="VLH1685_Cat_9_29"/>
+        <div type="Language" lang="Latvian">9. Kas irr Deews tas Tehws? Atbildi:</div>
+       <lb id="VLH1685_Cat_9_30"/>
+        <div type="Language" lang="Latvian">Deews Tehws irr muhẜu Radditajs/ kas irr raddijs Debbes</div>
+       <lb id="VLH1685_Cat_9_31"/>
+        <div type="Language" lang="Latvian">in Semm/ in wiẜẜas radditas Leetas.</div>
+       <lb id="VLH1685_Cat_9_32"/>
+       <div type="Sheet">B</div>
+      </div>
+      <pb n="10"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_10_1"/>
+        <div type="Language" lang="Latvian">Kas irr Deewa Dehls? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_2"/>
+        <div type="Language" lang="Latvian">Deewa Dehls irr muhẜu Peſtitajs/ kas muhs no Grehkeem peſtijs</div>
+       <lb id="VLH1685_Cat_10_3"/>
+        <div type="Language" lang="Latvian">irr.</div>
+       <lb id="VLH1685_Cat_10_4"/>
+        <div type="Language" lang="Latvian">Kas irr tas Ꞩwehtajs Gars? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_5"/>
+        <div type="Language" lang="Latvian">Tas Ꞩwehtajs Gars irr muhẜu Ꞩwehtitajs in Eepreezetajs.</div>
+       <lb id="VLH1685_Cat_10_6"/>
+        <div type="Language" lang="Latvian">10. Irr tad trihs Radditaji/ Peſtitaji in Ꞩwehtitaji? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_7"/>
+        <div type="Language" lang="Latvian">Newaida: Bet weens wenigajs Deews/ tas Radditajs/ Peſtitajs/</div>
+       <lb id="VLH1685_Cat_10_8"/>
+        <div type="Language" lang="Latvian">in Ꞩwehtitajs.</div>
+       <lb id="VLH1685_Cat_10_9"/>
+        <div type="Language" lang="Latvian">11. Kas irr tewi no Grehkeem peſtijs? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_10"/>
+        <div type="Language" lang="Latvian">Deewa Dehls Jeſus Kriſtus/ tas irr par manneem Grehkeem</div>
+       <lb id="VLH1685_Cat_10_11"/>
+        <div type="Language" lang="Latvian">to ruhktu Nahwi Zeetis/ in ẜawas dahrgas Aẜẜinis islehjis (istezzinajs)</div>
+       <lb id="VLH1685_Cat_10_12"/>
+        <div type="Language" lang="Latvian">pee Kruſta Kohka.</div>
+       <lb id="VLH1685_Cat_10_13"/>
+        <div type="Language" lang="Latvian">12. Ko buhs weenam Zilwekam darriht/ kad tam Ꞩirds no</div>
+       <lb id="VLH1685_Cat_10_14"/>
+        <div type="Language" lang="Latvian">Grehkeem gruhta irr? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_15"/>
+        <div type="Language" lang="Latvian">Tam buhs pee ẜawu Baſnizas Kungu eet/ in luhgtees Grehkupameẜchanu</div>
+       <lb id="VLH1685_Cat_10_16"/>
+        <div type="Language" lang="Latvian">Zaur Kriſtu/ in pee Deewa Galdu eet.</div>
+       <lb id="VLH1685_Cat_10_17"/>
+        <div type="Language" lang="Latvian">13. Kà buhs tad teem dſihwoht/ kas pee Deewa Galdu eet? Atbildi?</div>
+       <lb id="VLH1685_Cat_10_18"/>
+        <div type="Language" lang="Latvian">Teem buhs dſihwoht eekẜch Deewabihjaẜchanas in Deewa Peeluhgẜchanas/</div>
+       <lb id="VLH1685_Cat_10_19"/>
+        <div type="Language" lang="Latvian">in eekẜch Ehẜchanas in Dſerẜchanas gadigi turretees.</div>
+       <lb id="VLH1685_Cat_10_20"/>
+        <div type="Language" lang="Latvian">14. Gribbi tu labpraht pee Deewa Galdu eet/ Jeb/ Kas ſpeeſch tewi</div>
+       <lb id="VLH1685_Cat_10_21"/>
+        <div type="Language" lang="Latvian">tur klaht? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_22"/>
+        <div type="Language" lang="Latvian">Manni Grehki in Deewa Pawehleẜchana.</div>
+       <lb id="VLH1685_Cat_10_23"/>
+        <div type="Language" lang="Latvian">15. Ko ehdi in dſerri tu pee Deewa Galda? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_24"/>
+        <div type="Language" lang="Latvian">Es ehmu in dſeŗŗu tur to pateeẜu in dahrgu Meeẜu in Aẜẜinu</div>
+       <lb id="VLH1685_Cat_10_25"/>
+        <div type="Language" lang="Latvian">Jeſus Kriſtus/ par Eeſtiprinaẜchanu mannas wahjas Tizzibas/ in</div>
+       <lb id="VLH1685_Cat_10_26"/>
+        <div type="Language" lang="Latvian">par Pameẜchanu mannu Grehku.</div>
+       <lb id="VLH1685_Cat_10_27"/>
+        <div type="Language" lang="Latvian">16. <corr>Kahdi</corr><sic>Ķahdi</sic> Zilweki eet zeenegi pee Deewa Galdu? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_28"/>
+        <div type="Language" lang="Latvian">Tee/ kam ta Tizziba irr us Kriſtu Jeſu/ ka tas par teem ẜawu</div>
+       <lb id="VLH1685_Cat_10_29"/>
+        <div type="Language" lang="Latvian">dahrgu Aẜẜinu islehjis/ (istezzinajs/) nomirris in augẜcham zehlees</div>
+       <lb id="VLH1685_Cat_10_30"/>
+        <div type="Language" lang="Latvian">irr.</div>
+       <lb id="VLH1685_Cat_10_31"/>
+        <div type="Language" lang="Latvian">17. Kahdi Zilweki eet nezeenigi pee Deewa Galdu? Atbildi:</div>
+       <lb id="VLH1685_Cat_10_32"/>
+        <div type="Language" lang="Latvian">Tee/ kas us Kriſtu Jeſu ne tiz/ in paleek eekẜch ẜaweem rupjeem</div>
+       <lb id="VLH1685_Cat_10_33"/>
+        <div type="Language" lang="Latvian">Grehkeem.</div>
+      </div>
+      <pb n="11"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_11_1"/>
+        <div type="Language" lang="Latvian">18. Kà buhs tad Zilwekam ẜewi turretees/ kad tas pee Deewa</div>
+       <lb id="VLH1685_Cat_11_2"/>
+        <div type="Language" lang="Latvian">Galda bijis irr? Atbildi:</div>
+       <lb id="VLH1685_Cat_11_3"/>
+        <div type="Language" lang="Latvian">Tam buhs ẜew gohdigi in gadigi turretees/ in eekẜch Deewabihjaẜchanas</div>
+       <lb id="VLH1685_Cat_11_4"/>
+        <div type="Language" lang="Latvian">dſihwoht/ in allaſchiņ Deewu peeluhgt in peeẜaukt/ in</div>
+       <lb id="VLH1685_Cat_11_5"/>
+        <div type="Language" lang="Latvian">ẜawu Ꞩirdi in Dwehẜeli tihẜchi ar Grehkeem ne apgahniht.</div>
+       <lb id="VLH1685_Cat_11_6"/>
+        <div type="Language" lang="Latvian">19. Kà buhs weenam Zilwekam Deewu peeluhkt/ kad tas pee Deewa</div>
+       <lb id="VLH1685_Cat_11_7"/>
+        <div type="Language" lang="Latvian">Galda grib eet? Atbildi:</div>
+       <lb id="VLH1685_Cat_11_8"/>
+        <div type="Language" lang="Latvian">Ak wiẜẜuwaldigs Deews in Debbes Tehws/ Es luhdſohs tewi/</div>
+       <lb id="VLH1685_Cat_11_9"/>
+        <div type="Language" lang="Latvian">tu gribbi man tawu Ꞩwehtu Garru doht/ ka es zaur weenu gohdigu</div>
+       <lb id="VLH1685_Cat_11_10"/>
+        <div type="Language" lang="Latvian">in labbu ẜwehtigu Dſihwoẜchanu/ ẜcho dahrgu Meeẜu in</div>
+       <lb id="VLH1685_Cat_11_11"/>
+        <div type="Language" lang="Latvian">Aẜẜini tawa mihļa Dehla/ manna Kunga in Peſtitaja Jeſus Kriſtus</div>
+       <lb id="VLH1685_Cat_11_12"/>
+        <div type="Language" lang="Latvian">zeenigi warru ehſt in dſert/ in ka manna Tizziba warr eeſtiprinata</div>
+       <lb id="VLH1685_Cat_11_13"/>
+        <div type="Language" lang="Latvian">tapt/ in ka es eekẜch Mihleſtibas in Zerribas/ in ihſtas Tizzibas</div>
+       <lb id="VLH1685_Cat_11_14"/>
+        <div type="Language" lang="Latvian">pee=augt/ in lihdſ paẜcham Gallam ſtipri paſtahweht warru/</div>
+       <lb id="VLH1685_Cat_11_15"/>
+        <div type="Language" lang="Latvian">tew par Gohdu in Ꞩlawi/ in pateeẜu Paklauẜiẜchanu/ zaur to</div>
+       <lb id="VLH1685_Cat_11_16"/>
+        <div type="Language" lang="Latvian">paẜchu tawu mihļu Dehlu/ mannu Kungu Jeſu Kriſtu/ Amen.</div>
+       <lb id="VLH1685_Cat_11_17"/>
+        <div type="Language" lang="Latvian">20. Kà buhs weenam Zilwekam pehz to/ kad tas pee Deewa Galda</div>
+       <lb id="VLH1685_Cat_11_18"/>
+        <div type="Language" lang="Latvian">bijis irr/ Deewam pateikt? Atbildi:</div>
+       <lb id="VLH1685_Cat_11_19"/>
+        <div type="Language" lang="Latvian">Ak Kungs Jeſus Kriſtus/ Es pateizu tew/ ka tu man zaur tawu</div>
+       <lb id="VLH1685_Cat_11_20"/>
+        <div type="Language" lang="Latvian">ruhktu Nahwi in Mohkahm no leelahm Behdahm in Deewa</div>
+       <lb id="VLH1685_Cat_11_21"/>
+        <div type="Language" lang="Latvian">Duẜmibas peſtijs eẜẜi/ in ka es tawu ẜwehtu Mohzibu allaẜchiņ</div>
+       <lb id="VLH1685_Cat_11_22"/>
+        <div type="Language" lang="Latvian">warru peeminneht in ar tahs eelihgẜmotees; Dohd man tawu</div>
+       <lb id="VLH1685_Cat_11_23"/>
+        <div type="Language" lang="Latvian">ẜwehtu Garru ka es to paẜchu tawu dahrgu Meeẜu in Aẜẜinu tà</div>
+       <lb id="VLH1685_Cat_11_24"/>
+        <div type="Language" lang="Latvian">warru walkotees/ ehſt in dſert/ ka es allaſchiņ tawu leelu Mihleſtibu</div>
+       <lb id="VLH1685_Cat_11_25"/>
+        <div type="Language" lang="Latvian">eekẜch mannim augligi apdohmaht warru/ in pehz tawu</div>
+       <lb id="VLH1685_Cat_11_26"/>
+        <div type="Language" lang="Latvian">Prahtu darriht/ kas tu dſihwo in waldi ar Deewa ta Tehwa in ta</div>
+       <lb id="VLH1685_Cat_11_27"/>
+        <div type="Language" lang="Latvian">Ꞩwehta Garra eekẜch weenas Deewigas Buhẜchanas muhſchigi</div>
+       <lb id="VLH1685_Cat_11_28"/>
+        <div type="Language" lang="Latvian">muhſcham/ Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_11_29"/>
+        <div type="Language" lang="Latvian">Tee deẜmits Deewa Bauẜli <corr>isſtahſtiti</corr><sic>isſtahtiti</sic>.</div>
+       <lb id="VLH1685_Cat_11_30"/>
+        <div type="Language" lang="Latvian">Tas pirmajs Bauẜlis.</div>
+       <lb id="VLH1685_Cat_11_31"/>
+        <div type="Language" lang="Latvian">Es eẜmu tas Kungs taws Deews/ Tew ne buhs zittus ẜweẜchus</div>
+       <lb id="VLH1685_Cat_11_32"/>
+        <div type="Language" lang="Latvian">Deewus turreht preekẜch mannim.</div>
+       <lb id="VLH1685_Cat_11_33"/>
+       <div type="Sheet">B ij</div>
+      </div>
+      <pb n="12"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_12_1"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_12_2"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu pahr wiẜẜahm Leetahm bihtees/ mihleht/ in</div>
+       <lb id="VLH1685_Cat_12_3"/>
+        <div type="Language" lang="Latvian">us to zerreht. (tam ẜewi paļautees.)</div>
+       <lb id="VLH1685_Cat_12_4"/>
+        <div type="Language" lang="Latvian">Tas ohtrajs:</div>
+       <lb id="VLH1685_Cat_12_5"/>
+        <div type="Language" lang="Latvian">Tew ne buhs Deewa tawa Kunga Wahrdu nepateeẜi/ (welti)</div>
+       <lb id="VLH1685_Cat_12_6"/>
+        <div type="Language" lang="Latvian">walkaht.</div>
+       <lb id="VLH1685_Cat_12_7"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi.</div>
+       <lb id="VLH1685_Cat_12_8"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs us wiņņa</div>
+       <lb id="VLH1685_Cat_12_9"/>
+        <div type="Language" lang="Latvian">Wahrdu ne lahdam/ neds (ar Swehreſteem) nepateeẜi Deewu minnam/</div>
+       <lb id="VLH1685_Cat_12_10"/>
+        <div type="Language" lang="Latvian">nei buŗŗam (in Burweķļus nepeeturram/) nei mellojam/ jeb peewiļļam/</div>
+       <lb id="VLH1685_Cat_12_11"/>
+        <div type="Language" lang="Latvian">Bet to wiẜẜâs Behdâs peeẜauzam/ luhdſam/ teizam in</div>
+       <lb id="VLH1685_Cat_12_12"/>
+        <div type="Language" lang="Latvian">ẜlawejam.    Tas treẜchajs.</div>
+       <lb id="VLH1685_Cat_12_13"/>
+        <div type="Language" lang="Latvian">Tew buhs to Ꞩwehtu Deenu ẜwehtiht.</div>
+       <lb id="VLH1685_Cat_12_14"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_12_15"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs wiņņa Wahrdu</div>
+       <lb id="VLH1685_Cat_12_16"/>
+        <div type="Language" lang="Latvian">in Mahzibu ne pulgajam (ne ẜmahdam/) bet to ẜwehti (in Gohdâ)</div>
+       <lb id="VLH1685_Cat_12_17"/>
+        <div type="Language" lang="Latvian">turram/ labpraht klauẜam in mahzamees.</div>
+       <lb id="VLH1685_Cat_12_18"/>
+        <div type="Language" lang="Latvian">Tas Zettortajs.</div>
+       <lb id="VLH1685_Cat_12_19"/>
+        <div type="Language" lang="Latvian">Tew buhs tawu Tehwu in tawu Mahti zeeniht (in Gohdâ turreht/)</div>
+       <lb id="VLH1685_Cat_12_20"/>
+        <div type="Language" lang="Latvian">ka tew labbi klahjahs/ in tu ilgi dſihwo wirẜ Semmes.</div>
+       <lb id="VLH1685_Cat_12_21"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_12_22"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs ẜawus Wezzakus/</div>
+       <lb id="VLH1685_Cat_12_23"/>
+        <div type="Language" lang="Latvian">(Tehwu in Mahti/) in Kungus ne nizzinajam/ neds apkaitinajam/</div>
+       <lb id="VLH1685_Cat_12_24"/>
+        <div type="Language" lang="Latvian">Bet tohs gohdajam/ teem Kalpojam/ paklauẜam/ tohs mihlejam</div>
+       <lb id="VLH1685_Cat_12_25"/>
+        <div type="Language" lang="Latvian">in zeenijam.</div>
+       <lb id="VLH1685_Cat_12_26"/>
+        <div type="Language" lang="Latvian">Tas peektajs.</div>
+       <lb id="VLH1685_Cat_12_27"/>
+        <div type="Language" lang="Latvian">Tew ne buhs nokaut.</div>
+       <lb id="VLH1685_Cat_12_28"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_12_29"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs ẜawam Tuwakam</div>
+       <lb id="VLH1685_Cat_12_30"/>
+        <div type="Language" lang="Latvian">pee wiņņa Meeẜas ne kahdu kaitu jeb Wainu darram/ bet to</div>
+       <lb id="VLH1685_Cat_12_31"/>
+        <div type="Language" lang="Latvian">glahbjam/ in tam palihdſam eekẜch wiẜẜahm Meeẜas Behdahm.</div>
+      </div>
+      <pb n="13"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_13_1"/>
+        <div type="Language" lang="Latvian">Tas ẜeſtajs.</div>
+       <lb id="VLH1685_Cat_13_2"/>
+        <div type="Language" lang="Latvian">Tew ne buhs Laulibu pahrkahpt.</div>
+       <lb id="VLH1685_Cat_13_3"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_13_4"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs ẜchķihſti in</div>
+       <lb id="VLH1685_Cat_13_5"/>
+        <div type="Language" lang="Latvian">kaunigi dſihwojam/ eekẜch Wahrdeem in Darbeem/ in ikweens ẜawu</div>
+       <lb id="VLH1685_Cat_13_6"/>
+        <div type="Language" lang="Latvian">laulatu Draugu mihlejam in zeenijam.</div>
+       <lb id="VLH1685_Cat_13_7"/>
+        <div type="Language" lang="Latvian"><corr>Tas</corr><sic>Kas</sic> ẜeptitajs.</div>
+       <lb id="VLH1685_Cat_13_8"/>
+        <div type="Language" lang="Latvian">Tew ne buhs ſagt.</div>
+       <lb id="VLH1685_Cat_13_9"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_13_10"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs ẜawa Tuwaka</div>
+       <lb id="VLH1685_Cat_13_11"/>
+        <div type="Language" lang="Latvian">Naudu jeb Padohmu ne jemmam (jeb wiņņa Mantu ne aisteekam/)</div>
+       <lb id="VLH1685_Cat_13_12"/>
+        <div type="Language" lang="Latvian">neds ar wiltigu Prezzu jeb Prezzeẜchanu pee mums dabbujam/</div>
+       <lb id="VLH1685_Cat_13_13"/>
+        <div type="Language" lang="Latvian">(neds ar Gudribu/ wiltigu Prezzu/ jeb neepateeẜu Mehru in Ꞩwarru us</div>
+       <lb id="VLH1685_Cat_13_14"/>
+        <div type="Language" lang="Latvian">ẜewi raujam/) bet tam ẜawu Mantu in Maiſiti palihdſam wairoht</div>
+       <lb id="VLH1685_Cat_13_15"/>
+        <div type="Language" lang="Latvian">in apẜargaht.</div>
+       <lb id="VLH1685_Cat_13_16"/>
+        <div type="Language" lang="Latvian">Tas aſtotajs.</div>
+       <lb id="VLH1685_Cat_13_17"/>
+        <div type="Language" lang="Latvian">Tew ne buhs nepateeẜu Leezibu doht prettib tawu Tuwaku.</div>
+       <lb id="VLH1685_Cat_13_18"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_13_19"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs ẜawu Tuwaku</div>
+       <lb id="VLH1685_Cat_13_20"/>
+        <div type="Language" lang="Latvian">nepateeẜi ne apmellojam/ neds peewiļļam/ (apſpeegojam/)</div>
+       <lb id="VLH1685_Cat_13_21"/>
+        <div type="Language" lang="Latvian">aprunnajam/ jeb tam kahdu niknu Ꞩlawu zeļļam; Bet mums</div>
+       <lb id="VLH1685_Cat_13_22"/>
+        <div type="Language" lang="Latvian">buhs to aisbildinaht/ wiẜẜu labbu no ta runnaht/ in wiẜẜas Leetas</div>
+       <lb id="VLH1685_Cat_13_23"/>
+        <div type="Language" lang="Latvian">par Labbu greeſt.</div>
+       <lb id="VLH1685_Cat_13_24"/>
+        <div type="Language" lang="Latvian">Tas dewitajs.</div>
+       <lb id="VLH1685_Cat_13_25"/>
+        <div type="Language" lang="Latvian">Tew ne buhs eekahroht tawa Tuwaka Nammu.</div>
+       <lb id="VLH1685_Cat_13_26"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_13_27"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs ẜawam Tuwakam</div>
+       <lb id="VLH1685_Cat_13_28"/>
+        <div type="Language" lang="Latvian">arr Wiltu pehz wiņņa Mantu/ (Dſimtenu/) jeb Nammu ne</div>
+       <lb id="VLH1685_Cat_13_29"/>
+        <div type="Language" lang="Latvian">twarſtam (ne grahbſtam/) neds/ to Teeẜu ẜazzidami pee mums welkam:</div>
+       <lb id="VLH1685_Cat_13_30"/>
+        <div type="Language" lang="Latvian">(neds gudrodami to paturram:) Bet tam palihdſam/ ka tas to</div>
+       <lb id="VLH1685_Cat_13_31"/>
+        <div type="Language" lang="Latvian"><corr>warr</corr><sic>warrr</sic> paturreht. (Bet ikweenam ẜawu ļaujam/ in palihdſigi eẜẜam.)</div>
+       <lb id="VLH1685_Cat_13_32"/>
+       <div type="Sheet">B ijj</div>
+      </div>
+      <pb n="14"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_14_1"/>
+        <div type="Language" lang="Latvian">Tas deẜmitajs.</div>
+       <lb id="VLH1685_Cat_14_2"/>
+        <div type="Language" lang="Latvian">Tew ne buhs eekahroht tawa Tuwaku Ꞩeewu/ Kalpu/ Kalponi/</div>
+       <lb id="VLH1685_Cat_14_3"/>
+        <div type="Language" lang="Latvian">Lohpu/ jeb wiẜẜu/ kas tam peedarr.</div>
+       <lb id="VLH1685_Cat_14_4"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_14_5"/>
+        <div type="Language" lang="Latvian">Mums buhs Deewu bihtees in mihleht/ ka mehs ẜawa Tuwaka</div>
+       <lb id="VLH1685_Cat_14_6"/>
+        <div type="Language" lang="Latvian">Ꞩeewu/ Ꞩaimi in Lohpus ne atwiļļam/ jeb nowehrẜcham/</div>
+       <lb id="VLH1685_Cat_14_7"/>
+        <div type="Language" lang="Latvian">(aistwerram/ jeb atluppinajam.) Bet tohs pamahzam/ lai tee paleek</div>
+       <lb id="VLH1685_Cat_14_8"/>
+        <div type="Language" lang="Latvian">in darra/ kas teem peederr.</div>
+       <lb id="VLH1685_Cat_14_9"/>
+        <div type="Language" lang="Latvian">Ko ẜakka Deews no wiẜẜem ẜcheem Bauẜchļeem? Atbildi:</div>
+       <lb id="VLH1685_Cat_14_10"/>
+        <div type="Language" lang="Latvian">Wiņſch ẜakka tà: Es tas Kungs taws Deews/ eẜmu ſtiprs in</div>
+       <lb id="VLH1685_Cat_14_11"/>
+        <div type="Language" lang="Latvian">duẜmigs Deews/ kas pahr teem / kas manni eenihd/ tohs Tehwu</div>
+       <lb id="VLH1685_Cat_14_12"/>
+        <div type="Language" lang="Latvian">Grehkus mekleju pee teem Behrneem lihdẜ treẜchu in zettortu</div>
+       <lb id="VLH1685_Cat_14_13"/>
+        <div type="Language" lang="Latvian">Augumu: Bet teem/ kas manni mihle/ in mannus Bauẜchlus</div>
+       <lb id="VLH1685_Cat_14_14"/>
+        <div type="Language" lang="Latvian">turr/ teem darru es labbu/ eekẜch tuhkſtoẜcheem Augumeem.</div>
+       <lb id="VLH1685_Cat_14_15"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_14_16"/>
+        <div type="Language" lang="Latvian">Deews beedina ẜohdiht/ wiẜẜus/ kas ẜchohs Bauſchlus pahrkahpj:</div>
+       <lb id="VLH1685_Cat_14_17"/>
+        <div type="Language" lang="Latvian">Tapehz buhs mums no wiņņa Duẜmibas bihtees/ in prett</div>
+       <lb id="VLH1685_Cat_14_18"/>
+        <div type="Language" lang="Latvian">wiņņa Bauẜchļeem ne grehkoht. In atkal ẜohla wiņſch Schehlaſtibu</div>
+       <lb id="VLH1685_Cat_14_19"/>
+        <div type="Language" lang="Latvian">in wiſẜu Labbumu/ wiſſeem/ kas ẜchohs Bauẜchļus turr;</div>
+       <lb id="VLH1685_Cat_14_20"/>
+        <div type="Language" lang="Latvian">Tapehz buhs mums wiņņu arridſan mihleht/ in wiņņam uhs=</div>
+       <lb id="VLH1685_Cat_14_21"/>
+        <div type="Language" lang="Latvian">tizzeht/ in labpraht darriht/ pehz wiņņa Bauẜchļeem.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_14_22"/>
+        <div type="Language" lang="Latvian">Ta ẜwehta Tizziba isſtahſtita.</div>
+       <lb id="VLH1685_Cat_14_23"/>
+        <div type="Language" lang="Latvian">Tas pirmajs Tizzibas Gabbals/</div>
+       <lb id="VLH1685_Cat_14_24"/>
+        <div type="Language" lang="Latvian">No tahs Raddiẜchanas.</div>
+       <lb id="VLH1685_Cat_14_25"/>
+        <div type="Language" lang="Latvian">Es tizzu eekẜch Deewu to Tehwu/ wiẜẜuwalditaju Radditaju</div>
+       <lb id="VLH1685_Cat_14_26"/>
+        <div type="Language" lang="Latvian">Debbes in Semmes.</div>
+       <lb id="VLH1685_Cat_14_27"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_14_28"/>
+        <div type="Language" lang="Latvian">Es tizzu/ ka Deews manni raddijs irr/ ar wiẜẜahm radditahm</div>
+       <lb id="VLH1685_Cat_14_29"/>
+        <div type="Language" lang="Latvian">Leetahm/ mannim Meeẜu in Dwehẜeli/ Azzis/ Auẜis in wiẜẜus</div>
+       <lb id="VLH1685_Cat_14_30"/>
+        <div type="Language" lang="Latvian">Lohziķļus/ Ꞩapraẜchanu in wiẜẜus mannus Prahtus dewis irr/</div>
+       <lb id="VLH1685_Cat_14_31"/>
+        <div type="Language" lang="Latvian">in wehl uhsturr; Lihdſ arridſan Drehbes in Kurpes/ (Apģehrbu/)</div>
+      </div>
+      <pb n="15"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_15_1"/>
+        <div type="Language" lang="Latvian">Ehdeenu in Dſehreenu/ Ehkas in Mahjas/ Ꞩeewu in Behrnus/</div>
+       <lb id="VLH1685_Cat_15_2"/>
+        <div type="Language" lang="Latvian">Laukus/ (Tihrumus/) Lohpus/ in daſchadu Mantu/ irr wiẜẜadu Wajadſibu</div>
+       <lb id="VLH1685_Cat_15_3"/>
+        <div type="Language" lang="Latvian">in Uhsturreẜchanu tahs Meeẜas in Dſihwibas/ baggati in</div>
+       <lb id="VLH1685_Cat_15_4"/>
+        <div type="Language" lang="Latvian">ikdeenas wehl par mannim gahda/ no wiẜẜahm Breeẜmahm apẜarga/</div>
+       <lb id="VLH1685_Cat_15_5"/>
+        <div type="Language" lang="Latvian">in par wiẜẜu Ļaunu paglabba: In wiẜẜu to no Tehwigas/</div>
+       <lb id="VLH1685_Cat_15_6"/>
+        <div type="Language" lang="Latvian">Deewigas Lehnibas in Schehlaſtibas/ bes mannu Nopelņu (in</div>
+       <lb id="VLH1685_Cat_15_7"/>
+        <div type="Language" lang="Latvian">Wehrtibu/) Par to wiẜẜu buhs man wiņņam pateikt in ẜlaweht/</div>
+       <lb id="VLH1685_Cat_15_8"/>
+        <div type="Language" lang="Latvian">tam kalpoht in paklauẜigam buht/ Tas irr teeẜcham teeẜ.</div>
+       <lb id="VLH1685_Cat_15_9"/>
+        <div type="Language" lang="Latvian">Tas ohtrajs Tizzibas Gabbals/</div>
+       <lb id="VLH1685_Cat_15_10"/>
+        <div type="Language" lang="Latvian">No tahs Peſtiẜchanas=</div>
+       <lb id="VLH1685_Cat_15_11"/>
+        <div type="Language" lang="Latvian">Es tizzu eekẜch Jeſu Kriſtu/ wiņņa weeniga peedſimtu Dehlu/</div>
+       <lb id="VLH1685_Cat_15_12"/>
+        <div type="Language" lang="Latvian">muhẜu Kungu/ kas eejemts irr no Ꞩwehta Garra/ peedſimmis no</div>
+       <lb id="VLH1685_Cat_15_13"/>
+        <div type="Language" lang="Latvian">tahs Jumprawas Mahrias/ zeetis appakẜch Panzia Pilata/</div>
+       <lb id="VLH1685_Cat_15_14"/>
+        <div type="Language" lang="Latvian">Kruſtà ẜiſts/ nomirris/ aprakts/ ſemmê kahpis eekẜch Elles/ treẜchâ</div>
+       <lb id="VLH1685_Cat_15_15"/>
+        <div type="Language" lang="Latvian">Deenâ atkal iszehlees no Miŗŗoņeem/ uhskahpis Debbeẜîs/ ẜehdees</div>
+       <lb id="VLH1685_Cat_15_16"/>
+        <div type="Language" lang="Latvian">pee labbas Rohkas Deewa ta wiẜẜuwalditaja Tehwa/ no turrenes</div>
+       <lb id="VLH1685_Cat_15_17"/>
+        <div type="Language" lang="Latvian">wiņſch at=ees ẜohdiht tohs dſihwus in mirruẜchus.</div>
+       <lb id="VLH1685_Cat_15_18"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_15_19"/>
+        <div type="Language" lang="Latvian">Es tizzu/ ka Jeſus Kriſtus pateeẜs Deews no Tehwa eekẜch</div>
+       <lb id="VLH1685_Cat_15_20"/>
+        <div type="Language" lang="Latvian">Muhſchibas/ in arridſan pateeẜs Zilweks no tahs Jumprawas</div>
+       <lb id="VLH1685_Cat_15_21"/>
+        <div type="Language" lang="Latvian">Mahrias peedſimmis/ irr mans Kungs/ kas mann paſudduẜchu in</div>
+       <lb id="VLH1685_Cat_15_22"/>
+        <div type="Language" lang="Latvian">paſudenahtu Zilweku atpeſtijs/ in atpirzis/ no wiẜẜeem Grehkeem/</div>
+       <lb id="VLH1685_Cat_15_23"/>
+        <div type="Language" lang="Latvian">no Nahwes/ in no taWella Spehka/ ne ar Seltu jeb ar Ꞩudrabu/</div>
+       <lb id="VLH1685_Cat_15_24"/>
+        <div type="Language" lang="Latvian">bet ar ẜawu ẜwehtu dahrgu Aẜẜinu/ in ar ẜawas nenoſeeguẜchas</div>
+       <lb id="VLH1685_Cat_15_25"/>
+        <div type="Language" lang="Latvian">Zeeẜchanas in Mirẜchanas/ ka es wiņņam ween peedarru/ in wiņņa</div>
+       <lb id="VLH1685_Cat_15_26"/>
+        <div type="Language" lang="Latvian">Walſtibâ appakẜch wiņņa dſihwoju/ in Wiņņam kalpoju</div>
+       <lb id="VLH1685_Cat_15_27"/>
+        <div type="Language" lang="Latvian">eekẜch muhſchigas Taiẜnibas/ Nenoſeedſibas in Ꞩwehtibas/ kà</div>
+       <lb id="VLH1685_Cat_15_28"/>
+        <div type="Language" lang="Latvian">wiņſch pats atkaļ no Nahwes iszehlees/ dſihwo in walda muhſchigi/</div>
+       <lb id="VLH1685_Cat_15_29"/>
+        <div type="Language" lang="Latvian">Tas irr teeẜcham teeẜs.</div>
+       <lb id="VLH1685_Cat_15_30"/>
+        <div type="Language" lang="Latvian">Tas treẜchajs Tizzibas Gabbals/</div>
+       <lb id="VLH1685_Cat_15_31"/>
+        <div type="Language" lang="Latvian">No tahs Ꞩwehtiẜchanas.</div>
+      </div>
+      <pb n="16"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_16_1"/>
+        <div type="Language" lang="Latvian">Es tizzu eekẜch Ꞩwehtu Garru/ weenu Ꞩwehtu Kriſtitu Baſnizu/</div>
+       <lb id="VLH1685_Cat_16_2"/>
+        <div type="Language" lang="Latvian">weenu Draudſibu to Ꞩwehto/ Pameẜchanu to Grehku/ Iszelẜchanu</div>
+       <lb id="VLH1685_Cat_16_3"/>
+        <div type="Language" lang="Latvian">tahs Meeẜas/ in weenu muhſchigu Dſihwoſchanu/ Amen.</div>
+       <lb id="VLH1685_Cat_16_4"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_16_5"/>
+        <div type="Language" lang="Latvian">Es tizzu/ ka es ar ẜawu paẜchu Spehku in Ꞩapraẜchanu eekẜch Jeſu</div>
+       <lb id="VLH1685_Cat_16_6"/>
+        <div type="Language" lang="Latvian">Kriſtu mannu Kungu ne warru tizzeht/ neds pee to nahkt (kļuht.)</div>
+       <lb id="VLH1685_Cat_16_7"/>
+        <div type="Language" lang="Latvian">Bet tas Ꞩwehtajs Gars irr manni zaur to Ewanģiljumu (jeb</div>
+       <lb id="VLH1685_Cat_16_8"/>
+        <div type="Language" lang="Latvian">Preezas Deewa Wahrdu/) aizinajs/ ar ẜawahm Dahwanahm apſkaidrojs/</div>
+       <lb id="VLH1685_Cat_16_9"/>
+        <div type="Language" lang="Latvian">in eekẜch ihſtas Tizzibas ẜwehtijs in uhsturrejs/ kà wiņſch</div>
+       <lb id="VLH1685_Cat_16_10"/>
+        <div type="Language" lang="Latvian">wiſẜu Kriſtitu Draudſibu ẜchinnî Paẜaulê ẜa=aizina/ ẜakrahj/ apẜkaidro/</div>
+       <lb id="VLH1685_Cat_16_11"/>
+        <div type="Language" lang="Latvian">ẜwehti/ in pee Jeſus Kriſtus uhsturr/ eekẜch weenigas ihſtenas</div>
+       <lb id="VLH1685_Cat_16_12"/>
+        <div type="Language" lang="Latvian">Tizzibas. Eekẜch ẜchihs Kriſtitas Draudſibas wiņſch man</div>
+       <lb id="VLH1685_Cat_16_13"/>
+        <div type="Language" lang="Latvian">in wiẜẜeem tizzigeem ikdeenâs wiſẜus Grehkus baggati peedohd/</div>
+       <lb id="VLH1685_Cat_16_14"/>
+        <div type="Language" lang="Latvian">in paſtarâ Deenâ mañi in wiẜẜus Mirruẜchus atkaļ uhsmohdinahs/</div>
+       <lb id="VLH1685_Cat_16_15"/>
+        <div type="Language" lang="Latvian">in mannim ar wiẜẜeem tizzigeem eekẜch Kriſtus to muſchigu Dſihwoẜchanu</div>
+       <lb id="VLH1685_Cat_16_16"/>
+        <div type="Language" lang="Latvian">dohs/ Tas irr teeẜcham teeẜs.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_16_17"/>
+        <div type="Language" lang="Latvian">Ta Ꞩwehta <corr>Luhgẜchana</corr><sic>Luhgẜchan</sic> ſtahſtita.</div>
+       <lb id="VLH1685_Cat_16_18"/>
+        <div type="Language" lang="Latvian">Muhẜu Tehws Debbeẜis.</div>
+       <lb id="VLH1685_Cat_16_19"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_16_20"/>
+        <div type="Language" lang="Latvian">Deews muhs tà grib labbinaht/ ka mums <corr>buhs</corr><sic>bnhs</sic> tizzeht/ wiņſch</div>
+       <lb id="VLH1685_Cat_16_21"/>
+        <div type="Language" lang="Latvian">eẜẜus muhẜu ihſtens Tehws/ in mehs wiņņa ihſteni Behrni/ ka</div>
+       <lb id="VLH1685_Cat_16_22"/>
+        <div type="Language" lang="Latvian">mums drohẜchi/ in us wiņņu paļaudamees wiņņu buhs peeluhgt/</div>
+       <lb id="VLH1685_Cat_16_23"/>
+        <div type="Language" lang="Latvian">kà tee mihlee Behrni ẜawu mihlo Tehwu luhdſahs.</div>
+       <lb id="VLH1685_Cat_16_24"/>
+        <div type="Language" lang="Latvian">Ta pirma Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_16_25"/>
+        <div type="Language" lang="Latvian">Ꞩwehtihts tohp taws Wahrds.</div>
+       <lb id="VLH1685_Cat_16_26"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_16_27"/>
+        <div type="Language" lang="Latvian">Deewa Wahrds irr jaw no ẜewis paẜcha ẜwehts; Bet mehs</div>
+       <lb id="VLH1685_Cat_16_28"/>
+        <div type="Language" lang="Latvian">luhdſam ẜchinnî Luhgẜchanâ/ lai tas arridſan pee mums ẜwehtihts</div>
+       <lb id="VLH1685_Cat_16_29"/>
+        <div type="Language" lang="Latvian">tohp.</div>
+       <lb id="VLH1685_Cat_16_30"/>
+        <div type="Language" lang="Latvian">Kà noteek tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_16_31"/>
+        <div type="Language" lang="Latvian">Kad Deewa Wahrds ẜchkihkſti in ſkaidri mahzihts tohp/ in mehs</div>
+       <lb id="VLH1685_Cat_16_32"/>
+        <div type="Language" lang="Latvian">arridſan ẜwehti/ kà Deewa Behrneem Klahjahs/ pehz to dſihwojam/</div>
+      </div>
+      <pb n="17"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_17_1"/>
+        <div type="Language" lang="Latvian">To palihdſi mums mihļajs Debbes Tehws! Bet kas zittadi mahza</div>
+       <lb id="VLH1685_Cat_17_2"/>
+        <div type="Language" lang="Latvian">in dſihwo/ ne kà Deewa Wahrds mahza/ tas ne ẜwehti muhẜu ſtarpâ</div>
+       <lb id="VLH1685_Cat_17_3"/>
+        <div type="Language" lang="Latvian">Deewa Wahrdu. Par to paẜargi muhs mihļajs Debbes</div>
+       <lb id="VLH1685_Cat_17_4"/>
+        <div type="Language" lang="Latvian">Tehws.</div>
+       <lb id="VLH1685_Cat_17_5"/>
+        <div type="Language" lang="Latvian">Ta ohtra Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_17_6"/>
+        <div type="Language" lang="Latvian">Laid nahk pee mums tawa Walſtiba.</div>
+       <lb id="VLH1685_Cat_17_7"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_17_8"/>
+        <div type="Language" lang="Latvian">Deewa Walſtiba gan nahk bes muhẜas Luhgẜchanas/ no ẜewis</div>
+       <lb id="VLH1685_Cat_17_9"/>
+        <div type="Language" lang="Latvian">paẜchas; Bet mehs luhdſam ẜchinnî Luhgẜchana/ ka ta arridſan</div>
+       <lb id="VLH1685_Cat_17_10"/>
+        <div type="Language" lang="Latvian">pee mums nahktu.</div>
+       <lb id="VLH1685_Cat_17_11"/>
+        <div type="Language" lang="Latvian">Kà notihkſt tas? Atbildi.</div>
+       <lb id="VLH1685_Cat_17_12"/>
+        <div type="Language" lang="Latvian">Kad mums tas Debbes Tehws ẜawu Ꞩwehtu Garru dohd/ ka</div>
+       <lb id="VLH1685_Cat_17_13"/>
+        <div type="Language" lang="Latvian">mehs wiņņa Ꞩwehtam Wahrdam zaur wiņņa Schehlaſtibu</div>
+       <lb id="VLH1685_Cat_17_14"/>
+        <div type="Language" lang="Latvian">tizzam/ in Deewigi dſihwojam ẜche laizigi in tur muhſchigi.</div>
+       <lb id="VLH1685_Cat_17_15"/>
+        <div type="Language" lang="Latvian">Ta treẜcha Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_17_16"/>
+        <div type="Language" lang="Latvian">Taws Prahts laid notihkſt kà Debbeẜîs/ tà arridſan wirẜ</div>
+       <lb id="VLH1685_Cat_17_17"/>
+        <div type="Language" lang="Latvian">Semmes.</div>
+       <lb id="VLH1685_Cat_17_18"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_17_19"/>
+        <div type="Language" lang="Latvian">Tas labbajs in ſchehligajs Deewa Prahts gan notihkſt bes muhẜas</div>
+       <lb id="VLH1685_Cat_17_20"/>
+        <div type="Language" lang="Latvian">Luhgẜchanas; Bet mehs luhdſam ẜchinnî Luhgẜchanâ/ ka tas</div>
+       <lb id="VLH1685_Cat_17_21"/>
+        <div type="Language" lang="Latvian">arridſan pee mums notiktu.</div>
+       <lb id="VLH1685_Cat_17_22"/>
+        <div type="Language" lang="Latvian">Kà notihkſt tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_17_23"/>
+        <div type="Language" lang="Latvian">Kad Deews wiẜẜu ļaunu Padohmu in Prahtu lauſch in teem</div>
+       <lb id="VLH1685_Cat_17_24"/>
+        <div type="Language" lang="Latvian">Waļļas ne isdohd/ kas Deewa Wahrdu mums ne leek ẜwehtiht/</div>
+       <lb id="VLH1685_Cat_17_25"/>
+        <div type="Language" lang="Latvian">in kawe wiņņa Walſtibu pee mums nahkt/ kahds irr/ Wella/ Paẜaules/</div>
+       <lb id="VLH1685_Cat_17_26"/>
+        <div type="Language" lang="Latvian">in muhẜas Meeẜas kahrajs Prahts; Bet kad Deews muhs</div>
+       <lb id="VLH1685_Cat_17_27"/>
+        <div type="Language" lang="Latvian">eeſtiprina/ in lihdſ Gallam pee ẜawa Wahrda in Tizzibas uhsturr;</div>
+       <lb id="VLH1685_Cat_17_28"/>
+        <div type="Language" lang="Latvian">Tas irr wiņņa ſchehligajs in labs Prahts.</div>
+       <lb id="VLH1685_Cat_17_29"/>
+        <div type="Language" lang="Latvian">Ta zettorta Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_17_30"/>
+        <div type="Language" lang="Latvian">Muhẜu deeniẜchķu Maiſi dohd mums ẜchodeen:</div>
+       <lb id="VLH1685_Cat_17_31"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_17_32"/>
+        <div type="Language" lang="Latvian">Deews dohd mums deeniẜchķu Maiſi bes muhẜas Luhgẜchanas</div>
+       <lb id="VLH1685_Cat_17_33"/>
+       <div type="Sheet">C</div>
+      </div>
+      <pb n="18"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_18_1"/>
+        <div type="Language" lang="Latvian">ir wiẜẜeem ļauneem Zilwekeem; Bet mehs luhdſam ẜchinnî Luhgẜchanâ/</div>
+       <lb id="VLH1685_Cat_18_2"/>
+        <div type="Language" lang="Latvian">ka wiņſch mums muhẜu deeniẜchķu Maiſi mahzetu atſiht/</div>
+       <lb id="VLH1685_Cat_18_3"/>
+        <div type="Language" lang="Latvian">in ar Pateizibu to ẜajemt.</div>
+       <lb id="VLH1685_Cat_18_4"/>
+        <div type="Language" lang="Latvian">Kas tad irr ta deeniẜchķa Maiſe? Atbildi:</div>
+       <lb id="VLH1685_Cat_18_5"/>
+        <div type="Language" lang="Latvian">Wiẜs/ kas pee muhẜas Meeẜas Uhsturreẜchanas in Wajadſibas</div>
+       <lb id="VLH1685_Cat_18_6"/>
+        <div type="Language" lang="Latvian">peedarr/ ar Wahrda/ Ehdeens in Dſehreens/ Kurpes/ Ehkas/ (Muiſchas/)</div>
+       <lb id="VLH1685_Cat_18_7"/>
+        <div type="Language" lang="Latvian">Mahjas/ Lauki/ (Tihrumi/) Lohpi/ Nauda/ Manta/ gohdigs</div>
+       <lb id="VLH1685_Cat_18_8"/>
+        <div type="Language" lang="Latvian">laulahts Draugs/ rahmee Behrni/ klauẜiga Ꞩaime/ lehnigee in</div>
+       <lb id="VLH1685_Cat_18_9"/>
+        <div type="Language" lang="Latvian">meerigee Kungi/ laimiga Waldiẜchana/ labs Gaiẜs/ Meers/ Weẜẜeliba/</div>
+       <lb id="VLH1685_Cat_18_10"/>
+        <div type="Language" lang="Latvian">kauniga Dſihwoẜchana/ Gohds/ labbee Draugi/ Ustizzigee</div>
+       <lb id="VLH1685_Cat_18_11"/>
+        <div type="Language" lang="Latvian">Kaimiņņi/ in zittas tahdas Leetas wehl.</div>
+       <lb id="VLH1685_Cat_18_12"/>
+        <div type="Language" lang="Latvian">Ta peekta Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_18_13"/>
+        <div type="Language" lang="Latvian">In pamett mums muhẜus Paradus/ kà mehs pamettam ẜaweem</div>
+       <lb id="VLH1685_Cat_18_14"/>
+        <div type="Language" lang="Latvian">Paradneekeem.</div>
+       <lb id="VLH1685_Cat_18_15"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_18_16"/>
+        <div type="Language" lang="Latvian">Mehs luhdſam ẜchinnî Luhgẜchanâ/ ka tas Debbeẜu Tehws ne</div>
+       <lb id="VLH1685_Cat_18_17"/>
+        <div type="Language" lang="Latvian">gribbetu uhsluhkoht muhẜus Grehkus/ neds todehļ muhẜas Luhgẜchanas</div>
+       <lb id="VLH1685_Cat_18_18"/>
+        <div type="Language" lang="Latvian">atmeſt: Jo to wiẜẜu/ ko mehs luhdſam/ mehs ne eẜẜim</div>
+       <lb id="VLH1685_Cat_18_19"/>
+        <div type="Language" lang="Latvian">wehrti neds pelnijẜchi; Bet wiņſch gribbetu mums to wiẜnohtaļ</div>
+       <lb id="VLH1685_Cat_18_20"/>
+        <div type="Language" lang="Latvian">ſchehlodams doht/ Jo mehs grehkojam ikdeenas daudſ/ in Ꞩohdibu</div>
+       <lb id="VLH1685_Cat_18_21"/>
+        <div type="Language" lang="Latvian">ween nopelnam/ tad gribbam mehs arridſan no Ꞩirds peedoht/ in</div>
+       <lb id="VLH1685_Cat_18_22"/>
+        <div type="Language" lang="Latvian">labbu darriht/ teem/ kas pretti mums irr apſeeguẜchees.</div>
+       <lb id="VLH1685_Cat_18_23"/>
+        <div type="Language" lang="Latvian">Ta ẜeſta Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_18_24"/>
+        <div type="Language" lang="Latvian">In ne eewed muhs eekẜch Kahrdinaẜchanas.</div>
+       <lb id="VLH1685_Cat_18_25"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_18_26"/>
+        <div type="Language" lang="Latvian">Deews gan ne kahrdina ne weenu us Ļaunu/ bet mehs luhdſam</div>
+       <lb id="VLH1685_Cat_18_27"/>
+        <div type="Language" lang="Latvian">ẜchinnî Luhgẜchanâ/ ka Deews muhs gribbetu paẜargaht in uhsturreht/</div>
+       <lb id="VLH1685_Cat_18_28"/>
+        <div type="Language" lang="Latvian">ka muhs tas Welns/ ta Paẜaule/ in muhẜa Meeẜa ne peewiļļ/</div>
+       <lb id="VLH1685_Cat_18_29"/>
+        <div type="Language" lang="Latvian">in muhs ne ee=wed (ne ee=gahſch/) eekẜch Netizzibas/ Isẜamiẜchanas/</div>
+       <lb id="VLH1685_Cat_18_30"/>
+        <div type="Language" lang="Latvian">(Atkriẜchanas no Deewa/) in zittu leelu Kaunu in Grehkeem/</div>
+       <lb id="VLH1685_Cat_18_31"/>
+        <div type="Language" lang="Latvian">in kaut ir mehs ar teem kahrdinahti tappuẜchi/ ka mehs tomehr</div>
+       <lb id="VLH1685_Cat_18_32"/>
+        <div type="Language" lang="Latvian">tohs uswarram/ in wirẜu paleekam.</div>
+      </div>
+      <pb n="19"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_19_1"/>
+        <div type="Language" lang="Latvian">Ta ẜeptita Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_19_2"/>
+        <div type="Language" lang="Latvian">Bet atpeſti muhs no wiẜẜa Ļauna.</div>
+       <lb id="VLH1685_Cat_19_3"/>
+        <div type="Language" lang="Latvian">Kas irr tas? Atbildi:</div>
+       <lb id="VLH1685_Cat_19_4"/>
+        <div type="Language" lang="Latvian">Mehs luhdſam ẜchinni Luhgẜchanâ/ kaẜchu weenâ reiſâ (kaſchu</div>
+       <lb id="VLH1685_Cat_19_5"/>
+        <div type="Language" lang="Latvian">weenâ Wahrdâ/) ka muhs tas Debbeẜu Tehws no wiẜẜada Ļaunâ/</div>
+       <lb id="VLH1685_Cat_19_6"/>
+        <div type="Language" lang="Latvian">Meeẜas in Dwehẜeles/ Mantas in Gohda atpeſtitu/ in kad muhẜa</div>
+       <lb id="VLH1685_Cat_19_7"/>
+        <div type="Language" lang="Latvian">pehdiga Stundiņa nahk/ mums weeglu Gallu dohtu/ in ar ẜawu</div>
+       <lb id="VLH1685_Cat_19_8"/>
+        <div type="Language" lang="Latvian">Schehlaſtibu no ẜchihs behdigas Paẜaules/ (Behdu Buhdas/) muhs</div>
+       <lb id="VLH1685_Cat_19_9"/>
+        <div type="Language" lang="Latvian">pee ẜewim jemtu/ (eezeltu/) Debbeẜîs.</div>
+       <lb id="VLH1685_Cat_19_10"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+       <lb id="VLH1685_Cat_19_11"/>
+        <div type="Language" lang="Latvian">Kas irr Amen? Atbildi:</div>
+       <lb id="VLH1685_Cat_19_12"/>
+        <div type="Language" lang="Latvian">Ka man teeẜcham tizzeht buhs/ ka manna Luhgẜchana tam Debbes</div>
+       <lb id="VLH1685_Cat_19_13"/>
+        <div type="Language" lang="Latvian">Tehwam patihk in paklauẜita irra/ Jo wiņſch pats irr mums</div>
+       <lb id="VLH1685_Cat_19_14"/>
+        <div type="Language" lang="Latvian">pawehlejs tà luhgt/ in ẜohlijs muhs paklauẜiht/ Amen/ Amen/ tas</div>
+       <lb id="VLH1685_Cat_19_15"/>
+        <div type="Language" lang="Latvian">irr/ pateeẜi/ pateeẜi/ Tam buhs tà teeẜcham notikt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_19_16"/>
+        <div type="Language" lang="Latvian">No tahs Ꞩwehtas Kriſtibas.</div>
+       <lb id="VLH1685_Cat_19_17"/>
+        <div type="Language" lang="Latvian">Kas irr ta Ꞩwehta Kriſtiba.</div>
+       <lb id="VLH1685_Cat_19_18"/>
+        <div type="Language" lang="Latvian">Ta Ꞩwehta Kriſtiba ne irr tihrs Uhdens ween/ bet ta irr tahds</div>
+       <lb id="VLH1685_Cat_19_19"/>
+        <div type="Language" lang="Latvian">Uhdens/ kas ar Deewa Eeſtahdiẜchanas ẜajehmes/ in ar Deewa</div>
+       <lb id="VLH1685_Cat_19_20"/>
+        <div type="Language" lang="Latvian">Wahrda ẜaẜeets (ẜaweenohts/) irr</div>
+       <lb id="VLH1685_Cat_19_21"/>
+        <div type="Language" lang="Latvian">Kahds tad irr tahds Deewa Wahrds? Atbildi:</div>
+       <lb id="VLH1685_Cat_19_22"/>
+        <div type="Language" lang="Latvian">Kad muhẜu Kungs Jeſus Kriſtus ẜakka: Eita zaur wiẜẜu Paẜaul/</div>
+       <lb id="VLH1685_Cat_19_23"/>
+        <div type="Language" lang="Latvian">mahzajt wiẜẜus Ļaudis/ in kriſtijaht tohs eekẜch ta Wahrda</div>
+       <lb id="VLH1685_Cat_19_24"/>
+        <div type="Language" lang="Latvian">Deewa ta Tehwa/ Deewa ta Dehla/ in Deewa ta zeeniga Ꞩwehta</div>
+       <lb id="VLH1685_Cat_19_25"/>
+        <div type="Language" lang="Latvian">Garra.</div>
+       <lb id="VLH1685_Cat_19_26"/>
+        <div type="Language" lang="Latvian">Ko dohd/ jeb ko palihdſ mums ta Ꞩwehta Kriſtiba? Atbildi:</div>
+       <lb id="VLH1685_Cat_19_27"/>
+        <div type="Language" lang="Latvian">Ta atneẜs Grehku pameẜchanu/ ta paglahbj no Nahwes in</div>
+       <lb id="VLH1685_Cat_19_28"/>
+        <div type="Language" lang="Latvian">Welna/ in dohd to muhſchigu Dſihwoẜchanu wiſẜeem/ kas to tiz/</div>
+       <lb id="VLH1685_Cat_19_29"/>
+        <div type="Language" lang="Latvian">kà tee Wahrdi tahs Deewa Ꞩohliẜchanas isteiz.</div>
+       <lb id="VLH1685_Cat_19_30"/>
+        <div type="Language" lang="Latvian">Kahdi irr tee Wahrdi tahs Deewa Ꞩohliẜchanas? Atbildi:</div>
+       <lb id="VLH1685_Cat_19_31"/>
+        <div type="Language" lang="Latvian">Kad muhẜu Kungs Jeſus Kriſtus ẜakka: Kas tiz in kļuhſt kriſtihts/</div>
+       <lb id="VLH1685_Cat_19_32"/>
+        <div type="Language" lang="Latvian">tas taps Ꞩwehts/ bet kas ne tiz/ tas taps paſuddis.</div>
+      </div>
+      <pb n="20"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_20_1"/>
+        <div type="Language" lang="Latvian">Kà warr Uhdens (pee Ꞩwehtas Kriſtibas/) tahdu leelu</div>
+       <lb id="VLH1685_Cat_20_2"/>
+        <div type="Language" lang="Latvian">Leetu darriht? Atbildi:</div>
+       <lb id="VLH1685_Cat_20_3"/>
+        <div type="Language" lang="Latvian">Uhdens (no ẜewis/) to teeẜcham ne darra/ bet Deewa Wahrds/</div>
+       <lb id="VLH1685_Cat_20_4"/>
+        <div type="Language" lang="Latvian">kas ar to Uhdeni ẜaweenojahs/ in ta Tizziba/ kas tahdam Deewa</div>
+       <lb id="VLH1685_Cat_20_5"/>
+        <div type="Language" lang="Latvian">Wahrdam eekẜch Uhdeni tiz: Jo bes Deewa Wahrda irr Uhdens</div>
+       <lb id="VLH1685_Cat_20_6"/>
+        <div type="Language" lang="Latvian">tihrs Uhdens ween/ in ne kahda Kriſtiba/ Bet ar Deewa Wahrda</div>
+       <lb id="VLH1685_Cat_20_7"/>
+        <div type="Language" lang="Latvian">irr tas ta Kriſtiba/ tas irr tahds Uhdens/ kas baggats no Schehlaſtibas</div>
+       <lb id="VLH1685_Cat_20_8"/>
+        <div type="Language" lang="Latvian">in Dſihwibas/ in Nomaſgaẜchana tahs jaunas Atdſimẜchanas</div>
+       <lb id="VLH1685_Cat_20_9"/>
+        <div type="Language" lang="Latvian">eekẜch Ꞩwehta Garra/ kà Ꞩwehts Pawuls mahza: Zaur</div>
+       <lb id="VLH1685_Cat_20_10"/>
+        <div type="Language" lang="Latvian">Nomaſgaẜchana tahs Atdſimẜchanas in Atjaunaẜchanas ta Ꞩwehta</div>
+       <lb id="VLH1685_Cat_20_11"/>
+        <div type="Language" lang="Latvian">Garra/ ko wiņſch par pilnam pahr mums islehjis zaur Jeſu</div>
+       <lb id="VLH1685_Cat_20_12"/>
+        <div type="Language" lang="Latvian">Kriſtu muhẜu Peſtitaju/ ka mehs zaur wiņņa Schehlaſtibu taiẜni</div>
+       <lb id="VLH1685_Cat_20_13"/>
+        <div type="Language" lang="Latvian">in Behrni tahs muhſchigas Dſihwoẜchanas tohpam/ to gaididami/</div>
+       <lb id="VLH1685_Cat_20_14"/>
+        <div type="Language" lang="Latvian">Tas irr teeẜcham teeẜs.</div>
+       <lb id="VLH1685_Cat_20_15"/>
+        <div type="Language" lang="Latvian">Ko tad apẜihme tahda Uhdens Kriſtiba? Atbildi:</div>
+       <lb id="VLH1685_Cat_20_16"/>
+        <div type="Language" lang="Latvian">Ta apſihme/ ka tam Wezzam Adamam/ (tahm eedſimtahm ļaunahm</div>
+       <lb id="VLH1685_Cat_20_17"/>
+        <div type="Language" lang="Latvian">Eegribbeẜchanahm) eekẜch mums ikdeenâs zaur muhẜu Grehku</div>
+       <lb id="VLH1685_Cat_20_18"/>
+        <div type="Language" lang="Latvian">Noſchehloẜchanu in Atmeẜchanu/ buhs ẜlihkuẜcham kluht/ in</div>
+       <lb id="VLH1685_Cat_20_19"/>
+        <div type="Language" lang="Latvian">noſuſt ar wiẜẜeem Noſeegumeem in Grehku kahrumeem/ in ka ikdeenâs</div>
+       <lb id="VLH1685_Cat_20_20"/>
+        <div type="Language" lang="Latvian">zeltees in preekẜchâ nahkt buhs jaunam Zilwekam (jaunam</div>
+       <lb id="VLH1685_Cat_20_21"/>
+        <div type="Language" lang="Latvian">labbam Prahtam/) kas eekẜch Taiẜnibas in Ꞩchkihſtibas preekẜch</div>
+       <lb id="VLH1685_Cat_20_22"/>
+        <div type="Language" lang="Latvian">Deewa muhſchigi dſihwo.</div>
+       <lb id="VLH1685_Cat_20_23"/>
+        <div type="Language" lang="Latvian"><corr>Kur</corr><sic>Ķur</sic> ſtahw tas rakſtihts! Atbildi:</div>
+       <lb id="VLH1685_Cat_20_24"/>
+        <div type="Language" lang="Latvian">Tas ẜwehts Pahwuls ẜakka: Mehs eẜẜim ar Kriſtus zaur to</div>
+       <lb id="VLH1685_Cat_20_25"/>
+        <div type="Language" lang="Latvian">Kriſtibu aprakti eekẜch Nahwes/ Jo kà Kriſtus irr uhsmohdinahts</div>
+       <lb id="VLH1685_Cat_20_26"/>
+        <div type="Language" lang="Latvian">no Miŗŗoņeem zaur to Gohdibu ta Tehwa/ tà buhs ir mums</div>
+       <lb id="VLH1685_Cat_20_27"/>
+        <div type="Language" lang="Latvian">eekẜch jaunas Dſihwoẜchanas ſtaigaht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_20_28"/>
+        <div type="Language" lang="Latvian">No tahm Atẜlehgahm tahs Debbes Walſtibas.</div>
+       <lb id="VLH1685_Cat_20_29"/>
+        <div type="Language" lang="Latvian">Kas irr tahs Atẜlehgas tahs Debbes Walſtibas! Atbildi:</div>
+       <lb id="VLH1685_Cat_20_30"/>
+        <div type="Language" lang="Latvian">Tahs Atẜlehgas tahs Debbes Walſtibas/ irr tas Ꞩpehks/ ko</div>
+       <lb id="VLH1685_Cat_20_31"/>
+        <div type="Language" lang="Latvian">muhẜu Kungs Jeſus Kriſtus ẜchinnî Paẜaulê eekẜch ẜawa Wahrdâ</div>
+       <lb id="VLH1685_Cat_20_32"/>
+        <div type="Language" lang="Latvian">eezehlis irr/ teem/ kas ẜawus Grehkus no Ꞩirds noſchehlo/ eekẜch</div>
+      </div>
+      <pb n="21"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_21_1"/>
+        <div type="Language" lang="Latvian">pateeẜas Tizzibas us Deewa Tehwa Schehlaſtibas in ta Kunga</div>
+       <lb id="VLH1685_Cat_21_2"/>
+        <div type="Language" lang="Latvian">Jeſus dahrgas Nopelniẜchanas Grehkupameẜchanu luhdſahs/ in</div>
+       <lb id="VLH1685_Cat_21_3"/>
+        <div type="Language" lang="Latvian">no Grehkeem atkahpjahs/ tohs Grehkus peedoht/ in teem/ kas no</div>
+       <lb id="VLH1685_Cat_21_4"/>
+        <div type="Language" lang="Latvian">Grehkeem ne atkahpjahs/ tohs Grehkus paturreht pehz paẜcha</div>
+       <lb id="VLH1685_Cat_21_5"/>
+        <div type="Language" lang="Latvian">Kriſtus Wahrdeem.</div>
+       <lb id="VLH1685_Cat_21_6"/>
+        <div type="Language" lang="Latvian">Kahdi irr tee Wahrdi Kriſtus? Atbildi:</div>
+       <lb id="VLH1685_Cat_21_7"/>
+        <div type="Language" lang="Latvian">Muhẜu Kungs Kriſtus ẜakka tà: Lihdſ kà manni Tehws irr</div>
+       <lb id="VLH1685_Cat_21_8"/>
+        <div type="Language" lang="Latvian">ẜuhtijs/ tà ẜuhtu es juhs: Jemmeet to Ꞩwehtu Garru/ kam juhs</div>
+       <lb id="VLH1685_Cat_21_9"/>
+        <div type="Language" lang="Latvian">tohs Grehkus peedohẜeet/ teem buhs tee peedohti; In kam juhs</div>
+       <lb id="VLH1685_Cat_21_10"/>
+        <div type="Language" lang="Latvian">tohs Grehkus paturreẜeet/ teem buhs tee paturrehti.</div>
+       <lb id="VLH1685_Cat_21_11"/>
+        <div type="Language" lang="Latvian">Ko dohd jeb ko darra mums labba tahs Debbes Walſtibas</div>
+       <lb id="VLH1685_Cat_21_12"/>
+        <div type="Language" lang="Latvian">Atẜlehgas? Atbildi:</div>
+       <lb id="VLH1685_Cat_21_13"/>
+        <div type="Language" lang="Latvian">To mums rahda tee Wahrdi ta Kunga Kriſtus: Kam juhs</div>
+       <lb id="VLH1685_Cat_21_14"/>
+        <div type="Language" lang="Latvian">tohs Grehkus peedohẜeet/ tam buhs tee peedohti. Jo ta Grehku</div>
+       <lb id="VLH1685_Cat_21_15"/>
+        <div type="Language" lang="Latvian">peedohẜchana zaur Kriſtus aẜẜinaiņu Nahwi pelnita/ kļuhſt eekẜch</div>
+       <lb id="VLH1685_Cat_21_16"/>
+        <div type="Language" lang="Latvian">Kriſtus Wahrda teem Tizzigeem eedohta/ ka wiņņo Tizziba eeſtiprinata/</div>
+       <lb id="VLH1685_Cat_21_17"/>
+        <div type="Language" lang="Latvian">in Ꞩirds remdeta tohp; Jo us Tizzibu nahk Meers</div>
+       <lb id="VLH1685_Cat_21_18"/>
+        <div type="Language" lang="Latvian">Ꞩirdî/ kad Grehki peedohti irr.</div>
+       <lb id="VLH1685_Cat_21_19"/>
+        <div type="Language" lang="Latvian">Kà warr Mahzitajs/ kas tikkai Zilweks irr/ Grehkus peedoht? Atbildi:</div>
+       <lb id="VLH1685_Cat_21_20"/>
+        <div type="Language" lang="Latvian">To Mahzitajs ne darra kà Zilweks no ẜewim/ bet us Kriſtus</div>
+       <lb id="VLH1685_Cat_21_21"/>
+        <div type="Language" lang="Latvian">Pawehleẜchanas in Paẜohliẜchanas/ kà wiņņa Wahrdi to isẜakka:</div>
+       <lb id="VLH1685_Cat_21_22"/>
+        <div type="Language" lang="Latvian">Jemmeet to Ꞩwehtu Garru/ kam juhs tohs Grehkus peedohẜeet/</div>
+       <lb id="VLH1685_Cat_21_23"/>
+        <div type="Language" lang="Latvian">tam irr tee peedohti: Kà tam Kungam Kriſtum us Paẜaules</div>
+       <lb id="VLH1685_Cat_21_24"/>
+        <div type="Language" lang="Latvian">Ꞩpehks irr Grehkus peedoht/ tà wiņſch pats tahdu Spehku</div>
+       <lb id="VLH1685_Cat_21_25"/>
+        <div type="Language" lang="Latvian">teem Baſnizas Tehweem jeb Mahzitajeem eedewis irr/ ẜazzidams:</div>
+       <lb id="VLH1685_Cat_21_26"/>
+        <div type="Language" lang="Latvian">Kà manni Tehws irr ẜuhtijs/ tà ẜuhtu es juhs; Kas juhs</div>
+       <lb id="VLH1685_Cat_21_27"/>
+        <div type="Language" lang="Latvian">klauẜahs/ tas klauẜahs manni.</div>
+       <lb id="VLH1685_Cat_21_28"/>
+        <div type="Language" lang="Latvian">Kahdeem buhs tohs Grehkus peedoht? Atbildi:</div>
+       <lb id="VLH1685_Cat_21_29"/>
+        <div type="Language" lang="Latvian">Tahdeem/ kas ar pateeẜahm Ruhpahm ẜawus Grehkus atſihſt/</div>
+       <lb id="VLH1685_Cat_21_30"/>
+        <div type="Language" lang="Latvian">in ar Ꞩirds Semmoẜchanu in Tizzibu zaur Kriſtu Schehloẜchanas</div>
+       <lb id="VLH1685_Cat_21_31"/>
+        <div type="Language" lang="Latvian">in Eepreezinaẜchanas luhdſahs/ kà Kriſtus us weenu</div>
+       <lb id="VLH1685_Cat_21_32"/>
+        <div type="Language" lang="Latvian">Melmenuligganu ẜazzija: Mans Dehls/ tizzi ſtipri/ tew irr tawi</div>
+       <lb id="VLH1685_Cat_21_33"/>
+       <div type="Sheet">C iij</div>
+      </div>
+      <pb n="22"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_22_1"/>
+        <div type="Language" lang="Latvian">Grehki peedohti; In us weenas leelas Grehzineezas/ Mahria</div>
+       <lb id="VLH1685_Cat_22_2"/>
+        <div type="Language" lang="Latvian">Maddala wahrdâ/ kas ẜawus Grehkus atmette: Tew irr tawi</div>
+       <lb id="VLH1685_Cat_22_3"/>
+        <div type="Language" lang="Latvian">Grehki peedohti/ tawa Tizziba irr tewi paglahbuẜi; No=eij Meerâ.</div>
+       <lb id="VLH1685_Cat_22_4"/>
+        <div type="Language" lang="Latvian">Kahdeem buhs tohs Grehkus paturreht in ne peedoht? Atbildi:</div>
+       <lb id="VLH1685_Cat_22_5"/>
+        <div type="Language" lang="Latvian">Wiẜẜeem netizzigeem/ kas eekẜch Grehkeem tihẜchi paleek; Kas</div>
+       <lb id="VLH1685_Cat_22_6"/>
+        <div type="Language" lang="Latvian">Deewajas Mahzibas Nebehdneeki/ in no Grehkeem ne atſtahjahs;</div>
+       <lb id="VLH1685_Cat_22_7"/>
+        <div type="Language" lang="Latvian">Kà muhẜu Kungs Kriſtus mahza: Ja taws Brahlis prett tewim</div>
+       <lb id="VLH1685_Cat_22_8"/>
+        <div type="Language" lang="Latvian">grehko/ tad no=eij/ in apjauta wiņņu/ tawa in wiņņa ſtarpâ: Ja</div>
+       <lb id="VLH1685_Cat_22_9"/>
+        <div type="Language" lang="Latvian">wiņſch tewi klauẜa/ tad tu tawu Brahli atgreeſis in pahrwaldijs</div>
+       <lb id="VLH1685_Cat_22_10"/>
+        <div type="Language" lang="Latvian">eẜẜi. Bet ja wiņſch tewi ne klauẜa/ tad peejem pee ẜewis wehl</div>
+       <lb id="VLH1685_Cat_22_11"/>
+        <div type="Language" lang="Latvian">weenu ir ohtru/ ka tahs Leetas paſtahw us diweju jeb treju Leezineeku</div>
+       <lb id="VLH1685_Cat_22_12"/>
+        <div type="Language" lang="Latvian">Muttes: Ja wiņſch ir tohs ne klauẜa/ tad to teiz wiẜẜai</div>
+       <lb id="VLH1685_Cat_22_13"/>
+        <div type="Language" lang="Latvian">Draudſibai: Ja wiņſch to Draudſibu ne klauẜa/ tad turri wiņņu/</div>
+       <lb id="VLH1685_Cat_22_14"/>
+        <div type="Language" lang="Latvian">kà kahdu Paganu in Muituneeku.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_22_15"/>
+        <div type="Language" lang="Latvian">No tahs Eeſtahdiẜchanas tahs zeenigas in dahrgas Meeẜas</div>
+       <lb id="VLH1685_Cat_22_16"/>
+        <div type="Language" lang="Latvian">in Aſſina muhẜa Kunga in Peſtitaja JEſus Kriſtus.</div>
+       <lb id="VLH1685_Cat_22_17"/>
+        <div type="Language" lang="Latvian">Kas irr ta Eeſtahdiẜchana ta Ꞩwehta Wackar=Ehdeena? Atbildi:</div>
+       <lb id="VLH1685_Cat_22_18"/>
+        <div type="Language" lang="Latvian">Ta irr ta pateeẜa Meeẜa in Aẜẜins muhẜa Kunga Jeſus Kriſtus/</div>
+       <lb id="VLH1685_Cat_22_19"/>
+        <div type="Language" lang="Latvian">ar apẜwehtitu Maiſi in Wihnu mums Kriſtiteem Ļaudim</div>
+       <lb id="VLH1685_Cat_22_20"/>
+        <div type="Language" lang="Latvian">ehſt in dſert no paẜcha Kriſtus eeſtahdita in eezelta.</div>
+       <lb id="VLH1685_Cat_22_21"/>
+        <div type="Language" lang="Latvian">Kur ſtahw tas rakſtihts? Atbildi:</div>
+       <lb id="VLH1685_Cat_22_22"/>
+        <div type="Language" lang="Latvian">Tà rakſta tee Ꞩwehti Mahzitaji/ Mattėu̇s/ Markus/ Lukas/ in</div>
+       <lb id="VLH1685_Cat_22_23"/>
+        <div type="Language" lang="Latvian">Ꞩwehts Pahwuls:</div>
+       <lb id="VLH1685_Cat_22_24"/>
+        <div type="Language" lang="Latvian">Muhẜu Kungs Jeſus Kriſtus tannî Naktî/ kad tas nodohts</div>
+       <lb id="VLH1685_Cat_22_25"/>
+        <div type="Language" lang="Latvian">(ẜajemts) tappa/ jehme tas to Maiſi/ pateize in pahrlauſe/ in dewe</div>
+       <lb id="VLH1685_Cat_22_26"/>
+        <div type="Language" lang="Latvian">to ẜaweem Mahzekļeem in ẜazzija: Jemmeet in ehdeet/ tas irr</div>
+       <lb id="VLH1685_Cat_22_27"/>
+        <div type="Language" lang="Latvian">manna Meeẜa/ kas par jums tohp dohta/ to darrajt mannis peeminnedami.</div>
+       <lb id="VLH1685_Cat_22_28"/>
+        <div type="Language" lang="Latvian">Tà lihdſ arridſan jehme wiņſch to Biķķeri/ pehz to Wakkarehdeenu/</div>
+       <lb id="VLH1685_Cat_22_29"/>
+        <div type="Language" lang="Latvian">pateize/ in dewe teems to/ in ẜazzija: Jemmeet in dſerreet wiẜẜi</div>
+       <lb id="VLH1685_Cat_22_30"/>
+        <div type="Language" lang="Latvian">no ta/ ẜchis Biķķeris irr ta jauna Eeſtahdiẜchana eekẜch mannahm</div>
+       <lb id="VLH1685_Cat_22_31"/>
+        <div type="Language" lang="Latvian">Aſẜinihm kas par jums in par daudſeem tohp <corr>isleetas</corr><sic>irleetas</sic>/ par</div>
+      </div>
+      <pb n="23"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_23_1"/>
+        <div type="Language" lang="Latvian">Pameẜchanu to Grehku/ to darrajt/ zeekkahrt juhs to dſerreet/</div>
+       <lb id="VLH1685_Cat_23_2"/>
+        <div type="Language" lang="Latvian">mannis peeminnedami.</div>
+       <lb id="VLH1685_Cat_23_3"/>
+        <div type="Language" lang="Latvian"><corr>Ko</corr><sic>Ķo</sic> palihdſ tahda Ehẜchana ir Dſerrẜchana pee Deewa Galda? Atbildi:</div>
+       <lb id="VLH1685_Cat_23_4"/>
+        <div type="Language" lang="Latvian">To muhs mahza tee Wahrdi: Par jums dohts in isleets par Pameẜchanu</div>
+       <lb id="VLH1685_Cat_23_5"/>
+        <div type="Language" lang="Latvian">to Grehku: Jo mums eekẜch tahs Eeſtahdiẜchanas/ Grehkupeedohẜchana/</div>
+       <lb id="VLH1685_Cat_23_6"/>
+        <div type="Language" lang="Latvian">Dſihwiba in Ꞩwehtiba zaur ẜcheem Wahrdeem</div>
+       <lb id="VLH1685_Cat_23_7"/>
+        <div type="Language" lang="Latvian">dohta tohp: Jo/ kur Grehkupeedohẜchana irr/ tur irr arridſan Dſihwiba</div>
+       <lb id="VLH1685_Cat_23_8"/>
+        <div type="Language" lang="Latvian">in Ꞩwehtiba.</div>
+       <lb id="VLH1685_Cat_23_9"/>
+        <div type="Language" lang="Latvian">Kà warr Ehẜchana in Dſerẜchana ta Ꞩwehta Wakkar=Ehdeena tahdu</div>
+       <lb id="VLH1685_Cat_23_10"/>
+        <div type="Language" lang="Latvian">ļeelu Leetu padarriht? Atbildi:</div>
+       <lb id="VLH1685_Cat_23_11"/>
+        <div type="Language" lang="Latvian">Ehẜchana in Dſerẜchana pateeẜi to ne darra/ bet tee Wahrdi/ kas</div>
+       <lb id="VLH1685_Cat_23_12"/>
+        <div type="Language" lang="Latvian">tur ſtahw: Par jums dohts in isleets/ par <corr>Grehkupameẜchanas</corr><sic>Grehķupameẜchanas</sic>. Tee</div>
+       <lb id="VLH1685_Cat_23_13"/>
+        <div type="Language" lang="Latvian">Wahrdi irr ar tahs Ehẜchanas in Dſerẜchanas kà tas augſtakajs</div>
+       <lb id="VLH1685_Cat_23_14"/>
+        <div type="Language" lang="Latvian">Gabbals/ (Kà ta augſtaka Teeẜa/) ta Ꞩwehta Wakkar=Ehdeena;</div>
+       <lb id="VLH1685_Cat_23_15"/>
+        <div type="Language" lang="Latvian">In kas teem Wahrdeem tiz/ tas to dabbu/ ko tee ẜohla/ Ar wahrda/</div>
+       <lb id="VLH1685_Cat_23_16"/>
+        <div type="Language" lang="Latvian">Grehkupameẜchanu.</div>
+       <lb id="VLH1685_Cat_23_17"/>
+        <div type="Language" lang="Latvian">Kas to Ꞩwehtu Wakkar=Ehdeenu zeenigi waļka? Atbildi:</div>
+       <lb id="VLH1685_Cat_23_18"/>
+        <div type="Language" lang="Latvian">Gaweht/ ẜchķihſti maſgatees in ģehrbtees/ gan labba ahriẜchķa</div>
+       <lb id="VLH1685_Cat_23_19"/>
+        <div type="Language" lang="Latvian">Ꞩataiẜiẜchana irr; Bet tas irr zeenigs in labbi ẜataiẜijees/ kam</div>
+       <lb id="VLH1685_Cat_23_20"/>
+        <div type="Language" lang="Latvian">ta Tizziba us ẜcheem Wahrdeem: Par jums dohts in isleets par Grehkupameẜchanas.</div>
+       <lb id="VLH1685_Cat_23_21"/>
+        <div type="Language" lang="Latvian">Bet kas ẜcheem Wahrdeem ne tiz/ in mehtahs/</div>
+       <lb id="VLH1685_Cat_23_22"/>
+        <div type="Language" lang="Latvian">(ẜchaubijahs) tas irr nezeenigs in newehrts; Jo tas Wahrds/ Par</div>
+       <lb id="VLH1685_Cat_23_23"/>
+        <div type="Language" lang="Latvian">jums/ gribb tikkai tizzigas Ꞩirdis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_23_24"/>
+        <div type="Language" lang="Latvian">Rihta Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_23_25"/>
+        <div type="Language" lang="Latvian">Rihtôs/ kad tu zellees/ buhs tew Kruſtu meſt ẜewis preekẜchâ/ in</div>
+       <lb id="VLH1685_Cat_23_26"/>
+        <div type="Language" lang="Latvian">ẜazziht:</div>
+       <lb id="VLH1685_Cat_23_27"/>
+        <div type="Language" lang="Latvian">Nu palihdſi man Deews Tehws/ Deews Dehls/ in Deews</div>
+       <lb id="VLH1685_Cat_23_28"/>
+        <div type="Language" lang="Latvian">Ꞩwehtajs Gars/ Amen.</div>
+       <lb id="VLH1685_Cat_23_29"/>
+        <div type="Language" lang="Latvian">Es pateizu tew/ mans mihļajs Debbeẜu Tehws/ zaur Jeſu Kriſtu</div>
+       <lb id="VLH1685_Cat_23_30"/>
+        <div type="Language" lang="Latvian">tawu mihļu Dehlu mannu Kungu/ ka tu manni ẜcho isgahjuẜchu</div>
+       <lb id="VLH1685_Cat_23_31"/>
+        <div type="Language" lang="Latvian">Nakti no wiẜẜadas Nelaimibas in Breeẜmibas tik ẜchehligi</div>
+      </div>
+      <pb n="24"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_24_1"/>
+        <div type="Language" lang="Latvian">eẜẜi paglabbajs in paẜargajs: Es luhdſohs tewi/ tu gribbetu man</div>
+       <lb id="VLH1685_Cat_24_2"/>
+        <div type="Language" lang="Latvian">peedoht wiẜẜus mannus Grehkus/ kur es (noſeedſis in) ne pareiſi</div>
+       <lb id="VLH1685_Cat_24_3"/>
+        <div type="Language" lang="Latvian">darrijs eẜmu/ in manni ẜchodeen arridſan tik ẜchehligi paẜargaht/</div>
+       <lb id="VLH1685_Cat_24_4"/>
+        <div type="Language" lang="Latvian">par Grehkeem in wiſẜa Ļauna/ ka tew wiẜs mans Darbs in Dſihwoẜchana</div>
+       <lb id="VLH1685_Cat_24_5"/>
+        <div type="Language" lang="Latvian">patihk: Jo es pawehlu (in padohmu) tew/ Manni/ mannu</div>
+       <lb id="VLH1685_Cat_24_6"/>
+        <div type="Language" lang="Latvian">Meeẜu in Dwehẜel/ mannu Tehwu in Mahti/ mannus Kungus</div>
+       <lb id="VLH1685_Cat_24_7"/>
+        <div type="Language" lang="Latvian">in Wirẜuneekus/ mannusMahzitajus/ wiẜẜus Kriſtitus Ļaudis/</div>
+       <lb id="VLH1685_Cat_24_8"/>
+        <div type="Language" lang="Latvian">in wiẜẜas Leetas eekẜch tawu Rohku/ Taws Ꞩwehtajs Eņģels</div>
+       <lb id="VLH1685_Cat_24_9"/>
+        <div type="Language" lang="Latvian">laid paleek pee mannim/ ka tas ļauns Eenaidneeks manni ne</div>
+       <lb id="VLH1685_Cat_24_10"/>
+        <div type="Language" lang="Latvian">peewarr/ Amen</div>
+       <lb id="VLH1685_Cat_24_11"/>
+        <div type="Language" lang="Latvian">Muhẜu Tehws Debbeẜîs/ In kà wehl.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_24_12"/>
+        <div type="Language" lang="Latvian">Wakkara Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_24_13"/>
+        <div type="Language" lang="Latvian">Wakkarôs gulleht eedams/ buhs tew Kruſtu meſt ẜewis <corr>preekẜchâ</corr><sic>preekpreeķẜchâ</sic></div>
+       <lb id="VLH1685_Cat_24_14"/>
+        <div type="Language" lang="Latvian">/ in ẜazziht:</div>
+       <lb id="VLH1685_Cat_24_15"/>
+        <div type="Language" lang="Latvian">Nu palihdſi man Deews Tehws/ Deews Dehls/ in Deews</div>
+       <lb id="VLH1685_Cat_24_16"/>
+        <div type="Language" lang="Latvian">Ꞩwehtajs Gars/ Amen.</div>
+       <lb id="VLH1685_Cat_24_17"/>
+        <div type="Language" lang="Latvian">Es pateizu tew/ mans mihļajs Debbeẜu Tehws/ zaur Jeſu Kriſtu</div>
+       <lb id="VLH1685_Cat_24_18"/>
+        <div type="Language" lang="Latvian">tawu mihļu Dehlu mannu Kungu/ ka tu manni ẜcho isgahjuẜchu</div>
+       <lb id="VLH1685_Cat_24_19"/>
+        <div type="Language" lang="Latvian">Deenu/ no wiẜẜadas Nelaimibas in Breeẜmibas tik ſchehligi</div>
+       <lb id="VLH1685_Cat_24_20"/>
+        <div type="Language" lang="Latvian">eẜẜi paglabbajs in paẜargajs: Es luhdſohs tewi/ tu gribbetu man</div>
+       <lb id="VLH1685_Cat_24_21"/>
+        <div type="Language" lang="Latvian">peedoht wiſẜus mannus Grehkus/ kur es (noſeedſis in) nepareiſi</div>
+       <lb id="VLH1685_Cat_24_22"/>
+        <div type="Language" lang="Latvian">darrijs eẜmu/ in manni ẜcho tumẜchu Nakti arridſan tik ſchehligi</div>
+       <lb id="VLH1685_Cat_24_23"/>
+        <div type="Language" lang="Latvian">paẜargaht par Grehkeem in wiſẜa Ļauna/ ka tew wiẜs mans</div>
+       <lb id="VLH1685_Cat_24_24"/>
+        <div type="Language" lang="Latvian">Darbs in Dſihwoẜchana patihk: Jo es pawehļu (in padohmu) tew</div>
+       <lb id="VLH1685_Cat_24_25"/>
+        <div type="Language" lang="Latvian">mannu Meeẜu in Dwehẜel/ mannu Tehwu in Mahti/ mannus</div>
+       <lb id="VLH1685_Cat_24_26"/>
+        <div type="Language" lang="Latvian">Kungus in Wirẜuneekus/ mannus Mahzitajus/ wiẜẜus Kriſtitus</div>
+       <lb id="VLH1685_Cat_24_27"/>
+        <div type="Language" lang="Latvian">Ļaudis/ in wiẜẜas Leetas eekẜch tawu Rohku; Taws Ꞩwehts Eņgels</div>
+       <lb id="VLH1685_Cat_24_28"/>
+        <div type="Language" lang="Latvian">laid paleek pee mannim/ ka tas ļauns Eenaidneeks manni ne</div>
+       <lb id="VLH1685_Cat_24_29"/>
+        <div type="Language" lang="Latvian">peewarr/ Amen.</div>
+      </div>
+      <pb n="25"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_25_1"/>
+        <div type="Language" lang="Latvian">Muhẜu Tehws Debbeẜîs:</div>
+       <lb id="VLH1685_Cat_25_2"/>
+        <div type="Language" lang="Latvian">Deewa Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_25_3"/>
+        <div type="Language" lang="Latvian">Preekẜch Ehẜchanas.</div>
+       <lb id="VLH1685_Cat_25_4"/>
+        <div type="Language" lang="Latvian">Wiẜẜas Azzis gaida us tewi Kungs/ Tu teem Barribu dohd</div>
+       <lb id="VLH1685_Cat_25_5"/>
+        <div type="Language" lang="Latvian">ẜawâ Laikâ/ tu atwerr tawas dewigas Rohkas/ in peeehdini wiẜſus/</div>
+       <lb id="VLH1685_Cat_25_6"/>
+        <div type="Language" lang="Latvian">kas dſihwo/ ar labbu Prahtu.</div>
+       <lb id="VLH1685_Cat_25_7"/>
+        <div type="Language" lang="Latvian">Muhẜu Tehws Debbeẜîs.</div>
+       <lb id="VLH1685_Cat_25_8"/>
+        <div type="Language" lang="Latvian">Kungs Deews Debbeẜu Tehws/ ẜwehti muhs in ẜchihs tawas</div>
+       <lb id="VLH1685_Cat_25_9"/>
+        <div type="Language" lang="Latvian">Dahwanas/ ko mehs no tawas dewigas Mihlibas peejemmam/</div>
+       <lb id="VLH1685_Cat_25_10"/>
+        <div type="Language" lang="Latvian">zaur Jeſu Kriſtu muhẜu Kungu/ Amen.</div>
+       <lb id="VLH1685_Cat_25_11"/>
+        <div type="Language" lang="Latvian">Deews muhẜu Tehws kas Debbeẜîs/</div>
+       <lb id="VLH1685_Cat_25_12"/>
+        <div type="Language" lang="Latvian">Mehs tawi Behrni wiẜẜi lihdſ/</div>
+       <lb id="VLH1685_Cat_25_13"/>
+        <div type="Language" lang="Latvian">No tewim luhdſam ẜirdigi/</div>
+       <lb id="VLH1685_Cat_25_14"/>
+        <div type="Language" lang="Latvian">Muhs gribbi baŗŗoht ſchehligi.</div>
+       <lb id="VLH1685_Cat_25_15"/>
+        <div type="Language" lang="Latvian">In tawu Rohku atdarriht/</div>
+       <lb id="VLH1685_Cat_25_16"/>
+        <div type="Language" lang="Latvian">Tohs isẜalkoẜchus peepildiht/</div>
+       <lb id="VLH1685_Cat_25_17"/>
+        <div type="Language" lang="Latvian">Dohd labbi Kohpâ ẜaderreht/</div>
+       <lb id="VLH1685_Cat_25_18"/>
+        <div type="Language" lang="Latvian">In dahrgus Laikus ne redſeht/</div>
+       <lb id="VLH1685_Cat_25_19"/>
+        <div type="Language" lang="Latvian">Ka warram dſihwoht ẜwehtigi/</div>
+       <lb id="VLH1685_Cat_25_20"/>
+        <div type="Language" lang="Latvian">In preezatees tur muhſchigi/</div>
+       <lb id="VLH1685_Cat_25_21"/>
+        <div type="Language" lang="Latvian">To dohd mums Jeſus Kriſtus pehz/</div>
+       <lb id="VLH1685_Cat_25_22"/>
+        <div type="Language" lang="Latvian">Ta Wahrda/ Amen/ ẜakkam mehs. Amen.</div>
+       <lb id="VLH1685_Cat_25_23"/>
+        <div type="Language" lang="Latvian">Deews gribbi ẜwehtiht/ gauẜinaht/</div>
+       <lb id="VLH1685_Cat_25_24"/>
+        <div type="Language" lang="Latvian">Ko tu mums tagad dewis/</div>
+       <lb id="VLH1685_Cat_25_25"/>
+        <div type="Language" lang="Latvian">Muhs wehl ikdeenâs apgahdaht/</div>
+       <lb id="VLH1685_Cat_25_26"/>
+        <div type="Language" lang="Latvian">Mehs gaidam ween us tewis. Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_25_27"/>
+        <div type="Language" lang="Latvian">Deewa Luhgẜchana.</div>
+       <lb id="VLH1685_Cat_25_28"/>
+        <div type="Language" lang="Latvian">Pehz Ehẜchanas.</div>
+       <lb id="VLH1685_Cat_25_29"/>
+        <div type="Language" lang="Latvian">Pateizeet tam Kungam/ jo tas irr mihligs/ in wiņņa Ꞩchehla</div>
+       <div type="Sheet">ꞨchehlaD</div>
+      </div>
+      <pb n="26"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_26_1"/>
+        <div type="Language" lang="Latvian">ſtiba paleek muhſchigi; Kas wiſẜai Meeſai Barribu dohd/ kas</div>
+       <lb id="VLH1685_Cat_26_2"/>
+        <div type="Language" lang="Latvian">Lohpeem ẜawu Ehdamu (Baŗŗoẜchanu) dohd/ Ir jauneem Kraukļeem</div>
+       <lb id="VLH1685_Cat_26_3"/>
+        <div type="Language" lang="Latvian">kas to peeẜauz: Tam Kungam newaida labs Prahts (Patihkẜchanas)</div>
+       <lb id="VLH1685_Cat_26_4"/>
+        <div type="Language" lang="Latvian">pee Sirgu ſtiprumu/ neds tam Prahts neſẜahs us Wihra</div>
+       <lb id="VLH1685_Cat_26_5"/>
+        <div type="Language" lang="Latvian">Leeleem: (Tam Kungam patihk tee/) Tam Kungam irr labs</div>
+       <lb id="VLH1685_Cat_26_6"/>
+        <div type="Language" lang="Latvian">Prahts pee teem/ kas wiņņu bihkſtahs/ in us wiņņa Schehlaſtibu</div>
+       <lb id="VLH1685_Cat_26_7"/>
+        <div type="Language" lang="Latvian">gaida.</div>
+       <lb id="VLH1685_Cat_26_8"/>
+        <div type="Language" lang="Latvian">Muhẜu Tehws Debbeẜîs.</div>
+       <lb id="VLH1685_Cat_26_9"/>
+        <div type="Language" lang="Latvian">Mehs pateizam tew/ Kungs <corr>Deews</corr><sic>Dews</sic> Debbeẜu Tehws zaur Jeſu</div>
+       <lb id="VLH1685_Cat_26_10"/>
+        <div type="Language" lang="Latvian">Kriſtu tawu mihļu Dehlu muhẜu Kungu/ par wiẜẜu tawu Labbadarriẜchanu/</div>
+       <lb id="VLH1685_Cat_26_11"/>
+        <div type="Language" lang="Latvian">kas tu dſihwo in waldi muhſchigi muhſchôs/ Amen.</div>
+       <lb id="VLH1685_Cat_26_12"/>
+        <div type="Language" lang="Latvian">Tew mihļajs Tehws mehs pateizam/</div>
+       <lb id="VLH1685_Cat_26_13"/>
+        <div type="Language" lang="Latvian">Par tawahm mihļahm Dahwanahm/</div>
+       <lb id="VLH1685_Cat_26_14"/>
+        <div type="Language" lang="Latvian">Mehs luhdſam/ dohd mums allaſchiņ/</div>
+       <lb id="VLH1685_Cat_26_15"/>
+        <div type="Language" lang="Latvian">Wehl muhẜu Maiſ in Barribiņ/</div>
+       <lb id="VLH1685_Cat_26_16"/>
+        <div type="Language" lang="Latvian">Ka mums pee Meeẜahm/ Deews in gan/</div>
+       <lb id="VLH1685_Cat_26_17"/>
+        <div type="Language" lang="Latvian">Pee Dwehẜelites arridſan/</div>
+       <lb id="VLH1685_Cat_26_18"/>
+        <div type="Language" lang="Latvian">To luhdſam tawa Wahrda pehz</div>
+       <lb id="VLH1685_Cat_26_19"/>
+        <div type="Language" lang="Latvian">Dohd/ ka ikweens tohp muhſcham ẜwehts! Amen.</div>
+       <lb id="VLH1685_Cat_26_20"/>
+        <div type="Language" lang="Latvian">Tew/ Deewiņ/ ẜakkam Pateizib/</div>
+       <lb id="VLH1685_Cat_26_21"/>
+        <div type="Language" lang="Latvian">No Ꞩirds/ par wiẜẜu Labbu/</div>
+       <lb id="VLH1685_Cat_26_22"/>
+        <div type="Language" lang="Latvian">Lai katrs wehl tawu Schehlaſtib/</div>
+       <lb id="VLH1685_Cat_26_23"/>
+        <div type="Language" lang="Latvian">In ẜawu Maiſiht dabbu. Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_26_24"/>
+       <div type="Language" lang="German">Die Haup=Tafel.</div>
+       <lb id="VLH1685_Cat_26_25"/>
+        <div type="Language" lang="Latvian">Jkkatram Zilwekam.</div>
+       <lb id="VLH1685_Cat_26_26"/>
+        <div type="Language" lang="Latvian">Kuŗŗâ Wehrtê Deews wiņņu lizzis/ Ikbrihẜchu</div>
+       <lb id="VLH1685_Cat_26_27"/>
+        <div type="Language" lang="Latvian">pee Ꞩirds turrama Mahziba.</div>
+       <lb id="VLH1685_Cat_26_28"/>
+        <div type="Language" lang="Latvian">Teem Biẜkupeem/ Baſnizas Kungeem/ in Mahzitajeem.</div>
+       <lb id="VLH1685_Cat_26_29"/>
+        <div type="Language" lang="Latvian">BJẜkupam buhs nenoſeedſigam buht/ weenas Ꞩeewas Wihram/</div>
+       <lb id="VLH1685_Cat_26_30"/>
+        <div type="Language" lang="Latvian">prahtigam/ lehnigam/ gauẜigam/ Mahjotajam/ Mahzitajam</div>
+      </div>
+      <pb n="26"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_26_1"/>
+        <div type="Language" lang="Latvian">kà Deewa Namma Usraugam/ ne Dſehrejam/ ne Rehjejam/</div>
+       <lb id="VLH1685_Cat_26_2"/>
+        <div type="Language" lang="Latvian">ne Kawejam/ ne Plehẜejam/ kas ẜawu paẜchu Nammu labbi walda/</div>
+       <lb id="VLH1685_Cat_26_3"/>
+        <div type="Language" lang="Latvian">kam paklauẜigi Behrni irr eekẜch wiẜẜa Gohda: Ne Jauntizzigam</div>
+       <lb id="VLH1685_Cat_26_4"/>
+        <div type="Language" lang="Latvian">(kas nu tikkai muhẜu Tizzibu uhsjehmees irr) bet kas pahrſtahweht</div>
+       <lb id="VLH1685_Cat_26_5"/>
+        <div type="Language" lang="Latvian">mahk to Wahrdu kas pateeẜs irr/ in kas zittus mahziht</div>
+       <lb id="VLH1685_Cat_26_6"/>
+        <div type="Language" lang="Latvian">warr/ Spehjus peekohdinaht pateeẜas Mahzibas/ in uswarreht</div>
+       <lb id="VLH1685_Cat_26_7"/>
+        <div type="Language" lang="Latvian">tohs Prettibneekus/ (kas wiltigu Mahzibu mahza)</div>
+       <div type="Language" lang="Latin">1. Tim. 3.</div>
+       <lb id="VLH1685_Cat_26_8"/>
+        <div type="Language" lang="Latvian">Teem Deewa Wahrda Klauẜitajeem.</div>
+       <lb id="VLH1685_Cat_26_9"/>
+        <div type="Language" lang="Latvian">Juhs Mahzitaji Ehdeet in dſerreet kas teem pee Rohkas/ jo</div>
+       <lb id="VLH1685_Cat_26_10"/>
+        <div type="Language" lang="Latvian">Strahdneeks irr ẜawu Algu pelnijs.</div>
+       <div type="Language" lang="Latin">Luc. 10.</div>
+       <lb id="VLH1685_Cat_26_11"/>
+        <div type="Language" lang="Latvian">Deews Kungs irr pawehlejs/ kas to Ewanģiljumu mahza/</div>
+       <lb id="VLH1685_Cat_26_12"/>
+        <div type="Language" lang="Latvian">teem buhs no Ewanģiljuma usturretees.</div>
+       <div type="Language" lang="Latin">1. Cor. 9.</div>
+       <lb id="VLH1685_Cat_26_13"/>
+        <div type="Language" lang="Latvian">Mahzams ar Deewa Wahrda laid peemet wiẜẜadu Labbumu</div>
+       <lb id="VLH1685_Cat_26_14"/>
+        <div type="Language" lang="Latvian">tam/ kas to mahza; Ne ģeķķojatees/ Deews ne leekahs apẜmeetees.</div>
+       <lb id="VLH1685_Cat_26_15"/>
+        <div type="Language" lang="Latvian">Wezzakee/ kas labbi walda/ ohtruteek zeenijamee irr; wiẜẜuwairak</div>
+       <lb id="VLH1685_Cat_26_16"/>
+        <div type="Language" lang="Latvian">tee/ kas darbojahs apkahrt Deewa Wahrdu/ in Mahzibu. Jo</div>
+       <lb id="VLH1685_Cat_26_17"/>
+        <div type="Language" lang="Latvian">tee Deewa Rakſti ẜakka: Wehrẜcham kas ſtrahda/ ne buhs Mutti</div>
+       <lb id="VLH1685_Cat_26_18"/>
+        <div type="Language" lang="Latvian">ais=ẜeet/ in Strahdneeks ẜawu Algu pelnahs.</div>
+       <lb id="VLH1685_Cat_26_19"/>
+        <div type="Language" lang="Latvian">Mehs luhdſam juhs/ Mihļee Brahļi/ ka juhs atſihſtaht tohs/ kas</div>
+       <lb id="VLH1685_Cat_26_20"/>
+        <div type="Language" lang="Latvian">apkahrt jums darbojahs in juhs usrauga eekẜch (Deewa) Kunga/</div>
+       <lb id="VLH1685_Cat_26_21"/>
+        <div type="Language" lang="Latvian">in juhs mahza; Mihlejaht tohs wiẜẜuwairak/ wiņņo Darbu dehl/</div>
+       <lb id="VLH1685_Cat_26_22"/>
+        <div type="Language" lang="Latvian">in dſihwojaht meerigi ar teem.</div>
+       <lb id="VLH1685_Cat_26_23"/>
+        <div type="Language" lang="Latvian">Eẜẜeet paklauẜigee ẜaweem Mahzitajeem/ in darrajt/ kà tee juhs</div>
+       <lb id="VLH1685_Cat_26_24"/>
+        <div type="Language" lang="Latvian">mahza/ jo tee mohdrigi ſtahw par juhẜahm Dwehẜelehm/ ſinnadami/</div>
+       <lb id="VLH1685_Cat_26_25"/>
+        <div type="Language" lang="Latvian">ka teem buhs atbildeht Deewam par tahm/ lai tee ar Preeku</div>
+       <lb id="VLH1685_Cat_26_26"/>
+        <div type="Language" lang="Latvian">ẜawu Darbu darra/ in ne ar Nopuhtahm/ jo tas jums newaida</div>
+       <lb id="VLH1685_Cat_26_27"/>
+        <div type="Language" lang="Latvian">labbi.</div>
+       <lb id="VLH1685_Cat_26_28"/>
+        <div type="Language" lang="Latvian">Teem Waldineekeem.</div>
+       <lb id="VLH1685_Cat_26_29"/>
+        <div type="Language" lang="Latvian">Ikweenam buhs Waldineekeem paklauẜigam buht/ kas pahr</div>
+       <lb id="VLH1685_Cat_26_30"/>
+        <div type="Language" lang="Latvian">wiņņu walda: Jo ne weens Waldineeks irr/ ko Deews ne buhtu</div>
+       <lb id="VLH1685_Cat_26_31"/>
+       <div type="Sheet">D ij</div>
+      </div>
+      <pb n="27"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_27_1"/>
+        <div type="Language" lang="Latvian">zehlis: Kas nu Wirẜuneekam in Kungam pretti turrahs/ tas</div>
+       <lb id="VLH1685_Cat_27_2"/>
+        <div type="Language" lang="Latvian">turrahs prett Deewa Zehlumu; Bet kas pretti turrahs/ tee gŗuhtu</div>
+       <lb id="VLH1685_Cat_27_3"/>
+        <div type="Language" lang="Latvian">Teeẜu pahr ẜewim dabbuẜees. Jo Waldineeki to Sohbini</div>
+       <lb id="VLH1685_Cat_27_4"/>
+        <div type="Language" lang="Latvian">welti ne neẜẜa/ tee irr Deewa Kalpi/ in Atreebeji/ par Ꞩohdibu</div>
+       <lb id="VLH1685_Cat_27_5"/>
+        <div type="Language" lang="Latvian">teem/ kas ļaunu darra.</div>
+       <lb id="VLH1685_Cat_27_6"/>
+        <div type="Language" lang="Latvian">Teem Waldameem/ kas Kungus klauẜa.</div>
+       <lb id="VLH1685_Cat_27_7"/>
+        <div type="Language" lang="Latvian">Dohdeet Keiſeram/ kas Keiſeram peedarr/ in Deewam kas Deewam</div>
+       <lb id="VLH1685_Cat_27_8"/>
+        <div type="Language" lang="Latvian">peedarr.</div>
+       <lb id="VLH1685_Cat_27_9"/>
+        <div type="Language" lang="Latvian">Tad eẜẜeet nu paklauẜigi tahs Wajadſibas dehļ/ ne ween tahs</div>
+       <lb id="VLH1685_Cat_27_10"/>
+        <div type="Language" lang="Latvian">Ꞩohdibas/ bet ir paẜchas Atſinnaẜchanas labbâ. Tapehz buhs</div>
+       <lb id="VLH1685_Cat_27_11"/>
+        <div type="Language" lang="Latvian">jums Teeẜas doht/ jo tee irr Deewa kalpi/ kam ta Ļauſchu Glahbẜchana</div>
+       <lb id="VLH1685_Cat_27_12"/>
+        <div type="Language" lang="Latvian">jakohpj irr. Tapehz dohdeet ikweens/ kas jums jadohd irr;</div>
+       <lb id="VLH1685_Cat_27_13"/>
+        <div type="Language" lang="Latvian">Meẜlu/ kam Meẜlis peedarr; Muitu/ kam Muits peedarr.</div>
+       <lb id="VLH1685_Cat_27_14"/>
+        <div type="Language" lang="Latvian">To peekohdinaju es jums/ ka pahr wiẜẜahm Ļeetahm buhs luhgt/</div>
+       <lb id="VLH1685_Cat_27_15"/>
+        <div type="Language" lang="Latvian">Luhgẜchanas/ Preekẜchluhgẜchanas/ in Pateikẜchanas par wiẜẜeem</div>
+       <lb id="VLH1685_Cat_27_16"/>
+        <div type="Language" lang="Latvian">Zilwekeem/ par Ķehniņeem in wiẜẜeem Waldineekeem/ ka</div>
+       <lb id="VLH1685_Cat_27_17"/>
+        <div type="Language" lang="Latvian">mehs meerigi in rahmi dſihwoht warram/ eekẜch wiẜẜadas Deewabihjaẜchanas</div>
+       <lb id="VLH1685_Cat_27_18"/>
+        <div type="Language" lang="Latvian">in Gohda; Jo tas irr labbi/ in Deewam muhẜam</div>
+       <lb id="VLH1685_Cat_27_19"/>
+        <div type="Language" lang="Latvian">Peſtitajam pa Prahtam.</div>
+       <lb id="VLH1685_Cat_27_20"/>
+        <div type="Language" lang="Latvian">Peeminni teem/ laid tee Leeleem Kungeem in Waldineekeem</div>
+       <lb id="VLH1685_Cat_27_21"/>
+        <div type="Language" lang="Latvian">paklauẜigi in ſemmigi mettahs.</div>
+       <lb id="VLH1685_Cat_27_22"/>
+        <div type="Language" lang="Latvian">Eẜẜeet paklauẜigi wiẜẜeem Zilweku Likkumeem/ ta Kunga dehļ/</div>
+       <lb id="VLH1685_Cat_27_23"/>
+        <div type="Language" lang="Latvian">Lai buht tam Kehniņam/ kà tam Wirẜuneekam/ jeb teem Pils=</div>
+       <lb id="VLH1685_Cat_27_24"/>
+        <div type="Language" lang="Latvian">Kungeem/ jeb teem/ kas no wiņņa ẜuhtiti irr/ par Ꞩohdibu teem</div>
+       <lb id="VLH1685_Cat_27_25"/>
+        <div type="Language" lang="Latvian">Ļauneem/ in par Ꞩlawu teem Labbeem.</div>
+       <lb id="VLH1685_Cat_27_26"/>
+        <div type="Language" lang="Latvian">Teem Wihreem.</div>
+       <lb id="VLH1685_Cat_27_27"/>
+        <div type="Language" lang="Latvian">Juhs Wihri dſihwojeet pee ẜawahm Ꞩeewahm ar Prahtu/ in</div>
+       <lb id="VLH1685_Cat_27_28"/>
+        <div type="Language" lang="Latvian">dohdeet tahm Ꞩeewiẜchķahm/ kà tahm wahjakahm Zilweku Kahrtâ</div>
+       <lb id="VLH1685_Cat_27_29"/>
+        <div type="Language" lang="Latvian">ẜawu Gohdu/ kà juhẜa Luhgẜchana ne tohp kawehta; In ne eẜẜeet</div>
+       <lb id="VLH1685_Cat_27_30"/>
+        <div type="Language" lang="Latvian">tik bahrgi pretti tahm.</div>
+       <lb id="VLH1685_Cat_27_31"/>
+        <div type="Language" lang="Latvian">Tahm Ꞩeewahm.</div>
+       <lb id="VLH1685_Cat_27_32"/>
+        <div type="Language" lang="Latvian">Juhs Ꞩeewas eẜẜeet paklauẜigas ẜaweem Wihreem/ kà tam</div>
+      </div>
+      <pb n="28"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_28_1"/>
+        <div type="Language" lang="Latvian">Kungam/ kà Sara Abramam paklauẜiga bij/ in noẜauze to ẜawu</div>
+       <lb id="VLH1685_Cat_28_2"/>
+        <div type="Language" lang="Latvian">Kungu/ Kuŗŗas Meitas juhs kļu̇u̇ẜchas eẜẜeet/ ja juhs labbu darrajt/</div>
+       <lb id="VLH1685_Cat_28_3"/>
+        <div type="Language" lang="Latvian">in ne eẜẜeet tik bailigas.</div>
+       <lb id="VLH1685_Cat_28_4"/>
+        <div type="Language" lang="Latvian">Teem Wezzakeem.</div>
+       <lb id="VLH1685_Cat_28_5"/>
+        <div type="Language" lang="Latvian">Juhs Wezzakee ne kaitinajeet ẜawus Behrnus us Duẜmahm/</div>
+       <lb id="VLH1685_Cat_28_6"/>
+        <div type="Language" lang="Latvian">ka tee ne kluhſt bailigi; Bet usaudſinajeet tohs eekẜch Pahrmahziẜchanas</div>
+       <lb id="VLH1685_Cat_28_7"/>
+        <div type="Language" lang="Latvian">in Pamahziẜchanas us Kungu.</div>
+       <lb id="VLH1685_Cat_28_8"/>
+        <div type="Language" lang="Latvian">Teem Behrneem.</div>
+       <lb id="VLH1685_Cat_28_9"/>
+        <div type="Language" lang="Latvian">Juhs Behrni eẜẜeet paklauẜigi ẜaweem Wezzakeem eekẜch Kunga/</div>
+       <lb id="VLH1685_Cat_28_10"/>
+        <div type="Language" lang="Latvian">jo tas peeklahjahs: Tew buhs Teewu in Mahti zeeniht/ tas irr</div>
+       <lb id="VLH1685_Cat_28_11"/>
+        <div type="Language" lang="Latvian">pirmajs Bauẜlis/ kas to Ꞩohliẜchanu dohd/ ka tew labbi klahjahs/</div>
+       <lb id="VLH1685_Cat_28_12"/>
+        <div type="Language" lang="Latvian">in tu ilgi dſihwo us Semmes.</div>
+       <lb id="VLH1685_Cat_28_13"/>
+        <div type="Language" lang="Latvian">Teem Kalpeem/ Kalponehm/ Algadſcheem in Darbuneekeem.</div>
+       <lb id="VLH1685_Cat_28_14"/>
+        <div type="Language" lang="Latvian">Juhs Kalpi eẜẜeet paklauẜigi ẜaweem laizigeem Kungeem</div>
+       <lb id="VLH1685_Cat_28_15"/>
+        <div type="Language" lang="Latvian">ar Bailehm in Trihẜeẜchanahm/ eekẜch weenteeẜigas</div>
+       <lb id="VLH1685_Cat_28_16"/>
+        <div type="Language" lang="Latvian">Ꞩirds/ kà paẜcham Kriſtum; Ne ween preekẜch Azzim klauẜidami/</div>
+       <lb id="VLH1685_Cat_28_17"/>
+        <div type="Language" lang="Latvian">Zilwekeem gribbedami patikt/ Bet kà tee Kalpi Kriſtus/ ka</div>
+       <lb id="VLH1685_Cat_28_18"/>
+        <div type="Language" lang="Latvian">juhs tahdu Deewa Prahtu darrajt no Ꞩirds/ ar labbu Prahtu.</div>
+       <lb id="VLH1685_Cat_28_19"/>
+        <div type="Language" lang="Latvian">Dohmajaht/ ka juhs tam Kungam/ in ne (ween) Zilwekeem kalpojeet/</div>
+       <lb id="VLH1685_Cat_28_20"/>
+        <div type="Language" lang="Latvian">ſinnadami/ ko ikkatrs labba darra/ to wiņſch dabbuhs/ tik labbi</div>
+       <lb id="VLH1685_Cat_28_21"/>
+        <div type="Language" lang="Latvian">Kalps/ kà Waļļineeks bijis.</div>
+       <lb id="VLH1685_Cat_28_22"/>
+        <div type="Language" lang="Latvian">Teem Kungeem in <corr>Gaſpaſchahm</corr><sic>Gaſpaſchahm=</sic>.</div>
+       <lb id="VLH1685_Cat_28_23"/>
+        <div type="Language" lang="Latvian">Juhs Kungi/ darrajt to paẜchu prett Wiņņeem/ ne eẜẜeet tik</div>
+       <lb id="VLH1685_Cat_28_24"/>
+        <div type="Language" lang="Latvian">bahrgi/ in ſinnajt/ ka jums arridſan Kungs irr Debbeẜîs/ kas ne</div>
+       <lb id="VLH1685_Cat_28_25"/>
+        <div type="Language" lang="Latvian">rauga ne weenu.</div>
+       <lb id="VLH1685_Cat_28_26"/>
+        <div type="Language" lang="Latvian">Teem Jaunekļeem,</div>
+       <lb id="VLH1685_Cat_28_27"/>
+        <div type="Language" lang="Latvian">Juhs Jaunee eẜẜeet teem Wezzakeem paklauſigi/ in parahdajt</div>
+       <lb id="VLH1685_Cat_28_28"/>
+        <div type="Language" lang="Latvian">ar to ẜawu Semmoẜchanu/ Jo Deews turrahs prett Lepneem/ bet</div>
+       <lb id="VLH1685_Cat_28_29"/>
+        <div type="Language" lang="Latvian">teem Semmigeem dohd wiņſch ẜawu Schehlaſtibu. Tad ſemmojatees</div>
+       <lb id="VLH1685_Cat_28_30"/>
+        <div type="Language" lang="Latvian">nu appakẜch Deewa ſpehzigu Rohku/ ka wiņſch juhs pa=augſtina</div>
+       <lb id="VLH1685_Cat_28_31"/>
+        <div type="Language" lang="Latvian">in pazell ẜawa Laikâ</div>
+       <lb id="VLH1685_Cat_28_32"/>
+        <div type="Language" lang="Latvian">Tahm Atraitnehm.</div>
+       <lb id="VLH1685_Cat_28_33"/>
+       <div type="Sheet">D iij</div>
+      </div>
+      <pb n="29"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_29_1"/>
+        <div type="Language" lang="Latvian">Kas ihſtena Atraitne in weena pameſta irr/ ta zerre us Deewu/</div>
+       <lb id="VLH1685_Cat_29_2"/>
+        <div type="Language" lang="Latvian">in paleek pee Luhgẜchanas Deenâs in Naktîs; Bet kas eekẜch</div>
+       <lb id="VLH1685_Cat_29_3"/>
+        <div type="Language" lang="Latvian">Kahribas dſihwo/ ta jaw dſihwa irr nomirruẜi.</div>
+       <lb id="VLH1685_Cat_29_4"/>
+        <div type="Language" lang="Latvian">Wiẜẜeem Zilwekeem.</div>
+       <lb id="VLH1685_Cat_29_5"/>
+        <div type="Language" lang="Latvian">Mihle tawu Tuwaku/ kà ẜewi paẜchu: Tammî Wahrdâ irr</div>
+       <lb id="VLH1685_Cat_29_6"/>
+        <div type="Language" lang="Latvian">wiſẜi Bauẜchli ẜajemti. In ne atmetteet tahs Luhgẜchanas par</div>
+       <lb id="VLH1685_Cat_29_7"/>
+        <div type="Language" lang="Latvian">wiſẜeem Zilwekeem.</div>
+       <lb id="VLH1685_Cat_29_8"/>
+        <div type="Language" lang="Latvian">To darri/ kas tew peeklahjahs/</div>
+       <lb id="VLH1685_Cat_29_9"/>
+        <div type="Language" lang="Latvian">Taws Deewiņſch tewi paẜargahs.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_29_10"/>
+        <div type="Language" lang="Latvian">Ta Laulaẜchana.</div>
+       <lb id="VLH1685_Cat_29_11"/>
+        <div type="Language" lang="Latvian">Apẜohliti Ļaudis/ kad luhdſahs laulajamee/ tad tee Baſnizâ</div>
+       <lb id="VLH1685_Cat_29_12"/>
+        <div type="Language" lang="Latvian">papreekẜcha no Baſnizas Kunga pee Wahrdeem trihs Reiſas ja=</div>
+       <lb id="VLH1685_Cat_29_13"/>
+        <div type="Language" lang="Latvian">uszauz irr.</div>
+       <lb id="VLH1685_Cat_29_14"/>
+        <div type="Language" lang="Latvian">Usẜaukẜchana.</div>
+       <lb id="VLH1685_Cat_29_15"/>
+        <div type="Language" lang="Latvian">Weens (brihſcham ir wairak/) Pahris ẜaderrehto Ļauſchu irr/ kas</div>
+       <lb id="VLH1685_Cat_29_16"/>
+        <div type="Language" lang="Latvian">pehz Deewa Isredſeẜchanas in Likkumu/ eekẜch Ꞩwehtas Laulibas</div>
+       <lb id="VLH1685_Cat_29_17"/>
+        <div type="Language" lang="Latvian">grib ẜa=eetees in jemtees/ in kļuhſt ẜchodeen pirmu/ (ohtru/ treẜchu/)</div>
+       <lb id="VLH1685_Cat_29_18"/>
+        <div type="Language" lang="Latvian">Reiſu noẜaukti:</div>
+       <lb id="VLH1685_Cat_29_19"/>
+        <div type="Language" lang="Latvian">Tas Bruhdgans irr N: N:</div>
+       <lb id="VLH1685_Cat_29_20"/>
+        <div type="Language" lang="Latvian">Ta Bruhta N: N:</div>
+       <lb id="VLH1685_Cat_29_21"/>
+        <div type="Language" lang="Latvian">Ꞩchee luhdſahs to Kriſtitu Draudſibu/ laid ta wiņņus arridſan</div>
+       <lb id="VLH1685_Cat_29_22"/>
+        <div type="Language" lang="Latvian">eekẜch ẜawas ẜirdigas Luhgẜchanas preekẜch Deewa peemin/</div>
+       <lb id="VLH1685_Cat_29_23"/>
+        <div type="Language" lang="Latvian">ka wiņņu Lauliba ar Deewa ẜahkama/ Deewam par Gohdu/ in</div>
+       <lb id="VLH1685_Cat_29_24"/>
+        <div type="Language" lang="Latvian">paẜcheem par labbu/ laimigi isdohdahs. Ja ẜcheitan kahdam</div>
+       <lb id="VLH1685_Cat_29_25"/>
+        <div type="Language" lang="Latvian">Zilwekam pretti jarunna/ tas lai darra to pee Laika/ in zeeẜch pehz</div>
+       <lb id="VLH1685_Cat_29_26"/>
+        <div type="Language" lang="Latvian">kluẜẜu. Mehs teem no Deewa luhdſam in no Ꞩirds wehlejam</div>
+       <lb id="VLH1685_Cat_29_27"/>
+        <div type="Language" lang="Latvian">laimigu Ꞩa=eeẜchanas ſtundiņu/ Meerigu Dſihwoſchanu/ <corr>Weẜẜelibu</corr><sic>WeẜẜeWeẜẜebu</sic></div>
+       <lb id="VLH1685_Cat_29_28"/>
+        <div type="Language" lang="Latvian">/ Gauẜu/ in Deewa Schehlaſtibu/ in wiẜẜu/ kas teem pee Meeẜas</div>
+       <lb id="VLH1685_Cat_29_29"/>
+        <div type="Language" lang="Latvian">in Dwehẜeles dſihwojoht wajaga buhs/ to lai Deews wiņņeem</div>
+       <lb id="VLH1685_Cat_29_30"/>
+        <div type="Language" lang="Latvian">ar ẜawu baggatu Rohku peemett/ no Kriſtus puẜẜes/ Amen.</div>
+      </div>
+      <pb n="30"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_30_1"/>
+        <div type="Language" lang="Latvian">Patta Laulaẜchana.</div>
+       <lb id="VLH1685_Cat_30_2"/>
+        <div type="Language" lang="Latvian">Kad nu juhs diwi/ pehz Deewa ẜwehtu Prahtu/ ẜchodeen gribbatees/</div>
+       <lb id="VLH1685_Cat_30_3"/>
+        <div type="Language" lang="Latvian">tad waizaju es tewi N: N: Gribbi tu ẜcho tawu apẜohlitu</div>
+       <lb id="VLH1685_Cat_30_4"/>
+        <div type="Language" lang="Latvian">Bruhtu N: par tawu laulatu Draugu usjemt/ wiņņu mihleht/</div>
+       <lb id="VLH1685_Cat_30_5"/>
+        <div type="Language" lang="Latvian">ar wiņņas dſihwoht in iszeeſt Labbu in Ļaunu/ Laimu in Nelaimi/</div>
+       <lb id="VLH1685_Cat_30_6"/>
+        <div type="Language" lang="Latvian">Weẜẜelibu in Neweẜẜelibu/ Baggatibu in Nabbadſibu/ in</div>
+       <lb id="VLH1685_Cat_30_7"/>
+        <div type="Language" lang="Latvian">to wiẜẜu/ ko Deews jums abbejeem peeẜuhtihs; Neds gribbi arridſan</div>
+       <lb id="VLH1685_Cat_30_8"/>
+        <div type="Language" lang="Latvian">no tahs ẜchkirtees/ kamehr pats Deews juhs ẜchķirs zaur laizigu</div>
+       <lb id="VLH1685_Cat_30_9"/>
+        <div type="Language" lang="Latvian">Nahwi; Tad tu to apẜohlees preekẜch Deewa Ꞩwehta Waiga/</div>
+       <lb id="VLH1685_Cat_30_10"/>
+        <div type="Language" lang="Latvian">preekẜch mannim tawa Mahzitaja/ in preekẜch ẜcheem Kriſtiteem</div>
+       <lb id="VLH1685_Cat_30_11"/>
+        <div type="Language" lang="Latvian">Ļaudim/ ẜazzidams/ Ja/ Es gribbu:</div>
+       <lb id="VLH1685_Cat_30_12"/>
+        <div type="Language" lang="Latvian">Tàpatt Es tewi arridſan jautaju N: N: Gribbi tu ẜcho tawu</div>
+       <lb id="VLH1685_Cat_30_13"/>
+        <div type="Language" lang="Latvian">apẜohlitu Bruhdganu/ N: N: jemt par tawu laulatu Draugu/</div>
+       <lb id="VLH1685_Cat_30_14"/>
+        <div type="Language" lang="Latvian">wiņņu mihleht/ ar wiņņa dſihwoht in iszeeſt/ Labbu in Ļaunu/</div>
+       <lb id="VLH1685_Cat_30_15"/>
+        <div type="Language" lang="Latvian">Laimu in Nelaimi/ Weẜẜelibu in Neweẜẜelibu/ Baggatibu in</div>
+       <lb id="VLH1685_Cat_30_16"/>
+        <div type="Language" lang="Latvian">Nabbadſibu/ in to wiẜẜu/ ko Deews jums abbejeem peeẜuhtihs;</div>
+       <lb id="VLH1685_Cat_30_17"/>
+        <div type="Language" lang="Latvian">Neds gribbi arridſan no ta ẜchķirtees/ kamehr pats Deews juhs</div>
+       <lb id="VLH1685_Cat_30_18"/>
+        <div type="Language" lang="Latvian">ẜchķirs zaur laizigu Nahwi; Tad tu to apẜohlees preekẜch Deewa</div>
+       <lb id="VLH1685_Cat_30_19"/>
+        <div type="Language" lang="Latvian">Ꞩwehta Waiga/ preekẜch mannim tawa Mahzitaja/ in preekẜch</div>
+       <lb id="VLH1685_Cat_30_20"/>
+        <div type="Language" lang="Latvian">ẜcheem Kriſtiteem Ļaudim/ ẜazzidama. Ja/ Es gribbu.</div>
+       <lb id="VLH1685_Cat_30_21"/>
+        <div type="Language" lang="Latvian">Pehz to Gredſenus pahrmihjahs/ in labbas Rohkas dohdahs.</div>
+       <lb id="VLH1685_Cat_30_22"/>
+        <div type="Language" lang="Latvian">Kad pehz tee Laulajamee us zeļļeem mettuẜchees/ Gredſenus pahrmihjuẜchi/</div>
+       <lb id="VLH1685_Cat_30_23"/>
+        <div type="Language" lang="Latvian">in labbas Rohkas ẜadewuẜchees irr/ tad wiņņu Rohkas ar ẜawu Rohku</div>
+       <lb id="VLH1685_Cat_30_24"/>
+        <div type="Language" lang="Latvian">ẜatwehris/ lai tà ẜakka/ kas tohs laula/ Mahzitajs.</div>
+       <lb id="VLH1685_Cat_30_25"/>
+        <div type="Language" lang="Latvian">Ko Deews kohpâ ẜalaulajs irr/ to ne buhs ne <corr>kahdam</corr><sic>ķahdam</sic> Zilwekam</div>
+       <lb id="VLH1685_Cat_30_26"/>
+        <div type="Language" lang="Latvian">atẜchķirt:</div>
+       <lb id="VLH1685_Cat_30_27"/>
+        <div type="Language" lang="Latvian">Kad nu ẜchee diwi/ N: in N: weens ohtru par laulatu Draugu</div>
+       <lb id="VLH1685_Cat_30_28"/>
+        <div type="Language" lang="Latvian">gribbahs/ in to taggad preekẜch Deewa Waiga/ preekẜch mannim/</div>
+       <lb id="VLH1685_Cat_30_29"/>
+        <div type="Language" lang="Latvian">in ẜchihs Draudſibas apẜohlahs/ in tadehl weens ohtram Rohkas</div>
+       <lb id="VLH1685_Cat_30_30"/>
+        <div type="Language" lang="Latvian">in Laulibas Gredſenus dewuẜchees irr; Tad ẜalaulaju es tohs kohpâ/</div>
+       <lb id="VLH1685_Cat_30_31"/>
+        <div type="Language" lang="Latvian">us to Wahrdu Deewa ta Tehwa/ Deewa ta Dehla/ in Deewa</div>
+       <lb id="VLH1685_Cat_30_32"/>
+        <div type="Language" lang="Latvian">ta zeeniga Ꞩwehta Garra/ Amen.</div>
+      </div>
+      <pb n="31"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_31_1"/>
+        <div type="Language" lang="Latvian">Klauẜajtees nu nolaẜẜam Deewa Wahrdu:</div>
+       <lb id="VLH1685_Cat_31_2"/>
+        <div type="Language" lang="Latvian">Deews tas Kungs ẜazzija: Tas newaid labs/ ka Zilweks weens</div>
+       <lb id="VLH1685_Cat_31_3"/>
+        <div type="Language" lang="Latvian">irr/ Es tam gribbu Paligu darriht/ kas lihdſ ar wiņņu warr</div>
+       <lb id="VLH1685_Cat_31_4"/>
+        <div type="Language" lang="Latvian">buht. Tad likka tas Kungs Deews zeetu Meegu tam Zilwekam</div>
+       <lb id="VLH1685_Cat_31_5"/>
+        <div type="Language" lang="Latvian">useet/ in tas aismigga: In Deews jehme weenu no ta paẜcha</div>
+       <lb id="VLH1685_Cat_31_6"/>
+        <div type="Language" lang="Latvian">Ꞩahnkauleem/ in pildija to Weetu ar Meeẜu. In Deews raddija</div>
+       <lb id="VLH1685_Cat_31_7"/>
+        <div type="Language" lang="Latvian">weenu Ꞩeewu no ta Ꞩahnkaula/ ko tas no ta Zilweka jehmis bij/ in</div>
+       <lb id="VLH1685_Cat_31_8"/>
+        <div type="Language" lang="Latvian">peewedde to pee wiņņu. In tas Zilweks ẜazzija: Ꞩchi nu kauls no</div>
+       <lb id="VLH1685_Cat_31_9"/>
+        <div type="Language" lang="Latvian">manneem Kauleem/ in Meeẜas no mannahm Meeẜahm/ wiņņa taps</div>
+       <lb id="VLH1685_Cat_31_10"/>
+        <div type="Language" lang="Latvian">Wihriẜchķa ẜauktu/ jo ta no Wihra jemta irr. (no Wihra zehluẜees.)</div>
+       <lb id="VLH1685_Cat_31_11"/>
+        <div type="Language" lang="Latvian">Tapehz Wihrs ẜawu Tehwu in ẜawu Maht atſtahs/ in pee ẜawas</div>
+       <lb id="VLH1685_Cat_31_12"/>
+        <div type="Language" lang="Latvian">Ꞩeewas turreẜees/ in tee buhs weenas paẜchas Meeẜas.</div>
+       <lb id="VLH1685_Cat_31_13"/>
+        <div type="Language" lang="Latvian">Kad juhs nu ẜewi eẜẜeet eekẜch Ꞩwehtas Laulibas padewuẜchees/</div>
+       <lb id="VLH1685_Cat_31_14"/>
+        <div type="Language" lang="Latvian">ar Deewa Paligu; Tad klauẜajtees papreekẜcha Deewa Pawehleẜchanu</div>
+       <lb id="VLH1685_Cat_31_15"/>
+        <div type="Language" lang="Latvian">pahr to Laulibu.</div>
+       <lb id="VLH1685_Cat_31_16"/>
+        <div type="Language" lang="Latvian">Tà mahza tas Ꞩwehts Pahwuls.</div>
+       <lb id="VLH1685_Cat_31_17"/>
+        <div type="Language" lang="Latvian">Tahm Ꞩeewahm buhs paklauẜigahm buht ẜaweem Wihreem/</div>
+       <lb id="VLH1685_Cat_31_18"/>
+        <div type="Language" lang="Latvian">kà tam Kungam/ jo tas Wihrs irr Ꞩeewas Galwineeks/ lihdſ kà</div>
+       <lb id="VLH1685_Cat_31_19"/>
+        <div type="Language" lang="Latvian">Kriſtus ẜawas Draudſes Galwineeks irr/ in ẜawas Meeẜas Peſtitajs.</div>
+       <lb id="VLH1685_Cat_31_20"/>
+        <div type="Language" lang="Latvian">Kà nu ta Draudſe irr Kriſtum paklauẜiga/ tà buhs arridſan</div>
+       <lb id="VLH1685_Cat_31_21"/>
+        <div type="Language" lang="Latvian">Ꞩeewahm ẜaweem Wihreem paklauẜigahm buht wiẜẜâs Leetâs.</div>
+       <lb id="VLH1685_Cat_31_22"/>
+        <div type="Language" lang="Latvian">Juhs Wihri/ mihlejaht ẜawas Ꞩeewas/ kà Kriſtus mihlejs irr</div>
+       <lb id="VLH1685_Cat_31_23"/>
+        <div type="Language" lang="Latvian">to Draudſi/ in ẜewi pats par tahs nodewees/ ka wiņſch to ẜwehtitu/</div>
+       <lb id="VLH1685_Cat_31_24"/>
+        <div type="Language" lang="Latvian">in irr to ẜchķihſtijs zaur Uhdens pehrẜchanu eekẜch (Deewa)</div>
+       <lb id="VLH1685_Cat_31_25"/>
+        <div type="Language" lang="Latvian">Wahrda/ ka wiņſch ẜew paẜcham ẜataiẜitu weenu Draudſibu/ kas</div>
+       <lb id="VLH1685_Cat_31_26"/>
+        <div type="Language" lang="Latvian">buhtu krahẜna/ kam ne buhtu kahda Traipikļa/ nei Grumbas/ neds</div>
+       <lb id="VLH1685_Cat_31_27"/>
+        <div type="Language" lang="Latvian">zittas kahdas Wainas/ bet kas ẜwehta in taiẜna buhtu. Tà buhs</div>
+       <lb id="VLH1685_Cat_31_28"/>
+        <div type="Language" lang="Latvian">arridſan teem Wihreem ẜawas Ꞩeewas mihleht/ kà ẜawas paẜchas</div>
+       <lb id="VLH1685_Cat_31_29"/>
+        <div type="Language" lang="Latvian">Meeẜas; Kas ẜawu Ꞩeewu mihle/ tas mihle ẜewi paẜchu/</div>
+       <lb id="VLH1685_Cat_31_30"/>
+        <div type="Language" lang="Latvian">jo ne weens irr ẜawu paẜchu Meeẜu eenihdejs/ bet tas baŗŗo in</div>
+       <lb id="VLH1685_Cat_31_31"/>
+        <div type="Language" lang="Latvian">glabba to/ kà Kungs to Draudſi.</div>
+       <lb id="VLH1685_Cat_31_32"/>
+        <div type="Language" lang="Latvian">Ohtran kahrtan/ klauẜajtees wehl tahs Nelaimes in Gruhtibas/</div>
+      </div>
+      <pb n="32"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_32_1"/>
+        <div type="Language" lang="Latvian">ko Deews us Laulibas irr lizzis. Tà ẜakka Deews us tahs Ꞩeewas:</div>
+       <lb id="VLH1685_Cat_32_2"/>
+        <div type="Language" lang="Latvian">Es tewim gribbu daudſ Ꞩaphes darriht/ kad tu gruhta buhẜi/</div>
+       <lb id="VLH1685_Cat_32_3"/>
+        <div type="Language" lang="Latvian">ar Ꞩahpehm buhs tew Behrnus dſemdinaht in tew buhs tawam</div>
+       <lb id="VLH1685_Cat_32_4"/>
+        <div type="Language" lang="Latvian">Wihram klauẜiht/ in wiņņam buhs tawam Kungam buht.</div>
+       <lb id="VLH1685_Cat_32_5"/>
+        <div type="Language" lang="Latvian">In us to Wihru ẜazzija Deews; Tapehz ka tu pehz tawas Ꞩeewas</div>
+       <lb id="VLH1685_Cat_32_6"/>
+        <div type="Language" lang="Latvian">Wahrdeem eẜẜi klauẜijs/ in ehdis no ta Kohka/ no ka Es tew</div>
+       <lb id="VLH1685_Cat_32_7"/>
+        <div type="Language" lang="Latvian">pawehleju in ẜazziju/ Tew ne buhs no ta ehſt: Nolahdetam buhs</div>
+       <lb id="VLH1685_Cat_32_8"/>
+        <div type="Language" lang="Latvian">buht tam Tihrumam tewis labbâ/ ar Behdahm buhs tew no ta</div>
+       <lb id="VLH1685_Cat_32_9"/>
+        <div type="Language" lang="Latvian">baŗŗotees tawu Muhſchu dſihwodams. Ehrkẜchķi in Dadſchi</div>
+       <lb id="VLH1685_Cat_32_10"/>
+        <div type="Language" lang="Latvian">buhs us ta augt/ in tew buhs Sahles no Lauka ehſt. Ar Ꞩweedreem</div>
+       <lb id="VLH1685_Cat_32_11"/>
+        <div type="Language" lang="Latvian">tawa Waiga buhs tew tawu Maiſi ehſt/ kamehr tu atkaļ</div>
+       <lb id="VLH1685_Cat_32_12"/>
+        <div type="Language" lang="Latvian">par Semm tohpi/ no ka tu jemts eẜẜi: Jo tu eẜẜi Semme/ in tapẜi</div>
+       <lb id="VLH1685_Cat_32_13"/>
+        <div type="Language" lang="Latvian">atkaļ Semmes Kahrtâ.</div>
+       <lb id="VLH1685_Cat_32_14"/>
+        <div type="Language" lang="Latvian">Treẜchan Kahrtan/ Irr ta tohmehr wehl juhẜa Eepreezaẜchana/</div>
+       <lb id="VLH1685_Cat_32_15"/>
+        <div type="Language" lang="Latvian">ka juhs ſinnajt in tizzeet/ ka juhẜa Lauliba Deewam patihk/ in wiņņa</div>
+       <lb id="VLH1685_Cat_32_16"/>
+        <div type="Language" lang="Latvian">preekẜcha ẜwehtita irr. Jo tà ſtahw rakſtihts: Deews raddija to</div>
+       <lb id="VLH1685_Cat_32_17"/>
+        <div type="Language" lang="Latvian">Zilweku pehz ẜawu Ģihmi/ pehz Deewa Ģihmi raddija tas to/ in</div>
+       <lb id="VLH1685_Cat_32_18"/>
+        <div type="Language" lang="Latvian">raddija tahs Wihra in Ꞩeewas Kahrtâ. In Deews ẜwehtija tohs/</div>
+       <lb id="VLH1685_Cat_32_19"/>
+        <div type="Language" lang="Latvian">ẜazzidams us teem: Augļojatees in wairojatees/ in peepildaht to</div>
+       <lb id="VLH1685_Cat_32_20"/>
+        <div type="Language" lang="Latvian">Semm/ in pahrwaldaht to. In waldaht pahr Siwim Juhrî/ in</div>
+       <lb id="VLH1685_Cat_32_21"/>
+        <div type="Language" lang="Latvian">pahr Putneem Gaiẜâ/ in pahr wiſẜeem Ꞩwehreem in Tahrpeem</div>
+       <lb id="VLH1685_Cat_32_22"/>
+        <div type="Language" lang="Latvian">wirs Semmes. In Deews usſkattijahs wiſẜu/ ko wiņſch darrijs</div>
+       <lb id="VLH1685_Cat_32_23"/>
+        <div type="Language" lang="Latvian">bija/ in rau/ wiẜnohtaļ bija ļohti labs.</div>
+       <lb id="VLH1685_Cat_32_24"/>
+        <div type="Language" lang="Latvian">Tapehz ẜakka arridſan Salamans: Kas laulatu Ꞩeewu dabbujahs/</div>
+       <lb id="VLH1685_Cat_32_25"/>
+        <div type="Language" lang="Latvian">tas dabbu labbu Mantu/ in ẜmeļļahs no Deewa Ꞩwehtibu.</div>
+       <lb id="VLH1685_Cat_32_26"/>
+        <div type="Language" lang="Latvian">Pehz teem Galwâ Rohku uslizzis/ laid tâ ẜakka:</div>
+       <lb id="VLH1685_Cat_32_27"/>
+        <div type="Language" lang="Latvian">Laid mehs no Ꞩirds luhdſam:</div>
+       <lb id="VLH1685_Cat_32_28"/>
+        <div type="Language" lang="Latvian">Ak wiẜẜuwalditajs Kungs in Deews/ <corr>kas</corr><sic>ķas</sic> tu Wihru in Ꞩeewu</div>
+       <lb id="VLH1685_Cat_32_29"/>
+        <div type="Language" lang="Latvian">raddijs eẜẜi/ in teem eekẜch Laulibas pawehlejs dſihwoht/ ir tohs</div>
+       <lb id="VLH1685_Cat_32_30"/>
+        <div type="Language" lang="Latvian">ar Augļeem tahs Meeẜas apdahwanajs/ in zaur to eẜẜi tu eeſihmejs</div>
+       <lb id="VLH1685_Cat_32_31"/>
+        <div type="Language" lang="Latvian">(in mums peeminnejs/) to leelu Mihleſtibu tawa mihļa Dehla</div>
+       <lb id="VLH1685_Cat_32_32"/>
+       <div type="Sheet">E</div>
+      </div>
+      <pb n="33"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_33_1"/>
+        <div type="Language" lang="Latvian">Jeſus Kriſtus/ us ẜawas Bruhtes tahs Kriſtitas Draudſibas;</div>
+       <lb id="VLH1685_Cat_33_2"/>
+        <div type="Language" lang="Latvian">Mehs luhdſam tawu besdibbenigu Schehlaſtibu/ tu gribbetu tahdu</div>
+       <lb id="VLH1685_Cat_33_3"/>
+        <div type="Language" lang="Latvian">tawu Raddibu/ Eeſtahdiẜchanu in Ꞩwehtibu ne likt ſudduẜchu/</div>
+       <lb id="VLH1685_Cat_33_4"/>
+        <div type="Language" lang="Latvian">neds ẜamaitatu kļuht/ bet to ſchehligi pee mums usturreht/ (in paglabbaht/)</div>
+       <lb id="VLH1685_Cat_33_5"/>
+        <div type="Language" lang="Latvian">zaur Jeſu Kriſtu muhẜu Kungu/ Amen.</div>
+       <lb id="VLH1685_Cat_33_6"/>
+        <div type="Language" lang="Latvian">Muhẜu Tehws Debbeẜîs:</div>
+       <lb id="VLH1685_Cat_33_7"/>
+        <div type="Language" lang="Latvian">Deews tas Kungs/ ẜwehti juhs in paẜarga juhs:</div>
+       <lb id="VLH1685_Cat_33_8"/>
+        <div type="Language" lang="Latvian">Deews tas Kungs/ apgaiẜmo ẜawu Waigu pahr jums/ in eẜẜi</div>
+       <lb id="VLH1685_Cat_33_9"/>
+        <div type="Language" lang="Latvian">jums ſchehligs:</div>
+       <lb id="VLH1685_Cat_33_10"/>
+        <div type="Language" lang="Latvian">Deews tas Kungs/ Pazeļļ ẜawu Waigu us jums/ in dohd jums</div>
+       <lb id="VLH1685_Cat_33_11"/>
+        <div type="Language" lang="Latvian">ẜawu Meeru/ Amen!</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_33_12"/>
+        <div type="Language" lang="Latvian">Ta Kriſtiẜchana.</div>
+       <lb id="VLH1685_Cat_33_13"/>
+        <div type="Language" lang="Latvian">Eij ahran tu neẜchķihſts Gars/ in dohd Weetu tam Ꞩwehtam</div>
+       <lb id="VLH1685_Cat_33_14"/>
+        <div type="Language" lang="Latvian">Garram.</div>
+       <lb id="VLH1685_Cat_33_15"/>
+        <div type="Language" lang="Latvian">Jem to Sihmi ta Ꞩwehta Kruſta preekẜch tawas Peeres/ in</div>
+       <lb id="VLH1685_Cat_33_16"/>
+        <div type="Language" lang="Latvian">preekẜch tawas Kruhts.</div>
+       <lb id="VLH1685_Cat_33_17"/>
+        <div type="Language" lang="Latvian">Laideet mums luhgtees:</div>
+       <lb id="VLH1685_Cat_33_18"/>
+        <div type="Language" lang="Latvian">Ak wiẜẜuwaldigs Deews/ Tehws muhẜa Kunga Jeſus Kriſtus/</div>
+       <lb id="VLH1685_Cat_33_19"/>
+        <div type="Language" lang="Latvian">es luhdſohs tewi par ẜcho tawu Kalpu/ (Kalpone/) kas tawas Kriſtibas</div>
+       <lb id="VLH1685_Cat_33_20"/>
+        <div type="Language" lang="Latvian">Dahwanu luhdſahs/ in tawu muhſchigu Schehlaſtibu zaur</div>
+       <lb id="VLH1685_Cat_33_21"/>
+        <div type="Language" lang="Latvian">to Garrigu Atdſimẜchanu eegrib: Usjem to/ Kungs/ in kà tu ẜazzijs</div>
+       <lb id="VLH1685_Cat_33_22"/>
+        <div type="Language" lang="Latvian">eẜẜi/ Luhdſeet/ tad juhs dabbuẜeet; Meklejeet/ tad juhs atraẜeet;</div>
+       <lb id="VLH1685_Cat_33_23"/>
+        <div type="Language" lang="Latvian">Klaujeet/ tad taps jums atwehrts; Tad dohd nu to <corr>Dahwanu</corr><sic>Dahwawu</sic> tam/</div>
+       <lb id="VLH1685_Cat_33_24"/>
+        <div type="Language" lang="Latvian">(tai) kas luhdſahs; In atwer tahs Durwis tam/ (tai/) kas klauejahs;</div>
+       <lb id="VLH1685_Cat_33_25"/>
+        <div type="Language" lang="Latvian">Ka tas/ (ta/) tu muhſchigu Ꞩwehtibu tahs Deewigas Nomaſgaẜchanas</div>
+       <lb id="VLH1685_Cat_33_26"/>
+        <div type="Language" lang="Latvian">dabbu/ in eekẜch tawas ẜohlitas Walſtibas kļuhs</div>
+       <lb id="VLH1685_Cat_33_27"/>
+        <div type="Language" lang="Latvian">usjemts/ (usjemta/) zaur Jeſu Kriſtu muhẜu Kungu/ Amen.</div>
+       <lb id="VLH1685_Cat_33_28"/>
+        <div type="Language" lang="Latvian">Laideet mums wehl luhgtees.</div>
+       <lb id="VLH1685_Cat_33_29"/>
+        <div type="Language" lang="Latvian">Ak wiẜẜuwalditajs/ muhſchigajs DEEWS/ kas tu ar to Uhdeņu</div>
+       <lb id="VLH1685_Cat_33_30"/>
+        <div type="Language" lang="Latvian">Pluhdu/ zaur tawu taiẜnu Teeẜu/ to netizzigu Paẜauli apẜohdijs/</div>
+       <lb id="VLH1685_Cat_33_31"/>
+        <div type="Language" lang="Latvian">in to tizzigu Nȯu̇/ paẜchu aſtotu/ zaur tawu leelu Schehlaſtibu</div>
+       <lb id="VLH1685_Cat_33_32"/>
+        <div type="Language" lang="Latvian">paglahbis eẜẜi; In to zeetẜirdigu (Ķehniņu) Warȧu̇/ ar wiẜẜu</div>
+      </div>
+      <pb n="34"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_34_1"/>
+        <div type="Language" lang="Latvian">ẜawu Spehku/ ẜarkanâ Juhri apſlizzinajs/ Bet tawus Ļaudis Iſräel</div>
+       <lb id="VLH1685_Cat_34_2"/>
+        <div type="Language" lang="Latvian">ar ẜauẜahm Kahjahm iswaddijs/ ar ko tu to Nomaſgaẜchanu eekẜch</div>
+       <lb id="VLH1685_Cat_34_3"/>
+        <div type="Language" lang="Latvian">tawas Ꞩwehtas Kriſtibas apſihmejs/ in ar tawa mihļa Dehla</div>
+       <lb id="VLH1685_Cat_34_4"/>
+        <div type="Language" lang="Latvian">muhẜa Kunga Jeſus Kriſtus Kriſtibu/ to Jardanas Uppi in wiẜẜu</div>
+       <lb id="VLH1685_Cat_34_5"/>
+        <div type="Language" lang="Latvian">Uhdeni par ẜwehtu Pluhdu in pilnigu Nomaſgaẜchanu to Grehku</div>
+       <lb id="VLH1685_Cat_34_6"/>
+        <div type="Language" lang="Latvian">ẜwehtijs in eezehlis: Mehs luhdſam tewi/ zaur to paẜchu tawu besdibbenigu</div>
+       <lb id="VLH1685_Cat_34_7"/>
+        <div type="Language" lang="Latvian">Schehlaſtibu/ tu gribbi ẜcho Behrniņu ſchehligi usraudſiht/</div>
+       <lb id="VLH1685_Cat_34_8"/>
+        <div type="Language" lang="Latvian">in ar pateeẜu Tizzibu eekẜch Ꞩwehta Garra apdahwanaht/ ka</div>
+       <lb id="VLH1685_Cat_34_9"/>
+        <div type="Language" lang="Latvian">ẜchî ẜwehtâ Pluhdâ pee wiņņa noẜlihkſt in apgrimſt/ wiẜs/ kas tam</div>
+       <lb id="VLH1685_Cat_34_10"/>
+        <div type="Language" lang="Latvian">no Adama peelippis/ in pats noſeedſis irr/ in ka wiņſch no ta Pulka</div>
+       <lb id="VLH1685_Cat_34_11"/>
+        <div type="Language" lang="Latvian">to Netizzigo atẜchķirts/ eekẜch Ꞩwehtas Laiwiņas tahs Kriſtitas</div>
+       <lb id="VLH1685_Cat_34_12"/>
+        <div type="Language" lang="Latvian">Draudſibas ẜauẜi in drohẜchi usturrams/ allaſchiņ ar karſtu Ꞩirdi</div>
+       <lb id="VLH1685_Cat_34_13"/>
+        <div type="Language" lang="Latvian">preezigi us tewi gaididams/ tew pareiſi kalpo/ ka wiņſch ar wiẜẜeem</div>
+       <lb id="VLH1685_Cat_34_14"/>
+        <div type="Language" lang="Latvian">tizzigeem/ to no tewim apẜohlitu muhſchigu Dſihwoẜchanu dabbujahs/</div>
+       <lb id="VLH1685_Cat_34_15"/>
+        <div type="Language" lang="Latvian">zaur Jeſu Kriſtu muhẜu Kungu/ Amen.</div>
+       <lb id="VLH1685_Cat_34_16"/>
+        <div type="Language" lang="Latvian">Es tew peekohdinaju/ tu neẜchķihſts Gars/ us to Wahrdu Deewa</div>
+       <lb id="VLH1685_Cat_34_17"/>
+        <div type="Language" lang="Latvian">ta Tehwa/ Deewa ta Dehla/ in Deewa ta zeeniga Ꞩwehta Garra/</div>
+       <lb id="VLH1685_Cat_34_18"/>
+        <div type="Language" lang="Latvian">ka tew buhs atſtaht in behgt no ẜchi Kalpa/ (no ẜchihs Kalpones/) Jeſus</div>
+       <lb id="VLH1685_Cat_34_19"/>
+        <div type="Language" lang="Latvian">Kriſtus/ kam Wahrds irr: N.</div>
+       <lb id="VLH1685_Cat_34_20"/>
+        <div type="Language" lang="Latvian">Klauẜajtees to Ꞩwehtu Ewanģiļjumu ta Ꞩwehta Markuẜa.</div>
+       <lb id="VLH1685_Cat_34_21"/>
+        <div type="Language" lang="Latvian">Ļaudis neẜẜe Behrniņus pee Jeſu/ ka tas tohs aiskahrtu: Bet</div>
+       <lb id="VLH1685_Cat_34_22"/>
+        <div type="Language" lang="Latvian">tee Mahzekļi (Jeſus/) kurneja us teem/ kas tohs atneẜẜe. Kad to</div>
+       <lb id="VLH1685_Cat_34_23"/>
+        <div type="Language" lang="Latvian">Jeſus redſeja/ ne patikka tas Wiņņam/ in ẜazzija us teem: Laideet</div>
+       <lb id="VLH1685_Cat_34_24"/>
+        <div type="Language" lang="Latvian">tee Behrniņi pee mannim nahk/ in ne leedſeet teem/ jo tahdeem</div>
+       <lb id="VLH1685_Cat_34_25"/>
+        <div type="Language" lang="Latvian">peedarr ta Debbeẜu Walſtiba: Pateeẜi/ es <corr>ẜakku</corr><sic>ẜakķu</sic> jums/ kas to</div>
+       <lb id="VLH1685_Cat_34_26"/>
+        <div type="Language" lang="Latvian">Debbeẜu Walſtibu ne dabbu/ kà kahds Behrniņſch tas ne kļuhs</div>
+       <lb id="VLH1685_Cat_34_27"/>
+        <div type="Language" lang="Latvian">tur eekẜchan. In wiņſch apkampe tohs/ likka ẜawas Rohkas us</div>
+       <lb id="VLH1685_Cat_34_28"/>
+        <div type="Language" lang="Latvian">teem in ẜwehtija tohs.</div>
+       <lb id="VLH1685_Cat_34_29"/>
+        <div type="Language" lang="Latvian">Us Behrna Kruhti/ jeb Galwas/ Rohku lizzis/ laid tà ẜakka</div>
+       <lb id="VLH1685_Cat_34_30"/>
+        <div type="Language" lang="Latvian">Mahzitajs: Laideet mums luhgt.</div>
+       <lb id="VLH1685_Cat_34_31"/>
+        <div type="Language" lang="Latvian">Muhẜu Tehws Debbeẜîs/</div>
+       <div type="Language" lang="Latin">&amp;c.</div>
+       <lb id="VLH1685_Cat_34_32"/>
+        <div type="Language" lang="Latvian">Tas Deews Kungs paẜarga tawu Ee=eeẜchanu in Is=eeẜchanu/</div>
+       <lb id="VLH1685_Cat_34_33"/>
+        <div type="Language" lang="Latvian">no ẜchi Laika muhſchigi bes Galla/ Amen.</div>
+       <lb id="VLH1685_Cat_34_34"/>
+       <div type="Sheet">E ij</div>
+      </div>
+      <pb n="35"/>
+      <div type="Paragraph">
+       <lb id="VLH1685_Cat_35_1"/>
+        <div type="Language" lang="Latvian">Ꞩakkajt Behrna Wahrda? N:</div>
+       <lb id="VLH1685_Cat_35_2"/>
+        <div type="Language" lang="Latvian">N. Atẜakki tu tam Welnam? Ꞩakkajt/ Ja/ Es atẜakku:</div>
+       <lb id="VLH1685_Cat_35_3"/>
+        <div type="Language" lang="Latvian">In wiẜẜeem wiņņa Darbeem? Ꞩakkajt/ Ja/ Es atẜakku.</div>
+       <lb id="VLH1685_Cat_35_4"/>
+        <div type="Language" lang="Latvian">In wiẜẜai wiņņa Buhẜchanai? Ꞩakkajt/ Ja/ Es atẜakku.</div>
+       <lb id="VLH1685_Cat_35_5"/>
+        <div type="Language" lang="Latvian">Tizzi tu eekẜch Deewu to Tehwu/ Wiẜẜuwalditaju Radditaju</div>
+       <lb id="VLH1685_Cat_35_6"/>
+        <div type="Language" lang="Latvian">Debbes in Semmes/ Ꞩakkajt/ Ja/ Es tizzu.</div>
+       <lb id="VLH1685_Cat_35_7"/>
+        <div type="Language" lang="Latvian">Tizzi tu eekẜch Jeſu Kriſtu wiņņa weenigu peedſimtu Dehlu</div>
+       <lb id="VLH1685_Cat_35_8"/>
+        <div type="Language" lang="Latvian">muhẜu Kungu/ kas eejemts irr no Ꞩwehta Garra/ peedſimmis no</div>
+       <lb id="VLH1685_Cat_35_9"/>
+        <div type="Language" lang="Latvian">tahs Jumprawas Mahrias/ mohzihts appakẜch Panzia Pilata/</div>
+       <lb id="VLH1685_Cat_35_10"/>
+        <div type="Language" lang="Latvian">Kruſtâ ẜiſts/ nomirris/ aprakts/ ſemmê kahpis eekẜch Elles/ treẜchâ</div>
+       <lb id="VLH1685_Cat_35_11"/>
+        <div type="Language" lang="Latvian">Deenâ atkal iszehlees no Miŗŗoneem/ uskahpis Debbeẜis/ ẜehdees</div>
+       <lb id="VLH1685_Cat_35_12"/>
+        <div type="Language" lang="Latvian">pee labbas Rohkas Deewa ta wiẜẜuwalditaja Tehwa/ no turrenes</div>
+       <lb id="VLH1685_Cat_35_13"/>
+        <div type="Language" lang="Latvian">wiņſch at=ees/ ẜohdiht tohs dſihwus in mirruẜchus. Ꞩakkajt/ Ja/</div>
+       <lb id="VLH1685_Cat_35_14"/>
+        <div type="Language" lang="Latvian">Es tizzu:</div>
+       <lb id="VLH1685_Cat_35_15"/>
+        <div type="Language" lang="Latvian">Tizzi tu eekẜch Ꞩwehtu Garru/ weenu Ꞩwehtu Kriſtitu Baſnizu/</div>
+       <lb id="VLH1685_Cat_35_16"/>
+        <div type="Language" lang="Latvian">weenu Draudſibu to Ꞩwehto/ Pameẜchanu to Grehku/ Us</div>
+       <lb id="VLH1685_Cat_35_17"/>
+        <div type="Language" lang="Latvian">Zelẜchanu tahs Meeẜas/ in weenu muhſchigu Dſihwoẜchanu/ Amen.</div>
+       <lb id="VLH1685_Cat_35_18"/>
+        <div type="Language" lang="Latvian">Sakkajt: Ja/ Es tizzu.</div>
+       <lb id="VLH1685_Cat_35_19"/>
+        <div type="Language" lang="Latvian">Ꞩakkajt Behrna Wahrdu? N:</div>
+       <lb id="VLH1685_Cat_35_20"/>
+        <div type="Language" lang="Latvian">N: Es Kriſtiju tew eekẜch ta Wahrda Deewa ta Tehwa/ Deewa</div>
+       <lb id="VLH1685_Cat_35_21"/>
+        <div type="Language" lang="Latvian">ta Dehla/ in Deewa ta Zeeniga Ꞩwehta Garra/ Amen.</div>
+       <lb id="VLH1685_Cat_35_22"/>
+        <div type="Language" lang="Latvian">Tas wiẜẜuwalditajs Deews in Tehws/ muhẜa Kunga Jeſus</div>
+       <lb id="VLH1685_Cat_35_23"/>
+        <div type="Language" lang="Latvian">Kriſtus/ Kas tewi ohtradi dſemdejs irr/ zaur Uhdeni in Ꞩwehtu</div>
+       <lb id="VLH1685_Cat_35_24"/>
+        <div type="Language" lang="Latvian">Garru/ in tew wiẜẜus tawus Grehkus peedewis/ tas laid eeſtiprina</div>
+       <lb id="VLH1685_Cat_35_25"/>
+        <div type="Language" lang="Latvian">tewi/ ar ẜawas Schehlaſtibas/ pee muhſchigas Dſihwoẜchanas/</div>
+       <lb id="VLH1685_Cat_35_26"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+       <lb id="VLH1685_Cat_35_27"/>
+        <div type="Language" lang="Latvian">Deewa Meers irr ar tewim/ in ar jums</div>
+       <lb id="VLH1685_Cat_35_28"/>
+        <div type="Language" lang="Latvian">wiẜẜeem/ Amen!</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

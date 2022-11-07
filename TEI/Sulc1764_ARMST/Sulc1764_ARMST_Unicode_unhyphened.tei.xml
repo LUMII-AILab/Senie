@@ -1,0 +1,908 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Sulc1764_ARMST">
+     <sourceDesc>
+      <author>Karls Frīdrihs Šulcs</author>
+      <title>Aiskrauknes= un Rihmaņa=Muischas Semneeku Teesa</title>
+      <date>1764</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; lietišķie teksti</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_0_1"/>
+        <div type="Language" lang="Latvian">Aiskrauknes=</div>
+       <lb id="Sulc1764_ARMST_0_2"/>
+        <div type="Language" lang="Latvian">un</div>
+       <lb id="Sulc1764_ARMST_0_3"/>
+        <div type="Language" lang="Latvian">Rihmaņa=Muiſchas</div>
+       <lb id="Sulc1764_ARMST_0_4"/>
+        <div type="Language" lang="Latvian">Semneeku</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_0_5"/>
+        <div type="Language" lang="Latvian">Teeẜa</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_0_6"/>
+        <div type="Language" lang="Latvian">dohta</div>
+       <lb id="Sulc1764_ARMST_0_7"/>
+        <div type="Language" lang="Latvian">no</div>
+       <lb id="Sulc1764_ARMST_0_8"/>
+        <div type="Language" lang="Latvian">Kahrļa Spriddiķa Schoultz,</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_0_9"/>
+        <div type="Language" lang="Latvian">tuhkstotâ ẜeptita ſimts ẜeſchdesmit zettortâ</div>
+       <lb id="Sulc1764_ARMST_0_10"/>
+        <div type="Language" lang="Latvian">Gaddâ pehz Kriſtus Peedſimẜchanas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_0_11"/>
+        <div type="Language" lang="Latvian">1764.</div>
+      </div>
+      <pb n="3"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_3_1"/>
+        <div type="Language" lang="Latvian">I.</div>
+       <lb id="Sulc1764_ARMST_3_2"/>
+        <div type="Language" lang="Latvian">No tahm Leetahm, kas Semneekam</div>
+       <lb id="Sulc1764_ARMST_3_3"/>
+        <div type="Language" lang="Latvian">ihpaẜchi peeder.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_3_4"/>
+        <div type="Language" lang="Latvian">I.</div>
+       <lb id="Sulc1764_ARMST_3_5"/>
+        <div type="Language" lang="Latvian">Wiẜẜas neẜẜamas un weddamas</div>
+       <lb id="Sulc1764_ARMST_3_6"/>
+        <div type="Language" lang="Latvian">Leetas, kahdas irr: Nauda,</div>
+       <lb id="Sulc1764_ARMST_3_7"/>
+        <div type="Language" lang="Latvian">Labbiba, Lohpi, Sirgi, Drehbes,</div>
+       <lb id="Sulc1764_ARMST_3_8"/>
+        <div type="Language" lang="Latvian">Trauki, kas Semneekam</div>
+       <lb id="Sulc1764_ARMST_3_9"/>
+        <div type="Language" lang="Latvian">taggadiņ irr, jeb ko wiņſch us preekẜchu wehl</div>
+       <lb id="Sulc1764_ARMST_3_10"/>
+        <div type="Language" lang="Latvian">nopelnihs un turrehs, noſpreeſchu es ar ẜcho</div>
+       <lb id="Sulc1764_ARMST_3_11"/>
+        <div type="Language" lang="Latvian">Likkumu par wiņņa pateeẜu brihwu Peederrejumu,</div>
+       <lb id="Sulc1764_ARMST_3_12"/>
+        <div type="Language" lang="Latvian">tà, ka wiņņam buhs Waļļas buht</div>
+       <lb id="Sulc1764_ARMST_3_13"/>
+        <div type="Language" lang="Latvian">ar ẜcho ẜawu Peederrejumu darriht, kà ween</div>
+       <lb id="Sulc1764_ARMST_3_14"/>
+        <div type="Language" lang="Latvian">patihk, pahrdoht, Ķihlâ nolikt, Behrneem jeb</div>
+       <lb id="Sulc1764_ARMST_3_15"/>
+        <div type="Language" lang="Latvian">Raddeem  mirſtoht atwehleht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_3_16"/>
+        <div type="Language" lang="Latvian">2.</div>
+       <lb id="Sulc1764_ARMST_3_17"/>
+        <div type="Language" lang="Latvian">Pee ẜchadu neẜẜamu jeb weddamu Leetu</div>
+       <lb id="Sulc1764_ARMST_3_18"/>
+        <div type="Language" lang="Latvian">Pahrdohẜchanas paleek gan tam Dſimts=</div>
+       <lb id="Sulc1764_ARMST_3_19"/>
+        <div type="Language" lang="Latvian">Kungam ta pirma Pirkẜchanas=Teesa, tomehr</div>
+      </div>
+      <pb n="4"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_4_1"/>
+        <div type="Language" lang="Latvian">ne zittadi, kà, kad wiņſch topaẜchu</div>
+       <lb id="Sulc1764_ARMST_4_2"/>
+        <div type="Language" lang="Latvian">makẜa, kas tam Semneekam no zitta ẜohlihts</div>
+       <lb id="Sulc1764_ARMST_4_3"/>
+        <div type="Language" lang="Latvian">jeb dohts tohp.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_4_4"/>
+        <div type="Language" lang="Latvian">3.</div>
+       <lb id="Sulc1764_ARMST_4_5"/>
+        <div type="Language" lang="Latvian">Bet, ja tas Semneeks ar tadahm ẜawahm</div>
+       <lb id="Sulc1764_ARMST_4_6"/>
+        <div type="Language" lang="Latvian">Leetahm ne labbi darritu, un tahs ẜew</div>
+       <lb id="Sulc1764_ARMST_4_7"/>
+        <div type="Language" lang="Latvian">paẜcham un teem Sawejeem par redſamu</div>
+       <lb id="Sulc1764_ARMST_4_8"/>
+        <div type="Language" lang="Latvian">Pohſtu isẜchķehrdeht gribbetu, tad irr tam</div>
+       <lb id="Sulc1764_ARMST_4_9"/>
+        <div type="Language" lang="Latvian">Dſimts=Kungam Waļļas un Teesa, tahdu</div>
+       <lb id="Sulc1764_ARMST_4_10"/>
+        <div type="Language" lang="Latvian"><corr>nekreetnu</corr><sic>nekreetu</sic> Nammaturreẜchanu ar taiẜnu Spehk</div>
+       <lb id="Sulc1764_ARMST_4_11"/>
+        <div type="Language" lang="Latvian">un Warru ẜawaldiht, un kà wiņſch redſ,</div>
+       <lb id="Sulc1764_ARMST_4_12"/>
+        <div type="Language" lang="Latvian">tam Jsẜchķehrdetajam Pehrminderus (Usraugus)</div>
+       <lb id="Sulc1764_ARMST_4_13"/>
+        <div type="Language" lang="Latvian">peelikt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_4_14"/>
+        <div type="Language" lang="Latvian">4.</div>
+       <lb id="Sulc1764_ARMST_4_15"/>
+        <div type="Language" lang="Latvian">Tai Mantoẜchanas Teeẜai eekẜch tahdahm</div>
+       <lb id="Sulc1764_ARMST_4_16"/>
+        <div type="Language" lang="Latvian">Leetahm, kas pehz weena Semneeka</div>
+       <lb id="Sulc1764_ARMST_4_17"/>
+        <div type="Language" lang="Latvian">Mirẜchanas teem Behrneem, jeb Raddeem</div>
+       <lb id="Sulc1764_ARMST_4_18"/>
+        <div type="Language" lang="Latvian">nahkahs, buhs tahdai buht un palikt, kà tee</div>
+       <lb id="Sulc1764_ARMST_4_19"/>
+        <div type="Language" lang="Latvian">wezzi ieraddumi pee <corr>Semneekeem</corr><sic>Semnekeem</sic> irr; tomehr</div>
+       <lb id="Sulc1764_ARMST_4_20"/>
+        <div type="Language" lang="Latvian">tà: Ja ta tuweja Mantasņehmeja eekẜch kahdas</div>
+       <lb id="Sulc1764_ARMST_4_21"/>
+        <div type="Language" lang="Latvian">ẜweẜchas Walſts isprezzeta buhtu, tad</div>
+       <lb id="Sulc1764_ARMST_4_22"/>
+        <div type="Language" lang="Latvian">ne ẜchai, bet teem tuwejeem Aẜẜins=Raddeem</div>
+       <lb id="Sulc1764_ARMST_4_23"/>
+        <div type="Language" lang="Latvian">ta Nomirruẜcha, kas eekẜch ẜchahs Walſts</div>
+       <lb id="Sulc1764_ARMST_4_24"/>
+        <div type="Language" lang="Latvian">irr, buhs par Mantasņehmejeem buht: Bet</div>
+       <lb id="Sulc1764_ARMST_4_25"/>
+        <div type="Language" lang="Latvian">ja tas Semneeks mirſt, nekahdus Aẜẜins=</div>
+       <lb id="Sulc1764_ARMST_4_26"/>
+        <div type="Language" lang="Latvian">Raddus ẜchinnî Walſtî ne atſtahdams, tad</div>
+       <lb id="Sulc1764_ARMST_4_27"/>
+        <div type="Language" lang="Latvian">nahk ar ſinnamu Taiẜnibu, wiẜẜas wiņņa</div>
+       <lb id="Sulc1764_ARMST_4_28"/>
+        <div type="Language" lang="Latvian">pakkaļ palikkuẜchas Leetas, Dſimts=Kunga</div>
+       <lb id="Sulc1764_ARMST_4_29"/>
+        <div type="Language" lang="Latvian">Rohkâs, kas tad ar tahm war darriht, ka</div>
+       <lb id="Sulc1764_ARMST_4_30"/>
+        <div type="Language" lang="Latvian">Wiņņa Prahtam patihk.</div>
+      </div>
+      <pb n="5"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_5_1"/>
+        <div type="Language" lang="Latvian">5.</div>
+       <lb id="Sulc1764_ARMST_5_2"/>
+        <div type="Language" lang="Latvian">Jrr tas Semneeks ko no ẜawa Dſimts=</div>
+       <lb id="Sulc1764_ARMST_5_3"/>
+        <div type="Language" lang="Latvian">Kunga us Parradu usņehmis, tad wiẜẜas</div>
+       <lb id="Sulc1764_ARMST_5_4"/>
+        <div type="Language" lang="Latvian">wiņņa Leetas par tahdu Parradu Ķihlâ ſtahw,</div>
+       <lb id="Sulc1764_ARMST_5_5"/>
+        <div type="Language" lang="Latvian">un ja wiņſch tahdus Parradus noſpreeſtâ</div>
+       <lb id="Sulc1764_ARMST_5_6"/>
+        <div type="Language" lang="Latvian">Laikâ ne irr nomakẜajis, tad irr tam Dſimts=</div>
+       <lb id="Sulc1764_ARMST_5_7"/>
+        <div type="Language" lang="Latvian">Kungam Waļļa un Teesa preekẜch wiẜẜeem</div>
+       <lb id="Sulc1764_ARMST_5_8"/>
+        <div type="Language" lang="Latvian">zitteem Parradu=praẜẜitajeem no ẜcha ẜawa</div>
+       <lb id="Sulc1764_ARMST_5_9"/>
+        <div type="Language" lang="Latvian">Parradneeka Leetahm ẜawu Makẜu noņemt;</div>
+       <lb id="Sulc1764_ARMST_5_10"/>
+        <div type="Language" lang="Latvian">tomehr tam Semneekam brihw irr pee tahs</div>
+       <lb id="Sulc1764_ARMST_5_11"/>
+        <div type="Language" lang="Latvian">Ķeiſeriſkas Semmes=Teesas ſchehlotees; ja</div>
+       <lb id="Sulc1764_ARMST_5_12"/>
+        <div type="Language" lang="Latvian">tam ſchinnî Lehtâ pahri notizzis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_5_13"/>
+        <div type="Language" lang="Latvian">II.</div>
+       <lb id="Sulc1764_ARMST_5_14"/>
+        <div type="Language" lang="Latvian">No ta Semneeka Teeẜas ẜawas</div>
+       <lb id="Sulc1764_ARMST_5_15"/>
+        <div type="Language" lang="Latvian">Semmes dehļ.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_5_16"/>
+        <div type="Language" lang="Latvian">I.</div>
+       <lb id="Sulc1764_ARMST_5_17"/>
+        <div type="Language" lang="Latvian">Wiẜẜas Semneeku Semmes paleek, kà no</div>
+       <lb id="Sulc1764_ARMST_5_18"/>
+        <div type="Language" lang="Latvian">pirma Laika, tàpat ir us preekẜchu, tam</div>
+       <lb id="Sulc1764_ARMST_5_19"/>
+        <div type="Language" lang="Latvian">Dſimts=Kungam peederrigas; Tomehr buhs</div>
+       <lb id="Sulc1764_ARMST_5_20"/>
+        <div type="Language" lang="Latvian">ikkatram Semneekam to Semmes=Gabbalu,</div>
+       <lb id="Sulc1764_ARMST_5_21"/>
+        <div type="Language" lang="Latvian">kas tam weenreiſ eerahdihts, un no wiņņa</div>
+       <lb id="Sulc1764_ARMST_5_22"/>
+        <div type="Language" lang="Latvian">eekohpts irr, kad wiņſch tà, kà pehz kļuhs</div>
+       <lb id="Sulc1764_ARMST_5_23"/>
+        <div type="Language" lang="Latvian">rahdihts, pareiſi klauẜa un ẜawu Teeẜu nodohd,</div>
+       <lb id="Sulc1764_ARMST_5_24"/>
+        <div type="Language" lang="Latvian">preekſch ẜew, un ẜaweem Behrneem</div>
+       <lb id="Sulc1764_ARMST_5_25"/>
+        <div type="Language" lang="Latvian">muhſchu Deenu walkoht un paturreht.</div>
+       <lb id="Sulc1764_ARMST_5_26"/>
+        <div type="Language" lang="Latvian">2.</div>
+       <lb id="Sulc1764_ARMST_5_27"/>
+        <div type="Language" lang="Latvian">Bet, ja tas Semneeks ne eeſpehtu tà</div>
+       <lb id="Sulc1764_ARMST_5_28"/>
+        <div type="Language" lang="Latvian">klauẜiht un ẜawas Teeẜas nodoht, kà pehz</div>
+      </div>
+      <pb n="6"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_6_1"/>
+        <div type="Language" lang="Latvian">kļuhs rahdihts, tad paleek Dſimts=Kunga</div>
+       <lb id="Sulc1764_ARMST_6_2"/>
+        <div type="Language" lang="Latvian">Sinnaẜchanâ un Apdomaſchanâ, woi wiņſch</div>
+       <lb id="Sulc1764_ARMST_6_3"/>
+        <div type="Language" lang="Latvian">wehl us kahdu Laiku ar tahdu Semneeku</div>
+       <lb id="Sulc1764_ARMST_6_4"/>
+        <div type="Language" lang="Latvian">grib zeeſtees, jeb tam zittu Semneeku peelikt,</div>
+       <lb id="Sulc1764_ARMST_6_5"/>
+        <div type="Language" lang="Latvian">jeb to wiẜẜai no tahs Semmes nomeſt, un</div>
+       <lb id="Sulc1764_ARMST_6_6"/>
+        <div type="Language" lang="Latvian">pee zitta Semneeka par Kalpu nolikt.   Jo</div>
+       <lb id="Sulc1764_ARMST_6_7"/>
+        <div type="Language" lang="Latvian">to ikkatrs gan war domaht, ka ikweens</div>
+       <lb id="Sulc1764_ARMST_6_8"/>
+        <div type="Language" lang="Latvian">Dſimts=Kungs ẜawu paẜchu Labbumu wiẜs</div>
+       <lb id="Sulc1764_ARMST_6_9"/>
+        <div type="Language" lang="Latvian">labbak ẜaprattihs, un bes ihſtas Waiadſibas</div>
+       <lb id="Sulc1764_ARMST_6_10"/>
+        <div type="Language" lang="Latvian">ẜawa Semneeka Ꞩehtas=Turreẜchanu ne isjauks.</div>
+       <lb id="Sulc1764_ARMST_6_11"/>
+        <div type="Language" lang="Latvian">Un ja tas Semneeks pahr to ẜuhdſetu,</div>
+       <lb id="Sulc1764_ARMST_6_12"/>
+        <div type="Language" lang="Latvian">tad gan tam Dſimts=Kungam peenahktohs</div>
+       <lb id="Sulc1764_ARMST_6_13"/>
+        <div type="Language" lang="Latvian">parahdiht, ka tas Semneeks neween ẜawus</div>
+       <lb id="Sulc1764_ARMST_6_14"/>
+        <div type="Language" lang="Latvian">Darbus ne atſtahwejis, un ẜawas Teeẜas</div>
+       <lb id="Sulc1764_ARMST_6_15"/>
+        <div type="Language" lang="Latvian">ne nodewis, bet arri wairak ne eeſpehj</div>
+       <lb id="Sulc1764_ARMST_6_16"/>
+        <div type="Language" lang="Latvian">to darriht un nodoht; Bet kad tas parahdihts</div>
+       <lb id="Sulc1764_ARMST_6_17"/>
+        <div type="Language" lang="Latvian">irr, tad tam Dſimts=Kungam wairak</div>
+       <lb id="Sulc1764_ARMST_6_18"/>
+        <div type="Language" lang="Latvian">ne irr ja atbild pahr to, kà wiņſch tahdu</div>
+       <lb id="Sulc1764_ARMST_6_19"/>
+        <div type="Language" lang="Latvian">nomeſtu Semneeku zitturp nolizzis, jeb ar</div>
+       <lb id="Sulc1764_ARMST_6_20"/>
+        <div type="Language" lang="Latvian">wiņņa Semmi darrijis irr.</div>
+       <lb id="Sulc1764_ARMST_6_21"/>
+        <div type="Language" lang="Latvian">3.</div>
+       <lb id="Sulc1764_ARMST_6_22"/>
+        <div type="Language" lang="Latvian">Tahs Ehkas un Ꞩehtenes, pee tahdahm</div>
+       <lb id="Sulc1764_ARMST_6_23"/>
+        <div type="Language" lang="Latvian">Semmehm un Ꞩehtahm, kas atkal irr eekẜch</div>
+       <lb id="Sulc1764_ARMST_6_24"/>
+        <div type="Language" lang="Latvian">Dſimts=Kunga Rokahm nahkuẜchas, paleek</div>
+       <lb id="Sulc1764_ARMST_6_25"/>
+        <div type="Language" lang="Latvian">turpat, un ne tohp lihdſinatas</div>
+       <lb id="Sulc1764_ARMST_6_26"/>
+        <div type="Language" lang="Latvian">4.</div>
+       <lb id="Sulc1764_ARMST_6_27"/>
+        <div type="Language" lang="Latvian">Kad weens Ꞩaimneeks irr nomirris, tad</div>
+       <lb id="Sulc1764_ARMST_6_28"/>
+        <div type="Language" lang="Latvian">ne wiņņa Meitahm, bet teem Dehleem nahkahs</div>
+       <lb id="Sulc1764_ARMST_6_29"/>
+        <div type="Language" lang="Latvian">ta Tehwa Semmi usņemt. Kad nekahdi</div>
+       <lb id="Sulc1764_ARMST_6_30"/>
+        <div type="Language" lang="Latvian">meeẜigi Dehli, bet tikai Meitu Wihri</div>
+      </div>
+      <pb n="7"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_7_1"/>
+        <div type="Language" lang="Latvian">jeb ẜa=auguẜchas Meitas, kas ta nomirruẜcha</div>
+       <lb id="Sulc1764_ARMST_7_2"/>
+        <div type="Language" lang="Latvian">Tehwa Ꞩehtai warretu preekẜcha ſtahweht,</div>
+       <lb id="Sulc1764_ARMST_7_3"/>
+        <div type="Language" lang="Latvian">pakkaļ palikkuẜchas buhtu, tad ir teem</div>
+       <lb id="Sulc1764_ARMST_7_4"/>
+        <div type="Language" lang="Latvian">buhs warreht Tehwa Semmi usņemt, un</div>
+       <lb id="Sulc1764_ARMST_7_5"/>
+        <div type="Language" lang="Latvian">atkal ẜaweem Behrneem, mirſtoht atſtaht:</div>
+       <lb id="Sulc1764_ARMST_7_6"/>
+        <div type="Language" lang="Latvian">Bet ja nedſ Dehli, nedſ laulatas Meitas,</div>
+       <lb id="Sulc1764_ARMST_7_7"/>
+        <div type="Language" lang="Latvian">nedſ ẜa=auguẜchas Meitas atlikkuẜchi buhtu,</div>
+       <lb id="Sulc1764_ARMST_7_8"/>
+        <div type="Language" lang="Latvian">tad nahk ta Semme Dſimts=Kunga Rohkâ,</div>
+       <lb id="Sulc1764_ARMST_7_9"/>
+        <div type="Language" lang="Latvian">tà, ka wiņſch ar to darriht war pehz  ẜawa</div>
+       <lb id="Sulc1764_ARMST_7_10"/>
+        <div type="Language" lang="Latvian">Padohma un labba Prahta.</div>
+       <lb id="Sulc1764_ARMST_7_11"/>
+        <div type="Language" lang="Latvian">5.</div>
+       <lb id="Sulc1764_ARMST_7_12"/>
+        <div type="Language" lang="Latvian">Teem Behrneem tohp Waļļa dohta,</div>
+       <lb id="Sulc1764_ARMST_7_13"/>
+        <div type="Language" lang="Latvian">eekẜch tahs Tehwa Semmes dallitees, tomehr</div>
+       <lb id="Sulc1764_ARMST_7_14"/>
+        <div type="Language" lang="Latvian">tà ka tahs Daļļas ne teek maſakas, ka weens</div>
+       <lb id="Sulc1764_ARMST_7_15"/>
+        <div type="Language" lang="Latvian">Puẜszettortnis. Bet tad weens Dehls wehl</div>
+       <lb id="Sulc1764_ARMST_7_16"/>
+        <div type="Language" lang="Latvian">Tehwam dſihwojoht, eekẜch zittas Ꞩehtas irr</div>
+       <lb id="Sulc1764_ARMST_7_17"/>
+        <div type="Language" lang="Latvian">eeprezzejees, tad buhs wiņņam arridſan turpat</div>
+       <lb id="Sulc1764_ARMST_7_18"/>
+        <div type="Language" lang="Latvian">palikt, un nekahdas Daļļas no tahs Tehwa</div>
+       <lb id="Sulc1764_ARMST_7_19"/>
+        <div type="Language" lang="Latvian">Semmes praẜẜiht.</div>
+       <lb id="Sulc1764_ARMST_7_20"/>
+        <div type="Language" lang="Latvian">6.</div>
+       <lb id="Sulc1764_ARMST_7_21"/>
+        <div type="Language" lang="Latvian">Kad to Semneeku Semmes wehl irr</div>
+       <lb id="Sulc1764_ARMST_7_22"/>
+        <div type="Language" lang="Latvian">ļohti  ẜajukkuẜchas un ne ihſti islihdſinatas,</div>
+       <lb id="Sulc1764_ARMST_7_23"/>
+        <div type="Language" lang="Latvian">tad es ẜew paturrohs, un apņemmohs, ẜchahs</div>
+       <lb id="Sulc1764_ARMST_7_24"/>
+        <div type="Language" lang="Latvian">Semmes, zeek drihẜ wenn paſpehẜchu, likt</div>
+       <lb id="Sulc1764_ARMST_7_25"/>
+        <div type="Language" lang="Latvian">pahrmehriht; pee kuŗŗas Mehriẜchanas tad</div>
+       <lb id="Sulc1764_ARMST_7_26"/>
+        <div type="Language" lang="Latvian">teem Semneekeem irr ja nahk Paligâ. Pehz</div>
+       <lb id="Sulc1764_ARMST_7_27"/>
+        <div type="Language" lang="Latvian">to buhs wiẜspahri weena Eedalliẜchana notikt,</div>
+       <lb id="Sulc1764_ARMST_7_28"/>
+        <div type="Language" lang="Latvian">un buhs ikweenai Semneeka Semmei,</div>
+       <lb id="Sulc1764_ARMST_7_29"/>
+        <div type="Language" lang="Latvian">zeek ween war notikt, ſkaidrôs un taiẜnôs</div>
+       <lb id="Sulc1764_ARMST_7_30"/>
+        <div type="Language" lang="Latvian">Robeẜchôs eeẜlehgtai tapt. Un tam buhs</div>
+      </div>
+      <pb n="8"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_8_1"/>
+        <div type="Language" lang="Latvian">tad par weenu muhſchigu un nepahrkahpjamu</div>
+       <lb id="Sulc1764_ARMST_8_2"/>
+        <div type="Language" lang="Latvian">Teeſu palikt.</div>
+       <lb id="Sulc1764_ARMST_8_3"/>
+        <div type="Language" lang="Latvian">7.</div>
+       <lb id="Sulc1764_ARMST_8_4"/>
+        <div type="Language" lang="Latvian">Tam Semneekam paleek wehlehts, pehz</div>
+       <lb id="Sulc1764_ARMST_8_5"/>
+        <div type="Language" lang="Latvian">ẜawas Ꞩehtas Waiadſibas buhwejamus Kohkus</div>
+       <lb id="Sulc1764_ARMST_8_6"/>
+        <div type="Language" lang="Latvian">un dedſinajamu Malku no Muiſchas Meſcheem</div>
+       <lb id="Sulc1764_ARMST_8_7"/>
+        <div type="Language" lang="Latvian">ņemt: Bet pehz Pahrdohſchanas wiņņam</div>
+       <lb id="Sulc1764_ARMST_8_8"/>
+        <div type="Language" lang="Latvian">ne irr brihw, nedſ Muiſchas Meſchus,</div>
+       <lb id="Sulc1764_ARMST_8_9"/>
+        <div type="Language" lang="Latvian">nedſ ẜawus paẜchus Lihdumus bes ihpaẜchas</div>
+       <lb id="Sulc1764_ARMST_8_10"/>
+        <div type="Language" lang="Latvian">Muiſchas Wehleẜchanas bruhķeht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_8_11"/>
+        <div type="Language" lang="Latvian">III.</div>
+       <lb id="Sulc1764_ARMST_8_12"/>
+        <div type="Language" lang="Latvian">No ta Semneeka ihpaẜchigas Buhẜchanas,</div>
+       <lb id="Sulc1764_ARMST_8_13"/>
+        <div type="Language" lang="Latvian">Klauſiẜchanas un Dohẜchanas.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_8_14"/>
+        <div type="Language" lang="Latvian">I.</div>
+       <lb id="Sulc1764_ARMST_8_15"/>
+        <div type="Language" lang="Latvian">Tas Semneeks paleek tà kà pirmak, ir us</div>
+       <lb id="Sulc1764_ARMST_8_16"/>
+        <div type="Language" lang="Latvian">preekẜchu allaſchiņ weens dſimts Zilweks</div>
+       <lb id="Sulc1764_ARMST_8_17"/>
+        <div type="Language" lang="Latvian">un Appakſchneeks ta Kunga, kam ta Muiſcha</div>
+       <lb id="Sulc1764_ARMST_8_18"/>
+        <div type="Language" lang="Latvian">peeder, un ja wiņſch aisbehg, tohp wiņſch,</div>
+       <lb id="Sulc1764_ARMST_8_19"/>
+        <div type="Language" lang="Latvian">kà tahds Zilweks, wisſur usmeklehts un pehz</div>
+       <lb id="Sulc1764_ARMST_8_20"/>
+        <div type="Language" lang="Latvian">Teeẜas isņemts un atpakkaļ weſts. Wiņņam</div>
+       <lb id="Sulc1764_ARMST_8_21"/>
+        <div type="Language" lang="Latvian">arridſan peenahkahs, ẜawam Dſimts=Kungam</div>
+       <lb id="Sulc1764_ARMST_8_22"/>
+        <div type="Language" lang="Latvian">ar neleedſamu Klauſiẜchanu wiẜẜâs Leetâs, un</div>
+       <lb id="Sulc1764_ARMST_8_23"/>
+        <div type="Language" lang="Latvian">ar pilnigu Peetizzibu padewigam buht. Tomehr</div>
+       <lb id="Sulc1764_ARMST_8_24"/>
+        <div type="Language" lang="Latvian">tam Dſimts=Kungam ne buhs Waļļas</div>
+       <lb id="Sulc1764_ARMST_8_25"/>
+        <div type="Language" lang="Latvian">buht pahrak pahr to Klauſiẜchanu un Dohẜchanu,</div>
+       <lb id="Sulc1764_ARMST_8_26"/>
+        <div type="Language" lang="Latvian">kas ẜcheitan pehz kļuhs rahdita, ir to</div>
+       <lb id="Sulc1764_ARMST_8_27"/>
+        <div type="Language" lang="Latvian">wiẜsmaſaku Leetu no ta Semneeka bes Lihdſibas</div>
+       <lb id="Sulc1764_ARMST_8_28"/>
+        <div type="Language" lang="Latvian">praẜẜiht: Tam Dſimts=Kungam arridſan</div>
+      </div>
+      <pb n="9"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_9_1"/>
+        <div type="Language" lang="Latvian">ne buhs Waļļas, weenu Semmneeku, ihpaẜchi</div>
+       <lb id="Sulc1764_ARMST_9_2"/>
+        <div type="Language" lang="Latvian">no Muiſchas noſchķirtu, pahrdoht, jeb isẜchķiņķoht,</div>
+       <lb id="Sulc1764_ARMST_9_3"/>
+        <div type="Language" lang="Latvian">ja tas tam Semneekam paẜcham ne</div>
+       <lb id="Sulc1764_ARMST_9_4"/>
+        <div type="Language" lang="Latvian">gribbahs, un ja wiņſch arri tahdu ẜawu Gribbeẜchanu</div>
+       <lb id="Sulc1764_ARMST_9_5"/>
+        <div type="Language" lang="Latvian">preekẜch tahs zeenigas Semmes=</div>
+       <lb id="Sulc1764_ARMST_9_6"/>
+        <div type="Language" lang="Latvian">Teeẜas ne isẜakka. Bet ja tas Dſimts=</div>
+       <lb id="Sulc1764_ARMST_9_7"/>
+        <div type="Language" lang="Latvian">Kungs pats tam Semneekam to Brihwibu</div>
+       <lb id="Sulc1764_ARMST_9_8"/>
+        <div type="Language" lang="Latvian">no tahs Dſimts=Teeẜas gribbetu woi ẜchķinķoht,</div>
+       <lb id="Sulc1764_ARMST_9_9"/>
+        <div type="Language" lang="Latvian">woi pahrdoht, tad tas wiņņam neka</div>
+       <lb id="Sulc1764_ARMST_9_10"/>
+        <div type="Language" lang="Latvian">ne tohp aisleegts.</div>
+       <lb id="Sulc1764_ARMST_9_11"/>
+        <div type="Language" lang="Latvian">2.</div>
+       <lb id="Sulc1764_ARMST_9_12"/>
+        <div type="Language" lang="Latvian">Ja kahdâ Semneeka Ꞩehtâ wairak Zilweku</div>
+       <lb id="Sulc1764_ARMST_9_13"/>
+        <div type="Language" lang="Latvian">buhtu, nekâ pehz tahs Semmes pilnigas</div>
+       <lb id="Sulc1764_ARMST_9_14"/>
+        <div type="Language" lang="Latvian">Apſtrahdaẜchanas un Muiſchas=Klauẜiẜchanas</div>
+       <lb id="Sulc1764_ARMST_9_15"/>
+        <div type="Language" lang="Latvian">waiadſetu, tad irr tam Dſimts=Kungam</div>
+       <lb id="Sulc1764_ARMST_9_16"/>
+        <div type="Language" lang="Latvian">Waļļa, tohs, kas pahrak irr, isņemt, un</div>
+       <lb id="Sulc1764_ARMST_9_17"/>
+        <div type="Language" lang="Latvian">tohs, woi ziteem, kuŗŗeem waiaga, peelikt,</div>
+       <lb id="Sulc1764_ARMST_9_18"/>
+        <div type="Language" lang="Latvian">woi arridſan us it tukẜchahm Semneeku</div>
+       <lb id="Sulc1764_ARMST_9_19"/>
+        <div type="Language" lang="Latvian">Weetahm uslikt: Bet ja nei wahji Semneeki</div>
+       <lb id="Sulc1764_ARMST_9_20"/>
+        <div type="Language" lang="Latvian">no Ļaudim, nei tukẜchas Semneeku Weetas</div>
+       <lb id="Sulc1764_ARMST_9_21"/>
+        <div type="Language" lang="Latvian">tai Walſtî wairak buhtu, tad irr tam Dſimts=</div>
+       <lb id="Sulc1764_ARMST_9_22"/>
+        <div type="Language" lang="Latvian">Kungam Waļļa, teem Zilwekeem, kas pahrak</div>
+       <lb id="Sulc1764_ARMST_9_23"/>
+        <div type="Language" lang="Latvian">irr, zittus Darbus peerahdiht un usdoht,</div>
+       <lb id="Sulc1764_ARMST_9_24"/>
+        <div type="Language" lang="Latvian">pee kuŗŗu tikkuẜchas Paſtrahdaẜchanas wiņņeem</div>
+       <lb id="Sulc1764_ARMST_9_25"/>
+        <div type="Language" lang="Latvian">peeteekama Peļņa war Rohkâs nahkt.</div>
+       <lb id="Sulc1764_ARMST_9_26"/>
+        <div type="Language" lang="Latvian">3.</div>
+       <lb id="Sulc1764_ARMST_9_27"/>
+        <div type="Language" lang="Latvian">Par Muiẜchas=Ꞩaimi tam Dſimts=</div>
+       <lb id="Sulc1764_ARMST_9_28"/>
+        <div type="Language" lang="Latvian">Kungam brihw irr no tahs Walſts ismekleht;</div>
+       <lb id="Sulc1764_ARMST_9_29"/>
+        <div type="Language" lang="Latvian">tatẜchu tà, ka tam Semneekam, pehz Muiſchas</div>
+       <lb id="Sulc1764_ARMST_9_30"/>
+        <div type="Language" lang="Latvian">Klauẜiẜchanas Ꞩaimes gan atleek. Bet weenam</div>
+      </div>
+      <pb n="10"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_10_1"/>
+        <div type="Language" lang="Latvian">Puiẜcham ne buhs ilgak Muiſchas Deeneſtâ</div>
+       <lb id="Sulc1764_ARMST_10_2"/>
+        <div type="Language" lang="Latvian">stahweht, kà, kad wiņſch diwideẜmits</div>
+       <lb id="Sulc1764_ARMST_10_3"/>
+        <div type="Language" lang="Latvian">un tſchetrus Gaddus wez ir tappis, un weenai</div>
+       <lb id="Sulc1764_ARMST_10_4"/>
+        <div type="Language" lang="Latvian">Meitai ilgak ne, kà, kad ta diwideẜmits</div>
+       <lb id="Sulc1764_ARMST_10_5"/>
+        <div type="Language" lang="Latvian">Gaddus wezza tappuẜi.  Kad tee ẜcho Wezzumu</div>
+       <lb id="Sulc1764_ARMST_10_6"/>
+        <div type="Language" lang="Latvian">irr peedſihwoiẜchi, un paẜchi ne grib</div>
+       <lb id="Sulc1764_ARMST_10_7"/>
+        <div type="Language" lang="Latvian">ilgak palikt, buhs teem no Muiſchas islaiſteem,</div>
+       <lb id="Sulc1764_ARMST_10_8"/>
+        <div type="Language" lang="Latvian">un tannî Walſtî isdohteem tapt. Ta Apgahdahẜchana</div>
+       <lb id="Sulc1764_ARMST_10_9"/>
+        <div type="Language" lang="Latvian">tahs Muiſchas=Ꞩaimes par ẜaweem</div>
+       <lb id="Sulc1764_ARMST_10_10"/>
+        <div type="Language" lang="Latvian">Deeneſteem, tohp tai Schehlaſtibai un Apſinnaẜchanai</div>
+       <lb id="Sulc1764_ARMST_10_11"/>
+        <div type="Language" lang="Latvian">ta Dſimts=Kunga pawehleta.</div>
+       <lb id="Sulc1764_ARMST_10_12"/>
+        <div type="Language" lang="Latvian">4.</div>
+       <lb id="Sulc1764_ARMST_10_13"/>
+        <div type="Language" lang="Latvian">Tee taiẜni Neddeļas=Darbi, un tahs dohdamas</div>
+       <lb id="Sulc1764_ARMST_10_14"/>
+        <div type="Language" lang="Latvian">Teeẜas, tohp tà, kà Pagaſtu=Grahmatâ</div>
+       <lb id="Sulc1764_ARMST_10_15"/>
+        <div type="Language" lang="Latvian">ſtahw, darriti, un dohtas: Bet leeki</div>
+       <lb id="Sulc1764_ARMST_10_16"/>
+        <div type="Language" lang="Latvian">Darbi, kas pahr to wehl Semneekam ja darra,</div>
+       <lb id="Sulc1764_ARMST_10_17"/>
+        <div type="Language" lang="Latvian">tee wiẜẜi paleek tà, kà es tohs jaw preekẜch</div>
+       <lb id="Sulc1764_ARMST_10_18"/>
+        <div type="Language" lang="Latvian">manna Laika eẜmu atraddis, un kà tee lihdſ</div>
+       <lb id="Sulc1764_ARMST_10_19"/>
+        <div type="Language" lang="Latvian">ẜchai paẜchai Deenai turreti tohp. Tomehr,</div>
+       <lb id="Sulc1764_ARMST_10_20"/>
+        <div type="Language" lang="Latvian">lai par ẜchahdahm Leetahm ne buhtu kahda</div>
+       <lb id="Sulc1764_ARMST_10_21"/>
+        <div type="Language" lang="Latvian">Apmiẜẜeẜchana nahkuẜi, tad nu taggad ẜcheitan</div>
+       <lb id="Sulc1764_ARMST_10_22"/>
+        <div type="Language" lang="Latvian">kļuhſt par tahdahm Leetahm ihpaẜcha un ſkaidraka</div>
+       <lb id="Sulc1764_ARMST_10_23"/>
+        <div type="Language" lang="Latvian">Siņņa dohta.</div>
+       <lb id="Sulc1764_ARMST_10_24"/>
+        <div type="Language" lang="Latvian">5.</div>
+       <lb id="Sulc1764_ARMST_10_25"/>
+        <div type="Language" lang="Latvian">Pawaẜẜarâ pee Malkas=Plohſtu Ꞩeeẜchanas,</div>
+       <lb id="Sulc1764_ARMST_10_26"/>
+        <div type="Language" lang="Latvian">nahk no <corr>ikweena</corr><sic>ikwena</sic> Semneeka, kas ẜawu</div>
+       <lb id="Sulc1764_ARMST_10_27"/>
+        <div type="Language" lang="Latvian">paẜchu Semmi turr, weens no Wihra= jeb</div>
+       <lb id="Sulc1764_ARMST_10_28"/>
+        <div type="Language" lang="Latvian">Seewas=Kahrtas, us Muiſchas Maiſi, kamehr</div>
+       <lb id="Sulc1764_ARMST_10_29"/>
+        <div type="Language" lang="Latvian">ẜchis Darbs tohp ſtrahdahts, un kad tas noſtrahdahts</div>
+       <lb id="Sulc1764_ARMST_10_30"/>
+        <div type="Language" lang="Latvian">irr, tad dabbu tee Ļaudis trihs</div>
+      </div>
+      <pb n="11"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_11_1"/>
+        <div type="Language" lang="Latvian">Muzzas Allus. Bet pehz nahk no weena Zettortneeka</div>
+       <lb id="Sulc1764_ARMST_11_2"/>
+        <div type="Language" lang="Latvian">weens Wihrs un weena Seewa, un</div>
+       <lb id="Sulc1764_ARMST_11_3"/>
+        <div type="Language" lang="Latvian">no weena Puẜszettortneeka weens Wihrs, ar</div>
+       <lb id="Sulc1764_ARMST_11_4"/>
+        <div type="Language" lang="Latvian">ẜawu paẜchu Maiſi, kas tohs Plohſtus us</div>
+       <lb id="Sulc1764_ARMST_11_5"/>
+        <div type="Language" lang="Latvian">Rigu nolaiſch un to Malku turpat uskrauj.</div>
+       <lb id="Sulc1764_ARMST_11_6"/>
+        <div type="Language" lang="Latvian">6.</div>
+       <lb id="Sulc1764_ARMST_11_7"/>
+        <div type="Language" lang="Latvian">Pee Ꞩuhdu Jsweſchanas un Jsahrdiſchanas</div>
+       <lb id="Sulc1764_ARMST_11_8"/>
+        <div type="Language" lang="Latvian">nahk no weena Zettortneeka diwi Zilweki</div>
+       <lb id="Sulc1764_ARMST_11_9"/>
+        <div type="Language" lang="Latvian">ar diwi Sirgeem, un no weena Puẜszettortneeka</div>
+       <lb id="Sulc1764_ARMST_11_10"/>
+        <div type="Language" lang="Latvian">puẜs tik daudſ, kas tik ilgi Muiſchâ</div>
+       <lb id="Sulc1764_ARMST_11_11"/>
+        <div type="Language" lang="Latvian">paleek, kamehr wiẜs tohp isweſts. Par to</div>
+       <lb id="Sulc1764_ARMST_11_12"/>
+        <div type="Language" lang="Latvian">tee Semneeki no abbejahm Walſtim kohpa</div>
+       <lb id="Sulc1764_ARMST_11_13"/>
+        <div type="Language" lang="Latvian">trihs Muzzas allus dabbu.</div>
+       <lb id="Sulc1764_ARMST_11_14"/>
+        <div type="Language" lang="Latvian">7.</div>
+       <lb id="Sulc1764_ARMST_11_15"/>
+        <div type="Language" lang="Latvian">Teem Semneekeem zitkart peenahzahs, bes</div>
+       <lb id="Sulc1764_ARMST_11_16"/>
+        <div type="Language" lang="Latvian">teem taiẜneem Darbeem, wehl kahdas ſinnamas</div>
+       <lb id="Sulc1764_ARMST_11_17"/>
+        <div type="Language" lang="Latvian">Pļawas weenâ Pulkâ nopļaut un ẜaņemt:</div>
+       <lb id="Sulc1764_ARMST_11_18"/>
+        <div type="Language" lang="Latvian">Bet kad ſchee darbi weenâ Pulkâ wiņņeem</div>
+       <lb id="Sulc1764_ARMST_11_19"/>
+        <div type="Language" lang="Latvian">wiẜẜai gruhti bij, tad usņehmahs tee paſchi,</div>
+       <lb id="Sulc1764_ARMST_11_20"/>
+        <div type="Language" lang="Latvian">tâi Weetâ no weena Zettortneeka ẜeſchas, un</div>
+       <lb id="Sulc1764_ARMST_11_21"/>
+        <div type="Language" lang="Latvian">no weena Puẜszettortneeka trihs Paliga=Deenas</div>
+       <lb id="Sulc1764_ARMST_11_22"/>
+        <div type="Language" lang="Latvian">pee Ꞩeena=Darbeem doht.    Pee to tas arridſan</div>
+       <lb id="Sulc1764_ARMST_11_23"/>
+        <div type="Language" lang="Latvian">us preekſchu tà buhs palikt; it kà teem</div>
+       <lb id="Sulc1764_ARMST_11_24"/>
+        <div type="Language" lang="Latvian">Semneekeem ir peenahkahs, to Ꞩeenu no</div>
+       <lb id="Sulc1764_ARMST_11_25"/>
+        <div type="Language" lang="Latvian">Breschahla un Dibbena, Seemas Laikâ, weenâ</div>
+       <lb id="Sulc1764_ARMST_11_26"/>
+        <div type="Language" lang="Latvian">Pulkâ Muiſchâ ẜaweſt; par ko teem diwi</div>
+       <lb id="Sulc1764_ARMST_11_27"/>
+        <div type="Language" lang="Latvian">Muzzas Allus kļuhſt dohtas.</div>
+       <lb id="Sulc1764_ARMST_11_28"/>
+        <div type="Language" lang="Latvian">8.</div>
+       <lb id="Sulc1764_ARMST_11_29"/>
+        <div type="Language" lang="Latvian">Kas no Muiſchas eeſehts irr, tas arridſan</div>
+       <lb id="Sulc1764_ARMST_11_30"/>
+        <div type="Language" lang="Latvian">teem Semneekeem irr ja=nopļauj, un ta Labbiba</div>
+      </div>
+      <pb n="12"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_12_1"/>
+        <div type="Language" lang="Latvian">Ꞩchķuhņôs ja=ẜawed. Pee Nopļauẜchanas</div>
+       <lb id="Sulc1764_ARMST_12_2"/>
+        <div type="Language" lang="Latvian">tohp ikweenam Semneekam ẜawi Wallaki</div>
+       <lb id="Sulc1764_ARMST_12_3"/>
+        <div type="Language" lang="Latvian">tà kà ikkuŗŗam nahkahs, nomehroti; bet ta</div>
+       <lb id="Sulc1764_ARMST_12_4"/>
+        <div type="Language" lang="Latvian">Labbibas Ꞩaweẜchana ar wiẜẜu Pulku noteek.</div>
+       <lb id="Sulc1764_ARMST_12_5"/>
+        <div type="Language" lang="Latvian">Bet, ka ta Muiſchas=Jsſehẜchana teem Semneekeem</div>
+       <lb id="Sulc1764_ARMST_12_6"/>
+        <div type="Language" lang="Latvian">par Gruhtumu ne buhtu wiẜẜai daudſ</div>
+       <lb id="Sulc1764_ARMST_12_7"/>
+        <div type="Language" lang="Latvian">un leela tappuẜi, tad ne buhs teem Semneekeem</div>
+       <lb id="Sulc1764_ARMST_12_8"/>
+        <div type="Language" lang="Latvian">wairak nopļaut, ẜaņemt un apkohpt, ka</div>
+       <lb id="Sulc1764_ARMST_12_9"/>
+        <div type="Language" lang="Latvian">to ween, kas ar teem ikneddeļas Sirdſeneekeem</div>
+       <lb id="Sulc1764_ARMST_12_10"/>
+        <div type="Language" lang="Latvian">eeẜehts un apſtrahdahts irr. Pehz Labbibas</div>
+       <lb id="Sulc1764_ARMST_12_11"/>
+        <div type="Language" lang="Latvian">Nopļauẜchanas un Apkohpẜchanas kļuhs</div>
+       <lb id="Sulc1764_ARMST_12_12"/>
+        <div type="Language" lang="Latvian">teem Semneekeem wiẜẜeem par abbejahm Muiſchahm</div>
+       <lb id="Sulc1764_ARMST_12_13"/>
+        <div type="Language" lang="Latvian">kohpa, trihs Muzzas Allus no Muiſchas</div>
+       <lb id="Sulc1764_ARMST_12_14"/>
+        <div type="Language" lang="Latvian">dohtas.</div>
+       <lb id="Sulc1764_ARMST_12_15"/>
+        <div type="Language" lang="Latvian">9.</div>
+       <lb id="Sulc1764_ARMST_12_16"/>
+        <div type="Language" lang="Latvian">Jebẜchu tee Kahjeneeki no Miķķeļa Deenas</div>
+       <lb id="Sulc1764_ARMST_12_17"/>
+        <div type="Language" lang="Latvian">wairs ne tohp ẜuhtiti, tomehr teem allaſch</div>
+       <lb id="Sulc1764_ARMST_12_18"/>
+        <div type="Language" lang="Latvian">Naktîs ja=nahk irr pee Kulẜchanas, kamehr</div>
+       <lb id="Sulc1764_ARMST_12_19"/>
+        <div type="Language" lang="Latvian">wiẜẜa Labbiba irr apkulta. Tàpat teem Semneekeem</div>
+       <lb id="Sulc1764_ARMST_12_20"/>
+        <div type="Language" lang="Latvian">peenahkahs wiẜẜus Muiſchas=Linnus</div>
+       <lb id="Sulc1764_ARMST_12_21"/>
+        <div type="Language" lang="Latvian">un Kaņņepes, weenâ Pulkâ, tas irr, wiẜẜeem</div>
+       <lb id="Sulc1764_ARMST_12_22"/>
+        <div type="Language" lang="Latvian">lihdſ, ismihſtiht.</div>
+       <lb id="Sulc1764_ARMST_12_23"/>
+        <div type="Language" lang="Latvian">10.</div>
+       <lb id="Sulc1764_ARMST_12_24"/>
+        <div type="Language" lang="Latvian">Pee Aisweẜchanas tahs Muiſchas=Labbibas,</div>
+       <lb id="Sulc1764_ARMST_12_25"/>
+        <div type="Language" lang="Latvian">jeb Klehts=Reiſehm, dohd weens Zettortneeks</div>
+       <lb id="Sulc1764_ARMST_12_26"/>
+        <div type="Language" lang="Latvian">tſchetrus, un weens Puẜszettortneeks diwi</div>
+       <lb id="Sulc1764_ARMST_12_27"/>
+        <div type="Language" lang="Latvian">Weſumus, tomehr ne tahlak, kà lihdſ Rigas</div>
+       <lb id="Sulc1764_ARMST_12_28"/>
+        <div type="Language" lang="Latvian">Pilsſatam, un ne zittâ, kà ween Seemas Laikâ,</div>
+       <lb id="Sulc1764_ARMST_12_29"/>
+        <div type="Language" lang="Latvian">No Seemas=Ꞩwehtku Mehneẜcha, lihdſ Balloſchu</div>
+       <lb id="Sulc1764_ARMST_12_30"/>
+        <div type="Language" lang="Latvian">Mehneſim. Us weenu Weſumu arridſan ne</div>
+      </div>
+      <pb n="13"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_13_1"/>
+        <div type="Language" lang="Latvian">buhs wairak, kà labbâ Zeļļâ aſtoņus Puhrus</div>
+       <lb id="Sulc1764_ARMST_13_2"/>
+        <div type="Language" lang="Latvian">Rudſu, un pee ẜlikta Zeļļa, ẜeptiņus, jeb kas</div>
+       <lb id="Sulc1764_ARMST_13_3"/>
+        <div type="Language" lang="Latvian">eekẜch Ꞩwarra teem war lihdſ buht, uslikt. Ja</div>
+       <lb id="Sulc1764_ARMST_13_4"/>
+        <div type="Language" lang="Latvian">Tas Dſimts=Kungs gribbetu ko ar ẜcheem Brihw=</div>
+       <lb id="Sulc1764_ARMST_13_5"/>
+        <div type="Language" lang="Latvian">Weſumeem us zittu tahļaku Weetu noweſt, jeb</div>
+       <lb id="Sulc1764_ARMST_13_6"/>
+        <div type="Language" lang="Latvian">no tuŗŗenes ko likt atweſt, tad wiņņam peenahkahs,</div>
+       <lb id="Sulc1764_ARMST_13_7"/>
+        <div type="Language" lang="Latvian">tik daudſ, kà ẜchis Zelẜch tahļaks irr, tam</div>
+       <lb id="Sulc1764_ARMST_13_8"/>
+        <div type="Language" lang="Latvian">Semneekam lihdſinaht, woi ar Atlaisẜchanu no</div>
+       <lb id="Sulc1764_ARMST_13_9"/>
+        <div type="Language" lang="Latvian">Darbu=Deenahm, woi ar Naudas=Makẜaẜchanu;</div>
+       <lb id="Sulc1764_ARMST_13_10"/>
+        <div type="Language" lang="Latvian">it kà arridſan tam Semneekam ne peenahkahs,</div>
+       <lb id="Sulc1764_ARMST_13_11"/>
+        <div type="Language" lang="Latvian">kad tas weenu Weſumu noẜazzitâ Weetâ</div>
+       <lb id="Sulc1764_ARMST_13_12"/>
+        <div type="Language" lang="Latvian">noweddis irr, no tuŗŗenes atkal zittu Weſumu</div>
+       <lb id="Sulc1764_ARMST_13_13"/>
+        <div type="Language" lang="Latvian">usņemt, ja wiņņam par to ne tohp ihpaẜchi Lihdſiba</div>
+       <lb id="Sulc1764_ARMST_13_14"/>
+        <div type="Language" lang="Latvian">darrita, ar ko wiņẜch Meerâ irr.   Ja tam</div>
+       <lb id="Sulc1764_ARMST_13_15"/>
+        <div type="Language" lang="Latvian">Dſimts=Kungam wairak irr Jsweddama, ne kà</div>
+       <lb id="Sulc1764_ARMST_13_16"/>
+        <div type="Language" lang="Latvian">tee noẜazziti Weſumi war isweſt, jeb, ja wiņẜch</div>
+       <lb id="Sulc1764_ARMST_13_17"/>
+        <div type="Language" lang="Latvian">ko grib likt isweſt kad Seemas=Laiki newaid,</div>
+       <lb id="Sulc1764_ARMST_13_18"/>
+        <div type="Language" lang="Latvian">Tad ne war tas zittadi notikt, kà ar teem Neddeļas=Darbneekeem,</div>
+       <lb id="Sulc1764_ARMST_13_19"/>
+        <div type="Language" lang="Latvian">un tohp tad weena Sirdſneeka</div>
+       <lb id="Sulc1764_ARMST_13_20"/>
+        <div type="Language" lang="Latvian">Neddeļa par wenu Rigas=Zeļļu lihdſinahta.</div>
+       <lb id="Sulc1764_ARMST_13_21"/>
+        <div type="Language" lang="Latvian">Bet ja tas Dſimts=Kungs kahdus Brihw=Weſumus</div>
+       <lb id="Sulc1764_ARMST_13_22"/>
+        <div type="Language" lang="Latvian">pehz zittas ẜawas Waiadẜibas gribbetu</div>
+       <lb id="Sulc1764_ARMST_13_23"/>
+        <div type="Language" lang="Latvian">aistaupiht un paturreht, tad war wiņẜch gan taî</div>
+       <lb id="Sulc1764_ARMST_13_24"/>
+        <div type="Language" lang="Latvian">Weetâ wiņņeem zittus Darbus uslikt, tomehr</div>
+       <lb id="Sulc1764_ARMST_13_25"/>
+        <div type="Language" lang="Latvian">tà, ka weena Sirdſneeka Darba=Neddeļa par</div>
+       <lb id="Sulc1764_ARMST_13_26"/>
+        <div type="Language" lang="Latvian">weenu Brihw=Weſumu tohp lihdſinata. Tahdi</div>
+       <lb id="Sulc1764_ARMST_13_27"/>
+        <div type="Language" lang="Latvian">Darbi buhs ir tahdâ <corr>Laikâ</corr><sic>Laikô</sic> praẜẜiti tapt, ka</div>
+       <lb id="Sulc1764_ARMST_13_28"/>
+        <div type="Language" lang="Latvian">tas Semneeks tohs bes ẜawa Pohſta war padarriht.</div>
+       <lb id="Sulc1764_ARMST_13_29"/>
+        <div type="Language" lang="Latvian">Kad tas Gads pagahjis irr, tad wairak</div>
+       <lb id="Sulc1764_ARMST_13_30"/>
+        <div type="Language" lang="Latvian">ne war pakkaļ rehķeneht tohs Brihw=Weſumus,</div>
+       <lb id="Sulc1764_ARMST_13_31"/>
+        <div type="Language" lang="Latvian">kas ne irr gahjuẜchi.</div>
+      </div>
+      <pb n="14"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_14_1"/>
+        <div type="Language" lang="Latvian">11.</div>
+       <lb id="Sulc1764_ARMST_14_2"/>
+        <div type="Language" lang="Latvian">Kahrtneeki pehz Lohpu Kohpẜchanas tohp</div>
+       <lb id="Sulc1764_ARMST_14_3"/>
+        <div type="Language" lang="Latvian">no Miķķeļa Deenas lihdſ Jurģa Deenai, no</div>
+       <lb id="Sulc1764_ARMST_14_4"/>
+        <div type="Language" lang="Latvian">Aiskrauknes Walſts trihs, un no Rihmaņa=</div>
+       <lb id="Sulc1764_ARMST_14_5"/>
+        <div type="Language" lang="Latvian">Muiſchas Walſts diwi dohti; Bet kad turpmak</div>
+       <lb id="Sulc1764_ARMST_14_6"/>
+        <div type="Language" lang="Latvian">us wiẜẜahm taggadiņ wehl tukẜchahm Semneeku</div>
+       <lb id="Sulc1764_ARMST_14_7"/>
+        <div type="Language" lang="Latvian">Weetahm Ļaudis buhs uslikti, tad buhs no</div>
+       <lb id="Sulc1764_ARMST_14_8"/>
+        <div type="Language" lang="Latvian">Aiskrauknes=Walſts tſchetreem Kahrtneekeem</div>
+       <lb id="Sulc1764_ARMST_14_9"/>
+        <div type="Language" lang="Latvian">dohteem tapt.    Waẜẜarâ tohp pehz Awju un</div>
+       <lb id="Sulc1764_ARMST_14_10"/>
+        <div type="Language" lang="Latvian">Zuhku Ganniſchanas weens Gans, Puiẜis jeb</div>
+       <lb id="Sulc1764_ARMST_14_11"/>
+        <div type="Language" lang="Latvian">Meita, no Muiſchas Walſts, us Muiſchas</div>
+       <lb id="Sulc1764_ARMST_14_12"/>
+        <div type="Language" lang="Latvian">Maiſi turrehts.</div>
+       <lb id="Sulc1764_ARMST_14_13"/>
+        <div type="Language" lang="Latvian">12.</div>
+       <lb id="Sulc1764_ARMST_14_14"/>
+        <div type="Language" lang="Latvian">Kad tee Darbneeki Seẜdeenâ no Muiſchas</div>
+       <lb id="Sulc1764_ARMST_14_15"/>
+        <div type="Language" lang="Latvian">tohp atlaiſti, tad nahk us Wakti Muiſchâ, no</div>
+       <lb id="Sulc1764_ARMST_14_16"/>
+        <div type="Language" lang="Latvian">Aiskrauknes Walſts diwi, un no Rihmaņa=</div>
+       <lb id="Sulc1764_ARMST_14_17"/>
+        <div type="Language" lang="Latvian">Muiſchas Walſts, weens Wihrs, ar Rateem un</div>
+       <lb id="Sulc1764_ARMST_14_18"/>
+        <div type="Language" lang="Latvian">Sirgeem, kas Pirmdeenâ, kad Darbneeki ẜagahjuẜchi,</div>
+       <lb id="Sulc1764_ARMST_14_19"/>
+        <div type="Language" lang="Latvian">tudaļ atkal tohp atlaiſti.</div>
+       <lb id="Sulc1764_ARMST_14_20"/>
+        <div type="Language" lang="Latvian">13.</div>
+       <lb id="Sulc1764_ARMST_14_21"/>
+        <div type="Language" lang="Latvian">No Rigas Paſti usturreht, pahrmihẜcham</div>
+       <lb id="Sulc1764_ARMST_14_22"/>
+        <div type="Language" lang="Latvian">ar Skrihwera Muiſchu, irr tee Semneeki us</div>
+       <lb id="Sulc1764_ARMST_14_23"/>
+        <div type="Language" lang="Latvian">mannu Usrunnaẜchanu, paẜchi labbisprahtis</div>
+       <lb id="Sulc1764_ARMST_14_24"/>
+        <div type="Language" lang="Latvian">usņehmuẜchees, par ko tee ikkatru Gaddu ap</div>
+       <lb id="Sulc1764_ARMST_14_25"/>
+        <div type="Language" lang="Latvian">Miķķeļeem trihs Muzzas Allus dabbu: Bet us</div>
+       <lb id="Sulc1764_ARMST_14_26"/>
+        <div type="Language" lang="Latvian">ta Paſtneeka Ratteem nekad buhs wairak uslikt,</div>
+       <lb id="Sulc1764_ARMST_14_27"/>
+        <div type="Language" lang="Latvian">kà tſchetru Pohdu Gruhtumu. Grib tas</div>
+       <lb id="Sulc1764_ARMST_14_28"/>
+        <div type="Language" lang="Latvian">Dſimts=Kungs pahraki pahr to likt uslikt, tad</div>
+       <lb id="Sulc1764_ARMST_14_29"/>
+        <div type="Language" lang="Latvian">wiņņam tapehz wajag ẜaderreht ar to Paſtes=</div>
+       <lb id="Sulc1764_ARMST_14_30"/>
+        <div type="Language" lang="Latvian">Wihru.</div>
+      </div>
+      <pb n="15"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_15_1"/>
+        <div type="Language" lang="Latvian">14.</div>
+       <lb id="Sulc1764_ARMST_15_2"/>
+        <div type="Language" lang="Latvian">Bes tahm Teeẜas=Dſiiehm irr weenam</div>
+       <lb id="Sulc1764_ARMST_15_3"/>
+        <div type="Language" lang="Latvian">Zettortneekam peezi Mahrziņi Muiſchas=Linnu,</div>
+       <lb id="Sulc1764_ARMST_15_4"/>
+        <div type="Language" lang="Latvian">un deſmits Mahrziņi Muiſchas=Pakkulas ẜawâs</div>
+       <lb id="Sulc1764_ARMST_15_5"/>
+        <div type="Language" lang="Latvian">Mahjâs ja=leek nowehrpt. Tahs pehdejas irr</div>
+       <lb id="Sulc1764_ARMST_15_6"/>
+        <div type="Language" lang="Latvian">par teem Rohkas Darbeem, kas tahm Kahrtneezehm</div>
+       <lb id="Sulc1764_ARMST_15_7"/>
+        <div type="Language" lang="Latvian">mehdſ dohti tapt.</div>
+       <lb id="Sulc1764_ARMST_15_8"/>
+        <div type="Language" lang="Latvian">15.</div>
+       <lb id="Sulc1764_ARMST_15_9"/>
+        <div type="Language" lang="Latvian">Pee Drehbju Maſgaẜchanas Muiſchâ nahk</div>
+       <lb id="Sulc1764_ARMST_15_10"/>
+        <div type="Language" lang="Latvian">Ꞩeewas un Meitas no tahm Muiſchas=Walſtim,</div>
+       <lb id="Sulc1764_ARMST_15_11"/>
+        <div type="Language" lang="Latvian">pa Kahrtahm, us Muiſchas Maiſi.</div>
+       <lb id="Sulc1764_ARMST_15_12"/>
+        <div type="Language" lang="Latvian">16.</div>
+       <lb id="Sulc1764_ARMST_15_13"/>
+        <div type="Language" lang="Latvian">Kà nu tam Dſimts=Kungam ne buhs ta</div>
+       <lb id="Sulc1764_ARMST_15_14"/>
+        <div type="Language" lang="Latvian">Waļļa buht, pahrak pahr to isſtahſtitu Klauẜiẜchanu</div>
+       <lb id="Sulc1764_ARMST_15_15"/>
+        <div type="Language" lang="Latvian">un Teeẜas=Dohẜchanu, ir to wiẜs maſaku</div>
+       <lb id="Sulc1764_ARMST_15_16"/>
+        <div type="Language" lang="Latvian">Leetu no ta Semneeka ar Warru ņemt, jeb</div>
+       <lb id="Sulc1764_ARMST_15_17"/>
+        <div type="Language" lang="Latvian">prasẜiht; tà tohp tam Semneekam ẜchi Waļļa</div>
+       <lb id="Sulc1764_ARMST_15_18"/>
+        <div type="Language" lang="Latvian">dohta, ja wiņſch dohma, ka tam no ẜawa Dſimts=</div>
+       <lb id="Sulc1764_ARMST_15_19"/>
+        <div type="Language" lang="Latvian">Kunga pahri darrihts irr, pee tahs Ķeiſeriſkas</div>
+       <lb id="Sulc1764_ARMST_15_20"/>
+        <div type="Language" lang="Latvian">Semmes=Teeẜas pahr wiņņu ẜuhdſeht, un ẜawu</div>
+       <lb id="Sulc1764_ARMST_15_21"/>
+        <div type="Language" lang="Latvian">Lihdſibu mekleht: Bet kà tas gan war brihſcham</div>
+       <lb id="Sulc1764_ARMST_15_22"/>
+        <div type="Language" lang="Latvian">gadditees, ka tas Semneeks, woi zaur</div>
+       <lb id="Sulc1764_ARMST_15_23"/>
+        <div type="Language" lang="Latvian">ļaunu Zilweku Usſkubbinaẜchanu, woi arridſan</div>
+       <lb id="Sulc1764_ARMST_15_24"/>
+        <div type="Language" lang="Latvian">zaur ẜawu paſchu niknu Prahtu no tahdeem</div>
+       <lb id="Sulc1764_ARMST_15_25"/>
+        <div type="Language" lang="Latvian">Darbeem, jeb no tahdahm Dohẜchanahm atẜaraujahs,</div>
+       <lb id="Sulc1764_ARMST_15_26"/>
+        <div type="Language" lang="Latvian">kas wiņņam tatſchu peenahkahs darriht</div>
+       <lb id="Sulc1764_ARMST_15_27"/>
+        <div type="Language" lang="Latvian">un doht, ar ko wiņſch tad tam Dſimts=Kungam</div>
+       <lb id="Sulc1764_ARMST_15_28"/>
+        <div type="Language" lang="Latvian">tahdu Skahdi padarritu, ko wiņſch pehz ne</div>
+       <lb id="Sulc1764_ARMST_15_29"/>
+        <div type="Language" lang="Latvian">ẜpehtu makẜaht, tad buhs tam Semneekam to</div>
+       <lb id="Sulc1764_ARMST_15_30"/>
+        <div type="Language" lang="Latvian">wisẜnotaļ, ko tas Kungs tam pawehļ, paklauẜigi</div>
+      </div>
+      <pb n="16"/>
+      <div type="Paragraph">
+       <lb id="Sulc1764_ARMST_16_1"/>
+        <div type="Language" lang="Latvian">padarriht, un pirms, ne kà wiņſch to padarrijis,</div>
+       <lb id="Sulc1764_ARMST_16_2"/>
+        <div type="Language" lang="Latvian">tam ne buhs Waļļas buht, pee teem Teeẜas=</div>
+       <lb id="Sulc1764_ARMST_16_3"/>
+        <div type="Language" lang="Latvian">Krehẜleem ẜuhdſeht.    Ja tad pehz ta Teeẜa</div>
+       <lb id="Sulc1764_ARMST_16_4"/>
+        <div type="Language" lang="Latvian">atrohd, ka tam Semneekam irr pahri notizzis,</div>
+       <lb id="Sulc1764_ARMST_16_5"/>
+        <div type="Language" lang="Latvian">tad tas Dſimts=Kungs gan ikbrihſcham ſpehs</div>
+       <lb id="Sulc1764_ARMST_16_6"/>
+        <div type="Language" lang="Latvian">ẜawam Semneekam par to Skahdi, ko wiņſch</div>
+       <lb id="Sulc1764_ARMST_16_7"/>
+        <div type="Language" lang="Latvian">tam irr darrijis, Lihdſibu darriht.</div>
+       <lb id="Sulc1764_ARMST_16_8"/>
+        <div type="Language" lang="Latvian">17.</div>
+       <lb id="Sulc1764_ARMST_16_9"/>
+        <div type="Language" lang="Latvian">Tà, kà tam Dſimts=Kungam peenahkahs,</div>
+       <lb id="Sulc1764_ARMST_16_10"/>
+        <div type="Language" lang="Latvian">us tahs Teeẜas Noſpreeẜchanu ẜawam Semneekam</div>
+       <lb id="Sulc1764_ARMST_16_11"/>
+        <div type="Language" lang="Latvian">to padarritu Skahdi makẜaht; tàpat turprettim</div>
+       <lb id="Sulc1764_ARMST_16_12"/>
+        <div type="Language" lang="Latvian">tam Semneekam peenahkahs, ja tas nepateeẜi</div>
+       <lb id="Sulc1764_ARMST_16_13"/>
+        <div type="Language" lang="Latvian">ẜuhdſejis, tahs ẜawam Kungam padarritas</div>
+       <lb id="Sulc1764_ARMST_16_14"/>
+        <div type="Language" lang="Latvian">Jsdohẜchanas, us tahs Teeẜas Noſpreeẜchanu,</div>
+       <lb id="Sulc1764_ARMST_16_15"/>
+        <div type="Language" lang="Latvian">atmakẜaht, un ja wiņſch to ne spehtu, tad irr</div>
+       <lb id="Sulc1764_ARMST_16_16"/>
+        <div type="Language" lang="Latvian">wiņņam par to ja zeeẜch pee ẜawas Meeẜas, par</div>
+       <lb id="Sulc1764_ARMST_16_17"/>
+        <div type="Language" lang="Latvian">ikkatru Dalderi diwi pahri Rihkſtu.</div>
+       <lb id="Sulc1764_ARMST_16_18"/>
+        <div type="Language" lang="Latvian">18.</div>
+       <lb id="Sulc1764_ARMST_16_19"/>
+        <div type="Language" lang="Latvian">Tik lab ta eeraſta Pahrmahziẜchana ar</div>
+       <lb id="Sulc1764_ARMST_16_20"/>
+        <div type="Language" lang="Latvian">Pahtagu jeb Karbatſchu, par nepateeẜu Strahdaẜchanu,</div>
+       <lb id="Sulc1764_ARMST_16_21"/>
+        <div type="Language" lang="Latvian">kà arridſan ta bahrgaka Strahpeẜchana</div>
+       <lb id="Sulc1764_ARMST_16_22"/>
+        <div type="Language" lang="Latvian">par kahdahm Blehdibahm un Nepaklauſiẜchanu,</div>
+       <lb id="Sulc1764_ARMST_16_23"/>
+        <div type="Language" lang="Latvian">paleek tà us preekẜchu, kà jaw pirmak un</div>
+       <lb id="Sulc1764_ARMST_16_24"/>
+        <div type="Language" lang="Latvian">pa wezzam, Dſimts=Kunga Waļļâ.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

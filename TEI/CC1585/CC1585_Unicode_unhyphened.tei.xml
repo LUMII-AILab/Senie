@@ -1,0 +1,3365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="CC1585">
+     <sourceDesc>
+      <author>nezināms</author>
+      <title>Catechismvs Catholicorum</title>
+      <date>1585</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; katehisms</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="CC1585_1_1"/>
+       <div type="Language" lang="Latin">CATECHISMVS</div>
+       <lb id="CC1585_1_2"/>
+       <div type="Language" lang="Latin">Catholicorum</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_1_3"/>
+        <div type="Language" lang="Latvian">Jſcige pammaciſchen</div>
+       <lb id="CC1585_1_4"/>
+        <div type="Language" lang="Latvian">/ no thems</div>
+       <lb id="CC1585_1_5"/>
+        <div type="Language" lang="Latvian">Paprekſche Galwe gabblems</div>
+       <lb id="CC1585_1_6"/>
+        <div type="Language" lang="Latvian">Chriſtites macibes.</div>
+       <lb id="CC1585_1_7"/>
+        <div type="Language" lang="Latvian">Prexſkan thems nemacigems</div>
+       <lb id="CC1585_1_8"/>
+        <div type="Language" lang="Latvian">vnd iounems</div>
+       <lb id="CC1585_1_9"/>
+        <div type="Language" lang="Latvian">bernems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_1_10"/>
+        <div type="Language" lang="Latvian">Cour</div>
+       <lb id="CC1585_1_11"/>
+        <div type="Language" lang="Latvian">Kungam Petrum Caniſium /</div>
+       <lb id="CC1585_1_12"/>
+        <div type="Language" lang="Latvian">thaes Schwetes rakſtes</div>
+       <lb id="CC1585_1_13"/>
+        <div type="Language" lang="Latvian">Doctor.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_1_14"/>
+        <div type="Language" lang="Latvian">Ehſpreſtcz Vilne Pille / Littourre</div>
+       <lb id="CC1585_1_15"/>
+        <div type="Language" lang="Latvian">Semmen / pi Danielem Lancicienſem</div>
+       <lb id="CC1585_1_16"/>
+        <div type="Language" lang="Latvian">expan tho gadde.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_1_17"/>
+        <div type="Language" lang="Latvian">1585.</div>
+      </div>
+      <pb n="3"/>
+      <div type="Paragraph">
+       <lb id="CC1585_3_1"/>
+        <div type="Language" lang="Latvian">Tam Chriſtite</div>
+       <lb id="CC1585_3_2"/>
+        <div type="Language" lang="Latvian">Laſcotaiam.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_3_3"/>
+        <div type="Language" lang="Latvian">KA ouxſte vnd lote</div>
+       <lb id="CC1585_3_4"/>
+        <div type="Language" lang="Latvian">tas wayage gir / ka</div>
+       <lb id="CC1585_3_5"/>
+        <div type="Language" lang="Latvian">thems nemacigems</div>
+       <lb id="CC1585_3_6"/>
+        <div type="Language" lang="Latvian">Loudems / vnd Jounems</div>
+       <lb id="CC1585_3_7"/>
+        <div type="Language" lang="Latvian">bernems / tah Summa vnd</div>
+       <lb id="CC1585_3_8"/>
+        <div type="Language" lang="Latvian">ehturreſchen Chriſtites macibes</div>
+       <lb id="CC1585_3_9"/>
+        <div type="Language" lang="Latvian">/ no berne ougumme</div>
+       <lb id="CC1585_3_10"/>
+        <div type="Language" lang="Latvian">tickkuſch pammaciz toep /</div>
+       <lb id="CC1585_3_11"/>
+        <div type="Language" lang="Latvian">tho war newens labbak ſinnat</div>
+       <lb id="CC1585_3_12"/>
+        <div type="Language" lang="Latvian">/ ka wen the / kattre taei</div>
+       <lb id="CC1585_3_13"/>
+        <div type="Language" lang="Latvian">Baſnedce ammate tickuſche</div>
+       <lb id="CC1585_3_14"/>
+        <div type="Language" lang="Latvian">prexkan ſtaw / vnd deniſke</div>
+       <lb id="CC1585_3_15"/>
+        <div type="Language" lang="Latvian">caiuſt bues / ka briſaems peouckte</div>
+       <lb id="CC1585_3_16"/>
+        <div type="Language" lang="Latvian">loutcz atraſte toep /</div>
+       <lb id="CC1585_3_17"/>
+        <div type="Language" lang="Latvian">kattre newen no ſcouwe ticibe</div>
+       <lb id="CC1585_3_18"/>
+        <div type="Language" lang="Latvian">ſcin lagadybe dodt / bet</div>
+       <lb id="CC1585_3_19"/>
+        <div type="Language" lang="Latvian">arridſan daſſchekart couwes</div>
+      </div>
+      <pb n="4"/>
+      <div type="Paragraph">
+       <lb id="CC1585_4_1"/>
+        <div type="Language" lang="Latvian">patres nhemak. Ka nu</div>
+       <lb id="CC1585_4_2"/>
+        <div type="Language" lang="Latvian">taes ceniges Kunges Caniſii</div>
+       <lb id="CC1585_4_3"/>
+        <div type="Language" lang="Latvian">/ maſſe vnde lele <corr>Catechiſmus</corr><sic>CatechiſChtechiſmus</sic></div>
+       <lb id="CC1585_4_4"/>
+        <div type="Language" lang="Latvian">/ no doudſems warrane</div>
+       <lb id="CC1585_4_5"/>
+        <div type="Language" lang="Latvian">teickts / vnd pi wuſſems driſe</div>
+       <lb id="CC1585_4_6"/>
+        <div type="Language" lang="Latvian">par to turrecz toep / ka tas</div>
+       <lb id="CC1585_4_7"/>
+        <div type="Language" lang="Latvian">patz iſſchim laikan / nomannige</div>
+       <lb id="CC1585_4_8"/>
+        <div type="Language" lang="Latvian">ougles / exkan taes</div>
+       <lb id="CC1585_4_9"/>
+        <div type="Language" lang="Latvian">Chriſtites droudſibes darris</div>
+       <lb id="CC1585_4_10"/>
+        <div type="Language" lang="Latvian">gir. Tapetz gir tai Chriſtitei</div>
+       <lb id="CC1585_4_11"/>
+        <div type="Language" lang="Latvian">ougum / vnd thems <corr>nemacigems</corr><sic>nemacinemaci gems</sic></div>
+       <lb id="CC1585_4_12"/>
+        <div type="Language" lang="Latvian">loudems / par lab / the</div>
+       <lb id="CC1585_4_13"/>
+        <div type="Language" lang="Latvian">waidſibe Galwe Gabble / tur</div>
+       <lb id="CC1585_4_14"/>
+        <div type="Language" lang="Latvian">aran iſiemptcz / vnd exan ſcho</div>
+       <lb id="CC1585_4_15"/>
+        <div type="Language" lang="Latvian">maſſe Gramatting ſcagraptcz</div>
+       <lb id="CC1585_4_16"/>
+        <div type="Language" lang="Latvian">taptcz / iten tha / ka newẽs</div>
+       <lb id="CC1585_4_17"/>
+        <div type="Language" lang="Latvian">par tho garumme / nedſe</div>
+       <lb id="CC1585_4_18"/>
+        <div type="Language" lang="Latvian">iſcũme ſchas Gramates <corr>ſcudſet</corr><sic>ſcudſcud ſet</sic></div>
+       <lb id="CC1585_4_19"/>
+        <div type="Language" lang="Latvian">war. Dews dode ka <corr>Chriſto</corr><sic>ChriſChriſ to</sic></div>
+       <lb id="CC1585_4_20"/>
+        <div type="Language" lang="Latvian">tam Kungam / cour tho /</div>
+       <lb id="CC1585_4_21"/>
+        <div type="Language" lang="Latvian">doudſe cruſtites dweſceles <corr>atweſte</corr><sic>atat weſte</sic></div>
+       <lb id="CC1585_4_22"/>
+        <div type="Language" lang="Latvian">war tapt. Amen.</div>
+      </div>
+      <pb n="5"/>
+      <div type="Paragraph">
+       <lb id="CC1585_5_1"/>
+        <div type="Language" lang="Latvian">Summa ieb ehturreſchen</div>
+       <lb id="CC1585_5_2"/>
+        <div type="Language" lang="Latvian">Chriſtites Macibes</div>
+       <lb id="CC1585_5_3"/>
+        <div type="Language" lang="Latvian">/ prexan thems nemacigems</div>
+       <lb id="CC1585_5_4"/>
+        <div type="Language" lang="Latvian">loudems</div>
+       <lb id="CC1585_5_5"/>
+        <div type="Language" lang="Latvian">vnd iounems bernems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_5_6"/>
+        <div type="Language" lang="Latvian">Kas gir vnd bues wens</div>
+       <lb id="CC1585_5_7"/>
+        <div type="Language" lang="Latvian">Chriſticz dhewetcz tapt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_5_8"/>
+        <div type="Language" lang="Latvian">TAs katters peec ſcouwe</div>
+       <lb id="CC1585_5_9"/>
+        <div type="Language" lang="Latvian">enackte Chruſtibe</div>
+       <lb id="CC1585_5_10"/>
+        <div type="Language" lang="Latvian">/ tho ſchwete macib</div>
+       <lb id="CC1585_5_11"/>
+        <div type="Language" lang="Latvian">Jeſu Chriſti / taes patteſces</div>
+       <lb id="CC1585_5_12"/>
+        <div type="Language" lang="Latvian">Dewes vnd cilwekes / exan</div>
+       <lb id="CC1585_5_13"/>
+        <div type="Language" lang="Latvian">couwe Baſnedce vnd</div>
+       <lb id="CC1585_5_14"/>
+        <div type="Language" lang="Latvian">droudſibe adſiiſt / vnd nepekar</div>
+       <lb id="CC1585_5_15"/>
+        <div type="Language" lang="Latvian">wene ioune wilte macibe</div>
+       <lb id="CC1585_5_16"/>
+        <div type="Language" lang="Latvian">/ kattre prettib to Chriſtite</div>
+       <lb id="CC1585_5_17"/>
+        <div type="Language" lang="Latvian">macib / vnd Catholiſche</div>
+       <lb id="CC1585_5_18"/>
+        <div type="Language" lang="Latvian">Baſnedce cixſt.</div>
+       <div type="Language" lang="Latin">1. Pet. 4.</div>
+       <lb id="CC1585_5_19"/>
+       <div type="Language" lang="Latin">Actor. 11.</div>
+      </div>
+      <pb n="6"/>
+      <div type="Paragraph">
+       <lb id="CC1585_6_1"/>
+        <div type="Language" lang="Latvian">Ko dhew vnd gir tha</div>
+       <lb id="CC1585_6_2"/>
+        <div type="Language" lang="Latvian">Catholiſche Baſnedce?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_6_3"/>
+        <div type="Language" lang="Latvian">THa gir wene redſame</div>
+       <lb id="CC1585_6_4"/>
+        <div type="Language" lang="Latvian">droudſibe / no thems /</div>
+       <lb id="CC1585_6_5"/>
+        <div type="Language" lang="Latvian">kattre tho ſchwete Chruſtibe</div>
+       <lb id="CC1585_6_6"/>
+        <div type="Language" lang="Latvian">enak / vnd dabbo / tho</div>
+       <lb id="CC1585_6_7"/>
+        <div type="Language" lang="Latvian">patteſe vnde ſkiſte titcibe</div>
+       <lb id="CC1585_6_8"/>
+        <div type="Language" lang="Latvian">Chriſti adſiſt / vnd ſceu par</div>
+       <lb id="CC1585_6_9"/>
+        <div type="Language" lang="Latvian">auwing taes ammate waldotaies</div>
+       <lb id="CC1585_6_10"/>
+        <div type="Language" lang="Latvian">/ taes Schwetes Petri</div>
+       <lb id="CC1585_6_11"/>
+        <div type="Language" lang="Latvian">exan Chriſti wete / adſiſt</div>
+       <lb id="CC1585_6_12"/>
+        <div type="Language" lang="Latvian">vnd isdoed.</div>
+       <div type="Language" lang="Latin">Rom. 12.1. Cor.</div>
+       <lb id="CC1585_6_13"/>
+       <div type="Language" lang="Latin">12. Johan. 21.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_6_14"/>
+        <div type="Language" lang="Latvian">Kattre gir the paprekſche</div>
+       <lb id="CC1585_6_15"/>
+        <div type="Language" lang="Latvian">Galwe Gabble / no kattre</div>
+       <lb id="CC1585_6_16"/>
+        <div type="Language" lang="Latvian">wenam Chriſtitam bues</div>
+       <lb id="CC1585_6_17"/>
+        <div type="Language" lang="Latvian">pammacitam tapt?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_6_18"/>
+        <div type="Language" lang="Latvian">Te gir ſche peetcz?</div>
+       <lb id="CC1585_6_19"/>
+        <div type="Language" lang="Latvian">Milijb / Sacramentes / vnde</div>
+       <lb id="CC1585_6_20"/>
+        <div type="Language" lang="Latvian">Chriſtite taiſnibe.</div>
+       <div type="Language" lang="Latin">1. Cor.</div>
+       <lb id="CC1585_6_21"/>
+       <div type="Language" lang="Latin">13. 1. Pet. 3.</div>
+      </div>
+      <pb n="7"/>
+      <div type="Paragraph">
+       <lb id="CC1585_7_1"/>
+        <div type="Language" lang="Latvian">Ko dhew vnd gir tha</div>
+       <lb id="CC1585_7_2"/>
+        <div type="Language" lang="Latvian">titcibe?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_7_3"/>
+        <div type="Language" lang="Latvian">TA gir wene dawane no</div>
+       <lb id="CC1585_7_4"/>
+        <div type="Language" lang="Latvian">Dewe ehlete / cour kattre</div>
+       <lb id="CC1585_7_5"/>
+        <div type="Language" lang="Latvian">tha Dewiſke gaiſcum</div>
+       <lb id="CC1585_7_6"/>
+        <div type="Language" lang="Latvian">tho ſcapraſſchen taes Cilwekes</div>
+       <lb id="CC1585_7_7"/>
+        <div type="Language" lang="Latvian">apgaiſmo / ka <corr>tas</corr><sic>tasſtippre</sic> ſtippre</div>
+       <lb id="CC1585_7_8"/>
+        <div type="Language" lang="Latvian">pekrit / wuſſe tho / ko Dews</div>
+       <lb id="CC1585_7_9"/>
+        <div type="Language" lang="Latvian">ſinname lek / vnd thems cilwekems</div>
+       <lb id="CC1585_7_10"/>
+        <div type="Language" lang="Latvian">cour cauwe Baſned</div>
+       <lb id="CC1585_7_11"/>
+        <div type="Language" lang="Latvian">te iatitcz prexſcan litcis gir /</div>
+       <lb id="CC1585_7_12"/>
+        <div type="Language" lang="Latvian">tas gir exſkan tho Schwete</div>
+       <lb id="CC1585_7_13"/>
+        <div type="Language" lang="Latvian">raxſte ehraxſtiz / lib neraxſtitz.</div>
+       <lb id="CC1585_7_14"/>
+       <div type="Language" lang="Latin">Epheſ. 2. Heb. 11.</div>
+       <lb id="CC1585_7_15"/>
+       <div type="Language" lang="Latin">2. Thes. 2.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_7_16"/>
+        <div type="Language" lang="Latvian">Bhet ko bues wenam</div>
+       <lb id="CC1585_7_17"/>
+        <div type="Language" lang="Latvian">Chriſtitam cilwekam</div>
+       <lb id="CC1585_7_18"/>
+        <div type="Language" lang="Latvian">titcet?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_7_19"/>
+        <div type="Language" lang="Latvian">Tho / ko te milige Apoſtelle</div>
+       <lb id="CC1585_7_20"/>
+        <div type="Language" lang="Latvian">exan thems diwepaddeſſmittems</div>
+      </div>
+      <pb n="8"/>
+      <div type="Paragraph">
+       <lb id="CC1585_8_1"/>
+        <div type="Language" lang="Latvian">Gabblems / taes Chriſtites</div>
+       <lb id="CC1585_8_2"/>
+        <div type="Language" lang="Latvian">titcibes apraxſtuſſche</div>
+       <lb id="CC1585_8_3"/>
+        <div type="Language" lang="Latvian">gir.</div>
+       <div type="Language" lang="Latin">Clem. Epiſt. 1. ad Frat.</div>
+       <lb id="CC1585_8_4"/>
+       <div type="Language" lang="Latin">Dom. Ambr. Epiſt. 81.</div>
+       <lb id="CC1585_8_5"/>
+       <div type="Language" lang="Latin">Auguſt. Ser. 181. de</div>
+       <lb id="CC1585_8_6"/>
+       <div type="Language" lang="Latin">tempore.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_8_7"/>
+        <div type="Language" lang="Latvian">Kattre gir te Diwpaddeſſmitte</div>
+       <lb id="CC1585_8_8"/>
+        <div type="Language" lang="Latvian">gable taes Chriſtites</div>
+       <lb id="CC1585_8_9"/>
+        <div type="Language" lang="Latvian">titcibes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_8_10"/>
+        <div type="Language" lang="Latvian">Taes pirmais.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_8_11"/>
+        <div type="Language" lang="Latvian">Es titcz exan Dewe Thewe /</div>
+       <lb id="CC1585_8_12"/>
+        <div type="Language" lang="Latvian">wuſſewalditaiam / Radditaiam</div>
+       <lb id="CC1585_8_13"/>
+        <div type="Language" lang="Latvian">debbes vnd taes ſemmes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_8_14"/>
+        <div type="Language" lang="Latvian">Tas oters.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_8_15"/>
+        <div type="Language" lang="Latvian">Vnd exan Jeſum Chriſtum</div>
+       <lb id="CC1585_8_16"/>
+        <div type="Language" lang="Latvian">wingam wenigam delam /</div>
+       <lb id="CC1585_8_17"/>
+        <div type="Language" lang="Latvian">muſam Kungam.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_8_18"/>
+        <div type="Language" lang="Latvian">Tas treſſches.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_8_19"/>
+        <div type="Language" lang="Latvian">Katters ehiemptcz gir no</div>
+       <lb id="CC1585_8_20"/>
+        <div type="Language" lang="Latvian">the Schwete Garre / dcimmis</div>
+      </div>
+      <pb n="9"/>
+      <div type="Paragraph">
+       <lb id="CC1585_9_1"/>
+        <div type="Language" lang="Latvian">no Maria taes iumprouwes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_2"/>
+        <div type="Language" lang="Latvian">Tas cetturtcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_3"/>
+        <div type="Language" lang="Latvian">Cetitcz appeſkan Pontio Pilato</div>
+       <lb id="CC1585_9_4"/>
+        <div type="Language" lang="Latvian">/ cruſtan ehkaltcz / nomirris</div>
+       <lb id="CC1585_9_5"/>
+        <div type="Language" lang="Latvian">vnde apracktcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_6"/>
+        <div type="Language" lang="Latvian">Tas pektcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_7"/>
+        <div type="Language" lang="Latvian">Semmen kapis exan helles /</div>
+       <lb id="CC1585_9_8"/>
+        <div type="Language" lang="Latvian">treſſchan denan atkal ouxkancelis</div>
+       <lb id="CC1585_9_9"/>
+        <div type="Language" lang="Latvian">no tems murronems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_10"/>
+        <div type="Language" lang="Latvian">Tas ſcheſcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_11"/>
+        <div type="Language" lang="Latvian">Vsbroucis debbeſces / ſced pi</div>
+       <lb id="CC1585_9_12"/>
+        <div type="Language" lang="Latvian">to labberoke Dewe couwe</div>
+       <lb id="CC1585_9_13"/>
+        <div type="Language" lang="Latvian">wuſwaldige thewe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_14"/>
+        <div type="Language" lang="Latvian">Tas ceptitcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_15"/>
+        <div type="Language" lang="Latvian">No turrenes tas atkal nakam</div>
+       <lb id="CC1585_9_16"/>
+        <div type="Language" lang="Latvian">gir ſcodith dſciwes vnd</div>
+       <lb id="CC1585_9_17"/>
+        <div type="Language" lang="Latvian">nomurſches.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_18"/>
+        <div type="Language" lang="Latvian">Tas aſtotz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_9_19"/>
+        <div type="Language" lang="Latvian">Es titcz exan tho ſchwete</div>
+       <lb id="CC1585_9_20"/>
+        <div type="Language" lang="Latvian">Garre.</div>
+      </div>
+      <pb n="10"/>
+      <div type="Paragraph">
+       <lb id="CC1585_10_1"/>
+        <div type="Language" lang="Latvian">Tas deuwitcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_2"/>
+        <div type="Language" lang="Latvian">Wene Schwete Catholiſche</div>
+       <lb id="CC1585_10_3"/>
+        <div type="Language" lang="Latvian">Baſnedſce wene droudſibe</div>
+       <lb id="CC1585_10_4"/>
+        <div type="Language" lang="Latvian">taes Schwetes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_5"/>
+        <div type="Language" lang="Latvian">Tas deſmotcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_6"/>
+        <div type="Language" lang="Latvian">Pammeſſchen taes grekes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_7"/>
+        <div type="Language" lang="Latvian">Tas wenepaddeſſmitcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_8"/>
+        <div type="Language" lang="Latvian">Pecelſchen taes meſſces.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_9"/>
+        <div type="Language" lang="Latvian">Tas diwepaddeſſmitcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_10"/>
+        <div type="Language" lang="Latvian">Vnde wene muſige <corr>ſigoſchen</corr><sic>ſigoſchem</sic></div>
+       <lb id="CC1585_10_11"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_12"/>
+        <div type="Language" lang="Latvian">Ta otre macibe gabbels /</div>
+       <lb id="CC1585_10_13"/>
+        <div type="Language" lang="Latvian">Ko dhew vnd gir tha</div>
+       <lb id="CC1585_10_14"/>
+        <div type="Language" lang="Latvian">Cerrib?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_10_15"/>
+        <div type="Language" lang="Latvian">Tha gir wene Dawan no <corr>Dewe</corr><sic>DeDe we</sic></div>
+       <lb id="CC1585_10_16"/>
+        <div type="Language" lang="Latvian">ehlete / cour kattre exan</div>
+       <lb id="CC1585_10_17"/>
+        <div type="Language" lang="Latvian">ſcha ſigoſchen / ſchwetige</div>
+       <lb id="CC1585_10_18"/>
+        <div type="Language" lang="Latvian">mantibe / vnde nakige tha</div>
+       <lb id="CC1585_10_19"/>
+        <div type="Language" lang="Latvian">muſige ſchwetibe cagaidatc</div>
+       <lb id="CC1585_10_20"/>
+        <div type="Language" lang="Latvian">toep.</div>
+       <div type="Language" lang="Latin">1. Cor. 13. Rom. 5.</div>
+       <div type="Language" lang="German">vnd</div>
+      </div>
+      <pb n="11"/>
+      <div type="Paragraph">
+       <lb id="CC1585_11_1"/>
+       <div type="Language" lang="Latin">18. Tit. 2.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_11_2"/>
+        <div type="Language" lang="Latvian">Ka toep tha Cerrib vs</div>
+       <lb id="CC1585_11_3"/>
+        <div type="Language" lang="Latvian">ouxſtake walkotcz?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_11_4"/>
+        <div type="Language" lang="Latvian">Ahr tho luckſchen / kattre exan</div>
+       <lb id="CC1585_11_5"/>
+        <div type="Language" lang="Latvian">tho ſchwete pater / <corr>papulne</corr><sic>papulpapul ne</sic></div>
+       <lb id="CC1585_11_6"/>
+        <div type="Language" lang="Latvian">gir Zagraptcz. Scha exketurreſchen</div>
+       <lb id="CC1585_11_7"/>
+        <div type="Language" lang="Latvian">wene prekſche</div>
+       <lb id="CC1585_11_8"/>
+        <div type="Language" lang="Latvian">runnaſchen / ahr ſceptingems</div>
+       <lb id="CC1585_11_9"/>
+        <div type="Language" lang="Latvian">Luckſchennems ſcagraptcz.</div>
+       <lb id="CC1585_11_10"/>
+       <div type="Language" lang="Latin">1. Thes. 5. Luc. 11.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">14.</div>
+       <lb id="CC1585_11_11"/>
+       <div type="Language" lang="Latin">Matth. 6.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">7.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_11_12"/>
+        <div type="Language" lang="Latvian">Ka ſkan tha Pater?</div>
+       <lb id="CC1585_11_13"/>
+        <div type="Language" lang="Latvian">Tha pirma lukſchen?</div>
+       <lb id="CC1585_11_14"/>
+        <div type="Language" lang="Latvian">Thews mues katters tu es exan</div>
+       <lb id="CC1585_11_15"/>
+        <div type="Language" lang="Latvian">debbes. Schwetitcz toep</div>
+       <lb id="CC1585_11_16"/>
+        <div type="Language" lang="Latvian"><corr>tous</corr><sic>tons</sic> wartcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_11_17"/>
+        <div type="Language" lang="Latvian">Tha otre lukſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_11_18"/>
+        <div type="Language" lang="Latvian">Enak mums touwe walſtibb</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_11_19"/>
+        <div type="Language" lang="Latvian">Tha treſſche lukſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_11_20"/>
+        <div type="Language" lang="Latvian">Touws praetcz notek / lidſe</div>
+      </div>
+      <pb n="12"/>
+      <div type="Paragraph">
+       <lb id="CC1585_12_1"/>
+        <div type="Language" lang="Latvian">ka exan debbes / tha wurſcon</div>
+       <lb id="CC1585_12_2"/>
+        <div type="Language" lang="Latvian">ſemme.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_3"/>
+        <div type="Language" lang="Latvian">Tha cetterte lukſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_4"/>
+        <div type="Language" lang="Latvian">Dode mums ſchoden deniſke</div>
+       <lb id="CC1585_12_5"/>
+        <div type="Language" lang="Latvian">maiſe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_6"/>
+        <div type="Language" lang="Latvian">Tha pekte lukſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_7"/>
+        <div type="Language" lang="Latvian">Vnde pammette mums muſe</div>
+       <lb id="CC1585_12_8"/>
+        <div type="Language" lang="Latvian">parrade / lidſe ka mes pamettam</div>
+       <lb id="CC1585_12_9"/>
+        <div type="Language" lang="Latvian">ſcouwems parradenekems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_10"/>
+        <div type="Language" lang="Latvian">Tha ſcheſte lukſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_11"/>
+        <div type="Language" lang="Latvian">Vnd newedde mums lounan</div>
+       <lb id="CC1585_12_12"/>
+        <div type="Language" lang="Latvian">kardenaſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_13"/>
+        <div type="Language" lang="Latvian">Tha ceptite lukſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_14"/>
+        <div type="Language" lang="Latvian">Beth peſti mums no tho</div>
+       <lb id="CC1585_12_15"/>
+        <div type="Language" lang="Latvian">loune. Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_16"/>
+        <div type="Language" lang="Latvian">No tho Engelle?</div>
+       <lb id="CC1585_12_17"/>
+        <div type="Language" lang="Latvian">Summaſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_12_18"/>
+        <div type="Language" lang="Latvian">Ka bues wenam thaei</div>
+       <lb id="CC1585_12_19"/>
+        <div type="Language" lang="Latvian">ſchwetei <corr>Jumprouw</corr><sic>Jumproum</sic> Maring</div>
+      </div>
+      <pb n="13"/>
+      <div type="Paragraph">
+       <lb id="CC1585_13_1"/>
+        <div type="Language" lang="Latvian">/ tho Engelle Summenaſchen</div>
+       <lb id="CC1585_13_2"/>
+        <div type="Language" lang="Latvian">ſcacith.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_13_3"/>
+        <div type="Language" lang="Latvian">Summenata es tu Maria</div>
+       <lb id="CC1585_13_4"/>
+        <div type="Language" lang="Latvian">pilne dſceleſtibe / tas kunxs</div>
+       <lb id="CC1585_13_5"/>
+        <div type="Language" lang="Latvian">ahr touwem tu es ſchwetita</div>
+       <lb id="CC1585_13_6"/>
+        <div type="Language" lang="Latvian">par wuſſcems cewems / vnd</div>
+       <lb id="CC1585_13_7"/>
+        <div type="Language" lang="Latvian">ſchwetitcz gir tas ougls touwes</div>
+       <lb id="CC1585_13_8"/>
+        <div type="Language" lang="Latvian">meſces Jeſus Chriſtus.</div>
+       <lb id="CC1585_13_9"/>
+        <div type="Language" lang="Latvian">Schweta Maria / Dewe mate</div>
+       <lb id="CC1585_13_10"/>
+        <div type="Language" lang="Latvian">ludſe par mums nabbagems</div>
+       <lb id="CC1585_13_11"/>
+        <div type="Language" lang="Latvian">grecenekems. Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_13_12"/>
+        <div type="Language" lang="Latvian">Tha treſſche macib gabbels</div>
+       <lb id="CC1585_13_13"/>
+        <div type="Language" lang="Latvian">no thaes Milesſtibes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_13_14"/>
+        <div type="Language" lang="Latvian">Ko dhew vnd gir tha</div>
+       <lb id="CC1585_13_15"/>
+        <div type="Language" lang="Latvian">Milesſtib?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_13_16"/>
+        <div type="Language" lang="Latvian">Tha gir wene Dawane no</div>
+       <lb id="CC1585_13_17"/>
+        <div type="Language" lang="Latvian">Dewe ehlete / cour kattre</div>
+       <lb id="CC1585_13_18"/>
+        <div type="Language" lang="Latvian">Dews ſcouwe patte puſce</div>
+       <lb id="CC1585_13_19"/>
+        <div type="Language" lang="Latvian">petcz miloetcz toep. Bet tas</div>
+       <lb id="CC1585_13_20"/>
+        <div type="Language" lang="Latvian">tuaxks / tur klat muſe patte</div>
+      </div>
+      <pb n="14"/>
+      <div type="Paragraph">
+       <lb id="CC1585_14_1"/>
+        <div type="Language" lang="Latvian">meſce no Dewe petcz milotcz</div>
+       <lb id="CC1585_14_2"/>
+        <div type="Language" lang="Latvian">toep.</div>
+       <div type="Language" lang="Latin">Matth. 22. Luc. 10.</div>
+       <lb id="CC1585_14_3"/>
+       <div type="Language" lang="Latin">Mat. 12.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_14_4"/>
+        <div type="Language" lang="Latvian">Ka doed ceuw tha milib</div>
+       <lb id="CC1585_14_5"/>
+        <div type="Language" lang="Latvian">paſiſth.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_14_6"/>
+        <div type="Language" lang="Latvian">Exſkan turreſchen thaes <corr>Dewiſkes</corr><sic>DeDe wiſkes</sic></div>
+       <lb id="CC1585_14_7"/>
+        <div type="Language" lang="Latvian">bouſles.</div>
+       <div type="Language" lang="Latin">Johan. 14.</div>
+       <lb id="CC1585_14_8"/>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">1. 5.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">12.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_14_9"/>
+        <div type="Language" lang="Latvian">Cek doudſe gir taes Dewiſkes</div>
+       <lb id="CC1585_14_10"/>
+        <div type="Language" lang="Latvian">bouſles / Deſſmitte.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_14_11"/>
+       <div type="Language" lang="Latin">Ex. 10.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">24. Leuit. 19.</div>
+       <lb id="CC1585_14_12"/>
+       <div type="Language" lang="Latin">Matth. 19.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">5. Marci</div>
+       <lb id="CC1585_14_13"/>
+       <div type="Language" lang="Latin">10. Luc. 18. Rom. 2.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_14_14"/>
+        <div type="Language" lang="Latvian">Tas primais Bouſslis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_14_15"/>
+        <div type="Language" lang="Latvian">Es eſſme touws Kunxs vnde</div>
+       <lb id="CC1585_14_16"/>
+        <div type="Language" lang="Latvian">Dews / teuw nebues wairak</div>
+       <lb id="CC1585_14_17"/>
+        <div type="Language" lang="Latvian">Dewes turret ka mannim</div>
+       <lb id="CC1585_14_18"/>
+        <div type="Language" lang="Latvian">wen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_14_19"/>
+        <div type="Language" lang="Latvian">Tas oters Bouſslis.</div>
+      </div>
+      <pb n="15"/>
+      <div type="Paragraph">
+       <lb id="CC1585_15_1"/>
+        <div type="Language" lang="Latvian">Tou nebues Dewe touwe</div>
+       <lb id="CC1585_15_2"/>
+        <div type="Language" lang="Latvian">kunge warde nepatteſce walkot.</div>
+       <lb id="CC1585_15_3"/>
+        <div type="Language" lang="Latvian">Aiſto Dews neturris</div>
+       <lb id="CC1585_15_4"/>
+        <div type="Language" lang="Latvian">toh par nenoſedſige / katterſs</div>
+       <lb id="CC1585_15_5"/>
+        <div type="Language" lang="Latvian">tur walko tho warde ſcouwe</div>
+       <lb id="CC1585_15_6"/>
+        <div type="Language" lang="Latvian">Dewe vnde Kunge welte.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_15_7"/>
+        <div type="Language" lang="Latvian">Tas <corr>treſſcheis</corr><sic>teeſſcheis</sic> Bouſslis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_15_8"/>
+        <div type="Language" lang="Latvian">Pemin ka tu tho ſchweden</div>
+       <lb id="CC1585_15_9"/>
+        <div type="Language" lang="Latvian">ſchwete.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_15_10"/>
+        <div type="Language" lang="Latvian">Tas Cettortcz Bausſlis.</div>
+       <lb id="CC1585_15_11"/>
+        <div type="Language" lang="Latvian">Tew bues touwe Thewe vnde</div>
+       <lb id="CC1585_15_12"/>
+        <div type="Language" lang="Latvian">mate cenan turret / ka tu</div>
+       <lb id="CC1585_15_13"/>
+        <div type="Language" lang="Latvian">war ilge ſigot wurſcon ſemme</div>
+       <lb id="CC1585_15_14"/>
+        <div type="Language" lang="Latvian">/ ko teuw does Dews tous</div>
+       <lb id="CC1585_15_15"/>
+        <div type="Language" lang="Latvian">Kunxs.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_15_16"/>
+        <div type="Language" lang="Latvian">Tas pectais Bousſlis.</div>
+       <lb id="CC1585_15_17"/>
+        <div type="Language" lang="Latvian">Teuw nebues nokout.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_15_18"/>
+        <div type="Language" lang="Latvian">Tas ſcheſteis Bousſlis.</div>
+       <lb id="CC1585_15_19"/>
+        <div type="Language" lang="Latvian">Teuw nebues loulibe paerlouſt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_15_20"/>
+        <div type="Language" lang="Latvian">Tas ceptitcz Bousſlis.</div>
+      </div>
+      <pb n="16"/>
+      <div type="Paragraph">
+       <lb id="CC1585_16_1"/>
+        <div type="Language" lang="Latvian">Teuw nebues ſackt.</div>
+       <lb id="CC1585_16_2"/>
+        <div type="Language" lang="Latvian">Tas aſtotcz Bousſlis.</div>
+       <lb id="CC1585_16_3"/>
+        <div type="Language" lang="Latvian">Teuw nebues nepattece lecibe</div>
+       <lb id="CC1585_16_4"/>
+        <div type="Language" lang="Latvian">doedt prettibe touwe</div>
+       <lb id="CC1585_16_5"/>
+        <div type="Language" lang="Latvian">tuake.</div>
+       <lb id="CC1585_16_6"/>
+        <div type="Language" lang="Latvian">Tas deuwitcz Bousſlis.</div>
+       <lb id="CC1585_16_7"/>
+        <div type="Language" lang="Latvian">Teuw nebues charodt touwe</div>
+       <lb id="CC1585_16_8"/>
+        <div type="Language" lang="Latvian">tuake namme.</div>
+       <lb id="CC1585_16_9"/>
+        <div type="Language" lang="Latvian">Tas deſmots Bousſlis.</div>
+       <lb id="CC1585_16_10"/>
+        <div type="Language" lang="Latvian">Teuw nebues charodt touwe</div>
+       <lb id="CC1585_16_11"/>
+        <div type="Language" lang="Latvian">tuake Cewe.</div>
+       <lb id="CC1585_16_12"/>
+        <div type="Language" lang="Latvian">Nedſe touwe tuake namme /</div>
+       <lb id="CC1585_16_13"/>
+        <div type="Language" lang="Latvian">nedſe tirum / nedſe kalpe / nedſe</div>
+       <lb id="CC1585_16_14"/>
+        <div type="Language" lang="Latvian">kalpon // nedſe winge <corr>werſie</corr><sic>werwer ſie</sic></div>
+       <lb id="CC1585_16_15"/>
+        <div type="Language" lang="Latvian">nedſe lope / ieb wus kas</div>
+       <lb id="CC1585_16_16"/>
+        <div type="Language" lang="Latvian">tam pedarr.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_16_17"/>
+        <div type="Language" lang="Latvian">Sche gir te ſchwete deſſmitte</div>
+       <lb id="CC1585_16_18"/>
+        <div type="Language" lang="Latvian">Dewe bousſle / kattre</div>
+       <lb id="CC1585_16_19"/>
+        <div type="Language" lang="Latvian">exan thems diwems bousſlems</div>
+       <lb id="CC1585_16_20"/>
+        <div type="Language" lang="Latvian">taes mileſtibes cagraptcz</div>
+       <lb id="CC1585_16_21"/>
+        <div type="Language" lang="Latvian">toep.</div>
+      </div>
+      <pb n="17"/>
+      <div type="Paragraph">
+       <lb id="CC1585_17_1"/>
+        <div type="Language" lang="Latvian">Kattre gir the bousſsle</div>
+       <lb id="CC1585_17_2"/>
+        <div type="Language" lang="Latvian">taes mileſtibes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_17_3"/>
+        <div type="Language" lang="Latvian">Sche / Teuw bues Dewam</div>
+       <lb id="CC1585_17_4"/>
+        <div type="Language" lang="Latvian">touwam Kungam miloet /</div>
+       <lb id="CC1585_17_5"/>
+        <div type="Language" lang="Latvian">no wuſce touwe ſcirde / no</div>
+       <lb id="CC1585_17_6"/>
+        <div type="Language" lang="Latvian">wuſce touwe dweſcell / no</div>
+       <lb id="CC1585_17_7"/>
+        <div type="Language" lang="Latvian">wuſce touwe prate / no wuſſe</div>
+       <lb id="CC1585_17_8"/>
+        <div type="Language" lang="Latvian">touwe ſpeeke / vnde touwam</div>
+       <lb id="CC1585_17_9"/>
+        <div type="Language" lang="Latvian">tuakam ka teuw</div>
+       <lb id="CC1585_17_10"/>
+        <div type="Language" lang="Latvian">pattim.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_17_11"/>
+        <div type="Language" lang="Latvian">Cek gir Bouſsles taes</div>
+       <lb id="CC1585_17_12"/>
+        <div type="Language" lang="Latvian">ſchwetes Chriſtites Baſnedces.</div>
+       <lb id="CC1585_17_13"/>
+       <div type="Language" lang="Latin">Luc. 10. Matt. 18.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_17_14"/>
+        <div type="Language" lang="Latvian">Scouwiſke vnde paprekſche</div>
+       <lb id="CC1585_17_15"/>
+        <div type="Language" lang="Latvian">peetcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_17_16"/>
+        <div type="Language" lang="Latvian">Tas pirmois gir. Toes ehlicktes</div>
+       <lb id="CC1585_17_17"/>
+        <div type="Language" lang="Latvian">vnde ehwelotes <corr>ſchwetes</corr><sic>ſchweſchwe tes</sic></div>
+       <lb id="CC1585_17_18"/>
+        <div type="Language" lang="Latvian">denes ſchwetit.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_17_19"/>
+        <div type="Language" lang="Latvian">Tas oters gir. Tho ſchwete</div>
+       <lb id="CC1585_17_20"/>
+        <div type="Language" lang="Latvian">Miſſe / vs toes ehſtadites vnde</div>
+      </div>
+      <pb n="18"/>
+      <div type="Paragraph">
+       <lb id="CC1585_18_1"/>
+        <div type="Language" lang="Latvian">ehlicktes ſchwedenes / ahr</div>
+       <lb id="CC1585_18_2"/>
+        <div type="Language" lang="Latvian">godiſchen vnde ceniſchen <corr>ſirdet</corr><sic>ſirſir det</sic></div>
+       <lb id="CC1585_18_3"/>
+        <div type="Language" lang="Latvian">vnde pi dewe kalpoſchen</div>
+       <lb id="CC1585_18_4"/>
+        <div type="Language" lang="Latvian">buet.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_18_5"/>
+        <div type="Language" lang="Latvian">Tas treſſches gir / Toes pawellettes</div>
+       <lb id="CC1585_18_6"/>
+        <div type="Language" lang="Latvian">gauwame denes /</div>
+       <lb id="CC1585_18_7"/>
+        <div type="Language" lang="Latvian">lidſe tems Cetter deſſmitte</div>
+       <lb id="CC1585_18_8"/>
+        <div type="Language" lang="Latvian">gauwame denems / arridſan</div>
+       <lb id="CC1585_18_9"/>
+        <div type="Language" lang="Latvian">toes Cettres gadde laikes /</div>
+       <lb id="CC1585_18_10"/>
+        <div type="Language" lang="Latvian">vnde citte ſchwete ehlickte</div>
+       <lb id="CC1585_18_11"/>
+        <div type="Language" lang="Latvian">wackerre / gauwat. Arridſan</div>
+       <lb id="CC1585_18_12"/>
+        <div type="Language" lang="Latvian">pekdenan ſceu no meſe / pene /</div>
+       <lb id="CC1585_18_13"/>
+        <div type="Language" lang="Latvian">ſchweſte / poute eſchen noturret.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_18_14"/>
+        <div type="Language" lang="Latvian">Tas cetturtcz gir. Toes grekes</div>
+       <lb id="CC1585_18_15"/>
+        <div type="Language" lang="Latvian">wenam <corr>cenigam</corr><sic>ceuigam</sic> ehlicktam</div>
+       <lb id="CC1585_18_16"/>
+        <div type="Language" lang="Latvian">Dewekalpam vnde <corr>Baſnecekungam</corr><sic>BaſBaſ necekungam</sic></div>
+       <lb id="CC1585_18_17"/>
+        <div type="Language" lang="Latvian">ick gaddeſkaerdt</div>
+       <lb id="CC1585_18_18"/>
+        <div type="Language" lang="Latvian">vs maggake wenkart</div>
+       <lb id="CC1585_18_19"/>
+        <div type="Language" lang="Latvian">adſit / vnde leledene laikan /</div>
+       <lb id="CC1585_18_20"/>
+        <div type="Language" lang="Latvian">tho Sacramentt taes ceniges</div>
+      </div>
+      <pb n="19"/>
+      <div type="Paragraph">
+       <lb id="CC1585_19_1"/>
+        <div type="Language" lang="Latvian">meſes vnd aſſenes Jeſu</div>
+       <lb id="CC1585_19_2"/>
+        <div type="Language" lang="Latvian">Chriſti pi ceu iempt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_19_3"/>
+        <div type="Language" lang="Latvian">Tas pectais gir / toes aiſlectes</div>
+       <lb id="CC1585_19_4"/>
+        <div type="Language" lang="Latvian">laikes newenes khaſes</div>
+       <lb id="CC1585_19_5"/>
+        <div type="Language" lang="Latvian">nedſe citte waidſibe weſcibe</div>
+       <lb id="CC1585_19_6"/>
+        <div type="Language" lang="Latvian">vnde ſerſchen turret.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_19_7"/>
+        <div type="Language" lang="Latvian">Scek gir Bouſsles taes</div>
+       <lb id="CC1585_19_8"/>
+        <div type="Language" lang="Latvian">Natures?</div>
+       <lb id="CC1585_19_9"/>
+        <div type="Language" lang="Latvian">Scouwiſke vnde paprekſche</div>
+       <lb id="CC1585_19_10"/>
+        <div type="Language" lang="Latvian">diwe?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_19_11"/>
+        <div type="Language" lang="Latvian">TAs primais gir. Ko tu</div>
+       <lb id="CC1585_19_12"/>
+        <div type="Language" lang="Latvian">negrib teuw darram / tho</div>
+       <lb id="CC1585_19_13"/>
+        <div type="Language" lang="Latvian">nebues arridſan teuw / wenam</div>
+       <lb id="CC1585_19_14"/>
+        <div type="Language" lang="Latvian">cittam darrit.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_19_15"/>
+        <div type="Language" lang="Latvian">Tas oters gir. Wues ko</div>
+       <lb id="CC1585_19_16"/>
+        <div type="Language" lang="Latvian">Jues gribbet / ko the loutcz</div>
+       <lb id="CC1585_19_17"/>
+        <div type="Language" lang="Latvian">Jums bues darrit / tho darrit</div>
+       <lb id="CC1585_19_18"/>
+        <div type="Language" lang="Latvian">arridſan thems.</div>
+       <div type="Language" lang="Latin">Matth.</div>
+       <lb id="CC1585_19_19"/>
+       <div type="Language" lang="Latin">7. Luc. 6. Tob. 4.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_19_20"/>
+        <div type="Language" lang="Latvian">Ta Cetturte gabble.</div>
+      </div>
+      <pb n="20"/>
+      <div type="Paragraph">
+       <lb id="CC1585_20_1"/>
+        <div type="Language" lang="Latvian">No thems ſchwetems Sacramentems?</div>
+       <lb id="CC1585_20_2"/>
+        <div type="Language" lang="Latvian">Ko gir wens Sacramentcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_20_3"/>
+        <div type="Language" lang="Latvian">THa gir wene redſame <corr>ſpecige</corr><sic>ſpeſpe cige</sic></div>
+       <lb id="CC1585_20_4"/>
+        <div type="Language" lang="Latvian">ſime no Chriſto muſcam</div>
+       <lb id="CC1585_20_5"/>
+        <div type="Language" lang="Latvian">peſtitaiam pattim ehlickts</div>
+       <lb id="CC1585_20_6"/>
+        <div type="Language" lang="Latvian">/ cour kattre mes nereedſame</div>
+       <lb id="CC1585_20_7"/>
+        <div type="Language" lang="Latvian">dſeleſtibe / arridſan</div>
+       <lb id="CC1585_20_8"/>
+        <div type="Language" lang="Latvian">exſkige ſchwetum pannakam</div>
+       <lb id="CC1585_20_9"/>
+        <div type="Language" lang="Latvian">vnde dabboiam.</div>
+       <div type="Language" lang="Latin">Aug. lib. 10.</div>
+       <lb id="CC1585_20_10"/>
+       <div type="Language" lang="Latin">de ciuitate Dei cap. 5. lb. 3.</div>
+       <lb id="CC1585_20_11"/>
+       <div type="Language" lang="Latin">de Doctrin. Chriſt. cap. 9</div>
+       <lb id="CC1585_20_12"/>
+       <div type="Language" lang="Latin">Ambro. lib. 4. de Sacram.</div>
+       <lb id="CC1585_20_13"/>
+       <div type="Language" lang="Latin">Cap. 4.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_20_14"/>
+        <div type="Language" lang="Latvian">Cek gir Sacramentes?</div>
+       <lb id="CC1585_20_15"/>
+        <div type="Language" lang="Latvian">Thur gir ſcepting.</div>
+       <lb id="CC1585_20_16"/>
+        <div type="Language" lang="Latvian">Katre gir the?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_20_17"/>
+        <div type="Language" lang="Latvian">Tha pirmo gir tha Chruſtibb.</div>
+      </div>
+      <pb n="21"/>
+      <div type="Paragraph">
+       <lb id="CC1585_21_1"/>
+        <div type="Language" lang="Latvian">Tha otre gir tha firmung.</div>
+       <lb id="CC1585_21_2"/>
+        <div type="Language" lang="Latvian">Tha treſſche gir tas Sacramentcz</div>
+       <lb id="CC1585_21_3"/>
+        <div type="Language" lang="Latvian">taes Altaers.</div>
+       <lb id="CC1585_21_4"/>
+        <div type="Language" lang="Latvian">Tha cetturte gir tha Bote</div>
+       <lb id="CC1585_21_5"/>
+        <div type="Language" lang="Latvian">/ ieb greke waidaſchen.</div>
+       <lb id="CC1585_21_6"/>
+        <div type="Language" lang="Latvian">Tha peekte gir tha paſterre</div>
+       <lb id="CC1585_21_7"/>
+        <div type="Language" lang="Latvian">ſchwaidaſchen.</div>
+       <lb id="CC1585_21_8"/>
+        <div type="Language" lang="Latvian">Tha Scheſta gir tha <corr>Baſnedce</corr><sic>BaſnedBaſned ce</sic></div>
+       <lb id="CC1585_21_9"/>
+        <div type="Language" lang="Latvian">Kunge ehſwetiſchen ieb</div>
+       <lb id="CC1585_21_10"/>
+        <div type="Language" lang="Latvian">ehſtadiſchen.</div>
+       <lb id="CC1585_21_11"/>
+        <div type="Language" lang="Latvian">Tha ceptite gir tha Loulibe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_21_12"/>
+        <div type="Language" lang="Latvian">Ko gir tha Cruſtibe?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_21_13"/>
+        <div type="Language" lang="Latvian">Tha Cruſtibe gir tha pirma</div>
+       <lb id="CC1585_21_14"/>
+        <div type="Language" lang="Latvian">Sacramente / kattes tam</div>
+       <lb id="CC1585_21_15"/>
+        <div type="Language" lang="Latvian">cilwekam wuſcepirmekartan</div>
+       <lb id="CC1585_21_16"/>
+        <div type="Language" lang="Latvian">wayage gir / exſkan kattre</div>
+       <lb id="CC1585_21_17"/>
+        <div type="Language" lang="Latvian">Chruſtib / tas cilwexs</div>
+       <lb id="CC1585_21_18"/>
+        <div type="Language" lang="Latvian">cour tho vden vnde Dewe</div>
+       <lb id="CC1585_21_19"/>
+        <div type="Language" lang="Latvian">warde / no wuſcems grekems</div>
+       <lb id="CC1585_21_20"/>
+        <div type="Language" lang="Latvian">ſkiſtatcz / vnde exſkan</div>
+      </div>
+      <pb n="22"/>
+      <div type="Paragraph">
+       <lb id="CC1585_22_1"/>
+        <div type="Language" lang="Latvian">Chriſto / ka wens iouns raddiums</div>
+       <lb id="CC1585_22_2"/>
+        <div type="Language" lang="Latvian">atkal peſimptcz vnd</div>
+       <lb id="CC1585_22_3"/>
+        <div type="Language" lang="Latvian">ſchwetitcz <corr>toep</corr><sic>toeb</sic>.</div>
+       <div type="Language" lang="Latin">Acto. 2.</div>
+       <lb id="CC1585_22_4"/>
+       <div type="Language" lang="Latin">Marc. 16. Johan. 3. Tit. 3.</div>
+       <lb id="CC1585_22_5"/>
+       <div type="Language" lang="Latin">Matt. 28. Ephe. 5. 1. Pet. 3.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_22_6"/>
+        <div type="Language" lang="Latvian">Ko gir tha Firmunge?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_22_7"/>
+        <div type="Language" lang="Latvian">Tha Firmung gir wene <corr>Sacramente</corr><sic>SaSa cramente</sic></div>
+       <lb id="CC1585_22_8"/>
+        <div type="Language" lang="Latvian">/ exſkan kattre tas</div>
+       <lb id="CC1585_22_9"/>
+        <div type="Language" lang="Latvian">Chriſtitcz cilwexs cour tho</div>
+       <lb id="CC1585_22_10"/>
+        <div type="Language" lang="Latvian">ſchwete <corr>Chriſtam</corr><sic>Chriſam</sic> / vnd thaes</div>
+       <lb id="CC1585_22_11"/>
+        <div type="Language" lang="Latvian">Dewiſkes wardes / no tho</div>
+       <lb id="CC1585_22_12"/>
+        <div type="Language" lang="Latvian">Swete Garre ehſtiproetcz</div>
+       <lb id="CC1585_22_13"/>
+        <div type="Language" lang="Latvian">toep / ka tas couwe titcibe</div>
+       <lb id="CC1585_22_14"/>
+        <div type="Language" lang="Latvian">paſtawige adſiſt / prexſkan</div>
+       <lb id="CC1585_22_15"/>
+        <div type="Language" lang="Latvian">nechriſtitems / vnde cittems</div>
+       <lb id="CC1585_22_16"/>
+        <div type="Language" lang="Latvian">toutems / kad taes wayage</div>
+       <lb id="CC1585_22_17"/>
+        <div type="Language" lang="Latvian">gir.</div>
+       <div type="Language" lang="Latin">Actor. 8.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">19. Augu.</div>
+       <lb id="CC1585_22_18"/>
+       <div type="Language" lang="Latin">lib. 5. contra Don. Cap. 20.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_22_19"/>
+        <div type="Language" lang="Latvian">Ko gir thas <corr>Sacramentcz</corr><sic>SacramenSacramen tcz</sic></div>
+       <lb id="CC1585_22_20"/>
+        <div type="Language" lang="Latvian">taes Alltars?</div>
+      </div>
+      <pb n="23"/>
+      <div type="Paragraph">
+       <lb id="CC1585_23_1"/>
+        <div type="Language" lang="Latvian"><corr>Tha</corr><sic>Cha</sic> gir tha patteſe meſce</div>
+       <lb id="CC1585_23_2"/>
+        <div type="Language" lang="Latvian">vnde aſcen muſe kunge Jeſu</div>
+       <lb id="CC1585_23_3"/>
+        <div type="Language" lang="Latvian">Chriſti / lidſe ar ſcouwe <corr>ſchwete</corr><sic>ſchweſchwe te</sic></div>
+       <lb id="CC1585_23_4"/>
+        <div type="Language" lang="Latvian">dweſcel vnde Dewibe / appeſſchan</div>
+       <lb id="CC1585_23_5"/>
+        <div type="Language" lang="Latvian">taes ſimes maiſes</div>
+       <lb id="CC1585_23_6"/>
+        <div type="Language" lang="Latvian">vnde wines / tik driſe / kad</div>
+       <lb id="CC1585_23_7"/>
+        <div type="Language" lang="Latvian">wens ehlickts vnde ehſchwetitcz</div>
+       <lb id="CC1585_23_8"/>
+        <div type="Language" lang="Latvian">Dewekalps / maiſe vnde</div>
+       <lb id="CC1585_23_9"/>
+        <div type="Language" lang="Latvian">wine exſkan tho Ammate</div>
+       <lb id="CC1585_23_10"/>
+        <div type="Language" lang="Latvian">taes Miſces / ſchwetis vnde</div>
+       <lb id="CC1585_23_11"/>
+        <div type="Language" lang="Latvian">tos wardes Chriſti par tho</div>
+       <lb id="CC1585_23_12"/>
+        <div type="Language" lang="Latvian">cacis gir / tad tur negir wairs</div>
+       <lb id="CC1585_23_13"/>
+        <div type="Language" lang="Latvian">maiſe vnde wine / beth</div>
+       <lb id="CC1585_23_14"/>
+        <div type="Language" lang="Latvian">tha iſtene pateſe meſe vnde</div>
+       <lb id="CC1585_23_15"/>
+        <div type="Language" lang="Latvian">aſſen Jeſu Chriſti / ahr ſcouwe</div>
+       <lb id="CC1585_23_16"/>
+        <div type="Language" lang="Latvian">pilnne Dewiſke vnde cilwiſke</div>
+       <lb id="CC1585_23_17"/>
+        <div type="Language" lang="Latvian">buſchen.</div>
+       <div type="Language" lang="Latin">Matt. 26.</div>
+       <lb id="CC1585_23_18"/>
+       <div type="Language" lang="Latin">Marc. 14. <corr>Luc</corr><sic>Lnc</sic>. 22. 1. Cor.</div>
+       <lb id="CC1585_23_19"/>
+       <div type="Language" lang="Latin">11. Johan. 6.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_23_20"/>
+        <div type="Language" lang="Latvian">Ko gir tha Bote ieb grekewaidiſchen?</div>
+      </div>
+      <pb n="24"/>
+      <div type="Paragraph">
+       <lb id="CC1585_24_1"/>
+        <div type="Language" lang="Latvian">Tha bote gir wene Sacramente</div>
+       <lb id="CC1585_24_2"/>
+        <div type="Language" lang="Latvian">cour kattre tas ehſtaditz</div>
+       <lb id="CC1585_24_3"/>
+        <div type="Language" lang="Latvian">Dewekalps Exkan</div>
+       <lb id="CC1585_24_4"/>
+        <div type="Language" lang="Latvian">Dewe wete thoes grekes</div>
+       <lb id="CC1585_24_5"/>
+        <div type="Language" lang="Latvian">pammet / kad tas greceneks</div>
+       <lb id="CC1585_24_6"/>
+        <div type="Language" lang="Latvian">no wuſce ſcouwe ſcirde / no</div>
+       <lb id="CC1585_24_7"/>
+        <div type="Language" lang="Latvian">puſſes <corr>ſouwes</corr><sic>ſonwes</sic> grekes waide /</div>
+       <lb id="CC1585_24_8"/>
+        <div type="Language" lang="Latvian">thoſpattes wuſſes ſcouwes</div>
+       <lb id="CC1585_24_9"/>
+        <div type="Language" lang="Latvian">ſinname grekes ar tho mutte</div>
+       <lb id="CC1585_24_10"/>
+        <div type="Language" lang="Latvian">iſcak / vnde turprettib iſtene</div>
+       <lb id="CC1585_24_11"/>
+        <div type="Language" lang="Latvian">vnde labbes ougles exan</div>
+       <lb id="CC1585_24_12"/>
+        <div type="Language" lang="Latvian">taes grekes wetes darrit</div>
+       <lb id="CC1585_24_13"/>
+        <div type="Language" lang="Latvian">grib.</div>
+       <div type="Language" lang="Latin">Matt. 4. Luc. 3.</div>
+       <div type="Language" lang="German">vnd</div>
+       <lb id="CC1585_24_14"/>
+       <div type="Language" lang="Latin">13. Johan. 20. Jaco. 5.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_24_15"/>
+        <div type="Language" lang="Latvian">Ko gir tha paſterre Olie</div>
+       <lb id="CC1585_24_16"/>
+        <div type="Language" lang="Latvian">ſchwaidaſchenn.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_24_17"/>
+        <div type="Language" lang="Latvian">Tha paſterre Olie ſchwaidaſchen</div>
+       <lb id="CC1585_24_18"/>
+        <div type="Language" lang="Latvian">/ gir wene Sacramente</div>
+       <lb id="CC1585_24_19"/>
+        <div type="Language" lang="Latvian">/ exſkan kattre / cour tho</div>
+       <lb id="CC1585_24_20"/>
+        <div type="Language" lang="Latvian">ſchwete Olie / vnde thaes</div>
+      </div>
+      <pb n="25"/>
+      <div type="Paragraph">
+       <lb id="CC1585_25_1"/>
+        <div type="Language" lang="Latvian">wardes Chriſti / tha Dewe</div>
+       <lb id="CC1585_25_2"/>
+        <div type="Language" lang="Latvian">ſceleſtib tam neweſcelam cilwekam</div>
+       <lb id="CC1585_25_3"/>
+        <div type="Language" lang="Latvian">/ pi dwecell pallige /</div>
+       <lb id="CC1585_25_4"/>
+        <div type="Language" lang="Latvian">vnde briſaems arridſaen pi</div>
+       <lb id="CC1585_25_5"/>
+        <div type="Language" lang="Latvian">meſce pallige doetcz toep.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_25_6"/>
+        <div type="Language" lang="Latvian">Ko gir thaes Baſnedce</div>
+       <lb id="CC1585_25_7"/>
+        <div type="Language" lang="Latvian">Kunges ehſchwetib ieb ehſtadiſchenn?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_25_8"/>
+        <div type="Language" lang="Latvian">Thaes Baſnecekunges ehſchwetiſchen</div>
+       <lb id="CC1585_25_9"/>
+        <div type="Language" lang="Latvian">/ gir wene Sacramente</div>
+       <lb id="CC1585_25_10"/>
+        <div type="Language" lang="Latvian">/ cour kattre wene</div>
+       <lb id="CC1585_25_11"/>
+        <div type="Language" lang="Latvian">garrige walſtibe vnd dſeleſtib</div>
+       <lb id="CC1585_25_12"/>
+        <div type="Language" lang="Latvian">thems Dewekalpems / ieb</div>
+       <lb id="CC1585_25_13"/>
+        <div type="Language" lang="Latvian">Gaſpadingems / vnd cittems</div>
+       <lb id="CC1585_25_14"/>
+        <div type="Language" lang="Latvian">Baſnecekalpems doetcz toep /</div>
+       <lb id="CC1585_25_15"/>
+        <div type="Language" lang="Latvian">ka the ſcouwe kalpoſchen vnde</div>
+       <lb id="CC1585_25_16"/>
+        <div type="Language" lang="Latvian">garrige ammate / parreiſe</div>
+       <lb id="CC1585_25_17"/>
+        <div type="Language" lang="Latvian">vnde teſcham iſtradith</div>
+       <lb id="CC1585_25_18"/>
+        <div type="Language" lang="Latvian">warr.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_25_19"/>
+        <div type="Language" lang="Latvian">Ko gir tha Loulibe?</div>
+      </div>
+      <pb n="26"/>
+      <div type="Paragraph">
+       <lb id="CC1585_26_1"/>
+        <div type="Language" lang="Latvian">Tha Loulib gir wene Sacramente</div>
+       <lb id="CC1585_26_2"/>
+        <div type="Language" lang="Latvian">/ cour kattre diwe</div>
+       <lb id="CC1585_26_3"/>
+        <div type="Language" lang="Latvian">ſchwabbade chriſtite cilweke</div>
+       <lb id="CC1585_26_4"/>
+        <div type="Language" lang="Latvian">/ wirs vnde cewe / petz Dewe</div>
+       <lb id="CC1585_26_5"/>
+        <div type="Language" lang="Latvian">ehſtadiſchen ſcouw iemmes</div>
+       <lb id="CC1585_26_6"/>
+        <div type="Language" lang="Latvian">/ vnde ſcacoli / Dewe dſeleſtib</div>
+       <lb id="CC1585_26_7"/>
+        <div type="Language" lang="Latvian">/ ehnaek vnde dabbo /</div>
+       <lb id="CC1585_26_8"/>
+        <div type="Language" lang="Latvian">ka the exan ſcouwe loulate</div>
+       <lb id="CC1585_26_9"/>
+        <div type="Language" lang="Latvian">ſigoſchen is tan nawan Chriſtite</div>
+       <lb id="CC1585_26_10"/>
+        <div type="Language" lang="Latvian">ſigo / vnde ſcagaide.</div>
+       <lb id="CC1585_26_11"/>
+       <div type="Language" lang="Latin">Gen. 2. Matt. 19. 1. Cor.</div>
+       <lb id="CC1585_26_12"/>
+       <div type="Language" lang="Latin">7. Ephe. 5.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_26_13"/>
+        <div type="Language" lang="Latvian">Tha pekte gabble Chriſtites</div>
+       <lb id="CC1585_26_14"/>
+        <div type="Language" lang="Latvian">macibes / no tho iſtene</div>
+       <lb id="CC1585_26_15"/>
+        <div type="Language" lang="Latvian">Chriſtite taiſnibe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_26_16"/>
+        <div type="Language" lang="Latvian">Ko pedar pi thas iſtenes</div>
+       <lb id="CC1585_26_17"/>
+        <div type="Language" lang="Latvian">Chriſtites taiſnibes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_26_18"/>
+        <div type="Language" lang="Latvian">Vs iſcake diwe gabble / ahr</div>
+       <lb id="CC1585_26_19"/>
+        <div type="Language" lang="Latvian">warde iſbekt tho lounne vnde</div>
+       <lb id="CC1585_26_20"/>
+        <div type="Language" lang="Latvian">darrit tho labbe.</div>
+       <div type="Language" lang="Latin">Pſal. 36</div>
+       <lb id="CC1585_26_21"/>
+       <div type="Language" lang="Latin">1. Pet. 3. Eſai. 1.</div>
+      </div>
+      <pb n="27"/>
+      <div type="Paragraph">
+       <lb id="CC1585_27_1"/>
+        <div type="Language" lang="Latvian">Gir the greke wen / wenkartige?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_27_2"/>
+        <div type="Language" lang="Latvian">Nhee / beth diwekartige / the</div>
+       <lb id="CC1585_27_3"/>
+        <div type="Language" lang="Latvian">pirmekartige greke toep <corr>dhewette</corr><sic>dhedhe wette</sic></div>
+       <lb id="CC1585_27_4"/>
+        <div type="Language" lang="Latvian">/ the peſimpte greke /</div>
+       <lb id="CC1585_27_5"/>
+        <div type="Language" lang="Latvian">kattre mums exſkan mate</div>
+       <lb id="CC1585_27_6"/>
+        <div type="Language" lang="Latvian">meſce lidſe ſimpte toep.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_27_7"/>
+        <div type="Language" lang="Latvian">The oterkartige greke toep</div>
+       <lb id="CC1585_27_8"/>
+        <div type="Language" lang="Latvian">dewette / the darrite greke</div>
+       <lb id="CC1585_27_9"/>
+        <div type="Language" lang="Latvian">/ kattre ick wens zour zouwe</div>
+       <lb id="CC1585_27_10"/>
+        <div type="Language" lang="Latvian">patte briwe prate darr /</div>
+       <lb id="CC1585_27_11"/>
+        <div type="Language" lang="Latvian">kattre cour kardenaſchen ehſack</div>
+       <lb id="CC1585_27_12"/>
+        <div type="Language" lang="Latvian">/ cour karumme vſouge /</div>
+       <lb id="CC1585_27_13"/>
+        <div type="Language" lang="Latvian">vnde vs pedei ahr gribboſchen</div>
+       <lb id="CC1585_27_14"/>
+        <div type="Language" lang="Latvian"><corr>pepulditcs</corr><sic>pedulditcs</sic> toep.</div>
+       <div type="Language" lang="Latin"><corr>Pſalm</corr><sic>Pſaml</sic>.</div>
+       <lb id="CC1585_27_15"/>
+       <div type="Language" lang="Latin">50. Rom. 5. Cor. 6. Gal. 5.</div>
+       <lb id="CC1585_27_16"/>
+       <div type="Language" lang="Latin">Apoc. 21. 1. Joan. 1.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_27_17"/>
+        <div type="Language" lang="Latvian">Vs cik doudſadige daebbe</div>
+       <lb id="CC1585_27_18"/>
+        <div type="Language" lang="Latvian">toep te greke darrite.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_27_19"/>
+        <div type="Language" lang="Latvian">Cetterkartige / ahr domaschen</div>
+       <lb id="CC1585_27_20"/>
+        <div type="Language" lang="Latvian">/ ahr wardems / ahr</div>
+      </div>
+      <pb n="28"/>
+      <div type="Paragraph">
+       <lb id="CC1585_28_1"/>
+        <div type="Language" lang="Latvian">darbems vnde pallaidiſchen.</div>
+       <lb id="CC1585_28_2"/>
+       <div type="Language" lang="Latin">Matt. 5. Luc. 12.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_28_3"/>
+        <div type="Language" lang="Latvian">Nokurrenes iſletcs ieb</div>
+       <lb id="CC1585_28_4"/>
+        <div type="Language" lang="Latvian">iſouge the greke?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_28_5"/>
+        <div type="Language" lang="Latvian">The iſletcz vnde oug ahran</div>
+       <lb id="CC1585_28_6"/>
+        <div type="Language" lang="Latvian">neſinnaſchen / lidſe ka Paulus</div>
+       <lb id="CC1585_28_7"/>
+        <div type="Language" lang="Latvian">/ ieb ahran beeſſpecibe lidſe</div>
+       <lb id="CC1585_28_8"/>
+        <div type="Language" lang="Latvian">ka Petrus / ieb ahran couwe</div>
+       <lb id="CC1585_28_9"/>
+        <div type="Language" lang="Latvian">vſmoſche prate vnde lounibe</div>
+       <lb id="CC1585_28_10"/>
+        <div type="Language" lang="Latvian">/ lidſe ka Judas grekois</div>
+       <lb id="CC1585_28_11"/>
+        <div type="Language" lang="Latvian">girr.</div>
+       <lb id="CC1585_28_12"/>
+        <div type="Language" lang="Latvian">Kattre greke <corr>toep</corr><sic>toeb</sic> dewete</div>
+       <lb id="CC1585_28_13"/>
+        <div type="Language" lang="Latvian">galwe greke?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_28_14"/>
+        <div type="Language" lang="Latvian">Sche ſcepting. Graſnibe.</div>
+       <lb id="CC1585_28_15"/>
+        <div type="Language" lang="Latvian">Negouſcibe / Negodibe ieb</div>
+       <lb id="CC1585_28_16"/>
+        <div type="Language" lang="Latvian">neſkiſtibe / Duſmibe / Periſchen</div>
+       <lb id="CC1585_28_17"/>
+        <div type="Language" lang="Latvian">/ Enaidibe / Laiſchibe /</div>
+       <lb id="CC1585_28_18"/>
+        <div type="Language" lang="Latvian">vnde Kutribe exſkan Dewe</div>
+       <lb id="CC1585_28_19"/>
+        <div type="Language" lang="Latvian">kalpoſchen.</div>
+       <div type="Language" lang="Latin">Greg. 31. Moral.</div>
+       <lb id="CC1585_28_20"/>
+       <div type="Language" lang="Latin">Cap. 31.</div>
+      </div>
+      <pb n="29"/>
+      <div type="Paragraph">
+       <lb id="CC1585_29_1"/>
+        <div type="Language" lang="Latvian">Kattre gir the kraſne</div>
+       <lb id="CC1585_29_2"/>
+        <div type="Language" lang="Latvian">dawan / kattre thems galwe</div>
+       <lb id="CC1585_29_3"/>
+        <div type="Language" lang="Latvian">grekems prettibe girr?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_29_4"/>
+        <div type="Language" lang="Latvian">The gir ſche ſcepting</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_29_5"/>
+        <div type="Language" lang="Latvian">Tha pirma gir dſemmibe.</div>
+       <lb id="CC1585_29_6"/>
+        <div type="Language" lang="Latvian">Tha otre gir lappratige doſchen.</div>
+       <lb id="CC1585_29_7"/>
+        <div type="Language" lang="Latvian">Tha treſſche gir Skiſtibe.</div>
+       <lb id="CC1585_29_8"/>
+        <div type="Language" lang="Latvian">Tha cetturte gir Milibe.</div>
+       <lb id="CC1585_29_9"/>
+        <div type="Language" lang="Latvian">Tha pekta gir Mheribe.</div>
+       <lb id="CC1585_29_10"/>
+        <div type="Language" lang="Latvian">Tha ſcheſte gir Precibe.</div>
+       <lb id="CC1585_29_11"/>
+        <div type="Language" lang="Latvian">Tha ceptite gir vs dewedomam</div>
+       <lb id="CC1585_29_12"/>
+        <div type="Language" lang="Latvian">prate.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_29_13"/>
+        <div type="Language" lang="Latvian">Cik gir greke exſkan tho</div>
+       <lb id="CC1585_29_14"/>
+        <div type="Language" lang="Latvian">ſchwete Garre?</div>
+       <lb id="CC1585_29_15"/>
+        <div type="Language" lang="Latvian">Sches.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_29_16"/>
+        <div type="Language" lang="Latvian">Tha pirma gir ſinname ahr</div>
+       <lb id="CC1585_29_17"/>
+        <div type="Language" lang="Latvian">vſmoſche prate vs Dewe dſeleſtibe</div>
+       <lb id="CC1585_29_18"/>
+        <div type="Language" lang="Latvian">grekoeth.</div>
+      </div>
+      <pb n="30"/>
+      <div type="Paragraph">
+       <lb id="CC1585_30_1"/>
+        <div type="Language" lang="Latvian">Tha otre gir / pi Dew dſeleſtibe</div>
+       <lb id="CC1585_30_2"/>
+        <div type="Language" lang="Latvian">iſſcamit.</div>
+       <lb id="CC1585_30_3"/>
+        <div type="Language" lang="Latvian">Tha treſſche gir / tho adſiſte</div>
+       <lb id="CC1585_30_4"/>
+        <div type="Language" lang="Latvian">patteſcibe prettibe ſtawet.</div>
+       <lb id="CC1585_30_5"/>
+        <div type="Language" lang="Latvian">Tha cetturte gir / ſcouwam</div>
+       <lb id="CC1585_30_6"/>
+        <div type="Language" lang="Latvian">tuakam taes pannaktes</div>
+       <lb id="CC1585_30_7"/>
+        <div type="Language" lang="Latvian">dſeleſtibes puſce petcz /</div>
+       <lb id="CC1585_30_8"/>
+        <div type="Language" lang="Latvian">prettibe wuſce milib ehnaiden</div>
+       <lb id="CC1585_30_9"/>
+        <div type="Language" lang="Latvian">turret.</div>
+       <lb id="CC1585_30_10"/>
+        <div type="Language" lang="Latvian">Tha pekta gir / wene paſcetige</div>
+       <lb id="CC1585_30_11"/>
+        <div type="Language" lang="Latvian">vnde allaſe duſmige ſcirde</div>
+       <lb id="CC1585_30_12"/>
+        <div type="Language" lang="Latvian">turret.</div>
+       <lb id="CC1585_30_13"/>
+        <div type="Language" lang="Latvian">Tha ſcheſte gir / exan tho lounne</div>
+       <lb id="CC1585_30_14"/>
+        <div type="Language" lang="Latvian">ſigoſchen vnde grekems</div>
+       <lb id="CC1585_30_15"/>
+        <div type="Language" lang="Latvian">/ bes adgreſchen vnde</div>
+       <lb id="CC1585_30_16"/>
+        <div type="Language" lang="Latvian">grekewaidiſchen pallikt.</div>
+       <lb id="CC1585_30_17"/>
+       <div type="Language" lang="Latin">Matt. 12. Marc. 3.</div>
+       <lb id="CC1585_30_18"/>
+       <div type="Language" lang="Latin">Luc. 12.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_30_19"/>
+        <div type="Language" lang="Latvian">Kattre greke ſcoutcz vnde</div>
+       <lb id="CC1585_30_20"/>
+        <div type="Language" lang="Latvian">bretc <corr>exkan</corr><sic>exkau</sic> Debbes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_30_21"/>
+        <div type="Language" lang="Latvian">Sche cettre.</div>
+      </div>
+      <pb n="31"/>
+      <div type="Paragraph">
+       <lb id="CC1585_31_1"/>
+        <div type="Language" lang="Latvian">Thae pirme gir / prekſcheiempte</div>
+       <lb id="CC1585_31_2"/>
+        <div type="Language" lang="Latvian">nokouſchen.</div>
+       <lb id="CC1585_31_3"/>
+        <div type="Language" lang="Latvian">Thae otre gir / the meeme ieb</div>
+       <lb id="CC1585_31_4"/>
+        <div type="Language" lang="Latvian">Sodomitiſche greke.</div>
+       <lb id="CC1585_31_5"/>
+        <div type="Language" lang="Latvian">Thae treſche gir / appſche ſpeſchen</div>
+       <lb id="CC1585_31_6"/>
+        <div type="Language" lang="Latvian">taes nabbages atraitanes</div>
+       <lb id="CC1585_31_7"/>
+        <div type="Language" lang="Latvian">/ vnde Baridſes.</div>
+       <lb id="CC1585_31_8"/>
+        <div type="Language" lang="Latvian">Thae cetturte gir / pattureſchen</div>
+       <lb id="CC1585_31_9"/>
+        <div type="Language" lang="Latvian">nopelnite alge / taes</div>
+       <lb id="CC1585_31_10"/>
+        <div type="Language" lang="Latvian">ſtradenekes vnde algadſes</div>
+       <lb id="CC1585_31_11"/>
+       <div type="Language" lang="Latin">Gen. 4.</div>
+       <div type="Language" lang="German">vnde</div>
+       <div type="Language" lang="Latin">18. Exodi.</div>
+       <lb id="CC1585_31_12"/>
+       <div type="Language" lang="Latin">22. Deut. 24. Jacob. 5.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_31_13"/>
+        <div type="Language" lang="Latvian">Ka darr wens / ſcou parradan</div>
+       <lb id="CC1585_31_14"/>
+        <div type="Language" lang="Latvian">/ ſchweſſches grekes.</div>
+       <lb id="CC1585_31_15"/>
+       <div type="Language" lang="Latin">Timot. 5. Pſal. 18.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_31_16"/>
+        <div type="Language" lang="Latvian">Cour deuwinge wuddeletems?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_31_17"/>
+        <div type="Language" lang="Latvian">Vs pirmak / ahr paddome</div>
+       <lb id="CC1585_31_18"/>
+        <div type="Language" lang="Latvian">doſchen pi grekems.</div>
+      </div>
+      <pb n="32"/>
+      <div type="Paragraph">
+       <lb id="CC1585_32_1"/>
+        <div type="Language" lang="Latvian">Vs otre / ahr paweloſchen.</div>
+       <lb id="CC1585_32_2"/>
+        <div type="Language" lang="Latvian">Vs treſche ahr lidſe gribboſchen.</div>
+       <lb id="CC1585_32_3"/>
+        <div type="Language" lang="Latvian">Vs cetturte ahr vſweſchen.</div>
+       <lb id="CC1585_32_4"/>
+        <div type="Language" lang="Latvian">Vs pekte ahr teikſchen / <corr>vnde</corr><sic>vnde de</sic></div>
+       <lb id="CC1585_32_5"/>
+        <div type="Language" lang="Latvian">ſmaidiſchen.</div>
+       <lb id="CC1585_32_6"/>
+        <div type="Language" lang="Latvian">Vs ſcheſte ahr kluſſeceſchen</div>
+       <lb id="CC1585_32_7"/>
+        <div type="Language" lang="Latvian">cittes louſes grekes.</div>
+       <lb id="CC1585_32_8"/>
+        <div type="Language" lang="Latvian">Vs ceptite ahr ehredtczeſchen</div>
+       <lb id="CC1585_32_9"/>
+        <div type="Language" lang="Latvian">vnde paweloſchen.</div>
+       <lb id="CC1585_32_10"/>
+        <div type="Language" lang="Latvian">Vs aſtote / ahr nepatteſe apſcedoſchen</div>
+       <lb id="CC1585_32_11"/>
+        <div type="Language" lang="Latvian">vnd iemſchen</div>
+       <lb id="CC1585_32_12"/>
+        <div type="Language" lang="Latvian">ſchweſſche paddome vnde</div>
+       <lb id="CC1585_32_13"/>
+        <div type="Language" lang="Latvian">mantibe.</div>
+       <lb id="CC1585_32_14"/>
+        <div type="Language" lang="Latvian">Vs deuwite / ahr aisbildeſchen</div>
+       <lb id="CC1585_32_15"/>
+        <div type="Language" lang="Latvian">neparreiſe darbes.</div>
+       <div type="Language" lang="Latin">Jo-</div>
+       <lb id="CC1585_32_16"/>
+       <div type="Language" lang="Latin">han. 11. 2. Reg. 11. Actor. 7.</div>
+       <lb id="CC1585_32_17"/>
+       <div type="Language" lang="Latin">Job. 2. Ezech. 13. 2. Tim. 4.</div>
+       <lb id="CC1585_32_18"/>
+       <div type="Language" lang="Latin">1. Reg. 4. Eſai. 1. 2.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_32_19"/>
+        <div type="Language" lang="Latvian">Cek gir Letes exſkan <corr>greke</corr><sic>gregre ke</sic></div>
+       <lb id="CC1585_32_20"/>
+        <div type="Language" lang="Latvian">apwaicaſchen iaapdome?</div>
+      </div>
+      <pb n="33"/>
+      <div type="Paragraph">
+       <lb id="CC1585_33_1"/>
+        <div type="Language" lang="Latvian">Aſtoeng. Kas / Ka / Ko/ cikkardt</div>
+       <lb id="CC1585_33_2"/>
+        <div type="Language" lang="Latvian">/ cour kam / Kapetz /</div>
+       <lb id="CC1585_33_3"/>
+        <div type="Language" lang="Latvian">Ka / vnde kad.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_33_4"/>
+        <div type="Language" lang="Latvian">Ceck gir prate thas meſces?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_33_5"/>
+        <div type="Language" lang="Latvian">Pece / Redſechen / Sirdeſchen /</div>
+       <lb id="CC1585_33_6"/>
+        <div type="Language" lang="Latvian">Boudiſchen / ohſeſchen / aiſtwerſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_33_7"/>
+        <div type="Language" lang="Latvian">Kattre wuddelete kalpo</div>
+       <lb id="CC1585_33_8"/>
+        <div type="Language" lang="Latvian">mums / pi isbekſchen taes</div>
+       <lb id="CC1585_33_9"/>
+        <div type="Language" lang="Latvian">grekes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_33_10"/>
+        <div type="Language" lang="Latvian">Allaſin vnde daſſekardt</div>
+       <lb id="CC1585_33_11"/>
+        <div type="Language" lang="Latvian">luekt.</div>
+       <lb id="CC1585_33_12"/>
+        <div type="Language" lang="Latvian">Grekes ſcudſeth.</div>
+       <lb id="CC1585_33_13"/>
+        <div type="Language" lang="Latvian">Tho ouxſtecenige Sacrament</div>
+       <lb id="CC1585_33_14"/>
+        <div type="Language" lang="Latvian">taes meſces vnd aſſenes</div>
+       <lb id="CC1585_33_15"/>
+        <div type="Language" lang="Latvian">Chriſti pi ſceu iempt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_33_16"/>
+        <div type="Language" lang="Latvian">Droudſibe turret ahr thems</div>
+       <lb id="CC1585_33_17"/>
+        <div type="Language" lang="Latvian">labbems / vnde leenpratigems</div>
+       <lb id="CC1585_33_18"/>
+        <div type="Language" lang="Latvian">cilwekems.</div>
+      </div>
+      <pb n="34"/>
+      <div type="Paragraph">
+       <lb id="CC1585_34_1"/>
+        <div type="Language" lang="Latvian">Dewedomige gramate laſcieth.</div>
+       <lb id="CC1585_34_2"/>
+        <div type="Language" lang="Latvian">Tho rukte ceſchen vnde mirſchen</div>
+       <lb id="CC1585_34_3"/>
+        <div type="Language" lang="Latvian">Chriſti apdomaet /</div>
+       <lb id="CC1585_34_4"/>
+        <div type="Language" lang="Latvian">vnde tho ſigoſchen taes miliges</div>
+       <lb id="CC1585_34_5"/>
+        <div type="Language" lang="Latvian">ſchwetes.</div>
+       <lb id="CC1585_34_6"/>
+        <div type="Language" lang="Latvian">Peminnet pi tho klaedtbuſchen</div>
+       <lb id="CC1585_34_7"/>
+        <div type="Language" lang="Latvian">vnde klatſigoſchen</div>
+       <lb id="CC1585_34_8"/>
+        <div type="Language" lang="Latvian">taes miliges Engeles vnde</div>
+       <lb id="CC1585_34_9"/>
+        <div type="Language" lang="Latvian">pi dewe pattem exſkan</div>
+       <lb id="CC1585_34_10"/>
+        <div type="Language" lang="Latvian">debbes.</div>
+       <lb id="CC1585_34_11"/>
+        <div type="Language" lang="Latvian">Peminnet taes nawes neisbekſchen.</div>
+       <lb id="CC1585_34_12"/>
+        <div type="Language" lang="Latvian">Tho laikigi vnde muſige ſcodibe</div>
+       <lb id="CC1585_34_13"/>
+        <div type="Language" lang="Latvian">taes besdewes.</div>
+       <lb id="CC1585_34_14"/>
+        <div type="Language" lang="Latvian">Tho breſmig paſtere ſcodibe.</div>
+       <lb id="CC1585_34_15"/>
+        <div type="Language" lang="Latvian">Tho muſige ſchwetibe taes</div>
+       <lb id="CC1585_34_16"/>
+        <div type="Language" lang="Latvian">iſredſetes Dewe bernes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_34_17"/>
+        <div type="Language" lang="Latvian">Kattre gir the tris dewiſke</div>
+       <lb id="CC1585_34_18"/>
+        <div type="Language" lang="Latvian">dawan?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_34_19"/>
+        <div type="Language" lang="Latvian">Tha titcibe. 2. Tha cerribe.</div>
+      </div>
+      <pb n="35"/>
+      <div type="Paragraph">
+       <lb id="CC1585_35_1"/>
+        <div type="Language" lang="Latvian">3. vnde tha milibe.</div>
+       <div type="Language" lang="Latin">1. Cor. 13.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_35_2"/>
+        <div type="Language" lang="Latvian">Kattre gir the cettre godige</div>
+       <lb id="CC1585_35_3"/>
+        <div type="Language" lang="Latvian">galwe lehte?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_35_4"/>
+        <div type="Language" lang="Latvian">Paprekſche ſcapraſſchen / Taeiſnibe</div>
+       <lb id="CC1585_35_5"/>
+        <div type="Language" lang="Latvian">/ Mheribe / vnde <corr>ſtipprepratibe</corr><sic>ſtipſtip prepratibe</sic></div>
+       <lb id="CC1585_35_6"/>
+        <div type="Language" lang="Latvian">.</div>
+       <div type="Language" lang="Latin">Luc. 11. 1. Jo-</div>
+       <lb id="CC1585_35_7"/>
+       <div type="Language" lang="Latin">han. 3. Prouer. 14.</div>
+       <lb id="CC1585_35_8"/>
+       <div type="Language" lang="Latin">1. Cor. 15.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_35_9"/>
+        <div type="Language" lang="Latvian">Cek gir Dawanes taes</div>
+       <lb id="CC1585_35_10"/>
+        <div type="Language" lang="Latvian">ſchwetes Garres?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_35_11"/>
+        <div type="Language" lang="Latvian">Cepting. Tah pirme gir te</div>
+       <lb id="CC1585_35_12"/>
+        <div type="Language" lang="Latvian">Dawan taes Scapraſſchennes.</div>
+       <lb id="CC1585_35_13"/>
+        <div type="Language" lang="Latvian">Tha otre gir tha guddribe.</div>
+       <lb id="CC1585_35_14"/>
+        <div type="Language" lang="Latvian">Tha treſſche gir ta paddome.</div>
+       <lb id="CC1585_35_15"/>
+        <div type="Language" lang="Latvian">Tha cetturte gir ta ſtippribe.</div>
+       <lb id="CC1585_35_16"/>
+        <div type="Language" lang="Latvian">Tha pekte gir ta kunſtibe.</div>
+       <lb id="CC1585_35_17"/>
+        <div type="Language" lang="Latvian">Tha ſcheſte gir ta Deweſchwetib.</div>
+       <lb id="CC1585_35_18"/>
+        <div type="Language" lang="Latvian">Tha ceptite gir ta Deweijaſchen.</div>
+       <lb id="CC1585_35_19"/>
+       <div type="Language" lang="Latin">Eſai. 11. 1. Johan. 2.</div>
+      </div>
+      <pb n="36"/>
+      <div type="Paragraph">
+       <lb id="CC1585_36_1"/>
+        <div type="Language" lang="Latvian">Cek gir ougles taes ſchwetes</div>
+       <lb id="CC1585_36_2"/>
+        <div type="Language" lang="Latvian">Garres?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_36_3"/>
+        <div type="Language" lang="Latvian">Deuwinges. Tha pirma gir</div>
+       <lb id="CC1585_36_4"/>
+        <div type="Language" lang="Latvian">Milieb.</div>
+       <lb id="CC1585_36_5"/>
+        <div type="Language" lang="Latvian">Tha otre gir Precibe.</div>
+       <lb id="CC1585_36_6"/>
+        <div type="Language" lang="Latvian">Tha treſſche gir Mheere.</div>
+       <lb id="CC1585_36_7"/>
+        <div type="Language" lang="Latvian">Tha cetturte gir Peecetibe.</div>
+       <lb id="CC1585_36_8"/>
+        <div type="Language" lang="Latvian">Tha pekte gir Leenpratibe.</div>
+       <lb id="CC1585_36_9"/>
+        <div type="Language" lang="Latvian">Tha ſcheſte gir Titcibe.</div>
+       <lb id="CC1585_36_10"/>
+        <div type="Language" lang="Latvian">Tha ceptite gir Modribe.</div>
+       <lb id="CC1585_36_11"/>
+        <div type="Language" lang="Latvian">Tha aſtote gir prettibſtaweſchen</div>
+       <lb id="CC1585_36_12"/>
+        <div type="Language" lang="Latvian">taes meſces karum.</div>
+       <lb id="CC1585_36_13"/>
+        <div type="Language" lang="Latvian">Tha deuwite gir ſkiſtibe vnde</div>
+       <lb id="CC1585_36_14"/>
+        <div type="Language" lang="Latvian">godibe.</div>
+       <div type="Language" lang="Latin">Rom. 8. Gal. 5.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_36_15"/>
+        <div type="Language" lang="Latvian">Kattre gir the ſeuwiſke</div>
+       <lb id="CC1585_36_16"/>
+        <div type="Language" lang="Latvian">vnd paprekſche labbe darbbe</div>
+       <lb id="CC1585_36_17"/>
+        <div type="Language" lang="Latvian">kattre wenam Chriſtitam</div>
+       <lb id="CC1585_36_18"/>
+        <div type="Language" lang="Latvian">darrit bues?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_36_19"/>
+        <div type="Language" lang="Latvian">The gir ſche tries.</div>
+       <div type="Language" lang="Latin">Matth.</div>
+       <lb id="CC1585_36_20"/>
+       <div type="Language" lang="Latin">6.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">25. Tob. 12.</div>
+      </div>
+      <pb n="37"/>
+      <div type="Paragraph">
+       <lb id="CC1585_37_1"/>
+        <div type="Language" lang="Latvian">Tas pirmais gir Gauwet.</div>
+       <lb id="CC1585_37_2"/>
+        <div type="Language" lang="Latvian">Tas oters gir Luekt.</div>
+       <lb id="CC1585_37_3"/>
+        <div type="Language" lang="Latvian">Tas treſſches gir dewedele</div>
+       <lb id="CC1585_37_4"/>
+        <div type="Language" lang="Latvian">doedt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_37_5"/>
+        <div type="Language" lang="Latvian">Cek doudſe gir meſcige</div>
+       <lb id="CC1585_37_6"/>
+        <div type="Language" lang="Latvian">vnde ahrige darbe taes</div>
+       <lb id="CC1585_37_7"/>
+        <div type="Language" lang="Latvian">dſeleſtibes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_37_8"/>
+        <div type="Language" lang="Latvian">Tas pirmais gir / toes iſcalktos</div>
+       <lb id="CC1585_37_9"/>
+        <div type="Language" lang="Latvian">barioet.</div>
+       <lb id="CC1585_37_10"/>
+        <div type="Language" lang="Latvian">Tas oters gir / toes Jſtwiguſches</div>
+       <lb id="CC1585_37_11"/>
+        <div type="Language" lang="Latvian">dſerdenaeth.</div>
+       <lb id="CC1585_37_12"/>
+        <div type="Language" lang="Latvian">Tas treſſches gir / tems ſchoubigems</div>
+       <lb id="CC1585_37_13"/>
+        <div type="Language" lang="Latvian">labb paddome</div>
+       <lb id="CC1585_37_14"/>
+        <div type="Language" lang="Latvian">doedt.</div>
+       <lb id="CC1585_37_15"/>
+        <div type="Language" lang="Latvian">Tas cetturtcz gir / Dewam</div>
+       <lb id="CC1585_37_16"/>
+        <div type="Language" lang="Latvian">pa pallige taes tuakes</div>
+       <lb id="CC1585_37_17"/>
+        <div type="Language" lang="Latvian">luekt.</div>
+       <lb id="CC1585_37_18"/>
+        <div type="Language" lang="Latvian">Tas pektais gir / toes bediges</div>
+       <lb id="CC1585_37_19"/>
+        <div type="Language" lang="Latvian">ehpreecenaet.</div>
+       <lb id="CC1585_37_20"/>
+        <div type="Language" lang="Latvian">Tas ſcheſtais gir / nepatteſcibe</div>
+       <lb id="CC1585_37_21"/>
+        <div type="Language" lang="Latvian">pecetige vnde lappraet</div>
+      </div>
+      <pb n="38"/>
+      <div type="Paragraph">
+       <lb id="CC1585_38_1"/>
+        <div type="Language" lang="Latvian">ceeſt.</div>
+       <lb id="CC1585_38_2"/>
+        <div type="Language" lang="Latvian">Tas ceptitz gir / thems kattre</div>
+       <lb id="CC1585_38_3"/>
+        <div type="Language" lang="Latvian">mums lounne darr /</div>
+       <lb id="CC1585_38_4"/>
+        <div type="Language" lang="Latvian">lapprat pammeſt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_38_5"/>
+        <div type="Language" lang="Latvian">Cek doudſe gir Dſeleſtibe</div>
+       <lb id="CC1585_38_6"/>
+        <div type="Language" lang="Latvian">taes Ewangeliſches</div>
+       <lb id="CC1585_38_7"/>
+        <div type="Language" lang="Latvian">Ehſtadiums?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_38_8"/>
+        <div type="Language" lang="Latvian">Aſtonge.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_38_9"/>
+        <div type="Language" lang="Latvian">Tas pirmais gir / dſelige gir</div>
+       <lb id="CC1585_38_10"/>
+        <div type="Language" lang="Latvian">te nabbage exſkan garre</div>
+       <lb id="CC1585_38_11"/>
+        <div type="Language" lang="Latvian">Aiſto tems bues tha Debbeſce</div>
+       <lb id="CC1585_38_12"/>
+        <div type="Language" lang="Latvian">walſtieb.</div>
+       <lb id="CC1585_38_13"/>
+        <div type="Language" lang="Latvian">Thas oters gir / dſelige gir</div>
+       <lb id="CC1585_38_14"/>
+        <div type="Language" lang="Latvian">te / Lenpratige / aiſto the</div>
+       <lb id="CC1585_38_15"/>
+        <div type="Language" lang="Latvian">tho Semme apſcedis.</div>
+       <lb id="CC1585_38_16"/>
+        <div type="Language" lang="Latvian">Tas treſſches gir / dſelige gir</div>
+       <lb id="CC1585_38_17"/>
+        <div type="Language" lang="Latvian">the kattre tur bedige gir /</div>
+       <lb id="CC1585_38_18"/>
+        <div type="Language" lang="Latvian">vnde ſcudſe / aiſto the tappis</div>
+       <lb id="CC1585_38_19"/>
+        <div type="Language" lang="Latvian">ehprecenate.</div>
+      </div>
+      <pb n="39"/>
+      <div type="Paragraph">
+       <lb id="CC1585_39_1"/>
+        <div type="Language" lang="Latvian">Tas cetturtcz gir / dſelige gir</div>
+       <lb id="CC1585_39_2"/>
+        <div type="Language" lang="Latvian">the kattrems tur calxſt <corr>vnde</corr><sic>vnvn de</sic></div>
+       <lb id="CC1585_39_3"/>
+        <div type="Language" lang="Latvian">twixſt / petcz thas <corr>taeisnibes</corr><sic>taeistaeis nibes</sic></div>
+       <lb id="CC1585_39_4"/>
+        <div type="Language" lang="Latvian">/ aiſto the tappis pepuldenats.</div>
+       <lb id="CC1585_39_5"/>
+        <div type="Language" lang="Latvian">Tas pektais gir / dſelige gir</div>
+       <lb id="CC1585_39_6"/>
+        <div type="Language" lang="Latvian">the mileſcirdige / aiſto the</div>
+       <lb id="CC1585_39_7"/>
+        <div type="Language" lang="Latvian">dſceleſtibe ehnaks.</div>
+       <lb id="CC1585_39_8"/>
+        <div type="Language" lang="Latvian">Tas ſcheſtais gir / dſelige gir</div>
+       <lb id="CC1585_39_9"/>
+        <div type="Language" lang="Latvian">the / kattre tur ſkiſtas ſcirdes</div>
+       <lb id="CC1585_39_10"/>
+        <div type="Language" lang="Latvian">gir / aiſto the Dewe</div>
+       <lb id="CC1585_39_11"/>
+        <div type="Language" lang="Latvian">redſies.</div>
+       <lb id="CC1585_39_12"/>
+        <div type="Language" lang="Latvian">Tas ceptietz gir / dſelige gir</div>
+       <lb id="CC1585_39_13"/>
+        <div type="Language" lang="Latvian">the meredarretaij / aiſto</div>
+       <lb id="CC1585_39_14"/>
+        <div type="Language" lang="Latvian">the tappis Dewe berne</div>
+       <lb id="CC1585_39_15"/>
+        <div type="Language" lang="Latvian">dewette.</div>
+       <lb id="CC1585_39_16"/>
+        <div type="Language" lang="Latvian">Tas aſtotcz gir / dſelige gir</div>
+       <lb id="CC1585_39_17"/>
+        <div type="Language" lang="Latvian">the / kattre tur polgaſchen ceet</div>
+       <lb id="CC1585_39_18"/>
+        <div type="Language" lang="Latvian">no puſſes taes taiſnibes /</div>
+       <lb id="CC1585_39_19"/>
+        <div type="Language" lang="Latvian">aiſto the dabbis tho Debbeſce</div>
+       <lb id="CC1585_39_20"/>
+        <div type="Language" lang="Latvian">walſtibe.</div>
+      </div>
+      <pb n="40"/>
+      <div type="Paragraph">
+       <lb id="CC1585_40_1"/>
+        <div type="Language" lang="Latvian">Cek doudſe gir Ewangeliſche</div>
+       <lb id="CC1585_40_2"/>
+        <div type="Language" lang="Latvian">paddome?</div>
+       <lb id="CC1585_40_3"/>
+        <div type="Language" lang="Latvian">Tries.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_40_4"/>
+        <div type="Language" lang="Latvian">Lappratige Nabbadſibe.</div>
+       <lb id="CC1585_40_5"/>
+        <div type="Language" lang="Latvian">Allaſin paſſcargate ſkiſtibe.</div>
+       <lb id="CC1585_40_6"/>
+        <div type="Language" lang="Latvian">Pulnenakige pakklouſciſchen.</div>
+       <lb id="CC1585_40_7"/>
+       <div type="Language" lang="Latin">Matt. 19. 1. Cor. 7. Eſa. 56.</div>
+       <lb id="CC1585_40_8"/>
+       <div type="Language" lang="Latin">Johan. 6.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_40_9"/>
+        <div type="Language" lang="Latvian">Cek doudſe gir paſtere</div>
+       <lb id="CC1585_40_10"/>
+        <div type="Language" lang="Latvian">lhete / taes cilwekes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_40_11"/>
+        <div type="Language" lang="Latvian">Cettre.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_40_12"/>
+        <div type="Language" lang="Latvian">Tha pirme gir tha Nawe.</div>
+       <lb id="CC1585_40_13"/>
+        <div type="Language" lang="Latvian">Tha otre gir tha paſtere <corr>ſcodibe</corr><sic>ſcoſco dibe</sic></div>
+       <lb id="CC1585_40_14"/>
+        <div type="Language" lang="Latvian">.</div>
+       <lb id="CC1585_40_15"/>
+        <div type="Language" lang="Latvian">Tha treſſche gir tha helle.</div>
+       <lb id="CC1585_40_16"/>
+        <div type="Language" lang="Latvian">Tha cetturte gir tha <corr>debbeſcewalſtib</corr><sic>debbedebbeſcemalſtib</sic></div>
+       <lb id="CC1585_40_17"/>
+        <div type="Language" lang="Latvian">.</div>
+       <div type="Language" lang="Latin">Eccl. 7. Hebr. 9.</div>
+       <lb id="CC1585_40_18"/>
+       <div type="Language" lang="Latin">Rom. 14. Luc. 12.</div>
+       <div type="Language" lang="German">vnd</div>
+       <div type="Language" lang="Latin">16.</div>
+       <lb id="CC1585_40_19"/>
+       <div type="Language" lang="Latin">1. Cor. 2.</div>
+      </div>
+      <pb n="41"/>
+      <div type="Paragraph">
+       <lb id="CC1585_41_1"/>
+        <div type="Language" lang="Latvian">Wene iſcige pammaciſchen</div>
+       <lb id="CC1585_41_2"/>
+        <div type="Language" lang="Latvian">no taes grekes</div>
+       <lb id="CC1585_41_3"/>
+        <div type="Language" lang="Latvian">adſiſchen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_41_4"/>
+        <div type="Language" lang="Latvian">Ka bues tha greke adſiſchen</div>
+       <lb id="CC1585_41_5"/>
+        <div type="Language" lang="Latvian">prexſkan tho Baſnedcekunge</div>
+       <lb id="CC1585_41_6"/>
+        <div type="Language" lang="Latvian">/ exſkan Dewe</div>
+       <lb id="CC1585_41_7"/>
+        <div type="Language" lang="Latvian">wete chriſtite ehſcaktam</div>
+       <lb id="CC1585_41_8"/>
+        <div type="Language" lang="Latvian"><corr>tapt</corr><sic>dapt</sic>?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_41_9"/>
+        <div type="Language" lang="Latvian">PJrmekartan bues tha</div>
+       <lb id="CC1585_41_10"/>
+        <div type="Language" lang="Latvian">ſcirde ſinnaſchen exſkige</div>
+       <lb id="CC1585_41_11"/>
+        <div type="Language" lang="Latvian">apioutitam taept / vnde toes</div>
+       <lb id="CC1585_41_12"/>
+        <div type="Language" lang="Latvian">grekes apdomaet. Otrankartan</div>
+       <lb id="CC1585_41_13"/>
+        <div type="Language" lang="Latvian">par thems apdomathems</div>
+       <lb id="CC1585_41_14"/>
+        <div type="Language" lang="Latvian">grekems / ſcaep vnde</div>
+       <lb id="CC1585_41_15"/>
+        <div type="Language" lang="Latvian">waidaſchen turret / vnde ſceu</div>
+       <lb id="CC1585_41_16"/>
+        <div type="Language" lang="Latvian">toes pattes likt no ſcirdes</div>
+       <lb id="CC1585_41_17"/>
+        <div type="Language" lang="Latvian">dubben dſele buet / ahr tade</div>
+       <lb id="CC1585_41_18"/>
+        <div type="Language" lang="Latvian">prate / ſcouwe ſiwoſchen labbake</div>
+       <lb id="CC1585_41_19"/>
+        <div type="Language" lang="Latvian">darrit.</div>
+      </div>
+      <pb n="42"/>
+      <div type="Paragraph">
+       <lb id="CC1585_42_1"/>
+        <div type="Language" lang="Latvian">Treſſchekartan / ahr ſemmoſche</div>
+       <lb id="CC1585_42_2"/>
+        <div type="Language" lang="Latvian">ſcirde zeu prexan tho</div>
+       <lb id="CC1585_42_3"/>
+        <div type="Language" lang="Latvian">Baſnecekunge celles meſt /</div>
+       <lb id="CC1585_42_4"/>
+        <div type="Language" lang="Latvian">vnde ſceuw <corr>abſimoet</corr><sic>abſim oet</sic> ahr</div>
+       <lb id="CC1585_42_5"/>
+        <div type="Language" lang="Latvian">tho ſime taes ſchwetes cruſtes</div>
+       <lb id="CC1585_42_6"/>
+        <div type="Language" lang="Latvian">/ vnde zazcit.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_42_7"/>
+        <div type="Language" lang="Latvian">Exan tho warde tho Thewe</div>
+       <lb id="CC1585_42_8"/>
+        <div type="Language" lang="Latvian">+ Vnde tho Deele + Vnde</div>
+       <lb id="CC1585_42_9"/>
+        <div type="Language" lang="Latvian">tho Schwete Garre + Cettartankartan</div>
+       <lb id="CC1585_42_10"/>
+        <div type="Language" lang="Latvian">/ ſchos petznakiges</div>
+       <lb id="CC1585_42_11"/>
+        <div type="Language" lang="Latvian">wardes taes greke adſiſchennes</div>
+       <lb id="CC1585_42_12"/>
+        <div type="Language" lang="Latvian">ſcaciet.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_42_13"/>
+        <div type="Language" lang="Latvian">Es nabbaks / greciks / cilueks</div>
+       <lb id="CC1585_42_14"/>
+        <div type="Language" lang="Latvian">adſii / Dewam tam wuſſe <corr>walditaiam</corr><sic>walwal ditaiam</sic></div>
+       <lb id="CC1585_42_15"/>
+        <div type="Language" lang="Latvian">/ Maria winge <corr>ſchwetee</corr><sic>ſchweſchwe tee</sic></div>
+       <lb id="CC1585_42_16"/>
+        <div type="Language" lang="Latvian">Cenige Mate / wuſcems</div>
+       <lb id="CC1585_42_17"/>
+        <div type="Language" lang="Latvian">milems Schwetems / vnde <corr>teuw</corr><sic>tete uw</sic></div>
+       <lb id="CC1585_42_18"/>
+        <div type="Language" lang="Latvian">Baſnedce kunxs / exan <corr>taes</corr><sic>tata es</sic></div>
+       <lb id="CC1585_42_19"/>
+        <div type="Language" lang="Latvian">Dewe wetes / ka es daſſchekaert</div>
+       <lb id="CC1585_42_20"/>
+        <div type="Language" lang="Latvian">grekois eſſme / ahr doudſems</div>
+       <lb id="CC1585_42_21"/>
+        <div type="Language" lang="Latvian">lounems domaſchennems</div>
+      </div>
+      <pb n="43"/>
+      <div type="Paragraph">
+       <lb id="CC1585_43_1"/>
+        <div type="Language" lang="Latvian">/ wardems / vnde darbems</div>
+       <lb id="CC1585_43_2"/>
+        <div type="Language" lang="Latvian">/ vnde ahr nedarriſchen</div>
+       <lb id="CC1585_43_3"/>
+        <div type="Language" lang="Latvian">doudſes labbes darbes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_43_4"/>
+        <div type="Language" lang="Latvian">Ko bues tad taelaek</div>
+       <lb id="CC1585_43_5"/>
+        <div type="Language" lang="Latvian">petcz ſchems prekſche ſcacitems</div>
+       <lb id="CC1585_43_6"/>
+        <div type="Language" lang="Latvian">wardems ſcacitam</div>
+       <lb id="CC1585_43_7"/>
+        <div type="Language" lang="Latvian">taept?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_43_8"/>
+        <div type="Language" lang="Latvian">Tad bues the apdomate vnde</div>
+       <lb id="CC1585_43_9"/>
+        <div type="Language" lang="Latvian">ſinname greke / wuſce / parreiſe</div>
+       <lb id="CC1585_43_10"/>
+        <div type="Language" lang="Latvian">/ papulne / iſcatitam</div>
+       <lb id="CC1585_43_11"/>
+        <div type="Language" lang="Latvian">taept</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_43_12"/>
+        <div type="Language" lang="Latvian">Kad the greke nu adſieſte</div>
+       <lb id="CC1585_43_13"/>
+        <div type="Language" lang="Latvian">vnde iſcacite gir / ka bues</div>
+       <lb id="CC1585_43_14"/>
+        <div type="Language" lang="Latvian">tha grekeſcaciſchen /</div>
+       <lb id="CC1585_43_15"/>
+        <div type="Language" lang="Latvian">zaſchlektam tapt?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_43_16"/>
+        <div type="Language" lang="Latvian">AHr warde / ihten tha.</div>
+       <lb id="CC1585_43_17"/>
+        <div type="Language" lang="Latvian">Kad tas greceneks wuſces</div>
+       <lb id="CC1585_43_18"/>
+        <div type="Language" lang="Latvian">ſouwes grekes nu ſcudſeis</div>
+       <lb id="CC1585_43_19"/>
+        <div type="Language" lang="Latvian">gir / buos tam Joproiam</div>
+       <lb id="CC1585_43_20"/>
+        <div type="Language" lang="Latvian">ſchoes wardes turklaet pekaert</div>
+      </div>
+      <pb n="44"/>
+      <div type="Paragraph">
+       <lb id="CC1585_44_1"/>
+        <div type="Language" lang="Latvian">vnde ſcaciet. Sche greke/</div>
+       <lb id="CC1585_44_2"/>
+        <div type="Language" lang="Latvian">vnde wuſces cittes grekes /</div>
+       <lb id="CC1585_44_3"/>
+        <div type="Language" lang="Latvian">exkan kattre man Dews ſin</div>
+       <lb id="CC1585_44_4"/>
+        <div type="Language" lang="Latvian">noſeedſies / vnde parradan /</div>
+       <lb id="CC1585_44_5"/>
+        <div type="Language" lang="Latvian">ſcaep man loete warran / vnde</div>
+       <lb id="CC1585_44_6"/>
+        <div type="Language" lang="Latvian">gir man no mannes ſcirdes</div>
+       <lb id="CC1585_44_7"/>
+        <div type="Language" lang="Latvian">ſeele / vnde ſcole manne ſigoſchen</div>
+       <lb id="CC1585_44_8"/>
+        <div type="Language" lang="Latvian">labbake darriet. Tapetcz</div>
+       <lb id="CC1585_44_9"/>
+        <div type="Language" lang="Latvian">luedſe es tai ouxſtei cenige</div>
+       <lb id="CC1585_44_10"/>
+        <div type="Language" lang="Latvian">Dewe Matei Mariam /</div>
+       <lb id="CC1585_44_11"/>
+        <div type="Language" lang="Latvian">wuſcems milems Schweteems</div>
+       <lb id="CC1585_44_12"/>
+        <div type="Language" lang="Latvian">/ vnde teuw Dewekaelps</div>
+       <lb id="CC1585_44_13"/>
+        <div type="Language" lang="Latvian">exſkan Dewe wete / gribbet</div>
+       <lb id="CC1585_44_14"/>
+        <div type="Language" lang="Latvian">Dewam <corr>par</corr><sic>pur</sic> mannim luekt /</div>
+       <lb id="CC1585_44_15"/>
+        <div type="Language" lang="Latvian">vnde man exſkan Dewe wete</div>
+       <lb id="CC1585_44_16"/>
+        <div type="Language" lang="Latvian">/ no mannems grekem atraiſciet</div>
+       <lb id="CC1585_44_17"/>
+        <div type="Language" lang="Latvian">/ vnde toes pammeſt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_44_18"/>
+        <div type="Language" lang="Latvian">Ka bues wenam ceuw</div>
+       <lb id="CC1585_44_19"/>
+        <div type="Language" lang="Latvian">turret / petc taes grekes</div>
+       <lb id="CC1585_44_20"/>
+        <div type="Language" lang="Latvian">ſcaciſchen?</div>
+      </div>
+      <pb n="45"/>
+      <div type="Paragraph">
+       <lb id="CC1585_45_1"/>
+        <div type="Language" lang="Latvian">Trijs letes bues tikkuſſche</div>
+       <lb id="CC1585_45_2"/>
+        <div type="Language" lang="Latvian">vnde gliſche darritam</div>
+       <lb id="CC1585_45_3"/>
+        <div type="Language" lang="Latvian">tapt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_45_4"/>
+        <div type="Language" lang="Latvian">Vs pirme bues tam Dewam</div>
+       <lb id="CC1585_45_5"/>
+        <div type="Language" lang="Latvian">par tho pannakte dſeleſtibe</div>
+       <lb id="CC1585_45_6"/>
+        <div type="Language" lang="Latvian">patteikt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_45_7"/>
+        <div type="Language" lang="Latvian">Vs otre bues tam tho vſlikte</div>
+       <lb id="CC1585_45_8"/>
+        <div type="Language" lang="Latvian">Bote / no tho Baſnecekunge</div>
+       <lb id="CC1585_45_9"/>
+        <div type="Language" lang="Latvian">/ parreiſe vnde papulne</div>
+       <lb id="CC1585_45_10"/>
+        <div type="Language" lang="Latvian">darriet / vnde isſtradit.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_45_11"/>
+        <div type="Language" lang="Latvian">Vs treſch bues tam ar Dewe</div>
+       <lb id="CC1585_45_12"/>
+        <div type="Language" lang="Latvian">dſeleſtib ickam tas war /</div>
+       <lb id="CC1585_45_13"/>
+        <div type="Language" lang="Latvian">ſceuw no grekems cargaet /</div>
+       <lb id="CC1585_45_14"/>
+        <div type="Language" lang="Latvian">ka ne ta paſtere lounake</div>
+       <lb id="CC1585_45_15"/>
+        <div type="Language" lang="Latvian">kluſt / ka ta pirme.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_45_16"/>
+        <div type="Language" lang="Latvian">Nu naek ioproiam</div>
+       <lb id="CC1585_45_17"/>
+        <div type="Language" lang="Latvian">ijſce luekſchen / ka wens</div>
+       <lb id="CC1585_45_18"/>
+        <div type="Language" lang="Latvian">Chriſtitcz Cilwexſes / zeuw</div>
+       <lb id="CC1585_45_19"/>
+        <div type="Language" lang="Latvian">bues Dewam ſcouwam</div>
+       <lb id="CC1585_45_20"/>
+        <div type="Language" lang="Latvian">kungam / deniſke</div>
+       <lb id="CC1585_45_21"/>
+        <div type="Language" lang="Latvian">pawelet?</div>
+      </div>
+      <pb n="46"/>
+      <div type="Paragraph">
+       <lb id="CC1585_46_1"/>
+        <div type="Language" lang="Latvian">Ritaes / kad tu vſmodaes vnde</div>
+       <lb id="CC1585_46_2"/>
+        <div type="Language" lang="Latvian">celles / tad ſcak ihten tha.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_46_3"/>
+        <div type="Language" lang="Latvian">Exſkan tho warde Dewe</div>
+       <lb id="CC1585_46_4"/>
+        <div type="Language" lang="Latvian">tho Thewe + Deewe tho</div>
+       <lb id="CC1585_46_5"/>
+        <div type="Language" lang="Latvian">Deele + vnde Dewe tho <corr>ſchwete</corr><sic>ſchweſchwe te</sic></div>
+       <lb id="CC1585_46_6"/>
+        <div type="Language" lang="Latvian">Garre. Amen. Exſkan</div>
+       <lb id="CC1585_46_7"/>
+        <div type="Language" lang="Latvian">tho warde manne Kunge</div>
+       <lb id="CC1585_46_8"/>
+        <div type="Language" lang="Latvian">Jeſu Chriſti / katters cruſtan</div>
+       <lb id="CC1585_46_9"/>
+        <div type="Language" lang="Latvian">ciſtcz gir / cell es ouxſkan /</div>
+       <lb id="CC1585_46_10"/>
+        <div type="Language" lang="Latvian">katters man iſpesſtis gir / tas</div>
+       <lb id="CC1585_46_11"/>
+        <div type="Language" lang="Latvian">paeecz grib man no wuſce loune</div>
+       <lb id="CC1585_46_12"/>
+        <div type="Language" lang="Latvian">paſcargaet / pi meeſce</div>
+       <lb id="CC1585_46_13"/>
+        <div type="Language" lang="Latvian">vnde dweſcel / grib man arriedſan</div>
+       <lb id="CC1585_46_14"/>
+        <div type="Language" lang="Latvian">doedt / kas man war</div>
+       <lb id="CC1585_46_15"/>
+        <div type="Language" lang="Latvian">dſit pi wuſce labb / vnde pi</div>
+       <lb id="CC1585_46_16"/>
+        <div type="Language" lang="Latvian">thaes muſiges ſigoſchennes.</div>
+       <lb id="CC1585_46_17"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_46_18"/>
+        <div type="Language" lang="Latvian">Wene patteitcibe Jaſcak</div>
+       <lb id="CC1585_46_19"/>
+        <div type="Language" lang="Latvian">/ kad tu ouxſkan</div>
+       <lb id="CC1585_46_20"/>
+        <div type="Language" lang="Latvian">celles.</div>
+      </div>
+      <pb n="47"/>
+      <div type="Paragraph">
+       <lb id="CC1585_47_1"/>
+        <div type="Language" lang="Latvian">ES patteitcz teuw o Debbeſce</div>
+       <lb id="CC1585_47_2"/>
+        <div type="Language" lang="Latvian">Thews / cour Jheſum</div>
+       <lb id="CC1585_47_3"/>
+        <div type="Language" lang="Latvian">Chriſtum touwam deelam</div>
+       <lb id="CC1585_47_4"/>
+        <div type="Language" lang="Latvian">mannam Kungam / ka</div>
+       <lb id="CC1585_47_5"/>
+        <div type="Language" lang="Latvian">tu man ſcho naeckte / prexſkan</div>
+       <lb id="CC1585_47_6"/>
+        <div type="Language" lang="Latvian">wuſce lounne paſcargais</div>
+       <lb id="CC1585_47_7"/>
+        <div type="Language" lang="Latvian">es Es luedſe teuw / tu grib</div>
+       <lb id="CC1585_47_8"/>
+        <div type="Language" lang="Latvian">man ſchodeen paſcargaet no</div>
+       <lb id="CC1585_47_9"/>
+        <div type="Language" lang="Latvian">wuſce lounne / ka teuw wuſce</div>
+       <lb id="CC1585_47_10"/>
+        <div type="Language" lang="Latvian">manne darbe / vnde ſigoſchen</div>
+       <lb id="CC1585_47_11"/>
+        <div type="Language" lang="Latvian">war paprate Buet.</div>
+       <lb id="CC1585_47_12"/>
+        <div type="Language" lang="Latvian">Teuw paweel es o Deews</div>
+       <lb id="CC1585_47_13"/>
+        <div type="Language" lang="Latvian">manne meſce vnde dweſcell /</div>
+       <lb id="CC1585_47_14"/>
+        <div type="Language" lang="Latvian">vnde wuſs kas man gir vnde</div>
+       <lb id="CC1585_47_15"/>
+        <div type="Language" lang="Latvian">pedar / touws ſchweetcz Engels</div>
+       <lb id="CC1585_47_16"/>
+        <div type="Language" lang="Latvian">gir ahr man / ka tas louns</div>
+       <lb id="CC1585_47_17"/>
+        <div type="Language" lang="Latvian">enaideneks / newene ſpeke</div>
+       <lb id="CC1585_47_18"/>
+        <div type="Language" lang="Latvian">par man warr atraſt.</div>
+       <lb id="CC1585_47_19"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_47_20"/>
+        <div type="Language" lang="Latvian">Wene citte Chriſtite</div>
+       <lb id="CC1585_47_21"/>
+        <div type="Language" lang="Latvian">patteitcibe ſcaziſchen?</div>
+      </div>
+      <pb n="48"/>
+      <div type="Paragraph">
+       <lb id="CC1585_48_1"/>
+        <div type="Language" lang="Latvian">Es patteitcz teuw o Kunxs</div>
+       <lb id="CC1585_48_2"/>
+        <div type="Language" lang="Latvian">debbeſce Teews / ka tu</div>
+       <lb id="CC1585_48_3"/>
+        <div type="Language" lang="Latvian">man cour touwe wuſſewaldige</div>
+       <lb id="CC1585_48_4"/>
+        <div type="Language" lang="Latvian">ſpeeke raddis es. Es</div>
+       <lb id="CC1585_48_5"/>
+        <div type="Language" lang="Latvian">patteitz teuw Kunxs Jeſu</div>
+       <lb id="CC1585_48_6"/>
+        <div type="Language" lang="Latvian">Chriſte / ka tu man ſcour</div>
+       <lb id="CC1585_48_7"/>
+        <div type="Language" lang="Latvian">touwe roſecarkan aſcen iſpeſtis</div>
+       <lb id="CC1585_48_8"/>
+        <div type="Language" lang="Latvian">es. Es patteitcz teuw</div>
+       <lb id="CC1585_48_9"/>
+        <div type="Language" lang="Latvian">Kunxs Dews Schweteis</div>
+       <lb id="CC1585_48_10"/>
+        <div type="Language" lang="Latvian">Gars / ka tu man cour touwems</div>
+       <lb id="CC1585_48_11"/>
+        <div type="Language" lang="Latvian">baggatems dawanems</div>
+       <lb id="CC1585_48_12"/>
+        <div type="Language" lang="Latvian">par wene chriſtite darris</div>
+       <lb id="CC1585_48_13"/>
+        <div type="Language" lang="Latvian">es. O wuſſe Schwetake</div>
+       <lb id="CC1585_48_14"/>
+        <div type="Language" lang="Latvian">Triadibb / doed man touwe</div>
+       <lb id="CC1585_48_15"/>
+        <div type="Language" lang="Latvian">Dewiſke dſeleſtibe / ka es</div>
+       <lb id="CC1585_48_16"/>
+        <div type="Language" lang="Latvian">petcz touwe prate vnde gribboſchen</div>
+       <lb id="CC1585_48_17"/>
+        <div type="Language" lang="Latvian">/ vs touwe gode / vnde</div>
+       <lb id="CC1585_48_18"/>
+        <div type="Language" lang="Latvian">vs manne ſchwetibb / chriſtite</div>
+       <lb id="CC1585_48_19"/>
+        <div type="Language" lang="Latvian">war ſigoet vnde mirth.</div>
+       <lb id="CC1585_48_20"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <pb n="49"/>
+      <div type="Paragraph">
+       <lb id="CC1585_49_1"/>
+        <div type="Language" lang="Latvian">Wene kraeſne luekſchen</div>
+       <lb id="CC1585_49_2"/>
+        <div type="Language" lang="Latvian">iaſcaek kad wens wackeraes</div>
+       <lb id="CC1585_49_3"/>
+        <div type="Language" lang="Latvian">gullet ehdt?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_49_4"/>
+        <div type="Language" lang="Latvian">O lenix kunxs Jeſu Chriſte</div>
+       <lb id="CC1585_49_5"/>
+        <div type="Language" lang="Latvian">/ Es ſack teuw ſchlaw</div>
+       <lb id="CC1585_49_6"/>
+        <div type="Language" lang="Latvian">vnde patteicibe / ka tu man</div>
+       <lb id="CC1585_49_7"/>
+        <div type="Language" lang="Latvian">nabbage grecenek / no puſce</div>
+       <lb id="CC1585_49_8"/>
+        <div type="Language" lang="Latvian">touwe lele dſeleſtibe / ſchodeen</div>
+       <lb id="CC1585_49_9"/>
+        <div type="Language" lang="Latvian">wuſſe teewiſke / no wuſce</div>
+       <lb id="CC1585_49_10"/>
+        <div type="Language" lang="Latvian">lounne paſcargais es / Es luedſe</div>
+       <lb id="CC1585_49_11"/>
+        <div type="Language" lang="Latvian">teuw arridſaen no ſcirdes</div>
+       <lb id="CC1585_49_12"/>
+        <div type="Language" lang="Latvian">duebben / tu grib maen</div>
+       <lb id="CC1585_49_13"/>
+        <div type="Language" lang="Latvian">dſelige pammeſt wuſces <corr>mannes</corr><sic>manman nes</sic></div>
+       <lb id="CC1585_49_14"/>
+        <div type="Language" lang="Latvian">grekes / kattre es ſchodeen</div>
+       <lb id="CC1585_49_15"/>
+        <div type="Language" lang="Latvian">prettib teuw darris eſſme</div>
+       <lb id="CC1585_49_16"/>
+        <div type="Language" lang="Latvian">/ vnde man doedt wen</div>
+       <lb id="CC1585_49_17"/>
+        <div type="Language" lang="Latvian">duſcame nakte / maen <corr>paſcargaet</corr><sic>paſcarpaſcar gaet</sic></div>
+       <lb id="CC1585_49_18"/>
+        <div type="Language" lang="Latvian">no grekems / vnde prexſkaen</div>
+       <lb id="CC1585_49_19"/>
+        <div type="Language" lang="Latvian">tho lounne welnne wiltibb</div>
+       <lb id="CC1585_49_20"/>
+        <div type="Language" lang="Latvian">/ vnde ia tha meſce apgullis</div>
+      </div>
+      <pb n="50"/>
+      <div type="Paragraph">
+       <lb id="CC1585_50_1"/>
+        <div type="Language" lang="Latvian">/ toeck mans praetcz</div>
+       <lb id="CC1585_50_2"/>
+        <div type="Language" lang="Latvian">laeid exſkan teuw modrige</div>
+       <lb id="CC1585_50_3"/>
+        <div type="Language" lang="Latvian">bueth / ka es rijtan ahr ſkiſte</div>
+       <lb id="CC1585_50_4"/>
+        <div type="Language" lang="Latvian">ſcirde teuw <corr>atkal</corr><sic>alkal</sic> kalpoet</div>
+       <lb id="CC1585_50_5"/>
+        <div type="Language" lang="Latvian">warr / katters tu dſiwo vnde</div>
+       <lb id="CC1585_50_6"/>
+        <div type="Language" lang="Latvian">waldo / ar tho Thewe / vnde</div>
+       <lb id="CC1585_50_7"/>
+        <div type="Language" lang="Latvian">Schwete Garre / no muſaem</div>
+       <lb id="CC1585_50_8"/>
+        <div type="Language" lang="Latvian">is muſaem.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_50_9"/>
+       <div type="Language" lang="German">Das Benedicite / vor dem</div>
+       <lb id="CC1585_50_10"/>
+       <div type="Language" lang="German">Tiſch zuſprechen?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_50_11"/>
+        <div type="Language" lang="Latvian">WVſſces atces cer vnde</div>
+       <lb id="CC1585_50_12"/>
+        <div type="Language" lang="Latvian">redſe vs teuw kunxs / vnde</div>
+       <lb id="CC1585_50_13"/>
+        <div type="Language" lang="Latvian">tu dode thems tho barribe</div>
+       <lb id="CC1585_50_14"/>
+        <div type="Language" lang="Latvian">ſcouwan laikan / tu atwer</div>
+       <lb id="CC1585_50_15"/>
+        <div type="Language" lang="Latvian">touwe dſelige roke / vnde</div>
+       <lb id="CC1585_50_16"/>
+        <div type="Language" lang="Latvian">pepuld wuſs toes / ahr touwe</div>
+       <lb id="CC1585_50_17"/>
+        <div type="Language" lang="Latvian">gouſcibe. Kunxs abſelo</div>
+       <lb id="CC1585_50_18"/>
+        <div type="Language" lang="Latvian">teuw par mums. Chriſte</div>
+       <lb id="CC1585_50_19"/>
+        <div type="Language" lang="Latvian">abſelo teuw par mums</div>
+       <lb id="CC1585_50_20"/>
+        <div type="Language" lang="Latvian">Kunxs abſelo teuw par</div>
+      </div>
+      <pb n="51"/>
+      <div type="Paragraph">
+       <lb id="CC1585_51_1"/>
+        <div type="Language" lang="Latvian">mums. Kunxs Dews debbeſce</div>
+       <lb id="CC1585_51_2"/>
+        <div type="Language" lang="Latvian">Theews / gouſen mums</div>
+       <lb id="CC1585_51_3"/>
+        <div type="Language" lang="Latvian">ſcho touwe dawane / kattre</div>
+       <lb id="CC1585_51_4"/>
+        <div type="Language" lang="Latvian">mes no puſce touwe dſeleſtibe</div>
+       <lb id="CC1585_51_5"/>
+        <div type="Language" lang="Latvian">pi mums iempſam / cour</div>
+       <lb id="CC1585_51_6"/>
+        <div type="Language" lang="Latvian">Jeſum Chriſtum muſam</div>
+       <lb id="CC1585_51_7"/>
+        <div type="Language" lang="Latvian">Kungam. Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_51_8"/>
+       <div type="Language" lang="German">Das Gratias / nach dem</div>
+       <lb id="CC1585_51_9"/>
+       <div type="Language" lang="German">Tiſch zuſprechen?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_51_10"/>
+        <div type="Language" lang="Latvian">PAtteicet tam Kungam /</div>
+       <lb id="CC1585_51_11"/>
+        <div type="Language" lang="Latvian">aiſto tas gir dſelixs / vnde</div>
+       <lb id="CC1585_51_12"/>
+        <div type="Language" lang="Latvian">winge dſeleſtibe pallek <corr>muſige</corr><sic>mumu ſige</sic></div>
+       <lb id="CC1585_51_13"/>
+        <div type="Language" lang="Latvian">/ katters wuſcei mheſcei</div>
+       <lb id="CC1585_51_14"/>
+        <div type="Language" lang="Latvian">ehſchen doed / katters wusſems</div>
+       <lb id="CC1585_51_15"/>
+        <div type="Language" lang="Latvian">lopems ſcouwe barribe</div>
+       <lb id="CC1585_51_16"/>
+        <div type="Language" lang="Latvian">doed / thems iounems kroukelems</div>
+       <lb id="CC1585_51_17"/>
+        <div type="Language" lang="Latvian">kattre tam pecouk.</div>
+       <lb id="CC1585_51_18"/>
+        <div type="Language" lang="Latvian">Bijat tam Kungam wuſce</div>
+       <lb id="CC1585_51_19"/>
+        <div type="Language" lang="Latvian">winge Schwetes / aiſto the</div>
+       <lb id="CC1585_51_20"/>
+        <div type="Language" lang="Latvian">kattre tho Kunge bija /</div>
+      </div>
+      <pb n="52"/>
+      <div type="Paragraph">
+       <lb id="CC1585_52_1"/>
+        <div type="Language" lang="Latvian">thems gir newene trukſchen.</div>
+       <lb id="CC1585_52_2"/>
+        <div type="Language" lang="Latvian">Meckloet pirmaek tho Deewe</div>
+       <lb id="CC1585_52_3"/>
+        <div type="Language" lang="Latvian">walſtibe / vnde winge</div>
+       <lb id="CC1585_52_4"/>
+        <div type="Language" lang="Latvian">taiſnibe / tad iums wuſſe</div>
+       <lb id="CC1585_52_5"/>
+        <div type="Language" lang="Latvian">ſche lete tappis dote. O</div>
+       <lb id="CC1585_52_6"/>
+        <div type="Language" lang="Latvian">Kunxs deebeſce Theews /</div>
+       <lb id="CC1585_52_7"/>
+        <div type="Language" lang="Latvian">mes ſcakam teuw ſchlaw / gode</div>
+       <lb id="CC1585_52_8"/>
+        <div type="Language" lang="Latvian">/ vnde patteicibe / par</div>
+       <lb id="CC1585_52_9"/>
+        <div type="Language" lang="Latvian">wuſce touwe dawane vnde</div>
+       <lb id="CC1585_52_10"/>
+        <div type="Language" lang="Latvian">labbedarriſchen / katters tu</div>
+       <lb id="CC1585_52_11"/>
+        <div type="Language" lang="Latvian">ſigo vnde waldo muſaem</div>
+       <lb id="CC1585_52_12"/>
+        <div type="Language" lang="Latvian">muſaes. Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_52_13"/>
+        <div type="Language" lang="Latvian">Kad tu kolabb darriet</div>
+       <lb id="CC1585_52_14"/>
+        <div type="Language" lang="Latvian">grib / tad ſcak ſchos</div>
+       <lb id="CC1585_52_15"/>
+        <div type="Language" lang="Latvian">wardes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_52_16"/>
+        <div type="Language" lang="Latvian">KVnks Debbeſce Theews /</div>
+       <lb id="CC1585_52_17"/>
+        <div type="Language" lang="Latvian">dode man touwe Dewiſke</div>
+       <lb id="CC1585_52_18"/>
+        <div type="Language" lang="Latvian">dſeleſtibe / ka wuſſe ko es</div>
+       <lb id="CC1585_52_19"/>
+        <div type="Language" lang="Latvian">darr / war / notikt / teuw par</div>
+       <lb id="CC1585_52_20"/>
+        <div type="Language" lang="Latvian">ſchlawe / vnde exſkan tho</div>
+      </div>
+      <pb n="53"/>
+      <div type="Paragraph">
+       <lb id="CC1585_53_1"/>
+        <div type="Language" lang="Latvian">warde Jeſu Chriſti manne</div>
+       <lb id="CC1585_53_2"/>
+        <div type="Language" lang="Latvian">kunge warr parreiſe ehſcaekt</div>
+       <lb id="CC1585_53_3"/>
+        <div type="Language" lang="Latvian">vnde dſelige pabeickt.</div>
+       <lb id="CC1585_53_4"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_53_5"/>
+        <div type="Language" lang="Latvian">Ka Rijthas vnde wackeras</div>
+       <lb id="CC1585_53_6"/>
+        <div type="Language" lang="Latvian">gir ialuedſe / kad tha</div>
+       <lb id="CC1585_53_7"/>
+        <div type="Language" lang="Latvian">Sumnaſchen Maring</div>
+       <lb id="CC1585_53_8"/>
+        <div type="Language" lang="Latvian">ſchwannietz toep?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_53_9"/>
+        <div type="Language" lang="Latvian">TAs Engels neſcei Maring</div>
+       <lb id="CC1585_53_10"/>
+        <div type="Language" lang="Latvian">the weſte / vnde tha</div>
+       <lb id="CC1585_53_11"/>
+        <div type="Language" lang="Latvian">ehiemi no tho Schwete <corr>Garre</corr><sic>GarGar re</sic></div>
+       <lb id="CC1585_53_12"/>
+        <div type="Language" lang="Latvian">muſe Peſtitai / Sumnata</div>
+       <lb id="CC1585_53_13"/>
+        <div type="Language" lang="Latvian">Maria. Maria ſcati / Redſe</div>
+       <lb id="CC1585_53_14"/>
+        <div type="Language" lang="Latvian">/ es eſſme tha Kunge kalpoen</div>
+       <lb id="CC1585_53_15"/>
+        <div type="Language" lang="Latvian">/ man notek petcz touwe</div>
+       <lb id="CC1585_53_16"/>
+        <div type="Language" lang="Latvian">waerde. Sumnata es. <corr>Vnde</corr><sic>VnVn de</sic></div>
+       <lb id="CC1585_53_17"/>
+        <div type="Language" lang="Latvian">thas wartcz gir meſce <corr>tappis</corr><sic>taptap pis</sic></div>
+       <lb id="CC1585_53_18"/>
+        <div type="Language" lang="Latvian">/ vnde gir exkan mums</div>
+       <lb id="CC1585_53_19"/>
+        <div type="Language" lang="Latvian">ſigoes. Tapetcz dſelige gir</div>
+       <lb id="CC1585_53_20"/>
+        <div type="Language" lang="Latvian">tha meſce kattre teuw neſciſs</div>
+      </div>
+      <pb n="54"/>
+      <div type="Paragraph">
+       <lb id="CC1585_54_1"/>
+        <div type="Language" lang="Latvian">gir / vnde the crute / kattre</div>
+       <lb id="CC1585_54_2"/>
+        <div type="Language" lang="Latvian">tu ſijdis es. Sumnata</div>
+       <lb id="CC1585_54_3"/>
+        <div type="Language" lang="Latvian">Maria.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_54_4"/>
+        <div type="Language" lang="Latvian">Wurſcon tho war tu talaeck</div>
+       <lb id="CC1585_54_5"/>
+        <div type="Language" lang="Latvian">caſcit?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_54_6"/>
+        <div type="Language" lang="Latvian">KVnx Dews / mes adſiſtam</div>
+       <lb id="CC1585_54_7"/>
+        <div type="Language" lang="Latvian">ar touwe ſchlaw vnde gode</div>
+       <lb id="CC1585_54_8"/>
+        <div type="Language" lang="Latvian">ka tu muſce peſtiſchen exſkan</div>
+       <lb id="CC1585_54_9"/>
+        <div type="Language" lang="Latvian">ouxſte milieb / cour</div>
+       <lb id="CC1585_54_10"/>
+        <div type="Language" lang="Latvian">ſchluddenaſchen taes Engeles</div>
+       <lb id="CC1585_54_11"/>
+        <div type="Language" lang="Latvian">ehcacis / vnde cour tho</div>
+       <lb id="CC1585_54_12"/>
+        <div type="Language" lang="Latvian">ſchwete ougle Maria pepuldis</div>
+       <lb id="CC1585_54_13"/>
+        <div type="Language" lang="Latvian">es / dode mums touwe <corr>dſeleſtibe</corr><sic>dſedſe leſtibe</sic></div>
+       <lb id="CC1585_54_14"/>
+        <div type="Language" lang="Latvian">/ Chriſtite titcet / taeiſne</div>
+       <lb id="CC1585_54_15"/>
+        <div type="Language" lang="Latvian">dſigoet / vnde dſelige nomirt</div>
+       <lb id="CC1585_54_16"/>
+        <div type="Language" lang="Latvian">/ cour Jeſum Chriſtum</div>
+       <lb id="CC1585_54_17"/>
+        <div type="Language" lang="Latvian">muſam Kungam / patteſe</div>
+       <lb id="CC1585_54_18"/>
+        <div type="Language" lang="Latvian">Dews vnde cilwexs / katters</div>
+       <lb id="CC1585_54_19"/>
+        <div type="Language" lang="Latvian">ar teuw exſkan wenadibe</div>
+       <lb id="CC1585_54_20"/>
+        <div type="Language" lang="Latvian">tho Schwete Garre dſiwo</div>
+      </div>
+      <pb n="55"/>
+      <div type="Paragraph">
+       <lb id="CC1585_55_1"/>
+        <div type="Language" lang="Latvian">vnde waldo / muſaem beſgall.</div>
+       <lb id="CC1585_55_2"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_55_3"/>
+        <div type="Language" lang="Latvian">Ka wueddes denas vnde</div>
+       <lb id="CC1585_55_4"/>
+        <div type="Language" lang="Latvian">paprexſche pekdenan pueſdene</div>
+       <lb id="CC1585_55_5"/>
+        <div type="Language" lang="Latvian">laikan / gir ialuedſe /</div>
+       <lb id="CC1585_55_6"/>
+        <div type="Language" lang="Latvian">kad the tho Tenebre ieb</div>
+       <lb id="CC1585_55_7"/>
+        <div type="Language" lang="Latvian">noſkirſchen Chriſti</div>
+       <lb id="CC1585_55_8"/>
+        <div type="Language" lang="Latvian">ſchwanni?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_55_9"/>
+        <div type="Language" lang="Latvian">Thur gir tumſcibe tappis /</div>
+       <lb id="CC1585_55_10"/>
+        <div type="Language" lang="Latvian">kad the Judes tho Kunge</div>
+       <lb id="CC1585_55_11"/>
+        <div type="Language" lang="Latvian">Jeſu gir Kruſtan cittis /</div>
+       <lb id="CC1585_55_12"/>
+        <div type="Language" lang="Latvian">vnde taen deuwite ſtunde laiken</div>
+       <lb id="CC1585_55_13"/>
+        <div type="Language" lang="Latvian">/ brecei Jeſus ar ſcame</div>
+       <lb id="CC1585_55_14"/>
+        <div type="Language" lang="Latvian">balxſne / Mans Dews. Mans</div>
+       <lb id="CC1585_55_15"/>
+        <div type="Language" lang="Latvian">Dews / kapetcz es tu maen</div>
+       <lb id="CC1585_55_16"/>
+        <div type="Language" lang="Latvian">pallaidis / vnde ahr locame</div>
+       <lb id="CC1585_55_17"/>
+        <div type="Language" lang="Latvian">galwe / deuwi tas ſcouwe</div>
+       <lb id="CC1585_55_18"/>
+        <div type="Language" lang="Latvian">dweſcell no ſceuwem. Taespuſces</div>
+       <lb id="CC1585_55_19"/>
+        <div type="Language" lang="Latvian">o Kunxs Jeſu Chriſti /</div>
+       <lb id="CC1585_55_20"/>
+        <div type="Language" lang="Latvian">peludſaem mes teuw / vnde</div>
+      </div>
+      <pb n="56"/>
+      <div type="Paragraph">
+       <lb id="CC1585_56_1"/>
+        <div type="Language" lang="Latvian">teitcam teuw / aiſte cour touwe</div>
+       <lb id="CC1585_56_2"/>
+        <div type="Language" lang="Latvian">ſchwete cruſte / cour <corr>touwe</corr><sic>toutou we</sic></div>
+       <lb id="CC1585_56_3"/>
+        <div type="Language" lang="Latvian">ruckte ceſchen vnde nenodſedſige</div>
+       <lb id="CC1585_56_4"/>
+        <div type="Language" lang="Latvian">nomirſchen / es tu</div>
+       <lb id="CC1585_56_5"/>
+        <div type="Language" lang="Latvian">mums vnde tho wuſce Paſcoull</div>
+       <lb id="CC1585_56_6"/>
+        <div type="Language" lang="Latvian">iſpeſtis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_56_7"/>
+       <div type="Language" lang="Latin">Collecta.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_56_8"/>
+        <div type="Language" lang="Latvian">KVnxs Jeſu Chriſte / es luedſe</div>
+       <lb id="CC1585_56_9"/>
+        <div type="Language" lang="Latvian">teuw / pi teuw peſkredams</div>
+       <lb id="CC1585_56_10"/>
+        <div type="Language" lang="Latvian">/ cour touwe ruckte ceſchen</div>
+       <lb id="CC1585_56_11"/>
+        <div type="Language" lang="Latvian">/ kattre tu no mannes</div>
+       <lb id="CC1585_56_12"/>
+        <div type="Language" lang="Latvian">pueſſes boudis es. Beth wusſe</div>
+       <lb id="CC1585_56_13"/>
+        <div type="Language" lang="Latvian">wairack exſkan tho ſtunde /</div>
+       <lb id="CC1585_56_14"/>
+        <div type="Language" lang="Latvian">kaed tha daerge dweſcel no</div>
+       <lb id="CC1585_56_15"/>
+        <div type="Language" lang="Latvian">touwe ſchwete meſce ſkirri /</div>
+       <lb id="CC1585_56_16"/>
+        <div type="Language" lang="Latvian">tu grib teuw par manne <corr>nabbage</corr><sic>nabnab bage</sic></div>
+       <lb id="CC1585_56_17"/>
+        <div type="Language" lang="Latvian">dweſcel apdſeloet / kad</div>
+       <lb id="CC1585_56_18"/>
+        <div type="Language" lang="Latvian">tha no manne mehſce noſkirs</div>
+       <lb id="CC1585_56_19"/>
+        <div type="Language" lang="Latvian">ka touwe cruſte vnde moke</div>
+       <lb id="CC1585_56_20"/>
+        <div type="Language" lang="Latvian">pi man vnde cittems grecenekems</div>
+      </div>
+      <pb n="57"/>
+      <div type="Paragraph">
+       <lb id="CC1585_57_1"/>
+        <div type="Language" lang="Latvian">nepaſſueſtcz toep.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_57_2"/>
+        <div type="Language" lang="Latvian">Wene luckſchen Vs Dewe</div>
+       <lb id="CC1585_57_3"/>
+        <div type="Language" lang="Latvian">prexſkan thoes bedes taes</div>
+       <lb id="CC1585_57_4"/>
+        <div type="Language" lang="Latvian">Chriſtites droudſibes?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_57_5"/>
+        <div type="Language" lang="Latvian">WVſcewaldixs muſixs</div>
+       <lb id="CC1585_57_6"/>
+        <div type="Language" lang="Latvian">Dews / Kunxs Debbeſce</div>
+       <lb id="CC1585_57_7"/>
+        <div type="Language" lang="Latvian">Theews / ehredſe ar thems</div>
+       <lb id="CC1585_57_8"/>
+        <div type="Language" lang="Latvian">atcems touwes beſdubbenes</div>
+       <lb id="CC1585_57_9"/>
+        <div type="Language" lang="Latvian">dſeleſtibes muſce ſcaep / beede</div>
+       <lb id="CC1585_57_10"/>
+        <div type="Language" lang="Latvian">/ vnde waine / Abdſelo teuw</div>
+       <lb id="CC1585_57_11"/>
+        <div type="Language" lang="Latvian">par wuſſems chriſtitems</div>
+       <lb id="CC1585_57_12"/>
+        <div type="Language" lang="Latvian">titcigems / prexſkan kattre</div>
+       <lb id="CC1585_57_13"/>
+        <div type="Language" lang="Latvian">touws wenixs milixs Deels /</div>
+       <lb id="CC1585_57_14"/>
+        <div type="Language" lang="Latvian">muſe milixs Kunxs vnde peſtitais</div>
+       <lb id="CC1585_57_15"/>
+        <div type="Language" lang="Latvian">Jeſus Chriſtus / exskan</div>
+       <lb id="CC1585_57_16"/>
+        <div type="Language" lang="Latvian">thos rokes taes grecenekes</div>
+       <lb id="CC1585_57_17"/>
+        <div type="Language" lang="Latvian">lappraet cetis / vnde</div>
+       <lb id="CC1585_57_18"/>
+        <div type="Language" lang="Latvian">arridſaen ſcouwe roſe ſcarkane</div>
+       <lb id="CC1585_57_19"/>
+        <div type="Language" lang="Latvian">aſcen pi tho cruſte koke</div>
+       <lb id="CC1585_57_20"/>
+        <div type="Language" lang="Latvian">iſleijs gir / ſcour ſcho kunge</div>
+      </div>
+      <pb n="58"/>
+      <div type="Paragraph">
+       <lb id="CC1585_58_1"/>
+        <div type="Language" lang="Latvian">Jeſum / greſe noſt dſelixs</div>
+       <lb id="CC1585_58_2"/>
+        <div type="Language" lang="Latvian">Teews / tho ganne pelnite</div>
+       <lb id="CC1585_58_3"/>
+        <div type="Language" lang="Latvian">alge / ka / breſmige laike / lounne</div>
+       <lb id="CC1585_58_4"/>
+        <div type="Language" lang="Latvian">Zarebſchen / vnde karre</div>
+       <lb id="CC1585_58_5"/>
+        <div type="Language" lang="Latvian">walloed / meeretrummes /</div>
+       <lb id="CC1585_58_6"/>
+        <div type="Language" lang="Latvian">neweſcelibe / vndde darge laike.</div>
+       <lb id="CC1585_58_7"/>
+        <div type="Language" lang="Latvian">Abgaiſmo vnde ehſtippro</div>
+       <lb id="CC1585_58_8"/>
+        <div type="Language" lang="Latvian">arridſaen / <corr>wuſces</corr><sic>wnſces</sic> garriges</div>
+       <lb id="CC1585_58_9"/>
+        <div type="Language" lang="Latvian">vnde Paſſcoulliges</div>
+       <lb id="CC1585_58_10"/>
+        <div type="Language" lang="Latvian">Wurcenekes vnde Waldotaies</div>
+       <lb id="CC1585_58_11"/>
+        <div type="Language" lang="Latvian">exſkan wuſce labbe / ka</div>
+       <lb id="CC1585_58_12"/>
+        <div type="Language" lang="Latvian">cour wuſce winge darriſchen</div>
+       <lb id="CC1585_58_13"/>
+        <div type="Language" lang="Latvian">vnde runne turreſchen war</div>
+       <lb id="CC1585_58_14"/>
+        <div type="Language" lang="Latvian">wen meklotam tapt touwe</div>
+       <lb id="CC1585_58_15"/>
+        <div type="Language" lang="Latvian">Dewiſke godibe / muſce dwecel</div>
+       <lb id="CC1585_58_16"/>
+        <div type="Language" lang="Latvian">ſchwetib / vnde touwei</div>
+       <lb id="CC1585_58_17"/>
+        <div type="Language" lang="Latvian">chriſtite droudſibe ougle <corr>vndde</corr><sic>vndvnd de</sic></div>
+       <lb id="CC1585_58_18"/>
+        <div type="Language" lang="Latvian">labbe. Dode mums o</div>
+       <lb id="CC1585_58_19"/>
+        <div type="Language" lang="Latvian">Kunkxs mheere vnde wenepratibe</div>
+       <lb id="CC1585_58_20"/>
+        <div type="Language" lang="Latvian">exſkan titcibes / bees</div>
+       <lb id="CC1585_58_21"/>
+        <div type="Language" lang="Latvian">wuſce alloſchen vnnde ſainck-</div>
+      </div>
+      <pb n="59"/>
+      <div type="Paragraph">
+       <lb id="CC1585_59_1"/>
+        <div type="Language" lang="Latvian">/ adgreſe muſces</div>
+       <lb id="CC1585_59_2"/>
+        <div type="Language" lang="Latvian">ſcirdes pi iſtene greke waidaſchen</div>
+       <lb id="CC1585_59_3"/>
+        <div type="Language" lang="Latvian">/ vndde pi patteſces</div>
+       <lb id="CC1585_59_4"/>
+        <div type="Language" lang="Latvian">ougles wenei Jounei ſigoſchen</div>
+       <lb id="CC1585_59_5"/>
+        <div type="Language" lang="Latvian">/ ehdeds exſkan mums /</div>
+       <lb id="CC1585_59_6"/>
+        <div type="Language" lang="Latvian">tho vggen taes mileſtibes /</div>
+       <lb id="CC1585_59_7"/>
+        <div type="Language" lang="Latvian">dode mums wene iſten iscalckſchen</div>
+       <lb id="CC1585_59_8"/>
+        <div type="Language" lang="Latvian">vnde prate vſſ <corr>wuſcade</corr><sic>wuwu ſcade</sic></div>
+       <lb id="CC1585_59_9"/>
+        <div type="Language" lang="Latvian">taiſnibe / ka mes ka</div>
+       <lb id="CC1585_59_10"/>
+        <div type="Language" lang="Latvian">pakklouſcige berne exſkan</div>
+       <lb id="CC1585_59_11"/>
+        <div type="Language" lang="Latvian">ſigoſchen vnde mirſchen / teuw</div>
+       <lb id="CC1585_59_12"/>
+        <div type="Language" lang="Latvian">warram paprate <corr>buet</corr><sic>buet-</sic>.</div>
+       <lb id="CC1585_59_13"/>
+        <div type="Language" lang="Latvian">Mes ludſam <corr>arridſan</corr><sic>artidſan</sic> o</div>
+       <lb id="CC1585_59_14"/>
+        <div type="Language" lang="Latvian">Dews / lidſe ka tu grib / ka</div>
+       <lb id="CC1585_59_15"/>
+        <div type="Language" lang="Latvian">mums luekt bues / par muſcems</div>
+       <lb id="CC1585_59_16"/>
+        <div type="Language" lang="Latvian">drougems vnde enaidenekems</div>
+       <lb id="CC1585_59_17"/>
+        <div type="Language" lang="Latvian">/ par weſcelems /</div>
+       <lb id="CC1585_59_18"/>
+        <div type="Language" lang="Latvian">vnde neweſcelems / par wuſcems</div>
+       <lb id="CC1585_59_19"/>
+        <div type="Language" lang="Latvian">bedigems vnde waiems</div>
+       <lb id="CC1585_59_20"/>
+        <div type="Language" lang="Latvian">chriſtitems / par dſiwems</div>
+       <lb id="CC1585_59_21"/>
+        <div type="Language" lang="Latvian">vnde nomurroſchems</div>
+      </div>
+      <pb n="60"/>
+      <div type="Paragraph">
+       <lb id="CC1585_60_1"/>
+        <div type="Language" lang="Latvian">Teuw gir wenkaerdt pawellotcz.</div>
+       <lb id="CC1585_60_2"/>
+        <div type="Language" lang="Latvian">O Kunxs / wuſce</div>
+       <lb id="CC1585_60_3"/>
+        <div type="Language" lang="Latvian">muſce darriſchen vnde</div>
+       <lb id="CC1585_60_4"/>
+        <div type="Language" lang="Latvian">atſtaſchenn / ſtaigaſchen</div>
+       <lb id="CC1585_60_5"/>
+        <div type="Language" lang="Latvian">vnde buſchen / dſiwoſchen</div>
+       <lb id="CC1585_60_6"/>
+        <div type="Language" lang="Latvian">vnde mirſchen. Laeide</div>
+       <lb id="CC1585_60_7"/>
+        <div type="Language" lang="Latvian">mums ween touwe dſeleſtibe</div>
+       <lb id="CC1585_60_8"/>
+        <div type="Language" lang="Latvian">ſcheit dabboet / vnde tur ahr</div>
+       <lb id="CC1585_60_9"/>
+        <div type="Language" lang="Latvian">wuſcems iſredſetems enakt</div>
+       <lb id="CC1585_60_10"/>
+        <div type="Language" lang="Latvian">ka mes exſkan muſige precibe</div>
+       <lb id="CC1585_60_11"/>
+        <div type="Language" lang="Latvian">vnde ſchwetibe / teuw teickt</div>
+       <lb id="CC1585_60_12"/>
+        <div type="Language" lang="Latvian">ſchlawet vnde godet</div>
+       <lb id="CC1585_60_13"/>
+        <div type="Language" lang="Latvian">warram. Tho dode mums</div>
+       <lb id="CC1585_60_14"/>
+        <div type="Language" lang="Latvian">Kunxs debbeſce Thews / cour</div>
+       <lb id="CC1585_60_15"/>
+        <div type="Language" lang="Latvian">Jeſum Chriſtum <corr>touwam</corr><sic>toutou wam</sic></div>
+       <lb id="CC1585_60_16"/>
+        <div type="Language" lang="Latvian">milam delam muſcam</div>
+       <lb id="CC1585_60_17"/>
+        <div type="Language" lang="Latvian">kungam vnde peſtitaiam /</div>
+       <lb id="CC1585_60_18"/>
+        <div type="Language" lang="Latvian">katters ar teuw vnde tho</div>
+       <lb id="CC1585_60_19"/>
+        <div type="Language" lang="Latvian">ſchwete Garre wens lidſe</div>
+       <lb id="CC1585_60_20"/>
+        <div type="Language" lang="Latvian">Dews dſigo vnde waldo muſige.</div>
+       <lb id="CC1585_60_21"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <pb n="61"/>
+      <div type="Paragraph">
+       <lb id="CC1585_61_1"/>
+        <div type="Language" lang="Latvian">Jſcige luckſchen vnde</div>
+       <lb id="CC1585_61_2"/>
+        <div type="Language" lang="Latvian">chriſtite domaſchem kad ta</div>
+       <lb id="CC1585_61_3"/>
+        <div type="Language" lang="Latvian">ſtunde pulxſten</div>
+       <lb id="CC1585_61_4"/>
+        <div type="Language" lang="Latvian">ſcith?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_61_5"/>
+        <div type="Language" lang="Latvian">KVnxs Deews dode mums</div>
+       <lb id="CC1585_61_6"/>
+        <div type="Language" lang="Latvian">wene dſelige ſtunde / vs</div>
+       <lb id="CC1585_61_7"/>
+        <div type="Language" lang="Latvian">dſigoſchen vnde mirſchen /</div>
+       <lb id="CC1585_61_8"/>
+        <div type="Language" lang="Latvian">cour Jeſum Chriſtum.</div>
+       <lb id="CC1585_61_9"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_61_10"/>
+        <div type="Language" lang="Latvian">Mans Deews es man dſelixs</div>
+       <lb id="CC1585_61_11"/>
+        <div type="Language" lang="Latvian">exſkan tho paſterre ſtunde</div>
+       <lb id="CC1585_61_12"/>
+        <div type="Language" lang="Latvian">/ vnde exſkan tho paſtere</div>
+       <lb id="CC1585_61_13"/>
+        <div type="Language" lang="Latvian">ſcodibe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_61_14"/>
+        <div type="Language" lang="Latvian">O tu Dawite Deels / Abdſelo</div>
+       <lb id="CC1585_61_15"/>
+        <div type="Language" lang="Latvian">teuw par man / vnde</div>
+       <lb id="CC1585_61_16"/>
+        <div type="Language" lang="Latvian">pammet man mannes grekes</div>
+       <lb id="CC1585_61_17"/>
+        <div type="Language" lang="Latvian">vnde noſegummes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_61_18"/>
+        <div type="Language" lang="Latvian">Dews dode mums exſkan</div>
+       <lb id="CC1585_61_19"/>
+        <div type="Language" lang="Latvian">ſcouwe warde / ſcheit laikige /</div>
+       <lb id="CC1585_61_20"/>
+        <div type="Language" lang="Latvian">vnde tur muſige mheere.</div>
+      </div>
+      <pb n="62"/>
+      <div type="Paragraph">
+       <lb id="CC1585_62_1"/>
+        <div type="Language" lang="Latvian">Laeid Dews mums dſelixs</div>
+       <lb id="CC1585_62_2"/>
+        <div type="Language" lang="Latvian">buet / vnde laeid ſceu apdſeloet</div>
+       <lb id="CC1585_62_3"/>
+        <div type="Language" lang="Latvian">/ par wuſces bediges vnde</div>
+       <lb id="CC1585_62_4"/>
+        <div type="Language" lang="Latvian">waijes ſcirdes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_62_5"/>
+        <div type="Language" lang="Latvian">Wuſſe ko es darr / tho leij</div>
+       <lb id="CC1585_62_6"/>
+        <div type="Language" lang="Latvian">buet teuw Dews par ſchlaw</div>
+       <lb id="CC1585_62_7"/>
+        <div type="Language" lang="Latvian">vnde gode / vndde exſkan tho</div>
+       <lb id="CC1585_62_8"/>
+        <div type="Language" lang="Latvian">warde Jeſu Chriſti darritcz.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_62_9"/>
+        <div type="Language" lang="Latvian">Kunx Jeſu Chriſti pemin</div>
+       <lb id="CC1585_62_10"/>
+        <div type="Language" lang="Latvian">mannis katters tu walddo</div>
+       <lb id="CC1585_62_11"/>
+        <div type="Language" lang="Latvian">exſkan touwe wasſtibe / vnde</div>
+       <lb id="CC1585_62_12"/>
+        <div type="Language" lang="Latvian">nepallaide man muſige.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_62_13"/>
+        <div type="Language" lang="Latvian">Tha Kunge wardtz gir</div>
+       <lb id="CC1585_62_14"/>
+        <div type="Language" lang="Latvian">ſchwetietcz / vnde winge praetcz</div>
+       <lb id="CC1585_62_15"/>
+        <div type="Language" lang="Latvian">notek.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_62_16"/>
+        <div type="Language" lang="Latvian">Tas wuſſewaldixs Thews</div>
+       <lb id="CC1585_62_17"/>
+        <div type="Language" lang="Latvian">paſcarge man no wuſce lounne</div>
+       <lb id="CC1585_62_18"/>
+        <div type="Language" lang="Latvian">vnde dode man ſcouwe</div>
+       <lb id="CC1585_62_19"/>
+        <div type="Language" lang="Latvian">ſchwetibe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_62_20"/>
+        <div type="Language" lang="Latvian">O Kunx Dews es tu mans</div>
+       <lb id="CC1585_62_21"/>
+        <div type="Language" lang="Latvian">pallixs / vnde dar man ſchwete</div>
+      </div>
+      <pb n="63"/>
+      <div type="Paragraph">
+       <lb id="CC1585_63_1"/>
+        <div type="Language" lang="Latvian">Kunxs rade man touwe</div>
+       <lb id="CC1585_63_2"/>
+        <div type="Language" lang="Latvian">celle vnde mace man adſieſt</div>
+       <lb id="CC1585_63_3"/>
+        <div type="Language" lang="Latvian"><corr>touwes</corr><sic>toumes</sic> phedes.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_63_4"/>
+        <div type="Language" lang="Latvian">Kunxs abgaiſmo man</div>
+       <lb id="CC1585_63_5"/>
+        <div type="Language" lang="Latvian">mannes atces / ka es neapgul</div>
+       <lb id="CC1585_63_6"/>
+        <div type="Language" lang="Latvian">exſkan to Nawe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_63_7"/>
+        <div type="Language" lang="Latvian">Dews dode mums ſcouwe</div>
+       <lb id="CC1585_63_8"/>
+        <div type="Language" lang="Latvian">dſeleſtib / vnde tho muſige</div>
+       <lb id="CC1585_63_9"/>
+        <div type="Language" lang="Latvian">walſtibe. Kunkxs Dews vs</div>
+       <lb id="CC1585_63_10"/>
+        <div type="Language" lang="Latvian">teuw cerr es / nelaide man</div>
+       <lb id="CC1585_63_11"/>
+        <div type="Language" lang="Latvian">kounan tapt / Kunx Dews es</div>
+       <lb id="CC1585_63_12"/>
+        <div type="Language" lang="Latvian">tu mans pallixs vnde ſkidre /</div>
+       <lb id="CC1585_63_13"/>
+        <div type="Language" lang="Latvian">tas nams mannes pebekschennes</div>
+       <lb id="CC1585_63_14"/>
+        <div type="Language" lang="Latvian">/ ka tu man pallidſe</div>
+       <lb id="CC1585_63_15"/>
+        <div type="Language" lang="Latvian">vnde man ſchwete daer.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_63_16"/>
+        <div type="Language" lang="Latvian">Kunxs tu es mans ſtipprums</div>
+       <lb id="CC1585_63_17"/>
+        <div type="Language" lang="Latvian">vnde peſkreſchen / no</div>
+       <lb id="CC1585_63_18"/>
+        <div type="Language" lang="Latvian">touwe warde puſſe tu man</div>
+       <lb id="CC1585_63_19"/>
+        <div type="Language" lang="Latvian">weddiſs vnde vſturris.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_63_20"/>
+        <div type="Language" lang="Latvian">Deews grib mums pi meeſce</div>
+       <lb id="CC1585_63_21"/>
+        <div type="Language" lang="Latvian">vnde dweſcel paſcargaet.</div>
+      </div>
+      <pb n="64"/>
+      <div type="Paragraph">
+       <lb id="CC1585_64_1"/>
+        <div type="Language" lang="Latvian">Theews tous praetc / vnde</div>
+       <lb id="CC1585_64_2"/>
+        <div type="Language" lang="Latvian">ne mans praetcz noteck.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_64_3"/>
+        <div type="Language" lang="Latvian">Thas lenixs Deews / oudſaen</div>
+       <lb id="CC1585_64_4"/>
+        <div type="Language" lang="Latvian">exſkan mums / titcib /</div>
+       <lb id="CC1585_64_5"/>
+        <div type="Language" lang="Latvian">cerrib / vnde milijbe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_64_6"/>
+        <div type="Language" lang="Latvian">Tha dſeleſtibe tha Thewe /</div>
+       <lb id="CC1585_64_7"/>
+        <div type="Language" lang="Latvian">tha mheere Jeſu Chriſti / vnde</div>
+       <lb id="CC1585_64_8"/>
+        <div type="Language" lang="Latvian">tha milibe thas Schwetes</div>
+       <lb id="CC1585_64_9"/>
+        <div type="Language" lang="Latvian">Garres / gir allaſin ar mums</div>
+       <lb id="CC1585_64_10"/>
+        <div type="Language" lang="Latvian">wuſcems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_64_11"/>
+        <div type="Language" lang="Latvian">Dewam gir ſchlaw gode</div>
+       <lb id="CC1585_64_12"/>
+        <div type="Language" lang="Latvian">vnde patteitcibe / taggade /</div>
+       <lb id="CC1585_64_13"/>
+        <div type="Language" lang="Latvian">vnde allas exſkan muſam.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_64_14"/>
+       <div type="Language" lang="Latin">Deo gratias</div>
+        <div type="Language" lang="Latvian">Dewam gir</div>
+       <lb id="CC1585_64_15"/>
+        <div type="Language" lang="Latvian">patteitcibe.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_64_16"/>
+        <div type="Language" lang="Latvian">Dews es dſelixs man nabbagam</div>
+       <lb id="CC1585_64_17"/>
+        <div type="Language" lang="Latvian">grecenekam.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_64_18"/>
+        <div type="Language" lang="Latvian">Deews grib mums ehprecenat</div>
+       <lb id="CC1585_64_19"/>
+        <div type="Language" lang="Latvian">exſchen tho paſtere</div>
+       <lb id="CC1585_64_20"/>
+        <div type="Language" lang="Latvian">nopuſchen.</div>
+       <lb id="CC1585_64_21"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <pb n="65"/>
+      <div type="Paragraph">
+       <lb id="CC1585_65_1"/>
+        <div type="Language" lang="Latvian">Tris kraeſne waetce</div>
+       <lb id="CC1585_65_2"/>
+        <div type="Language" lang="Latvian">luckſchen / denaes daſſekaert</div>
+       <lb id="CC1585_65_3"/>
+        <div type="Language" lang="Latvian">iaſcaek?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_65_4"/>
+        <div type="Language" lang="Latvian">O mans Deews vnd mans</div>
+       <lb id="CC1585_65_5"/>
+        <div type="Language" lang="Latvian">Kunxs / giem mannim</div>
+       <lb id="CC1585_65_6"/>
+        <div type="Language" lang="Latvian">ſceuw / vndde dode man wuſciſke</div>
+       <lb id="CC1585_65_7"/>
+        <div type="Language" lang="Latvian">teuw.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_65_8"/>
+        <div type="Language" lang="Latvian">O mans Dews vnde <corr>Kunxs</corr><sic>Kun s</sic> /</div>
+       <lb id="CC1585_65_9"/>
+        <div type="Language" lang="Latvian">giem wuſſe no man / kas</div>
+       <lb id="CC1585_65_10"/>
+        <div type="Language" lang="Latvian">man turras no theuw / o</div>
+       <lb id="CC1585_65_11"/>
+        <div type="Language" lang="Latvian">mans Dews vnde mans</div>
+       <lb id="CC1585_65_12"/>
+        <div type="Language" lang="Latvian">kunxs dode man wuſce / kaſc</div>
+       <lb id="CC1585_65_13"/>
+        <div type="Language" lang="Latvian">man pi teuw welck.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_65_14"/>
+        <div type="Language" lang="Latvian">Par wene dſelige vnde</div>
+       <lb id="CC1585_65_15"/>
+        <div type="Language" lang="Latvian">labbe galle ialuedſe?</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_65_16"/>
+        <div type="Language" lang="Latvian">O Kunxs Jeſu Chriſte /</div>
+       <lb id="CC1585_65_17"/>
+        <div type="Language" lang="Latvian">mans radditais vnde peſtitais</div>
+       <lb id="CC1585_65_18"/>
+        <div type="Language" lang="Latvian">/ es patteitcz touwe lenibe</div>
+      </div>
+      <pb n="66"/>
+      <div type="Paragraph">
+       <lb id="CC1585_66_1"/>
+        <div type="Language" lang="Latvian">/ ka tu exſkan touwe lele</div>
+       <lb id="CC1585_66_2"/>
+        <div type="Language" lang="Latvian">moeke / vnde paſtere galle /</div>
+       <lb id="CC1585_66_3"/>
+        <div type="Language" lang="Latvian">vs tho greceneke cacis es /</div>
+       <lb id="CC1585_66_4"/>
+        <div type="Language" lang="Latvian">Schodeen tu ar man exſkan</div>
+       <lb id="CC1585_66_5"/>
+        <div type="Language" lang="Latvian">tho paradiſe bues / cour ſcho</div>
+       <lb id="CC1585_66_6"/>
+        <div type="Language" lang="Latvian">lele milibe luedſe es nabbaeks</div>
+       <lb id="CC1585_66_7"/>
+        <div type="Language" lang="Latvian">greceneks / tu grib man</div>
+       <lb id="CC1585_66_8"/>
+        <div type="Language" lang="Latvian">touwe beſdubbene dſeleſtibe</div>
+       <lb id="CC1585_66_9"/>
+        <div type="Language" lang="Latvian">parradiet / vnde wuſcewairaek</div>
+       <lb id="CC1585_66_10"/>
+        <div type="Language" lang="Latvian">exſkan manne paſtere</div>
+       <lb id="CC1585_66_11"/>
+        <div type="Language" lang="Latvian">ſtunde vnde noſepuſchen /</div>
+       <lb id="CC1585_66_12"/>
+        <div type="Language" lang="Latvian">kaed maen tha Paſſoull / <corr>manne</corr><sic>manman ne</sic></div>
+       <lb id="CC1585_66_13"/>
+        <div type="Language" lang="Latvian">drougge / Radde / vnde</div>
+       <lb id="CC1585_66_14"/>
+        <div type="Language" lang="Latvian">manne dweeſcel pallaedis.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_66_15"/>
+        <div type="Language" lang="Latvian">Es luedſe teuw arridſaen / O</div>
+       <lb id="CC1585_66_16"/>
+        <div type="Language" lang="Latvian">Kunxs Jeſu Chriſte / katters</div>
+       <lb id="CC1585_66_17"/>
+        <div type="Language" lang="Latvian">tu cruſtan es ciſtcz / cour touwe</div>
+       <lb id="CC1585_66_18"/>
+        <div type="Language" lang="Latvian">wuſce ſchwetiges wates /</div>
+       <lb id="CC1585_66_19"/>
+        <div type="Language" lang="Latvian">cour touwe ruekte nawe / cour</div>
+       <lb id="CC1585_66_20"/>
+        <div type="Language" lang="Latvian">touwe beedige brekſchen</div>
+       <lb id="CC1585_66_21"/>
+        <div type="Language" lang="Latvian">pi tho cruſtekoke / cour isſtepſchen</div>
+      </div>
+      <pb n="67"/>
+      <div type="Paragraph">
+       <lb id="CC1585_67_1"/>
+        <div type="Language" lang="Latvian">wuſces touwes locekles</div>
+       <lb id="CC1585_67_2"/>
+        <div type="Language" lang="Latvian">/ cour pallaidiſchen touwe</div>
+       <lb id="CC1585_67_3"/>
+        <div type="Language" lang="Latvian">dweſcelle / vnde cour / touwe</div>
+       <lb id="CC1585_67_4"/>
+        <div type="Language" lang="Latvian">baggate nopelnum touwes</div>
+       <lb id="CC1585_67_5"/>
+        <div type="Language" lang="Latvian">ſchwetes ceſchen vnde</div>
+       <lb id="CC1585_67_6"/>
+        <div type="Language" lang="Latvian">mirſchen nepallaide man exſkan</div>
+       <lb id="CC1585_67_7"/>
+        <div type="Language" lang="Latvian">manne paſterre bede</div>
+       <lb id="CC1585_67_8"/>
+        <div type="Language" lang="Latvian">vnde waine / beth tu ijſtans</div>
+       <lb id="CC1585_67_9"/>
+        <div type="Language" lang="Latvian">pallidſetais ahran wuſcems</div>
+       <lb id="CC1585_67_10"/>
+        <div type="Language" lang="Latvian">bedems / dode man taggaed</div>
+       <lb id="CC1585_67_11"/>
+        <div type="Language" lang="Latvian">vnde exſkan manne paſtere</div>
+       <lb id="CC1585_67_12"/>
+        <div type="Language" lang="Latvian">galle / wene ſcirdedubben waidaſchen</div>
+       <lb id="CC1585_67_13"/>
+        <div type="Language" lang="Latvian">/ iſtane greke ſcudſeſchen</div>
+       <lb id="CC1585_67_14"/>
+        <div type="Language" lang="Latvian">/ pammeſſchen taes</div>
+       <lb id="CC1585_67_15"/>
+        <div type="Language" lang="Latvian">grekes / paſtawige titcibe /</div>
+       <lb id="CC1585_67_16"/>
+        <div type="Language" lang="Latvian">vnde dedſenamige mileſtibe /</div>
+       <lb id="CC1585_67_17"/>
+        <div type="Language" lang="Latvian">ka es prekſchan tho laikige</div>
+       <lb id="CC1585_67_18"/>
+        <div type="Language" lang="Latvian">pepeſſche / vnde muſige nawe /</div>
+       <lb id="CC1585_67_19"/>
+        <div type="Language" lang="Latvian">cour teuw paſcargaetcz toep</div>
+       <lb id="CC1585_67_20"/>
+        <div type="Language" lang="Latvian">/ vnde prettibe wuſce kardenaſchen</div>
+       <lb id="CC1585_67_21"/>
+        <div type="Language" lang="Latvian">taes welnes paſtawige</div>
+      </div>
+      <pb n="68"/>
+      <div type="Paragraph">
+       <lb id="CC1585_68_1"/>
+        <div type="Language" lang="Latvian">/ ka wens labs criſtitz</div>
+       <lb id="CC1585_68_2"/>
+        <div type="Language" lang="Latvian">cilwexs exſkan wenadibe</div>
+       <lb id="CC1585_68_3"/>
+        <div type="Language" lang="Latvian">taes Catoliſches baſnedſces</div>
+       <lb id="CC1585_68_4"/>
+        <div type="Language" lang="Latvian">palliekt war / vnd ar</div>
+       <lb id="CC1585_68_5"/>
+        <div type="Language" lang="Latvian">Simon ahran ſcho beedige</div>
+       <lb id="CC1585_68_6"/>
+        <div type="Language" lang="Latvian">paſſoul noſkirth war / vnde</div>
+       <lb id="CC1585_68_7"/>
+        <div type="Language" lang="Latvian">exſkan theuw muſige dſiwoet.</div>
+       <lb id="CC1585_68_8"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_68_9"/>
+        <div type="Language" lang="Latvian">Wene Chriſtite dſeſme</div>
+       <lb id="CC1585_68_10"/>
+        <div type="Language" lang="Latvian">vs tho Schwete Deewe</div>
+       <lb id="CC1585_68_11"/>
+        <div type="Language" lang="Latvian">Mate.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_68_12"/>
+        <div type="Language" lang="Latvian">MAria Dewe Mate / luedſe</div>
+       <lb id="CC1585_68_13"/>
+        <div type="Language" lang="Latvian">Dewam par mums /</div>
+       <lb id="CC1585_68_14"/>
+        <div type="Language" lang="Latvian">tad <corr>luedſam</corr><sic>lnelſam</sic> mes mueſam</div>
+       <lb id="CC1585_68_15"/>
+        <div type="Language" lang="Latvian">kungam Jeſum / Maria touwe</div>
+       <lb id="CC1585_68_16"/>
+        <div type="Language" lang="Latvian">Deele / ka tas mums pemin</div>
+       <lb id="CC1585_68_17"/>
+        <div type="Language" lang="Latvian">ekſkan wuſce muſce beetcz</div>
+       <lb id="CC1585_68_18"/>
+        <div type="Language" lang="Latvian">/ ka tas mums dſelix grib</div>
+       <lb id="CC1585_68_19"/>
+        <div type="Language" lang="Latvian">buet / cour ſcouwe ſchwete</div>
+       <lb id="CC1585_68_20"/>
+        <div type="Language" lang="Latvian">Nawe / cour ſcouwe ruekte</div>
+      </div>
+      <pb n="69"/>
+      <div type="Paragraph">
+       <lb id="CC1585_69_1"/>
+        <div type="Language" lang="Latvian">moke kattre Dews par</div>
+       <lb id="CC1585_69_2"/>
+        <div type="Language" lang="Latvian">mums gir cetis / gan pi tho</div>
+       <lb id="CC1585_69_3"/>
+        <div type="Language" lang="Latvian">ſchwete cruſte / iſpeſti</div>
+       <lb id="CC1585_69_4"/>
+        <div type="Language" lang="Latvian">taſs to wuſſe chriſtite</div>
+       <lb id="CC1585_69_5"/>
+        <div type="Language" lang="Latvian">Droudſe.</div>
+       <div type="Language" lang="Latin">Kirie-</div>
+       <lb id="CC1585_69_6"/>
+       <div type="Language" lang="Latin">leiſon.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_69_7"/>
+        <div type="Language" lang="Latvian">Schlaew Dewam / vnde</div>
+       <lb id="CC1585_69_8"/>
+        <div type="Language" lang="Latvian">taei dſelige Jumprouw</div>
+       <lb id="CC1585_69_9"/>
+        <div type="Language" lang="Latvian">Mariae / Chriſti</div>
+       <lb id="CC1585_69_10"/>
+        <div type="Language" lang="Latvian">Mathei.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="CC1585_69_11"/>
+        <div type="Language" lang="Latvian">38</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Witt1702_PAN">
+     <sourceDesc>
+      <author>Mihaēls Vitenburgs</author>
+      <title>Ta panesama Auna=Nasta apdohmata</title>
+      <date>1702</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; gadījuma dzeja</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_1"/>
+        <div type="Language" lang="Latvian">Ta paneẜama</div>
+       <lb id="Witt1702_PAN_1_2"/>
+        <div type="Language" lang="Latvian">Auna=Naſta</div>
+       <lb id="Witt1702_PAN_1_3"/>
+        <div type="Language" lang="Latvian">apdohmata/</div>
+       <lb id="Witt1702_PAN_1_4"/>
+        <div type="Language" lang="Latvian">Kad tas eekẜch dſiļļahm Mahzibahm Mahzihts</div>
+       <lb id="Witt1702_PAN_1_5"/>
+        <div type="Language" lang="Latvian">un Gohdigs Kungs/</div>
+       <lb id="Witt1702_PAN_1_6"/>
+        <div type="Language" lang="Latvian">Tas Rigas=Kehniņa=</div>
+       <div type="Language" lang="Latin">Lyceûs Con-Rectors</div>
+       <lb id="Witt1702_PAN_1_7"/>
+       <div type="Language" lang="Latin">JOHANNES CASPARUS</div>
+       <lb id="Witt1702_PAN_1_8"/>
+       <div type="Language" lang="Latin">SCHOEPS</div>
+       <lb id="Witt1702_PAN_1_9"/>
+        <div type="Language" lang="Latvian">Ar tahs</div>
+       <lb id="Witt1702_PAN_1_10"/>
+        <div type="Language" lang="Latvian">Augſti zeenijamas/ un <corr>eekẜch</corr><sic>eeẜch</sic> wiẜẜeem Gohda=Tikkumeem pilnigas</div>
+       <lb id="Witt1702_PAN_1_11"/>
+        <div type="Language" lang="Latvian">Jump:</div>
+       <div type="Language" lang="Latin">ELISABETH MAG-</div>
+       <lb id="Witt1702_PAN_1_12"/>
+       <div type="Language" lang="Latin">DALENA</div>
+       <div type="Language" lang="German">Brockhauſen</div>
+       <lb id="Witt1702_PAN_1_13"/>
+        <div type="Language" lang="Latvian">ẜawas Kahſas turreja</div>
+       <lb id="Witt1702_PAN_1_14"/>
+       <div type="Language" lang="Latin">Anno 1702.</div>
+        <div type="Language" lang="Latvian">13ta</div>
+       <div type="Language" lang="Latin">Majus</div>
+        <div type="Language" lang="Latvian">Deenâ.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_15"/>
+       <div type="Language" lang="Latin">JOHANNES CASPARUS SCHOEPS</div>
+       <lb id="Witt1702_PAN_1_16"/>
+        <div type="Language" lang="Latvian">Rakſtu Pahrwehrtiẜchanâ:</div>
+       <lb id="Witt1702_PAN_1_17"/>
+        <div type="Language" lang="Latvian">O! ꞨCHIS AUNS PAR ꞨCHO PANEꞨE.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_18"/>
+        <div type="Language" lang="Latvian">ꞨChis tas war ẜchlinkodams ehſt ẜaldu Kummoſiņņu/</div>
+       <lb id="Witt1702_PAN_1_19"/>
+        <div type="Language" lang="Latvian">Ko wingẜch neds mallis ir/ neds mihzijis ar Siņņu;</div>
+       <lb id="Witt1702_PAN_1_20"/>
+        <div type="Language" lang="Latvian">Buhs tam kad Augļus neſt/ tad ẜchis tad tas ir gruhts/</div>
+       <lb id="Witt1702_PAN_1_21"/>
+        <div type="Language" lang="Latvian">Un ſtahw ka Jehrs jeb Auns/ko ẜaturr Wilkâ=Kuhts.</div>
+       <lb id="Witt1702_PAN_1_22"/>
+        <div type="Language" lang="Latvian">Bet ẜchis/ kas ẜchohdeen ſtahw eekẜch ẜawahm Kahẜas Gohdahm/</div>
+       <lb id="Witt1702_PAN_1_23"/>
+        <div type="Language" lang="Latvian">Kà Ꞩweedru Leezineeks ẜchepat pee ẜaldahm Bļohdahm</div>
+       <lb id="Witt1702_PAN_1_24"/>
+        <div type="Language" lang="Latvian">Es thiẜchu ne gribb buht/ O! zeetigs/ ſtippris AUNS!</div>
+       <lb id="Witt1702_PAN_1_25"/>
+        <div type="Language" lang="Latvian">Tas drohẜchi Galwâ ņem/ kam paneſt newaid Kauns.</div>
+       <lb id="Witt1702_PAN_1_26"/>
+        <div type="Language" lang="Latvian">ꞨCHJS Behdu Dadſchohs leen/ un ſpehſchahs Mallu Mallam/</div>
+       <lb id="Witt1702_PAN_1_27"/>
+        <div type="Language" lang="Latvian">Kapehz? ak ſakki man! ka wingſch pa Gallu Gallam</div>
+       <lb id="Witt1702_PAN_1_28"/>
+        <div type="Language" lang="Latvian">War weſt tohs Jaunekļus/ war mahziht drohſchi neſt</div>
+       <lb id="Witt1702_PAN_1_29"/>
+        <div type="Language" lang="Latvian">Tohs Ꞩchwinnu= Mahzibas/ wiſnotahļ Grehkus meſt.</div>
+       <lb id="Witt1702_PAN_1_30"/>
+        <div type="Language" lang="Latvian">Talabbad DEews tam dohd/ tizz mann/ itt labbu Beedru/</div>
+       <lb id="Witt1702_PAN_1_31"/>
+        <div type="Language" lang="Latvian">Kas ſcho war uhsturreht/ ka ar tahs Maiſes Needru.</div>
+       <lb id="Witt1702_PAN_1_32"/>
+        <div type="Language" lang="Latvian">Reds DEwingẜch atmakẜa/ ko tu ar Ꞩwedreem darr’/</div>
+       <lb id="Witt1702_PAN_1_33"/>
+        <div type="Language" lang="Latvian">Ka Tew buhs drohẜcham buht/ ja tu neredſeht warr’.</div>
+       <lb id="Witt1702_PAN_1_34"/>
+        <div type="Language" lang="Latvian">Tas ir PAR ꞨCHO tas Spehks/ kas wiſkim likke laupiht</div>
+       <lb id="Witt1702_PAN_1_35"/>
+        <div type="Language" lang="Latvian">To Aunu/ kas ne grib ẜchohs neſdams ẜewis taupiht/</div>
+       <lb id="Witt1702_PAN_1_36"/>
+        <div type="Language" lang="Latvian">Ar ẜcho ẜchahs Kahſas Auns PANEꞨE Lehnibâ</div>
+       <lb id="Witt1702_PAN_1_37"/>
+        <div type="Language" lang="Latvian">Un nes ẜcho baltu Deen tohs zeetus Gruhtibaâ.</div>
+       <lb id="Witt1702_PAN_1_38"/>
+        <div type="Language" lang="Latvian">Lab Tew/ mans Mihļakais/ ka Tu to leetu praẜẜees/</div>
+       <lb id="Witt1702_PAN_1_39"/>
+        <div type="Language" lang="Latvian">Ar ko Tew Spehks un Gohds no DEwa Rohkahm raẜẜees;</div>
+       <lb id="Witt1702_PAN_1_40"/>
+        <div type="Language" lang="Latvian">Jo tad kahds Laiziņgẜch nahk/ kas Tawu Ꞩirdi ſchnauds/</div>
+       <lb id="Witt1702_PAN_1_41"/>
+        <div type="Language" lang="Latvian">Ꞩche awohkſnaiņa Ꞩirds eekẜch ka Tew Preeka dauds.</div>
+       <lb id="Witt1702_PAN_1_42"/>
+        <div type="Language" lang="Latvian">Reds balta Jumprawing/ ẜchis <corr>Auns</corr><sic>Auus</sic> war labbi baŗŗoht’/</div>
+       <lb id="Witt1702_PAN_1_43"/>
+        <div type="Language" lang="Latvian">Neſt Willu/ Gaļļu/ Maiſ’/ un kahdu Peena=Kaŗioht/</div>
+       <lb id="Witt1702_PAN_1_44"/>
+        <div type="Language" lang="Latvian">Ak panes/ luhdſama/ ko wingẜch Tew wirẜu liks.</div>
+       <lb id="Witt1702_PAN_1_45"/>
+        <div type="Language" lang="Latvian">Tu ẜmelẜi Labbumu/ wingẜch ne buhs pikts un pliks.</div>
+       <lb id="Witt1702_PAN_1_46"/>
+        <div type="Language" lang="Latvian">Laid DEewiņſch pallihds jums/ kad Nemeers juhs grib ſpaidiht/</div>
+       <lb id="Witt1702_PAN_1_47"/>
+        <div type="Language" lang="Latvian">Leek kahdu Dehlubiņņ’ ar lihgſmu Prahtu gaidiht!</div>
+       <lb id="Witt1702_PAN_1_48"/>
+        <div type="Language" lang="Latvian">Dohd DEwiņ Auglus neſt/ un leez teem Galdu klaht/</div>
+       <lb id="Witt1702_PAN_1_49"/>
+        <div type="Language" lang="Latvian">Kur jauns ar Wezzakeem war Gohdâ Spiguļaht.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_50"/>
+        <div type="Language" lang="Latvian">Ta ẜawam it iſteni labbam Draugam</div>
+       <lb id="Witt1702_PAN_1_51"/>
+        <div type="Language" lang="Latvian">labbu wehl</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Witt1702_PAN_1_52"/>
+       <div type="Language" lang="Latin">Michäel Wittenburg.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

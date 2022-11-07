@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Tetsch1784_DKTW">
+     <sourceDesc>
+      <author>Karls Ludvigs Tečs</author>
+      <title>Dseŗŗeet, Kruhschkalls Tautu Wihri!</title>
+      <date>1784</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; gadījuma dzeja</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="Tetsch1784_DKTW_1_1"/>
+        <div type="Language" lang="Latvian">Dſeŗŗeet, Kruhẜchkalls Tautu Wihri!</div>
+       <lb id="Tetsch1784_DKTW_1_2"/>
+        <div type="Language" lang="Latvian">dahrgu wihna malziņņu,</div>
+       <lb id="Tetsch1784_DKTW_1_3"/>
+        <div type="Language" lang="Latvian">gohdinajeet lihgſmi, tihri,</div>
+       <lb id="Tetsch1784_DKTW_1_4"/>
+        <div type="Language" lang="Latvian">labba Kunga ẜirsniņņu.</div>
+      </div>
+      <pb n="2"/>
+      <div type="Paragraph">
+       <lb id="Tetsch1784_DKTW_2_1"/>
+        <div type="Language" lang="Latvian">Kas par jums ka Tehws jau walda,</div>
+       <lb id="Tetsch1784_DKTW_2_2"/>
+        <div type="Language" lang="Latvian">juhẜu labbum' mekledams,</div>
+       <lb id="Tetsch1784_DKTW_2_3"/>
+        <div type="Language" lang="Latvian">kas juhs ẜehdina pee galda</div>
+       <lb id="Tetsch1784_DKTW_2_4"/>
+        <div type="Language" lang="Latvian">juhẜu praht' eelihgſmodams.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Tetsch1784_DKTW_2_5"/>
+        <div type="Language" lang="Latvian">Dſeŗŗeet Semmes Thews ẜwehtib',</div>
+       <lb id="Tetsch1784_DKTW_2_6"/>
+        <div type="Language" lang="Latvian">kas juhs arr apdahwanais,</div>
+       <lb id="Tetsch1784_DKTW_2_7"/>
+        <div type="Language" lang="Latvian">un no taiẜna prahta Lehnib'</div>
+       <lb id="Tetsch1784_DKTW_2_8"/>
+        <div type="Language" lang="Latvian">Rohbeeſchas irr lihdſinais.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Tetsch1784_DKTW_2_9"/>
+        <div type="Language" lang="Latvian">Dſeŗŗeet Dẜimta Kunga Laimi!</div>
+       <lb id="Tetsch1784_DKTW_2_10"/>
+        <div type="Language" lang="Latvian">us ẜcho jaunu Gaddiņņu,</div>
+       <lb id="Tetsch1784_DKTW_2_11"/>
+        <div type="Language" lang="Latvian">lai Deews uhsturr, Wiņņ' un Ꞩaimi,</div>
+       <lb id="Tetsch1784_DKTW_2_12"/>
+        <div type="Language" lang="Latvian">Arraju un Ganniņņu.</div>
+      </div>
+      <pb n="3"/>
+      <div type="Paragraph">
+       <lb id="Tetsch1784_DKTW_3_1"/>
+        <div type="Language" lang="Latvian">Wittojeet arr Ꞩeew' un behrneem</div>
+       <lb id="Tetsch1784_DKTW_3_2"/>
+        <div type="Language" lang="Latvian">Luſtes Siņģes wilgdami,</div>
+       <lb id="Tetsch1784_DKTW_3_3"/>
+        <div type="Language" lang="Latvian">ka ẜchee laiki jums un wiņņeem</div>
+       <lb id="Tetsch1784_DKTW_3_4"/>
+        <div type="Language" lang="Latvian">paleek Ꞩirdi kaiẜdami.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Tetsch1784_DKTW_3_5"/>
+        <div type="Language" lang="Latvian">Jaunâ Gaddâ.</div>
+       <lb id="Tetsch1784_DKTW_3_6"/>
+        <div type="Language" lang="Latvian">1784.                                            Tetſch.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>
