@@ -43,7 +43,7 @@ sub printVertDocTail
 {
     my $status = shift @_;
     my $outs = shift @_;
-    &printInVerts("</para>\n", $outs) if ($status->{'paragraph'} or $status->{'verse'});
+    #&printInVerts("</para>\n", $outs) if ($status->{'paragraph'} or $status->{'verse'});
     &printInVerts("</page>\n", $outs) if ($status->{'page'});
     &printInVerts("</doc>\n", $outs);
 }
@@ -51,9 +51,9 @@ sub printVertDocTail
 sub startVertPage
 {
     my $outs = shift @_;
-    my $bookPageNo = shift @_;
     my $corrPageNo = shift @_;
-    printInVerts("<page sourceNo=\"$bookPageNo\" correctedNo=\"$corrPageNo\">\n", $outs);
+    my $origPageNo = shift @_;
+    printInVerts("<page sourceNo=\"$origPageNo\" correctedNo=\"$corrPageNo\">\n", $outs);
 }
 
 sub endVertPage
@@ -66,7 +66,7 @@ sub startVertBibleChapter
 {
     my $outs = shift @_;
     my $chapterNo = shift @_;
-    printInVerts("<chapter no=\"$chapterNo}\">\n", $outs);
+    printInVerts("<chapter no=\"$chapterNo\">\n", $outs);
 }
 
 sub endVertBibleChapter

@@ -5,11 +5,12 @@ use warnings;
 
 use IO::Dir;
 use IO::File;
-use Data::Dumper;
 
 use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
 use LvSenie::Publishing::TeiTools qw($DO_TEI printTeiCorpusHead printTeiCorpusTail printTeiCollectionHead
-	printTeiCollectionTail printTeiDocHead printTeiDocTail);
+	printTeiCollectionTail printTeiDocHead printTeiDocTail startTeiBibleChapter endTeiBibleChapter
+	startTeiParagraph startTeiVerse endTeiParagraphVerse changeTeiPage changeTeiLine startTeiSubBlock endTeiSubBlock
+	startTeiLatvian endTeiLatvian printTeiSubBlockContents);
 use LvSenie::Publishing::VertTools qw($DO_VERT printVertDocHead printVertDocTail startVertPage endVertPage
 	startVertBibleChapter endVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse
 	startVertLine endVertLine startVertSubBlock endVertSubBlock startVertLatvian endVertLatvian printVertToken
@@ -226,9 +227,9 @@ END
 			# Retrieve written and corrected page numbers
 			my $corrPageNo = $1;
 			my $fullBookPageNo = $2;
-			my $bookPageNo = $3;
-			$bookPageNo = $corrPageNo unless ($fullBookPageNo);
-			_change_page($status, $counters, $outs, $bookPageNo, $corrPageNo);
+			my $origPageNo = $3;
+			$origPageNo = $corrPageNo unless ($fullBookPageNo);
+			_change_page($status, $counters, $outs, $corrPageNo, $origPageNo);
 		}
 		# bible book
 		elsif ($line =~ /^\s*\@g\{(.*)\}\s*$/) {
@@ -300,6 +301,7 @@ END
 					&_print_token($internalProperties, $status, $counters, $outs,
 							$origTokens[$tokenNo], $translitTokens[$tokenNo], $DO_TRANSLIT)
 				}
+				printTeiSubBlockContents($outs, $linePart);
 				&_end_sub_line($status, $outs, $codeLetter);
 			}
 			&_end_line($outs);
@@ -359,6 +361,9 @@ sub _finish_outputs
 	my $status = shift @_;
 	my $outs = shift @_;
 
+	_end_paragraph_verse($status, $outs);
+	_end_Bible_chapter($status, $outs);
+
 	printVertDocTail($status, $outs);
 	close($outs->{'vert'}) if ($DO_VERT);
 
@@ -386,17 +391,18 @@ sub _end_collection
 
 sub _change_page
 {
-	my ($status, $counters, $outs, $bookPageNo, $corrPageNo) = @_;
+	my ($status, $counters, $outs, $corrPageNo, $origPageNo) = @_;
 
 	_end_paragraph_verse($status, $outs);
 	if ($status->{'page'}) {
 		endVertPage($outs);
 		$status->{'page'} = 0;
 	}
-	startVertPage($outs, $bookPageNo, $corrPageNo);
+	startVertPage($outs, $corrPageNo, $origPageNo);
 	$status->{'page'} = 1;
 	$counters->{'page'} = $corrPageNo;
 	$counters->{'line'} = 0;
+	changeTeiPage($outs, $corrPageNo, $origPageNo);
 }
 
 sub _change_Bible_chapter
@@ -405,13 +411,32 @@ sub _change_Bible_chapter
 	my $counters = shift @_;
 	my $outs = shift @_;
 	my $chapterNo = shift @_;
-
-	_end_paragraph_verse($status, $outs);
-	endVertBibleChapter($outs) if ($status->{'chapter'});
+	_end_Bible_chapter($status, $outs);
 	$counters->{'chapter'} = $chapterNo;
-	startVertBibleChapter($outs, $counters->{'chapter'}) if ($status->{'chapter'});
-	#TODO chapter commentary
+	_start_Bible_chapter($status, $counters, $outs);
+}
+
+sub _start_Bible_chapter
+{
+	my ($status, $counters, $outs) = @_;
+	if ($status->{'chapter'})
+	{
+		startVertBibleChapter($outs, $counters->{'chapter'});
+		startTeiBibleChapter($outs, $counters->{'chapter'});
+		#TODO chapter commentary
+	}
 	$counters->{'verse'} = '0.';
+}
+
+sub _end_Bible_chapter
+{
+	my ($status, $outs) = @_;
+	_end_paragraph_verse($status, $outs);
+	if ($status->{'chapter'})
+	{
+		endVertBibleChapter($outs);
+		endTeiBibleChapter($outs);
+	}
 }
 
 sub _start_paragraph
@@ -420,6 +445,7 @@ sub _start_paragraph
 	my $outs = shift @_;
 
 	startVertParagraph($outs);
+	startTeiParagraph($outs);
 	$status->{'paragraph'} = 1;
 }
 
@@ -436,6 +462,7 @@ sub _start_verse
 	endVertParagraphVerse($outs) if ($status->{'verse'});
 	my $address = calculateAddressStub($internalProperties, $counters, 0);
 	startVertVerse($outs, $address, $verseNo, $indexType);
+	startTeiVerse($outs, $address, $verseNo, $indexType);
 	$status->{'verse'} = 1;
 	$counters->{'word'} = 0;
 }
@@ -448,7 +475,8 @@ sub _end_paragraph_verse
 	if ($status->{'verse'} or $status->{'paragraph'}) {
 		$status->{'verse'} = 0;
 		$status->{'paragraph'} = 0;
-		endVertParagraphVerse($outs),
+		endVertParagraphVerse($outs);
+		endTeiParagraphVerse($outs);
 	}
 }
 
@@ -464,6 +492,7 @@ sub _start_line
 	$counters->{'line'}++;
 	my $address = "${fullSourceStub}_${\$counters->{'page'}}_${\$counters->{'line'}}";
 	startVertLine($outs, $address, $counters->{'line'}, $currentAuthor, $indexType);
+	changeTeiLine($outs, $address);
 	$counters->{'word'} = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
 }
 
@@ -482,21 +511,30 @@ sub _start_sub_line
 	my $isLang = isLanguage($codeLetter);
 	my $decoded = $codeLetter;
 	$decoded = decode($codeLetter) if (canDecode($codeLetter));
-	my $sketchElemType = ($isLang ? 'language' : 'block');
-	my $sketchAttrType = ($isLang ? 'langName' : 'type');
 
 	if ($codeLetter)
 	{
-		startVertSubBlock($outs, $sketchElemType, $sketchAttrType, $decoded);
+		if ($isLang)
+		{
+			startVertSubBlock($outs, 'language', 'langName', $decoded);
+			startTeiSubBlock($outs, 'Language', $decoded);
+		}
+		else
+		{
+			startVertSubBlock($outs, 'block', 'type', $decoded);
+			startTeiSubBlock($outs, $decoded);
+		}
 		if (mustIncludeLanguage($codeLetter))
 		{
 			startVertLatvian($outs);
+			startTeiLatvian($outs);
 			$status->{'Latvian'} = 1;
 		};
 	}
 	else
 	{
 		startVertLatvian($outs);
+		startTeiLatvian($outs);
 		$status->{'Latvian'} = 1;
 	}
 }
@@ -510,15 +548,20 @@ sub _end_sub_line
 	my $isLang = isLanguage($codeLetter);
 	my $sketchElemType = ($isLang ? 'language' : 'block');
 
-	if ($codeLetter) {
-		endVertSubBlock($outs, $sketchElemType);
+	if ($codeLetter)
+	{
 		if (mustIncludeLanguage($codeLetter)) {
 			endVertLatvian($outs);
+			endTeiLatvian($outs);
 			$status->{'Latvian'} = 0;
 		}
+		endVertSubBlock($outs, $sketchElemType);
+		endTeiSubBlock($outs);
 	}
-	else {
+	else
+	{
 		endVertLatvian($outs);
+		endTeiLatvian($outs);
 		$status->{'Latvian'} = 0;
 	}
 }
