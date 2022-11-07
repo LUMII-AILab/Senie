@@ -1,3 +1,4 @@
+_	Apokr1689	Apocrypha	Ernsts Gliks	_	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
 GNP	Apokr1689/1Mak	Ta Pirma Makkabeeŗu Grahmata	Ernsts Gliks	7	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
 GNP	Apokr1689/2Mak	Ta Ohtra Makkabeeŗu Grahmata	Ernsts Gliks	8	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
 GNP	Apokr1689/Asar	Asarijus Luhgschana	Ernsts Gliks	12	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
@@ -40,6 +41,7 @@ LR	Glueck1699_SBM	Swehta Behrnu=Mahziba	Ernsts Gliks	_	1699	17	Garīgie teksti	k
 LR	Gr1520_PN	[Grūnava tēvreize]	Simons Grūnavs	_	1520	16	Garīgie teksti	tēvreizes	FALSE
 LR	Hag1790_IM	Ihsa Mahziba Preeksch Latweescheem	Nīkolauss Kristofers Hāgemeisters	_	1790	18	Laicīgie teksti	padomu grāmata	FALSE
 LR	Has1550_PN	[Hazentētera tēvreize]	Johans Hazentēters	_	1550	16	Garīgie teksti	tēvreizes	FALSE
+_	JT1685	Tas Jauns Testaments	Ernsts Gliks	_	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 GNP	JT1685/1J	Jahņa ta Apustuļa pirma Grahmata uhs wisseem rakstita	Ernsts Gliks	21	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 GNP	JT1685/1Kor	Pahwila ta Apustuļa pirma Grahmata uhs teem Korinteŗeem rakstita	Ernsts Gliks	7	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 GNP	JT1685/1P	Pehteŗa ta Apustuļa pirma Grahmata uhs wisseem rakstita	Ernsts Gliks	19	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
@@ -115,6 +117,7 @@ LR	TII1790	Ta Jhsa Jsstahstischana	nezināms	_	1790	18	Garīgie teksti	katehisms
 LR	UP1587	Vndeudsche Psalmen	nezināms	_	1587	16	Garīgie teksti	dziesmas	FALSE
 LR	Urban1791_LKLDD	Labs Kungs leela Deewa Dahwana	Frīdrihs Kazimirs Urbāns	_	1791	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	V1771_SZA	[Sila zemnieka Anša vēstule mācītājam Loderam]	Sila zemnieks Anšs	_	1771	18	Laicīgie teksti	vēstules	TRUE
+_	VD1689_94	Ta Swehta Grahmata	Ernsts Gliks	_	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
 GNP	VD1689_94/1Ken	Ta pirma Grahmata no teem Ķehniņeem	Ernsts Gliks	11	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
 GNP	VD1689_94/1L	Ta pirma Laiku=Grahmata	Ernsts Gliks	13	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
 GNP	VD1689_94/1Moz	Ta Pirma Mohsus Grahmata	Ernsts Gliks	1	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
