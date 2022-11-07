@@ -39,9 +39,12 @@ sub processDirs
 		print <<END;
 Script for transforming SENIE sources to Sketch-appropriate vertical
 format and/or html for senie.korpuss.lv.
-If input data folder is called Apokr1689, JT1685, VD1689_94 or any of these
-prefixed with data- or data_ then resulting TEI will contain appropriate
-collection header.
+
+Note: if input data folder is called Apokr1689, JT1685, VD1689_94 or any of
+  these prefixed with data- or data_ then resulting TEI will contain
+  appropriate collection header.
+Note: files without transliteration table, when transliteration is required,
+  will be omitted from HTML and TEI, but included in vert.
 
 Params:
    place for summarized result files
@@ -58,23 +61,23 @@ END
 	}
 	my $totalResultDirName = shift @_;
 	my $encoding = shift @_;
-	$DO_VERT = shift @_;
-	$DO_HTML = shift @_;
-	$DO_TEI = shift @_;
+	my $doAllVert = shift @_;
+	my $doAllHtml = shift @_;
+	my $doAllTei = shift @_;
 	$DO_TRANSLIT = shift @_;
 	my @dirNames = @_;
 
-	unless ($DO_VERT or $DO_HTML or $DO_TEI) {
+	unless ($doAllVert or $doAllHtml or $doAllTei) {
 		print "\tNothing to do.\n";
 		return;
 	}
 
 	my ($outForTotalVert, $outForTotalTei) = (0, 0);
-	if ($DO_VERT) {
+	if ($doAllVert) {
 		$outForTotalVert = IO::File->new("$totalResultDirName/all.vert", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/all.vert: $!";
 	}
-	if ($DO_TEI) {
+	if ($doAllTei) {
 		$outForTotalTei = IO::File->new("$totalResultDirName/all.tei.xml", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/all.tei.xml: $!";
 	}
@@ -107,7 +110,7 @@ END
 						$isBad = 1;
 						warn $_[0]
 					}; # This magic makes eval warn on die and count it as problem.
-					processFile($dirName, $inFile, $encoding, $DO_VERT, $DO_HTML, $DO_TEI,
+					processFile($dirName, $inFile, $encoding, $doAllVert, $doAllHtml, $doAllTei,
 						$outForTotalVert, $outForTotalTei);
 				};
 				$baddies = $baddies + $isBad;
@@ -117,9 +120,9 @@ END
 
 		&_end_collection($externalProperties, $outForTotalVert, $outForTotalTei);
 	}
-	$outForTotalVert->close() if ($DO_VERT);
+	$outForTotalVert->close() if ($doAllVert);
 	printTeiCorpusTail($outForTotalTei);
-	$outForTotalTei->close() if ($DO_TEI);
+	$outForTotalTei->close() if ($doAllTei);
 
 	if ($baddies) {
 		print "Processing finished, $baddies of $all files had problems!";
@@ -140,9 +143,12 @@ sub processFile
 
 Script for transforming a single SENIE source to Sketch-appropriate vertical
 format and/or html for senie.korpuss.lv. Source file name must end with .txt.
-Output file name is formed as filename stub + .vert and/or source id + .html.
+Output file name is formed as filename stub + .vert, .html, or .tei.xml.
 It is expected that file starts with lines \@a{author name} and
 \@z{source code}.
+
+Note: files without transliteration table, when transliteration is required,
+  will be skipped from HTML and TEI, but transformed to vert.
 
 Params:
    data directory
@@ -162,19 +168,23 @@ END
 	my $dirName = shift @_;
 	my $fileName = shift @_;
 	my $encoding = shift @_;
-	$DO_VERT = shift @_;
-	$DO_HTML = shift @_;
-	$DO_TEI = shift @_;
+	my $doAllVert = shift @_;
+	my $doAllHtml = shift @_;
+	my $doAllTei = shift @_;
 	my $outTotalVert = shift @_;
 	my $outTotalTei = shift @_;
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
 	print "Processing $fileNameStub.\n";
-	unless ($DO_VERT or $DO_HTML or $DO_TEI) {
+	unless ($doAllVert or $doAllHtml or $doAllTei) {
 		print "\tNothing to do.\n";
 		return;
 	}
+
+	$DO_VERT = $doAllVert;
+	$DO_HTML = $doAllHtml;
+	$DO_TEI = $doAllTei;
 
 	# Get general file info and indexing type
 	my $internalProperties = getSourceProperties("$dirName/$fileName", $encoding);
@@ -186,10 +196,18 @@ END
 
 	# Prepare translit table
 	my $translitTable = 0;
-	if ($DO_TRANSLIT) {
+	if ($DO_TRANSLIT)
+	{
 		$translitTable = substTable($lowerSourceId, $internalProperties->{'collection'});
-		print "\t$fullSourceStub has no transliteration table.\n"
-			if (not $translitTable);
+		if (not $translitTable) {
+			print "\t$fullSourceStub has no transliteration table.\n";
+			$DO_HTML = 0;
+			$DO_TEI = 0;
+			unless ($DO_VERT) {
+				print "\t\tSkipping file without transliteration table.\n";
+				return;
+			}
+		}
 	}
 
 	# Prepare IO
