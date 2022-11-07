@@ -29,17 +29,17 @@ END
 	my $infix = shift @_;
 
 	mkdir('data');
-	mkdir('data-VD');
-	mkdir('data-JT');
-	mkdir('data-Apokr');
+	mkdir('data-VD1689_94');
+	mkdir('data-JT1685');
+	mkdir('data-Apokr1689');
 
 	eval
 	{
 		local $SIG{__DIE__} = sub { warn $_[0] }; # This magic makes eval warn on die.
 		&collectSingleLevel('../Sources', 'data', 0, $infix);
-		&collectSingleLevel('../Sources/VD1689_94', 'data-VD', 0, $infix);
-		&collectSingleLevel('../Sources/JT1685', 'data-JT', 0, $infix);
-		&collectSingleLevel('../Sources/Apokr1689', 'data-Apokr', 0, $infix);
+		&collectSingleLevel('../Sources/VD1689_94', 'data-VD1689_94', 0, $infix);
+		&collectSingleLevel('../Sources/JT1685', 'data-JT1685', 0, $infix);
+		&collectSingleLevel('../Sources/Apokr1689', 'data-Apokr1689', 0, $infix);
 	};
 
 }

@@ -7,7 +7,8 @@ use LvSenie::Publishing::Utils qw(printInAllStreams);
 
 use Exporter();
 our @ISA = qw(Exporter);
-our @EXPORT_OK = qw($DO_TEI printInTei printTeiDocHead printTeiDocTail printTeiCorpusHead printTeiCorpusTail);
+our @EXPORT_OK = qw($DO_TEI printTeiCorpusHead printTeiCorpusTail printTeiCollectionHead printTeiCollectionTail
+    printTeiDocHead printTeiDocTail);
 
 our $DO_TEI = 0;
 
@@ -25,9 +26,26 @@ sub printTeiCorpusHead
 
 sub printTeiCorpusTail
 {
-    my $outTotal = shift@_;
+    my $outTotal = shift @_;
     return unless $DO_TEI;
     print $outTotal "</teiCorpus>\n";
+}
+
+sub printTeiCollectionHead
+{
+    my $fullID = shift @_;
+    my $externalProperties = shift @_;
+    my $outTotal = shift @_;
+    return unless $DO_TEI;
+    print $outTotal " <TEI>\n";
+    print $outTotal &makeHeaderString($fullID, $externalProperties);
+}
+
+sub printTeiCollectionTail
+{
+    my $outTotal = shift @_;
+    return unless $DO_TEI;
+    print $outTotal " </TEI>\n";
 }
 
 sub printTeiDocHead
@@ -44,25 +62,43 @@ sub printTeiDocHead
 
     print {$outs->{'tei'}} "<TEI xmlns=\"http://www.tei-c.org/ns/1.0\">\n" if ($outs->{'tei'});
     print {$outs->{'total tei'}} " <TEI>\n" if ($outs->{'total tei'});
-    printInTei("  <teiHeader>\n", $outs);
-    printInTei("   <fileDesc id=\"${\$internalProperties->{'full ID'}}\">\n", $outs);
-    printInTei("    <sourceDesc>\n", $outs);
-    printInTei("     <author>${\$externalProperties->{'author'}}</author>\n", $outs);
-    printInTei("     <title>${\$externalProperties->{'short name'}}</title>\n", $outs);
-    printInTei("     <date>${\$externalProperties->{'year'}}</date>\n", $outs);
-    printInTei("    </sourceDesc>\n", $outs);
-    printInTei("   </fileDesc>\n", $outs);
-    printInTei("   <profileDesc>\n", $outs);
-    printInTei("    <chanel>manuscript</chanel\n", $outs) if ($externalProperties->{'manuscript'});
-    printInTei("    <domain", $outs);
-    printInTei(" type=\"$domainType\"", $outs) if ($domainType);
-    printInTei(">${\$externalProperties->{'genre'}}", $outs);
-    printInTei("; ${\$externalProperties->{'subgenre'}}", $outs) if ($externalProperties->{'subgenre'});
-    printInTei("</domain\n", $outs);
+    my $header = &makeHeaderString($internalProperties->{'full ID'}, $externalProperties);
+    printInTei($header, $outs);
     printInTei("   </profileDesc>\n", $outs);
     printInTei("  </teiHeader>\n", $outs);
     printInTei("  <text>\n", $outs);
     printInTei("   <body>\n", $outs);
+}
+
+sub makeHeaderString
+{
+    my $fullID = shift @_;
+    my $externalProperties = shift @_;
+    my $domainType = 0;
+    if ($externalProperties->{'genre'} eq 'Garīgie teksti') {$domainType = 'religious';}
+    elsif ($externalProperties->{'genre'} eq 'Vārdnīcas') {$domainType = 'education';}
+    elsif ($externalProperties->{'genre'} eq 'Laicīgie teksti') {$domainType = 'public';}
+    else {warn "Unrecognised genree \"${\$externalProperties->{'author'}}\" for $fullID"};
+
+    my $result =
+        "  <teiHeader>\n" .
+        "   <fileDesc id=\"$fullID\">\n" .
+        "    <sourceDesc>\n" .
+        "     <author>${\$externalProperties->{'author'}}</author>\n" .
+        "     <title>${\$externalProperties->{'short name'}}</title>\n" .
+        "     <date>${\$externalProperties->{'year'}}</date>\n" .
+        "    </sourceDesc>\n" .
+        "   </fileDesc>\n" .
+        "   <profileDesc>\n".
+        ($externalProperties->{'manuscript'} ? "    <chanel>manuscript</chanel\n" : "") .
+        "    <domain" .
+        ($domainType ? " type=\"$domainType\"" : "") .
+        ">${\$externalProperties->{'genre'}}" .
+        ($externalProperties->{'subgenre'} ? "; ${\$externalProperties->{'subgenre'}}" : "") .
+        "</domain\n" .
+        "   </profileDesc>\n" .
+        "  </teiHeader>\n";
+    return $result;
 }
 
 sub printTeiDocTail

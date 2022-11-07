@@ -8,7 +8,8 @@ use IO::File;
 use Data::Dumper;
 
 use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
-use LvSenie::Publishing::TeiTools qw($DO_TEI printInTei printTeiDocHead printTeiDocTail printTeiCorpusHead printTeiCorpusTail);
+use LvSenie::Publishing::TeiTools qw($DO_TEI printTeiCorpusHead printTeiCorpusTail printTeiCollectionHead
+	printTeiCollectionTail printTeiDocHead printTeiDocTail);
 use LvSenie::Publishing::VertTools qw($DO_VERT printVertDocHead printVertDocTail startVertPage endVertPage
 	startVertBibleChapter endVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse
 	startVertLine endVertLine startVertSubBlock endVertSubBlock startVertLatvian endVertLatvian printVertToken
@@ -37,6 +38,9 @@ sub processDirs
 		print <<END;
 Script for transforming SENIE sources to Sketch-appropriate vertical
 format and/or html for senie.korpuss.lv.
+If input data folder is called Apokr1689, JT1685, VD1689_94 or any of these
+prefixed with data- or data_ then resulting TEI will contain appropriate
+collection header.
 
 Params:
    place for summarized result files
@@ -82,6 +86,10 @@ END
 	{
 		my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 		mkdir "$dirName/res/";
+		my $dirCode = $dirName;
+		$dirCode =~ s/^data[-_](.*)/$1/;
+		my $externalProperties = getExternalProperties($dirCode);
+		&_start_collection($dirCode, $externalProperties, $outForTotalVert, $outForTotalTei);
 
 		while (defined(my $inFile = $dir->read))
 		{
@@ -105,6 +113,8 @@ END
 				$all++;
 			}
 		}
+
+		&_end_collection($externalProperties, $outForTotalVert, $outForTotalTei);
 	}
 	$outForTotalVert->close() if ($DO_VERT);
 	printTeiCorpusTail($outForTotalTei);
@@ -357,6 +367,21 @@ sub _finish_outputs
 
 	printTeiDocTail($outs);
 	close($outs->{'tei'}) if ($DO_TEI);
+}
+
+sub _start_collection
+{
+	my ($fullID, $externalProperties, $outForTotalVert, $outForTotalTei) = @_;
+	return unless $externalProperties;
+	printTeiCollectionHead($fullID, $externalProperties, $outForTotalTei)
+
+}
+
+sub _end_collection
+{
+	my ($externalProperties, $outForTotalVert, $outForTotalTei) = @_;
+	return unless $externalProperties;
+	printTeiCollectionTail($outForTotalTei);
 }
 
 sub _change_page
