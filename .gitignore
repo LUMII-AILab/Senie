@@ -11,6 +11,7 @@
 /Unicoding/*-ignore.bat
 /Unicoding/*-ignore
 /Unicoding/*.vert
+/Unicoding/*.tei.xml
 
 /Indexing/run/data
 /Indexing/run/result-*
