@@ -34,12 +34,20 @@ sub printHtmlDocTail
 
 sub formLineForHtml
 {
-    my $line = shift @_;
     my $address = shift @_;
+    my $line = shift @_;
 
     return "<tr><td class=\"source-address\">&nbsp;</td><td class=\"source-line\">&nbsp;</td></tr>\n"
-        if ($line =~ /^\s*$/);
+        if (not $line or $line =~ /^\s*$/);
     $address = '&nbsp;' unless ($address);
+    $line = _htmlify_line_contents($line);
+    return "<tr><td class=\"source-address\">$address</td><td class=\"source-line\">$line</td></tr>\n";
+}
+
+sub _htmlify_line_contents
+{
+    my $line = shift @_;
+    return $line unless $line;
     $line =~ /^\s*(.*?)\s*$/;
     $line = $1;
     #Mandatory escapes
@@ -50,7 +58,7 @@ sub formLineForHtml
     $line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<span class="source-marked">$1<\/span>/g;
     $line =~ s/(?<!\@.)({[^}]*})/<span class="source-correction">$1<\/span>/g;
     $line =~ s/(\@([^{])){/"<span class=\"source-atcode\" title=\"".&decode($2)."\">$1<\/span>{"/ge;
-    return "<tr><td class=\"source-address\">$address</td><td class=\"source-line\">$line</td></tr>\n";
+    return $line;
 }
 
 sub printInHtml

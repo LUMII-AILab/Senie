@@ -283,7 +283,7 @@ END
 				_start_sub_line($status, $outs, $codeLetter);
 				my $addressStub = calculateAddressStub($internalProperties, $counters, 1);
 				my @origTokens = @{tokenize($linePart)};
-				my $translitLine = 0;
+				my $translitLine = $linePart;
 				my @translitTokens = 0;
 				$newHtmlLineAddress = $addressStub if @origTokens;
 				if ($DO_TRANSLIT)
@@ -301,15 +301,18 @@ END
 					&_print_token($internalProperties, $status, $counters, $outs,
 							$origTokens[$tokenNo], $translitTokens[$tokenNo], $DO_TRANSLIT)
 				}
-				printTeiSubBlockContents($outs, $linePart);
+				if ($DO_TRANSLIT) {printTeiSubBlockContents($outs, $translitLine);}
+				else {printTeiSubBlockContents($outs, $linePart);}
 				&_end_sub_line($status, $outs, $codeLetter);
 			}
 			&_end_line($outs);
 		}
 
 		# Do HTML for this line
-		my $htmlLine = formLineForHtml($line,
-			$newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress);
+		my $textLineForHtml =  $DO_TRANSLIT ? transliterateString($line, $translitTable) : $line;
+		my $htmlLine = formLineForHtml(
+			$newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress,
+			$textLineForHtml);
 		printInHtml($htmlLine, $outs);
 	}
 
@@ -327,12 +330,13 @@ sub _initialize_outputs
 
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $lowerSourceId = $internalProperties->{'short ID'};
+	my $fullFileNameStub = $DO_TRANSLIT ? "${fileNameStub}_translitered" : "${fileNameStub}";
 
 	# Vert file and its header
 	if ($DO_VERT)
 	{
-		$outs->{'vert'} = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.vert", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.vert: $!";
+		$outs->{'vert'} = IO::File->new("$dirName/res/$lowerSourceId/$fullFileNameStub.vert", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/$fullFileNameStub.vert: $!";
 	}
 	printVertDocHead($internalProperties, $externalProperties, $outs);
 
@@ -341,19 +345,18 @@ sub _initialize_outputs
 	{
 		my $htmlFileName = $lowerSourceId;
 		$htmlFileName =~ s/_Unicode//;
-		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/${htmlFileName}.html", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/${htmlFileName}.html: $!";
+		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/$fullFileNameStub.html", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/$fullFileNameStub.html: $!";
 	}
 	printHtmlDocHead($fullSourceStub, $internalProperties, $outs);
 
 	# TEI file and its header
 	if ($DO_TEI)
 	{
-		$outs->{'tei'} = IO::File->new("$dirName/res/$lowerSourceId/${fileNameStub}.tei.xml", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/${fileNameStub}.tei.xml: $!";
+		$outs->{'tei'} = IO::File->new("$dirName/res/$lowerSourceId/$fullFileNameStub.tei.xml", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/$fullFileNameStub.tei.xml: $!";
 	}
 	printTeiDocHead($internalProperties, $externalProperties, $outs);
-
 }
 
 sub _finish_outputs
