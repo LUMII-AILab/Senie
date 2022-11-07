@@ -141,11 +141,19 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 
 
 
+# Ja ir mainījušies transliterēšanas likumi (kopsavilkums)
+
+1. `Sources` ir transliterāciju teksti, kas rodas, pārdarbinot perl skriptu `Transliterator` (sk. unikoda nodaļas transliterācijas daļu).
+2. `TEI` ir transliterāciju TEIi, kas rodas, pārdarbinot perl skriptu `PubGenerator` (sk. unikoda nodaļas TEI daļu).
+3. `Web/unicode` ir transliterāciju HTMLi, kas rodas, pārdarbinot perl skriptu `PubGenerator` (sk. unikoda nodaļas Web daļu).
+
+
+
 # Tīmekļa failu atjaunināšana (kopsavilkums)
 
 1. `Web/static` saturs rodas, pārdarbinot Java skriptu ne-servera daļu (skatīt pre-unikoda nodaļas sākumu).
 2. `Web/inverse` saturs rodas, kad pārdarbinot Java skriptus, no rezultātiem atlasa inversu failus (skatīt pre-unikoda nodaļas statistiku sadaļu).
-3. `Web/unicode` saturs rodas, pārdarbinot perl skriptu `PubGenerator` (sk. unikoda nodaļas web daļu).
+3. `Web/unicode` saturs rodas, pārdarbinot perl skriptu `PubGenerator` (sk. unikoda nodaļas Web daļu).
 4. Pārējās `Web` sadaļas šobrīd nav iespējams automātiski atjaunināt.
 
 
