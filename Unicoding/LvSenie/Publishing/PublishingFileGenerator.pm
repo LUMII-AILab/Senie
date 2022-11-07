@@ -314,8 +314,7 @@ END
 						@translitTokens = @origTokens
 					}
 				}
-				for my $tokenNo (0..scalar(@origTokens)-1)
-				{
+				for my $tokenNo (0..scalar(@origTokens)-1) {
 					&_print_token($internalProperties, $status, $counters, $outs,
 							$origTokens[$tokenNo], $translitTokens[$tokenNo], $DO_TRANSLIT)
 				}
