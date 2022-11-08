@@ -28,8 +28,7 @@ our @EXPORT_OK = qw(processFile processDirs);
 
 our $DO_TRANSLIT = 0;
 
-# TODO manis vienotie dehyp faili ir citādāki kā Normunda??
-# TODO ko darīt, ja transliterācijas tabula maina tokenizāciju
+# TODO Normunds ieteica TEI exportam hederī iekļaut indeksēšanas tipu.
 
 sub processDirs
 {
