@@ -4,6 +4,7 @@ VERTICAL /corpora/vert/senie_sakotnejs.vert
 ENCODING "UTF-8"
 LANGUAGE "Latvian"
 INFOHREF "http://senie.korpuss.lv/"
+MAINTAINER "mailto:senie@ailab.lv"
 
 
 ATTRIBUTE sourceWord {
@@ -55,6 +56,9 @@ STRUCTURE doc {
 	}
 	ATTRIBUTE external {
 		LABEL "Saite"
+	}
+	ATTRIBUTE wordcount {
+		LABEL "Tekstvienības"
 	}
 }
 

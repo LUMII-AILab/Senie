@@ -29,6 +29,7 @@ our @EXPORT_OK = qw(processFile processDirs);
 our $DO_TRANSLIT = 0;
 
 # TODO Normunds ieteica TEI exportam hederī iekļaut indeksēšanas tipu.
+# TODO novērst, ka vert faila atribūtos iet atstarpes galos.
 
 sub processDirs
 {
