@@ -8,6 +8,7 @@ Lietotājiem paredzētā publiskā vide ir brīvi pieejama Korpuss.lv platformā
 
 - `Sources` - korpusa avotu faili un statistika.
 - `Docs` - topošā korpusa dokumentācija, specifikāciju faili.
+- `TEI` - korpusa dati, pārveidoti TEI formātā.
 - `Indexing` & `Unicoding` - korpusa apstrādes rīki.
 - `DB` & `Web` - ar korpusa tīmekļa vietni [senie.korpuss.lv](http://senie.korpuss.lv) saisītais materiāls, datu medelis un saskarnes pirmkods (daļēji novecojis, pārejot uz [NoSketch Engine](http://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode) platformu).
 
