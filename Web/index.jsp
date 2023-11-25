@@ -86,92 +86,6 @@
 			<td bgcolor="#CCFF99">
 
 				<!-- INTRO ------------------------------------------------------------->
-				<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tr>
-					<td valign="top">
-						<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="senie" width="150px" height="200px" style="margin: 20px 0px 0px 20px;">
-							<param name="movie" value="./images/senie.swf">
-							<param name="menu" value="false">
-							<param name="quality" value="high">
-							<param name="bgcolor" value="#EEFFBB">
-							<embed src="./images/senie.swf" menu="false" quality="high" bgcolor="#EEFFBB" width="150px" height="200px" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
-							</embed>
-						</object>
-					</td>
-					<td valign="bottom" width="100%">
-
-						<!-- DIENAS ODZIŅAS -------------------------------------------->
-						<table border="0" cellpadding="0" cellspacing="0">
-						<%
-							tiptop = selWordCount.executeQuery();
-							if (tiptop.next()) {
-								rnd = tiptop.getInt("total");
-							}
-							rnd = (int)(Math.random() * rnd + 1);
-
-							selWord.clearParameters();
-							selWord.setInt(1, rnd);
-							tiptop = selWord.executeQuery();
-							if (tiptop.next()) {
-						%>
-						<tr>
-							<td width="130px"><p class="text"><b><span class="count">Viens vārds:</span></b></p></td>
-							<td>
-								<p class="text" style="margin-left: 0px;"><b><%= new String(tiptop.getBytes("word"), "UTF-8") %></b> - <%= new String(tiptop.getBytes("sense"), "UTF-8") %> [<a href="<%= new String(tiptop.getBytes("context"), "UTF-8") %>">konteksts</a>]</p>
-							</td>
-						</tr>
-						<%
-							}
-							tiptop = selQuoteCount.executeQuery();
-							if (tiptop.next()) {
-								rnd = tiptop.getInt("total");
-							}
-							rnd = (int)(Math.random() * rnd + 1);
-
-							selQuote.clearParameters();
-							selQuote.setInt(1, rnd);
-							tiptop = selQuote.executeQuery();
-							if (tiptop.next()) {
-						%>
-						<tr>
-							<td><p class="text" style="margin-top: 0px;"><b><span class="count">Viens citāts:</span></b></p></td>
-							<td>
-								<p class="text" style="margin-top: 0px; margin-left: 0px;"><i>"<%= new String(tiptop.getBytes("text"), "UTF-8") %>"</i> [<a href="<%= new String(tiptop.getBytes("context"), "UTF-8") %>">konteksts</a>]</p>
-							</td>
-						</tr>
-						<%
-							}
-							tiptop = selTipCount.executeQuery();
-							if (tiptop.next()) {
-								rnd = tiptop.getInt("total");
-							}
-							rnd = (int)(Math.random() * rnd + 1);
-
-							selTip.clearParameters();
-							selTip.setInt(1, rnd);
-							tiptop = selTip.executeQuery();
-							if (tiptop.next()) {
-						%>
-						</table>
-
-						<p class="text"><b><span class="count">Vai jūs zināt...</span></b><br>
-						<%= new String(tiptop.getBytes("text"), "UTF-8") %>
-						<%
-								String link = new String(tiptop.getBytes("link"), "UTF-8");
-								if (!link.equals("")) {
-						%>
-						[<a href="<%= link %>" target="_new">vairāk</a>]
-						<%
-								}
-							}
-						%>
-						</p>
-						<!-------------------------------------------------------------->
-
-					</td>
-				</tr>
-				</table>
-
 				<p class="text">
 					<b>Laipni lūdzam!</b> 2003. gadā tika atklāta latviešu valodas seno tekstu korpusa mājas lapa. Tagad te atradīsiet gan 16. gs., gan 17. gs., gan arī dažus 18. gs. sākuma latviešu rakstu pieminekļus un to indeksus.
 				</p>
@@ -188,15 +102,18 @@
 					<li>
 						<span class="code"><a href="./about.htm">par seno tekstu korpusu</a></span>
 					</li>
+					<!--
 					<li>
 						<span class="code"><a href="./summary.htm">kopējā statistika</a></span>
 					</li>
 					<li>
 						<span class="code"><a href="./abbrevs.jsp">lietotie saīsinājumi</a></span>
 					</li>
+					-->
 					<li>
 						<span class="code"><a href="./notations.htm">lietotie apzīmējumi</a></span>
 					</li>
+					<!--
 					<li>
 						<span class="code">kopējais vārdformu biežuma saraksts (CS): </span>&nbsp;
 						<a href="./frequencies.jsp?source=SENIE&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
@@ -215,6 +132,7 @@
 						<span class="code">kopējais vārdformu indekss (LC): </span>&nbsp;
 						<a href="./downloads/SENIE_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
+					-->
 					<li>
 						<span class="code">saziņa: </span>&nbsp;
 						<a href="mailto:senie no ailab punkts lv"><img src="./images/mail.jpg" width="14px" height="11px" border="0"></a>&nbsp;<span class="hint">senie no ailab punkts lv</span>
@@ -241,14 +159,16 @@
 						<span class="code"><a href="./navigation.jsp?dimension=sources">navigācija korpusa saturā</a></span>
 					</li>
 					<li>
-						<span class="code"><a href="./search.jsp">meklēšana vārdformu indeksā</a></span>
+						<span class="code"><a href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">meklēšana vārdformu indeksā</a></span>
 					</li>
 					<li>
-						<span class="code"><a href="./concordance.jsp">konkordance</a></span>
+						<span class="code"><a href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">konkordance</a></span>
 					</li>
+					<!--
 					<li>
 						<span class="code"><a href="./statistic.jsp">statistika un citi dati</a></span>
 					</li>
+					-->
 				</ul>
 			</td>
 		</tr>
