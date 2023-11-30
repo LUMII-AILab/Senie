@@ -220,10 +220,11 @@ END
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
-	warn "Author is not in the first line!" unless $line =~ /^\N{BOM}?\s*\@a\{(.*?)\}\s*$/;
-	printInHtml(formLineForHtml($line), $outs);
+	$line =~ s/^\N{BOM}//;
+	printInHtml(formLineForHtml(0, $line), $outs);
+	warn "Author is not in the first line!" unless $line =~ /^\s*\@a\{(.*?)\}\s*$/;
 	$line = <$in>;
-	printInHtml(formLineForHtml($line), $outs);
+	printInHtml(formLineForHtml(0, $line), $outs);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
 
 	# Booleans for positions inside certain elements
