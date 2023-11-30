@@ -20,7 +20,8 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
    (sk. `runFileCollector-sample.bat`).
-2. Pārģenerē atpārnesumotos failus ar komandām (sk. `runDehyphenator-sample.bat`)
+2. Pārģenerē atpārnesumotos failus ar komandām
+   (sk. `runDehyphenator-sample.bat`)
 ```
 perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data UTF-8 Unicode
 perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 UTF-8 Unicode
