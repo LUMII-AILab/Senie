@@ -985,7 +985,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}ißl', 'i#l', '1' ],	# Palīgmaiņa
 		[ 'ißk', 'i#k', '1' ],	# Palīgmaiņa
 		[ '\b{wb}beß', 'be#', '1' ],	# Palīgmaiņa
-		[ '\(beß', '\(be#', '1' ],	# Palīgmaiņa
+		[ '\(beß', '(be#', '1' ],	# Palīgmaiņa
 		[ 'baßnit', 'ba#nī', '1' ],	# Palīgmaiņa
 		[ 'wiß\b{wb}', 'viss', '1' ],
 		[ 'maß', 'ma#', ],	# Palīgmaiņa
@@ -7983,11 +7983,11 @@ our $TABLES_SINGLES = {
 		[ 'tc', 'c', ],
 		[ 'sled', 'zlied', ],
 		[ 'jais', 'jāi#', ],	# Palīgmaiņa
-		[ '\(ais', '\(ai#', ],	# Palīgmaiņa
+		[ '\(ais', '(ai#', ],	# Palīgmaiņa
 		[ '\b{wb}ais\b{wb}', 'ai#', ],	# Palīgmaiņa
 		[ '\b{wb}ais', 'ai#', ],	# Palīgmaiņa
 		[ 'neus', 'neu#', ],	# Palīgmaiņa
-		[ '\(us', '\(u#', ],	# Palīgmaiņa
+		[ '\(us', '(u#', ],	# Palīgmaiņa
 		[ '\b{wb}us', 'u#', ],	# Palīgmaiņa
 		[ '\b{wb}uhs', 'u#', ],	# Palīgmaiņa
 		[ 'neis', 'nei#', ],	# Palīgmaiņa
@@ -7998,7 +7998,7 @@ our $TABLES_SINGLES = {
 		[ 'jg', 'ig', ],
 		[ 'jr', 'i', ],
 		[ 'Jj', 'ij', ],
-		[ '\(bes', '\(be#', ],	# Palīgmaiņa
+		[ '\(bes', '(be#', ],	# Palīgmaiņa
 		[ '\b{wb}bes', 'be#', ],	# Palīgmaiņa
 		[ 'Scheh', 'žēl', ],
 		[ 'sche', 'žē', ],
@@ -16274,7 +16274,7 @@ our $TABLES_SINGLES = {
 		[ 'Jrr', 'Ir', '1' ],
 		[ '\b{wb}is', 'i%', ],	# Palīgmaiņa
 		[ '\b{wb}us', 'u%', ],	# Palīgmaiņa
-		[ '\(Us', '\(u%', ],	# Palīgmaiņa
+		[ '\(Us', '(u%', ],	# Palīgmaiņa
 		[ '\b{wb}ais', 'ai%', ],	# Palīgmaiņa
 		[ '\b{wb}bes', 'be%', ],	# Palīgmaiņa
 		[ '\b{wb}semn', '%emn', ],	# Palīgmaiņa
