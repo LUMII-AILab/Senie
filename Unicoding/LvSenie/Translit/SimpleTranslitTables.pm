@@ -985,7 +985,7 @@ our $TABLES_SINGLES = {
 		[ '\b{wb}ißl', 'i#l', '1' ],	# Palīgmaiņa
 		[ 'ißk', 'i#k', '1' ],	# Palīgmaiņa
 		[ '\b{wb}beß', 'be#', '1' ],	# Palīgmaiņa
-		[ '(beß', '(be#', '1' ],	# Palīgmaiņa
+		[ '\(beß', '\(be#', '1' ],	# Palīgmaiņa
 		[ 'baßnit', 'ba#nī', '1' ],	# Palīgmaiņa
 		[ 'wiß\b{wb}', 'viss', '1' ],
 		[ 'maß', 'ma#', ],	# Palīgmaiņa
