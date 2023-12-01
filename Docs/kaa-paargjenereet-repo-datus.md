@@ -12,7 +12,7 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 2. Pārģenerē simbolu tabulas ar komandu
    `perl -CS -e "use LvSenie::Utils::SymbolCollector qw(countInDirs); countInDirs(@ARGV)" . UTF-8 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runSymbolCollector-sample.bat`).
-3. Pārvieto `unicode_symbols.html` uz mapi `Web` un `unicode_symbols.txt` uz `Docs`.
+3. Pārvieto  `unicode_symbols.txt` uz mapi `Docs` un `unicode_symbols.html`, pārsaucot par `unicode.htm`, uz mapi `Web`.
 
 
 ## Vajag pārģenerēt atpārnesumotos failus
