@@ -1,9 +1,9 @@
-- Indeksācijas tips: LR, P, GNP GLR.
-- Avota kods, kolekciju no avota atdala ar `/`.
+- Indeksācijas tips: LR, P, GNP, GLR atsevišķajiem avotiem un kolekciju daļām, un _ kolekcijām.
+- Avota kods, kolekciju daļām kolekciju no avota atdala ar `/`.
 - Īsais nosaukums, mūsdienu neformālie nosaukumi doti kvadrātiekavās.
 - Autors mūsdienu rakstībā.
 - Avota kārtas numurs kolekcijā vai `_`, ja tas ir kolekcijā vienīgais avots; var būt daļskaitlis ar punktu kā decimālo atdalītāju.
-- Gads vai gadu intervāls (Bībelei šobrīd ir 1689_94)
+- Gads vai gadu intervāls (Bībelei šobrīd ir 1689_94).
 - Gadsimts.
 - Žanrs.
 - Apakšžanri, var būt ar semikolu atdalīti vairāki vai `_`, ja apkašžanra nav.
