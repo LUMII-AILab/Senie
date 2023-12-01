@@ -29,7 +29,7 @@
 			String param_codif = request.getParameter("codificator");
 
 			Properties db_access = new Properties();
-			String conf = config.getServletContext().getRealPath("/") + File.separator + "WEB-INF" + File.separator + "db.conf";
+			String conf = config.getServletContext().getRealPath("/") + "WEB-INF/db.conf";
 			db_access.load(new InputStreamReader(new FileInputStream(conf), "UTF-8"));
 
 			Properties params = new Properties();
@@ -63,7 +63,7 @@
 				param_codif = "";
 			}
 
-			String demopath = getServletContext().getRealPath("/") + File.separator + "static" + File.separator;
+			String demopath = config.getServletContext().getRealPath("/") + "static/";
 			File demofile = null;
 		%>
 		<!-- --------------------------------------------------------------------------->
@@ -92,11 +92,12 @@
 					</li>
 
 					<%
-						demofile = new File(demopath + param_codif + ".html");
+						demofile = new File(demopath + param_codif + "/" + param_codif + ".html");
+
 						if (demofile.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%= param_codif %>.html">statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%= param_codif %>/<%= param_codif %>.html">statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
@@ -126,12 +127,13 @@
 					<% } %>
 
 					<%
-						String utf8_path = getServletContext().getRealPath("/") + File.separator + "unicode" + File.separator;
-						File utf8_file = new File(utf8_path + param_codif + ".html");
+						String utf8_path = config.getServletContext().getRealPath("/") + "unicode/";
+						File utf8_file = new File(utf8_path + param_codif + "/" + param_codif + ".html");
+
 						if (utf8_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./unicode/<%=param_codif%>.html">Unicode</a></span>
+						<span class="code"><a href="./unicode/<%=param_codif%>/<%=param_codif%>.html">Unicode</a></span>
 					</li>
 					<% } %>
 
@@ -151,11 +153,12 @@
 				<ul class="liste">
 
 					<%
-						demofile = new File(demopath + book_codif + ".html");
+						demofile = new File(demopath + param_codif + "/" + book_codif + "/" + book_codif + ".html");
+
 						if (demofile.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%= book_codif %>.html">statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%= param_codif %>/<%= book_codif %>/<%= book_codif %>.html">statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
