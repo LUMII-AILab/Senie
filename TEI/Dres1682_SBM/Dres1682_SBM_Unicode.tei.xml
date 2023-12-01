@@ -65,7 +65,7 @@
        <lb id="Dres1682_SBM_1_4"/>
         <div type="Language" lang="Latvian">Mahzibahs?</div>
        <lb id="Dres1682_SBM_1_5"/>
-        <div type="Language" lang="Latvian">Peetz.	 1.Tee deßmiti Deewa Baußli:</div>
+        <div type="Language" lang="Latvian">Peetz. 1. Tee deßmiti Deewa Baußli:</div>
        <lb id="Dres1682_SBM_1_6"/>
         <div type="Language" lang="Latvian">2. Tee trieß Lohzeekli tahs ẜwähtahs Criſti-</div>
        <lb id="Dres1682_SBM_1_7"/>
@@ -103,7 +103,7 @@
        <lb id="Dres1682_SBM_1_22"/>
         <div type="Language" lang="Latvian">Mums buhs Deewu par wiſẜahm Leetahm</div>
        <lb id="Dres1682_SBM_1_23"/>
-        <div type="Language" lang="Latvian">bietees/ mieļoht und us to zerreht.</div>
+        <div type="Language" lang="Latvian">bietees / mieļoht und us to zerreht.</div>
        <lb id="Dres1682_SBM_1_24"/>
         <div type="Language" lang="Latvian">3.	Kas kļuhſt töw eekſchan to pirmeyu</div>
        <lb id="Dres1682_SBM_1_25"/>
@@ -630,7 +630,7 @@
        <lb id="Dres1682_SBM_10_10"/>
         <div type="Language" lang="Latvian">Bährneems lieds treſẜchu und zättor-</div>
        <lb id="Dres1682_SBM_10_11"/>
-        <div type="Language" lang="Latvian">tu Aughumu: Beet teems / kattri mañ</div>
+        <div type="Language" lang="Latvian">tu Aughumu: <corr>Bet</corr><sic>Beet</sic> teems / kattri mañ</div>
        <lb id="Dres1682_SBM_10_12"/>
         <div type="Language" lang="Latvian">mieļo / und mannus Baußlus turr /</div>
        <lb id="Dres1682_SBM_10_13"/>
@@ -754,7 +754,7 @@
        <lb id="Dres1682_SBM_12_11"/>
         <div type="Language" lang="Latvian">Es titzu / ka mann Deews raddyis ir / ar</div>
        <lb id="Dres1682_SBM_12_12"/>
-        <div type="Language" lang="Latvian">wiſẜahm radditahm Ļeetahm / mann Meeſẜu</div>
+        <div type="Language" lang="Latvian">wiſẜahm radditahm <corr>Leetahm</corr><sic>Ļeetahm</sic> / mann Meeſẜu</div>
        <lb id="Dres1682_SBM_12_13"/>
         <div type="Language" lang="Latvian">und Dwehßel / Atzis / Auſẜis und wiſẜus Lohzekļus /</div>
        <lb id="Dres1682_SBM_12_14"/>
@@ -809,7 +809,7 @@
        <lb id="Dres1682_SBM_13_11"/>
         <div type="Language" lang="Latvian">(katters / ar Deewu to Dählu / und Deewu to</div>
        <lb id="Dres1682_SBM_13_12"/>
-        <div type="Language" lang="Latvian">ẜwähtu Gahhru wiſẜahs radditahs Leetahs /</div>
+        <div type="Language" lang="Latvian">ẜwähtu Gharru wiſẜahs radditahs Leetahs /</div>
        <lb id="Dres1682_SBM_13_13"/>
         <div type="Language" lang="Latvian">pehtz ẜawu Dabbu / raddyis ir.)</div>
        <lb id="Dres1682_SBM_13_14"/>
@@ -1254,7 +1254,7 @@
        <lb id="Dres1682_SBM_20_24"/>
         <div type="Language" lang="Latvian">ſchien eekſchan Nahwu?</div>
        <lb id="Dres1682_SBM_20_25"/>
-        <div type="Language" lang="Latvian">Nhe / aiſto es titzu weenu Aukſcham=Zeellſcha-</div>
+        <div type="Language" lang="Latvian">Nhe / aiſto es titzu weenu Aukſcham=Zellſcha-</div>
        <lb id="Dres1682_SBM_20_26"/>
         <div type="Language" lang="Latvian">nu tahs Meeſẜahs.</div>
        <lb id="Dres1682_SBM_20_27"/>
@@ -1563,7 +1563,7 @@
        <lb id="Dres1682_SBM_25_27"/>
         <div type="Language" lang="Latvian">26. Ko pallieds tad tawa Luhkſchana / kad</div>
        <lb id="Dres1682_SBM_25_28"/>
-        <div type="Language" lang="Latvian">ta (Deewa Walļſtiba) no ẜöw paẜ-</div>
+        <div type="Language" lang="Latvian">ta (Deewa <corr>Wallſtiba</corr><sic>Walļſtiba</sic>) no ẜöw paẜ-</div>
        <lb id="Dres1682_SBM_25_29"/>
         <div type="Language" lang="Latvian">ẜchu nahk?</div>
       </div>
@@ -1836,7 +1836,7 @@
        <lb id="Dres1682_SBM_30_11"/>
         <div type="Language" lang="Latvian">nahs Meeſẜahs Usturreſchanahs wajagh / eek-</div>
        <lb id="Dres1682_SBM_30_12"/>
-        <div type="Language" lang="Latvian">ſchan ſchahs Luhkẜchanahs eeſchlähkts ir.</div>
+        <div type="Language" lang="Latvian">ſchan ſchahs Luhkẜchanahs <corr>eeſlähkts</corr><sic>eeſchlähkts</sic> ir.</div>
        <lb id="Dres1682_SBM_30_13"/>
         <div type="Language" lang="Latvian">53. Ka ſkann ta peekta Luhkſchana.</div>
        <lb id="Dres1682_SBM_30_14"/>
@@ -1848,7 +1848,7 @@
        <lb id="Dres1682_SBM_30_17"/>
         <div type="Language" lang="Latvian">54. Kas ir tas?</div>
        <lb id="Dres1682_SBM_30_18"/>
-        <div type="Language" lang="Latvian">Mehs luhdſam ſhinny Luhkſchanâ / ka tas</div>
+        <div type="Language" lang="Latvian">Mehs luhdſam ſchinny Luhkſchanâ / ka tas</div>
        <lb id="Dres1682_SBM_30_19"/>
         <div type="Language" lang="Latvian">Tähws Debbeſẜies nhe ghribbätu usluhkoht</div>
        <lb id="Dres1682_SBM_30_20"/>
@@ -2761,7 +2761,7 @@
        <lb id="Dres1682_SBM_45_25"/>
         <div type="Language" lang="Latvian">Mums Cruſtieteems Zillwähkeems / (kattri</div>
        <lb id="Dres1682_SBM_45_26"/>
-        <div type="Language" lang="Latvian">mehs ẜow py to ẜattißitees und isklaußietees</div>
+        <div type="Language" lang="Latvian">mehs <corr>ẜöw</corr><sic>ẜow</sic> py to ẜattißitees und isklaußietees</div>
        <lb id="Dres1682_SBM_45_27"/>
         <div type="Language" lang="Latvian">warram.)</div>
       </div>
@@ -3032,13 +3032,13 @@
        <lb id="Dres1682_SBM_50_9"/>
         <div type="Language" lang="Latvian">Kapehtz nhe by tam pareiße buht? Aiſto (1)</div>
        <lb id="Dres1682_SBM_50_10"/>
-        <div type="Language" lang="Latvian">ghaweht und (2) meeſẜige ẜöw ẜatteiſẜietees ir</div>
+        <div type="Language" lang="Latvian">ghaweht und (2) meeſẜige ẜöw ẜattaiſẜietees ir</div>
        <lb id="Dres1682_SBM_50_11"/>
         <div type="Language" lang="Latvian">weena labba krahſẜna Ꞩattaiſẜiſchana.</div>
        <lb id="Dres1682_SBM_50_12"/>
         <div type="Language" lang="Latvian">27. Bett zaur ko tohpi tu ihſtäne zeenigs und</div>
        <lb id="Dres1682_SBM_50_13"/>
-        <div type="Language" lang="Latvian">labbe ẜatteiſẜiets?</div>
+        <div type="Language" lang="Latvian">labbe ẜattaiſẜiets?</div>
        <lb id="Dres1682_SBM_50_14"/>
         <div type="Language" lang="Latvian">Zaur to Titzibu: Aiſto tas ir ihſtäne zeenigs</div>
        <lb id="Dres1682_SBM_50_15"/>
@@ -3352,7 +3352,7 @@
        <lb id="Dres1682_SBM_55_7"/>
         <div type="Language" lang="Latvian">Tee / kattreems ta Titziba ir eekſchan CHri-</div>
        <lb id="Dres1682_SBM_55_8"/>
-        <div type="Language" lang="Latvian">ſtum JEſum/ und titz' / ka wiņņs par teems</div>
+        <div type="Language" lang="Latvian">ſtum JEſum / und titz' / ka wiņņs par teems</div>
        <lb id="Dres1682_SBM_55_9"/>
         <div type="Language" lang="Latvian">ẜawu dahrgu Aſẜin ißlehyis / nomirris und auck-</div>
        <lb id="Dres1682_SBM_55_10"/>
@@ -3472,7 +3472,7 @@
        <lb id="Dres1682_SBM_57_8"/>
         <div type="Language" lang="Latvian">ẜiſts byis ir / peeminnu) und ẜatziet: Pallieds</div>
        <lb id="Dres1682_SBM_57_9"/>
-        <div type="Language" lang="Latvian">mann (dagadien und allaſchien /) Deews Tähws /</div>
+        <div type="Language" lang="Latvian">mann (<corr>tagadien</corr><sic>dagadien</sic> und allaſchien /) Deews Tähws /</div>
        <lb id="Dres1682_SBM_57_10"/>
         <div type="Language" lang="Latvian">Dähls und Ꞩwähts Gharrs / Amen.</div>
        <lb id="Dres1682_SBM_57_11"/>
@@ -3486,7 +3486,7 @@
        <lb id="Dres1682_SBM_57_15"/>
         <div type="Language" lang="Latvian">3. Ka buhs töw to Luhkſchanu ẜatziet?</div>
        <lb id="Dres1682_SBM_57_16"/>
-        <div type="Language" lang="Latvian">Jeb (1) Zeļļohß meſtams / jeb (2) ſtahwe-</div>
+        <div type="Language" lang="Latvian">Jeb (1) Zeļļohß <corr>meſdams</corr><sic>meſtams</sic> / jeb (2) ſtahwe-</div>
        <lb id="Dres1682_SBM_57_17"/>
         <div type="Language" lang="Latvian">dams / (3) ẜehdedams / (4) ghulledams / (5) ee-</div>
        <lb id="Dres1682_SBM_57_18"/>
@@ -3539,7 +3539,7 @@
        <lb id="Dres1682_SBM_58_11"/>
         <div type="Language" lang="Latvian">Engelis laid palleek py mann / ka tas ļauns</div>
        <lb id="Dres1682_SBM_58_12"/>
-        <div type="Language" lang="Latvian">Eeneidneeks mann nhe peewarr / Amen.</div>
+        <div type="Language" lang="Latvian"><corr>Eenaidneeks</corr><sic>Eeneidneeks</sic> mann nhe peewarr / Amen.</div>
        <lb id="Dres1682_SBM_58_13"/>
         <div type="Language" lang="Latvian">6. Wakkara Luhkſchana.</div>
        <lb id="Dres1682_SBM_58_14"/>
@@ -3567,7 +3567,7 @@
        <lb id="Dres1682_SBM_58_25"/>
         <div type="Language" lang="Latvian">taws Ꞩwähts Engeļis laid palleek py</div>
        <lb id="Dres1682_SBM_58_26"/>
-        <div type="Language" lang="Latvian">mann / ka tas ļauns Eeneidneeks mann</div>
+        <div type="Language" lang="Latvian">mann / ka tas ļauns <corr>Eenaidneeks</corr><sic>Eeneidneeks</sic> mann</div>
        <lb id="Dres1682_SBM_58_27"/>
         <div type="Language" lang="Latvian">nhe peewarr / Amen.</div>
        <lb id="Dres1682_SBM_58_28"/>
