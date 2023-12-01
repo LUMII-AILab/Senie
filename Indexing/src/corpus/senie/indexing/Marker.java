@@ -119,9 +119,9 @@ public class Marker extends Recognizer {
 		html.write("<html>\n<head>\n");
 		html.write("<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1257\">\n");
 		if (collection == null || collection.trim().isEmpty())
-			html.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../source.css\">\n");
+			html.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/source.css\">\n");
 		else
-			html.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../source.css\">\n");
+			html.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../../css/source.css\">\n");
 		html.write("</head>\n<body>\n");
 		html.write("<table align=\"center\" border=\"0\" width=\"80%\"><tr><td>\n");
 

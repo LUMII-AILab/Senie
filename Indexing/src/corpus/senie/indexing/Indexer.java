@@ -982,9 +982,9 @@ public class Indexer extends Recognizer {
 		writer.write("<html>\n<head>\n");
 		writer.write("<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1257\">\n");
 		if (!inCollection)
-			writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../index.css\">\n");
+			writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/index.css\">\n");
 		else
-			writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../index.css\">\n");
+			writer.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"../../../css/index.css\">\n");
 		writer.write("</head>\n<body>\n<pre>\n");
 
 		writer.write("Vārdformu skaits: <b>"+countWF()+"</b>\n");

@@ -65,9 +65,9 @@ public class HtmlWrapperPrinter {
                 "\t\t<meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n");
 
         if (collection == null || collection.trim().isEmpty()) titleHtm.write(
-                "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../title.css\">\r\n");
+                "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../../css/title.css\">\r\n");
         else titleHtm.write(
-                "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../../title.css\">\r\n");
+                "\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"../../../css/title.css\">\r\n");
 
         titleHtm.write(
                 "\t</head>\r\n" +
