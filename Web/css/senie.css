@@ -1,0 +1,285 @@
+body {
+	margin: 10px 15px 10px 15px;
+}
+
+a {
+	color: #447711;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #447711;
+	background-color: #EEFFBB;
+	text-decoration: none;
+}
+
+.biblio {
+	font-family: Times New Roman, serif;
+	font-weight: bold;
+	font-size: 16px;
+	color: #336600;
+	margin:	20px 0px 20px 0px;
+}
+
+.button {
+	border-right: solid 2px;
+	border-bottom: solid 2px;
+	background-color: #CCFF99;
+	text-decoration: none;
+}
+
+.chapter {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 15px;
+	color: #336600;
+	margin:	20px 0px 0px 20px;
+	text-decoration: none;
+}
+
+.code {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #447711;
+	margin:	0px 0px 0px 0px;
+}
+
+.copy {
+	font-family: Verdana, Tahoma, Arial, sans-serif;
+	font-size: 11px;
+	color: #606060;
+	margin: 0px 0px 0px 0px;
+}
+
+.count {
+	color: #FF6600;
+}
+
+.context {
+	font-family: Times New Roman, serif;
+	font-size: 14px;
+	color: #336600;
+	text-align: justify;
+	margin:	0px 40px 0px 40px;
+	border: solid 1px #669933;
+	background-color: #EEFFBB;
+	padding: 4px;
+}
+
+.field {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	color: #336600;
+	height: 21px;
+	border: solid 1px #669933;
+}
+
+.hint {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #336600;
+	margin:	0px 0px 0px 0px;
+}
+
+.hrSeparator {
+	color: #669933;
+	margin:	0px 0px 0px 0px;
+	height: 2px;
+	width: 100%;
+}
+
+.indic {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #FF6600;
+	margin:	0px 0px 0px 20px;
+}
+
+.legend {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #505050;
+	margin:	0px 0px 20px 20px;
+}
+
+.liste {
+	color: #505050;
+	margin: 20px 0px 20px 40px;
+}
+
+.menu {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	color: #336600;
+}
+
+.name {
+	font-family: Times New Roman, serif;
+	font-size: 16px;
+	font-weight: bold;
+	color: #447711;
+	margin:	0px 0px 0px 0px;
+}
+
+.navicont {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #336600;
+	margin:	10px 0px 20px 20px;
+}
+
+.navig {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 12px;
+	text-align: right;
+	color: #EEFFBB;
+	margin: 0px 8px 0px 0px;
+}
+
+.num {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #505050;
+	margin:	0px 0px 0px 20px;
+}
+
+.pos {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #336600;
+	margin:	0px 20px 0px 40px;
+}
+
+.seperator {
+	font-family: monospace;
+	font-size: 4px;
+	margin: 0px 0px 0px 0px;
+}
+
+.subutt {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	color: #336600;
+	font-weight: bold;
+	height: 21px;
+	background-color: #CCFF99;
+	border: solid 1px #669933;
+}
+
+.subchap {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	color: #336600;
+	margin:	20px 0px 0px 40px;
+	text-decoration: none;
+}
+
+.symbutt {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	color: #336600;
+	height: 21px;
+	width: 21px;
+	background-color: #CCFF99;
+	border: solid 1px #669933;
+}
+
+.text {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #336600;
+	text-align: justify;
+	margin:	20px 20px 20px 20px;
+}
+
+.title {
+	font-family: Times New Roman, serif;
+	font-weight: bold;
+	font-size: 22px;
+	color: #EEFFBB;
+	margin:	0px 0px 0px 5px;
+}
+
+.wf {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 14px;
+	color: #336600;
+	margin:	0px 0px 2px 40px;
+}
+
+/* Konteksts */
+
+.para {
+	font-family: Tahoma, Verdana, Arial, sans-serif;
+	font-size: 13px;
+	color: #808080;
+	margin:	10px 0px 10px 0px;
+}
+
+.comment {
+	color: #808080;
+}
+
+.end {
+	color: #808080;
+	text-align: right;
+	margin: 0px 0px 0px 0px;
+}
+
+.opus {
+	color: #808080;
+	text-align: center;
+	margin: 0px 0px 0px 0px;
+}
+
+.errata {
+	color: red;
+}
+
+.lang {
+	color: #3399FF;
+}
+
+.manual {
+	font-style: italic;
+	color: #CC9900;
+}
+
+.note {
+	font-style: italic;
+	color: #737373;
+}
+
+.therow {
+	background-color: #CCFF99;
+}
+
+.colc {
+	color: #000000;
+	text-decoration: none;
+	font-weight: normal;
+	border-style: solid;
+	border-color: #E5E9EC;
+	border-width: 1px;
+	padding: 4px 4px 4px 4px;
+}
+
+.colcx {
+	color: #FF6600;
+	text-decoration: none;
+	font-weight: bold;
+	border-style: solid;
+	border-color: #E5E9EC;
+	border-width: 1px;
+	padding: 4px 4px 4px 4px;
+}
+
+.colc:hover {
+	background-color: #FFFFFF;
+	font-weight: normal;
+	border-style: solid;
+	border-color: #808080;
+	border-width: 1px;
+	color: #FF6600;
+	padding: 4px 4px 4px 4px;
+}

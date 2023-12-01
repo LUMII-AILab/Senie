@@ -11,8 +11,8 @@
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-		<link rel="stylesheet" type="text/css" href="./senie.css">
-		<title>Latviešu valodas seno tekstu korpuss</title>
+		<link rel="stylesheet" type="text/css" href="./css/senie.css">
+		<title>Senie</title>
 
 		<script type="text/javascript" language="JavaScript">
 			function setDim() {
@@ -43,7 +43,7 @@
 		<table border="0" cellpadding="0" cellspacing="0" width="80%" height="100%">
 		<tr height="75px">
 			<td colspan="2">
-				<img src="./images/senie.jpg" width="600px" height="75px" border="0">
+				<img src="./images/senie.jpg" width="600px" height="75px" border="0"/>
 			</td>
 		</tr>
 
@@ -73,7 +73,7 @@
 			params.put("password", db_access.getProperty("password"));
 			params.put("charSet", "utf8");
 
-			Class.forName("com.mysql.jdbc.Driver").newInstance();
+			Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
 			Connection con = DriverManager.getConnection(db_access.getProperty("url"), params);
 
 			PreparedStatement selSources = con.prepareStatement(
@@ -144,7 +144,7 @@
 							<% if (param_src != null || param_auth != null || param_cat != null) { %>
 							<a href="javascript:history.back();" class="button">&nbsp;ATPAKAĻ&nbsp;</a>&nbsp;
 							<% } %>
-							<a href="./toc.jsp" class="button">&nbsp;SĀKUMLAPA&nbsp;</a>
+							<a href="." class="button">&nbsp;SĀKUMLAPA&nbsp;</a>
 						</p>
 					</td>
 				</tr>
