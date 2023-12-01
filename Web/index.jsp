@@ -11,8 +11,8 @@
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-		<link rel="stylesheet" type="text/css" href="./senie.css">
-		<title>Latviešu valodas seno tekstu korpuss</title>
+		<link rel="stylesheet" type="text/css" href="./css/senie.css">
+		<title>Senie</title>
 	</head>
 	<body background="./images/bg.jpg">
 
@@ -20,14 +20,14 @@
 		<table border="0" cellpadding="0" cellspacing="0" width="80%" height="100%">
 		<tr height="75px">
 			<td colspan="2">
-				<img src="./images/senie.jpg" width="600px" height="75px" border="0">
+				<img src="./images/senie.jpg" width="600px" height="75px" border="0"/>
 			</td>
 		</tr>
 
 		<!-- PIESLĒGŠANĀS DB UN VAICĀJUMU INICIALIZĀCIJA ------------------------------->
 		<%
 			Properties db_access = new Properties();
-			String conf = config.getServletContext().getRealPath("/") + File.separator + "WEB-INF" + File.separator + "db.conf";
+			String conf = config.getServletContext().getRealPath("/") + "WEB-INF/db.conf";
 			db_access.load(new InputStreamReader(new FileInputStream(conf), "UTF-8"));
 
 			Properties params = new Properties();
@@ -35,7 +35,7 @@
 			params.put("password", db_access.getProperty("password"));
 			params.put("charSet", "utf8");
 
-			Class.forName("com.mysql.jdbc.Driver").newInstance();
+			Class.forName("com.mysql.cj.jdbc.Driver").newInstance();
 			Connection con = DriverManager.getConnection(db_access.getProperty("url"), params);
 
 			PreparedStatement selPeriods = con.prepareStatement(
@@ -111,7 +111,10 @@
 					</li>
 					-->
 					<li>
-						<span class="code"><a href="./notations.htm">lietotie apzīmējumi</a></span>
+						<span class="code"><a href="./notations.htm">sākotnējie apzīmējumi</a></span>
+					</li>
+					<li>
+						<span class="code"><a href="./unicode.htm"><i>Unicode</i> simboli</a></span>
 					</li>
 					<!--
 					<li>
@@ -134,8 +137,8 @@
 					</li>
 					-->
 					<li>
-						<span class="code">saziņa: </span>&nbsp;
-						<a href="mailto:senie no ailab punkts lv"><img src="./images/mail.jpg" width="14px" height="11px" border="0"></a>&nbsp;<span class="hint">senie no ailab punkts lv</span>
+						<span class="code">saziņa:</span>
+						<a href="mailto:senie@korpuss.lv" class="hint">senie@korpuss.lv</a>
 					</li>
 				</ul>
 				<!---------------------------------------------------------------------->
@@ -148,7 +151,7 @@
 		<!-- RĪKI ---------------------------------------------------------------------->
 		<tr height="30px">
 			<td colspan="2" bgcolor="#669933">
-				<p class="title">Lietojumrīki</p>
+				<p class="title">Korpusa rīki</p>
 			</td>
 		</tr>
 		<tr>
@@ -156,14 +159,16 @@
 			<td bgcolor="#CCFF99">
 				<ul class="liste">
 					<li>
-						<span class="code"><a href="./navigation.jsp?dimension=sources">navigācija korpusa saturā</a></span>
+						<span class="code"><a href="./navigation.jsp?dimension=sources">korpusa pārlūkošana</a></span>
 					</li>
 					<li>
-						<span class="code"><a href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">meklēšana vārdformu indeksā</a></span>
+						<span class="code"><a href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">meklēšana korpusā</a></span>
 					</li>
+					<!--
 					<li>
 						<span class="code"><a href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">konkordance</a></span>
 					</li>
+					-->
 					<!--
 					<li>
 						<span class="code"><a href="./statistic.jsp">statistika un citi dati</a></span>

@@ -9,8 +9,8 @@
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8">
-		<link rel="stylesheet" type="text/css" href="./senie.css">
-		<title>Latviešu valodas seno tekstu korpuss</title>
+		<link rel="stylesheet" type="text/css" href="./css/senie.css">
+		<title>Senie</title>
 	</head>
 	<body background="./images/bg.jpg">
 
@@ -18,7 +18,7 @@
 		<table border="0" cellpadding="0" cellspacing="0" width="80%" height="100%">
 		<tr height="75px">
 			<td colspan="2">
-				<img src="./images/senie.jpg" width="600px" height="75px" border="0">
+				<img src="./images/senie.jpg" width="600px" height="75px" border="0"/>
 			</td>
 		</tr>
 
@@ -34,7 +34,7 @@
 					<td>
 						<p class="navig">
 							<a href="./source.jsp?codificator=<%= param_codif %>" class="button">&nbsp;<%= param_codif %>&nbsp;</a>&nbsp;
-							<a href="./toc.jsp" class="button">&nbsp;SĀKUMLAPA&nbsp;</a>
+							<a href="." class="button">&nbsp;SĀKUMLAPA&nbsp;</a>
 						</p>
 					</td>
 				</tr>
@@ -43,8 +43,8 @@
 		</tr>
 
 		<%
-			String txt_path = config.getServletContext().getRealPath("/") + "biblio" + File.separator + "special" + File.separator;
-			String jpg_path = config.getServletContext().getRealPath("/") + "biblio" + File.separator;
+			String txt_path = config.getServletContext().getRealPath("/") + "biblio/special/";
+			String jpg_path = config.getServletContext().getRealPath("/") + "biblio/";
 
 			File f_txt = new File(txt_path + param_codif + ".txt");
 			File f_jpg = new File(jpg_path + param_codif + ".jpg");
