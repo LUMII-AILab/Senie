@@ -116,14 +116,14 @@
 				selGNP.setInt(4, Integer.parseInt(param_vr));
 
 				text = selGNP.executeQuery();
-				if (text.first()) {
+				if (text.next()) {
 		%>
 				<p class="text">
-					<%= param_src %>, <%= param_book %>, <%= param_chap %>:<%= param_vr %>
+					<%=param_src%>, <%=param_book%>, <%=param_chap%>:<%=param_vr%>
 		<%
 				if (param_wf != null) {
 		%>
-					<br>Pozicionētais vārdlietojums: <b><%= param_wf %></b>
+					<br>Pozicionētais vārdlietojums: <b><%=param_wf%></b>
 		<%
 				}
 		%>
@@ -135,7 +135,7 @@
 					}
 		%>
 				<div class="context">
-					<%= content %>
+					<%=content%>
 				</div>
 		<%
 				}
@@ -147,11 +147,11 @@
 				text = selLR.executeQuery();
 		%>
 				<p class="text">
-					<%= param_src %>, <%= param_pg %>. lpp.<% if (param_row != null) { %>, <%= param_row %>. rindiņa <%	} %>
+					<%=param_src%>, <%=param_pg%>. lpp.<% if (param_row != null) { %>, <%=param_row%>. rindiņa <% } %>
 		<%
 				if (param_wf != null) {
 		%>
-					<br>Pozicionētais vārdlietojums: <b><%= param_wf %></b>
+					<br>Pozicionētais vārdlietojums: <b><%=param_wf%></b>
 		<%
 				}
 		%>
@@ -167,13 +167,13 @@
 					if (param_row != null && text.getInt("row") == Integer.parseInt(param_row)) {
 		%>
 					<span class="therow">
-						<span class="count"><%= text.getString("row") %>:</span> <%= content %>
+						<span class="count"><%= text.getString("row") %>:</span> <%=content%>
 					</span><br>
 		<%
 					}
 					else {
 		%>
-					<span class="count"><%= text.getString("row") %>:</span> <%= content %><br>
+					<span class="count"><%= text.getString("row") %>:</span> <%=content%><br>
 		<%
 					}
 				}
@@ -187,14 +187,14 @@
 				selP.setBytes(2, param_vr.getBytes("UTF-8"));
 
 				text = selP.executeQuery();
-				if (text.first()) {
+				if (text.next()) {
 		%>
 				<p class="text">
-					<%= param_src %>, <%= param_vr %> pants
+					<%=param_src%>, <%=param_vr%> pants
 		<%
 				if (param_wf != null) {
 		%>
-					<br>Pozicionētais vārdlietojums: <b><%= param_wf %></b>
+					<br>Pozicionētais vārdlietojums: <b><%=param_wf%></b>
 		<%
 				}
 		%>
@@ -206,7 +206,7 @@
 					}
 		%>
 				<div class="context">
-					<%= content %>
+					<%=content%>
 				</div>
 		<%
 				}

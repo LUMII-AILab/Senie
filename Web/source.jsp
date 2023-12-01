@@ -73,7 +73,7 @@
 				<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
 				<tr>
 					<td>
-						<p class="title"><i><%= param_name %></i> (<%= param_codif %>)</p>
+						<p class="title"><i><%=param_name%></i> (<%=param_codif%>)</p>
 					</td>
 					<td>
 						<p class="navig"><a href="." class="button">&nbsp;SĀKUMLAPA&nbsp;</a></p>
@@ -88,7 +88,7 @@
 			<td bgcolor="#CCFF99">
 				<ul class="liste">
 					<li>
-						<span class="code"><a href="./biblio.jsp?source=<%= param_codif %>">bibliogrāfija</a></span>
+						<span class="code"><a href="./biblio.jsp?source=<%=param_codif%>">bibliogrāfija</a></span>
 					</li>
 
 					<%
@@ -97,32 +97,32 @@
 						if (static_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%= param_codif %>/<%= param_codif %>.html">statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%=param_codif%>/<%=param_codif%>.html">statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
 					<li>
 						<span class="code">vārdformu biežuma saraksts (CS): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%= param_codif %>&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%= param_codif %>_frequencies.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./frequencies.jsp?source=<%=param_codif%>&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
+						<a href="./downloads/<%=param_codif%>_frequencies.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 					<li>
 						<span class="code">vārdformu biežuma saraksts (LC): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%= param_codif %>&limit=1000&lower=yes"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%= param_codif %>_frequencies_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./frequencies.jsp?source=<%=param_codif%>&limit=1000&lower=yes"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
+						<a href="./downloads/<%=param_codif%>_frequencies_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 					<li>
 						<span class="code">vārdformu indekss (CS): </span>&nbsp;
-						<a href="./downloads/<%= param_codif %>_indexed.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./downloads/<%=param_codif%>_indexed.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 					<li>
 						<span class="code">vārdformu indekss (LC): </span>&nbsp;
-						<a href="./downloads/<%= param_codif %>_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./downloads/<%=param_codif%>_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 
 					<% if (!param_fax.equals("") && param_fax.startsWith("http")) { // FIXME: add #<book_codif %>
 					<li>
-						<span class="code"><a href="<%= param_fax %>" target="_new">oriģināla faksimils</a></span>
+						<span class="code"><a href="<%=param_fax%>" target="_new">oriģināla faksimils</a></span>
 					</li>
 					<% } %>
 
@@ -133,7 +133,7 @@
 						if (utf8_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./unicode/<%=param_codif%>/<%=param_codif%>.html">Unicode</a></span>
+						<span class="code"><a href="./unicode/<%=param_codif%>/<%=param_codif%>.html">Unicode versija</a></span>
 					</li>
 					<% } %>
 
@@ -149,7 +149,7 @@
 						while (books.next()) {
 							String book_codif = new String(books.getBytes("codificator"), "UTF-8");
 				%>
-				<p class="chapter"><%= new String(books.getBytes("name"), "UTF-8") %> (<%= book_codif %>)</p>
+				<p class="chapter"><%= new String(books.getBytes("name"), "UTF-8") %> (<%=book_codif%>)</p>
 				<ul class="liste">
 
 					<%
@@ -158,28 +158,38 @@
 						if (static_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%= param_codif %>/<%= book_codif %>/<%= book_codif %>.html">statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.html">statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
 					<li>
 						<span class="code">vārdformu biežuma saraksts (CS): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%= book_codif %>&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%= book_codif %>_frequencies.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./frequencies.jsp?source=<%=book_codif%>&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
+						<a href="./downloads/<%=book_codif%>_frequencies.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 					<li>
 						<span class="code">vārdformu biežuma saraksts (LC): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%= book_codif %>&limit=1000&lower=yes"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%= book_codif %>_frequencies_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./frequencies.jsp?source=<%=book_codif%>&limit=1000&lower=yes"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
+						<a href="./downloads/<%=book_codif%>_frequencies_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 					<li>
 						<span class="code">vārdformu indekss (CS): </span>&nbsp;
-						<a href="./downloads/<%= book_codif %>_indexed.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./downloads/<%=book_codif%>_indexed.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
 					<li>
 						<span class="code">vārdformu indekss (LC): </span>&nbsp;
-						<a href="./downloads/<%= book_codif %>_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<a href="./downloads/<%=book_codif%>_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
 					</li>
+
+					<%
+						utf8_file = new File(utf8_path + param_codif + "/" + book_codif + "/" + param_codif + ".html");
+
+						if (utf8_file.exists()) {
+					%>
+					<li>
+						<span class="code"><a href="./unicode/<%=param_codif%>/<%=book_codif%>/<%=param_codif%>.html">Unicode versija</a></span>
+					</li>
+					<% } %>
 				</ul>
 				<%
 						}
