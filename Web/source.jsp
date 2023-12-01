@@ -102,22 +102,7 @@
 					<% } %>
 
 					<li>
-						<span class="code">vārdformu biežuma saraksts (CS): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%=param_codif%>&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%=param_codif%>_frequencies.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">vārdformu biežuma saraksts (LC): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%=param_codif%>&limit=1000&lower=yes"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%=param_codif%>_frequencies_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">vārdformu indekss (CS): </span>&nbsp;
-						<a href="./downloads/<%=param_codif%>_indexed.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">vārdformu indekss (LC): </span>&nbsp;
-						<a href="./downloads/<%=param_codif%>_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<span class="code"><a href="#">vārdformu biežums<a href="#"></span>
 					</li>
 
 					<% if (!param_fax.equals("") && param_fax.startsWith("http")) { // FIXME: add #<book_codif %>
@@ -163,22 +148,7 @@
 					<% } %>
 
 					<li>
-						<span class="code">vārdformu biežuma saraksts (CS): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%=book_codif%>&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%=book_codif%>_frequencies.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">vārdformu biežuma saraksts (LC): </span>&nbsp;
-						<a href="./frequencies.jsp?source=<%=book_codif%>&limit=1000&lower=yes"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/<%=book_codif%>_frequencies_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">vārdformu indekss (CS): </span>&nbsp;
-						<a href="./downloads/<%=book_codif%>_indexed.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">vārdformu indekss (LC): </span>&nbsp;
-						<a href="./downloads/<%=book_codif%>_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
+						<span class="code"><a href="#">vārdformu biežums<a href="#"></span>
 					</li>
 
 					<%
@@ -196,8 +166,6 @@
 					}
 					con.close();
 				%>
-
-				<p class="legend">CS - reģistrjūtība (<I>case sensitive</I>)<br>LC - reģistrnejūtība (<I>lower case</I>)</p>
 			</td>
 		</tr>
 
