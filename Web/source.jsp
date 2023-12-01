@@ -102,7 +102,7 @@
 					<% } %>
 
 					<li>
-						<span class="code"><a href="#">vārdformu biežums<a href="#"></span>
+						<span class="code"><a href="#">vārdformu biežums</a></span>
 					</li>
 
 					<% if (!param_fax.equals("") && param_fax.startsWith("http")) { // FIXME: add #<book_codif %>
@@ -152,12 +152,11 @@
 					</li>
 
 					<%
-						utf8_file = new File(utf8_path + param_codif + "/" + book_codif + "/" + param_codif + ".html");
-
+						utf8_file = new File(utf8_path + param_codif + "/" + book_codif + "/" + book_codif + ".html");
 						if (utf8_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./unicode/<%=param_codif%>/<%=book_codif%>/<%=param_codif%>.html">Unicode versija</a></span>
+						<span class="code"><a href="./unicode/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.html">Unicode versija</a></span>
 					</li>
 					<% } %>
 				</ul>

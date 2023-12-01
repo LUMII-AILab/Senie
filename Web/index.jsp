@@ -114,7 +114,7 @@
 						<span class="code"><a href="./notations.htm">sākotnējie apzīmējumi</a></span>
 					</li>
 					<li>
-						<span class="code"><a href="./unicode.htm"><i>Unicode</i> simboli</a></span>
+						<span class="code"><a href="./unicode.htm">Unicode simboli</a></span>
 					</li>
 					<!--
 					<li>
