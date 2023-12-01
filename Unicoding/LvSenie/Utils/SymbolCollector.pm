@@ -172,8 +172,8 @@ sub printResult
     say $outHtml '<html>';
     say $outHtml ' <head>';
     say $outHtml '  <meta http-equiv="content-type" content="text/html; charset=UTF-8">';
-    say $outHtml '  <link rel="stylesheet" type="text/css" href="./senie.css">';
-    say $outHtml '  <title>Simboli korpusā SENIE</title>';
+    say $outHtml '  <link rel="stylesheet" type="text/css" href="../css/senie.css">';
+    say $outHtml '  <title>Senie</title>';
     say $outHtml ' </head>';
     say $outHtml ' <body style="font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;">';
     say $outHtml '  <table class="symbol-table">';
