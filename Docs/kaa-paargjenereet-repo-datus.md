@@ -89,10 +89,10 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 ### TEI atpārnesumotie
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
-   `perl -e "perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē TEI failus ar komandu
-   `perl -CS -e "perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
@@ -101,10 +101,10 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 ### TEI transliterācijas
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
-   `perl -e "perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē TEI failus ar komandu
-   `perl -CS -e "perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
