@@ -116,26 +116,6 @@
 					<li>
 						<span class="code"><a href="./unicode.htm">Unicode simboli</a></span>
 					</li>
-					<!--
-					<li>
-						<span class="code">kopējais vārdformu biežuma saraksts (CS): </span>&nbsp;
-						<a href="./frequencies.jsp?source=SENIE&limit=1000&lower=no"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/SENIE_frequencies.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">kopējais vārdformu biežuma saraksts (LC): </span>&nbsp;
-						<a href="./frequencies.jsp?source=SENIE&limit=1000&lower=yes"><img src="./images/txt.gif" width="13px" height="16px" border="0"></a>&nbsp;<span class="hint">(top 1000)</span>&nbsp;&nbsp;
-						<a href="./downloads/SENIE_frequencies_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">kopējais vārdformu indekss (CS): </span>&nbsp;
-						<a href="./downloads/SENIE_indexed.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					<li>
-						<span class="code">kopējais vārdformu indekss (LC): </span>&nbsp;
-						<a href="./downloads/SENIE_indexed_lower.zip"><img src="./images/zip.gif" width="15px" height="16px" border="0"></a>&nbsp;<span class="hint">(pilns)</span>
-					</li>
-					-->
 					<li>
 						<span class="code">saziņa:</span>
 						<a href="mailto:senie@korpuss.lv" class="hint">senie@korpuss.lv</a>
@@ -162,18 +142,8 @@
 						<span class="code"><a href="./navigation.jsp?dimension=sources">korpusa pārlūkošana</a></span>
 					</li>
 					<li>
-						<span class="code"><a href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">meklēšana korpusā</a></span>
+						<span class="code"><a target="_new" href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">meklēšana korpusā</a></span>
 					</li>
-					<!--
-					<li>
-						<span class="code"><a href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">konkordance</a></span>
-					</li>
-					-->
-					<!--
-					<li>
-						<span class="code"><a href="./statistic.jsp">statistika un citi dati</a></span>
-					</li>
-					-->
 				</ul>
 			</td>
 		</tr>

@@ -102,7 +102,7 @@
 					<% } %>
 
 					<li>
-						<span class="code"><a href="#">vārdformu biežums</a></span>
+						<span class="code"><a target="_new" href='https://nosketch.korpuss.lv/#wordlist?corpname=senie_unicode&tab=advanced&find=sourceWord&wlattr=sourceWord&wlicase=0&wlminfreq=1&showresults=1&tts=%7B%22doc.id%22%3A%5B%22<%=param_codif%>%22%5D%2C%22language.langName%22%3A%5B%22Latvian%22%5D%7D'>vārdformu biežums</a></span>
 					</li>
 
 					<% if (!param_fax.equals("") && param_fax.startsWith("http")) { // FIXME: add #<book_codif %>
@@ -125,7 +125,7 @@
 				</ul>
 
 				<%
-					if (param_codif.matches("JT1685|VD1689_94")) {
+					if (param_codif.matches("JT1685|VD1689_94|Apokr1689")) {
 						selBooks.clearParameters();
 						selBooks.setBytes(1, param_codif.getBytes("UTF-8"));
 						ResultSet books = selBooks.executeQuery();
@@ -148,7 +148,7 @@
 					<% } %>
 
 					<li>
-						<span class="code"><a href="#">vārdformu biežums<a href="#"></span>
+						<span class="code"><a target="_new" href='https://nosketch.korpuss.lv/#wordlist?corpname=senie_unicode&tab=advanced&wlattr=lc&wlminfreq=1&showresults=1&tts=%7B%22doc.id%22%3A%5B%22<%=param_codif%>%2F<%=book_codif%>%22%5D%2C%22language.langName%22%3A%5B%22Latvian%22%5D%7D'>vārdformu biežums</a></span>
 					</li>
 
 					<%
