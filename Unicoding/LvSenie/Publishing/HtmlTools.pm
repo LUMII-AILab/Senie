@@ -19,7 +19,7 @@ sub printHtmlDocHead
     my $outs = shift @_;
     &printInHtml("<html>\n\t<head>\n\t\t<meta charset=\"UTF-8\"/>\n", $outs);
     my $cssPath = $internalProperties->{'full ID'} eq $internalProperties->{'short ID'} ? '..' : '../..';
-    &printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/source.css\">\n", $outs);
+    &printInHtml("\t\t<link rel=\"stylesheet\" type=\"text/css\" href=\"$cssPath/../css/source.css\">\n", $outs);
     &printInHtml("\t\t<title>$fullSourceStub</title>\n", $outs);
     &printInHtml("\t</head>\n", $outs);
     &printInHtml("\t<body>\n", $outs);
