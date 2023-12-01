@@ -88,7 +88,7 @@
 			<td bgcolor="#CCFF99">
 				<ul class="liste">
 					<li>
-						<span class="code"><a href="./biblio.jsp?source=<%=param_codif%>">bibliogrāfija</a></span>
+						<span class="code"><a href="./biblio.jsp?source=<%=param_codif%>">Bibliogrāfija</a></span>
 					</li>
 
 					<%
@@ -97,17 +97,17 @@
 						if (static_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%=param_codif%>/<%=param_codif%>.html">statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%=param_codif%>/<%=param_codif%>.html">Statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
 					<li>
-						<span class="code"><a target="_new" href='https://nosketch.korpuss.lv/#wordlist?corpname=senie_unicode&tab=advanced&find=sourceWord&wlattr=sourceWord&wlicase=0&wlminfreq=1&showresults=1&tts=%7B%22doc.id%22%3A%5B%22<%=param_codif%>%22%5D%2C%22language.langName%22%3A%5B%22Latvian%22%5D%7D'>vārdformu biežums</a></span>
+						<span class="code"><a target="_new" href='https://nosketch.korpuss.lv/#wordlist?corpname=senie_unicode&tab=advanced&find=sourceWord&wlattr=sourceWord&wlicase=0&wlminfreq=1&showresults=1&tts=%7B%22doc.id%22%3A%5B%22<%=param_codif%>%22%5D%2C%22language.langName%22%3A%5B%22Latvian%22%5D%7D'>Vārdformu biežums</a></span>
 					</li>
 
 					<% if (!param_fax.equals("") && param_fax.startsWith("http")) { // FIXME: add #<book_codif %>
 					<li>
-						<span class="code"><a href="<%=param_fax%>" target="_new">oriģināla faksimils</a></span>
+						<span class="code"><a href="<%=param_fax%>" target="_new">Oriģināla faksimils</a></span>
 					</li>
 					<% } %>
 
@@ -134,7 +134,7 @@
 						while (books.next()) {
 							String book_codif = new String(books.getBytes("codificator"), "UTF-8");
 				%>
-				<p class="chapter"><%= new String(books.getBytes("name"), "UTF-8") %> (<%=book_codif%>)</p>
+				<p class="chapter"><b><%=book_codif%></b>: <i><%= new String(books.getBytes("name"), "UTF-8") %></i></p>
 				<ul class="liste">
 
 					<%
@@ -143,12 +143,12 @@
 						if (static_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.html">statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.html">Statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
 					<li>
-						<span class="code"><a target="_new" href='https://nosketch.korpuss.lv/#wordlist?corpname=senie_unicode&tab=advanced&wlattr=lc&wlminfreq=1&showresults=1&tts=%7B%22doc.id%22%3A%5B%22<%=param_codif%>%2F<%=book_codif%>%22%5D%2C%22language.langName%22%3A%5B%22Latvian%22%5D%7D'>vārdformu biežums</a></span>
+						<span class="code"><a target="_new" href='https://nosketch.korpuss.lv/#wordlist?corpname=senie_unicode&tab=advanced&wlattr=lc&wlminfreq=1&showresults=1&tts=%7B%22doc.id%22%3A%5B%22<%=param_codif%>%2F<%=book_codif%>%22%5D%2C%22language.langName%22%3A%5B%22Latvian%22%5D%7D'>Vārdformu biežums</a></span>
 					</li>
 
 					<%

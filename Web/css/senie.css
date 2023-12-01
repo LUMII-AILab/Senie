@@ -1,5 +1,7 @@
 body {
 	margin: 10px 15px 10px 15px;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 100%;
 }
 
 a {
@@ -13,10 +15,18 @@ a:hover {
 	text-decoration: none;
 }
 
+ul {
+	padding-inline-start: 20px;
+}
+
+ul li:not(:last-child) {
+	margin-bottom: 7.5px;
+}
+
 .biblio {
 	font-family: Times New Roman, serif;
 	font-weight: bold;
-	font-size: 16px;
+	font-size: 1.4em;
 	color: #336600;
 	margin:	20px 0px 20px 0px;
 }
@@ -26,12 +36,12 @@ a:hover {
 	border-bottom: solid 2px;
 	background-color: #CCFF99;
 	text-decoration: none;
+	font-size: 1.2em;
 }
 
 .chapter {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-weight: bold;
-	font-size: 15px;
+	font-size: 1.3em;
 	color: #336600;
 	margin:	20px 0px 0px 20px;
 	text-decoration: none;
@@ -39,7 +49,7 @@ a:hover {
 
 .code {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	font-weight: bold;
 	color: #447711;
 	margin:	0px 0px 0px 0px;
@@ -47,7 +57,7 @@ a:hover {
 
 .copy {
 	font-family: Verdana, Tahoma, Arial, sans-serif;
-	font-size: 11px;
+	font-size: 0.9em;
 	color: #606060;
 	margin: 0px 0px 0px 0px;
 }
@@ -58,7 +68,7 @@ a:hover {
 
 .context {
 	font-family: Times New Roman, serif;
-	font-size: 14px;
+	font-size: 1.2em;
 	color: #336600;
 	text-align: justify;
 	margin:	0px 40px 0px 40px;
@@ -76,21 +86,18 @@ a:hover {
 
 .hint {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	color: #336600;
 	margin:	0px 0px 0px 0px;
 }
 
 .hrSeparator {
-	color: #669933;
-	margin:	0px 0px 0px 0px;
-	height: 2px;
-	width: 100%;
+	border: solid 1px #669933;
 }
 
 .indic {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	font-weight: bold;
 	color: #FF6600;
 	margin:	0px 0px 0px 20px;
@@ -98,14 +105,14 @@ a:hover {
 
 .legend {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	color: #505050;
 	margin:	0px 0px 20px 20px;
 }
 
 .liste {
 	color: #505050;
-	margin: 20px 0px 20px 40px;
+	margin: 20px 20px 20px 20px;
 }
 
 .menu {
@@ -115,45 +122,44 @@ a:hover {
 
 .name {
 	font-family: Times New Roman, serif;
-	font-size: 16px;
-	font-weight: bold;
+	font-size: 1.4em;
+	font-style: italic;
 	color: #447711;
 	margin:	0px 0px 0px 0px;
 }
 
 .navicont {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	color: #336600;
 	margin:	10px 0px 20px 20px;
 }
 
 .navig {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 12px;
+	font-size: 1em;
 	text-align: right;
 	color: #EEFFBB;
-	margin: 0px 8px 0px 0px;
+	margin: 5px 10px 5px 10px;
 }
 
 .num {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
-	font-weight: bold;
+	font-size: 1.1em;
 	color: #505050;
 	margin:	0px 0px 0px 20px;
 }
 
 .pos {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	color: #336600;
 	margin:	0px 20px 0px 40px;
 }
 
 .seperator {
 	font-family: monospace;
-	font-size: 4px;
+	font-size: 0.2em;
 	margin: 0px 0px 0px 0px;
 }
 
@@ -169,7 +175,7 @@ a:hover {
 .subchap {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
 	font-weight: bold;
-	font-size: 13px;
+	font-size: 1.1em;
 	color: #336600;
 	margin:	20px 0px 0px 40px;
 	text-decoration: none;
@@ -186,7 +192,7 @@ a:hover {
 
 .text {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	color: #336600;
 	text-align: justify;
 	margin:	20px 20px 20px 20px;
@@ -195,14 +201,14 @@ a:hover {
 .title {
 	font-family: Times New Roman, serif;
 	font-weight: bold;
-	font-size: 22px;
+	font-size: 2em;
 	color: #EEFFBB;
-	margin:	0px 0px 0px 5px;
+	margin:	5px 10px 5px 10px;
 }
 
 .wf {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 14px;
+	font-size: 1.2em;
 	color: #336600;
 	margin:	0px 0px 2px 40px;
 }
@@ -211,7 +217,7 @@ a:hover {
 
 .para {
 	font-family: Tahoma, Verdana, Arial, sans-serif;
-	font-size: 13px;
+	font-size: 1.1em;
 	color: #808080;
 	margin:	10px 0px 10px 0px;
 }
