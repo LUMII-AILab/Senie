@@ -82,7 +82,7 @@
 			</td>
 		</tr>
 		<tr>
-			<td width="10%">&nbsp;</td>
+			<td width="7.5%">&nbsp;</td>
 			<td bgcolor="#CCFF99">
 
 				<!-- INTRO ------------------------------------------------------------->
@@ -100,7 +100,7 @@
 				<!-- IZVĒLNE ----------------------------------------------------------->
 				<ul class="liste">
 					<li>
-						<span class="code"><a href="./about.htm">par seno tekstu korpusu</a></span>
+						<span class="code"><a href="./about.htm">Par seno tekstu korpusu</a></span>
 					</li>
 					<!--
 					<li>
@@ -111,14 +111,13 @@
 					</li>
 					-->
 					<li>
-						<span class="code"><a href="./notations.htm">sākotnējie apzīmējumi</a></span>
+						<span class="code"><a href="./notations.htm">Sākotnējie apzīmējumi</a></span>
 					</li>
 					<li>
 						<span class="code"><a href="./unicode.htm">Unicode simboli</a></span>
 					</li>
 					<li>
-						<span class="code">saziņa:</span>
-						<a href="mailto:senie@korpuss.lv" class="hint">senie@korpuss.lv</a>
+						<span class="code">Saziņa: </span><a href="mailto:senie@korpuss.lv" class="hint">senie@korpuss.lv</a>
 					</li>
 				</ul>
 				<!---------------------------------------------------------------------->
@@ -135,14 +134,14 @@
 			</td>
 		</tr>
 		<tr>
-			<td width="10%">&nbsp;</td>
+			<td width="7.5%">&nbsp;</td>
 			<td bgcolor="#CCFF99">
 				<ul class="liste">
 					<li>
-						<span class="code"><a href="./navigation.jsp?dimension=sources">korpusa pārlūkošana</a></span>
+						<span class="code"><a href="./navigation.jsp?dimension=sources">Korpusa pārlūkošana</a></span>
 					</li>
 					<li>
-						<span class="code"><a target="_new" href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">meklēšana korpusā</a></span>
+						<span class="code"><a target="_new" href="https://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode">Meklēšana korpusā</a></span>
 					</li>
 				</ul>
 			</td>
@@ -168,7 +167,7 @@
 				npk = 0;
 			%>
 			<tr>
-				<td width="10%">&nbsp;</td>
+				<td width="7.5%">&nbsp;</td>
 				<td bgcolor="#CCFF99">
 					<table border="0" cellpadding="0" cellspacing="0" width="100%">
 					<tr>
