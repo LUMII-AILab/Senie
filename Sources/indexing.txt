@@ -162,7 +162,7 @@ LR	VLH1685	Vermehretes Lettisches Hand=buch	nezināms	_	1685	17	Garīgie teksti	
 LR	VLH1685_Cat	Der kleine Catechismus, 1685	nezināms	_	1685	17	Garīgie teksti	katehisms	FALSE
 LR	VLH1685_Sal	Die Sprüche Salomonis, 1685	nezināms	_	1685	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
 LR	VLH1685_Syr	Das Hauß=Zucht=und Lehr=Buch Jesus Syrach, 1685	nezināms	_	1685	17	Garīgie teksti	Bībele; apokrifi	FALSE
-LR	Witt1696_MMID	Man man ir Deews	Mihaels Vitenburgs	_	1696	17	Laicīgie teksti	gadījuma dzeja	FALSE
+LR	Witt1696_MMID	Man man ir Deews	Mihaēls Vitenburgs	_	1696	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Witt1702_PAN	Ta panesama Auna=Nasta apdohmata	Mihaēls Vitenburgs	_	1702	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	ZP1685	Semmiga Paklannischana	nezināms	_	1685	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Zv1638_VAR	[Ziņu sniedzēja zvērests Vidzemes arklu revīzijā]	nezināms	_	1638	17	Laicīgie teksti	lietišķie teksti; zvēresti	TRUE
@@ -173,3 +173,6 @@ LR	Zv1689_Kan	[Kaņepāju kulstītāju amata zvērests]	nezināms	_	1689	17	Laic
 LR	Zv1689_Salsnes	[Sālsnesēju amata zvērests]	nezināms	_	1689	17	Laicīgie teksti	lietišķie teksti; zvēresti	TRUE
 LR	Zv1698_Lig	[Liģeru amata zvērests]	nezināms	_	1698	17	Laicīgie teksti	lietišķie teksti; zvēresti	TRUE
 LR	Klein1672_LPG	Lattweescho Pataro=Ghramata	Heinrihs Kleinšmits	_	1672	17	Garīgie teksti	lūgšanas	FALSE
+LR	LPDD1704	Luhgschanas preeksch Deewa draudses	nezināms		1704	18	Garīgie teksti	lūgšanas	FALSE
+LR	UKG1693	Unterschiedliche Kirchen=Gebete	nezināms		1693	17	Garīgie teksti	lūgšanas	FALSE
+LR	UKG1696	Unterschiedliche Kirchen=Gebete	nezināms		1696	17	Garīgie teksti	lūgšanas	FALSE
