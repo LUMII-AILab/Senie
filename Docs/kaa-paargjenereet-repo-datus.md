@@ -166,7 +166,7 @@ Komandu piemēri apkopoti `runFileCollector-sample.bat`, pa vidu starp dažādā
 2. Pārģenerē atpārnesumotos bezizlaidumu failus ar komandām (sk. `runDehyphenator-sample.bat`)
 ```
 perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data cp1257 0 _full
-perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 cp1257 0 _full 
+perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 cp1257 0 _full
 perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-JT1685 cp1257 0 _full
 perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 cp1257 0 _full
 ```
