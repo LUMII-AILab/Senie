@@ -143,7 +143,7 @@ Mainītos failus saliek atbilstošajās `Sources` mapēs pirms tālākas darboš
 6. `result-html` saturu pārkopē uz `Web/static`
 
 
-## Vajag atjaunināt statistikas `Web` mapītē
+## Vajag atjaunināt statistikas `Web` mapītē (NOVECOJIS)
 
 1. Pārģenerē inverso vārdnīcu - mapītē `Unicoding` ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectNested); collectNested(@ARGV)" inverse`
