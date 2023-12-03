@@ -1,0 +1,73 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Stobbe1796_PTK">
+     <sourceDesc>
+      <author>Matiāss Stobe</author>
+      <title>Pee ta Kappa ta zeeniga G. W. Stendera</title>
+      <date>1796</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="public">Laicīgie teksti; gadījuma dzeja</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="Stobbe1796_PTK_1_1"/>
+        <div type="Language" lang="Latvian">pie ta kapa</div>
+       <lb id="Stobbe1796_PTK_1_2"/>
+        <div type="Language" lang="Latvian">ta cieniga</div>
+       <lb id="Stobbe1796_PTK_1_3"/>
+        <div type="Language" lang="Latvian">g. v. stendera.</div>
+       <lb id="Stobbe1796_PTK_1_4"/>
+        <div type="Language" lang="Latvian">nelaika sērpiles un sonakstes</div>
+       <lb id="Stobbe1796_PTK_1_5"/>
+        <div type="Language" lang="Latvian">baznickunga.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Stobbe1796_PTK_1_6"/>
+        <div type="Language" lang="Latvian">scho vārgu pasaul atstājis,</div>
+       <lb id="Stobbe1796_PTK_1_7"/>
+        <div type="Language" lang="Latvian">pie debestēva nogājis,</div>
+       <lb id="Stobbe1796_PTK_1_8"/>
+        <div type="Language" lang="Latvian">kas ilgu laiku kurzemniekiem,</div>
+       <lb id="Stobbe1796_PTK_1_9"/>
+        <div type="Language" lang="Latvian">ar daudz neizteicamiem priekiem</div>
+       <lb id="Stobbe1796_PTK_1_10"/>
+        <div type="Language" lang="Latvian">ak cik daudz labu darijis!</div>
+       <lb id="Stobbe1796_PTK_1_11"/>
+        <div type="Language" lang="Latvian">mīļš vecais stenders aizmidzis -</div>
+       <lb id="Stobbe1796_PTK_1_12"/>
+        <div type="Language" lang="Latvian">viņš tēvu zemi mīļodams,</div>
+       <lb id="Stobbe1796_PTK_1_13"/>
+        <div type="Language" lang="Latvian">tai draudzei dieva vārdu stāstidams</div>
+       <lb id="Stobbe1796_PTK_1_14"/>
+        <div type="Language" lang="Latvian">mūs kurzemniekus mācidams:</div>
+       <lb id="Stobbe1796_PTK_1_15"/>
+        <div type="Language" lang="Latvian">kas augsta svēta gudriba,</div>
+       <lb id="Stobbe1796_PTK_1_16"/>
+        <div type="Language" lang="Latvian">kas skaidra jauka valoda,</div>
+       <lb id="Stobbe1796_PTK_1_17"/>
+        <div type="Language" lang="Latvian">kas salda mīļa dziesmiņa;</div>
+       <lb id="Stobbe1796_PTK_1_18"/>
+        <div type="Language" lang="Latvian">ar sirmu galviņu, pēc astoņdesmits gadiem</div>
+       <lb id="Stobbe1796_PTK_1_19"/>
+        <div type="Language" lang="Latvian">mūs atstājis - pie tēviem, draugiem, radiem,</div>
+       <lb id="Stobbe1796_PTK_1_20"/>
+        <div type="Language" lang="Latvian">nu dieva klēpī mīt -</div>
+       <lb id="Stobbe1796_PTK_1_21"/>
+        <div type="Language" lang="Latvian">gan šeitan daža asariņa krīt!</div>
+       <lb id="Stobbe1796_PTK_1_22"/>
+        <div type="Language" lang="Latvian">tur katrais kurzemnieks tam lielu godu dos,</div>
+       <lb id="Stobbe1796_PTK_1_23"/>
+        <div type="Language" lang="Latvian">un pateicibas pilns vēl rokas pabučos -</div>
+       <lb id="Stobbe1796_PTK_1_24"/>
+        <div type="Language" lang="Latvian">ak kādu svētu prieku jūt,</div>
+       <lb id="Stobbe1796_PTK_1_25"/>
+        <div type="Language" lang="Latvian">kam gods ir dvēsels glābeis būt! -</div>
+      </div>
+    </body>
+   </text>
+  </TEI>
