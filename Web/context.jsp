@@ -102,10 +102,13 @@
 			ResultSet text = null;
 			String content = "";
 		%>
+		
 
 		<tr>
 			<td width="10%">&nbsp;</td>
 			<td bgcolor="#CCFF99"><br>
+			
+			<p>&nbsp;<em style="color:red;">Šī rīka saturs šobrīd ir novecojies un var neatbilst korpusa jaunākajai versijai!</em></p>
 
 		<%
 			if (param_pos.equals("GNP")) {
