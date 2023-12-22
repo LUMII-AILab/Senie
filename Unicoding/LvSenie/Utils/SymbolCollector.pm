@@ -49,7 +49,7 @@ END
     # Get general file info
     my $properties = getSourceProperties("$dirName/$fileName", $encoding);
     readFileNotSmart("$dirName/$fileName", $properties->{'full ID'}, $encoding);
-    printResult($properties->{'short ID'}."_symbols.txt", $properties->{'short ID'}."_symbols.html");
+    printResult($properties->{'short ID'}."_symbols.txt", 0, $properties->{'short ID'}."_symbols.htm");
     say "Done!";
 }
 
@@ -166,10 +166,18 @@ sub printResult
     my $fileNameSmallHtml = shift @_;
     my $outTxt = IO::File->new("$fileNameTxt", "> :encoding(UTF-8)")
         or die "Could not open file $fileNameTxt: $!";
-    my $outBigHtml = IO::File->new("$fileNameBigHtml", "> :encoding(UTF-8)")
-        or die "Could not open file $fileNameBigHtml: $!";
-    my $outSmallHtml = IO::File->new("$fileNameSmallHtml", "> :encoding(UTF-8)")
-        or die "Could not open file $fileNameSmallHtml: $!";
+    my $outBigHtml = 0;
+    if ($fileNameBigHtml)
+    {
+        $outBigHtml = IO::File->new("$fileNameBigHtml", "> :encoding(UTF-8)")
+            or die "Could not open file $fileNameBigHtml: $!";
+    }
+    my $outSmallHtml = 0;
+    if ($fileNameSmallHtml)
+    {
+        $outSmallHtml = IO::File->new("$fileNameSmallHtml", "> :encoding(UTF-8)")
+            or die "Could not open file $fileNameSmallHtml: $!";
+    }
 
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<!doctype html>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<html>');
@@ -180,8 +188,8 @@ sub printResult
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' </head>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' <body style="font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;">');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <table class="symbol-table">');
-    say $outBigHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>";
-    say $outSmallHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th></tr>";
+    say $outBigHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>" if $outSmallHtml;
+    say $outSmallHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th></tr>" if $outSmallHtml;
 
 
     for my $key (sort {$symbolCounter->{$b}->[0] <=> $symbolCounter->{$a}->[0]} (keys %$symbolCounter))
@@ -203,8 +211,8 @@ sub printResult
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  </table>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' </body>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '</html>');
-    $outBigHtml->close;
-    $outSmallHtml->close;
+    $outBigHtml->close if $outBigHtml;
+    $outSmallHtml->close if $outSmallHtml;
     $outTxt->close;
 }
 
@@ -212,8 +220,8 @@ sub _sayBigAndSmall
 {
     my $outBigHtml = shift @_;
     my $outSmallHtml = shift @_;
-    say $outBigHtml @_;
-    say $outSmallHtml @_;
+    say $outBigHtml @_ if $outBigHtml;
+    say $outSmallHtml @_ if $outSmallHtml;
 }
 
 1;
