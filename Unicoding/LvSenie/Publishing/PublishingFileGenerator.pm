@@ -283,7 +283,7 @@ END
 			if($line =~ /^\s*\@\@((?:\d+\.)+)(\p{Z}+)(.*$)/ or
 				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}+)(.*$)/)
 			{
-				$line = "$3";
+				$line = "$1$2$3";
 				&_start_verse($internalProperties, $status, $counters, $outs, $1,);
 			}
 
