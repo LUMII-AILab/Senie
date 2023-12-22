@@ -106,7 +106,7 @@ END
         }
         #$outForDir->close();
     }
-    printResult("$totalResultDirName/unicode_symbols.txt", "$totalResultDirName/unicode_symbols.html");
+    printResult("$totalResultDirName/unicode_symbols.txt", "$totalResultDirName/unicode_full.htm", "$totalResultDirName/unicode.htm");
     if ($baddies) {
         say "Processing finished, $baddies of $all files failed!";
     }
@@ -162,22 +162,26 @@ sub readFileNotSmart
 sub printResult
 {
     my $fileNameTxt = shift @_;
-    my $fileNameHtml = shift @_;
+    my $fileNameBigHtml = shift @_;
+    my $fileNameSmallHtml = shift @_;
     my $outTxt = IO::File->new("$fileNameTxt", "> :encoding(UTF-8)")
         or die "Could not open file $fileNameTxt: $!";
-    my $outHtml = IO::File->new("$fileNameHtml", "> :encoding(UTF-8)")
-        or die "Could not open file $fileNameHtml: $!";
+    my $outBigHtml = IO::File->new("$fileNameBigHtml", "> :encoding(UTF-8)")
+        or die "Could not open file $fileNameBigHtml: $!";
+    my $outSmallHtml = IO::File->new("$fileNameSmallHtml", "> :encoding(UTF-8)")
+        or die "Could not open file $fileNameSmallHtml: $!";
 
-    say $outHtml '<!doctype html>';
-    say $outHtml '<html>';
-    say $outHtml ' <head>';
-    say $outHtml '  <meta http-equiv="content-type" content="text/html; charset=UTF-8">';
-    say $outHtml '  <link rel="stylesheet" type="text/css" href="../css/senie.css">';
-    say $outHtml '  <title>Senie</title>';
-    say $outHtml ' </head>';
-    say $outHtml ' <body style="font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;">';
-    say $outHtml '  <table class="symbol-table">';
-    say $outHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>";
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<!doctype html>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<html>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' <head>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <meta http-equiv="content-type" content="text/html; charset=UTF-8">');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <link rel="stylesheet" type="text/css" href="../css/senie.css">');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <title>Senie</title>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' </head>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' <body style="font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;">');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <table class="symbol-table">');
+    say $outBigHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>";
+    say $outSmallHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th></tr>";
 
 
     for my $key (sort {$symbolCounter->{$b}->[0] <=> $symbolCounter->{$a}->[0]} (keys %$symbolCounter))
@@ -192,14 +196,24 @@ sub printResult
         #my $codePoints = Unicode::Escape::escape($key);
         my $codePoints = sprintf("%vX", $key);
         say $outTxt "$key\t$count\t$codePoints\t$sources";
-        say $outHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td><td style=\"font-size:smaller\">$sources</td></tr>";
+        say $outBigHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td><td style=\"font-size:smaller\">$sources</td></tr>";
+        say $outSmallHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td></tr>";
     }
 
-    say $outHtml '  </table>';
-    say $outHtml ' </body>';
-    say $outHtml '</html>';
-    $outHtml->close;
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  </table>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' </body>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '</html>');
+    $outBigHtml->close;
+    $outSmallHtml->close;
     $outTxt->close;
+}
+
+sub _sayBigAndSmall
+{
+    my $outBigHtml = shift @_;
+    my $outSmallHtml = shift @_;
+    say $outBigHtml @_;
+    say $outSmallHtml @_;
 }
 
 1;

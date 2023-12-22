@@ -114,7 +114,7 @@
 						<span class="code"><a href="./notations.htm">Sākotnējie apzīmējumi</a></span>
 					</li>
 					<li>
-						<span class="code"><a href="./unicode.htm">Unicode simboli</a></span>
+						<span class="code"><a href="./unicode.htm">Unicode simboli</a> (<a href="./unicode_full.htm">ar avotiem</a>)</span>
 					</li>
 					<li>
 						<span class="code">Saziņa: </span><a href="mailto:senie@korpuss.lv" class="hint">senie@korpuss.lv</a>
