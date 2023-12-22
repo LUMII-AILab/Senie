@@ -13,7 +13,7 @@ for f in os.listdir(dir):
 		continue
 
 	name = f[0:f.index("_Unicode.txt")]
-	html = open(os.path.join(dir, name + ".html"), "w")
+	html = open(os.path.join(dir, name + ".htm"), "w")
 
 	html.write("<html>")
 	html.write("<head>")

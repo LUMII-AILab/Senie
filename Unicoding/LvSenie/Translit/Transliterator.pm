@@ -21,6 +21,7 @@ our @EXPORT_OK = qw(transformFile transformDir transliterateString);
 # If this is nonzero, print debug info un lines matching something in this array.
 our @debugLines = ();
 #our @debugLines = (
+#	'Dſeŗŗeet',
 #	'likt klaht ſiſt un tahs Neſahles, kas pee paẜchahm',
 #	'ẜataiſiht, kà Semmes=Ahboļus,',
 #	'ẜmalku Stellaſchiņņu buhs ustaiſiht, no',

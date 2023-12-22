@@ -143,7 +143,7 @@ sub processFile
 
 Script for transforming a single SENIE source to Sketch-appropriate vertical
 format and/or html for senie.korpuss.lv. Source file name must end with .txt.
-Output file name is formed as filename stub + .vert, .html, or .tei.xml.
+Output file name is formed as filename stub + .vert, .htm, or .tei.xml.
 It is expected that file starts with lines \@a{author name} and
 \@z{source code}.
 
@@ -370,8 +370,8 @@ sub _initialize_outputs
 	{
 		my $htmlFileName = $lowerSourceId;
 		$htmlFileName =~ s/_Unicode//;
-		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/$htmlFileNameStub.html", "> :encoding(UTF-8)")
-			or die "Could not open file $dirName/res/$lowerSourceId/$htmlFileNameStub.html: $!";
+		$outs->{'html'} = IO::File->new("$dirName/res/$lowerSourceId/$htmlFileNameStub.htm", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/$htmlFileNameStub.htm: $!";
 	}
 	printHtmlDocHead($fullSourceStub, $internalProperties, $outs);
 
