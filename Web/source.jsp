@@ -113,12 +113,12 @@
 
 					<%
 						String utf8_path = config.getServletContext().getRealPath("/") + "unicode/";
-						File utf8_file = new File(utf8_path + param_codif + "/" + param_codif + ".html");
+						File utf8_file = new File(utf8_path + param_codif + "/" + param_codif + ".htm");
 
 						if (utf8_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./unicode/<%=param_codif%>/<%=param_codif%>.html">Unicode versija</a></span>
+						<span class="code"><a href="./unicode/<%=param_codif%>/<%=param_codif%>.htm">Unicode versija</a></span>
 					</li>
 					<% } %>
 
