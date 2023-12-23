@@ -92,12 +92,12 @@
 					</li>
 
 					<%
-						static_file = new File(static_path + param_codif + "/" + param_codif + ".html");
+						static_file = new File(static_path + param_codif + "/" + param_codif + ".htm");
 
 						if (static_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%=param_codif%>/<%=param_codif%>.html">Statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%=param_codif%>/<%=param_codif%>.htm">Statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
