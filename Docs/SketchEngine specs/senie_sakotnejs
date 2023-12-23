@@ -37,6 +37,9 @@ STRUCTURE doc {
 	ATTRIBUTE title {
 		LABEL "Dokumenta nosaukums"
 	}
+	ATTRIBUTE collection {
+		LABEL "Kolekcija"
+	}
 	ATTRIBUTE year {
 		LABEL "Gads"
 	}

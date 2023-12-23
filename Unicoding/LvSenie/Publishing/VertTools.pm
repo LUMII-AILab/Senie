@@ -26,6 +26,7 @@ sub printVertDocHead
     $urlPart =~ s/[\/]+/#/;
     &printInVerts("<doc id=\"$fullSourceStub\"", $outs);
     &printInVerts(" title=\"${\$externalProperties->{'short name'}}\"", $outs) if ($externalProperties->{'short name'});
+    &printInVerts(" collection=\"${\$internalProperties->{'collection'}}\"", $outs) if ($internalProperties->{'collection'});
     &printInVerts(" year=\"${\$externalProperties->{'year'}}\"", $outs) if ($externalProperties->{'year'});
     &printInVerts(" century=\"${\$externalProperties->{'century'}}\"", $outs) if ($externalProperties->{'century'});
     &printInVerts(" genre=\"${\$externalProperties->{'genre'}}\"", $outs) if ($externalProperties->{'genre'});
