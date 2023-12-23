@@ -138,12 +138,12 @@
 				<ul class="liste">
 
 					<%
-						static_file = new File(static_path + param_codif + "/" + book_codif + "/" + book_codif + ".html");
+						static_file = new File(static_path + param_codif + "/" + book_codif + "/" + book_codif + ".htm");
 
 						if (static_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./static/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.html">Statisks indekss un teksts</a></span>
+						<span class="code"><a href="./static/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.htm">Statisks indekss un teksts</a></span>
 					</li>
 					<% } %>
 
@@ -152,11 +152,11 @@
 					</li>
 
 					<%
-						utf8_file = new File(utf8_path + param_codif + "/" + book_codif + "/" + book_codif + ".html");
+						utf8_file = new File(utf8_path + param_codif + "/" + book_codif + "/" + book_codif + ".htm");
 						if (utf8_file.exists()) {
 					%>
 					<li>
-						<span class="code"><a href="./unicode/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.html">Unicode versija</a></span>
+						<span class="code"><a href="./unicode/<%=param_codif%>/<%=book_codif%>/<%=book_codif%>.htm">Unicode versija</a></span>
 					</li>
 					<% } %>
 				</ul>
