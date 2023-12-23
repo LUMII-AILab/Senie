@@ -23,13 +23,13 @@ public class HtmlWrapperPrinter {
         this.source = shortSourceId;
         //if (collection == null || collection.trim().isEmpty()) collection = shortSourceId;
         //reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
-        html = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + ".html"), "Cp1257"));
+        html = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + ".htm"), "Cp1257"));
         titleHtm = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(shortSourceId + "_title.htm"), StandardCharsets.UTF_8));
         //log = new Logger(source, "TEKSTA MARĶĒŠANA UN GRĀMATZĪMJU SALIKŠANA", true);
     }
 
     /**
-     * Print file named "source.html".
+     * Print file named "source.htm".
      * @throws IOException
      */
     public void writeHtml() throws IOException {
