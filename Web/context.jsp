@@ -62,9 +62,9 @@
 			String param_row = request.getParameter("row");
 			String param_wf = request.getParameter("wordform");
 
-			if (param_wf != null) {
-				param_wf = new String(request.getParameter("wordform").getBytes("8859_1"), "UTF-8");
-			}
+			//if (param_wf != null) {
+			//	param_wf = new String(request.getParameter("wordform").getBytes("8859_1"), "UTF-8");
+			//}
 
 			Properties db_access = new Properties();
 			String conf = config.getServletContext().getRealPath("/") + "WEB-INF/db.conf";
@@ -81,33 +81,33 @@
 			PreparedStatement selGNP = con.prepareStatement(
 				"SELECT s.codificator AS src, b.codificator AS book, c.chapter, c.verse, c.content "+
 				"FROM gnp_contexts c "+
-				"LEFT JOIN sources s ON c.source = s.id "+
-				"LEFT JOIN books b ON c.book = b.id "+
+				"LEFT JOIN sources s ON c.source = s.codificator "+
+				"LEFT JOIN books b ON c.book = b.codificator "+
 				"WHERE (s.codificator = ?) AND (b.codificator = ?) AND (c.chapter = ?) AND (c.verse = ?);"
 			);
 			PreparedStatement selLR = con.prepareStatement(
 				"SELECT c.row, c.content "+
 				"FROM lr_contexts c "+
-				"LEFT JOIN sources s ON c.source = s.id "+
+				"LEFT JOIN sources s ON c.source = s.codificator "+
 				"WHERE (s.codificator = ?) AND (c.page = ?) "+
 				"ORDER BY c.row;"
 			);
 			PreparedStatement selP = con.prepareStatement(
 				"SELECT s.codificator AS src, c.verse, c.content "+
 				"FROM p_contexts c "+
-				"LEFT JOIN sources s ON c.source = s.id "+
+				"LEFT JOIN sources s ON c.source = s.codificator "+
 				"WHERE (s.codificator = ?) AND (c.verse = ?);"
 			);
 
 			ResultSet text = null;
 			String content = "";
 		%>
-		
+
 
 		<tr>
 			<td width="10%">&nbsp;</td>
 			<td bgcolor="#CCFF99"><br>
-			
+
 			<p>&nbsp;<em style="color:red;">Šī rīka saturs šobrīd ir novecojies un var neatbilst korpusa jaunākajai versijai!</em></p>
 
 		<%

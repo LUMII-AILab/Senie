@@ -57,12 +57,12 @@
 			String param_book = request.getParameter("book");
 			String param_chap = request.getParameter("chapter");
 
-			if (param_auth != null) {
-				param_auth = new String(request.getParameter("author").getBytes("8859_1"), "UTF-8");
-			}
-			if (param_cat != null) {
-				param_cat = new String(request.getParameter("category").getBytes("8859_1"), "UTF-8");
-			}
+			//if (param_auth != null) {
+			//	param_auth = new String(request.getParameter("author").getBytes("8859_1"), "UTF-8");
+			//}
+			//if (param_cat != null) {
+			//	param_cat = new String(request.getParameter("category").getBytes("8859_1"), "UTF-8");
+			//}
 
 			Properties db_access = new Properties();
 			String conf = config.getServletContext().getRealPath("/") + File.separator + "WEB-INF" + File.separator + "db.conf";
@@ -81,7 +81,7 @@
 			);
 			PreparedStatement selAuthSrc = con.prepareStatement(
 				"SELECT s.codificator, s.name, s.structure FROM sources s "+
-				"LEFT JOIN coopers c ON s.id = c.source "+
+				"LEFT JOIN coopers c ON s.codificator = c.source "+
 				"LEFT JOIN authors a ON c.author = a.id "+
 				"WHERE a.name = ? AND s.active = '1' ORDER BY s.codificator;"
 			);
@@ -92,29 +92,29 @@
 			);
 			PreparedStatement selBooks = con.prepareStatement(
 				"SELECT b.codificator, b.name FROM books b "+
-				"LEFT JOIN sources s ON b.source = s.id "+
+				"LEFT JOIN sources s ON b.source = s.codificator "+
 				"WHERE s.codificator = ?;"
 			);
 			PreparedStatement selChaps = con.prepareStatement(
 				"SELECT DISTINCT c.chapter FROM gnp_contexts c "+
-				"LEFT JOIN sources s ON c.source = s.id "+
-				"LEFT JOIN books b ON c.book = b.id "+
+				"LEFT JOIN sources s ON c.source = s.codificator "+
+				"LEFT JOIN books b ON c.book = b.codificator "+
 				"WHERE s.codificator = ? AND b.codificator = ? ORDER BY c.chapter;"
 			);
 			PreparedStatement selVersesGNP = con.prepareStatement(
 				"SELECT DISTINCT c.verse FROM gnp_contexts c "+
-				"LEFT JOIN sources s ON c.source = s.id "+
-				"LEFT JOIN books b ON c.book = b.id "+
+				"LEFT JOIN sources s ON c.source = s.codificator "+
+				"LEFT JOIN books b ON c.book = b.codificator "+
 				"WHERE s.codificator = ? AND b.codificator = ? AND c.chapter = ? ORDER BY c.verse;"
 			);
 			PreparedStatement selVersesP = con.prepareStatement(
 				"SELECT DISTINCT c.verse FROM p_contexts c "+
-				"LEFT JOIN sources s ON c.source = s.id "+
+				"LEFT JOIN sources s ON c.source = s.codificator "+
 				"WHERE s.codificator = ?;"
 			);
 			PreparedStatement selPages = con.prepareStatement(
 				"SELECT DISTINCT c.page FROM lr_contexts c "+
-				"LEFT JOIN sources s ON c.source = s.id "+
+				"LEFT JOIN sources s ON c.source = s.codificator "+
 				"WHERE s.codificator = ?;"
 			);
 			PreparedStatement selAuthors = con.prepareStatement(
