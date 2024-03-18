@@ -2,7 +2,7 @@
 
 - Avotam jābūt Windows (Baltic) 1257 kodējumā.
 - Avota nosaukums satur tikai avota kodu un paplašinājumu `.txt`.
-- Metadatu tabulā jāieraksta atbilstošie metadati (saite pieejama _Google Drive_ projekta mapē).
+- Metadatu tabulā jāieraksta atbilstošie metadati (saite pieejama _Google Drive_ projekta mapē, rediģējot jāatceras izņemt ķeksi no pēdējās kolonnas).
 
 
 # Jauna unikoda avota pievienošana
@@ -11,7 +11,7 @@ Avotu vai nu ģenerē no pirmsunikoda faila un attiecīgās tabulas, vai arī pi
 
 - Avotam jābūt UTF-8 (without BOM) kodējumā.
 - Avota nosaukums satur avota kodu un `_Unicode.txt`.
-- Metadatu tabulā jāieraksta atbilstošie metadati (saite pieejama _Google Drive_ projekta mapē).
+- Metadatu tabulā jāieraksta atbilstošie metadati (saite pieejama _Google Drive_ projekta mapē, rediģējot jāatceras izņemt ķeksi no pēdējās kolonnas).
 
 # Citas tehniskas piezīmes
 ## Teksta redaktori
