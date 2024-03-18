@@ -1,4 +1,4 @@
-Vârdformu skaits:	1522
+Vârdformu skaits:	1525
 Vârdlietojumu skaits:	4552
 
 
@@ -334,7 +334,6 @@ Vârdlietojumu skaits:	4552
 2	dewette
 2	dewi§kes
 2	doetcz
-2	do§chen
 2	doud§ems
 2	dri§e
 2	droud§ibes
@@ -358,7 +357,6 @@ Vârdlietojumu skaits:	4552
 2	giem
 2	girr
 2	godibe
-2	grecenekems
 2	grekewaidi§chen
 2	grekois
 2	gribbet
@@ -407,7 +405,6 @@ Vârdlietojumu skaits:	4552
 2	oux§te
 2	pallaidi§chen
 2	pallixs
-2	pammaci§chen
 2	pamme§§chen
 2	pammet
 2	paprate
@@ -598,7 +595,7 @@ Vârdlietojumu skaits:	4552
 1	cani§ium
 1	cargaet
 1	ca§cit
-1	catechi§mus{chtechi§mus}
+1	catechi§mus{chtechi§ mus}
 1	catoli§ches
 1	cauwe
 1	ceck
@@ -705,6 +702,8 @@ Vârdlietojumu skaits:	4552
 1	doma§chem
 1	domaschen
 1	doma§chennems
+1	do§chen
+1	do§chen{do §chen}
 1	dote
 1	doud§adige
 1	doud§es
@@ -808,6 +807,8 @@ Vârdlietojumu skaits:	4552
 1	grecenek
 1	grecenekam
 1	greceneke
+1	grecenekems
+1	grecenekems{uekems}
 1	grecenekes
 1	greciks
 1	greke{gre ke}
@@ -1032,7 +1033,7 @@ Vârdlietojumu skaits:	4552
 1	negrib
 1	neisbek§chen
 1	nelaide
-1	nemacigems{nemaci gems}
+1	nemacigems{ nemaci gems}
 1	nenod§ed§ige
 1	neno§ed§ige
 1	neparrei§e
@@ -1107,6 +1108,8 @@ Vârdlietojumu skaits:	4552
 1	palliekt
 1	pallikt
 1	pamettam
+1	pammaci§chen
+1	pammaci§chen{pam maci§chen}
 1	pammacitam
 1	pammaciz
 1	pammette
