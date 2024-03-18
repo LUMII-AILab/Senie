@@ -16,7 +16,7 @@ GNP	Apokr1689/Tob	Tobijus Grahmata	Ernsts Gliks	3	1689	17	Garīgie teksti	Bībel
 LR	Baum1699_LVV	Labbajs wehleschanas Wahrds	Andreass Baumans	_	1699	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Baumb1795_WLWJD	Wezza Leejes Wihra Jahņu Dseesma	Johans Kristofs Baumbahs	_	1795	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Bluhm1791_MWU	Muhs' wissu Uppurs	Oto Johans Blūms	_	1791	18	Laicīgie teksti	gadījuma dzeja	FALSE
-LR	Br1520_PN	[Bruno tēvreize]	Bruno	_	1520	16	Garīgie teksti	tēvreize	FALSE
+LR	Br1520_PN	[Bruno tēvreize]	Bruno	_	1520	16	Garīgie teksti	tēvreizes	FALSE
 LR	Bruehn1756_DLWS	Dseesma Latweescha Walloda sarakstita	Mihaels Ernsts Brīns	_	1756	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	CC1585	Catechismvs Catholicorum	nezināms	_	1585	16	Garīgie teksti	katehisms	FALSE
 LR	CekFJ1790_KD	Kartoppelu Dahrs	Francs Johans Cekels	_	1790	18	Laicīgie teksti	padomu grāmata	FALSE
@@ -32,14 +32,14 @@ LR	Ench1615	Enchiridion, 1615	nezināms	_	1615	17	Garīgie teksti	katehisms	FALS
 LR	EvEp1587	Euangelia vnd Episteln, 1587	nezināms	_	1587	16	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 LR	EvEp1615	Euangelia vnd Episteln, 1615	nezināms	_	1615	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 LR	EvTA1753	Evangelia Toto Anno	nezināms	_	1753	18	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-LR	Fuer1650_70_1ms	Lettisches und Teutsches Wörterbuch	Kristofers Fīrekers	_	1650_70	17	Vārdnīcas	_	TRUE
-LR	Fuer1650_70_2ms	Lettisch-deutsches Wörterbuch	Kristofers Fīrekers	_	1650_70	17	Vārdnīcas	_	TRUE
+LR	Fuer1650_70_1ms	Lettisches und Teutsches Wörterbuch	Kristofs Fīrekers	_	1650_70	17	Vārdnīcas	_	TRUE
+LR	Fuer1650_70_2ms	Lettisch-deutsches Wörterbuch	Kristofs Fīrekers	_	1650_70	17	Vārdnīcas	_	TRUE
 LR	Fuhr1690_LL	Laimiga Lauliba	Heinrihs Fūrmans	_	1690	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	GD_1698	Gohda=Dseesma	nezināms	_	1698	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Gis1507_PN	[Gisberta tēvreize]	Nikolajs Gisberts	_	1507	16	Garīgie teksti	tēvreizes	FALSE
 LR	Glueck1699_SBM	Swehta Behrnu=Mahziba	Ernsts Gliks	_	1699	17	Garīgie teksti	katehisms	FALSE
 LR	Gr1520_PN	[Grūnava tēvreize]	Simons Grūnavs	_	1520	16	Garīgie teksti	tēvreizes	FALSE
-LR	Hag1790_IM	Ihsa Mahziba Preeksch Latweescheem	Nīkolauss Kristofers Hāgemeisters	_	1790	18	Laicīgie teksti	padomu grāmata	FALSE
+LR	Hag1790_IM	Ihsa Mahziba Preeksch Latweescheem	Nikolauss Kristofers Hāgemeisters	_	1790	18	Laicīgie teksti	padomu grāmata	FALSE
 LR	Has1550_PN	[Hazentētera tēvreize]	Johans Hazentēters	_	1550	16	Garīgie teksti	tēvreizes	FALSE
 _	JT1685	Tas Jauns Testaments	Ernsts Gliks	_	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 GNP	JT1685/1J	Jahņa ta Apustuļa pirma Grahmata uhs wisseem rakstita	Ernsts Gliks	21	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
@@ -75,9 +75,9 @@ GNP	JT1685/Tit	Pahwila ta Apustuļa Grahmata uhs Titu rakstita	Ernsts Gliks	17	1
 LR	Laz1557_PN	[Lācija tēvreize]	Volfgangs Lācijs	_	1557	16	Garīgie teksti	tēvreizes	FALSE
 LR	LGL1685_K1	Lettische Geistliche Lieder und Collecten	nezināms	_	1685	17	Garīgie teksti	dziesmas	FALSE
 LR	LGL1685_V5	Lettische Geistliche Lieder Und Psalmen	nezināms	_	1685	17	Garīgie teksti	dziesmas	FALSE
-LR	Lod1775_SEAPP	Spreddiķis pee Eeswehtischanas	Martīns Gotlībs Agapetuss Loders	_	1775	18	Garīgie teksti	sprediķi	FALSE
-LR	Lod1778_WTMD	Wahrdi tahs muhschigas dsihwoschanas	Martīns Gotlībs Agapetuss Loders	_	1778	18	Garīgie teksti	katehisms	FALSE
-LR	Lop1800_SDLS	Sarunnaschanas, starp diweem Latwiskeem Semneekem	J. J. Lopenove	_	1800	19	Laicīgie teksti	padomu grāmata	FALSE
+LR	Lod1775_SEAPP	Spreddiķis pee Eeswehtischanas	Martins Gotlībs Agapetuss Loders	_	1775	18	Garīgie teksti	sprediķi	FALSE
+LR	Lod1778_WTMD	Wahrdi tahs muhschigas dsihwoschanas	Martins Gotlībs Agapetuss Loders	_	1778	18	Garīgie teksti	katehisms	FALSE
+LR	Lop1800_SDLS	Sarunnaschanas, starp diweem Latwiskeem Semneekem	Johans Justins Lopenove	_	1800	19	Laicīgie teksti	padomu grāmata	FALSE
 LR	LS1625	[Linaudēju šrāga]	nezināms	_	1625	17	Laicīgie teksti	lietišķie teksti	TRUE
 LR	Manc1631_Cat	Der kleine Catechismus, 1631	Georgs Mancelis	_	1631	17	Garīgie teksti	katehisms	FALSE
 LR	Manc1631_LGL	Lettische geistliche Lieder vnd Psalmen, 1631	Georgs Mancelis	_	1631	17	Garīgie teksti	dziesmas	FALSE
@@ -109,7 +109,7 @@ LR	StendAJ1790_LSMP	Lustesspehle no Semmneeka kas par Muischneeku tappe pahrwehr
 LR	StendAJ1793_JGW	Jauna=Gadda Wehleschanas, 1793	Aleksandrs Johans Stenders	_	1793	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	StendGF1781_JGW	Jauna Gadda Wehleschanas, 1781	Gothards Frīdrihs Stenders	_	1781	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	StendGF1789_SL	Siņģu Lustes	Gothards Frīdrihs Stenders	_	1789	18	Laicīgie teksti	dzeja	FALSE
-LR	Stobbe1796_PTK	Pee ta Kappa ta zeeniga G. W. Stendera	Matiāss Stobe	_	1796	18	Laicīgie teksti	gadījuma dzeja	FALSE
+LR	Stobbe1796_PTK	Pee ta Kappa ta zeeniga G. W. Stendera	Matiass Stobe	_	1796	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Sulc1764_ARMST	Aiskrauknes= un Rihmaņa=Muischas Semneeku Teesa	Karls Frīdrihs Šulcs	_	1764	18	Laicīgie teksti	lietišķie teksti	FALSE
 LR	Tetsch1784_DKTW	Dseŗŗeet, Kruhschkalls Tautu Wihri!	Karls Ludvigs Tečs	_	1784	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Thev1575_PN	[Tevē tēvreize]	Andrē Tevē	_	1575	16	Garīgie teksti	tēvreizes	FALSE
@@ -162,8 +162,8 @@ LR	VLH1685	Vermehretes Lettisches Hand=buch	nezināms	_	1685	17	Garīgie teksti	
 LR	VLH1685_Cat	Der kleine Catechismus, 1685	nezināms	_	1685	17	Garīgie teksti	katehisms	FALSE
 LR	VLH1685_Sal	Die Sprüche Salomonis, 1685	nezināms	_	1685	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
 LR	VLH1685_Syr	Das Hauß=Zucht=und Lehr=Buch Jesus Syrach, 1685	nezināms	_	1685	17	Garīgie teksti	Bībele; apokrifi	FALSE
-LR	Witt1696_MMID	Man man ir Deews	Mihaēls Vitenburgs	_	1696	17	Laicīgie teksti	gadījuma dzeja	FALSE
-LR	Witt1702_PAN	Ta panesama Auna=Nasta apdohmata	Mihaēls Vitenburgs	_	1702	18	Laicīgie teksti	gadījuma dzeja	FALSE
+LR	Witt1696_MMID	Man man ir Deews	Mihaels Vitenburgs	_	1696	17	Laicīgie teksti	gadījuma dzeja	FALSE
+LR	Witt1702_PAN	Ta panesama Auna=Nasta apdohmata	Mihaels Vitenburgs	_	1702	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	ZP1685	Semmiga Paklannischana	nezināms	_	1685	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Zv1638_VAR	[Ziņu sniedzēja zvērests Vidzemes arklu revīzijā]	nezināms	_	1638	17	Laicīgie teksti	lietišķie teksti; zvēresti	TRUE
 LR	Zv1681_Kok	[Nevācu koku šķirotāju zvērests]	nezināms	_	1681	17	Laicīgie teksti	lietišķie teksti; zvēresti	TRUE
@@ -176,3 +176,9 @@ LR	Klein1672_LPG	Lattweescho Pataro=Ghramata	Heinrihs Kleinšmits	_	1672	17	Gar�
 LR	LPDD1704	Luhgschanas preeksch Deewa draudses	nezināms	_	1704	18	Garīgie teksti	lūgšanas	FALSE
 LR	UKG1693	Unterschiedliche Kirchen=Gebete	nezināms	_	1693	17	Garīgie teksti	lūgšanas	FALSE
 LR	UKG1696	Unterschiedliche Kirchen=Gebete	nezināms	_	1696	17	Garīgie teksti	lūgšanas	FALSE
+LR	Elg1672_Cat	Catechismus	Georgs Elgers	_	1672	17	Garīgie teksti	katehisms	FALSE
+LR	StendGF1774_AGG	Augstas Gudribas Grahmata	Gothards Frīdrihs Stenders	_	1774	18	Laicīgie teksti	populārzinātnisks izdevums	FALSE
+LR	Elg1673_CS	Cantiones Spirituales	Georgs Elgers	_	1673	17	Garīgie teksti	dziesmas	FALSE
+LR	Lang1685_LDL_ms	Lettisch=Deutsches Lexicon	Johans Langijs	_	1685	17	Vārdnīcas	vārdnīca	TRUE
+LR	AP1622	Agenda Parva	nezināms	_	1622	17	Garīgie teksti	lūgšanas	FALSE
+LR	Depk1681_90_ms	Mīļi draugi	Liborijs Depkins	_	1681_90	17	Garīgie teksti	lūgšanas	TRUE
