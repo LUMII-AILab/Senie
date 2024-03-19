@@ -12356,7 +12356,7 @@ our $TABLES_SINGLES = {
 		[ 'mb', 'm', ],
 		[ '%', 'mb', ],	# Palīgmaiņas novākšana
 		[ 'm̃', 'm', ],
-		[ 'pp', '', ],
+		[ 'pp', 'p', ], # No epasta
 		[ 'w', 'v', ],
 		[ 'ck', 'k', ],
 		[ 'Anna', 'A%a', '1' ],	# Palīgmaiņa
