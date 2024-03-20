@@ -30,12 +30,18 @@ Tabulas drīkst būt Word, Excel vai _tab-separated plain text_ formātos.
 
 ## Teksta redaktori
 
-Darbam ar jau iepriekš sagatavotiem teksta failiem vēlams lietot kādu no programmētāju teksta redaktoriem nevis _MS Word_, tāpēc ka _Word_ daudzus simbolus aizvieto automātiski ar citiem vizuāli līdzīgiem simboliem. Īsi par divām alternatīvām - _Notepad++_ un _Sublime Text_. Windows datoriem var izvēlēties, kurš labāk patīk, pārējiem datoriem - _Sublime_. Abi šie rīki nodrošina dokumenta atvēršanu jebkurā kodējumā un patiesīgu saglabāšanu pēc labojumiem tajā pašā vai savietojamā kodējumā. Abi rīki lielākoties arī pareizi uzmin, kurā kodējumā ir atvērtais teksta dokuments, taču, ja neuzmin - zemāk aprakstīts, kā to nomainīt.
+Darbam ar jau iepriekš sagatavotiem teksta failiem vēlams lietot kādu no programmētāju teksta redaktoriem nevis _MS Word_, tāpēc ka _Word_ daudzus simbolus aizvieto automātiski ar citiem vizuāli līdzīgiem simboliem. Īsi par divām alternatīvām - _Notepad++_ un _Sublime Text_. Windows datoriem var izvēlēties, kurš labāk patīk, pārējiem datoriem - _Sublime_. Abi šie rīki nodrošina dokumenta atvēršanu jebkurā kodējumā un patiesīgu saglabāšanu pēc labojumiem tajā pašā vai savietojamā kodējumā. Abi rīki lielākoties arī pareizi uzmin, kurā kodējumā ir atvērtais teksta dokuments, taču, ja neuzmin - zemāk aprakstīts, kā atvērt pareizajā kodējumā.
 
-_**Notepad++**_ var lejuplādēt https://notepad-plus-plus.org/ . Ja atvērtam failam vajag nomainīt kodējumu, to dara izvēlnē _Encoding_, izvēloties _UTF-8_ unikoda failiem un _Character Sets/Baltic/Windows-1257_ pirmsunikoda failiem. Ja nepatīk gaišs teksts uz tumša forna, tad to var nomainīt, izvēlnē _Settings/Preferences/Dark Mode_ uzstādot _Light mode_.
+_**Notepad++**_ var lejuplādēt https://notepad-plus-plus.org/ . Ja atvērtam failam vajag nomainīt kodējumu, to dara izvēlnē _Encoding_, izvēloties _UTF-8_ unikoda failiem un _Character Sets/Baltic/Windows-1257_ pirmsunikoda failiem. Ja nepatīk gaišs teksts uz tumša forna, tad to var nomainīt, izvēlnē _Settings/Preferences/Dark Mode_ uzstādot _Light mode_. Šī programma pēc noklusējuma apakšējā malā rāda, kāds kodējums failam tiek lietots.
 
 _**Sublime Text**_ var lejuplādēt https://www.sublimetext.com/index2 . Ja atvērtam failam vajag nomainīt kodējumu, to dara izvēlnē _File/Reopen with Encoding_. Tur būs attiecīgi _UTF-8_ un _Baltic (Windows 1257)_. Ja nepatīk gaišs teksts uz tumša fona,
-tad to var nomainīt izvēlnē _Preferences/Select Color Scheme_, izvēloties _Breakers_, _Celeste_ vai _Sixteen_.
+tad to var nomainīt izvēlnē _Preferences/Select Color Scheme_, izvēloties _Breakers_, _Celeste_ vai _Sixteen_. Šī programma pēc noklusējuma apakšējā malā nerāda kodējumu, taču to var ieslēgt izvēlnē _Preferences/Settings_ - tad atveras logs, kuram labajā pusē pēc simbola `{` jāpievieno divas šādas rindiņas:
+```
+	"show_encoding": true,
+	"show_line_endings": true,
+```
+Tad failu saglabā un aizver.
+
 
 ## Eksports no MS Word
 
