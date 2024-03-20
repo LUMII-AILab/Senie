@@ -1,17 +1,30 @@
-# Jauna pirmsunikoda avota pievienošana
+# Jaunu avotu pievienošana
+## Jauna pirmsunikoda avota pievienošana
 
 - Avotam jābūt Windows (Baltic) 1257 kodējumā.
 - Avota nosaukums satur tikai avota kodu un paplašinājumu `.txt`.
 - Metadatu tabulā jāieraksta atbilstošie metadati (saite pieejama _Google Drive_ projekta mapē, rediģējot jāatceras izņemt ķeksi no pēdējās kolonnas).
 
 
-# Jauna unikoda avota pievienošana
+## Jauna unikoda avota pievienošana
 
 Avotu vai nu ģenerē no pirmsunikoda faila un attiecīgās tabulas, vai arī pievieno pilnīgi no nulles. Pievienojot no nulles:
 
 - Avotam jābūt UTF-8 (without BOM) kodējumā.
 - Avota nosaukums satur avota kodu un `_Unicode.txt`.
 - Metadatu tabulā jāieraksta atbilstošie metadati (saite pieejama _Google Drive_ projekta mapē, rediģējot jāatceras izņemt ķeksi no pēdējās kolonnas).
+
+
+# Prasības pārviedojumu tabulām
+
+Tabulai, kas satur pārveidojumu no pirmsunikoda formāta uz unikodu ir jāsatur viena kolonna ar pirmsunikoda simboliem un viena kolonna ar unikoda kodiem.
+
+Tabulai, kas satur transliterāciju, blakusesošās kolonnās jābūt vispirms meklējamajiem simboliem, tad aizvietojamajiem simboliem, un tad reģistrjūtībai. Pirms transliterācijas tabulas ir jāuzskaita specsimboli (ne burti, bet zvaigznītes, punkti, dolārzīmes utt.), ko lietojat substitūcijām vai meklēšanai.
+
+Neviena tabula nedrīkst saturēt tukšas rindas un liekus entersimbolus. Tabulas drīkst saturēt papildus kolonnas labajā vai kreisajā pusē - rindu numurus, piezīmes utt.
+
+Tabulas drīkst būt Word, Excel vai _tab-separated plain text_ formātos.
+
 
 # Citas tehniskas piezīmes
 ## Teksta redaktori
