@@ -27,6 +27,7 @@ Tabulas drīkst būt Word, Excel vai _tab-separated plain text_ formātos.
 
 
 # Citas tehniskas piezīmes
+
 ## Teksta redaktori
 
 Darbam ar jau iepriekš sagatavotiem teksta failiem vēlams lietot kādu no programmētāju teksta redaktoriem nevis _MS Word_, tāpēc ka _Word_ daudzus simbolus aizvieto automātiski ar citiem vizuāli līdzīgiem simboliem. Īsi par divām alternatīvām - _Notepad++_ un _Sublime Text_. Windows datoriem var izvēlēties, kurš labāk patīk, pārējiem datoriem - _Sublime_. Abi šie rīki nodrošina dokumenta atvēršanu jebkurā kodējumā un patiesīgu saglabāšanu pēc labojumiem tajā pašā vai savietojamā kodējumā. Abi rīki lielākoties arī pareizi uzmin, kurā kodējumā ir atvērtais teksta dokuments, taču, ja neuzmin - zemāk aprakstīts, kā to nomainīt.
@@ -39,3 +40,23 @@ tad to var nomainīt izvēlnē _Preferences/Select Color Scheme_, izvēloties _B
 ## Eksports no MS Word
 
 Ja no `.docx` vai kāda cita dokumenta ir nepieciešams ar Word eksportēt tekstu, tad to dara _File/Save As_, tad izvēlās vēlamo mapi un faila vārdu, lodziņā _Save as Type:_ norāda _Plain Text (*.txt)_ un spiež _Save_. Pēc tam logā _File Conversion_ izvēlas _Other Encoding_ un _Unicode (UTF-8)_ vai _Baltic (Windows)_ atkarībā no iegūstamā dokumenta veida (attiecīgi unikoda un pirmsunikoda). Glabājot _Baltic (Windows)_ ir īpaši svarīgi sekot līdzi brīdinājumiem par simbolu neattēlojamību (piemēram, paziņojumam _Text marked in red will not save correctly in the chosen encoding_), un izlabot nepiemērotos simbolus uz citiem, kas ļauj saglabāt failu pareizi.
+
+## Windows 1257 pieejamie simboli
+
+Visu Windows 1257 simbolu uzskaitījums pieejas https://lv.wikipedia.org/wiki/Windows-1257 . Redzamie neatstarpju simboli ir šādi:
+```
+! " # $ % & ' ( ) * + , - . /
+0 1 2 3 4 5 6 7 8 9 : ; < = > ?
+@ A B C D E F G H I J K L M N O
+P Q R S T U V W X Y Z [ \ ] ^ _
+` a b c d e f g h i j k l m n o
+p q r s t u v w x y z { | } ~ 
+€ ‚ „ … † ‡ ‰ ‹ ¨ ˇ ¸
+‘ ’ “ ” • – — ™ › ¯ ˛ 
+ ¢ £ ¤ ¦ § Ø © Ŗ « ¬ ® Æ
+° ± ² ³ ´ µ ¶ · ø ¹ ŗ » ¼ ½ ¾ æ
+Ą Į Ā Ć Ä Å Ę Ē Č É Ź Ė Ģ Ķ Ī Ļ
+Š Ń Ņ Ó Ō Õ Ö × Ų Ł Ś Ū Ü Ż Ž ß
+ą į ā ć ä å ę ē č é ź ė ģ ķ ī ļ
+š ń ņ ó ō õ ö ÷ ų ł ś ū ü ż ž ˙
+```
