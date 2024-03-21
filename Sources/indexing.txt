@@ -32,8 +32,8 @@ LR	Ench1615	Enchiridion, 1615	nezināms	_	1615	17	Garīgie teksti	katehisms	FALS
 LR	EvEp1587	Euangelia vnd Episteln, 1587	nezināms	_	1587	16	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 LR	EvEp1615	Euangelia vnd Episteln, 1615	nezināms	_	1615	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 LR	EvTA1753	Evangelia Toto Anno	nezināms	_	1753	18	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-LR	Fuer1650_70_1ms	Lettisches und Teutsches Wörterbuch	Kristofs Fīrekers	_	1650_70	17	Vārdnīcas	_	TRUE
-LR	Fuer1650_70_2ms	Lettisch-deutsches Wörterbuch	Kristofs Fīrekers	_	1650_70	17	Vārdnīcas	_	TRUE
+LR	Fuer1650_70_1ms	Lettisches und Teutsches Wörterbuch	Kristofs Fīrekers	_	1650_70	17	Vārdnīcas	vārdnīca	TRUE
+LR	Fuer1650_70_2ms	Lettisch-deutsches Wörterbuch	Kristofs Fīrekers	_	1650_70	17	Vārdnīcas	vārdnīca	TRUE
 LR	Fuhr1690_LL	Laimiga Lauliba	Heinrihs Fūrmans	_	1690	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	GD_1698	Gohda=Dseesma	nezināms	_	1698	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Gis1507_PN	[Gisberta tēvreize]	Nikolajs Gisberts	_	1507	16	Garīgie teksti	tēvreizes	FALSE
@@ -84,8 +84,8 @@ LR	Manc1631_LGL	Lettische geistliche Lieder vnd Psalmen, 1631	Georgs Mancelis	_	
 LR	Manc1631_LVM	Lettisch Vade mecum, 1631	Georgs Mancelis	_	1631	17	Garīgie teksti	Bībele	FALSE
 LR	Manc1631_Syr	Das Hauß=Zucht=vnd Lehrbuch Jesu Syrachs, 1631	Georgs Mancelis	_	1631	17	Garīgie teksti	Bībele; apokrifi	FALSE
 LR	Manc1637_Sal	Die Sprüche Salomonis	Georgs Mancelis	_	1637	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-LR	Manc1638_L	Lettus	Georgs Mancelis	_	1638	17	Vārdnīcas	_	FALSE
-LR	Manc1638_PhL	Phraseologia Lettica	Georgs Mancelis	_	1638	17	Vārdnīcas	_	FALSE
+LR	Manc1638_L	Lettus	Georgs Mancelis	_	1638	17	Vārdnīcas	vārdnīca	FALSE
+LR	Manc1638_PhL	Phraseologia Lettica	Georgs Mancelis	_	1638	17	Vārdnīcas	vārdnīca	FALSE
 LR	Manc1638_Run	[Desmit sarunas]	Georgs Mancelis	_	1638	17	Laicīgie teksti	_	FALSE
 LR	Manc1643_44_Cat	Der kleine Catechismus, 1643	Georgs Mancelis	_	1643_44	17	Garīgie teksti	katehisms	FALSE
 LR	Manc1643_44_LVM	Lettisch Vade mecum, 1643	Georgs Mancelis	_	1643_44	17	Garīgie teksti	Bībele	FALSE
@@ -182,3 +182,4 @@ LR	Elg1673_CS	Cantiones Spirituales	Georgs Elgers	_	1673	17	Garīgie teksti	dzie
 LR	Lang1685_LDL_ms	Lettisch=Deutsches Lexicon	Johans Langijs	_	1685	17	Vārdnīcas	vārdnīca	TRUE
 LR	AP1622	Agenda Parva	nezināms	_	1622	17	Garīgie teksti	lūgšanas	FALSE
 LR	Depk1681_90_ms	Mīļi draugi	Liborijs Depkins	_	1681_90	17	Garīgie teksti	lūgšanas	TRUE
+LR	Elg1683_DictPLL	Dictionarivm Polono-Latino-Lottauicum	Georgs Elgers	_	1683	17	Vārdnīcas	vārdnīca	FALSE
