@@ -192,6 +192,7 @@ sub printResult
     say $outSmallHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th></tr>" if $outSmallHtml;
 
 
+    # In the "big" HTML file and in the TXT we order symbols by their count
     for my $key (sort {$symbolCounter->{$b}->[0] <=> $symbolCounter->{$a}->[0]} (keys %$symbolCounter))
     {
         up($key);
@@ -205,6 +206,20 @@ sub printResult
         my $codePoints = sprintf("%vX", $key);
         say $outTxt "$key\t$count\t$codePoints\t$sources";
         say $outBigHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td><td style=\"font-size:smaller\">$sources</td></tr>";
+    }
+
+    # In the "small" file a fixed symbol ordering is needed
+    for my $key (sort (keys %$symbolCounter))
+    {
+        up($key);
+        next if ($key =~/^[\r\n\t ]+$/);
+        my $sources = join(', ', sort keys(%{$symbolCounter->{$key}->[1]}));
+        my $count = $symbolCounter->{$key}->[0];
+        my $endoded_symbols = encode_entities($key, '<>&"');
+        #my $codePoints = unpack('H*', $key);
+        #my $codePoints = join('; ', map {unpack('H*', $_)} split(//, $key));
+        #my $codePoints = Unicode::Escape::escape($key);
+        my $codePoints = sprintf("%vX", $key);
         say $outSmallHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td></tr>";
     }
 
