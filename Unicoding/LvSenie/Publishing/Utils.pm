@@ -17,9 +17,10 @@ our $DO_WARN_OTHER_BRACES = 1;
 sub splitByLang
 {
     my $line = shift @_;
-    my @result = split /\s*(?=\@[\w\d]+{)/, $line;
-    @result = map {/^\s*(\@[\w\d]+\{(?:[^\{\}]*\{[^{}]*\})*[^\{\}]*\})?\s*(.*?)\s*$/; ($1, $2)} @result;
-    @result = grep {$_} @result;
+    $line =~ s/([ \t]+)(\@[\w\d]+{)/$2$1/g; #This is to preserve information about whitespaces on the language borders
+    my @result = split /(?=\@[\w\d]+{)/, $line;
+    @result = map {/^(\@[\w\d]+\{(?:[^\{\}]*\{[^{}]*\})*[^\{\}]*\})?(.*?)$/; ($1, $2)} @result;
+    @result = grep {$_ and $_ =~ /[^\s]/} @result; #Filter out empty ones
     return \@result;
 }
 
@@ -27,11 +28,11 @@ sub splitByLang
 sub tokenize
 {
     my $line = shift @_;
-    $line =~ s/^\s*(.*?)\s*$/$1/;	# Remove leading and trailing whitespaces
+    $line =~ s/^(.*?)\s*$/$1/;	# Remove trailing whitespaces
     $line =~ tr/\t/ /;	# Remove tabs
     $line =~ s/(\p{Z})\p{Z}+(?!\p{Z})/$1/g;	# Remove double whitespaces
     my @tooMuchTokens = split /(?=\p{Z})|(?=\{\})|(?=[\\\/](\p{Z}|$))|(?=[^=\{\}\[\]\p{L}\p{M}\p{N}^~`'´\\\/ß§\$#"])|(?<=[,.?!\(])(?=[\p{L}\p{N}])/, $line;
-    @tooMuchTokens = grep {$_} @tooMuchTokens;
+    @tooMuchTokens = grep {$_} @tooMuchTokens; #Filter out empty ones
     my @result = ();
     while (@tooMuchTokens)
     {

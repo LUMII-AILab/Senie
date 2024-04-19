@@ -294,9 +294,9 @@ END
 			for my $linePart (@$lineParts)
 			{
 				my $codeLetter = 0;
-				if ($linePart =~ /^\s*@([\w\d]+){(.*?)}(\s*)$/) {
-					$codeLetter = $1;
-					$linePart = $2;
+				if ($linePart =~ /^(\s*)@([\w\d]+){(.*?)}(\s*)$/) {
+					$codeLetter = $2;
+					$linePart = "$1$3";
 				}
 
 				_start_sub_line($status, $outs, $codeLetter);
@@ -607,7 +607,8 @@ sub _print_token
 
 	$counters->{'word'}++;
 	printVertGlue($outs) unless ($token =~ /^\s+(.*)$/ or $status->{'first word'});
-	$token =~ s/^\p{Z}*(.*)$/$1/;
+	$token =~ s/^\p{Z}*(.*?)\p{Z}*$/$1/;
+	$translitToken =~ s/^\p{Z}*(.*?)\p{Z}*$/$1/ if $translitToken;
 	my $tokenAddress = "${addressStub}_${\$counters->{'word'}}"; #Everita pašlaik negrib vārda numuru, bet nav loģiski to ignorēt, ja adreses liek arī citur
 	printVertToken($outs, $token, $translitToken, $doTranslit, $tokenAddress);
 	$status->{'first word'} = 0;
