@@ -205,10 +205,10 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 
 # SkE atjaunināšana
 
-1. Ja vajag izmainīt, kādi korpusi rādās kā pieejami izvēlnēs http://nosketch.korpuss.lv/ un http://sandbox.nosketch.korpuss.lv/, tad to korpusu serverī var izdarīt atbilstoši `/data/www/nosketch.korpuss.lv/run.cgi` un `/data/www/sandbox.nosketch.korpuss.lv/run.cgi`
-2. Ja vajag atjaunināt korpusu specifikācijas, tad atbilstošās specifikācijas iekopē no repozitorija mapes `Docs/SketchEngine specs` korpusu servera mapē `/data_nosketch/registry`
-3. Jaunos `.vert` failus (sk. pirmās divu nodaļu attiecīgās sadaļas) iekopē korpusu servera mapē `/data_nosketch/vert`
-4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `sudo compilecorp --recompile-corpus --no-sketches korpusa_vārds`
+1. Ja vajag izmainīt, kādi korpusi rādās kā pieejami izvēlnēs http://nosketch.korpuss.lv/ un http://sandbox.nosketch.korpuss.lv/, tad to app serverī var izdarīt atbilstoši `/data/services/nosketch/www/main/run.cgi` un `/data/services/nosketch/www/sandbox/run.cgi`
+2. Ja vajag atjaunināt korpusu specifikācijas, tad atbilstošās specifikācijas iekopē no repozitorija mapes `Docs/SketchEngine specs` korpusu servera mapē `/data/services/nosketch/corpora/registry`
+3. Jaunos `.vert` failus (sk. pirmās divu nodaļu attiecīgās sadaļas) iekopē korpusu servera mapē `/data/services/nosketch/corpora/vert`
+4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `cd /data/services/nosketch && sudo docker compose exec nosketch compilecorp --recompile-corpus --no-sketches korpusa_vārds`
 5. Paskatās, vai komandrindā/logfailos nav kas acīmredzami slikts.
 
 
