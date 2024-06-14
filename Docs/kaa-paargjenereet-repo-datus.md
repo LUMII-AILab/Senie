@@ -38,10 +38,10 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē transliterācijas ar komandām (sk. `runTransliterator-sample.bat`)
 ```
-perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data
-perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 VD1689_94
-perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-JT1685 JT1685
-perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 Apokr1689
+perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data 0
+perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 0 VD1689_94
+perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-JT1685 0 JT1685
+perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 0 Apokr1689
 ```
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas, t.sk trūkstošas tabulas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Sources`, `Sources/Apokr1689`, `Sources/JT1685`, `Sources/VD1689_94`.
