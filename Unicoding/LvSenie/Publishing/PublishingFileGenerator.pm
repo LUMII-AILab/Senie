@@ -230,7 +230,7 @@ END
 	# Booleans for positions inside certain elements
 	my $status = {'paragraph' => 0, 'page' => 0, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
 	# Counters for addresses
-	my $counters = {'page' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0};
+	my $counters = {'corrPage' => 0, 'origPage' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0};
 
 	# Line by line processing
 	my $seenBookCode = 0;
@@ -428,7 +428,8 @@ sub _change_page
 	}
 	startVertPage($outs, $corrPageNo, $origPageNo);
 	$status->{'page'} = 1;
-	$counters->{'page'} = $corrPageNo;
+	$counters->{'corrPage'} = $corrPageNo;
+	$counters->{'origPage'} = $origPageNo;
 	$counters->{'line'} = 0;
 	changeTeiPage($outs, $corrPageNo, $origPageNo);
 }
@@ -518,7 +519,7 @@ sub _start_line
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $indexType = getIndexType($internalProperties->{'full ID'});
 	$counters->{'line'}++;
-	my $address = "${fullSourceStub}_${\$counters->{'page'}}_${\$counters->{'line'}}";
+	my $address = "${fullSourceStub}_${\$counters->{'corrPage'}}_${\$counters->{'line'}}";
 	startVertLine($outs, $address, $counters->{'line'}, $currentAuthor, $indexType);
 	changeTeiLine($outs, $address);
 	$counters->{'word'} = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');

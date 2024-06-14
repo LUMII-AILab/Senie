@@ -85,8 +85,13 @@ sub calculateAddressStub
         if($indexType eq 'GNP');
     $addressStub = "$addressStub${\$counters->{'verse'}}"
         if($indexType eq 'GNP' or $indexType eq 'P');
-    $addressStub = "$addressStub${\$counters->{'page'}}_${\$counters->{'line'}}"
-        if ($addPage and ($indexType eq 'LR' or $indexType eq 'GLR'));
+    if ($addPage and ($indexType eq 'LR' or $indexType eq 'GLR'))
+    {
+        $addressStub = "$addressStub${\$counters->{'corrPage'}}";
+        $addressStub = "$addressStub\{${\$counters->{'origPage'}}\}"
+            if ($counters->{'origPage'} and ($counters->{'origPage'} ne $counters->{'corrPage'}));
+        $addressStub = "${addressStub}_${\$counters->{'line'}}";
+    }
 
     return $addressStub;
 }
