@@ -33,7 +33,7 @@ our @debugLines = ();
 sub transformFile
 {
 	#autoflush STDOUT 1;
-	if (not @_ or @_ < 2 or @_ > 3)
+	if (not @_ or @_ < 3 or @_ > 4)
 	{
 		print <<END;
 Script for transliterating a single SENIE Unicode source. Source file name must
@@ -45,6 +45,7 @@ NB! Input files can't use Unicode Private Use Area sumbols U+E001 and U+E002 for
 
 Params:
    data directory
+   transliteration table - 0 to use default, 18TH_CENTURY to use 18th century pilot table
    source filename stub without extension, e.g. Baum1699_LVV
    collection identifier - Apokr1689, JT1685, VD1689_94 - if applicable
 
@@ -53,12 +54,13 @@ END
 		exit 1;
 	}
 	my $dirName = shift @_;
+	my $tableHint = shift @_;
 	my $fileName = shift @_;
 	my $collection = shift @_;
 
 	print "Processing $fileName\n";
 	die "No table found for file $fileName" unless (hasTable($fileName, $collection));
-	my $table = substTable($fileName, $collection);
+	my $table = $tableHint ? substTable($tableHint, 0) : substTable($fileName, $collection);
 	printTableErrors($fileName, $collection);
 	my $in = IO::File->new("$dirName/${fileName}_Unicode_unhyphened.txt", "< :encoding(UTF-8)")
 		or die "Could not open file $dirName/${fileName}_Unicode_unhyphened.txt: $!";
@@ -129,7 +131,7 @@ sub transliterateString
 sub transformDir
 {
 	#autoflush STDOUT 1;
-	if (not @_ or @_ < 1 or @_ > 2)
+	if (not @_ or @_ < 2 or @_ > 3)
 	{
 		print <<END;
 Script for transforming SENIE sources to Unicode. Source must be provided in
@@ -138,6 +140,7 @@ Baum1699_LVV_Unicode_translitered.txt.
 
 Params:
    data directory
+   transliteration table - 0 to use default, 18TH_CENTURY to use 18th century pilot table
    collection identifier - Apokr1689, JT1685, VD1689_94 - if applicable
 
 AILab, LUMII, 2021, provided under GPL
@@ -145,6 +148,7 @@ END
 		exit 1;
 	}
 	my $dirName = shift @_;
+	my $tableHint = shift @_;
 	my $collection = shift @_;
 	my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
 
@@ -160,7 +164,7 @@ END
 			{
 				local $SIG{__WARN__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval count warnings.
 				local $SIG{__DIE__} = sub { $isBad = 1; warn $_[0] }; # This magic makes eval warn on die and count it as problem.
-				transformFile($dirName, $nameStub, $collection);
+				transformFile($dirName, $tableHint, $nameStub, $collection);
 			};
 			$baddies = $baddies + $isBad;
 			$all++;

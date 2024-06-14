@@ -10,7 +10,7 @@ our @EXPORT_OK = qw(substTable hasTable printTableErrors);
 # Jāņem vērā, ka reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu, arī ß un ss.
 our $TABLES_SINGLES = {
 
-	'PILOT_18'         => [
+	'18TH_CENTURY'         => [
 		[ 'ah', 'ā', ],
 		[ 'eh', 'ē', ],
 		[ 'ëh', 'ē', ],
@@ -26259,6 +26259,8 @@ sub substTable
 {
 	my $tableName = shift @_;
 	my $collection = shift @_;
+
+	return 0 unless ($tableName);
 	return $TABLES_SINGLES->{$tableName} unless ($collection);
 	return $TABLES_Apokr1689->{$tableName} if ($collection =~ /\s*Apokr1689\s*/);
 	return $TABLES_JT1685->{$tableName} if ($collection =~ /\s*JT1685\s*/);
