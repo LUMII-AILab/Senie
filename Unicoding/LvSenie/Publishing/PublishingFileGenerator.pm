@@ -519,7 +519,10 @@ sub _start_line
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $indexType = getIndexType($internalProperties->{'full ID'});
 	$counters->{'line'}++;
-	my $address = "${fullSourceStub}_${\$counters->{'corrPage'}}_${\$counters->{'line'}}";
+	my $address = "${fullSourceStub}_${\$counters->{'corrPage'}}";
+	$address = "$address\{${\$counters->{'origPage'}}\}"
+		if ($counters->{'origPage'} and ($counters->{'origPage'} ne $counters->{'corrPage'}));
+	$address = "${address}_${\$counters->{'line'}}";
 	startVertLine($outs, $address, $counters->{'line'}, $currentAuthor, $indexType);
 	changeTeiLine($outs, $address);
 	$counters->{'word'} = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
