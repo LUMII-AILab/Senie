@@ -18,9 +18,9 @@ Kā pārtaisīt Word tabulu par perl substitūciju datu struktūru
 14. Pārskatīt palīgmaiņas un specsimbolu lietojumu:
     pielikt komentārus `	# Palīgmaiņa`, `	# Palīgmaiņas lietošana` un `	# Palīgmaiņas novākšana`,
     eskeipot, ja palīgmaiņas simbols ir speciāls un lietots pirmajā kolonnā.
-    Līdz šim redzētie substitūciju simboli: `[#$%&*©Δ®§+@]`,
+    Līdz šim redzētie substitūciju simboli: `[#$%&*©Δ®§+@◊]`,
     pārskatāmais saraksts (ieskaitot specsimbolus un 0 reģistra kolonnā):
-    `[#$%&*©®Δ§+@0.()?\/^]|\[^b]|''`
+    `[#$%&*©®Δ§+@◊0.()?\/^]|\[^b]|''`
 
 15. Iegūto tabulu iekopēt failā `LvSenie/Translit/SimpleTranslitTables.pm` attiecīgās kolekcijas (`$TABLES_SINGLES` viena faila avotiem, bet `$TABLES_Apokr1689`, `$TABLES_JT1685` vai `$TABLES_VD1689_94` Bībeles daļām) vārdnīcā (_hash_) kā sarakstu ar atslēgu, kas atbilst avota kodam elementu, t.i., `avota_kods => [iegūtā_tabula], `.
 
