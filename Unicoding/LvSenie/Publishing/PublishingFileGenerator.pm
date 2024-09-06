@@ -524,7 +524,7 @@ sub _start_line
 		if ($counters->{'origPage'} and ($counters->{'origPage'} ne $counters->{'corrPage'}));
 	$address = "${address}_${\$counters->{'line'}}";
 	startVertLine($outs, $address, $counters->{'line'}, $currentAuthor, $indexType);
-	changeTeiLine($outs, $address);
+	changeTeiLine($outs, $address, $indexType);
 	$counters->{'word'} = 0 if ($indexType eq 'GLR' or $indexType eq 'LR');
 }
 

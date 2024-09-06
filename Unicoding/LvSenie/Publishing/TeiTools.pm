@@ -150,8 +150,10 @@ sub endTeiParagraphVerse
 
 sub changeTeiLine
 {
-    my ($outs, $adress) = @_;
-    printInTei("\n       <lb id=\"$adress\"/>", $outs);
+    my ($outs, $address, $indexType) = @_;
+    printInTei("\n       <lb", $outs);
+    printInTei(" id=\"$address\"", $outs) if ($indexType eq 'LR' or $indexType eq 'GLR') ;
+    printInTei("/>", $outs);
 }
 
 sub startTeiSubBlock
