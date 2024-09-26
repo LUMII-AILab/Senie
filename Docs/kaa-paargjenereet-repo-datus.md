@@ -140,7 +140,7 @@ Mainītos failus saliek atbilstošajās `Sources` mapēs pirms tālākas darboš
    (sk. `runFileCollector-sample.bat`).
 2. Iegūto mapīti `data` pārkopē uz `Indexing/run`, vajadzības gadījumā pirms tam izdzēšot tur jau esošās `data`, `result-txt`, `result-html` un `result-trash` mapes.
 3. Ja nepieciešams, pārkompilē visu Java Seno kodu, un palaiž `PolySENIE.bat` no `Indexing/run`, lai iegūtu rezultātus. Pagaida dažas minūtes.
-4. `Sources` mapē izdzēš visus failus, kas nosaukumā satur `log.txt`
+4. `Sources` mapē izdzēš visus failus, kas nosaukumā satur `_log.txt`
 5. `result-txt` saturu pārkopē uz `Sources`
 6. `result-html` saturu pārkopē uz `Web/static`
 
