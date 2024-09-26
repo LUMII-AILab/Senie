@@ -14,8 +14,8 @@ our @EXPORT_OK = qw(getIndexType getExternalProperties getAnyProperty);
 our $SOURCE_PATH = '../Sources/indexing.txt';
 
 # Key names
-our ($INDEX_KEY, $SHORTNAME_KEY, $AUTHOR_KEY, $ORDERNO_KEY, $YEAR_KEY, $CENTURY_KEY, $GENRE_KEY, $SUBGENRES_KEY, $MANUSCRIPT_KEY) =
-	('index', 'short name', 'author', 'order no', 'year', 'century', 'genre', 'subgenre', 'manuscript');
+our ($INDEX_KEY, $SHORTNAME_KEY, $AUTHOR_KEY, $ORDERNO_KEY, $YEAR_KEY, $CENTURY_KEY, $GENRE_KEY, $SUBGENRES_KEY, $MANUSCRIPT_KEY, $YEAR_BEGIN_KEY, $YEAR_END_KEY) =
+	('index', 'short name', 'author', 'order no', 'year', 'century', 'genre', 'subgenre', 'manuscript', 'year begin', 'year end');
 
 # Catalog mapping source code, e.g., Has1550_PN or JT1685/1J to indexing type
 # GNP, GLR, LR, or P.
@@ -50,6 +50,23 @@ sub loadCatalog
 			my @subgenres = split(/\s*;\s*/, $parts[8]);
 			$result->{$source}->{$SUBGENRES_KEY} = \@subgenres unless ($parts[8] =~ /^_$/);
 			$result->{$source}->{$MANUSCRIPT_KEY} = ($parts[9] =~ /^(true)$/i);
+
+			if ($result->{$source}->{$YEAR_KEY} =~ /(\d\d)(\d\d)_(\d\d)/)
+			{
+				$result->{$source}->{$YEAR_BEGIN_KEY} = "$1$2";
+				if ($2 > $3)
+				{
+					my $nextCent = $1 + 1;
+					$result->{$source}->{$YEAR_END_KEY} = "$nextCent$3"
+				}
+
+				else {$result->{$source}->{$YEAR_END_KEY} = "$1$3"}
+			}
+			else
+			{
+				$result->{$source}->{$YEAR_BEGIN_KEY} = $result->{$source}->{$YEAR_KEY};
+				$result->{$source}->{$YEAR_END_KEY} = $result->{$source}->{$YEAR_KEY};
+			}
 
 		}
 	}

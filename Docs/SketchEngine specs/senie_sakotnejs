@@ -5,6 +5,7 @@ ENCODING "UTF-8"
 LANGUAGE "Latvian"
 INFOHREF "http://senie.korpuss.lv/"
 MAINTAINER "mailto:senie@ailab.lv"
+IACHRONIC "doc.year2"
 
 
 ATTRIBUTE sourceWord {
@@ -40,8 +41,13 @@ STRUCTURE doc {
 	ATTRIBUTE collection {
 		LABEL "Kolekcija"
 	}
-	ATTRIBUTE year {
-		LABEL "Gads"
+	ATTRIBUTE year1 {
+		LABEL "Sākšanas gads"
+		NUMERIC 1
+	}
+	ATTRIBUTE year2 {
+		LABEL "Beigšanas gads"
+		NUMERIC 1
 	}
 	ATTRIBUTE century {
 		LABEL "Gadsimts"
