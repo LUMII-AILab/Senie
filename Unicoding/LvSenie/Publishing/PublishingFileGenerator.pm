@@ -241,6 +241,7 @@ END
 		$previousHtmlLineAddress = $newHtmlLineAddress;
 		$newHtmlLineAddress = 0;
 		# start of a new page
+		# In figure brackets - sic, outside brackets - the corrected number
 		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)
 		{
 			# Retrieve written and corrected page numbers

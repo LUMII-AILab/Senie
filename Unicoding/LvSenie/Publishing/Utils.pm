@@ -49,6 +49,7 @@ sub splitCorrection
     my $token = shift @_;
     my $address = shift @_;
     my ($orig, $corr) = ($token, $token);
+    # Corrections: in figure brackets - sic, outside brackets - the corrected number
     ($corr, $orig) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
     warn "Suspicious token $orig at $address\n" if ($orig =~/[@]/ and $DO_WARN_ATS);
     warn "Suspicious token $orig at $address\n" if ($orig =~/\{\}/ and $DO_WARN_EMPTY_BRACES);
