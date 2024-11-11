@@ -2,9 +2,12 @@ Visas pamācības pieņem Windows uz lokālās mašīnas un Linux SkE serverī.
 
 Windows komandrindā `chcp 65001` var noderēt, ja kļūdu paziņojumi neizskatās smalki.
 
+
+
 # Ja ir mainījušies unikodi
 
 Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbošanās.
+
 
 ## Vajag pārģenerēt simbolu tabulu
 
@@ -62,6 +65,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Web/unicode`, `Web/unicode/Apokr1689`, `Web/unicode/JT1685`, `Web/unicode/VD1689_94`.
 
+
 ### HTML transliterācijas
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
@@ -88,6 +92,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
 5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode.tei.xml` un pārvieto uz mapi `TEI`.
 
+
 ### TEI atpārnesumotie
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
@@ -99,6 +104,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
 5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode_unhyphened.tei.xml` un pārvieto uz mapi `TEI`.
+
 
 ### TEI transliterācijas
 
@@ -129,9 +135,11 @@ Ja otrajā solī lieto komandu
 tad iegūst vert failu bez transliterācijas kolonnas.
 
 
+
 # Ja ir mainījušies pre-unikoda faili
 
 Mainītos failus saliek atbilstošajās `Sources` mapēs pirms tālākas darbošanās.
+
 
 ## Vajag izdarbināt Java skriptu ne-servera daļu, lai pārģenerētu visu, ko tas māk
 
