@@ -1,12 +1,12 @@
-V‚rdformu skaits:	18157
-V‚rdlietojumu skaits:	30711
+V‚rdformu skaits:	18190
+V‚rdlietojumu skaits:	30784
 
 
 2725	Es
 1093	es
 205	D
 175	ko
-132	ar
+133	ar
 112	no
 105	nae
 97	No
@@ -36,10 +36,10 @@ V‚rdlietojumu skaits:	30711
 25	koks
 25	layks
 25	zem
+24	ka
 24	Par
 23	bez
 23	domu
-23	ka
 23	prekﬂ
 23	us
 22	Tas
@@ -89,6 +89,7 @@ V‚rdlietojumu skaits:	30711
 13	gan
 13	lek
 13	paec
+13	tas
 13	warru
 13	zyrgs
 12	caur
@@ -102,7 +103,6 @@ V‚rdlietojumu skaits:	30711
 12	pec
 12	ßittu
 12	tapt
-12	tas
 12	Tris
 12	turp
 12	vs
@@ -232,6 +232,7 @@ V‚rdlietojumu skaits:	30711
 7	wetu
 7	wyru
 7	zyrgu
+6	a
 6	Akmins
 6	Aßton
 6	Balts
@@ -260,6 +261,7 @@ V‚rdlietojumu skaits:	30711
 6	ko^pa
 6	Kraßns
 6	kungs
+6	l
 6	labs
 6	laens
 6	Le^ls
@@ -462,6 +464,8 @@ V‚rdlietojumu skaits:	30711
 4	Akies
 4	Aukßts
 4	Baggats
+4	bal
+4	Bal
 4	baltu
 4	balxna
 4	Baznic
@@ -576,6 +580,7 @@ V‚rdlietojumu skaits:	30711
 4	noßtum
 4	noweddu
 4	Nozegums
+4	nu
 4	O
 4	pa¥r
 4	Pabryzams
@@ -658,6 +663,7 @@ V‚rdlietojumu skaits:	30711
 4	Taewa
 4	taißitais
 4	tayßu
+4	te
 4	Teﬂam
 4	Tornis
 4	turras
@@ -700,6 +706,7 @@ V‚rdlietojumu skaits:	30711
 4	zemmo
 4	Zemneka
 4	Zywe
+3	a¥
 3	a^da
 3	abdomigs
 3	aezzis
@@ -1109,6 +1116,7 @@ V‚rdlietojumu skaits:	30711
 3	rukt
 3	ry
 3	rybaeﬂana
+3	s
 3	ßaderre
 3	ßae
 3	Saenis
@@ -1123,6 +1131,7 @@ V‚rdlietojumu skaits:	30711
 3	ßalds
 3	ßalms
 3	ßaly
+3	ﬂana
 3	ßaprattigs
 3	ßarakßtu
 3	ßarkans
@@ -1182,6 +1191,7 @@ V‚rdlietojumu skaits:	30711
 3	ßtum
 3	ßtummu
 3	ßtyppryba
+3	ßul
 3	ﬂuneks
 3	Sunu
 3	ﬂupu
@@ -1220,6 +1230,7 @@ V‚rdlietojumu skaits:	30711
 3	Truttes
 3	Trys
 3	Tukﬂ
+3	tums
 3	Tur
 3	Turkie
 3	Turku
@@ -1310,7 +1321,6 @@ V‚rdlietojumu skaits:	30711
 3	Zyls
 3	2
 2	&
-2	a
 2	a¥ccus
 2	a¥matu
 2	a¥pgrezu
@@ -1391,6 +1401,7 @@ V‚rdlietojumu skaits:	30711
 2	apwalia
 2	ar{arko}
 2	arko
+2	arl
 2	arrais
 2	arre
 2	arßtae
@@ -1725,6 +1736,7 @@ V‚rdlietojumu skaits:	30711
 2	ekﬂa
 2	ekﬂam
 2	Ekﬂan
+2	eku
 2	Ela^ps
 2	elauz¥u
 2	elauzas
@@ -1777,6 +1789,7 @@ V‚rdlietojumu skaits:	30711
 2	gailins
 2	gailis
 2	gaißis
+2	gal
 2	galdins
 2	Galdins
 2	Galds
@@ -1795,6 +1808,7 @@ V‚rdlietojumu skaits:	30711
 2	gauze
 2	Gayßums
 2	ginne
+2	Gl
 2	gla^ßy
 2	glabo
 2	Glaße
@@ -2054,6 +2068,8 @@ V‚rdlietojumu skaits:	30711
 2	Kutre
 2	Kuttre
 2	kwedze
+2	kys
+2	L
 2	la^py
 2	Labbak
 2	labbena
@@ -2267,6 +2283,7 @@ V‚rdlietojumu skaits:	30711
 2	Naekardenats
 2	naekaunigs
 2	Naekaunigs
+2	Nael
 2	Naelabs
 2	Naelaykigs
 2	naelayma
@@ -2365,7 +2382,6 @@ V‚rdlietojumu skaits:	30711
 2	nowilkt
 2	nozegu
 2	nozegum
-2	nu
 2	Nu
 2	nykna
 2	nykne
@@ -2683,7 +2699,6 @@ V‚rdlietojumu skaits:	30711
 2	Salts
 2	ßalyt
 2	ßamaißits
-2	ﬂana
 2	ßanes
 2	ßapa
 2	ßappratigs
@@ -2756,6 +2771,7 @@ V‚rdlietojumu skaits:	30711
 2	ßkattiﬂana
 2	ßkaudis
 2	Skayßts
+2	ßkiel
 2	ßkiendy
 2	Skieps
 2	ßkiers
@@ -2925,7 +2941,6 @@ V‚rdlietojumu skaits:	30711
 2	taupae
 2	Taure
 2	tautwets
-2	te
 2	Te
 2	Te^s
 2	Te^ße
@@ -3144,6 +3159,7 @@ V‚rdlietojumu skaits:	30711
 2	wyz
 2	wyz&e
 2	y
+2	yk
 2	yßiauta
 2	yßkaltaets
 2	yßpauda
@@ -3211,7 +3227,7 @@ V‚rdlietojumu skaits:	30711
 2	zywes
 2	zyza
 1	__bs
-1	 .}
+1	 /.}
 1	{Ar akminems no }
 1	{Grutunaeßß gs}
 1	{inf}
@@ -3228,6 +3244,7 @@ V‚rdlietojumu skaits:	30711
 1	a¥cce
 1	a¥cces
 1	a¥dda¥ta
+1	a¥imig
 1	a¥ißknepe
 1	a¥ißpra¥udu
 1	a¥ißßkruwae
@@ -3266,6 +3283,7 @@ V‚rdlietojumu skaits:	30711
 1	a¥r{a¥rko}
 1	a¥r{a¥rroku}
 1	a¥rtems
+1	a¥ﬂneks
 1	a¥ßßinu
 1	a¥ta¥ycena
 1	a¥tka^l
@@ -3288,6 +3306,7 @@ V‚rdlietojumu skaits:	30711
 1	a¥uka
 1	a¥ycena
 1	a¥yceneks}
+1	a¥yma
 1	a¥yßk¥aru
 1	a¥yßmirﬂa
 1	a¥yßßa¥kku
@@ -3434,6 +3453,7 @@ V‚rdlietojumu skaits:	30711
 1	aißba^zu
 1	aißbildetais
 1	aisgawet{ais gawet}
+1	aißis¥
 1	aißkawae
 1	aißkawe
 1	aißkla^
@@ -3444,6 +3464,7 @@ V‚rdlietojumu skaits:	30711
 1	aißßnedz
 1	aißtawa
 1	aißtik
+1	aißts
 1	aißturet
 1	aißturre
 1	aißturret
@@ -3498,6 +3519,7 @@ V‚rdlietojumu skaits:	30711
 1	amatu
 1	amautneks
 1	ameru
+1	ami
 1	amma
 1	amma¥ds
 1	ammad
@@ -3555,7 +3577,7 @@ V‚rdlietojumu skaits:	30711
 1	apkaitenats
 1	apkaiteﬂanas
 1	apkakla
-1	apkaÔt
+1	apkal
 1	apkampu
 1	apkamtaﬂana
 1	apkapoﬂena
@@ -3568,6 +3590,7 @@ V‚rdlietojumu skaits:	30711
 1	apkupu
 1	apkutena
 1	apkylae
+1	apl
 1	aplacyna
 1	aplada
 1	aplade
@@ -3593,7 +3616,6 @@ V‚rdlietojumu skaits:	30711
 1	aplet
 1	aplikts
 1	aplu^ko
-1	apÔukﬂa~
 1	aplums
 1	aplydzena
 1	apma¥cets
@@ -3798,6 +3820,7 @@ V‚rdlietojumu skaits:	30711
 1	arzobenu
 1	aßdoﬂan
 1	aße
+1	aßitais
 1	aﬂkylis
 1	aßmina
 1	aßminis
@@ -3856,6 +3879,8 @@ V‚rdlietojumu skaits:	30711
 1	atgru^zu
 1	atgrußts
 1	atiaucas
+1	atinißka
+1	atinißku
 1	atio^zos
 1	atiozas
 1	atjaunas
@@ -4042,11 +4067,13 @@ V‚rdlietojumu skaits:	30711
 1	auklins
 1	aukßtaks
 1	aukﬂts
+1	auku
 1	aunu
 1	aurneka
 1	aurneks
 1	außems
 1	auﬂim
+1	außitais
 1	außtak
 1	außtakas
 1	außtas
@@ -4071,6 +4098,7 @@ V‚rdlietojumu skaits:	30711
 1	aydar
 1	ayß
 1	ayßakku
+1	ayﬂana
 1	ayßbilde
 1	ayßbyldu
 1	ayßdarßu
@@ -4085,6 +4113,7 @@ V‚rdlietojumu skaits:	30711
 1	ayßkawae
 1	ayßkawe
 1	ayßkawets
+1	ayßks
 1	ayßkurﬂana
 1	ayßkuru
 1	ayßledze
@@ -4115,9 +4144,9 @@ V‚rdlietojumu skaits:	30711
 1	ayzkawaeias
 1	ayzkawaeﬂana
 1	ayzkayte
+1	ayzl
 1	ayzledze
 1	ayzlegt
-1	ayzÔyk
 1	ayzmaysu
 1	ayzmettu
 1	ayznaudzu
@@ -4493,8 +4522,8 @@ V‚rdlietojumu skaits:	30711
 1	Arade
 1	Aram
 1	Arbs
+1	Arkl
 1	Arkla
-1	ArkÔs{AkÔs}
 1	Arklu
 1	Arraigs
 1	Arrais
@@ -4852,12 +4881,9 @@ V‚rdlietojumu skaits:	30711
 1	Balgans
 1	balits
 1	balkiems
-1	BaÔkies
 1	Balkis
 1	balkßna
 1	Balkßne
-1	baÔkys
-1	BaÔkys
 1	Ballia
 1	Ballia^
 1	Ballie^
@@ -4872,7 +4898,6 @@ V‚rdlietojumu skaits:	30711
 1	ballods
 1	Balnx
 1	bals
-1	BaÔßam
 1	Balße
 1	Balßis
 1	Balßßamu
@@ -4886,11 +4911,7 @@ V‚rdlietojumu skaits:	30711
 1	balto
 1	Baltu
 1	Baltum
-1	baÔtum
 1	Baltums
-1	baÔtums
-1	BaÔtums
-1	baÔtus
 1	Balwaerkis
 1	Balwaers
 1	balwerems
@@ -5902,6 +5923,7 @@ V‚rdlietojumu skaits:	30711
 1	Darzneks
 1	das
 1	Data
+1	dats
 1	daudz{Ardaudz}
 1	daudzan
 1	daudzana¥
@@ -5944,7 +5966,6 @@ V‚rdlietojumu skaits:	30711
 1	de^k
 1	De^n
 1	De^na
-1	de^na¥
 1	de^ne
 1	de^ns
 1	de^nu
@@ -6423,6 +6444,7 @@ V‚rdlietojumu skaits:	30711
 1	dziwu
 1	Dziwu
 1	Dziwum
+1	dÍna¥
 1	Dzoßis
 1	Dzoßu
 1	Dzoza
@@ -6454,6 +6476,7 @@ V‚rdlietojumu skaits:	30711
 1	Dzyws
 1	dzywu
 1	Dzywu
+1	e
 1	e¥s
 1	e^
 1	e^alums
@@ -6476,6 +6499,9 @@ V‚rdlietojumu skaits:	30711
 1	eaedena
 1	ealeis
 1	ealis
+1	EA1
+1	EA3
+1	EA4
 1	ebaerru
 1	ebarßty
 1	ebaßt
@@ -6589,6 +6615,7 @@ V‚rdlietojumu skaits:	30711
 1	ekayßi
 1	Ekedits
 1	ekengele
+1	eklie
 1	eko^zu
 1	ekodu
 1	ekoßt
@@ -6610,6 +6637,7 @@ V‚rdlietojumu skaits:	30711
 1	Ekurcis
 1	ekureis
 1	Ekurﬂena¥
+1	el
 1	Ela
 1	Elabeneﬂan
 1	Elacenaﬂana
@@ -6638,7 +6666,6 @@ V‚rdlietojumu skaits:	30711
 1	Eleiaeﬂana
 1	eleiu
 1	elek
-1	eÔeklie
 1	elekt
 1	Elephans
 1	Eleﬂan
@@ -6668,9 +6695,9 @@ V‚rdlietojumu skaits:	30711
 1	emaerc
 1	emaercaets
 1	Emaerceﬂana
+1	Emaeßl
 1	emaeßla
 1	Emaeßla
-1	EmaeßÔa
 1	Emaeßla¥
 1	emaettu
 1	emaißiu
@@ -6973,7 +7000,6 @@ V‚rdlietojumu skaits:	30711
 1	gaigallis
 1	Gailins
 1	Gailio^s
-1	gal
 1	galda
 1	Galdautins
 1	Galdauts
@@ -6995,7 +7021,6 @@ V‚rdlietojumu skaits:	30711
 1	Gallods
 1	Galls
 1	gallums
-1	gaÔwa
 1	galwa¥ﬂana¥
 1	galwa{glawa}
 1	galwae
@@ -7086,10 +7111,10 @@ V‚rdlietojumu skaits:	30711
 1	Gelboﬂana
 1	gelzenis
 1	ginneﬂan
-1	girkÔ
+1	girkl
+1	gl
 1	gl_zenu
 1	gla¥ßitais
-1	GÔa¥ﬂneks
 1	Gla¥ßße
 1	Gla^ßibe
 1	Gla^z¥e
@@ -7116,7 +7141,6 @@ V‚rdlietojumu skaits:	30711
 1	Glemigs
 1	glis
 1	glo^dens
-1	gÔo^tas
 1	Glodens
 1	Glota
 1	gluddan
@@ -7134,7 +7158,6 @@ V‚rdlietojumu skaits:	30711
 1	Glumeﬂana
 1	Glunaeﬂana
 1	Glunaetais
-1	GÔunaﬂana
 1	glyﬂis
 1	glyﬂs
 1	Go^dige
@@ -7408,6 +7431,7 @@ V‚rdlietojumu skaits:	30711
 1	iauns
 1	iauﬂ
 1	iauta
+1	icis
 1	Ie
 1	ie^ßa
 1	ieb{_eb}
@@ -7706,6 +7730,7 @@ V‚rdlietojumu skaits:	30711
 1	iure
 1	iuremat
 1	iußßigs
+1	ixne
 1	iz¥durt
 1	iz&zaga
 1	izalkﬂana
@@ -7903,12 +7928,12 @@ V‚rdlietojumu skaits:	30711
 1	Jßka¥itiﬂan
 1	Jska¥lda¥ms
 1	Jßkaitit
+1	Jßkal
 1	Jßkalpﬂana
 1	Jskalßis{Js kalßis}
 1	Jskaltenaﬂana
 1	Jskaltibßerga
 1	Jßkaltis
-1	JßkaÔtite
 1	Jskaltums
 1	Jßkaptins
 1	Jßkaßßiﬂen
@@ -8101,8 +8126,8 @@ V‚rdlietojumu skaits:	30711
 1	Ka¥cibe
 1	ka¥da
 1	ka¥ia¥neks
+1	ka¥kl
 1	ka¥kla¥
-1	ka¥kÔa¥
 1	Ka¥lke
 1	ka¥lpoﬂana¥
 1	ka¥lpot
@@ -8571,6 +8596,7 @@ V‚rdlietojumu skaits:	30711
 1	kiemme
 1	kiems
 1	kierkßtu
+1	kies
 1	Kießber
 1	kiewe
 1	kiezynetes
@@ -8587,6 +8613,8 @@ V‚rdlietojumu skaits:	30711
 1	Kiwa
 1	kiwittis
 1	kjeßy
+1	kl
+1	Kl
 1	Kla¥
 1	kla¥ia¥s
 1	kla¥ias
@@ -8623,7 +8651,6 @@ V‚rdlietojumu skaits:	30711
 1	Klarums
 1	klaﬂana
 1	klaﬂana¥
-1	kÔaßitais
 1	Klat
 1	Klatßtumﬂa¥na¥
 1	klaudzena
@@ -8632,7 +8659,6 @@ V‚rdlietojumu skaits:	30711
 1	klaußigs
 1	klaußit
 1	Klaußitais
-1	KÔaußitais
 1	klay
 1	kledeﬂana
 1	kledza
@@ -8904,6 +8930,7 @@ V‚rdlietojumu skaits:	30711
 1	Kryta
 1	krytte
 1	Krytums
+1	ks
 1	ku
 1	ku^p
 1	ku^tis
@@ -9066,8 +9093,8 @@ V‚rdlietojumu skaits:	30711
 1	kwit
 1	kwit{cittamkwit}
 1	Kwits
+1	Kyl
 1	Kyla¥
-1	KyÔa¥
 1	kylae
 1	kyle
 1	Kylyka
@@ -9153,7 +9180,7 @@ V‚rdlietojumu skaits:	30711
 1	laci
 1	Lacis
 1	lacißus
-1	LacÔnu
+1	Lacl
 1	lada
 1	Lade
 1	Lade{L_de}
@@ -9226,6 +9253,7 @@ V‚rdlietojumu skaits:	30711
 1	Laimig
 1	Laimigs
 1	Laimit
+1	lains
 1	laip
 1	Laipe
 1	Laipig
@@ -9292,8 +9320,6 @@ V‚rdlietojumu skaits:	30711
 1	Laßts
 1	Latinißgs
 1	Latinißk
-1	œatinißka
-1	œatinißku
 1	Lattßtigs
 1	latwaeﬂu
 1	lau_igs
@@ -9305,7 +9331,6 @@ V‚rdlietojumu skaits:	30711
 1	lauke
 1	lauki
 1	lauku
-1	Ôauku
 1	laulata
 1	Laulats
 1	lauliba
@@ -9372,11 +9397,9 @@ V‚rdlietojumu skaits:	30711
 1	laymojcis
 1	laypiba
 1	layﬂa¥na
-1	Ôayﬂana
 1	Layßkiba
 1	layßkibe
 1	layßko
-1	Ôayßks
 1	Layßks
 1	layßt
 1	Layßts
@@ -9436,7 +9459,7 @@ V‚rdlietojumu skaits:	30711
 1	ledzdams
 1	Lee^ls
 1	lee^te
-1	LeeÔ
+1	Leel
 1	Leela¥
 1	Leelas
 1	leeta
@@ -9617,7 +9640,6 @@ V‚rdlietojumu skaits:	30711
 1	lo^pe
 1	Lo^peßuns
 1	Lo^pigs
-1	Ôo^pu
 1	Lo^pupulks
 1	lo^pus
 1	Lo^pus
@@ -9656,7 +9678,6 @@ V‚rdlietojumu skaits:	30711
 1	lu^dze
 1	lu^dzu
 1	lu^ko
-1	Ôu^ko
 1	lu^ks
 1	lu^pas
 1	Lu^ßigu
@@ -10100,10 +10121,10 @@ V‚rdlietojumu skaits:	30711
 1	Mazzus
 1	me^gs
 1	Me^gs
+1	me^l
 1	Me^l
 1	me^let
 1	Me^liotri
-1	me^Ôo
 1	me^re
 1	Me^ris
 1	Me^rkys
@@ -10112,7 +10133,6 @@ V‚rdlietojumu skaits:	30711
 1	me^ßloias
 1	me^ßta
 1	Me^ßußka^rnis
-1	Me^ts
 1	me~neßis
 1	meda
 1	Meddeneks
@@ -10225,6 +10245,7 @@ V‚rdlietojumu skaits:	30711
 1	Mezigs
 1	mezze
 1	Mezze
+1	mi
 1	mi^eli^e
 1	miceﬂa¥na
 1	Mictaeﬂana
@@ -10238,12 +10259,13 @@ V‚rdlietojumu skaits:	30711
 1	Migdal
 1	Migdaleko^ks
 1	Migdaligs
+1	Miggl
 1	miggla
-1	MiggÔa
 1	Migglains
 1	miggliga
 1	miggligs
 1	Mikla
+1	Mil
 1	Milaens
 1	milais
 1	Milaﬂana
@@ -10262,7 +10284,6 @@ V‚rdlietojumu skaits:	30711
 1	miloie
 1	milotais
 1	Milotais
-1	MiÔs
 1	milte
 1	Miltigs
 1	milts
@@ -10474,6 +10495,7 @@ V‚rdlietojumu skaits:	30711
 1	Myßße
 1	Myßßes
 1	myßt
+1	MÍts
 1	N_zas
 1	n¥aglu
 1	n¥e
@@ -10647,8 +10669,6 @@ V‚rdlietojumu skaits:	30711
 1	Naekraßns
 1	Naekrißtita
 1	Naekunßtigs
-1	NaeÔa¥imig
-1	NaeÔa¥yma
 1	Naela¥ymigs
 1	Naelabba
 1	naelabbai
@@ -11143,6 +11163,7 @@ V‚rdlietojumu skaits:	30711
 1	niknus
 1	Nipper
 1	nis
+1	nl
 1	no^plez&
 1	No^ßt
 1	No^ßtbegu
@@ -11436,6 +11457,8 @@ V‚rdlietojumu skaits:	30711
 1	noßkumﬂa¥na¥{noßkum ﬂa¥na¥}
 1	Noßkumﬂana
 1	noßkumﬂena
+1	noßl
+1	Noßl
 1	Noßlappium
 1	noßlauca
 1	noßlaucie
@@ -11444,8 +11467,6 @@ V‚rdlietojumu skaits:	30711
 1	noßlaukt
 1	noßlauku
 1	noßluddeneks
-1	noßÔudzu
-1	NoßÔyk
 1	Noßlykﬂen
 1	Noßmadit
 1	nosmettu
@@ -11575,14 +11596,17 @@ V‚rdlietojumu skaits:	30711
 1	Nyknis
 1	nyks
 1	nykﬂ_s
+1	o
 1	o^gas
 1	o^glis
 1	o^lea
 1	o^lins
 1	o^lit
+1	o^pu
 1	o^rmanns
 1	o^ßna¥ﬂa¥na¥
 1	o^ßßa
+1	o^tas
 1	o^ters
 1	Oda
 1	Oderemts
@@ -11894,10 +11918,10 @@ V‚rdlietojumu skaits:	30711
 1	paetur
 1	Paeueleﬂana
 1	Paeweditais
+1	paewel
 1	Paeweleﬂan
 1	paeweleﬂana
 1	Paeweleﬂana
-1	paeweÔu
 1	Paewiltneks
 1	paezyls
 1	Paezyls
@@ -11985,6 +12009,7 @@ V‚rdlietojumu skaits:	30711
 1	Pakwaepﬂana
 1	pakwepe
 1	Pakwepﬂana
+1	Pal
 1	palabbena
 1	Paladzi
 1	Palaen
@@ -11993,7 +12018,6 @@ V‚rdlietojumu skaits:	30711
 1	palaißta
 1	palaißts
 1	Palaißts
-1	PaÔaißts
 1	palamma¥
 1	palammat
 1	palaußt{palanßt}
@@ -12730,8 +12754,8 @@ V‚rdlietojumu skaits:	30711
 1	Perku^nigs
 1	Perku^ns
 1	Perkuns
+1	perl
 1	Perla
-1	perÔami
 1	perlems
 1	permettu{permetttu}
 1	perrakßtu
@@ -12838,7 +12862,7 @@ V‚rdlietojumu skaits:	30711
 1	Pi^cka
 1	piem
 1	pienter
-1	pigeÔa
+1	pigel
 1	piiem
 1	pikke
 1	Pikkigs
@@ -13204,13 +13228,13 @@ V‚rdlietojumu skaits:	30711
 1	Pukkyts
 1	pukys
 1	Pukys
+1	pul
+1	Pul
 1	Pulcigs
 1	pulgaﬂawa
 1	pulgatais
 1	pulk
-1	PuÔka
 1	pulkay
-1	puÔks
 1	Pulkßtena
 1	Pulkßtens
 1	pulkßtenu
@@ -13322,6 +13346,7 @@ V‚rdlietojumu skaits:	30711
 1	pykßte
 1	pykßtena
 1	pykßteﬂana
+1	pyl
 1	Pyle
 1	pylems
 1	Pyleneks
@@ -13335,7 +13360,6 @@ V‚rdlietojumu skaits:	30711
 1	Pylnas
 1	Pylnemalings
 1	pylnems
-1	pyÔnu
 1	pyls
 1	pylßa
 1	pylßaetems
@@ -13761,6 +13785,7 @@ V‚rdlietojumu skaits:	30711
 1	rze}
 1	S¥aßﬂka¥na¥
 1	s¥wilpu
+1	s{Akl/s}
 1	Sa¥a¥ug
 1	Sa¥aukﬂa¥na¥
 1	sa¥aycena
@@ -13785,6 +13810,7 @@ V‚rdlietojumu skaits:	30711
 1	Sa¥kramenta
 1	ßa¥krawio
 1	ßa¥kﬂa¥le^tes
+1	ßa¥l
 1	ßa¥la¥ßßiﬂana
 1	ßa¥la¥ßßit
 1	Sa¥la¥uﬂa¥na
@@ -13797,7 +13823,6 @@ V‚rdlietojumu skaits:	30711
 1	ßa¥lt
 1	Sa¥ltums
 1	Sa¥ludobu
-1	ßa¥Ôyme
 1	ßa¥lypu
 1	Sa¥ma¥itneks
 1	ﬂa¥na
@@ -14080,6 +14105,7 @@ V‚rdlietojumu skaits:	30711
 1	Sakudeneﬂana
 1	ßakudy
 1	ßakwaepe
+1	ßal
 1	ßala¥ga¥da
 1	ßalapiﬂana
 1	ßalas
@@ -14114,7 +14140,6 @@ V‚rdlietojumu skaits:	30711
 1	ßalebias
 1	ßalek
 1	ßaleku
-1	ßaÔeku
 1	ßalemeﬂana
 1	ßalidzena
 1	ßalidzenat
@@ -14177,6 +14202,7 @@ V‚rdlietojumu skaits:	30711
 1	Salymeta
 1	Salymiks
 1	ßalypu
+1	ßam
 1	ßama¥nny
 1	ßama^ißiu
 1	Samaera¥s
@@ -14477,6 +14503,7 @@ V‚rdlietojumu skaits:	30711
 1	Sekkle
 1	ßeklems
 1	Sekreters
+1	sel
 1	ßelas
 1	Sellawibe
 1	ﬂelﬂe
@@ -14605,7 +14632,6 @@ V‚rdlietojumu skaits:	30711
 1	ßixna
 1	Sixna
 1	ßixnae
-1	⁄ixne
 1	Sixneßparnis
 1	ßixte
 1	ßixteßparnis
@@ -14741,8 +14767,6 @@ V‚rdlietojumu skaits:	30711
 1	ßkie^t
 1	ßkie^tellis
 1	ßkie^tu
-1	ßkiel
-1	ßkieÔ
 1	ßkiele
 1	ßkielt
 1	ßkierne
@@ -14900,6 +14924,7 @@ V‚rdlietojumu skaits:	30711
 1	Skyßtums
 1	ßkyßtyba
 1	ßkyßtyba¥
+1	ßl
 1	Sla¥wets
 1	Sla^ppjums
 1	ßlaeds
@@ -15026,7 +15051,6 @@ V‚rdlietojumu skaits:	30711
 1	Sludenatais
 1	ßludenats
 1	Sludeneks
-1	ßÔußte#
 1	ßluz&a¥
 1	ßlyddums
 1	ßlydens
@@ -15387,7 +15411,6 @@ V‚rdlietojumu skaits:	30711
 1	ßta¥ßtu
 1	ßta¥tu
 1	ßta`mme
-1	ßta^wu
 1	ßtabbule
 1	ßtabins
 1	ßtabneks
@@ -15466,6 +15489,7 @@ V‚rdlietojumu skaits:	30711
 1	ßtaweﬂana
 1	ßtawet
 1	ßtawneks
+1	ßt‚wu
 1	ßtawygems
 1	ßtayga
 1	ßtaygaﬂana
@@ -15663,12 +15687,9 @@ V‚rdlietojumu skaits:	30711
 1	ßukkes
 1	ßukkur
 1	Sukkurs
-1	ßul
 1	Sulaee
-1	ßuÔaißis¥
 1	ßullainis
 1	Sullains
-1	ßuÔlains
 1	ßumdi
 1	Sumdiﬂana
 1	Summenaﬂana
@@ -15831,11 +15852,11 @@ V‚rdlietojumu skaits:	30711
 1	ßyke
 1	ßyks
 1	ßyksßt
+1	ßyl
 1	ßylde
 1	Syldz
 1	Sylite
 1	Sylle
-1	ßyÔﬂana
 1	ßylt
 1	Sylts
 1	Syltums
@@ -15903,6 +15924,7 @@ V‚rdlietojumu skaits:	30711
 1	Szyppers
 1	Szyte
 1	Szyto
+1	t
 1	Ta¥
 1	Ta¥mer
 1	Ta¥pez
@@ -16151,6 +16173,7 @@ V‚rdlietojumu skaits:	30711
 1	tißlis
 1	tißtkuﬂ
 1	Titauwa
+1	tite
 1	Titirs
 1	To^p
 1	to^pi
@@ -16280,8 +16303,8 @@ V‚rdlietojumu skaits:	30711
 1	Tukßtoﬂkar
 1	tulﬂ
 1	tulsnis
+1	tum
 1	tumps
-1	tums
 1	tumßa
 1	Tumßa
 1	tumﬂen
@@ -16316,6 +16339,7 @@ V‚rdlietojumu skaits:	30711
 1	turrums
 1	turte
 1	turumems
+1	tus
 1	Tußins
 1	tußku
 1	Tuwaeks
@@ -16373,6 +16397,8 @@ V‚rdlietojumu skaits:	30711
 1	tyrums
 1	tyrumu
 1	tyry
+1	u
+1	u^ko
 1	ubadzibe{Noubadzibe}
 1	ubbaga¥s
 1	ubbags
@@ -16380,6 +16406,7 @@ V‚rdlietojumu skaits:	30711
 1	ucaens
 1	udena
 1	udenibrauks
+1	udzu
 1	ugguna
 1	ugguna^kys
 1	ugguni
@@ -16389,6 +16416,8 @@ V‚rdlietojumu skaits:	30711
 1	uguna
 1	uguni
 1	uguny
+1	ukﬂa~
+1	unaﬂana
 1	upama
 1	uppaeraeﬂana
 1	uppen
@@ -16423,6 +16452,7 @@ V‚rdlietojumu skaits:	30711
 1	ußtaweﬂana
 1	ußtawetais
 1	ußtawetays
+1	ußte#
 1	ußtrauku
 1	ußtuba
 1	uswinde
@@ -16715,6 +16745,7 @@ V‚rdlietojumu skaits:	30711
 1	vzwyrrina
 1	vzwyrt
 1	Vzwyﬂa¥na¥
+1	wa
 1	wa¥ce
 1	wa¥ddzems
 1	wa¥dma¥la¥
@@ -17191,6 +17222,7 @@ V‚rdlietojumu skaits:	30711
 1	Weiklyba
 1	Weje
 1	Wejeneks
+1	wel
 1	wela¥ﬂa¥na¥
 1	wele
 1	welet
@@ -17211,7 +17243,6 @@ V‚rdlietojumu skaits:	30711
 1	welßtiba
 1	Welt
 1	Welta
-1	weÔtas
 1	welwae
 1	welwu
 1	wemiu
@@ -17319,10 +17350,10 @@ V‚rdlietojumu skaits:	30711
 1	Widdums
 1	Widu
 1	wil
+1	Wil
 1	wilcigs
 1	Wilcins
 1	Wile
-1	WiÔicis
 1	Wilka~
 1	wilkatys
 1	wilks
@@ -17394,7 +17425,7 @@ V‚rdlietojumu skaits:	30711
 1	Wis
 1	wiße
 1	Wißins
-1	WißÔa¥
+1	Wißl
 1	Wißme^gigs
 1	Wismodrigs
 1	Wißmodriﬂen
@@ -17527,6 +17558,7 @@ V‚rdlietojumu skaits:	30711
 1	Ykgaddiga¥
 1	Ykkattris
 1	ylgum
+1	yme
 1	yr{yr }
 1	yraßt
 1	ys¥ßnikkaerae
@@ -17553,6 +17585,7 @@ V‚rdlietojumu skaits:	30711
 1	ysklaußy
 1	ysklay
 1	yßkratty
+1	yßl
 1	Yßlae
 1	Yßlaecca¥ﬂa~
 1	yßlaßits
@@ -17562,7 +17595,6 @@ V‚rdlietojumu skaits:	30711
 1	yßlayßka
 1	yßledzu
 1	Yßleie
-1	yßÔeku
 1	yßlykts
 1	yßmaca
 1	yßmacits
@@ -17798,7 +17830,7 @@ V‚rdlietojumu skaits:	30711
 1	Zaelocigs
 1	Zaeloﬂana
 1	Zaelts
-1	ZaeweÔs
+1	Zaewel
 1	Zagaelbo^mae
 1	zage
 1	zagegaldems
@@ -17915,9 +17947,9 @@ V‚rdlietojumu skaits:	30711
 1	Zepae
 1	Zide
 1	ziglis
+1	Zil
 1	zillums
 1	Zils
-1	ZiÔs
 1	zim
 1	zime
 1	zimins
@@ -17944,6 +17976,7 @@ V‚rdlietojumu skaits:	30711
 1	Ziwtins
 1	ziwu
 1	Zizlis
+1	zl
 1	zmalkßtias
 1	znaude
 1	znaudzige
@@ -17975,9 +18008,9 @@ V‚rdlietojumu skaits:	30711
 1	Zobus
 1	zodekauls
 1	Zoklis
+1	Zol
 1	Zoldati
 1	Zoldats
-1	ZoÔdats
 1	Zoldatu
 1	zoli
 1	zoms

@@ -5,7 +5,7 @@ male#
 rime#
 ne#
 laene#
-ßÔußte#
+ußte#
 ßklawe#
 naddze#
 &
@@ -34,6 +34,9 @@ palayz&
 atlayz&
 pareyz&
 dryz&
+ea1
+ea3
+ea4
 prettibneciba^
 atßlagaßpalia^
 walia^
@@ -928,7 +931,7 @@ waßka
 eßka
 seemeßka
 laißka
-Ôatinißka
+atinißka
 baernißka
 rekßka
 bulwaerßka
@@ -941,7 +944,6 @@ blaﬂka
 pluﬂka
 yzpuﬂka
 gruﬂka
-puÔka
 wa^la
 za^la
 le^la
@@ -1132,7 +1134,7 @@ naelayma
 nelayma
 putnalyma
 zyma
-naeÔa¥yma
+a¥yma
 waezma
 leßma
 dzeßma
@@ -1292,6 +1294,7 @@ atrunnaﬂana
 yzrunnaﬂana
 abzynnaﬂana
 naezynnaﬂana
+unaﬂana
 atiaunaﬂana
 atjaunaﬂana
 a¥pkunaﬂana
@@ -1299,7 +1302,6 @@ runaﬂana
 ßarunaﬂana
 perunaﬂana
 parrunaﬂana
-gÔunaﬂana
 zynaﬂana
 oßnaﬂana
 izdraﬂana
@@ -1990,9 +1992,9 @@ isklawﬂana
 kauwﬂana
 ayzrauwﬂana
 naegattauwﬂana
+ayﬂana
 layﬂana
 ißlayﬂana
-Ôayﬂana
 salocyﬂana
 paradyﬂana
 pawaddyﬂana
@@ -2029,7 +2031,6 @@ pozwa¥lla¥ﬂana
 mirkﬂkena¥ﬂana
 sarunna¥ﬂana
 parßarunna¥ﬂana
-ßyÔﬂana
 diz&z&ena
 ejaudz&ena
 aena
@@ -2796,6 +2797,7 @@ a¥dda¥ta
 skirga¥ta
 rakﬂta
 warkﬂta
+wa
 plia^wa
 kla^wa
 kie^wa
@@ -2863,7 +2865,6 @@ brywa
 sywa
 zywa
 sa¥wa
-gaÔwa
 wariawixa
 bya
 nabya
@@ -3028,9 +3029,6 @@ duﬂa
 ßawaeluﬂa
 leyﬂa
 labbadaryﬂa
-pigeÔa
-miggÔa
-emaeßÔa
 ab
 lab
 pattilab
@@ -3172,6 +3170,7 @@ barzd
 zwirgßd
 barßd
 sa¥wbba¥d
+e
 baz&e
 waez&e
 bez&e
@@ -3927,7 +3926,7 @@ noba^lie
 mie^lie
 pekalie
 bralie
-eÔeklie
+eklie
 karklie
 ka¥rklie
 yzka^llie
@@ -4268,6 +4267,7 @@ pewiltume
 cirtume
 krittume
 yzkaytume
+yme
 naelayme
 gyme
 salyme
@@ -4279,7 +4279,6 @@ praekﬂazyme
 prekﬂazyme
 staltezyme
 prekﬂzyme
-ßa¥Ôyme
 blizme
 ze~me
 uzze~me
@@ -4364,9 +4363,9 @@ lia^une
 liaune
 jaune
 szune
+ixne
 zwaixne
 wixne
-˙ixne
 zwayxne
 wayne
 pemyne
@@ -4573,7 +4572,7 @@ saknite
 spannite
 ßa¥pite
 krite
-ißkaÔtite
+tite
 ßwite
 na¥zite
 ßamaißite
@@ -5069,7 +5068,7 @@ waliamig
 pejemig
 laimig
 naelaimig
-naeÔa¥imig
+a¥imig
 ßtammig
 paiemmig
 zemmig
@@ -5386,11 +5385,12 @@ zwagguli
 zwarguli
 piﬂli
 saermukﬂli
+mi
 du^mi
+ami
 budami
 minami
 minnami
-perÔami
 putraimi
 epimi
 ßa¥lmi
@@ -5723,6 +5723,7 @@ sa¥tra¥uk
 ßa¥uk
 ßarrawk
 notrawk
+yk
 layk
 nelayk
 cyk
@@ -5738,8 +5739,6 @@ ayztyk
 ayßtyk
 muzyk
 ßyk
-ayzÔyk
-noßÔyk
 maleßk
 zemeßk
 laißk
@@ -5757,6 +5756,7 @@ wa¥ira¥k
 tewa¥k
 a¥ppaﬂk
 braliﬂk
+l
 a¥tka^l
 ce^l
 me^l
@@ -5764,6 +5764,7 @@ krakme^l
 krapme^l
 abo^l
 baku^l
+bal
 migdal
 gal
 kal
@@ -5771,14 +5772,21 @@ apakal
 atpekal
 atpakkal
 atpa¥kkal
+apkal
 atkal
+ißkal
 wadmal
 ßmal
+pal
 appal
 zal
+ßal
+lacl
+el
 dael
 ßkiael
 lael
+nael
 ßpael
 distael
 wael
@@ -5791,8 +5799,10 @@ lykßtacel
 wacel
 barßcecel
 kodel
+leel
 kegel
 zegel
+pigel
 aergel
 kiegiel
 kegiel
@@ -5805,10 +5815,14 @@ lel
 cirmel
 conßtantinopel
 ßpel
+sel
 metel
 artel
+wel
 aewel
 naewel
+paewel
+zaewel
 naelewel
 pa¥rtowel
 ozel
@@ -5820,13 +5834,18 @@ mu^leßel
 weßel
 waeßßel
 weßßel
+gl
+miggl
 augl
 pohl
+mil
 pil
 nopil
 april
 wil
+zil
 dzil
+kl
 akl
 adakl
 ßaekl
@@ -5836,15 +5855,22 @@ weikl
 naetikl
 kakkl
 arkl
+girkl
 accemirkl
 weykl
+ka¥kl
 gall
+nl
 gabbol
 fiol
 ßiol
 skol
 ßkol
 tol
+zol
+apl
+arl
+perl
 kurl
 kaul
 saul
@@ -5853,17 +5879,29 @@ paßßaul
 cybul
 gul
 isgul
+pul
 wyßßenotul
 ßul
 peneßul
 paßßa¥ul
 pa¥ßßa¥ul
+kyl
 akyl
+pyl
 atwyl
+ßyl
+zl
+ayzl
+ßl
+emaeßl
 emeßl
+wißl
 dzißl
+noßl
+yßl
 atka¥l
 wa¥l
+ßa¥l
 vznie^m
 do^m
 sliappiu^m
@@ -5906,9 +5944,9 @@ cittam
 naepazyßtam
 daewam
 dyzzam
+ßam
 me^ßam
 wyßßam
-baÔßam
 newiz¥am
 naedeaﬂam
 waeﬂam
@@ -6015,6 +6053,7 @@ jaunum
 brum
 wa¥rrum
 durum
+tum
 cetum
 baltum
 ßaltum
@@ -6025,7 +6064,6 @@ parjoßtum
 noßtum
 kla¥tßtum
 yßtum
-baÔtum
 dziwum
 bezum
 rozum
@@ -6623,11 +6661,11 @@ vndenka¥rio
 eßka¥rio
 ßa¥krawio
 ko
+u^ko
 lu^ko
 elu^ko
 aplu^ko
 yzlu^ko
-Ôu^ko
 mako
 graeko
 peko
@@ -6785,7 +6823,6 @@ nowaz¥z¥o
 ﬂo
 ißtukﬂo
 waerﬂo
-me^Ôo
 ßlia^p
 uzte^p
 vzte^p
@@ -7013,6 +7050,7 @@ wa¥kka¥r
 pa¥r
 wa¥r
 makﬂa¥r
+s
 ißpleßtema&s
 le^laia^s
 aderkußtenaia^s
@@ -7385,7 +7423,7 @@ tas
 ma^tas
 le^tas
 ßwe^tas
-gÔo^tas
+o^tas
 bru^tas
 gramatas
 apßeryatas
@@ -7428,7 +7466,6 @@ plaukßtas
 salßtas
 außtas
 byßtas
-weÔtas
 ragawas
 kawas
 ayzkawas
@@ -7686,9 +7723,9 @@ ißmaßges
 mazekaies
 uzleies
 waggies
+kies
 akies
 zekkies
-baÔkies
 aelies
 ßeptinies
 breßmoies
@@ -8899,13 +8936,13 @@ izpoßtitais
 soßtitais
 ißkla¥ußtitais
 lauzitais
+aßitais
 laßitais
 glaßitais
-kÔaßitais
 taißitais
+außitais
 klaußitais
 isklaußitais
-kÔaußitais
 iz&kla¥ußitais
 patayßitais
 izlaßßitais
@@ -8999,8 +9036,8 @@ koßaccis
 plaeccis
 pleccis
 ra¥puccis
+icis
 wylicis
-wiÔicis
 laymojcis
 izalcis
 dancis
@@ -9789,6 +9826,7 @@ glyﬂis
 seiejs
 bijs
 sakaltjs
+ks
 ma^ks
 lele^ks
 cellie^ne^ks
@@ -10144,7 +10182,7 @@ wara¥neks
 naz¥neks
 pleﬂneks
 ßweﬂneks
-gÔa¥ﬂneks
+a¥ﬂneks
 ßpeks
 reks
 greks
@@ -10309,15 +10347,14 @@ sewißks
 la¥ißks
 elßks
 daelwaerßks
+ayßks
 layßks
-Ôayßks
 sewyßks
 wa¥inia¥ks
 tra¥ks
 wa¥ks
 ko¥ks
 deniﬂks
-puÔks
 lee^ls
 le^ls
 abo^ls
@@ -11006,7 +11043,6 @@ naeßkißtums
 mykßtums
 karßtums
 skyßtums
-baÔtums
 puums
 sapuums
 ßapuums
@@ -11272,12 +11308,12 @@ sprogains
 trakkains
 rukains
 pa¥kains
+lains
 naedubblains
 daegglains
 migglains
 sullains
 ßullains
-ßuÔlains
 abdomains
 naeabdomains
 akminains
@@ -11852,7 +11888,6 @@ ce^ts
 laee^ts
 eßprenge^ts
 aellie^ts
-me^ts
 sase^ts
 we^ts
 skinkio^ts
@@ -11867,6 +11902,7 @@ aßßo^ts
 gru^ts
 naeßwabats
 pebats
+dats
 apßu^dats
 ßwabadats
 yztradats
@@ -11876,7 +11912,6 @@ naeyzßtradats
 neyﬂtradats
 zaldats
 zoldats
-zoÔdats
 pededzeats
 bagats
 baggats
@@ -12567,11 +12602,11 @@ saßeßts
 neßeßts
 uzaugßts
 ßaklugßts
+aißts
 skaißts
 ßkaißts
 palaißts
 izlaißts
-paÔaißts
 skißts
 ßkißts
 naeßkißts
@@ -12643,6 +12678,7 @@ ba¥gga¥ts
 ma¥ts
 pra¥ts
 aukﬂts
+mÍts
 us
 eia^us
 naegaus
@@ -12759,6 +12795,7 @@ strus
 ßtrus
 kariuwyrus
 dzyrus
+tus
 zaldatus
 watus
 laetus
@@ -12773,7 +12810,6 @@ muttus
 pautus
 putus
 weßtus
-baÔtus
 saewus
 ßpalwus
 zywus
@@ -12840,6 +12876,7 @@ ro^cys
 bulcys
 yzbredys
 knaggys
+kys
 ugguna^kys
 blu^kys
 akys
@@ -12873,7 +12910,6 @@ blukys
 pukys
 naudapukys
 dußmopukys
-baÔkys
 ukklys
 naetyklys
 mys
@@ -12947,9 +12983,7 @@ tukﬂs
 ßpoﬂs
 droﬂs
 glyﬂs
-zaeweÔs
-miÔs
-ziÔs
+t
 uzia^t
 ja^t
 sna^t
@@ -13872,7 +13906,7 @@ klußßena¥t
 ßa`e¥t
 paﬂt
 atplaeﬂt
-apkaÔt
+u
 ßpe^z&u
 gre^z&u
 maez&u
@@ -14345,6 +14379,7 @@ atßaku
 wyßaku
 paßßaku
 yßßaku
+eku
 aeku
 laeku
 spaeku
@@ -14379,8 +14414,6 @@ wyrßneku
 manteku
 cilweku
 cylweku
-ßaÔeku
-yßÔeku
 aißwediku
 pa¥lliku
 ßliku
@@ -14447,6 +14480,7 @@ turku
 pyrku
 ßapyrku
 nopyrku
+auku
 kauku
 lauku
 yzlauku
@@ -14462,7 +14496,6 @@ ußtrauku
 ßauku
 atßauku
 ißßauku
-Ôauku
 cuku
 luku
 muku
@@ -14473,7 +14506,7 @@ ebruku
 layku
 lyku
 ßlyku
-Ôatinißku
+atinißku
 wyrißku
 drußku
 tußku
@@ -14729,17 +14762,15 @@ sunu
 maynu
 etynu
 zynu
-lacÔnu
-pyÔnu
 pu
 atka^pu
 attre^pu
+o^pu
 ko^pu
 lo^pu
 to^pu
 ßto^pu
 ßaßto^pu
-Ôo^pu
 kapu
 parkapu
 tapu
@@ -15136,7 +15167,6 @@ runuu
 ßaﬂuu
 wu
 aizßkia^wu
-ßta^wu
 bli^awu
 nokawu
 sawu
@@ -15180,6 +15210,7 @@ dywu
 zywu
 dzywu
 parßta¥wu
+ßt‚wu
 ryu
 wyu
 zu
@@ -15214,6 +15245,7 @@ ayßledzu
 redzu
 palidzu
 myrdzu
+udzu
 daudzu
 liaudzu
 nozmaudzu
@@ -15233,7 +15265,6 @@ atludzu
 a¥tludzu
 atudzu
 apßudzu
-noßÔudzu
 bydzu
 lydzu
 atplaezu
@@ -15414,7 +15445,6 @@ vzpuﬂu
 byﬂu
 ytentyﬂu
 yßﬂu
-paeweÔu
 laymigv
 pedzirdenv
 jezv
@@ -15854,7 +15884,7 @@ waggars{waggars }
 kaz{kaz }
 paemaz{paemaz }
 labbiba&{lab biba&}
- .}
+ /.}
 yßßaukﬂan{yßßauk. ﬂan.}
 {v.}
 p{my / z¥elazny.}
@@ -16023,6 +16053,7 @@ ißtraukt{ißtraukr}
 wa¥kka¥r{wa¥k: ka¥r}
 daz¥zenadas{daz¥z& nad s}
 kukkuris{kukkur s}
+s{akl/s}
 gabbalo^s{gabb_lo^s}
 barribas{barrib_s}
 smaykis{smayk_s}
@@ -16148,7 +16179,6 @@ slapkauws{slap kauws}
 da¥ncotays{da¥ncotnys}
 barriba¥s{barrriba¥s}
 pe^lana¥ta¥s{pe^l ana¥ta¥s}
-arkÔs{akÔs}
 male^t{apae demale^t}
 lio^t{l,o^t}
 grammat{grmmat}
@@ -16241,7 +16271,7 @@ staweﬂa~
 ekslaiﬂa~
 aißmakﬂa~
 nakupraekﬂa~
-apÔukﬂa~
+ukﬂa~
 sadarﬂa~
 yßlaecca¥ﬂa~
 we~
@@ -16263,6 +16293,7 @@ ayß
 wyß
 aßß
 penßeßß
+a¥
 ßluz&a¥
 gru^ba¥
 la¥bba¥
@@ -16406,7 +16437,6 @@ lipa¥ma¥
 pelipa¥ma¥
 naeatra¥ißa¥ma¥
 sa¥e^ﬂa¥ma¥
-de^na¥
 daudzana¥
 peglaudaﬂana¥
 raudaﬂana¥
@@ -16599,6 +16629,7 @@ apruna¥ﬂa¥na¥
 o^ßna¥ﬂa¥na¥
 bezmiteﬂna¥
 tukﬂna¥
+dÍna¥
 pa¥
 zarnaßa^pa¥
 sanaesßa^pa¥
@@ -16651,9 +16682,6 @@ ikﬂa¥
 smarﬂa¥
 ma¥zzuwaerﬂa¥
 zwerﬂa¥
-ka¥kÔa¥
-kyÔa¥
-wißÔa¥
 ßlakterc¥
 maizas¥
 galds¥
@@ -16667,7 +16695,7 @@ maeklotais¥
 plukﬂkis¥
 aklis¥
 perklis¥
-ßuÔaißis¥
+aißis¥
 ßpaeks¥
 waiks¥
 tauks¥
@@ -16824,6 +16852,3 @@ ißpuﬂ
 zwaerayﬂ
 wayﬂ
 glyﬂ
-leeÔ
-ßkieÔ
-girkÔ
