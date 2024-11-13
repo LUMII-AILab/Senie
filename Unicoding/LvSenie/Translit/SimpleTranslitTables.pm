@@ -13784,27 +13784,27 @@ our $TABLES_SINGLES = {
         [ 'w', 'v', ],
         [ 'qu', 'kv', ],
         [ 'lly', 'ļļ', ],
-        [ 'allaſch', 'a∆aſch', ],
-        [ 'elle', 'e∆e', ],
-        [ 'Pilli\b{wb}', 'pi∆i', ],
-        [ 'pillu', 'pi∆u', ],
-        [ 'pilla', 'pi∆a', ],
-        [ 'pills', 'pi∆s', '1' ],
-        [ 'Vella', 'Ve∆a', ],
-        [ 'Vellu', 'Ve∆u', ],
-        [ 'Vells', 'Ve∆s', ],
-        [ 'Vello', 'Ve∆o', ],
-        [ 'Vellß', 'Ve∆s', ],
+        [ 'allaſch', 'a∆aſch', ],	# Palīgmaiņa
+        [ 'elle', 'e∆e', ],	# Palīgmaiņa
+        [ 'Pilli\b{wb}', 'pi∆i', ],	# Palīgmaiņa
+        [ 'pillu', 'pi∆u', ],	# Palīgmaiņa
+        [ 'pilla', 'pi∆a', ],	# Palīgmaiņa
+        [ 'pills', 'pi∆s', '1' ],	# Palīgmaiņa
+        [ 'Vella', 'Ve∆a', ],	# Palīgmaiņa
+        [ 'Vellu', 'Ve∆u', ],	# Palīgmaiņa
+        [ 'Vells', 'Ve∆s', ],	# Palīgmaiņa
+        [ 'Vello', 'Ve∆o', ],	# Palīgmaiņa
+        [ 'Vellß', 'Ve∆s', ],	# Palīgmaiņa
         [ 'Vellſt', 'Valst', ],
-        [ '\b{wb}Ell\b{wb}', 'E∆', ],
+        [ '\b{wb}Ell\b{wb}', 'E∆', ],	# Palīgmaiņa
         [ 'll', 'l', ],
-        [ '∆', 'll', ],
+        [ '∆', 'll', ],	# Palīgmaiņas novākšana
         [ '\b{wb}abbr', 'apbr', ],
         [ '\b{wb}abž', 'apž', ],
         [ '\b{wb}abg', 'apg', ],
         [ '\b{wb}abj', 'apj', ],
         [ '\b{wb}abģ', 'apģ', ],
-        [ '\b{wb} adſ', 'atſ', ],
+        [ '\b{wb}adſ', 'atſ', ],
         [ 'bb', 'b', ],
         [ 'dd', 'd', ],
         [ 'gg', 'g', ],
