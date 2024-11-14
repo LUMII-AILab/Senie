@@ -1,0 +1,3178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Elg1672_Cat">
+     <sourceDesc>
+      <author>Georgs Elgers</author>
+      <title>Catechismus</title>
+      <date>1672</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; katehisms</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_1_1"/>
+       <div type="Language" lang="Latin">CATECHISMUS</div>
+       <lb id="Elg1672_Cat_1_2"/>
+       <div type="Language" lang="Latin">SEV</div>
+       <lb id="Elg1672_Cat_1_3"/>
+       <div type="Language" lang="Latin">Brevis Inſtitutio do-</div>
+       <lb id="Elg1672_Cat_1_4"/>
+       <div type="Language" lang="Latin">ctrinae Chriſtianae</div>
+       <lb id="Elg1672_Cat_1_5"/>
+       <div type="Language" lang="Latin">Quinque Capitibus com-</div>
+       <lb id="Elg1672_Cat_1_6"/>
+       <div type="Language" lang="Latin">praehenſa in gratiam gen-</div>
+       <lb id="Elg1672_Cat_1_7"/>
+       <div type="Language" lang="Latin">tis Lothavicae.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_1_8"/>
+       <div type="Language" lang="Latin">Per</div>
+       <lb id="Elg1672_Cat_1_11"/>
+       <div type="Language" lang="Latin">é Societate IESV.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_1_12"/>
+       <div type="Language" lang="Latin">Dulcis amor IESVS fons vitae, ſpeſq; ſalutis</div>
+       <lb id="Elg1672_Cat_1_13"/>
+       <div type="Language" lang="Latin">Sis nobis recta doctor ad aſtra via.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_1_14"/>
+       <div type="Language" lang="Latin">VILNAE</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_1_15"/>
+       <div type="Language" lang="Latin">Typis Acad: Soc: IESV Anno D. 1672.</div>
+      </div>
+      <pb n="3"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_3_1"/>
+        <div type="Language" lang="Latvian">IKſa vnd yſtena maciba/ kattra</div>
+       <lb id="Elg1672_Cat_3_2"/>
+        <div type="Language" lang="Latvian">ykwenam kriſtitam cilwaekam</div>
+       <lb id="Elg1672_Cat_3_3"/>
+        <div type="Language" lang="Latvian">waiag zinnat.</div>
+       <lb id="Elg1672_Cat_3_4"/>
+        <div type="Language" lang="Latvian">Kas ir wens yſtens kriſtits cilwaeks?</div>
+       <lb id="Elg1672_Cat_3_5"/>
+        <div type="Language" lang="Latvian">Tas katters kriſtits ir/ vnd wyſſunotul</div>
+       <lb id="Elg1672_Cat_3_6"/>
+        <div type="Language" lang="Latvian">tycce vnd atziſt/ ko ta katoliſka kriſtita</div>
+       <lb id="Elg1672_Cat_3_7"/>
+        <div type="Language" lang="Latvian">Baznica tycca vnd atziſt.</div>
+       <lb id="Elg1672_Cat_3_8"/>
+        <div type="Language" lang="Latvian">Pe kâda zyme mes wenu yſtenu kriſtitu</div>
+       <lb id="Elg1672_Cat_3_9"/>
+        <div type="Language" lang="Latvian">cilwaeku paziſtam?</div>
+       <lb id="Elg1672_Cat_3_10"/>
+        <div type="Language" lang="Latvian">Pe to kad tas ſeuw abzymoias ar to</div>
+       <lb id="Elg1672_Cat_3_11"/>
+        <div type="Language" lang="Latvian">ſwaetu kruſtu.</div>
+       <lb id="Elg1672_Cat_3_12"/>
+        <div type="Language" lang="Latvian">Ka bûs wenam kriſtitam cilwaekam</div>
+       <lb id="Elg1672_Cat_3_13"/>
+        <div type="Language" lang="Latvian">ſeuw abzymotes?</div>
+       <lb id="Elg1672_Cat_3_14"/>
+        <div type="Language" lang="Latvian">Tam bûs to labbu rôku likt prekßan pêras/</div>
+       <lb id="Elg1672_Cat_3_15"/>
+        <div type="Language" lang="Latvian">vnd ſaccit. Ekßan wardu to Taewu.</div>
+       <lb id="Elg1672_Cat_3_16"/>
+        <div type="Language" lang="Latvian">Paec bus tam to rôku likt appakßan</div>
+       <lb id="Elg1672_Cat_3_17"/>
+        <div type="Language" lang="Latvian">krûtems/ vnd ſaccit: Vnd to Daelu.</div>
+       <lb id="Elg1672_Cat_3_18"/>
+        <div type="Language" lang="Latvian">Vnd paec no kreiſas rôkas vz labbu/</div>
+       <lb id="Elg1672_Cat_3_19"/>
+        <div type="Language" lang="Latvian">vnd ſaccit: Vnd to Swaetu Garru.</div>
+       <lb id="Elg1672_Cat_3_20"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+       <lb id="Elg1672_Cat_3_21"/>
+        <div type="Language" lang="Latvian">Kapaec maes rôku pe pêras likdami ſakkam:</div>
+       <lb id="Elg1672_Cat_3_22"/>
+        <div type="Language" lang="Latvian">Ekßan wardu to Taewa?</div>
+       <lb id="Elg1672_Cat_3_23"/>
+        <div type="Language" lang="Latvian">Tapaec ka tas Taews ir tás ſwetas Tryadibas</div>
+       <lb id="Elg1672_Cat_3_24"/>
+        <div type="Language" lang="Latvian">eſakums.</div>
+       <lb id="Elg1672_Cat_3_25"/>
+        <div type="Language" lang="Latvian">Kapaec appakß krûtems roku likdami</div>
+      </div>
+      <pb n="4"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_4_1"/>
+        <div type="Language" lang="Latvian">ſakkam: Vn to Daelu?</div>
+       <lb id="Elg1672_Cat_4_2"/>
+        <div type="Language" lang="Latvian">Tapaec ka Dewa daels no debbeſſu nâcis</div>
+       <lb id="Elg1672_Cat_4_3"/>
+        <div type="Language" lang="Latvian">vnd ekßan ſwaetas Jumprauwas Mariae</div>
+       <lb id="Elg1672_Cat_4_4"/>
+        <div type="Language" lang="Latvian">mêſa par mums cîlwaeks tappis ir.</div>
+       <lb id="Elg1672_Cat_4_5"/>
+        <div type="Language" lang="Latvian">Kapaec no kreiſa rôko vz labbu ſakkam:</div>
+       <lb id="Elg1672_Cat_4_6"/>
+        <div type="Language" lang="Latvian">Vnd to Swaetu Garru?</div>
+       <lb id="Elg1672_Cat_4_7"/>
+        <div type="Language" lang="Latvian">Tapaec ka tas Swaets Garrs no Taewu</div>
+       <lb id="Elg1672_Cat_4_8"/>
+        <div type="Language" lang="Latvian">vnd Daelu yzêt/ ôterkart/ ár tapaec.</div>
+       <lb id="Elg1672_Cat_4_9"/>
+        <div type="Language" lang="Latvian">ka mums bus pe to peminnaet/ ka Chriſtus</div>
+       <lb id="Elg1672_Cat_4_10"/>
+        <div type="Language" lang="Latvian">mums ir caur tas kruſtas mokas</div>
+       <lb id="Elg1672_Cat_4_11"/>
+        <div type="Language" lang="Latvian">weddis no mużigas pazußanas (kattra</div>
+       <lb id="Elg1672_Cat_4_12"/>
+        <div type="Language" lang="Latvian">caur kreiſa rôku bus ſapraſt) vz to</div>
+       <lb id="Elg1672_Cat_4_13"/>
+        <div type="Language" lang="Latvian">mużige dziwoßana. (Kattra ta labba</div>
+       <lb id="Elg1672_Cat_4_14"/>
+        <div type="Language" lang="Latvian">rôka zymo.</div>
+       <lb id="Elg1672_Cat_4_15"/>
+        <div type="Language" lang="Latvian">Ko mums tas kruſtas zyme pallidza?</div>
+       <lb id="Elg1672_Cat_4_16"/>
+        <div type="Language" lang="Latvian">Pa daudzems lêtems pallydz: wyſſu=</div>
+       <lb id="Elg1672_Cat_4_17"/>
+        <div type="Language" lang="Latvian">wairak pretty waelnu/ vnd waelnu</div>
+       <lb id="Elg1672_Cat_4_18"/>
+        <div type="Language" lang="Latvian">kardinaßana/ vnd nakti baedeklems; vnd</div>
+       <lb id="Elg1672_Cat_4_19"/>
+        <div type="Language" lang="Latvian">wyſſas lêtas ſwaetitas top caur kruſtu</div>
+       <lb id="Elg1672_Cat_4_20"/>
+        <div type="Language" lang="Latvian">zyme.</div>
+       <lb id="Elg1672_Cat_4_21"/>
+        <div type="Language" lang="Latvian">Tad te waelni byſtas to kruſtu zyme?</div>
+       <lb id="Elg1672_Cat_4_22"/>
+        <div type="Language" lang="Latvian">Tycce ka byſtas: áiſto te no Chriſto</div>
+       <lb id="Elg1672_Cat_4_23"/>
+        <div type="Language" lang="Latvian">caur to kruſtu ir vzwarraeti.</div>
+       <lb id="Elg1672_Cat_4_24"/>
+        <div type="Language" lang="Latvian">Cek letas cilwaekam waiag zinnat/ ka</div>
+       <lb id="Elg1672_Cat_4_25"/>
+        <div type="Language" lang="Latvian">winß war ſwaets tapt?</div>
+      </div>
+      <pb n="5"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_5_1"/>
+        <div type="Language" lang="Latvian">Pec. 1. Tycciba. 2. Cerriba. 3. Miliba.</div>
+       <lb id="Elg1672_Cat_5_2"/>
+        <div type="Language" lang="Latvian">4. tos Swaetus Sacramentus.</div>
+       <lb id="Elg1672_Cat_5_3"/>
+        <div type="Language" lang="Latvian">5. to kriſtita taiſniba.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_5_4"/>
+        <div type="Language" lang="Latvian">Tas pirmas gabbols no tas</div>
+       <lb id="Elg1672_Cat_5_5"/>
+        <div type="Language" lang="Latvian">ſwaetas Ticcibas.</div>
+       <lb id="Elg1672_Cat_5_6"/>
+        <div type="Language" lang="Latvian">Par ko ta tycciba waiag wyſſems?</div>
+       <lb id="Elg1672_Cat_5_7"/>
+        <div type="Language" lang="Latvian">Tapaec ka bes tyccibas newaens Dewam</div>
+       <lb id="Elg1672_Cat_5_8"/>
+        <div type="Language" lang="Latvian">patyk.</div>
+       <lb id="Elg1672_Cat_5_9"/>
+        <div type="Language" lang="Latvian">Ko bus wenam kriſtitam cilwaekam</div>
+       <lb id="Elg1672_Cat_5_10"/>
+        <div type="Language" lang="Latvian">tyccaet?</div>
+       <lb id="Elg1672_Cat_5_11"/>
+        <div type="Language" lang="Latvian">Tam bûs tyccaet tôs dywwipadeſmittus</div>
+       <lb id="Elg1672_Cat_5_12"/>
+        <div type="Language" lang="Latvian">gabbalinus/ kattrus tê ſwaeti Apoſtuli</div>
+       <lb id="Elg1672_Cat_5_13"/>
+        <div type="Language" lang="Latvian">mums ir atſtaiußi: vnd ko Dews</div>
+       <lb id="Elg1672_Cat_5_14"/>
+        <div type="Language" lang="Latvian">caur to Swaeta katholißka Baznica</div>
+       <lb id="Elg1672_Cat_5_15"/>
+        <div type="Language" lang="Latvian">mums tyccaet pawaele.</div>
+       <lb id="Elg1672_Cat_5_16"/>
+        <div type="Language" lang="Latvian">Skait tôs dywwipadeſmittus gabolus.</div>
+       <lb id="Elg1672_Cat_5_17"/>
+        <div type="Language" lang="Latvian">1. Es tyccu ekßan Dewu to Taewu</div>
+       <lb id="Elg1672_Cat_5_18"/>
+        <div type="Language" lang="Latvian">wyſſuwalditaiu/ radditaiu debbeſſes</div>
+       <lb id="Elg1672_Cat_5_19"/>
+        <div type="Language" lang="Latvian">vnd zemmes. 2. Vnd ekßan JESVM</div>
+       <lb id="Elg1672_Cat_5_20"/>
+        <div type="Language" lang="Latvian">Chriſtum winia wêmnìgam daelam</div>
+       <lb id="Elg1672_Cat_5_21"/>
+        <div type="Language" lang="Latvian">mûſam kungam. 3. Katters ir</div>
+       <lb id="Elg1672_Cat_5_22"/>
+        <div type="Language" lang="Latvian">eiemts no to Swaetu Garru/ pedzimts</div>
+       <lb id="Elg1672_Cat_5_23"/>
+        <div type="Language" lang="Latvian">no Maria tâs Jumprawas. 4. Cêtis</div>
+       <lb id="Elg1672_Cat_5_24"/>
+        <div type="Language" lang="Latvian">appakßan Pontio Pilato/ kruſta peſiſts/</div>
+       <lb id="Elg1672_Cat_5_25"/>
+        <div type="Language" lang="Latvian">nomirris vnd abbeſts. 5. Zemme</div>
+      </div>
+      <pb n="6"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_6_1"/>
+        <div type="Language" lang="Latvian">kâpis ekßan helles/ traeßa dena átkal</div>
+       <lb id="Elg1672_Cat_6_2"/>
+        <div type="Language" lang="Latvian">aukßan caeles no tems mirronems.</div>
+       <lb id="Elg1672_Cat_6_3"/>
+        <div type="Language" lang="Latvian">6. Vzkâpa debbeſsis/ ſaede pa labba rôka</div>
+       <lb id="Elg1672_Cat_6_4"/>
+        <div type="Language" lang="Latvian">Dewa Taewa wyſſuwalditaiu. 7.</div>
+       <lb id="Elg1672_Cat_6_5"/>
+        <div type="Language" lang="Latvian">No turrens tas nâcis ſodyt dziwus vnd</div>
+       <lb id="Elg1672_Cat_6_6"/>
+        <div type="Language" lang="Latvian">nomirrußus. 8. Es tyccu ekßan to</div>
+       <lb id="Elg1672_Cat_6_7"/>
+        <div type="Language" lang="Latvian">Swaetu Garru. 9. Wena ſwaeta katholiſtka</div>
+       <lb id="Elg1672_Cat_6_8"/>
+        <div type="Language" lang="Latvian">Baznica/ wena ſwaetus draudziba.</div>
+       <lb id="Elg1672_Cat_6_9"/>
+        <div type="Language" lang="Latvian">10. Graekus pamaeßana. 11.</div>
+       <lb id="Elg1672_Cat_6_10"/>
+        <div type="Language" lang="Latvian">Aukßan celßana tâs mêſas. 12. Vnd</div>
+       <lb id="Elg1672_Cat_6_11"/>
+        <div type="Language" lang="Latvian">wêna mûziga dziwoßana. Amen.</div>
+       <lb id="Elg1672_Cat_6_12"/>
+        <div type="Language" lang="Latvian">Ko mums bûs macites yz ßems dywwipadeſmittems</div>
+       <lb id="Elg1672_Cat_6_13"/>
+        <div type="Language" lang="Latvian">gabbulems?</div>
+       <lb id="Elg1672_Cat_6_14"/>
+        <div type="Language" lang="Latvian">Mums bûs macêtaes atzit Dewu/ kas</div>
+       <lb id="Elg1672_Cat_6_15"/>
+        <div type="Language" lang="Latvian">mums ir raddiß/ vnd wyſſa ßa paſſaul</div>
+       <lb id="Elg1672_Cat_6_16"/>
+        <div type="Language" lang="Latvian">yz neneku: kas mums no mużigas pazußenas</div>
+       <lb id="Elg1672_Cat_6_17"/>
+        <div type="Language" lang="Latvian">peſtyis; vnd parſwaetyis ir</div>
+       <lb id="Elg1672_Cat_6_18"/>
+        <div type="Language" lang="Latvian">caur ſwaetu kriſtiba: Tapaec bus mums</div>
+       <lb id="Elg1672_Cat_6_19"/>
+        <div type="Language" lang="Latvian">ekßan ßo paſſaula ſwaeti dziwot/ Dewam</div>
+       <lb id="Elg1672_Cat_6_20"/>
+        <div type="Language" lang="Latvian">kalpot/ vnd milot/ ka mes paec</div>
+       <lb id="Elg1672_Cat_6_21"/>
+        <div type="Language" lang="Latvian">warram pe Dewu bût.</div>
+       <lb id="Elg1672_Cat_6_22"/>
+        <div type="Language" lang="Latvian">Cêki tad ir Dewi?</div>
+       <lb id="Elg1672_Cat_6_23"/>
+        <div type="Language" lang="Latvian">Wêns wenigs ir Dews: ekßan trims</div>
+       <lb id="Elg1672_Cat_6_24"/>
+        <div type="Language" lang="Latvian">perſonems: Dews Taews/ Dêws Daels/</div>
+       <lb id="Elg1672_Cat_6_25"/>
+        <div type="Language" lang="Latvian">Dews Swaetais Garrs.</div>
+      </div>
+      <pb n="7"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_7_1"/>
+        <div type="Language" lang="Latvian">Jr tad ykwena perſona Dews?</div>
+       <lb id="Elg1672_Cat_7_2"/>
+        <div type="Language" lang="Latvian">Ta ir/ tas Taews ir Dews; Daels ir</div>
+       <lb id="Elg1672_Cat_7_3"/>
+        <div type="Language" lang="Latvian">Dews/ Swaetais Gars ir Dews.</div>
+       <lb id="Elg1672_Cat_7_4"/>
+        <div type="Language" lang="Latvian">Ja ykwena perſona ir Dews/ tad trys</div>
+       <lb id="Elg1672_Cat_7_5"/>
+        <div type="Language" lang="Latvian">Dewi bûs?</div>
+       <lb id="Elg1672_Cat_7_6"/>
+        <div type="Language" lang="Latvian">Nae trys Dewi ir/ bet wens Dews/ áiſto</div>
+       <lb id="Elg1672_Cat_7_7"/>
+        <div type="Language" lang="Latvian">wyſsi trys perſones ir ekßan wenas</div>
+       <lb id="Elg1672_Cat_7_8"/>
+        <div type="Language" lang="Latvian">Dewißkas bußennas.</div>
+       <lb id="Elg1672_Cat_7_9"/>
+        <div type="Language" lang="Latvian">Kattra ſtarpa ßems perſonems ir wyſſa</div>
+       <lb id="Elg1672_Cat_7_10"/>
+        <div type="Language" lang="Latvian"><corr>aukſtaka</corr><sic>auſtaka</sic> vnd lêlaka?</div>
+       <lb id="Elg1672_Cat_7_11"/>
+        <div type="Language" lang="Latvian">Wyſsi trys ſeuw lydzeni: newena lêlaka</div>
+       <lb id="Elg1672_Cat_7_12"/>
+        <div type="Language" lang="Latvian">nedz áukſtaká.</div>
+       <lb id="Elg1672_Cat_7_13"/>
+        <div type="Language" lang="Latvian">Ar wena perſona ir pirmaká byuſa</div>
+       <lb id="Elg1672_Cat_7_14"/>
+        <div type="Language" lang="Latvian">prekß ôtra?</div>
+       <lb id="Elg1672_Cat_7_15"/>
+        <div type="Language" lang="Latvian">Newena pirmaká/ newena waelak/ bet</div>
+       <lb id="Elg1672_Cat_7_16"/>
+        <div type="Language" lang="Latvian">wyſsi trys ſeuw lydz.</div>
+       <lb id="Elg1672_Cat_7_17"/>
+        <div type="Language" lang="Latvian">Kur ir Dews?</div>
+       <lb id="Elg1672_Cat_7_18"/>
+        <div type="Language" lang="Latvian">Dews ir wyſſur/ ir debbeſsis/ ir wyrſu</div>
+       <lb id="Elg1672_Cat_7_19"/>
+        <div type="Language" lang="Latvian">zemmes/ ir wyſſos mallôs.</div>
+       <lb id="Elg1672_Cat_7_20"/>
+        <div type="Language" lang="Latvian">Ja Dews wyſſur ir/ kapaec maes ſakkam</div>
+       <lb id="Elg1672_Cat_7_21"/>
+        <div type="Language" lang="Latvian">Taews mûſu kas es debbeſsis?</div>
+       <lb id="Elg1672_Cat_7_22"/>
+        <div type="Language" lang="Latvian">Tadaelie ka winß ekßan debbeſſu ſauwu</div>
+       <lb id="Elg1672_Cat_7_23"/>
+        <div type="Language" lang="Latvian">Dewißku gôdu vnd ſpaeku wyſſems</div>
+       <lb id="Elg1672_Cat_7_24"/>
+        <div type="Language" lang="Latvian">klay râda.</div>
+       <lb id="Elg1672_Cat_7_25"/>
+        <div type="Language" lang="Latvian">Ar zinna vnd raedza Dews ko maes darram?</div>
+      </div>
+      <pb n="8"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_8_1"/>
+        <div type="Language" lang="Latvian">Newen ko maes darram/ bet áridzan ko</div>
+       <lb id="Elg1672_Cat_8_2"/>
+        <div type="Language" lang="Latvian">maes dômam winß zinna.</div>
+       <lb id="Elg1672_Cat_8_3"/>
+        <div type="Language" lang="Latvian">Kuria perſona vzieme muſa cilwaeciba?</div>
+       <lb id="Elg1672_Cat_8_4"/>
+        <div type="Language" lang="Latvian">Ta ôtera perſona Dews Daels/ katters</div>
+       <lb id="Elg1672_Cat_8_5"/>
+        <div type="Language" lang="Latvian">top daewaets JESVS Chriſtus.</div>
+       <lb id="Elg1672_Cat_8_6"/>
+        <div type="Language" lang="Latvian">Kas tas par wards JESVS?</div>
+       <lb id="Elg1672_Cat_8_7"/>
+        <div type="Language" lang="Latvian">Tas wârds no debbeſſu dots/ vnd ſkan</div>
+       <lb id="Elg1672_Cat_8_8"/>
+        <div type="Language" lang="Latvian">tik daudz ka paſſaules peſtitais.</div>
+       <lb id="Elg1672_Cat_8_9"/>
+        <div type="Language" lang="Latvian">Kas JESV Chriſti mata by/ no kattras</div>
+       <lb id="Elg1672_Cat_8_10"/>
+        <div type="Language" lang="Latvian">winß cilwaeks tappa.</div>
+       <lb id="Elg1672_Cat_8_11"/>
+        <div type="Language" lang="Latvian">Wena ſkiſta Jumprauw/ kattras</div>
+       <lb id="Elg1672_Cat_8_12"/>
+        <div type="Language" lang="Latvian">wârds Maria.</div>
+       <lb id="Elg1672_Cat_8_13"/>
+        <div type="Language" lang="Latvian">Ar Dews Taews vnd Swaetais Garrs</div>
+       <lb id="Elg1672_Cat_8_14"/>
+        <div type="Language" lang="Latvian">vziemis muſu cilwaecibu?</div>
+       <lb id="Elg1672_Cat_8_15"/>
+        <div type="Language" lang="Latvian">Ne: tikai JESVS cilwaeke meſu</div>
+       <lb id="Elg1672_Cat_8_16"/>
+        <div type="Language" lang="Latvian">vziemis.</div>
+       <lb id="Elg1672_Cat_8_17"/>
+        <div type="Language" lang="Latvian">Kur tad nu ir JESVS Chriſtus?</div>
+       <lb id="Elg1672_Cat_8_18"/>
+        <div type="Language" lang="Latvian">Sauwas Dewißkas bûßanas paec ir</div>
+       <lb id="Elg1672_Cat_8_19"/>
+        <div type="Language" lang="Latvian">winß wyſſos mallos: bet ſauwas cilwaecibas</div>
+       <lb id="Elg1672_Cat_8_20"/>
+        <div type="Language" lang="Latvian">paec ir winß debbeſsis/ vnd ekßan</div>
+       <lb id="Elg1672_Cat_8_21"/>
+        <div type="Language" lang="Latvian">to Swaetu Sakramentu</div>
+       <lb id="Elg1672_Cat_8_22"/>
+        <div type="Language" lang="Latvian">Par kádas waiadzibas paec Dewa daels</div>
+       <lb id="Elg1672_Cat_8_23"/>
+        <div type="Language" lang="Latvian">cilwaeks tappa?</div>
+       <lb id="Elg1672_Cat_8_24"/>
+        <div type="Language" lang="Latvian">Mûſas waiadzibas paec: ka maes tapti</div>
+       <lb id="Elg1672_Cat_8_25"/>
+        <div type="Language" lang="Latvian">àtpeſtiti no waelnu ſpaeku/ vnd grutu</div>
+       <lb id="Elg1672_Cat_8_26"/>
+        <div type="Language" lang="Latvian">cêtumu.</div>
+      </div>
+      <pb n="9"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_9_1"/>
+        <div type="Language" lang="Latvian">Ka ir mums Dewa Daels Chriſtus</div>
+       <lb id="Elg1672_Cat_9_2"/>
+        <div type="Language" lang="Latvian">JESVS atpeſtiß?</div>
+       <lb id="Elg1672_Cat_9_3"/>
+        <div type="Language" lang="Latvian">Ar ſauwu ruktu cêßanávnd gruta</div>
+       <lb id="Elg1672_Cat_9_4"/>
+        <div type="Language" lang="Latvian">nawe.</div>
+       <lb id="Elg1672_Cat_9_5"/>
+        <div type="Language" lang="Latvian">Kâdas nawes ir winß mirris?</div>
+       <lb id="Elg1672_Cat_9_6"/>
+        <div type="Language" lang="Latvian">Pe kruſtu kôku caur rokams vnd kaiams</div>
+       <lb id="Elg1672_Cat_9_7"/>
+        <div type="Language" lang="Latvian">penagglaets/ trys ſtundas ekßan lêlems</div>
+       <lb id="Elg1672_Cat_9_8"/>
+        <div type="Language" lang="Latvian">môkems kâra/ ekam winß nomirre.</div>
+       <lb id="Elg1672_Cat_9_9"/>
+        <div type="Language" lang="Latvian">Ja winß Dews ir/ ka winß warraeia</div>
+       <lb id="Elg1672_Cat_9_10"/>
+        <div type="Language" lang="Latvian">cêſt?</div>
+       <lb id="Elg1672_Cat_9_11"/>
+        <div type="Language" lang="Latvian">Sauwas cilwaecibas paec ir winß cêtis</div>
+       <lb id="Elg1672_Cat_9_12"/>
+        <div type="Language" lang="Latvian">ka wens cilwaeks: bet ne paec ſauwas</div>
+       <lb id="Elg1672_Cat_9_13"/>
+        <div type="Language" lang="Latvian">Dewibas: áiſto Dews newar cêſt.</div>
+       <lb id="Elg1672_Cat_9_14"/>
+        <div type="Language" lang="Latvian">Kapaec waelnam par mums bya wallia?</div>
+       <lb id="Elg1672_Cat_9_15"/>
+        <div type="Language" lang="Latvian">Par mûſu pirma taewa nozegumu:</div>
+       <lb id="Elg1672_Cat_9_16"/>
+        <div type="Language" lang="Latvian">áiſto Dews winiam dewwe wallia no</div>
+       <lb id="Elg1672_Cat_9_17"/>
+        <div type="Language" lang="Latvian">wyſſadems kokems vnd auglems aeſt/</div>
+       <lb id="Elg1672_Cat_9_18"/>
+        <div type="Language" lang="Latvian">wenu wenigu kôku ayzledze tam ayſkart;</div>
+       <lb id="Elg1672_Cat_9_19"/>
+        <div type="Language" lang="Latvian">bet winß likkas ſeuw parrunnat</div>
+       <lb id="Elg1672_Cat_9_20"/>
+        <div type="Language" lang="Latvian">no waelnu/ katters caur wena czuſka to</div>
+       <lb id="Elg1672_Cat_9_21"/>
+        <div type="Language" lang="Latvian">abôlu teyc/ winß iaeme/ aede/ vnd pretty</div>
+       <lb id="Elg1672_Cat_9_22"/>
+        <div type="Language" lang="Latvian">Dewa bauſlu graekoia/ ekritta ekßan</div>
+       <lb id="Elg1672_Cat_9_23"/>
+        <div type="Language" lang="Latvian">Dewa enaidibas/ ekßan waelnu ſpaeku/</div>
+       <lb id="Elg1672_Cat_9_24"/>
+        <div type="Language" lang="Latvian">vnd maes wyſsi kattri no winiam nakußi.</div>
+      </div>
+      <pb n="10"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_10_1"/>
+        <div type="Language" lang="Latvian">Biá tad ekßan to abôlu tâda waina?</div>
+       <lb id="Elg1672_Cat_10_2"/>
+        <div type="Language" lang="Latvian">Ekßan to ábôlu ne bya káda waina/</div>
+       <lb id="Elg1672_Cat_10_3"/>
+        <div type="Language" lang="Latvian">ábols bya labs/ bet ekßan Adam vnd</div>
+       <lb id="Elg1672_Cat_10_4"/>
+        <div type="Language" lang="Latvian">winia ſewi by waina/ káte Dewa ayzlegßana</div>
+       <lb id="Elg1672_Cat_10_5"/>
+        <div type="Language" lang="Latvian">ſmadaeia/ vnd waelnam auſis</div>
+       <lb id="Elg1672_Cat_10_6"/>
+        <div type="Language" lang="Latvian">dewwe.</div>
+       <lb id="Elg1672_Cat_10_7"/>
+        <div type="Language" lang="Latvian">Kapaec Dewu Taewu malae ká wenu</div>
+       <lb id="Elg1672_Cat_10_8"/>
+        <div type="Language" lang="Latvian">ſirmu wyru; vnd to Swaetu Garru ka</div>
+       <lb id="Elg1672_Cat_10_9"/>
+        <div type="Language" lang="Latvian">wena balloda?</div>
+       <lb id="Elg1672_Cat_10_10"/>
+        <div type="Language" lang="Latvian">Tapaec káDews Taews tems ſwaetems</div>
+       <lb id="Elg1672_Cat_10_11"/>
+        <div type="Language" lang="Latvian">wyrems lydz káDanielam Janiam</div>
+       <lb id="Elg1672_Cat_10_12"/>
+        <div type="Language" lang="Latvian">vnd cittems ſeuw waecca wyra zyme paradias:</div>
+       <lb id="Elg1672_Cat_10_13"/>
+        <div type="Language" lang="Latvian">vnd tas Swaets Garrs vz</div>
+       <lb id="Elg1672_Cat_10_14"/>
+        <div type="Language" lang="Latvian">Chriſtum ballôżu zyme.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_10_15"/>
+        <div type="Language" lang="Latvian">Tas oters gabbols no tas</div>
+       <lb id="Elg1672_Cat_10_16"/>
+        <div type="Language" lang="Latvian">Cerribas.</div>
+       <lb id="Elg1672_Cat_10_17"/>
+        <div type="Language" lang="Latvian">Ko kriſtittam cilwaekam bûs cerraet?</div>
+       <lb id="Elg1672_Cat_10_18"/>
+        <div type="Language" lang="Latvian">To mûżiga debbeſſo preciba/ vnd wyſſunutul</div>
+       <lb id="Elg1672_Cat_10_19"/>
+        <div type="Language" lang="Latvian">kas pe to waiag.</div>
+       <lb id="Elg1672_Cat_10_20"/>
+        <div type="Language" lang="Latvian">Ar wyſsi kattri to katholißka tycciba</div>
+       <lb id="Elg1672_Cat_10_21"/>
+        <div type="Language" lang="Latvian">turri bus debbeſsis? Ne wyſsi: Tapaec</div>
+       <lb id="Elg1672_Cat_10_22"/>
+        <div type="Language" lang="Latvian">ka ne wyſsi dziwo ka pedaer ekßan Dewa</div>
+       <lb id="Elg1672_Cat_10_23"/>
+        <div type="Language" lang="Latvian">biaßana.</div>
+       <lb id="Elg1672_Cat_10_24"/>
+        <div type="Language" lang="Latvian">Ar war kas pattêſu zinnat ar ka winß bus</div>
+      </div>
+      <pb n="11"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_11_1"/>
+        <div type="Language" lang="Latvian">no tems yzraedzetems?</div>
+       <lb id="Elg1672_Cat_11_2"/>
+        <div type="Language" lang="Latvian">Tas newenam ir zinnams/ warraeta tad</div>
+       <lb id="Elg1672_Cat_11_3"/>
+        <div type="Language" lang="Latvian">bût/ iakam Dews to átwertu/ kas raetta</div>
+       <lb id="Elg1672_Cat_11_4"/>
+        <div type="Language" lang="Latvian">notek: Aiſto Swaeti rakſti ſakka:</div>
+       <lb id="Elg1672_Cat_11_5"/>
+        <div type="Language" lang="Latvian">Tas cilwaeks nezinni ár winß tâs milibas/</div>
+       <lb id="Elg1672_Cat_11_6"/>
+        <div type="Language" lang="Latvian">ieb enidaeßanas derrigs ir/ bet</div>
+       <lb id="Elg1672_Cat_11_7"/>
+        <div type="Language" lang="Latvian">wyſſunotul vz nakußu layku prekßan</div>
+       <lb id="Elg1672_Cat_11_8"/>
+        <div type="Language" lang="Latvian">mums ir paſlaepti.</div>
+       <lb id="Elg1672_Cat_11_9"/>
+        <div type="Language" lang="Latvian">Kas mums tad waiag ka maes warram</div>
+       <lb id="Elg1672_Cat_11_10"/>
+        <div type="Language" lang="Latvian">cerret to mużiga preciba?</div>
+       <lb id="Elg1672_Cat_11_11"/>
+        <div type="Language" lang="Latvian">Waiag no wyſſems nawigems graekems</div>
+       <lb id="Elg1672_Cat_11_12"/>
+        <div type="Language" lang="Latvian">ſtippri ſeuw ſargates/ vnd tikkußam</div>
+       <lb id="Elg1672_Cat_11_13"/>
+        <div type="Language" lang="Latvian">bût pe labbems darbems/ vnd</div>
+       <lb id="Elg1672_Cat_11_14"/>
+        <div type="Language" lang="Latvian">wyſſuwairak ekßan paterems/ vnd Dewu</div>
+       <lb id="Elg1672_Cat_11_15"/>
+        <div type="Language" lang="Latvian">lugßana.</div>
+       <lb id="Elg1672_Cat_11_16"/>
+        <div type="Language" lang="Latvian">Kattrus paterus ſkáitidami warram</div>
+       <lb id="Elg1672_Cat_11_17"/>
+        <div type="Language" lang="Latvian">maes cerraet Dewa żaeleſtiba?</div>
+       <lb id="Elg1672_Cat_11_18"/>
+        <div type="Language" lang="Latvian">Tôs kattrus pats Kungs JESVS</div>
+       <lb id="Elg1672_Cat_11_19"/>
+        <div type="Language" lang="Latvian">ir maceis ſauwems Apoſtolems.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_11_20"/>
+        <div type="Language" lang="Latvian">Skaiti tos Paterus.</div>
+       <lb id="Elg1672_Cat_11_21"/>
+        <div type="Language" lang="Latvian">TEws mûſu/ kas tu eſsi debbeſsis:</div>
+       <lb id="Elg1672_Cat_11_22"/>
+        <div type="Language" lang="Latvian">Swaetits topu tauws wârds. Enaka</div>
+       <lb id="Elg1672_Cat_11_23"/>
+        <div type="Language" lang="Latvian">mums tauwa <corr>walſtiba</corr><sic>walſtiba-</sic>. Tauws</div>
+       <lb id="Elg1672_Cat_11_24"/>
+        <div type="Language" lang="Latvian">prâts notek ká debbeſsis/ ta áridzan</div>
+       <lb id="Elg1672_Cat_11_25"/>
+        <div type="Language" lang="Latvian">wyrſu zemmes. Muſa deniſká maiza</div>
+      </div>
+      <pb n="12"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_12_1"/>
+        <div type="Language" lang="Latvian">dôd mums ßoden. Vnd pamette mums</div>
+       <lb id="Elg1672_Cat_12_2"/>
+        <div type="Language" lang="Latvian">muſa parada/ ka maes <corr>pamettam</corr><sic>pawettam</sic> ſauwem</div>
+       <lb id="Elg1672_Cat_12_3"/>
+        <div type="Language" lang="Latvian">paradnekems. Vnd ne ewedde</div>
+       <lb id="Elg1672_Cat_12_4"/>
+        <div type="Language" lang="Latvian">mums ekßan kardinaßanas: Bet peſti</div>
+       <lb id="Elg1672_Cat_12_5"/>
+        <div type="Language" lang="Latvian">mums no to liaunu. Amen.</div>
+       <lb id="Elg1672_Cat_12_6"/>
+        <div type="Language" lang="Latvian">Sakki man ko mes ludzam ár ßims</div>
+       <lb id="Elg1672_Cat_12_7"/>
+        <div type="Language" lang="Latvian">Paterems?</div>
+       <lb id="Elg1672_Cat_12_8"/>
+        <div type="Language" lang="Latvian">Mes ludzam mużigu/ garrigu/ vnd laicigu</div>
+       <lb id="Elg1672_Cat_12_9"/>
+        <div type="Language" lang="Latvian">labbumu no grekims/ no welnu</div>
+       <lb id="Elg1672_Cat_12_10"/>
+        <div type="Language" lang="Latvian">kardenaßanas/ vnd no wyſſadu liaunu/</div>
+       <lb id="Elg1672_Cat_12_11"/>
+        <div type="Language" lang="Latvian">ßas/ vnd ôtras paſſaulas żelige gribbi</div>
+       <lb id="Elg1672_Cat_12_12"/>
+        <div type="Language" lang="Latvian">ſargat.</div>
+       <lb id="Elg1672_Cat_12_13"/>
+        <div type="Language" lang="Latvian">Jſpaudi man ykwenu gabbolin ſawiſki:</div>
+       <lb id="Elg1672_Cat_12_14"/>
+        <div type="Language" lang="Latvian">Par ko ſakkam mes</div>
+       <lb id="Elg1672_Cat_12_15"/>
+        <div type="Language" lang="Latvian">Tews mûſu kas tu es debbeſsis: ir tad</div>
+       <lb id="Elg1672_Cat_12_16"/>
+        <div type="Language" lang="Latvian">Dews mûſu tews?</div>
+       <lb id="Elg1672_Cat_12_17"/>
+        <div type="Language" lang="Latvian">Táir: Dews ir mûſu iſtens tews: Aiſto</div>
+       <lb id="Elg1672_Cat_12_18"/>
+        <div type="Language" lang="Latvian">winß ir mums ekßan ſwetas kriſtibas</div>
+       <lb id="Elg1672_Cat_12_19"/>
+        <div type="Language" lang="Latvian">par ſauwus bernus vziemis. Vnd</div>
+       <lb id="Elg1672_Cat_12_20"/>
+        <div type="Language" lang="Latvian">lydz kámes no tewu vnd mâta to mêſe</div>
+       <lb id="Elg1672_Cat_12_21"/>
+        <div type="Language" lang="Latvian">eſſem dabbuiußi/ ta no Dewu eſſem</div>
+       <lb id="Elg1672_Cat_12_22"/>
+        <div type="Language" lang="Latvian">mes to dweſel dabbuiußi.</div>
+       <lb id="Elg1672_Cat_12_23"/>
+        <div type="Language" lang="Latvian">Ko mes ludzam ſaccidami: Swetits</div>
+       <lb id="Elg1672_Cat_12_24"/>
+        <div type="Language" lang="Latvian">tôpu tauws wards?</div>
+       <lb id="Elg1672_Cat_12_25"/>
+        <div type="Language" lang="Latvian">Mes ludzam ley wyſsi cilweki Dewu</div>
+      </div>
+      <pb n="13"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_13_1"/>
+        <div type="Language" lang="Latvian">paziſti/ ſlawená/ godena/ vnd kalpo.</div>
+       <lb id="Elg1672_Cat_13_2"/>
+        <div type="Language" lang="Latvian">Ko mes ludzam ſaccidami: Enaka</div>
+       <lb id="Elg1672_Cat_13_3"/>
+        <div type="Language" lang="Latvian">mums tauwa walſtibá?</div>
+       <lb id="Elg1672_Cat_13_4"/>
+        <div type="Language" lang="Latvian">Mes ludzam ká mums Dews dod to</div>
+       <lb id="Elg1672_Cat_13_5"/>
+        <div type="Language" lang="Latvian">debbeſſo precibá.</div>
+       <lb id="Elg1672_Cat_13_6"/>
+        <div type="Language" lang="Latvian">Ko mes ludzam ſaccidami: Taus prâts</div>
+       <lb id="Elg1672_Cat_13_7"/>
+        <div type="Language" lang="Latvian">notek ká debbeſsis ta wyrſu zemmes?</div>
+       <lb id="Elg1672_Cat_13_8"/>
+        <div type="Language" lang="Latvian">Mes ludzam no Dewu żeleſtibás/ ká</div>
+       <lb id="Elg1672_Cat_13_9"/>
+        <div type="Language" lang="Latvian">mes warram winia bauſles labbe warram</div>
+       <lb id="Elg1672_Cat_13_10"/>
+        <div type="Language" lang="Latvian">pepildyt/ vnd winiá prâtu darrit/</div>
+       <lb id="Elg1672_Cat_13_11"/>
+        <div type="Language" lang="Latvian">lydz ká te Engeli ekßan debbeſſu darri:</div>
+       <lb id="Elg1672_Cat_13_12"/>
+        <div type="Language" lang="Latvian">Vnd gribbet ko Dews gribbi.</div>
+       <lb id="Elg1672_Cat_13_13"/>
+        <div type="Language" lang="Latvian">Ko mes ludzam ſaccidami: Mûſu dênißká</div>
+       <lb id="Elg1672_Cat_13_14"/>
+        <div type="Language" lang="Latvian">maize dôd mums ßoden?</div>
+       <lb id="Elg1672_Cat_13_15"/>
+        <div type="Language" lang="Latvian">Mes ludzam wyſſu kas mums waiag ir</div>
+       <lb id="Elg1672_Cat_13_16"/>
+        <div type="Language" lang="Latvian">pe meſas vnd dweſelles vzturreßaná.</div>
+       <lb id="Elg1672_Cat_13_17"/>
+        <div type="Language" lang="Latvian">Ko mes ludzam ſaccidami: Pammet</div>
+       <lb id="Elg1672_Cat_13_18"/>
+        <div type="Language" lang="Latvian">mums mûſu paradu/ ko mes pammettam</div>
+       <lb id="Elg1672_Cat_13_19"/>
+        <div type="Language" lang="Latvian">ſauwems páradnekems?</div>
+       <lb id="Elg1672_Cat_13_20"/>
+        <div type="Language" lang="Latvian">Mes ludzam ley <corr>mums</corr><sic>mum</sic> Dews pammettu</div>
+       <lb id="Elg1672_Cat_13_21"/>
+        <div type="Language" lang="Latvian">mûſus grekus/ lydz ka mes pammettam</div>
+       <lb id="Elg1672_Cat_13_22"/>
+        <div type="Language" lang="Latvian">tems kattri mums kâdu liaunu</div>
+       <lb id="Elg1672_Cat_13_23"/>
+        <div type="Language" lang="Latvian">darriußi.</div>
+       <lb id="Elg1672_Cat_13_24"/>
+        <div type="Language" lang="Latvian">Ko ludzam mes ſaccidami: Ne ewedde</div>
+       <lb id="Elg1672_Cat_13_25"/>
+        <div type="Language" lang="Latvian">mus ekßan kardinaßanas?</div>
+      </div>
+      <pb n="14"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_14_1"/>
+        <div type="Language" lang="Latvian">Mes ludzam ley mums Dews ſarga/</div>
+       <lb id="Elg1672_Cat_14_2"/>
+        <div type="Language" lang="Latvian">ka mes ne kâda greka ekrytam caur welnu</div>
+       <lb id="Elg1672_Cat_14_3"/>
+        <div type="Language" lang="Latvian">edoßanu/ ieb mêſas karoßana.</div>
+       <lb id="Elg1672_Cat_14_4"/>
+        <div type="Language" lang="Latvian">Ko ludzam mes ſaccidami: Bet peſti</div>
+       <lb id="Elg1672_Cat_14_5"/>
+        <div type="Language" lang="Latvian">mums no to liaunu?</div>
+       <lb id="Elg1672_Cat_14_6"/>
+        <div type="Language" lang="Latvian">Mes ludzâm ley mums Dews peſti</div>
+       <lb id="Elg1672_Cat_14_7"/>
+        <div type="Language" lang="Latvian">no wyſſades mêas vnd dweſelles</div>
+       <lb id="Elg1672_Cat_14_8"/>
+        <div type="Language" lang="Latvian">likstas.</div>
+       <lb id="Elg1672_Cat_14_9"/>
+        <div type="Language" lang="Latvian">Kapec mes Pateras galla ſakkam</div>
+       <lb id="Elg1672_Cat_14_10"/>
+        <div type="Language" lang="Latvian">Amen</div>
+       <lb id="Elg1672_Cat_14_11"/>
+        <div type="Language" lang="Latvian">Tapec: ka mes ár ßo wardu zinnam</div>
+       <lb id="Elg1672_Cat_14_12"/>
+        <div type="Language" lang="Latvian">darram/ ka mes no ſirdis gribbam/ ko</div>
+       <lb id="Elg1672_Cat_14_13"/>
+        <div type="Language" lang="Latvian">mes ludzam</div>
+       <div type="Language" lang="Latin">e</div>
+        <div type="Language" lang="Latvian">aiſto tas wârds Amen/</div>
+       <lb id="Elg1672_Cat_14_14"/>
+        <div type="Language" lang="Latvian">vz mûſu wallodu tik daudz ſkan/ ka:</div>
+       <lb id="Elg1672_Cat_14_15"/>
+        <div type="Language" lang="Latvian">Ley nôtek.</div>
+       <lb id="Elg1672_Cat_14_16"/>
+        <div type="Language" lang="Latvian">Ar mes warram tôs Swetus kattri</div>
+       <lb id="Elg1672_Cat_14_17"/>
+        <div type="Language" lang="Latvian">debbeſsi ir/ peſaukt?</div>
+       <lb id="Elg1672_Cat_14_18"/>
+        <div type="Language" lang="Latvian">Ta mums ta Sweta Katholißka Baznica</div>
+       <lb id="Elg1672_Cat_14_19"/>
+        <div type="Language" lang="Latvian">mâca darrit/ vnd ta allazin te</div>
+       <lb id="Elg1672_Cat_14_20"/>
+        <div type="Language" lang="Latvian">weccaki kattri prekßan mums ir byußi/</div>
+       <lb id="Elg1672_Cat_14_21"/>
+        <div type="Language" lang="Latvian">darriußi.</div>
+       <lb id="Elg1672_Cat_14_22"/>
+        <div type="Language" lang="Latvian">Ko te Sweti mums labbu dárra/ ka</div>
+       <lb id="Elg1672_Cat_14_23"/>
+        <div type="Language" lang="Latvian">mes tôs cêniam?</div>
+       <lb id="Elg1672_Cat_14_24"/>
+        <div type="Language" lang="Latvian">Tê ludzu Dewu par mums/ vnd wyſſuwairak</div>
+       <lb id="Elg1672_Cat_14_25"/>
+        <div type="Language" lang="Latvian">pallidze mums náwes ſtunda.</div>
+       <lb id="Elg1672_Cat_14_26"/>
+       <div type="Language" lang="Latin">Ar</div>
+      </div>
+      <pb n="15"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_15_1"/>
+        <div type="Language" lang="Latvian">Ar iemmam mes Dewam ſauwu</div>
+       <lb id="Elg1672_Cat_15_2"/>
+        <div type="Language" lang="Latvian">gôdu/ ka mes tôs Swetus ceniam?</div>
+       <lb id="Elg1672_Cat_15_3"/>
+        <div type="Language" lang="Latvian">Ne teßam; bet wairak mes Dewa pratu</div>
+       <lb id="Elg1672_Cat_15_4"/>
+        <div type="Language" lang="Latvian">darram tôs cênidami vnd pelugdami:</div>
+       <lb id="Elg1672_Cat_15_5"/>
+        <div type="Language" lang="Latvian">áiſto tas gôds neneku ne atrauw</div>
+       <lb id="Elg1672_Cat_15_6"/>
+        <div type="Language" lang="Latvian">Dewa gôdu: Mes tôs ne cêniam ieb</div>
+       <lb id="Elg1672_Cat_15_7"/>
+        <div type="Language" lang="Latvian">peſaucam ka Dewu/ bet ka Dewa</div>
+       <lb id="Elg1672_Cat_15_8"/>
+        <div type="Language" lang="Latvian">draugus/ vnd mûſus ayzbildetaius prekßan</div>
+       <lb id="Elg1672_Cat_15_9"/>
+        <div type="Language" lang="Latvian">Dewu. Ja pats Dews paweleia</div>
+       <lb id="Elg1672_Cat_15_10"/>
+        <div type="Language" lang="Latvian">vnd ſuty tôs Job draugus/ ká tems</div>
+       <lb id="Elg1672_Cat_15_11"/>
+        <div type="Language" lang="Latvian">by êt pe Job/ ſaccidams: Eita pe mannu</div>
+       <lb id="Elg1672_Cat_15_12"/>
+        <div type="Language" lang="Latvian">kalpu Job/ vnd vpperer dedzama</div>
+       <lb id="Elg1672_Cat_15_13"/>
+        <div type="Language" lang="Latvian">vppur/ vnd winß par iums lûgs/ vnd</div>
+       <lb id="Elg1672_Cat_15_14"/>
+        <div type="Language" lang="Latvian">winia lugßena grib es vziemt: vnd te</div>
+       <lb id="Elg1672_Cat_15_15"/>
+        <div type="Language" lang="Latvian">darria ká têms by pawelets.</div>
+       <lb id="Elg1672_Cat_15_16"/>
+        <div type="Language" lang="Latvian">Ar warra tê Sweti ekßan debbeſſu</div>
+       <lb id="Elg1672_Cat_15_17"/>
+        <div type="Language" lang="Latvian">zynnat muſa waiadziba?</div>
+       <lb id="Elg1672_Cat_15_18"/>
+        <div type="Language" lang="Latvian">Ekßan Dewu yt ka ſpegeli tê wyſſunotul</div>
+       <lb id="Elg1672_Cat_15_19"/>
+        <div type="Language" lang="Latvian">zinni vnd redze kas mums notêk/</div>
+       <lb id="Elg1672_Cat_15_20"/>
+        <div type="Language" lang="Latvian">vnd kas mums waiag. Ta tas Engels</div>
+       <lb id="Elg1672_Cat_15_21"/>
+        <div type="Language" lang="Latvian">Gabriels paklauſia Daniela lugßana.</div>
+       <lb id="Elg1672_Cat_15_22"/>
+       <div type="Language" lang="Latin">Dan. 10.</div>
+        <div type="Language" lang="Latvian">Ta Engels Raphaels</div>
+       <lb id="Elg1672_Cat_15_23"/>
+        <div type="Language" lang="Latvian">Tobie lugßana prekßan Dewu neſſe.</div>
+       <lb id="Elg1672_Cat_15_24"/>
+       <div type="Language" lang="Latin">Tob. 12.</div>
+        <div type="Language" lang="Latvian">Ta Onias vnd Jeremias kattri</div>
+       <lb id="Elg1672_Cat_15_25"/>
+        <div type="Language" lang="Latvian">abbi ká nomirrußi bya/ redzaia</div>
+      </div>
+      <pb n="16"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_16_1"/>
+        <div type="Language" lang="Latvian">Maccabeus Dewu ludzot par Jeruſalem</div>
+       <lb id="Elg1672_Cat_16_2"/>
+        <div type="Language" lang="Latvian">vnd wyſſu Joduliaużu.</div>
+       <div type="Language" lang="Latin">2. Maccab</div>
+       <lb id="Elg1672_Cat_16_3"/>
+       <div type="Language" lang="Latin">15.</div>
+        <div type="Language" lang="Latvian">Vnd tas baggats wyrs ekßan helles</div>
+       <lb id="Elg1672_Cat_16_4"/>
+        <div type="Language" lang="Latvian">ludza par ſauwems braliems. <corr>@</corr><sic>Luc. 16.</sic></div>
+       <lb id="Elg1672_Cat_16_5"/>
+        <div type="Language" lang="Latvian">Ja nu tê ſweti Engeli/ kattrems te</div>
+       <lb id="Elg1672_Cat_16_6"/>
+        <div type="Language" lang="Latvian">Sweti ekßan debbeſsi lydzeni/ Onias</div>
+       <lb id="Elg1672_Cat_16_7"/>
+        <div type="Language" lang="Latvian">vnd Jeremias par ſauwems liaudems:</div>
+       <lb id="Elg1672_Cat_16_8"/>
+        <div type="Language" lang="Latvian">ia tas baggats wyrs ekßan helles warreia</div>
+       <lb id="Elg1672_Cat_16_9"/>
+        <div type="Language" lang="Latvian">lûgt; kapec tad tê Sweti ekßan</div>
+       <lb id="Elg1672_Cat_16_10"/>
+        <div type="Language" lang="Latvian">debbeſsi/ kattri allazin Dewa waygu redza/</div>
+       <lb id="Elg1672_Cat_16_11"/>
+        <div type="Language" lang="Latvian">par mus newarrres Dewu lugt?</div>
+       <lb id="Elg1672_Cat_16_12"/>
+        <div type="Language" lang="Latvian">Kurriu Swetu ſtarpa wyſſems</div>
+       <lb id="Elg1672_Cat_16_13"/>
+        <div type="Language" lang="Latvian">mums wayrak bûs cenit?</div>
+       <lb id="Elg1672_Cat_16_14"/>
+        <div type="Language" lang="Latvian">To Sweta Jumprauw Maria/ kattra</div>
+       <lb id="Elg1672_Cat_16_15"/>
+        <div type="Language" lang="Latvian">pirmu wetu pec Dewu turru/ vnd par</div>
+       <lb id="Elg1672_Cat_16_16"/>
+        <div type="Language" lang="Latvian">wyſſems Engelems vnd Swetems no</div>
+       <lb id="Elg1672_Cat_16_17"/>
+        <div type="Language" lang="Latvian">Dewu paaukſtenata.</div>
+       <lb id="Elg1672_Cat_16_18"/>
+        <div type="Language" lang="Latvian">Kapec winia ta ir paaukſtenata no</div>
+       <lb id="Elg1672_Cat_16_19"/>
+        <div type="Language" lang="Latvian">Dewu?</div>
+       <lb id="Elg1672_Cat_16_20"/>
+        <div type="Language" lang="Latvian">Tapec ka winia Dewa mâta ir/ vnd</div>
+       <lb id="Elg1672_Cat_16_21"/>
+        <div type="Language" lang="Latvian">debbeſſo kieninia ir.</div>
+       <lb id="Elg1672_Cat_16_22"/>
+        <div type="Language" lang="Latvian">Ka bûs mums tad winia cenit?</div>
+       <lb id="Elg1672_Cat_16_23"/>
+        <div type="Language" lang="Latvian">Ar tems wardems/ ár kattrems tas</div>
+       <lb id="Elg1672_Cat_16_24"/>
+        <div type="Language" lang="Latvian">ſwets Engels/ vnd ta ſweta Elizabeth</div>
+       <lb id="Elg1672_Cat_16_25"/>
+        <div type="Language" lang="Latvian">to ceniußa.</div>
+      </div>
+      <pb n="17"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_17_1"/>
+        <div type="Language" lang="Latvian">Ká tê wardi ſkanna?</div>
+       <lb id="Elg1672_Cat_17_2"/>
+        <div type="Language" lang="Latvian">Summenata es tu Maria pilna Dewa</div>
+       <lb id="Elg1672_Cat_17_3"/>
+        <div type="Language" lang="Latvian">żelestibas/ tas Kungs ir ár teuwim:</div>
+       <lb id="Elg1672_Cat_17_4"/>
+        <div type="Language" lang="Latvian">tu es ſwetita par wyſſems ſewems/</div>
+       <lb id="Elg1672_Cat_17_5"/>
+        <div type="Language" lang="Latvian">vnd ſwetits ir tas auglis tauwas mêſes</div>
+       <lb id="Elg1672_Cat_17_6"/>
+        <div type="Language" lang="Latvian">JESVS Chriſtus. Sweta Maria</div>
+       <lb id="Elg1672_Cat_17_7"/>
+        <div type="Language" lang="Latvian">Dewa mâtá lûdze Dewu par mums</div>
+       <lb id="Elg1672_Cat_17_8"/>
+        <div type="Language" lang="Latvian">nabbagems grecnekems taggadin/ vnd</div>
+       <lb id="Elg1672_Cat_17_9"/>
+        <div type="Language" lang="Latvian">ekßan to ſtunda mûſas nomirßanas.</div>
+       <lb id="Elg1672_Cat_17_10"/>
+        <div type="Language" lang="Latvian">Kas tam Engelam ta lykká ſummenat?</div>
+       <lb id="Elg1672_Cat_17_11"/>
+        <div type="Language" lang="Latvian">Ta Sweta Triadiba paweleia tam ta</div>
+       <lb id="Elg1672_Cat_17_12"/>
+        <div type="Language" lang="Latvian">ſummenat to Jumprauwa. To ôtru</div>
+       <lb id="Elg1672_Cat_17_13"/>
+        <div type="Language" lang="Latvian">gabbolinu: Sweta Maria Dewa mâta</div>
+       <lb id="Elg1672_Cat_17_14"/>
+        <div type="Language" lang="Latvian">ludz Dewu par mums</div>
+       <div type="Language" lang="Latin">et.</div>
+        <div type="Language" lang="Latvian">to ir ta</div>
+       <lb id="Elg1672_Cat_17_15"/>
+        <div type="Language" lang="Latvian">Sweta Baznica caur Swetu Garru</div>
+       <lb id="Elg1672_Cat_17_16"/>
+        <div type="Language" lang="Latvian">edôßena pelikkuſa.</div>
+       <lb id="Elg1672_Cat_17_17"/>
+        <div type="Language" lang="Latvian">Kapec mes pec Paterems ſkaitam</div>
+       <lb id="Elg1672_Cat_17_18"/>
+        <div type="Language" lang="Latvian">Summenata Maria?</div>
+       <lb id="Elg1672_Cat_17_19"/>
+        <div type="Language" lang="Latvian">Tapec ka winia ar ſauwu lugßana letak</div>
+       <lb id="Elg1672_Cat_17_20"/>
+        <div type="Language" lang="Latvian">vnd drizak war no Dewu iſpraſsit</div>
+       <lb id="Elg1672_Cat_17_21"/>
+        <div type="Language" lang="Latvian">ko mes ekßan paterims ludzam: ka Dews</div>
+       <lb id="Elg1672_Cat_17_22"/>
+        <div type="Language" lang="Latvian">ſauwa máta ne paklauſis?</div>
+       <lb id="Elg1672_Cat_17_23"/>
+        <div type="Language" lang="Latvian">Ar klaias tôs bildes/ ieb Dewa zymes</div>
+       <lb id="Elg1672_Cat_17_24"/>
+        <div type="Language" lang="Latvian">cenit?</div>
+       <lb id="Elg1672_Cat_17_25"/>
+        <div type="Language" lang="Latvian">Klaias: áiſto to gôdu/ káttru mes tay</div>
+      </div>
+      <pb n="18"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_18_1"/>
+        <div type="Language" lang="Latvian">zymi rádam/ ne tay zymi peêt/ bet tam</div>
+       <lb id="Elg1672_Cat_18_2"/>
+        <div type="Language" lang="Latvian">Swetam/ kattru ta bilde ieb zyma ir.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_18_3"/>
+        <div type="Language" lang="Latvian">Tas treßas gabbols no tas</div>
+       <lb id="Elg1672_Cat_18_4"/>
+        <div type="Language" lang="Latvian">Milibas.</div>
+       <lb id="Elg1672_Cat_18_5"/>
+        <div type="Language" lang="Latvian">Ko bûs kriſtitam cilwekam milot?</div>
+       <lb id="Elg1672_Cat_18_6"/>
+        <div type="Language" lang="Latvian">Winiam bûs milôt Dewu/ vnd ſauwu</div>
+       <lb id="Elg1672_Cat_18_7"/>
+        <div type="Language" lang="Latvian">tuwaku cilweku.</div>
+       <lb id="Elg1672_Cat_18_8"/>
+        <div type="Language" lang="Latvian">Wairak ka wyſſas radditas lêtas/</div>
+       <lb id="Elg1672_Cat_18_9"/>
+        <div type="Language" lang="Latvian">iá wairak ká ſauwu paßu dziwoßana:</div>
+       <lb id="Elg1672_Cat_18_10"/>
+        <div type="Language" lang="Latvian">tapec drizak cilwekam mirt by/ ne ka</div>
+       <lb id="Elg1672_Cat_18_11"/>
+        <div type="Language" lang="Latvian">pretty Dewu grekot.</div>
+       <lb id="Elg1672_Cat_18_12"/>
+        <div type="Language" lang="Latvian">Ka mums ſauwu tuwaku bûs milôt?</div>
+       <lb id="Elg1672_Cat_18_13"/>
+        <div type="Language" lang="Latvian">Mums bûs winiam welet vnd darrit/</div>
+       <lb id="Elg1672_Cat_18_14"/>
+        <div type="Language" lang="Latvian">ko mes ſeuw paßims gribbetu notikt.</div>
+       <lb id="Elg1672_Cat_18_15"/>
+        <div type="Language" lang="Latvian">Kas ir mûſu tuwaks/ kattru mes buſam</div>
+       <lb id="Elg1672_Cat_18_16"/>
+        <div type="Language" lang="Latvian">milót?</div>
+       <lb id="Elg1672_Cat_18_17"/>
+        <div type="Language" lang="Latvian">Wyſsi cilweki/ ley draugi/ ley enaidneki.</div>
+       <lb id="Elg1672_Cat_18_18"/>
+        <div type="Language" lang="Latvian">Ko ta Milibá mums pawele?</div>
+       <lb id="Elg1672_Cat_18_19"/>
+        <div type="Language" lang="Latvian">Ta pawele mums Dewa/ vnd Baznicas</div>
+       <lb id="Elg1672_Cat_18_20"/>
+        <div type="Language" lang="Latvian">bauſles turret.</div>
+       <lb id="Elg1672_Cat_18_21"/>
+        <div type="Language" lang="Latvian">Tad mums peſtaias ßôs bauſlus turret?</div>
+       <lb id="Elg1672_Cat_18_22"/>
+        <div type="Language" lang="Latvian">Ja mes gribbam bût debbeſsis/ tad</div>
+       <lb id="Elg1672_Cat_18_23"/>
+        <div type="Language" lang="Latvian">waiag mums tôs turret Aiſto Chriſtus</div>
+       <lb id="Elg1672_Cat_18_24"/>
+        <div type="Language" lang="Latvian">ſakka: Ja tu gribbi êt ekßan mużigas</div>
+      </div>
+      <pb n="19"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_19_1"/>
+        <div type="Language" lang="Latvian">dziwoßanas/ tad turri tôs bauſlus.</div>
+       <lb id="Elg1672_Cat_19_2"/>
+       <div type="Language" lang="Latin">Mat: 19.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_19_3"/>
+        <div type="Language" lang="Latvian">Skaiti tos deſmittus bauſlus.</div>
+       <lb id="Elg1672_Cat_19_4"/>
+        <div type="Language" lang="Latvian">Tas pirmais: Es eſmu tauws kungs</div>
+       <lb id="Elg1672_Cat_19_5"/>
+        <div type="Language" lang="Latvian">vnd Dews; teuw ne bus ſweßu Dewu</div>
+       <lb id="Elg1672_Cat_19_6"/>
+        <div type="Language" lang="Latvian">turret prekßan man.</div>
+       <lb id="Elg1672_Cat_19_7"/>
+        <div type="Language" lang="Latvian">Tas ôters. Teuw ne bus Dewu tauwu</div>
+       <lb id="Elg1672_Cat_19_8"/>
+        <div type="Language" lang="Latvian">kungu wardu nepattes walkot.</div>
+       <lb id="Elg1672_Cat_19_9"/>
+        <div type="Language" lang="Latvian">Tas treßas. Teuw bus to Swedenu</div>
+       <lb id="Elg1672_Cat_19_10"/>
+        <div type="Language" lang="Latvian">ſwetit.</div>
+       <lb id="Elg1672_Cat_19_11"/>
+        <div type="Language" lang="Latvian">Tas cetturts: Teuw bûs tauwu tewu/</div>
+       <lb id="Elg1672_Cat_19_12"/>
+        <div type="Language" lang="Latvian">vnd tauwa máta cênit/ ká teuw labbe</div>
+       <lb id="Elg1672_Cat_19_13"/>
+        <div type="Language" lang="Latvian">klaias/ vnd ilgu dziwo wyrſu zemmes.</div>
+       <lb id="Elg1672_Cat_19_14"/>
+        <div type="Language" lang="Latvian">Tas pekts: Teuw ne bus nokauwt.</div>
+       <lb id="Elg1672_Cat_19_15"/>
+        <div type="Language" lang="Latvian">Tas ſeſts: Teuw ne bus lauliba parlauſt</div>
+       <lb id="Elg1672_Cat_19_16"/>
+        <div type="Language" lang="Latvian">Tas ſeptits: Teuw ne bus zakt.</div>
+       <lb id="Elg1672_Cat_19_17"/>
+        <div type="Language" lang="Latvian">Tas áſtots: Teuw ne bus nepatteſa leciba</div>
+       <lb id="Elg1672_Cat_19_18"/>
+        <div type="Language" lang="Latvian">dôt pretty tauwu tuwaku.</div>
+       <lb id="Elg1672_Cat_19_19"/>
+        <div type="Language" lang="Latvian">Tas dewwits: Teuw ne bus ekárot tauwa</div>
+       <lb id="Elg1672_Cat_19_20"/>
+        <div type="Language" lang="Latvian">tuwaka nammu.</div>
+       <lb id="Elg1672_Cat_19_21"/>
+        <div type="Language" lang="Latvian">Tas deſmitas: Teuw ne bus ekárot</div>
+       <lb id="Elg1672_Cat_19_22"/>
+        <div type="Language" lang="Latvian">tauwu tuwaka ſewa/ nedz kalpu/</div>
+       <lb id="Elg1672_Cat_19_23"/>
+        <div type="Language" lang="Latvian">nedz kalpuna/ nedz waerß/ nedz wyſſu</div>
+       <lb id="Elg1672_Cat_19_24"/>
+        <div type="Language" lang="Latvian">kas tam peder.</div>
+       <lb id="Elg1672_Cat_19_25"/>
+        <div type="Language" lang="Latvian">Ar warram mes tôs deſmittus Dewa</div>
+      </div>
+      <pb n="20"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_20_1"/>
+        <div type="Language" lang="Latvian">bauſles turraet?</div>
+       <lb id="Elg1672_Cat_20_2"/>
+        <div type="Language" lang="Latvian">Ar Dewa ſpaeku warram: ia maes tôs</div>
+       <lb id="Elg1672_Cat_20_3"/>
+        <div type="Language" lang="Latvian">newarraetu turraet/ Dews mums tôs</div>
+       <lb id="Elg1672_Cat_20_4"/>
+        <div type="Language" lang="Latvian">ne pawaelaetu turraet: Vnd Chriſtus</div>
+       <lb id="Elg1672_Cat_20_5"/>
+        <div type="Language" lang="Latvian">ſakka: Ja tu gribbi êt ekßan mûżigas</div>
+       <lb id="Elg1672_Cat_20_6"/>
+        <div type="Language" lang="Latvian">dziwoßanas/ turri Dewa bauſlus.</div>
+       <div type="Language" lang="Latin">Mat.</div>
+       <lb id="Elg1672_Cat_20_7"/>
+       <div type="Language" lang="Latin">19.</div>
+        <div type="Language" lang="Latvian">vnd S. Janis ſak/ Dewa bauſlas</div>
+       <lb id="Elg1672_Cat_20_8"/>
+        <div type="Language" lang="Latvian">ne eſſoto grutas.</div>
+       <lb id="Elg1672_Cat_20_9"/>
+        <div type="Language" lang="Latvian">Paráda man ka tê ne grûti/ bet wegli</div>
+       <lb id="Elg1672_Cat_20_10"/>
+        <div type="Language" lang="Latvian">war bût?</div>
+       <lb id="Elg1672_Cat_20_11"/>
+        <div type="Language" lang="Latvian">Milo Dewu tauwu kungu no wyſſu</div>
+       <lb id="Elg1672_Cat_20_12"/>
+        <div type="Language" lang="Latvian">tauwu ſirdi/ no wyſſu tauwu prátu/</div>
+       <lb id="Elg1672_Cat_20_13"/>
+        <div type="Language" lang="Latvian">no wyſſu tauwu ſpaeku: Vnd tauwu</div>
+       <lb id="Elg1672_Cat_20_14"/>
+        <div type="Language" lang="Latvian">tuwaku bûs teuw milot lydz ſeuw paßim.</div>
+       <lb id="Elg1672_Cat_20_15"/>
+        <div type="Language" lang="Latvian">Kas laetak ir ka milot?</div>
+       <lb id="Elg1672_Cat_20_16"/>
+        <div type="Language" lang="Latvian">Cek ir Baznicas bauſlus? Pec.</div>
+       <lb id="Elg1672_Cat_20_17"/>
+        <div type="Language" lang="Latvian">Tas pirmais: Tôs uzliktus Swaetus</div>
+       <lb id="Elg1672_Cat_20_18"/>
+        <div type="Language" lang="Latvian">denas ſwaetit.</div>
+       <lb id="Elg1672_Cat_20_19"/>
+        <div type="Language" lang="Latvian">Tas ôters. Ik Swaedene to Swaetu</div>
+       <lb id="Elg1672_Cat_20_20"/>
+        <div type="Language" lang="Latvian">Miſſe klauſit.</div>
+       <lb id="Elg1672_Cat_20_21"/>
+        <div type="Language" lang="Latvian">Tas traeßas. Tôs Czetterdeſmittus gawaenia</div>
+       <lb id="Elg1672_Cat_20_22"/>
+        <div type="Language" lang="Latvian">denus/ tôs czettrus laykus gadſkartan/</div>
+       <lb id="Elg1672_Cat_20_23"/>
+        <div type="Language" lang="Latvian">vnd tôs cittus vzliktus gawama</div>
+       <lb id="Elg1672_Cat_20_24"/>
+        <div type="Language" lang="Latvian">denus gawaet/ aridzan pektdenos</div>
+       <lb id="Elg1672_Cat_20_25"/>
+        <div type="Language" lang="Latvian">vnd ſaesdenos no mêſa aeßen ſeuw atturraetes.</div>
+      </div>
+      <pb n="21"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_21_1"/>
+        <div type="Language" lang="Latvian">Tas caetturts: Ik gaddu io wenkart</div>
+       <lb id="Elg1672_Cat_21_2"/>
+        <div type="Language" lang="Latvian">ſauwam Baznicakungam ſauwus grekus</div>
+       <lb id="Elg1672_Cat_21_3"/>
+        <div type="Language" lang="Latvian">ſudzaet: Vnd Leladena layka to</div>
+       <lb id="Elg1672_Cat_21_4"/>
+        <div type="Language" lang="Latvian">darga mêſa vnd áſsini mûſu Kungu</div>
+       <lb id="Elg1672_Cat_21_5"/>
+        <div type="Language" lang="Latvian">JESV Chriſti pe ſeuw iemt.</div>
+       <lb id="Elg1672_Cat_21_6"/>
+        <div type="Language" lang="Latvian">Tas pekts. Ekßan ayzlektems denems</div>
+       <lb id="Elg1672_Cat_21_7"/>
+        <div type="Language" lang="Latvian">kazas ne dzaert.</div>
+       <lb id="Elg1672_Cat_21_8"/>
+        <div type="Language" lang="Latvian">Ar mums penákas ßas Baznica bauſlus</div>
+       <lb id="Elg1672_Cat_21_9"/>
+        <div type="Language" lang="Latvian">turraet?</div>
+       <lb id="Elg1672_Cat_21_10"/>
+        <div type="Language" lang="Latvian">Ka nepenâkas? Ta Swaetá Katholißka</div>
+       <lb id="Elg1672_Cat_21_11"/>
+        <div type="Language" lang="Latvian">Baznica/ kattray mums Chriſtus</div>
+       <lb id="Elg1672_Cat_21_12"/>
+        <div type="Language" lang="Latvian">pawaelaeis klauſit yt ka mâta: Ja kas to</div>
+       <lb id="Elg1672_Cat_21_13"/>
+        <div type="Language" lang="Latvian">Baznicá ne klauſis/ bus but ka wenam</div>
+       <lb id="Elg1672_Cat_21_14"/>
+        <div type="Language" lang="Latvian">Pagganam vnd muitnekam. Vnd S.</div>
+       <lb id="Elg1672_Cat_21_15"/>
+        <div type="Language" lang="Latvian">Auguſtinus ſakká: Kas ne gribbi to</div>
+       <lb id="Elg1672_Cat_21_16"/>
+        <div type="Language" lang="Latvian">Baznica turraet par mata; tam ne bûs</div>
+       <lb id="Elg1672_Cat_21_17"/>
+        <div type="Language" lang="Latvian">Dews par taewu. Bet wael par to</div>
+       <lb id="Elg1672_Cat_21_18"/>
+        <div type="Language" lang="Latvian">caetturtu Dewa bauſlu paec/ bûs mums</div>
+       <lb id="Elg1672_Cat_21_19"/>
+        <div type="Language" lang="Latvian">klauſit ne wen taewu vnd mâta/ bet áridzan</div>
+       <lb id="Elg1672_Cat_21_20"/>
+        <div type="Language" lang="Latvian">garrigems kungems vnd wyrſnekems/</div>
+       <lb id="Elg1672_Cat_21_21"/>
+        <div type="Language" lang="Latvian">ſaimnekems/ vnd wyſſem kattri</div>
+       <lb id="Elg1672_Cat_21_22"/>
+        <div type="Language" lang="Latvian">par mums ir.</div>
+       <lb id="Elg1672_Cat_21_23"/>
+        <div type="Language" lang="Latvian">Ja kungs/ ieb ſaimneks pawaelaetu</div>
+       <lb id="Elg1672_Cat_21_24"/>
+        <div type="Language" lang="Latvian">darrit kas ar graeku bût/ ár bûs tam to</div>
+       <lb id="Elg1672_Cat_21_25"/>
+        <div type="Language" lang="Latvian">darrit?</div>
+      </div>
+      <pb n="22"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_22_1"/>
+        <div type="Language" lang="Latvian">Ja teuw Kungs/ gaſpoża/ ſaimneks/</div>
+       <lb id="Elg1672_Cat_22_2"/>
+        <div type="Language" lang="Latvian">ieb ſaimnece pawaelaetu ôtram ſkades</div>
+       <lb id="Elg1672_Cat_22_3"/>
+        <div type="Language" lang="Latvian">darrit/ ôtru nokauwt/ iſsiſt/ laupit/</div>
+       <lb id="Elg1672_Cat_22_4"/>
+        <div type="Language" lang="Latvian">ieb cittas kadas ſkadas abbliaenus darrit/</div>
+       <lb id="Elg1672_Cat_22_5"/>
+        <div type="Language" lang="Latvian">tad ne bûs teuw tôs klauſit; labbak</div>
+       <lb id="Elg1672_Cat_22_6"/>
+        <div type="Language" lang="Latvian">tôs par enaidnekus turraet/ ne ka</div>
+       <lb id="Elg1672_Cat_22_7"/>
+        <div type="Language" lang="Latvian">pretty Dewu graekot/ vnd Dewu par</div>
+       <lb id="Elg1672_Cat_22_8"/>
+        <div type="Language" lang="Latvian">enaidneku dabbuit.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_22_9"/>
+        <div type="Language" lang="Latvian">Tas caetturts gabbols no tems</div>
+       <lb id="Elg1672_Cat_22_10"/>
+        <div type="Language" lang="Latvian">S. Sakramentems.</div>
+       <lb id="Elg1672_Cat_22_11"/>
+        <div type="Language" lang="Latvian">Kas ir tas par wârds Sakraments?</div>
+       <lb id="Elg1672_Cat_22_12"/>
+        <div type="Language" lang="Latvian">Sakraments ir wena raedzama zyme</div>
+       <lb id="Elg1672_Cat_22_13"/>
+        <div type="Language" lang="Latvian">no Dewu elikta/ caur kattra mums</div>
+       <lb id="Elg1672_Cat_22_14"/>
+        <div type="Language" lang="Latvian">Dews dôdu ekßiga żaeleſtiba vnd ſwaetiba.</div>
+       <lb id="Elg1672_Cat_22_15"/>
+        <div type="Language" lang="Latvian">Cek ir tôs Sakramentus? Septinie.</div>
+       <lb id="Elg1672_Cat_22_16"/>
+        <div type="Language" lang="Latvian">1.Ta kriſtiba. 2. Ta Eſtippraßana. 3.</div>
+       <lb id="Elg1672_Cat_22_17"/>
+        <div type="Language" lang="Latvian">Dewa maleſt. 4. Graekuwaidaßana.</div>
+       <lb id="Elg1672_Cat_22_18"/>
+        <div type="Language" lang="Latvian">5. Paſtarà aelieſwaidißana. 6. Baznicakungas</div>
+       <lb id="Elg1672_Cat_22_19"/>
+        <div type="Language" lang="Latvian">eſwetißana. 7. Lauliba.</div>
+       <lb id="Elg1672_Cat_22_20"/>
+        <div type="Language" lang="Latvian">Kas ir tas pirmais Sakraments?</div>
+       <lb id="Elg1672_Cat_22_21"/>
+        <div type="Language" lang="Latvian">Ta Kriſtiba.</div>
+       <lb id="Elg1672_Cat_22_22"/>
+        <div type="Language" lang="Latvian">Kas ir ta Kriſtiba; vnd ko tá mums</div>
+       <lb id="Elg1672_Cat_22_23"/>
+        <div type="Language" lang="Latvian">labbu darra?</div>
+      </div>
+      <pb n="23"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_23_1"/>
+        <div type="Language" lang="Latvian">Ta Kriſtiba ir tas pirmais vnd wyſſu=</div>
+       <lb id="Elg1672_Cat_23_2"/>
+        <div type="Language" lang="Latvian">waiadzigs Sakraments/ caur kattru</div>
+       <lb id="Elg1672_Cat_23_3"/>
+        <div type="Language" lang="Latvian">tas cilwaeks ár vdeni vnd Dewa wardu</div>
+       <lb id="Elg1672_Cat_23_4"/>
+        <div type="Language" lang="Latvian">no wyſſems graekems tôp ſkiſtits vnd</div>
+       <lb id="Elg1672_Cat_23_5"/>
+        <div type="Language" lang="Latvian">nomazgats/ vnd ekßan Chriſto ka wena</div>
+       <lb id="Elg1672_Cat_23_6"/>
+        <div type="Language" lang="Latvian">iauná raddibá vz tas mużigas dziwoßanas</div>
+       <lb id="Elg1672_Cat_23_7"/>
+        <div type="Language" lang="Latvian">átkal átdzimpts vnd ſwaetits</div>
+       <lb id="Elg1672_Cat_23_8"/>
+        <div type="Language" lang="Latvian">par Dewa baernu.</div>
+       <lb id="Elg1672_Cat_23_9"/>
+        <div type="Language" lang="Latvian">Ko wael mums dôdu ta kriſtiba?</div>
+       <lb id="Elg1672_Cat_23_10"/>
+        <div type="Language" lang="Latvian">1. Dodá mums Dewá zaeleſtibu vnd</div>
+       <lb id="Elg1672_Cat_23_11"/>
+        <div type="Language" lang="Latvian">graekus pamaeßanu. 2. Doda mums</div>
+       <lb id="Elg1672_Cat_23_12"/>
+        <div type="Language" lang="Latvian">wyſſas ſodibas átlaißana/ kattra mums</div>
+       <lb id="Elg1672_Cat_23_13"/>
+        <div type="Language" lang="Latvian">by ſlaucumu vgguni cêſt par tems grekems/</div>
+       <lb id="Elg1672_Cat_23_14"/>
+        <div type="Language" lang="Latvian">kattri prekßan kriſtiba by nopelnita.</div>
+       <lb id="Elg1672_Cat_23_15"/>
+        <div type="Language" lang="Latvian">3. Caur to kriſtiba tôpam maes no</div>
+       <lb id="Elg1672_Cat_23_16"/>
+        <div type="Language" lang="Latvian">enaidnekus Dewá draugi.</div>
+       <lb id="Elg1672_Cat_23_17"/>
+        <div type="Language" lang="Latvian">Kas ir waiag pe Kriſtibas?</div>
+       <lb id="Elg1672_Cat_23_18"/>
+        <div type="Language" lang="Latvian">Vdens/ vnd te wárdi: Es teuw kriſti/</div>
+       <lb id="Elg1672_Cat_23_19"/>
+        <div type="Language" lang="Latvian">ekßan wardu to Taewa/ vnd to Daela/</div>
+       <lb id="Elg1672_Cat_23_20"/>
+        <div type="Language" lang="Latvian">vnd to Swaeta Garra. Tas kas kriſti/</div>
+       <lb id="Elg1672_Cat_23_21"/>
+        <div type="Language" lang="Latvian">bûs ár vdeni áplêt no nekriſtitu cilwaeku/</div>
+       <lb id="Elg1672_Cat_23_22"/>
+        <div type="Language" lang="Latvian">vnd lydz tôs wârdus ſaccit: vnd ia</div>
+       <lb id="Elg1672_Cat_23_23"/>
+        <div type="Language" lang="Latvian">tas baerns tik waiß ir ká Baznicakungu</div>
+       <lb id="Elg1672_Cat_23_24"/>
+        <div type="Language" lang="Latvian">tik pepaeß newar dabbuit/ tad ikwens</div>
+       <lb id="Elg1672_Cat_23_25"/>
+        <div type="Language" lang="Latvian">war kriſtit/ to baernu ár vdeni áplê-</div>
+      </div>
+      <pb n="24"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_24_1"/>
+        <div type="Language" lang="Latvian">dams vnd ſaccidams: Es kriſti teuw</div>
+       <lb id="Elg1672_Cat_24_2"/>
+        <div type="Language" lang="Latvian">ekßan wardu to Taewa/ vnd to Daelá/</div>
+       <lb id="Elg1672_Cat_24_3"/>
+        <div type="Language" lang="Latvian">vnd to Swaeta Garra. Amen. Vnd</div>
+       <lb id="Elg1672_Cat_24_4"/>
+        <div type="Language" lang="Latvian">ia tas baerns nomirtu/ ſwaeta winia</div>
+       <lb id="Elg1672_Cat_24_5"/>
+        <div type="Language" lang="Latvian">dwaeſellá bût.</div>
+       <lb id="Elg1672_Cat_24_6"/>
+        <div type="Language" lang="Latvian">Ar pe Kriſtibas waiag grekuſudzeßana?</div>
+       <lb id="Elg1672_Cat_24_7"/>
+        <div type="Language" lang="Latvian">Newaid waiag/ bet gan ir ſirdi żaelot</div>
+       <lb id="Elg1672_Cat_24_8"/>
+        <div type="Language" lang="Latvian">par wyſsims graekems: áiſto caur kriſtiba</div>
+       <lb id="Elg1672_Cat_24_9"/>
+        <div type="Language" lang="Latvian">tôpi graeki pameſti: bet ia winß</div>
+       <lb id="Elg1672_Cat_24_10"/>
+        <div type="Language" lang="Latvian">paec enaktas kriſtibas graeko/ tad waiag</div>
+       <lb id="Elg1672_Cat_24_11"/>
+        <div type="Language" lang="Latvian">graeku pamaeßanas.</div>
+       <lb id="Elg1672_Cat_24_12"/>
+        <div type="Language" lang="Latvian">Kas ir tas ôters Sakraments?</div>
+       <lb id="Elg1672_Cat_24_13"/>
+        <div type="Language" lang="Latvian">Ta Eſtippraßana.</div>
+       <lb id="Elg1672_Cat_24_14"/>
+        <div type="Language" lang="Latvian">Kas ir ta Eſtippraßana.</div>
+       <lb id="Elg1672_Cat_24_15"/>
+        <div type="Language" lang="Latvian">Ta ir wens Sakraments caur kattra</div>
+       <lb id="Elg1672_Cat_24_16"/>
+        <div type="Language" lang="Latvian">tas kriſtits cilwaeks ár ſwaetu aeliu vnd</div>
+       <lb id="Elg1672_Cat_24_17"/>
+        <div type="Language" lang="Latvian">Dewa wârdu dabbu no to Swaetu</div>
+       <lb id="Elg1672_Cat_24_18"/>
+        <div type="Language" lang="Latvian">Garru żaeleſtiba/ ká tas ſtippri pârſtawa</div>
+       <lb id="Elg1672_Cat_24_19"/>
+        <div type="Language" lang="Latvian">ekßan ſwaetas tyccibas lydz paßu</div>
+       <lb id="Elg1672_Cat_24_20"/>
+        <div type="Language" lang="Latvian">gallu.</div>
+       <lb id="Elg1672_Cat_24_21"/>
+        <div type="Language" lang="Latvian">Ar waiag ßo Sakramentu bes graekus</div>
+       <lb id="Elg1672_Cat_24_22"/>
+        <div type="Language" lang="Latvian">vziemt: vnd ia kam tâds grûts graeks</div>
+       <lb id="Elg1672_Cat_24_23"/>
+        <div type="Language" lang="Latvian">ir/ pirmaks graekus ludzaet?</div>
+       <lb id="Elg1672_Cat_24_24"/>
+        <div type="Language" lang="Latvian">Waiag ir/ lydz ka pe cittems Sakramentems</div>
+       <lb id="Elg1672_Cat_24_25"/>
+        <div type="Language" lang="Latvian">graekus paprekß ſudzaet/ vnd</div>
+      </div>
+      <pb n="25"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_25_1"/>
+        <div type="Language" lang="Latvian">tá vziemt/ cittadá winß ne dabbu Dewa</div>
+       <lb id="Elg1672_Cat_25_2"/>
+        <div type="Language" lang="Latvian">żaeleſtibá/ bet duſmibá.</div>
+       <lb id="Elg1672_Cat_25_3"/>
+        <div type="Language" lang="Latvian">Kas ir tas traeßas Sakraments?</div>
+       <lb id="Elg1672_Cat_25_4"/>
+        <div type="Language" lang="Latvian">Tas ir tas Sakraments tás áltaris/ ko</div>
+       <lb id="Elg1672_Cat_25_5"/>
+        <div type="Language" lang="Latvian">maes ſaucam Dewa meleſt/ ekßan kattru</div>
+       <lb id="Elg1672_Cat_25_6"/>
+        <div type="Language" lang="Latvian">mums tôpu dôtá muſu Kungu JESV</div>
+       <lb id="Elg1672_Cat_25_7"/>
+        <div type="Language" lang="Latvian">Chriſti iſtená meſa vnd áſsins/</div>
+       <lb id="Elg1672_Cat_25_8"/>
+        <div type="Language" lang="Latvian">kattri áppakßan tem zymems maizas</div>
+       <lb id="Elg1672_Cat_25_9"/>
+        <div type="Language" lang="Latvian">vnd winas ár mêſa vnd dweſel vnd</div>
+       <lb id="Elg1672_Cat_25_10"/>
+        <div type="Language" lang="Latvian">Dewiba patteſe ir/ kad wens iſtens</div>
+       <lb id="Elg1672_Cat_25_11"/>
+        <div type="Language" lang="Latvian">eſwetits Baznicakungs to maize vnd</div>
+       <lb id="Elg1672_Cat_25_12"/>
+        <div type="Language" lang="Latvian">winu wyrſu áltari vppere vnd parſweti.</div>
+       <lb id="Elg1672_Cat_25_13"/>
+        <div type="Language" lang="Latvian">Ko ßis Sakraments mums labbu</div>
+       <lb id="Elg1672_Cat_25_14"/>
+        <div type="Language" lang="Latvian">darrá?</div>
+       <lb id="Elg1672_Cat_25_15"/>
+        <div type="Language" lang="Latvian">It ká deniſká maize to mêſa/ tá ßa debbeſſa</div>
+       <lb id="Elg1672_Cat_25_16"/>
+        <div type="Language" lang="Latvian">maiza bario muſas dweſelles.</div>
+       <lb id="Elg1672_Cat_25_17"/>
+        <div type="Language" lang="Latvian">Ja nu Chriſtus ekßan ßo Sakramentu</div>
+       <lb id="Elg1672_Cat_25_18"/>
+        <div type="Language" lang="Latvian">ir/ tad peſtaias mums to cênit yt</div>
+       <lb id="Elg1672_Cat_25_19"/>
+        <div type="Language" lang="Latvian">ká Dewu áppakßan ßems zymems?</div>
+       <lb id="Elg1672_Cat_25_20"/>
+        <div type="Language" lang="Latvian">Têßam ne cittada: áiſto kur Dews</div>
+       <lb id="Elg1672_Cat_25_21"/>
+        <div type="Language" lang="Latvian">ir/ tur teuw Dewu bus cênit vnd godenat:</div>
+       <lb id="Elg1672_Cat_25_22"/>
+        <div type="Language" lang="Latvian">nu mums ta Swetá tyccibá mâcá/</div>
+       <lb id="Elg1672_Cat_25_23"/>
+        <div type="Language" lang="Latvian">ka Dews ir ekßan ßo ſwetu Sakramentu/</div>
+       <lb id="Elg1672_Cat_25_24"/>
+        <div type="Language" lang="Latvian">kapaec mums ne bûs ßim S.</div>
+      </div>
+      <pb n="26"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_26_1"/>
+        <div type="Language" lang="Latvian">Sakramenta dôt Dewißku gôdu.</div>
+       <lb id="Elg1672_Cat_26_2"/>
+        <div type="Language" lang="Latvian">Ar ekßan to bikker ir Chriſti áſsins</div>
+       <lb id="Elg1672_Cat_26_3"/>
+        <div type="Language" lang="Latvian">ko liaudems dôd tas/ kas Miſsi denae</div>
+       <lb id="Elg1672_Cat_26_4"/>
+        <div type="Language" lang="Latvian">Baznicakungam?</div>
+       <lb id="Elg1672_Cat_26_5"/>
+        <div type="Language" lang="Latvian">Nae: áiſto tas ne ir ſwaetits/ bet tas</div>
+       <lb id="Elg1672_Cat_26_6"/>
+        <div type="Language" lang="Latvian">tôpu tapaec dôts ka laetak to ſwaetu Sakrament</div>
+       <lb id="Elg1672_Cat_26_7"/>
+        <div type="Language" lang="Latvian">war leia ryt: dażżam ir ſauſa</div>
+       <lb id="Elg1672_Cat_26_8"/>
+        <div type="Language" lang="Latvian">mutta/ tam waiag muttu ſliappenat/</div>
+       <lb id="Elg1672_Cat_26_9"/>
+        <div type="Language" lang="Latvian">ka winß to war drizak noryt: kam ne</div>
+       <lb id="Elg1672_Cat_26_10"/>
+        <div type="Language" lang="Latvian">waiag/ war ne iemt.</div>
+       <lb id="Elg1672_Cat_26_11"/>
+        <div type="Language" lang="Latvian">Ar Chriſtus ir appakßa ikwenu gabbolinu?</div>
+       <lb id="Elg1672_Cat_26_12"/>
+        <div type="Language" lang="Latvian">Jr: kaut tu deſmittu ieb wairak gabbolos</div>
+       <lb id="Elg1672_Cat_26_13"/>
+        <div type="Language" lang="Latvian">lauzis/ tamaer tu Chriſtum ne</div>
+       <lb id="Elg1672_Cat_26_14"/>
+        <div type="Language" lang="Latvian">lauzis/ bet to maiza zymė wen: winß</div>
+       <lb id="Elg1672_Cat_26_15"/>
+        <div type="Language" lang="Latvian">pallek waeſſels appakßa ikwenu gabbolu.</div>
+       <lb id="Elg1672_Cat_26_16"/>
+        <div type="Language" lang="Latvian">Ka war tas cênige pe Dewa galdu êt?</div>
+       <lb id="Elg1672_Cat_26_17"/>
+        <div type="Language" lang="Latvian">Winiam bûs paprekßu wyſſus graekus</div>
+       <lb id="Elg1672_Cat_26_18"/>
+        <div type="Language" lang="Latvian">prekßan Baznicakungu ár ſirdis żaelumu</div>
+       <lb id="Elg1672_Cat_26_19"/>
+        <div type="Language" lang="Latvian">ſudzaet; wyſſems pameſt/ kas winiu</div>
+       <lb id="Elg1672_Cat_26_20"/>
+        <div type="Language" lang="Latvian">ápkaitenaiußu/ vnd ne wena duſmiba</div>
+       <lb id="Elg1672_Cat_26_21"/>
+        <div type="Language" lang="Latvian">turraet/ vnd ia kam ſkadas darryis/</div>
+       <lb id="Elg1672_Cat_26_22"/>
+        <div type="Language" lang="Latvian">ſalidzenat/ vnd tad pe Dewa galdu êt.</div>
+       <lb id="Elg1672_Cat_26_23"/>
+        <div type="Language" lang="Latvian">Kas ir tas caetturts Sakraments?</div>
+      </div>
+      <pb n="27"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_27_1"/>
+        <div type="Language" lang="Latvian">Ta Graekuwaidaßena.</div>
+       <lb id="Elg1672_Cat_27_2"/>
+        <div type="Language" lang="Latvian">Kas ir ta Graekuwaidaßana?</div>
+       <lb id="Elg1672_Cat_27_3"/>
+        <div type="Language" lang="Latvian">Ta ir wens Sakraments/ caur kattru</div>
+       <lb id="Elg1672_Cat_27_4"/>
+        <div type="Language" lang="Latvian">wens iſtens Baznicakungs Dewá wêta</div>
+       <lb id="Elg1672_Cat_27_5"/>
+        <div type="Language" lang="Latvian">tems graecnekems/ kattri no ſirdi ſauwus</div>
+       <lb id="Elg1672_Cat_27_6"/>
+        <div type="Language" lang="Latvian">graekus żaelo vnd prekßan Baznicakungu</div>
+       <lb id="Elg1672_Cat_27_7"/>
+        <div type="Language" lang="Latvian">ſeuw ápſudzas/ vnd ſauwa</div>
+       <lb id="Elg1672_Cat_27_8"/>
+        <div type="Language" lang="Latvian">dziwoßana ſolias labbak taiſit/ pametta</div>
+       <lb id="Elg1672_Cat_27_9"/>
+        <div type="Language" lang="Latvian">vnd pedôdá wyſſems waidnekems.</div>
+       <lb id="Elg1672_Cat_27_10"/>
+        <div type="Language" lang="Latvian">Ko bûs tam darrit/ kas ſauwus grekus</div>
+       <lb id="Elg1672_Cat_27_11"/>
+        <div type="Language" lang="Latvian">grib lab ſudzaet?</div>
+       <lb id="Elg1672_Cat_27_12"/>
+        <div type="Language" lang="Latvian">Ekam wins pe Baznicakungu êt/</div>
+       <lb id="Elg1672_Cat_27_13"/>
+        <div type="Language" lang="Latvian">bus winiam ſauwu paßu ſirdi naige</div>
+       <lb id="Elg1672_Cat_27_14"/>
+        <div type="Language" lang="Latvian">yztauiat/ wyſſu wairak tôs ruppiôs</div>
+       <lb id="Elg1672_Cat_27_15"/>
+        <div type="Language" lang="Latvian">graekus.</div>
+       <lb id="Elg1672_Cat_27_16"/>
+        <div type="Language" lang="Latvian">Ja kas bût vzmoß kâdu ruppiu greku</div>
+       <lb id="Elg1672_Cat_27_17"/>
+        <div type="Language" lang="Latvian">ekßan graekuſudzaeßaná kaunas paec</div>
+       <lb id="Elg1672_Cat_27_18"/>
+        <div type="Language" lang="Latvian">ſlaepis/ ieb ne but ſaccyis cêk reize winß</div>
+       <lb id="Elg1672_Cat_27_19"/>
+        <div type="Language" lang="Latvian">ßo/ ieb to graeku darryis/ ár bût tas graekupamaeßana</div>
+       <lb id="Elg1672_Cat_27_20"/>
+        <div type="Language" lang="Latvian">dabbuis?</div>
+       <lb id="Elg1672_Cat_27_21"/>
+        <div type="Language" lang="Latvian">Tas newen graekupamaeßanu ne dabbuitu/</div>
+       <lb id="Elg1672_Cat_27_22"/>
+        <div type="Language" lang="Latvian">bet lêlaku graeku darritu: vnd</div>
+       <lb id="Elg1672_Cat_27_23"/>
+        <div type="Language" lang="Latvian">iȧ winß ta nomirtu/ teßam winia dweſel</div>
+       <lb id="Elg1672_Cat_27_24"/>
+        <div type="Language" lang="Latvian">helle noêtu.</div>
+       <lb id="Elg1672_Cat_27_25"/>
+        <div type="Language" lang="Latvian">Tad waiag iſſaccit cek reize ikwens</div>
+      </div>
+      <pb n="28"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_28_1"/>
+        <div type="Language" lang="Latvian">graeks noticcis ir?</div>
+       <lb id="Elg1672_Cat_28_2"/>
+        <div type="Language" lang="Latvian">Waiag ir wyſſus galwugraekus iſſaccit/</div>
+       <lb id="Elg1672_Cat_28_3"/>
+        <div type="Language" lang="Latvian">cek reize notikkußi/ cittada graekaſudzaeßana/</div>
+       <lb id="Elg1672_Cat_28_4"/>
+        <div type="Language" lang="Latvian">neneku makſa prekßan</div>
+       <lb id="Elg1672_Cat_28_5"/>
+        <div type="Language" lang="Latvian">Dewu.</div>
+       <lb id="Elg1672_Cat_28_6"/>
+        <div type="Language" lang="Latvian">Já kas bût wyſſus ſauwus graekus</div>
+       <lb id="Elg1672_Cat_28_7"/>
+        <div type="Language" lang="Latvian">ſudzaeis/ vnd par tems ne żelois/ nedz</div>
+       <lb id="Elg1672_Cat_28_8"/>
+        <div type="Language" lang="Latvian">domais ſauwu dziwoßana labbak eſakt</div>
+       <lb id="Elg1672_Cat_28_9"/>
+        <div type="Language" lang="Latvian">ieb ne áddôt/ ko ôtram iaemis/ ieb nowilis/</div>
+       <lb id="Elg1672_Cat_28_10"/>
+        <div type="Language" lang="Latvian">ieb patturi/ algu darbnekam/ ár</div>
+       <lb id="Elg1672_Cat_28_11"/>
+        <div type="Language" lang="Latvian">tadam warraetu graekus pameſt Baznicákungs?</div>
+       <lb id="Elg1672_Cat_28_12"/>
+        <div type="Language" lang="Latvian">Tam newens Baznicakungs war</div>
+       <lb id="Elg1672_Cat_28_13"/>
+        <div type="Language" lang="Latvian">graekus pameſt/ bet pallek ekßan ſauwems</div>
+       <lb id="Elg1672_Cat_28_14"/>
+        <div type="Language" lang="Latvian">graekems dzilliak/ vnd ia ta nomirſt/</div>
+       <lb id="Elg1672_Cat_28_15"/>
+        <div type="Language" lang="Latvian">mużiga vgguni bûs: vnd ia ta kurß</div>
+       <lb id="Elg1672_Cat_28_16"/>
+        <div type="Language" lang="Latvian">Baznicakungs tam bûtu greku pameſt/</div>
+       <lb id="Elg1672_Cat_28_17"/>
+        <div type="Language" lang="Latvian">Dews ne pametta/ ekam tas gan darri/</div>
+       <lb id="Elg1672_Cat_28_18"/>
+        <div type="Language" lang="Latvian">kam tas parada ir: vnd Baznicakungs</div>
+       <lb id="Elg1672_Cat_28_19"/>
+        <div type="Language" lang="Latvian">lydza ár winiam mûżigos vggunis</div>
+       <lb id="Elg1672_Cat_28_20"/>
+        <div type="Language" lang="Latvian">citu.</div>
+       <lb id="Elg1672_Cat_28_21"/>
+        <div type="Language" lang="Latvian">Ja kurß lapratu gribbaetu graekus</div>
+       <lb id="Elg1672_Cat_28_22"/>
+        <div type="Language" lang="Latvian">ſudzaet mirdams/ vnd ne warretu tik</div>
+       <lb id="Elg1672_Cat_28_23"/>
+        <div type="Language" lang="Latvian">dryz Baznicakungu dabbuit/ ko tam</div>
+       <lb id="Elg1672_Cat_28_24"/>
+        <div type="Language" lang="Latvian">darrit?</div>
+      </div>
+      <pb n="29"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_29_1"/>
+        <div type="Language" lang="Latvian">Tam waiag no ſirdis żaelot par ſauwems</div>
+       <lb id="Elg1672_Cat_29_2"/>
+        <div type="Language" lang="Latvian">graekems/ tad Dews tam tôs</div>
+       <lb id="Elg1672_Cat_29_3"/>
+        <div type="Language" lang="Latvian">graekus pametta: bet ia winß waeſſels</div>
+       <lb id="Elg1672_Cat_29_4"/>
+        <div type="Language" lang="Latvian">kliuſt/ tad bus tam tôs graekus ſudzaet</div>
+       <lb id="Elg1672_Cat_29_5"/>
+        <div type="Language" lang="Latvian">prekßan Baznicakungu.</div>
+       <lb id="Elg1672_Cat_29_6"/>
+        <div type="Language" lang="Latvian">Ko tam darrit ká tas żaelot war ſauwems</div>
+       <lb id="Elg1672_Cat_29_7"/>
+        <div type="Language" lang="Latvian">graekems?</div>
+       <lb id="Elg1672_Cat_29_8"/>
+        <div type="Language" lang="Latvian">Tam bus ſeuw prekßan áccims ſtellaet</div>
+       <lb id="Elg1672_Cat_29_9"/>
+        <div type="Language" lang="Latvian">Chriſtum/ yt kaut tas to raedzaeis</div>
+       <lb id="Elg1672_Cat_29_10"/>
+        <div type="Language" lang="Latvian">pe kruſtu pekaltu/ áſsinigi/ ekßan grutems</div>
+       <lb id="Elg1672_Cat_29_11"/>
+        <div type="Language" lang="Latvian">môtems par ſauwems graekems/</div>
+       <lb id="Elg1672_Cat_29_12"/>
+        <div type="Language" lang="Latvian">to dômadams/ dos tam Dews wenu</div>
+       <lb id="Elg1672_Cat_29_13"/>
+        <div type="Language" lang="Latvian">mikſtu ſirdi/ vnd aſſaras.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_29_14"/>
+        <div type="Language" lang="Latvian">Kas ir tas pekts Sakraments?</div>
+       <lb id="Elg1672_Cat_29_15"/>
+        <div type="Language" lang="Latvian">Ta ir ta Baznicakungus eſwaetißana.</div>
+       <lb id="Elg1672_Cat_29_16"/>
+        <div type="Language" lang="Latvian">Kas ir ta Báznicakungus eſwaetißana?</div>
+       <lb id="Elg1672_Cat_29_17"/>
+        <div type="Language" lang="Latvian">Ta Baznicakungus eſwaetißana ir</div>
+       <lb id="Elg1672_Cat_29_18"/>
+        <div type="Language" lang="Latvian">wens Sakraments/ caur kattru tems</div>
+       <lb id="Elg1672_Cat_29_19"/>
+        <div type="Language" lang="Latvian">Baznicakungems topa dôts garrigs</div>
+       <lb id="Elg1672_Cat_29_20"/>
+        <div type="Language" lang="Latvian">ſpaeks/ vnd ſawiſka żaeleſtibá/ ká te ſauwam</div>
+       <lb id="Elg1672_Cat_29_21"/>
+        <div type="Language" lang="Latvian">ámmadam war labbu vnd pareize</div>
+       <lb id="Elg1672_Cat_29_22"/>
+        <div type="Language" lang="Latvian">prekßan ſtawaet.</div>
+       <lb id="Elg1672_Cat_29_23"/>
+        <div type="Language" lang="Latvian">Ta Baznicákunga eſwaetißaná ko labbu</div>
+       <lb id="Elg1672_Cat_29_24"/>
+        <div type="Language" lang="Latvian">dôda?</div>
+       <lb id="Elg1672_Cat_29_25"/>
+        <div type="Language" lang="Latvian">1. Ta dôda Dewá żaeleſtibá. 2. Dôd</div>
+      </div>
+      <pb n="30"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_30_1"/>
+        <div type="Language" lang="Latvian">Baznicakungems ſpaeku/ tôs Sakramentus</div>
+       <lb id="Elg1672_Cat_30_2"/>
+        <div type="Language" lang="Latvian">ſwaetit/ vnd tôs izdallit cittems.</div>
+       <lb id="Elg1672_Cat_30_3"/>
+       <div type="Language" lang="Latin">1. Timoth. 3.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_30_4"/>
+        <div type="Language" lang="Latvian">Kas ir tas ſeſts Sakraments?</div>
+       <lb id="Elg1672_Cat_30_5"/>
+        <div type="Language" lang="Latvian">Ta paſtarra aelieſwaidißana.</div>
+       <lb id="Elg1672_Cat_30_6"/>
+        <div type="Language" lang="Latvian">Kas ir ta paſtará aelieſwaidißaná?</div>
+       <lb id="Elg1672_Cat_30_7"/>
+        <div type="Language" lang="Latvian">Ta ir wens Sakraments caur kattru ár</div>
+       <lb id="Elg1672_Cat_30_8"/>
+        <div type="Language" lang="Latvian">to ſwaetitu aeliu/ vnd Chriſti wardus</div>
+       <lb id="Elg1672_Cat_30_9"/>
+        <div type="Language" lang="Latvian">newaeſſelám Dewa żaeleſtibá par dwaeſelles</div>
+       <lb id="Elg1672_Cat_30_10"/>
+        <div type="Language" lang="Latvian">palligá/ vnd dażżakart aridzan</div>
+       <lb id="Elg1672_Cat_30_11"/>
+        <div type="Language" lang="Latvian">par mêſas waeſſelibá topu dôts.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_30_12"/>
+        <div type="Language" lang="Latvian">Kas ir tas ſeptits Sakraments</div>
+       <lb id="Elg1672_Cat_30_13"/>
+        <div type="Language" lang="Latvian">Ta Laulibá.</div>
+       <lb id="Elg1672_Cat_30_14"/>
+        <div type="Language" lang="Latvian">Kas ir ta Laulibá?</div>
+       <lb id="Elg1672_Cat_30_15"/>
+        <div type="Language" lang="Latvian">Tá Laulibá ir wêns Sakraments/ caur</div>
+       <lb id="Elg1672_Cat_30_16"/>
+        <div type="Language" lang="Latvian">kattru dywwi ſwabbadi kriſtiti/ vnd neſaſoliti</div>
+       <lb id="Elg1672_Cat_30_17"/>
+        <div type="Language" lang="Latvian">cilwaeki/ wyrs vnd ſewá/ paec</div>
+       <lb id="Elg1672_Cat_30_18"/>
+        <div type="Language" lang="Latvian">Dewá eſtadißanás ſeuw dôdas ekßan</div>
+       <lb id="Elg1672_Cat_30_19"/>
+        <div type="Language" lang="Latvian">Laulibas: pe to têms Dews dôd caur ßo</div>
+       <lb id="Elg1672_Cat_30_20"/>
+        <div type="Language" lang="Latvian">Sakramentu żeleſtibá/ ká te ekßan ſauwas</div>
+       <lb id="Elg1672_Cat_30_21"/>
+        <div type="Language" lang="Latvian">laulibas lydz paßas náwes war gôdige</div>
+       <lb id="Elg1672_Cat_30_22"/>
+        <div type="Language" lang="Latvian">vnd <corr>weikle</corr><sic>vndweikle</sic> ſadziwot/ vnd ſauwus</div>
+       <lb id="Elg1672_Cat_30_23"/>
+        <div type="Language" lang="Latvian">bernus ekßan Dewá byáßená/ vnd kriſtitá</div>
+       <lb id="Elg1672_Cat_30_24"/>
+        <div type="Language" lang="Latvian">macibȧ vzáudzenat.</div>
+      </div>
+      <pb n="31"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_31_1"/>
+        <div type="Language" lang="Latvian">Ar Dews tôs ſodi/ káttri negodigi</div>
+       <lb id="Elg1672_Cat_31_2"/>
+        <div type="Language" lang="Latvian">dziwoiußi/ ieb cittá kadá greká bes grekuſudzeßáná</div>
+       <lb id="Elg1672_Cat_31_3"/>
+        <div type="Language" lang="Latvian">laulibas vziem?</div>
+       <lb id="Elg1672_Cat_31_4"/>
+        <div type="Language" lang="Latvian">Tádems Dews ne dôd labbá dziwoßaná/</div>
+       <lb id="Elg1672_Cat_31_5"/>
+        <div type="Language" lang="Latvian">áttráuw tems ſauwe Dewißká</div>
+       <lb id="Elg1672_Cat_31_6"/>
+        <div type="Language" lang="Latvian">żeleſtibá/ lêk tôs kriſt ekßan grûtems</div>
+       <lb id="Elg1672_Cat_31_7"/>
+        <div type="Language" lang="Latvian">grekems/ turri wená nikná dziwoßaná/</div>
+       <lb id="Elg1672_Cat_31_8"/>
+        <div type="Language" lang="Latvian">ſeuw wens otru enidás/ dod tems netikklus/</div>
+       <lb id="Elg1672_Cat_31_9"/>
+        <div type="Language" lang="Latvian">páttigalwigus/ vnd nepaklauſigus</div>
+       <lb id="Elg1672_Cat_31_10"/>
+        <div type="Language" lang="Latvian">baernus/ no kattrems ne wená</div>
+       <lb id="Elg1672_Cat_31_11"/>
+        <div type="Language" lang="Latvian">epraeceßaná tems bus; bet ſirdis ſapes/</div>
+       <lb id="Elg1672_Cat_31_12"/>
+        <div type="Language" lang="Latvian">żelums/ ráudaßaná vnd noládeßaná.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_31_13"/>
+        <div type="Language" lang="Latvian">Tas pektas gabbols no tas kriſtitas</div>
+       <lb id="Elg1672_Cat_31_14"/>
+        <div type="Language" lang="Latvian">Taiſnibas.</div>
+       <lb id="Elg1672_Cat_31_15"/>
+        <div type="Language" lang="Latvian">Kas ir tá kriſtitá táiſnibá?</div>
+       <lb id="Elg1672_Cat_31_16"/>
+        <div type="Language" lang="Latvian">Prekßan Dewu vnd cilwekáms wená</div>
+       <lb id="Elg1672_Cat_31_17"/>
+        <div type="Language" lang="Latvian">lábbu dziwoßaná turret.</div>
+       <lb id="Elg1672_Cat_31_18"/>
+        <div type="Language" lang="Latvian">Kas ir waiag pe kriſtitas taiſnibás?</div>
+       <lb id="Elg1672_Cat_31_19"/>
+        <div type="Language" lang="Latvian">Dywwi leti. Pirma: No to liaunu</div>
+       <lb id="Elg1672_Cat_31_20"/>
+        <div type="Language" lang="Latvian"><corr>átſtat</corr><sic>áſtat</sic>. Otra: Vnd labbu darrit. Aiſto</div>
+       <lb id="Elg1672_Cat_31_21"/>
+        <div type="Language" lang="Latvian">kás caur tyccibá táppis ir táiſnis/ tám</div>
+       <lb id="Elg1672_Cat_31_22"/>
+        <div type="Language" lang="Latvian">bûs gâdát/ ká tás wár cáur lábbems darbems</div>
+       <lb id="Elg1672_Cat_31_23"/>
+        <div type="Language" lang="Latvian">wel taiſnaks tápt.</div>
+       <lb id="Elg1672_Cat_31_24"/>
+        <div type="Language" lang="Latvian">Cek ir mums enáidneki/ kattri mums</div>
+      </div>
+      <pb n="32"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_32_1"/>
+        <div type="Language" lang="Latvian">pakudiná grekot?</div>
+       <lb id="Elg1672_Cat_32_2"/>
+        <div type="Language" lang="Latvian">Trys ir: Welns/ Paſſaul/ vnd mûſa</div>
+       <lb id="Elg1672_Cat_32_3"/>
+        <div type="Language" lang="Latvian">páßá mêſa.</div>
+       <lb id="Elg1672_Cat_32_4"/>
+        <div type="Language" lang="Latvian">Kápec citti greki tôpu deweti nawigi/</div>
+       <lb id="Elg1672_Cat_32_5"/>
+        <div type="Language" lang="Latvian">ieb galwigreki?</div>
+       <lb id="Elg1672_Cat_32_6"/>
+        <div type="Language" lang="Latvian">Tápec ká te to cilweku áplaupi/ vnd</div>
+       <lb id="Elg1672_Cat_32_7"/>
+        <div type="Language" lang="Latvian">noiem Dewá żeleſtibá/ kattrá tás dweſelles</div>
+       <lb id="Elg1672_Cat_32_8"/>
+        <div type="Language" lang="Latvian">dziwibá ir/ vnd to mużige zuddená.</div>
+       <lb id="Elg1672_Cat_32_9"/>
+        <div type="Language" lang="Latvian">Ar tê gálwagreki ár darbems wên notek?</div>
+       <lb id="Elg1672_Cat_32_10"/>
+        <div type="Language" lang="Latvian">Ne: bet áridzan ár wardems/ ár áyzkáweßaná</div>
+       <lb id="Elg1672_Cat_32_11"/>
+        <div type="Language" lang="Latvian">dáudzus labbus darbus/ áridzan</div>
+       <lb id="Elg1672_Cat_32_12"/>
+        <div type="Language" lang="Latvian">ár dômams wên.</div>
+       <lb id="Elg1672_Cat_32_13"/>
+        <div type="Language" lang="Latvian">Kápec citti greki tôpá denißki deweti?</div>
+       <lb id="Elg1672_Cat_32_14"/>
+        <div type="Language" lang="Latvian">Tápec ká tê ne zuddena to cilweká dweſel/</div>
+       <lb id="Elg1672_Cat_32_15"/>
+        <div type="Language" lang="Latvian">vnd top lêtá pȧmeſti.</div>
+       <lb id="Elg1672_Cat_32_16"/>
+        <div type="Language" lang="Latvian">Káttri ir tê wyſſunikniki vnd grutáki</div>
+       <lb id="Elg1672_Cat_32_17"/>
+        <div type="Language" lang="Latvian">greki?</div>
+       <lb id="Elg1672_Cat_32_18"/>
+        <div type="Language" lang="Latvian">Tê káttri cilweku mużam zuddená vnd</div>
+       <lb id="Elg1672_Cat_32_19"/>
+        <div type="Language" lang="Latvian">helle wedde: Lydz ká tê ſeptinie gálwagreki.</div>
+       <lb id="Elg1672_Cat_32_20"/>
+        <div type="Language" lang="Latvian">Te ſeßi greki pretty to Swetu</div>
+       <lb id="Elg1672_Cat_32_21"/>
+        <div type="Language" lang="Latvian">Garru. Te czettri greki kattri vz</div>
+       <lb id="Elg1672_Cat_32_22"/>
+        <div type="Language" lang="Latvian">debbeſſu ſauc. Te dewwinie ſweßi greki.</div>
+       <lb id="Elg1672_Cat_32_23"/>
+        <div type="Language" lang="Latvian">Vnd citti wairak/ kattri pretty Dewu</div>
+      </div>
+      <pb n="33"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_33_1"/>
+        <div type="Language" lang="Latvian">vnd tuwáku milibá ir.</div>
+       <lb id="Elg1672_Cat_33_2"/>
+        <div type="Language" lang="Latvian">Cek ir galwágreki? Septinie.</div>
+       <lb id="Elg1672_Cat_33_3"/>
+        <div type="Language" lang="Latvian">1. Greznibá. 2. Negauſibá. 3. Neſkiſtibá.</div>
+       <lb id="Elg1672_Cat_33_4"/>
+        <div type="Language" lang="Latvian">4. Enáidiba. 5. Perißaná. 6.</div>
+       <lb id="Elg1672_Cat_33_5"/>
+        <div type="Language" lang="Latvian">Duſmibá. 7. Laiſkibá pe Dewá kálpoßáná</div>
+       <lb id="Elg1672_Cat_33_6"/>
+        <div type="Language" lang="Latvian">vnd cittems lêtems. Pretty ßems</div>
+       <lb id="Elg1672_Cat_33_7"/>
+        <div type="Language" lang="Latvian">ir ße ſeptinie Dewádomigi leti. 1. Zemmibá.</div>
+       <lb id="Elg1672_Cat_33_8"/>
+        <div type="Language" lang="Latvian">2. mileſirdibá. 3. Skiſtibá 4. milibá.</div>
+       <lb id="Elg1672_Cat_33_9"/>
+        <div type="Language" lang="Latvian">5. goddibá 6. Paceßaná. 7. Akkiliba</div>
+       <lb id="Elg1672_Cat_33_10"/>
+        <div type="Language" lang="Latvian">pe Dewakalpoßanas vnd wyſſems</div>
+       <lb id="Elg1672_Cat_33_11"/>
+        <div type="Language" lang="Latvian">letems.</div>
+       <lb id="Elg1672_Cat_33_12"/>
+        <div type="Language" lang="Latvian">Cek ir greki pretty to Swetu Garru?</div>
+       <lb id="Elg1672_Cat_33_13"/>
+        <div type="Language" lang="Latvian">Seße.</div>
+       <lb id="Elg1672_Cat_33_14"/>
+        <div type="Language" lang="Latvian">1. Tiß vz Dewȧ żeleſtibás grekot. 2.</div>
+       <lb id="Elg1672_Cat_33_15"/>
+        <div type="Language" lang="Latvian">Pe Dewu żeleſtibás iſſamiſſetes. 3. Tay</div>
+       <lb id="Elg1672_Cat_33_16"/>
+        <div type="Language" lang="Latvian">pazinnȧmáy teſibȧ pretty êt. 4. Tay</div>
+       <lb id="Elg1672_Cat_33_17"/>
+        <div type="Language" lang="Latvian">bralißká milibes pec ôtru enidet. 5. Cêtu</div>
+       <lb id="Elg1672_Cat_33_18"/>
+        <div type="Language" lang="Latvian">ſirdi turret. 6. Ekßan grekems vzmoß</div>
+       <lb id="Elg1672_Cat_33_19"/>
+        <div type="Language" lang="Latvian">páſtawet. Sze greki/ nedz ßeit/ nedz</div>
+       <lb id="Elg1672_Cat_33_20"/>
+        <div type="Language" lang="Latvian">winiá paſſaulá/ ieb liot grutu topi átláiſti.</div>
+       <lb id="Elg1672_Cat_33_21"/>
+        <div type="Language" lang="Latvian">Cek ir greki kattri vz debbeſſu ſauc?</div>
+       <lb id="Elg1672_Cat_33_22"/>
+        <div type="Language" lang="Latvian">Czettri.</div>
+       <lb id="Elg1672_Cat_33_23"/>
+        <div type="Language" lang="Latvian">1. Vzmoßa ſlȧpkauwibà. 2. Tas mems</div>
+       <lb id="Elg1672_Cat_33_24"/>
+        <div type="Language" lang="Latvian">ieb Sodomiteru greks. 3. Nabbagas</div>
+      </div>
+      <pb n="34"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_34_1"/>
+        <div type="Language" lang="Latvian">áttraidnas vnd bárinus ápſpeßaná. 4.</div>
+       <lb id="Elg1672_Cat_34_2"/>
+        <div type="Language" lang="Latvian">Nopelnitu álgu darbnekems vnd álgácems</div>
+       <lb id="Elg1672_Cat_34_3"/>
+        <div type="Language" lang="Latvian">átturret/ ieb ne dryz dot.</div>
+       <lb id="Elg1672_Cat_34_4"/>
+        <div type="Language" lang="Latvian">Cek ir ſweßi greki/ kattri mums topu</div>
+       <lb id="Elg1672_Cat_34_5"/>
+        <div type="Language" lang="Latvian">pelágadit? dewwinie.</div>
+       <lb id="Elg1672_Cat_34_6"/>
+        <div type="Language" lang="Latvian">1. Paddomu dot vz kadu greku darrißaná.</div>
+       <lb id="Elg1672_Cat_34_7"/>
+        <div type="Language" lang="Latvian">2. Cittam páwelet kádu greku</div>
+       <lb id="Elg1672_Cat_34_8"/>
+        <div type="Language" lang="Latvian">darrit. 3. Ekßan ſweßu greku ſauwu</div>
+       <lb id="Elg1672_Cat_34_9"/>
+        <div type="Language" lang="Latvian">prâtu átwelet. 4. Cittus ekßan grekems</div>
+       <lb id="Elg1672_Cat_34_10"/>
+        <div type="Language" lang="Latvian">eweſt. 5. otru greku teikt. 6. kad kás</div>
+       <lb id="Elg1672_Cat_34_11"/>
+        <div type="Language" lang="Latvian">greko kluſu cêſt. 7. Zakßá letá glábbot</div>
+       <lb id="Elg1672_Cat_34_12"/>
+        <div type="Language" lang="Latvian">vnd ſargát. 8. Cittu greku parredzet.</div>
+       <lb id="Elg1672_Cat_34_13"/>
+        <div type="Language" lang="Latvian">9. Sweßu greku áyzbildet.</div>
+       <lb id="Elg1672_Cat_34_14"/>
+        <div type="Language" lang="Latvian">Ar tás iau gán no grekems ſeuw ſargates/</div>
+       <lb id="Elg1672_Cat_34_15"/>
+        <div type="Language" lang="Latvian">vnd ne kadá liánu darrit?</div>
+       <lb id="Elg1672_Cat_34_16"/>
+        <div type="Language" lang="Latvian">Newáid gán: áiſto Chriſtus ſakká:</div>
+       <lb id="Elg1672_Cat_34_17"/>
+        <div type="Language" lang="Latvian">Jkwens koks/ kas lábbu áuglu ne neſſa/</div>
+       <lb id="Elg1672_Cat_34_18"/>
+        <div type="Language" lang="Latvian">taps yzcirſts/ vnd vgguni meſts:</div>
+       <lb id="Elg1672_Cat_34_19"/>
+        <div type="Language" lang="Latvian">Bet kas mánná Tewá prátu darrá/ tas</div>
+       <lb id="Elg1672_Cat_34_20"/>
+        <div type="Language" lang="Latvian">ês ekßan debbeſſu walſtibás.</div>
+       <lb id="Elg1672_Cat_34_21"/>
+        <div type="Language" lang="Latvian">Ko tad bûs wenám kriſtitam cilwekam</div>
+       <lb id="Elg1672_Cat_34_22"/>
+        <div type="Language" lang="Latvian">lábbu dárrit?</div>
+       <lb id="Elg1672_Cat_34_23"/>
+        <div type="Language" lang="Latvian">Tam bûs modige/ taiſne/ vnd Dewabiige</div>
+       <lb id="Elg1672_Cat_34_24"/>
+        <div type="Language" lang="Latvian">prekßan Dewu/ vnd cilwekems</div>
+       <lb id="Elg1672_Cat_34_25"/>
+        <div type="Language" lang="Latvian">dziwot/ vnd ár labbems darbems ſauwá</div>
+      </div>
+      <pb n="35"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_35_1"/>
+        <div type="Language" lang="Latvian">kriſtitȧ áicenáßȧnâ râdit.</div>
+       <lb id="Elg1672_Cat_35_2"/>
+        <div type="Language" lang="Latvian">Cekâdi ir labbi dárbi? Triádi ir.</div>
+       <lb id="Elg1672_Cat_35_3"/>
+        <div type="Language" lang="Latvian">1. Dewu lûgt. 2. Gáwet. 3. Vbbágems</div>
+       <lb id="Elg1672_Cat_35_4"/>
+        <div type="Language" lang="Latvian">Dewá dêlie dot.</div>
+       <lb id="Elg1672_Cat_35_5"/>
+        <div type="Language" lang="Latvian">Ko mums pallidzá te labbi darbi?</div>
+       <lb id="Elg1672_Cat_35_6"/>
+        <div type="Language" lang="Latvian">Caur tems lȧbbems dárbems/ vnd ne</div>
+       <lb id="Elg1672_Cat_35_7"/>
+        <div type="Language" lang="Latvian">cáur tyccibás wên top tas cilweks taiſnots/</div>
+       <lb id="Elg1672_Cat_35_8"/>
+        <div type="Language" lang="Latvian">vnd dabbu to árlgu tás tàiſnibás.</div>
+       <lb id="Elg1672_Cat_35_9"/>
+        <div type="Language" lang="Latvian">Vnd tê káttri lábbu dárrá/ ês ekßan to</div>
+       <lb id="Elg1672_Cat_35_10"/>
+        <div type="Language" lang="Latvian">mużigá dziwoßána: bet tè káttri liáunu</div>
+       <lb id="Elg1672_Cat_35_11"/>
+        <div type="Language" lang="Latvian">dárrá/ ekßán to mużigá pázußáná.</div>
+       <lb id="Elg1672_Cat_35_12"/>
+        <div type="Language" lang="Latvian">Cek ir meſigi ieb árigi mileſirdibás</div>
+       <lb id="Elg1672_Cat_35_13"/>
+        <div type="Language" lang="Latvian">dárbi? Septinie.</div>
+       <lb id="Elg1672_Cat_35_14"/>
+        <div type="Language" lang="Latvian">1. Tos izalkußos bariot. 2. Tos yzkáltußos</div>
+       <lb id="Elg1672_Cat_35_15"/>
+        <div type="Language" lang="Latvian">dzirdenát. 3. Tos naggus <corr>ápterpt</corr><sic>ápterpt-</sic>.</div>
+       <lb id="Elg1672_Cat_35_16"/>
+        <div type="Language" lang="Latvian">4. Tos ſweßus vziemt maiewetá. 5. Tos</div>
+       <lb id="Elg1672_Cat_35_17"/>
+        <div type="Language" lang="Latvian">neweſſulus ápraudzit. 6. Tos kás cetumá</div>
+       <lb id="Elg1672_Cat_35_18"/>
+        <div type="Language" lang="Latvian">ápmekklet. 7. Tos myrrones áprákt.</div>
+       <lb id="Elg1672_Cat_35_19"/>
+        <div type="Language" lang="Latvian">Ko ſakka Chriſtus no ßems mileſirdibas</div>
+       <lb id="Elg1672_Cat_35_20"/>
+        <div type="Language" lang="Latvian">darbems?</div>
+       <lb id="Elg1672_Cat_35_21"/>
+        <div type="Language" lang="Latvian">Sweti ir tè mileſirdigi: áiſto tê mileſirdibá</div>
+       <lb id="Elg1672_Cat_35_22"/>
+        <div type="Language" lang="Latvian">áttrás.</div>
+       <lb id="Elg1672_Cat_35_23"/>
+        <div type="Language" lang="Latvian">Cek ir gárrigi mileſirdibás dárbi? <corr>Septinie</corr><sic>Se-(ptinie</sic>.</div>
+       <lb id="Elg1672_Cat_35_24"/>
+        <div type="Language" lang="Latvian">1. Tos grecnekus paſodit vnd pámácet.</div>
+       <lb id="Elg1672_Cat_35_25"/>
+        <div type="Language" lang="Latvian">2. Tos nemácitus mácet. 3. Tems ßaubigems</div>
+      </div>
+      <pb n="36"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_36_1"/>
+        <div type="Language" lang="Latvian">lábbu páddomu dot. 4. Tos</div>
+       <lb id="Elg1672_Cat_36_2"/>
+        <div type="Language" lang="Latvian">bedigus eprecát. 5. Lapprát nepáttes</div>
+       <lb id="Elg1672_Cat_36_3"/>
+        <div type="Language" lang="Latvian">cêſt. 7. Pár dziwems vnd nomirrußems</div>
+       <lb id="Elg1672_Cat_36_4"/>
+        <div type="Language" lang="Latvian">Dewu lugt. Aiſto ár kadu meru</div>
+       <lb id="Elg1672_Cat_36_5"/>
+        <div type="Language" lang="Latvian">mes emeroſem/ ár kádu mums átkál táps</div>
+       <lb id="Elg1672_Cat_36_6"/>
+        <div type="Language" lang="Latvian">emerots.</div>
+       <lb id="Elg1672_Cat_36_7"/>
+        <div type="Language" lang="Latvian">Katrri ir te áſtonie Swetibás/ káttrás</div>
+       <lb id="Elg1672_Cat_36_8"/>
+        <div type="Language" lang="Latvian">Chriſtus maciá?</div>
+       <lb id="Elg1672_Cat_36_9"/>
+        <div type="Language" lang="Latvian">1. Sweti ir tê nábbági ekßan gárru:</div>
+       <lb id="Elg1672_Cat_36_10"/>
+        <div type="Language" lang="Latvian">áiſto tems peder tá debbeſſo wálſtibá.</div>
+       <lb id="Elg1672_Cat_36_11"/>
+        <div type="Language" lang="Latvian">2. Sweti ir te lenigi: áiſto tê to zemme</div>
+       <lb id="Elg1672_Cat_36_12"/>
+        <div type="Language" lang="Latvian">ápſedes.</div>
+       <lb id="Elg1672_Cat_36_13"/>
+        <div type="Language" lang="Latvian">3. Sweti ir tê bedigi: áiſto te táppis</div>
+       <lb id="Elg1672_Cat_36_14"/>
+        <div type="Language" lang="Latvian">eprecenati.</div>
+       <lb id="Elg1672_Cat_36_15"/>
+        <div type="Language" lang="Latvian">4. Sweti ir tê káttrems álkſt vnd kálſt</div>
+       <lb id="Elg1672_Cat_36_16"/>
+        <div type="Language" lang="Latvian">pec táiſnibas: áiſto te táppis peedenáti.</div>
+       <lb id="Elg1672_Cat_36_17"/>
+        <div type="Language" lang="Latvian">5. Sweti ir tê mileſirdigi: áiſto tê mileſirdibá</div>
+       <lb id="Elg1672_Cat_36_18"/>
+        <div type="Language" lang="Latvian">dábbuis.</div>
+       <lb id="Elg1672_Cat_36_19"/>
+        <div type="Language" lang="Latvian">6. Sweti itê káttri wenu ſkiſtá ſirdi</div>
+       <lb id="Elg1672_Cat_36_20"/>
+        <div type="Language" lang="Latvian">turru: áiſto tê Dewu redzes.</div>
+       <lb id="Elg1672_Cat_36_21"/>
+        <div type="Language" lang="Latvian">7. Sweti ir te merigi: áiſto tê táppis</div>
+       <lb id="Elg1672_Cat_36_22"/>
+        <div type="Language" lang="Latvian">Dêwá berni deweti.</div>
+       <lb id="Elg1672_Cat_36_23"/>
+        <div type="Language" lang="Latvian">8. Sweti ir te káttri pectrenßená cêß</div>
+       <lb id="Elg1672_Cat_36_24"/>
+        <div type="Language" lang="Latvian">pár táiſnibás pec: áiſto tems tá debbeſſo</div>
+       <lb id="Elg1672_Cat_36_25"/>
+        <div type="Language" lang="Latvian">wálſtibá peder.</div>
+      </div>
+      <pb n="37"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_37_1"/>
+        <div type="Language" lang="Latvian">Cek ir Ewángelißki paddomu? trys.</div>
+       <lb id="Elg1672_Cat_37_2"/>
+        <div type="Language" lang="Latvian">1. Lappratigá nábbádzibá. 2. Muzigá</div>
+       <lb id="Elg1672_Cat_37_3"/>
+        <div type="Language" lang="Latvian">ſkiſtibá. 3. Pilnigá pakláuſißáná áppákßa</div>
+       <lb id="Elg1672_Cat_37_4"/>
+        <div type="Language" lang="Latvian">gárrigu wyrſneku.</div>
+       <lb id="Elg1672_Cat_37_5"/>
+        <div type="Language" lang="Latvian">Káttri ir te paedigi cilwaeku leti?</div>
+       <lb id="Elg1672_Cat_37_6"/>
+        <div type="Language" lang="Latvian">Sze czettri.</div>
+       <lb id="Elg1672_Cat_37_7"/>
+        <div type="Language" lang="Latvian">1. Ta náwe. 2. Tá ſodibá. 3. Tá helle.</div>
+       <lb id="Elg1672_Cat_37_8"/>
+        <div type="Language" lang="Latvian">4. Tá debbeſſa prêcibá.</div>
+       <lb id="Elg1672_Cat_37_9"/>
+        <div type="Language" lang="Latvian">Ar álláźin mums tos peminnet bus?</div>
+       <lb id="Elg1672_Cat_37_10"/>
+        <div type="Language" lang="Latvian">Ká tád: zin ká te Sweti rákſti ne welti</div>
+       <lb id="Elg1672_Cat_37_11"/>
+        <div type="Language" lang="Latvian">ſakká: Ekßán wyſſems tauwems darbems</div>
+       <lb id="Elg1672_Cat_37_12"/>
+        <div type="Language" lang="Latvian">pemin tauwás pedigás letás/ tád</div>
+       <lb id="Elg1672_Cat_37_13"/>
+        <div type="Language" lang="Latvian">tu mûżam ne grekos.</div>
+       <div type="Language" lang="Latin">Eccli. 7.</div>
+       <lb id="Elg1672_Cat_37_14"/>
+        <div type="Language" lang="Latvian">Kápec tê topá dewet czettri pedigás</div>
+       <lb id="Elg1672_Cat_37_15"/>
+        <div type="Language" lang="Latvian">letás?</div>
+       <lb id="Elg1672_Cat_37_16"/>
+        <div type="Language" lang="Latvian">Tapaec ka newens cilweks tôs war <corr>yzbaegt</corr><sic>yz-(baegt</sic>.</div>
+       <lb id="Elg1672_Cat_37_17"/>
+        <div type="Language" lang="Latvian">Katrra no tems ir ta pirma? Ta Nawe.</div>
+       <lb id="Elg1672_Cat_37_18"/>
+        <div type="Language" lang="Latvian">Ko maes ſaucam tá Nawe?</div>
+       <lb id="Elg1672_Cat_37_19"/>
+        <div type="Language" lang="Latvian">Kad mêſa vnd dwaeſel no ſeuw ſkirras/</div>
+       <lb id="Elg1672_Cat_37_20"/>
+        <div type="Language" lang="Latvian">daewam maes ta Nawe.</div>
+       <lb id="Elg1672_Cat_37_21"/>
+        <div type="Language" lang="Latvian">Tad wyſſems mums bûs mirt?</div>
+       <lb id="Elg1672_Cat_37_22"/>
+        <div type="Language" lang="Latvian">To ár áccims raedzam: kur tê ir/ kattri</div>
+       <lb id="Elg1672_Cat_37_23"/>
+        <div type="Language" lang="Latvian">dażżuſimpti gaddus prekßan mums</div>
+       <lb id="Elg1672_Cat_37_24"/>
+        <div type="Language" lang="Latvian">ir byußi? ta ka tad/ ta taggadin mirſtam</div>
+       <lb id="Elg1672_Cat_37_25"/>
+        <div type="Language" lang="Latvian">wens paec ôtru cits drizak/cits</div>
+       <lb id="Elg1672_Cat_37_26"/>
+        <div type="Language" lang="Latvian">waelak.</div>
+      </div>
+      <pb n="38"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_38_1"/>
+        <div type="Language" lang="Latvian">Ar tá dwaeſel lydz mirſt ár to meſa?</div>
+       <lb id="Elg1672_Cat_38_2"/>
+        <div type="Language" lang="Latvian">Ta dwaeſel ne war mirrt; cittada bûtam</div>
+       <lb id="Elg1672_Cat_38_3"/>
+        <div type="Language" lang="Latvian">maes tems zwerems vnd lopems lydzini.</div>
+       <lb id="Elg1672_Cat_38_4"/>
+        <div type="Language" lang="Latvian">Kur tá tad pallek/ ka winia yz ſauwas</div>
+       <lb id="Elg1672_Cat_38_5"/>
+        <div type="Language" lang="Latvian">meſas êt?</div>
+       <lb id="Elg1672_Cat_38_6"/>
+        <div type="Language" lang="Latvian">Ta tudelin prekßan Dewu tôpá ſtellaeta/</div>
+       <lb id="Elg1672_Cat_38_7"/>
+        <div type="Language" lang="Latvian">kur tay bûs dôt lagadibá no wyſſems</div>
+       <lb id="Elg1672_Cat_38_8"/>
+        <div type="Language" lang="Latvian">ko ta ekßan ſauwa dziwoßana ir darriuſa/</div>
+       <lb id="Elg1672_Cat_38_9"/>
+        <div type="Language" lang="Latvian">vnd paec ſauwems darbems tôpa</div>
+       <lb id="Elg1672_Cat_38_10"/>
+        <div type="Language" lang="Latvian">ſodit.</div>
+       <lb id="Elg1672_Cat_38_11"/>
+        <div type="Language" lang="Latvian">Paec ſodibas kur ta dwaeſella êt?</div>
+       <lb id="Elg1672_Cat_38_12"/>
+        <div type="Language" lang="Latvian">Ta êt ab debbeſsis/ ab helle/ ab ſlaucumu</div>
+       <lb id="Elg1672_Cat_38_13"/>
+        <div type="Language" lang="Latvian">vgguni.</div>
+       <lb id="Elg1672_Cat_38_14"/>
+        <div type="Language" lang="Latvian">Kattri êt debbeſsis?</div>
+       <lb id="Elg1672_Cat_38_15"/>
+        <div type="Language" lang="Latvian">Tê kattri ár ſkiſta dwaeſell no ßennens</div>
+       <lb id="Elg1672_Cat_38_16"/>
+        <div type="Language" lang="Latvian">êt/ vnd ne kadu graeku turru: ab ia</div>
+       <lb id="Elg1672_Cat_38_17"/>
+        <div type="Language" lang="Latvian">káds byis graeks/ ße gan par to darriußi.</div>
+       <lb id="Elg1672_Cat_38_18"/>
+        <div type="Language" lang="Latvian">Kattri êt helle?</div>
+       <lb id="Elg1672_Cat_38_19"/>
+        <div type="Language" lang="Latvian">Tê kattri ár kadu galwagraeku nomirſt.</div>
+       <lb id="Elg1672_Cat_38_20"/>
+        <div type="Language" lang="Latvian">Kattri êt Slaucuma vgguni?</div>
+       <lb id="Elg1672_Cat_38_21"/>
+        <div type="Language" lang="Latvian">Te kattri ekßan ßo paſſaul newaid gan</div>
+       <lb id="Elg1672_Cat_38_22"/>
+        <div type="Language" lang="Latvian">darriußi par pameſtems grekems.</div>
+       <lb id="Elg1672_Cat_38_23"/>
+        <div type="Language" lang="Latvian">Kattra ir ta ôtra no tems czettrems</div>
+       <lb id="Elg1672_Cat_38_24"/>
+        <div type="Language" lang="Latvian">paedigems lêtems?</div>
+       <lb id="Elg1672_Cat_38_25"/>
+        <div type="Language" lang="Latvian">Ta ſodiba/ kattra dywwada. Pirma</div>
+      </div>
+      <pb n="39"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_39_1"/>
+        <div type="Language" lang="Latvian">notek tudelin paec mirßanas: ôtra/</div>
+       <lb id="Elg1672_Cat_39_2"/>
+        <div type="Language" lang="Latvian">paſtarra dena/ kad Dews aicenas wyſſus</div>
+       <lb id="Elg1672_Cat_39_3"/>
+        <div type="Language" lang="Latvian">cilwaeko bernus prekßan ſauwu kreſlu</div>
+       <lb id="Elg1672_Cat_39_4"/>
+        <div type="Language" lang="Latvian">ár tems lagadaet.</div>
+       <lb id="Elg1672_Cat_39_5"/>
+        <div type="Language" lang="Latvian">Ka ta notiks?</div>
+       <lb id="Elg1672_Cat_39_6"/>
+        <div type="Language" lang="Latvian">Dews ſauwus Engelus ſutis/ liks wyſſus</div>
+       <lb id="Elg1672_Cat_39_7"/>
+        <div type="Language" lang="Latvian">myrrones aukßan celtes/ vnd nâkt</div>
+       <lb id="Elg1672_Cat_39_8"/>
+        <div type="Language" lang="Latvian">prekßan ſodibas.</div>
+       <lb id="Elg1672_Cat_39_9"/>
+        <div type="Language" lang="Latvian">Ar tyccy tu ka wyſsi kattri nomirrußi/</div>
+       <lb id="Elg1672_Cat_39_10"/>
+        <div type="Language" lang="Latvian">átkal aukßan celſes?</div>
+       <lb id="Elg1672_Cat_39_11"/>
+        <div type="Language" lang="Latvian">Ka ne tyccaeßu/ ká pats Chriſtus Dewa</div>
+       <lb id="Elg1672_Cat_39_12"/>
+        <div type="Language" lang="Latvian">daels/ katters mellot ne war/ waelaeis</div>
+       <lb id="Elg1672_Cat_39_13"/>
+        <div type="Language" lang="Latvian">tyccaet/. Vnd ekßan mûſas tyccibas</div>
+       <lb id="Elg1672_Cat_39_14"/>
+        <div type="Language" lang="Latvian">wenpadeſmita gabbula ſakkam maes:</div>
+       <lb id="Elg1672_Cat_39_15"/>
+        <div type="Language" lang="Latvian">Meſas aukßan celßana.</div>
+       <lb id="Elg1672_Cat_39_16"/>
+        <div type="Language" lang="Latvian">Kapaec tay meſi átkal bûs aukßan celtes?</div>
+       <lb id="Elg1672_Cat_39_17"/>
+        <div type="Language" lang="Latvian">Tapaec ka tay bûs ét ár ſauwa dwaeſel</div>
+       <lb id="Elg1672_Cat_39_18"/>
+        <div type="Language" lang="Latvian">mûżiga dziwoßana/ ia ta ßay paſſaule</div>
+       <lb id="Elg1672_Cat_39_19"/>
+        <div type="Language" lang="Latvian">labu dziwoiuſa/ ab ekßan mûżigems</div>
+       <lb id="Elg1672_Cat_39_20"/>
+        <div type="Language" lang="Latvian">môkems/ ia ta ne labba dziwoiuſa.</div>
+       <lb id="Elg1672_Cat_39_21"/>
+        <div type="Language" lang="Latvian">Kas tad bûs ka maes ſtawaeſam prekßan</div>
+       <lb id="Elg1672_Cat_39_22"/>
+        <div type="Language" lang="Latvian">Dewa kraeſlu?</div>
+       <lb id="Elg1672_Cat_39_23"/>
+        <div type="Language" lang="Latvian">Bus mums ikwenam átbildaet ko maes</div>
+       <lb id="Elg1672_Cat_39_24"/>
+        <div type="Language" lang="Latvian">dziwoßanas layka/ lab/ ieb ſlimmi eſſemi</div>
+       <lb id="Elg1672_Cat_39_25"/>
+        <div type="Language" lang="Latvian">domaiußu/ ieb runnaiußu: ieb darriußu:</div>
+      </div>
+      <pb n="40"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_40_1"/>
+        <div type="Language" lang="Latvian">neneku palliks ne yztauiats: to</div>
+       <lb id="Elg1672_Cat_40_2"/>
+        <div type="Language" lang="Latvian">mums maca tâs ſwaetas tyccibas gabbolins:</div>
+       <lb id="Elg1672_Cat_40_3"/>
+        <div type="Language" lang="Latvian">No turrens tas nâcis ſodit dziwus</div>
+       <lb id="Elg1672_Cat_40_4"/>
+        <div type="Language" lang="Latvian">vnd nomirrußus.</div>
+       <lb id="Elg1672_Cat_40_5"/>
+        <div type="Language" lang="Latvian">Prekßan kattrams ta paſtarra ſodiba</div>
+       <lb id="Elg1672_Cat_40_6"/>
+        <div type="Language" lang="Latvian">tappis turraeta?</div>
+       <lb id="Elg1672_Cat_40_7"/>
+        <div type="Language" lang="Latvian">Prekßan wyſſems Engelems/ waelnems/</div>
+       <lb id="Elg1672_Cat_40_8"/>
+        <div type="Language" lang="Latvian">vnd cilwaekems: Chriſtus ka</div>
+       <lb id="Elg1672_Cat_40_9"/>
+        <div type="Language" lang="Latvian">wens ſogis ſedes vz wena wariawixne</div>
+       <lb id="Elg1672_Cat_40_10"/>
+        <div type="Language" lang="Latvian">apkart winiam ſtawaes ar lêlu gôdu</div>
+       <lb id="Elg1672_Cat_40_11"/>
+        <div type="Language" lang="Latvian">wyſſa debbeſſa draudze.</div>
+       <lb id="Elg1672_Cat_40_12"/>
+        <div type="Language" lang="Latvian">Ar tur zinnamu bûs prekßan wyſſems/</div>
+       <lb id="Elg1672_Cat_40_13"/>
+        <div type="Language" lang="Latvian">ko maes labbu/ ieb ſlimmi darriußi?</div>
+       <lb id="Elg1672_Cat_40_14"/>
+        <div type="Language" lang="Latvian">Ne wên tê labbi darbi/ vnd nikni</div>
+       <lb id="Elg1672_Cat_40_15"/>
+        <div type="Language" lang="Latvian">prekßan wyſſems bûs zinnami/ bet ár te</div>
+       <lb id="Elg1672_Cat_40_16"/>
+        <div type="Language" lang="Latvian">wyſsi mazzaki/ kattrus maes par graekus</div>
+       <lb id="Elg1672_Cat_40_17"/>
+        <div type="Language" lang="Latvian">ne turram.</div>
+       <div type="Language" lang="Latin">1. Cor. 4.</div>
+       <lb id="Elg1672_Cat_40_18"/>
+        <div type="Language" lang="Latvian">Ja kada dwaeſael noêt no ßas paſſaules</div>
+       <lb id="Elg1672_Cat_40_19"/>
+        <div type="Language" lang="Latvian">bes ruppiems graekims/ ár ta war</div>
+       <lb id="Elg1672_Cat_40_20"/>
+        <div type="Language" lang="Latvian">êt debbeſsis turredama mazzos graekus?</div>
+       <lb id="Elg1672_Cat_40_21"/>
+        <div type="Language" lang="Latvian">Ne war/ ley gan te te mazze greki/</div>
+       <lb id="Elg1672_Cat_40_22"/>
+        <div type="Language" lang="Latvian">ieb rupie graeki caur graekuſudzeßaná</div>
+       <lb id="Elg1672_Cat_40_23"/>
+        <div type="Language" lang="Latvian">iau pameſti ir/ tamaer bus tay par tems</div>
+       <lb id="Elg1672_Cat_40_24"/>
+        <div type="Language" lang="Latvian">ekßan ſlaucumaugguni cêſt/ vnd gan</div>
+      </div>
+      <pb n="41"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_41_1"/>
+        <div type="Language" lang="Latvian">darrit Dewa taiſnibá: áiſto ta debbeſſu</div>
+       <lb id="Elg1672_Cat_41_2"/>
+        <div type="Language" lang="Latvian">walſtiba ne cêß kada newa.</div>
+       <lb id="Elg1672_Cat_41_3"/>
+        <div type="Language" lang="Latvian">Cik ilgi tay bûs bût ſlaucumuugguni?</div>
+       <lb id="Elg1672_Cat_41_4"/>
+        <div type="Language" lang="Latvian">Kamaer ta par ſauwems nopelnitems</div>
+       <lb id="Elg1672_Cat_41_5"/>
+        <div type="Language" lang="Latvian">graekims gan ir cetuſa. áiſto Chriſtus</div>
+       <lb id="Elg1672_Cat_41_6"/>
+        <div type="Language" lang="Latvian">ſakká.</div>
+       <div type="Language" lang="Latin">Mat. 5.</div>
+        <div type="Language" lang="Latvian">Pattes es ſakka teuw/ tu</div>
+       <lb id="Elg1672_Cat_41_7"/>
+        <div type="Language" lang="Latvian">ne yzes no turrens/ ekam tu to paedigu</div>
+       <lb id="Elg1672_Cat_41_8"/>
+        <div type="Language" lang="Latvian">kauſu ȧtmakſas. Vnd</div>
+       <div type="Language" lang="Latin">Matth. 13.</div>
+        <div type="Language" lang="Latvian">Vnd</div>
+       <lb id="Elg1672_Cat_41_9"/>
+        <div type="Language" lang="Latvian">winiu kungs nodewwe to tems môcitaiems/</div>
+       <lb id="Elg1672_Cat_41_10"/>
+        <div type="Language" lang="Latvian">ekam tas wyſſu paradu átmakſaia.</div>
+       <lb id="Elg1672_Cat_41_11"/>
+        <div type="Language" lang="Latvian">Ka ta iau gan bus darriuſa/ tad</div>
+       <lb id="Elg1672_Cat_41_12"/>
+        <div type="Language" lang="Latvian">ta top vziemta debbeſsi.</div>
+       <lb id="Elg1672_Cat_41_13"/>
+        <div type="Language" lang="Latvian">Ar warram maes pallidzaet tôs nabbagus</div>
+       <lb id="Elg1672_Cat_41_14"/>
+        <div type="Language" lang="Latvian">dwaeſelles ka tems te môkas tôp</div>
+       <lb id="Elg1672_Cat_41_15"/>
+        <div type="Language" lang="Latvian">átweglot/ ieb drizak no turrens war</div>
+       <lb id="Elg1672_Cat_41_16"/>
+        <div type="Language" lang="Latvian">tapti peſtiti?</div>
+       <lb id="Elg1672_Cat_41_17"/>
+        <div type="Language" lang="Latvian">Warram: 1. ár gaweßana. 2. ar Dewa</div>
+       <lb id="Elg1672_Cat_41_18"/>
+        <div type="Language" lang="Latvian">lugßena. 3. ar nabbagus meloßana.</div>
+       <lb id="Elg1672_Cat_41_19"/>
+        <div type="Language" lang="Latvian">4. vnd wyſſu wairak ká ta Swaeta Miſſa</div>
+       <lb id="Elg1672_Cat_41_20"/>
+        <div type="Language" lang="Latvian">par tems tôpa turraet.</div>
+       <lb id="Elg1672_Cat_41_21"/>
+        <div type="Language" lang="Latvian">Tad waiag tikkuß par tems Dewu</div>
+       <lb id="Elg1672_Cat_41_22"/>
+        <div type="Language" lang="Latvian">lugt?</div>
+       <lb id="Elg1672_Cat_41_23"/>
+        <div type="Language" lang="Latvian">Ne war lêlaká milibá bût/ vnd Dewam</div>
+       <lb id="Elg1672_Cat_41_24"/>
+        <div type="Language" lang="Latvian">milaka/ ká par tâdems lûgt/ kattri ſeuw</div>
+       <lb id="Elg1672_Cat_41_25"/>
+        <div type="Language" lang="Latvian">paßas newar pallidzaet/ bet neiſſakamas</div>
+       <lb id="Elg1672_Cat_41_26"/>
+        <div type="Language" lang="Latvian">mokas cêß.</div>
+      </div>
+      <pb n="42"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_42_1"/>
+        <div type="Language" lang="Latvian">Kapec te newar paßas ſeuw pallidzet?</div>
+       <lb id="Elg1672_Cat_42_2"/>
+        <div type="Language" lang="Latvian">Tapec ka cilwaeks ekßan ßa paſſaul dziwodams</div>
+       <lb id="Elg1672_Cat_42_3"/>
+        <div type="Language" lang="Latvian">war daudzu labbu darrit/ vnd</div>
+       <lb id="Elg1672_Cat_42_4"/>
+        <div type="Language" lang="Latvian">no Dewu pelnit atſwabbadaßana par</div>
+       <lb id="Elg1672_Cat_42_5"/>
+        <div type="Language" lang="Latvian">nopelnitems graekems: bet paec ßas</div>
+       <lb id="Elg1672_Cat_42_6"/>
+        <div type="Language" lang="Latvian">dziwoßanas/ ne darbs/ nedz lugßana</div>
+       <lb id="Elg1672_Cat_42_7"/>
+        <div type="Language" lang="Latvian">pallidzes.</div>
+       <lb id="Elg1672_Cat_42_8"/>
+        <div type="Language" lang="Latvian">Ar tê kattri par tems dweſellems</div>
+       <lb id="Elg1672_Cat_42_9"/>
+        <div type="Language" lang="Latvian">Dewu ludzu/ nabagus mêlo/ lêk</div>
+       <lb id="Elg1672_Cat_42_10"/>
+        <div type="Language" lang="Latvian">Swaetu Miſsi turret/ kâdu álgu par</div>
+       <lb id="Elg1672_Cat_42_11"/>
+        <div type="Language" lang="Latvian">to dabbuis?</div>
+       <lb id="Elg1672_Cat_42_12"/>
+        <div type="Language" lang="Latvian">Te dweſelles kattri top átſwabbad_ti</div>
+       <lb id="Elg1672_Cat_42_13"/>
+        <div type="Language" lang="Latvian">no ſłaucumasugguni debbeſsi bûdami</div>
+       <lb id="Elg1672_Cat_42_14"/>
+        <div type="Language" lang="Latvian">peminnes winiu labbudarrißenu/</div>
+       <lb id="Elg1672_Cat_42_15"/>
+        <div type="Language" lang="Latvian">vnd tikkuß Dewu ludzis par têms; vnd</div>
+       <lb id="Elg1672_Cat_42_16"/>
+        <div type="Language" lang="Latvian">ia tê bûs ſlaucumaugguni paec ſauwas</div>
+       <lb id="Elg1672_Cat_42_17"/>
+        <div type="Language" lang="Latvian">nomirßanas/ drizak tappis yſpeſtiti.</div>
+       <lb id="Elg1672_Cat_42_18"/>
+        <div type="Language" lang="Latvian">Ar war kas bes ſlaucumaſugguni</div>
+       <lb id="Elg1672_Cat_42_19"/>
+        <div type="Language" lang="Latvian">kliut debbeſsis? war.</div>
+       <lb id="Elg1672_Cat_42_20"/>
+        <div type="Language" lang="Latvian">Ley tikkuß par ſauwems grekems</div>
+       <lb id="Elg1672_Cat_42_21"/>
+        <div type="Language" lang="Latvian">gawe/ ley ſkaitá Paterus/ ley dôd lapprat</div>
+       <lb id="Elg1672_Cat_42_22"/>
+        <div type="Language" lang="Latvian">nabbagems/ ley bêze êt pe greku=</div>
+       <lb id="Elg1672_Cat_42_23"/>
+        <div type="Language" lang="Latvian">ſudzeßanas/ vnd pe Dewa galdu/ ley</div>
+       <lb id="Elg1672_Cat_42_24"/>
+        <div type="Language" lang="Latvian">dar labbus darbus/ vnd no grekems ley</div>
+       <lb id="Elg1672_Cat_42_25"/>
+        <div type="Language" lang="Latvian">ſeuw ſargas/ tad tâds têßam es debbeſſis</div>
+      </div>
+      <pb n="43"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_43_1"/>
+        <div type="Language" lang="Latvian">bes ſlaucumuſugguni.</div>
+       <lb id="Elg1672_Cat_43_2"/>
+        <div type="Language" lang="Latvian">Kattra ir ta treßá no tems czettrems</div>
+       <lb id="Elg1672_Cat_43_3"/>
+        <div type="Language" lang="Latvian">lêtems?</div>
+       <lb id="Elg1672_Cat_43_4"/>
+        <div type="Language" lang="Latvian">Ta debbeſſa praecibá/ pec kas ikwenam</div>
+       <lb id="Elg1672_Cat_43_5"/>
+        <div type="Language" lang="Latvian">bus gadet tur kliut.</div>
+       <lb id="Elg1672_Cat_43_6"/>
+        <div type="Language" lang="Latvian">Kas tems Swetems bûs debbeſsis?</div>
+       <lb id="Elg1672_Cat_43_7"/>
+        <div type="Language" lang="Latvian">Wyſſu labbu ko te gribbes/ ko tê yzdomat</div>
+       <lb id="Elg1672_Cat_43_8"/>
+        <div type="Language" lang="Latvian">warres/ to te tur attraddis: tur</div>
+       <lb id="Elg1672_Cat_43_9"/>
+        <div type="Language" lang="Latvian">weſſelibá/ tur precibá/ tur mêrs/ tur</div>
+       <lb id="Elg1672_Cat_43_10"/>
+        <div type="Language" lang="Latvian">milibá/ tur wyſſulabbums. S. Apoſtols</div>
+       <lb id="Elg1672_Cat_43_11"/>
+        <div type="Language" lang="Latvian">kas vz treßo debbeſſu rauwts/ ſakka:</div>
+       <lb id="Elg1672_Cat_43_12"/>
+        <div type="Language" lang="Latvian">Newena áccis ir redżeius/ ne wená</div>
+       <lb id="Elg1672_Cat_43_13"/>
+        <div type="Language" lang="Latvian">áuſis ir dzirdeius/ vnd newena cilweká</div>
+       <lb id="Elg1672_Cat_43_14"/>
+        <div type="Language" lang="Latvian">ſirdi enacis ir ko Dews gattauw</div>
+       <lb id="Elg1672_Cat_43_15"/>
+        <div type="Language" lang="Latvian">taiſyis ir tems kattri to milo. Wyſſa</div>
+       <lb id="Elg1672_Cat_43_16"/>
+        <div type="Language" lang="Latvian">paſſaulas preciba/ gôds/ baggatiba newaid</div>
+       <lb id="Elg1672_Cat_43_17"/>
+        <div type="Language" lang="Latvian">ka wená aena vnd pakreſlia pretty</div>
+       <lb id="Elg1672_Cat_43_18"/>
+        <div type="Language" lang="Latvian">debbeſſo walſt.</div>
+       <lb id="Elg1672_Cat_43_19"/>
+        <div type="Language" lang="Latvian">Ar bus debbeſsis kadas bedas/ noſkummes/</div>
+       <lb id="Elg1672_Cat_43_20"/>
+        <div type="Language" lang="Latvian">ieb bailes ley te ne yzkryta yz</div>
+       <lb id="Elg1672_Cat_43_21"/>
+        <div type="Language" lang="Latvian">Dewa żeleſtibá?</div>
+       <lb id="Elg1672_Cat_43_22"/>
+        <div type="Language" lang="Latvian">Mużam ne bus/ te nezinnas no kadas</div>
+       <lb id="Elg1672_Cat_43_23"/>
+        <div type="Language" lang="Latvian">bedas/ noſkummas/ ieb bailas: áiſto</div>
+       <lb id="Elg1672_Cat_43_24"/>
+        <div type="Language" lang="Latvian">tê gan zinni ka te ekßan Dewa milibas</div>
+       <lb id="Elg1672_Cat_43_25"/>
+        <div type="Language" lang="Latvian">eſtipprinati/ newarres yzkriſt yz</div>
+      </div>
+      <pb n="44"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_44_1"/>
+        <div type="Language" lang="Latvian">Dewa żeleſtibas.</div>
+       <lb id="Elg1672_Cat_44_2"/>
+        <div type="Language" lang="Latvian">Ar ekßan debbeſsi ſeuw wens ôtru pazinnis?</div>
+       <lb id="Elg1672_Cat_44_3"/>
+        <div type="Language" lang="Latvian">Labbak ne ka ßai paſſaulei ſeuw pazinnis;</div>
+       <lb id="Elg1672_Cat_44_4"/>
+        <div type="Language" lang="Latvian">ár tôs kattrus te muzam ne redzeiußi</div>
+       <lb id="Elg1672_Cat_44_5"/>
+        <div type="Language" lang="Latvian">nedz pazinnußi/ tik lab pazinnis yt</div>
+       <lb id="Elg1672_Cat_44_6"/>
+        <div type="Language" lang="Latvian">ká butu ſne paziſtami byußi.</div>
+       <lb id="Elg1672_Cat_44_7"/>
+        <div type="Language" lang="Latvian">Kadas meſas tems Swetems bus?</div>
+       <lb id="Elg1672_Cat_44_8"/>
+        <div type="Language" lang="Latvian">Skaiſta ka ta ſkaidra Saula/ ia wael</div>
+       <lb id="Elg1672_Cat_44_9"/>
+        <div type="Language" lang="Latvian">ſpôßaká/ bûs ákkiili/ warres accimirkla</div>
+       <lb id="Elg1672_Cat_44_10"/>
+        <div type="Language" lang="Latvian">bût kur gribbes; bus caurſpidiga/ warraes</div>
+       <lb id="Elg1672_Cat_44_11"/>
+        <div type="Language" lang="Latvian">wyſſur caurwertes/ bus ara wyſſa</div>
+       <lb id="Elg1672_Cat_44_12"/>
+        <div type="Language" lang="Latvian">ceßana/ ne cêtis wairs ſapes lydz ka ßai</div>
+       <lb id="Elg1672_Cat_44_13"/>
+        <div type="Language" lang="Latvian">paſſaulei/ bûs lydzena Chriſti mêſa.</div>
+       <lb id="Elg1672_Cat_44_14"/>
+        <div type="Language" lang="Latvian">Ar wyſſems debbeſsis bus lydz gods/</div>
+       <lb id="Elg1672_Cat_44_15"/>
+        <div type="Language" lang="Latvian">vnd lydza preciba?</div>
+       <lb id="Elg1672_Cat_44_16"/>
+        <div type="Language" lang="Latvian">Ne bûs: ley gan wyſsi bûs ekßan mużigu</div>
+       <lb id="Elg1672_Cat_44_17"/>
+        <div type="Language" lang="Latvian">gôdu vnd preciba/ tamer ne lydzu</div>
+       <lb id="Elg1672_Cat_44_18"/>
+        <div type="Language" lang="Latvian">gôdu vnd algu turres: kurß ar labbems</div>
+       <lb id="Elg1672_Cat_44_19"/>
+        <div type="Language" lang="Latvian">darbems wairak ir pelnyis/ tas lelaku</div>
+       <lb id="Elg1672_Cat_44_20"/>
+        <div type="Language" lang="Latvian">gôdu vnd algu dabbuis: It ka tê</div>
+       <lb id="Elg1672_Cat_44_21"/>
+        <div type="Language" lang="Latvian">zvaixne wyſsi ir debbeſsi/ vnd tamer</div>
+       <lb id="Elg1672_Cat_44_22"/>
+        <div type="Language" lang="Latvian">ne wyſsi lydzu ſpidumu turra/ citta</div>
+       <lb id="Elg1672_Cat_44_23"/>
+        <div type="Language" lang="Latvian">ſpoßaka vnd ſkaidraka ſpyda.</div>
+       <lb id="Elg1672_Cat_44_24"/>
+        <div type="Language" lang="Latvian">Ar par ikwena labba darbá bus ſawiſka</div>
+      </div>
+      <pb n="45"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_45_1"/>
+        <div type="Language" lang="Latvian">atmekſaßana?</div>
+       <lb id="Elg1672_Cat_45_2"/>
+        <div type="Language" lang="Latvian">Ta ir: Ja kas labbu darra/ vnd ne</div>
+       <lb id="Elg1672_Cat_45_3"/>
+        <div type="Language" lang="Latvian">turru kâda ruppiu graeku pe ſeuw/ tas</div>
+       <lb id="Elg1672_Cat_45_4"/>
+        <div type="Language" lang="Latvian">no Dewy dabbuis algu: bet ia kas labbu</div>
+       <lb id="Elg1672_Cat_45_5"/>
+        <div type="Language" lang="Latvian">darru/ vnd ir ekßan kada lêlu greku/</div>
+       <lb id="Elg1672_Cat_45_6"/>
+        <div type="Language" lang="Latvian">tas neneku pelni ár ſauwu labbu darbu/</div>
+       <lb id="Elg1672_Cat_45_7"/>
+        <div type="Language" lang="Latvian">ka ße kada laicīga atmakſaßena.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_45_8"/>
+        <div type="Language" lang="Latvian">Kattra ir ta cetturta no tems</div>
+       <lb id="Elg1672_Cat_45_9"/>
+        <div type="Language" lang="Latvian">pedigems letems?</div>
+       <lb id="Elg1672_Cat_45_10"/>
+        <div type="Language" lang="Latvian">Ta Helle/ kur waelni ar wyſſems noladetems</div>
+       <lb id="Elg1672_Cat_45_11"/>
+        <div type="Language" lang="Latvian">mużige eſlekti ir.</div>
+       <lb id="Elg1672_Cat_45_12"/>
+        <div type="Language" lang="Latvian">Kas ir ta Helle?</div>
+       <lb id="Elg1672_Cat_45_13"/>
+        <div type="Language" lang="Latvian">Ta helle ir wena dzillia/ tumſa/ breſmiga</div>
+       <lb id="Elg1672_Cat_45_14"/>
+        <div type="Language" lang="Latvian">weta/ pilna zillu vgguni katters dedzin</div>
+       <lb id="Elg1672_Cat_45_15"/>
+        <div type="Language" lang="Latvian">daeg/ vnd mûżam ne yzdaedzis: ekßan</div>
+       <lb id="Elg1672_Cat_45_16"/>
+        <div type="Language" lang="Latvian">kattra ne iſſakkámas môkas vnd ſapes</div>
+       <lb id="Elg1672_Cat_45_17"/>
+        <div type="Language" lang="Latvian">cêß/ kattri ár grutems grekems no</div>
+       <lb id="Elg1672_Cat_45_18"/>
+        <div type="Language" lang="Latvian">ßennems noêt.</div>
+       <lb id="Elg1672_Cat_45_19"/>
+        <div type="Language" lang="Latvian">Kas tôs helle mocenas?</div>
+       <lb id="Elg1672_Cat_45_20"/>
+        <div type="Language" lang="Latvian">Môcenas waelni/ mocenas vgguns/ ſalna/</div>
+       <lb id="Elg1672_Cat_45_21"/>
+        <div type="Language" lang="Latvian">zobus triſeßaná/ tumſiba/ bads/</div>
+       <lb id="Elg1672_Cat_45_22"/>
+        <div type="Language" lang="Latvian">twikßana/ ſmarßi/ târpi/ ſirdſgraußana/</div>
+       <lb id="Elg1672_Cat_45_23"/>
+        <div type="Language" lang="Latvian">kauns: wyſſugrutaka môka bûs Dewa</div>
+       <lb id="Elg1672_Cat_45_24"/>
+        <div type="Language" lang="Latvian">waigu muzam ne raedzaet.</div>
+       <lb id="Elg1672_Cat_45_25"/>
+        <div type="Language" lang="Latvian">Cik grute tas helles mokas bus?</div>
+      </div>
+      <pb n="46"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_46_1"/>
+        <div type="Language" lang="Latvian">Grutaka vnd lêlaká ne ka wyſsi paſſaules</div>
+       <lb id="Elg1672_Cat_46_2"/>
+        <div type="Language" lang="Latvian">ſapes vnd môki.</div>
+       <lb id="Elg1672_Cat_46_3"/>
+        <div type="Language" lang="Latvian">Ne bus tad neneku ekßan helles no ko tê</div>
+       <lb id="Elg1672_Cat_46_4"/>
+        <div type="Language" lang="Latvian">eprecenatus?</div>
+       <lb id="Elg1672_Cat_46_5"/>
+        <div type="Language" lang="Latvian">Neneku vnd neneku: tikai bes maeru/</div>
+       <lb id="Elg1672_Cat_46_6"/>
+        <div type="Language" lang="Latvian">bes gallu ſapas par ſapa.</div>
+       <lb id="Elg1672_Cat_46_7"/>
+        <div type="Language" lang="Latvian">Kadas bus winias mêſas?</div>
+       <lb id="Elg1672_Cat_46_8"/>
+        <div type="Language" lang="Latvian">Nikna/ waia/ ſmirdiga ka âżi/ beſſpaeciga/</div>
+       <lb id="Elg1672_Cat_46_9"/>
+        <div type="Language" lang="Latvian">pilna watus vnd wainas/ gruta/</div>
+       <lb id="Elg1672_Cat_46_10"/>
+        <div type="Language" lang="Latvian">pilna ſapes.</div>
+       <lb id="Elg1672_Cat_46_11"/>
+        <div type="Language" lang="Latvian">Ar wyſſems wenadas môkas bus?</div>
+       <lb id="Elg1672_Cat_46_12"/>
+        <div type="Language" lang="Latvian">Ne bus wenadas; kas grutak vnd wairak</div>
+       <lb id="Elg1672_Cat_46_13"/>
+        <div type="Language" lang="Latvian">ir graekois/ grutak vnd wáirak taps</div>
+       <lb id="Elg1672_Cat_46_14"/>
+        <div type="Language" lang="Latvian">mocenats.</div>
+       <lb id="Elg1672_Cat_46_15"/>
+        <div type="Language" lang="Latvian">Ar par wenu galwagreku kas</div>
+       <lb id="Elg1672_Cat_46_16"/>
+        <div type="Language" lang="Latvian">helles pelni?</div>
+       <lb id="Elg1672_Cat_46_17"/>
+        <div type="Language" lang="Latvian">Tá mums tá ſwaetá Ticcibá vnd ſwaeti</div>
+       <lb id="Elg1672_Cat_46_18"/>
+        <div type="Language" lang="Latvian">rakſti maca: Lucifer ár wyſſems kattri</div>
+       <lb id="Elg1672_Cat_46_19"/>
+        <div type="Language" lang="Latvian">tam pekrieras/ par wena graezná dômá</div>
+       <lb id="Elg1672_Cat_46_20"/>
+        <div type="Language" lang="Latvian">kliu yz debbeſſu ſtumts vnd tappá no</div>
+       <lb id="Elg1672_Cat_46_21"/>
+        <div type="Language" lang="Latvian">wenu ſkaiſtu Engeli wens nikns</div>
+       <lb id="Elg1672_Cat_46_22"/>
+        <div type="Language" lang="Latvian">waelns: Cains par wenas ſlapkauwibas</div>
+       <lb id="Elg1672_Cat_46_23"/>
+        <div type="Language" lang="Latvian">paec/ Judas par wêná wiltibas paec:</div>
+       <lb id="Elg1672_Cat_46_24"/>
+        <div type="Language" lang="Latvian">Herodes par wêná graeznibas paec: Holophernes</div>
+       <lb id="Elg1672_Cat_46_25"/>
+        <div type="Language" lang="Latvian">par wenas pedzerßenas pec</div>
+      </div>
+      <pb n="47"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_47_1"/>
+        <div type="Language" lang="Latvian">to Helle pelniá: lydz taggad daudzi</div>
+       <lb id="Elg1672_Cat_47_2"/>
+        <div type="Language" lang="Latvian">par wenu greku pec helle êt. Aiſto ká</div>
+       <lb id="Elg1672_Cat_47_3"/>
+        <div type="Language" lang="Latvian">teuw Dews áttrod/ ká winß teuw ſodis.</div>
+       <lb id="Elg1672_Cat_47_4"/>
+        <div type="Language" lang="Latvian">Cik ilgi te Swaeti bûs debbeſsis/ vnd</div>
+       <lb id="Elg1672_Cat_47_5"/>
+        <div type="Language" lang="Latvian">tê noladaeti helle/ kâdus tukſtoßus</div>
+       <lb id="Elg1672_Cat_47_6"/>
+        <div type="Language" lang="Latvian">gaddus?</div>
+       <lb id="Elg1672_Cat_47_7"/>
+        <div type="Language" lang="Latvian">Ne tukſtoßus gaddus/ bet mużige</div>
+       <lb id="Elg1672_Cat_47_8"/>
+        <div type="Language" lang="Latvian">mużam/ tas ir/ bes gallu/ bes maeru.</div>
+       <lb id="Elg1672_Cat_47_9"/>
+        <div type="Language" lang="Latvian">Kas tas ir mûżige mużam?</div>
+       <lb id="Elg1672_Cat_47_10"/>
+        <div type="Language" lang="Latvian">1. Gribbi tu lab ſapraſt vnd zinnat kas</div>
+       <lb id="Elg1672_Cat_47_11"/>
+        <div type="Language" lang="Latvian">ta mûżiba ir/ tad iem waera vnd ſirdi</div>
+       <lb id="Elg1672_Cat_47_12"/>
+        <div type="Language" lang="Latvian">abgada/ kas ir ár Dewu/ vnd ár wyſſems</div>
+       <lb id="Elg1672_Cat_47_13"/>
+        <div type="Language" lang="Latvian">Swaetems Engelems mûżige bût</div>
+       <lb id="Elg1672_Cat_47_14"/>
+        <div type="Language" lang="Latvian">debbeſsis/ vnd tur bes gallu precates</div>
+       <lb id="Elg1672_Cat_47_15"/>
+        <div type="Language" lang="Latvian">vnd lixmotes: ieb ár waelnems vnd noladaetems</div>
+       <lb id="Elg1672_Cat_47_16"/>
+        <div type="Language" lang="Latvian">ekßan mûżigems vggunems</div>
+       <lb id="Elg1672_Cat_47_17"/>
+        <div type="Language" lang="Latvian">daegt/ raudat vnd kaukt. Aiſto têßam</div>
+       <lb id="Elg1672_Cat_47_18"/>
+        <div type="Language" lang="Latvian">pattes/ no tems dywwems wena teuw/</div>
+       <lb id="Elg1672_Cat_47_19"/>
+        <div type="Language" lang="Latvian">man/ vnd ikwenam notiks: kads tás</div>
+       <lb id="Elg1672_Cat_47_20"/>
+        <div type="Language" lang="Latvian">mûżibas bûs eſakums/ tâds paliks tas</div>
+       <lb id="Elg1672_Cat_47_21"/>
+        <div type="Language" lang="Latvian">mûżige.</div>
+       <lb id="Elg1672_Cat_47_22"/>
+        <div type="Language" lang="Latvian">2. Gribbi tu zinnat kas ta mûżibȧ</div>
+       <lb id="Elg1672_Cat_47_23"/>
+        <div type="Language" lang="Latvian">ir/ edôma pe ſeuw tukſtoßus gaddus/</div>
+       <lb id="Elg1672_Cat_47_24"/>
+        <div type="Language" lang="Latvian">vnd átkal tukſtoßkart tukſtoßus: dôma</div>
+       <lb id="Elg1672_Cat_47_25"/>
+        <div type="Language" lang="Latvian">tek tukſtoßus gaddus/ cek áccimirklas</div>
+      </div>
+      <pb n="48"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_48_1"/>
+        <div type="Language" lang="Latvian">war but no paſſaules eſakumu yz</div>
+       <lb id="Elg1672_Cat_48_2"/>
+        <div type="Language" lang="Latvian">paſſaules gallu: vnd kad tu to wyſſus</div>
+       <lb id="Elg1672_Cat_48_3"/>
+        <div type="Language" lang="Latvian">es izdomais vnd izlagadaeis/ wael tu neneku</div>
+       <lb id="Elg1672_Cat_48_4"/>
+        <div type="Language" lang="Latvian">no tas mûżibas es átrawis/ winia</div>
+       <lb id="Elg1672_Cat_48_5"/>
+        <div type="Language" lang="Latvian">palleka waeſſel ká byiuſſa. Cains katters</div>
+       <lb id="Elg1672_Cat_48_6"/>
+        <div type="Language" lang="Latvian">ſauwu braliu nokauwa/ iau pe</div>
+       <lb id="Elg1672_Cat_48_7"/>
+        <div type="Language" lang="Latvian">ſeßtukſtoßus gaddus helle daeggá: Judas</div>
+       <lb id="Elg1672_Cat_48_8"/>
+        <div type="Language" lang="Latvian">kas Chriſtum pewile/ ár to baggatu</div>
+       <lb id="Elg1672_Cat_48_9"/>
+        <div type="Language" lang="Latvian">wyru dryz pe dywwitukſtoßems</div>
+       <lb id="Elg1672_Cat_48_10"/>
+        <div type="Language" lang="Latvian">gaddims helles môkas cêßi; waica tôs/</div>
+       <lb id="Elg1672_Cat_48_11"/>
+        <div type="Language" lang="Latvian">kad winias môkus vnd ſapas gals bûs?</div>
+       <lb id="Elg1672_Cat_48_12"/>
+        <div type="Language" lang="Latvian">ko tê átbildes? neneku cittu ka to wen:</div>
+       <lb id="Elg1672_Cat_48_13"/>
+        <div type="Language" lang="Latvian">nûle wael eſakums ir muſas môkas. Ley</div>
+       <lb id="Elg1672_Cat_48_14"/>
+        <div type="Language" lang="Latvian">parêt tek tukſtoßi gaddi cek zwaixne</div>
+       <lb id="Elg1672_Cat_48_15"/>
+        <div type="Language" lang="Latvian">debbeſsi/ cek ſmilßu graudi wyſſa paſſaule/</div>
+       <lb id="Elg1672_Cat_48_16"/>
+        <div type="Language" lang="Latvian">cek zales paſſaules apleká/ cek lappas</div>
+       <lb id="Elg1672_Cat_48_17"/>
+        <div type="Language" lang="Latvian">kôkos/ cek vdenslaſsi iûri/ ezzeros/</div>
+       <lb id="Elg1672_Cat_48_18"/>
+        <div type="Language" lang="Latvian">vppiios/ dukßos/ purwos/ cek ſpalwi</div>
+       <lb id="Elg1672_Cat_48_19"/>
+        <div type="Language" lang="Latvian">putnims/ cek matti wyſſems kas taggad</div>
+       <lb id="Elg1672_Cat_48_20"/>
+        <div type="Language" lang="Latvian">ir/ kas byußi/ vnd kas wael bus cilwaekems/</div>
+       <lb id="Elg1672_Cat_48_21"/>
+        <div type="Language" lang="Latvian">lopems/ vnd zwaerems/ ar</div>
+       <lb id="Elg1672_Cat_48_22"/>
+        <div type="Language" lang="Latvian">tad gals bus môkems? ko te átbildes?</div>
+       <lb id="Elg1672_Cat_48_23"/>
+        <div type="Language" lang="Latvian">ta ka pirmak: nule wael muſas mokas</div>
+       <lb id="Elg1672_Cat_48_24"/>
+        <div type="Language" lang="Latvian">eſakums. Ley paret wael tek tukſtoßkart</div>
+       <lb id="Elg1672_Cat_48_25"/>
+        <div type="Language" lang="Latvian">tukſtoßi gaddi/ to Cains/ ko Judas/</div>
+      </div>
+      <pb n="49"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_49_1"/>
+        <div type="Language" lang="Latvian">ko tas baggats wyrs/ vnd citti helles</div>
+       <lb id="Elg1672_Cat_49_2"/>
+        <div type="Language" lang="Latvian">vggunims noladaeti/ vnd tek tukſtoßus</div>
+       <lb id="Elg1672_Cat_49_3"/>
+        <div type="Language" lang="Latvian">gaddus cêß/ ko àtbildes? iten to</div>
+       <lb id="Elg1672_Cat_49_4"/>
+        <div type="Language" lang="Latvian">patti/ ko pirmak: nule wael eſakam mokas</div>
+       <lb id="Elg1672_Cat_49_5"/>
+        <div type="Language" lang="Latvian">cêſt: mużam bus eſakums/ gals mużam</div>
+       <lb id="Elg1672_Cat_49_6"/>
+        <div type="Language" lang="Latvian">ne bus.</div>
+       <lb id="Elg1672_Cat_49_7"/>
+        <div type="Language" lang="Latvian">Kad but paec tek neiſſakamams vnd</div>
+       <lb id="Elg1672_Cat_49_8"/>
+        <div type="Language" lang="Latvian">ne izſkaitamams gaddams Dews gallu</div>
+       <lb id="Elg1672_Cat_49_9"/>
+        <div type="Language" lang="Latvian">darryis tems helles môkems/ teßam but</div>
+       <lb id="Elg1672_Cat_49_10"/>
+        <div type="Language" lang="Latvian">tems lêla eprecaßaná/ vnd but ár paceßaná</div>
+       <lb id="Elg1672_Cat_49_11"/>
+        <div type="Language" lang="Latvian">wyſſas tik ilgas vnd grutas mokas</div>
+       <lb id="Elg1672_Cat_49_12"/>
+        <div type="Language" lang="Latvian">paneſſußi Dewu pateikdami par tâda</div>
+       <lb id="Elg1672_Cat_49_13"/>
+        <div type="Language" lang="Latvian">żaeleſtibá: áiſto te cerretu wenkart gallu:</div>
+       <lb id="Elg1672_Cat_49_14"/>
+        <div type="Language" lang="Latvian">bet nu tems átiemta wyſſa cerriba;</div>
+       <lb id="Elg1672_Cat_49_15"/>
+        <div type="Language" lang="Latvian">vnd bus ekßan helles vggunems daegt/</div>
+       <lb id="Elg1672_Cat_49_16"/>
+        <div type="Language" lang="Latvian">vnd wyſſadas mokas ekßan wyſſems</div>
+       <lb id="Elg1672_Cat_49_17"/>
+        <div type="Language" lang="Latvian">kaulems/ luceklems/ vnd dziſlems ceſt/</div>
+       <lb id="Elg1672_Cat_49_18"/>
+        <div type="Language" lang="Latvian">kamaer Dews bus Dews/ tas ir/ mużige</div>
+       <lb id="Elg1672_Cat_49_19"/>
+        <div type="Language" lang="Latvian">mużam bes gallu/ bes żaeleſtibá/ bes mileſirdibá/</div>
+       <lb id="Elg1672_Cat_49_20"/>
+        <div type="Language" lang="Latvian">bes maeru.</div>
+       <lb id="Elg1672_Cat_49_21"/>
+        <div type="Language" lang="Latvian">3. Gribbi tu zinnat kas ta mużiba ir/</div>
+       <lb id="Elg1672_Cat_49_22"/>
+        <div type="Language" lang="Latvian">vnd cik ilga ta bus: dôma kad but wens</div>
+       <lb id="Elg1672_Cat_49_23"/>
+        <div type="Language" lang="Latvian">kalns no maggona ſaekklems aukſts lydz</div>
+       <lb id="Elg1672_Cat_49_24"/>
+        <div type="Language" lang="Latvian">paßu debbeſſu/ vnd plats ka wyſſas paſſaulas</div>
+       <lb id="Elg1672_Cat_49_25"/>
+        <div type="Language" lang="Latvian">aplêks/ vnd wens putnins atnaktu</div>
+      </div>
+      <pb n="50"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_50_1"/>
+        <div type="Language" lang="Latvian">paec ſimptu tukſtoßus gaddus/</div>
+       <lb id="Elg1672_Cat_50_2"/>
+        <div type="Language" lang="Latvian">wairak no to maggona kalnu ne iaemis/</div>
+       <lb id="Elg1672_Cat_50_3"/>
+        <div type="Language" lang="Latvian">ká wenu graudinie/ cik ilgu layku gan</div>
+       <lb id="Elg1672_Cat_50_4"/>
+        <div type="Language" lang="Latvian">by tems ſagaidit helles môkas/ bet tamer</div>
+       <lb id="Elg1672_Cat_50_5"/>
+        <div type="Language" lang="Latvian">paec tek ne iſskaitamems gaddems but</div>
+       <lb id="Elg1672_Cat_50_6"/>
+        <div type="Language" lang="Latvian">gals. O káda lela tems butá precibá/</div>
+       <lb id="Elg1672_Cat_50_7"/>
+        <div type="Language" lang="Latvian">iá Dews caur kâdu Engelu tems tâdu</div>
+       <lb id="Elg1672_Cat_50_8"/>
+        <div type="Language" lang="Latvian">waeſtu ſutitu: áiſto tê cerraetu wenkart</div>
+       <lb id="Elg1672_Cat_50_9"/>
+        <div type="Language" lang="Latvian">gallu: bet nu ta cerribá welt ir/ vnd</div>
+       <lb id="Elg1672_Cat_50_10"/>
+        <div type="Language" lang="Latvian">bus tems but ekßan mużiga iſſamiſſeßan.</div>
+       <lb id="Elg1672_Cat_50_11"/>
+        <div type="Language" lang="Latvian">Raug nu vnd abgada kadu ilgu</div>
+       <lb id="Elg1672_Cat_50_12"/>
+        <div type="Language" lang="Latvian">layku tê taiſni ar Dewu bus debbeſsi ekßan</div>
+       <lb id="Elg1672_Cat_50_13"/>
+        <div type="Language" lang="Latvian">mużiga precibá: vnd tur pretty te</div>
+       <lb id="Elg1672_Cat_50_14"/>
+        <div type="Language" lang="Latvian">graecneki ekßan mużigems môkems/ kur</div>
+       <lb id="Elg1672_Cat_50_15"/>
+        <div type="Language" lang="Latvian">te kas môcena ne pekuſti/ vnd kas môcenati</div>
+       <lb id="Elg1672_Cat_50_16"/>
+        <div type="Language" lang="Latvian">tôpi/ mużam ne nomirris/ ley</div>
+       <lb id="Elg1672_Cat_50_17"/>
+        <div type="Language" lang="Latvian">gan te lappratu mirtu. O taiſnais</div>
+       <lb id="Elg1672_Cat_50_18"/>
+        <div type="Language" lang="Latvian">Dews ká grutá tauwá ſodibá! par</div>
+       <lb id="Elg1672_Cat_50_19"/>
+        <div type="Language" lang="Latvian">wenu galwagraeku tu ſody ár mużigems</div>
+       <lb id="Elg1672_Cat_50_20"/>
+        <div type="Language" lang="Latvian">vggunims Kad but par wenu</div>
+       <lb id="Elg1672_Cat_50_21"/>
+        <div type="Language" lang="Latvian">ruppiu graeku ſodys ekßan helles wenu</div>
+       <lb id="Elg1672_Cat_50_22"/>
+        <div type="Language" lang="Latvian">gaddu: ô ganna grutá ceßaná tá but:</div>
+       <lb id="Elg1672_Cat_50_23"/>
+        <div type="Language" lang="Latvian">ab par ykwenu graeku ſimptetukſtoßus</div>
+       <lb id="Elg1672_Cat_50_24"/>
+        <div type="Language" lang="Latvian">gaddus: ô káda breſmiga ſodiba tá but?</div>
+       <lb id="Elg1672_Cat_50_25"/>
+        <div type="Language" lang="Latvian">bet ko ſakku es ſimptutukſtoßus/ but</div>
+      </div>
+      <pb n="51"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_51_1"/>
+        <div type="Language" lang="Latvian">Dews tukſtoßkart ſimptutukſtoßus</div>
+       <lb id="Elg1672_Cat_51_2"/>
+        <div type="Language" lang="Latvian">gaddus wenu graeku ſodyis ekßan helles/</div>
+       <lb id="Elg1672_Cat_51_3"/>
+        <div type="Language" lang="Latvian">patteſe/ wená ne iſſakkama/ breſmigá/</div>
+       <lb id="Elg1672_Cat_51_4"/>
+        <div type="Language" lang="Latvian">vnd gruta ſodibá ta but. Ach teßam</div>
+       <lb id="Elg1672_Cat_51_5"/>
+        <div type="Language" lang="Latvian">pattes/ wyſſá muſa lagadibá vnd iſſkaitißana</div>
+       <lb id="Elg1672_Cat_51_6"/>
+        <div type="Language" lang="Latvian">parleku mazza ir pretty mużibas/</div>
+       <lb id="Elg1672_Cat_51_7"/>
+        <div type="Language" lang="Latvian">ne wena leta war tay tapt ſalidzenata.</div>
+       <lb id="Elg1672_Cat_51_8"/>
+        <div type="Language" lang="Latvian">Dews pats winias gallu ne attraddis:</div>
+       <lb id="Elg1672_Cat_51_9"/>
+        <div type="Language" lang="Latvian">Kas ir wyſſas paſſaules môkas</div>
+       <lb id="Elg1672_Cat_51_10"/>
+        <div type="Language" lang="Latvian">vnd ſȧpas prekßan wyſſàmazzaka</div>
+       <lb id="Elg1672_Cat_51_11"/>
+        <div type="Language" lang="Latvian">helles môkas/ neneku ka wens pakraeſlis/</div>
+       <lb id="Elg1672_Cat_51_12"/>
+        <div type="Language" lang="Latvian">aena/ baernámenge. Raug ká breſmigá</div>
+       <lb id="Elg1672_Cat_51_13"/>
+        <div type="Language" lang="Latvian">letá ir/ ár wená neſkiſtá domaßená</div>
+       <lb id="Elg1672_Cat_51_14"/>
+        <div type="Language" lang="Latvian">ár duſmigu ſirdi/ ár negodigu darbu/</div>
+       <lb id="Elg1672_Cat_51_15"/>
+        <div type="Language" lang="Latvian">ár nikna lâża/ áb cittu kadu ruppiu</div>
+       <lb id="Elg1672_Cat_51_16"/>
+        <div type="Language" lang="Latvian">graeku gullaet êt/ ieb ilgi ekßan graekems</div>
+       <lb id="Elg1672_Cat_51_17"/>
+        <div type="Language" lang="Latvian">pâſtawaet; ſteidzaes io drizak/ io labbak</div>
+       <lb id="Elg1672_Cat_51_18"/>
+        <div type="Language" lang="Latvian">yzbriſt yz tems helles <corr>dubbliems</corr><sic>gubbliems</sic>/ peſti</div>
+       <lb id="Elg1672_Cat_51_19"/>
+        <div type="Language" lang="Latvian">tauwa dwaeſel no mûżigas nelaimas:</div>
+       <lb id="Elg1672_Cat_51_20"/>
+        <div type="Language" lang="Latvian">kas zinni cik ilgá tauwa dziwoßana/</div>
+       <lb id="Elg1672_Cat_51_21"/>
+        <div type="Language" lang="Latvian">darriſtaená graeku waidaßanu/ ſargaias</div>
+       <lb id="Elg1672_Cat_51_22"/>
+        <div type="Language" lang="Latvian">ſeuw tikkuß no galwágraekims: labbak</div>
+       <lb id="Elg1672_Cat_51_23"/>
+        <div type="Language" lang="Latvian">ſimptukart mirt/ ab ſeuw liktes nokauwt/</div>
+       <lb id="Elg1672_Cat_51_24"/>
+        <div type="Language" lang="Latvian">ne ká darrit kadu graeku/ par</div>
+       <lb id="Elg1672_Cat_51_25"/>
+        <div type="Language" lang="Latvian">kattru maes tôpam Dewa enaidneku/</div>
+      </div>
+      <pb n="52"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_52_1"/>
+        <div type="Language" lang="Latvian">vnd waelnam par draugu/ vnd ſauwas</div>
+       <lb id="Elg1672_Cat_52_2"/>
+        <div type="Language" lang="Latvian">dwaeſelles ewaeddam ekßan mûżigas pazußanas.</div>
+       <lb id="Elg1672_Cat_52_3"/>
+        <div type="Language" lang="Latvian">Klauſaitá ká S. Bernardus wens</div>
+       <lb id="Elg1672_Cat_52_4"/>
+        <div type="Language" lang="Latvian">lels ſwaets wyrs rakſtá: Sakká man ô</div>
+       <lb id="Elg1672_Cat_52_5"/>
+        <div type="Language" lang="Latvian">cilwaeks kur nu ir ßas paſſaules baerni/</div>
+       <lb id="Elg1672_Cat_52_6"/>
+        <div type="Language" lang="Latvian">kattri ár mums ne ſenni dziwoia/ neneku</div>
+       <lb id="Elg1672_Cat_52_7"/>
+        <div type="Language" lang="Latvian">no tems par pallicis/ ká paelni/ tarpi/</div>
+       <lb id="Elg1672_Cat_52_8"/>
+        <div type="Language" lang="Latvian">ſmarßa. Abdomá tikkuß kas te ir byußi/</div>
+       <lb id="Elg1672_Cat_52_9"/>
+        <div type="Language" lang="Latvian">vnd lûko kas te nu ir tappußi: te</div>
+       <lb id="Elg1672_Cat_52_10"/>
+        <div type="Language" lang="Latvian">byá cilwaeki lydz kà tu/ te aede/ dzaere/</div>
+       <lb id="Elg1672_Cat_52_11"/>
+        <div type="Language" lang="Latvian">by lixmigi vnd luſtigi/ turraeiá labbas</div>
+       <lb id="Elg1672_Cat_52_12"/>
+        <div type="Language" lang="Latvian">denas/ bet ekßan áccimirkli tê nogaiußi</div>
+       <lb id="Elg1672_Cat_52_13"/>
+        <div type="Language" lang="Latvian">helles dibena; taggad winias mêſas</div>
+       <lb id="Elg1672_Cat_52_14"/>
+        <div type="Language" lang="Latvian">tarpi aede vnd ápgrauz bet tá dwaeſel</div>
+       <lb id="Elg1672_Cat_52_15"/>
+        <div type="Language" lang="Latvian">cêß ne iſſakkamas môkas helles vgguni</div>
+       <lb id="Elg1672_Cat_52_16"/>
+        <div type="Language" lang="Latvian">lydz paſtarrá dena/ kad ábbi átkal kôpa</div>
+       <lb id="Elg1672_Cat_52_17"/>
+        <div type="Language" lang="Latvian">ſaês/ vnd tad ekßan mûźigems vggunims</div>
+       <lb id="Elg1672_Cat_52_18"/>
+        <div type="Language" lang="Latvian">tappis nomeſti/ tapaec ká ábbi mêſa</div>
+       <lb id="Elg1672_Cat_52_19"/>
+        <div type="Language" lang="Latvian">vnd dwaeſel graekoiuß ir? vnd ekßan</div>
+       <lb id="Elg1672_Cat_52_20"/>
+        <div type="Language" lang="Latvian">graekims yz ßa paſſaulá noſkirrußi ir/</div>
+       <lb id="Elg1672_Cat_52_21"/>
+        <div type="Language" lang="Latvian">bus ábbems mûżiga ſodiba ſaiuſt. Ko</div>
+       <lb id="Elg1672_Cat_52_22"/>
+        <div type="Language" lang="Latvian">tems nu pallidza lela ciltá/ áukſti raddi/</div>
+       <lb id="Elg1672_Cat_52_23"/>
+        <div type="Language" lang="Latvian">lelá baggatiba? ko lelá paſſaules gods</div>
+       <lb id="Elg1672_Cat_52_24"/>
+        <div type="Language" lang="Latvian">vnd ſlawa? kur palika lixma vnd karigá</div>
+      </div>
+      <pb n="53"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_53_1"/>
+        <div type="Language" lang="Latvian">dziwoßana? wyſſa ká wená ſwecce</div>
+       <lb id="Elg1672_Cat_53_2"/>
+        <div type="Language" lang="Latvian">yzdziſſußu vnd gallu dabuiußu.</div>
+       <lb id="Elg1672_Cat_53_3"/>
+        <div type="Language" lang="Latvian">Kur nu ſmeßana/ ſmeidißana/ ôtru ápſmeßaná</div>
+       <lb id="Elg1672_Cat_53_4"/>
+        <div type="Language" lang="Latvian">vnd nicenaßana? kur nu</div>
+       <lb id="Elg1672_Cat_53_5"/>
+        <div type="Language" lang="Latvian">graezns/ vzputigs ſirds? raug ka dryz</div>
+       <lb id="Elg1672_Cat_53_6"/>
+        <div type="Language" lang="Latvian">wena lelá ápmainißaná/ precibá ekß lelas</div>
+       <lb id="Elg1672_Cat_53_7"/>
+        <div type="Language" lang="Latvian">ſkummas/ kariga dziwoßana ekßan</div>
+       <lb id="Elg1672_Cat_53_8"/>
+        <div type="Language" lang="Latvian">lêlas nabbadzibas. Pattes wenu lelu</div>
+       <lb id="Elg1672_Cat_53_9"/>
+        <div type="Language" lang="Latvian">krittumu ir tê krittußu vz paßas helles</div>
+       <lb id="Elg1672_Cat_53_10"/>
+        <div type="Language" lang="Latvian">dzilliumu. Kas tems ir noticcis/ áridzan</div>
+       <lb id="Elg1672_Cat_53_11"/>
+        <div type="Language" lang="Latvian">teuw war notikt: áiſto tik lab tu</div>
+       <lb id="Elg1672_Cat_53_12"/>
+        <div type="Language" lang="Latvian">es cilwaeks no ta paßa zemme raddits/</div>
+       <lb id="Elg1672_Cat_53_13"/>
+        <div type="Language" lang="Latvian">zemme tu es/ no zemmes tu dziwo/ vnd</div>
+       <lb id="Elg1672_Cat_53_14"/>
+        <div type="Language" lang="Latvian">par zemme taps. Pemin vz tauwus</div>
+       <lb id="Elg1672_Cat_53_15"/>
+        <div type="Language" lang="Latvian">mirßenas dèná/ dryz war ta nawe teuw</div>
+       <lb id="Elg1672_Cat_53_16"/>
+        <div type="Language" lang="Latvian">no ßennens iemt/ vnd kas zin ia ne ßoden/</div>
+       <lb id="Elg1672_Cat_53_17"/>
+        <div type="Language" lang="Latvian">ab ßa nakti: Zinnams ir ka tu bûs</div>
+       <lb id="Elg1672_Cat_53_18"/>
+        <div type="Language" lang="Latvian">mirt/ bet nezinnams kad/ vnd kur mirs.</div>
+       <lb id="Elg1672_Cat_53_19"/>
+        <div type="Language" lang="Latvian">Aiſto ta nawe wyſſur teuw gaida/ vnd</div>
+       <lb id="Elg1672_Cat_53_20"/>
+        <div type="Language" lang="Latvian">ia tu gudrs es/ aridzan winia wyſſur</div>
+       <lb id="Elg1672_Cat_53_21"/>
+        <div type="Language" lang="Latvian">ſagaida.Tik daudz S. Bernarts.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_53_22"/>
+       <div type="Language" lang="Latin">Expedire viſum eſt ob com-</div>
+       <lb id="Elg1672_Cat_53_23"/>
+       <div type="Language" lang="Latin">modiorem uſum Carechi-</div>
+      </div>
+      <pb n="54"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_54_1"/>
+       <div type="Language" lang="Latin">zantium rudes, ſeorſim cir-</div>
+       <lb id="Elg1672_Cat_54_2"/>
+       <div type="Language" lang="Latin">ca calcem ponere ea, quae</div>
+       <lb id="Elg1672_Cat_54_3"/>
+       <div type="Language" lang="Latin">ſcire tenentur.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_54_4"/>
+        <div type="Language" lang="Latvian">Ekßan wardu to Taewu/ vnd to Delu/</div>
+       <lb id="Elg1672_Cat_54_5"/>
+        <div type="Language" lang="Latvian">vnd to Swaetu Garru Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_54_6"/>
+       <div type="Language" lang="Latin">Oratio Dominica.</div>
+       <lb id="Elg1672_Cat_54_7"/>
+        <div type="Language" lang="Latvian">TEws mûſu/ kas tu eſsi debbeſsis.</div>
+       <lb id="Elg1672_Cat_54_8"/>
+        <div type="Language" lang="Latvian">Swaetits tôpu táuws wards: Enaka</div>
+       <lb id="Elg1672_Cat_54_9"/>
+        <div type="Language" lang="Latvian">mums tauwa walſtiba. Tauws</div>
+       <lb id="Elg1672_Cat_54_10"/>
+        <div type="Language" lang="Latvian">prâts notek ká debbeſsis/ ta áridzan</div>
+       <lb id="Elg1672_Cat_54_11"/>
+        <div type="Language" lang="Latvian">wyrſu zemmes. Mûſu denißká maiza</div>
+       <lb id="Elg1672_Cat_54_12"/>
+        <div type="Language" lang="Latvian">dôd mums ßoden. Vnd pamet mums</div>
+       <lb id="Elg1672_Cat_54_13"/>
+        <div type="Language" lang="Latvian">mûſu paradu/ ka maes pamaettam ſauwems</div>
+       <lb id="Elg1672_Cat_54_14"/>
+        <div type="Language" lang="Latvian">paradnekems. Vnd ne ewedde</div>
+       <lb id="Elg1672_Cat_54_15"/>
+        <div type="Language" lang="Latvian">mums ekßan kardanaßanas. Bet peſti</div>
+       <lb id="Elg1672_Cat_54_16"/>
+        <div type="Language" lang="Latvian">mums no to liaunu Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_54_17"/>
+        <div type="Language" lang="Latvian"><corr>@</corr><sic>Salutatio Angelica.</sic></div>
+       <lb id="Elg1672_Cat_54_18"/>
+        <div type="Language" lang="Latvian">SVmmenata es tu Maria pilná Dewa</div>
+       <lb id="Elg1672_Cat_54_19"/>
+        <div type="Language" lang="Latvian">żaeleſtibas tas Kungs ir ár teuwim/</div>
+       <lb id="Elg1672_Cat_54_20"/>
+        <div type="Language" lang="Latvian">tu es ſwaetita par wyſſems ſewems/ vnd</div>
+       <lb id="Elg1672_Cat_54_21"/>
+        <div type="Language" lang="Latvian">ſwaetits ir tas áuglis tauwás mêſas</div>
+       <lb id="Elg1672_Cat_54_22"/>
+        <div type="Language" lang="Latvian">JESVS Chriſtus. Swaeta Maria</div>
+       <lb id="Elg1672_Cat_54_23"/>
+        <div type="Language" lang="Latvian">Dewa máta ludze Dewu par mums</div>
+      </div>
+      <pb n="55"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_55_1"/>
+        <div type="Language" lang="Latvian">nabbagems graecnekems taggodin/ vnd</div>
+       <lb id="Elg1672_Cat_55_2"/>
+        <div type="Language" lang="Latvian">ekßan to ſtundu mûſus nomirßenas.</div>
+       <lb id="Elg1672_Cat_55_3"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_55_4"/>
+       <div type="Language" lang="Latin">Credo.</div>
+       <lb id="Elg1672_Cat_55_5"/>
+        <div type="Language" lang="Latvian">ES tyccy ekßan Dewu to Taewu</div>
+       <lb id="Elg1672_Cat_55_6"/>
+        <div type="Language" lang="Latvian">wyſſuwalditaiu/ radditaiu debbeſſis</div>
+       <lb id="Elg1672_Cat_55_7"/>
+        <div type="Language" lang="Latvian">vnd zemmes. Vnd ekßan JESVM</div>
+       <lb id="Elg1672_Cat_55_8"/>
+        <div type="Language" lang="Latvian">Chriſtum winia weigam daelam/</div>
+       <lb id="Elg1672_Cat_55_9"/>
+        <div type="Language" lang="Latvian">mûſam kungam/ katters ir eiemts</div>
+       <lb id="Elg1672_Cat_55_10"/>
+        <div type="Language" lang="Latvian">no to Swaetu Garru/ pedzimts no</div>
+       <lb id="Elg1672_Cat_55_11"/>
+        <div type="Language" lang="Latvian">Maria tas Jumprauwas. Cêtis áppakßan</div>
+       <lb id="Elg1672_Cat_55_12"/>
+        <div type="Language" lang="Latvian">Pontio Pilato/ kruſta peſiſts/</div>
+       <lb id="Elg1672_Cat_55_13"/>
+        <div type="Language" lang="Latvian">nomiris vnd ábbeſts. Zemme kâpis ekßan</div>
+       <lb id="Elg1672_Cat_55_14"/>
+        <div type="Language" lang="Latvian">helles/ traeßa dêna átkal áukßan celes</div>
+       <lb id="Elg1672_Cat_55_15"/>
+        <div type="Language" lang="Latvian">no tems mirronems. Vzkâpa debbeſsis/</div>
+       <lb id="Elg1672_Cat_55_16"/>
+        <div type="Language" lang="Latvian">ſaede pa labbá rôká Dêwa Taewa</div>
+       <lb id="Elg1672_Cat_55_17"/>
+        <div type="Language" lang="Latvian">wyſſuwalditaiu. No turrens tas nâcis</div>
+       <lb id="Elg1672_Cat_55_18"/>
+        <div type="Language" lang="Latvian">ſodit dziwus vnd nomirrußus. Es</div>
+       <lb id="Elg1672_Cat_55_19"/>
+        <div type="Language" lang="Latvian">tyccu ekßan to Swaetu Garru. Wena</div>
+       <lb id="Elg1672_Cat_55_20"/>
+        <div type="Language" lang="Latvian">ſwaeta Katholißka Baznicá/ wena</div>
+       <lb id="Elg1672_Cat_55_21"/>
+        <div type="Language" lang="Latvian">draudzibá to Swaeto. Graeku pameßaná:</div>
+       <lb id="Elg1672_Cat_55_22"/>
+        <div type="Language" lang="Latvian">Aukßan celßaná tâs mêſas. Vnd</div>
+       <lb id="Elg1672_Cat_55_23"/>
+        <div type="Language" lang="Latvian">wená mûżiga dziwoßaná Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_55_24"/>
+       <div type="Language" lang="Latin">Decalogus.</div>
+       <lb id="Elg1672_Cat_55_25"/>
+        <div type="Language" lang="Latvian">Te deſmitti Dewa bauſles.</div>
+      </div>
+      <pb n="56"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_56_1"/>
+        <div type="Language" lang="Latvian">Tás pirmais.</div>
+       <lb id="Elg1672_Cat_56_2"/>
+        <div type="Language" lang="Latvian">Es eſmu tauws Kungs vnd Dews/</div>
+       <lb id="Elg1672_Cat_56_3"/>
+        <div type="Language" lang="Latvian">teuw ne bus ßwaeßu Dewu turraet prekßan</div>
+       <lb id="Elg1672_Cat_56_4"/>
+        <div type="Language" lang="Latvian">man.</div>
+       <lb id="Elg1672_Cat_56_5"/>
+        <div type="Language" lang="Latvian">Tas ôters.</div>
+       <lb id="Elg1672_Cat_56_6"/>
+        <div type="Language" lang="Latvian">Teuw ne bus Dewá tauwa Kunga</div>
+       <lb id="Elg1672_Cat_56_7"/>
+        <div type="Language" lang="Latvian">wardu nepattes walkot.</div>
+       <lb id="Elg1672_Cat_56_8"/>
+        <div type="Language" lang="Latvian">Tas treßas.</div>
+       <lb id="Elg1672_Cat_56_9"/>
+        <div type="Language" lang="Latvian">Teuw bûs to Swaedenu ſwaetit.</div>
+       <lb id="Elg1672_Cat_56_10"/>
+        <div type="Language" lang="Latvian">Tas cetturts.</div>
+       <lb id="Elg1672_Cat_56_11"/>
+        <div type="Language" lang="Latvian">Teuw bus tauwu taewu vnd mata cênit/</div>
+       <lb id="Elg1672_Cat_56_12"/>
+        <div type="Language" lang="Latvian">ka teuw labbi klaias vnd ilgi dziwo</div>
+       <lb id="Elg1672_Cat_56_13"/>
+        <div type="Language" lang="Latvian">wyrſu zemmes.</div>
+       <lb id="Elg1672_Cat_56_14"/>
+        <div type="Language" lang="Latvian">Tas pekts.</div>
+       <lb id="Elg1672_Cat_56_15"/>
+        <div type="Language" lang="Latvian">Teuw ne bus nokauwt.</div>
+       <lb id="Elg1672_Cat_56_16"/>
+        <div type="Language" lang="Latvian">Tas ſeſts.</div>
+       <lb id="Elg1672_Cat_56_17"/>
+        <div type="Language" lang="Latvian">Teuw ne bus laulibá parlauſt.</div>
+       <lb id="Elg1672_Cat_56_18"/>
+        <div type="Language" lang="Latvian">Tas ſeptits.</div>
+       <lb id="Elg1672_Cat_56_19"/>
+        <div type="Language" lang="Latvian">Teuw ne bus zakt,</div>
+       <lb id="Elg1672_Cat_56_20"/>
+        <div type="Language" lang="Latvian">Tas áſtots.</div>
+       <lb id="Elg1672_Cat_56_21"/>
+        <div type="Language" lang="Latvian">Teuw ne bus nepatteſa leciba dôt.</div>
+       <lb id="Elg1672_Cat_56_22"/>
+        <div type="Language" lang="Latvian">Tas dewwits.</div>
+       <lb id="Elg1672_Cat_56_23"/>
+        <div type="Language" lang="Latvian">Teuw ne bus ekârot tauwu tuwaku</div>
+       <lb id="Elg1672_Cat_56_24"/>
+        <div type="Language" lang="Latvian">nammu.</div>
+       <lb id="Elg1672_Cat_56_25"/>
+        <div type="Language" lang="Latvian">Tas deſmittas.</div>
+      </div>
+      <pb n="57"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_57_1"/>
+        <div type="Language" lang="Latvian">Teuw ne bus ekârot tauwa tuwaka ſewá/</div>
+       <lb id="Elg1672_Cat_57_2"/>
+        <div type="Language" lang="Latvian">nedz kalpu/ nedz kalpuná nedz</div>
+       <lb id="Elg1672_Cat_57_3"/>
+        <div type="Language" lang="Latvian">waerß/ nedz wyſſu kas tam pedaer.</div>
+       <lb id="Elg1672_Cat_57_4"/>
+        <div type="Language" lang="Latvian">Ko ſakká Dews no ßems bauſlems?</div>
+       <lb id="Elg1672_Cat_57_5"/>
+        <div type="Language" lang="Latvian">Ta ſakká Dews: Teuw bus milot Dewu</div>
+       <lb id="Elg1672_Cat_57_6"/>
+        <div type="Language" lang="Latvian">tauwu kungu/ no wyſſu tauwu</div>
+       <lb id="Elg1672_Cat_57_7"/>
+        <div type="Language" lang="Latvian">ſirdi/ no wyſſu tauwu prâtu/ vnd no</div>
+       <lb id="Elg1672_Cat_57_8"/>
+        <div type="Language" lang="Latvian">wyſſu tauwu ſpaeku. Vnd tauwu</div>
+       <lb id="Elg1672_Cat_57_9"/>
+        <div type="Language" lang="Latvian">tuwaku bus teuw milot lydz ſeuw paßam.</div>
+       <lb id="Elg1672_Cat_57_10"/>
+       <div type="Language" lang="Latin">Quae ſeqvuntur, ad libitum cujuſq; ſunt.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_57_11"/>
+       <div type="Language" lang="Latin">Confeſſio generalis.</div>
+       <lb id="Elg1672_Cat_57_12"/>
+        <div type="Language" lang="Latvian">ES nabags/ waiß/ graecigs cilweks</div>
+       <lb id="Elg1672_Cat_57_13"/>
+        <div type="Language" lang="Latvian">iyzledzu to waelnu/ wyſſu winiu</div>
+       <lb id="Elg1672_Cat_57_14"/>
+        <div type="Language" lang="Latvian">edôßanu/ gribbeßanu/ vnd darbems.</div>
+       <lb id="Elg1672_Cat_57_15"/>
+        <div type="Language" lang="Latvian">Es tyccu ekßan Dewu to Taewu/ ekßan</div>
+       <lb id="Elg1672_Cat_57_16"/>
+        <div type="Language" lang="Latvian">Dewu to Daelu/ vnd ekßan Dewu to</div>
+       <lb id="Elg1672_Cat_57_17"/>
+        <div type="Language" lang="Latvian">Swaetu Garru. Es tyccu wyſſu ko</div>
+       <lb id="Elg1672_Cat_57_18"/>
+        <div type="Language" lang="Latvian">ta Swaeta Katholißká Baznicá paweleiuſa</div>
+       <lb id="Elg1672_Cat_57_19"/>
+        <div type="Language" lang="Latvian">tyccet: ár ßa Swaetá katholißka</div>
+       <lb id="Elg1672_Cat_57_20"/>
+        <div type="Language" lang="Latvian">tyccibá es átziſtu vnd ſudzu es Dewam</div>
+       <lb id="Elg1672_Cat_57_21"/>
+        <div type="Language" lang="Latvian">wyſſuwalditaiam Mariae tay cênigai</div>
+       <lb id="Elg1672_Cat_57_22"/>
+        <div type="Language" lang="Latvian">vnd dargai Dewa mâte/ vnd wyſſems</div>
+       <lb id="Elg1672_Cat_57_23"/>
+        <div type="Language" lang="Latvian">miliems Engelems vnd Dewá ſwaetems/</div>
+       <lb id="Elg1672_Cat_57_24"/>
+        <div type="Language" lang="Latvian">vnd dodôs ſeuw parada/ ka es no</div>
+      </div>
+      <pb n="58"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_58_1"/>
+        <div type="Language" lang="Latvian">ſauwems baerniſkems dênems lydz ßa</div>
+       <lb id="Elg1672_Cat_58_2"/>
+        <div type="Language" lang="Latvian">paßa ſtunda dażżu vnd daudzukart</div>
+       <lb id="Elg1672_Cat_58_3"/>
+        <div type="Language" lang="Latvian">eſmu graekois ár domaßenems/ wardems/</div>
+       <lb id="Elg1672_Cat_58_4"/>
+        <div type="Language" lang="Latvian">vnd darbems/ vnd ár áyzkaweßanas</div>
+       <lb id="Elg1672_Cat_58_5"/>
+        <div type="Language" lang="Latvian">daudźus labbus darbus/ lydz ka tas</div>
+       <lb id="Elg1672_Cat_58_6"/>
+        <div type="Language" lang="Latvian">tad noticcis ir ſleppen/ ab neſleppen/</div>
+       <lb id="Elg1672_Cat_58_7"/>
+        <div type="Language" lang="Latvian">zinnam ab nezinnam/ pretty deſmitte</div>
+       <lb id="Elg1672_Cat_58_8"/>
+        <div type="Language" lang="Latvian">Dewá bauſlems/ ekßan ſeptinies galwagraekems/</div>
+       <lb id="Elg1672_Cat_58_9"/>
+        <div type="Language" lang="Latvian">pe mannems pec prâtems</div>
+       <lb id="Elg1672_Cat_58_10"/>
+        <div type="Language" lang="Latvian">pretty Dewu/ pretty mannu tuwaku/</div>
+       <lb id="Elg1672_Cat_58_11"/>
+        <div type="Language" lang="Latvian">vnd pretty manná nabágá dwaeſel: ßae</div>
+       <lb id="Elg1672_Cat_58_12"/>
+        <div type="Language" lang="Latvian">vnd wyſsi manni graeki ir man żaelu no</div>
+       <lb id="Elg1672_Cat_58_13"/>
+        <div type="Language" lang="Latvian">ſirdsdibbeni. Ludzu tapaec warren</div>
+       <lb id="Elg1672_Cat_58_14"/>
+        <div type="Language" lang="Latvian">teuw mûżigam żaeligam Dewam/ grib</div>
+       <lb id="Elg1672_Cat_58_15"/>
+        <div type="Language" lang="Latvian">man tauwá Dewißka żaeleſtibá dôt/</div>
+       <lb id="Elg1672_Cat_58_16"/>
+        <div type="Language" lang="Latvian">manná dziwoßaná ilgak vzturraet/ ká</div>
+       <lb id="Elg1672_Cat_58_17"/>
+        <div type="Language" lang="Latvian">es wyſſus ſauwus graekus war yſſudzet</div>
+       <lb id="Elg1672_Cat_58_18"/>
+        <div type="Language" lang="Latvian">vnd żaelot/ tauwa Dewißká żaeleſtibá</div>
+       <lb id="Elg1672_Cat_58_19"/>
+        <div type="Language" lang="Latvian">pelnit/ vnd paec ßas baedigas dziwoßanas</div>
+       <lb id="Elg1672_Cat_58_20"/>
+        <div type="Language" lang="Latvian">to mûżigá preká vnd duſſeßaná dabbuit.</div>
+       <lb id="Elg1672_Cat_58_21"/>
+        <div type="Language" lang="Latvian">Sittu tapaec pe ſauwu graecigu</div>
+       <lb id="Elg1672_Cat_58_22"/>
+        <div type="Language" lang="Latvian">ſirdi/ vnd ſakku ár to graecneku: O</div>
+       <lb id="Elg1672_Cat_58_23"/>
+        <div type="Language" lang="Latvian">Dews Kungs es tu żaeligs man nabbagam</div>
+       <lb id="Elg1672_Cat_58_24"/>
+        <div type="Language" lang="Latvian">grecnekam. Ekßan wardu to</div>
+       <lb id="Elg1672_Cat_58_25"/>
+        <div type="Language" lang="Latvian">Taewu/ vnd to Daelu/ vnd to Swaetu</div>
+       <lb id="Elg1672_Cat_58_26"/>
+        <div type="Language" lang="Latvian">Garru Amen.</div>
+      </div>
+      <pb n="59"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_59_1"/>
+       <div type="Language" lang="Latin">Pro felici morte tres</div>
+       <lb id="Elg1672_Cat_59_2"/>
+       <div type="Language" lang="Latin">orationes.</div>
+       <lb id="Elg1672_Cat_59_3"/>
+        <div type="Language" lang="Latvian">Caur to ſwaetu kruſtu zyme/ peſti</div>
+       <lb id="Elg1672_Cat_59_4"/>
+        <div type="Language" lang="Latvian">mus Dews no mûſems enaidnekems.</div>
+       <lb id="Elg1672_Cat_59_5"/>
+        <div type="Language" lang="Latvian">Maes peludzam teuw Chriſte</div>
+       <lb id="Elg1672_Cat_59_6"/>
+        <div type="Language" lang="Latvian">vnd ſlawaeiam teuw: Aiſto caur to</div>
+       <lb id="Elg1672_Cat_59_7"/>
+        <div type="Language" lang="Latvian">ſwaetu kruſtu es tu peſtyis to paſſaulá.</div>
+       <lb id="Elg1672_Cat_59_8"/>
+        <div type="Language" lang="Latvian">O Kungs JESV Chriſte tu dziwa</div>
+       <lb id="Elg1672_Cat_59_9"/>
+        <div type="Language" lang="Latvian">Dewa daels/ lêc tauwa cêßaná/</div>
+       <lb id="Elg1672_Cat_59_10"/>
+        <div type="Language" lang="Latvian">kruſtu/ vnd nawe ſtarpá tauwu</div>
+       <lb id="Elg1672_Cat_59_11"/>
+        <div type="Language" lang="Latvian">ſodu/ vnd manna dwaeſel/ taggadin/</div>
+       <lb id="Elg1672_Cat_59_12"/>
+        <div type="Language" lang="Latvian">vnd ekßan to ſtunda mannas nomirßsennas/</div>
+       <lb id="Elg1672_Cat_59_13"/>
+        <div type="Language" lang="Latvian">vnd dôd man tauwa żaeleſtibá vnd</div>
+       <lb id="Elg1672_Cat_59_14"/>
+        <div type="Language" lang="Latvian">mileſirdibá/ dziwems graeku pamaeßanas/</div>
+       <lb id="Elg1672_Cat_59_15"/>
+        <div type="Language" lang="Latvian">nomirrußems mûżiga duſſeßaná/</div>
+       <lb id="Elg1672_Cat_59_16"/>
+        <div type="Language" lang="Latvian">wyſſems kriſtitems mêru vnd wenprâtibá/</div>
+       <lb id="Elg1672_Cat_59_17"/>
+        <div type="Language" lang="Latvian">mums graecnekems labba dziwoßana/</div>
+       <lb id="Elg1672_Cat_59_18"/>
+        <div type="Language" lang="Latvian">vnd mûżiga precibȧ. Amen.</div>
+       <lb id="Elg1672_Cat_59_19"/>
+        <div type="Language" lang="Latvian">O Wyſſuſaldais Kungs JESV</div>
+       <lb id="Elg1672_Cat_59_20"/>
+        <div type="Language" lang="Latvian">Chriſte ſtawa man nabbagam grecnekam</div>
+       <lb id="Elg1672_Cat_59_21"/>
+        <div type="Language" lang="Latvian">klât/ kad es cikſtes ár wyſſas ne</div>
+       <lb id="Elg1672_Cat_59_22"/>
+        <div type="Language" lang="Latvian">iſſakkamas mużibas/ ne palaid man ekßan</div>
+       <lb id="Elg1672_Cat_59_23"/>
+        <div type="Language" lang="Latvian">tas breſmigas paſtarras ſtundas/</div>
+       <lb id="Elg1672_Cat_59_24"/>
+        <div type="Language" lang="Latvian">no kattras mannas nabbagas dweſelles</div>
+      </div>
+      <pb n="60"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_60_1"/>
+        <div type="Language" lang="Latvian">mûżiga laimá vnd nelaima karras: ne</div>
+       <lb id="Elg1672_Cat_60_2"/>
+        <div type="Language" lang="Latvian">peminni ô ſaldais JESV tauwu breſmigu</div>
+       <lb id="Elg1672_Cat_60_3"/>
+        <div type="Language" lang="Latvian">ſodu pretty tauwu graecneku/ bet</div>
+       <lb id="Elg1672_Cat_60_4"/>
+        <div type="Language" lang="Latvian">żaelo par tauwá raddiba: Ne râda tauwá</div>
+       <lb id="Elg1672_Cat_60_5"/>
+        <div type="Language" lang="Latvian">duſmiba pretty tauwu waidneku/ bet pemin</div>
+       <lb id="Elg1672_Cat_60_6"/>
+        <div type="Language" lang="Latvian">tauwá lelá mileſirdibá pretty nabbagu</div>
+       <lb id="Elg1672_Cat_60_7"/>
+        <div type="Language" lang="Latvian">nozedzigu cilwaeku. Ayzmirs</div>
+       <lb id="Elg1672_Cat_60_8"/>
+        <div type="Language" lang="Latvian">ô milais JESV wyſſus mannus graekus/</div>
+       <lb id="Elg1672_Cat_60_9"/>
+        <div type="Language" lang="Latvian">ár kattrems es tauwa duſmibá pakudenais:</div>
+       <lb id="Elg1672_Cat_60_10"/>
+        <div type="Language" lang="Latvian">bet erauge ár żaeligems <corr>áccims</corr><sic>ácác cims</sic></div>
+       <lb id="Elg1672_Cat_60_11"/>
+        <div type="Language" lang="Latvian">vz to/ kas teuw ár zemmigu ſirdi</div>
+       <lb id="Elg1672_Cat_60_12"/>
+        <div type="Language" lang="Latvian">peludz. Japßagan es ár ſauwems</div>
+       <lb id="Elg1672_Cat_60_13"/>
+        <div type="Language" lang="Latvian">graekems eſmu pelnyis/ ká tu man war</div>
+       <lb id="Elg1672_Cat_60_14"/>
+        <div type="Language" lang="Latvian">ekßan mûżigems vggunims noſkumt/</div>
+       <lb id="Elg1672_Cat_60_15"/>
+        <div type="Language" lang="Latvian">tamaer newens teuw to ſpaeku war átiemt/</div>
+       <lb id="Elg1672_Cat_60_16"/>
+        <div type="Language" lang="Latvian">ká tu war no mużigas pazußannas</div>
+       <lb id="Elg1672_Cat_60_17"/>
+        <div type="Language" lang="Latvian">peſtit: áiſto ko ſkan tauws ſaldais</div>
+       <lb id="Elg1672_Cat_60_18"/>
+        <div type="Language" lang="Latvian">wards JESVS? neneku cittu/ ká</div>
+       <lb id="Elg1672_Cat_60_19"/>
+        <div type="Language" lang="Latvian">peſtitais: tapaec ô wyſſuſaldaus JESV/</div>
+       <lb id="Elg1672_Cat_60_20"/>
+        <div type="Language" lang="Latvian">pallêc man nu/ vnd mûżam JESVS/</div>
+       <lb id="Elg1672_Cat_60_21"/>
+        <div type="Language" lang="Latvian">tas ir/ Peſtitais.</div>
+       <lb id="Elg1672_Cat_60_22"/>
+        <div type="Language" lang="Latvian">KVngs JESV Chriſte tu dziwa</div>
+       <lb id="Elg1672_Cat_60_23"/>
+        <div type="Language" lang="Latvian">Dewá daels/ caur tauwa rukta</div>
+       <lb id="Elg1672_Cat_60_24"/>
+        <div type="Language" lang="Latvian">nawe/ kattrá tu es cêtis par man nabbagam</div>
+       <lb id="Elg1672_Cat_60_25"/>
+        <div type="Language" lang="Latvian">graecnekam pe to kruſtu koku/</div>
+      </div>
+      <pb n="61"/>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_61_1"/>
+        <div type="Language" lang="Latvian">wyſſewairak kad tauwa ſwaeta dwaeſele</div>
+       <lb id="Elg1672_Cat_61_2"/>
+        <div type="Language" lang="Latvian">no ſauwas mêſas ſkirrá/ ábżaeloias</div>
+       <lb id="Elg1672_Cat_61_3"/>
+        <div type="Language" lang="Latvian">par manna nabbaga dwaeſel/ kad ta</div>
+       <lb id="Elg1672_Cat_61_4"/>
+        <div type="Language" lang="Latvian">ſkirſes no ſauwas mêſas/ vnd dod  winie</div>
+       <lb id="Elg1672_Cat_61_5"/>
+        <div type="Language" lang="Latvian">yz ßas paſſaules wena laimigá noeßaná/</div>
+       <lb id="Elg1672_Cat_61_6"/>
+        <div type="Language" lang="Latvian">vnd pawaddi to vz tâs mûżigás dziwoßanas.</div>
+       <lb id="Elg1672_Cat_61_7"/>
+        <div type="Language" lang="Latvian">Amen.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Elg1672_Cat_61_8"/>
+       <div type="Language" lang="Latin">Pium deſiderium animae.</div>
+       <lb id="Elg1672_Cat_61_9"/>
+       <div type="Language" lang="Latin">DVlciſſime IESV tua ſacra paſſio</div>
+       <lb id="Elg1672_Cat_61_10"/>
+       <div type="Language" lang="Latin">Sit animae meae ſalus &amp; redemptio,</div>
+       <lb id="Elg1672_Cat_61_11"/>
+       <div type="Language" lang="Latin">Sit peccatorum meorum ſatisfactio,</div>
+       <lb id="Elg1672_Cat_61_12"/>
+       <div type="Language" lang="Latin">In tremenda mortis hora conſolatio:</div>
+       <lb id="Elg1672_Cat_61_13"/>
+       <div type="Language" lang="Latin">Contra infernales ſpiritus protectio,</div>
+       <lb id="Elg1672_Cat_61_14"/>
+       <div type="Language" lang="Latin">Fidelium defunctorum expiatio.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>

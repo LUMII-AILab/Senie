@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="JT1685/Prolog_Sat">
+     <sourceDesc>
+      <author>Ernsts Gliks</author>
+      <title>[Jaunās Derības satura rādītājs]</title>
+      <date>1685</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; Bībele, Jaunā Derība</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="1"/>
+      <div type="Paragraph">
+       <lb id="JT1685/Prolog_Sat_1_1"/>
+        <div type="Language" lang="Latvian">Ta jauna Teſtamenta Grahmatas.</div>
+       <lb id="JT1685/Prolog_Sat_1_2"/>
+        <div type="Language" lang="Latvian">1. Ꞩw: Matteus Ewangeljums ” ” ” Nod: 28.</div>
+       <lb id="JT1685/Prolog_Sat_1_3"/>
+        <div type="Language" lang="Latvian">2. Ꞩw: Markuẜa Ewangeljums ” ” ” ” 16.</div>
+       <lb id="JT1685/Prolog_Sat_1_4"/>
+        <div type="Language" lang="Latvian">3. Ꞩw: Luhkaẜa Ewangeljums ” ” ” ” 24.</div>
+       <lb id="JT1685/Prolog_Sat_1_5"/>
+        <div type="Language" lang="Latvian">4. Ꞩw: Jahņa Ewangeljums ” ” ” ” ” 21.</div>
+       <lb id="JT1685/Prolog_Sat_1_6"/>
+        <div type="Language" lang="Latvian">5. Tee Apuſtuļo Darbi no ẜw: Luhkaẜa aprakſtiti ” 28.</div>
+       <lb id="JT1685/Prolog_Sat_1_7"/>
+        <div type="Language" lang="Latvian">6. Ta ẜw: Pahwila Grahm: us teem Reemeŗeem ” ” 16.</div>
+       <lb id="JT1685/Prolog_Sat_1_8"/>
+        <div type="Language" lang="Latvian">7. Ta ẜw: Pahwila I. Grahm: us teem Korinteŗeem ” ” 16.</div>
+       <lb id="JT1685/Prolog_Sat_1_9"/>
+        <div type="Language" lang="Latvian">8. Ta ẜw: Pahwila II. Grahm: us teem Korinteŗeem ” ” 13.</div>
+       <lb id="JT1685/Prolog_Sat_1_10"/>
+        <div type="Language" lang="Latvian">9. Ta ẜw: Pahwila Grahm: us teem Galateŗeem ” ” 6.</div>
+       <lb id="JT1685/Prolog_Sat_1_11"/>
+        <div type="Language" lang="Latvian">10. Ta ẜw: Pahwila Grahm: us teem Eweſeŗeem ” ” 6.</div>
+       <lb id="JT1685/Prolog_Sat_1_12"/>
+        <div type="Language" lang="Latvian">11. Ta ẜw: Pahwila Grahm: us teem Wilippeŗeem ” ” 4.</div>
+       <lb id="JT1685/Prolog_Sat_1_13"/>
+        <div type="Language" lang="Latvian">12. Ta ẜw: Pahwila Grahm: us teem Koloẜẜeŗeem ” ” 4.</div>
+       <lb id="JT1685/Prolog_Sat_1_14"/>
+        <div type="Language" lang="Latvian">13. Ta ẜw: Pahwila I. Grahm: us teem Teẜẜalonikeŗeem ” 5.</div>
+       <lb id="JT1685/Prolog_Sat_1_15"/>
+        <div type="Language" lang="Latvian">14. Ta ẜw: Pahwila II. Grahm: us teem Teẜẜalonikeŗeem ” 3.</div>
+       <lb id="JT1685/Prolog_Sat_1_16"/>
+        <div type="Language" lang="Latvian">15. Ta ẜw: Pahwila I. Grahm: us Timoteju ” ” ” 6.</div>
+       <lb id="JT1685/Prolog_Sat_1_17"/>
+        <div type="Language" lang="Latvian">16. Ta ẜw: Pahwila II. Grahm: us Timoteju  ” ” ” 4.</div>
+       <lb id="JT1685/Prolog_Sat_1_18"/>
+        <div type="Language" lang="Latvian">17. Ta ẜw: Pahwila Grahm: us Titu ” ” ” ” 3.</div>
+       <lb id="JT1685/Prolog_Sat_1_19"/>
+        <div type="Language" lang="Latvian">18. Ta ẜw: Pahwila Grahm: us Wilemonu ” ” ” 1.</div>
+       <lb id="JT1685/Prolog_Sat_1_20"/>
+        <div type="Language" lang="Latvian">19. Ta ẜw: Pehteŗa I. Grahmata ” ” ” ” ” 5.</div>
+       <lb id="JT1685/Prolog_Sat_1_21"/>
+        <div type="Language" lang="Latvian">20. Ta ẜw: Pehteŗa II. Grahmata ” ” ” ” ” 3.</div>
+       <lb id="JT1685/Prolog_Sat_1_22"/>
+        <div type="Language" lang="Latvian">21. Ta ẜw: Jahņa I. Grahmata. ” ” ” ” ” 5.</div>
+       <lb id="JT1685/Prolog_Sat_1_23"/>
+        <div type="Language" lang="Latvian">22. Ta ẜw: Jahņa II. Grahmata. ” ” ” ” ” 1.</div>
+       <lb id="JT1685/Prolog_Sat_1_24"/>
+        <div type="Language" lang="Latvian">23. Ta ẜw: Jahņa III. Grahmata. ” ” ” ” 1.</div>
+       <lb id="JT1685/Prolog_Sat_1_25"/>
+        <div type="Language" lang="Latvian">24. Ta Grahmata us teem Ebreeŗeem ” ” ” ” 13.</div>
+       <lb id="JT1685/Prolog_Sat_1_26"/>
+        <div type="Language" lang="Latvian">25. Ta ẜw: Jehkaba Grahmata ” ” ” ” ” 5.</div>
+       <lb id="JT1685/Prolog_Sat_1_27"/>
+        <div type="Language" lang="Latvian">26. Ta ẜw: Juhdaẜa Grahmata ” ” ” ” ” 1.</div>
+       <lb id="JT1685/Prolog_Sat_1_28"/>
+        <div type="Language" lang="Latvian">27. Ta ẜw: Jahņa Parahdiẜchanas Grahmata. ” ” 22.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>
