@@ -59,9 +59,10 @@ END
 	my $collection = shift @_;
 
 	print "Processing $fileName\n";
-	die "No table found for file $fileName" unless (hasTable($fileName, $collection));
+	die "No table found for file $fileName" unless ($tableHint or hasTable($fileName, $collection));
 	my $table = $tableHint ? substTable($tableHint, 0) : substTable($fileName, $collection);
-	printTableErrors($fileName, $collection);
+	#printTableErrors($fileName, $collection);
+	printTableErrors($table);
 	my $in = IO::File->new("$dirName/${fileName}_Unicode_unhyphened.txt", "< :encoding(UTF-8)")
 		or die "Could not open file $dirName/${fileName}_Unicode_unhyphened.txt: $!";
 	mkdir "$dirName/res/";

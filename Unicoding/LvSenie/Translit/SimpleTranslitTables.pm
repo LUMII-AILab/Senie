@@ -26667,9 +26667,10 @@ sub hasTable
 
 sub printTableErrors
 {
-	my $tableName = shift @_;
-	my $collection = shift @_;
-	my $table = &substTable($tableName, $collection);
+	#my $tableName = shift @_;
+	#my $collection = shift @_;
+	#my $table = &substTable($tableName, $collection);
+	my $table = shift @_;
 	return unless @$table;
 	my $ruleNo = 0;
 	my $problems = 0;
