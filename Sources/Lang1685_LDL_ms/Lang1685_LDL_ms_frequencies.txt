@@ -1,5 +1,5 @@
-Vârdformu skaits:	14819
-Vârdlietojumu skaits:	24378
+Vârdformu skaits:	14876
+Vârdlietojumu skaits:	24473
 
 
 225	A
@@ -10,13 +10,13 @@ Vârdlietojumu skaits:	24378
 107	ar
 105	E
 102	darriht
+100	no
 99	in
-99	no
-98	ka
+99	ka
 97	J
-90	man
+92	man
 88	winìs
-81	R
+82	R
 78	tu
 73	uhs
 72	No
@@ -27,21 +27,21 @@ Vârdlietojumu skaits:	24378
 67	kas
 65	L
 65	W
-63	Tas
+64	Tas
+63	tas
 62	Es
-62	tas
 61	P
 60	eet
 59	T
 53	Deews
-51	M
 51	Nhe
+50	M
 50	tapt
+49	Ta
 48	gir
-48	Ta
 47	par
 47	py
-44	buhs
+45	buhs
 43	D
 42	es
 41	Deewa
@@ -54,18 +54,18 @@ Vârdlietojumu skaits:	24378
 36	töw
 34	turräht
 33	Ka
+33	labbe
 33	O
 33	pa
-32	labbe
 30	jeb
+30	Kas
 29	To
+28	buht
 28	dauds
-28	Kas
 28	ko
 28	Man
-27	buht
+27	doht
 27	Ko
-26	doht
 26	Ìan
 26	Kad
 26	winìam
@@ -89,11 +89,11 @@ Vârdlietojumu skaits:	24378
 19	pähts
 18	Mai§'
 18	Zaur
+17	Bährns
 17	Deew'
 17	Ja
 17	Nu
 17	runnaht
-16	Bährns
 16	ìan
 16	jo
 16	Jo
@@ -132,6 +132,7 @@ Vârdlietojumu skaits:	24378
 13	pilns
 13	tad
 13	Tick
+13	tur
 13	weens
 12	bes
 12	bet
@@ -139,18 +140,18 @@ Vârdlietojumu skaits:	24378
 12	Noh§t
 12	Sirìs
 12	teh
-12	tur
 12	ween
 12	wings
 11	Deena
 11	H
+11	kad
 11	kohpa
 11	laiks
 11	Leeta
 11	nu
 11	Woi
+10	atkal
 10	Ìaïï
-10	kad
 10	labbs
 10	lai
 10	Mähnes
@@ -162,7 +163,6 @@ Vârdlietojumu skaits:	24378
 10	wähl
 10	Wihrs
 9	'
-9	atkal
 9	darri
 9	Deen'
 9	d§iht
@@ -181,6 +181,7 @@ Vârdlietojumu skaits:	24378
 9	Úunns
 9	Tee§s'
 9	tick
+9	tohs
 9	turr
 9	Uhdens
 9	wahrd'
@@ -209,7 +210,6 @@ Vârdlietojumu skaits:	24378
 8	tahds
 8	tee
 8	Teh
-8	tohs
 8	Tur
 8	Uggun'
 8	we§t
@@ -240,16 +240,19 @@ Vârdlietojumu skaits:	24378
 7	muhs
 7	Mums
 7	Nam~s
+7	noh§t
 7	Pa
 7	parei§e
 7	pats
 7	pee
 7	Peens
+7	rei§as
 7	Sem~es
 7	Semmes
 7	Spalwas
 7	Stahrpa
 7	§tawäht
+7	tahs
 7	Tähws
 7	tappa
 7	twährtees
@@ -257,6 +260,7 @@ Vârdlietojumu skaits:	24378
 7	waiag
 7	Winìa
 7	winìi
+7	Zell§ch
 7	zelt
 7	Zilwähks
 6	ap
@@ -283,12 +287,11 @@ Vârdlietojumu skaits:	24378
 6	Meddus
 6	nahk
 6	nhewa
-6	noh§t
 6	nozir§t
+6	piln'
 6	Praht'
 6	Prahtam
 6	pus
-6	rei§as
 6	Rihks
 6	Rohka
 6	rupja
@@ -299,7 +302,6 @@ Vârdlietojumu skaits:	24378
 6	Stahrpa`
 6	§tahwäht
 6	§taiìaht
-6	tahs
 6	tapähts
 6	tee§cham
 6	u
@@ -316,7 +318,6 @@ Vârdlietojumu skaits:	24378
 6	Wi§ta
 6	x2
 6	zeïïas
-6	Zell§ch
 6	zittu
 5	apkahrt
 5	arri
@@ -393,7 +394,6 @@ Vârdlietojumu skaits:	24378
 5	peederr
 5	Peen'
 5	Peere
-5	piln'
 5	Pohds
 5	prettim
 5	projam
@@ -419,6 +419,7 @@ Vârdlietojumu skaits:	24378
 5	Tahrps
 5	Teckuls
 5	tetzäht
+5	trihs
 5	turrähtees
 5	uhs=eet
 5	Uppes
@@ -439,6 +440,7 @@ Vârdlietojumu skaits:	24378
 4	Ahs
 4	Ai
 4	Ai§to
+4	Awes
 4	Bährn
 4	Bährni
 4	bähr§t
@@ -491,6 +493,7 @@ Vârdlietojumu skaits:	24378
 4	Kohk'
 4	Kur
 4	labbad
+4	Labbiba
 4	Labbs
 4	laika`
 4	lai§t
@@ -577,7 +580,6 @@ Vârdlietojumu skaits:	24378
 4	Tickums
 4	Tirìus
 4	tracks
-4	trihs
 4	uhden'
 4	Wähdera
 4	Wähl
@@ -625,6 +627,7 @@ Vârdlietojumu skaits:	24378
 3	A§te
 3	Atzeems
 3	Atzi
+3	Atzihs
 3	Audecklis
 3	Auìums
 3	Aujo
@@ -632,7 +635,6 @@ Vârdlietojumu skaits:	24378
 3	Auklis
 3	Auk§te
 3	Auns
-3	Awes
 3	Awis
 3	bähda
 3	Bähdams
@@ -744,7 +746,6 @@ Vârdlietojumu skaits:	24378
 3	kurt
 3	Labbahks
 3	labbas
-3	Labbiba
 3	Labbums
 3	Lähne
 3	Lahzis
@@ -870,7 +871,6 @@ Vârdlietojumu skaits:	24378
 3	Santis
 3	Úawi
 3	úawus
-3	§chana
 3	Schau§chalas
 3	Schkähres
 3	Schnuìalas
@@ -910,6 +910,7 @@ Vârdlietojumu skaits:	24378
 3	§trahdaht
 3	Strählneeks
 3	Úuhd'
+3	úuhd§äht
 3	Suhwis
 3	Úunò
 3	Úwahrk'
@@ -969,7 +970,6 @@ Vârdlietojumu skaits:	24378
 3	wetz'
 3	Wiens
 3	Wiht
-3	willa
 3	Wing'
 3	winìai
 3	wirt
@@ -1071,9 +1071,9 @@ Vârdlietojumu skaits:	24378
 2	At=tai§siht
 2	At=werrs
 2	Atballa
+2	Atkihls
 2	Atpackal
 2	Atswirúchana{Ats=wirúchana}
-2	Atzihs
 2	Auckla
 2	Auìl'
 2	Augli
@@ -1159,6 +1159,7 @@ Vârdlietojumu skaits:	24378
 2	Dack§chas
 2	Daeet
 2	Dähkla
+2	Dahlderis
 2	Dähle
 2	Dählinìs
 2	Dahrb
@@ -1203,6 +1204,7 @@ Vârdlietojumu skaits:	24378
 2	dohtees
 2	dohts
 2	Dräbes
+2	Drahn
 2	Drahn'
 2	drahna
 2	Drah§t
@@ -1268,6 +1270,7 @@ Vârdlietojumu skaits:	24378
 2	eemaut
 2	Eemaut
 2	Eemauts
+2	Eena§chi
 2	eeraddis
 2	Eera§cha
 2	Ees
@@ -1302,6 +1305,7 @@ Vârdlietojumu skaits:	24378
 2	ìau§che
 2	Ìau§che
 2	Ìeeda
+2	Ìeedas
 2	ìir
 2	gir{gir=}
 2	Ìlabbaht
@@ -1493,6 +1497,7 @@ Vârdlietojumu skaits:	24378
 2	Kram~s
 2	krampis
 2	Kreckl'
+2	Krecklis
 2	Krei§§a
 2	Krelles
 2	kriht
@@ -1647,6 +1652,7 @@ Vârdlietojumu skaits:	24378
 2	melns
 2	Melns
 2	Me§t
+2	Mett
 2	miek§ts
 2	Miek§ts
 2	Miììlains
@@ -1723,6 +1729,7 @@ Vârdlietojumu skaits:	24378
 2	nomi§§oht
 2	nomohi
 2	nopelniht
+2	Nopelns
 2	No§eed§is
 2	noticks
 2	nowahriht
@@ -1904,6 +1911,7 @@ Vârdlietojumu skaits:	24378
 2	Rud§'
 2	Rud§o
 2	Ruggai
+2	Ruhìoúchana
 2	ruhkts
 2	Ruhkts
 2	Ruhniht
@@ -1933,6 +1941,7 @@ Vârdlietojumu skaits:	24378
 2	Úahles
 2	Úahn'
 2	úahp'
+2	Úährdenihts
 2	úährìa
 2	Úahrkans{Úahrkans=}
 2	Sahrm'
@@ -1970,7 +1979,7 @@ Vârdlietojumu skaits:	24378
 2	§chähl
 2	Schähle§tiba
 2	§chahwa
-2	úchana
+2	§chana
 2	§chaut
 2	Schaut
 2	§chawäht
@@ -1979,6 +1988,8 @@ Vârdlietojumu skaits:	24378
 2	úchi
 2	§chi
 2	Úchi
+2	Schigglis
+2	Schkähp'
 2	Schkeeds
 2	§chkeet
 2	Schkelt
@@ -1996,6 +2007,7 @@ Vârdlietojumu skaits:	24378
 2	úchuht
 2	Schuht
 2	Úchuk§t
+2	úchuk§tinaht
 2	úchur
 2	Schur
 2	§ebbe
@@ -2117,7 +2129,6 @@ Vârdlietojumu skaits:	24378
 2	Úudad
 2	Suddrab'
 2	Úudmalohs
-2	úuhd§äht
 2	Úuhkalas
 2	Úuhtiht
 2	Úuhtijums
@@ -2138,7 +2149,6 @@ Vârdlietojumu skaits:	24378
 2	Úweekúchana
 2	Úweekt
 2	Úwee§t'
-2	Sweineeka
 2	Sweioht
 2	Úwep§tiht
 2	Úwetz'
@@ -2311,6 +2321,7 @@ Vârdlietojumu skaits:	24378
 2	Wihr'
 2	Wilks
 2	wilkt
+2	willa
 2	Willa
 2	wing
 2	Winì
@@ -2344,6 +2355,7 @@ Vârdlietojumu skaits:	24378
 2	Zeddweres
 2	Zeelß
 2	Zeeúchana
+2	Zeets
 2	zeetuman
 2	zeïï
 2	Zeïï'
@@ -2373,11 +2385,7 @@ Vârdlietojumu skaits:	24378
 2	Zuhk'
 1	__
 1	_weeres=§ähkli
-1	´
-1	{}
-1	{*Dahero komt:}
-1	{ais= §pundaht}
-1	{Ruddena=willa}
+1	''raug
 1	=milti
 1	=Mitze
 1	=nahris
@@ -2415,6 +2423,7 @@ Vârdlietojumu skaits:	24378
 1	ahs=drihwaht
 1	ahs=eet{ahs=}
 1	ahs=ìahi{ahs=}
+1	ahs=jähm{ahs=,}
 1	ahs=maxahjis{ahs=}
 1	ahs=me§t
 1	ahs=mickt{ahs=}
@@ -2456,7 +2465,7 @@ Vârdlietojumu skaits:	24378
 1	ais=§chnaukt{ais= §chnaukt}
 1	ais=úeen{ais=}
 1	ais=§praut{ais= §praut}
-1	ais=§pundaht
+1	ais=§pundaht{ais= §pundaht}
 1	ais=§tilpoht{ais= §til=}
 1	ais=teeck{ais= teeck}
 1	ais=tuh§kis{ais | tuh§kis}
@@ -2628,6 +2637,7 @@ Vârdlietojumu skaits:	24378
 1	atìahi
 1	atìahji
 1	atgree§
+1	atjemt
 1	atjemts
 1	atkal=úalt
 1	atkihla
@@ -2719,12 +2729,14 @@ Vârdlietojumu skaits:	24378
 1	Ackna=de§§a
 1	Ackohts
 1	Acku
+1	Addaman'
 1	Addamas=Addatas
 1	Addatas=atze
 1	Addickla
 1	Addiht
 1	Addiúchana
 1	Additaia
+1	Admattal
 1	Affins
 1	Aggris
 1	Agrums
@@ -2877,6 +2889,7 @@ Vârdlietojumu skaits:	24378
 1	Ais=mackums{Ais= mackums}
 1	Ais=mahzis{Ais= mahzis}
 1	Ais=marúcha
+1	Ais=mid§inaht
 1	Ais=mirúchana{Ais= mirúchana}
 1	Ais=pahrn'{Ais= pahrn'}
 1	Ais=raut{Ais=}
@@ -2971,6 +2984,7 @@ Vârdlietojumu skaits:	24378
 1	Ap=ìrahbt
 1	Ap=grähkotees
 1	Ap=grähtziba
+1	Ap=ìrai§iht
 1	Ap=ìraiúihts
 1	Ap=ìrau§t
 1	Ap=ìrees
@@ -3143,6 +3157,7 @@ Vârdlietojumu skaits:	24378
 1	Apìrai§i§chana
 1	Apìree§chana
 1	Apìruhtoht
+1	Apgul
 1	Apjaht
 1	Apjaut
 1	Apjautaúchana
@@ -3218,6 +3233,7 @@ Vârdlietojumu skaits:	24378
 1	Aptährpúchana
 1	Aptährpt
 1	Aptapprinaht
+1	Äpteekeris
 1	Apteekis
 1	Äpteekis
 1	Aptih§tiht
@@ -3423,7 +3439,6 @@ Vârdlietojumu skaits:	24378
 1	Atka§siht
 1	Atkihle
 1	Atkihliba
-1	Atkihls
 1	Atkihlums
 1	Atklaht
 1	Atkoh§tees
@@ -3641,6 +3656,8 @@ Vârdlietojumu skaits:	24378
 1	Bahrdains
 1	Bahrdas
 1	Bähreis
+1	Bahrini
+1	Bahrins
 1	Bährna=joh§ta
 1	Bährna=Manta
 1	Bährna=Úahpes
@@ -3670,6 +3687,7 @@ Vârdlietojumu skaits:	24378
 1	Bahrtawa
 1	bahrtees
 1	Bährtmeja=deena
+1	Bahrxtes
 1	Bahúchitees
 1	Bah§chitees
 1	Bah§itees
@@ -3710,6 +3728,7 @@ Vârdlietojumu skaits:	24378
 1	balta{balta=}
 1	balto
 1	Balts
+1	baltu
 1	Balwa
 1	Balxnis
 1	Bambale
@@ -3741,6 +3760,7 @@ Vârdlietojumu skaits:	24378
 1	Barrúiba
 1	Bärúchana
 1	Bartees
+1	Bärxtes
 1	Ba§chana
 1	Ba§chiúchana
 1	Ba§nihts'
@@ -3821,7 +3841,7 @@ Vârdlietojumu skaits:	24378
 1	Be§deliìas
 1	Be§§ahtiba
 1	Besúahtis
-1	Be§§atiÌawäht
+1	Be§§atiba{Be§§ati ba}
 1	bet'
 1	beywohnen
 1	bia
@@ -3831,7 +3851,6 @@ Vârdlietojumu skaits:	24378
 1	biajas
 1	biam
 1	Bia§chana
-1	biba
 1	Bickäht
 1	Bickerihts
 1	Bickeris
@@ -3972,7 +3991,6 @@ Vârdlietojumu skaits:	24378
 1	Braukúchanas{Brauúchanas}
 1	Brauk§im
 1	braukt{Jßdewibahs=braukt}
-1	braukums
 1	Braukums
 1	brauts
 1	Brauzais
@@ -4156,10 +4174,9 @@ Vârdlietojumu skaits:	24378
 1	Dähìels
 1	dähl
 1	dähï
-1	Dahlderis
+1	dahlderis
 1	Dahler'
 1	Dähles
-1	DahlJuckum=dahlderis
 1	Dahrb'=Deena
 1	Dahrba=rihks
 1	Dahrba=wihrs
@@ -4315,7 +4332,6 @@ Vârdlietojumu skaits:	24378
 1	Deììuntinì'
 1	deggu§§a{deggu§§a=}
 1	Deììuts
-1	deht
 1	Deiums
 1	deldähjums
 1	Deldäht
@@ -4326,7 +4342,6 @@ Vârdlietojumu skaits:	24378
 1	Delt
 1	den
 1	Denckt
-1	denihts
 1	Dep§a
 1	der
 1	derr
@@ -4365,6 +4380,7 @@ Vârdlietojumu skaits:	24378
 1	Dihkis
 1	Dihklis
 1	dihks
+1	Dihkt
 1	Dihku
 1	dihliht
 1	Dihºaht
@@ -4433,6 +4449,7 @@ Vârdlietojumu skaits:	24378
 1	Drackts
 1	Draggaht
 1	Dragga§chana
+1	Drähb
 1	Drähb'
 1	Drähbeem
 1	drähbes{Pus=walka=drähbes}
@@ -4440,7 +4457,6 @@ Vârdlietojumu skaits:	24378
 1	Drähgis
 1	Drähgnis
 1	Drähìnis
-1	Drahn
 1	drahn'
 1	Drahnam
 1	Drahnams
@@ -4517,7 +4533,6 @@ Vârdlietojumu skaits:	24378
 1	D§äh§eis
 1	D§äh§is
 1	D§äh§t
-1	d§äht
 1	D§ärht
 1	d§ärt
 1	d§eddreem
@@ -4796,6 +4811,7 @@ Vârdlietojumu skaits:	24378
 1	ee=lickt
 1	ee=likt
 1	ee=lippinaht
+1	Ee=M
 1	Ee=mährzäht
 1	Ee=mährzähts
 1	Ee=mahziht
@@ -5009,7 +5025,7 @@ Vârdlietojumu skaits:	24378
 1	Eenaidneeks
 1	Eenaúch
 1	Eena§ch'
-1	Eena§chi
+1	Eena§hi
 1	eene§s
 1	Eene§t
 1	eeniedäht
@@ -5103,6 +5119,7 @@ Vârdlietojumu skaits:	24378
 1	Ee§ma`
 1	Eeúmeetees
 1	eeúmel
+1	Ee§na
 1	ee§ohì'
 1	Eeúohliht
 1	ee§pähre
@@ -5362,6 +5379,7 @@ Vârdlietojumu skaits:	24378
 1	Ìatwa`
 1	Ìauda
 1	ìaudäht
+1	Ìaudäht
 1	ìaudama
 1	Ìaudeis
 1	Ìaudens
@@ -5378,9 +5396,11 @@ Vârdlietojumu skaits:	24378
 1	ìau§§ina
 1	ìau§sinahs
 1	Ìau§úinaht
+1	Gau§t
 1	Gau§tiba
 1	Ìawähnis
 1	Gawäht
+1	Ìawäht
 1	Ìawäúchana
 1	Ìawene
 1	Ìawihleis
@@ -5389,12 +5409,12 @@ Vârdlietojumu skaits:	24378
 1	Ìawiläht
 1	Ìaws
 1	Geddäht
-1	Ìeedas
 1	Ìeediìs
 1	Ìehwels
 1	Ìelbähúchana
 1	Ìelbäht
 1	Ìelbeis
+1	Geldäht
 1	Ìe§tees
 1	Ìewels
 1	ìihgaht
@@ -5434,7 +5454,6 @@ Vârdlietojumu skaits:	24378
 1	Ìlau§t
 1	Ìlem~es
 1	Ìlemmas
-1	glis
 1	Ìlohdens
 1	Ìlohmes
 1	Ìlohtas
@@ -5564,11 +5583,14 @@ Vârdlietojumu skaits:	24378
 1	ìreisnis
 1	ìrei§nis
 1	Ìrei§nis
+1	ìrem
+1	Ìremdäht
 1	ìremmo
 1	Ìremmoht
 1	grem§chas
 1	ìrem§chas
 1	Ìrem§chis
+1	Ìrem§tees
 1	Ìre§t
 1	Ìribb
 1	Gribb'
@@ -5685,6 +5707,8 @@ Vârdlietojumu skaits:	24378
 1	Ìu§cha=úahpes
 1	Ìu§chana
 1	Hai
+1	ho
+1	Ho
 1	ich
 1	ickattra
 1	ickattram
@@ -5720,6 +5744,7 @@ Vârdlietojumu skaits:	24378
 1	iß=jemt
 1	iß=kack§im
 1	iß=kai§siht
+1	iß=kaltis
 1	iß=kurts
 1	iß=lantziht
 1	iß=lantziht{iß=}
@@ -5845,13 +5870,14 @@ Vârdlietojumu skaits:	24378
 1	i§§ildiht
 1	i§§ird§is
 1	i§sky§t
+1	iß§pee§t
 1	iß§pihläht
 1	iß§prahk§t
 1	iß§taipiht
 1	iúúuckaht
 1	i§úuttinahts
 1	i§suttis
-1	i§swir
+1	i§swirrinaht
 1	ißtähräh
 1	ißtähräht
 1	ißtai§siht
@@ -6050,6 +6076,7 @@ Vârdlietojumu skaits:	24378
 1	Jß=ìährbúchanan
 1	Jß=ìalwoht
 1	Jß=ìau§t
+1	Jß=geldeht
 1	Jß=ìlabboht
 1	Jß=ìlahbt
 1	Jß=ìohdinaht
@@ -6375,6 +6402,7 @@ Vârdlietojumu skaits:	24378
 1	Jßzelts
 1	Jßzerräht
 1	Juckt
+1	Juckum=dahlderis
 1	Judae=deena
 1	Judd'
 1	Judds
@@ -6623,7 +6651,6 @@ Vârdlietojumu skaits:	24378
 1	Kaltäht
 1	kaltiba
 1	Kaltiba
-1	kaltis
 1	kaltneeks
 1	kalts
 1	Kalts
@@ -6646,6 +6673,8 @@ Vârdlietojumu skaits:	24378
 1	kanòepas
 1	Kanòepeem
 1	kanòepeia{kanòepeia=}
+1	kannepeji
+1	Kanòepi
 1	Kannewes
 1	Kante
 1	Kanteems
@@ -6739,6 +6768,7 @@ Vârdlietojumu skaits:	24378
 1	Kaunähtees
 1	Kaunan
 1	Kauniba
+1	Kauniìas
 1	kauniìe
 1	kauniìs
 1	kauns
@@ -6795,6 +6825,7 @@ Vârdlietojumu skaits:	24378
 1	kiekuris
 1	kiewits
 1	kih
+1	Kihl
 1	kihla=naud
 1	Kihläht
 1	kihlam
@@ -6985,6 +7016,7 @@ Vârdlietojumu skaits:	24378
 1	Krahpúchana
 1	Krahpt
 1	Krähsla
+1	Kräh§la`
 1	kräh§liba
 1	Kräh§lis
 1	Kräh§lu
@@ -7031,7 +7063,6 @@ Vârdlietojumu skaits:	24378
 1	Kraut
 1	kreckl'
 1	Kreckla=Stahmen
-1	Krecklis
 1	Krecklu
 1	Kreena=naud'
 1	Kreens
@@ -7216,6 +7247,7 @@ Vârdlietojumu skaits:	24378
 1	kurrlis
 1	Kurrlu
 1	Kurrnähtais
+1	kurrnä§chana
 1	Kurr§ch
 1	Kurºu
 1	kurrwis{Mai§es=kurrwis}
@@ -7250,6 +7282,7 @@ Vârdlietojumu skaits:	24378
 1	Kuttinaht
 1	kuttina§chana
 1	kywen'
+1	kywens
 1	l
 1	Laatz
 1	lab=praht
@@ -7661,6 +7694,7 @@ Vârdlietojumu skaits:	24378
 1	Lindruks
 1	Linìa
 1	Linìas
+1	Linn
 1	Linna
 1	Linna=úauja
 1	linnas
@@ -7960,11 +7994,11 @@ Vârdlietojumu skaits:	24378
 1	mällohts
 1	Mällo§chana
 1	Malls
-1	mals
 1	Malúchana
 1	malt
 1	malts
 1	Maltua
+1	maltz
 1	Malzinìs
 1	Maminòa
 1	Mamulitha
@@ -8163,7 +8197,6 @@ Vârdlietojumu skaits:	24378
 1	Me§§chas=zuhka
 1	Me§teºa
 1	me§ts
-1	Mett
 1	Mett'
 1	Metteckla
 1	Mettecklis
@@ -8183,6 +8216,7 @@ Vârdlietojumu skaits:	24378
 1	Miek§te
 1	Miek§túchauls
 1	Miek§tu
+1	Miek§tums
 1	Mieúchana
 1	miet
 1	Miet
@@ -8393,6 +8427,7 @@ Vârdlietojumu skaits:	24378
 1	Nackts=widdus
 1	Naìa§§cha
 1	Naìa§§chas
+1	Naììa=úahpe
 1	Nagga=§ahpe
 1	Naggat'
 1	Nagìata
@@ -8523,6 +8558,7 @@ Vârdlietojumu skaits:	24378
 1	nhe{}
 1	Nhe{Nh_}
 1	nhe{nhe tau }
+1	Nhe=
 1	Nhe=ähdis
 1	Nhe=ap=§willin
 1	Nhe=apdohmiìe
@@ -8565,6 +8601,7 @@ Vârdlietojumu skaits:	24378
 1	Nhe=laimiìe
 1	Nhe=lihd§enne
 1	Nhe=mähds
+1	Nhe=mährigs
 1	Nhe=meers
 1	Nhe=mirris
 1	Nhe=neckur
@@ -8584,7 +8621,6 @@ Vârdlietojumu skaits:	24378
 1	Nhe=prahtiba
 1	Nhe=prahtiìs
 1	Nhe=pretzähts
-1	Nhe=R
 1	Nhe=ra§chens
 1	Nhe=reediìa
 1	nhe=reediìe
@@ -8694,7 +8730,6 @@ Vârdlietojumu skaits:	24378
 1	Nhewe§§els
 1	Nhikúcham
 1	ni
-1	niba
 1	nickna
 1	nickne
 1	Nicknis
@@ -8713,7 +8748,6 @@ Vârdlietojumu skaits:	24378
 1	nim~
 1	Nitze
 1	no{no=}
-1	no=
 1	No=addiht
 1	no=ähdu§ch
 1	No=äh§t
@@ -8777,6 +8811,7 @@ Vârdlietojumu skaits:	24378
 1	no=úallus
 1	No=§chahwäht
 1	No=§chkirt
+1	no=§chkirts
 1	No=§chnaukt
 1	no=§eedei§ch
 1	no=§een
@@ -8984,14 +9019,15 @@ Vârdlietojumu skaits:	24378
 1	Nomohdä
 1	nomohdan
 1	none§t
+1	None§t
 1	nopähris
 1	Nopährt
 1	nopeldinaht
 1	nopeln'
 1	nopelnam
 1	nopelni
+1	Nopelniba
 1	Nopelniúchana
-1	Nopelns
 1	Nopirckt
 1	nopirckts
 1	Nopläh§t
@@ -9127,6 +9163,7 @@ Vârdlietojumu skaits:	24378
 1	ohlingas
 1	ohma
 1	ohma`
+1	Ohräht
 1	Ohúch'=kohki
 1	Ohúcha
 1	Oh§chnaht
@@ -9205,6 +9242,7 @@ Vârdlietojumu skaits:	24378
 1	Pa=klahúchana
 1	pa=klau§§iìs
 1	Pa=klau§§i§chana
+1	Pa=kräh§la`
 1	Pa=kuhtre
 1	pa=kurts
 1	Pa=ku§tinaht
@@ -9657,7 +9695,7 @@ Vârdlietojumu skaits:	24378
 1	Paraut
 1	parei§i
 1	parei§is
-1	parh=
+1	parh=dents{pahdents}
 1	Parihúchana
 1	Pariht
 1	Parihte
@@ -9822,6 +9860,7 @@ Vârdlietojumu skaits:	24378
 1	Pauìas
 1	Paune
 1	Paut'
+1	Pauta
 1	Pauta=baltums
 1	Pauta=d§eltums
 1	Pauta=t§chaumals
@@ -9926,6 +9965,7 @@ Vârdlietojumu skaits:	24378
 1	Pee=zähleis{Pee zähleis}
 1	Pee=zee§chana
 1	Pee=zell
+1	Pee=zelt{Pee zelt}
 1	Peeaddiht
 1	peeähdis
 1	peeaitzinaht
@@ -10156,6 +10196,7 @@ Vârdlietojumu skaits:	24378
 1	pelniht
 1	Pelniht
 1	Pelni§chana
+1	Pelns
 1	Pelts
 1	Peppeles
 1	Perrähúchana
@@ -10740,7 +10781,6 @@ Vârdlietojumu skaits:	24378
 1	Ram~ana`
 1	Ramikis
 1	Rammiht
-1	ras
 1	ra§ch
 1	Ra§chenaht
 1	Ra§chens
@@ -10866,6 +10906,7 @@ Vârdlietojumu skaits:	24378
 1	Rie§chi
 1	Riexte
 1	Rihd=Uh§es
+1	Rihga
 1	Rihk'
 1	Rihka
 1	Rihkam
@@ -10942,7 +10983,6 @@ Vârdlietojumu skaits:	24378
 1	ruhìama
 1	ruhìau'
 1	Ruhìoht
-1	Ruhìoúchana
 1	Ruhìot
 1	Ruhgotais
 1	Ruhìuh§ch
@@ -11213,6 +11253,7 @@ Vârdlietojumu skaits:	24378
 1	úahlitas
 1	Sahlite
 1	Sahlo=Lahdings
+1	Sahlo=turreis
 1	Úahlo=Uhdens
 1	Úahls{Sahls}
 1	Úahn'=kauls
@@ -11245,7 +11286,6 @@ Vârdlietojumu skaits:	24378
 1	Sährakohziòi
 1	Úähras
 1	Úährda
-1	Úährdenihts
 1	Úahrdeniúchi
 1	Úährdeni§chi
 1	úährdúigs
@@ -11687,6 +11727,7 @@ Vârdlietojumu skaits:	24378
 1	Schah§täht
 1	§chah§tas
 1	§chah§titees
+1	§chahw
 1	schahwahjis
 1	Schahwähúchana
 1	Schahwaht
@@ -11698,6 +11739,7 @@ Vârdlietojumu skaits:	24378
 1	Schäle§tibas
 1	Schäloht
 1	Schamähr
+1	úchana
 1	Schaubigs{igs}
 1	Úchaubitees
 1	Schaubohtees
@@ -11718,6 +11760,7 @@ Vârdlietojumu skaits:	24378
 1	Úchau§chalas=mettas
 1	Úchauúchana
 1	§chau§t
+1	Schau§t
 1	úchau§ts
 1	úchaut
 1	Úchaut'
@@ -11740,7 +11783,6 @@ Vârdlietojumu skaits:	24378
 1	§chennenes
 1	Úchie§ch'=drahna
 1	Schiggliba
-1	Schigglis
 1	Schigglums
 1	Úchihd
 1	úchihk§ta
@@ -11754,7 +11796,6 @@ Vârdlietojumu skaits:	24378
 1	§chis
 1	Schiß
 1	Schkähnes
-1	Schkähp'
 1	Schkähps
 1	Schkähr=lade
 1	Schkährs
@@ -11840,6 +11881,7 @@ Vârdlietojumu skaits:	24378
 1	Schohìlis
 1	§chohìs
 1	Schohgu
+1	§choht
 1	§cho§chi
 1	Úchuähja
 1	Schuähklis
@@ -11859,7 +11901,6 @@ Vârdlietojumu skaits:	24378
 1	Úchuh§chekla
 1	Schuhtnis
 1	Schuk§täht
-1	úchuk§tinaht
 1	Schultiìs
 1	Úchulu
 1	Úchur
@@ -11917,6 +11958,7 @@ Vârdlietojumu skaits:	24378
 1	Úeens
 1	Seenu
 1	Seepäht
+1	Seepes
 1	Úeerähúchana
 1	Úeeräht
 1	Úeerähtais
@@ -12034,9 +12076,10 @@ Vârdlietojumu skaits:	24378
 1	§ihdams
 1	Sihdeckl'
 1	Sihdecklis
-1	Sihdidoht
 1	Sihdin
+1	Sihdinaht
 1	Sihdis
+1	§ihdoht
 1	§ihdohts
 1	Úihì'
 1	úihka
@@ -12061,6 +12104,7 @@ Vârdlietojumu skaits:	24378
 1	Úihpols
 1	Úihpolus
 1	Sih§elihts
+1	§ih§t
 1	Sih§t
 1	§iht
 1	§ihw
@@ -12190,6 +12234,7 @@ Vârdlietojumu skaits:	24378
 1	Úittin'
 1	Sittuma{Sittuma=}
 1	Siwes{Si= wes}
+1	Siwis{Si= wis}
 1	Siwitinìs
 1	Úixna{Úixna=}
 1	Úixni
@@ -12749,11 +12794,11 @@ Vârdlietojumu skaits:	24378
 1	Stährklis
 1	Stahrp
 1	§tahrpa`
+1	Stahrpa=me§t
 1	Stahrpan
 1	Stahrpiba
 1	Stahrpums
 1	§tahrs
-1	StahrTahle=me§t
 1	Stah§ti
 1	Stah§tiht
 1	Stah§tiúchana
@@ -13048,6 +13093,7 @@ Vârdlietojumu skaits:	24378
 1	Swähwel
 1	Úwaidihts
 1	Úwaidijums
+1	Úwaidiúchana
 1	§waig§ne
 1	Úwaig§ne
 1	§waigsnohtees{Úas=§waigsnohtees}
@@ -13084,6 +13130,8 @@ Vârdlietojumu skaits:	24378
 1	§weigs
 1	Sweiìs
 1	Sweiiba
+1	Sweineeka
+1	Sweineeka{}
 1	Sweineeks
 1	úweioht
 1	Sweioúchana
@@ -13170,6 +13218,7 @@ Vârdlietojumu skaits:	24378
 1	Tahl=ee§chana
 1	Tahlahke
 1	tahle
+1	Tahle=me§t
 1	Tahlena
 1	tahlenas
 1	tahlenes
@@ -13392,10 +13441,12 @@ Vârdlietojumu skaits:	24378
 1	Tihn'
 1	tihr'
 1	Tihräht
+1	tihras
 1	Tihre
 1	Tihriba
 1	Tihriht
 1	tihrs
+1	Tihrs
 1	Tih§ch
 1	tih§ch'
 1	Tih§cham
@@ -13540,6 +13591,7 @@ Vârdlietojumu skaits:	24378
 1	Truúch
 1	Tru§§chis
 1	T§aumalls
+1	T§chacklis
 1	T§chakliba
 1	T§chaklis
 1	T§chaklums
@@ -13547,6 +13599,7 @@ Vârdlietojumu skaits:	24378
 1	T§chak§tähúchana
 1	t§chak§täht
 1	T§chak§täht
+1	t§chaumals
 1	T§chaumals
 1	T§chetter=kahrtiìe
 1	T§chetter=úimt
@@ -13625,7 +13678,6 @@ Vârdlietojumu skaits:	24378
 1	Turrähúchana
 1	Turräht
 1	Turrähtees
-1	turreis
 1	turriìi
 1	Turriìs
 1	turrim
@@ -13690,6 +13742,7 @@ Vârdlietojumu skaits:	24378
 1	uhs=aud§äht
 1	uhs=bährdams
 1	uhs=bährt
+1	Uhs=braukums
 1	Uhs=bruckt
 1	uhs=dahw
 1	uhs=derribas
@@ -13793,6 +13846,7 @@ Vârdlietojumu skaits:	24378
 1	Uh§as
 1	Uhsaud§ina§chana
 1	uhsaud§is
+1	Uhsaug§chana
 1	uhsaugt
 1	Uhsbähkt{Uhs=|}
 1	uhsberr
@@ -14301,6 +14355,7 @@ Vârdlietojumu skaits:	24378
 1	weeìlu
 1	weeglums
 1	weemähr
+1	Ween
 1	ween{ween=}
 1	ween=kahrt
 1	ween=lihd§e
@@ -14397,10 +14452,10 @@ Vârdlietojumu skaits:	24378
 1	wes§els
 1	we§§els
 1	we§sinaht
+1	We§§inaht
 1	We§§um
 1	We§§ums
 1	We§t
-1	We§Tas
 1	Wetz=tähws
 1	Wetzai
 1	Wetzaieems
@@ -14481,6 +14536,7 @@ Vârdlietojumu skaits:	24378
 1	Wilko=Mähnes
 1	wilktees
 1	Wilktees
+1	willa{Ruddena=willa}
 1	willa{Seemas=willa}
 1	Willahn
 1	Willahne
@@ -14683,7 +14739,6 @@ Vârdlietojumu skaits:	24378
 1	zeeti
 1	Zeetiba
 1	zeetinaht
-1	Zeets
 1	Zeetums
 1	zel
 1	zelï
@@ -14789,6 +14844,8 @@ Vârdlietojumu skaits:	24378
 1	Zirzähns
 1	Zirziòi
 1	Zirzins
+1	Zi§sas
+1	Zi§si
 1	Zit=kahrt
 1	zitt
 1	zitt=kahrt

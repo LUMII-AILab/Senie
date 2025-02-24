@@ -1,62 +1,62 @@
-Vârdformu skaits:	7413
-Vârdlietojumu skaits:	38726
+Vârdformu skaits:	7433
+Vârdlietojumu skaits:	38870
 
 
-1454	vnd
-1415	to
-897	gir
-864	tas
-769	ka
-664	nhe
-582	no
-534	tee
+1462	vnd
+1418	to
+902	gir
+867	tas
+771	ka
+668	nhe
+584	no
+536	tee
 466	vs
-412	vnnd
-405	teem
+414	vnnd
+407	teem
 385	úatziya
 378	by
 370	es
 363	Bett
 354	eek§chan
-337	Vnd
+338	Vnd
 333	ar
-325	ta
+327	ta
 311	py
 303	juhß
 282	tahß
 251	jums
 221	tad
-219	kad
+220	kad
 219	wings
 212	par
 208	tam
 203	mann
 199	tu
-193	JE§us
+194	JE§us
 181	Ai§to
-175	weens
+177	weens
+174	bett
 172	arrid§an
-172	bett
-167	kas
-160	buhß
-159	kattri
-153	tohß
+169	kas
+163	buhß
+161	kattri
+154	tohß
+152	töw
 151	weenu
-150	tÖw
-145	winja
+146	winja
 144	äßmu
 132	winju
 130	zaur
+129	mums
 128	katters
-127	mums
 126	Tad
 125	úawu
+120	Deewa
 117	Kungs
-114	Deewa
 111	tha
 107	Vnnd
 104	ko
-103	úÖw
+102	úöw
 98	mehß
 94	e§úeeta
 94	nu
@@ -64,10 +64,10 @@ Vârdlietojumu skaits:	38726
 90	pehtz
 89	kattru
 79	Es
-76	Deewu
-71	Wahrdu
+77	Deewu
+73	Wahrdu
+70	Deews
 70	nahze
-69	Deews
 69	Kad
 69	wi§úi
 67	ghaya
@@ -86,42 +86,42 @@ Vârdlietojumu skaits:	38726
 58	Tas
 56	teems
 55	preek§chan
+54	ai§to
 54	auk§cham
 54	úawas
-53	ai§to
 52	JE§um
+51	úacka
 51	wehl
 50	Ïaudis
 50	§cho
-49	úacka
 49	weena
 48	vn~
 47	Dähls
 47	Gharru
 47	Tähws
 46	nahk
+46	Wings
 45	ghribbu
 44	Brahïi
 44	juh§úo
 44	red§eya
 43	attkal
-43	Wings
 42	turr
 41	Ta
 41	Tee
+41	warr
 40	Kunga
 40	patz
-40	warr
+39	wairahk
 39	wi§úas
 39	wi§úeem
 38	leetas
-38	wairahk
 37	mannu
+37	mehs
 37	úawa`
 37	winjo
 37	zitti
 36	Jeru§alem
-36	mehs
 36	tomähr
 35	buhtu
 35	Kungu
@@ -161,6 +161,7 @@ Vârdlietojumu skaits:	38726
 28	kahdu
 28	lieds
 28	tai
+28	Wahrds
 27	Mahzekïeem
 27	ohtru
 27	prettie
@@ -192,7 +193,6 @@ Vârdlietojumu skaits:	38726
 24	titz
 23	darriet
 23	Pattees
-23	Wahrds
 23	wahrdu
 23	Zillwäka
 22	Bährni
@@ -219,6 +219,7 @@ Vârdlietojumu skaits:	38726
 20	pa
 20	raxtietz
 20	§tahw
+20	tick
 20	zehlehß
 19	aran
 19	Baußlu
@@ -230,8 +231,8 @@ Vârdlietojumu skaits:	38726
 19	preek§cha
 19	red§eht
 19	§tarpan
+19	taß
 19	teekams
-19	tick
 19	warrätu
 19	zeïïu
 18	Däbbä§úu
@@ -241,7 +242,6 @@ Vârdlietojumu skaits:	38726
 18	laid
 18	Maria
 18	red§i
-18	taß
 18	wairs
 18	weena`
 18	wiß
@@ -287,6 +287,7 @@ Vârdlietojumu skaits:	38726
 15	Deena`
 15	juhs
 15	licka
+15	muh§chigu
 15	muh§úo
 15	pa§§cha`
 15	Peteri
@@ -296,6 +297,7 @@ Vârdlietojumu skaits:	38726
 15	tries
 14	alla§chien
 14	attkall
+14	d§irrd
 14	eeúahka
 14	Ghräko
 14	klaht
@@ -305,7 +307,6 @@ Vârdlietojumu skaits:	38726
 14	manna
 14	mans
 14	Meeru
-14	muh§chigu
 14	runnayis
 14	§atziya
 14	§chiß
@@ -319,7 +320,6 @@ Vârdlietojumu skaits:	38726
 13	Deena
 13	dewis
 13	d§iewo
-13	d§irrd
 13	ick
 13	Jeb
 13	kahda
@@ -337,6 +337,7 @@ Vârdlietojumu skaits:	38726
 13	Rohku
 13	Úeewa
 13	Simon
+13	Úirrds
 13	Tha
 13	Weens
 13	wi§úus
@@ -345,6 +346,7 @@ Vârdlietojumu skaits:	38726
 12	Engels
 12	ey
 12	Kallpi
+12	kam
 12	Kungeem
 12	leelas
 12	Mahzekleem
@@ -360,10 +362,9 @@ Vârdlietojumu skaits:	38726
 12	úatzidams
 12	úatzies
 12	§innam
-12	Úirrds
 12	úuhtiyis
 12	titzaht
-12	TÖw
+12	Töw
 12	Tu
 12	Wahrdus
 12	Wälls
@@ -382,7 +383,6 @@ Vârdlietojumu skaits:	38726
 11	jaunu
 11	jautaya
 11	jaw
-11	kam
 11	kattras
 11	kurr
 11	labbe
@@ -401,6 +401,7 @@ Vârdlietojumu skaits:	38726
 11	§inna
 11	§innu
 11	Tähwa
+11	tawas
 11	tee§cham
 11	tho
 11	Wall§tiba
@@ -445,7 +446,6 @@ Vârdlietojumu skaits:	38726
 10	§cheitan
 10	§emme
 10	Spähku
-10	tawas
 10	taws
 10	Vdeni
 10	zittu
@@ -454,6 +454,7 @@ Vârdlietojumu skaits:	38726
 9	atkal
 9	Ackmini
 9	bähdahß
+9	Chri§tus
 9	dabbu
 9	dohta
 9	eh§t
@@ -467,6 +468,7 @@ Vârdlietojumu skaits:	38726
 9	kurrenes
 9	Mai§es
 9	Meers
+9	muh§chige
 9	Nahwes
 9	Nahwu
 9	Negg
@@ -502,7 +504,6 @@ Vârdlietojumu skaits:	38726
 8	Bährneem
 8	Bährnu
 8	bes
-8	Chri§tus
 8	darrieth
 8	dohtu
 8	d§iewoyam
@@ -525,7 +526,6 @@ Vârdlietojumu skaits:	38726
 8	Manntu
 8	Mehß
 8	Mirroòeem
-8	muh§chige
 8	muh§úu
 8	Nackty
 8	ne§úe
@@ -537,7 +537,7 @@ Vârdlietojumu skaits:	38726
 8	pawehleyis
 8	Red§i
 8	Úacka
-8	§cheem
+8	§chäla§tibas
 8	úcho
 8	Úeewas
 8	§emmeh
@@ -584,6 +584,7 @@ Vârdlietojumu skaits:	38726
 7	Janis
 7	kapehtz
 7	Kappu
+7	kaß
 7	kïua
 7	Kunghu
 7	labbahß
@@ -599,6 +600,7 @@ Vârdlietojumu skaits:	38726
 7	neeka
 7	O
 7	ohtram
+7	Paggaòi
 7	Par
 7	pa§§chas
 7	patt
@@ -609,8 +611,9 @@ Vârdlietojumu skaits:	38726
 7	Raugi
 7	reis
 7	runnayeeta
-7	§chäla§tibas
+7	§cheem
 7	Siemes
+7	Úirrdi
 7	úi§ts
 7	§kie§ti
 7	§tarpa
@@ -635,6 +638,7 @@ Vârdlietojumu skaits:	38726
 7	Wee§úis
 7	weeta`
 7	Weetu
+7	wellte
 7	Zillwäkeem
 7	zitta
 7	zittam
@@ -643,6 +647,7 @@ Vârdlietojumu skaits:	38726
 6	auxtahx
 6	auxteem
 6	Au§truma
+6	Baddu
 6	Ba§niza`
 6	Ba§nizas
 6	Baßnizas
@@ -660,6 +665,7 @@ Vârdlietojumu skaits:	38726
 6	d§irrdeht
 6	Dweh§úel
 6	eemu
+6	Engeïeem
 6	Engeïi
 6	Ghodibas
 6	Ghohds
@@ -672,7 +678,6 @@ Vârdlietojumu skaits:	38726
 6	kahdus
 6	Kallpu
 6	Kalps
-6	kaß
 6	kattris
 6	kurr§ch
 6	labbahk
@@ -692,7 +697,6 @@ Vârdlietojumu skaits:	38726
 6	nomirru§chi
 6	nopellniyis
 6	notickt
-6	Paggaòi
 6	papreek§che
 6	pa§§cheem
 6	Pe§ti§chanas
@@ -708,11 +712,11 @@ Vârdlietojumu skaits:	38726
 6	Úchiß
 6	§chy
 6	§inni
-6	Úirrdi
 6	§taighaya
 6	§tunda`
 6	§wähti
 6	Úwähtkeem
+6	tadehï
 6	taggad
 6	tanni
 6	Tanny
@@ -727,7 +731,6 @@ Vârdlietojumu skaits:	38726
 6	Wätzakeem
 6	weenas
 6	weeta
-6	wellte
 6	Wienu
 6	winjas
 6	winya
@@ -745,7 +748,6 @@ Vârdlietojumu skaits:	38726
 5	Audäklu
 5	Auxti
 5	Awis
-5	Baddu
 5	bähda
 5	bähdas
 5	Ba§niza
@@ -766,7 +768,6 @@ Vârdlietojumu skaits:	38726
 5	Eek§chan
 5	eetu
 5	eita
-5	Engeïeem
 5	E§úeeta
 5	Ghailis
 5	ghalls
@@ -788,6 +789,7 @@ Vârdlietojumu skaits:	38726
 5	Karrawieri
 5	kattrai
 5	kattreems
+5	klau§úa
 5	kluß
 5	kohx
 5	Kungi
@@ -818,6 +820,7 @@ Vârdlietojumu skaits:	38726
 5	nolicka
 5	no§kummu§chi
 5	noticku§úi
+5	Ock
 5	packaï
 5	pahr
 5	parrada
@@ -861,9 +864,12 @@ Vârdlietojumu skaits:	38726
 5	Úlawa
 5	Úlawu
 5	Úohli§chanu
+5	§pähx
 5	§tippris
 5	§tunda
+5	úwähti
 5	§wähtz
+5	Úwähtz
 5	tahdas
 5	Taißniba
 5	Tam
@@ -907,6 +913,7 @@ Vârdlietojumu skaits:	38726
 4	Ammatam
 4	Apu§tuïeem
 4	Arrid§an
+4	Augïi
 4	Au§úis
 4	Auxteem
 4	Auxtibaßnizaskungi
@@ -916,9 +923,11 @@ Vârdlietojumu skaits:	38726
 4	Bährna
 4	Behrninju
 4	biyaht
+4	biyam
 4	biyayahß
 4	biyu§chi
 4	brehzis
+4	buhs
 4	buhtam
 4	dabbuitu
 4	Dahwanu
@@ -931,6 +940,7 @@ Vârdlietojumu skaits:	38726
 4	dohß
 4	d§err
 4	d§errt
+4	d§iewibas
 4	d§iewo§chana
 4	d§iewus
 4	Dumpi
@@ -980,7 +990,6 @@ Vârdlietojumu skaits:	38726
 4	katras
 4	kattro
 4	Kattru
-4	klau§úa
 4	Kleek§chana
 4	Kohku
 4	Koninju
@@ -1000,6 +1009,7 @@ Vârdlietojumu skaits:	38726
 4	Maddaïa
 4	magkeniet
 4	Mähms
+4	mahza
 4	Mahzekïus
 4	Mahziba
 4	mahziyis
@@ -1025,7 +1035,6 @@ Vârdlietojumu skaits:	38726
 4	nodewe
 4	nokaut
 4	nokauti
-4	Ock
 4	ohtra
 4	Pahtarus
 4	palicka
@@ -1033,11 +1042,13 @@ Vârdlietojumu skaits:	38726
 4	pallieds
 4	pa§ie§t
 4	pa§luddenahß
+4	pattiek
 4	pattz
 4	pazehle
 4	peeluhd§e
 4	peewiïï
 4	pilla
+4	Pillis
 4	pillniga
 4	Pilly
 4	Proweeto
@@ -1050,7 +1061,7 @@ Vârdlietojumu skaits:	38726
 4	red§eyu§§chi
 4	rei§u
 4	Rohkahß
-4	RÖmero
+4	Römero
 4	runnayo
 4	úackaht
 4	Sahl
@@ -1080,15 +1091,12 @@ Vârdlietojumu skaits:	38726
 4	§kitta
 4	Úohdibu
 4	Úohgis
-4	§Öw
-4	§pähx
+4	§öw
 4	§tahweeta
 4	§tahweht
 4	§taiga
+4	úuhtiet
 4	Úwähta
-4	úwähti
-4	Úwähtz
-4	tadehï
 4	taggadien
 4	tahds
 4	tahlenes
@@ -1107,6 +1115,8 @@ Vârdlietojumu skaits:	38726
 4	turreht
 4	Vs
 4	vsjämbtz
+4	vsjembt
+4	Wahrdam
 4	Wall§tiba`
 4	Wall§tu
 4	Wari§eeri
@@ -1164,13 +1174,13 @@ Vârdlietojumu skaits:	38726
 3	Atzi
 3	Atzy
 3	Aughïus
-3	Augïi
 3	Auk§cham
 3	Au§úi
 3	Auxtabaßnizas
 3	Auxts
 3	baddu
 3	baggahtz
+3	baggatige
 3	Bährneems
 3	Bährno
 3	Balgki
@@ -1182,13 +1192,11 @@ Vârdlietojumu skaits:	38726
 3	Bettlehem
 3	Bigkeri
 3	biya
-3	biyam
 3	blehdibu
 3	Brahïeem
 3	brautze
 3	breeßmigu
 3	Bruòòas
-3	buhs
 3	buh§chanu
 3	Chri§titi
 3	Däbbä§úo
@@ -1215,7 +1223,6 @@ Vârdlietojumu skaits:	38726
 3	drehbes
 3	d§eedahß
 3	d§eeßmeems
-3	d§iewibas
 3	d§iewoya
 3	d§irrdaht
 3	d§irrdinayu§chi
@@ -1242,6 +1249,7 @@ Vârdlietojumu skaits:	38726
 3	ghaidam
 3	ghaidiya
 3	Gharrus
+3	ghau§che
 3	ghodu
 3	Ghohdibu
 3	Ghräki
@@ -1307,6 +1315,7 @@ Vârdlietojumu skaits:	38726
 3	Lauku
 3	Ïaundarritayeem
 3	Leeldeenas=Jähru
+3	leelus
 3	Leeziba
 3	lickt
 3	lied§a
@@ -1317,7 +1326,6 @@ Vârdlietojumu skaits:	38726
 3	luhkoyahß
 3	Luhk§chanu
 3	luhxeeta
-3	mahza
 3	mallas
 3	Mans
 3	mas
@@ -1331,6 +1339,7 @@ Vârdlietojumu skaits:	38726
 3	Mehteli
 3	me§t
 3	mettehß
+3	mieïoht
 3	Mirroni
 3	mitte§chanas
 3	MJïi
@@ -1376,7 +1385,6 @@ Vârdlietojumu skaits:	38726
 3	pa§uddu§chi
 3	patiek
 3	Patteeß
-3	pattiek
 3	peeklayahß
 3	peeluhkt
 3	peeminn
@@ -1387,7 +1395,6 @@ Vârdlietojumu skaits:	38726
 3	Pilis
 3	pilli
 3	Pilli
-3	Pillis
 3	Pils
 3	pirmahk
 3	pirrma
@@ -1468,12 +1475,12 @@ Vârdlietojumu skaits:	38726
 3	§trahda
 3	Stunda
 3	Stundu
-3	úuhtiet
 3	úuhtietz
 3	Úullaiòi
 3	Úullainis
 3	§wähta
 3	Úwähta`
+3	tahdeem
 3	tahïenes
 3	Tähweem
 3	Tähwi
@@ -1500,12 +1507,12 @@ Vârdlietojumu skaits:	38726
 3	turraitees
 3	turrenes
 3	Vdens
+3	Vgguny
 3	Vhdeny
 3	vppere
 3	Vppi
 3	vsdiega
 3	vsjehmis
-3	vsjembt
 3	vslätz
 3	vsluhkoya
 3	vsmohdenayis
@@ -1515,7 +1522,6 @@ Vârdlietojumu skaits:	38726
 3	Wackars
 3	währa
 3	wahrda`
-3	Wahrdam
 3	wahrds
 3	waighu
 3	Waighu
@@ -1652,7 +1658,6 @@ Vârdlietojumu skaits:	38726
 2	Auxtubaßnizas
 2	Auxtuma`
 2	Badds
-2	baggatige
 2	bähdahs
 2	bähdu
 2	bähgoht
@@ -1689,6 +1694,7 @@ Vârdlietojumu skaits:	38726
 2	buh§úeeta
 2	buh§úi
 2	buhtat
+2	Capernaum
 2	chri§tietz
 2	Chri§to
 2	Cleowas
@@ -1824,7 +1830,6 @@ Vârdlietojumu skaits:	38726
 2	ghanne
 2	Ghannu
 2	gharru
-2	ghau§che
 2	ghayu§chas
 2	ghiemi
 2	ghlabboht
@@ -2067,7 +2072,6 @@ Vârdlietojumu skaits:	38726
 2	Mieklu
 2	mieïa
 2	mieligi
-2	mieïoht
 2	mirra
 2	mirrt
 2	mi§t
@@ -2161,6 +2165,7 @@ Vârdlietojumu skaits:	38726
 2	paklau§úigi
 2	palai§t
 2	palicku§§chi
+2	palleck
 2	pallicka
 2	pallicku§chi
 2	pallied§ähtu
@@ -2180,12 +2185,14 @@ Vârdlietojumu skaits:	38726
 2	pa§luddena
 2	pa§luddenaya
 2	pa§luddenayis
+2	pa§úarga
 2	pa§úarrga
 2	pa§úarrkanu
 2	pa§§cha
 2	pa§§cho
 2	pa§úehdehyahß
 2	pa§uddis
+2	pa§uhd
 2	Patarus
 2	Patteitzibu
 2	patteitzu
@@ -2278,8 +2285,8 @@ Vârdlietojumu skaits:	38726
 2	raxtiya
 2	Riexte
 2	Rohkam
-2	RÖmereem
-2	RÖmeri
+2	Römereem
+2	Römeri
 2	runnadams
 2	runnahts
 2	runnaja
@@ -2304,6 +2311,7 @@ Vârdlietojumu skaits:	38726
 2	úajehme
 2	úakraht
 2	úalied§ena§chanas
+2	Sälltz
 2	Salome
 2	Salomons
 2	Samariters
@@ -2392,6 +2400,7 @@ Vârdlietojumu skaits:	38726
 2	Úohdibas
 2	úohdies
 2	úohdietz
+2	úohdiyis
 2	Úohdu
 2	§ohg
 2	úohli§chana
@@ -2422,6 +2431,7 @@ Vârdlietojumu skaits:	38726
 2	§trahdaht
 2	Strahdneekus
 2	§turrmeht
+2	Úuddrabbs
 2	Úuddrabu
 2	úuhti§chu
 2	úuhtiti
@@ -2455,7 +2465,6 @@ Vârdlietojumu skaits:	38726
 2	Symes
 2	tada
 2	tahda
-2	tahdeem
 2	Tai
 2	taißna
 2	Taißneem
@@ -2480,7 +2489,7 @@ Vârdlietojumu skaits:	38726
 2	Tehwings
 2	teitzeeta
 2	thopi
-2	thÖw
+2	thöw
 2	Tieklu
 2	tieries
 2	Tierumu
@@ -2509,7 +2518,6 @@ Vârdlietojumu skaits:	38726
 2	TVrr
 2	Tyrumu
 2	Vdeno
-2	Vgguny
 2	Vhdens
 2	Vn~
 2	vsghayu§úi
@@ -3226,6 +3234,7 @@ Vârdlietojumu skaits:	38726
 1	BEtt
 1	Bettleheme
 1	Bettlehemes
+1	Bett§aida
 1	Bie§chana
 1	Bie§chanai
 1	bie§chanas
@@ -3314,11 +3323,11 @@ Vârdlietojumu skaits:	38726
 1	Cana
 1	Cana`
 1	Cananeera
-1	Capernaum
 1	Capernauma`
 1	Cappadocia
 1	Ce§area
 1	Ce§tium
+1	Chorazin
 1	CHri§t
 1	CHri§te
 1	Chri§tetais
@@ -3344,7 +3353,7 @@ Vârdlietojumu skaits:	38726
 1	cziwo§chen
 1	dabba
 1	Däbbä§úo=wall§tiba
-1	Däbbä§úo=wall§tibas{Däb bÖ§úo=wall§tibas}
+1	Däbbä§úo=wall§tibas{Däb bö§úo=wall§tibas}
 1	dabbuis
 1	dabbui§úeeta
 1	dabbuitam
@@ -3533,6 +3542,7 @@ Vârdlietojumu skaits:	38726
 1	domayeeta
 1	drahnas
 1	draudädams
+1	draude
 1	Draude§chanu
 1	draudeya
 1	draudeyu§chi
@@ -4048,6 +4058,7 @@ Vârdlietojumu skaits:	38726
 1	gree§tam
 1	gree§tees
 1	gree§teeß
+1	gribbahs
 1	gribbeyaht
 1	gribbeyis
 1	Gro§§chus
@@ -4126,6 +4137,7 @@ Vârdlietojumu skaits:	38726
 1	ißklau§úaita
 1	ißkrattiyis
 1	ißkreen
+1	ißku§t
 1	ißlaide
 1	ißlätz
 1	ißleetas
@@ -4142,6 +4154,7 @@ Vârdlietojumu skaits:	38726
 1	ißne§úe
 1	ißniekamas
 1	ißniekt
+1	ißniext
 1	ißpaudehya
 1	ißpau§t
 1	ißpe§tiyis
@@ -4675,7 +4688,6 @@ Vârdlietojumu skaits:	38726
 1	leelohß
 1	leelo§chana
 1	Leels
-1	leelus
 1	leetahß
 1	leetam
 1	leetams
@@ -5013,6 +5025,7 @@ Vârdlietojumu skaits:	38726
 1	muh§chigeem
 1	muh§chigi
 1	muh§chigus
+1	Muh§cige
 1	muh§§a
 1	muh§úai
 1	muh§§cham
@@ -5111,6 +5124,7 @@ Vârdlietojumu skaits:	38726
 1	näs
 1	näßdams
 1	nä§úa
+1	nä§úahs
 1	näßta
 1	Na§tiòohß
 1	nä§ts
@@ -5145,6 +5159,7 @@ Vârdlietojumu skaits:	38726
 1	Nheaughlighaß
 1	Nheaugliga
 1	nhebedneeki
+1	Nhebehdneekem
 1	nhegau§cham
 1	Nhegg
 1	Nheghodu
@@ -5423,7 +5438,6 @@ Vârdlietojumu skaits:	38726
 1	paghaya
 1	paghayu§úi
 1	paghlabboyahß
-1	Pahbaggatige
 1	pahr=eetu
 1	Pahr=Runna§chanu
 1	pahr=runnaya
@@ -5452,6 +5466,7 @@ Vârdlietojumu skaits:	38726
 1	Pahtaronamms
 1	pahtz
 1	pahwehleya
+1	Pahwils
 1	pakahrehß
 1	pakahrti
 1	pakahrtz
@@ -5468,7 +5483,6 @@ Vârdlietojumu skaits:	38726
 1	palicku§chi
 1	pallaide
 1	pallaidehß
-1	palleck
 1	palleek{palleeek}
 1	palleeku
 1	Palleetz
@@ -5546,7 +5560,6 @@ Vârdlietojumu skaits:	38726
 1	Pa§úackus
 1	pa§úähdu§chees
 1	pa§úakahm
-1	pa§úarga
 1	pa§úarghati
 1	pa§úarghaya
 1	pa§úarrghati
@@ -5570,7 +5583,6 @@ Vârdlietojumu skaits:	38726
 1	pa§udena§chanas
 1	pa§udenati
 1	pa§udenayeeta
-1	pa§uhd
 1	pa§uhdenahtz
 1	pa§uhdenaya
 1	Pa§u§§chana
@@ -5587,9 +5599,9 @@ Vârdlietojumu skaits:	38726
 1	Pattee§úe
 1	Pattee§úiba
 1	pattee§úu
-1	patteilus
 1	Patteitziba
 1	Patteitzibas
+1	patteitzigu
 1	patteizeeta
 1	patteizibu
 1	patteizigeem
@@ -6007,10 +6019,10 @@ Vârdlietojumu skaits:	38726
 1	Rokahm
 1	Rom
 1	Romeºeem
-1	RÖmeºeem
+1	Römeºeem
 1	Romeri
-1	RÖmeºi
-1	RÖmeºo
+1	Römeºi
+1	Römeºo
 1	Romes
 1	ruhkdams
 1	Ruhk§chana
@@ -6127,7 +6139,6 @@ Vârdlietojumu skaits:	38726
 1	Úalldahßmai§es
 1	úall§chanu
 1	Sällta{Sallta}
-1	Sälltz
 1	§aïïu
 1	úamai§úitu
 1	úamaita§chanu
@@ -6287,6 +6298,7 @@ Vârdlietojumu skaits:	38726
 1	§cheems
 1	§chehligi
 1	§chehligu
+1	Scheitam
 1	úcheitan
 1	Úchim
 1	§chim~{Jhß§chim~}
@@ -6309,7 +6321,7 @@ Vârdlietojumu skaits:	38726
 1	Úchodeen
 1	úchohß
 1	§choVhdeni
-1	SchrÖder
+1	Schröder
 1	Úchuhpli
 1	Úchuhply
 1	§chuhti
@@ -6526,13 +6538,13 @@ Vârdlietojumu skaits:	38726
 1	Sohbini
 1	Sohbiòu
 1	Sohbus
+1	Úohda
 1	úohdaita
 1	úohdi
 1	Úohdiba`
 1	úohdibu
 1	úohdiet
 1	úohditi
-1	úohdiyis
 1	úohdu
 1	úohga
 1	Úohgam
@@ -6669,6 +6681,7 @@ Vârdlietojumu skaits:	38726
 1	úunnitas
 1	úunniya
 1	úutiti
+1	úw
 1	Swabbada
 1	Swabbadibas
 1	Úwabbadibu
@@ -6679,6 +6692,7 @@ Vârdlietojumu skaits:	38726
 1	Swahrki
 1	Swahrkus
 1	Swährs
+1	úwähtadarridams
 1	Úwähtais
 1	úwähtam
 1	§wähtas
@@ -6688,6 +6702,7 @@ Vârdlietojumu skaits:	38726
 1	§wähteem
 1	úwähteems
 1	Swähti
+1	úwähtietz
 1	úwähtitam
 1	Swähtki
 1	Úwähtko
@@ -6711,6 +6726,7 @@ Vârdlietojumu skaits:	38726
 1	Swäta
 1	Úwäta
 1	úwäte
+1	úwäteem
 1	§wätu{§wa`tu}
 1	§weede
 1	Úweedri
@@ -6719,7 +6735,6 @@ Vârdlietojumu skaits:	38726
 1	Úwehdeena`
 1	Swehdeenu
 1	Swehdenu
-1	úwehïeem
 1	Swehre§chanas
 1	§wehreyis
 1	§wehtiba
@@ -6727,6 +6742,7 @@ Vârdlietojumu skaits:	38726
 1	Úwehtibas
 1	Swehtibu
 1	Úwehtibu
+1	úwehties
 1	úwehtieß
 1	§wehtiet
 1	úwehtiya
@@ -6750,6 +6766,7 @@ Vârdlietojumu skaits:	38726
 1	§we§§chu
 1	úwetibu
 1	úwetietz
+1	úwetiti
 1	úwetze
 1	Úwetzehm
 1	§weyoht
@@ -6934,6 +6951,7 @@ Vârdlietojumu skaits:	38726
 1	T§chuhßkas
 1	T§chuhßku
 1	Tuck§chai
+1	tuck§cheem
 1	tuck§chi
 1	tuck§chus
 1	tudeï
@@ -6978,6 +6996,7 @@ Vârdlietojumu skaits:	38726
 1	twarr§tiya
 1	twerrt
 1	twerrtees
+1	Twiek§chanu
 1	twiext
 1	Tyberias
 1	Tyerumu
@@ -7283,6 +7302,7 @@ Vârdlietojumu skaits:	38726
 1	Wir§úoraxtz
 1	wi§ch§kim
 1	wißd§iïïahk
+1	wißlabbaka
 1	wislabbakeem
 1	wißmiligi
 1	Wi§pa§iaòem

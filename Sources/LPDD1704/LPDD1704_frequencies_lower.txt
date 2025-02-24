@@ -1,5 +1,5 @@
-Vârdformu skaits:	1036
-Vârdlietojumu skaits:	2824
+Vârdformu skaits:	1037
+Vârdlietojumu skaits:	2829
 
 
 243	un
@@ -10,15 +10,15 @@ Vârdlietojumu skaits:	2824
 38	deews
 38	ka
 38	tawu
-33	par
+34	par
 26	mehs
 26	no
 24	kas
 24	kungs
 22	ak
 22	pahr
+21	eekúch
 21	ta
-20	eekúch
 20	wiúúus
 19	muhs
 18	tohs
@@ -71,14 +71,14 @@ Vârdlietojumu skaits:	2824
 7	d§ihwoúchanas
 7	grehkus
 7	jeb
+7	je§u
+7	muhúa
 7	muhúo
 7	wahrda
 7	wiúúas
 6	buht
 6	dehla
 6	gohdu
-6	je§u
-6	muhúa
 6	paúaules
 6	preeku
 6	prett
@@ -246,6 +246,7 @@ Vârdlietojumu skaits:	2824
 2	kaººu
 2	kaººus
 2	katru
+2	íehniòa
 2	íehniòòam
 2	íehniúchkas
 2	kungam
@@ -262,7 +263,6 @@ Vârdlietojumu skaits:	2824
 2	ïaunu
 2	leetu
 2	leez
-2	lpp
 2	mahzitajus
 2	meeriga
 2	mihïa
@@ -418,6 +418,7 @@ Vârdlietojumu skaits:	2824
 1	chri§titas
 1	chri§titi
 1	chri§to
+1	chri§to{chr'i§to}
 1	chri§tu
 1	dabbuht
 1	dabbujuúchi
@@ -575,7 +576,6 @@ Vârdlietojumu skaits:	2824
 1	kaunu
 1	kauúchanahm
 1	kautees
-1	íehniòa
 1	íehniòa=behrnus
 1	íehniòa=ga§pa§chu
 1	íehniòa=mahti
@@ -636,13 +636,16 @@ Vârdlietojumu skaits:	2824
 1	leetahm
 1	leetas
 1	leeto
+1	lehnibas
 1	lihd§{lihd}
 1	liktees
 1	lohpus
+1	lpp
 1	luhd§ams
 1	luhd§u
 1	luhgs
 1	luhgúchana^
+1	luhgúchana{luhgúchana'}
 1	luhg§chanas
 1	luhgúchanu
 1	mahti
@@ -699,7 +702,7 @@ Vârdlietojumu skaits:	2824
 1	ne=apgrehzigi
 1	ne=apgrehzigus
 1	ne=§chehligeem
-1	neaptwerje§u
+1	neaptwerramas
 1	neaptweººamu
 1	neds
 1	ned§
@@ -720,7 +723,6 @@ Vârdlietojumu skaits:	2824
 1	nihzinaúchanas
 1	niknas
 1	niknu
-1	niòa
 1	nogree§t
 1	nopelnijúchi
 1	nopelnijuúchi
@@ -1036,5 +1038,4 @@ Vârdlietojumu skaits:	2824
 1	zittas
 1	zittkahrt
 1	11
-1	12
 1	1704

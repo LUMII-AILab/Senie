@@ -1,20 +1,20 @@
-Vârdformu skaits:	5470
-Vârdlietojumu skaits:	22443
+Vârdformu skaits:	5489
+Vârdlietojumu skaits:	22503
 
 
 1331	und
-529	ka
+530	ka
 418	tu
 403	to
 314	töw
-293	es
+294	es
 266	ar
-255	man
+256	man
 248	mums
+228	gir
 228	no
-227	gir
+221	tawu
 220	par
-218	tawu
 215	eek§chan
 211	e§úi
 184	nhe
@@ -26,9 +26,9 @@ Vârdlietojumu skaits:	22443
 120	ta
 120	zaur
 109	arrid§an
-108	mannu
+109	mannu
 108	tahs
-102	tas
+103	tas
 98	mann
 92	muhs
 91	úöw
@@ -50,11 +50,11 @@ Vârdlietojumu skaits:	22443
 60	Weena
 59	Luhk§chana
 59	úwähtu
+57	Dweh§úel
 57	kad
 57	Úirrds
 57	weenu
 56	dohd
-56	Dweh§úel
 55	tawa
 54	mannas
 54	mans
@@ -82,8 +82,8 @@ Vârdlietojumu skaits:	22443
 40	preek§ch
 39	Tu
 39	wi§úas
+38	tam
 37	Chri§ti
-37	tam
 36	pallied§i
 35	Wahrdu
 34	mu§chige
@@ -113,9 +113,10 @@ Vârdlietojumu skaits:	22443
 27	Bett
 27	Deewu
 27	kas
+27	labbu
 27	mu§chigu
 27	úackama
-26	labbu
+26	Es
 25	Chri§tum
 25	Dählu
 25	ko
@@ -123,7 +124,6 @@ Vârdlietojumu skaits:	22443
 24	atkal
 24	beß
 24	Dähla
-24	Es
 24	manneem
 24	nu
 24	úwähts
@@ -186,6 +186,7 @@ Vârdlietojumu skaits:	22443
 16	§chäliegs
 16	Spähku
 16	tapt
+16	tawus
 16	u~d
 15	A§úin
 15	Dähls
@@ -194,8 +195,8 @@ Vârdlietojumu skaits:	22443
 15	manno
 15	O
 15	§chas
+15	Ta
 15	Tähwu
-15	tawus
 15	warram
 15	wi§úo
 14	Ai§to
@@ -209,7 +210,6 @@ Vârdlietojumu skaits:	22443
 14	Patteitziba
 14	patz
 14	§cheitan
-14	Ta
 14	touwa
 13	atkall
 13	dewwiß
@@ -270,6 +270,7 @@ Vârdlietojumu skaits:	22443
 11	töwim
 11	Triadiba
 11	Zillwähkeem
+10	appack§chan
 10	A
 10	biyis
 10	darriyis
@@ -302,7 +303,6 @@ Vârdlietojumu skaits:	22443
 10	Wahrdeem
 10	waldi
 10	wings
-9	appack§chan
 9	Atzeem
 9	darrieht
 9	Debbe§úu
@@ -314,6 +314,7 @@ Vârdlietojumu skaits:	22443
 9	ih§täns
 9	itt
 9	Je§u
+9	joprojam
 9	kattrus
 9	ïohte
 9	mannahs
@@ -329,15 +330,16 @@ Vârdlietojumu skaits:	22443
 9	Töw
 9	turplikam
 9	Und
+9	Zaur
 8	A§úini
 8	Bährnus
 8	by
 8	Darrbeem
 8	Darrbu
 8	eß
+8	gribbi
 8	i§pe§tiyis
 8	jem
-8	joprojam
 8	kahda
 8	kattram
 8	leeku
@@ -386,13 +388,13 @@ Vârdlietojumu skaits:	22443
 7	Ghallu
 7	Ghallwu
 7	ghribbam
-7	gribbi
 7	Ja
 7	jaunu
 7	Kad
 7	Könings
 7	Kru§tu
 7	Labbumu
+7	Laid
 7	Laipniegs
 7	Leetas
 7	Leetz
@@ -436,7 +438,6 @@ Vârdlietojumu skaits:	22443
 7	wi§úa
 7	wi§úadu
 7	wi§úi
-7	Zaur
 7	Zillwähka
 6	Bährni
 6	darra
@@ -457,7 +458,6 @@ Vârdlietojumu skaits:	22443
 6	kahds
 6	Kalpu
 6	labbas
-6	Laid
 6	Laix
 6	Ïaudeem
 6	mannam
@@ -470,6 +470,7 @@ Vârdlietojumu skaits:	22443
 6	Muh§úas
 6	Mutte
 6	Muttes
+6	nabbaggam
 6	nabbaggeem
 6	nahku
 6	nicknu
@@ -516,6 +517,7 @@ Vârdlietojumu skaits:	22443
 5	Bährneem
 5	buhtu
 5	butu
+5	dahrgu
 5	Darbeem
 5	Debbes
 5	Debbe§úigu
@@ -532,9 +534,11 @@ Vârdlietojumu skaits:	22443
 5	ghräkoiyis
 5	ghräkoju§chi
 5	ghribbotz
+5	glahb
 5	ih§täna
 5	iten
 5	Jeru§alem
+5	Ka
 5	kluh§t
 5	Kru§úu
 5	lab
@@ -547,7 +551,6 @@ Vârdlietojumu skaits:	22443
 5	mieïu
 5	Mirr§chanas
 5	mirrt
-5	nabbaggam
 5	Nackties
 5	Nackty
 5	nhekahda
@@ -572,6 +575,7 @@ Vârdlietojumu skaits:	22443
 5	§chkie§tu
 5	Simeon
 5	§innu
+5	Úirds
 5	Úirrds=§chäliegs
 5	úwähteem
 5	§wehti
@@ -586,6 +590,7 @@ Vârdlietojumu skaits:	22443
 5	tee§cham
 5	Tee§úu
 5	turru
+5	waddi
 5	Wahrda
 5	Wahya
 5	weenigu
@@ -611,7 +616,6 @@ Vârdlietojumu skaits:	22443
 4	Barribu
 4	baryo
 4	brehtz
-4	dahrgu
 4	darghu
 4	Debbe§úo=Tähws
 4	Deenahs
@@ -632,13 +636,12 @@ Vârdlietojumu skaits:	22443
 4	Ghribbe§chan
 4	ghrute
 4	Ghuddribas
-4	glahb
 4	gribbotz
 4	ilghake
 4	illghe
+4	in
 4	i§pe§ti
 4	Jeb
-4	Ka
 4	kadu
 4	kalpo
 4	kaut
@@ -660,6 +663,8 @@ Vârdlietojumu skaits:	22443
 4	Luhk§chanas
 4	Luhk§chanu
 4	mahzi
+4	mann'
+4	mannahm
 4	Mathes
 4	Meera`
 4	meerige
@@ -711,7 +716,6 @@ Vârdlietojumu skaits:	22443
 4	§chim
 4	§chkie§te
 4	§inni
-4	Úirds
 4	Úirrds§chäla§tibas
 4	Úirrds§chäliegs
 4	§tahwe
@@ -725,6 +729,7 @@ Vârdlietojumu skaits:	22443
 4	teekams
 4	Teitan
 4	teitzam
+4	tew
 4	Thäws
 4	Titziba`
 4	tohpu
@@ -734,7 +739,6 @@ Vârdlietojumu skaits:	22443
 4	Tuwakam
 4	Uhdenni
 4	U§turri
-4	waddi
 4	währa
 4	Wahrgo§emme
 4	Waldi
@@ -826,7 +830,6 @@ Vârdlietojumu skaits:	22443
 3	ghullu
 3	gribbam
 3	ih§tännas
-3	in
 3	io
 3	ir
 3	i§dohtees
@@ -870,7 +873,6 @@ Vârdlietojumu skaits:	22443
 3	mahjo
 3	Mahzi
 3	Mai§es
-3	mannahm
 3	mannohs
 3	manns
 3	Manta
@@ -973,6 +975,7 @@ Vârdlietojumu skaits:	22443
 3	§pee§ch
 3	§taighaju
 3	§tarpan
+3	úuhti
 3	§wähta
 3	Úwähta
 3	úwähtam
@@ -989,7 +992,6 @@ Vârdlietojumu skaits:	22443
 3	tawahm
 3	Teick§chan
 3	teitan
-3	tew
 3	tho
 3	titz
 3	touwa`
@@ -1064,6 +1066,7 @@ Vârdlietojumu skaits:	22443
 2	Advent
 2	Ähkas
 2	Ähna
+2	Ak
 2	Älkonu
 2	Apdahweeni
 2	Ap§ohli§chanu
@@ -1091,6 +1094,7 @@ Vârdlietojumu skaits:	22443
 2	Baußleem
 2	Baußlu
 2	Beddre
+2	Behdahm
 2	bet
 2	Bittes
 2	Biya§chan
@@ -1271,6 +1275,7 @@ Vârdlietojumu skaits:	22443
 2	leelus
 2	Leetahs
 2	leetas
+2	Leez
 2	Lehniegs
 2	Lehnprahtibu
 2	Liexmibu
@@ -1278,6 +1283,7 @@ Vârdlietojumu skaits:	22443
 2	Lohzeekliß
 2	lugdams
 2	luhds
+2	luhd§os
 2	luhk§chana
 2	Luh§chana
 2	Luk§chana
@@ -1444,6 +1450,7 @@ Vârdlietojumu skaits:	22443
 2	pehdigahs
 2	pehts
 2	Pe§ti§chan
+2	Pe§tiúchann'
 2	Pe§ti§chanu
 2	pe§tu
 2	pilldi
@@ -1553,7 +1560,6 @@ Vârdlietojumu skaits:	22443
 2	Stundas
 2	Stundinja
 2	úuhd§u
-2	úuhti
 2	úwähtas
 2	Swähtedarritais
 2	Swähtibas
@@ -1618,6 +1624,7 @@ Vârdlietojumu skaits:	22443
 2	uhß
 2	und{nnd}
 2	us
+2	Us
 2	u§=turreiyis
 2	U§=turre§chan
 2	U§=turretais
@@ -1926,6 +1933,7 @@ Vârdlietojumu skaits:	22443
 1	atpirtzis
 1	atpirzis
 1	atpu§chanas=Deenu
+1	atra§t
 1	atrau
 1	atre
 1	atrrohd
@@ -2045,7 +2053,6 @@ Vârdlietojumu skaits:	22443
 1	Ai§brauck§chanas
 1	Aißbrauck§chanas
 1	Aitzena§chanas
-1	Ak
 1	AK
 1	Alghahd§cheem
 1	Älka=Deewi{Alka=Deewi}
@@ -2222,7 +2229,6 @@ Vârdlietojumu skaits:	22443
 1	Baußly
 1	Beddri
 1	bee§e
-1	Behdahm
 1	behd§e
 1	beickt
 1	beigt
@@ -2259,6 +2265,7 @@ Vârdlietojumu skaits:	22443
 1	blähdighas
 1	Blehdibahm
 1	blehdiegs
+1	Blehdiß
 1	Blehnjeem
 1	Boja§chan
 1	Brahïeem
@@ -2472,6 +2479,7 @@ Vârdlietojumu skaits:	22443
 1	Druwas
 1	D§änn
 1	DSeedaht
+1	d§eedeh
 1	d§eedenati
 1	d§eedinaht
 1	D§eewibas
@@ -2492,6 +2500,7 @@ Vârdlietojumu skaits:	22443
 1	d§iewodami
 1	d§iewoh§úim
 1	D§iewo§chanas
+1	D§iewo§chann'
 1	d§iewoyam
 1	d§iïïahke
 1	d§iïïe
@@ -2692,6 +2701,7 @@ Vârdlietojumu skaits:	22443
 1	Gai§chums
 1	gallu
 1	Garrs
+1	Garru
 1	gattauws
 1	gattaws
 1	gattawu
@@ -2824,6 +2834,7 @@ Vârdlietojumu skaits:	22443
 1	glahbi
 1	Gluh§chi
 1	Godiò§ch
+1	Gohd'
 1	gohdaju
 1	Gomorha
 1	Gomorrha
@@ -2836,6 +2847,7 @@ Vârdlietojumu skaits:	22443
 1	gree§chas
 1	Gree§chas
 1	gree§ees
+1	Grehku=wain'
 1	greh§tees
 1	Grehtzeneekam
 1	Greks
@@ -3139,8 +3151,8 @@ Vârdlietojumu skaits:	22443
 1	Klau§úiyu§chi
 1	Kleek§chan
 1	Klehpi
+1	Klehpy'
 1	Klehtes
-1	Klehtitzis
 1	Kluhp§chanas
 1	kïuh§t
 1	kïuh§tu
@@ -3254,6 +3266,7 @@ Vârdlietojumu skaits:	22443
 1	Laweem
 1	Lawiß
 1	Lazari
+1	Lazaro
 1	leeds
 1	leehlu
 1	Leek
@@ -3289,7 +3302,6 @@ Vârdlietojumu skaits:	22443
 1	Leetu
 1	Ïeetus
 1	leez
-1	Leez
 1	leezees
 1	Leezees
 1	Leezibu
@@ -3333,7 +3345,6 @@ Vârdlietojumu skaits:	22443
 1	luhd§at
 1	luhd§e
 1	luhd§i
-1	luhd§os
 1	luhgdami
 1	luhgdams
 1	luhgu§chi
@@ -3408,6 +3419,7 @@ Vârdlietojumu skaits:	22443
 1	Meera=Luhk§ch
 1	meerigas
 1	meeru
+1	Meeú'
 1	Mee§úa`
 1	Mee§úaas
 1	Mee§§as
@@ -3593,6 +3605,7 @@ Vârdlietojumu skaits:	22443
 1	ned§eris
 1	neh§pähju
 1	Nehtaißnibas
+1	Nekahdo^s
 1	Nellaim
 1	Nellaim{Neïïaim}
 1	nes
@@ -3736,6 +3749,7 @@ Vârdlietojumu skaits:	22443
 1	no=§chähloht
 1	No=§kummu§chus
 1	no=tickt
+1	no=titzis
 1	Noae
 1	nobahleiyu§chees
 1	nobrauk§chan
@@ -3857,7 +3871,6 @@ Vârdlietojumu skaits:	22443
 1	Packlau§úi§chanas
 1	packlau§úiyis
 1	Packräßlibu
-1	pack§chan}
 1	Pad=debbe§úes
 1	Pad=debbe§úies
 1	Paddarri
@@ -3927,6 +3940,7 @@ Vârdlietojumu skaits:	22443
 1	pakriettu
 1	paku§tatees
 1	Palau§chana
+1	palieds
 1	palied§ejs
 1	pallaidu§chees
 1	pallai§chamees
@@ -3944,6 +3958,7 @@ Vârdlietojumu skaits:	22443
 1	pallohzieht
 1	pallohziteem
 1	pame§t
+1	pamett
 1	pammahzi
 1	pammodeni
 1	pammodini
@@ -4054,6 +4069,7 @@ Vârdlietojumu skaits:	22443
 1	pattzmittus
 1	paw=wehlam
 1	pawaddis
+1	pawehï'
 1	pawehlam
 1	pawehïos
 1	Pawehlo§chanu
@@ -4652,6 +4668,7 @@ Vârdlietojumu skaits:	22443
 1	ÚJrrds§chäliegs
 1	§kaidre
 1	§kaidreem
+1	§kaidru
 1	§kaitieht
 1	§kan
 1	§kattahs
@@ -5021,7 +5038,6 @@ Vârdlietojumu skaits:	22443
 1	upperu
 1	Uppes
 1	urbu§chas
-1	Us
 1	uß=aud§enaju§úi
 1	u§=augh
 1	u§=bildenaht
@@ -5054,6 +5070,7 @@ Vârdlietojumu skaits:	22443
 1	u§=zehlis
 1	ußaud§enati
 1	Ußbruhk§chan
+1	usdrohúchinat
 1	ußeet
 1	ußjämmu
 1	u§jehmis
@@ -5138,6 +5155,7 @@ Vârdlietojumu skaits:	22443
 1	Waideeneekus
 1	Waideneekeem
 1	Waidneekeem
+1	Waido^s
 1	Waidu
 1	waigha
 1	Waigs
@@ -5246,6 +5264,7 @@ Vârdlietojumu skaits:	22443
 1	Weh§tu
 1	Wehtru
 1	Wehyeem
+1	Welna
 1	Welns
 1	welte
 1	Wenaidiba

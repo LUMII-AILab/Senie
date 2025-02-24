@@ -1,5 +1,5 @@
-Vârdformu skaits:	696
-Vârdlietojumu skaits:	1680
+Vârdformu skaits:	698
+Vârdlietojumu skaits:	1686
 
 
 ais§tahweht
@@ -61,7 +61,7 @@ amen
 	1 UKG1696 4.lpp. 10.r.
 	1 UKG1696 7.lpp. 15.r.
 	2 UKG1696 13.lpp. 5.r.
-	1 UKG1696 16.lpp. 13.r.
+	1 UKG1696 16.lpp. 14.r.
 	-----
 	6
 
@@ -97,6 +97,13 @@ apgrehzibu
 apgruhtinaju§chi
 
 	1 UKG1696 2.lpp. 11.r.
+	-----
+	1
+
+
+apkaunaht
+
+	1 UKG1696 16.lpp. 12.r.
 	-----
 	1
 
@@ -529,6 +536,13 @@ bi§kopus
 	1
 
 
+blehdib'
+
+	1 UKG1696 16.lpp. 12.r.
+	-----
+	1
+
+
 breeúmigu
 
 	1 UKG1696 11.lpp. 9.r.
@@ -689,7 +703,7 @@ debbes=brauk§chanu
 
 debbes=draud§ibas
 
-	1 UKG1696 16.lpp. 12.r.
+	1 UKG1696 16.lpp. 13.r.
 	-----
 	1
 
@@ -1032,7 +1046,7 @@ dwehúel
 
 	1 UKG1696 15.lpp. 11.r.
 	1 UKG1696 15.lpp. 24.r.
-	1 UKG1696 16.lpp. 12.r.
+	1 UKG1696 16.lpp. 13.r.
 	-----
 	3
 
@@ -1054,7 +1068,7 @@ dwehúeles
 
 eekúch
 
-	1 UKG1696 16.lpp. 12.r.
+	1 UKG1696 16.lpp. 13.r.
 	-----
 	1
 
@@ -1146,7 +1160,7 @@ ee§tipprini
 
 eewaddiht
 
-	1 UKG1696 16.lpp. 12.r.
+	1 UKG1696 16.lpp. 13.r.
 	-----
 	1
 
@@ -2551,8 +2565,9 @@ mannu
 	1 UKG1696 14.lpp. 25.r.
 	1 UKG1696 15.lpp. 11.r.
 	1 UKG1696 16.lpp. 6.r.
+	1 UKG1696 16.lpp. 12.r.
 	-----
-	6
+	7
 
 
 mannus
@@ -4413,8 +4428,9 @@ ta
 	1 UKG1696 14.lpp. 21.r.
 	1 UKG1696 14.lpp. 25.r.
 	1 UKG1696 15.lpp. 4.r.
+	1 UKG1696 16.lpp. 12.r.
 	-----
-	12
+	13
 
 
 ta´
@@ -4594,7 +4610,7 @@ tawas
 	1 UKG1696 14.lpp. 3.r.
 	1 UKG1696 14.lpp. 4.r.
 	1 UKG1696 16.lpp. 5.r.
-	1 UKG1696 16.lpp. 12.r.
+	1 UKG1696 16.lpp. 13.r.
 	-----
 	14
 
@@ -5032,8 +5048,9 @@ un
 	1 UKG1696 15.lpp. 24.r.
 	1 UKG1696 16.lpp. 1.r.
 	1 UKG1696 16.lpp. 10.r.
+	1 UKG1696 16.lpp. 12.r.
 	-----
-	146
+	147
 
 
 un{}
@@ -5373,8 +5390,9 @@ weenteeúiba
 welna
 
 	1 UKG1696 8.lpp. 14.r.
+	1 UKG1696 16.lpp. 12.r.
 	-----
-	1
+	2
 
 
 welnu

@@ -356,6 +356,7 @@ mirúchan'
 tzekan'
 úahrkan'
 man'
+addaman'
 bannan'
 úapran'
 bruhtes=dahwan'
@@ -830,8 +831,7 @@ karº'
 warº'
 ìarº'
 x2
-parh=
-no=
+nhe=
 ap=
 rohkas=
 apmahzis=
@@ -880,6 +880,8 @@ zella`
 kattla`
 kaula`
 muììura=kaula`
+kräh§la`
+pa=kräh§la`
 seema`
 ohma`
 namma`
@@ -987,7 +989,6 @@ tahba
 truhba
 tuhba
 raiba
-biba
 labbiba
 raddiba
 ìaddiba
@@ -1049,8 +1050,8 @@ bree§miba
 lieg§miba
 gai§miba
 du§miba
-niba
 lähniba
+nopelniba
 leimanniba
 ìanniba
 d§inniba
@@ -1271,6 +1272,7 @@ li§da
 dagga
 magga
 ligga
+rihga
 d§el§=§tihga
 §taiga
 auìliga
@@ -1656,6 +1658,7 @@ uhsee§chana
 pee=zee§chana
 ißee§chana
 me§chana
+uhsaug§chana
 jah§chana
 klah§chana
 dawanah§chana
@@ -1854,6 +1857,7 @@ deldä§chana
 d§emdä§chana
 draudä§chana
 deedelä§chana
+kurrnä§chana
 kawä§chana
 bruhwä§chana
 katzä§chana
@@ -2064,6 +2068,7 @@ no=úlohdiúchana
 ap=mähdiúchana
 úmaidiúchana
 noraidiúchana
+úwaidiúchana
 ìaidiúchana
 skaldiúchana
 waldiúchana
@@ -2421,6 +2426,7 @@ zauna
 ïauna
 deììuna
 uììuna
+ee§na
 tee§na
 nhe=tee§na
 wälläna
@@ -2621,6 +2627,7 @@ putta
 jauta
 pa=jauta
 ee=mauta
+pauta
 tauta
 plexta
 ohxta
@@ -2916,6 +2923,7 @@ strebb
 gribb
 ìribb
 jeb
+drähb
 dahrb
 ìährb
 c
@@ -3266,6 +3274,7 @@ sahpe
 nagga=§ahpe
 úahpe
 guh§cha=úahpe
+naììa=úahpe
 ìalwas=úahpe
 knohpe
 patappe
@@ -3562,6 +3571,7 @@ degg
 la§ming
 wing
 aug
+''raug
 h
 ah
 jah
@@ -3971,6 +3981,7 @@ nomohi
 kalpohi
 lihìohi
 alìohi
+eena§hi
 eegilbähi
 d§irdähi
 iß=li§chkähi
@@ -3988,6 +3999,7 @@ nored§ähi
 lihd§ähi
 warºähi
 pirmaji
+kannepeji
 atìahji
 wähji
 rupji
@@ -4122,6 +4134,7 @@ swihni
 skuhni
 ackmini
 appini
+bahrini
 retten=sackni
 melni
 pelni
@@ -4157,6 +4170,7 @@ plauxni
 krah§ni
 sebbähk§ni
 woi
+kanòepi
 lohpi
 bi§cho=trohpi
 klähpi
@@ -4194,6 +4208,7 @@ e§si
 mähne§si
 mai§si
 wi§si
+zi§si
 au§si
 laulati
 peets=úimbti
@@ -4434,6 +4449,7 @@ packal
 at=packal
 atpackal
 atkal
+admattal
 kohdel
 nhel
 sandbühel
@@ -4453,6 +4469,7 @@ sahl
 jahòa=sahl
 tahl
 úahl
+kihl
 dähl
 tadähl
 schähl
@@ -4482,11 +4499,13 @@ aul
 saul
 paúaul
 kneul
+apgul
 wi§s'=notul
 skuttul
 §chäl
 m
 pa=m
+ee=m
 at=m
 labbam
 baddam
@@ -4672,6 +4691,7 @@ peejem
 atjem
 reikem
 zaurem
+ìrem
 tahm
 kruhm
 ìribbim
@@ -4869,6 +4889,7 @@ d§enn
 iß=d§enn
 úenn
 nheúenn
+linn
 iß=minn
 eeminn
 peeminn
@@ -4903,6 +4924,7 @@ kungo
 ba§nihts'=kungo
 ba§nihzkungo
 úirgo
+ho
 scho
 §cho
 ga§pa§cho
@@ -5026,7 +5048,6 @@ turp
 saurup
 q
 r
-nhe=r
 ar
 paar
 wackar
@@ -5053,7 +5074,6 @@ notwähr
 ir
 gir
 nhe=gir
-i§swir
 ìir
 rakr
 arr
@@ -5371,7 +5391,6 @@ puppas
 wahrpas
 zährpas
 quäpas
-ras
 a§saras
 wa§saras
 pawa§saras
@@ -5380,6 +5399,7 @@ wa§§aras
 pawa§§aras
 skaidras
 wa§k=kahras
+tihras
 duhras
 úähras
 sweiras
@@ -5395,6 +5415,7 @@ tee§sas
 tah§sas
 bi§sas
 wi§sas
+zi§sas
 bu§sas
 atplähtu§sas
 wiúsas
@@ -5428,7 +5449,6 @@ zittas
 puttas
 úuttas
 tautas
-we§tas
 §chah§tas
 nai§tas
 wi§tas
@@ -5487,6 +5507,7 @@ stihìas
 ohìas
 besdeliìas
 be§deliìas
+kauniìas
 banìas
 tanìas
 linìas
@@ -5934,6 +5955,7 @@ uhs=úäh§tees
 nolai§tees
 úam~i§tees
 el§tees
+ìrem§tees
 blen§tees
 uhsblen§tees
 ißblen§tees
@@ -6100,6 +6122,7 @@ kährnes
 peedurtnes
 putnes
 peepes
+seepes
 úinnepes
 úahn'=§ahpes
 úirdis=§ahpes
@@ -6191,6 +6214,8 @@ struttes
 pahxtes
 úirn=pahxtes
 rihxtes
+bahrxtes
+bärxtes
 plauxtes
 a§tes
 lihk§tes
@@ -6281,6 +6306,7 @@ bes=kaunigs
 úahpigs
 zaur=úahpigs
 mährigs
+nhe=mährigs
 wiltigs
 peekrittigs
 nai§tigs
@@ -6822,7 +6848,7 @@ d§ähreis
 barreis
 uhs=warreis
 zerreis
-turreis
+sahlo=turreis
 uhs=turreis
 nam~=turreis
 taureis
@@ -7075,7 +7101,6 @@ e§elis
 ähr§elis
 keeìelis
 speeìelis
-glis
 saglis
 selta=§aglis
 dagglis
@@ -7097,6 +7122,7 @@ kuilis
 t§chaklis
 driaklis
 acklis
+t§chacklis
 kacklis
 pa=kacklis
 ap=kacklis
@@ -7399,10 +7425,11 @@ bendris
 schebberis
 skrohderis
 dahlderis
-dahljuckum=dahlderis
+juckum=dahlderis
 pilderis
 bickeris
 únickeris
+äpteekeris
 maukeris
 pieleris
 cantzleris
@@ -7525,8 +7552,8 @@ at=plähtis
 nacktis
 salktis
 úalktis
-kaltis
 pee=kaltis
+iß=kaltis
 úakaltis
 ißkaltis
 iltis
@@ -7958,7 +7985,6 @@ selta=gabbals
 dui=ahrtauì=gabbals
 ìabbals
 maitas=ìabbals
-mals
 waddmals
 t§chaumals
 pauta=t§chaumals
@@ -8413,6 +8439,7 @@ jaukums
 eejaukums
 iß=plaukums
 braukums
+uhs=braukums
 nobraukums
 taukums
 úaukums
@@ -8520,6 +8547,7 @@ mai§es=miextums
 schkih§tums
 nhe=§chkih§tums
 skai§tums
+miek§tums
 trihk§tums
 auk§tums
 kahr§tums
@@ -8748,6 +8776,7 @@ wirs=ackmins
 a§smins
 kuppins
 úneeg=kuppins
+bahrins
 au§trins
 a§sins
 ìaiditins
@@ -8771,6 +8800,7 @@ kalns
 úmilúcha=kalns
 wihna=kalns
 melns
+pelns
 nopelns
 welns
 uhden'=welns
@@ -9060,7 +9090,6 @@ rahmihts
 iß=rahmihts
 úammihts
 de§mihts
-denihts
 úährdenihts
 leetenihts
 pulk§tenihts
@@ -9273,6 +9302,7 @@ zettohrts
 t§ettohrts
 währts
 ißd§ährts
+no=§chkirts
 pirts
 kurrts
 kurts
@@ -9935,7 +9965,6 @@ apwaidaht
 úaswaidaht
 plundaht
 ißplundaht
-ais=§pundaht
 at=§pundaht
 ais§pundaht
 raudaht
@@ -10064,6 +10093,7 @@ pee=ahdinaht
 úarihdinaht
 úahrihdinaht
 ißrihdinaht
+sihdinaht
 pa=§ihdinaht
 pa§ihdinaht
 gohdinaht
@@ -10170,6 +10200,7 @@ perrinaht
 ee=wirrinaht
 uhs=wirrinaht
 uhswirrinaht
+i§swirrinaht
 kurrinaht
 murrinaht
 ee=murrinaht
@@ -10268,6 +10299,7 @@ ißded§inaht
 iß=lihd§inaht
 ißlihd§inaht
 spihd§inaht
+ais=mid§inaht
 úmid§inaht
 bund§inaht
 dahrd§inaht
@@ -10284,6 +10316,7 @@ ap=ìree§inaht
 kahr§inaht
 ma§§inaht
 pa=ma§§inaht
+we§§inaht
 pa=ih§§inaht
 no=ih§§inaht
 paih§§inaht
@@ -10408,7 +10441,7 @@ dihºaht
 no=dihºaht
 nodihºaht
 nacht
-deht
+iß=geldeht
 remdeht
 iht
 lohbiht
@@ -10845,6 +10878,7 @@ pahrìroh§iht
 lai§iht
 iß=lai§iht
 ìrai§iht
+ap=ìrai§iht
 tai§iht
 bohr§iht
 at§iht
@@ -10916,9 +10950,9 @@ iß=doht
 padoht
 eedoht
 peedoht
+§ihdoht
 úuhdoht
 ap=úuhdoht
-sihdidoht
 nodoht
 pahrdoht
 wahrdoht
@@ -10930,6 +10964,7 @@ ißdoht
 pulgoht
 pahrúirgoht
 waìgoht
+§choht
 wa§choht
 bree§choht
 ìräh§choht
@@ -11203,6 +11238,7 @@ löhdäht
 spidäht
 deldäht
 ißdeldäht
+geldäht
 peldäht
 iß=peldäht
 bildäht
@@ -11210,6 +11246,7 @@ at=bildäht
 atbildäht
 mulldäht
 remdäht
+ìremdäht
 d§emdäht
 eed§emdäht
 mandäht
@@ -11392,6 +11429,7 @@ tihräht
 peetihräht
 uhstihräht
 d§ihräht
+ohräht
 uhs§chkuhräht
 úmähräht
 peeúmähräht
@@ -11507,7 +11545,7 @@ sawäht
 §tawäht
 ap=§awäht
 no§awäht
-be§§atiìawäht
+ìawäht
 úasdeewäht
 §chahwäht
 pa=§chahwäht
@@ -11565,7 +11603,6 @@ nhe=uhstitzäht
 úawitzäht
 jauzäht
 eejauzäht
-d§äht
 waiad§äht
 red§äht
 zaure=red§äht
@@ -11777,6 +11814,7 @@ uhswahkt
 úahkt
 eeúahkt
 atúahkt
+dihkt
 ißdihkt
 lihkt
 úa=lihkt
@@ -11992,6 +12030,7 @@ nojemt
 pahrjemt
 uhsjemt
 aisjemt
+atjemt
 lemt
 no=lemt
 wemt
@@ -12318,9 +12357,10 @@ ißzee§t
 spie§t
 örgele§t
 me§t
+stahrpa=me§t
 ee=me§t
 pee=me§t
-stahrtahle=me§t
+tahle=me§t
 pretti=me§t
 ahs=me§t
 uhs=me§t
@@ -12394,6 +12434,7 @@ ißwih§t
 no=úwih§t
 iß=úwih§t
 apúwih§t
+§ih§t
 d§ih§t
 úa=d§ih§t
 joh§t
@@ -12598,7 +12639,9 @@ iß=§iht§t
 au§t
 eeau§t
 peeau§t
+gau§t
 ap=gau§t
+schau§t
 §chau§t
 pee§chau§t
 skau§t
@@ -12793,6 +12836,7 @@ buhtu
 sähtu
 úähtu
 chri§titu
+baltu
 úiltu
 mantu
 taptu
@@ -12851,6 +12895,7 @@ dew
 deew
 spittahï=indeew
 uhs=dahw
+§chahw
 pa§chkahw
 lahw
 stahw
@@ -12911,6 +12956,7 @@ ruhtz
 ºuhtz
 titz
 ja=titz
+maltz
 úmaltz
 weltz
 streich=holtz
@@ -12941,7 +12987,7 @@ d§elten'{d§eten'}
 ais=pahrn'{ais= pahrn'}
 diwi=de§mit'{diwi= de§mit'}
 joh§t'{wähdera=joh§t'}
-{*dahero komt:}
+ahs=jähm{ahs=,}
 ais=úmatzis{ais= =}
 nabbad§ib'{nabbad§ib'=}
 schähl'{schähl'=}
@@ -13177,6 +13223,7 @@ kohka=ìall{kohka=ìal_}
 pallte{pallt_}
 rihta`{rihka`}
 laika`{ka`}
+be§§atiba{be§§ati ba}
 atsklahjiba{ats=klahjiba}
 mittriba{mit triba}
 nauda{no§eìuma=nauda}
@@ -13186,7 +13233,7 @@ mui§cha{úohda=mui§cha}
 mui§cha{luhdes=mui§cha}
 mui§cha{úabeles=mui§cha}
 paìarrinaúchana{paìarrinaúcha}
-{ruddena=willa}
+willa{ruddena=willa}
 willa{seemas=willa}
 sprähìama{ìama}
 nowihúchana{nowihúcha na}
@@ -13383,6 +13430,7 @@ putnis{weentulis=putnis}
 kloh§teris{jumprawo=kloh§teris}
 sasúkai§tis{sas=úkai§tis}
 sihwis{sih= wis}
+siwis{si= wis}
 kurrwis{mai§es=kurrwis}
 ais=mahzis{ais= mahzis}
 ahs=úmatzis{ahs= = úmatzis}
@@ -13438,6 +13486,7 @@ pulk§tenihts{pultenihts}
 úallnihts{nihts}
 iß=mahzihts{labbe=ißmahzihts}
 kapähts{ka= pähts}
+parh=dents{pahdents}
 auts{kah§tawa=auts}
 preek§ch=rak§ts{preek§ch=ra rak§ts}
 ais=mir§ts{ahs= mir§ts}
@@ -13452,7 +13501,7 @@ ais=eet{ais= eet}
 ais=§kreet{ais= §kreet}
 ais=úeet{ais= úeet}
 iß=miet{miet}
-{ais= §pundaht}
+ais=§pundaht{ais= §pundaht}
 ais=jaht{ais= jaht}
 jaht{preek§cha=jaht}
 ais=klaht{ais= klaht}
@@ -13516,6 +13565,7 @@ ais=bähkt{ais=| bähkt}
 lähkt{keckatahs=lähkt}
 ais=§chnaukt{ais= §chnaukt}
 braukt{ißdewibahs=braukt}
+pee=zelt{pee zelt}
 pa=jemt{pa= jemt}
 ais=jemt{ais= jemt}
 at=jemt{at= jemt}
@@ -13544,11 +13594,11 @@ ahs=mir§§u{ahs= mir§§u}
 ais=mir§§u{ais= mir§§u}
 úaskïahw{úas=kïahw}
 pyrak§tiht{py}
-{}
 neddel'{}
 au§trin'{}
 durw'{}
 winì'{}
+sweineeka{}
 rihta{}
 nhe{}
 abbi{}
@@ -13609,7 +13659,6 @@ pu§
 meela§§
 klau§§
 pu§§
-´
 baß
 maß
 atraß

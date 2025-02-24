@@ -311,7 +311,6 @@ zilla
 kaula
 krehúla
 úkreedama
-úehdama
 úwehtidama
 t§chihkodama
 atrohnama
@@ -1050,6 +1049,7 @@ eúúi
 neúúi
 wiúúi
 duúúi
+j
 reebj
 ìehrbj
 eejahj
@@ -2904,12 +2904,11 @@ jauz
 aisbrauz
 lezz
 uslezz
-{úehdama=}
+úehdama{úehdama=}
 úkaidriba^{úaidriba^}
 deena^{deeòa^}
 leetas{leetaa}
 gahrdumi{ìahrdumi}
-{j}
 un{um}
 nakúniòas{uakúniòas}
 draugs{drangs}

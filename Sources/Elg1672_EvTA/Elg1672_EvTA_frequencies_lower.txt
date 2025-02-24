@@ -1,46 +1,46 @@
-V‚rdformu skaits:	6142
-V‚rdlietojumu skaits:	32156
+V‚rdformu skaits:	6133
+V‚rdlietojumu skaits:	32204
 
 
-1630	vnd
-1179	to
-608	tas
-562	ir
-532	es
-480	und
-462	ne
-447	no
-417	bet
-348	winﬂ
-348	ßaccia
-310	jesus
-298	te
-298	tems
+1635	vnd
+1181	to
+610	tas
+564	ir
+533	es
+482	und
+464	ne
+448	no
+418	bet
+350	ßaccia
+349	winﬂ
+311	jesus
+299	te
+299	tems
 288	te^
-278	ka
-275	tad
-268	ekﬂan
-263	vz
-246	man
+277	ka
+276	tad
+269	ekﬂan
+264	vz
+247	man
 242	pe
 237	a¥r
 228	tu
-214	bya
+217	bya
 213	ka¥
 211	iu^s
 203	ta
 201	kad
 183	kas
-179	iums
-179	par
+182	par
+181	iums
 168	ßaccia¥
 167	ßeuw
 150	teuw
-146	eßmu
-143	tam
+147	eßmu
+144	tam
 138	to^s
-136	te^ms
-133	ko
+137	te^ms
+134	ko
 123	s
 121	swaetu
 120	layku
@@ -51,11 +51,11 @@ V‚rdlietojumu skaits:	32156
 103	winia
 97	winiam
 96	ta¥
-94	kattri
-94	winiu
+95	kattri
+95	winiu
 93	aißto
 93	by
-92	kungs
+93	kungs
 88	ewangel
 87	tur
 86	paec
@@ -75,17 +75,17 @@ V‚rdlietojumu skaits:	32156
 53	eßßeti
 53	ia
 53	kur
+52	mums
 52	prekﬂan
+52	ßtarpa
 52	taews
 52	wena
 52	wyßsi
-51	mums
-51	ßtarpa
 51	wyßßu
 50	maes
+50	ßakka¥
 50	zemme
 49	gab
-49	ßakka¥
 49	taewu
 49	we^ns
 48	bya¥
@@ -121,9 +121,9 @@ V‚rdlietojumu skaits:	32156
 34	ka¥s
 34	manna
 33	wini^u
+32	a¥tkal
+32	bu^t
 32	dewa
-31	a¥tkal
-31	bu^t
 31	citti
 31	liaudis
 31	ßauwas
@@ -133,11 +133,11 @@ V‚rdlietojumu skaits:	32156
 30	ius
 30	ßaccidams
 30	tay
+29	gribbi
 28	aridzan
 28	cilwaeks
 28	dzimdenaia
 28	gaia
-28	gribbi
 28	iaeme
 28	maceklems
 28	raedzaeia
@@ -187,17 +187,17 @@ V‚rdlietojumu skaits:	32156
 20	kurrens
 20	paﬂu
 20	ro^kas
+20	ﬂa
 20	ßewa
 20	ßutyis
 20	walßtiba
-19	daelu
 19	dels
 19	ludzu
-19	ﬂa
 19	wa^rdu
 19	zinnam
 18	a¥ccis
 18	chrißtus
+18	daelu
 18	daewaets
 18	dews
 18	jo^di
@@ -251,6 +251,7 @@ V‚rdlietojumu skaits:	32156
 15	newaid
 15	pa
 15	pharißaeeri
+15	rakßtits
 15	runnaia
 15	tos
 15	wyddu
@@ -262,10 +263,11 @@ V‚rdlietojumu skaits:	32156
 14	ma^ceklems
 14	na^ca¥
 14	nomirris
-14	rakßtits
 14	ßauwa¥
 14	szis
 14	tapt
+14	winias
+14	wyßßa
 13	a¥wwis
 13	draebes
 13	eßßem
@@ -280,8 +282,6 @@ V‚rdlietojumu skaits:	32156
 13	ßaccits
 13	taewa
 13	tauwa¥
-13	winias
-13	wyßßa
 13	wyßßunotul
 13	zymes
 12	balxna
@@ -353,6 +353,7 @@ V‚rdlietojumu skaits:	32156
 10	brydi
 10	debbeßsis
 10	denas
+10	do^t
 10	dzert
 10	dzirdaeia
 10	ekam
@@ -372,6 +373,7 @@ V‚rdlietojumu skaits:	32156
 10	o^ters
 10	patti
 10	prophetu
+10	pylli
 10	raedzaeia¥
 10	raedzaet
 10	ßaccit
@@ -390,7 +392,6 @@ V‚rdlietojumu skaits:	32156
 9	de^nu
 9	dena
 9	do^mu
-9	do^t
 9	dwaeßel
 9	dzimdenaia¥
 9	et
@@ -406,7 +407,6 @@ V‚rdlietojumu skaits:	32156
 9	nakti
 9	newenu
 9	peteru
-9	pylli
 9	raedzaeiuﬂi
 9	ro^ka
 9	ßaccis
@@ -625,6 +625,7 @@ V‚rdlietojumu skaits:	32156
 6	waeccakems
 6	waelns
 6	waeßßels
+6	wallia
 6	walloda
 6	wel
 6	winia¥m
@@ -652,6 +653,7 @@ V‚rdlietojumu skaits:	32156
 5	caeccen
 5	cayphas
 5	celli^u
+5	cilwaeki
 5	cilweks
 5	citta
 5	cittems
@@ -750,11 +752,11 @@ V‚rdlietojumu skaits:	32156
 5	te`ms
 5	tem
 5	turrens
+5	tycciba¥
 5	tyklus
 5	vdenni
 5	waelnus
 5	wakkaraedeni
-5	wallia
 5	wardi
 5	wards
 5	wenpadeßmita
@@ -791,7 +793,6 @@ V‚rdlietojumu skaits:	32156
 4	celßes
 4	cilwaeka
 4	cilwaekam
-4	cilwaeki
 4	cittas
 4	da¥rria¥
 4	daelam
@@ -954,7 +955,6 @@ V‚rdlietojumu skaits:	32156
 4	tumpßiba¥
 4	turraeia
 4	turraet
-4	tycciba¥
 4	wa^rdus
 4	waeccaki
 4	waicaia¥
@@ -1013,6 +1013,7 @@ V‚rdlietojumu skaits:	32156
 3	baznicekungems
 3	beelzebub
 3	bikker
+3	bikkeru
 3	bißtaias
 3	brali^e
 3	brali^us
@@ -1116,6 +1117,7 @@ V‚rdlietojumu skaits:	32156
 3	ka^ds
 3	kaeningu
 3	kails
+3	kalpam
 3	kalpot
 3	kalpu
 3	kamer
@@ -1142,7 +1144,6 @@ V‚rdlietojumu skaits:	32156
 3	lels
 3	lia¥udis
 3	liauz¥o
-3	lpp
 3	lu^ko^t
 3	lu^kot
 3	ludzaet
@@ -1310,6 +1311,7 @@ V‚rdlietojumu skaits:	32156
 3	taißniba
 3	taißnibas
 3	taißnu
+3	talie
 3	tapti
 3	teßibas
 3	tikkuﬂ
@@ -1461,7 +1463,6 @@ V‚rdlietojumu skaits:	32156
 2	bedredraugi
 2	berni
 2	bikkeri
-2	bikkeru
 2	bißtas
 2	blaedis
 2	booz
@@ -1629,7 +1630,6 @@ V‚rdlietojumu skaits:	32156
 2	iuri
 2	iz
 2	janu
-2	je
 2	jeb
 2	jeremias
 2	jeßße
@@ -1659,7 +1659,6 @@ V‚rdlietojumu skaits:	32156
 2	kadu
 2	kailu
 2	kaiminus
-2	kalpam
 2	kalpoﬂana
 2	kapec
 2	kappa¥s
@@ -1736,6 +1735,7 @@ V‚rdlietojumu skaits:	32156
 2	macia
 2	maems
 2	maeru
+2	maettekla
 2	maia¥s
 2	maita
 2	maitas
@@ -2041,7 +2041,6 @@ V‚rdlietojumu skaits:	32156
 2	ßtiprs
 2	ßtunday
 2	sumnats
-2	sus
 2	ßutu
 2	ßwaeta
 2	ßwaetia
@@ -2064,7 +2063,6 @@ V‚rdlietojumu skaits:	32156
 2	taißnus
 2	tale^ns
 2	taliak
-2	talie
 2	tamer
 2	tappi
 2	tapßeta
@@ -2120,6 +2118,7 @@ V‚rdlietojumu skaits:	32156
 2	warraeta¥
 2	warreta
 2	we^ßi
+2	we^tas
 2	welt
 2	wenai
 2	wenpadeßmitta
@@ -2170,14 +2169,7 @@ V‚rdlietojumu skaits:	32156
 2	zweineki
 2	zydis
 2	zywi
-1	{;}
-1	{ }
-1	{daelu=}
-1	{der }
-1	{man}
-1	{moyßes}
-1	{mums}
-1	{to}
+1	&
 1	a¥b
 1	a¥bbas
 1	a¥bbedywi
@@ -2315,7 +2307,6 @@ V‚rdlietojumu skaits:	32156
 1	a¥ßtoni^edeßmittu
 1	a¥ßtoni^us
 1	a¥ßtoniedeßmitti
-1	a¥t
 1	a¥tbildaeßet
 1	a¥tbildaeta
 1	a¥tbilde
@@ -2729,6 +2720,7 @@ V‚rdlietojumu skaits:	32156
 1	bralius
 1	braly
 1	braukt
+1	breßmibas
 1	breßmiga
 1	bridi
 1	brini^gi
@@ -2829,6 +2821,7 @@ V‚rdlietojumu skaits:	32156
 1	cilwekus
 1	cirtummas
 1	citta¥s
+1	citta^da
 1	cittadu
 1	cittams
 1	cittur
@@ -2879,6 +2872,7 @@ V‚rdlietojumu skaits:	32156
 1	daegga
 1	daela
 1	daelems
+1	daelu{daelu=}
 1	daenet
 1	daerraet
 1	daeﬂenna
@@ -2893,7 +2887,7 @@ V‚rdlietojumu skaits:	32156
 1	dalliba
 1	dals
 1	daniels
-1	dar
+1	dar{der}ru
 1	daraita
 1	darbnekems
 1	darbo
@@ -3473,6 +3467,7 @@ V‚rdlietojumu skaits:	32156
 1	janie
 1	japﬂagan
 1	jarußalem
+1	je
 1	jechoniam
 1	jechonias
 1	jem
@@ -3560,7 +3555,6 @@ V‚rdlietojumu skaits:	32156
 1	kaiu{ka iu}
 1	kaklu
 1	kakto^s
-1	kal
 1	kalni
 1	kalpa
 1	kalpo^s
@@ -3604,7 +3598,6 @@ V‚rdlietojumu skaits:	32156
 1	karßtumu
 1	kartus
 1	kaﬂis
-1	katbet
 1	katrus
 1	kattars
 1	kattra¥m
@@ -3905,7 +3898,6 @@ V‚rdlietojumu skaits:	32156
 1	lyßania¥s
 1	lyt
 1	lytoßtratos
-1	ma
 1	ma¥cedams
 1	ma¥ces
 1	ma¥cias
@@ -3939,6 +3931,7 @@ V‚rdlietojumu skaits:	32156
 1	ma^te
 1	ma^tes
 1	ma^ti
+1	ma{man}ria
 1	macaeis
 1	macaeiu
 1	macaes
@@ -3967,7 +3960,6 @@ V‚rdlietojumu skaits:	32156
 1	maeßts
 1	maetta¥
 1	maettas
-1	maettekla
 1	maetteklu
 1	maez¥a¥
 1	maezdamis
@@ -4068,6 +4060,7 @@ V‚rdlietojumu skaits:	32156
 1	meklaeia¥
 1	mele
 1	mellodami
+1	melmeneßergigs
 1	melmenneßaergigu
 1	melmennußerdzigu
 1	melmenußaergigs
@@ -4120,8 +4113,8 @@ V‚rdlietojumu skaits:	32156
 1	mirtu
 1	mittaeiußa
 1	mo^citaiems
-1	moceiums
 1	mocenata¥
+1	mocenats
 1	modrigi
 1	moyßam
 1	moyßis
@@ -4778,6 +4771,7 @@ V‚rdlietojumu skaits:	32156
 1	pirma¥k
 1	pirmai
 1	pirmaiam
+1	pirmaka
 1	pirmaka¥
 1	pirmakai
 1	pirmay
@@ -4940,7 +4934,6 @@ V‚rdlietojumu skaits:	32156
 1	reize
 1	reminneﬂanna
 1	retti
-1	ria
 1	riccinaita
 1	ro^ka¥ms
 1	ro^kams
@@ -4948,7 +4941,6 @@ V‚rdlietojumu skaits:	32156
 1	roka¥s
 1	rokam
 1	romas
-1	ru
 1	runais
 1	runna¥ia¥
 1	runna¥s
@@ -5046,6 +5038,7 @@ V‚rdlietojumu skaits:	32156
 1	ßaiutta¥
 1	ßaka¥
 1	ßakalta¥
+1	ßakalti^s
 1	ßakampa¥
 1	ßakamptu
 1	ßakcia
@@ -5398,6 +5391,7 @@ V‚rdlietojumu skaits:	32156
 1	ßunniﬂi
 1	ßunny
 1	ﬂurp
+1	sus
 1	ßute
 1	ßuti
 1	sutia
@@ -5476,6 +5470,7 @@ V‚rdlietojumu skaits:	32156
 1	ta^du
 1	ta^dus
 1	ta^pa
+1	tada¥
 1	tada¥s
 1	tadaeli^a
 1	tadas
@@ -5568,9 +5563,9 @@ V‚rdlietojumu skaits:	32156
 1	tryßsimptu
 1	tudaelie
 1	tudelin{tu delin}
-1	tukkalpam
 1	tukﬂ
 1	tukﬂa¥
+1	tukﬂas
 1	tukﬂnas
 1	tukßnes
 1	tukﬂnes
@@ -5657,7 +5652,7 @@ V‚rdlietojumu skaits:	32156
 1	vdennitrauku
 1	vdenßaergigs
 1	vdenßkro^zas
-1	vdenwilbas
+1	vdenwilnems
 1	vn
 1	vndin
 1	vppaerae
@@ -5807,6 +5802,7 @@ V‚rdlietojumu skaits:	32156
 1	warraeia¥
 1	warraeßeta
 1	warraeta
+1	warranaeki
 1	warreia
 1	warrenas
 1	warreta¥
@@ -5827,7 +5823,6 @@ V‚rdlietojumu skaits:	32156
 1	we^ni
 1	we^ßibas
 1	we^tai
-1	we^tas
 1	weany
 1	wec
 1	wecca¥ki
@@ -5860,7 +5855,6 @@ V‚rdlietojumu skaits:	32156
 1	weta¥y
 1	wi^nio
 1	wi^niu
-1	wibi
 1	widdu
 1	wilcis
 1	wilka
@@ -6135,12 +6129,9 @@ V‚rdlietojumu skaits:	32156
 1	zweinekus
 1	zydenaiuﬂas
 1	zymas
-1	198
 1	2
 1	214
 1	25
 1	3
 1	5
 1	6
-1	84
-1	92

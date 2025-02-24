@@ -1,14 +1,14 @@
 Vârdformu skaits:	6327
-Vârdlietojumu skaits:	37535
+Vârdlietojumu skaits:	37554
 
 
 967	vnd
-887	to
+889	to
 781	mums
 751	gir
-620	ka
+621	ka
 577	no
-557	nhe
+558	nhe
 489	töw
 460	taß
 439	tu
@@ -16,7 +16,7 @@ Vârdlietojumu skaits:	37535
 367	und
 353	kungs
 348	tawu
-341	mehs
+342	mehs
 331	mann
 316	eek§chan
 303	par
@@ -26,10 +26,10 @@ Vârdlietojumu skaits:	37535
 237	es
 235	tas
 219	o
-197	zaur
+198	zaur
 192	úawu
 185	e§úi
-180	arr
+181	arr
 176	ar
 171	tee
 153	katters
@@ -114,11 +114,11 @@ Vârdlietojumu skaits:	37535
 57	labb
 57	lieds
 57	taws
+55	nahwu
 55	úwähtu
 55	wiß
 54	jeb
 54	leelu
-54	nahwu
 53	wi§úi
 52	ghräkus
 52	mee§úu
@@ -134,7 +134,7 @@ Vârdlietojumu skaits:	37535
 47	äßmu
 47	beß
 47	buhs
-46	schäla§tibu
+47	schäla§tibu
 46	úwähtz
 46	zeïïu
 45	jums
@@ -231,6 +231,7 @@ Vârdlietojumu skaits:	37535
 24	muh§úa
 24	§chäla§tibu
 24	úlawa
+23	d§iewoht
 23	ghräko
 23	labbe
 23	muh§úus
@@ -244,7 +245,6 @@ Vârdlietojumu skaits:	37535
 23	wehl
 22	bähdas
 22	d§iewibu
-22	d§iewoht
 22	gharram
 22	jährs
 22	jo
@@ -262,6 +262,7 @@ Vârdlietojumu skaits:	37535
 21	ih§tänu
 21	ïaunu
 21	parei§e
+21	úawa
 21	semme
 21	úwähtais
 21	tawa`
@@ -274,7 +275,6 @@ Vârdlietojumu skaits:	37535
 20	nheneeka
 20	pallickt
 20	palligu
-20	úawa
 20	teitzeeta
 20	wall§tibu
 20	wi§úeems
@@ -295,6 +295,7 @@ Vârdlietojumu skaits:	37535
 19	úaweem
 19	schäla§tibas
 19	§chodeen
+19	úwähta
 19	úwähtam
 19	tahdu
 19	tappis
@@ -310,7 +311,6 @@ Vârdlietojumu skaits:	37535
 18	noh§t
 18	pallied§eht
 18	§cheit
-18	úwähta
 18	wahrdam
 18	wall§tibas
 17	doht
@@ -526,6 +526,7 @@ Vârdlietojumu skaits:	37535
 9	draud§e
 9	d§iewo§chana
 9	d§iewo§chanas
+9	eeúakumu
 9	e§úeeta
 9	ghai§chums
 9	ghallam
@@ -566,8 +567,8 @@ Vârdlietojumu skaits:	37535
 8	draud§ibas
 8	d§eed
 8	d§eeßmu
-8	eeúakumu
 8	eya
+8	gharra
 8	i§úami§t
 8	jauns
 8	juh§úo
@@ -631,7 +632,6 @@ Vârdlietojumu skaits:	37535
 7	ghalla`
 7	ghalls
 7	ghallu
-7	gharra
 7	ghullu
 7	ih§täns
 7	iht
@@ -776,6 +776,7 @@ Vârdlietojumu skaits:	37535
 6	wahrda
 6	waigu
 6	war
+6	warrätu
 6	warri
 6	wedd
 6	weenaidibu
@@ -913,6 +914,7 @@ Vârdlietojumu skaits:	37535
 5	tudeïï
 5	turri
 5	tuwakam
+5	uhdeni
 5	un~
 5	upperi
 5	waddi
@@ -920,7 +922,7 @@ Vârdlietojumu skaits:	37535
 5	waideneex
 5	wainas
 5	warräns
-5	warrätu
+5	warrätam
 5	weeta`
 5	wiers
 5	willtigu
@@ -1155,7 +1157,6 @@ Vârdlietojumu skaits:	37535
 4	tracko
 4	truhxt
 4	ugguni
-4	uhdeni
 4	unde
 4	upperis
 4	vßeedt
@@ -1167,7 +1168,6 @@ Vârdlietojumu skaits:	37535
 4	waigs
 4	waina
 4	warrän
-4	warrätam
 4	wäßti
 4	wä§ts
 4	way
@@ -1442,6 +1442,7 @@ Vârdlietojumu skaits:	37535
 3	úahp
 3	úaim
 3	úalldais
+3	úalldu
 3	úamaita
 3	úamaitati
 3	úarrgaht
@@ -2170,7 +2171,6 @@ Vârdlietojumu skaits:	37535
 2	úalaus
 2	úalied§ena§chanu
 2	úalied§enayis
-2	úalldu
 2	úalldumu
 2	sältu
 2	sältz
@@ -2392,6 +2392,7 @@ Vârdlietojumu skaits:	37535
 2	zebaoth
 2	zebaoth{ze ba oth}
 2	zeenige
+2	zeenigha
 2	zeeniyu
 2	zee§ch
 2	zee§chu
@@ -3237,6 +3238,7 @@ Vârdlietojumu skaits:	37535
 1	d§immis
 1	d§irdeyu§chi
 1	d§irrdähtz
+1	d§irrdena
 1	d§irrdeya
 1	d§irrdeyis
 1	d§irru
@@ -4046,6 +4048,7 @@ Vârdlietojumu skaits:	37535
 1	leelais
 1	leelakahs
 1	leelakhas
+1	leelaku
 1	leeliba
 1	leelibu
 1	leeliteeß
@@ -4287,7 +4290,6 @@ Vârdlietojumu skaits:	37535
 1	moku
 1	mo§en
 1	mo§es
-1	mu}
 1	muhki
 1	muhko
 1	muhräta
@@ -4366,7 +4368,6 @@ Vârdlietojumu skaits:	37535
 1	nahkoh§ch
 1	nahkoh§chu
 1	nahk§chu
-1	nahwarrätu
 1	nahwe{nhawe}
 1	nahwehs
 1	nahwehß
@@ -6247,7 +6248,6 @@ Vârdlietojumu skaits:	37535
 1	zeenieth
 1	zeeniga
 1	zeenigam
-1	zeenigha
 1	zeenighe
 1	zeenigi
 1	zeenigs

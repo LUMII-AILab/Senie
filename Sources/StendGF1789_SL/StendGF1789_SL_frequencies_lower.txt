@@ -1,5 +1,5 @@
-Vârdformu skaits:	3051
-Vârdlietojumu skaits:	8698
+Vârdformu skaits:	3050
+Vârdlietojumu skaits:	8697
 
 
 298	un
@@ -993,8 +993,6 @@ Vârdlietojumu skaits:	8698
 2	51
 2	75
 2	77
-1	{j}
-1	{úehdama=}
 1	abbeem
 1	adweddam
 1	ahboïeem
@@ -1618,6 +1616,7 @@ Vârdlietojumu skaits:	8698
 1	iswelk
 1	iswe§ts
 1	iswilzis
+1	j
 1	ja=gull
 1	ja=zeeúch
 1	jahdami
@@ -2443,7 +2442,7 @@ Vârdlietojumu skaits:	8698
 1	úeewas=gohdu
 1	úeewiò'
 1	úeewiòu
-1	úehdama
+1	úehdama{úehdama=}
 1	úehj
 1	úehjas
 1	úehjumi

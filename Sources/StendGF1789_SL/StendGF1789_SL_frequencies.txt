@@ -1,5 +1,5 @@
-Vârdformu skaits:	3344
-Vârdlietojumu skaits:	8698
+Vârdformu skaits:	3343
+Vârdlietojumu skaits:	8697
 
 
 207	Un
@@ -1043,8 +1043,6 @@ Vârdlietojumu skaits:	8698
 2	51
 2	75
 2	77
-1	{j}
-1	{úehdama=}
 1	ahboïeem
 1	ahboïu
 1	ahtrak
@@ -1725,6 +1723,7 @@ Vârdlietojumu skaits:	8698
 1	isweeptees
 1	iswelk
 1	iswe§ts
+1	j
 1	Ja
 1	ja=gull
 1	ja=zeeúch
@@ -2688,7 +2687,7 @@ Vârdlietojumu skaits:	8698
 1	úeewiò'
 1	úeewiòu
 1	úeewu
-1	úehdama
+1	úehdama{úehdama=}
 1	úehj
 1	Úehjas
 1	úehju

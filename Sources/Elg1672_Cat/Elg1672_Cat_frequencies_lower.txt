@@ -1,5 +1,5 @@
-V‚rdformu skaits:	2207
-V‚rdlietojumu skaits:	7494
+V‚rdformu skaits:	2215
+V‚rdlietojumu skaits:	7510
 
 
 283	vnd
@@ -13,7 +13,7 @@ V‚rdlietojumu skaits:	7494
 82	ka
 82	mums
 78	kas
-67	par
+68	par
 60	bus
 60	ko
 58	a¥r
@@ -61,18 +61,18 @@ V‚rdlietojumu skaits:	7494
 18	ta¥
 18	wena
 18	wens
+18	1
+18	2
 17	chrißtus
 17	ludzam
 17	sakraments
 17	vz
-17	1
-17	2
+17	3
 16	darrit
 16	ja
 16	man
 16	wyßsi
 16	wyßßu
-16	3
 15	bes
 15	kad
 15	kur
@@ -85,9 +85,11 @@ V‚rdlietojumu skaits:	7494
 14	graeku
 14	mu^ßu
 14	nedz
+14	ßauwems
 14	ßauwu
 14	swaetu
 14	sweti
+14	tos
 14	wenu
 14	winia
 13	amen
@@ -96,7 +98,6 @@ V‚rdlietojumu skaits:	7494
 13	kattra
 13	neneku
 13	nu
-13	ßauwems
 13	ßirdi
 13	4
 12	debbeßßu
@@ -108,7 +109,6 @@ V‚rdlietojumu skaits:	7494
 11	pec
 11	taewu
 11	tay
-11	tos
 11	tur
 10	ab
 10	aißto
@@ -873,6 +873,7 @@ V‚rdlietojumu skaits:	7494
 1	a¥pßmeﬂana¥
 1	a¥pßpeﬂana¥
 1	a¥pßudzas
+1	a¥pterpt{a¥pterpt }
 1	a¥rigi
 1	a¥rlgu
 1	a¥ßsini
@@ -970,6 +971,7 @@ V‚rdlietojumu skaits:	7494
 1	ballo^z&u
 1	balloda
 1	bario
+1	bariot
 1	baußlas
 1	baznica¥kunga
 1	baznica¥kungs
@@ -986,6 +988,7 @@ V‚rdlietojumu skaits:	7494
 1	bikker
 1	bilde
 1	bildes
+1	braliems
 1	braliﬂka¥
 1	braliu
 1	breßmigas
@@ -1158,6 +1161,7 @@ V‚rdlietojumu skaits:	7494
 1	dzilliak
 1	dzilliumu
 1	dzirdeius
+1	dzirdena¥t
 1	dzißlems
 1	dziwiba¥
 1	dziwodams
@@ -1328,6 +1332,7 @@ V‚rdlietojumu skaits:	7494
 1	iu^ri
 1	iums
 1	iyzledzu
+1	izalkuﬂos
 1	izdallit
 1	izdomais
 1	izlagadaeis
@@ -1464,6 +1469,7 @@ V‚rdlietojumu skaits:	7494
 1	luceklems
 1	lucifer
 1	ludz
+1	ludza
 1	ludza^m
 1	ludzaet
 1	ludze
@@ -1572,6 +1578,7 @@ V‚rdlietojumu skaits:	7494
 1	nabbadzibas
 1	nabbaga
 1	nabbagu
+1	naggus
 1	naige
 1	nakuﬂi
 1	nakuﬂu
@@ -2171,6 +2178,7 @@ V‚rdlietojumu skaits:	7494
 1	yzdzißßuﬂu
 1	yze^t
 1	yzes
+1	yzka¥ltuﬂos
 1	yzkrißt
 1	yzkryta
 1	yzraedzetems

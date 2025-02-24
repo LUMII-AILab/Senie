@@ -1,5 +1,5 @@
-Vârdformu skaits:	1036
-Vârdlietojumu skaits:	2824
+Vârdformu skaits:	1037
+Vârdlietojumu skaits:	2829
 
 
 a
@@ -32,7 +32,7 @@ ais§tahweht
 
 ai§to
 
-	1 LPDD1704 10{0}.lpp. 63.r.
+	1 LPDD1704 12.lpp. 7.r.
 	-----
 	1
 
@@ -59,7 +59,7 @@ ak
 	1 LPDD1704 25{}.lpp. 2.r.
 	1 LPDD1704 25{}.lpp. 18.r.
 	1 LPDD1704 26{}.lpp. 14.r.
-	1 LPDD1704 27{}.lpp. 17.r.
+	1 LPDD1704 27{}.lpp. 18.r.
 	1 LPDD1704 28{}.lpp. 2.r.
 	-----
 	22
@@ -85,9 +85,9 @@ alloúchanas
 amen
 
 	1 LPDD1704 4.lpp. 14.r.
-	1 LPDD1704 4.lpp. 27.r.
+	1 LPDD1704 4.lpp. 28.r.
 	1 LPDD1704 9.lpp. 3.r.
-	1 LPDD1704 10{0}.lpp. 76.r.
+	1 LPDD1704 12.lpp. 20.r.
 	1 LPDD1704 13.lpp. 28.r.
 	1 LPDD1704 23.lpp. 15.r.
 	1 LPDD1704 23.lpp. 16.r.
@@ -272,9 +272,9 @@ ar
 	1 LPDD1704 26{}.lpp. 18.r.
 	1 LPDD1704 26{}.lpp. 21.r.
 	1 LPDD1704 26{}.lpp. 29.r.
-	1 LPDD1704 27{}.lpp. 18.r.
-	1 LPDD1704 27{}.lpp. 21.r.
+	1 LPDD1704 27{}.lpp. 19.r.
 	1 LPDD1704 27{}.lpp. 22.r.
+	1 LPDD1704 27{}.lpp. 23.r.
 	1 LPDD1704 28{}.lpp. 8.r.
 	1 LPDD1704 28{}.lpp. 14.r.
 	-----
@@ -283,7 +283,7 @@ ar
 
 ar{arta}
 
-	1 LPDD1704 10{0}.lpp. 66.r.
+	1 LPDD1704 12.lpp. 10.r.
 	-----
 	1
 
@@ -303,7 +303,7 @@ arrid§an
 	1 LPDD1704 8.lpp. 19.r.
 	1 LPDD1704 10{0}.lpp. 1.r.
 	1 LPDD1704 10{0}.lpp. 37.r.
-	1 LPDD1704 10{0}.lpp. 78.r.
+	1 LPDD1704 12.lpp. 22.r.
 	1 LPDD1704 14.lpp. 20.r.
 	1 LPDD1704 16.lpp. 10.r.
 	1 LPDD1704 17.lpp. 2.r.
@@ -311,7 +311,7 @@ arrid§an
 	1 LPDD1704 18.lpp. 11.r.
 	1 LPDD1704 25{}.lpp. 15.r.
 	1 LPDD1704 27{}.lpp. 12.r.
-	1 LPDD1704 27{}.lpp. 17.r.
+	1 LPDD1704 27{}.lpp. 18.r.
 	-----
 	15
 
@@ -340,7 +340,7 @@ aúúins=isleeúchanu
 
 atdabbujúchi
 
-	1 LPDD1704 10{0}.lpp. 69.r.
+	1 LPDD1704 12.lpp. 13.r.
 	-----
 	1
 
@@ -416,14 +416,14 @@ atraitni
 
 atra§tiòi
 
-	1 LPDD1704 27{}.lpp. 23.r.
+	1 LPDD1704 27{}.lpp. 24.r.
 	-----
 	1
 
 
 at§ih§t
 
-	1 LPDD1704 10{0}.lpp. 68.r.
+	1 LPDD1704 12.lpp. 12.r.
 	-----
 	1
 
@@ -458,7 +458,7 @@ augïus
 
 augúch=pehdu
 
-	1 LPDD1704 10{0}.lpp. 62.r.
+	1 LPDD1704 12.lpp. 6.r.
 	-----
 	1
 
@@ -836,7 +836,7 @@ chri§ti
 	1 LPDD1704 4.lpp. 12.r.
 	1 LPDD1704 5.lpp. 5.r.
 	1 LPDD1704 6.lpp. 20.r.
-	1 LPDD1704 10{0}.lpp. 74.r.
+	1 LPDD1704 12.lpp. 18.r.
 	1 LPDD1704 13.lpp. 27.r.
 	1 LPDD1704 14.lpp. 8.r.
 	1 LPDD1704 14.lpp. 14.r.
@@ -876,7 +876,7 @@ chri§titi
 chri§titu
 
 	1 LPDD1704 5.lpp. 22.r.
-	1 LPDD1704 10{0}.lpp. 80.r.
+	1 LPDD1704 12.lpp. 24.r.
 	1 LPDD1704 18.lpp. 9.r.
 	1 LPDD1704 20.lpp. 10.r.
 	-----
@@ -886,6 +886,13 @@ chri§titu
 chri§to
 
 	1 LPDD1704 2.lpp. 6.r.
+	-----
+	1
+
+
+chri§to{chr'i§to}
+
+	1 LPDD1704 4.lpp. 19.r.
 	-----
 	1
 
@@ -939,7 +946,7 @@ dahrgas
 dahrgu
 
 	1 LPDD1704 10{0}.lpp. 14.r.
-	1 LPDD1704 10{0}.lpp. 71.r.
+	1 LPDD1704 12.lpp. 15.r.
 	1 LPDD1704 13.lpp. 21.r.
 	-----
 	3
@@ -961,7 +968,7 @@ darbeem
 
 darbo^s
 
-	1 LPDD1704 10{0}.lpp. 57.r.
+	1 LPDD1704 12.lpp. 1.r.
 	1 LPDD1704 18.lpp. 10.r.
 	-----
 	2
@@ -1096,7 +1103,7 @@ deewa
 	1 LPDD1704 1.lpp. 5.r.
 	1 LPDD1704 1.lpp. 8.r.
 	1 LPDD1704 2.lpp. 7.r.
-	1 LPDD1704 10{0}.lpp. 81.r.
+	1 LPDD1704 12.lpp. 25.r.
 	1 LPDD1704 13.lpp. 2.r.
 	1 LPDD1704 13.lpp. 7.r.
 	1 LPDD1704 19.lpp. 12.r.
@@ -1111,7 +1118,7 @@ deewa
 
 deewa=bihjaúchanas
 
-	1 LPDD1704 4.lpp. 24.r.
+	1 LPDD1704 4.lpp. 25.r.
 	-----
 	1
 
@@ -1148,7 +1155,7 @@ deewam
 
 	1 LPDD1704 2.lpp. 10.r.
 	1 LPDD1704 3.lpp. 8.r.
-	1 LPDD1704 10{0}.lpp. 78.r.
+	1 LPDD1704 12.lpp. 22.r.
 	-----
 	3
 
@@ -1170,7 +1177,7 @@ deews
 	1 LPDD1704 8.lpp. 10.r.
 	1 LPDD1704 9.lpp. 8.r.
 	1 LPDD1704 10{0}.lpp. 54.r.
-	1 LPDD1704 10{0}.lpp. 63.r.
+	1 LPDD1704 12.lpp. 7.r.
 	1 LPDD1704 13.lpp. 15.r.
 	1 LPDD1704 14.lpp. 7.r.
 	1 LPDD1704 15.lpp. 14.r.
@@ -1199,7 +1206,7 @@ deews
 	1 LPDD1704 23.lpp. 1.r.
 	1 LPDD1704 23.lpp. 11.r.
 	1 LPDD1704 23.lpp. 14.r.
-	1 LPDD1704 27{}.lpp. 18.r.
+	1 LPDD1704 27{}.lpp. 19.r.
 	-----
 	38
 
@@ -1225,7 +1232,7 @@ dehla
 	1 LPDD1704 3.lpp. 21.r.
 	1 LPDD1704 5.lpp. 7.r.
 	1 LPDD1704 5.lpp. 10.r.
-	1 LPDD1704 10{0}.lpp. 74.r.
+	1 LPDD1704 12.lpp. 18.r.
 	1 LPDD1704 14.lpp. 10.r.
 	1 LPDD1704 14.lpp. 14.r.
 	-----
@@ -1304,7 +1311,7 @@ dohmaúchanahm
 
 doht
 
-	1 LPDD1704 4.lpp. 20.r.
+	1 LPDD1704 4.lpp. 21.r.
 	1 LPDD1704 20.lpp. 27.r.
 	1 LPDD1704 21.lpp. 6.r.
 	1 LPDD1704 21.lpp. 18.r.
@@ -1343,7 +1350,7 @@ draud§ibu
 	1 LPDD1704 5.lpp. 23.r.
 	1 LPDD1704 6.lpp. 21.r.
 	1 LPDD1704 10{0}.lpp. 17.r.
-	1 LPDD1704 10{0}.lpp. 81.r.
+	1 LPDD1704 12.lpp. 25.r.
 	1 LPDD1704 14.lpp. 25.r.
 	1 LPDD1704 15.lpp. 25.r.
 	1 LPDD1704 20.lpp. 11.r.
@@ -1431,7 +1438,7 @@ d§ihwo§chanas
 
 d§ihwoúchanu
 
-	1 LPDD1704 4.lpp. 23.r.
+	1 LPDD1704 4.lpp. 24.r.
 	1 LPDD1704 20.lpp. 18.r.
 	-----
 	2
@@ -1547,7 +1554,8 @@ eekúch
 	1 LPDD1704 2.lpp. 11.r.
 	1 LPDD1704 2.lpp. 27.r.
 	1 LPDD1704 3.lpp. 26.r.
-	1 LPDD1704 4.lpp. 24.r.
+	1 LPDD1704 4.lpp. 19.r.
+	1 LPDD1704 4.lpp. 25.r.
 	1 LPDD1704 5.lpp. 25.r.
 	1 LPDD1704 7.lpp. 8.r.
 	1 LPDD1704 7.lpp. 11.r.
@@ -1563,7 +1571,7 @@ eekúch
 	1 LPDD1704 20.lpp. 3.r.
 	1 LPDD1704 25{}.lpp. 13.r.
 	-----
-	20
+	21
 
 
 eelihgúmotees
@@ -1672,7 +1680,7 @@ eerohtúchus
 
 eeúahkam
 
-	1 LPDD1704 4.lpp. 23.r.
+	1 LPDD1704 4.lpp. 24.r.
 	-----
 	1
 
@@ -1747,7 +1755,7 @@ elkoòi
 
 eòìeïeem
 
-	1 LPDD1704 27{}.lpp. 19.r.
+	1 LPDD1704 27{}.lpp. 20.r.
 	-----
 	1
 
@@ -1795,7 +1803,7 @@ eúúi
 	1 LPDD1704 10{0}.lpp. 17.r.
 	1 LPDD1704 10{0}.lpp. 36.r.
 	1 LPDD1704 10{0}.lpp. 55.r.
-	1 LPDD1704 10{0}.lpp. 63.r.
+	1 LPDD1704 12.lpp. 7.r.
 	1 LPDD1704 15.lpp. 8.r.
 	1 LPDD1704 19.lpp. 6.r.
 	1 LPDD1704 19.lpp. 8.r.
@@ -1803,7 +1811,7 @@ eúúi
 	1 LPDD1704 25{}.lpp. 7.r.
 	1 LPDD1704 25{}.lpp. 15.r.
 	1 LPDD1704 25{}.lpp. 22.r.
-	1 LPDD1704 27{}.lpp. 25.r.
+	1 LPDD1704 27{}.lpp. 26.r.
 	1 LPDD1704 28{}.lpp. 2.r.
 	-----
 	17
@@ -1879,7 +1887,7 @@ gann
 
 garra
 
-	1 LPDD1704 4.lpp. 21.r.
+	1 LPDD1704 4.lpp. 22.r.
 	1 LPDD1704 5.lpp. 7.r.
 	1 LPDD1704 9.lpp. 2.r.
 	1 LPDD1704 13.lpp. 16.r.
@@ -2016,7 +2024,7 @@ gohda=ammats
 
 gohdibas
 
-	1 LPDD1704 4.lpp. 26.r.
+	1 LPDD1704 4.lpp. 27.r.
 	1 LPDD1704 7.lpp. 26.r.
 	-----
 	2
@@ -2095,7 +2103,7 @@ grehkus
 
 	1 LPDD1704 3.lpp. 4.r.
 	1 LPDD1704 4.lpp. 10.r.
-	1 LPDD1704 4.lpp. 19.r.
+	1 LPDD1704 4.lpp. 20.r.
 	1 LPDD1704 23.lpp. 3.r.
 	1 LPDD1704 23.lpp. 6.r.
 	1 LPDD1704 23.lpp. 8.r.
@@ -2169,7 +2177,7 @@ gribbi
 
 gruhd
 
-	1 LPDD1704 10{0}.lpp. 62.r.
+	1 LPDD1704 12.lpp. 6.r.
 	-----
 	1
 
@@ -2197,7 +2205,7 @@ gruhtu
 
 guberneer
 
-	1 LPDD1704 27{}.lpp. 19.r.
+	1 LPDD1704 27{}.lpp. 20.r.
 	-----
 	1
 
@@ -2219,7 +2227,7 @@ guddribas
 
 guddribu
 
-	1 LPDD1704 10{0}.lpp. 58.r.
+	1 LPDD1704 12.lpp. 2.r.
 	1 LPDD1704 15.lpp. 13.r.
 	-----
 	2
@@ -2249,7 +2257,7 @@ ihpats
 
 ih§tenajs
 
-	1 LPDD1704 10{0}.lpp. 64.r.
+	1 LPDD1704 12.lpp. 8.r.
 	-----
 	1
 
@@ -2334,7 +2342,7 @@ irr
 	1 LPDD1704 2.lpp. 23.r.
 	1 LPDD1704 4.lpp. 5.r.
 	1 LPDD1704 4.lpp. 17.r.
-	1 LPDD1704 10{0}.lpp. 61.r.
+	1 LPDD1704 12.lpp. 5.r.
 	1 LPDD1704 22.lpp. 2.r.
 	1 LPDD1704 22.lpp. 8.r.
 	1 LPDD1704 25{}.lpp. 11.r.
@@ -2380,7 +2388,7 @@ isgahjis
 
 isgahjuúchi
 
-	1 LPDD1704 27{}.lpp. 23.r.
+	1 LPDD1704 27{}.lpp. 24.r.
 	-----
 	1
 
@@ -2423,7 +2431,7 @@ isnihzina
 
 isnihzini
 
-	1 LPDD1704 10{0}.lpp. 57.r.
+	1 LPDD1704 12.lpp. 1.r.
 	-----
 	1
 
@@ -2466,7 +2474,7 @@ ja
 
 jauku
 
-	1 LPDD1704 10{0}.lpp. 69.r.
+	1 LPDD1704 12.lpp. 13.r.
 	-----
 	1
 
@@ -2482,8 +2490,8 @@ jauna
 jeb
 
 	2 LPDD1704 6.lpp. 11.r.
-	1 LPDD1704 10{0}.lpp. 82.r.
-	2 LPDD1704 10{0}.lpp. 83.r.
+	1 LPDD1704 12.lpp. 26.r.
+	2 LPDD1704 12.lpp. 27.r.
 	2 LPDD1704 15.lpp. 16.r.
 	-----
 	7
@@ -2508,7 +2516,7 @@ jell
 jesu
 
 	1 LPDD1704 5.lpp. 4.r.
-	1 LPDD1704 10{0}.lpp. 74.r.
+	1 LPDD1704 12.lpp. 18.r.
 	1 LPDD1704 14.lpp. 10.r.
 	-----
 	3
@@ -2518,12 +2526,13 @@ je§u
 
 	1 LPDD1704 3.lpp. 22.r.
 	1 LPDD1704 4.lpp. 12.r.
+	1 LPDD1704 4.lpp. 20.r.
 	1 LPDD1704 13.lpp. 27.r.
 	1 LPDD1704 14.lpp. 8.r.
 	1 LPDD1704 14.lpp. 14.r.
 	1 LPDD1704 22.lpp. 27.r.
 	-----
-	6
+	7
 
 
 je§um
@@ -2546,7 +2555,7 @@ jo
 
 	1 LPDD1704 3.lpp. 17.r.
 	1 LPDD1704 10{0}.lpp. 50.r.
-	1 LPDD1704 10{0}.lpp. 70.r.
+	1 LPDD1704 12.lpp. 14.r.
 	-----
 	3
 
@@ -2582,7 +2591,7 @@ ka
 	1 LPDD1704 3.lpp. 10.r.
 	1 LPDD1704 3.lpp. 21.r.
 	1 LPDD1704 4.lpp. 7.r.
-	1 LPDD1704 4.lpp. 21.r.
+	1 LPDD1704 4.lpp. 22.r.
 	1 LPDD1704 5.lpp. 24.r.
 	1 LPDD1704 6.lpp. 19.r.
 	1 LPDD1704 7.lpp. 10.r.
@@ -2592,9 +2601,9 @@ ka
 	1 LPDD1704 10{0}.lpp. 8.r.
 	1 LPDD1704 10{0}.lpp. 31.r.
 	1 LPDD1704 10{0}.lpp. 51.r.
-	1 LPDD1704 10{0}.lpp. 59.r.
-	1 LPDD1704 10{0}.lpp. 62.r.
-	1 LPDD1704 10{0}.lpp. 67.r.
+	1 LPDD1704 12.lpp. 3.r.
+	1 LPDD1704 12.lpp. 6.r.
+	1 LPDD1704 12.lpp. 11.r.
 	1 LPDD1704 13.lpp. 12.r.
 	1 LPDD1704 13.lpp. 20.r.
 	1 LPDD1704 13.lpp. 24.r.
@@ -2622,7 +2631,7 @@ ka
 ka´
 
 	1 LPDD1704 8.lpp. 5.r.
-	1 LPDD1704 27{}.lpp. 24.r.
+	1 LPDD1704 27{}.lpp. 25.r.
 	-----
 	2
 
@@ -2751,7 +2760,7 @@ kaººa=luhgúchana
 
 kaººa=pulka^
 
-	1 LPDD1704 27{}.lpp. 23.r.
+	1 LPDD1704 27{}.lpp. 24.r.
 	-----
 	1
 
@@ -2765,7 +2774,7 @@ kaººa=spehkam
 
 karºa=spehku
 
-	1 LPDD1704 27{}.lpp. 15.r.
+	1 LPDD1704 27{}.lpp. 16.r.
 	-----
 	1
 
@@ -2781,7 +2790,7 @@ kaººa=spehku
 
 kaººa=wihrs
 
-	1 LPDD1704 10{0}.lpp. 64.r.
+	1 LPDD1704 12.lpp. 8.r.
 	-----
 	1
 
@@ -2803,7 +2812,7 @@ kaººu
 
 kaººu=spehku
 
-	1 LPDD1704 27{}.lpp. 20.r.
+	1 LPDD1704 27{}.lpp. 21.r.
 	-----
 	1
 
@@ -2829,8 +2838,8 @@ kas
 	1 LPDD1704 10{0}.lpp. 3.r.
 	1 LPDD1704 10{0}.lpp. 25.r.
 	1 LPDD1704 10{0}.lpp. 55.r.
-	1 LPDD1704 10{0}.lpp. 68.r.
-	1 LPDD1704 10{0}.lpp. 82.r.
+	1 LPDD1704 12.lpp. 12.r.
+	1 LPDD1704 12.lpp. 26.r.
 	1 LPDD1704 13.lpp. 2.r.
 	1 LPDD1704 17.lpp. 14.r.
 	1 LPDD1704 18.lpp. 16.r.
@@ -2841,7 +2850,7 @@ kas
 	1 LPDD1704 25{}.lpp. 4.r.
 	1 LPDD1704 26{}.lpp. 7.r.
 	1 LPDD1704 27{}.lpp. 2.r.
-	1 LPDD1704 27{}.lpp. 22.r.
+	1 LPDD1704 27{}.lpp. 23.r.
 	-----
 	24
 
@@ -2877,7 +2886,7 @@ kattra
 
 kauji
 
-	1 LPDD1704 10{0}.lpp. 66.r.
+	1 LPDD1704 12.lpp. 10.r.
 	-----
 	1
 
@@ -2906,8 +2915,9 @@ kautees
 íehniòa
 
 	1 LPDD1704 21.lpp. 12.r.
+	1 LPDD1704 27{}.lpp. 15.r.
 	-----
-	1
+	2
 
 
 íehniòa=behrnus
@@ -3013,7 +3023,7 @@ kautees
 
 	1 LPDD1704 13.lpp. 9.r.
 	1 LPDD1704 16.lpp. 21.r.
-	1 LPDD1704 27{}.lpp. 19.r.
+	1 LPDD1704 27{}.lpp. 20.r.
 	-----
 	3
 
@@ -3034,7 +3044,7 @@ klahtees
 
 klaht§tahwejs
 
-	1 LPDD1704 27{}.lpp. 25.r.
+	1 LPDD1704 27{}.lpp. 26.r.
 	-----
 	1
 
@@ -3051,8 +3061,8 @@ ko
 	1 LPDD1704 4.lpp. 4.r.
 	1 LPDD1704 8.lpp. 12.r.
 	1 LPDD1704 10{0}.lpp. 37.r.
-	1 LPDD1704 10{0}.lpp. 61.r.
-	1 LPDD1704 10{0}.lpp. 65.r.
+	1 LPDD1704 12.lpp. 5.r.
+	1 LPDD1704 12.lpp. 9.r.
 	1 LPDD1704 14.lpp. 15.r.
 	1 LPDD1704 15.lpp. 7.r.
 	1 LPDD1704 17.lpp. 24.r.
@@ -3071,7 +3081,7 @@ kohpt
 
 kriht
 
-	1 LPDD1704 10{0}.lpp. 63.r.
+	1 LPDD1704 12.lpp. 7.r.
 	-----
 	1
 
@@ -3190,7 +3200,7 @@ kungu
 	1 LPDD1704 21.lpp. 22.r.
 	1 LPDD1704 21.lpp. 23.r.
 	1 LPDD1704 26{}.lpp. 6.r.
-	1 LPDD1704 27{}.lpp. 20.r.
+	1 LPDD1704 27{}.lpp. 21.r.
 	-----
 	9
 
@@ -3249,7 +3259,7 @@ labbad
 
 labbada
 
-	1 LPDD1704 10{0}.lpp. 76.r.
+	1 LPDD1704 12.lpp. 20.r.
 	1 LPDD1704 13.lpp. 28.r.
 	-----
 	2
@@ -3459,7 +3469,7 @@ laúúamas
 lauka^
 
 	1 LPDD1704 26{}.lpp. 7.r.
-	1 LPDD1704 27{}.lpp. 23.r.
+	1 LPDD1704 27{}.lpp. 24.r.
 	-----
 	2
 
@@ -3530,7 +3540,7 @@ leek
 
 leel=kunga
 
-	1 LPDD1704 10{0}.lpp. 75.r.
+	1 LPDD1704 12.lpp. 19.r.
 	-----
 	1
 
@@ -3616,6 +3626,13 @@ leez
 	2
 
 
+lehnibas
+
+	1 LPDD1704 4.lpp. 19.r.
+	-----
+	1
+
+
 lihds
 
 	1 LPDD1704 5.lpp. 27.r.
@@ -3629,8 +3646,8 @@ lihd§
 
 	1 LPDD1704 13.lpp. 5.r.
 	1 LPDD1704 16.lpp. 18.r.
-	1 LPDD1704 27{}.lpp. 22.r.
-	1 LPDD1704 27{}.lpp. 24.r.
+	1 LPDD1704 27{}.lpp. 23.r.
+	1 LPDD1704 27{}.lpp. 25.r.
 	-----
 	4
 
@@ -3659,14 +3676,13 @@ lohpus
 lpp
 
 	1 LPDD1704 10{0}.lpp. 27.r.
-	1 LPDD1704 10{0}.lpp. 56.r.
 	-----
-	2
+	1
 
 
 luhd§am
 
-	1 LPDD1704 10{0}.lpp. 73.r.
+	1 LPDD1704 12.lpp. 17.r.
 	1 LPDD1704 16.lpp. 18.r.
 	1 LPDD1704 20.lpp. 8.r.
 	-----
@@ -3696,7 +3712,14 @@ luhgs
 
 luhgúchana^
 
-	1 LPDD1704 10{0}.lpp. 79.r.
+	1 LPDD1704 12.lpp. 23.r.
+	-----
+	1
+
+
+luhgúchana{luhgúchana'}
+
+	1 LPDD1704 27{}.lpp. 15.r.
 	-----
 	1
 
@@ -3731,7 +3754,7 @@ mahzitajeem
 
 mahzitajo
 
-	1 LPDD1704 10{0}.lpp. 83.r.
+	1 LPDD1704 12.lpp. 27.r.
 	-----
 	1
 
@@ -3811,7 +3834,7 @@ ma§am
 
 meera
 
-	1 LPDD1704 10{0}.lpp. 75.r.
+	1 LPDD1704 12.lpp. 19.r.
 	-----
 	1
 
@@ -3847,7 +3870,7 @@ meers
 
 meeru
 
-	1 LPDD1704 10{0}.lpp. 69.r.
+	1 LPDD1704 12.lpp. 13.r.
 	1 LPDD1704 16.lpp. 3.r.
 	1 LPDD1704 21.lpp. 5.r.
 	1 LPDD1704 21.lpp. 15.r.
@@ -3901,7 +3924,7 @@ mehs
 
 	1 LPDD1704 2.lpp. 7.r.
 	1 LPDD1704 2.lpp. 17.r.
-	1 LPDD1704 4.lpp. 21.r.
+	1 LPDD1704 4.lpp. 22.r.
 	1 LPDD1704 5.lpp. 8.r.
 	1 LPDD1704 5.lpp. 24.r.
 	1 LPDD1704 8.lpp. 12.r.
@@ -3911,9 +3934,9 @@ mehs
 	1 LPDD1704 9.lpp. 19.r.
 	1 LPDD1704 10{0}.lpp. 3.r.
 	1 LPDD1704 10{0}.lpp. 37.r.
-	1 LPDD1704 10{0}.lpp. 69.r.
-	1 LPDD1704 10{0}.lpp. 73.r.
-	1 LPDD1704 10{0}.lpp. 78.r.
+	1 LPDD1704 12.lpp. 13.r.
+	1 LPDD1704 12.lpp. 17.r.
+	1 LPDD1704 12.lpp. 22.r.
 	1 LPDD1704 13.lpp. 22.r.
 	1 LPDD1704 14.lpp. 12.r.
 	1 LPDD1704 15.lpp. 1.r.
@@ -4010,7 +4033,7 @@ mihle§tibu
 
 mihletajo
 
-	1 LPDD1704 10{0}.lpp. 67.r.
+	1 LPDD1704 12.lpp. 11.r.
 	-----
 	1
 
@@ -4024,7 +4047,7 @@ mihïi
 
 mihïiga
 
-	1 LPDD1704 10{0}.lpp. 73.r.
+	1 LPDD1704 12.lpp. 17.r.
 	1 LPDD1704 13.lpp. 27.r.
 	-----
 	2
@@ -4119,13 +4142,14 @@ muhúa
 	1 LPDD1704 13.lpp. 27.r.
 	1 LPDD1704 16.lpp. 7.r.
 	1 LPDD1704 17.lpp. 18.r.
+	1 LPDD1704 27{}.lpp. 15.r.
 	-----
-	6
+	7
 
 
 muhúa^
 
-	1 LPDD1704 10{0}.lpp. 79.r.
+	1 LPDD1704 12.lpp. 23.r.
 	-----
 	1
 
@@ -4171,7 +4195,7 @@ muh§chigajs
 
 muh§chigas
 
-	1 LPDD1704 4.lpp. 25.r.
+	1 LPDD1704 4.lpp. 26.r.
 	1 LPDD1704 19.lpp. 22.r.
 	-----
 	2
@@ -4209,8 +4233,8 @@ muhúo
 	1 LPDD1704 10{0}.lpp. 10.r.
 	1 LPDD1704 10{0}.lpp. 15.r.
 	1 LPDD1704 10{0}.lpp. 42.r.
-	1 LPDD1704 10{0}.lpp. 59.r.
-	1 LPDD1704 10{0}.lpp. 63.r.
+	1 LPDD1704 12.lpp. 3.r.
+	1 LPDD1704 12.lpp. 7.r.
 	1 LPDD1704 18.lpp. 11.r.
 	-----
 	7
@@ -4233,14 +4257,14 @@ muhúu
 	1 LPDD1704 26{}.lpp. 5.r.
 	1 LPDD1704 26{}.lpp. 6.r.
 	1 LPDD1704 26{}.lpp. 15.r.
-	1 LPDD1704 27{}.lpp. 19.r.
+	1 LPDD1704 27{}.lpp. 20.r.
 	-----
 	16
 
 
 muhúus
 
-	1 LPDD1704 4.lpp. 19.r.
+	1 LPDD1704 4.lpp. 20.r.
 	1 LPDD1704 13.lpp. 12.r.
 	1 LPDD1704 21.lpp. 25.r.
 	1 LPDD1704 25{}.lpp. 19.r.
@@ -4438,8 +4462,8 @@ ne
 	1 LPDD1704 10{0}.lpp. 7.r.
 	1 LPDD1704 10{0}.lpp. 8.r.
 	1 LPDD1704 10{0}.lpp. 18.r.
-	1 LPDD1704 10{0}.lpp. 60.r.
-	1 LPDD1704 10{0}.lpp. 65.r.
+	1 LPDD1704 12.lpp. 4.r.
+	1 LPDD1704 12.lpp. 9.r.
 	1 LPDD1704 25{}.lpp. 9.r.
 	1 LPDD1704 25{}.lpp. 23.r.
 	-----
@@ -4467,7 +4491,7 @@ ne=§chehligeem
 	1
 
 
-neaptwerje§u
+neaptwerramas
 
 	1 LPDD1704 4.lpp. 18.r.
 	-----
@@ -4583,7 +4607,7 @@ neús
 
 neúúam
 
-	1 LPDD1704 10{0}.lpp. 78.r.
+	1 LPDD1704 12.lpp. 22.r.
 	-----
 	1
 
@@ -4623,13 +4647,6 @@ niknu
 	1
 
 
-niòa
-
-	1 LPDD1704 27{}.lpp. 15.r.
-	-----
-	1
-
-
 no
 
 	1 LPDD1704 2.lpp. 19.r.
@@ -4641,8 +4658,8 @@ no
 	2 LPDD1704 9.lpp. 12.r.
 	1 LPDD1704 10{0}.lpp. 20.r.
 	1 LPDD1704 10{0}.lpp. 38.r.
-	1 LPDD1704 10{0}.lpp. 82.r.
-	1 LPDD1704 10{0}.lpp. 83.r.
+	1 LPDD1704 12.lpp. 26.r.
+	1 LPDD1704 12.lpp. 27.r.
 	2 LPDD1704 13.lpp. 1.r.
 	1 LPDD1704 17.lpp. 13.r.
 	1 LPDD1704 17.lpp. 22.r.
@@ -4767,7 +4784,7 @@ pa
 
 pa=gallam
 
-	1 LPDD1704 10{0}.lpp. 60.r.
+	1 LPDD1704 12.lpp. 4.r.
 	-----
 	1
 
@@ -4978,7 +4995,7 @@ paligs
 
 paligu
 
-	1 LPDD1704 4.lpp. 22.r.
+	1 LPDD1704 4.lpp. 23.r.
 	-----
 	1
 
@@ -5016,7 +5033,7 @@ par
 	1 LPDD1704 8.lpp. 8.r.
 	1 LPDD1704 10{0}.lpp. 37.r.
 	1 LPDD1704 10{0}.lpp. 42.r.
-	1 LPDD1704 10{0}.lpp. 81.r.
+	1 LPDD1704 12.lpp. 25.r.
 	1 LPDD1704 14.lpp. 16.r.
 	1 LPDD1704 15.lpp. 7.r.
 	1 LPDD1704 16.lpp. 4.r.
@@ -5033,9 +5050,10 @@ par
 	1 LPDD1704 25{}.lpp. 12.r.
 	1 LPDD1704 26{}.lpp. 23.r.
 	1 LPDD1704 26{}.lpp. 25.r.
+	1 LPDD1704 27{}.lpp. 15.r.
 	1 LPDD1704 28{}.lpp. 20.r.
 	-----
-	33
+	34
 
 
 parahdi
@@ -5093,7 +5111,7 @@ paúaul
 
 paúaule
 
-	1 LPDD1704 10{0}.lpp. 81.r.
+	1 LPDD1704 12.lpp. 25.r.
 	-----
 	1
 
@@ -5134,7 +5152,7 @@ paúcha
 
 paúcha^
 
-	1 LPDD1704 10{0}.lpp. 82.r.
+	1 LPDD1704 12.lpp. 26.r.
 	-----
 	1
 
@@ -5157,7 +5175,7 @@ pa§chu
 
 paúkubbinati
 
-	1 LPDD1704 10{0}.lpp. 70.r.
+	1 LPDD1704 12.lpp. 14.r.
 	-----
 	1
 
@@ -5171,7 +5189,7 @@ pa§kubbini
 
 pa§tahwigas
 
-	1 LPDD1704 4.lpp. 24.r.
+	1 LPDD1704 4.lpp. 25.r.
 	-----
 	1
 
@@ -5244,8 +5262,8 @@ pateizige
 
 pats
 
-	1 LPDD1704 10{0}.lpp. 58.r.
-	1 LPDD1704 27{}.lpp. 17.r.
+	1 LPDD1704 12.lpp. 2.r.
+	1 LPDD1704 27{}.lpp. 18.r.
 	-----
 	2
 
@@ -5278,7 +5296,7 @@ pee
 	1 LPDD1704 1.lpp. 7.r.
 	1 LPDD1704 2.lpp. 15.r.
 	1 LPDD1704 3.lpp. 25.r.
-	1 LPDD1704 4.lpp. 25.r.
+	1 LPDD1704 4.lpp. 26.r.
 	1 LPDD1704 6.lpp. 13.r.
 	1 LPDD1704 7.lpp. 4.r.
 	1 LPDD1704 8.lpp. 20.r.
@@ -5312,7 +5330,7 @@ peedoht
 
 	1 LPDD1704 4.lpp. 3.r.
 	1 LPDD1704 4.lpp. 11.r.
-	1 LPDD1704 4.lpp. 20.r.
+	1 LPDD1704 4.lpp. 21.r.
 	1 LPDD1704 22.lpp. 16.r.
 	-----
 	4
@@ -5541,7 +5559,7 @@ prahta
 
 prahts
 
-	1 LPDD1704 10{0}.lpp. 61.r.
+	1 LPDD1704 12.lpp. 5.r.
 	-----
 	1
 
@@ -5573,7 +5591,7 @@ preekúcha^
 
 preekúchan
 
-	1 LPDD1704 10{0}.lpp. 80.r.
+	1 LPDD1704 12.lpp. 24.r.
 	-----
 	1
 
@@ -5634,7 +5652,7 @@ pretti
 
 	1 LPDD1704 3.lpp. 12.r.
 	1 LPDD1704 6.lpp. 24.r.
-	1 LPDD1704 10{0}.lpp. 65.r.
+	1 LPDD1704 12.lpp. 9.r.
 	1 LPDD1704 14.lpp. 19.r.
 	1 LPDD1704 14.lpp. 21.r.
 	1 LPDD1704 28{}.lpp. 13.r.
@@ -5792,7 +5810,7 @@ riòíi
 
 rohka
 
-	1 LPDD1704 10{0}.lpp. 59.r.
+	1 LPDD1704 12.lpp. 3.r.
 	1 LPDD1704 26{}.lpp. 20.r.
 	-----
 	2
@@ -6056,7 +6074,7 @@ schehla§tibas
 schehla§tibu
 
 	1 LPDD1704 3.lpp. 24.r.
-	1 LPDD1704 4.lpp. 20.r.
+	1 LPDD1704 4.lpp. 21.r.
 	1 LPDD1704 5.lpp. 18.r.
 	1 LPDD1704 5.lpp. 24.r.
 	1 LPDD1704 10{0}.lpp. 23.r.
@@ -6155,7 +6173,7 @@ schehligajs
 
 	1 LPDD1704 10{0}.lpp. 33.r.
 	1 LPDD1704 25{}.lpp. 8.r.
-	1 LPDD1704 27{}.lpp. 24.r.
+	1 LPDD1704 27{}.lpp. 25.r.
 	-----
 	3
 
@@ -6170,7 +6188,7 @@ schehligajs
 úcho
 
 	1 LPDD1704 9.lpp. 19.r.
-	1 LPDD1704 10{0}.lpp. 72.r.
+	1 LPDD1704 12.lpp. 16.r.
 	1 LPDD1704 25{}.lpp. 18.r.
 	-----
 	3
@@ -6408,7 +6426,7 @@ skahdas
 
 úlawe
 
-	1 LPDD1704 10{0}.lpp. 67.r.
+	1 LPDD1704 12.lpp. 11.r.
 	-----
 	1
 
@@ -6416,7 +6434,7 @@ skahdas
 úlaweht
 
 	1 LPDD1704 2.lpp. 14.r.
-	1 LPDD1704 10{0}.lpp. 72.r.
+	1 LPDD1704 12.lpp. 16.r.
 	1 LPDD1704 27{}.lpp. 13.r.
 	-----
 	3
@@ -6447,7 +6465,7 @@ skahdas
 
 sohbiòa
 
-	1 LPDD1704 10{0}.lpp. 66.r.
+	1 LPDD1704 12.lpp. 10.r.
 	-----
 	1
 
@@ -6513,7 +6531,7 @@ spehka
 
 spehku
 
-	1 LPDD1704 4.lpp. 22.r.
+	1 LPDD1704 4.lpp. 23.r.
 	1 LPDD1704 6.lpp. 13.r.
 	1 LPDD1704 15.lpp. 19.r.
 	1 LPDD1704 16.lpp. 14.r.
@@ -6680,7 +6698,7 @@ swedro
 
 úwehta
 
-	1 LPDD1704 4.lpp. 21.r.
+	1 LPDD1704 4.lpp. 22.r.
 	1 LPDD1704 5.lpp. 7.r.
 	1 LPDD1704 9.lpp. 2.r.
 	1 LPDD1704 13.lpp. 16.r.
@@ -6723,7 +6741,7 @@ swedro
 úwehteem
 
 	1 LPDD1704 3.lpp. 12.r.
-	1 LPDD1704 27{}.lpp. 18.r.
+	1 LPDD1704 27{}.lpp. 19.r.
 	-----
 	2
 
@@ -6792,7 +6810,7 @@ swedro
 
 úwehtu
 
-	1 LPDD1704 4.lpp. 22.r.
+	1 LPDD1704 4.lpp. 23.r.
 	1 LPDD1704 5.lpp. 21.r.
 	1 LPDD1704 5.lpp. 25.r.
 	1 LPDD1704 10{0}.lpp. 16.r.
@@ -6811,13 +6829,13 @@ swedro
 ta
 
 	1 LPDD1704 2.lpp. 6.r.
-	1 LPDD1704 4.lpp. 21.r.
+	1 LPDD1704 4.lpp. 22.r.
 	1 LPDD1704 5.lpp. 7.r.
 	1 LPDD1704 6.lpp. 17.r.
 	1 LPDD1704 7.lpp. 10.r.
 	1 LPDD1704 9.lpp. 2.r.
-	1 LPDD1704 10{0}.lpp. 66.r.
-	1 LPDD1704 10{0}.lpp. 74.r.
+	1 LPDD1704 12.lpp. 10.r.
+	1 LPDD1704 12.lpp. 18.r.
 	1 LPDD1704 13.lpp. 7.r.
 	1 LPDD1704 13.lpp. 11.r.
 	1 LPDD1704 14.lpp. 11.r.
@@ -6839,7 +6857,7 @@ ta´
 
 	1 LPDD1704 8.lpp. 4.r.
 	1 LPDD1704 10{0}.lpp. 31.r.
-	1 LPDD1704 27{}.lpp. 25.r.
+	1 LPDD1704 27{}.lpp. 26.r.
 	-----
 	3
 
@@ -6854,7 +6872,7 @@ ta`
 
 ta^
 
-	1 LPDD1704 27{}.lpp. 24.r.
+	1 LPDD1704 27{}.lpp. 25.r.
 	-----
 	1
 
@@ -6879,7 +6897,7 @@ taggadiò
 
 	1 LPDD1704 9.lpp. 6.r.
 	1 LPDD1704 26{}.lpp. 7.r.
-	1 LPDD1704 27{}.lpp. 22.r.
+	1 LPDD1704 27{}.lpp. 23.r.
 	-----
 	3
 
@@ -6929,7 +6947,7 @@ tahm
 
 tahs
 
-	1 LPDD1704 4.lpp. 25.r.
+	1 LPDD1704 4.lpp. 26.r.
 	1 LPDD1704 5.lpp. 17.r.
 	1 LPDD1704 6.lpp. 15.r.
 	1 LPDD1704 6.lpp. 16.r.
@@ -7011,7 +7029,7 @@ tam
 
 tanni^
 
-	1 LPDD1704 10{0}.lpp. 82.r.
+	1 LPDD1704 12.lpp. 26.r.
 	-----
 	1
 
@@ -7033,7 +7051,7 @@ tapehz
 
 tapt
 
-	1 LPDD1704 4.lpp. 27.r.
+	1 LPDD1704 4.lpp. 28.r.
 	1 LPDD1704 13.lpp. 26.r.
 	1 LPDD1704 28{}.lpp. 20.r.
 	-----
@@ -7046,7 +7064,7 @@ tas
 	1 LPDD1704 4.lpp. 15.r.
 	1 LPDD1704 4.lpp. 17.r.
 	1 LPDD1704 6.lpp. 15.r.
-	1 LPDD1704 10{0}.lpp. 64.r.
+	1 LPDD1704 12.lpp. 8.r.
 	1 LPDD1704 15.lpp. 10.r.
 	1 LPDD1704 25{}.lpp. 11.r.
 	1 LPDD1704 25{}.lpp. 23.r.
@@ -7063,7 +7081,7 @@ tawa
 	1 LPDD1704 9.lpp. 20.r.
 	1 LPDD1704 10{0}.lpp. 2.r.
 	1 LPDD1704 10{0}.lpp. 3.r.
-	1 LPDD1704 10{0}.lpp. 73.r.
+	1 LPDD1704 12.lpp. 17.r.
 	1 LPDD1704 13.lpp. 16.r.
 	1 LPDD1704 14.lpp. 10.r.
 	1 LPDD1704 14.lpp. 14.r.
@@ -7113,14 +7131,14 @@ taweem
 	1 LPDD1704 3.lpp. 12.r.
 	1 LPDD1704 25{}.lpp. 21.r.
 	1 LPDD1704 25{}.lpp. 24.r.
-	1 LPDD1704 27{}.lpp. 18.r.
+	1 LPDD1704 27{}.lpp. 19.r.
 	-----
 	4
 
 
 tawo
 
-	1 LPDD1704 10{0}.lpp. 66.r.
+	1 LPDD1704 12.lpp. 10.r.
 	-----
 	1
 
@@ -7141,8 +7159,8 @@ tawu
 	1 LPDD1704 10{0}.lpp. 23.r.
 	1 LPDD1704 10{0}.lpp. 29.r.
 	1 LPDD1704 10{0}.lpp. 40.r.
-	1 LPDD1704 10{0}.lpp. 68.r.
-	1 LPDD1704 10{0}.lpp. 71.r.
+	1 LPDD1704 12.lpp. 12.r.
+	1 LPDD1704 12.lpp. 15.r.
 	1 LPDD1704 13.lpp. 21.r.
 	1 LPDD1704 14.lpp. 15.r.
 	1 LPDD1704 14.lpp. 18.r.
@@ -7174,7 +7192,7 @@ tee
 	1 LPDD1704 4.lpp. 4.r.
 	1 LPDD1704 7.lpp. 17.r.
 	1 LPDD1704 10{0}.lpp. 51.r.
-	1 LPDD1704 10{0}.lpp. 62.r.
+	1 LPDD1704 12.lpp. 6.r.
 	1 LPDD1704 26{}.lpp. 21.r.
 	1 LPDD1704 28{}.lpp. 15.r.
 	-----
@@ -7189,7 +7207,7 @@ teem
 	1 LPDD1704 10{0}.lpp. 9.r.
 	1 LPDD1704 10{0}.lpp. 52.r.
 	1 LPDD1704 14.lpp. 26.r.
-	1 LPDD1704 27{}.lpp. 21.r.
+	1 LPDD1704 27{}.lpp. 22.r.
 	1 LPDD1704 28{}.lpp. 2.r.
 	1 LPDD1704 28{}.lpp. 5.r.
 	1 LPDD1704 28{}.lpp. 9.r.
@@ -7246,7 +7264,7 @@ tehwu=semmes
 
 teikt
 
-	1 LPDD1704 10{0}.lpp. 72.r.
+	1 LPDD1704 12.lpp. 16.r.
 	1 LPDD1704 27{}.lpp. 13.r.
 	-----
 	2
@@ -7261,7 +7279,7 @@ teikuúchi
 
 teiz
 
-	1 LPDD1704 10{0}.lpp. 67.r.
+	1 LPDD1704 12.lpp. 11.r.
 	-----
 	1
 
@@ -7289,7 +7307,7 @@ tew
 	1 LPDD1704 4.lpp. 4.r.
 	1 LPDD1704 4.lpp. 6.r.
 	1 LPDD1704 10{0}.lpp. 25.r.
-	1 LPDD1704 10{0}.lpp. 67.r.
+	1 LPDD1704 12.lpp. 11.r.
 	1 LPDD1704 14.lpp. 6.r.
 	1 LPDD1704 18.lpp. 16.r.
 	1 LPDD1704 25{}.lpp. 5.r.
@@ -7386,10 +7404,10 @@ to
 	1 LPDD1704 10{0}.lpp. 33.r.
 	1 LPDD1704 10{0}.lpp. 40.r.
 	1 LPDD1704 10{0}.lpp. 41.r.
-	1 LPDD1704 10{0}.lpp. 58.r.
-	1 LPDD1704 10{0}.lpp. 60.r.
-	1 LPDD1704 10{0}.lpp. 69.r.
-	1 LPDD1704 10{0}.lpp. 80.r.
+	1 LPDD1704 12.lpp. 2.r.
+	1 LPDD1704 12.lpp. 4.r.
+	1 LPDD1704 12.lpp. 13.r.
+	1 LPDD1704 12.lpp. 24.r.
 	1 LPDD1704 13.lpp. 8.r.
 	1 LPDD1704 13.lpp. 25.r.
 	1 LPDD1704 14.lpp. 26.r.
@@ -7429,7 +7447,7 @@ to
 tohpam
 
 	1 LPDD1704 9.lpp. 14.r.
-	1 LPDD1704 10{0}.lpp. 71.r.
+	1 LPDD1704 12.lpp. 15.r.
 	-----
 	2
 
@@ -7439,8 +7457,8 @@ tohs
 	1 LPDD1704 7.lpp. 12.r.
 	1 LPDD1704 7.lpp. 27.r.
 	1 LPDD1704 10{0}.lpp. 53.r.
-	1 LPDD1704 10{0}.lpp. 62.r.
-	1 LPDD1704 10{0}.lpp. 66.r.
+	1 LPDD1704 12.lpp. 6.r.
+	1 LPDD1704 12.lpp. 10.r.
 	1 LPDD1704 13.lpp. 2.r.
 	1 LPDD1704 13.lpp. 15.r.
 	1 LPDD1704 17.lpp. 13.r.
@@ -7491,8 +7509,8 @@ tu
 	1 LPDD1704 10{0}.lpp. 24.r.
 	1 LPDD1704 10{0}.lpp. 31.r.
 	1 LPDD1704 10{0}.lpp. 55.r.
-	1 LPDD1704 10{0}.lpp. 57.r.
-	1 LPDD1704 10{0}.lpp. 63.r.
+	1 LPDD1704 12.lpp. 1.r.
+	1 LPDD1704 12.lpp. 7.r.
 	1 LPDD1704 14.lpp. 15.r.
 	1 LPDD1704 14.lpp. 18.r.
 	1 LPDD1704 15.lpp. 7.r.
@@ -7509,8 +7527,8 @@ tu
 	1 LPDD1704 25{}.lpp. 22.r.
 	1 LPDD1704 26{}.lpp. 3.r.
 	2 LPDD1704 27{}.lpp. 2.r.
-	1 LPDD1704 27{}.lpp. 17.r.
-	1 LPDD1704 27{}.lpp. 24.r.
+	1 LPDD1704 27{}.lpp. 18.r.
+	1 LPDD1704 27{}.lpp. 25.r.
 	-----
 	39
 
@@ -7538,14 +7556,14 @@ turrahs
 
 turretees
 
-	1 LPDD1704 10{0}.lpp. 65.r.
+	1 LPDD1704 12.lpp. 9.r.
 	-----
 	1
 
 
 turri
 
-	1 LPDD1704 27{}.lpp. 25.r.
+	1 LPDD1704 27{}.lpp. 26.r.
 	-----
 	1
 
@@ -7619,9 +7637,9 @@ un
 	1 LPDD1704 4.lpp. 3.r.
 	1 LPDD1704 4.lpp. 6.r.
 	1 LPDD1704 4.lpp. 13.r.
-	1 LPDD1704 4.lpp. 20.r.
-	1 LPDD1704 4.lpp. 22.r.
+	1 LPDD1704 4.lpp. 21.r.
 	1 LPDD1704 4.lpp. 23.r.
+	1 LPDD1704 4.lpp. 24.r.
 	1 LPDD1704 5.lpp. 3.r.
 	1 LPDD1704 5.lpp. 5.r.
 	1 LPDD1704 5.lpp. 7.r.
@@ -7685,11 +7703,11 @@ un
 	1 LPDD1704 10{0}.lpp. 50.r.
 	1 LPDD1704 10{0}.lpp. 53.r.
 	1 LPDD1704 10{0}.lpp. 55.r.
-	1 LPDD1704 10{0}.lpp. 64.r.
-	1 LPDD1704 10{0}.lpp. 67.r.
-	1 LPDD1704 10{0}.lpp. 69.r.
-	1 LPDD1704 10{0}.lpp. 72.r.
-	1 LPDD1704 10{0}.lpp. 82.r.
+	1 LPDD1704 12.lpp. 8.r.
+	1 LPDD1704 12.lpp. 11.r.
+	1 LPDD1704 12.lpp. 13.r.
+	1 LPDD1704 12.lpp. 16.r.
+	1 LPDD1704 12.lpp. 26.r.
 	1 LPDD1704 13.lpp. 6.r.
 	1 LPDD1704 13.lpp. 9.r.
 	1 LPDD1704 13.lpp. 12.r.
@@ -7823,9 +7841,9 @@ un
 	1 LPDD1704 27{}.lpp. 9.r.
 	1 LPDD1704 27{}.lpp. 11.r.
 	1 LPDD1704 27{}.lpp. 13.r.
-	1 LPDD1704 27{}.lpp. 20.r.
-	1 LPDD1704 27{}.lpp. 23.r.
+	1 LPDD1704 27{}.lpp. 21.r.
 	1 LPDD1704 27{}.lpp. 24.r.
+	1 LPDD1704 27{}.lpp. 25.r.
 	1 LPDD1704 28{}.lpp. 4.r.
 	2 LPDD1704 28{}.lpp. 6.r.
 	2 LPDD1704 28{}.lpp. 10.r.
@@ -7908,7 +7926,7 @@ usluhko
 
 usòehmis
 
-	1 LPDD1704 10{0}.lpp. 61.r.
+	1 LPDD1704 12.lpp. 5.r.
 	-----
 	1
 
@@ -7952,7 +7970,7 @@ usturreht
 
 usturrehti
 
-	1 LPDD1704 4.lpp. 26.r.
+	1 LPDD1704 4.lpp. 27.r.
 	-----
 	1
 
@@ -8013,14 +8031,14 @@ uswarreúchanu
 waddi
 
 	1 LPDD1704 5.lpp. 21.r.
-	1 LPDD1704 27{}.lpp. 17.r.
+	1 LPDD1704 27{}.lpp. 18.r.
 	-----
 	2
 
 
 waddiht
 
-	1 LPDD1704 10{0}.lpp. 60.r.
+	1 LPDD1704 12.lpp. 4.r.
 	1 LPDD1704 20.lpp. 11.r.
 	1 LPDD1704 21.lpp. 24.r.
 	-----
@@ -8068,8 +8086,8 @@ wahrdu
 
 	1 LPDD1704 5.lpp. 25.r.
 	1 LPDD1704 10{0}.lpp. 15.r.
-	1 LPDD1704 10{0}.lpp. 68.r.
-	1 LPDD1704 10{0}.lpp. 71.r.
+	1 LPDD1704 12.lpp. 12.r.
+	1 LPDD1704 12.lpp. 15.r.
 	1 LPDD1704 13.lpp. 21.r.
 	1 LPDD1704 14.lpp. 26.r.
 	1 LPDD1704 15.lpp. 2.r.
@@ -8133,7 +8151,7 @@ wainas{waiuas}
 
 wairahk
 
-	1 LPDD1704 10{0}.lpp. 70.r.
+	1 LPDD1704 12.lpp. 14.r.
 	-----
 	1
 
@@ -8151,7 +8169,7 @@ wairo
 
 wajetajo
 
-	1 LPDD1704 10{0}.lpp. 59.r.
+	1 LPDD1704 12.lpp. 3.r.
 	-----
 	1
 
@@ -8209,7 +8227,7 @@ waldiúchanas
 
 walditajo
 
-	1 LPDD1704 10{0}.lpp. 83.r.
+	1 LPDD1704 12.lpp. 27.r.
 	-----
 	1
 
@@ -8245,7 +8263,7 @@ wal§tibu
 war
 
 	1 LPDD1704 10{0}.lpp. 54.r.
-	1 LPDD1704 10{0}.lpp. 65.r.
+	1 LPDD1704 12.lpp. 9.r.
 	1 LPDD1704 17.lpp. 14.r.
 	1 LPDD1704 26{}.lpp. 22.r.
 	-----
@@ -8260,7 +8278,7 @@ warr
 	1 LPDD1704 7.lpp. 12.r.
 	1 LPDD1704 8.lpp. 9.r.
 	1 LPDD1704 8.lpp. 19.r.
-	1 LPDD1704 10{0}.lpp. 60.r.
+	1 LPDD1704 12.lpp. 4.r.
 	1 LPDD1704 13.lpp. 22.r.
 	1 LPDD1704 15.lpp. 17.r.
 	1 LPDD1704 20.lpp. 20.r.
@@ -8277,7 +8295,7 @@ warºabeddrus
 
 warram
 
-	1 LPDD1704 4.lpp. 26.r.
+	1 LPDD1704 4.lpp. 27.r.
 	1 LPDD1704 13.lpp. 26.r.
 	1 LPDD1704 15.lpp. 5.r.
 	1 LPDD1704 27{}.lpp. 13.r.
@@ -8296,7 +8314,7 @@ warras
 
 warrens
 
-	1 LPDD1704 10{0}.lpp. 57.r.
+	1 LPDD1704 12.lpp. 1.r.
 	1 LPDD1704 16.lpp. 10.r.
 	-----
 	2
@@ -8388,7 +8406,7 @@ weenprahtigu
 weens
 
 	1 LPDD1704 10{0}.lpp. 24.r.
-	1 LPDD1704 10{0}.lpp. 65.r.
+	1 LPDD1704 12.lpp. 9.r.
 	1 LPDD1704 26{}.lpp. 4.r.
 	1 LPDD1704 28{}.lpp. 4.r.
 	-----
@@ -8397,7 +8415,7 @@ weens
 
 weenu
 
-	1 LPDD1704 4.lpp. 22.r.
+	1 LPDD1704 4.lpp. 23.r.
 	1 LPDD1704 17.lpp. 9.r.
 	1 LPDD1704 21.lpp. 6.r.
 	1 LPDD1704 25{}.lpp. 10.r.
@@ -8512,7 +8530,7 @@ wiltigahm
 
 wiltigu
 
-	1 LPDD1704 10{0}.lpp. 58.r.
+	1 LPDD1704 12.lpp. 2.r.
 	-----
 	1
 
@@ -8531,8 +8549,8 @@ wiòòa
 	1 LPDD1704 6.lpp. 18.r.
 	1 LPDD1704 10{0}.lpp. 44.r.
 	1 LPDD1704 10{0}.lpp. 49.r.
-	1 LPDD1704 10{0}.lpp. 59.r.
-	1 LPDD1704 10{0}.lpp. 61.r.
+	1 LPDD1704 12.lpp. 3.r.
+	1 LPDD1704 12.lpp. 5.r.
 	1 LPDD1704 13.lpp. 18.r.
 	1 LPDD1704 15.lpp. 9.r.
 	1 LPDD1704 15.lpp. 15.r.
@@ -8543,7 +8561,7 @@ wiòòa
 	1 LPDD1704 16.lpp. 13.r.
 	1 LPDD1704 16.lpp. 22.r.
 	1 LPDD1704 26{}.lpp. 16.r.
-	1 LPDD1704 27{}.lpp. 22.r.
+	1 LPDD1704 27{}.lpp. 23.r.
 	-----
 	18
 
@@ -8568,7 +8586,7 @@ wiòòas
 wiòòeem
 
 	1 LPDD1704 8.lpp. 7.r.
-	1 LPDD1704 27{}.lpp. 25.r.
+	1 LPDD1704 27{}.lpp. 26.r.
 	-----
 	2
 
@@ -8584,7 +8602,7 @@ wiòòu
 	1 LPDD1704 10{0}.lpp. 35.r.
 	1 LPDD1704 10{0}.lpp. 39.r.
 	1 LPDD1704 10{0}.lpp. 41.r.
-	1 LPDD1704 27{}.lpp. 22.r.
+	1 LPDD1704 27{}.lpp. 23.r.
 	-----
 	10
 
@@ -8614,7 +8632,7 @@ wirúineekus
 
 wirús=waldneeku
 
-	1 LPDD1704 27{}.lpp. 21.r.
+	1 LPDD1704 27{}.lpp. 22.r.
 	-----
 	1
 
@@ -8642,7 +8660,7 @@ wiús
 
 wiús=aug§taka
 
-	1 LPDD1704 10{0}.lpp. 74.r.
+	1 LPDD1704 12.lpp. 18.r.
 	1 LPDD1704 13.lpp. 7.r.
 	-----
 	2
@@ -8731,7 +8749,7 @@ wiúúeem
 	1 LPDD1704 21.lpp. 26.r.
 	1 LPDD1704 22.lpp. 1.r.
 	1 LPDD1704 22.lpp. 11.r.
-	1 LPDD1704 27{}.lpp. 21.r.
+	1 LPDD1704 27{}.lpp. 22.r.
 	1 LPDD1704 28{}.lpp. 20.r.
 	-----
 	15
@@ -8740,7 +8758,7 @@ wiúúeem
 wiúúi
 
 	1 LPDD1704 9.lpp. 23.r.
-	1 LPDD1704 10{0}.lpp. 68.r.
+	1 LPDD1704 12.lpp. 12.r.
 	-----
 	2
 
@@ -8755,7 +8773,7 @@ wiúúim
 wiúúo
 
 	1 LPDD1704 5.lpp. 6.r.
-	1 LPDD1704 10{0}.lpp. 58.r.
+	1 LPDD1704 12.lpp. 2.r.
 	-----
 	2
 
@@ -8790,9 +8808,9 @@ wiúúu
 	1 LPDD1704 8.lpp. 7.r.
 	1 LPDD1704 8.lpp. 10.r.
 	1 LPDD1704 10{0}.lpp. 25.r.
-	1 LPDD1704 10{0}.lpp. 72.r.
-	1 LPDD1704 10{0}.lpp. 80.r.
-	1 LPDD1704 10{0}.lpp. 81.r.
+	1 LPDD1704 12.lpp. 16.r.
+	1 LPDD1704 12.lpp. 24.r.
+	1 LPDD1704 12.lpp. 25.r.
 	1 LPDD1704 14.lpp. 6.r.
 	1 LPDD1704 14.lpp. 9.r.
 	1 LPDD1704 15.lpp. 26.r.
@@ -8814,7 +8832,7 @@ wiúúur
 wiúúus
 
 	1 LPDD1704 4.lpp. 9.r.
-	1 LPDD1704 4.lpp. 19.r.
+	1 LPDD1704 4.lpp. 20.r.
 	1 LPDD1704 5.lpp. 20.r.
 	1 LPDD1704 8.lpp. 1.r.
 	1 LPDD1704 8.lpp. 2.r.
@@ -8854,7 +8872,7 @@ wiúswalditaju
 zaur
 
 	1 LPDD1704 3.lpp. 15.r.
-	1 LPDD1704 4.lpp. 21.r.
+	1 LPDD1704 4.lpp. 22.r.
 	1 LPDD1704 5.lpp. 16.r.
 	1 LPDD1704 8.lpp. 26.r.
 	1 LPDD1704 9.lpp. 20.r.
@@ -9000,13 +9018,6 @@ zittkahrt
 11
 
 	1 LPDD1704 10{0}.lpp. 27.r.
-	-----
-	1
-
-
-12
-
-	1 LPDD1704 10{0}.lpp. 56.r.
 	-----
 	1
 

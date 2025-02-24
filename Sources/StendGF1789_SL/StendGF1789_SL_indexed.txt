@@ -1,19 +1,5 @@
-Vârdformu skaits:	3344
-Vârdlietojumu skaits:	8698
-
-
-{j}
-
-	1 StendGF1789_SL 76.lpp. 7.r.
-	-----
-	1
-
-
-{úehdama=}
-
-	1 StendGF1789_SL 18.lpp. 12.r.
-	-----
-	1
+Vârdformu skaits:	3343
+Vârdlietojumu skaits:	8697
 
 
 agri
@@ -7569,6 +7555,13 @@ IV
 	1 StendGF1789_SL 36.lpp. 15.r.
 	-----
 	2
+
+
+j
+
+	1 StendGF1789_SL 76.lpp. 7.r.
+	-----
+	1
 
 
 ja
@@ -19930,7 +19923,7 @@ Seedus
 	2
 
 
-úehdama
+úehdama{úehdama=}
 
 	1 StendGF1789_SL 18.lpp. 12.r.
 	-----

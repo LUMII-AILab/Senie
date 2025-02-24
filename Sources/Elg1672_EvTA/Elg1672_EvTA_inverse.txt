@@ -8,6 +8,7 @@ wyßßems#
 ﬂems#
 iums#
 tews#
+&
 ta¥paec'
 pakkalia^
 wallia^
@@ -91,6 +92,7 @@ ka^da
 la^da
 ra^da
 ta^da
+citta^da
 peßpe^da
 do^da
 yzdo^da
@@ -352,7 +354,6 @@ kalpoia
 apßtipproia
 dziwoia
 a¥plaupia
-ria
 maria
 samaria
 feria
@@ -362,6 +363,7 @@ a¥tdarria
 garria
 da¥rria
 syria
+ma{man}ria
 laßsia
 pra¥ßsia
 ßwaetia
@@ -402,6 +404,7 @@ labbaka
 ilgaka
 lelaka
 ßlimmaka
+pirmaka
 wairaka
 e^ßaka
 eßaka
@@ -465,7 +468,6 @@ sa¥ula
 wyla
 baußla
 za¥la
-ma
 do^ma
 apraudadama
 ßaccidama
@@ -1417,7 +1419,6 @@ labbi
 rabbi
 gribbi
 grribbi
-wibi
 tumpßibi
 jakobi
 darbi
@@ -1492,6 +1493,7 @@ waeccaki
 weccaki
 niknaki
 guddraki
+warranaeki
 graeki
 cilwaeki
 ceki
@@ -1988,7 +1990,6 @@ pirma¥k
 waira¥k
 wa¥ira¥k
 we^l
-kal
 atkal
 a¥tkal
 ißrael
@@ -2096,7 +2097,6 @@ baernam
 roboam
 joßepam
 kalpam
-tukkalpam
 ka¥lpam
 aram
 zaram
@@ -2387,13 +2387,11 @@ ap
 joßep
 lp
 top
-lpp
 kurp
 turp
 ﬂurp
 a¥p
 ar
-dar
 sichar
 thamar
 par
@@ -2452,6 +2450,7 @@ a¥tte^s
 a¥te^s
 yze^s
 neßsi^s
+ßakalti^s
 weßi^s
 klaußi^s
 do^s
@@ -2492,6 +2491,7 @@ laulibas
 la¥ulibas
 baußlibas
 lixmibas
+breßmibas
 gannibas
 taißnibas
 tukﬂnibas
@@ -2509,7 +2509,6 @@ we^ßibas
 teßibas
 tumßibas
 tumpßibas
-vdenwilbas
 praeccas
 waicas
 baznicas
@@ -2895,6 +2894,7 @@ paﬂas
 traeﬂas
 ßeﬂas
 aukﬂas
+tukﬂas
 a¥ukﬂas
 ßtawoﬂas
 ßtaigaiuﬂas
@@ -3119,6 +3119,7 @@ blaedigs
 mileßirdigs
 vdenßaergigs
 melmenußaergigs
+melmeneßergigs
 dewabiigs
 ßpittaligs
 z¥aeligs
@@ -3679,6 +3680,7 @@ dewinems
 kalnems
 pakalnems
 wilnems
+vdenwilnems
 gannems
 mannems
 ﬂennems
@@ -3797,7 +3799,6 @@ pirms
 ßlappi^ums
 iugums
 iums
-moceiums
 ewangeliums
 jums
 e^ßakums
@@ -3937,6 +3938,7 @@ a¥lgats
 mazgats
 eprecanats
 a¥icenats
+mocenats
 ßluddenats
 pazuddenats
 godenats
@@ -4456,7 +4458,6 @@ eßßaet
 atneßßaet
 bet
 gribbet
-katbet
 na^cet
 nacet
 tyccet
@@ -4708,7 +4709,6 @@ noﬂaußt
 kliußt
 pazyßt
 ebazßt
-a¥t
 yzda¥ba¥t
 a¥ttro^da¥t
 sakraia¥t
@@ -5090,7 +5090,6 @@ kappu
 tappu
 philippu
 laupu
-ru
 noka^ru
 me^ru
 me`ru
@@ -5134,6 +5133,7 @@ puru
 vppuru
 purpuru
 wyru
+dar{der}ru
 tu
 pra^tu
 pare^tu
@@ -5495,10 +5495,7 @@ vz
 yz
 dryz
 byre{byre }
-{der }
-{ }
-{;}
-{daelu=}
+daelu{daelu=}
 besdibbeniga{besdibbe niga}
 ßagaia{ßargaia}
 go^denaia{go^demaia}
@@ -5525,16 +5522,12 @@ pallek{pal lek}
 ka¥d{ka¥k}
 wyßßunotul{ul}
 iten{item}
-{man}
 ekﬂan{an}
 aukﬂan{atkﬂan}
 tudelin{tu delin}
 neweßßaelo{neweßßulo}
-{to}
-{moyßes}
 tews{tems}
 wyßßems{waßßems}
-{mums}
 pedzimpts{pedzints}
 gabbalus{gubbulus}
 gribbu{ribbu}
@@ -5610,6 +5603,7 @@ kada¥
 wyßßanada¥
 rada¥
 a¥ttrada¥
+tada¥
 cittada¥
 gadda¥
 radda¥
