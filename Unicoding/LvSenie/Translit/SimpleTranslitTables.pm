@@ -7,7 +7,27 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(substTable hasTable printTableErrors);
 
-# Jāņem vērā, ka reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu, arī ß un ss.
+################################################################################
+# Transliterācijas tabulas
+# ------------------------
+#
+# 1. Katra rinda atbilst vienam transliterācijas likumam: ko pāveidot, par ko
+#    pārveidot, reģistrjūtība (1 - jā, tukšs - nē).
+# 2. Likumi tiek piemēroti uzskaitītajā secībā.
+# 3. Speciālās izteiksmes (visas no perl regex standarta):
+#    - `\b{wb}` - unikoda vārda robeža;
+#    - `^` - rindas sākums;
+#    - `$` - rindas beigas.
+# 4. Specsimboli `#$%&*+.()?\/^[]` ir jāraksta ar `\` priekšā. Pārskatāmības
+#    labad tabulās izmantotās palīgmaiņas ir atzīmētas ar komentāru, jo tur var
+#    rasties kļūdas, neizmantojot `\`.
+# 5. Reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu, arī ß un ss.
+# 6. Ja vairākiem avotiem tabulas sakrīt, tās nedublē, katrai vairākkārt
+#    lietotai tabulai piešķir savu mainīgo.
+#
+# Procedūra word tabulas pārveidošanai koda fragmentu aprakstīta failā
+# /Unicoding/docs/add-translit-table-from-word_readme.md
+################################################################################
 
 our $CENTURY_18TH_TABLE = [
 	[ 'ah', 'ā', ],
