@@ -7,6 +7,14 @@ use Exporter();
 our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(substTable hasTable);
 
+################################################################################
+# Unikodifikācijas tabulas
+# ------------------------
+#
+# Katra rinda atbilst vienam pārveides likumam: ko pāveidot (teksts), par ko
+# pārveidot (teksts). Unikoda kodu norādīšana formā `x{kods}.
+################################################################################
+
 our $ST_SINGLES = {
 	'AP1622'           => {
 		'a´'  => "\x{00E1}",
