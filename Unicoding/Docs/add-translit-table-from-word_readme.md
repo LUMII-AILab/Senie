@@ -1,10 +1,12 @@
 Kā pārtaisīt Word tabulu par perl substitūciju datu struktūru
 -------------------------------------------------------------
 
+Pārbaudīts ar Sublime Text.
+
 1.  Izkopēt kolonnas "Unicode", "Transliterācija", "Reģistrjūtība" _tab-separated_ uz _Sublime_.
 2.  Pārskatīt izmest `[]` no 2. kolonnas, regex: `^[^\r\n]*\t[^\r\n]*\[\]`,
     pārskatīt `[]` vārda vidū, regex: `(\p{L}|\\)\[\](\p{L}|\\)`,
-    pārskatīt atstarpes pirms un pēc `[]`, regex `\[\] | \[\]`
+    pārskatīt atstarpes pirms un pēc `[]`, regex `\[\] | \[\]`,
     pārskatīt `{` un`}`;
     kopējais regex: `^[^\r\n]*\t[^\r\n]*\[\]|(\p{L}|\\)\[\](\p{L}|\\)|{|}|\[\] | \[\]`
 5.  Replace:  `[]` -> `\b{wb}`
@@ -13,11 +15,12 @@ Kā pārtaisīt Word tabulu par perl substitūciju datu struktūru
 8.  Regexp:  `$` -> `' ],`
 9.  Regexp:  `^` -> `[ '`
 10. Replace: ` ''` -> 
-11. Aizstāt `[^]`, `[$]` (regex: `\[[$^]\]`), ielikt norādes `	# Rindas beigas` un `	# Rindas sākums`
+11. Aizstāt `[^]`, `[$]` (regex: `\[[$^]\]`), ielikt attiecīgo rindas beigās komentārus
+    `	# Rindas beigas` un `	# Rindas sākums`
 12. Pārbaudīt, vai nav kaut kur ` ',`, t.i., atstarpe aiz vārda un vai nav kaut kur `[,`, t.i., bijis lieks pārnesums tabulā, pārbaudīt atstarpes aiz 1 un blakus esošus komatus, kopējais regex: ` ',|1 '|\[,|,,`
 13. Noņemt beigās tukšās rindas.
 14. Pārskatīt palīgmaiņas un specsimbolu lietojumu:
-    pielikt komentārus `	# Palīgmaiņa`, `	# Palīgmaiņas lietošana` un `	# Palīgmaiņas novākšana`,
+    pielikt attiecīgo rindu beigās komentārus `	# Palīgmaiņa`, `	# Palīgmaiņas lietošana` un `	# Palīgmaiņas novākšana`,
     eskeipot, ja palīgmaiņas simbols ir speciāls un lietots pirmajā kolonnā.
     Līdz šim redzētie substitūciju simboli: `[#$%&*©Δ®§+@◊]`,
     pārskatāmais saraksts (ieskaitot specsimbolus un 0 reģistra kolonnā):

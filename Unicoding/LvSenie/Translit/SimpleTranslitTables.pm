@@ -11,18 +11,20 @@ our @EXPORT_OK = qw(substTable hasTable printTableErrors);
 # Transliterācijas tabulas
 # ------------------------
 #
-# 1. Katra rinda atbilst vienam transliterācijas likumam: ko pāveidot, par ko
-#    pārveidot, reģistrjūtība (1 - jā, tukšs - nē).
+# 1. Katra rinda atbilst vienam transliterācijas likumam: ko pāveidot (regex),
+#    par ko pārveidot (teksts), reģistrjūtība (1 - jā, tukšs - nē).
 # 2. Likumi tiek piemēroti uzskaitītajā secībā.
-# 3. Speciālās izteiksmes (visas no perl regex standarta):
+# 3. Speciālās izteiksmes (visas no perl regex standarta) lietošanai 1. laukā:
 #    - `\b{wb}` - unikoda vārda robeža;
 #    - `^` - rindas sākums;
 #    - `$` - rindas beigas.
-# 4. Specsimboli `#$%&*+.()?\/^[]` ir jāraksta ar `\` priekšā. Pārskatāmības
-#    labad tabulās izmantotās palīgmaiņas ir atzīmētas ar komentāru, jo tur var
-#    rasties kļūdas, neizmantojot `\`.
-# 5. Reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu, arī ß un ss.
-# 6. Ja vairākiem avotiem tabulas sakrīt, tās nedublē, katrai vairākkārt
+#    2. laukā šos nelieto!
+# 4. Specsimboli `#$%&*+.()?\/^[]'` ir 1. laukā ir jāraksta ar `\` priekšā,
+#    2. laukā ar `\` atzīmē tikai `'\'.
+# 5. Pārskatāmības labad tabulās izmantotās palīgmaiņas ir atzīmētas ar
+#    komentāru, jo tur var rasties kļūdas, neizmantojot `\`.
+# 6. Reģistrnejūtīgā meklēšana s un ſ uzskata par to pašu, arī ß un ss.
+# 7. Ja vairākiem avotiem tabulas sakrīt, tās nedublē, katrai vairākkārt
 #    lietotai tabulai piešķir savu mainīgo.
 #
 # Procedūra word tabulas pārveidošanai koda fragmentu aprakstīta failā
@@ -42,7 +44,7 @@ our $CENTURY_18TH_TABLE = [
 	[ 'paij', 'p%j', ],	# Palīgmaiņa
 	[ 'maij', 'm%j', ],	# Palīgmaiņa
 	[ 'aij', 'aj', ],
-	[ '%', 'ai', ],	# Palīgmaiņas novākšana
+	[ '\%', 'ai', ],	# Palīgmaiņas novākšana
 	[ 'eij', 'ej', ],
 	[ 'à', 'ā', ],
 	[ 'â', 'ā', ],
@@ -74,7 +76,7 @@ our $CENTURY_18TH_TABLE = [
 	[ 'ikkur', 'i%ur', ],	# Palīgmaiņa
 	[ 'ikkuŗ', 'i%uŗ', ],	# Palīgmaiņa
 	[ 'kk', 'k', ],
-	[ '%', 'kk', ],	# Palīgmaiņas novākšana
+	[ '\%', 'kk', ],	# Palīgmaiņas novākšana
 	[ 'ķķ', 'ķ', ],
 	[ 'allaſch', 'a%až', ],	# Palīgmaiņa
 	[ 'allaẜch', 'a%až', ],	# Palīgmaiņa
@@ -96,11 +98,11 @@ our $CENTURY_18TH_TABLE = [
 	[ 'willu', 'wi%u', ],	# Palīgmaiņa
 	[ 'willa', 'wi%a', ],	# Palīgmaiņa
 	[ 'll', 'l', ],
-	[ '%', 'll', ],	# Palīgmaiņas novākšana
+	[ '\%', 'll', ],	# Palīgmaiņas novākšana
 	[ 'ļļ', 'ļ', ],
 	[ 'Ꞩvamm', 'šva%', ],	# Palīgmaiņa
 	[ 'mm', 'm', ],
-	[ '%', 'mm', ],	# Palīgmaiņas novākšana
+	[ '\%', 'mm', ],	# Palīgmaiņas novākšana
 	[ 'm̃', 'm', ],
 	[ 'nn', 'n', ],
 	[ 'ñ', 'n', ],
@@ -121,7 +123,7 @@ our $CENTURY_18TH_TABLE = [
 	[ 'Ping', 'Piņģ', ],
 	[ 'wing', 'w%', ],	# Palīgmaiņa
 	[ 'ing', 'iņ', ],
-	[ '%', 'ing', ],	# Palīgmaiņas novākšana
+	[ '\%', 'ing', ],	# Palīgmaiņas novākšana
 	[ 'ſk', 'sk', '1' ],
 	[ 'ſl', 'sl', '1' ],
 	[ 'ſm', 'sm', '1' ],
@@ -162,7 +164,7 @@ our $CENTURY_18TH_TABLE = [
 	[ 'St', '%t', '1' ],	# Palīgmaiņa
 	[ 'Sl', '%l', '1' ],	# Palīgmaiņa
 	[ 'S', 'z', '1' ],
-	[ '%', 's', ],	# Palīgmaiņas novākšana
+	[ '\%', 's', ],	# Palīgmaiņas novākšana
 ];
 
 our $TABLES_SINGLES = {
@@ -998,11 +1000,11 @@ our $TABLES_SINGLES = {
 		[ 'alla', 'a%a', ],	# Palīgmaiņa
 		[ 'Müll', 'Mü%', '1' ],	# Palīgmaiņa
 		[ 'll', 'l', ],
-		[ '%', 'll', ],	# Palīgmaiņas novākšana
+		[ '\%', 'll', ],	# Palīgmaiņas novākšana
 		[ 'ü', 'i', ],
 		[ 'ikku', 'i%u', ],	# Palīgmaiņa
 		[ 'kk', 'k', ],
-		[ 'i%u', 'ikku', ],	# Palīgmaiņas novākšana
+		[ 'i\%u', 'ikku', ],	# Palīgmaiņas novākšana
 		[ 'ļļ', 'ļ', ],
 		[ 'nn', 'n', ],
 		[ 'ņņ', 'ņ', ],
@@ -1019,7 +1021,7 @@ our $TABLES_SINGLES = {
 		[ 'zz', 'c', ],
 		[ 'Ze', '%e', '1' ],	# Palīgmaiņa
 		[ 'z', 'c', ],
-		[ '%e', 'Ze', ],	# Palīgmaiņas novākšana
+		[ '\%e', 'Ze', ],	# Palīgmaiņas novākšana
 		[ 'ee', 'ie', ],
 		[ 'dſ', 'dz', '1' ],
 		[ 'Dſ', 'Dz', '1' ],
@@ -1040,7 +1042,7 @@ our $TABLES_SINGLES = {
 		[ 'apſch', 'ap%', '1' ],	# Palīgmaiņa
 		[ '\b{wb}ieſch', 'ie%', '1' ],	# Palīgmaiņa
 		[ 'ſchig', '%ig', '1' ],	# Palīgmaiņa
-		[ '%', 'ž', ],	# Palīgmaiņas novākšana
+		[ '\%', 'ž', ],	# Palīgmaiņas novākšana
 		[ 'ſch', 'š', '1' ],
 		[ 'ſh', 'š', '1' ],
 		[ 'uu', 'uvu', ],
@@ -1073,15 +1075,15 @@ our $TABLES_SINGLES = {
 		[ 'Klauſ', 'Klau%', '1' ],	# Palīgmaiņa
 		[ 'eſi', 'ē%i', '1' ],	# Palīgmaiņa
 		[ '\b{wb}ſev\b{wb}', '%ev', '1' ],	# Palīgmaiņa
-		[ '%', 's', ],	# Palīgmaiņas novākšana
+		[ '\%', 's', ],	# Palīgmaiņas novākšana
 		[ 'ſ', 'z', '1' ],
 		[ 'ẜs', 's', '1' ],
 		[ 'ẜ', 's', '1' ],
 		[ 'Suļ', '%uļ', '1' ],	# Palīgmaiņa
 		[ 'Sm', '%m', '1' ],	# Palīgmaiņa
 		[ 'S', 'Z', '1' ],
-		[ '%uļ', 'Suļ', '1' ],	# Palīgmaiņas novākšana
-		[ '%m', 'Sm', '1' ],	# Palīgmaiņa
+		[ '\%uļ', 'Suļ', '1' ],	# Palīgmaiņas novākšana
+		[ '\%m', 'Sm', '1' ],	# Palīgmaiņa
 		[ 'Ꞩ', 'S', '1' ],
 		[ 'sch', 'š', '1' ],
 	],
@@ -1430,7 +1432,7 @@ our $TABLES_SINGLES = {
         [ 'ah', 'ā', ],
         [ 'eh', 'ē', ],
         [ 'uh', 'ū', ],
-        [ '%', 'ie', ],	# Palīgmaiņas novākšana
+        [ '\%', 'ie', ],	# Palīgmaiņas novākšana
         [ 'ee', 'ie', ],
         [ '#', 'z', ],	# Palīgmaiņas novākšana
         [ '\b{wb}us', 'uz', ],
@@ -8434,7 +8436,7 @@ our $TABLES_SINGLES = {
         [ 'ee', 'ie', ],
         [ '#', 'z', ],	# Palīgmaiņas novākšana
         [ '\$', 'zz', ],	# Palīgmaiņas novākšana
-        [ '%', 'll', ],	# Palīgmaiņas novākšana
+        [ '\%', 'll', ],	# Palīgmaiņas novākšana
         [ 'weg', 'vieg', ],
         [ 'DEwa', 'dieva', ],
         [ 'w', 'v', ],
@@ -13536,7 +13538,7 @@ our $TABLES_SINGLES = {
         [ 'elles', 'e%es', ],	# Palīgmaiņa
         [ 'ellē', 'e%ē', ],	# Palīgmaiņa
         [ 'll', 'l', ],
-        [ '%', 'll', ],	# Palīgmaiņas novākšana
+        [ '\%', 'll', ],	# Palīgmaiņas novākšana
         [ 'ļļ', 'ļ', ],
         [ 'mm', 'm', ],
         [ 'kamb', 'ka$', ],	# Palīgmaiņa
@@ -13719,7 +13721,7 @@ our $TABLES_SINGLES = {
         [ 'Gabrie', 'Gabr%', ],	# Palīgmaiņa
         [ 'Danie', 'Dan%', ],	# Palīgmaiņa
         [ 'ie', 'ī', ],
-        [ '%', 'ie', ],	# Palīgmaiņas novākšana
+        [ '\%', 'ie', ],	# Palīgmaiņas novākšana
         [ 'eeh', 'ie', ],
         [ 'eh', 'ē', ],
         [ 'ee', 'ie', ],
@@ -13990,7 +13992,7 @@ our $TABLES_SINGLES = {
         [ 'tz', 'ts', ],
         [ 'z', 'c', ],
         [ 'dt', 't', ],
-        [ '%', 'z', ],	# Palīgmaiņas novākšana
+        [ '\%', 'z', ],	# Palīgmaiņas novākšana
         [ 'ſẜch', 'š', '1' ],
         [ 'ſẜ', 's', '1' ],
         [ 'ſſ', 's', '1' ],
@@ -14827,7 +14829,7 @@ our $TABLES_SINGLES = {
         [ '\b{wb}us', 'u#', ],	# Palīgmaiņa
         [ '=vs', '=u#', ],	# Palīgmaiņa
         [ '\b{wb}vs', 'u#', ],	# Palīgmaiņa
-        [ '%', 'ie', ],	# Palīgmaiņas novākšana
+        [ '\%', 'ie', ],	# Palīgmaiņas novākšana
         [ 'töw', 'tev', ],
         [ 'ölj', 'eļļ', ],
         [ 'kö', 'ķē', ],
@@ -18696,7 +18698,7 @@ our $TABLES_SINGLES = {
 		[ 'dd', 'd', ],
 		[ 'iekk', 'iek%k', ],	# Palīgmaiņa
 		[ 'kk', 'k', ],
-		[ 'iek%k', 'iekk', ],	# Palīgmaiņas novākšana
+		[ 'iek\%k', 'iekk', ],	# Palīgmaiņas novākšana
 		[ 'ẜch', 'š', ],
 		[ 'ẜs', 'ss', ],
 		[ 'ſt', 'st', '1' ],
@@ -18709,7 +18711,7 @@ our $TABLES_SINGLES = {
 		[ 'ſch', 'ž', '1' ],
 		[ 'zz', 'c', ],
 		[ 'z', 'c', ],
-		[ 'd%', 'dz', ],	# Palīgmaiņas novākšana
+		[ 'd\%', 'dz', ],	# Palīgmaiņas novākšana
 		[ 'dẜ', 'dz', '1' ],
 		[ '\b{wb}is', 'iz', ],
 		[ '\b{wb}us', 'uz', '1' ],
@@ -18724,7 +18726,7 @@ our $TABLES_SINGLES = {
 		[ 'ſigs\b{wb}', 'sīgs', '1' ],
 		[ 'ſ', 'z', '1' ],
 		[ 'ds\b{wb}', 'ds%', ],	# Palīgmaiņa
-		[ 'ds%\b{wb}', 'ds', ],	# Palīgmaiņas novākšana
+		[ 'ds\%\b{wb}', 'ds', ],	# Palīgmaiņas novākšana
 		[ 'mūzu', 'mūsu', ],
 		[ 'bes\b{wb}', 'bez', ],
 		[ 'Sem', 'Zem', ],
@@ -18739,14 +18741,14 @@ our $TABLES_SINGLES = {
 		[ 'nosīt', 'nosit', ],
 		[ 'smīt', 'smit', ],
 		[ 'krīt', 'krit', ],
-		[ 'ai%t', 'ait', ],	# Palīgmaiņas novākšana
+		[ 'ai\%t', 'ait', ],	# Palīgmaiņas novākšana
 		[ '\b{wb}īt\b{wb}', 'it', ],
 		[ 'ak\b{wb}', 'āk', '1' ],
 		[ 'aija', 'ai%ja', ],	# Palīgmaiņa
 		[ 'iju', 'īju', ],
 		[ 'ijs\b{wb}', 'ījs', ],
 		[ 'ijis\b{wb}', 'ījis', ],
-		[ 'ai%ja', 'aija', ],	# Palīgmaiņas novākšana
+		[ 'ai\%ja', 'aija', ],	# Palīgmaiņas novākšana
 	],
 	'UKG1693'          => [
 		[ 'ah', 'ā', ],
@@ -19994,7 +19996,7 @@ our $TABLES_SINGLES = {
 		[ 'kk', 'k', ],
 		[ 'allaẜch', 'a%aẜch', ],	# Palīgmaiņa
 		[ 'll', 'l', ],
-		[ '%', 'll', ],	# Palīgmaiņas novākšana
+		[ '\%', 'll', ],	# Palīgmaiņas novākšana
 		[ 'ļļ', 'ļ', ],
 		[ 'w', 'v', ],
 		[ 'z', 'c', ],
