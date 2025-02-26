@@ -22,7 +22,7 @@ NEDEFINĒTS: @0{bienen umbgehet.}
 NEDEFINĒTS: Blackas=§ahl, @v{Dinten} @0{faß.} @v{Pul-}
 NEDEFINĒTS: @0{leichtf.} @v{Leichtfertigkeit}
 NEDEFINĒTS: Bla§ck'=lahd', @0{eine fla§che.}
-NEDEFINĒTS: @v{Bļaut, §chreyen, wie ein} @0{Gekröß}
+NEDEFINĒTS: Bļaut, @v{§chreyen, wie ein} @0{Gekröß}
 NEDEFINĒTS: @0{weg oder davon §eyn.} @v{Zu-}
 NEDEFINĒTS: @v{ver} @0{fiegeln} @v{dielen. 2. eine}
 NEDEFINĒTS: @v{ein} @0{hand} @v{werck§tück.}
@@ -90,7 +90,6 @@ NEDEFINĒTS: @v{beten.} Mahziba @0{(Mah}
 NEDEFINĒTS: @v{lügen.} @0{Mälles kull jeb}
 NEDEFINĒTS: @v{ab} @0{gelogen} @v{lügen.} Jß=
 NEDEFINĒTS: Ma§ta, @v{ein Fadem.} @0{Zick}
-NAV ATĻAUTS: Maut (Bļaut} @v{brüllen}
 NEDEFINĒTS: @v{be§uchen,} @0{erfor§chen.}
 NEDEFINĒTS: Ammat' iß=me§t, @0{aus}
 NEDEFINĒTS: @0{werffen.} @v{Abge§etzt.} Jß=
@@ -236,10 +235,7 @@ NAV ATĻAUTS: '
 NAV ATĻAUTS: '
 NAV ATĻAUTS: '
 NAV ATĻAUTS: '
-NAV ATĻAUTS: ''raug
-NAV ATĻAUTS: =Mitze
-NAV ATĻAUTS: =uhszelt
-NAV ATĻAUTS: =nahris
+NAV ATĻAUTS: ''
 NAV ATĻAUTS: '
 NAV ATĻAUTS: =milti
 NAV ATĻAUTS: '
@@ -253,10 +249,7 @@ NAV ATĻAUTS: '
 NAV ATĻAUTS: '
 NAV ATĻAUTS: '
 NAV ATĻAUTS: '
-NAV ATĻAUTS: ''raug
-NAV ATĻAUTS: =mitze
-NAV ATĻAUTS: =uhszelt
-NAV ATĻAUTS: =nahris
+NAV ATĻAUTS: ''
 NAV ATĻAUTS: '
 NAV ATĻAUTS: =milti
 NAV ATĻAUTS: '
@@ -270,10 +263,7 @@ NAV ATĻAUTS: '
 NAV ATĻAUTS: '
 NAV ATĻAUTS: '
 NAV ATĻAUTS: '
-NAV ATĻAUTS: ''raug
-NAV ATĻAUTS: =mitze
-NAV ATĻAUTS: =uhszelt
-NAV ATĻAUTS: =nahris
+NAV ATĻAUTS: ''
 NAV ATĻAUTS: '
 NAV ATĻAUTS: =milti
 NAV ATĻAUTS: '
@@ -303,7 +293,7 @@ IZMESTS: @0{bienen umbgehet.}
 IZMESTS: Blackas=§ahl, @v{Dinten} @0{faß.} @v{Pul-}
 IZMESTS: @0{leichtf.} @v{Leichtfertigkeit}
 IZMESTS: Bla§ck'=lahd', @0{eine fla§che.}
-IZMESTS: @v{Bļaut, §chreyen, wie ein} @0{Gekröß}
+IZMESTS: Bļaut, @v{§chreyen, wie ein} @0{Gekröß}
 IZMESTS: @0{weg oder davon §eyn.} @v{Zu-}
 IZMESTS: @v{ver} @0{fiegeln} @v{dielen. 2. eine}
 IZMESTS: @v{ein} @0{hand} @v{werck§tück.}
@@ -371,7 +361,6 @@ IZMESTS: @v{beten.} Mahziba @0{(Mah}
 IZMESTS: @v{lügen.} @0{Mälles kull jeb}
 IZMESTS: @v{ab} @0{gelogen} @v{lügen.} Jß=
 IZMESTS: Ma§ta, @v{ein Fadem.} @0{Zick}
-IZMESTS: Maut (Bļaut} @v{brüllen}
 IZMESTS: @v{be§uchen,} @0{erfor§chen.}
 IZMESTS: Ammat' iß=me§t, @0{aus}
 IZMESTS: @0{werffen.} @v{Abge§etzt.} Jß=

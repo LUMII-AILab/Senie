@@ -1,24 +1,24 @@
-Vârdformu skaits:	5201
-Vârdlietojumu skaits:	28857
+Vârdformu skaits:	5202
+Vârdlietojumu skaits:	28898
 
 
-1245	un
-709	irr
-617	to
+1247	un
+710	irr
+619	to
 538	ne
 474	kas
-411	tas
+413	tas
 387	ta
-380	ka
+381	ka
 379	no
 275	eekúch
-268	1
+271	1
 259	es
 252	buhs
 241	ar
 225	tahs
-222	2
-213	mums
+223	2
+215	mums
 199	deewa
 198	bet
 194	tee
@@ -27,8 +27,8 @@ Vârdlietojumu skaits:	28857
 179	tad
 175	teem
 168	3
+166	deews
 166	wiòòa
-164	deews
 162	ko
 160	zaur
 158	pee
@@ -41,7 +41,7 @@ Vârdlietojumu skaits:	28857
 126	jo
 125	kri§tus
 125	par
-115	man
+116	man
 114	4
 112	5
 107	pehz
@@ -51,7 +51,7 @@ Vârdlietojumu skaits:	28857
 92	kungs
 92	tam
 90	muhúu
-86	6
+88	6
 85	deewu
 85	jums
 85	pahr
@@ -61,9 +61,9 @@ Vârdlietojumu skaits:	28857
 77	dahw
 74	grehkeem
 73	ja
-69	weens
+70	weens
+68	8
 67	weenu
-67	8
 66	tawu
 66	zilweks
 65	arrid§an
@@ -73,7 +73,7 @@ Vârdlietojumu skaits:	28857
 61	preekúch
 60	prett
 58	10
-56	9
+57	9
 55	úew
 54	deewam
 54	mann
@@ -82,10 +82,10 @@ Vârdlietojumu skaits:	28857
 52	12
 51	jahn
 51	19
+51	7
 50	kungu
+50	moh§
 50	15
-50	7
-49	moh§
 49	úirds
 49	wahrdu
 48	ta`
@@ -94,9 +94,9 @@ Vârdlietojumu skaits:	28857
 46	nu
 46	wiúúas
 46	wiúúeem
+46	17
 45	13
 45	16
-45	17
 44	20
 43	darriht
 43	eúmu
@@ -109,19 +109,19 @@ Vârdlietojumu skaits:	28857
 42	18
 41	dohd
 41	reem
+41	tehws
 41	14
 41	22
+40	kor
 40	paúchu
-40	tehws
 39	je§us
-39	kor
 39	11
 38	lai
 38	mannu
 38	21
+37	gr
 37	grehku
 37	wiòòam
-36	gr
 36	juhúu
 36	matt
 35	tapehz
@@ -149,13 +149,13 @@ Vârdlietojumu skaits:	28857
 30	gribbu
 30	ir
 30	kam
+30	ïaunu
 30	mannim
 30	tai
 30	wiúúi
 30	zilweku
 30	24
 29	gars
-29	ïaunu
 28	labbu
 28	muh§chigi
 28	úakki
@@ -194,6 +194,7 @@ Vârdlietojumu skaits:	28857
 21	muhúas
 21	úawus
 21	wairak
+21	28
 20	arrig
 20	behrni
 20	buht
@@ -207,7 +208,6 @@ Vârdlietojumu skaits:	28857
 20	taps
 20	wahrda
 20	wahrdeem
-20	28
 19	úawa
 19	schehla§tibas
 19	tehwu
@@ -215,13 +215,13 @@ Vârdlietojumu skaits:	28857
 19	wiúúahm
 19	zilweka
 18	azzis
+18	bij
 18	ikdeenas
 18	luhd§am
 18	meeúu
 18	úwehti
 18	tawa^
 18	zeek
-17	bij
 17	debbes
 17	debbeúi^s
 17	dehla
@@ -281,12 +281,14 @@ Vârdlietojumu skaits:	28857
 14	ikkatrs
 14	kahda
 14	kalpoht
+14	leelu
 14	luhgúchanas
 14	manna^
 14	mihïoht
 14	úakku
 14	§tahw
 14	taiúnibas
+14	tim
 14	tizz
 14	tuwakam
 14	wiòòo
@@ -302,12 +304,10 @@ Vârdlietojumu skaits:	28857
 13	e§ai
 13	je§u
 13	lab
-13	leelu
 13	ohtru
 13	preekúcha^
 13	§taiga
 13	tewi
-13	tim
 13	tizzeht
 13	wahrdi
 13	wairs
@@ -352,6 +352,7 @@ Vârdlietojumu skaits:	28857
 11	nahkt
 11	raddijs
 11	red§i
+11	semmi
 11	úohdibu
 11	úwehtas
 11	tappe
@@ -381,7 +382,6 @@ Vârdlietojumu skaits:	28857
 10	schehla§tiba
 10	úchi
 10	úchinni^
-10	semmi
 10	§tarp
 10	úwehtajs
 10	trihs
@@ -435,6 +435,7 @@ Vârdlietojumu skaits:	28857
 8	brahli
 8	darbu
 8	darrajt
+8	debbeúi
 8	draud§ibu
 8	d§ihwojam
 8	eek§ch
@@ -483,7 +484,6 @@ Vârdlietojumu skaits:	28857
 7	bauúleem
 7	bauúlibu
 7	darrijúchi
-7	debbeúi
 7	debbeúis
 7	d§ird
 7	eòìeli
@@ -519,6 +519,7 @@ Vârdlietojumu skaits:	28857
 7	§tipri
 7	úwehta^
 7	úwehtibas
+7	tahdu
 7	tappis
 7	tohpam
 7	turrahs
@@ -534,6 +535,7 @@ Vârdlietojumu skaits:	28857
 7	zilwekus
 7	37
 6	atgreeúchanas
+6	baggatigi
 6	bauúlibas
 6	bih§tahs
 6	bih§tees
@@ -595,7 +597,6 @@ Vârdlietojumu skaits:	28857
 6	§inna
 6	úirdi^
 6	úirdis
-6	tahdu
 6	taiúnis
 6	taiúnoti
 6	tawus
@@ -615,6 +616,7 @@ Vârdlietojumu skaits:	28857
 6	zitti
 6	zittus
 6	119
+6	39
 6	51
 5	aizinajs
 5	aprakts
@@ -622,7 +624,6 @@ Vârdlietojumu skaits:	28857
 5	atjaunaúchanas
 5	atòemm
 5	atpe§tijs
-5	baggatigi
 5	baggats
 5	behdas
 5	behrns
@@ -735,7 +736,6 @@ Vârdlietojumu skaits:	28857
 5	104
 5	35
 5	36
-5	39
 5	43
 5	53
 5	55
@@ -1190,6 +1190,7 @@ Vârdlietojumu skaits:	28857
 3	turri
 3	ugguni^
 3	uppure
+3	usluhko
 3	usòehme
 3	ustizzigs
 3	wakkar=ehdeenu
@@ -1384,6 +1385,7 @@ Vârdlietojumu skaits:	28857
 2	d§ennahs
 2	d§eººam
 2	d§eººeet
+2	d§ihwajs
 2	d§ihwam
 2	d§ihwi
 2	d§ihwibu
@@ -1916,7 +1918,6 @@ Vârdlietojumu skaits:	28857
 2	uppuºus
 2	usaugt
 2	usklauúija
-2	usluhko
 2	usòemt
 2	usturreúchanas
 2	uswarram
@@ -2610,7 +2611,6 @@ Vârdlietojumu skaits:	28857
 1	d§ihres
 1	d§ihtohs
 1	d§ihwa
-1	d§ihwajs
 1	d§ihweem
 1	dúihwibas
 1	d§ihwiga
@@ -3352,6 +3352,7 @@ Vârdlietojumu skaits:	28857
 1	mahziti
 1	maitaht
 1	maitatas
+1	makk
 1	makkab
 1	maííeniht
 1	makúaht

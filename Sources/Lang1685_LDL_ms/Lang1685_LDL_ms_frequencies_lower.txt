@@ -1,5 +1,5 @@
-Vârdformu skaits:	13757
-Vârdlietojumu skaits:	24473
+Vârdformu skaits:	13756
+Vârdlietojumu skaits:	24475
 
 
 256	nhe
@@ -26,7 +26,7 @@ Vârdlietojumu skaits:	24473
 77	u
 69	k
 67	w
-66	l
+65	l
 63	par
 61	eet
 61	p
@@ -577,6 +577,7 @@ Vârdlietojumu skaits:	24473
 4	miht
 4	mutza
 4	nackts
+4	nahris
 4	neds
 4	nhe{nhe=}
 4	nhelaim'
@@ -876,6 +877,7 @@ Vârdlietojumu skaits:	24473
 3	marias
 3	ma§a
 3	mauka
+3	maut
 3	meckläh
 3	meera`
 3	me§tees
@@ -891,7 +893,6 @@ Vârdlietojumu skaits:	24473
 3	mulkis
 3	muttes
 3	nackti
-3	nahris
 3	nahts
 3	na§t'
 3	nebba
@@ -1075,6 +1076,7 @@ Vârdlietojumu skaits:	24473
 3	uhsleet
 3	uhsme§t
 3	uhsúatziht
+3	uhszelt
 3	u§ch
 3	u§chnes
 3	uttes
@@ -1255,6 +1257,7 @@ Vârdlietojumu skaits:	24473
 2	bittneeks
 2	bixes
 2	blähòas
+2	bïaut
 2	bleekäht
 2	bïohda
 2	brack§chkäh
@@ -1791,7 +1794,6 @@ Vârdlietojumu skaits:	24473
 2	ma§ta
 2	matts
 2	mauko=d§inneis
-2	maut
 2	mednis
 2	meega`
 2	meegs
@@ -2476,7 +2478,6 @@ Vârdlietojumu skaits:	24473
 2	uhswarräht
 2	uhswilkt
 2	uhswirt
-2	uhszelt
 2	uhszir§t
 2	ulla
 2	uppurs
@@ -2620,11 +2621,8 @@ Vârdlietojumu skaits:	24473
 2	zuhk'
 1	__
 1	_weeres=§ähkli
-1	''raug
+1	''
 1	=milti
-1	=mitze
-1	=nahris
-1	=uhszelt
 1	ab=gahni§chana
 1	ab=jautaht
 1	abba
@@ -4034,7 +4032,6 @@ Vârdlietojumu skaits:	24473
 1	bla§chka
 1	bla§chkaht
 1	bla§chkis
-1	bïaut
 1	bleckis
 1	bleeckis
 1	blendees
@@ -7895,6 +7892,7 @@ Vârdlietojumu skaits:	24473
 1	mittriba{mit triba}
 1	mittru
 1	mittrums
+1	mitze
 1	mohdinaht
 1	mohdriba
 1	mohka
@@ -10151,6 +10149,7 @@ Vârdlietojumu skaits:	24473
 1	raud§ijis
 1	raud§iúim
 1	raud§i§im
+1	raug
 1	rauga
 1	rauìam
 1	rauìs

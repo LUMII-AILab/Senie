@@ -1,5 +1,5 @@
-Vârdformu skaits:	14876
-Vârdlietojumu skaits:	24473
+Vârdformu skaits:	14874
+Vârdlietojumu skaits:	24475
 
 
 225	A
@@ -778,6 +778,7 @@ Vârdlietojumu skaits:	24473
 3	ma§a
 3	matti
 3	Mauka
+3	Maut
 3	meckläh
 3	meddiht
 3	Meera`
@@ -1129,6 +1130,7 @@ Vârdlietojumu skaits:	24473
 2	Bittneeks
 2	Bixes
 2	Blähòas
+2	Bïaut
 2	Bïohda
 2	brack§chkäh
 2	brähkt
@@ -1639,7 +1641,6 @@ Vârdlietojumu skaits:	24473
 2	Ma§§alas
 2	Ma§ta
 2	Mauko=d§inneis
-2	Maut
 2	Meckläht
 2	Mednis
 2	Meegs
@@ -1685,6 +1686,7 @@ Vârdlietojumu skaits:	24473
 2	Nacktes
 2	Naìgi
 2	Naììus
+2	nahris
 2	Nahris
 2	Nai§a
 2	Nai§ta
@@ -2237,6 +2239,7 @@ Vârdlietojumu skaits:	24473
 2	uhslickt
 2	uhsúatziht
 2	uhstai§§iht
+2	uhszelt
 2	Ulla
 2	Uppurs
 2	u§ch
@@ -2385,11 +2388,8 @@ Vârdlietojumu skaits:	24473
 2	Zuhk'
 1	__
 1	_weeres=§ähkli
-1	''raug
+1	''
 1	=milti
-1	=Mitze
-1	=nahris
-1	=uhszelt
 1	a
 1	abba
 1	abbas
@@ -3920,7 +3920,6 @@ Vârdlietojumu skaits:	24473
 1	bla§chka
 1	Bla§chkaht
 1	bla§chkis
-1	Bïaut
 1	Bleckis
 1	Bleeckis
 1	bleekäht
@@ -7283,7 +7282,6 @@ Vârdlietojumu skaits:	24473
 1	kuttina§chana
 1	kywen'
 1	kywens
-1	l
 1	Laatz
 1	lab=praht
 1	Labap§pihd'
@@ -8305,6 +8303,7 @@ Vârdlietojumu skaits:	24473
 1	Mittris
 1	Mittru
 1	Mittrums
+1	Mitze
 1	Mohdinaht
 1	Mohdriba
 1	mohdriìs
@@ -8460,7 +8459,6 @@ Vârdlietojumu skaits:	24473
 1	Nahkt
 1	nahku
 1	Nahmens
-1	nahris
 1	Nahroht
 1	Nah§ihs
 1	Näh§is
@@ -10819,6 +10817,7 @@ Vârdlietojumu skaits:	24473
 1	raud§ijis
 1	raud§iúim
 1	raud§i§im
+1	raug
 1	Rauga
 1	rauìam
 1	Rauìs
@@ -13936,7 +13935,6 @@ Vârdlietojumu skaits:	24473
 1	Uhswirt
 1	uhszell
 1	Uhszeïïams
-1	uhszelt
 1	Uhszelt
 1	Uhszeltees
 1	uhszir§t

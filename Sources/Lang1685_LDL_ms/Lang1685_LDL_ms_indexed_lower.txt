@@ -1,5 +1,5 @@
-Vârdformu skaits:	13757
-Vârdlietojumu skaits:	24473
+Vârdformu skaits:	13756
+Vârdlietojumu skaits:	24475
 
 
 __
@@ -31,7 +31,7 @@ _weeres=§ähkli
 	9
 
 
-''raug
+''
 
 	1 Lang1685_LDL_ms 77D.lpp. 21.r.
 	-----
@@ -41,27 +41,6 @@ _weeres=§ähkli
 =milti
 
 	1 Lang1685_LDL_ms 105C.lpp. 4.r.
-	-----
-	1
-
-
-=mitze
-
-	1 Lang1685_LDL_ms 87A.lpp. 1.r.
-	-----
-	1
-
-
-=nahris
-
-	1 Lang1685_LDL_ms 89C.lpp. 22.r.
-	-----
-	1
-
-
-=uhszelt
-
-	1 Lang1685_LDL_ms 87A.lpp. 15.r.
 	-----
 	1
 
@@ -12622,8 +12601,9 @@ bla§chkis
 bïaut
 
 	1 Lang1685_LDL_ms 13B.lpp. 20.r.
+	1 Lang1685_LDL_ms 82A.lpp. 19.r.
 	-----
-	1
+	2
 
 
 bleckis
@@ -20790,7 +20770,7 @@ ee=mantoht
 
 ee=maut'
 
-	1 Lang1685_LDL_ms 82A.lpp. 26.r.
+	1 Lang1685_LDL_ms 82A.lpp. 27.r.
 	-----
 	1
 
@@ -22061,7 +22041,7 @@ eelickt
 	1 Lang1685_LDL_ms 72B.lpp. 4.r.
 	1 Lang1685_LDL_ms 72B.lpp. 6.r.
 	1 Lang1685_LDL_ms 72B.lpp. 8.r.
-	1 Lang1685_LDL_ms 82A.lpp. 26.r.
+	1 Lang1685_LDL_ms 82A.lpp. 27.r.
 	1 Lang1685_LDL_ms 112D.lpp. 24.r.
 	1 Lang1685_LDL_ms 113B.lpp. 22.r.
 	1 Lang1685_LDL_ms 130D.lpp. 21.r.
@@ -22193,15 +22173,15 @@ eemaut
 
 	1 Lang1685_LDL_ms 12A.lpp. 13.r.
 	1 Lang1685_LDL_ms 12A.lpp. 14.r.
-	1 Lang1685_LDL_ms 82A.lpp. 23.r.
 	1 Lang1685_LDL_ms 82A.lpp. 24.r.
+	1 Lang1685_LDL_ms 82A.lpp. 25.r.
 	-----
 	4
 
 
 eemauta`
 
-	1 Lang1685_LDL_ms 82A.lpp. 28.r.
+	1 Lang1685_LDL_ms 82A.lpp. 29.r.
 	-----
 	1
 
@@ -22216,7 +22196,7 @@ eemauta=úixnis
 eemauts
 
 	1 Lang1685_LDL_ms 12A.lpp. 12.r.
-	1 Lang1685_LDL_ms 82A.lpp. 24.r.
+	1 Lang1685_LDL_ms 82A.lpp. 25.r.
 	-----
 	2
 
@@ -41588,7 +41568,6 @@ kywens
 l
 
 	1 Lang1685_LDL_ms 19A.lpp. 1.r.
-	1 Lang1685_LDL_ms 19A.lpp. 19.r.
 	1 Lang1685_LDL_ms 19B.lpp. 1.r.
 	1 Lang1685_LDL_ms 35B.lpp. 1.r.
 	1 Lang1685_LDL_ms 40C.lpp. 1.r.
@@ -41654,7 +41633,7 @@ l
 	1 Lang1685_LDL_ms 135C.lpp. 1.r.
 	1 Lang1685_LDL_ms 135D.lpp. 1.r.
 	-----
-	66
+	65
 
 
 laatz
@@ -49055,7 +49034,7 @@ maukoht
 
 mau§chana
 
-	1 Lang1685_LDL_ms 82A.lpp. 21.r.
+	1 Lang1685_LDL_ms 82A.lpp. 22.r.
 	-----
 	1
 
@@ -49063,9 +49042,10 @@ mau§chana
 maut
 
 	1 Lang1685_LDL_ms 13B.lpp. 23.r.
-	1 Lang1685_LDL_ms 82A.lpp. 23.r.
+	1 Lang1685_LDL_ms 82A.lpp. 19.r.
+	1 Lang1685_LDL_ms 82A.lpp. 24.r.
 	-----
-	2
+	3
 
 
 mauzeneeks
@@ -50962,6 +50942,13 @@ mittrums
 	1
 
 
+mitze
+
+	1 Lang1685_LDL_ms 87A.lpp. 2.r.
+	-----
+	1
+
+
 mohdinaht
 
 	1 Lang1685_LDL_ms 87A.lpp. 14.r.
@@ -52357,8 +52344,9 @@ nahris
 
 	1 Lang1685_LDL_ms 89C.lpp. 19.r.
 	2 Lang1685_LDL_ms 89C.lpp. 20.r.
+	1 Lang1685_LDL_ms 89C.lpp. 23.r.
 	-----
-	3
+	4
 
 
 nahroht
@@ -71436,6 +71424,13 @@ raud§i§im
 	1
 
 
+raug
+
+	1 Lang1685_LDL_ms 77D.lpp. 21.r.
+	-----
+	1
+
+
 rauì
 
 	1 Lang1685_LDL_ms 29B.lpp. 20.r.
@@ -82784,7 +82779,7 @@ sird§ings
 
 sirì
 
-	1 Lang1685_LDL_ms 82A.lpp. 24.r.
+	1 Lang1685_LDL_ms 82A.lpp. 25.r.
 	-----
 	1
 
@@ -96215,7 +96210,7 @@ turräht
 	1 Lang1685_LDL_ms 58B.lpp. 23.r.
 	1 Lang1685_LDL_ms 77A.lpp. 9.r.
 	1 Lang1685_LDL_ms 81D.lpp. 11.r.
-	1 Lang1685_LDL_ms 82A.lpp. 28.r.
+	1 Lang1685_LDL_ms 82A.lpp. 29.r.
 	1 Lang1685_LDL_ms 84D.lpp. 10.r.
 	1 Lang1685_LDL_ms 89A.lpp. 22.r.
 	1 Lang1685_LDL_ms 90D.lpp. 3.r.
@@ -98388,9 +98383,10 @@ uhszeïïams
 uhszelt
 
 	1 Lang1685_LDL_ms 6B.lpp. 1.r.
+	1 Lang1685_LDL_ms 87A.lpp. 16.r.
 	1 Lang1685_LDL_ms 178C.lpp. 30.r.
 	-----
-	2
+	3
 
 
 uhszeltees
