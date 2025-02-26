@@ -8,6 +8,7 @@ our @ISA = qw(Exporter);
 our @EXPORT_OK = qw(canDecode decode isLanguage mustIncludeLanguage);
 
 our $CODES = {
+	'0' => { 'Name' => 'Strikethrough', 'IsLang' => 0},
 	'1' => { 'Name' => 'Sheet', 'IsLang' => 0, },
 	'2' => { 'Name' => 'Title (even)', 'IsLang' => 0, },
 	'3' => { 'Name' => 'Title (odd)', 'IsLang' => 0, },

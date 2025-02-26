@@ -90,8 +90,9 @@ public class Unhyphener extends Recognizer {
 			if (concat) {
 				Matcher mPage = getPagePattern().matcher(curr);
 				Matcher mLang = getLangPattern().matcher(curr);
+				Matcher mStrikethrough = getStrikethroughPattern().matcher(curr); // Pievienots 2025-02-26, lai tiktu galā ar izsvītrotajiem vardiem, cerams, neko nesalauzīs
 
-				if (!mPage.matches() && !mLang.matches()) {
+				if (!mPage.matches() && !mLang.matches() && !mStrikethrough.matches()) {
 					// Check for hyphenation over pages
 					
 					if (curr.indexOf(" ") != -1) {
@@ -135,13 +136,14 @@ public class Unhyphener extends Recognizer {
 						}
 					}
 				}
-				else if (!mLang.matches()) {
+				else if (!mLang.matches() && !mStrikethrough.matches()) {
 					page = curr;
 					crossPage = true;
 					curr = reader.readLine();
 					
 					skipped_rows.clear(); 
-					while (curr.matches(getLangPattern().pattern()) || curr.matches(getPagePattern().pattern())) {
+					while (curr.matches(getLangPattern().pattern()) || curr.matches(getPagePattern().pattern())
+							|| curr.matches(getStrikethroughPattern().pattern())) {
 						// Piem., Manc1638_Run: 431A.lpp., 466A.lpp. un 468A.lpp.:
 						// iepriekšējā lpp. ir pārnesums, kuram otra daļa ir jāmeklē aiznākamajā lpp.
 						// (oriģinālā lapas ir sadalītas divās kolonnās - paralēlais teksts).
@@ -166,7 +168,7 @@ public class Unhyphener extends Recognizer {
 						printType = PT_MULTI_CROSS;
 					}
 				}
-				else {								//Seko valodas tags
+				else {								//Seko valodas tags // vai izsvītrotais (kopš 2025-02-26)
 					tight = prev;
 					writer.write(normalizeHyphens(tight) + "\r\n");
 					printType = PT_SINGLE_HYPHEN;

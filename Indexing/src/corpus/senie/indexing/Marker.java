@@ -188,6 +188,17 @@ public class Marker extends Recognizer {
 		return mLang.replaceAll("<span class=\"lang\">$2</span>");
 	}
 
+	/**
+	 * Highlights strikethrough language fragments.
+	 *
+	 * @param line - line to search for fragments.
+	 * @return marked line.
+	 */
+	public String markupStrikethrough(String line) {
+		Matcher mLang = getStrikethroughPattern().matcher(line);
+		return mLang.replaceAll("<span class=\"strikethrough\">$1</span>");
+	}
+
 
 	/**
 	 * Highlights manually entered text fragments.
@@ -289,6 +300,7 @@ public class Marker extends Recognizer {
 				if (!line.isEmpty()) {
 					line = markupComment(line);
 					line = markupLang(line);
+					line = markupStrikethrough(line);
 					line = markupNote(line);
 					line = markupManual(line);
 					line = markupErrata(line);
@@ -311,6 +323,7 @@ public class Marker extends Recognizer {
 			else if (mMixed.matches()) {
 				line = markupComment(line);
 				line = markupLang(line);
+				line = markupStrikethrough(line);
 				line = markupNote(line);
 				line = markupManual(line);
 				line = markupErrata(line);
@@ -366,6 +379,7 @@ public class Marker extends Recognizer {
 			else if (mMixed.matches()) {
 				line = markupComment(line);
 				line = markupLang(line);
+				line = markupStrikethrough(line);
 				line = markupNote(line);
 				line = markupManual(line);
 				line = markupErrata(line);
@@ -440,6 +454,7 @@ public class Marker extends Recognizer {
 			else if (mMixed.matches()) {
 				line = markupComment(line);
 				line = markupLang(line);
+				line = markupStrikethrough(line);
 				line = markupNote(line);
 				line = markupManual(line);
 				line = markupErrata(line);
@@ -505,6 +520,7 @@ public class Marker extends Recognizer {
 				if (!line.equals("")) {
 					line = markupComment(line);
 					line = markupLang(line);
+					line = markupStrikethrough(line);
 					line = markupNote(line);
 					line = markupManual(line);
 					line = markupErrata(line);
@@ -527,6 +543,7 @@ public class Marker extends Recognizer {
 			else if (mMixed.matches()) {
 				line = markupComment(line);
 				line = markupLang(line);
+				line = markupStrikethrough(line);
 				line = markupNote(line);
 				line = markupManual(line);
 				line = markupErrata(line);

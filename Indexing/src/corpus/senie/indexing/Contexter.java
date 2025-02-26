@@ -253,6 +253,7 @@ public class Contexter extends Recognizer {
 				if (!line.isEmpty()) {
 					line = marker.markupComment(line);
 					line = marker.markupLang(line);
+					line = marker.markupStrikethrough(line);
 					line = marker.markupNote(line);
 					line = marker.markupManual(line);
 					line = marker.markupErrata(line);
@@ -275,6 +276,7 @@ public class Contexter extends Recognizer {
 			else if (mMixed.matches() && verse != -1) {
 				line = marker.markupComment(line);
 				line = marker.markupLang(line);
+				line = marker.markupStrikethrough(line);
 				line = marker.markupNote(line);
 				line = marker.markupManual(line);
 				line = marker.markupErrata(line);
@@ -339,6 +341,7 @@ public class Contexter extends Recognizer {
 			else if (mMixed.matches()) {
 				line = marker.markupComment(line);
 				line = marker.markupLang(line);
+				line = marker.markupStrikethrough(line);
 				line = marker.markupNote(line);
 				line = marker.markupManual(line);
 				line = marker.markupErrata(line);
@@ -406,6 +409,7 @@ public class Contexter extends Recognizer {
 				if (!line.isEmpty()) {
 					line = marker.markupComment(line);
 					line = marker.markupLang(line);
+					line = marker.markupStrikethrough(line);
 					line = marker.markupNote(line);
 					line = marker.markupManual(line);
 					line = marker.markupErrata(line);
@@ -428,6 +432,7 @@ public class Contexter extends Recognizer {
 			else if (mMixed.matches()) {
 				line = marker.markupComment(line);
 				line = marker.markupLang(line);
+				line = marker.markupStrikethrough(line);
 				line = marker.markupNote(line);
 				line = marker.markupManual(line);
 				line = marker.markupErrata(line);

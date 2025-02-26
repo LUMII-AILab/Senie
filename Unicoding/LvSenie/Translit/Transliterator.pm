@@ -95,7 +95,7 @@ sub transliterateString
 
 	# To avoid replacements in small foreign fragments within the line
 	# we encode them: each character is enclosed in \N{U+E001} and \N{U+E002}.
-	$line =~ s/(\@[1abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
+	$line =~ s/(\@[01abcdefghilnrsvxz]\{)([^}]*({[^}]*}[^}]*)*)\}/$1${\( &encodeString($2) )}\}/g;
 	return decodeString(smartLowercase($line)) unless ($table and @$table);
 
 	#my $printDebugInfo = ($line and grep(/\Q$line\E/, @debugLines));

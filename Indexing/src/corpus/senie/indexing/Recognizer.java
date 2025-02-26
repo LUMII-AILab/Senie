@@ -30,6 +30,7 @@ public class Recognizer extends Object {
 	private Pattern pParallel;
 	private Pattern pPlain;
 	private Pattern pSource;
+	private Pattern pStrikethrough; // Added 2025-02-26, hopefully right
 	private Pattern pVerseExGNP;	// External+Extended formatting
 	private Pattern pVerseGNP;		// Internal formatting
 	private Pattern pVerseExP;		// External+Extended formatting
@@ -67,14 +68,16 @@ public class Recognizer extends Object {
 		pParallel   = Pattern.compile("@t\\{(" + plain + ")\\}");						// Synchronize with pIgnore
 		pPlain      = Pattern.compile("(" + plain + ")");
 		pSource     = Pattern.compile("@z\\{(\\w+)\\}");
+		pStrikethrough = Pattern.compile("@0\\{(" + plain + ")\\}");					// Synchronize with pIgnorepComment    = Pattern.compile("@k\\{(" + plain + ")\\}");						// Synchronize with pIgnore
 		pComment    = Pattern.compile("@k\\{(" + plain + ")\\}");						// Synchronize with pIgnore
-		pIgnore     = Pattern.compile("@[bcedfhijkloprstvx123]\\{(" + plain + ")\\}");	// Exclude from the index (except for GNP; see Cleaner)
+		pIgnore     = Pattern.compile("@[bcedfhijkloprstvx0123]\\{(" + plain + ")\\}");	// Exclude from the index (except for GNP; see Cleaner)
 		
 		String mixed = "(" + plain + "((";
 		mixed += pErrata.pattern() + ")|(";
 		mixed += pLang.pattern() + ")|(";
 		mixed += pManual.pattern() + ")|(";
 		mixed += pNote.pattern() + ")|(";
+		mixed += pStrikethrough.pattern() + ")|(";
 		mixed += pComment.pattern() + "))";
 		mixed += plain + ")+";
 
@@ -179,6 +182,16 @@ public class Recognizer extends Object {
 	 */
 	public Pattern getLangPattern() {
 		return pLang;
+	}
+
+	/**
+	 * Returns a pattern for recognition of strikeout tags.
+	 * Groups: 1. -  all tag content.
+	 *
+	 * @return compiled pattern.
+	 */
+	public Pattern getStrikethroughPattern() {
+		return pStrikethrough;
 	}
 
 
