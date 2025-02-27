@@ -1877,7 +1877,6 @@ Vârdlietojumu skaits:	24654
 2	Protiì
 2	Puckaht
 2	Puhkis
-2	Puhºo
 2	Puhrs
 2	puh§ch
 2	puh§t
@@ -2300,6 +2299,7 @@ Vârdlietojumu skaits:	24654
 2	Währ§t
 2	währt
 2	Wahrtis
+2	Währts
 2	Wäh§t'
 2	Wäh§ta
 2	Wähtris
@@ -2416,7 +2416,6 @@ Vârdlietojumu skaits:	24654
 1	__
 1	_weeres=§ähkli
 1	''
-1	=milti
 1	a
 1	abba
 1	abbas
@@ -10591,7 +10590,9 @@ Vârdlietojumu skaits:	24654
 1	Puhra
 1	Puhri
 1	Puhºi
+1	Puhºo
 1	Puhro=Mai§e
+1	Puhro=milti{(Puhºo)=milti}
 1	puh§chana
 1	Puh§chlis
 1	Puh§les
@@ -10736,7 +10737,7 @@ Vârdlietojumu skaits:	24654
 1	Queekt
 1	Queeúchi
 1	Queeúcho
-1	Quee§cho
+1	Quee§cho=milti{Quee§cho}
 1	Quickúchkähjums
 1	Quick§chkäht
 1	Quinckt
@@ -14212,7 +14213,6 @@ Vârdlietojumu skaits:	24654
 1	Wahrtiúchana
 1	Wahrtitees
 1	Wahrtneeks
-1	Währts
 1	Wahrzinaht
 1	wah§ch
 1	wah§ch'

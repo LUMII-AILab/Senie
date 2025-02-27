@@ -38,13 +38,6 @@ _weeres=§ähkli
 	1
 
 
-=milti
-
-	1 Lang1685_LDL_ms 105C.lpp. 4.r.
-	-----
-	1
-
-
 a
 
 	1 Lang1685_LDL_ms 5A.lpp. 3.r.
@@ -73725,14 +73718,20 @@ Puhºi
 Puhºo
 
 	1 Lang1685_LDL_ms 85B.lpp. 32.r.
-	1 Lang1685_LDL_ms 105C.lpp. 4.r.
 	-----
-	2
+	1
 
 
 Puhro=Mai§e
 
 	1 Lang1685_LDL_ms 102D.lpp. 17.r.
+	-----
+	1
+
+
+Puhro=milti{(Puhºo)=milti}
+
+	1 Lang1685_LDL_ms 105C.lpp. 4.r.
 	-----
 	1
 
@@ -75072,7 +75071,7 @@ Queeúcho
 	1
 
 
-Quee§cho
+Quee§cho=milti{Quee§cho}
 
 	1 Lang1685_LDL_ms 105C.lpp. 4.r.
 	-----
@@ -106734,9 +106733,10 @@ Wahrtneeks
 
 Währts
 
+	1 Lang1685_LDL_ms 177A.lpp. 14.r.
 	1 Lang1685_LDL_ms 177A.lpp. 15.r.
 	-----
-	1
+	2
 
 
 Wahrzinaht
