@@ -2,13 +2,7 @@ package corpus.senie.indexing;
 
 import corpus.senie.util.IndexType;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.regex.Matcher;
 
 
@@ -18,7 +12,7 @@ import java.util.regex.Matcher;
  */
 public class Cleaner extends Recognizer {
 
-	private BufferedReader reader;
+	private LineNumberReader reader;
 	private BufferedWriter writer;
 	private Logger log;
 	
@@ -53,9 +47,9 @@ public class Cleaner extends Recognizer {
 	 * @param line - a line to validate; the length must be at least 1.
 	 * @return true if braces are balanced, false otherwise.
 	 */
-	private boolean validBracesInContext(String line) {
+	private boolean validBracesInContext(String line, int lineNumber) {
 		Matcher mSuspicious = getSuspicBracesPattern().matcher(line);
-		if (mSuspicious.find()) log.append(Logger.SUSPICIOUS, decodeNestedBraces(line));
+		if (mSuspicious.find()) log.append(Logger.SUSPICIOUS, lineNumber, decodeNestedBraces(line));
 		
 		return validBraces(line);
 	}
@@ -69,7 +63,7 @@ public class Cleaner extends Recognizer {
 	public Cleaner(String source) throws IOException {
 		super();
 
-		reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
+		reader = new LineNumberReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
 		writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + "_cleaned.txt"), "Cp1257"));
 		log = new Logger(source, "TEKSTA ATTĪRĪŠANA UN PĀRBAUDE", false);
 	}
@@ -99,13 +93,14 @@ public class Cleaner extends Recognizer {
 		String line = "";
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			Matcher mVerse = getVerseExGNPPattern().matcher(line);
 			Matcher mSuspic = getSuspicVersePattern().matcher(line);
 			
 			if (!mVerse.matches()) {
 				// It's important to keep first two white spaces of line that represents beginning of verse
 				// to recognize it in further processing.
-				if (mSuspic.matches()) log.append(Logger.SUSPICIOUS, line);
+				if (mSuspic.matches()) log.append(Logger.SUSPICIOUS, lineNumber, line);
 				line = encodeNestedBraces(line.trim());
 			}
 
@@ -124,7 +119,7 @@ public class Cleaner extends Recognizer {
 			else if (mWaste.matches()) {
 				//log.append(Logger.DROPPED, line);
 			}
-			else if (mVerse.matches() && validBracesInContext(line)) {
+			else if (mVerse.matches() && validBracesInContext(line, lineNumber)) {
 				String num = mVerse.group(1);
 
 				String txt = mVerse.group(2).trim();
@@ -133,18 +128,18 @@ public class Cleaner extends Recognizer {
 				writer.write("@@" + num + ". " + decodeNestedBraces(txt) + "\r\n");
 			}
 			else if (mChapter.matches() || mBook.matches() || mAuthor.matches() || mSource.matches()
-					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line))) {
+					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line, lineNumber))) {
 				writer.write(decodeNestedBraces(line) + "\r\n");	// Do not change that type of line
 			}
-			else if (mMixed.matches() && validBracesInContext(line)) {
+			else if (mMixed.matches() && validBracesInContext(line, lineNumber)) {
 				line = cleanupWaste(cleanupManual(line));			// Clean up the mixed line
 				if (!line.isEmpty()) writer.write(decodeNestedBraces(line) + "\r\n");
 			}
 			else if (!line.isEmpty()) {
-				if (!validBracesInContext(line)) {
-					log.append(Logger.ILLEGAL, decodeNestedBraces(line));	// Braces are not well-formed
+				if (!validBracesInContext(line, lineNumber)) {
+					log.append(Logger.ILLEGAL, lineNumber, decodeNestedBraces(line));	// Braces are not well-formed
 				} else {
-					log.append(Logger.UNDEFINED, decodeNestedBraces(line));	// Line did not match any pattern
+					log.append(Logger.UNDEFINED, lineNumber, decodeNestedBraces(line));	// Line did not match any pattern
 				}
 			}
 		}
@@ -159,11 +154,12 @@ public class Cleaner extends Recognizer {
 
 		while ((line = reader.readLine()) != null) {
 			line = line.trim();
+			int lineNumber = reader.getLineNumber();
 			
 			Matcher mPage = getPagePattern().matcher(line);
 			Matcher mSuspicPage = getSuspicPagePattern().matcher(line);
 			
-			if (!mPage.matches() && mSuspicPage.matches()) log.append(Logger.SUSPICIOUS, line); 
+			if (!mPage.matches() && mSuspicPage.matches()) log.append(Logger.SUSPICIOUS, lineNumber, line);
 			
 			line = encodeNestedBraces(line);
 			
@@ -180,18 +176,18 @@ public class Cleaner extends Recognizer {
 				//log.append(Logger.DROPPED, line);
 			}
 			else if (mWaste.matches() || mPage.matches() ||	mAuthor.matches() || mSource.matches()
-					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line))) {
+					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line, lineNumber))) {
 				writer.write(decodeNestedBraces(line) + "\r\n");	// Do not change that type of line
 			}
-			else if (mMixed.matches() && validBracesInContext(line)) {
+			else if (mMixed.matches() && validBracesInContext(line, lineNumber)) {
 				line = cleanupWaste(cleanupManual(line));			// Clean up the mixed line
 				if (!line.isEmpty()) writer.write(decodeNestedBraces(line) + "\r\n");
 			}
 			else if (!line.isEmpty()) {
-				if (!validBracesInContext(line)) {
-					log.append(Logger.ILLEGAL, decodeNestedBraces(line));	// Braces are not well-formed
+				if (!validBracesInContext(line, lineNumber)) {
+					log.append(Logger.ILLEGAL, lineNumber, decodeNestedBraces(line));	// Braces are not well-formed
 				} else {
-					log.append(Logger.UNDEFINED, decodeNestedBraces(line));	// Line did not match any pattern
+					log.append(Logger.UNDEFINED, lineNumber, decodeNestedBraces(line));	// Line did not match any pattern
 				}
 			}
 		}
@@ -200,18 +196,19 @@ public class Cleaner extends Recognizer {
 	/**
 	 * Processes source text according to rules of book->page->row structure.
 	 *
-	 * Note: this is added >10 years latter without clear understanding.
+	 * Note: this is added >10 years later without clear understanding.
 	 */
 	public void cleanGLR() throws IOException {
 		String line = "";
 
 		while ((line = reader.readLine()) != null) {
 			line = line.trim();
+			int lineNumber = reader.getLineNumber();
 
 			Matcher mPage = getPagePattern().matcher(line);
 			Matcher mSuspicPage = getSuspicPagePattern().matcher(line);
 
-			if (!mPage.matches() && mSuspicPage.matches()) log.append(Logger.SUSPICIOUS, line);
+			if (!mPage.matches() && mSuspicPage.matches()) log.append(Logger.SUSPICIOUS, lineNumber, line);
 
 			line = encodeNestedBraces(line);
 
@@ -230,18 +227,18 @@ public class Cleaner extends Recognizer {
 				//log.append(Logger.DROPPED, line);
 			}
 			else if (mWaste.matches() || mPage.matches() ||	mBook.matches() || mAuthor.matches() || mSource.matches()
-					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line))) {
+					|| (!line.isEmpty() && mPlain.matches() && validBracesInContext(line, lineNumber))) {
 				writer.write(decodeNestedBraces(line) + "\r\n");	// Do not change that type of line
 			}
-			else if (mMixed.matches() && validBracesInContext(line)) {
+			else if (mMixed.matches() && validBracesInContext(line, lineNumber)) {
 				line = cleanupWaste(cleanupManual(line));			// Clean up the mixed line
 				if (!line.isEmpty()) writer.write(decodeNestedBraces(line) + "\r\n");
 			}
 			else if (!line.isEmpty()) {
-				if (!validBracesInContext(line)) {
-					log.append(Logger.ILLEGAL, decodeNestedBraces(line));	// Braces are not well-formed
+				if (!validBracesInContext(line, lineNumber)) {
+					log.append(Logger.ILLEGAL, lineNumber, decodeNestedBraces(line));	// Braces are not well-formed
 				} else {
-					log.append(Logger.UNDEFINED, decodeNestedBraces(line));	// Line did not match any pattern
+					log.append(Logger.UNDEFINED, lineNumber, decodeNestedBraces(line));	// Line did not match any pattern
 				}
 			}
 		}
@@ -254,13 +251,14 @@ public class Cleaner extends Recognizer {
 		String line = "";
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			Matcher mVerse = getVerseExPPattern().matcher(line);
 			Matcher mSuspic = getSuspicVersePattern().matcher(line);
 
 			if (!mVerse.matches()) {						
 				// It's important to keep first two white spaces of line that represents beginning of verse
 				// to recognize it in further processing.
-				if (mSuspic.matches()) log.append(Logger.SUSPICIOUS, line); 
+				if (mSuspic.matches()) log.append(Logger.SUSPICIOUS, lineNumber, line);
 				line = encodeNestedBraces(line.trim()); 
 			}
 
@@ -273,7 +271,7 @@ public class Cleaner extends Recognizer {
 			if (mWaste.matches()) {
 				//log.append(Logger.DROPPED, line);
 			}
-			else if (mVerse.matches() && validBracesInContext(line)) {
+			else if (mVerse.matches() && validBracesInContext(line, lineNumber)) {
 				String num = mVerse.group(1);
 
 				String txt = mVerse.group(3).trim();
@@ -281,18 +279,18 @@ public class Cleaner extends Recognizer {
 
 				writer.write("@@" + num + " " + decodeNestedBraces(txt) + "\r\n");
 			}
-			else if ((!line.isEmpty() && mPlain.matches() && validBracesInContext(line)) ||	mAuthor.matches() || mSource.matches()) {
+			else if ((!line.isEmpty() && mPlain.matches() && validBracesInContext(line, lineNumber)) ||	mAuthor.matches() || mSource.matches()) {
 				writer.write(decodeNestedBraces(line) + "\r\n");	// Do not change that type of line
 			}
-			else if (mMixed.matches() && validBracesInContext(line)) {
+			else if (mMixed.matches() && validBracesInContext(line, lineNumber)) {
 				line = cleanupWaste(cleanupManual(line));			// Clean up the mixed line
 				if (!line.isEmpty()) writer.write(decodeNestedBraces(line) + "\r\n");
 			}
 			else if (!line.isEmpty()) {
-				if (!validBracesInContext(line)) {
-					log.append(Logger.ILLEGAL, decodeNestedBraces(line));	// Braces are not well-formed
+				if (!validBracesInContext(line, lineNumber)) {
+					log.append(Logger.ILLEGAL, lineNumber, decodeNestedBraces(line));	// Braces are not well-formed
 				} else {
-					log.append(Logger.UNDEFINED, decodeNestedBraces(line));	// Line did not match any pattern
+					log.append(Logger.UNDEFINED, lineNumber, decodeNestedBraces(line));	// Line did not match any pattern
 				}
 			}
 		}

@@ -2,13 +2,7 @@ package corpus.senie.indexing;
 
 import corpus.senie.util.IndexType;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.regex.Matcher;
 import java.util.Iterator;
 import java.util.List;
@@ -51,7 +45,7 @@ public class Inverser extends Recognizer {
 	public Inverser(String source) {
 		super();
 
-		index = new TreeSet<String>();
+		index = new TreeSet<>();
 		log = new Logger(source, "INVERSĀ VĀRDNĪCA", true);
 		this.source = source;
 	}
@@ -87,20 +81,21 @@ public class Inverser extends Recognizer {
 	 * Positioning structure: book->chapter->verse.
 	 */
 	public void indexGNP() throws IOException {
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
 		String line = "";
 
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (!mAuthor.matches()) {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "autoram jābūt 1. rindiņā");
 		}
 
 		Matcher mSource = getSourcePattern().matcher(reader.readLine());
 		if (!mSource.matches()) {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			Matcher mBook = getBookPattern().matcher(line);
 			Matcher mChapter = getChapterPattern().matcher(line);
 			Matcher mVerse = getVerseGNPPattern().matcher(line);
@@ -117,7 +112,7 @@ public class Inverser extends Recognizer {
 					line = mNote.group(1);
 				}
 				
-				addWordForm(Indexer.tokenize(line, true, log));
+				addWordForm(Indexer.tokenize(line, lineNumber, true, log));
 			}
 		}
 
@@ -130,20 +125,21 @@ public class Inverser extends Recognizer {
 	 * Positioning structure: page->row.
 	 */
 	public void indexLR() throws IOException {
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
 		String line = "";
 
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (!mAuthor.matches()) {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "autoram jābūt 1. rindiņā");
 		}
 
 		Matcher mSource = getSourcePattern().matcher(reader.readLine());
 		if (!mSource.matches()) {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			line = encodeNestedBraces(line);
 			
 			Matcher mPage = getPagePattern().matcher(line);
@@ -153,7 +149,7 @@ public class Inverser extends Recognizer {
 			if (mPage.matches() || mAuthor.matches() || mWaste.matches()) {
 				// Skip
 			} else {
-				addWordForm(Indexer.tokenize(decodeNestedBraces(line), true, log));
+				addWordForm(Indexer.tokenize(decodeNestedBraces(line), lineNumber, true, log));
 			}
 		}
 
@@ -163,23 +159,24 @@ public class Inverser extends Recognizer {
 	/**
 	 * Indexes all running words from the given unhyphened source text.
 	 * Positioning structure: book->page->row.
-	 * Note: this is added >10 years latter without clear understanding.
+	 * Note: this is added >10 years later without clear understanding.
 	 */
 	public void indexGLR() throws IOException {
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
 		String line = "";
 
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (!mAuthor.matches()) {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "autoram jābūt 1. rindiņā");
 		}
 
 		Matcher mSource = getSourcePattern().matcher(reader.readLine());
 		if (!mSource.matches()) {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			line = encodeNestedBraces(line);
 
 			Matcher mPage = getPagePattern().matcher(line);
@@ -190,7 +187,7 @@ public class Inverser extends Recognizer {
 			if (mPage.matches() || mBook.matches() || mAuthor.matches() || mWaste.matches()) {
 				// Skip
 			} else {
-				addWordForm(Indexer.tokenize(decodeNestedBraces(line), true, log));
+				addWordForm(Indexer.tokenize(decodeNestedBraces(line), lineNumber, true, log));
 			}
 		}
 
@@ -202,20 +199,21 @@ public class Inverser extends Recognizer {
 	 * Positioning structure: verse.
 	 */
 	public void indexP() throws IOException {
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(source + "_unhyphened.txt"), "Cp1257"));
 		String line = "";
 
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (!mAuthor.matches()) {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "autoram jābūt 1. rindiņā");
 		}
 
 		Matcher mSource = getSourcePattern().matcher(reader.readLine());
 		if (!mSource.matches()) {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			Matcher mVerse = getVersePPattern().matcher(line);
 			mAuthor = getAuthorPattern().matcher(line);
 
@@ -223,7 +221,7 @@ public class Inverser extends Recognizer {
 				if (mVerse.matches()) {
 					line = mVerse.group(3);
 				}
-				addWordForm(Indexer.tokenize(line, true, log));
+				addWordForm(Indexer.tokenize(line, lineNumber, true, log));
 			}
 		}
 
@@ -243,7 +241,7 @@ public class Inverser extends Recognizer {
 		while (itIndx.hasNext()) {
 			StringBuilder word = new StringBuilder(itIndx.next());
 			if (!word.toString().matches("^(\\}\\d*\\{)?\\d+$"))
-				writer.write(word.reverse().toString() + "\r\n");
+				writer.write(word.reverse() + "\r\n");
 		}
 
 		writer.flush();

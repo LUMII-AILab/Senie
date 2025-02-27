@@ -2,13 +2,7 @@ package corpus.senie.indexing;
 
 import corpus.senie.util.IndexType;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
+import java.io.*;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.stream.Collectors;
@@ -44,7 +38,7 @@ public class Indexer extends Recognizer {
 
 			if (list == null) {
 				// Word form doesn't exist in index yet
-				list = new LinkedList<PosStructure>();
+				list = new LinkedList<>();
 				list.add((PosStructure) pos.clone());
 				index.put(word, list);
 			}
@@ -310,14 +304,14 @@ public class Indexer extends Recognizer {
 	 * @param lower - if true, converts all tokens to lower case.
 	 * @return list of all tokens.
 	 */
-	public static List<String> tokenize(String line, boolean lower, Logger log) {
+	public static List<String> tokenize(String line, int lineNumber, boolean lower, Logger log) {
 		String prev  = "";
 		String next  = "";
 
 		String marks = "!?.,:;-+*†/|\\()[]<>\" \t\n\f\r";
 
 		StringTokenizer tokenizer = new StringTokenizer(line, marks, true);
-		List<String> tokens = new LinkedList<String>();
+		List<String> tokens = new LinkedList<>();
 
 		boolean concat = false;
 		boolean skip   = false;
@@ -326,12 +320,12 @@ public class Indexer extends Recognizer {
 			skip = false;
 			next = tokenizer.nextToken();
 
-			if ((next.indexOf("{") != -1) && (next.indexOf("}") == -1)) {
+			if ((next.contains("{")) && (!next.contains("}"))) {
 				// All symbols are kept in errata fragments
 				prev = next;
 				concat = true;
 				skip = true;
-			} else if ((next.indexOf("{") == -1) && (next.indexOf("}") != -1)){
+			} else if ((!next.contains("{")) && (next.contains("}"))){
 				prev = prev + next;
 
 				if (lower) prev = toLowerCase(prev);
@@ -341,7 +335,7 @@ public class Indexer extends Recognizer {
 				skip = true;
 			}
 
-			if (!concat && !skip && (marks.indexOf(next) == -1)) {
+			if (!concat && !skip && !marks.contains(next)) {
 				if (lower) next = toLowerCase(next);
 				if (!next.equals("=")) tokens.add(next);
 			} else if (!skip) {
@@ -351,7 +345,7 @@ public class Indexer extends Recognizer {
 
 		for (String t : tokens) {
 			Matcher mAlpha = pWForm.matcher(t);
-			if (!validBraces(t) || !mAlpha.matches()) log.append(Logger.ILLEGAL, t);
+			if (!validBraces(t) || !mAlpha.matches()) log.append(Logger.ILLEGAL, lineNumber, t);
 		}
 
 		return tokens;
@@ -366,7 +360,7 @@ public class Indexer extends Recognizer {
 	public Indexer(String source) {
 		super();
 
-		index = new TreeMap<String, List<PosStructure>>();
+		index = new TreeMap<>();
 		db = new DBManager();
 		log = new Logger(source, "TEKSTA INDEKSĒŠANA UN STATISTIKA", true);
 
@@ -478,7 +472,7 @@ public class Indexer extends Recognizer {
 	 * @param lower - if true, converts all running words to lower case before updating the index.
 	 */
 	public void indexGNP(String src, String auth, boolean lower, boolean db) throws IOException {
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
 
 		StringBuilder plain = new StringBuilder(" ");
 
@@ -494,9 +488,9 @@ public class Indexer extends Recognizer {
 		// Author's name must be on first line
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (mAuthor.matches()) {
-			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
+			if (mAuthor.group(1).equals(auth) || auth.isEmpty()) process = true;
 		} else {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(),"autoram jābūt 1. rindiņā");
 		}
 
 		// Source codificator must be on second line
@@ -504,13 +498,14 @@ public class Indexer extends Recognizer {
 		if (mSource.matches()) {
 			source = mSource.group(1);
 		} else {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
-		if (!lower && db && auth.equals(""))
-			log.append(Logger.SUSPICIOUS, "datubāzē mēģinās ielikt GNP indeksētu avotu, nezinot autoru!");
+		if (!lower && db && auth.isEmpty())
+			log.append(Logger.SUSPICIOUS, -1, "datubāzē mēģinās ielikt GNP indeksētu avotu, nezinot autoru!");
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			Matcher mBook = getBookPattern().matcher(line);
 			Matcher mChapter = getChapterPattern().matcher(line);
 			Matcher mVerse = getVerseGNPPattern().matcher(line);
@@ -538,12 +533,12 @@ public class Indexer extends Recognizer {
 				chapter = Integer.parseInt(mChapter.group(1));
 			}
 			else if (mAuthor.matches()) {
-				if (mAuthor.group(1).equals(auth) || auth.equals("")) {
+				if (mAuthor.group(1).equals(auth) || auth.isEmpty()) {
 					// Indexes only fragments written by the given author
 					process = true;
 				} else {
 					process = false;
-					log.append(Logger.SUSPICIOUS, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
+					log.append(Logger.SUSPICIOUS, lineNumber, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
 				}
 			}
 			else if (process) {
@@ -562,7 +557,7 @@ public class Indexer extends Recognizer {
 					line = mNote.group(1);
 				}
 
-				List<String> tokens = tokenize(line, lower, log);
+				List<String> tokens = tokenize(line, lineNumber, lower, log);
 
 				running += tokens.size();
 				plain.append(tokensToString(tokens));
@@ -585,7 +580,7 @@ public class Indexer extends Recognizer {
 	 * @param lower - if true, converts all running words to lower case before updating the index.
 	 */
 	public void indexLR(String src, String auth, boolean lower, boolean db) throws IOException {
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
 
 		StringBuilder plain = new StringBuilder(" ");
 
@@ -599,9 +594,9 @@ public class Indexer extends Recognizer {
 		// Author's name must be on first line
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (mAuthor.matches()) {
-			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
+			if (mAuthor.group(1).equals(auth) || auth.isEmpty()) process = true;
 		} else {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "autoram jābūt 1. rindiņā");
 		}
 
 		// Source codificator must be on second line
@@ -609,10 +604,11 @@ public class Indexer extends Recognizer {
 		if (mSource.matches()) {
 			source = mSource.group(1);
 		} else {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumer = reader.getLineNumber();
 			line = encodeNestedBraces(line);
 
 			Matcher mPage = getPagePattern().matcher(line);
@@ -624,12 +620,12 @@ public class Indexer extends Recognizer {
 				row = 0;
 			}
 			else if (mAuthor.matches()) {
-				if (mAuthor.group(1).equals(auth) || auth.equals("")) {
+				if (mAuthor.group(1).equals(auth) || auth.isEmpty()) {
 					// Indexes only fragments written by the given author
 					process = true;
 				} else {
 					process = false;
-					log.append(Logger.SUSPICIOUS, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
+					log.append(Logger.SUSPICIOUS, lineNumer, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
 				}
 			}
 			else if (mWaste.matches()) {
@@ -640,7 +636,7 @@ public class Indexer extends Recognizer {
 				row++;
 
 				if (process) {
-					List<String> tokens = tokenize(decodeNestedBraces(line), lower, log);
+					List<String> tokens = tokenize(decodeNestedBraces(line), lineNumer, lower, log);
 
 					running += tokens.size();
 
@@ -660,7 +656,7 @@ public class Indexer extends Recognizer {
 	/**
 	 * Indexes all running words from the given unhyphened source text fragments written by the given author.
 	 * Positioning structure: book->page->row.
-	 * Note: this is added >10 years latter without clear understanding.
+	 * Note: this is added >10 years later without clear understanding.
 	 *
 	 * @param src - source codificator.
 	 * @param auth - author's name; if empty, author is ignored.
@@ -669,7 +665,7 @@ public class Indexer extends Recognizer {
 	public void indexGLR(String src, String auth, boolean lower, boolean db) throws IOException {
 		if (db) throw new UnsupportedOperationException("GLR with DB connection is not implemented");
 
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
 
 		StringBuilder plain = new StringBuilder(" ");
 
@@ -684,9 +680,9 @@ public class Indexer extends Recognizer {
 		// Author's name must be on first line
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (mAuthor.matches()) {
-			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
+			if (mAuthor.group(1).equals(auth) || auth.isEmpty()) process = true;
 		} else {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "autoram jābūt 1. rindiņā");
 		}
 
 		// Source codificator must be on second line
@@ -694,10 +690,11 @@ public class Indexer extends Recognizer {
 		if (mSource.matches()) {
 			source = mSource.group(1);
 		} else {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			line = encodeNestedBraces(line);
 
 			Matcher mPage = getPagePattern().matcher(line);
@@ -715,12 +712,12 @@ public class Indexer extends Recognizer {
 				book = mBook.group(1);
 			}
 			else if (mAuthor.matches()) {
-				if (mAuthor.group(1).equals(auth) || auth.equals("")) {
+				if (mAuthor.group(1).equals(auth) || auth.isEmpty()) {
 					// Indexes only fragments written by the given author
 					process = true;
 				} else {
 					process = false;
-					log.append(Logger.SUSPICIOUS, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
+					log.append(Logger.SUSPICIOUS, lineNumber, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
 				}
 			}
 			else if (mWaste.matches()) {
@@ -731,7 +728,7 @@ public class Indexer extends Recognizer {
 				row++;
 
 				if (process) {
-					List<String> tokens = tokenize(decodeNestedBraces(line), lower, log);
+					List<String> tokens = tokenize(decodeNestedBraces(line), lineNumber, lower, log);
 
 					running += tokens.size();
 
@@ -760,7 +757,7 @@ public class Indexer extends Recognizer {
 	 * @param lower - if true, converts all running words to lower case before updating the index.
 	 */
 	public void indexP(String src, String auth, boolean lower, boolean db) throws IOException {
-		BufferedReader reader = new BufferedReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
+		LineNumberReader reader = new LineNumberReader(new InputStreamReader(new FileInputStream(src + "_unhyphened.txt"), "Cp1257"));
 
 		StringBuilder plain = new StringBuilder(" ");
 
@@ -773,9 +770,9 @@ public class Indexer extends Recognizer {
 		// Author's name must be on first line
 		Matcher mAuthor = getAuthorPattern().matcher(reader.readLine());
 		if (mAuthor.matches()) {
-			if (mAuthor.group(1).equals(auth) || auth.equals("")) process = true;
+			if (mAuthor.group(1).equals(auth) || auth.isEmpty()) process = true;
 		} else {
-			log.append(Logger.NOT_FOUND, "autoram jābūt 1. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "autoram jābūt 1. rindiņā");
 		}
 
 		// Source codificator must be on second line
@@ -783,20 +780,21 @@ public class Indexer extends Recognizer {
 		if (mSource.matches()) {
 			source = mSource.group(1);
 		} else {
-			log.append(Logger.NOT_FOUND, "avota kodam jābūt 2. rindiņā");
+			log.append(Logger.NOT_FOUND, reader.getLineNumber(), "avota kodam jābūt 2. rindiņā");
 		}
 
 		while ((line = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			Matcher mVerse = getVersePPattern().matcher(line);
 			mAuthor = getAuthorPattern().matcher(line);
 
 			if (mAuthor.matches()) {
-				if (mAuthor.group(1).equals(auth) || auth.equals("")) {
+				if (mAuthor.group(1).equals(auth) || auth.isEmpty()) {
 					// Indexes only fragments written by the given author
 					process = true;
 				} else {
 					process = false;
-					log.append(Logger.SUSPICIOUS, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
+					log.append(Logger.SUSPICIOUS, lineNumber, "līdzautora '" + mAuthor.group(1) + "' teksts tika ignorēts");
 				}
 			}
 			else if (process) {
@@ -812,7 +810,7 @@ public class Indexer extends Recognizer {
 					line = mVerse.group(3);
 				}
 
-				List<String> tokens = tokenize(line, lower, log);
+				List<String> tokens = tokenize(line, lineNumber, lower, log);
 
 				running += tokens.size();
 				plain.append(tokensToString(tokens));
@@ -822,8 +820,8 @@ public class Indexer extends Recognizer {
 
 		if (plain.length() > 1 && !lower && db)
 		{
-			if (auth.equals(""))
-				log.append(Logger.SUSPICIOUS, "datubāzē mēģina ielikt P indeksētu avotu, nezinot autoru!");
+			if (auth.isEmpty())
+				log.append(Logger.SUSPICIOUS, -1, "datubāzē mēģina ielikt P indeksētu avotu, nezinot autoru!");
 			insPlainP(plain.toString(), verse);
 		}
 
@@ -955,7 +953,7 @@ public class Indexer extends Recognizer {
 				.sorted((s1, s2) ->{
 						Integer count1 = cumulInd.getOrDefault(s1,0);
 						Integer count2 = cumulInd.getOrDefault(s2, 0);
-						if (count1 == count2) return WordComparator.getCollator().compare(s1, s2);
+						if (count1.equals(count2)) return WordComparator.getCollator().compare(s1, s2);
 						else return count2.compareTo(count1); })
 						//cumulInd.getOrDefault(s2,0).compareTo(cumulInd.getOrDefault(s1, 0)))
 				.collect(Collectors.toList());
@@ -1017,7 +1015,7 @@ public class Indexer extends Recognizer {
 					href = "<a href=\"" + target + "#" + p.getVerse() + "\" target=\"text\">";
 				}
 
-				writer.write(href + pos.getCount() + " " + pos.toString() + "</a>\n");
+				writer.write(href + pos.getCount() + " " + pos + "</a>\n");
 			}
 
 			writer.write("\t<b>" + count + "</b>\n\n");
@@ -1106,23 +1104,24 @@ public class Indexer extends Recognizer {
 	 * @param output
 	 */
 	public void listNewWordforms(List<String> corpus_old, List<String> corpus_new, String output) throws IOException {
-		Set<String> old_forms = new TreeSet<String>();
-		Set<String> new_forms = new TreeSet<String>(new SENIEStringComparator()); //new TreeSet(Collator.getInstance(new Locale("lv", "LV")))
+		Set<String> old_forms = new TreeSet<>();
+		Set<String> new_forms = new TreeSet<>(new SENIEStringComparator()); //new TreeSet(Collator.getInstance(new Locale("lv", "LV")))
 
-		BufferedReader reader = null;
+		LineNumberReader reader = null;
 		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(output), "Cp1257"));
 
 		for (String corp : corpus_old) {
-			reader = new BufferedReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
+			reader = new LineNumberReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
 
 			String line = null;
 			while ((line = reader.readLine()) != null) {
+				int lineNumber = reader.getLineNumber();
 				line = encodeNestedBraces(line);
 
 				Matcher mWaste = getIgnorePattern().matcher(line);
 
 				if (!mWaste.matches() && !line.startsWith("@a") && !line.startsWith("@z")) {
-					List<String> tokens = tokenize(decodeNestedBraces(line), true, log);
+					List<String> tokens = tokenize(decodeNestedBraces(line), lineNumber, true, log);
 					for (String form : tokens) old_forms.add(form);
 				}
 			}
@@ -1131,14 +1130,15 @@ public class Indexer extends Recognizer {
 		}
 
 		for (String corp : corpus_new) {
-			reader = new BufferedReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
+			reader = new LineNumberReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
 
 			String line = null;
 			while ((line = reader.readLine()) != null) {
+				int lineNumber = reader.getLineNumber();
 				Matcher mWaste = getIgnorePattern().matcher(line);
 
 				if (!mWaste.matches() && !line.startsWith("@a") && !line.startsWith("@z")) {
-					List<String> tokens = tokenize(line, true, log);
+					List<String> tokens = tokenize(line, lineNumber, true, log);
 
 					for (String form : tokens) {
 						if (!old_forms.contains(form)) new_forms.add(form);
@@ -1163,11 +1163,11 @@ public class Indexer extends Recognizer {
 	 * @param out_new
 	 */
 	public void listNewFormsInContext(List<String> corpus_old, List<String> corpus_new, String out_all, String out_new) throws IOException {
-		Set<String> old_forms = new TreeSet<String>(new SENIEStringComparator());
-		Set<String> new_forms = new TreeSet<String>(new SENIEStringComparator());
-		Set<String> all_forms = new TreeSet<String>(new SENIEStringComparator());
+		Set<String> old_forms = new TreeSet<>(new SENIEStringComparator());
+		Set<String> new_forms = new TreeSet<>(new SENIEStringComparator());
+		Set<String> all_forms = new TreeSet<>(new SENIEStringComparator());
 
-		BufferedReader reader = null;
+		LineNumberReader reader = null;
 		BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(out_all), "Cp1257"));
 		BufferedWriter writer_new = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(out_new), "Cp1257"));
 
@@ -1178,10 +1178,11 @@ public class Indexer extends Recognizer {
 		writer_new.write("</head><body leftmargin=\"10\" topmargin=\"10\" bottommargin=\"10\" rightmargin=\"10\">");
 
 		for (String corp : corpus_old) {
-			reader = new BufferedReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
+			reader = new LineNumberReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
 
 			String line = null;
 			while ((line = reader.readLine()) != null) {
+				int lineNumber = reader.getLineNumber();
 				line = encodeNestedBraces(line);
 
 				Matcher mWaste = getIgnorePattern().matcher(line);
@@ -1190,7 +1191,7 @@ public class Indexer extends Recognizer {
 				if (line.startsWith("@a") || line.startsWith("@g") || line.startsWith("@n") || line.startsWith("@z")) continue;
 
 				if (!mWaste.matches() && !mPage.matches()) {
-					List<String> tokens = tokenize(decodeNestedBraces(line), true, log);
+					List<String> tokens = tokenize(decodeNestedBraces(line), lineNumber, true, log);
 					for (String form : tokens) old_forms.add(form);
 				}
 			}
@@ -1199,17 +1200,18 @@ public class Indexer extends Recognizer {
 		}
 
 		for (String corp : corpus_new) {
-			reader = new BufferedReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
+			reader = new LineNumberReader(new InputStreamReader(new FileInputStream(corp), "Cp1257"));
 
 			String line = null;
 			while ((line = reader.readLine()) != null) {
+				int lineNumber = reader.getLineNumber();
 				Matcher mWaste = getIgnorePattern().matcher(line);
 				Matcher mPage = getPagePattern().matcher(line);
 
 				if (line.startsWith("@a") || line.startsWith("@g") || line.startsWith("@n") || line.startsWith("@z")) continue;
 
 				if (!mWaste.matches() && !mPage.matches()) {
-					List<String> tokens = tokenize(line, true, log);
+					List<String> tokens = tokenize(line, lineNumber, true, log);
 
 					for (String form : tokens) {
 						if (!old_forms.contains(form)) new_forms.add(form);

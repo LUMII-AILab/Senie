@@ -2,13 +2,7 @@ package corpus.senie.indexing;
 
 import corpus.senie.util.IndexType;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
@@ -21,7 +15,7 @@ import java.util.regex.Pattern;
  */
 public class Unhyphener extends Recognizer {
 
-	private BufferedReader reader;
+	private LineNumberReader reader;
 	private BufferedWriter writer;
 	private Logger log;
 	
@@ -53,7 +47,7 @@ public class Unhyphener extends Recognizer {
 	public Unhyphener(String source) throws IOException {
 		super();
 		
-		reader = new BufferedReader(new InputStreamReader(new FileInputStream(source + "_cleaned.txt"), "Cp1257"));
+		reader = new LineNumberReader(new InputStreamReader(new FileInputStream(source + "_cleaned.txt"), "Cp1257"));
 		writer = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + "_unhyphened.txt"), "Cp1257"));
 		log = new Logger(source, "VĀRDLIETOJUMU SAVILKŠANA TEKSTĀ", true);
 	}
@@ -84,7 +78,7 @@ public class Unhyphener extends Recognizer {
 		boolean crossPage = false;
 		boolean oldHypen  = false;
 		
-		List<String> skipped_rows = new ArrayList<String>();
+		List<String> skipped_rows = new ArrayList<>();
 		
 		while ((curr = reader.readLine()) != null) {
 			if (concat) {
@@ -95,7 +89,7 @@ public class Unhyphener extends Recognizer {
 				if (!mPage.matches() && !mLang.matches() && !mStrikethrough.matches()) {
 					// Check for hyphenation over pages
 					
-					if (curr.indexOf(" ") != -1) {
+					if (curr.contains(" ")) {
 						// Unhyphen the hyphened part of a word
 						
 						//Pārbauda vai savelkamajai daļai nav piekabināts kļūdas labojums;
@@ -121,7 +115,7 @@ public class Unhyphener extends Recognizer {
 						}
 					}
 					else {
-						curr = prev+curr;			//Word is splitted over several lines.
+						curr = prev+curr;			//Word is split over several lines.
 						
 						if (!crossPage) {
 							++empty_1;
@@ -151,7 +145,7 @@ public class Unhyphener extends Recognizer {
 						curr = reader.readLine();
 					}
 					
-					if (curr.indexOf(" ") != -1) {	//Unhyphenates hyphened part of word.
+					if (curr.contains(" ")) {	//Unhyphenates hyphened part of word.
 						tight = prev+curr.substring(0, curr.indexOf(" "));
 						writer.write(normalizeHyphens(tight) + "\r\n");
 						curr = curr.substring(curr.indexOf(" ") + 1).trim();
@@ -221,7 +215,7 @@ public class Unhyphener extends Recognizer {
 				
 				switch (printType) {				//Determines order of lines
 					case PT_REGULAR_LINE:			//to be printed in resulting file.
-						if (!curr.equals("")) {
+						if (!curr.isEmpty()) {
 							writer.write(curr+"\r\n");
 						}
 						break;
@@ -324,16 +318,17 @@ public class Unhyphener extends Recognizer {
 		boolean concat = false;
 		
 		while ((curr = reader.readLine()) != null) {
+			int lineNumber = reader.getLineNumber();
 			if (concat) {
 				Matcher mBook = getBookPattern().matcher(curr);			
 				Matcher mChapter = getChapterPattern().matcher(curr);
 				Matcher mVerse = (gnp) ? getVerseGNPPattern().matcher(curr) : getVersePPattern().matcher(curr);
 				
 				if (mBook.matches() || mChapter.matches() || mVerse.matches()) {
-					log.append(Logger.ILLEGAL, prev);
+					log.append(Logger.ILLEGAL, lineNumber, prev);
 				}
 				
-				if (curr.indexOf(" ") != -1) {
+				if (curr.contains(" ")) {
 					// Unhyphenate the hyphened part of a word
 					
 					//Pārbauda vai savelkamajai daļai nav piekabināts kļūdas labojums;

@@ -1,14 +1,13 @@
 package corpus.senie.indexing;
 
-import java.awt.*;
 import java.io.*;
-import java.util.concurrent.TimeUnit;
+import java.nio.charset.StandardCharsets;
 
 
 /**
  * Logging of exceptions in various steps of the indexing process.
  */
-public class Logger extends Object {
+public class Logger {
 
 	private BufferedWriter log;
 
@@ -59,12 +58,12 @@ public class Logger extends Object {
 	 */
 	public Logger(String name, String title, boolean append) {
 		try {
-			log = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(name + "_log.txt", append), "UTF-8"));
+			log = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(name + "_log.txt", append), StandardCharsets.UTF_8));
 			log.write("\r\n" + title + ":\r\n\r\n");
 		}
 		catch (IOException ioe) {
 			log = null;
-			System.err.println("Error assinging log file: ");
+			System.err.println("Error assigning log file: ");
 			ioe.printStackTrace();
 		}
 	}
@@ -74,34 +73,37 @@ public class Logger extends Object {
 	 * Appends new record at the end of the list of exception events in the opened section.
 	 * 
 	 * @param type - event type.
+	 * @param lineNumber - number of the line in the source document where the error happened. (2025-02-27)
 	 * @param message - string of event content.
 	 */
-	public void append(int type, String message) {
+	public void append(int type, int lineNumber, String message) {
 		try {
+			String lineNumberFormated = "";
+			if (lineNumber > -1) lineNumberFormated = " (" + lineNumber + ")";
 			switch(type) {
 				case DROPPED:
-					log.write("IZMESTS: " + message + "\r\n");
+					log.write("IZMESTS" + lineNumberFormated + ": " + message + "\r\n");
 					break;
 				case EDITED_1:
-					log.write("REDIĢĒTS: " + message + " --> ");
+					log.write("REDIĢĒTS" + lineNumberFormated + ": " + message + " --> ");
 					break;
 				case EDITED_2:
 					log.write(message + "\r\n");
 					break;
 				case ILLEGAL:
-					log.write("NAV ATĻAUTS: " + message + "\r\n");
+					log.write("NAV ATĻAUTS" + lineNumberFormated + ": " + message + "\r\n");
 					break;
 				case NOT_FOUND:
-					log.write("NAV ATRASTS: " + message + "\r\n");
+					log.write("NAV ATRASTS" + lineNumberFormated + ": " + message + "\r\n");
 					break;
 				case SUSPICIOUS:
-					log.write("AIZDOMĪGI: " + message + "\r\n");
+					log.write("AIZDOMĪGI" + lineNumberFormated + ": " + message + "\r\n");
 					break;
 				case UNDEFINED:
-					log.write("NEDEFINĒTS: " + message + "\r\n");
+					log.write("NEDEFINĒTS" + lineNumberFormated + ": " + message + "\r\n");
 					break;
 				default:
-					log.write("NEDEFINĒTS REĢISTRA IZSAUKUMA TIPS: " + type + "\r\n");
+					log.write("NEDEFINĒTS REĢISTRA IZSAUKUMA TIPS (" + lineNumber + "): " + type + "\r\n");
 					break;
 			}
 		}

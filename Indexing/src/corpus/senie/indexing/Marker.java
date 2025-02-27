@@ -2,13 +2,7 @@ package corpus.senie.indexing;
 
 import corpus.senie.util.IndexType;
 
-import java.io.BufferedReader;
-import java.io.BufferedWriter;
-import java.io.FileInputStream;
-import java.io.FileOutputStream;
-import java.io.InputStreamReader;
-import java.io.OutputStreamWriter;
-import java.io.IOException;
+import java.io.*;
 import java.util.regex.Matcher;
 
 
@@ -18,7 +12,7 @@ import java.util.regex.Matcher;
  */
 public class Marker extends Recognizer {
 
-	private BufferedReader text;
+	private LineNumberReader text;
 	private BufferedWriter html;
 	private Logger log;
 
@@ -113,7 +107,7 @@ public class Marker extends Recognizer {
 	public Marker(String source, String collection) throws IOException {
 		super();
 
-		text = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
+		text = new LineNumberReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
 		html = new BufferedWriter(new OutputStreamWriter(new FileOutputStream(source + "_marked.htm"), "Cp1257"));
 
 		html.write("<html>\n<head>\n");
@@ -263,6 +257,7 @@ public class Marker extends Recognizer {
 		String line  = "";
 
 		while ((line = text.readLine()) != null) {
+			int lineNumber = text.getLineNumber();
 			Matcher mVerse = getVerseExGNPPattern().matcher(line);
 			
 			if (!mVerse.matches()) {
@@ -339,7 +334,7 @@ public class Marker extends Recognizer {
 				html.write(decodeNestedBraces(line) + "\n");			// Marked source codificator
 			}
 			else if (!line.isEmpty()) {
-				log.append(Logger.DROPPED, decodeNestedBraces(line));
+				log.append(Logger.DROPPED, lineNumber, decodeNestedBraces(line));
 			}
 		}
 	}
@@ -353,6 +348,7 @@ public class Marker extends Recognizer {
 		int row = 0;
 
 		while ((line = text.readLine()) != null) {
+			int lineNumber = text.getLineNumber();
 			line = encodeNestedBraces(line.trim());
 
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
@@ -407,14 +403,14 @@ public class Marker extends Recognizer {
 				html.write(decodeNestedBraces(line) + "\n");					// Marked source codificator
 			}
 			else if (!line.isEmpty()) {
-				log.append(Logger.DROPPED, decodeNestedBraces(line));
+				log.append(Logger.DROPPED, lineNumber, decodeNestedBraces(line));
 			}
 		}
 	}
 
 	/**
 	 * Processes a well-formed source text according to the page->row structure.
-	 * Note: this is added >10 years latter without clear understanding.
+	 * Note: this is added >10 years later without clear understanding.
 	 */
 	public void markupGLR() throws IOException {
 		String book  = "";
@@ -422,6 +418,7 @@ public class Marker extends Recognizer {
 		int row = 0;
 
 		while ((line = text.readLine()) != null) {
+			int lineNumber = text.getLineNumber();
 			line = encodeNestedBraces(line.trim());
 
 			Matcher mAuthor   = getAuthorPattern().matcher(line);
@@ -482,7 +479,7 @@ public class Marker extends Recognizer {
 				html.write(decodeNestedBraces(line) + "\n");					// Marked source codificator
 			}
 			else if (!line.isEmpty()) {
-				log.append(Logger.DROPPED, decodeNestedBraces(line));
+				log.append(Logger.DROPPED, lineNumber, decodeNestedBraces(line));
 			}
 		}
 	}
@@ -494,6 +491,7 @@ public class Marker extends Recognizer {
 		String line = "";
 
 		while ((line = text.readLine()) != null) {
+			int lineNumber = text.getLineNumber();
 			Matcher mVerse = getVerseExPPattern().matcher(line);
 			
 			if (!mVerse.matches()) {
@@ -517,7 +515,7 @@ public class Marker extends Recognizer {
 				html.write(decodeNestedBraces(line) + "\n");			// Marked verse number
 
 				line = mVerse.group(3).trim();							// Extracts first line of verse
-				if (!line.equals("")) {
+				if (!line.isEmpty()) {
 					line = markupComment(line);
 					line = markupLang(line);
 					line = markupStrikethrough(line);
@@ -559,7 +557,7 @@ public class Marker extends Recognizer {
 				html.write(decodeNestedBraces(line) + "\n");			// Marked source codificator
 			}
 			else if (!line.isEmpty()) {
-				log.append(Logger.DROPPED, decodeNestedBraces(line));
+				log.append(Logger.DROPPED, lineNumber, decodeNestedBraces(line));
 			}
 		}
 	}

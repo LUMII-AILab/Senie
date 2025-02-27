@@ -2,10 +2,7 @@ package corpus.senie.indexing;
 
 import corpus.senie.util.IndexType;
 
-import java.io.BufferedReader;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.regex.Matcher;
 
 
@@ -15,7 +12,7 @@ import java.util.regex.Matcher;
  */
 public class Contexter extends Recognizer {
 
-	private BufferedReader text;
+	private LineNumberReader text;
 	private Marker marker;
 	private Logger log;
 	private DBManager db;
@@ -35,7 +32,7 @@ public class Contexter extends Recognizer {
 		boolean result = false;
 		int contxtID   = -1;
 
-		if (text.length() > 0) {
+		if (!text.isEmpty()) {
 			contxtID = db.getContext(src, book, chap, verse);
 			if (contxtID == -1)	{
 				result = db.insContext(src, book, chap, verse, text);
@@ -84,7 +81,7 @@ public class Contexter extends Recognizer {
 		boolean result = false;
 		int contxtID   = -1;
 
-		if (text.length() > 0) {
+		if (!text.isEmpty()) {
 			contxtID = db.getContext(src, verse);
 			if (contxtID == -1)	{
 				db.insContext(src, verse, text);
@@ -108,7 +105,7 @@ public class Contexter extends Recognizer {
 	public Contexter(String source, String collection) throws IOException {
 		super();
 
-		text = new BufferedReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
+		text = new LineNumberReader(new InputStreamReader(new FileInputStream(source + ".txt"), "Cp1257"));
 		marker = new Marker(source, collection);
 		log = new Logger(source, "KONTEKSTU ATDALĪŠANA, MARĶĒŠANA UN IEVIETOŠANA DATUBĀZĒ", true);
 		db = new DBManager();
@@ -179,6 +176,7 @@ public class Contexter extends Recognizer {
 		String line   = "";
 
 		while ((line = text.readLine()) != null) {
+			int lineNumber = text.getLineNumber();
 			Matcher mVerse = getVerseExGNPPattern().matcher(line);
 
 			if (!mVerse.matches()) {
@@ -284,7 +282,7 @@ public class Contexter extends Recognizer {
 				content.append(decodeNestedBraces(line) + "<br>");					// Adds mixed line
 			}
 			else if (!line.isEmpty()) {
-				log.append(Logger.DROPPED, decodeNestedBraces(line));
+				log.append(Logger.DROPPED, lineNumber, decodeNestedBraces(line));
 			}
 		}
 
@@ -309,6 +307,7 @@ public class Contexter extends Recognizer {
 
 		while ((line = text.readLine()) != null) {
 			line = encodeNestedBraces(line.trim());
+			int lineNumber = text.getLineNumber();
 
 			Matcher mAuthor = getAuthorPattern().matcher(line);
 			Matcher mMixed  = getMixedPattern().matcher(line);
@@ -349,7 +348,7 @@ public class Contexter extends Recognizer {
 				insContext(sourceID, page, ++row, decodeNestedBraces(line));
 			}
 			else if (!line.isEmpty()) {
-				log.append(Logger.DROPPED, decodeNestedBraces(line));
+				log.append(Logger.DROPPED, lineNumber, decodeNestedBraces(line));
 			}
 		}
 	}
@@ -370,6 +369,7 @@ public class Contexter extends Recognizer {
 		String line   = "";
 
 		while ((line = text.readLine()) != null) {
+			int lineNumber = text.getLineNumber();
 			Matcher mVerse = getVerseExPPattern().matcher(line);
 
 			if (!mVerse.matches()) {
@@ -440,7 +440,7 @@ public class Contexter extends Recognizer {
 				content.append(decodeNestedBraces(line) + "<br>");		// Adds mixed line
 			}
 			else if (!line.isEmpty()) {
-				log.append(Logger.DROPPED, decodeNestedBraces(line));
+				log.append(Logger.DROPPED, lineNumber, decodeNestedBraces(line));
 			}
 		}
 
