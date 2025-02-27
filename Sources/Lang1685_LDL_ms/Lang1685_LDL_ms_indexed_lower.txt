@@ -1,5 +1,5 @@
-V‚rdformu skaits:	13824
-V‚rdlietojumu skaits:	24654
+V‚rdformu skaits:	13823
+V‚rdlietojumu skaits:	24644
 
 
 __
@@ -12,28 +12,6 @@ __
 _weeres=ß‰hkli
 
 	1 Lang1685_LDL_ms 31B.lpp. 25.r.
-	-----
-	1
-
-
-'
-
-	1 Lang1685_LDL_ms 12D.lpp. 2.r.
-	1 Lang1685_LDL_ms 26A.lpp. 25.r.
-	1 Lang1685_LDL_ms 29D.lpp. 33.r.
-	1 Lang1685_LDL_ms 62B.lpp. 18.r.
-	1 Lang1685_LDL_ms 63C.lpp. 10.r.
-	1 Lang1685_LDL_ms 90B.lpp. 16.r.
-	1 Lang1685_LDL_ms 109B.lpp. 26.r.
-	1 Lang1685_LDL_ms 116D.lpp. 17.r.
-	1 Lang1685_LDL_ms 158C.lpp. 18.r.
-	-----
-	9
-
-
-''
-
-	1 Lang1685_LDL_ms 77D.lpp. 21.r.
 	-----
 	1
 
@@ -29497,13 +29475,19 @@ iﬂ=dohtees
 	1
 
 
+iﬂ=dß‰hr'
+
+	1 Lang1685_LDL_ms 29D.lpp. 33.r.
+	-----
+	1
+
+
 iﬂ=dß‰hrt
 
 	1 Lang1685_LDL_ms 29D.lpp. 29.r.
-	1 Lang1685_LDL_ms 29D.lpp. 33.r.
 	1 Lang1685_LDL_ms 110D.lpp. 24.r.
 	-----
-	3
+	2
 
 
 iﬂ=dß‰hßt
@@ -40010,7 +39994,7 @@ kraujeis
 	1
 
 
-kraujel
+kraujel'
 
 	1 Lang1685_LDL_ms 62B.lpp. 18.r.
 	-----
@@ -44674,10 +44658,9 @@ leet
 	1 Lang1685_LDL_ms 70C.lpp. 27.r.
 	1 Lang1685_LDL_ms 70C.lpp. 29.r.
 	1 Lang1685_LDL_ms 70C.lpp. 30.r.
-	1 Lang1685_LDL_ms 116D.lpp. 17.r.
 	1 Lang1685_LDL_ms 154B.lpp. 17.r.
 	-----
-	6
+	5
 
 
 leet'
@@ -44694,6 +44677,7 @@ leet'
 	1 Lang1685_LDL_ms 90B.lpp. 25.r.
 	1 Lang1685_LDL_ms 93A.lpp. 24.r.
 	1 Lang1685_LDL_ms 95B.lpp. 8.r.
+	1 Lang1685_LDL_ms 116D.lpp. 17.r.
 	1 Lang1685_LDL_ms 118B.lpp. 24.r.
 	1 Lang1685_LDL_ms 148C.lpp. 19.r.
 	1 Lang1685_LDL_ms 154B.lpp. 27.r.
@@ -44701,7 +44685,7 @@ leet'
 	1 Lang1685_LDL_ms 159B.lpp. 24.r.
 	1 Lang1685_LDL_ms 161C.lpp. 3.r.
 	-----
-	18
+	19
 
 
 leeta
