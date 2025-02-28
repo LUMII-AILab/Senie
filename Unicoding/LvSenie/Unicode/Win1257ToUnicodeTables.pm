@@ -13,6 +13,7 @@ our @EXPORT_OK = qw(substTable hasTable);
 #
 # Katra rinda atbilst vienam pārveides likumam: ko pāveidot (teksts), par ko
 # pārveidot (teksts). Unikoda kodu norādīšana formā `x{kods}.
+
 ################################################################################
 
 our $ST_SINGLES = {
@@ -110,6 +111,13 @@ our $ST_SINGLES = {
 		'e^' => "\x{00EA}",
 		'i^' => "\x{00EE}",
 		'Ś'  => "\x{A7A8}",
+	},
+	'Depk1681_90_ms'   => {
+		'ä'  => "\x{00E4}",
+		'm~' => "m\x{0303}",
+		'n~' => "\x{00F1}",
+		'ö'  => "\x{00F6}",
+		'§'  => "\x{017F}",
 	},
 	'Depk1703_TSD'     => {
 		'ś'  => "\x{1E9C}",
