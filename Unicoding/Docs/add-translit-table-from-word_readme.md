@@ -5,10 +5,10 @@ Pārbaudīts ar Sublime Text.
 
 1.  Izkopēt kolonnas "Unicode", "Transliterācija", "Reģistrjūtība" _tab-separated_ uz _Sublime_.
 2.  Pārskatīt izmest `[]` no 2. kolonnas, regex: `^[^\r\n]*\t[^\r\n]*\[\]`,
-    pārskatīt `[]` vārda vidū, regex: `(\p{L}|\\)\[\](\p{L}|\\)`,
+    pārskatīt `[]` vārda vidū, regex: `(\p{alpha}|[\p{punct}|\\)\[\](\p{alpha}|[\p{punct}|\\)`,
     pārskatīt atstarpes pirms un pēc `[]`, regex `\[\] | \[\]`,
     pārskatīt `{` un`}`;
-    kopējais regex: `^[^\r\n]*\t[^\r\n]*\[\]|(\p{L}|\\)\[\](\p{L}|\\)|{|}|\[\] | \[\]`
+    kopējais regex: `^[^\r\n]*\t[^\r\n]*\[\]|(\p{alpha}|[\p{punct}|\\)\[\](\p{alpha}|\p{punct}|\\)|{|}|\[\] | \[\]` (SublimeText) vai `^[^\r\n]*\t[^\r\n]*\[\]|(\p{L}|\p{P}|\\)\[\](\p{L}|\p{P}|\\)|{|}|\[\] | \[\]` rīkiem, kam ir standarta unikoda klašu atbalsts
 5.  Replace:  `[]` -> `\b{wb}`
 6.  Pārskatīt atlikušās kvadrātiekavas (atstāt `[^]`, kas iezīmē rindas sākumu, un `[$]`, kas beigas), izlabot kļūdas
 7.  Replace: `	` -> `', '`
