@@ -37,7 +37,7 @@ sub getSourceProperties
 	$res->{'k'} = undef unless $res->{'g'};
 
 	$res->{'author'} = $res->{'a'};	# for convenience
-	$res->{'year'} = $1 if ($res->{'z'} =~ /^.*?(\d{4}(_\d+)?).*$/);
+	$res->{'year'} = $1 if ($res->{'z'} and $res->{'z'} =~ /^.*?(\d{4}(_\d+)?).*$/);
 	$res->{'century'} = $1 + 1 if ($res->{'year'} and $res->{'year'} =~ /^(\d\d)/);
 	$res->{'full ID'} = $res->{'z'};
 	$res->{'full ID'} = $res->{'full ID'} . "/" . $res->{'g'} if (exists $res->{'g'});

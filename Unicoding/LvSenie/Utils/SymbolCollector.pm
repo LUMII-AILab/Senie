@@ -98,7 +98,8 @@ END
                     say "Processing $fileName.";
                     # Get general file info
                     my $properties = getSourceProperties("$dirName/$fileName", $encoding);
-                    readFileNotSmart("$dirName/$fileName", $properties->{'full ID'}, $encoding);
+                    my $fileID = $properties->{'full ID'} ? $properties->{'full ID'} : $fileName;
+                    readFileNotSmart("$dirName/$fileName", $fileID, $encoding);
                 };
                 $baddies = $baddies + $isBad;
                 $all++;
