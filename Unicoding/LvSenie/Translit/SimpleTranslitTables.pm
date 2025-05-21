@@ -9646,7 +9646,7 @@ our $TABLES_SINGLES = {
 		[ '\(pills', '(pi$s', ],	# Palīgmaiņa
 		[ 'Ꞩunns pills', 'suns pi$s', ],	# Palīgmaiņa
 		[ 'pills\.\)', 'pi$s.)', ],	# Palīgmaiņa
-		[ 'pills\b{wb}|', 'pi$s |', ],	# Palīgmaiņa
+		[ 'pills\b{wb}\|', 'pi$s |', ],	# Palīgmaiņa
 		[ 'pills \(pilns\)', 'pi$s (pilns)', ],	# Palīgmaiņa
 		[ '\(pilns\) pills', '(pilns) pi$s', ],	# Palīgmaiņa
 		[ 'willa', 'wi$a', ],	# Palīgmaiņa
