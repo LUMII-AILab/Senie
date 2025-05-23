@@ -524,7 +524,7 @@ adikle,  adamais  @v{das}
 ie=adīt.  @v{Ein knütten, den}
 	@v{anfang ein knütten.}
 iz adīt  @v{aus knütten,}
-	no=adīt  @v{abknütten, Endi-]}
+	no=adīt  @v{abknütten, Endi-}
 		@v{gen{End[i=]gen}.}
 	pa=adīt  @v{Ein wenig knütten}
 		
@@ -995,8 +995,9 @@ bakstities,  @v{sich stöchern.}
 	@v{bestopfen,}  iz=bakstīt,  @v{ausstöckern,}
 	@v{stampfen.}  āzbakstīt,  @v{hinein,}
 	@v{zu, ein stopfen, Ein prückeln.}
-	pārbakstīt, @v{Etwas durch stöchern.} .| pie, caur.
-	zābakstīt  @v{zusam̃en, Zerstöckern,}
+	pārbakstīt, @v{Etwas durch stöchern.} .| piebakstīt{pie}, 
+        caurbakstīt{caur}.
+        zābakstīt  @v{zusam̃en, Zerstöckern,}
 	ūzbakstīt,  @v{auffstöckern, Zer-}
 	@v{prückeln.}
 balodis,  @v{die Taube,}  balodiņš,
@@ -7644,7 +7645,7 @@ zveirs,  @v{glasicht.} zveir=acis  @v{glaß}
 	acim,  @v{ein glaßäugig Pferd.}
 zvelt,  @v{weltzen, rollen.} nozvelt,  @v{abweltzen.}
 	no=zvelties,  @v{sich weltzen.  abrollen,}
-	@v{abküseln, abkullern.}   at  @v{oder}   pie=
+	@v{abküseln, abkullern.}   at=zvelt{at}  @v{oder}   pie=
 	zvelt.  @v{hin zu weltzen, rullen.}
 	pasvilu,  @v{halb stehend, halb ligend}
 	pazvelu  @v{abhängig, thal hängig.}
@@ -8384,7 +8385,7 @@ trimda bija,  @v{Sihe, was hätte ich}
 tūst,  @v{geschwellen,}  ūztūst,  @v{auffschwellen,}
 ūztucis  @v{auffgeschwollen.}  tūska
 @v{ein geschwollenes geschwulst.}
-tvert,  @v{Ergreiffen,}  tverums, tvērums{tvē[rums(?)]}
+tvert,  @v{Ergreiffen,}  tverums, tvērums{tvē}
 tverme,  @v{Schutz, rettung.}  tverties
 @v{sich wor an halten, sich retten.}
 

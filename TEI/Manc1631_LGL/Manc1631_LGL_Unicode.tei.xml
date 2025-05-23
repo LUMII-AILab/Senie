@@ -1042,7 +1042,7 @@
       <pb n="252"/>
       <div type="Paragraph">
        <lb id="Manc1631_LGL_252_1"/>
-       <div type="Language" lang="Latin">In dulci jubilo^.</div>
+       <div type="Language" lang="Latin">In dulci jubilô.</div>
        <lb id="Manc1631_LGL_252_2"/>
         <div type="Language" lang="Latvian">Eekſchan ẜalldu Preeku</div>
        <lb id="Manc1631_LGL_252_3"/>
@@ -6131,7 +6131,9 @@
        <lb id="Manc1631_LGL_338_5"/>
        <div type="Language" lang="German">Collecten nach der Communion.</div>
        <lb id="Manc1631_LGL_338_6"/>
-        <div type="Language" lang="Latvian">Deews Kunx gir ar jums. Antwort:</div>
+        <div type="Language" lang="Latvian">Deews Kunx gir ar jums.</div>
+       <div type="Language" lang="German">Antwort</div>
+        <div type="Language" lang="Latvian">:</div>
        <lb id="Manc1631_LGL_338_7"/>
         <div type="Language" lang="Latvian">Mums noteek pehtz tawu Wahrdu.</div>
        <lb id="Manc1631_LGL_338_8"/>

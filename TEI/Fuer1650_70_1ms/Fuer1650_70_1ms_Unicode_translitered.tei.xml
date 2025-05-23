@@ -1459,7 +1459,7 @@
        <div type="Language" lang="German">aus knütten,</div>
        <lb id="Fuer1650_70_1ms_16_31"/>
         <div type="Language" lang="Latvian">no=adīt</div>
-       <div type="Language" lang="German">abknütten, Endi-]</div>
+       <div type="Language" lang="German">abknütten, Endi-</div>
        <lb id="Fuer1650_70_1ms_16_32"/>
        <div type="Language" lang="German"><corr>gen</corr><sic>End[i=]gen</sic>.</div>
        <lb id="Fuer1650_70_1ms_16_33"/>
@@ -2796,73 +2796,75 @@
        <lb id="Fuer1650_70_1ms_31_9"/>
         <div type="Language" lang="Latvian">pārbakstīt,</div>
        <div type="Language" lang="German">Etwas durch stöchern.</div>
-        <div type="Language" lang="Latvian">.| pie, caur.</div>
+        <div type="Language" lang="Latvian">.| <corr>piebakstīt</corr><sic>pie</sic>,</div>
        <lb id="Fuer1650_70_1ms_31_10"/>
+        <div type="Language" lang="Latvian"><corr>caurbakstīt</corr><sic>caur</sic>.</div>
+       <lb id="Fuer1650_70_1ms_31_11"/>
         <div type="Language" lang="Latvian">zābakstīt</div>
        <div type="Language" lang="German">zusam̃en, Zerstöckern,</div>
-       <lb id="Fuer1650_70_1ms_31_11"/>
+       <lb id="Fuer1650_70_1ms_31_12"/>
         <div type="Language" lang="Latvian">ūzbakstīt,</div>
        <div type="Language" lang="German">auffstöckern, Zer-</div>
-       <lb id="Fuer1650_70_1ms_31_12"/>
-       <div type="Language" lang="German">prückeln.</div>
        <lb id="Fuer1650_70_1ms_31_13"/>
+       <div type="Language" lang="German">prückeln.</div>
+       <lb id="Fuer1650_70_1ms_31_14"/>
         <div type="Language" lang="Latvian">balodis,</div>
        <div type="Language" lang="German">die Taube,</div>
         <div type="Language" lang="Latvian">balodiņš,</div>
-       <lb id="Fuer1650_70_1ms_31_14"/>
+       <lb id="Fuer1650_70_1ms_31_15"/>
         <div type="Language" lang="Latvian">baloditis,</div>
        <div type="Language" lang="Latin">idem.</div>
-       <lb id="Fuer1650_70_1ms_31_15"/>
+       <lb id="Fuer1650_70_1ms_31_16"/>
         <div type="Language" lang="Latvian">meža balodis,</div>
        <div type="Language" lang="German">Eine wilde taube,</div>
-       <lb id="Fuer1650_70_1ms_31_16"/>
+       <lb id="Fuer1650_70_1ms_31_17"/>
         <div type="Language" lang="Latvian">sētas balodis,</div>
        <div type="Language" lang="German">Eine zahme taube.</div>
-       <lb id="Fuer1650_70_1ms_31_17"/>
+       <lb id="Fuer1650_70_1ms_31_18"/>
         <div type="Language" lang="Latvian">lielie baloži</div>
        <div type="Language" lang="German">ringel, holtz tauben.</div>
-       <lb id="Fuer1650_70_1ms_31_18"/>
+       <lb id="Fuer1650_70_1ms_31_19"/>
         <div type="Language" lang="Latvian">mazie baloži,</div>
        <div type="Language" lang="German">kleine gemeine</div>
-       <lb id="Fuer1650_70_1ms_31_19"/>
-       <div type="Language" lang="German">tauben.</div>
        <lb id="Fuer1650_70_1ms_31_20"/>
+       <div type="Language" lang="German">tauben.</div>
+       <lb id="Fuer1650_70_1ms_31_21"/>
         <div type="Language" lang="Latvian">mazais balodis, pruiņš,</div>
        <div type="Language" lang="German">Eine turtle-</div>
-       <lb id="Fuer1650_70_1ms_31_21"/>
-       <div type="Language" lang="German">taube.</div>
        <lb id="Fuer1650_70_1ms_31_22"/>
+       <div type="Language" lang="German">taube.</div>
+       <lb id="Fuer1650_70_1ms_31_23"/>
         <div type="Language" lang="Latvian">baloži ar cekiliem,</div>
        <div type="Language" lang="German">Kap tauben.</div>
-       <lb id="Fuer1650_70_1ms_31_23"/>
-       <div type="Language" lang="German">be-</div>
        <lb id="Fuer1650_70_1ms_31_24"/>
+       <div type="Language" lang="German">be-</div>
+       <lb id="Fuer1650_70_1ms_31_25"/>
         <div type="Language" lang="Latvian">balsities,</div>
        <div type="Language" lang="German">sich mit kleidern verstopfen.</div>
-       <lb id="Fuer1650_70_1ms_31_25"/>
+       <lb id="Fuer1650_70_1ms_31_26"/>
         <div type="Language" lang="Latvian">apbalsities,</div>
        <div type="Language" lang="Latin">idem.</div>
-       <lb id="Fuer1650_70_1ms_31_26"/>
-        <div type="Language" lang="Latvian">balsens ir tas koks pie ragum, kas</div>
        <lb id="Fuer1650_70_1ms_31_27"/>
+        <div type="Language" lang="Latvian">balsens ir tas koks pie ragum, kas</div>
+       <lb id="Fuer1650_70_1ms_31_28"/>
         <div type="Language" lang="Latvian">tās mieties,</div>
        <div type="Language" lang="German">dreÿ höltzer ümb</div>
-       <lb id="Fuer1650_70_1ms_31_28"/>
-       <div type="Language" lang="German">jeden stap eines schlittens.</div>
        <lb id="Fuer1650_70_1ms_31_29"/>
+       <div type="Language" lang="German">jeden stap eines schlittens.</div>
+       <lb id="Fuer1650_70_1ms_31_30"/>
         <div type="Language" lang="Latvian">atbalsīt</div>
        <div type="Language" lang="German">Entgegen stopfen, das man</div>
-       <lb id="Fuer1650_70_1ms_31_30"/>
-       <div type="Language" lang="German">zur seiten nicht ausfält</div>
        <lb id="Fuer1650_70_1ms_31_31"/>
+       <div type="Language" lang="German">zur seiten nicht ausfält</div>
+       <lb id="Fuer1650_70_1ms_31_32"/>
         <div type="Language" lang="Latvian">balsities, balstities,</div>
        <div type="Language" lang="German">wohl fort wachsen,</div>
-       <lb id="Fuer1650_70_1ms_31_32"/>
-       <div type="Language" lang="German">fort kommen</div>
        <lb id="Fuer1650_70_1ms_31_33"/>
+       <div type="Language" lang="German">fort kommen</div>
+       <lb id="Fuer1650_70_1ms_31_34"/>
         <div type="Language" lang="Latvian">kāposti ne balstās.</div>
        <div type="Language" lang="German">der Kohl will</div>
-       <lb id="Fuer1650_70_1ms_31_34"/>
+       <lb id="Fuer1650_70_1ms_31_35"/>
        <div type="Language" lang="German">nicht fort wachsen.</div>
       </div>
       <pb n="32"/>
@@ -22572,7 +22574,7 @@
        <div type="Language" lang="German">sich weltzen.  abrollen,</div>
        <lb id="Fuer1650_70_1ms_264_17"/>
        <div type="Language" lang="German">abküseln, abkullern.</div>
-        <div type="Language" lang="Latvian">at</div>
+        <div type="Language" lang="Latvian"><corr>at=zvelt</corr><sic>at</sic></div>
        <div type="Language" lang="German">oder</div>
         <div type="Language" lang="Latvian">pie=</div>
        <lb id="Fuer1650_70_1ms_264_18"/>
@@ -24731,7 +24733,7 @@
        <lb id="Fuer1650_70_1ms_285_27"/>
         <div type="Language" lang="Latvian">tvert,</div>
        <div type="Language" lang="German">Ergreiffen,</div>
-        <div type="Language" lang="Latvian">tverums, <corr>tvērums</corr><sic>tvē[rums(?)]</sic></div>
+        <div type="Language" lang="Latvian">tverums, <corr>tvērums</corr><sic>tvē</sic></div>
        <lb id="Fuer1650_70_1ms_285_28"/>
         <div type="Language" lang="Latvian">tverme,</div>
        <div type="Language" lang="German">Schutz, rettung.</div>

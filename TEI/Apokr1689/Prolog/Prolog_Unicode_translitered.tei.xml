@@ -1,0 +1,64 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+    <fileDesc id="Apokr1689/Prolog">
+     <sourceDesc>
+      <author>Ernsts Gliks</author>
+      <title>[Apokrifu ievads un satura rādītājs]</title>
+      <date>1689</date>
+     </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+     <domain type="religious">Garīgie teksti; Bībele, apokrifi</domain>
+    </profileDesc>
+   </teiHeader>
+   <text>
+    <body>
+      <pb n="0"/>
+      <div type="Paragraph">
+       <lb id="Apokr1689/Prolog_0_1"/>
+        <div type="Language" lang="Latvian">apocrypha:</div>
+       <lb id="Apokr1689/Prolog_0_2"/>
+        <div type="Language" lang="Latvian">tie ir</div>
+       <lb id="Apokr1689/Prolog_0_3"/>
+        <div type="Language" lang="Latvian">grāmatas/</div>
+       <lb id="Apokr1689/Prolog_0_4"/>
+        <div type="Language" lang="Latvian">kas tiem svētiem dieva rakstiem</div>
+       <lb id="Apokr1689/Prolog_0_5"/>
+        <div type="Language" lang="Latvian">līdzi ne turamas/ un tomēr derigas un</div>
+       <lb id="Apokr1689/Prolog_0_6"/>
+        <div type="Language" lang="Latvian">labi lasamas iraid.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Apokr1689/Prolog_0_7"/>
+        <div type="Language" lang="Latvian">rjga</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Apokr1689/Prolog_0_8"/>
+       <div type="Language" lang="German">Gedruckt bey Johann Georg Wilcken/ Königl.</div>
+       <lb id="Apokr1689/Prolog_0_9"/>
+       <div type="Language" lang="German">Buchdrucker/ Jm Jahr</div>
+       <div type="Language" lang="Latin">M DC LXXXIX.</div>
+      </div>
+      <div type="Paragraph">
+       <lb id="Apokr1689/Prolog_0_10"/>
+        <div type="Language" lang="Latvian">apocrypha.</div>
+       <lb id="Apokr1689/Prolog_0_11"/>
+        <div type="Language" lang="Latvian">i. jūdite.</div>
+       <lb id="Apokr1689/Prolog_0_12"/>
+        <div type="Language" lang="Latvian">ii. ta gudribas grāmata.</div>
+       <lb id="Apokr1689/Prolog_0_13"/>
+        <div type="Language" lang="Latvian">iii. tobijus.</div>
+       <lb id="Apokr1689/Prolog_0_14"/>
+        <div type="Language" lang="Latvian">iv. zīraks.</div>
+       <lb id="Apokr1689/Prolog_0_15"/>
+        <div type="Language" lang="Latvian">v. bāruks.</div>
+       <lb id="Apokr1689/Prolog_0_16"/>
+        <div type="Language" lang="Latvian">vi. to makabeeŗu grāmatas.</div>
+       <lb id="Apokr1689/Prolog_0_17"/>
+        <div type="Language" lang="Latvian">vii. gabali pie esteres grāmatas.</div>
+       <lb id="Apokr1689/Prolog_0_18"/>
+        <div type="Language" lang="Latvian">viii. gabali pie danijeļa grāmatas.</div>
+      </div>
+    </body>
+   </text>
+  </TEI>
