@@ -1,12 +1,5 @@
-Vârdformu skaits:	6070
+Vârdformu skaits:	6068
 Vârdlietojumu skaits:	42524
-
-
-a&rons
-
-	1 VD1689_94 Ps 99:6
-	-----
-	1
 
 
 aa&roòa
@@ -17,6 +10,13 @@ aa&roòa
 	1 VD1689_94 Ps 135:19
 	-----
 	4
+
+
+aa&rons
+
+	1 VD1689_94 Ps 99:6
+	-----
+	1
 
 
 aa&ronu
@@ -85,16 +85,10 @@ abra&a&mu
 
 ab§aloma
 
+	1 VD1689_94 Ps 3:0
 	1 VD1689_94 Ps 3:1
 	-----
-	1
-
-
-ab§alona
-
-	1 VD1689_94 Ps 3:0
-	-----
-	1
+	2
 
 
 agariteºi
@@ -799,6 +793,13 @@ akmiòa=kalnu
 	6
 
 
+akmiòa=kalnu{amiòa=kalnu}
+
+	1 VD1689_94 Ps 61:3
+	-----
+	1
+
+
 akmiòeem
 
 	1 VD1689_94 Ps 78:16
@@ -1042,13 +1043,6 @@ amen
 	1 VD1689_94 Ps 106:48
 	-----
 	7
-
-
-amiòa=kalnu
-
-	1 VD1689_94 Ps 61:3
-	-----
-	1
 
 
 ammons
@@ -34912,13 +34906,6 @@ mittinaúees
 	1
 
 
-mnms
-
-	1 VD1689_94 Ps 67:2
-	-----
-	1
-
-
 moabs
 
 	1 VD1689_94 Ps 60:10
@@ -35672,7 +35659,7 @@ mums
 	1 VD1689_94 Ps 60:13
 	1 VD1689_94 Ps 62:9
 	1 VD1689_94 Ps 65:4
-	1 VD1689_94 Ps 67:2
+	2 VD1689_94 Ps 67:2
 	1 VD1689_94 Ps 68:20
 	1 VD1689_94 Ps 68:21
 	1 VD1689_94 Ps 68:29
@@ -35710,7 +35697,7 @@ mums
 	1 VD1689_94 Ps 137:8
 	1 VD1689_94 Ps 147:0
 	-----
-	73
+	74
 
 
 mutte

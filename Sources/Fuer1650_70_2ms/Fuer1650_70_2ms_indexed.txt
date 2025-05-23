@@ -1,5 +1,5 @@
-Vârdformu skaits:	10167
-Vârdlietojumu skaits:	15788
+Vârdformu skaits:	10168
+Vârdlietojumu skaits:	15790
 
 
 a
@@ -385,7 +385,7 @@ ahs=úmakst
 	1
 
 
-ahs=wellees
+ahs=weltees
 
 	1 Fuer1650_70_2ms 523.lpp. 2.r.
 	-----
@@ -790,7 +790,7 @@ aiswehlehs
 	1
 
 
-aiswellees
+aisweltees
 
 	1 Fuer1650_70_2ms 523.lpp. 2.r.
 	-----
@@ -1988,13 +1988,6 @@ arrig
 arris
 
 	1 Fuer1650_70_2ms 20.lpp. 12.r.
-	-----
-	1
-
-
-ars
-
-	1 Fuer1650_70_2ms 3k.lpp. 1.r.
 	-----
 	1
 
@@ -3453,6 +3446,13 @@ awokúnaiòsch
 azi
 
 	1 Fuer1650_70_2ms 41.lpp. 5.r.
+	-----
+	1
+
+
+azs
+
+	1 Fuer1650_70_2ms 3k.lpp. 1.r.
 	-----
 	1
 
@@ -6559,9 +6559,8 @@ At=
 	1 Fuer1650_70_2ms 388.lpp. 7.r.
 	1 Fuer1650_70_2ms 392.lpp. 2.r.
 	1 Fuer1650_70_2ms 454.lpp. 3.r.
-	1 Fuer1650_70_2ms 467.lpp. 17.r.
 	-----
-	5
+	4
 
 
 At=audi
@@ -6722,6 +6721,13 @@ At=stahweht
 At=úwehrt
 
 	1 Fuer1650_70_2ms 467.lpp. 6.r.
+	-----
+	1
+
+
+At=úwelt{at=}
+
+	1 Fuer1650_70_2ms 467.lpp. 17.r.
 	-----
 	1
 
@@ -13351,16 +13357,16 @@ debbes=ohsta
 	1
 
 
-debbesú
+Debbeús
 
-	1 Fuer1650_70_2ms 197.lpp. 28.r.
+	1 Fuer1650_70_2ms 82.lpp. 2.r.
 	-----
 	1
 
 
-Debbeús
+debbesúi^
 
-	1 Fuer1650_70_2ms 82.lpp. 2.r.
+	1 Fuer1650_70_2ms 197.lpp. 28.r.
 	-----
 	1
 
@@ -24893,6 +24899,7 @@ ja
 	1 Fuer1650_70_2ms 107.lpp. 17.r.
 	1 Fuer1650_70_2ms 150.lpp. 2.r.
 	1 Fuer1650_70_2ms 196.lpp. 17.r.
+	1 Fuer1650_70_2ms 197.lpp. 6.r.
 	1 Fuer1650_70_2ms 214l.lpp. 1.r.
 	1 Fuer1650_70_2ms 226.lpp. 11.r.
 	1 Fuer1650_70_2ms 226.lpp. 16.r.
@@ -24902,7 +24909,7 @@ ja
 	1 Fuer1650_70_2ms 459.lpp. 12.r.
 	1 Fuer1650_70_2ms 514.lpp. 4.r.
 	-----
-	12
+	13
 
 
 Ja
@@ -25107,13 +25114,6 @@ japataischa
 japluzzinaht
 
 	1 Fuer1650_70_2ms 274.lpp. 8.r.
-	-----
-	1
-
-
-jàschus
-
-	1 Fuer1650_70_2ms 197.lpp. 6.r.
 	-----
 	1
 
@@ -43261,6 +43261,7 @@ pa
 	1 Fuer1650_70_2ms 229.lpp. 25.r.
 	1 Fuer1650_70_2ms 245.lpp. 4.r.
 	1 Fuer1650_70_2ms 245.lpp. 8.r.
+	1 Fuer1650_70_2ms 289.lpp. 2.r.
 	1 Fuer1650_70_2ms 313.lpp. 14.r.
 	1 Fuer1650_70_2ms 319.lpp. 5.r.
 	1 Fuer1650_70_2ms 354.lpp. 8.r.
@@ -43278,7 +43279,7 @@ pa
 	1 Fuer1650_70_2ms 525.lpp. 21.r.
 	1 Fuer1650_70_2ms 547.lpp. 2.r.
 	-----
-	33
+	34
 
 
 Pa
@@ -57551,6 +57552,13 @@ Schurku
 Schurp
 
 	1 Fuer1650_70_2ms 143.lpp. 5.r.
+	-----
+	1
+
+
+schus
+
+	1 Fuer1650_70_2ms 197.lpp. 6.r.
 	-----
 	1
 

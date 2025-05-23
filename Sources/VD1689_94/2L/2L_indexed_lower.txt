@@ -1,4 +1,4 @@
-Vârdformu skaits:	3674
+Vârdformu skaits:	3672
 Vârdlietojumu skaits:	23795
 
 
@@ -38,6 +38,13 @@ abbejo^s
 abda
 
 	1 VD1689_94 2L 29:12
+	-----
+	1
+
+
+abdonam
+
+	1 VD1689_94 2L 34:20
 	-----
 	1
 
@@ -100,13 +107,6 @@ abiwu
 abiwus
 
 	1 VD1689_94 2L 4:16
-	-----
-	1
-
-
-abodonam
-
-	1 VD1689_94 2L 34:20
 	-----
 	1
 
@@ -183,13 +183,6 @@ agri
 	1 VD1689_94 2L 36:22
 	-----
 	4
-
-
-ahae#ls
-
-	1 VD1689_94 2L 17:8
-	-----
-	1
 
 
 ahbra&a&ma
@@ -1861,25 +1854,20 @@ a§abiju
 	1
 
 
-a§ae~lu
-
-	1 VD1689_94 2L 22:6
-	-----
-	1
-
-
 a§ae#ls
 
+	1 VD1689_94 2L 17:8
 	1 VD1689_94 2L 31:13
 	-----
-	1
+	2
 
 
 a§ae#lu
 
 	1 VD1689_94 2L 22:5
+	1 VD1689_94 2L 22:6
 	-----
-	1
+	2
 
 
 a§ajam

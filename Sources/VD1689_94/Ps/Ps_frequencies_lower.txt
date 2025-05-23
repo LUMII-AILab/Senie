@@ -1,4 +1,4 @@
-Vârdformu skaits:	6070
+Vârdformu skaits:	6068
 Vârdlietojumu skaits:	42524
 
 
@@ -79,8 +79,8 @@ Vârdlietojumu skaits:	42524
 77	mehs
 75	juhs
 74	ir
+74	mums
 73	gribbetu
-73	mums
 72	dahwida
 72	tewis
 71	1
@@ -1779,6 +1779,7 @@ Vârdlietojumu skaits:	42524
 3	24
 3	33
 2	aa&ronu
+2	ab§aloma
 2	ahbra&a&ma
 2	ahtri
 2	aisdohd
@@ -2713,7 +2714,7 @@ Vârdlietojumu skaits:	42524
 2	27
 2	28
 2	39
-1	a&rons
+1	aa&rons
 1	aa#roòa
 1	aa#ronu
 1	abbei
@@ -2722,8 +2723,6 @@ Vârdlietojumu skaits:	42524
 1	abirama
 1	abra&a&ma
 1	abra&a&mu
-1	ab§aloma
-1	ab§alona
 1	agariteºi
 1	agraiòas
 1	agruma^
@@ -2776,6 +2775,7 @@ Vârdlietojumu skaits:	42524
 1	aklu
 1	akmiòa=kalna
 1	akmiòa=kalni
+1	akmiòa=kalnu{amiòa=kalnu}
 1	akmiòi
 1	akmiòu
 1	akmiòu=kohpahm
@@ -2792,7 +2792,6 @@ Vârdlietojumu skaits:	42524
 1	amats
 1	amatta
 1	amattu
-1	amiòa=kalnu
 1	ammons
 1	ap
 1	apbeedrinajohs
@@ -4332,7 +4331,6 @@ Vârdlietojumu skaits:	42524
 1	mitte
 1	mittejeetees
 1	mittinaúees
-1	mnms
 1	mohdrijees
 1	mohdrinajeetees
 1	mohku

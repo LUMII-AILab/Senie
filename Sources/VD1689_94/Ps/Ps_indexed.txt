@@ -1,4 +1,4 @@
-Vârdformu skaits:	6442
+Vârdformu skaits:	6440
 Vârdlietojumu skaits:	42524
 
 
@@ -3757,13 +3757,6 @@ awokúnaiòu
 	2
 
 
-A&rons
-
-	1 VD1689_94 Ps 99:6
-	-----
-	1
-
-
 Aa&roòa
 
 	1 VD1689_94 Ps 115:10
@@ -3772,6 +3765,13 @@ Aa&roòa
 	1 VD1689_94 Ps 135:19
 	-----
 	4
+
+
+Aa&rons
+
+	1 VD1689_94 Ps 99:6
+	-----
+	1
 
 
 Aa&ronu
@@ -3826,16 +3826,10 @@ Abra&a&mu
 
 Ab§aloma
 
+	1 VD1689_94 Ps 3:0
 	1 VD1689_94 Ps 3:1
 	-----
-	1
-
-
-Ab§alona
-
-	1 VD1689_94 Ps 3:0
-	-----
-	1
+	2
 
 
 Agariteºi
@@ -4052,6 +4046,13 @@ Akmiòa=Kalnu
 	6
 
 
+Akmiòa=Kalnu{Amiòa=Kalnu}
+
+	1 VD1689_94 Ps 61:3
+	-----
+	1
+
+
 Akmiòeem
 
 	1 VD1689_94 Ps 78:16
@@ -4254,13 +4255,6 @@ Amen
 	1 VD1689_94 Ps 106:48
 	-----
 	7
-
-
-Amiòa=Kalnu
-
-	1 VD1689_94 Ps 61:3
-	-----
-	1
 
 
 Ammons
@@ -36169,13 +36163,6 @@ mittinaúees
 	1
 
 
-mnms
-
-	1 VD1689_94 Ps 67:2
-	-----
-	1
-
-
 Moabs
 
 	1 VD1689_94 Ps 60:10
@@ -36943,7 +36930,7 @@ mums
 	1 VD1689_94 Ps 60:13
 	1 VD1689_94 Ps 62:9
 	1 VD1689_94 Ps 65:4
-	1 VD1689_94 Ps 67:2
+	2 VD1689_94 Ps 67:2
 	1 VD1689_94 Ps 68:20
 	1 VD1689_94 Ps 68:21
 	1 VD1689_94 Ps 68:29
@@ -36981,7 +36968,7 @@ mums
 	1 VD1689_94 Ps 137:8
 	1 VD1689_94 Ps 147:0
 	-----
-	73
+	74
 
 
 Mutte

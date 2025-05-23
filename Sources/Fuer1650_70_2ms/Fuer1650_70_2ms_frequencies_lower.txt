@@ -1,5 +1,5 @@
 Vârdformu skaits:	9332
-Vârdlietojumu skaits:	15788
+Vârdlietojumu skaits:	15790
 
 
 228	ne
@@ -15,8 +15,8 @@ Vârdlietojumu skaits:	15788
 77	tu
 74	tee
 63	man
+60	pa
 60	pee
-59	pa
 58	kad
 54	in
 52	te
@@ -52,11 +52,11 @@ Vârdlietojumu skaits:	15788
 20	pehz
 20	weenu
 19	gann
+19	ja
 19	semme
 19	wehl
 18	ais
 18	at
-18	ja
 18	jo
 18	tahds
 17	allus
@@ -233,7 +233,6 @@ Vârdlietojumu skaits:	15788
 5	aisjemt
 5	appiòòu
 5	as
-5	at=
 5	augsts
 5	aust
 5	bes
@@ -318,6 +317,7 @@ Vârdlietojumu skaits:	15788
 4	appiòòi
 4	arrig
 4	art
+4	at=
 4	atkal
 4	augt
 4	azzim
@@ -835,6 +835,7 @@ Vârdlietojumu skaits:	15788
 2	aw
 2	awohts
 2	az
+2	azs
 2	azz
 2	azzi
 2	azzu
@@ -1878,7 +1879,7 @@ Vârdlietojumu skaits:	15788
 1	ahs=úmakst
 1	ahs=úmarschas
 1	ahs=staht
-1	ahs=wellees
+1	ahs=weltees
 1	ahsbahst
 1	ahseet
 1	ahsenes
@@ -1962,7 +1963,7 @@ Vârdlietojumu skaits:	15788
 1	aiswakkar
 1	aiswedde
 1	aiswehlehs
-1	aiswellees
+1	aisweltees
 1	ait
 1	aitas
 1	aitiòòa
@@ -2273,7 +2274,6 @@ Vârdlietojumu skaits:	15788
 1	arridsan
 1	arris
 1	arrumi
-1	ars
 1	arschana
 1	asaidu
 1	ascha=bahrda
@@ -2355,6 +2355,7 @@ Vârdlietojumu skaits:	15788
 1	at=staht
 1	at=stahweht
 1	at=úwehrt
+1	at=úwelt{at=}
 1	atahrdi
 1	atahrdiht
 1	ataudsinaht
@@ -2624,7 +2625,6 @@ Vârdlietojumu skaits:	15788
 1	ay
 1	azi
 1	azniòa
-1	azs
 1	azs=grauds
 1	azs=kriúlis
 1	azs=mirklis
@@ -3146,8 +3146,8 @@ Vârdlietojumu skaits:	15788
 1	dawaht
 1	debbes
 1	debbes=ohsta
-1	debbesú
 1	debbeús
+1	debbesúi^
 1	debbesúinsch
 1	dedseklis
 1	dedsinahtees
@@ -4343,7 +4343,6 @@ Vârdlietojumu skaits:	15788
 1	japaleek
 1	japataischa
 1	japluzzinaht
-1	jàschus
 1	jaúlauka
 1	jaúlauz
 1	jasohg
@@ -7571,6 +7570,7 @@ Vârdlietojumu skaits:	15788
 1	schurka
 1	schurku
 1	schurp
+1	schus
 1	úchuti
 1	úchuums
 1	úchwinnatees

@@ -1,4 +1,4 @@
-Vârdformu skaits:	3850
+Vârdformu skaits:	3848
 Vârdlietojumu skaits:	23795
 
 
@@ -1956,6 +1956,13 @@ Abda
 	1
 
 
+Abdonam
+
+	1 VD1689_94 2L 34:20
+	-----
+	1
+
+
 Abel
 
 	1 VD1689_94 2L 16:4
@@ -2014,13 +2021,6 @@ Abiwu
 Abiwus
 
 	1 VD1689_94 2L 4:16
-	-----
-	1
-
-
-Abodonam
-
-	1 VD1689_94 2L 34:20
 	-----
 	1
 
@@ -2085,13 +2085,6 @@ Adoramu
 Adullamu
 
 	1 VD1689_94 2L 11:7
-	-----
-	1
-
-
-Ahae#ls
-
-	1 VD1689_94 2L 17:8
 	-----
 	1
 
@@ -2845,25 +2838,20 @@ A§abiju
 	1
 
 
-A§ae~lu
-
-	1 VD1689_94 2L 22:6
-	-----
-	1
-
-
 A§ae#ls
 
+	1 VD1689_94 2L 17:8
 	1 VD1689_94 2L 31:13
 	-----
-	1
+	2
 
 
 A§ae#lu
 
 	1 VD1689_94 2L 22:5
+	1 VD1689_94 2L 22:6
 	-----
-	1
+	2
 
 
 A§ajam

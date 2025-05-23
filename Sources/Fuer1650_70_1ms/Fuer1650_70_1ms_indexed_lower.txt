@@ -1,4 +1,4 @@
-Vârdformu skaits:	8826
+Vârdformu skaits:	8829
 Vârdlietojumu skaits:	14611
 
 
@@ -2164,7 +2164,7 @@ apbakstiht
 
 apbalsitees
 
-	1 Fuer1650_70_1ms 31.lpp. 25.r.
+	1 Fuer1650_70_1ms 31.lpp. 26.r.
 	-----
 	1
 
@@ -3878,7 +3878,7 @@ ar
 	1 Fuer1650_70_1ms 18.lpp. 12.r.
 	1 Fuer1650_70_1ms 24.lpp. 1.r.
 	1 Fuer1650_70_1ms 26.lpp. 12.r.
-	1 Fuer1650_70_1ms 31.lpp. 22.r.
+	1 Fuer1650_70_1ms 31.lpp. 23.r.
 	1 Fuer1650_70_1ms 33.lpp. 9.r.
 	1 Fuer1650_70_1ms 34.lpp. 9.r.
 	1 Fuer1650_70_1ms 38.lpp. 19.r.
@@ -4511,9 +4511,8 @@ at
 	1 Fuer1650_70_1ms 126.lpp. 18.r.
 	1 Fuer1650_70_1ms 170.lpp. 16.r.
 	1 Fuer1650_70_1ms 178.lpp. 11.r.
-	1 Fuer1650_70_1ms 264.lpp. 17.r.
 	-----
-	5
+	4
 
 
 at=
@@ -4549,6 +4548,13 @@ at=gahsis
 at=sehja
 
 	1 Fuer1650_70_1ms 240.lpp. 14.r.
+	-----
+	1
+
+
+at=úwelt{at}
+
+	1 Fuer1650_70_1ms 264.lpp. 17.r.
 	-----
 	1
 
@@ -4611,7 +4617,7 @@ atbaddiht
 
 atbalsiht
 
-	1 Fuer1650_70_1ms 31.lpp. 29.r.
+	1 Fuer1650_70_1ms 31.lpp. 30.r.
 	-----
 	1
 
@@ -7710,16 +7716,16 @@ ballandas
 
 ballodiòsch
 
-	1 Fuer1650_70_1ms 31.lpp. 13.r.
+	1 Fuer1650_70_1ms 31.lpp. 14.r.
 	-----
 	1
 
 
 ballodis
 
-	1 Fuer1650_70_1ms 31.lpp. 15.r.
 	1 Fuer1650_70_1ms 31.lpp. 16.r.
-	1 Fuer1650_70_1ms 31.lpp. 20.r.
+	1 Fuer1650_70_1ms 31.lpp. 17.r.
+	1 Fuer1650_70_1ms 31.lpp. 21.r.
 	1 Fuer1650_70_1ms 217.lpp. 13.r.
 	1 Fuer1650_70_1ms 289.lpp. 23.r.
 	-----
@@ -7735,7 +7741,7 @@ ballodischi
 
 balloditis
 
-	1 Fuer1650_70_1ms 31.lpp. 14.r.
+	1 Fuer1650_70_1ms 31.lpp. 15.r.
 	-----
 	1
 
@@ -7749,7 +7755,7 @@ ballodu
 
 ballohdis
 
-	1 Fuer1650_70_1ms 31.lpp. 13.r.
+	1 Fuer1650_70_1ms 31.lpp. 14.r.
 	-----
 	1
 
@@ -7784,9 +7790,9 @@ balloscheem
 
 balloschi
 
-	1 Fuer1650_70_1ms 31.lpp. 17.r.
 	1 Fuer1650_70_1ms 31.lpp. 18.r.
-	1 Fuer1650_70_1ms 31.lpp. 22.r.
+	1 Fuer1650_70_1ms 31.lpp. 19.r.
+	1 Fuer1650_70_1ms 31.lpp. 23.r.
 	-----
 	3
 
@@ -7824,21 +7830,21 @@ balúe
 
 balsens
 
-	1 Fuer1650_70_1ms 31.lpp. 26.r.
+	1 Fuer1650_70_1ms 31.lpp. 27.r.
 	-----
 	1
 
 
 balsitees
 
-	1 Fuer1650_70_1ms 31.lpp. 24.r.
+	1 Fuer1650_70_1ms 31.lpp. 25.r.
 	-----
 	1
 
 
 balúitees
 
-	1 Fuer1650_70_1ms 31.lpp. 31.r.
+	1 Fuer1650_70_1ms 31.lpp. 32.r.
 	-----
 	1
 
@@ -7859,14 +7865,14 @@ balús
 
 balstahs
 
-	1 Fuer1650_70_1ms 31.lpp. 33.r.
+	1 Fuer1650_70_1ms 31.lpp. 34.r.
 	-----
 	1
 
 
 balstitees
 
-	1 Fuer1650_70_1ms 31.lpp. 31.r.
+	1 Fuer1650_70_1ms 31.lpp. 32.r.
 	-----
 	1
 
@@ -19262,7 +19268,7 @@ ir
 	1 Fuer1650_70_1ms 18.lpp. 14.r.
 	1 Fuer1650_70_1ms 24.lpp. 3.r.
 	1 Fuer1650_70_1ms 27.lpp. 20.r.
-	1 Fuer1650_70_1ms 31.lpp. 26.r.
+	1 Fuer1650_70_1ms 31.lpp. 27.r.
 	1 Fuer1650_70_1ms 34.lpp. 16.r.
 	1 Fuer1650_70_1ms 35.lpp. 9.r.
 	1 Fuer1650_70_1ms 36.lpp. 27.r.
@@ -22758,7 +22764,7 @@ kahplis
 
 kahposti
 
-	1 Fuer1650_70_1ms 31.lpp. 33.r.
+	1 Fuer1650_70_1ms 31.lpp. 34.r.
 	1 Fuer1650_70_1ms 104.lpp. 18.r.
 	-----
 	2
@@ -23795,7 +23801,7 @@ kas
 	1 Fuer1650_70_1ms 23.lpp. 16.r.
 	1 Fuer1650_70_1ms 26.lpp. 13.r.
 	1 Fuer1650_70_1ms 30.lpp. 11.r.
-	1 Fuer1650_70_1ms 31.lpp. 26.r.
+	1 Fuer1650_70_1ms 31.lpp. 27.r.
 	1 Fuer1650_70_1ms 36.lpp. 12.r.
 	1 Fuer1650_70_1ms 56.lpp. 14.r.
 	1 Fuer1650_70_1ms 58.lpp. 26.r.
@@ -25424,7 +25430,7 @@ kohkles
 
 kohks
 
-	1 Fuer1650_70_1ms 31.lpp. 26.r.
+	1 Fuer1650_70_1ms 31.lpp. 27.r.
 	1 Fuer1650_70_1ms 57.lpp. 19.r.
 	1 Fuer1650_70_1ms 69.lpp. 26.r.
 	1 Fuer1650_70_1ms 101.lpp. 3.r.
@@ -28553,7 +28559,7 @@ leelas
 
 leelee
 
-	1 Fuer1650_70_1ms 31.lpp. 17.r.
+	1 Fuer1650_70_1ms 31.lpp. 18.r.
 	-----
 	1
 
@@ -31216,7 +31222,7 @@ maúa
 
 masais
 
-	1 Fuer1650_70_1ms 31.lpp. 20.r.
+	1 Fuer1650_70_1ms 31.lpp. 21.r.
 	1 Fuer1650_70_1ms 289.lpp. 22.r.
 	-----
 	2
@@ -31245,7 +31251,7 @@ maschinaht
 
 masee
 
-	1 Fuer1650_70_1ms 31.lpp. 18.r.
+	1 Fuer1650_70_1ms 31.lpp. 19.r.
 	-----
 	1
 
@@ -31779,7 +31785,7 @@ meetahn
 
 meetees
 
-	1 Fuer1650_70_1ms 31.lpp. 27.r.
+	1 Fuer1650_70_1ms 31.lpp. 28.r.
 	-----
 	1
 
@@ -32375,7 +32381,7 @@ mesch{mes[ch]}
 
 mescha
 
-	1 Fuer1650_70_1ms 31.lpp. 15.r.
+	1 Fuer1650_70_1ms 31.lpp. 16.r.
 	1 Fuer1650_70_1ms 137.lpp. 6.r.
 	1 Fuer1650_70_1ms 171.lpp. 22.r.
 	1 Fuer1650_70_1ms 174.lpp. 3.r.
@@ -34194,7 +34200,7 @@ ne
 	1 Fuer1650_70_1ms 24.lpp. 1.r.
 	1 Fuer1650_70_1ms 26.lpp. 13.r.
 	1 Fuer1650_70_1ms 31.lpp. 2.r.
-	1 Fuer1650_70_1ms 31.lpp. 33.r.
+	1 Fuer1650_70_1ms 31.lpp. 34.r.
 	1 Fuer1650_70_1ms 37.lpp. 15.r.
 	1 Fuer1650_70_1ms 37.lpp. 20.r.
 	1 Fuer1650_70_1ms 38.lpp. 1.r.
@@ -40334,8 +40340,7 @@ pee
 
 	2 Fuer1650_70_1ms 7.lpp. 8.r.
 	1 Fuer1650_70_1ms 12.lpp. 20.r.
-	1 Fuer1650_70_1ms 31.lpp. 9.r.
-	1 Fuer1650_70_1ms 31.lpp. 26.r.
+	1 Fuer1650_70_1ms 31.lpp. 27.r.
 	1 Fuer1650_70_1ms 45.lpp. 7.r.
 	1 Fuer1650_70_1ms 50.lpp. 18.r.
 	1 Fuer1650_70_1ms 50.lpp. 31.r.
@@ -40376,7 +40381,7 @@ pee
 	1 Fuer1650_70_1ms 308.lpp. 14.r.
 	1 Fuer1650_70_1ms 315.lpp. 18.r.
 	-----
-	44
+	43
 
 
 pee=addiht
@@ -40483,6 +40488,13 @@ peebahst
 peebahstees
 
 	1 Fuer1650_70_1ms 46.lpp. 18.r.
+	-----
+	1
+
+
+peebakstiht{pee}
+
+	1 Fuer1650_70_1ms 31.lpp. 9.r.
 	-----
 	1
 
@@ -43417,7 +43429,7 @@ pruina
 
 pruiòsch
 
-	1 Fuer1650_70_1ms 31.lpp. 20.r.
+	1 Fuer1650_70_1ms 31.lpp. 21.r.
 	-----
 	1
 
@@ -44510,7 +44522,7 @@ raggum
 
 	1 Fuer1650_70_1ms 7.lpp. 8.r.
 	1 Fuer1650_70_1ms 12.lpp. 14.r.
-	1 Fuer1650_70_1ms 31.lpp. 26.r.
+	1 Fuer1650_70_1ms 31.lpp. 27.r.
 	-----
 	3
 
@@ -46531,7 +46543,7 @@ sabaks
 
 úabakstiht
 
-	1 Fuer1650_70_1ms 31.lpp. 10.r.
+	1 Fuer1650_70_1ms 31.lpp. 11.r.
 	-----
 	1
 
@@ -47085,7 +47097,7 @@ sahrnanaiòúch{sahrna[=]naiòúch}
 
 úähtas
 
-	1 Fuer1650_70_1ms 31.lpp. 16.r.
+	1 Fuer1650_70_1ms 31.lpp. 17.r.
 	-----
 	1
 
@@ -57986,7 +57998,7 @@ tahs
 	1 Fuer1650_70_1ms 9.lpp. 5.r.
 	1 Fuer1650_70_1ms 12.lpp. 15.r.
 	1 Fuer1650_70_1ms 23.lpp. 17.r.
-	1 Fuer1650_70_1ms 31.lpp. 27.r.
+	1 Fuer1650_70_1ms 31.lpp. 28.r.
 	1 Fuer1650_70_1ms 47.lpp. 5.r.
 	1 Fuer1650_70_1ms 59.lpp. 24.r.
 	1 Fuer1650_70_1ms 61.lpp. 1.r.
@@ -58304,7 +58316,7 @@ tas
 	1 Fuer1650_70_1ms 21.lpp. 7.r.
 	1 Fuer1650_70_1ms 27.lpp. 20.r.
 	1 Fuer1650_70_1ms 30.lpp. 15.r.
-	1 Fuer1650_70_1ms 31.lpp. 26.r.
+	1 Fuer1650_70_1ms 31.lpp. 27.r.
 	1 Fuer1650_70_1ms 34.lpp. 16.r.
 	1 Fuer1650_70_1ms 34.lpp. 19.r.
 	2 Fuer1650_70_1ms 39.lpp. 8.r.
@@ -60754,7 +60766,7 @@ twaiku
 	3
 
 
-twehrums{tweh[rums(?)]}
+twehrums{tweh}
 
 	1 Fuer1650_70_1ms 285.lpp. 27.r.
 	-----
@@ -61139,7 +61151,7 @@ uhsbahst
 
 uhsbakstiht
 
-	1 Fuer1650_70_1ms 31.lpp. 11.r.
+	1 Fuer1650_70_1ms 31.lpp. 12.r.
 	-----
 	1
 
@@ -66115,7 +66127,6 @@ zaur
 
 	1 Fuer1650_70_1ms 10.lpp. 4.r.
 	1 Fuer1650_70_1ms 13.lpp. 16.r.
-	1 Fuer1650_70_1ms 31.lpp. 9.r.
 	1 Fuer1650_70_1ms 39.lpp. 31.r.
 	1 Fuer1650_70_1ms 73.lpp. 20.r.
 	1 Fuer1650_70_1ms 121.lpp. 10.r.
@@ -66123,7 +66134,7 @@ zaur
 	1 Fuer1650_70_1ms 305.lpp. 19.r.
 	2 Fuer1650_70_1ms 311.lpp. 14.r.
 	-----
-	10
+	9
 
 
 zaur=augt
@@ -66174,6 +66185,13 @@ zauras
 zaurbahst
 
 	1 Fuer1650_70_1ms 46.lpp. 14.r.
+	-----
+	1
+
+
+zaurbakstiht{zaur}
+
+	1 Fuer1650_70_1ms 31.lpp. 10.r.
 	-----
 	1
 
@@ -66395,7 +66413,7 @@ zehrtoht
 
 zekkileem
 
-	1 Fuer1650_70_1ms 31.lpp. 22.r.
+	1 Fuer1650_70_1ms 31.lpp. 23.r.
 	-----
 	1
 

@@ -1,5 +1,5 @@
-Vârdformu skaits:	12937
-Vârdlietojumu skaits:	72279
+Vârdformu skaits:	12936
+Vârdlietojumu skaits:	72278
 
 
 _
@@ -10618,13 +10618,6 @@ bah§chas
 	1
 
 
-bah§taht
-
-	1 LGL1685_V5 392.lpp. 28.r.
-	-----
-	1
-
-
 bah§unahm
 
 	1 LGL1685_V5 261.lpp. 12.r.
@@ -10776,6 +10769,13 @@ bailu
 	1 LGL1685_V5 210.lpp. 26.r.
 	-----
 	2
+
+
+bak§taht
+
+	1 LGL1685_V5 392.lpp. 28.r.
+	-----
+	1
 
 
 balksni§cheem
@@ -72021,7 +72021,7 @@ muttes
 	6
 
 
-mutttu
+muttu
 
 	1 LGL1685_V5 392.lpp. 25.r.
 	-----
@@ -74542,13 +74542,6 @@ neekadu
 neekahds
 
 	1 LGL1685_V5 210.lpp. 9.r.
-	-----
-	1
-
-
-neekeems
-
-	1 LGL1685_V5 233.lpp. 11.r.
 	-----
 	1
 
@@ -88657,7 +88650,7 @@ patturru
 	1
 
 
-pattwenhrums
+pattwehrums
 
 	1 LGL1685_V5 427.lpp. 24.r.
 	-----
@@ -140720,16 +140713,16 @@ willta
 	1
 
 
-willte
+willteneeka
 
-	1 LGL1685_V5 233.lpp. 11.r.
+	1 LGL1685_V5 148.lpp. 18.r.
 	-----
 	1
 
 
-willteneeka
+willteneekeems{willte neekeems}
 
-	1 LGL1685_V5 148.lpp. 18.r.
+	1 LGL1685_V5 233.lpp. 11.r.
 	-----
 	1
 

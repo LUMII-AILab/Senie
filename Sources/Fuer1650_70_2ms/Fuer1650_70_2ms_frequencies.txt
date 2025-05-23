@@ -1,5 +1,5 @@
-Vârdformu skaits:	10167
-Vârdlietojumu skaits:	15788
+Vârdformu skaits:	10168
+Vârdlietojumu skaits:	15790
 
 
 200	ne
@@ -26,7 +26,7 @@ Vârdlietojumu skaits:	15788
 35	ko
 35	Ta
 35	tee
-33	pa
+34	pa
 32	ka`
 32	No
 31	kad
@@ -85,10 +85,10 @@ Vârdlietojumu skaits:	15788
 13	dauds
 13	dohd
 13	gann
+13	ja
 13	tahds
 13	tikkai
 12	deews
-12	ja
 12	wiòòa
 12	winnam
 11	ais
@@ -226,7 +226,6 @@ Vârdlietojumu skaits:	15788
 5	at
 5	A
 5	Aplam
-5	At=
 5	Behrns
 5	Behrnu
 5	dabbu
@@ -300,6 +299,7 @@ Vârdlietojumu skaits:	15788
 4	AL
 4	AP
 4	Ar
+4	At=
 4	BA
 4	BE
 4	behrni
@@ -1591,7 +1591,7 @@ Vârdlietojumu skaits:	15788
 1	ahrdiht
 1	ahs=art
 1	ahs=úmakst
-1	ahs=wellees
+1	ahs=weltees
 1	ahsbahst
 1	ahseet
 1	ahskurlis
@@ -1637,7 +1637,7 @@ Vârdlietojumu skaits:	15788
 1	aiswakkar
 1	aiswedde
 1	aiswehlehs
-1	aiswellees
+1	aisweltees
 1	aitas
 1	ak
 1	akkohtes
@@ -1776,7 +1776,6 @@ Vârdlietojumu skaits:	15788
 1	apzirsts
 1	ara`
 1	arris
-1	ars
 1	as
 1	aúchi
 1	aúchíi
@@ -1955,6 +1954,7 @@ Vârdlietojumu skaits:	15788
 1	awohts
 1	awokúnaiòsch
 1	azi
+1	azs
 1	aztinna
 1	azz
 1	azzi^
@@ -2342,6 +2342,7 @@ Vârdlietojumu skaits:	15788
 1	At=Staht
 1	At=stahweht
 1	At=úwehrt
+1	At=úwelt{at=}
 1	Atahrdi
 1	Atahrdiht
 1	Ataudsinaht
@@ -3115,8 +3116,8 @@ Vârdlietojumu skaits:	15788
 1	Dawaht
 1	debbes
 1	debbes=ohsta
-1	debbesú
 1	Debbeús
+1	debbesúi^
 1	Debbesúinsch
 1	Dedseklis
 1	dedsinaht
@@ -4478,7 +4479,6 @@ Vârdlietojumu skaits:	15788
 1	japaleek
 1	japataischa
 1	japluzzinaht
-1	jàschus
 1	jaúlauka
 1	jaúlauz
 1	jasohg
@@ -8164,6 +8164,7 @@ Vârdlietojumu skaits:	15788
 1	Schurka
 1	Schurku
 1	Schurp
+1	schus
 1	Úchuti
 1	Úchuums
 1	Úchwinnatees

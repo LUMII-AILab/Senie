@@ -1,4 +1,4 @@
-Vârdformu skaits:	2918
+Vârdformu skaits:	2917
 Vârdlietojumu skaits:	22422
 
 
@@ -1515,6 +1515,7 @@ Aa&roòa
 
 	1 VD1689_94 3Moz 1:7
 	1 VD1689_94 3Moz 1:8
+	1 VD1689_94 3Moz 1:11
 	1 VD1689_94 3Moz 2:2
 	1 VD1689_94 3Moz 3:2
 	1 VD1689_94 3Moz 3:5
@@ -1541,7 +1542,14 @@ Aa&roòa
 	1 VD1689_94 3Moz 21:21
 	1 VD1689_94 3Moz 22:4
 	-----
-	27
+	28
+
+
+Aa&ronam
+
+	1 VD1689_94 3Moz 7:34
+	-----
+	1
 
 
 Aa&roòam
@@ -1639,20 +1647,6 @@ Aa#ronu
 	1 VD1689_94 3Moz 22:18
 	-----
 	4
-
-
-Aaa&ronam
-
-	1 VD1689_94 3Moz 7:34
-	-----
-	1
-
-
-Aäroòa
-
-	1 VD1689_94 3Moz 1:11
-	-----
-	1
 
 
 Aaronu

@@ -1,4 +1,4 @@
-Vârdformu skaits:	8826
+Vârdformu skaits:	8829
 Vârdlietojumu skaits:	14611
 
 
@@ -23,7 +23,7 @@ Vârdlietojumu skaits:	14611
 45	ka
 45	pa
 44	kas
-44	pee
+43	pee
 43	tad
 40	tew
 35	tahs
@@ -105,7 +105,6 @@ Vârdlietojumu skaits:	14611
 10	preeksch
 10	teem
 10	tohp
-10	zaur
 9	ahs
 9	dsihwo
 9	prett
@@ -115,6 +114,7 @@ Vârdlietojumu skaits:	14611
 9	uhdens
 9	weena
 9	wista
+9	zaur
 9	zilweks
 8	a
 8	ai
@@ -204,7 +204,6 @@ Vârdlietojumu skaits:	14611
 5	agri
 5	ais
 5	aldermannis
-5	at
 5	atkal
 5	aust
 5	baddu
@@ -269,6 +268,7 @@ Vârdlietojumu skaits:	14611
 4	allu
 4	appiòu
 4	arrig
+4	at
 4	atlaist
 4	azzim
 4	bahrda
@@ -2182,6 +2182,7 @@ Vârdlietojumu skaits:	14611
 1	at=aust
 1	at=gahsis
 1	at=sehja
+1	at=úwelt{at}
 1	ataddiht
 1	atahrdih
 1	atahrdiht
@@ -6040,6 +6041,7 @@ Vârdlietojumu skaits:	14611
 1	peeaugusúi
 1	peebahst
 1	peebahstees
+1	peebakstiht{pee}
 1	peebraukt
 1	peebreeduúchi
 1	peedarbs
@@ -8180,7 +8182,7 @@ Vârdlietojumu skaits:	14611
 1	tuwu
 1	tuzzis
 1	twaiks
-1	twehrums{tweh[rums(?)]}
+1	twehrums{tweh}
 1	twerme
 1	twermes
 1	twerrums
@@ -8712,6 +8714,7 @@ Vârdlietojumu skaits:	14611
 1	zaur=laust
 1	zaura^
 1	zaurbahst
+1	zaurbakstiht{zaur}
 1	zaurdegt
 1	zaurpuhst
 1	zaurs

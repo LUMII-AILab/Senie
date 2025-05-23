@@ -1,5 +1,5 @@
 Vârdformu skaits:	8013
-Vârdlietojumu skaits:	49458
+Vârdlietojumu skaits:	49459
 
 
 a
@@ -85861,6 +85861,7 @@ und
 	1 Manc1654_LP3 133.lpp. 29.r.
 	1 Manc1654_LP3 133.lpp. 30.r.
 	1 Manc1654_LP3 134.lpp. 5.r.
+	1 Manc1654_LP3 134.lpp. 6.r.
 	1 Manc1654_LP3 134.lpp. 10.r.
 	2 Manc1654_LP3 134.lpp. 15.r.
 	1 Manc1654_LP3 134.lpp. 19.r.
@@ -86522,7 +86523,7 @@ und
 	1 Manc1654_LP3 216.lpp. 20.r.
 	1 Manc1654_LP3 216.lpp. 25.r.
 	-----
-	1889
+	1890
 
 
 undens
@@ -91813,6 +91814,13 @@ willta=leeta
 	1
 
 
+willta=leeta{willta=}
+
+	1 Manc1654_LP3 134.lpp. 5.r.
+	-----
+	1
+
+
 willta=leezibas
 
 	1 Manc1654_LP3 43.lpp. 19.r.
@@ -91833,13 +91841,6 @@ willta=naudu
 	1 Manc1654_LP3 134.lpp. 25.r.
 	-----
 	2
-
-
-willtaund
-
-	1 Manc1654_LP3 134.lpp. 5.r.
-	-----
-	1
 
 
 willteneeku

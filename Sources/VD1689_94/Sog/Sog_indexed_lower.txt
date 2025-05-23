@@ -1,10 +1,17 @@
-Vârdformu skaits:	3026
+Vârdformu skaits:	3025
 Vârdlietojumu skaits:	17412
 
 
 &c
 
 	1 VD1689_94 Sog 10:0
+	-----
+	1
+
+
+aa&roòa
+
+	1 VD1689_94 Sog 20:28
 	-----
 	1
 
@@ -141,13 +148,6 @@ adoni
 	1 VD1689_94 Sog 1:7
 	-----
 	3
-
-
-ae&roòa
-
-	1 VD1689_94 Sog 20:28
-	-----
-	1
 
 
 ae#labu
@@ -28275,6 +28275,7 @@ turretees
 ugguni
 
 	1 VD1689_94 Sog 9:49
+	1 VD1689_94 Sog 9:51
 	1 VD1689_94 Sog 12:1
 	1 VD1689_94 Sog 14:15
 	1 VD1689_94 Sog 15:5
@@ -28282,14 +28283,7 @@ ugguni
 	1 VD1689_94 Sog 18:27
 	1 VD1689_94 Sog 20:48
 	-----
-	7
-
-
-uggunia
-
-	1 VD1689_94 Sog 9:51
-	-----
-	1
+	8
 
 
 ugguns

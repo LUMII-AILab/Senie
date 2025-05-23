@@ -1,5 +1,5 @@
-Vârdformu skaits:	3063
-Vârdlietojumu skaits:	13062
+Vârdformu skaits:	3062
+Vârdlietojumu skaits:	13064
 
 
 abbedayas
@@ -742,6 +742,7 @@ ar
 	1 UP1587 DA.lpp. 9.r.
 	1 UP1587 DB.lpp. 14.r.
 	1 UP1587 DB.lpp. 16.r.
+	1 UP1587 D4A.lpp. 19.r.
 	1 UP1587 D4B.lpp. 2.r.
 	1 UP1587 EA.lpp. 5.r.
 	1 UP1587 EA.lpp. 16.r.
@@ -805,12 +806,19 @@ ar
 	1 UP1587 N4A.lpp. 10.r.
 	1 UP1587 N4A.lpp. 11.r.
 	-----
-	99
+	100
 
 
 ar{arotre}
 
 	1 UP1587 A3A.lpp. 4.r.
+	-----
+	1
+
+
+ar{artims}
+
+	1 UP1587 A3A.lpp. 10.r.
 	-----
 	1
 
@@ -900,13 +908,6 @@ arridtczan
 	29
 
 
-artims
-
-	1 UP1587 A3A.lpp. 10.r.
-	-----
-	1
-
-
 arwue§§e
 
 	1 UP1587 A2A.lpp. 17.r.
@@ -917,13 +918,6 @@ arwue§§e
 arydtczan
 
 	1 UP1587 EA.lpp. 13.r.
-	-----
-	1
-
-
-aryums
-
-	1 UP1587 D4A.lpp. 19.r.
 	-----
 	1
 
@@ -26455,6 +26449,7 @@ tidtcziges
 tims
 
 	1 UP1587 A2A.lpp. 8.r.
+	1 UP1587 A3A.lpp. 10.r.
 	1 UP1587 B3A.lpp. 1.r.
 	1 UP1587 B3A.lpp. 9.r.
 	1 UP1587 F3B.lpp. 8.r.
@@ -26466,7 +26461,7 @@ tims
 	1 UP1587 K2A.lpp. 10.r.
 	1 UP1587 L2A.lpp. 24.r.
 	-----
-	11
+	12
 
 
 Tims
@@ -30864,11 +30859,12 @@ yums
 	1 UP1587 A3A.lpp. 22.r.
 	1 UP1587 A3A.lpp. 23.r.
 	1 UP1587 DB.lpp. 14.r.
+	1 UP1587 D4A.lpp. 19.r.
 	1 UP1587 EA.lpp. 9.r.
 	1 UP1587 EB.lpp. 26.r.
 	1 UP1587 N3A.lpp. 7.r.
 	-----
-	7
+	8
 
 
 yus

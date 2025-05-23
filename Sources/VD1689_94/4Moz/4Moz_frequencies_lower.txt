@@ -1,5 +1,5 @@
-Vârdformu skaits:	3997
-Vârdlietojumu skaits:	28722
+Vârdformu skaits:	3993
+Vârdlietojumu skaits:	28721
 
 
 1959	un
@@ -182,8 +182,10 @@ Vârdlietojumu skaits:	28722
 22	neds
 22	starpa^
 22	trihs
+22	tukúneúi^
 22	uhs
 22	wehl
+21	aa&ronu
 21	buhtu
 21	manaúúus
 21	mann
@@ -192,10 +194,8 @@ Vârdlietojumu skaits:	28722
 21	ruhbeòa
 21	tahm
 21	taps
-21	tukúneúi^
 21	ugguni
 21	wiúúa
-20	aa&ronu
 20	itt
 20	lehìeri
 20	úaimehm
@@ -662,6 +662,7 @@ Vârdlietojumu skaits:	28722
 5	amiuda
 5	ammata
 5	amminadaba
+5	ammisadaja
 5	apúegt
 5	aúúins
 5	atbildeja
@@ -958,7 +959,6 @@ Vârdlietojumu skaits:	28722
 3	akka
 3	akmini
 3	ammats
-3	ammisadaja
 3	apbruòòoti
 3	apkawe
 3	aprihje
@@ -1165,7 +1165,6 @@ Vârdlietojumu skaits:	28722
 3	rei§i
 3	rihtam
 3	rohka
-3	sadaja
 3	úakka
 3	úaldas
 3	úalihd§inaúchana
@@ -1640,6 +1639,7 @@ Vârdlietojumu skaits:	28722
 2	ruhktu
 2	ruhktumu
 2	runnaju
+2	sadaja
 2	úaded§inaht
 2	úagahna
 2	úagahniht
@@ -1816,7 +1816,6 @@ Vârdlietojumu skaits:	28722
 1	aa#ronam
 1	aaroòa
 1	aaronu
-1	aäronu
 1	abbeja^s
 1	abbejus
 1	abel=sittim
@@ -1885,8 +1884,6 @@ Vârdlietojumu skaits:	28722
 1	amaleks
 1	amatu
 1	ammatu
-1	ammi
-1	ammi=sadaja
 1	ammie&ls
 1	amoriteºi
 1	amrama
@@ -3765,7 +3762,6 @@ Vârdlietojumu skaits:	28722
 1	túchuhúchkahm
 1	tuhk§toúchee
 1	tuhk§tots
-1	tukúneú^i
 1	tukúneúi`
 1	tukúneúi^{tukúneúi`}
 1	tukúneúi^{tukúneúi}

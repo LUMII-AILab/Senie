@@ -1,4 +1,4 @@
-Vârdformu skaits:	9667
+Vârdformu skaits:	9670
 Vârdlietojumu skaits:	14611
 
 
@@ -150,7 +150,6 @@ Vârdlietojumu skaits:	14611
 7	truhkst
 7	winnam
 7	wista
-7	Zaur
 7	Zilweks
 6	apkahrt
 6	art
@@ -184,6 +183,7 @@ Vârdlietojumu skaits:	14611
 6	Uhdens
 6	wihrs
 6	winnu
+6	Zaur
 6	Zilwehks
 5	a
 5	ai
@@ -240,7 +240,6 @@ Vârdlietojumu skaits:	14611
 4	agri
 4	ais
 4	aplam
-4	at
 4	atkal
 4	azzim
 4	Aldermannis
@@ -283,7 +282,6 @@ Vârdlietojumu skaits:	14611
 4	neeka
 4	Nelaime
 4	pauts
-4	Pee
 4	pilns
 4	projam
 4	Rehmens
@@ -334,6 +332,7 @@ Vârdlietojumu skaits:	14611
 3	am
 3	as
 3	assinis
+3	at
 3	at=
 3	atlaist
 3	augsts
@@ -459,6 +458,7 @@ Vârdlietojumu skaits:	14611
 3	Pakkal
 3	paschu
 3	paúchu
+3	Pee
 3	peedoht
 3	peens
 3	peenu
@@ -1680,6 +1680,7 @@ Vârdlietojumu skaits:	14611
 1	astoòi
 1	at=audi
 1	at=gahsis
+1	at=úwelt{at}
 1	ataddiht
 1	atahrdih
 1	atahrdiht
@@ -6387,6 +6388,7 @@ Vârdlietojumu skaits:	14611
 1	peeaugusúi
 1	peebahst
 1	peebahstees
+1	Peebakstiht{Pee}
 1	peebraukt
 1	peebreeduúchi
 1	Peedarbs
@@ -8883,7 +8885,7 @@ Vârdlietojumu skaits:	14611
 1	tuwu
 1	tuzzis
 1	Twaiks
-1	Twehrums{Tweh[rums(?)]}
+1	Twehrums{Tweh}
 1	Twerme
 1	twermes
 1	Twerrums
@@ -9526,6 +9528,7 @@ Vârdlietojumu skaits:	14611
 1	Zaura^
 1	zauras
 1	Zaurbahst
+1	Zaurbakstiht{Zaur}
 1	Zaurdegt
 1	Zaurpuhst
 1	Zaurs
