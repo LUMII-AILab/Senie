@@ -8,7 +8,7 @@ use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLangua
 use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw($DO_VERT printInVerts printVertDocHead printVertDocTail startVertPage endVertPage
     startVertBibleChapter endVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse
     startVertLine endVertLine startVertSubBlock endVertSubBlock startVertLatvian endVertLatvian

@@ -6,7 +6,7 @@ use warnings;
 use LvSenie::Publishing::Utils qw(printInAllStreams);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw($DO_TEI printTeiCorpusHead printTeiCorpusTail printTeiCollectionHead printTeiCollectionTail
     printTeiDocHead printTeiDocTail startTeiBibleChapter endTeiBibleChapter startTeiParagraph startTeiVerse
     endTeiParagraphVerse changeTeiPage changeTeiLine startTeiSubBlock endTeiSubBlock startTeiLatvian endTeiLatvian

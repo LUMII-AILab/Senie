@@ -1,5 +1,5 @@
 :: Run for single file like this.
-::perl -e "use LvSenie::Unicode::Unicodifier qw(transformFile); transformFile(@ARGV)" data Braum1699_LVV
+::perl -e "use LvSenie::Unicode::Unicodifier qw(transformFile); transformFile(@ARGV)" data Baum1699_LVV
 ::perl -e "use LvSenie::Unicode::Unicodifier qw(transformFile); transformFile(@ARGV)" data-Apokr1689 Sal Apokr1689
 
 :: Run for a folder like this.

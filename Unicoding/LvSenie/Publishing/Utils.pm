@@ -6,7 +6,7 @@ use warnings;
 use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(splitByLang tokenize splitCorrection printInAllStreams calculateAddressStub);
 
 our $DO_WARN_ATS = 1;

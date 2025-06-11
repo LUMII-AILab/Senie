@@ -4,7 +4,7 @@ use warnings;
 use utf8;
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(substTable hasTable printTableErrors);
 
 ################################################################################

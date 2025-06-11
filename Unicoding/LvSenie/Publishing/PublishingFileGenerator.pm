@@ -23,7 +23,7 @@ use LvSenie::Utils::SourceProperties qw(getSourceProperties);
 use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType getExternalProperties);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(processFile processDirs);
 
 our $DO_TRANSLIT = 0;

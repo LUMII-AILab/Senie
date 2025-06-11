@@ -15,7 +15,7 @@ use LvSenie::Translit::SimpleTranslitTables qw(substTable hasTable printTableErr
 use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString smartLowercase ignoreLine $firstSymb $lastSymb);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(transformFile transformDir transliterateString);
 
 # If this is nonzero, print debug info un lines matching something in this array.

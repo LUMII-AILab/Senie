@@ -12,7 +12,7 @@ use Unicode::Semantics qw(up us);
 use LvSenie::Utils::SourceProperties qw(getSourceProperties);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(countInFile countInDirs);
 
 ###############################################################################
@@ -23,7 +23,7 @@ our $symbolCounter = {};
 
 sub countInFile
 {
-    autoflush STDOUT 1;
+    #autoflush STDOUT 1;
     if (not @_ or @_ < 3 or @_ > 3)
     {
         print <<END;
@@ -55,7 +55,7 @@ END
 
 sub countInDirs
 {
-    autoflush STDOUT 1;
+    #autoflush STDOUT 1;
     if (not @_ or @_ < 3)
     {
         print <<END;

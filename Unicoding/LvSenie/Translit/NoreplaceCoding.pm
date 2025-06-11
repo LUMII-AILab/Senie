@@ -6,7 +6,7 @@ use warnings;
 #use LvSenie::Translit::SimpleTranslitTables qw(TABLES);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(encodeString decodeString smartLowercase ignoreLine $firstSymb $lastSymb);
 
 # First project specification required to ensure that strings already replaced

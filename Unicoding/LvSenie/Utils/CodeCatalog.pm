@@ -4,7 +4,7 @@ use utf8;
 use warnings;
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(canDecode decode isLanguage mustIncludeLanguage);
 
 our $CODES = {

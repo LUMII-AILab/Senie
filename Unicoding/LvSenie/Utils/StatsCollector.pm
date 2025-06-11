@@ -6,7 +6,7 @@ use IO::Dir;
 use IO::File;
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(count);
 
 our $STATS = {
@@ -17,7 +17,7 @@ our $STATS = {
 
 sub count
 {
-	autoflush STDOUT 1;
+	#autoflush STDOUT 1;
 	if (@_ < 2)
 	{
 		print <<END;

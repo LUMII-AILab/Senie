@@ -6,7 +6,7 @@ use warnings;
 use IO::File;
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(getSourceProperties);
 
 # Find the necassary properties for indexing in the given text file.

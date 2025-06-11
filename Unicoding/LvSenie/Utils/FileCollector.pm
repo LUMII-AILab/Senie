@@ -7,12 +7,12 @@ use IO::File;
 use File::Copy;
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(collectFlat collectNested);
 
 sub collectFlat
 {
-	autoflush STDOUT 1;
+	#autoflush STDOUT 1;
 	if (@_ > 1)
 	{
 		print <<END;
@@ -46,7 +46,7 @@ END
 
 sub collectNested
 {
-	autoflush STDOUT 1;
+	#autoflush STDOUT 1;
 	if (@_ > 1)
 	{
 		print <<END;

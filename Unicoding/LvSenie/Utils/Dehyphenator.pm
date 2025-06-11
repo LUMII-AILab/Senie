@@ -6,7 +6,7 @@ use IO::Dir;
 use IO::File;
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(transformFile transformDir);
 
 sub transformFile

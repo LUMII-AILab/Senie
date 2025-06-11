@@ -7,7 +7,7 @@ use LvSenie::Publishing::Utils qw(printInAllStreams);
 use LvSenie::Utils::CodeCatalog qw(decode);
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
 
 our $DO_HTML = 0;

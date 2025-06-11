@@ -7,7 +7,7 @@ use IO::File;
 #use Data::Dumper;
 
 use Exporter();
-our @ISA = qw(Exporter);
+use parent qw(Exporter);
 our @EXPORT_OK = qw(getIndexType getExternalProperties getAnyProperty);
 
 # Path to file where indexing type for each source is listed
