@@ -12,6 +12,7 @@
 /Unicoding/*-ignore
 /Unicoding/*.vert
 /Unicoding/*.tei.xml
+/Unicoding/*.sql
 
 /Indexing/run/data
 /Indexing/run/result-*

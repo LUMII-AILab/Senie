@@ -8,14 +8,15 @@ use IO::File;
 
 use Exporter();
 use parent qw(Exporter);
-our @EXPORT_OK = qw(getIndexType getExternalProperties getAnyProperty);
+our @EXPORT_OK = qw(getIndexType getExternalProperties getAnyProperty getAllSources);
 
 # Path to file where indexing type for each source is listed
 our $SOURCE_PATH = '../Sources/indexing.txt';
 
 # Key names
-our ($INDEX_KEY, $SHORTNAME_KEY, $AUTHOR_KEY, $ORDERNO_KEY, $YEAR_KEY, $CENTURY_KEY, $GENRE_KEY, $SUBGENRES_KEY, $MANUSCRIPT_KEY, $YEAR_BEGIN_KEY, $YEAR_END_KEY) =
-	('index', 'short name', 'author', 'order no', 'year', 'century', 'genre', 'subgenre', 'manuscript', 'year begin', 'year end');
+our ($INDEX_KEY, $SHORTNAME_KEY, $AUTHOR_KEY, $ORDERNO_KEY, $YEAR_KEY, $CENTURY_KEY, $GENRE_KEY, $SUBGENRES_KEY, $MANUSCRIPT_KEY, $YEAR_BEGIN_KEY, $YEAR_END_KEY, $COLLECTION_ID_KEY, $SHORT_ID_KEY) =
+	('index', 'short name', 'author', 'order no', 'year', 'century', 'genre', 'subgenre', 'manuscript', 'year begin', 'year end', 'collection id', 'short id');
+# TODO: make so that PublishingFileGenerator etc. also use the variables, not actual strings??? How?
 
 # Catalog mapping source code, e.g., Has1550_PN or JT1685/1J to indexing type
 # GNP, GLR, LR, or P.
@@ -68,6 +69,21 @@ sub loadCatalog
 				$result->{$source}->{$YEAR_END_KEY} = $result->{$source}->{$YEAR_KEY};
 			}
 
+			# For SQL generation.
+			if (not $result->{$source}->{$INDEX_KEY} or $result->{$source}->{$INDEX_KEY} eq '_')
+			{
+				$result->{$source}->{$COLLECTION_ID_KEY} = $source;
+				#$result->{$source}->{$SHORT_ID_KEY} = null;
+			} elsif ($source =~ /^(.*)?\/(.*)$/)
+			{
+				$result->{$source}->{$COLLECTION_ID_KEY} = $1;
+				$result->{$source}->{$SHORT_ID_KEY} = $2;
+			} else
+			{
+				# $result->{$source}->{$COLLECTION_ID_KEY} = null;
+				$result->{$source}->{$SHORT_ID_KEY} = $source;
+			}
+
 		}
 	}
 	$in->close;
@@ -101,5 +117,10 @@ sub getIndexType
 	return getAnyProperty($INDEX_KEY, @_);
 }
 
+sub getAllSources
+{
+	my @result = sort keys %$CATALOG;
+	return \@result;
+}
 
 1;
