@@ -16,6 +16,7 @@ sub processMetadataFile
 {
     my $outForSQL = IO::File->new("insert_metadata_autogen.sql", "> :encoding(UTF-8)")
         or die "Could not open file insert_metadata_autogen.sql: $!";
+    print $outForSQL "-- AUTOMATICALLY GENERATED metadata based on Sources/indexing.txt.\n\n";
     my @sources = @{getAllSources()};
     for my $full_source (@sources)
     {
@@ -78,6 +79,7 @@ sub processMetadataFile
                 print $outForSQL "  VALUES ( '$full_source', (SELECT id FROM $GENRES_TABLE WHERE $GENRES_TABLE.name = '$subgenre'));\n";
             }
         }
+        print $outForSQL "\n";
     }
 
     $outForSQL->close();
