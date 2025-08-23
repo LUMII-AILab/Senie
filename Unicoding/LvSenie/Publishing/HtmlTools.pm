@@ -8,7 +8,7 @@ use LvSenie::Utils::CodeCatalog qw(decode);
 
 use Exporter();
 use parent qw(Exporter);
-our @EXPORT_OK = qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
+our @EXPORT_OK = qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail htmlifyLineContents);
 
 our $DO_HTML = 0;
 
@@ -40,11 +40,11 @@ sub formLineForHtml
     return "<tr><td class=\"source-address\">&nbsp;</td><td class=\"source-line\">&nbsp;</td></tr>\n"
         if (not $line or $line =~ /^\s*$/);
     $address = '&nbsp;' unless ($address);
-    $line = _htmlify_line_contents($line);
+    $line = htmlifyLineContents($line);
     return "<tr><td class=\"source-address\">$address</td><td class=\"source-line\">$line</td></tr>\n";
 }
 
-sub _htmlify_line_contents
+sub htmlifyLineContents
 {
     my $line = shift @_;
     return $line unless $line;

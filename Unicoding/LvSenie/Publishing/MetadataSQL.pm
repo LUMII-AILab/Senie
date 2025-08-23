@@ -1,4 +1,4 @@
-package LvSenie::Publishing::MetadataSQL;
+package LvSenie::Publishing::MetadataSql;
 use strict;
 use utf8;
 use warnings;
@@ -22,8 +22,10 @@ sub processMetadataFile
     {
         my $properties = getExternalProperties($full_source);
         my $sqlAuthor = $properties->{'author'};
+        $sqlAuthor =~ s/\\/\\\\/g;
         $sqlAuthor =~ s/'/\\'/g;
         my $sqlTitle = $properties->{'short name'};
+        $sqlTitle =~ s/\\/\\\\/g;
         $sqlTitle =~ s/'/\\'/g;
         # E.g., INSERT IGNORE INTO authors_new (name) VALUES ('Ernsts Gliks');
         print $outForSQL "INSERT IGNORE INTO $AUTHOR_TABLE (name) VALUES ('$sqlAuthor');\n";

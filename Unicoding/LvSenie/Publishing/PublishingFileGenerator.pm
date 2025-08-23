@@ -6,7 +6,8 @@ use warnings;
 use IO::Dir;
 use IO::File;
 
-use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail);
+use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail htmlifyLineContents);
+use LvSenie::Publishing::SqlLineTools qw($DO_SQL printInSql);
 use LvSenie::Publishing::TeiTools qw($DO_TEI printTeiCorpusHead printTeiCorpusTail printTeiCollectionHead
 	printTeiCollectionTail printTeiDocHead printTeiDocTail startTeiBibleChapter endTeiBibleChapter
 	startTeiParagraph startTeiVerse endTeiParagraphVerse changeTeiPage changeTeiLine startTeiSubBlock endTeiSubBlock
@@ -15,7 +16,7 @@ use LvSenie::Publishing::VertTools qw($DO_VERT printVertDocHead printVertDocTail
 	startVertBibleChapter endVertBibleChapter startVertVerse startVertParagraph endVertParagraphVerse
 	startVertLine endVertLine startVertSubBlock endVertSubBlock startVertLatvian endVertLatvian printVertToken
 	printVertGlue);
-use LvSenie::Publishing::Utils qw(splitByLang tokenize printInAllStreams calculateAddressStub);
+use LvSenie::Publishing::Utils qw(splitByLang tokenize printInAllStreams calculateAddressStub formPageNumber);
 use LvSenie::Translit::Transliterator qw(transliterateString);
 use LvSenie::Translit::SimpleTranslitTables qw(substTable);
 use LvSenie::Utils::CodeCatalog qw(isLanguage canDecode decode mustIncludeLanguage);
@@ -34,7 +35,7 @@ our $DO_TRANSLIT = 0;
 sub processDirs
 {
 	#STDOUT->autoflush(1);
-	if (not @_ or @_ < 7)
+	if (not @_ or @_ < 8)
 	{
 		print <<END;
 Script for transforming SENIE sources to Sketch-appropriate vertical
@@ -52,10 +53,11 @@ Params:
    do vertical files?
    do html files?
    do TEI files?
+   do SQL output?
    do transliteration?
    data directories
 
-AILab, LUMII, 2022, provided under GPL
+AILab, LUMII, 2025, provided under GPL
 END
 		exit 1;
 	}
@@ -64,18 +66,23 @@ END
 	my $doAllVert = shift @_;
 	my $doAllHtml = shift @_;
 	my $doAllTei = shift @_;
+	my $doAllSql = shift @_;
 	$DO_TRANSLIT = shift @_;
 	my @dirNames = @_;
 
-	unless ($doAllVert or $doAllHtml or $doAllTei) {
+	unless ($doAllVert or $doAllHtml or $doAllTei or $doAllSql) {
 		print "\tNothing to do.\n";
 		return;
 	}
 
-	my ($outForTotalVert, $outForTotalTei) = (0, 0);
+	my ($outForTotalVert, $outForTotalTei, $outForTotalSql) = (0, 0, 0);
 	if ($doAllVert) {
 		$outForTotalVert = IO::File->new("$totalResultDirName/all.vert", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/all.vert: $!";
+	}
+	if ($doAllSql) {
+		$outForTotalSql = IO::File->new("$totalResultDirName/insert_contexts_autogen.sql", "> :encoding(UTF-8)")
+			or die "Could not open file $totalResultDirName/indert_contexts_autogen.sql: $!";
 	}
 	if ($doAllTei) {
 		$outForTotalTei = IO::File->new("$totalResultDirName/all.tei.xml", "> :encoding(UTF-8)")
@@ -110,8 +117,8 @@ END
 						$isBad = 1;
 						warn $_[0]
 					}; # This magic makes eval warn on die and count it as problem.
-					processFile($dirName, $inFile, $encoding, $doAllVert, $doAllHtml, $doAllTei,
-						$outForTotalVert, $outForTotalTei);
+					processFile($dirName, $inFile, $encoding, $doAllVert, $doAllHtml, $doAllTei, $doAllSql,
+						$outForTotalVert, $outForTotalTei, $outForTotalSql);
 				};
 				$baddies = $baddies + $isBad;
 				$all++;
@@ -121,6 +128,7 @@ END
 		&_end_collection($externalProperties, $outForTotalVert, $outForTotalTei);
 	}
 	$outForTotalVert->close() if ($doAllVert);
+	$outForTotalSql->close() if ($doAllSql);
 	printTeiCorpusTail($outForTotalTei);
 	$outForTotalTei->close() if ($doAllTei);
 
@@ -137,7 +145,7 @@ END
 sub processFile
 {
 	#STDOUT->autoflush(1);
-	if (not @_ or @_ < 3 or @_ > 8)
+	if (not @_ or @_ < 3 or @_ > 10)
 	{
 		print <<END;
 
@@ -157,10 +165,12 @@ Params:
    do vertical files?
    do HTML files?
    do TEI files?
-   filehandle for dumping copy of the processed vert contents [optional]
-   filehandle for dumping copy of the processed Tei contents [optional]
+   do SQL output?
+   filehandle for dumping copy of vert contents [optional]
+   filehandle for dumping copy of TEI contents [optional]
+   filehandle for dumping copy of SQL contents [optional]
 
-AILab, LUMII, 2022, provided under GPL
+AILab, LUMII, 2025, provided under GPL
 END
 		exit 1;
 	}
@@ -171,13 +181,15 @@ END
 	my $doAllVert = shift @_;
 	my $doAllHtml = shift @_;
 	my $doAllTei = shift @_;
+	my $doAllSql = shift @_;
 	my $outTotalVert = shift @_;
 	my $outTotalTei = shift @_;
+	my $outTotalSql = shift @_;
 	$fileName =~ /^(.*?)\.txt$/;
 	my $fileNameStub = $1;
 
 	print "Processing $fileNameStub.\n";
-	unless ($doAllVert or $doAllHtml or $doAllTei) {
+	unless ($doAllVert or $doAllHtml or $doAllTei or $doAllSql) {
 		print "\tNothing to do.\n";
 		return;
 	}
@@ -185,6 +197,7 @@ END
 	$DO_VERT = $doAllVert;
 	$DO_HTML = $doAllHtml;
 	$DO_TEI = $doAllTei;
+	$DO_SQL = $doAllSql;
 
 	# Get general file info and indexing type
 	my $internalProperties = getSourceProperties("$dirName/$fileName", $encoding);
@@ -203,7 +216,7 @@ END
 			print "\t$fullSourceStub has no transliteration table.\n";
 			$DO_HTML = 0;
 			$DO_TEI = 0;
-			unless ($DO_VERT) {
+			unless ($DO_VERT or $DO_SQL) {
 				print "\t\tSkipping file without transliteration table.\n";
 				return;
 			}
@@ -215,22 +228,27 @@ END
 		or die "Could not open file $dirName/$fileName: $!";
 	mkdir "$dirName/res/";
 	mkdir "$dirName/res/$lowerSourceId/";
-	my $outs = {'vert' => 0, 'tei' => 0, 'html' => '0', 'total vert' => $outTotalVert, 'total tei' => $outTotalTei};
+	my $outs = {
+		'vert' => 0, 'tei' => 0, 'html' => '0', 'sql' => '0',
+		'total vert' => $outTotalVert, 'total tei' => $outTotalTei,
+		'total sql' => $outTotalSql};
 	&_initialize_outputs($fileNameStub, $internalProperties, $externalProperties, $dirName, $outs);
+
+	# Booleans for positions inside certain elements
+	my $status = {'paragraph' => 0, 'page' => 0, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
+	# Counters for addresses
+	my $counters = {'corrPage' => 0, 'origPage' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0, 'overallLine' => 0};
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
 	$line =~ s/^\N{BOM}//;
 	printInHtml(formLineForHtml(0, $line), $outs);
+	printInSql($fullSourceStub, "", "", $counters->{'overallLine'}++, htmlifyLineContents($line), $line, $outs);
 	warn "Author is not in the first line!" unless $line =~ /^\s*\@a\{(.*?)\}\s*$/;
 	$line = <$in>;
 	printInHtml(formLineForHtml(0, $line), $outs);
+	printInSql($fullSourceStub, "", "", $counters->{'overallLine'}++, htmlifyLineContents($line), $line, $outs);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
-
-	# Booleans for positions inside certain elements
-	my $status = {'paragraph' => 0, 'page' => 0, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
-	# Counters for addresses
-	my $counters = {'corrPage' => 0, 'origPage' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0};
 
 	# Line by line processing
 	my $seenBookCode = 0;
@@ -327,12 +345,15 @@ END
 			&_end_line($outs);
 		}
 
-		# Do HTML for this line
+		# Do HTML and SQL for this line
 		my $textLineForHtml =  $DO_TRANSLIT ? transliterateString($line, $translitTable) : $line;
 		my $htmlLine = formLineForHtml(
 			$newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress,
 			$textLineForHtml);
 		printInHtml($htmlLine, $outs);
+		printInSql($fullSourceStub, $newHtmlLineAddress,
+			formPageNumber($counters->{'corrPage'}, $counters->{'origPage'}),
+			$counters->{'overallLine'}++, htmlifyLineContents($line), $line, $outs);
 	}
 
 	# Print footers and finish everything.
@@ -383,6 +404,15 @@ sub _initialize_outputs
 			or die "Could not open file $dirName/res/$lowerSourceId/$fullFileNameStub.tei.xml: $!";
 	}
 	printTeiDocHead($internalProperties, $externalProperties, $outs);
+
+	if ($DO_SQL)
+	{
+		$outs->{'sql'} = IO::File->new("$dirName/res/$lowerSourceId/${fullFileNameStub}_inserts.sql", "> :encoding(UTF-8)")
+			or die "Could not open file $dirName/res/$lowerSourceId/${fullFileNameStub}_inserts.sql: $!";
+		printInAllStreams("-- AUTOMATICALLY GENERATED document line data.\n", $outs->{'sql'}, $outs->{'total sql'}) if ($DO_SQL);
+		printInAllStreams("\n", $outs->{'sql'}, $outs->{'total sql'}) if ($DO_SQL);
+
+	}
 }
 
 sub _finish_outputs
@@ -401,6 +431,9 @@ sub _finish_outputs
 
 	printTeiDocTail($outs);
 	close($outs->{'tei'}) if ($DO_TEI);
+
+	printInAllStreams("\n", $outs->{'sql'}, $outs->{'total sql'}) if ($DO_SQL);
+	close($outs->{'sql'}) if ($DO_SQL);
 }
 
 sub _start_collection
@@ -618,7 +651,5 @@ sub _print_token
 	printVertToken($outs, $token, $translitToken, $doTranslit, $tokenAddress);
 	$status->{'first word'} = 0;
 }
-
-
 
 1;

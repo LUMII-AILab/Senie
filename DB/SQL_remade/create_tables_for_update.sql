@@ -67,12 +67,15 @@ CREATE TABLE books_authors_new (
 CREATE TABLE contexts_new (
   id int unsigned NOT NULL AUTO_INCREMENT,
   source varchar(50) NOT NULL,
-  adress varchar(100) NOT NULL,
+  adress varchar(100),
+  page varchar(40),
+  html_line_order smallint unsigned NOT NULL,
   data_html text NOT NULL,
   data_plain text NOT NULL,
 
   PRIMARY KEY (id),
   FOREIGN KEY (source) REFERENCES books_new(full_source),
   INDEX (source),
-  INDEX (adress)
+  INDEX (adress),
+  INDEX (page)
 ) DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_latvian_ci;

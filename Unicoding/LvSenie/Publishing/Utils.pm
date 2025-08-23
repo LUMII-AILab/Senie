@@ -7,7 +7,7 @@ use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType);
 
 use Exporter();
 use parent qw(Exporter);
-our @EXPORT_OK = qw(splitByLang tokenize splitCorrection printInAllStreams calculateAddressStub);
+our @EXPORT_OK = qw(splitByLang tokenize splitCorrection printInAllStreams calculateAddressStub formPageNumber);
 
 our $DO_WARN_ATS = 1;
 our $DO_WARN_EMPTY_BRACES = 0;
@@ -88,13 +88,22 @@ sub calculateAddressStub
         if($indexType eq 'GNP' or $indexType eq 'P');
     if ($addPage and ($indexType eq 'LR' or $indexType eq 'GLR'))
     {
-        $addressStub = "$addressStub${\$counters->{'corrPage'}}";
-        $addressStub = "$addressStub\{${\$counters->{'origPage'}}\}"
-            if ($counters->{'origPage'} and ($counters->{'origPage'} ne $counters->{'corrPage'}));
-        $addressStub = "${addressStub}_${\$counters->{'line'}}";
+        my $fullPage = &formPageNumber($counters->{'corrPage'}, $counters->{'origPage'});
+        $addressStub = "$addressStub${fullPage}_${\$counters->{'line'}}";
     }
 
     return $addressStub;
+}
+
+sub formPageNumber
+{
+    my $corrPage = shift @_;
+    my $origPage = shift @_;
+
+    my $result = $corrPage;
+    $result = "$result\{$origPage\}"
+        if ($origPage and ($origPage ne $corrPage));
+    return $result;
 }
 
 1;

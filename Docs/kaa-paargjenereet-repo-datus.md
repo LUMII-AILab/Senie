@@ -60,7 +60,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē HTML failus ar komandu
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 1 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 1 0 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Web/unicode`, `Web/unicode/Apokr1689`, `Web/unicode/JT1685`, `Web/unicode/VD1689_94`.
@@ -72,7 +72,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē HTML failus ar komandu
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 1 0 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 1 0 0 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Web/unicode`, `Web/unicode/Apokr1689`, `Web/unicode/JT1685`, `Web/unicode/VD1689_94`.
@@ -86,7 +86,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē TEI failus ar komandu
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
@@ -99,7 +99,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē TEI failus ar komandu
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
@@ -112,7 +112,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē TEI failus ar komandu
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `TEI`, `TEI/Apokr1689`, `TEI/JT1685`, `TEI/VD1689_94`.
@@ -125,13 +125,13 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Uztaisa pilno vertfailu (ar transliterācijām) ar komandu
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 1 0 0 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 1 0 0 0 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Apkopo tokenizācijas problēmas un noziņo valodniekiem.
 4. Failu `all.vert` pārsauc par `senie_unicode.vert` (agrāk `senie_translit.vert`) un ielādē SkE serverī (sk. pēdējo nodaļu).
 
 Ja otrajā solī lieto komandu
-`perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 1 0 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`,
+`perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 1 0 0 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`,
 tad iegūst vert failu bez transliterācijas kolonnas.
 
 
@@ -189,7 +189,7 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" unhyphened_full`
    (sk. `runFileCollector-sample.bat`).
 2. Uztaisa vert failu ar komandu 
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . cp1257 1 0 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . cp1257 1 0 0 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 3. Pārskata konsoles izdrukas un noziņo valodniekiem tokenizācijas problēmas.
 4. Failu `all.vert` pārsauc par `senie_sakotnejs.vert` un ielādē SkE serverī (sk. pēdējo nodaļu)
