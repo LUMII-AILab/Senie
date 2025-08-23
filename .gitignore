@@ -13,6 +13,7 @@
 /Unicoding/*.vert
 /Unicoding/*.tei.xml
 /Unicoding/*.sql
+/Unicoding/*.sql.gz
 
 /Indexing/run/data
 /Indexing/run/result-*

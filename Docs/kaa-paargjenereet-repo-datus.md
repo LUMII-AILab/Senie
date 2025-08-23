@@ -220,3 +220,24 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 3. Jaunos `.vert` failus (sk. pirmās divu nodaļu attiecīgās sadaļas) iekopē korpusu servera mapē `/data/services/nosketch/corpora/vert`
 4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `cd /data/services/nosketch && sudo docker compose exec nosketch compilecorp --recompile-corpus --no-sketches korpusa_vārds`
 5. Paskatās, vai komandrindā/logfailos nav kas acīmredzami slikts.
+
+
+
+# SQL mājaslapas datubāzei
+
+1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   (sk. `runFileCollector-sample.bat`).
+2. Pārģenerē `insert_contexts_autogen.sql` ar komandu
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   (sk. `runPubGenerator-sample.bat`).
+3. Pārģenerē `insert_metadata_autogen.sql` ar komandu
+   `perl -CS -e "use LvSenie::Publishing::MetadataSql qw(processMetadataFile); processMetadataFile(@ARGV)"`
+   (sk. `runMetadataSql-sample.bat`).
+4. Izveido apvienoto datubāzes atjaunināšanas failu `update_db_full.sql`, apvienojot šādā secībā:
+   4.1. failu `create_tables_for_update.sql` no mapes `DB/SQL_remake`,
+   4.2. failu `runMetadataSql-sample.bat`,
+   4.3. failu `insert_contexts_autogen.sql`.
+5. `update_db_full.sql` saarhivē par `update_db_full.sql.gz` un augšuplādē mājaslapas adminer vidē.
+
+Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar DBeaver, tad ielādes brīdī jānorāda papildu parametrs `--default-character-set=utf8mb4`.
