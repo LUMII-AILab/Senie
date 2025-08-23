@@ -7,7 +7,7 @@ use LvSenie::Utils::ExternalPropertyCatalog qw(getIndexType getExternalPropertie
 
 use Exporter();
 use parent qw(Exporter);
-our @EXPORT_OK = qw(processMetadataFile);
+our @EXPORT_OK = qw(processMetadataFile $BOOK_TABLE $AUTHOR_TABLE $GENRES_TABLE $BOOKS2AUTHORS_TABLE $BOOKS2GENRES_TABLE);
 
 our ($BOOK_TABLE, $AUTHOR_TABLE, $GENRES_TABLE, $BOOKS2AUTHORS_TABLE, $BOOKS2GENRES_TABLE) =
     ('books_new', 'authors_new', 'genres_new', 'books_authors_new', 'books_genres_new');

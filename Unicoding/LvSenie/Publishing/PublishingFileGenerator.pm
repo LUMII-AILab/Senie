@@ -354,7 +354,7 @@ END
 		printInHtml($htmlLine, $outs);
 		printInSql($fullSourceStub, $newHtmlLineAddress,
 			formPageNumber($counters->{'corrPage'}, $counters->{'origPage'}),
-			++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
+			++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs, 1);
 	}
 
 	# Print footers and finish everything.

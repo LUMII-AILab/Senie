@@ -3,6 +3,7 @@ use strict;
 use utf8;
 use warnings;
 
+use LvSenie::Publishing::MetadataSql qw($AUTHOR_TABLE $BOOKS2AUTHORS_TABLE);
 use LvSenie::Publishing::Utils qw(printInAllStreams);
 
 use Exporter();
@@ -21,16 +22,29 @@ sub printInSql
     my $dataHtml = shift @_;
     my $dataPlain = shift @_;
     my $outs = shift @_;
+    my $addAuthor = shift @_;
     return unless ($DO_SQL);
 
+    my $author = 0;
+    $author = $1 if ($dataPlain =~ /^\s*\@a\{(.*?)\}\s*$/);
     my $sqlAddress = &_transformToSqlString($address);
     #my $sqlPage = &_transformToSqlString($page, 0, 1);
     my $sqlPage = &_transformToSqlString($page);
     my $sqlHtml = &_transformToSqlString($dataHtml, 1);
     my $sqlPlain = &_transformToSqlString($dataPlain, 1);
-    my $result = "INSERT INTO $SQL_CONTEXT_TABLE (source, adress, page, html_line_order, data_html, data_plain)\n";
-    $result = "$result  VALUES ('$full_source', $sqlAddress, $sqlPage, $overallLine, $sqlHtml, $sqlPlain);\n";
-    printInAllStreams($result, $outs->{'sql'}, $outs->{'total sql'});
+    my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE (source, adress, page, html_line_order, data_html, data_plain)\n";
+    $insertContext = "$insertContext  VALUES ('$full_source', $sqlAddress, $sqlPage, $overallLine, $sqlHtml, $sqlPlain);\n";
+    printInAllStreams($insertContext, $outs->{'sql'}, $outs->{'total sql'});
+    if ($author and $addAuthor)
+    {
+        my $sqlAuthor = $author;
+        $sqlAuthor =~ s/\\/\\\\/g;
+        $sqlAuthor =~ s/'/\\'/g;
+        my $insertSecAuthor = "INSERT IGNORE INTO $AUTHOR_TABLE (name) VALUES ('$sqlAuthor');\n";
+        $insertSecAuthor = "${insertSecAuthor}INSERT IGNORE INTO $BOOKS2AUTHORS_TABLE (source, author_id, top_author)\n";
+        $insertSecAuthor = "${insertSecAuthor}  VALUES ( '$full_source', (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), FALSE);\n";
+        printInAllStreams($insertSecAuthor, $outs->{'sql'}, $outs->{'total sql'});
+    }
 }
 
 sub _transformToSqlString
