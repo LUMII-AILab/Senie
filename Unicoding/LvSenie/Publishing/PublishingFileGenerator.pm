@@ -83,7 +83,8 @@ END
 	if ($doAllSql) {
 		$outForTotalSql = IO::File->new("$totalResultDirName/insert_contexts_autogen.sql", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/indert_contexts_autogen.sql: $!";
-		print $outForTotalSql("-- AUTOMATICALLY GENERATED document line data.\n\n");
+		print $outForTotalSql "-- AUTOMATICALLY GENERATED document line data.\n\n";
+	}
 	if ($doAllTei) {
 		$outForTotalTei = IO::File->new("$totalResultDirName/all.tei.xml", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/all.tei.xml: $!";
