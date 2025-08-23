@@ -83,7 +83,7 @@ END
 	if ($doAllSql) {
 		$outForTotalSql = IO::File->new("$totalResultDirName/insert_contexts_autogen.sql", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/indert_contexts_autogen.sql: $!";
-	}
+		print $outForTotalSql("-- AUTOMATICALLY GENERATED document line data.\n\n");
 	if ($doAllTei) {
 		$outForTotalTei = IO::File->new("$totalResultDirName/all.tei.xml", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/all.tei.xml: $!";
@@ -243,11 +243,11 @@ END
 	my $line = <$in>;
 	$line =~ s/^\N{BOM}//;
 	printInHtml(formLineForHtml(0, $line), $outs);
-	printInSql($fullSourceStub, "", "", $counters->{'overallLine'}++, htmlifyLineContents($line), $line, $outs);
+	printInSql($fullSourceStub, "", "", ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	warn "Author is not in the first line!" unless $line =~ /^\s*\@a\{(.*?)\}\s*$/;
 	$line = <$in>;
 	printInHtml(formLineForHtml(0, $line), $outs);
-	printInSql($fullSourceStub, "", "", $counters->{'overallLine'}++, htmlifyLineContents($line), $line, $outs);
+	printInSql($fullSourceStub, "", "", ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
 
 	# Line by line processing
@@ -353,7 +353,7 @@ END
 		printInHtml($htmlLine, $outs);
 		printInSql($fullSourceStub, $newHtmlLineAddress,
 			formPageNumber($counters->{'corrPage'}, $counters->{'origPage'}),
-			$counters->{'overallLine'}++, htmlifyLineContents($line), $line, $outs);
+			++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	}
 
 	# Print footers and finish everything.
@@ -409,9 +409,6 @@ sub _initialize_outputs
 	{
 		$outs->{'sql'} = IO::File->new("$dirName/res/$lowerSourceId/${fullFileNameStub}_inserts.sql", "> :encoding(UTF-8)")
 			or die "Could not open file $dirName/res/$lowerSourceId/${fullFileNameStub}_inserts.sql: $!";
-		printInAllStreams("-- AUTOMATICALLY GENERATED document line data.\n", $outs->{'sql'}, $outs->{'total sql'}) if ($DO_SQL);
-		printInAllStreams("\n", $outs->{'sql'}, $outs->{'total sql'}) if ($DO_SQL);
-
 	}
 }
 
