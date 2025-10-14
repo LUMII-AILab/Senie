@@ -1859,7 +1859,8 @@
        <lb id="Lang1685_LDL_ms_9B_25"/>
        <div type="Language" lang="German">darauff gebrandt werden.</div>
        <lb id="Lang1685_LDL_ms_9B_26"/>
-        <div type="Language" lang="Latvian">Apteekis. (Äpteekis.) eine</div>
+        <div type="Language" lang="Latvian">Apteekis. (Äpteekis.)</div>
+       <div type="Language" lang="German">eine</div>
        <lb id="Lang1685_LDL_ms_9B_27"/>
        <div type="Language" lang="German">Apotheck.</div>
         <div type="Language" lang="Latvian">Äpteekeris. (Sahlo=</div>
@@ -6674,7 +6675,8 @@
        <lb id="Lang1685_LDL_ms_22CB_3"/>
        <div type="Language" lang="German">Kippe.</div>
        <lb id="Lang1685_LDL_ms_22CB_4"/>
-       <div type="Language" lang="German">Kirſchen. kesbähres.</div>
+       <div type="Language" lang="German">Kirſchen.</div>
+        <div type="Language" lang="Latvian">kesbähres.</div>
        <lb id="Lang1685_LDL_ms_22CB_5"/>
        <div type="Language" lang="German">Kleet.</div>
        <lb id="Lang1685_LDL_ms_22CB_6"/>
@@ -7492,7 +7494,8 @@
        <lb id="Lang1685_LDL_ms_24D_1"/>
         <div type="Language" lang="Latvian">D A.</div>
        <lb id="Lang1685_LDL_ms_24D_2"/>
-        <div type="Language" lang="Latvian">machen, <corr>Ais=dambäht</corr><sic>Ais= | dambäht</sic></div>
+       <div type="Language" lang="German">machen,</div>
+        <div type="Language" lang="Latvian"><corr>Ais=dambäht</corr><sic>Ais= | dambäht</sic></div>
        <lb id="Lang1685_LDL_ms_24D_3"/>
         <div type="Language" lang="Latvian"><corr>Ahs=dambäht</corr><sic>Ahs=|</sic>,</div>
        <lb id="Lang1685_LDL_ms_24D_4"/>
@@ -9351,7 +9354,7 @@
        <lb id="Lang1685_LDL_ms_29B_3"/>
         <div type="Language" lang="Latvian">waſsar' dreeģaht</div>
        <lb id="Lang1685_LDL_ms_29B_4"/>
-        <div type="Language" lang="Latvian">breeģah, lihds winģs iht</div>
+        <div type="Language" lang="Latvian">dreeģah, lihds winģs iht</div>
        <lb id="Lang1685_LDL_ms_29B_5"/>
         <div type="Language" lang="Latvian">ślims tapp',</div>
        <div type="Language" lang="German">den gantzen</div>
@@ -10202,7 +10205,7 @@
        <div type="Language" lang="Latin">it:</div>
        <lb id="Lang1685_LDL_ms_31B_17"/>
        <div type="Language" lang="German">bekennen.</div>
-        <div type="Language" lang="Latvian"><corr>Grähkus</corr><sic> Grähkus-</sic> at=</div>
+        <div type="Language" lang="Latvian"><corr>Grähkus</corr><sic>Grähkus=</sic> at=</div>
        <lb id="Lang1685_LDL_ms_31B_18"/>
         <div type="Language" lang="Latvian">dſiht. Atpackal=dſiht,</div>
        <lb id="Lang1685_LDL_ms_31B_19"/>
@@ -13396,7 +13399,7 @@
         <div type="Language" lang="Latvian">wihleis,</div>
        <div type="Language" lang="German">ein Jubili-</div>
        <lb id="Lang1685_LDL_ms_39D_26"/>
-       <div type="Language" lang="German">rer, Jauchzer.</div>
+       <div type="Language" lang="German">rer, Jauchzen.</div>
        <lb id="Lang1685_LDL_ms_39D_27"/>
         <div type="Language" lang="Latvian">Geddäht, śaģeddäht,</div>
        <div type="Language" lang="German">zer-</div>
@@ -14487,7 +14490,7 @@
         <div type="Language" lang="Latvian">(Ģreiſe) redſäht,</div>
        <div type="Language" lang="German">ſcheel ſehen.</div>
        <lb id="Lang1685_LDL_ms_42D_25"/>
-        <div type="Language" lang="Latvian">Ģremdäht, (Ģremſtees, ģrem=)</div>
+        <div type="Language" lang="Latvian">Ģremdäht, (Ģremſtees, ģrem-</div>
        <lb id="Lang1685_LDL_ms_42D_26"/>
         <div type="Language" lang="Latvian">ſchoht.)</div>
        <div type="Language" lang="German">gifftig ausſehen,</div>
@@ -17673,8 +17676,7 @@
        <lb id="Lang1685_LDL_ms_51D_12"/>
         <div type="Language" lang="Latvian">weenu Eiduck' nokah-</div>
        <lb id="Lang1685_LDL_ms_51D_13"/>
-        <div type="Language" lang="Latvian">pinaht.</div>
-       <div type="Language" lang="German">Pahrkahpt,</div>
+        <div type="Language" lang="Latvian">pinaht. Pahrkahpt,</div>
        <lb id="Lang1685_LDL_ms_51D_14"/>
        <div type="Language" lang="German">überſteigen. Übertret-</div>
        <lb id="Lang1685_LDL_ms_51D_15"/>
@@ -18816,7 +18818,6 @@
        <lb id="Lang1685_LDL_ms_54D_31"/>
         <div type="Language" lang="Latvian">ir ißkaltus; Ꞩakaltäht,</div>
        <lb id="Lang1685_LDL_ms_54D_32"/>
-        <div type="Language" lang="Latvian">30</div>
        <div type="Language" lang="German">verdörren.</div>
         <div type="Language" lang="Latvian">Ꞩakaltis,</div>
        <lb id="Lang1685_LDL_ms_54D_33"/>
@@ -19379,7 +19380,7 @@
        <div type="Language" lang="German">laß noch niedriger.</div>
        <lb id="Lang1685_LDL_ms_56B_17"/>
         <div type="Language" lang="Latvian">uhden' kattlà ee=leet,</div>
-       <div type="Language" lang="German">waſ-</div>
+       <div type="Language" lang="German">waſ=</div>
        <lb id="Lang1685_LDL_ms_56B_18"/>
        <div type="Language" lang="German">ſer in Keſſel gieſſen.</div>
        <lb id="Lang1685_LDL_ms_56B_19"/>
@@ -30672,7 +30673,7 @@
        <lb id="Lang1685_LDL_ms_86C_20"/>
         <div type="Language" lang="Latvian">Raudams, no Grähkeems</div>
        <lb id="Lang1685_LDL_ms_86C_21"/>
-        <div type="Language" lang="Latvian"><corr>no=mittahtees</corr><sic>no mittahtees</sic>. Mittäh</div>
+        <div type="Language" lang="Latvian"><corr>no=mittahtees</corr><sic>no mittahtees</sic>. Mittäh-</div>
        <lb id="Lang1685_LDL_ms_86C_22"/>
         <div type="Language" lang="Latvian">ſchana,</div>
        <div type="Language" lang="German">das Ablaſſen, Auf-</div>
@@ -34100,7 +34101,7 @@
        <div type="Language" lang="German">ein Mäußlein.</div>
         <div type="Language" lang="Latvian">Pel-</div>
        <lb id="Lang1685_LDL_ms_96B_8"/>
-        <div type="Language" lang="Latvian">les ślads,</div>
+        <div type="Language" lang="Latvian">les <corr>Slaſds</corr><sic>ślads</sic>,</div>
        <div type="Language" lang="German">ein Mauß=Fall.</div>
        <lb id="Lang1685_LDL_ms_96B_9"/>
         <div type="Language" lang="Latvian">Pelle</div>
@@ -47636,7 +47637,7 @@
        <lb id="Lang1685_LDL_ms_133B_20"/>
        <div type="Language" lang="German">Scheune ſtecken.</div>
        <lb id="Lang1685_LDL_ms_133B_21"/>
-        <div type="Language" lang="Latvian">Stuhpſtiht (Muttes doht)</div>
+        <div type="Language" lang="Latvian">Skuhpſtiht (Muttes doht)</div>
        <lb id="Lang1685_LDL_ms_133B_22"/>
        <div type="Language" lang="German">Küſſen.</div>
         <div type="Language" lang="Latvian">Skuhpſtiśchana,</div>
@@ -50102,7 +50103,7 @@
        <lb id="Lang1685_LDL_ms_141B_8"/>
        <div type="Language" lang="German">ſcheinend, durchleuchtig.</div>
        <lb id="Lang1685_LDL_ms_141B_9"/>
-        <div type="Language" lang="Latvian">Zaur zaureem ſpihbams,</div>
+        <div type="Language" lang="Latvian">Zaur zaureem ſpihdams,</div>
        <lb id="Lang1685_LDL_ms_141B_10"/>
        <div type="Language" lang="German">durchgläntzend.</div>
        <lb id="Lang1685_LDL_ms_141B_11"/>
@@ -50249,7 +50250,7 @@
        <lb id="Lang1685_LDL_ms_141D_9"/>
        <div type="Language" lang="German">anſpeyen, einſpeyen.</div>
        <lb id="Lang1685_LDL_ms_141D_10"/>
-        <div type="Language" lang="Latvian">Jß=pļaut,</div>
+        <div type="Language" lang="Latvian"><corr>Jß=ſpļaut</corr><sic>Jß=pļaut</sic>,</div>
        <div type="Language" lang="German">ausſpeyen.</div>
        <lb id="Lang1685_LDL_ms_141D_11"/>
        <div type="Language" lang="German">reuſpern. auswerffen.</div>
@@ -60778,7 +60779,8 @@
         <div type="Language" lang="Latvian">Weenà Wahrdà,</div>
        <div type="Language" lang="German">eines</div>
        <lb id="Lang1685_LDL_ms_170D_28"/>
-        <div type="Language" lang="Latvian">Nahmens, weenà</div>
+       <div type="Language" lang="German">Nahmens,</div>
+        <div type="Language" lang="Latvian">weenà</div>
        <lb id="Lang1685_LDL_ms_170D_29"/>
         <div type="Language" lang="Latvian">Ꞩwarrà,</div>
        <div type="Language" lang="German">gleichwichtig.</div>
