@@ -14121,7 +14121,7 @@ our $TABLES_SINGLES = {
 		[ 'laisi', 'laizī', ],
 		[ 'laisī', 'laizī', ],
 		[ 'laut\)', 'ļaut)', ],
-		[ '\(lau)', '(ļauj)', ],
+		[ '\(lau\)', '(ļauj)', ],
 		[ 'lamat', 'lamāt', ],
 		[ 'lasit', 'lasīt', ],
 		[ 'laspiš', 'lasīš', ],
