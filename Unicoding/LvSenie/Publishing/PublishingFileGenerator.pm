@@ -309,6 +309,7 @@ END
 				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}+)(.*$)/)
 			{
 				$line = "$1$2$3";
+				&_end_paragraph_verse($status, $outs);
 				&_start_verse($internalProperties, $status, $counters, $outs, $1,);
 			}
 
