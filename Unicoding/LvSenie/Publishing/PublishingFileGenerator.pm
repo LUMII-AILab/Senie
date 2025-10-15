@@ -75,6 +75,11 @@ END
 		return;
 	}
 
+	$DO_VERT = $doAllVert;
+	$DO_HTML = $doAllHtml;
+	$DO_TEI = $doAllTei;
+	$DO_SQL = $doAllSql;
+
 	my ($outForTotalVert, $outForTotalTei, $outForTotalSql) = (0, 0, 0);
 	if ($doAllVert) {
 		$outForTotalVert = IO::File->new("$totalResultDirName/all.vert", "> :encoding(UTF-8)")
