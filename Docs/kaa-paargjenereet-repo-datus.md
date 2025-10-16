@@ -1,15 +1,17 @@
-Visas pamācības pieņem Windows uz lokālās mašīnas un Linux SkE serverī.
+#Repozitorija un saistīto serveru datu pārģenerēšana
+
+Visas pamācības pieņem Windows uz lokālās mašīnas un Linux SkE serveros.
 
 Windows komandrindā `chcp 65001` var noderēt, ja kļūdu paziņojumi neizskatās smalki.
 
 
 
-# Ja ir mainījušies unikodi
+## Ja ir mainījušies unikodi
 
 Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbošanās.
 
 
-## Vajag pārģenerēt simbolu tabulu
+### Vajag pārģenerēt simbolu tabulu
 
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu 
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
@@ -20,7 +22,7 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 3. Pārvieto `unicode_symbols.txt` uz mapi `Docs`, bet failus `unicode_full.htm` un `unicode.htm` uz mapi `Web`.
 
 
-## Vajag pārģenerēt atpārnesumotos failus
+### Vajag pārģenerēt atpārnesumotos failus
 
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
@@ -36,7 +38,7 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 3. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Sources`, `Sources/Apokr1689`, `Sources/JT1685`, `Sources/VD1689_94`.
 
 
-## Vajag atjaunināt transliterāciju teksta failus
+### Vajag atjaunināt transliterāciju teksta failus
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
@@ -52,9 +54,9 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Sources`, `Sources/Apokr1689`, `Sources/JT1685`, `Sources/VD1689_94`.
 
 
-## Vajag atjaunināt atbilstošos web failus
+### Vajag atjaunināt atbilstošos web failus
 
-### HTML oriģināli
+#### HTML oriģināli
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
@@ -66,7 +68,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Web/unicode`, `Web/unicode/Apokr1689`, `Web/unicode/JT1685`, `Web/unicode/VD1689_94`.
 
 
-### HTML transliterācijas
+#### HTML transliterācijas
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
@@ -78,9 +80,9 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Web/unicode`, `Web/unicode/Apokr1689`, `Web/unicode/JT1685`, `Web/unicode/VD1689_94`.
 
 
-## Vajag pārģenerēt TEI failus
+### Vajag pārģenerēt TEI failus
 
-### TEI oriģināli
+#### TEI oriģināli
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
@@ -93,7 +95,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode.tei.xml` un pārvieto uz mapi `TEI`.
 
 
-### TEI atpārnesumotie
+#### TEI atpārnesumotie
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
@@ -106,7 +108,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode_unhyphened.tei.xml` un pārvieto uz mapi `TEI`.
 
 
-### TEI transliterācijas
+#### TEI transliterācijas
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
@@ -119,7 +121,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode_translitered.tei.xml` un pārvieto uz mapi `TEI`.
 
 
-## Vajag pārģenerēt vert failu
+### Vajag pārģenerēt vert failu
 
 1. Mapē `Unicoding` ar savāc apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
@@ -136,12 +138,12 @@ tad iegūst vert failu bez transliterācijas kolonnas.
 
 
 
-# Ja ir mainījušies pre-unikoda faili
+## Ja ir mainījušies pre-unikoda faili
 
 Mainītos failus saliek atbilstošajās `Sources` mapēs pirms tālākas darbošanās.
 
 
-## Vajag izdarbināt Java skriptu ne-servera daļu, lai pārģenerētu visu, ko tas māk
+### Vajag izdarbināt Java skriptu ne-servera daļu, lai pārģenerētu visu, ko tas māk
 
 1. Apkopo izmantojamos failus mapē `Unicoding` ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectNested); collectNested(@ARGV)`
@@ -153,7 +155,7 @@ Mainītos failus saliek atbilstošajās `Sources` mapēs pirms tālākas darboš
 6. `result-html` saturu pārkopē uz `Web/static`
 
 
-## Vajag atjaunināt statistikas `Web` mapītē (NOVECOJIS)
+### Vajag atjaunināt statistikas `Web` mapītē (NOVECOJIS)
 
 1. Pārģenerē inverso vārdnīcu - mapītē `Unicoding` ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectNested); collectNested(@ARGV)" inverse`
@@ -168,7 +170,7 @@ savāc failus mapītē `data`, no kuras tos tālāk pārkopē uz `Web/freq`.
 Komandu piemēri apkopoti `runFileCollector-sample.bat`, pa vidu starp dažādām darbībām vajag iztīrīt `data` mapi.
 
 
-## Vajag pārģenerēt atpārnesumotos bezizlaidumu failus
+### Vajag pārģenerēt atpārnesumotos bezizlaidumu failus
 
 1. Mapītē `Unicoding` ar savāc apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)"`
@@ -183,7 +185,7 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 3. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Sources`, `Sources/Apokr1689`, `Sources/JT1685`, `Sources/VD1689_94`.
 
 
-## Vajag atjaunināt SkE vertfailu
+### Vajag atjaunināt SkE vertfailu
 
 1. Mapītē `Unicoding` savāc iepriekšējā solī atpārnesumotos bezizlaiduma failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" unhyphened_full`
@@ -194,9 +196,13 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 3. Pārskata konsoles izdrukas un noziņo valodniekiem tokenizācijas problēmas.
 4. Failu `all.vert` pārsauc par `senie_sakotnejs.vert` un ielādē SkE serverī (sk. pēdējo nodaļu)
 
+### Vajag atjaunināt mājaslapu
+
+Sk. zemāk.
 
 
-# Ja ir mainījušies transliterēšanas likumi (kopsavilkums)
+
+## Ja ir mainījušies transliterēšanas likumi (kopsavilkums)
 
 1. `Sources` ir transliterāciju teksti, kas rodas, pārdarbinot perl skriptu `Transliterator` (sk. unikoda nodaļas transliterācijas daļu).
 2. `TEI` ir transliterāciju TEIi, kas rodas, pārdarbinot perl skriptu `PubGenerator` (sk. unikoda nodaļas TEI daļu).
@@ -204,26 +210,16 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 
 
 
-# Tīmekļa failu atjaunināšana (kopsavilkums)
+## Mājas lapas failu atjaunināšana (kopsavilkums)
+
+### Vecā mājaslapa (statiskie faili)
 
 1. `Web/static` saturs rodas, pārdarbinot Java skriptu ne-servera daļu (skatīt pre-unikoda nodaļas sākumu).
 2. `Web/inverse` saturs rodas, kad pārdarbinot Java skriptus, no rezultātiem atlasa inversu failus (skatīt pre-unikoda nodaļas statistiku sadaļu).
 3. `Web/unicode` saturs rodas, pārdarbinot perl skriptu `PubGenerator` (sk. unikoda nodaļas Web daļu).
 4. Pārējās `Web` sadaļas šobrīd nav iespējams automātiski atjaunināt.
 
-
-
-# SkE atjaunināšana
-
-1. Ja vajag izmainīt, kādi korpusi rādās kā pieejami izvēlnēs http://nosketch.korpuss.lv/ un http://sandbox.nosketch.korpuss.lv/, tad to app serverī var izdarīt atbilstoši `/data/services/nosketch/www/main/run.cgi` un `/data/services/nosketch/www/sandbox/run.cgi`
-2. Ja vajag atjaunināt korpusu specifikācijas, tad atbilstošās specifikācijas iekopē no repozitorija mapes `Docs/SketchEngine specs` korpusu servera mapē `/data/services/nosketch/corpora/registry`
-3. Jaunos `.vert` failus (sk. pirmās divu nodaļu attiecīgās sadaļas) iekopē korpusu servera mapē `/data/services/nosketch/corpora/vert`
-4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `cd /data/services/nosketch && sudo docker compose exec nosketch compilecorp --recompile-corpus --no-sketches korpusa_vārds`
-5. Paskatās, vai komandrindā/logfailos nav kas acīmredzami slikts.
-
-
-
-# SQL mājaslapas datubāzei
+### SQL jaunajai mājaslapai
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
@@ -238,6 +234,18 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
    4.1. failu `create_tables_for_update.sql` no mapes `DB/SQL_remake`,
    4.2. failu `runMetadataSql-sample.bat`,
    4.3. failu `insert_contexts_autogen.sql`.
-5. `update_db_full.sql` saarhivē par `update_db_full.sql.gz` un augšuplādē mājaslapas adminer vidē.
+5. `update_db_full.sql` saarhivē par `update_db_full.sql.gz` un augšuplādē mājaslapas adminer vidē. Augšuplāde mēdz būt ļoti lēna.
 
-Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar DBeaver, tad ielādes brīdī jānorāda papildu parametrs `--default-character-set=utf8mb4`.
+Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar DBeaver (otrais peles taustiņš uz attiecīgās datubāzes, _Tools_ / _Restore database_), tad ielādes brīdī jānorāda papildu parametrs `--default-character-set=utf8mb4` un jālieto nesaarhivētais fails.
+
+
+
+
+## SkE atjaunināšana
+
+1. Ja vajag izmainīt, kādi korpusi rādās kā pieejami izvēlnēs http://nosketch.korpuss.lv/ un http://sandbox.nosketch.korpuss.lv/, tad to app serverī var izdarīt atbilstoši `/data/services/nosketch/www/main/run.cgi` un `/data/services/nosketch/www/sandbox/run.cgi`
+2. Ja vajag atjaunināt korpusu specifikācijas, tad atbilstošās specifikācijas iekopē no repozitorija mapes `Docs/SketchEngine specs` korpusu servera mapē `/data/services/nosketch/corpora/registry`
+3. Jaunos `.vert` failus (sk. pirmās divu nodaļu attiecīgās sadaļas) iekopē korpusu servera mapē `/data/services/nosketch/corpora/vert`
+4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `cd /data/services/nosketch && sudo docker compose exec nosketch compilecorp --recompile-corpus --no-sketches korpusa_vārds`
+5. Paskatās, vai komandrindā/logfailos nav kas acīmredzami slikts.
+
