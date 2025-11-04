@@ -16,7 +16,7 @@ use LvSenie::Translit::NoreplaceCoding qw(encodeString decodeString smartLowerca
 
 use Exporter();
 use parent qw(Exporter);
-our @EXPORT_OK = qw(transformFile transformDir transliterateString);
+our @EXPORT_OK = qw(transformFile transformDir transliterateString process18thCentFile transliterateNonDSLString);
 
 # If this is nonzero, print debug info un lines matching something in this array.
 our @debugLines = ();
@@ -30,6 +30,68 @@ our @debugLines = ();
 #	'dohd\' ilgi wahrdſinaht, Tohs Elles Garrus ne peelaid\',',
 #);
 
+# This is can be used either for procesing freeform text or for processing Senie
+# failes formated with inhouse DSL (domain specific language containing @-marked
+# codes)
+sub process18thCentFile
+{
+	if (not @_ or @_ < 1 or @_ > 3)
+	{
+		print <<END;
+This is 18th century pilot convertor. It is meant for transliterating Unicode
+text file containing 18th century text into a more modern writing. For
+transliteration to work properly, file must not contain hyphened words.
+
+Input file can be either plain text or marked with Senie Corpus domain specific
+language (DSL) where the content of some \@-codes should not be converted.
+
+NB! Input files can't use Unicode Private Use Area sumbols U+E001 and U+E002 for
+    any meaningful data encoding, those symbols will be lost!
+
+Params:
+   input file
+   output file [optional, default filename is result.txt]
+   is the input formated as DSL? [1 - yes, 0 - no, no is default]
+
+AILab, LUMII, 2025, provided under GPL
+END
+		exit 1;
+	}
+	my $fileName = shift @_;
+	my $outputName = (shift @_ or 'result.txt');
+	my $inputIsDSL = (shift @_ or 0);
+	print "Processing $fileName\n";
+	my $table = substTable('18TH_CENTURY', 0);
+	#printTableErrors($table);
+	my $in = IO::File->new($fileName, "< :encoding(UTF-8)")
+		or die "Could not open file $fileName: $!";
+	my $out = IO::File->new($outputName, "> :encoding(UTF-8)")
+		or die "Could not open file $outputName: $!";
+
+	while (my $line = up(<$in>))
+	{
+		$line =~ /^(\s*)(|.*\S)(\s*)$/;
+		$line = $2;
+		my ($pref, $postf) = ($1, $3);
+		if ($inputIsDSL)
+		{
+			$line = &transliterateString($line, $table)
+				unless (ignoreLine($line)); # Some lines contain fields to be ignored.
+		} else
+		{
+			$line = &transliterateNonDSLString($line, $table);
+		}
+
+		print $out "$pref$line$postf";
+	}
+
+	$in->close();
+	$out->close();
+
+}
+
+# This is meant for processing Senie failes formated with inhouse DSL (domain
+# specific language containing @-marked codes)
 sub transformFile
 {
 	#autoflush STDOUT 1;
@@ -128,7 +190,41 @@ sub transliterateString
 	return decodeString(smartLowercase($line));
 }
 
+sub transliterateNonDSLString
+{
+	my ($line, $table) = @_;
+	#my $printDebugInfo = ($line and grep(/\Q$line\E/, @debugLines));
+	my $printDebugInfo = ($line and (map {$line =~ /\Q$_\E/} @debugLines));
+	my $ruleNo = 0;
+	if ($printDebugInfo)
+	{
+		print "$ruleNo: $line";
+		print "\n" unless $line =~ /\n$/;
+	}
+	for my $rule (@$table)
+	{
+		$ruleNo++;
+		my $prevline = $line;
+		my ($target, $subst, $iFlag) = @$rule;
+		up ($target);
+		up ($subst);
 
+		# Do not replace in "\@[a-z]{" fragments, and don't replace, what
+		# has already been escaped (denoted by $firstSymb and $lastSymb)
+		$iFlag ?
+			$line =~ s/$target/$subst/g :
+			$line =~ s/$target/$subst/gi;
+		if ($printDebugInfo and $prevline ne $line)
+		{
+			print "$ruleNo: $line";
+			print "\n" unless $line =~ /\n$/;
+		}
+	}
+	return smartLowercase($line);
+}
+
+# This is meant for processing Senie failes formated with inhouse DSL (domain
+# specific language containing @-marked codes)
 sub transformDir
 {
 	#autoflush STDOUT 1;
