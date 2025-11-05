@@ -19,6 +19,6 @@ spring:
 
 logging:
   level:
-    lv.tezaurs: TRACE # Maximum possible log level for our code.
+    lv.ailab: TRACE # Maximum possible log level for our code.
   # Shorter and cleaner log format.
   pattern.console: "[%d{yyyy-MM-dd'T'HH:mm:ssXXX}][%5p][%42c{42}] %message%n%ex{0}"

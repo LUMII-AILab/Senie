@@ -1,4 +1,4 @@
-package lv.tezaurs.senie.db.entities
+package lv.ailab.senie.db.entities
 
 import jakarta.persistence.Entity
 import jakarta.persistence.Id

@@ -1,11 +1,11 @@
-package lv.tezaurs.senie
+package lv.ailab.senie
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.ConfigurationPropertiesScan
 import org.springframework.boot.runApplication
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories
 
-const val ROOT_PACKAGE: String = "lv.tezaurs.senie"
+const val ROOT_PACKAGE: String = "lv.ailab.senie"
 
 @SpringBootApplication(scanBasePackages = [ROOT_PACKAGE])
 @EnableJpaRepositories(basePackages = [ROOT_PACKAGE])
