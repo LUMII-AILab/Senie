@@ -67,8 +67,8 @@ CREATE TABLE books_authors_new (
 CREATE TABLE contexts_new (
   id int unsigned NOT NULL AUTO_INCREMENT,
   source varchar(50) NOT NULL COMMENT 'Avots, nu kura nāk šī teksta vienība',
-  adress varchar(100) COMMENT 'Teksta vienības cilvēklasāmā adrese, P un GNP gadījumā var sakrist vairākām rindām, ir tukša dekoratīvajām bezteksta rindām',
-  page varchar(40) COMMENT 'Lappuses numurs, kurā atrodas šī teksta vienība',
+  adress varchar(100) COMMENT 'Teksta vienības cilvēklasāmā adrese, P un GNP gadījumā var sakrist vairākām rindām, ir tukša bezteksta, lappušu numuru u.tml rindām',
+  page varchar(40) COMMENT 'Lappuses numurs, kurā atrodas šī teksta vienība, var saturēt burtus un figūriekavas',
   html_line_order smallint unsigned NOT NULL COMMENT 'HTML vienības kārtas numurs, lai attēlojot var rindas sakārtot pareizi',
   data_html text NOT NULL COMMENT 'HTML noformēts teksta vienības saturs',
   data_plain text NOT NULL COMMENT 'Tīrs teksta vienības saturs (ar DSL marķējumu, bet bez HTML)',
