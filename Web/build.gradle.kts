@@ -2,6 +2,8 @@
 // But in practice they're file-globals, and capitalization avoids conflicts with existing config properties.
 @file:Suppress("PrivatePropertyName")
 
+import org.jetbrains.gradle.ext.packagePrefix
+import org.jetbrains.gradle.ext.settings
 import org.jetbrains.kotlin.gradle.dsl.JvmDefaultMode
 import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 
@@ -9,15 +11,18 @@ import org.jetbrains.kotlin.gradle.dsl.JvmTarget
 private val GradleVersion = "9.0.0"
 private val KotlinJvmTarget = JvmTarget.JVM_21
 private val JavaJvmTarget = JavaVersion.VERSION_21
+private val ProjectNamespace = "lv.ailab.senie"
 
 // The standard approach is `plugins { "name" version "version" }`, but this alias+apply way allows loading
 // plugin definitions from `libs.versions.toml`, instead of manually repeating version numbers etc.
 plugins {
+    alias(libs.plugins.idea)
     alias(libs.plugins.kotlin)
     alias(libs.plugins.sb)
     alias(libs.plugins.kotlinsb)
     alias(libs.plugins.kotlinnjpa)
 }
+apply(plugin = rootProject.libs.plugins.idea.get().pluginId)
 apply(plugin = libs.plugins.kotlin.get().pluginId)
 apply(plugin = libs.plugins.sb.get().pluginId)
 apply(plugin = libs.plugins.kotlinsb.get().pluginId)
@@ -31,9 +36,7 @@ dependencies {
     runtimeOnly(libs.mariadb)
 }
 
-tasks.bootJar {
-    archiveFileName.set("app.jar")
-}
+tasks.bootJar { archiveFileName.set("app.jar") }
 
 tasks.wrapper { gradleVersion = GradleVersion }
 
@@ -49,5 +52,16 @@ kotlin {
         freeCompilerArgs.add("-Xwhen-guards")
         // https://kotlinlang.org/docs/java-interop.html#jsr-305-support
         freeCompilerArgs.add("-Xjsr305=strict")
+    }
+}
+
+// Default package prefix in IntelliJ IDEA
+idea {
+    module {
+        settings {
+            packagePrefix["src/main/kotlin"] = ProjectNamespace
+            packagePrefix["src/test/kotlin"] = ProjectNamespace
+            packagePrefix["src/testFixtures/kotlin"] = ProjectNamespace
+        }
     }
 }

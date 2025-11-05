@@ -5,6 +5,9 @@ import org.springframework.boot.context.properties.ConfigurationPropertiesScan
 import org.springframework.boot.runApplication
 import org.springframework.data.jpa.repository.config.EnableJpaRepositories
 
+/**
+ * Should match the the project namespace in build config.
+ */
 const val ROOT_PACKAGE: String = "lv.ailab.senie"
 
 @SpringBootApplication(scanBasePackages = [ROOT_PACKAGE])

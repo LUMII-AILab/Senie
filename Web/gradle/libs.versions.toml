@@ -3,6 +3,7 @@ kotlin = "2.2.10"
 spring-boot = "3.5.7"
 
 [plugins]
+idea = { id = "org.jetbrains.gradle.plugin.idea-ext", version = "1.2" }
 kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 sb = { id = "org.springframework.boot", version.ref = "spring-boot" }
 kotlinsb = { id = "org.jetbrains.kotlin.plugin.spring", version.ref = "kotlin" }
