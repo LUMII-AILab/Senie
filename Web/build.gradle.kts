@@ -14,8 +14,16 @@ private val JavaJvmTarget = JavaVersion.VERSION_21
 // plugin definitions from `libs.versions.toml`, instead of manually repeating version numbers etc.
 plugins {
     alias(libs.plugins.kotlin)
+    alias(libs.plugins.sb)
+    alias(libs.plugins.kotlinsb)
 }
 apply(plugin = libs.plugins.kotlin.get().pluginId)
+apply(plugin = libs.plugins.sb.get().pluginId)
+apply(plugin = libs.plugins.kotlinsb.get().pluginId)
+
+dependencies {
+    implementation(libs.sb.web)
+}
 
 tasks.wrapper { gradleVersion = GradleVersion }
 

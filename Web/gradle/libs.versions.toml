@@ -1,5 +1,12 @@
 [versions]
 kotlin = "2.2.10"
+spring-boot = "3.5.7"
 
 [plugins]
 kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
+sb = { id = "org.springframework.boot", version.ref = "spring-boot" }
+kotlinsb = { id = "org.jetbrains.kotlin.plugin.spring", version.ref = "kotlin" }
+
+[libraries]
+# Spring Boot basics
+sb-web = { module = "org.springframework.boot:spring-boot-starter-web", version.ref = "spring-boot" }
