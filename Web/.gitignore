@@ -1,2 +1,6 @@
 # Hidden folders
 .*/
+
+# Build output
+build/
+out/

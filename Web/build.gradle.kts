@@ -2,10 +2,34 @@
 // But in practice they're file-globals, and capitalization avoids conflicts with existing config properties.
 @file:Suppress("PrivatePropertyName")
 
+import org.jetbrains.kotlin.gradle.dsl.JvmDefaultMode
+import org.jetbrains.kotlin.gradle.dsl.JvmTarget
+
+
 private val GradleVersion = "9.0.0"
+private val KotlinJvmTarget = JvmTarget.JVM_21
 private val JavaJvmTarget = JavaVersion.VERSION_21
 
-plugins { java }
+// The standard approach is `plugins { "name" version "version" }`, but this alias+apply way allows loading
+// plugin definitions from `libs.versions.toml`, instead of manually repeating version numbers etc.
+plugins {
+    alias(libs.plugins.kotlin)
+}
+apply(plugin = libs.plugins.kotlin.get().pluginId)
 
 tasks.wrapper { gradleVersion = GradleVersion }
+
 java { targetCompatibility = JavaJvmTarget }
+
+kotlin {
+    compilerOptions {
+        jvmTarget.set(KotlinJvmTarget)
+        // This actually makes default methods more compatible with current JVMs, as the compatibility
+        // refers to older (less JVM-compatible) versions of Kotlin.
+        jvmDefault = JvmDefaultMode.NO_COMPATIBILITY
+        // Enable guard conditions for when expressions
+        freeCompilerArgs.add("-Xwhen-guards")
+        // https://kotlinlang.org/docs/java-interop.html#jsr-305-support
+        freeCompilerArgs.add("-Xjsr305=strict")
+    }
+}
