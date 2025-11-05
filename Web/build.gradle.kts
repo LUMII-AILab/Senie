@@ -31,6 +31,10 @@ dependencies {
     runtimeOnly(libs.mariadb)
 }
 
+tasks.bootJar {
+    archiveFileName.set("app.jar")
+}
+
 tasks.wrapper { gradleVersion = GradleVersion }
 
 java { targetCompatibility = JavaJvmTarget }
