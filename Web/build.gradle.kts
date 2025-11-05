@@ -22,6 +22,7 @@ apply(plugin = libs.plugins.sb.get().pluginId)
 apply(plugin = libs.plugins.kotlinsb.get().pluginId)
 
 dependencies {
+    implementation(libs.kotlin.log)
     implementation(libs.sb.web)
 }
 
