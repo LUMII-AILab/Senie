@@ -3,10 +3,12 @@ package lv.tezaurs.senie
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.context.properties.ConfigurationPropertiesScan
 import org.springframework.boot.runApplication
+import org.springframework.data.jpa.repository.config.EnableJpaRepositories
 
 const val ROOT_PACKAGE: String = "lv.tezaurs.senie"
 
 @SpringBootApplication(scanBasePackages = [ROOT_PACKAGE])
+@EnableJpaRepositories(basePackages = [ROOT_PACKAGE])
 @ConfigurationPropertiesScan(basePackages = [ROOT_PACKAGE])
 class Main
 

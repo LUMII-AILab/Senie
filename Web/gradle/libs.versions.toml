@@ -6,10 +6,14 @@ spring-boot = "3.5.7"
 kotlin = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 sb = { id = "org.springframework.boot", version.ref = "spring-boot" }
 kotlinsb = { id = "org.jetbrains.kotlin.plugin.spring", version.ref = "kotlin" }
+kotlinnjpa = { id = "org.jetbrains.kotlin.plugin.jpa", version.ref = "kotlin" }
 
 [libraries]
 # Spring Boot basics
 sb-web = { module = "org.springframework.boot:spring-boot-starter-web", version.ref = "spring-boot" }
+sb-jpa = { module = "org.springframework.boot:spring-boot-starter-data-jpa", version.ref = "spring-boot" }
+mariadb = { module = "org.mariadb.jdbc:mariadb-java-client", version = "3.5.6" }
 
 # Kotlin specifics
+kotlin-reflect = { module = "org.jetbrains.kotlin:kotlin-reflect", version.ref = "kotlin" }
 kotlin-log = { module = "io.github.oshai:kotlin-logging-jvm", version = "7.0.13" }

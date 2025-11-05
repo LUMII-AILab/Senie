@@ -16,14 +16,19 @@ plugins {
     alias(libs.plugins.kotlin)
     alias(libs.plugins.sb)
     alias(libs.plugins.kotlinsb)
+    alias(libs.plugins.kotlinnjpa)
 }
 apply(plugin = libs.plugins.kotlin.get().pluginId)
 apply(plugin = libs.plugins.sb.get().pluginId)
 apply(plugin = libs.plugins.kotlinsb.get().pluginId)
+apply(plugin = libs.plugins.kotlinnjpa.get().pluginId)
 
 dependencies {
     implementation(libs.kotlin.log)
+    implementation(libs.kotlin.reflect)
     implementation(libs.sb.web)
+    implementation(libs.sb.jpa)
+    runtimeOnly(libs.mariadb)
 }
 
 tasks.wrapper { gradleVersion = GradleVersion }

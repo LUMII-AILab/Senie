@@ -1,6 +1,22 @@
 # Standard HTTP port, as Spring Boot MVC wants to use 8080 by default.
 server.port: 80
 
+db:
+  host: localhost
+  port: 3306
+  name: senie
+  user: senie
+  pass: senie
+
+spring:
+  datasource:
+    url: jdbc:mariadb://${db.host}:${db.port}/${db.name}
+    username: ${db.user}
+    password: ${db.pass}
+    driver-class-name: org.mariadb.jdbc.Driver
+  jpa:
+    show-sql: true
+
 logging:
   level:
     lv.tezaurs: TRACE # Maximum possible log level for our code.
