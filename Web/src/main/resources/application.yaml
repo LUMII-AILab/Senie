@@ -10,10 +10,10 @@ db:
 
 spring:
   datasource:
-    url: jdbc:mariadb://${db.host}:${db.port}/${db.name}
+    url: jdbc:mysql://${db.host}:${db.port}/${db.name}
     username: ${db.user}
     password: ${db.pass}
-    driver-class-name: org.mariadb.jdbc.Driver
+    driver-class-name: com.mysql.cj.jdbc.Driver
   jpa:
     show-sql: true
 

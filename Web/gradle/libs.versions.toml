@@ -13,7 +13,7 @@ kotlinnjpa = { id = "org.jetbrains.kotlin.plugin.jpa", version.ref = "kotlin" }
 # Spring Boot basics
 sb-web = { module = "org.springframework.boot:spring-boot-starter-web", version.ref = "spring-boot" }
 sb-jpa = { module = "org.springframework.boot:spring-boot-starter-data-jpa", version.ref = "spring-boot" }
-mariadb = { module = "org.mariadb.jdbc:mariadb-java-client", version = "3.5.6" }
+mysql = { module = "com.mysql:mysql-connector-j", version = "9.5.0" }
 
 # Kotlin specifics
 kotlin-reflect = { module = "org.jetbrains.kotlin:kotlin-reflect", version.ref = "kotlin" }

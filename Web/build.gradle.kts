@@ -33,7 +33,7 @@ dependencies {
     implementation(libs.kotlin.reflect)
     implementation(libs.sb.web)
     implementation(libs.sb.jpa)
-    runtimeOnly(libs.mariadb)
+    runtimeOnly(libs.mysql)
 }
 
 tasks.bootJar { archiveFileName.set("app.jar") }
