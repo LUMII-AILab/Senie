@@ -6,7 +6,7 @@ import jakarta.persistence.Table
 import java.time.Year
 
 @Entity
-@Table(name = "books_new")
+@Table(name = "books")
 data class Book(
     @Id val id: Int,
     val fullSource: String,
