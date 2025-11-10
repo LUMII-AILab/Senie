@@ -18,3 +18,6 @@ mysql = { module = "com.mysql:mysql-connector-j", version = "9.5.0" }
 # Kotlin specifics
 kotlin-reflect = { module = "org.jetbrains.kotlin:kotlin-reflect", version.ref = "kotlin" }
 kotlin-log = { module = "io.github.oshai:kotlin-logging-jvm", version = "7.0.13" }
+
+# Thymeleaf
+thymeleaf = { module = "org.springframework.boot:spring-boot-starter-thymeleaf", version.ref = "spring-boot" }
