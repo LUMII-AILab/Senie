@@ -243,17 +243,17 @@ END
 	# Booleans for positions inside certain elements
 	my $status = {'paragraph' => 0, 'page' => 0, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
 	# Counters for addresses
-	my $counters = {'corrPage' => 0, 'origPage' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0, 'overallLine' => 0};
+	my $counters = {'corrPage' => 0, 'origPage' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0, 'overallLine' => 0, 'overallPage' => 0};
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
 	$line =~ s/^\N{BOM}//;
 	printInHtml(formLineForHtml(0, $line), $outs);
-	printInSql($fullSourceStub, "", "", ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
+	printInSql($fullSourceStub, "", "", $counters->{'overallPage'}, ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	warn "Author is not in the first line!" unless $line =~ /^\s*\@a\{(.*?)\}\s*$/;
 	$line = <$in>;
 	printInHtml(formLineForHtml(0, $line), $outs);
-	printInSql($fullSourceStub, "", "", ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
+	printInSql($fullSourceStub, "", "", $counters->{'overallPage'}, ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
 
 	# Line by line processing
@@ -360,7 +360,8 @@ END
 		printInHtml($htmlLine, $outs);
 		printInSql($fullSourceStub, $newHtmlLineAddress,
 			formPageNumber($counters->{'corrPage'}, $counters->{'origPage'}),
-			++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs, 1);
+			$counters->{'overallPage'}, ++$counters->{'overallLine'},
+			htmlifyLineContents($line), $line, $outs, 1);
 	}
 
 	# Print footers and finish everything.
@@ -469,6 +470,7 @@ sub _change_page
 	$counters->{'corrPage'} = $corrPageNo;
 	$counters->{'origPage'} = $origPageNo;
 	$counters->{'line'} = 0;
+	$counters->{'overallPage'}++;
 	changeTeiPage($outs, $corrPageNo, $origPageNo);
 }
 

@@ -34,7 +34,6 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 3. Uzmanīgi manuāli atjaunina tabulu `SENIE-kodi.xlsx`.
 
 
-
 ### Vajag pārģenerēt atpārnesumotos failus
 
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu
@@ -245,7 +244,7 @@ Sk. zemāk.
    (sk. `runMetadataSql-sample.bat`).
 4. Izveido apvienoto datubāzes atjaunināšanas failu `update_db_full.sql`, apvienojot šādā secībā:
    4.1. failu `create_tables_for_update.sql` no mapes `DB/SQL_remake`,
-   4.2. failu `runMetadataSql-sample.bat`,
+   4.2. failu `insert_metadata_autogen.sql`,
    4.3. failu `insert_contexts_autogen.sql`.
 5. `update_db_full.sql` saarhivē par `update_db_full.sql.gz` un augšuplādē mājaslapas adminer vidē. Augšuplāde mēdz būt ļoti lēna.
 

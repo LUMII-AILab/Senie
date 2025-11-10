@@ -11,14 +11,15 @@ use parent qw(Exporter);
 our @EXPORT_OK = qw($DO_SQL printInSql);
 
 our $DO_SQL= 0;
-our $SQL_CONTEXT_TABLE = 'contexts_new';
+our $SQL_CONTEXT_TABLE = 'contexts';
 
 sub printInSql
 {
     my $full_source = shift @_;
     my $address = shift @_;
     my $page = shift @_;
-    my $overallLine = shift @_;
+    my $pageSortOrder = shift @_;
+    my $lineSortOrder = shift @_;
     my $dataHtml = shift @_;
     my $dataPlain = shift @_;
     my $outs = shift @_;
@@ -32,8 +33,8 @@ sub printInSql
     my $sqlPage = &_transformToSqlString($page);
     my $sqlHtml = &_transformToSqlString($dataHtml, 1);
     my $sqlPlain = &_transformToSqlString($dataPlain, 1);
-    my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE (source, adress, page, html_line_order, data_html, data_plain)\n";
-    $insertContext = "$insertContext  VALUES ('$full_source', $sqlAddress, $sqlPage, $overallLine, $sqlHtml, $sqlPlain);\n";
+    my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE (source, adress, page, page_sort_order, line_sort_order, data_html, data_plain)\n";
+    $insertContext = "$insertContext  VALUES ('$full_source', $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain);\n";
     printInAllStreams($insertContext, $outs->{'sql'}, $outs->{'total sql'});
     if ($author and $addAuthor)
     {
