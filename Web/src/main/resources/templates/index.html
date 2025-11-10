@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="lv" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Senie</title>
+</head>
+<body>
+<main>
+    <div th:each="century : ${booksByCentury}">
+        <h1><span th:text="${century.key}">??</span>. gadsimts</h1>
+        <ol>
+            <li th:each="book: ${century.value}" th:text="|${book.itemCode} - ${book.name}|"></li>
+        </ol>
+    </div>
+</main>
+</body>
+</html>
