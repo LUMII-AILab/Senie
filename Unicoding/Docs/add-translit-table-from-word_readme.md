@@ -8,7 +8,7 @@ Pārbaudīts ar _Sublime Text Build 4200_.
     pārskatīt `[]` vārda vidū, regulārā izteiksme: `(\p{alpha}|[\p{punct}|\\)\[\](\p{alpha}|[\p{punct}|\\)`,
     pārskatīt atstarpes pirms un pēc `[]`, regulārā izteiksme `\[\] | \[\]`,
     pārskatīt `{` un`}`;
-    kopējā izteiksme: `^[^\r\n]*\t[^\r\n]*\[\]|(\p{alpha}|\p{punct}|\\)\[\](\p{alpha}|\p{punct}|\\)|{|}|\[\] | \[\]` (_Sublime Text_) vai `^[^\r\n]*\t[^\r\n]*\[\]|(\p{L}|\p{P}|\\)\[\](\p{L}|\p{P}|\\)|{|}|\[\] | \[\]` rīkiem, kam ir standarta unikoda klašu atbalsts
+    kopējā izteiksme: `^[^\r\n]*\t[^\r\n]*\[\]|(\p{alpha}|\p{punct}|[|\\])\[\](\p{alpha}|\p{punct}|[|\\])|{|}|\[\] | \[\]` (_Sublime Text_) vai `^[^\r\n]*\t[^\r\n]*\[\]|(\p{L}|\p{P}|[|\\])\[\](\p{L}|\p{P}|[|\\])|{|}|\[\] | \[\]` rīkiem, kam ir standarta unikoda klašu atbalsts
 5.  Azvietot kā tekstu:  `[]` -> `\b{wb}`
 6.  Pārskatīt atlikušās kvadrātiekavas (atstāt `[^]`, kas iezīmē rindas sākumu, un `[$]`, kas beigas), izlabot kļūdas
 7.  Aizvietot kā tekstu: `	` -> `', '`
