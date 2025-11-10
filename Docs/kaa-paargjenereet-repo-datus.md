@@ -22,6 +22,19 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 3. Pārvieto `unicode_symbols.txt` uz mapi `Docs`, bet failus `unicode_full.htm` un `unicode.htm` uz mapi `Web`.
 
 
+### Ja ir labotas formāta kļūdas vai nākuši klāt jauni kodi, vajag atjaunināt kodu tabulu
+
+1. Savāc `Unicoding` mapē atbilstošos failus ar komandu 
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   (sk. `runFileCollector-sample.bat`).
+2. Savāc izmantoto kodu apkopojumu no datu failiem ar komandu
+   `perl -e "use LvSenie::Utils::CodeCollector qw(collect); collect(@ARGV)" UTF-8 data data-JT1685 data-VD1689_94 data-Apokr1689
+`
+   (sk. `runCodeCollector-sample.bat`).
+3. Uzmanīgi manuāli atjaunina tabulu `SENIE-kodi.xlsx`.
+
+
+
 ### Vajag pārģenerēt atpārnesumotos failus
 
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu
@@ -248,15 +261,3 @@ Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar D
 4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `cd /data/services/nosketch && sudo docker compose exec nosketch compilecorp --recompile-corpus --no-sketches korpusa_vārds`
 5. Paskatās, vai komandrindā/logfailos nav kas acīmredzami slikts.
 
-
-
-## Ja ir nepieciešams atjaunināt kodu tabulu
-
-1. Savāc `Unicoding` mapē atbilstošos failus ar komandu 
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
-   (sk. `runFileCollector-sample.bat`).
-2. Savāc izmantoto kodu apkopojumu no datu failiem ar komandu
-   `perl -e "use LvSenie::Utils::CodeCollector qw(collect); collect(@ARGV)" UTF-8 data data-JT1685 data-VD1689_94 data-Apokr1689
-`
-   (sk. `runCodeCollector-sample.bat`).
-3. Uzmanīgi manuāli atjaunina tabulu `SENIE-kodi.xlsx`.
