@@ -56,7 +56,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 
 ### Vajag atjaunināt atbilstošos web failus
 
-#### HTML oriģināli
+#### HTML oriģināli (novecojis)
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
@@ -68,7 +68,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `Web/unicode`, `Web/unicode/Apokr1689`, `Web/unicode/JT1685`, `Web/unicode/VD1689_94`.
 
 
-#### HTML transliterācijas
+#### HTML transliterācijas (novecojis)
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
@@ -240,7 +240,6 @@ Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar D
 
 
 
-
 ## SkE atjaunināšana
 
 1. Ja vajag izmainīt, kādi korpusi rādās kā pieejami izvēlnēs http://nosketch.korpuss.lv/ un http://sandbox.nosketch.korpuss.lv/, tad to app serverī var izdarīt atbilstoši `/data/services/nosketch/www/main/run.cgi` un `/data/services/nosketch/www/sandbox/run.cgi`
@@ -249,3 +248,15 @@ Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar D
 4. Parkompilē katru no atjauninātajiem korpusiem ar komandu `cd /data/services/nosketch && sudo docker compose exec nosketch compilecorp --recompile-corpus --no-sketches korpusa_vārds`
 5. Paskatās, vai komandrindā/logfailos nav kas acīmredzami slikts.
 
+
+
+## Ja ir nepieciešams atjaunināt kodu tabulu
+
+1. Savāc `Unicoding` mapē atbilstošos failus ar komandu 
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   (sk. `runFileCollector-sample.bat`).
+2. Savāc izmantoto kodu apkopojumu no datu failiem ar komandu
+   `perl -e "use LvSenie::Utils::CodeCollector qw(collect); collect(@ARGV)" UTF-8 data data-JT1685 data-VD1689_94 data-Apokr1689
+`
+   (sk. `runCodeCollector-sample.bat`).
+3. Uzmanīgi manuāli atjaunina tabulu `SENIE-kodi.xlsx`.
