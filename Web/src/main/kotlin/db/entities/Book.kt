@@ -15,8 +15,8 @@ data class Book(
     val name: String,
     val year1: Year,
     val year2: Year,
-    val pubCentury: Byte,
+    val pubCentury: Int,
     val indexType: String?, // TODO: Implement string-enum conversion if possible and use a real enum
     val manuscript: Boolean?,
-    val orderInCollection: Byte?,
+    val orderInCollection: Int?,
 )
