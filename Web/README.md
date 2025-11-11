@@ -1,3 +1,11 @@
+# Overview
+
+Uses Spring Boot MVC with Thymeleaf for processing HTML templates. Thus,
+[as per documentation](https://www.thymeleaf.org/doc/tutorials/3.1/thymeleafspring.html),
+all `th:*` expressions are processed as Spring's own
+[SpEL](https://docs.spring.io/spring-framework/reference/core/expressions/language-ref.html)
+(not Thymeleaf's OGNL).
+
 # Setup, build, and test
 
 1. Install Docker 20+ and Java JDK 21+.
