@@ -15,7 +15,7 @@ ATTRIBUTE word {
 	LABEL "Vārdforma ar labojumiem"
 }
 ATTRIBUTE translit {
-	LABEL "Konvertācija"
+	LABEL "Normalizācija"
 }
 
 ATTRIBUTE address {
@@ -34,7 +34,7 @@ ATTRIBUTE   lc {
 }
 
 ATTRIBUTE   translit_lc {
-	LABEL	"Konvertācija (indekss)"
+	LABEL	"Normalizācija (indekss)"
 	DYNAMIC  utf8lowercase
 	DYNLIB   internal
 	ARG1     "C"
@@ -56,11 +56,11 @@ STRUCTURE doc {
 		LABEL "Kolekcija"
 	}
 	ATTRIBUTE year1 {
-		LABEL "Sākšanas gads"
+		LABEL "Sākumgads"
 		NUMERIC 1
 	}
 	ATTRIBUTE year2 {
-		LABEL "Beigšanas gads"
+		LABEL "Beigugads"
 		NUMERIC 1
 	}
 	ATTRIBUTE century {

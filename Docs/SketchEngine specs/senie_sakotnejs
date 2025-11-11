@@ -42,11 +42,11 @@ STRUCTURE doc {
 		LABEL "Kolekcija"
 	}
 	ATTRIBUTE year1 {
-		LABEL "Sākšanas gads"
+		LABEL "Sākumgads"
 		NUMERIC 1
 	}
 	ATTRIBUTE year2 {
-		LABEL "Beigšanas gads"
+		LABEL "Beigugads"
 		NUMERIC 1
 	}
 	ATTRIBUTE century {
