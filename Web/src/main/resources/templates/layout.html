@@ -5,7 +5,15 @@
   <title>Senie</title>
 </head>
 <body>
-  <main th:replace="${content}">
-</main>
+
+<main th:replace="${content}"></main>
+
+<footer>
+  <div>&copy; LU Matemātikas un informātikas institūta Mākslīgā intelekta laboratorija</div>
+  <div>&copy; LU Humanitāro zinātņu fakultātes Baltu valodu katedra</div>
+  <div>&copy; LU Latviešu valodas institūts</div>
+  <div th:text="|2002-${T(java.time.Year).now()}|">2002-2025</div>
+</footer>
+
 </body>
 </html>
