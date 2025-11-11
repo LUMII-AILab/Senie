@@ -2,14 +2,16 @@
 <html xmlns:th="http://www.thymeleaf.org" th:replace="~{layout :: page(~{::main})}">
 <main>
   <div th:each="century : ${booksByCentury}">
-    <h1><span th:text="${century.key}">99</span>. gadsimts</h1>
-    <table>
-      <tr th:each="book, iteration: ${century.value}">
-        <td th:text="|${iteration.count}.|" class="numeric">1.</td>
-        <td th:text="${book.itemCode}">Ab1234_BC</td>
-        <td th:text="|- ${book.name}|">- Valpurģu nakts</td>
-      </tr>
-    </table>
+    <section>
+      <h1><span th:text="${century.key}">99</span>. gadsimts</h1>
+      <table>
+        <tr th:each="book, iteration: ${century.value}">
+          <td th:text="|${iteration.count}.|" class="numeric">1.</td>
+          <td th:text="${book.itemCode}">Ab1234_BC</td>
+          <td th:text="|- ${book.name}|">- Valpurģu nakts</td>
+        </tr>
+      </table>
+    </section>
   </div>
 </main>
 </html>

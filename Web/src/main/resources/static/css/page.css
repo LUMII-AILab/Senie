@@ -1,0 +1,21 @@
+html {
+    --bgcolor: #eeffbb;
+    background: var(--bgcolor);
+}
+
+body {
+    margin: auto;
+    width: 80%;
+}
+
+section {
+    background-color: #CCFF99;
+    margin-left: 7.5%;
+
+    h1 {
+        background-color: #669933;
+        margin: 0 0 0 -7.5%;
+        color: var(--bgcolor);
+        padding: 5px 10px;
+    }
+}

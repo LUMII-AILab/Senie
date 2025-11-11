@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html th:fragment="page (content)" lang="lv" xmlns:th="http://www.thymeleaf.org">
 <head>
-  <meta charset="utf-8"/>
+  <meta charset="utf-8">
   <title>Senie</title>
+  <link rel="stylesheet" href="/css/page.css">
   <style>
     #banner { width: 600px; height: 75px; }
   </style>
@@ -10,7 +11,7 @@
 <body>
 
 <header>
-  <img id="banner" src="/images/senie.jpg" alt="SENIE: Latviešu valodas seno tekstu korpuss" />
+  <img id="banner" src="/images/senie.jpg" alt="SENIE: Latviešu valodas seno tekstu korpuss">
 </header>
 
 <main th:replace="${content}"></main>
