@@ -29,6 +29,7 @@ apply(plugin = libs.plugins.kotlinsb.get().pluginId)
 apply(plugin = libs.plugins.kotlinnjpa.get().pluginId)
 
 dependencies {
+    developmentOnly(libs.sb.dev)
     implementation(libs.kotlin.log)
     implementation(libs.kotlin.reflect)
     implementation(libs.sb.web)

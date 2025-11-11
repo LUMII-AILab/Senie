@@ -14,6 +14,8 @@ kotlinnjpa = { id = "org.jetbrains.kotlin.plugin.jpa", version.ref = "kotlin" }
 sb-web = { module = "org.springframework.boot:spring-boot-starter-web", version.ref = "spring-boot" }
 sb-jpa = { module = "org.springframework.boot:spring-boot-starter-data-jpa", version.ref = "spring-boot" }
 mysql = { module = "com.mysql:mysql-connector-j", version = "9.5.0" }
+# dev
+sb-dev = { module = "org.springframework.boot:spring-boot-devtools", version.ref = "spring-boot" }
 
 # Kotlin specifics
 kotlin-reflect = { module = "org.jetbrains.kotlin:kotlin-reflect", version.ref = "kotlin" }
