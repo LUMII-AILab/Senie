@@ -7,7 +7,7 @@
       <table>
         <tr th:each="book, iteration: ${century.value}">
           <td th:text="|${iteration.count}.|" class="numeric">1.</td>
-          <td th:text="${book.itemCode}">Ab1234_BC</td>
+          <td th:text="${book.displayCode}">Ab1234_BC</td>
           <td th:text="|- ${book.name}|">- Valpurģu nakts</td>
         </tr>
       </table>

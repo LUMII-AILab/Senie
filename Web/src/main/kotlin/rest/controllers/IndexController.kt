@@ -17,7 +17,7 @@ class IndexController(
     @ModelAttribute("booksByCentury")
     fun booksByCentury(): SortedMap<Int, List<Book>> {
         return bookRepo.findAll()
-            .filter { it.orderInCollection == 0 && it.itemCode != null }
+            .filterNot { it.isCollectionItem }
             .groupBy { it.pubCentury }
             .toSortedMap()
     }
