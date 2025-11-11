@@ -1,6 +1,7 @@
 html {
     --bgcolor: #eeffbb;
     background: var(--bgcolor);
+    font-family: "Libertinus Serif", serif;
 }
 
 body {
