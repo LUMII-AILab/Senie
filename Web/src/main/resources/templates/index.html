@@ -5,8 +5,7 @@
     <section>
       <h1><span th:text="${century.key}">99</span>. gadsimts</h1>
       <table>
-        <tr th:each="book, iteration: ${century.value}">
-          <td th:text="|${iteration.count}.|" class="numeric">1.</td>
+        <tr th:each="book: ${century.value}">
           <td th:text="${book.displayCode}">Ab1234_BC</td>
           <td th:text="|- ${book.name}|">- Valpurģu nakts</td>
         </tr>
