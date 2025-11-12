@@ -1,7 +1,8 @@
 html {
-    --bgcolor: #eeffbb;
+    --bgcolor: #EEFFBB;
     background: var(--bgcolor);
     font-family: "Libertinus Serif", serif;
+    font-size: 14pt;
 }
 
 body {
@@ -9,11 +10,25 @@ body {
     width: 80%;
 }
 
+p {
+    margin: 0;
+    text-align: justify;
+
+    & + p {
+        margin-top: 1em;
+    }
+}
+
 section {
     background-color: #CCFF99;
     margin-left: 7.5%;
 
-    h1 {
+    & > div, & > table {
+        padding: 0.8rem;
+    }
+
+    & h1 {
+        font-size: 160%;
         background-color: #669933;
         margin: 0 0 0 -7.5%;
         color: var(--bgcolor);

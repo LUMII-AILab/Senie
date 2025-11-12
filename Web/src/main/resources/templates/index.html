@@ -1,16 +1,35 @@
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org" th:replace="~{layout :: page(~{::main})}">
 <main>
-  <div th:each="century : ${booksByCentury}">
-    <section>
-      <h1><span th:text="${century.key}">99</span>. gadsimts</h1>
-      <table>
-        <tr th:each="book: ${century.value}">
-          <td th:text="${book.displayCode}">Ab1234_BC</td>
-          <td th:text="|- ${book.name}|">- Valpurģu nakts</td>
-        </tr>
-      </table>
-    </section>
-  </div>
+  <section>
+    <h1>SENIE</h1>
+    <div>
+      <p>
+        <strong>Laipni lūdzam!</strong> 2003. gadā tika atklāta latviešu valodas seno tekstu korpusa mājas
+        lapa. Tagad te atradīsiet gan 16. gs., gan 17. gs., gan arī dažus 18. gs. sākuma latviešu rakstu
+        pieminekļus un to indeksus.
+      </p>
+      <p>
+        Senie teksti elektroniskā veidā ir pieejami un brīvi izmantojami pētnieciskiem mērķiem, pateicoties
+        90. gadu vidū saņemtajam Sorosa fonda &ndash; Latvija atbalstam, 2002. gadā piešķirtajam
+        Kultūrkapitāla fonda un LU finansējumam, kā arī Izglītības un zinātnes ministrijas finansējumam 2003.
+        gadā. 2004. gadā, izmantojot  VKKF piešķirto radošo stipendiju, seno tekstu korpuss tika papildināts
+        ar vēl diviem avotiem.
+      </p>
+      <p>
+        Latviešu valodas seno tekstu uzkrāšanu un apstrādi nodrošina LU Filoloģijas fakultātes Baltu valodu
+        katedra un LU Matemātikas un informātikas institūta Mākslīgā intelekta laboratorija.
+      </p>
+    </div>
+  </section>
+  <section th:each="century : ${booksByCentury}">
+    <h1><span th:text="${century.key}">99</span>. gadsimts</h1>
+    <table>
+      <tr th:each="book: ${century.value}">
+        <td th:text="${book.displayCode}">Ab1234_BC</td>
+        <td th:text="|- ${book.name}|">- Valpurģu nakts</td>
+      </tr>
+    </table>
+  </section>
 </main>
 </html>
