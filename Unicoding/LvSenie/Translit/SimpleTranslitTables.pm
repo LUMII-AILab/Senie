@@ -13279,7 +13279,7 @@ our $TABLES_SINGLES = {
 		[ 'joſt\.', 'jo#t.', '1' ],	# Palīgmaiņa
 		[ 'joſī', 'jo#ī', '1' ],	# Palīgmaiņa
 		[ 'ſīv', '#īv', '1' ],	# Palīgmaiņa
-		[ 'ſūv', '#ūv /', '1' ],	# Palīgmaiņa
+		[ 'ſūv', '#ūv', '1' ],	# Palīgmaiņa
 		[ 'ſvie', '#vie', '1' ],	# Palīgmaiņa
 		[ 'jeſ', 'Jē#', '1' ],	# Palīgmaiņa
 		[ 'luſu', 'lū#u', '1' ],	# Palīgmaiņa
