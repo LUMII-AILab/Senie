@@ -44,7 +44,7 @@ END
 	my $out = IO::File->new("$dirName/res/$corpusId/${fileNameStub}_unhyphened$fileTypeStub.txt", "> :encoding($encoding)")
 		or die "Could not open file $dirName/res/$corpusId/${fileNameStub}_unhyphened$fileTypeStub.txt: $!";
 
-	print "Processing $corpusId/$fileNameStub.\n";
+	print "Processing ${corpusId}::$fileNameStub.\n";
 
 	my $prevLine = 0;
 	my @emptyLineBuffer = ();
