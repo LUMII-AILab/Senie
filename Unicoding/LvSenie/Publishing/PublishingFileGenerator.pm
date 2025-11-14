@@ -241,9 +241,9 @@ END
 	&_initialize_outputs($fileNameStub, $internalProperties, $externalProperties, $dirName, $outs);
 
 	# Booleans for positions inside certain elements
-	my $status = {'paragraph' => 0, 'page' => 0, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
+	my $status = {'paragraph' => 0, 'page' => undef, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
 	# Counters for addresses
-	my $counters = {'corrPage' => 0, 'origPage' => 0, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0, 'overallLine' => 0, 'overallPage' => 0};
+	my $counters = {'corrPage' => undef, 'origPage' => undef, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0, 'overallLine' => 0, 'overallPage' => 0};
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
@@ -563,9 +563,11 @@ sub _start_line
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $indexType = getIndexType($internalProperties->{'full ID'});
 	$counters->{'line'}++;
-	my $address = "${fullSourceStub}_${\$counters->{'corrPage'}}";
+	my $address = defined(${\$counters->{'corrPage'}}) ?
+		"${fullSourceStub}_${\$counters->{'corrPage'}}" : "${fullSourceStub}_0";
 	$address = "$address\{${\$counters->{'origPage'}}\}"
-		if ($counters->{'origPage'} and ($counters->{'origPage'} ne $counters->{'corrPage'}));
+		if (defined($counters->{'origPage'}) and $counters->{'origPage'}
+			and ($counters->{'origPage'} ne $counters->{'corrPage'}));
 	$address = "${address}_${\$counters->{'line'}}";
 	startVertLine($outs, $address, $counters->{'line'}, $currentAuthor, $indexType);
 	changeTeiLine($outs, $address, $indexType);

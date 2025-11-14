@@ -83,5 +83,6 @@ CREATE TABLE content (
   INDEX (address),
   INDEX (page),
   INDEX (page_sort_order),
-  INDEX (line_sort_order)
+  INDEX (line_sort_order),
+  CHECK (`page` IS NOT NULL OR `page_sort_order` = 0)
 ) COMMENT 'Avotu tekstuālais saturs, sadalīts rindās';

@@ -89,6 +89,7 @@ sub calculateAddressStub
     if ($addPage and ($indexType eq 'LR' or $indexType eq 'GLR'))
     {
         my $fullPage = &formPageNumber($counters->{'corrPage'}, $counters->{'origPage'});
+        $fullPage = defined ($fullPage) ? $fullPage : 0;
         $addressStub = "$addressStub${fullPage}_${\$counters->{'line'}}";
     }
 

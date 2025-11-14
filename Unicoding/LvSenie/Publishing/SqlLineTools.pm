@@ -31,8 +31,7 @@ sub submitForPrintInSql
     $author = $1 if ($dataPlain =~ /^\s*\@a\{(.*?)\}\s*$/);
     my $sqlFullSource = &_transformToSqlString($full_source);
     my $sqlAddress = &_transformToSqlString($address);
-    #my $sqlPage = &_transformToSqlString($page, 0, 1);
-    my $sqlPage = &_transformToSqlString($page);
+    my $sqlPage = &_transformToSqlString($page, 0, 1);
     my $sqlHtml = &_transformToSqlString($dataHtml, 1);
     my $sqlPlain = &_transformToSqlString($dataPlain, 1);
     push (@insertBuffer, "($sqlFullSource, $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain)");
