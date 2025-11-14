@@ -47,6 +47,7 @@ class BookController(
         model.addAttribute("pageTitle", collection?.displayTitle ?: book.displayTitle)
         model.addAttribute("collection", collection)
         model.addAttribute("books", books)
+        model.addAttribute("currentBookSource", book.fullSource)
         return "book"
     }
 

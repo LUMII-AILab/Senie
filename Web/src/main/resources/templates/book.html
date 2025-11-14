@@ -8,8 +8,12 @@
         <form action="/goto">
           <label for="bookSelector">Rakstu darbs:</label>
           <select id="bookSelector" name="source">
-            <option th:each="book : ${books}" th:value="${book.fullSource}" th:text="${book.displayTitle}">
-            </option>
+            <option
+              th:each="book : ${books}"
+              th:value="${book.fullSource}"
+              th:text="${book.displayTitle}"
+              th:selected="${book.fullSource} == ${currentBookSource}"
+            ></option>
           </select>
           <button type="submit">Atvērt</button>
         </form>
