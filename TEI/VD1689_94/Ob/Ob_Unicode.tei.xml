@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="VD1689_94/Ob">
+    <fileDesc id="VD1689_94::Ob">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Tas Praweets Obadijus</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta I. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Ob_1:0.">
+      <div n="0." type="Verse" id="VD1689_94::Ob_1:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Ta Papreekẜchẜluddinaẜchana Obadijus no to</div>
        <lb/>
@@ -41,7 +41,7 @@
        <lb/>
         <div type="Language" lang="Latvian">18.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Ob_1:1.">
+      <div n="1." type="Verse" id="VD1689_94::Ob_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ꞨChis irr tas/ kas</div>
        <lb/>
@@ -65,7 +65,7 @@
        <lb/>
        <div type="Parallel">w:1. Jer: 49,14.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Ob_1:2.">
+      <div n="2." type="Verse" id="VD1689_94::Ob_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Redſ/ es eẜmu tewi maſu</div>
        <lb/>
@@ -73,7 +73,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tu eẜẜi ļohti nizzinahts.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Ob_1:3.">
+      <div n="3." type="Verse" id="VD1689_94::Ob_1:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Tawa Ꞩirds Greſniba irr</div>
        <lb/>
@@ -89,7 +89,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mes?</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Ob_1:4.">
+      <div n="4." type="Verse" id="VD1689_94::Ob_1:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jepẜchu tu uszeltohs kà</div>
        <lb/>
@@ -105,7 +105,7 @@
        <lb/>
        <div type="Parallel">w:4. Jer: 49,16.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Ob_1:5.">
+      <div n="5." type="Verse" id="VD1689_94::Ob_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Kad buhtu Sagļi jeb Poh-</div>
        <lb/>
@@ -127,7 +127,7 @@
        <lb/>
        <div type="Parallel">w:5. Jer: 49,9.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Ob_1:6.">
+      <div n="6." type="Verse" id="VD1689_94::Ob_1:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Kà irr Eeſawa (Mantas)</div>
        <lb/>
@@ -135,7 +135,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas Leetas iswaizatas?</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Ob_1:7.">
+      <div n="7." type="Verse" id="VD1689_94::Ob_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Wiẜẜi tawi Derribas Bee-</div>
        <lb/>
@@ -153,7 +153,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne irr pee wiņņa.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Ob_1:8.">
+      <div n="8." type="Verse" id="VD1689_94::Ob_1:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Neģģi tas taî Deenâ no-</div>
        <lb/>
@@ -167,7 +167,7 @@
        <lb/>
        <div type="Parallel">w:8. Eſa: 29,14. Jer: 49,7.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Ob_1:9.">
+      <div n="9." type="Verse" id="VD1689_94::Ob_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Tawi Warrennee/ ak Tee-</div>
        <lb/>
@@ -177,7 +177,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩlepkawibu tohp isdeldehts.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Ob_1:10.">
+      <div n="10." type="Verse" id="VD1689_94::Ob_1:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Ta Warras=Darba dehļ/</div>
        <lb/>
@@ -191,7 +191,7 @@
        <lb/>
        <div type="Parallel">w:10. 1.Mohſ:Gr: 27,42.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Ob_1:11.">
+      <div n="11." type="Verse" id="VD1689_94::Ob_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Taî Deenà/ kad tu wiņ-</div>
        <lb/>
@@ -209,7 +209,7 @@
        <lb/>
         <div type="Language" lang="Latvian">teem.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Ob_1:12.">
+      <div n="12." type="Verse" id="VD1689_94::Ob_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Bet tew ne buhs wairs</div>
        <lb/>
@@ -227,7 +227,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Bailibas Deenâ.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Ob_1:13.">
+      <div n="13." type="Verse" id="VD1689_94::Ob_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Tu ne ee=eeẜi zaur manno</div>
        <lb/>
@@ -245,7 +245,7 @@
        <lb/>
         <div type="Language" lang="Latvian">du Deenâ.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Ob_1:14.">
+      <div n="14." type="Verse" id="VD1689_94::Ob_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Tu arri ne ſtahweẜi us</div>
        <lb/>
@@ -255,7 +255,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Atlikkuẜchus Behdu Deenâ.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Ob_1:15.">
+      <div n="15." type="Verse" id="VD1689_94::Ob_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jo ta KUNGA Deena</div>
        <lb/>
@@ -271,7 +271,7 @@
        <lb/>
        <div type="Parallel">w:15. 2.Mohſ:Gr: 21,24.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Ob_1:16.">
+      <div n="16." type="Verse" id="VD1689_94::Ob_1:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo kà juhs eẜẜeet dſehru-</div>
        <lb/>
@@ -285,7 +285,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tee tur bijuẜchi.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Ob_1:17.">
+      <div n="17." type="Verse" id="VD1689_94::Ob_1:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Bet us Zianas Kalnu</div>
        <lb/>
@@ -297,7 +297,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mantohs wiņņo Teeẜas.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Ob_1:18.">
+      <div n="18." type="Verse" id="VD1689_94::Ob_1:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Un Jehkaba Nams buhs</div>
        <lb/>
@@ -315,7 +315,7 @@
        <lb/>
         <div type="Language" lang="Latvian">KUNGS irr to runnajs.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Ob_1:19.">
+      <div n="19." type="Verse" id="VD1689_94::Ob_1:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Un tee no Deenas=Wid-</div>
        <lb/>
@@ -331,7 +331,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jamins (eemantohs) Gileadu.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Ob_1:20.">
+      <div n="20." type="Verse" id="VD1689_94::Ob_1:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Un tee Aisweſtee no ta</div>
        <lb/>
@@ -351,7 +351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nas Widdus Puẜẜi.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Ob_1:21.">
+      <div n="21." type="Verse" id="VD1689_94::Ob_1:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Un Peſtitaji zelẜees us</div>
        <lb/>

@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="JT1685/Prolog_Tit">
+    <fileDesc id="JT1685::Prolog_Tit">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>[Jaunās Derības titullapa]</title>
@@ -15,31 +15,31 @@
     <body>
       <pb n="0"/>
       <div type="Paragraph">
-       <lb id="JT1685/Prolog_Tit_0_1"/>
+       <lb id="JT1685::Prolog_Tit_0_1"/>
         <div type="Language" lang="Latvian">Tas</div>
-       <lb id="JT1685/Prolog_Tit_0_2"/>
+       <lb id="JT1685::Prolog_Tit_0_2"/>
         <div type="Language" lang="Latvian">Jauns Teſtaments</div>
-       <lb id="JT1685/Prolog_Tit_0_3"/>
+       <lb id="JT1685::Prolog_Tit_0_3"/>
         <div type="Language" lang="Latvian">Muhẜu KUNGA JESUS KRJSTUS/</div>
-       <lb id="JT1685/Prolog_Tit_0_4"/>
+       <lb id="JT1685::Prolog_Tit_0_4"/>
         <div type="Language" lang="Latvian">Jeb</div>
-       <lb id="JT1685/Prolog_Tit_0_5"/>
+       <lb id="JT1685::Prolog_Tit_0_5"/>
         <div type="Language" lang="Latvian">Deewa Swehtajs Wahrds/</div>
-       <lb id="JT1685/Prolog_Tit_0_6"/>
+       <lb id="JT1685::Prolog_Tit_0_6"/>
         <div type="Language" lang="Latvian">Kas</div>
-       <lb id="JT1685/Prolog_Tit_0_7"/>
+       <lb id="JT1685::Prolog_Tit_0_7"/>
         <div type="Language" lang="Latvian">Pehz ta KUNGA JESUS KRJSTUS</div>
-       <lb id="JT1685/Prolog_Tit_0_8"/>
+       <lb id="JT1685::Prolog_Tit_0_8"/>
         <div type="Language" lang="Latvian">Peedſimẜchanas no teem Ꞩwehteem Preezas=Mahzitajeem un</div>
-       <lb id="JT1685/Prolog_Tit_0_9"/>
+       <lb id="JT1685::Prolog_Tit_0_9"/>
         <div type="Language" lang="Latvian">Apuſtuļeem usrakſtihts.</div>
-       <lb id="JT1685/Prolog_Tit_0_10"/>
+       <lb id="JT1685::Prolog_Tit_0_10"/>
        <div type="Language" lang="Latin">Cum Gratia &amp; Privilegio S.R.M. Sueciae.</div>
-       <lb id="JT1685/Prolog_Tit_0_11"/>
+       <lb id="JT1685::Prolog_Tit_0_11"/>
        <div type="Language" lang="German">RJGA/</div>
-       <lb id="JT1685/Prolog_Tit_0_12"/>
+       <lb id="JT1685::Prolog_Tit_0_12"/>
        <div type="Language" lang="German">Gedruckt durch Johann Georg Wilcken/ Königl. Buchdr:</div>
-       <lb id="JT1685/Prolog_Tit_0_13"/>
+       <lb id="JT1685::Prolog_Tit_0_13"/>
        <div type="Language" lang="German">Jm Jahr MDCLXXXV.</div>
       </div>
     </body>

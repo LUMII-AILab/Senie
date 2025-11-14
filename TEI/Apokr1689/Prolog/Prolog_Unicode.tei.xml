@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="Apokr1689/Prolog">
+    <fileDesc id="Apokr1689::Prolog">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>[Apokrifu ievads un satura rādītājs]</title>
@@ -15,48 +15,48 @@
     <body>
       <pb n="0"/>
       <div type="Paragraph">
-       <lb id="Apokr1689/Prolog_0_1"/>
+       <lb id="Apokr1689::Prolog_0_1"/>
         <div type="Language" lang="Latvian">APOCRYPHA:</div>
-       <lb id="Apokr1689/Prolog_0_2"/>
+       <lb id="Apokr1689::Prolog_0_2"/>
         <div type="Language" lang="Latvian">Tee irr</div>
-       <lb id="Apokr1689/Prolog_0_3"/>
+       <lb id="Apokr1689::Prolog_0_3"/>
         <div type="Language" lang="Latvian">Grahmatas/</div>
-       <lb id="Apokr1689/Prolog_0_4"/>
+       <lb id="Apokr1689::Prolog_0_4"/>
         <div type="Language" lang="Latvian">Kas teem ẜwehteem Deewa Rak-</div>
-       <lb id="Apokr1689/Prolog_0_5"/>
+       <lb id="Apokr1689::Prolog_0_5"/>
         <div type="Language" lang="Latvian">ſteem lihdſi ne turramas/ un tomehr derrigas un</div>
-       <lb id="Apokr1689/Prolog_0_6"/>
+       <lb id="Apokr1689::Prolog_0_6"/>
         <div type="Language" lang="Latvian">labbi laẜẜamas irraid.</div>
       </div>
       <div type="Paragraph">
-       <lb id="Apokr1689/Prolog_0_7"/>
+       <lb id="Apokr1689::Prolog_0_7"/>
         <div type="Language" lang="Latvian">RJGA</div>
       </div>
       <div type="Paragraph">
-       <lb id="Apokr1689/Prolog_0_8"/>
+       <lb id="Apokr1689::Prolog_0_8"/>
        <div type="Language" lang="German">Gedruckt bey Johann Georg Wilcken/ Königl.</div>
-       <lb id="Apokr1689/Prolog_0_9"/>
+       <lb id="Apokr1689::Prolog_0_9"/>
        <div type="Language" lang="German">Buchdrucker/ Jm Jahr</div>
        <div type="Language" lang="Latin">M DC LXXXIX.</div>
       </div>
       <div type="Paragraph">
-       <lb id="Apokr1689/Prolog_0_10"/>
+       <lb id="Apokr1689::Prolog_0_10"/>
         <div type="Language" lang="Latvian">APOCRYPHA.</div>
-       <lb id="Apokr1689/Prolog_0_11"/>
+       <lb id="Apokr1689::Prolog_0_11"/>
         <div type="Language" lang="Latvian">I. Juhdite.</div>
-       <lb id="Apokr1689/Prolog_0_12"/>
+       <lb id="Apokr1689::Prolog_0_12"/>
         <div type="Language" lang="Latvian">II. Ta Gudribas Grahmata.</div>
-       <lb id="Apokr1689/Prolog_0_13"/>
+       <lb id="Apokr1689::Prolog_0_13"/>
         <div type="Language" lang="Latvian">III. Tobijus.</div>
-       <lb id="Apokr1689/Prolog_0_14"/>
+       <lb id="Apokr1689::Prolog_0_14"/>
         <div type="Language" lang="Latvian">IV. Sihraks.</div>
-       <lb id="Apokr1689/Prolog_0_15"/>
+       <lb id="Apokr1689::Prolog_0_15"/>
         <div type="Language" lang="Latvian">V. Bahruks.</div>
-       <lb id="Apokr1689/Prolog_0_16"/>
+       <lb id="Apokr1689::Prolog_0_16"/>
         <div type="Language" lang="Latvian">VI. To Makkabeëŗu Grahmatas.</div>
-       <lb id="Apokr1689/Prolog_0_17"/>
+       <lb id="Apokr1689::Prolog_0_17"/>
         <div type="Language" lang="Latvian">VII. Gabbali pee Eſteres Grahmatas.</div>
-       <lb id="Apokr1689/Prolog_0_18"/>
+       <lb id="Apokr1689::Prolog_0_18"/>
         <div type="Language" lang="Latvian">VIII. Gabbali pee Danijeļa Grahmatas.</div>
       </div>
     </body>

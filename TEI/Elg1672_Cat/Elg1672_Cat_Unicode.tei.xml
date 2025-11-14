@@ -765,7 +765,8 @@
        <div type="Language" lang="Latin">15.</div>
         <div type="Language" lang="Latvian">Vnd tas baggats wyrs ekßan helles</div>
        <lb id="Elg1672_Cat_16_4"/>
-        <div type="Language" lang="Latvian">ludza par ſauwems braliems. <corr>@</corr><sic>Luc. 16.</sic></div>
+        <div type="Language" lang="Latvian">ludza par ſauwems braliems.</div>
+       <div type="Language" lang="Latin">Luc. 16.</div>
        <lb id="Elg1672_Cat_16_5"/>
         <div type="Language" lang="Latvian">Ja nu tê ſweti Engeli/ kattrems te</div>
        <lb id="Elg1672_Cat_16_6"/>
@@ -2835,7 +2836,7 @@
       </div>
       <div type="Paragraph">
        <lb id="Elg1672_Cat_54_17"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>Salutatio Angelica.</sic></div>
+       <div type="Language" lang="Latin">Salutatio Angelica.</div>
        <lb id="Elg1672_Cat_54_18"/>
         <div type="Language" lang="Latvian">SVmmenata es tu Maria pilná Dewa</div>
        <lb id="Elg1672_Cat_54_19"/>

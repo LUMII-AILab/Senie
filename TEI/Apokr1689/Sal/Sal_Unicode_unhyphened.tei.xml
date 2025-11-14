@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="Apokr1689/Sal">
+    <fileDesc id="Apokr1689::Sal">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Salamaņa Gudribas Grahmata</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta I. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_1:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_1:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Pamahziẜchana pee Taiẜnibas un Gudribas/ 1/</div>
        <lb/>
@@ -29,7 +29,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩamaitaẜchanâ eegahſch/ 3/ 8/ 12.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_1:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. MJhlejeet Taiẜnibu</div>
        <lb/>
@@ -45,7 +45,7 @@
        <lb/>
        <div type="Parallel">w:1. Eſa: 56,1.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_1:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Jo wiņſch tohp atraſts no</div>
        <lb/>
@@ -55,7 +55,7 @@
        <lb/>
         <div type="Language" lang="Latvian">netizzigi ne irr.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_1:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_1:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jo Blehņu dohmas atẜchķiŗŗ</div>
        <lb/>
@@ -65,7 +65,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta tohs Ģeķķigus.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_1:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_1:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo ta Gudriba ne nahk</div>
        <lb/>
@@ -77,7 +77,7 @@
        <lb/>
         <div type="Language" lang="Latvian">irr padewuẜees.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_1:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo tas Ꞩwehtajs Gars</div>
        <lb/>
@@ -89,7 +89,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kad ta Netaiẜniba nahk.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_1:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_1:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Jo tas Gars tahs Gudribas</div>
        <lb/>
@@ -107,7 +107,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tahs Mehles.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_1:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Jo ta Kunga gars peepild</div>
        <lb/>
@@ -117,7 +117,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to Wallodu.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_1:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_1:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tadehļ neweens/ kas Netaiẜnibu</div>
        <lb/>
@@ -127,7 +127,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņam ne ees ẜezzen.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_1:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Jo ta Besdeewiga Padohmi</div>
        <lb/>
@@ -139,7 +139,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Netaiẜnibas tohp ẜohditas.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_1:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_1:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Jo ta Duẜmotaja Auẜs</div>
        <lb/>
@@ -147,7 +147,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Trohkẜnis ne paleek apẜlehpts.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_1:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Ꞩargajtees tad no tahs</div>
        <lb/>
@@ -163,7 +163,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to Dwehẜeli.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_1:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Ne dſenneetees tà us</div>
        <lb/>
@@ -175,7 +175,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Darbeem.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_1:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jo Deews to Nahwi ne</div>
        <lb/>
@@ -187,7 +187,7 @@
        <lb/>
        <div type="Parallel">w:13. Ezek: 18,32,33. un: 33,11. Gudr:Gr: 12,23.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_1:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jo wiņſch irr wiẜẜas Leetas</div>
        <lb/>
@@ -201,11 +201,11 @@
        <lb/>
         <div type="Language" lang="Latvian">Elles Walſtiba wirs Semmes.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_1:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jo ta Taiẜniba irr nemirſtama.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_1:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_1:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Bet tee Besdeewigee ar</div>
        <lb/>
@@ -226,14 +226,14 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta II. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_2:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_2:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Tee Ģeķķi un Besdeewigee/ kas tikkai ẜawu</div>
        <lb/>
         <div type="Language" lang="Latvian">Kahrumu mekle/ peederr tam Wellam/ 1.</div>
        <div type="Language" lang="Latin">rc.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_2:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_2:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. JO tee/ kas ne pareiſas</div>
        <lb/>
@@ -251,7 +251,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Weetahm buhtu atkaļ atnahzis.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_2:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_2:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Jo nonejauẜchi eẜẜam mehs</div>
        <lb/>
@@ -267,7 +267,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩirdî kuſtahs.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_2:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_2:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Kad ta buhs isdſiẜẜuẜi/ tad</div>
        <lb/>
@@ -277,7 +277,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gaiẜiņſch.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_2:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_2:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Un muhẜu Wahrds ar Laika</div>
        <lb/>
@@ -295,7 +295,7 @@
        <lb/>
         <div type="Language" lang="Latvian">apſpeeſta.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_2:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_2:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo muhẜu Dſihwibas Laiks</div>
        <lb/>
@@ -309,7 +309,7 @@
        <lb/>
         <div type="Language" lang="Latvian">warr atgreeſtees.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_2:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_2:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Nu tad jelle/ baudiẜim to</div>
        <lb/>
@@ -323,7 +323,7 @@
        <lb/>
        <div type="Parallel">w:6. Eſa: 22,1. un: 56,12. 1.Kor: 15,32.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_2:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_2:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Pildiẜimees ar to dahrgaku</div>
        <lb/>
@@ -333,13 +333,13 @@
        <lb/>
         <div type="Language" lang="Latvian">pahreet.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_2:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_2:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Puẜchkoẜimees ar Rohſchu</div>
        <lb/>
         <div type="Language" lang="Latvian">Waiņageem/ pirms tahs ẜawihſt.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_2:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_2:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Lai neweenam no mums</div>
        <lb/>
@@ -351,7 +351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">muhẜu Daļļa un tahda Teeẜa.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_2:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_2:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Pahrwarreẜim to nabbagu</div>
        <lb/>
@@ -361,7 +361,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta Wezzaja ne turreẜim Gohdâ.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_2:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_2:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Bet muhẜu Spehks buhs</div>
        <lb/>
@@ -385,7 +385,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eekẜch ka mehs eẜẜam eeradduẜchees.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_2:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_2:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Wiņſch teiz ka wiņſch</div>
        <lb/>
@@ -393,13 +393,13 @@
        <lb/>
         <div type="Language" lang="Latvian">par weenu Dehlu ta Kunga.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_2:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_2:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Wiņſch irr tahds/ ka tas</div>
        <lb/>
         <div type="Language" lang="Latvian">ir muhẜu Dohmas pahrſkund.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_2:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Wiņſch irr mums</div>
        <lb/>
@@ -411,7 +411,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņa Zeļļi greeſchahs zittadi.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_2:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_2:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Mehs tohpam no wiņņa</div>
        <lb/>
@@ -427,7 +427,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Deews wiņņa Tehws irr.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_2:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_2:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Redſeẜim tad/ woj wiņņa</div>
        <lb/>
@@ -437,7 +437,7 @@
        <lb/>
         <div type="Language" lang="Latvian">notiks?</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_2:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_2:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Jo ja wiņſch irr tas taiẜnajs</div>
        <lb/>
@@ -449,7 +449,7 @@
        <lb/>
        <div type="Parallel">w:18. Dahw:Dſeſ: 22,9. Matt: 27,43.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_2:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_2:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Ar Kaunu un ar Mohzibu</div>
        <lb/>
@@ -459,7 +459,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un wiņņa Pazeeẜchanu Pahrbaudam.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_2:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_2:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Mehs wiņņu paſuddinaẜim</div>
        <lb/>
@@ -471,7 +471,7 @@
        <lb/>
        <div type="Parallel">w:20. Jer: 11,19.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_2:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_2:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Ꞩcho dohma tee/ bet allojahs:</div>
        <lb/>
@@ -479,7 +479,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tohs apſtulbojẜi.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_2:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_2:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Un tee ne irr tohs Deewa</div>
        <lb/>
@@ -493,7 +493,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Dwehẜelehm.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_2:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_2:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Jo Deews irr to Zilweku</div>
        <lb/>
@@ -505,7 +505,7 @@
        <lb/>
        <div type="Parallel">w:23. 1.Mohſ:Gr: 1,27. un: 2,7. Sir: 17,1.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_2:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_2:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Bet zaur ta Wella Skaudibu</div>
        <lb/>
@@ -520,7 +520,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta III. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_3:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_3:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. To Taiẜnu Dwehẜeles irr Deewa Rohkâ/ 1.</div>
        <lb/>
@@ -536,7 +536,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Augliba to Besdeewigu/ 16.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_3:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_3:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. BEt to Taiẜnu Dwehẜeles</div>
        <lb/>
@@ -548,7 +548,7 @@
        <lb/>
        <div type="Parallel">w:1. 5.Mohſ:Gr: 33,3.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_3:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_3:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Eekẜch to Neprattigu Azzim</div>
        <lb/>
@@ -558,7 +558,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par Nelaimi turrehts.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_3:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Un ta Aiseeẜchana tohp no</div>
        <lb/>
@@ -566,7 +566,7 @@
        <lb/>
         <div type="Language" lang="Latvian">(turreta)/ bet tee irr Meerâ.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_3:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_3:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo jepẜchu tee Zilweku</div>
        <lb/>
@@ -578,7 +578,7 @@
        <lb/>
        <div type="Parallel">w:4. Reem: 8,24. 2.Kor: 5,1. 1.Peht: 1,13.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_3:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_3:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Un kad tee maſ buhs pahrmahziti/</div>
        <lb/>
@@ -592,7 +592,7 @@
        <lb/>
        <div type="Parallel">w:5. 5.Mohſ:Gr: 8,2.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_3:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_3:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Wiņſch pahrmanna tohs</div>
        <lb/>
@@ -602,7 +602,7 @@
        <lb/>
        <div type="Parallel">w:6. Eſa: 48,10.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_3:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_3:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Un wiņņu Peemekleẜchanas</div>
        <lb/>
@@ -612,7 +612,7 @@
        <lb/>
        <div type="Parallel">w:7. Matt: 13,43.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_3:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_3:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tee ẜohdihs tohs Pagaņus/</div>
        <lb/>
@@ -624,7 +624,7 @@
        <lb/>
        <div type="Parallel">w:8. Matt: 19,28. 1.Kor: 6,2.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_3:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_3:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Kas us wiņņu paļaujahs/</div>
        <lb/>
@@ -640,7 +640,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Usraudſiẜchana wiņņa Jsredſeteem.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_3:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_3:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Bet tee Besdeewigee taps</div>
        <lb/>
@@ -650,7 +650,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un atkahpj no ta Kunga.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_3:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_3:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo kas to Gudribu un</div>
        <lb/>
@@ -664,13 +664,13 @@
        <lb/>
         <div type="Language" lang="Latvian">neneeka.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_3:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_3:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Wiņņu Ꞩeewas irr ģeķķigas/</div>
        <lb/>
         <div type="Language" lang="Latvian">un wiņņu Behrni blehdigi.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_3:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_3:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Nolahdehts irr wiņņu</div>
        <lb/>
@@ -688,7 +688,7 @@
        <lb/>
        <div type="Parallel">w:13. Eſa: 54,1. Luk: 23,29. Gal: 4,27.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_3:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_3:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Tàpatt arri weens Neaugligajs/</div>
        <lb/>
@@ -706,7 +706,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eekẜch ta Kunga Namma.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_3:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_3:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jo labbeem Darbeem irr</div>
        <lb/>
@@ -714,7 +714,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩapraẜchanas Ꞩakne ne ẜapuhſt.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_3:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_3:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Bet to Laulibas Pahrkahpaju</div>
        <lb/>
@@ -726,7 +726,7 @@
        <lb/>
         <div type="Language" lang="Latvian">isdeldehts/</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_3:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_3:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Un jepẜchu tee gan ilgi</div>
        <lb/>
@@ -738,7 +738,7 @@
        <lb/>
         <div type="Language" lang="Latvian">buhs.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_3:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_3:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Jeb kad tee drihſ nomirſt/</div>
        <lb/>
@@ -748,7 +748,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩohda Deenâ.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_3:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_3:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Jo negohdigam Dſimmumam</div>
        <lb/>
@@ -759,7 +759,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta IV. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_4:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_4:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Tas Taiẜnajs mirſt pee Laika/ bet nahk pee</div>
        <lb/>
@@ -769,7 +769,7 @@
        <lb/>
         <div type="Language" lang="Latvian">15/ 19.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_4:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_4:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. Labbaki irr ar Tikkumu</div>
        <lb/>
@@ -781,7 +781,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kà no Zilwekeem atſihts tohp.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_4:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_4:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Kur tas klahtu irr/ tur tee</div>
        <lb/>
@@ -799,7 +799,7 @@
        <lb/>
         <div type="Language" lang="Latvian">(gaidamas) irr.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_4:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_4:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Bet to Besdeewigu neaugliga</div>
        <lb/>
@@ -811,7 +811,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜaknohs/ neds zeeti ee=augs.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_4:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_4:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Un jepẜchu tahds Dſimmums</div>
        <lb/>
@@ -825,7 +825,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar Ꞩakni israuts.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_4:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_4:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Tee nelaika Sarri tohp</div>
        <lb/>
@@ -837,7 +837,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Leetu derrigs.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_4:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_4:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Jo tee Behrni/ kas no</div>
        <lb/>
@@ -849,7 +849,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tohp waizati.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_4:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_4:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. BEt tas Taiẜnajs/ jepẜchu</div>
        <lb/>
@@ -859,7 +859,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Duẜẜeẜchanas.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_4:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_4:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Jo tas Wezzums irr zeenigs</div>
        <lb/>
@@ -867,7 +867,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kur daudſ Gaddi tohp ſkaititi.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_4:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_4:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Bet Ꞩapraẜchana irr to</div>
        <lb/>
@@ -877,7 +877,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas ihſtens Wezzums.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_4:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_4:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Wiņſch Deewam lab patizzigs</div>
        <lb/>
@@ -889,7 +889,7 @@
        <lb/>
        <div type="Parallel">w:10. 1.Mohſ:Gr: 5,24. Sir: 44,16. Eebr: 11,5.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_4:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_4:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Wiņſch tohp nohſt rauts/</div>
        <lb/>
@@ -899,7 +899,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņa Dwehẜeli peewiļļ.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_4:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_4:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jo tahs Blehdibas Apmahneẜchana</div>
        <lb/>
@@ -911,7 +911,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Prahtu/ kas ļauns ne ir.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_4:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_4:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Wiņſch irr pilnigs tappis/</div>
        <lb/>
@@ -919,7 +919,7 @@
        <lb/>
         <div type="Language" lang="Latvian">peepildijs.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_4:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_4:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jo wiņņa Dwehẜele Deewam</div>
        <lb/>
@@ -927,7 +927,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņſch no Ļaunuma widdus.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_4:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_4:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Bet tee Ļaudis to redſ/</div>
        <lb/>
@@ -941,7 +941,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pahr wiņņa Ꞩwehteem.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_4:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_4:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo tas nomirris Taiẜnajs</div>
        <lb/>
@@ -953,7 +953,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Wezzumu weena Netaiẜna.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_4:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_4:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Gan tee redſ ta Gudra</div>
        <lb/>
@@ -965,7 +965,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kapehz wiņſch to tà ſtiprina.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_4:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_4:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Tee to gan redſ/ bet</div>
        <lb/>
@@ -979,7 +979,7 @@
        <lb/>
         <div type="Language" lang="Latvian">teem Nomirruẜcheem muhſchigi.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_4:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_4:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Un wiņſch tohs nogruhdihs/</div>
        <lb/>
@@ -991,7 +991,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nopohſtiti taps.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_4:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_4:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Un tee buhs eekẜch leelahm</div>
        <lb/>
@@ -1010,7 +1010,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta V. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_5:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_5:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Nelihdſigs Gals to Tizzigu un Besdeewigu/ 1.</div>
        <lb/>
@@ -1020,7 +1020,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Preekâ un Gohdibá paſtahwehs.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_5:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_5:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. TAd ſtahwehs tas Taiẜnajs</div>
        <lb/>
@@ -1032,7 +1032,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atmettuẜchi.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_5:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_5:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Un tee ẜcho redſedami istruhzinaẜees</div>
        <lb/>
@@ -1044,7 +1044,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pehz/ ko tee ne bij zerrejẜchi.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_5:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_5:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Un runnahs ẜawâ Starpâ</div>
        <lb/>
@@ -1058,7 +1058,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un par Neewaẜchanas Paẜakku.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_5:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_5:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Mehs Ģeķķi turrejam wiņņa</div>
        <lb/>
@@ -1068,7 +1068,7 @@
        <lb/>
         <div type="Language" lang="Latvian">negohdigu.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_5:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_5:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Kà irr tas nu ſtarp teem</div>
        <lb/>
@@ -1078,7 +1078,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩwehteem.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_5:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_5:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Mehs teeẜcham eẜẜam no</div>
        <lb/>
@@ -1090,7 +1090,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩaule mums ne irr uslehkuẜi.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_5:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_5:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Mehs eẜẜam us tihreem</div>
        <lb/>
@@ -1104,7 +1104,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eẜẜam atſinnuẜchi.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_5:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_5:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Ko irr mums nu ta Lepniba</div>
        <lb/>
@@ -1114,7 +1114,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darrijẜi?</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_5:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_5:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Tas irr wiẜs tà pagahjis</div>
        <lb/>
@@ -1122,7 +1122,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pahreet.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_5:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_5:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Kà weena Laiwa/ kas zaur</div>
        <lb/>
@@ -1134,7 +1134,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gahjuma Zeļļu eekẜch Wilņeem.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_5:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_5:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jeb tà kà weens Putnis</div>
        <lb/>
@@ -1152,7 +1152,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Zeļļa Sihme eekẜch ta atrohdahs.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_5:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_5:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jeb tà patt kà weena</div>
        <lb/>
@@ -1164,13 +1164,13 @@
        <lb/>
         <div type="Language" lang="Latvian">neſinnams/ kà wiņņa zaurgahjuẜi.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_5:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_5:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Tà arridſan mehs peedſimmuẜchi</div>
        <lb/>
         <div type="Language" lang="Latvian">eẜẜam bohjâ gahjuẜchi.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_5:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_5:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Un ne eẜẜam nekahdu Sihmi</div>
        <lb/>
@@ -1180,7 +1180,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mehs nobeigti.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_5:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_5:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jo ta Zerriba ta Besdeewiga</div>
        <lb/>
@@ -1200,7 +1200,7 @@
        <lb/>
        <div type="Parallel">w:15. Dahw.Dſ. 1,4. Ꞩak:Sal: 10,25. un: 11,7.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_5:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_5:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Bet tee Taiẜnee dſihwohs</div>
        <lb/>
@@ -1210,7 +1210,7 @@
        <lb/>
         <div type="Language" lang="Latvian">augſtakajs pahr teem gahda.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_5:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_5:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Tadehļ dabbuhs tee to</div>
        <lb/>
@@ -1226,7 +1226,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pahrſtahwehs.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_5:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_5:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Wiņſch ņems ẜawu Duẜmoẜchanu</div>
        <lb/>
@@ -1240,7 +1240,7 @@
        <lb/>
        <div type="Parallel">w:18. Dahw:Dſ: 7,13. Eſa: 59,17.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_5:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_5:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Wiņſch apwilks to Taiẜnibu</div>
        <lb/>
@@ -1252,7 +1252,7 @@
        <lb/>
        <div type="Parallel">w:19. Eweſ: 6,14.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_5:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_5:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Wiņſch ņems to Ꞩwehtibu</div>
        <lb/>
@@ -1260,7 +1260,7 @@
        <lb/>
         <div type="Language" lang="Latvian">preekẜchturramahm Bruņņahm.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_5:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_5:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Wiņſch trihs to bahrgu</div>
        <lb/>
@@ -1270,7 +1270,7 @@
        <lb/>
         <div type="Language" lang="Latvian">teem Negudreem kaŗŗohs.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_5:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_5:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Tahs gattawas Sibbiņu</div>
        <lb/>
@@ -1282,7 +1282,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Mehrķi.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_5:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_5:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Un no tahs Duẜmibas/</div>
        <lb/>
@@ -1296,7 +1296,7 @@
        <lb/>
         <div type="Language" lang="Latvian">breeẜmigi uspluhdihs.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_5:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_5:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Weens stiprajs Wehjẜch</div>
        <lb/>
@@ -1307,14 +1307,14 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta VI. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_6:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_6:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Pamahza tohs Walditajus/ ka teem buhs</div>
        <lb/>
         <div type="Language" lang="Latvian">Taiẜnibu un Gudribu mihleht/ 1.</div>
        <div type="Language" lang="Latin">etc.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_6:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_6:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. JO Netaiẜniba pohſta wiẜẜu</div>
        <lb/>
@@ -1324,7 +1324,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Warrenu Gohda=Krehẜlus.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_6:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_6:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Tad klauẜajt nu juhs Ķehniņi/</div>
        <lb/>
@@ -1334,7 +1334,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gallu.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_6:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_6:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Atgreeſeet tahs Auẜis juhs</div>
        <lb/>
@@ -1342,7 +1342,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas juhs leepojatees pahr Ļauſchu=Pulkeem.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_6:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_6:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo jums irr ta Waldiẜchana</div>
        <lb/>
@@ -1356,7 +1356,7 @@
        <lb/>
        <div type="Parallel">w:4. Jahn: 19,11. Reem: 13,1.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_6:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_6:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo juhs wiņņa Walſtibas</div>
        <lb/>
@@ -1368,7 +1368,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta Kunga Padohmu.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_6:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_6:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Wiņſch breeẜmigi un peepeẜchi</div>
        <lb/>
@@ -1378,7 +1378,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Walditajeem.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_6:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_6:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Jo tam Maſakam noteek</div>
        <lb/>
@@ -1386,7 +1386,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Warrenee warren taps ẜohditi.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_6:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_6:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Jo tas/ kas tas Kungs irr</div>
        <lb/>
@@ -1412,7 +1412,7 @@
        <lb/>
        <div type="Parallel">Pehtr: 1,17.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_6:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_6:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Bet pahr teem Warreneem</div>
        <lb/>
@@ -1420,7 +1420,7 @@
        <lb/>
         <div type="Language" lang="Latvian">turreta.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_6:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_6:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Tadehļ us jums runnaju</div>
        <lb/>
@@ -1428,7 +1428,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gudribu mahzatees/ un ne peedauſatees.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_6:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_6:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo kas ẜwehtigi ẜwehtigu</div>
        <lb/>
@@ -1438,7 +1438,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Aisbildinaẜchanu.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_6:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_6:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Tad nu eekahrojeet mannu</div>
        <lb/>
@@ -1446,7 +1446,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Prahtu pamahzitees.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_6:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_6:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Ta Gudriba irr ſkaiſta</div>
        <lb/>
@@ -1458,7 +1458,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas wiņņu mekle.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_6:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_6:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Wiņņa patti eet teem</div>
        <lb/>
@@ -1466,7 +1466,7 @@
        <lb/>
         <div type="Language" lang="Latvian">papreekẜch atſihta tohp.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_6:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_6:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Kas agri pehz tahs dſennahs/</div>
        <lb/>
@@ -1476,7 +1476,7 @@
        <lb/>
         <div type="Language" lang="Latvian">preekẜch wiņņa Durwim ẜehſcham.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_6:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_6:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo wiņņu eegribbetees irr</div>
        <lb/>
@@ -1486,7 +1486,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas buhs drihſi bes Behdahm.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_6:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_6:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Jo wiņņa patti eet apkahrt</div>
        <lb/>
@@ -1500,7 +1500,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nahk wiņņa teem pretti.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_6:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_6:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Jo wiņņas pateeẜ Eeẜahkums</div>
        <lb/>
@@ -1508,7 +1508,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eegribbahs.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_6:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_6:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Bet tahs Pamahziẜchanas</div>
        <lb/>
@@ -1524,7 +1524,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Apſtiprinaẜchana.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_6:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_6:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Bet ta ne is=nihziga Dſihwoẜchana</div>
        <lb/>
@@ -1532,7 +1532,7 @@
        <lb/>
         <div type="Language" lang="Latvian">buht.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_6:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_6:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Tadehļ tahs Gudribas Eegribbeẜchana</div>
        <lb/>
@@ -1540,7 +1540,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņa Walſtibas.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_6:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_6:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Jo tad nu jums Ļauſchu</div>
        <lb/>
@@ -1548,7 +1548,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eemihl/</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_6:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_6:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Tad turrajt to Gudribu</div>
        <lb/>
@@ -1556,7 +1556,7 @@
        <lb/>
         <div type="Language" lang="Latvian">warrat waldiht.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_6:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_6:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Bet kas Gudriba eẜẜus/</div>
        <lb/>
@@ -1576,7 +1576,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ne pahrkahpẜchu to Pateeẜibu.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/Sal_6:25.">
+      <div n="25." type="Verse" id="Apokr1689::Sal_6:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. Jo es ar to ģinſtoẜchu</div>
        <lb/>
@@ -1586,7 +1586,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gudribas.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/Sal_6:26.">
+      <div n="26." type="Verse" id="Apokr1689::Sal_6:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. Bet kad Gudru daudſ</div>
        <lb/>
@@ -1596,7 +1596,7 @@
        <lb/>
         <div type="Language" lang="Latvian">irr to Ļauſchu Stiprums.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/Sal_6:27.">
+      <div n="27." type="Verse" id="Apokr1689::Sal_6:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. Tadehļ leezeetees pamahzittees</div>
        <lb/>
@@ -1607,7 +1607,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta VII. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_7:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_7:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Wiẜẜi Zilweki irr lihdſi tahs Peedſimẜchanas</div>
        <lb/>
@@ -1619,7 +1619,7 @@
        <lb/>
         <div type="Language" lang="Latvian">14.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_7:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_7:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. GAn es arridſan eẜmu</div>
        <lb/>
@@ -1633,7 +1633,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dſimmis.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_7:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_7:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Un eẜmu eekẜch Mahtes</div>
        <lb/>
@@ -1649,7 +1649,7 @@
        <lb/>
        <div type="Parallel">w:2. Jjab: 10,10.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_7:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_7:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Un kad es peedſimmis</div>
        <lb/>
@@ -1669,19 +1669,19 @@
        <lb/>
         <div type="Language" lang="Latvian">pirma Balẜs bijuẜi.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_7:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_7:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Autôs eẜmu es audſinahts</div>
        <lb/>
         <div type="Language" lang="Latvian">ar Gahdaẜchanu.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_7:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_7:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo nekahdam Ķehniņam</div>
        <lb/>
         <div type="Language" lang="Latvian">irr zittahds Peedſimẜchanas Eeẜahkums.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_7:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_7:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Bet wiẜẜeem irr weenada</div>
        <lb/>
@@ -1691,7 +1691,7 @@
        <lb/>
        <div type="Parallel">w:6. Jjab: 1,21. 1.Tim: 6,7.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_7:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_7:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Tadehļ luhdſu es/ un man</div>
        <lb/>
@@ -1701,7 +1701,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas Gars tahs Gudribas.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_7:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_7:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Un es turreju wiņņu augſtaku</div>
        <lb/>
@@ -1713,7 +1713,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lihdſinajamu.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_7:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_7:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Es to arri ne lihdſinaju ar</div>
        <lb/>
@@ -1729,7 +1729,7 @@
        <lb/>
        <div type="Parallel">w:9. Jjab: 28,15.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_7:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_7:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Es mihleju wiņņu wairak</div>
        <lb/>
@@ -1743,7 +1743,7 @@
        <lb/>
         <div type="Language" lang="Latvian">islezz/ ne isdſeeſt.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_7:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_7:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Man arridſan ar wiņņas</div>
        <lb/>
@@ -1753,7 +1753,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Rohku.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_7:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_7:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Un es preezajohs pahr</div>
        <lb/>
@@ -1765,7 +1765,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nahktu.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_7:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_7:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Bes Wiltu eẜmu es to</div>
        <lb/>
@@ -1775,7 +1775,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Baggatibu.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_7:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_7:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jo ta irr teem Zilwekeem</div>
        <lb/>
@@ -1789,7 +1789,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜchihs Pamahziẜchanas nahk.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_7:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_7:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Bet man irr Deews dewis</div>
        <lb/>
@@ -1803,7 +1803,7 @@
        <lb/>
         <div type="Language" lang="Latvian">arri to Gudru Walditajs.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_7:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_7:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo wiņņa Rohkâ eẜẜam</div>
        <lb/>
@@ -1813,7 +1813,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Sinnaẜchana.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_7:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_7:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Jo wiņſch irr man pateeẜu</div>
        <lb/>
@@ -1825,7 +1825,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Eeẜahkumo Spehku.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_7:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_7:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. To Laiku Eeẜahkumu un</div>
        <lb/>
@@ -1833,7 +1833,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ihẜaka un gaŗŗaka tohp.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_7:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_7:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Kà tee Laiki pahrmihjahs/</div>
        <lb/>
@@ -1843,7 +1843,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Swaigſnes ſtahw.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_7:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_7:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. To Lohpu Dabbas/ un</div>
        <lb/>
@@ -1855,7 +1855,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Spehku.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_7:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_7:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Kas arri apẜlehpts un redſams</div>
        <lb/>
@@ -1865,7 +1865,7 @@
        <lb/>
         <div type="Language" lang="Latvian">irr man to mahzijuẜi.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_7:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_7:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Jo eekẜch wiņņas irr</div>
        <lb/>
@@ -1883,7 +1883,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſtiprs/ droẜch.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_7:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_7:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Wiẜẜuwarrens/ kas wiẜẜu</div>
        <lb/>
@@ -1893,7 +1893,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Garrus.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_7:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_7:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Jo ta Gudriba irr tẜchaklaka</div>
        <lb/>
@@ -1903,7 +1903,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩchķihſtibu.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/Sal_7:25.">
+      <div n="25." type="Verse" id="Apokr1689::Sal_7:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. Jo ẜchi irr ta Dwaẜcha</div>
        <lb/>
@@ -1913,7 +1913,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gohdibas.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/Sal_7:26.">
+      <div n="26." type="Verse" id="Apokr1689::Sal_7:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. Tadehļ ne kriht eekẜch tahs</div>
        <lb/>
@@ -1931,7 +1931,7 @@
        <lb/>
        <div type="Parallel">w:26. Ebr: 1,3.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/Sal_7:27.">
+      <div n="27." type="Verse" id="Apokr1689::Sal_7:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. Wiņņa weena patti buhdama</div>
        <lb/>
@@ -1947,7 +1947,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Deewa Draugus un Praweeẜchus.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/Sal_7:28.">
+      <div n="28." type="Verse" id="Apokr1689::Sal_7:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. Jo Deews ne mihle neneeka/</div>
        <lb/>
@@ -1955,7 +1955,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dſihwo.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/Sal_7:29.">
+      <div n="29." type="Verse" id="Apokr1689::Sal_7:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. Jo ta irr ſkaiſtaka ne kà</div>
        <lb/>
@@ -1967,7 +1967,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tad tohp ta gaiẜchaka atraſta.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/Sal_7:30.">
+      <div n="30." type="Verse" id="Apokr1689::Sal_7:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. Pehz tahs (Gaiẜmas)</div>
        <lb/>
@@ -1978,7 +1978,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta VIII. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_8:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_8:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Gudribai buhs no jaunahm Deenahm mihletai</div>
        <lb/>
@@ -1987,7 +1987,7 @@
         <div type="Language" lang="Latvian">Deewa un Zilwekeem mihlehts/ 1.</div>
        <div type="Language" lang="Latin">etc.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_8:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_8:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. Ta ẜneedſ no weena Galla</div>
        <lb/>
@@ -1995,7 +1995,7 @@
        <lb/>
         <div type="Language" lang="Latvian">istaiẜa wiẜẜas Leetas pareiſi.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_8:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_8:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ꞨCho eẜmu es mihlejs un</div>
        <lb/>
@@ -2009,7 +2009,7 @@
        <lb/>
         <div type="Language" lang="Latvian">turrejs.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_8:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_8:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Wiņņai irr zeeniga Gohdiba/</div>
        <lb/>
@@ -2019,7 +2019,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Kungs wiẜẜu Leetu wiņņu mihle.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_8:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_8:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo ta irr tas ẜleppens</div>
        <lb/>
@@ -2029,7 +2029,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņa Darbu.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_8:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_8:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Ja Baggatiba weena eekahrojama</div>
        <lb/>
@@ -2041,7 +2041,7 @@
        <lb/>
         <div type="Language" lang="Latvian">padarra?</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_8:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_8:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Jep ja Ꞩapraẜchana ko</div>
        <lb/>
@@ -2051,7 +2051,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņa?</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_8:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_8:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Un ja kas Taiẜnibu mihle?</div>
        <lb/>
@@ -2067,7 +2067,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eekẜch Dſihwoẜchanas.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_8:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_8:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Jeb ja kas daſchadu Leetu</div>
        <lb/>
@@ -2083,7 +2083,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Beigẜchanas.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_8:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_8:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Es tad eẜmu apņehmees to</div>
        <lb/>
@@ -2095,7 +2095,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Behdahm un Noſkumẜchanas.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_8:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_8:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Es jauns buhdams dabbuẜchu</div>
        <lb/>
@@ -2105,7 +2105,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Wezzeem.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_8:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_8:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Es tapẜchu ſchigls atraſts</div>
        <lb/>
@@ -2113,7 +2113,7 @@
        <lb/>
         <div type="Language" lang="Latvian">buhs man Bihjaẜchana.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_8:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_8:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Kad es kluẜẜu buhẜchu/ tad</div>
        <lb/>
@@ -2127,7 +2127,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜawu Mutti.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_8:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_8:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Zaur wiņņu dabbuẜchu es</div>
        <lb/>
@@ -2137,13 +2137,13 @@
        <lb/>
         <div type="Language" lang="Latvian">teem/ kas pehz manni buhs.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_8:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_8:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Es waldiẜchu pahr Ļaudim/</div>
        <lb/>
         <div type="Language" lang="Latvian">un Tautas taps man padohtas.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_8:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_8:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Breeẜmigi Walditaji</div>
        <lb/>
@@ -2153,7 +2153,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un Kaŗŗâ kà Wihrs.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_8:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_8:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Es ẜawâ Nammâ eegahjis</div>
        <lb/>
@@ -2167,7 +2167,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un Preeziba.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_8:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_8:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Ꞩcho es pee ẜewis apdohmajohs/</div>
        <lb/>
@@ -2181,7 +2181,7 @@
        <lb/>
         <div type="Language" lang="Latvian">irr labba Eelihgẜmoẜchana.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_8:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_8:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Un nemittejama Baggatiba</div>
        <lb/>
@@ -2201,7 +2201,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ņemtu.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_8:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_8:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Jo es biju weens Behrns</div>
        <lb/>
@@ -2209,7 +2209,7 @@
        <lb/>
         <div type="Language" lang="Latvian">weenu labbu Dwehẜeli.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_8:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_8:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Un wehl wairak/ kad es</div>
        <lb/>
@@ -2217,7 +2217,7 @@
        <lb/>
         <div type="Language" lang="Latvian">neẜagahnitu Meeẜu.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_8:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_8:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Bet kad es ẜamanniju/</div>
        <lb/>
@@ -2238,7 +2238,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta IX. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_9:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_9:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Weena krahẜchna Luhgẜchana par Gudribu/ bes</div>
        <lb/>
@@ -2247,7 +2247,7 @@
         <div type="Language" lang="Latvian">un nepateeẜi/ 1.</div>
        <div type="Language" lang="Latin">rc.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_9:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_9:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. AK Deews to Tehwu!</div>
        <lb/>
@@ -2257,7 +2257,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zaur tawu Wahrdu darrijs.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_9:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_9:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Un zaur tawu Gudribu to</div>
        <lb/>
@@ -2269,7 +2269,7 @@
        <lb/>
        <div type="Parallel">w:2. 1.Mohſ:Gr: 1,16.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_9:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_9:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Un ka tas pahr to Paẜauli</div>
        <lb/>
@@ -2279,7 +2279,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Teeẜu neſtu.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_9:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_9:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Dohd man to Gudribu/</div>
        <lb/>
@@ -2291,7 +2291,7 @@
        <lb/>
        <div type="Parallel">w:4. 1.Kehn: 3,9. 2.Laik:Gr: 1,10.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_9:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_9:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo es eẜmu taws Kalps</div>
        <lb/>
@@ -2305,7 +2305,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un to Bauẜlu.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_9:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_9:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Jo jepẜchu arridſan weens</div>
        <lb/>
@@ -2319,7 +2319,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par neneeka turrehts.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_9:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_9:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Tu eẜẜi manni iswehlejs</div>
        <lb/>
@@ -2331,7 +2331,7 @@
        <lb/>
        <div type="Parallel">w:7. 2.Laik:Gr: 1,9.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_9:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_9:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tu pawehleji weenu Deewa</div>
        <lb/>
@@ -2347,7 +2347,7 @@
        <lb/>
         <div type="Language" lang="Latvian">likki padarriht.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_9:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_9:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Un ar tewim (irr) ta Gudriba/</div>
        <lb/>
@@ -2361,7 +2361,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pareiſi pehz taweem Bauẜleem.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_9:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_9:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Ꞩuhti to Semmê no tawahm</div>
        <lb/>
@@ -2375,7 +2375,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas tew labbi patihk.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_9:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_9:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo wiņņa ſinn un proht</div>
        <lb/>
@@ -2387,7 +2387,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gohdibas.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_9:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_9:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Tad buhs tew manni</div>
        <lb/>
@@ -2399,7 +2399,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gohda=Krehẜlu ẜehdeht.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_9:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_9:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jo kurẜch Zilweks ſinna</div>
        <lb/>
@@ -2409,7 +2409,7 @@
        <lb/>
        <div type="Parallel">w:13. Eſa: 40,3. Reem: 11,34. 1.Kor: 2,16.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_9:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_9:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jo to mirſtamu Zilweku</div>
        <lb/>
@@ -2419,7 +2419,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nepaſtahwigas.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_9:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_9:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jo ta nihziga Meeẜa apgŗuhtina</div>
        <lb/>
@@ -2429,7 +2429,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to Behdu pilnu Prahtu.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_9:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_9:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Un ar Mohkahm mehs to</div>
        <lb/>
@@ -2441,7 +2441,7 @@
        <lb/>
         <div type="Language" lang="Latvian">irr.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_9:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_9:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Kas tad to ismeklehs kas</div>
        <lb/>
@@ -2453,7 +2453,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Garru no Augſtibas;</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_9:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_9:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Un tà pareiſi darriti tohp</div>
        <lb/>
@@ -2463,7 +2463,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tohp/ kas tew patihk.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_9:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_9:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Un zaur to Gudribu</div>
        <lb/>
@@ -2472,13 +2472,13 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta X. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_10:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_10:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Ta Gudriba tohp ẜlaweta/ jo zaur wiņņu irr</div>
        <lb/>
         <div type="Language" lang="Latvian">teem Tehweem daudſ Labbuma notizzis.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_10:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_10:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ꞨChi irr to pirmdarritu</div>
        <lb/>
@@ -2488,7 +2488,7 @@
        <lb/>
        <div type="Parallel">w:1. 1.Mohſ:Gr: 1,26.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_10:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_10:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Un to isglahbuẜi no wiņņa</div>
        <lb/>
@@ -2496,7 +2496,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pahr wiẜẜu waldiht.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_10:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_10:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Bet kad tas Netaiẜnajs</div>
        <lb/>
@@ -2510,7 +2510,7 @@
        <lb/>
        <div type="Parallel">w:3. 1.Mohſ:Gr: 4,8.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_10:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_10:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Kad ta Semme zaur tahdu</div>
        <lb/>
@@ -2526,7 +2526,7 @@
        <lb/>
        <div type="Parallel">w:4. 1.Mohſ:Gr: 6,17. un: 7,10. un: 8,1.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_10:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_10:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Ta patti/ kad tee Pagaņi</div>
        <lb/>
@@ -2544,7 +2544,7 @@
        <lb/>
        <div type="Parallel">w:5. 1.Mohſ:Gr: 12,1. un: 22,1.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_10:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_10:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Ꞩchi irr to Taiẜno/ kad tee</div>
        <lb/>
@@ -2558,7 +2558,7 @@
        <lb/>
        <div type="Parallel">w:6. 1.Mohſ:Gr: 19,17.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_10:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_10:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Kam ta pohſta Semme</div>
        <lb/>
@@ -2576,7 +2576,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Dwehẜeles.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_10:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_10:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Jo tee/ kas to Gudribu ne</div>
        <lb/>
@@ -2594,7 +2594,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eekẜch kuŗŗeem tee irr allojẜchi.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_10:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_10:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Bet ta Gudriba isglahbj</div>
        <lb/>
@@ -2602,7 +2602,7 @@
        <lb/>
         <div type="Language" lang="Latvian">turrahs.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_10:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_10:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Ꞩchi irr to Taiẜno/ kam</div>
        <lb/>
@@ -2626,7 +2626,7 @@
        <lb/>
        <div type="Parallel">w:10. 1.MohſGr: 28,2. un: 30,29. un: 32,10.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_10:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_10:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Kad wiņņam zaur Negauẜibu</div>
        <lb/>
@@ -2636,7 +2636,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darrija to baggatu.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_10:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_10:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Wiņņa paẜargaja to preekẜch</div>
        <lb/>
@@ -2656,7 +2656,7 @@
        <lb/>
        <div type="Parallel">w:12. 1.Mohſ:Gr: 12,28.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_10:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_10:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Ꞩchi ne atſtahje to pahrdohtu</div>
        <lb/>
@@ -2666,7 +2666,7 @@
        <lb/>
        <div type="Parallel">w:13. 1.Mohſ:Gr: 37,28.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_10:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_10:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Ta nolaidahs ar wiņņu</div>
        <lb/>
@@ -2690,7 +2690,7 @@
        <lb/>
        <div type="Parallel">w:14. 1.Mohſ:Gr: 39,21. un: 4,40.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_10:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_10:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Ꞩchi ispeſtija tohs ẜwehtus</div>
        <lb/>
@@ -2700,7 +2700,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas tohs apbehdinaja.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_10:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_10:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Ta nahze eekẜch tahs</div>
        <lb/>
@@ -2714,7 +2714,7 @@
        <lb/>
        <div type="Parallel">w:16. 2.Mohſ:Gr: 3,6,7.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_10:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_10:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Ta makẜaja teem Ꞩwehteem</div>
        <lb/>
@@ -2730,7 +2730,7 @@
        <lb/>
        <div type="Parallel">w:17. 2.Mohſ:Gr: 13,21.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_10:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_10:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Ta waddija tohs zaur to</div>
        <lb/>
@@ -2740,7 +2740,7 @@
        <lb/>
        <div type="Parallel">w:18. 2.Mohſ:Gr: 14,22. Dahw:Dſ: 78,16.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_10:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_10:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Bet wiņņu Eenaidneekus</div>
        <lb/>
@@ -2760,7 +2760,7 @@
        <lb/>
        <div type="Parallel">w:19. 2.Mohſ:Gr: 12,35. un: 15,1.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_10:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_10:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Jo ta Gudriba atdarra</div>
        <lb/>
@@ -2773,7 +2773,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XI. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_11:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_11:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Ta Gudriba pahrmahza tohs Rahmus/ 1. Bet</div>
        <lb/>
@@ -2785,7 +2785,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜawas radditas Leetas/ 25.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_11:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_11:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. TU likke wiņņu Darbeem</div>
        <lb/>
@@ -2793,7 +2793,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Praweeta Rohku/</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_11:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_11:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Tee ſtaigaja zaur weenu</div>
        <lb/>
@@ -2803,7 +2803,7 @@
        <lb/>
        <div type="Parallel">w:2. 2.Mohſ:Gr: 16,1.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_11:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_11:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Tee ſtahweja Eenaidneekeem</div>
        <lb/>
@@ -2813,7 +2813,7 @@
        <lb/>
        <div type="Parallel">w:3. 2.Mohſ:Gr: 17,11,12.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_11:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_11:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Kad tee istwihkuẜchi bija/</div>
        <lb/>
@@ -2825,13 +2825,13 @@
        <lb/>
        <div type="Parallel">w:4. 4.Mohſ:Gr: 20,8.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_11:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_11:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Un Palihdſiba prett to</div>
        <lb/>
         <div type="Language" lang="Latvian">Twihkẜchanu no zeeta Akmiņa.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_11:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_11:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Jo zaur ko wiņņa Eenaidneeki</div>
        <lb/>
@@ -2841,7 +2841,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kad teem Truhkums bija.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_11:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_11:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Jo kad wiņņi ar to nejauku</div>
        <lb/>
@@ -2857,13 +2857,13 @@
        <lb/>
        <div type="Parallel">w:7. 2.Mohſ:Gr: 7,20.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_11:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_11:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tad dewi tu ẜcheem Uhdeni</div>
        <lb/>
         <div type="Language" lang="Latvian">pahrpillam/ kur tee ne zerreja.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_11:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_11:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Kad tu bij rahdijs zaur to</div>
        <lb/>
@@ -2871,7 +2871,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kà tu tohs Prettineekus biji ẜohdijs.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_11:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_11:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Jo kad ẜchee kahrdinati</div>
        <lb/>
@@ -2885,7 +2885,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mohziti.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_11:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_11:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo ẜchohs eẜẜi tu gann kà</div>
        <lb/>
@@ -2897,7 +2897,7 @@
        <lb/>
         <div type="Language" lang="Latvian">paſuddinajs.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_11:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_11:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jo tik labbi tee/ kas nohſt</div>
        <lb/>
@@ -2905,7 +2905,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tappe mohziti.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_11:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_11:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jo teem diwejada Noſkumẜchana</div>
        <lb/>
@@ -2915,7 +2915,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atminnejahs.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_11:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_11:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jo kad tee dſirdeja/ ka</div>
        <lb/>
@@ -2925,7 +2925,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jutte tee to Kungu.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_11:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_11:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jo ko tee zittkahrt bij iszehluẜchi/</div>
        <lb/>
@@ -2939,7 +2939,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne bija kà to Taiẜnu.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_11:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_11:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Tà arri par tahm neprattigahm</div>
        <lb/>
@@ -2959,7 +2959,7 @@
        <lb/>
        <div type="Parallel">w:16. Gudr:Gr: 2,24. Reem: 1,23.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_11:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_11:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Ka tee atſihtu/ ka zaur ko</div>
        <lb/>
@@ -2967,7 +2967,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tohp ẜohdihts.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_11:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_11:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Jo tawai wiẜẜuwarrenai</div>
        <lb/>
@@ -2983,7 +2983,7 @@
        <lb/>
        <div type="Parallel">w:18. 3.Mohſ:Gr: 26,23. Jer: 8,17.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_11:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_11:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Jeb no jauna radditus</div>
        <lb/>
@@ -2999,7 +2999,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Sibbiņus is Azzim isẜchauditu.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_11:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_11:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Kuŗŗu Eewainoẜchana</div>
        <lb/>
@@ -3009,7 +3009,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜamaitaht.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_11:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_11:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Tee arri warretu bes ẜcho</div>
        <lb/>
@@ -3021,7 +3021,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Spehku iskaiẜiti tapt.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_11:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_11:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Bet tu eẜẜi wiẜẜu islihdſinajs</div>
        <lb/>
@@ -3035,7 +3035,7 @@
        <lb/>
         <div type="Language" lang="Latvian">prettiſtahweht?</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_11:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_11:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Jo ittin kâ ta Mehle pee</div>
        <lb/>
@@ -3047,7 +3047,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas Rihtâ nokriht wirs Semmes.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_11:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_11:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Bet tu apſchehlojees pahr</div>
        <lb/>
@@ -3059,7 +3059,7 @@
        <lb/>
         <div type="Language" lang="Latvian">teem atgreeſtees.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/Sal_11:25.">
+      <div n="25." type="Verse" id="Apokr1689::Sal_11:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. Jo tu mihle wiẜẜu/ kas</div>
        <lb/>
@@ -3071,7 +3071,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ko tu eenihdetu.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/Sal_11:26.">
+      <div n="26." type="Verse" id="Apokr1689::Sal_11:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. Kà warretu kas labban</div>
        <lb/>
@@ -3081,7 +3081,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜauzis.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/Sal_11:27.">
+      <div n="27." type="Verse" id="Apokr1689::Sal_11:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. Bet tu ẜaudſi wiẜẜus/</div>
        <lb/>
@@ -3092,7 +3092,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XII. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_12:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_12:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Deews pamahza zaur tahm Ꞩohdibahm/ pee ka</div>
        <lb/>
@@ -3104,13 +3104,13 @@
        <lb/>
         <div type="Language" lang="Latvian">taiẜnas Deewa Teeẜas/ 23.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_12:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_12:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. Jo taws ne=isnihzigs Gars</div>
        <lb/>
         <div type="Language" lang="Latvian">irr eekẜch wiẜẜeem.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_12:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_12:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. TAdehļ tu tohs Pahrkahpajus</div>
        <lb/>
@@ -3126,7 +3126,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Kungs! tizzus.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_12:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_12:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jo arri kad tu eenihdeji</div>
        <lb/>
@@ -3134,7 +3134,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜwehtas Semmes.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_12:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_12:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Tadehļ ka tee wiẜẜai ļaunus</div>
        <lb/>
@@ -3142,7 +3142,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un neẜwehtahm Darboẜchanahm.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_12:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_12:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Un arri tohs neſchehligus</div>
        <lb/>
@@ -3152,7 +3152,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tohs Aẜẜinu Dſehrajus.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_12:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_12:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Tad gribbeji tu tohs Wezzakus/</div>
        <lb/>
@@ -3166,7 +3166,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nokaut.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_12:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_12:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Ka ta Semme/ kas tawâ</div>
        <lb/>
@@ -3176,7 +3176,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Weeta to Deewa Behrnu taptu.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_12:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_12:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tatẜchu tu arridſan ẜchohs</div>
        <lb/>
@@ -3190,7 +3190,7 @@
        <lb/>
         <div type="Language" lang="Latvian">isdſihtu.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_12:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_12:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Ne/ kâ buhtu tew nekahds</div>
        <lb/>
@@ -3204,7 +3204,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Wahrdu wiẜẜus ẜatreekt.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_12:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_12:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Bet tu pamaſiņahm tohs</div>
        <lb/>
@@ -3222,7 +3222,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Prahtu ne ņemtohs.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_12:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_12:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo tee bija weens nolahdehts</div>
        <lb/>
@@ -3234,7 +3234,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņeem to/ ar ko tee bij grehkojẜchi.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_12:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_12:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jo kas us tewi ẜazzihs:</div>
        <lb/>
@@ -3252,7 +3252,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Zilweku labbad?</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_12:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_12:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jo zits Deews ne irr bes</div>
        <lb/>
@@ -3264,7 +3264,7 @@
        <lb/>
        <div type="Parallel">w:13. 1.Petr: 5,7.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_12:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_12:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jo neweens Ķehniņſch jeb</div>
        <lb/>
@@ -3274,7 +3274,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņu pehz/ ko tu eẜẜi ẜohdijs.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_12:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_12:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Kad nu tu taiẜnis eẜẜi/ tad</div>
        <lb/>
@@ -3286,7 +3286,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩohdu ne irr pelnijs.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_12:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_12:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo tawa Warra irr taiẜna</div>
        <lb/>
@@ -3296,7 +3296,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nahk/ ka tu wiẜẜus ẜaudſi.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_12:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_12:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Jo kad ne tappe tizzehts/</div>
        <lb/>
@@ -3308,7 +3308,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜcho Drohẜchibu pahrmahzijs.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_12:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_12:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Bet tu/ ak ſpehzigajs</div>
        <lb/>
@@ -3318,7 +3318,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Jo tu eeſpehj wiẜẜu ko gribbedams.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_12:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_12:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Bet tawus Ļaudis tu</div>
        <lb/>
@@ -3334,7 +3334,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no Grehkeem doht.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_12:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_12:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Jo ja tu tawu Behrnu</div>
        <lb/>
@@ -3348,7 +3348,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no ẜawas Blehdibas atſtahtees.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_12:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_12:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Ar zik leelaku Lehnibu</div>
        <lb/>
@@ -3358,7 +3358,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩohliẜchanu Derribas eedewis?</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_12:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_12:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Tu tad muhẜus Eenaidneekus</div>
        <lb/>
@@ -3376,7 +3376,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gaidiht.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_12:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_12:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Tapehz tu arri tohs Netaiẜnus/</div>
        <lb/>
@@ -3388,7 +3388,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜohdijs.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_12:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_12:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Jo tee bija us Alloẜchanas</div>
        <lb/>
@@ -3404,7 +3404,7 @@
        <lb/>
        <div type="Parallel">w:24. Gudr:Gr: 11,16. Reem: 1,23.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/Sal_12:25.">
+      <div n="25." type="Verse" id="Apokr1689::Sal_12:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. Tadehļ eẜẜi tu teem arri</div>
        <lb/>
@@ -3414,7 +3414,7 @@
        <lb/>
         <div type="Language" lang="Latvian">usẜuhtijs.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/Sal_12:26.">
+      <div n="26." type="Verse" id="Apokr1689::Sal_12:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. Bet kas ar tahdu Mehdiẜchanas</div>
        <lb/>
@@ -3424,7 +3424,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Deewa Ꞩohdibu.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/Sal_12:27.">
+      <div n="27." type="Verse" id="Apokr1689::Sal_12:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. Jo pahr kuŗŗeem tee apſkaitahs</div>
        <lb/>
@@ -3447,7 +3447,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XIII. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_13:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_13:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Akliba un Neleetiba to Zilweku/ 1. Behdas</div>
        <lb/>
@@ -3455,7 +3455,7 @@
        <lb/>
         <div type="Language" lang="Latvian">10.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_13:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_13:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. JO wiẜẜi Zilweki gann</div>
        <lb/>
@@ -3475,7 +3475,7 @@
        <lb/>
        <div type="Parallel">w:1. Reem: 1,19,20,21.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_13:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_13:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Bet par Deeweem turr/</div>
        <lb/>
@@ -3491,7 +3491,7 @@
        <lb/>
        <div type="Parallel">w:2. 5.Mohſ:Gr: 4,19. un: 17,3.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_13:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_13:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Kuŗŗu Skaiſtums/ ja tas</div>
        <lb/>
@@ -3507,7 +3507,7 @@
        <lb/>
         <div type="Language" lang="Latvian">raddijs.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_13:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_13:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Un ja tee pahr to Warru</div>
        <lb/>
@@ -3519,7 +3519,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pataiẜijs.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_13:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_13:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo pee tahs leelas Buhẜchanas</div>
        <lb/>
@@ -3529,7 +3529,7 @@
        <lb/>
         <div type="Language" lang="Latvian">peederrigi tohp ſkattihts.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_13:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_13:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Tatẜchu (tee)/ kas ẜchinnîs</div>
        <lb/>
@@ -3541,7 +3541,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņu atraſt.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_13:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_13:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Jo kad tee ar wiņņa Darbeem</div>
        <lb/>
@@ -3555,13 +3555,13 @@
        <lb/>
         <div type="Language" lang="Latvian">irraid.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_13:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_13:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tomehr atkaļ neds ẜchee</div>
        <lb/>
         <div type="Language" lang="Latvian">bes Wainas irr.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_13:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_13:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Jo ja tee tik daudſ warrejẜchi</div>
        <lb/>
@@ -3575,7 +3575,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Kungu irr atradduẜchi.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_13:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_13:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Bet Nelaimigi irr/ un</div>
        <lb/>
@@ -3593,7 +3593,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taiẜitus.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_13:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_13:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Ja arri kahds Ammata=</div>
        <lb/>
@@ -3609,7 +3609,7 @@
        <lb/>
        <div type="Parallel">w:11. Eſa: 44,12. <corr>Jer</corr><sic>7er</sic>: 10,3.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_13:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_13:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Bet tahs Skaidas no ta</div>
        <lb/>
@@ -3619,7 +3619,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pee=ehſt.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_13:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_13:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Bet kas wehl no ta atleek</div>
        <lb/>
@@ -3635,7 +3635,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lihdſi tohp weenai Zilweka Bildei.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_13:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_13:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jeb darra to kahdam nizzinajamam</div>
        <lb/>
@@ -3649,7 +3649,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas pee ta irr.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_13:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_13:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Un pataiẜa tam weenu</div>
        <lb/>
@@ -3661,7 +3661,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tà wiņſch par to gahda.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_13:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_13:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Gann redſedams/ ka tas</div>
        <lb/>
@@ -3671,7 +3671,7 @@
        <lb/>
         <div type="Language" lang="Latvian">waijagâ.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_13:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_13:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Kad tas nu luhdſ par ẜawu</div>
        <lb/>
@@ -3683,7 +3683,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bildinaht/ kam Dſihwibas newaid.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_13:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_13:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Un peeẜauz to labbas</div>
        <lb/>
@@ -3697,7 +3697,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas wiẜẜunederrigajs irraid.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_13:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_13:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Un laimigu Zeļļu no ta/</div>
        <lb/>
@@ -3716,7 +3716,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XIV. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_14:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_14:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Ģeķķiba to Elka=Deewa Kalpu/ 1. Jo tik</div>
        <lb/>
@@ -3730,7 +3730,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ļaunums/ 22.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_14:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_14:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ATkaļ/ ja kas grib ar</div>
        <lb/>
@@ -3744,7 +3744,7 @@
        <lb/>
         <div type="Language" lang="Latvian">us ko wiņſch brauz.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_14:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_14:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Jo ẜcho irr to Pelņu Eegribbeẜchana</div>
        <lb/>
@@ -3754,7 +3754,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to pataiẜijs.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_14:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_14:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Bet tawa Apgahdaẜchana</div>
        <lb/>
@@ -3768,7 +3768,7 @@
        <lb/>
        <div type="Parallel">w:3. 2.Mohſ:Gr: 14,31.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_14:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_14:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Ar ko tu parahdi/ ka tu</div>
        <lb/>
@@ -3780,7 +3780,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pahrzeltees.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_14:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_14:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Tu arri ne gribbi ka tawas</div>
        <lb/>
@@ -3796,7 +3796,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zeldamees.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_14:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_14:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Jo arri wezzôs Laikôs/</div>
        <lb/>
@@ -3812,7 +3812,7 @@
        <lb/>
        <div type="Parallel">w:6. 2.Mohſ:Gr: 6,4. un: 7,10. un: 8,17.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_14:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_14:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Jo tas irr weens ẜwehtijams</div>
        <lb/>
@@ -3820,7 +3820,7 @@
        <lb/>
         <div type="Language" lang="Latvian">noteek/</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_14:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_14:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Bet tas irr nolahdehts/</div>
        <lb/>
@@ -3836,7 +3836,7 @@
        <lb/>
        <div type="Parallel">w:8. Dahw:Dſ: 115,4. un: 135,15.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_14:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_14:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Jo Deews eenihſt tohs</div>
        <lb/>
@@ -3844,7 +3844,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kà irr wiņņa Besdeewibu.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_14:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_14:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Jo ir tas Darbs taps</div>
        <lb/>
@@ -3852,7 +3852,7 @@
        <lb/>
         <div type="Language" lang="Latvian">irr.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_14:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_14:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Tapehz kļuhs arri to Pagaņu</div>
        <lb/>
@@ -3870,7 +3870,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Kahjahm.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_14:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_14:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jo Deewekļus darriht irr</div>
        <lb/>
@@ -3880,7 +3880,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩamaitaẜchana tahs Dſihwibas.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_14:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_14:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jo tee ne irr no Eeẜahkuma</div>
        <lb/>
@@ -3888,7 +3888,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne paliks.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_14:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_14:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Bet zaur neleetigu Zilweku</div>
        <lb/>
@@ -3898,7 +3898,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ahtrs Gals nodohmahts.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_14:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_14:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jo kad daſch Tehws ar</div>
        <lb/>
@@ -3920,7 +3920,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Uppuŗus atneſt.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_14:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_14:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Pehz par gaŗŗu Laiku</div>
        <lb/>
@@ -3936,7 +3936,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gohdu parahdiht.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_14:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_14:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Un ko tee Zilweki patt</div>
        <lb/>
@@ -3956,7 +3956,7 @@
        <lb/>
         <div type="Language" lang="Latvian">klahtu buhtu/ tikkuẜchi ẜmaiditu.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_14:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_14:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Jr pee tahs Apņemẜchanahs</div>
        <lb/>
@@ -3966,7 +3966,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Leeliba pee teem/ kas to ne ſinnaja.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_14:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_14:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Jo tas/ kas jaẜchu tam</div>
        <lb/>
@@ -3976,7 +3976,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſkaiſtaku.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_14:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_14:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Bet ta Draudſiba/ zaur</div>
        <lb/>
@@ -3986,7 +3986,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜenn par Zilweku bij gohdajẜi.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_14:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_14:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Un tas notikke tai Dſihwoẜchanai</div>
        <lb/>
@@ -4002,7 +4002,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas nekam peeklahjahs turreht.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_14:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_14:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Wehl teem ne bij gann</div>
        <lb/>
@@ -4016,7 +4016,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Meeru.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_14:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_14:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Jo tee jeb nokauj tohs</div>
        <lb/>
@@ -4030,7 +4030,7 @@
        <lb/>
        <div type="Parallel">w:23. 5.Mohſ:Gr: 18,10. Jer: 7,9. un: 19,5.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_14:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_14:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Un ne paẜarga wairs</div>
        <lb/>
@@ -4042,7 +4042,7 @@
        <lb/>
         <div type="Language" lang="Latvian">apbehdina.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/Sal_14:25.">
+      <div n="25." type="Verse" id="Apokr1689::Sal_14:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. Un eekẜch wiẜẜahm Leetahm</div>
        <lb/>
@@ -4060,7 +4060,7 @@
        <lb/>
        <div type="Parallel">w:25. Reem: 1,29.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/Sal_14:26.">
+      <div n="26." type="Verse" id="Apokr1689::Sal_14:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. Labbadarriẜchanas Aismirẜchana/</div>
        <lb/>
@@ -4074,7 +4074,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Pahrkahpẜchana/ Neẜchķihſtiba.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/Sal_14:27.">
+      <div n="27." type="Verse" id="Apokr1689::Sal_14:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. Jo to Deewekļu Kalpoẜchana/</div>
        <lb/>
@@ -4086,7 +4086,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gals.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/Sal_14:28.">
+      <div n="28." type="Verse" id="Apokr1689::Sal_14:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. Jo tee jeb Ꞩwehtkus turredami</div>
        <lb/>
@@ -4098,7 +4098,7 @@
        <lb/>
         <div type="Language" lang="Latvian">drihſi nepateeẜi.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/Sal_14:29.">
+      <div n="29." type="Verse" id="Apokr1689::Sal_14:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. Jo tee/ kas us nedſihweem</div>
        <lb/>
@@ -4110,7 +4110,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſwehre.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/Sal_14:30.">
+      <div n="30." type="Verse" id="Apokr1689::Sal_14:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. Bet teem no abbeem nahkẜees/</div>
        <lb/>
@@ -4126,7 +4126,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Leetas nizzinadami.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/Sal_14:31.">
+      <div n="31." type="Verse" id="Apokr1689::Sal_14:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. Jo ne ta Warra to/ pee</div>
        <lb/>
@@ -4141,7 +4141,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XV. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_15:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_15:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Tee Tizzigee tohp no Deewa preekẜch Elka=</div>
        <lb/>
@@ -4151,7 +4151,7 @@
        <lb/>
         <div type="Language" lang="Latvian">7.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_15:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_15:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. BEt tu ak muhẜu Deews!</div>
        <lb/>
@@ -4161,7 +4161,7 @@
        <lb/>
         <div type="Language" lang="Latvian">waldi wiẜẜu ar Ꞩirds=Schehlaſtibu.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_15:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_15:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Jo jepẜchu mehs grehkojam/</div>
        <lb/>
@@ -4175,7 +4175,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lihdſinati eẜẜam.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_15:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_15:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jo tewi paſiht irr weena</div>
        <lb/>
@@ -4185,7 +4185,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tahs Nemirſtibas.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_15:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_15:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo muhs ne peewiļļ us</div>
        <lb/>
@@ -4199,7 +4199,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Krahẜchņumeem.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_15:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_15:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Kuŗŗu Usluhkoẜchana teem</div>
        <lb/>
@@ -4211,7 +4211,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kam Dwaẜchas newaid.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_15:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_15:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Tee arri irr wehrtas/ ka</div>
        <lb/>
@@ -4223,7 +4223,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eegrib/ ir tahs apgohda.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_15:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_15:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Jo arri weens Pohdneeks/</div>
        <lb/>
@@ -4249,7 +4249,7 @@
        <lb/>
        <div type="Parallel">w:7. Reem: 9,21.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_15:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_15:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tas nu arridſan ar ļaunu</div>
        <lb/>
@@ -4271,7 +4271,7 @@
        <lb/>
        <div type="Parallel">w:8. 2.Mohſ:Gr: 2,7. un: 3,19.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_15:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_15:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Tomehr wiņſch par to gahda/</div>
        <lb/>
@@ -4293,7 +4293,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Darbus padarra.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_15:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_15:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Wiņņa Ꞩirds irr kà Pelni/</div>
        <lb/>
@@ -4305,7 +4305,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Mahli.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_15:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_15:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Tapehz ka wiņſch to ne</div>
        <lb/>
@@ -4317,7 +4317,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Dwaẜchu irr eepuhtis.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_15:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_15:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Bet tee ẜchķeet muhẜu</div>
        <lb/>
@@ -4335,7 +4335,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mekleht.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_15:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_15:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Ꞩchis ſinna pahr wiẜẜeem/</div>
        <lb/>
@@ -4345,7 +4345,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Leetas un Tehlus padarra.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_15:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_15:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Bet tee irr wiẜẜi jo neprattigi</div>
        <lb/>
@@ -4355,7 +4355,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ļauſchu/ kas wiņņus ſpaida.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_15:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_15:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Tapehz ka tee wiẜẜas Pagaņu</div>
        <lb/>
@@ -4375,7 +4375,7 @@
        <lb/>
        <div type="Parallel">w:15. Dahw:Dſeeẜ: 115,4,&amp;c. un: 135,15, &amp;c.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_15:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_15:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo weens Zilweks irr</div>
        <lb/>
@@ -4391,7 +4391,7 @@
        <lb/>
         <div type="Language" lang="Latvian">arri Deews buhtu.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_15:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_15:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Jo wiņſch pats mirſtams</div>
        <lb/>
@@ -4407,7 +4407,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņi muhſcham ne.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_15:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_15:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Tee arri wehl tohs wiẜẜai</div>
        <lb/>
@@ -4419,7 +4419,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar weenohtru lihdſinati.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_15:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_15:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Jo tee ne irr tik jauki</div>
        <lb/>
@@ -4434,13 +4434,13 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XVI. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_16:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_16:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. To Elka=Deewigu Ꞩohdiba/ 1/ 16. Bet tee</div>
        <lb/>
         <div type="Language" lang="Latvian">Rahmee un Tizzigee tohp usturreti/ 10.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_16:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_16:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. TAdehļ irr tee ar lihdſigu</div>
        <lb/>
@@ -4450,7 +4450,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Pulkeem mohziti.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_16:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_16:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Kuŗŗas Mohzibas Weetâ</div>
        <lb/>
@@ -4464,7 +4464,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Eegribbeẜchanas.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_16:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_16:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Ka wiņņem/ jepẜchu teem</div>
        <lb/>
@@ -4480,7 +4480,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩmakkas (Barribu) dabbuja.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_16:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_16:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo ta bij buht/ ka teem/</div>
        <lb/>
@@ -4494,7 +4494,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Eenaidneeki mozhiti kļuhtu.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_16:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_16:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo kad arri pahr ẜcheem breeẜmiga</div>
        <lb/>
@@ -4506,7 +4506,7 @@
        <lb/>
        <div type="Parallel">w:5. 4.Mohſ:Gr: 21,6. 1.Kor: 10,9.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_16:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_16:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Tatẜchu tawa Duẜmiba</div>
        <lb/>
@@ -4524,7 +4524,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Bauẜlibas.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_16:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_16:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Jo tas pee tahs greeſehs/</div>
        <lb/>
@@ -4534,7 +4534,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Peſtitajs wiẜẜu.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_16:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_16:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Un ar to parahdiji tu</div>
        <lb/>
@@ -4544,7 +4544,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ļauna.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_16:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_16:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Jo wiņņi tappe zaur Ꞩiẜẜeņu</div>
        <lb/>
@@ -4562,7 +4562,7 @@
        <lb/>
        <div type="Parallel">w:9. 2.Mohſ:Gr: 10,4. Par:Jahn: 9,3.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_16:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_16:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Bet tawus Behrnus</div>
        <lb/>
@@ -4574,7 +4574,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pretti/ un padarrija tohs weẜẜelus.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_16:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_16:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo tee tappe eedſelti/ ka</div>
        <lb/>
@@ -4588,7 +4588,7 @@
        <lb/>
         <div type="Language" lang="Latvian">paliktu no tawahm Labdarriẜchanahm.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_16:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_16:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jo neds Sahle neds</div>
        <lb/>
@@ -4598,7 +4598,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiẜẜu dſeedina.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_16:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_16:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jo tew irr Warra pahr</div>
        <lb/>
@@ -4610,7 +4610,7 @@
        <lb/>
        <div type="Parallel">w:13. 5.Mohſ:Gr: 32,39. 1.Sam: 2,6. Tob: 13,1.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_16:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_16:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Gann tas Zilweks eekẜch</div>
        <lb/>
@@ -4624,13 +4624,13 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņſch ne warr atraut.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_16:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_16:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Bet tawai Rohkai ne</div>
        <lb/>
         <div type="Language" lang="Latvian">warr wiẜẜai isbehgt.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_16:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_16:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo tee Besdeewigee/ kas</div>
        <lb/>
@@ -4648,7 +4648,7 @@
        <lb/>
        <div type="Parallel">w:16. 2.Mohſ:Gr: 9,23,25.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_16:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_16:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Jo tas bija wiẜẜai brihniẜkigs/</div>
        <lb/>
@@ -4662,7 +4662,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Taiẜneem.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_16:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_16:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Jo daſchkart ta Lehẜma</div>
        <lb/>
@@ -4678,7 +4678,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tà draggati taptu.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_16:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_16:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Bet daſchkahrt arridſan</div>
        <lb/>
@@ -4690,7 +4690,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Semmes Dſimmumu nomaitatu.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_16:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_16:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Kuŗŗu Weetâ tu tawus</div>
        <lb/>
@@ -4708,7 +4708,7 @@
        <lb/>
        <div type="Parallel">Dahw:Dſ: 78,24. Jahn: 6,31.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_16:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_16:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Jo taws Taiẜnums ſkaidri</div>
        <lb/>
@@ -4724,7 +4724,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kà kuŗẜch pats gribbeja.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_16:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_16:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Bet tas Ꞩneegs un Leddus</div>
        <lb/>
@@ -4740,7 +4740,7 @@
        <lb/>
        <div type="Parallel">w:22. 2.Mohſ:Gr: 9,24,25.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_16:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_16:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Atkaļ tas pats (Ugguns)/</div>
        <lb/>
@@ -4750,7 +4750,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Spehku.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_16:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_16:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Jo tahs radditas Leetas/</div>
        <lb/>
@@ -4762,7 +4762,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas us tewi palaiſchahs.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/Sal_16:25.">
+      <div n="25." type="Verse" id="Apokr1689::Sal_16:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. Tadehļ likkahs wiņņa ir</div>
        <lb/>
@@ -4776,7 +4776,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija waijagâ.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/Sal_16:26.">
+      <div n="26." type="Verse" id="Apokr1689::Sal_16:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. Ka tawi Behrni/ ko tu</div>
        <lb/>
@@ -4790,7 +4790,7 @@
        <lb/>
        <div type="Parallel">w:26. 5.Mohſ:Gr: 8,3. Matt: 4,4. Luhk: 4,4.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/Sal_16:27.">
+      <div n="27." type="Verse" id="Apokr1689::Sal_16:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. Jo tas/ ko tas Ugguns</div>
        <lb/>
@@ -4800,7 +4800,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Spohſchuma/ un iskuẜẜe.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/Sal_16:28.">
+      <div n="28." type="Verse" id="Apokr1689::Sal_16:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. Ka ſinnams taptu/ ka</div>
        <lb/>
@@ -4810,7 +4810,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kad Gaiẜma rahdahs.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/Sal_16:29.">
+      <div n="29." type="Verse" id="Apokr1689::Sal_16:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. Jo weena nepateiziga</div>
        <lb/>
@@ -4823,7 +4823,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XVII. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_17:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_17:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Deewa Teeẜas irr brihnigs/ 1. Kas tohs Egipteŗus</div>
        <lb/>
@@ -4831,7 +4831,7 @@
        <lb/>
         <div type="Language" lang="Latvian">2/ 3/ 11.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_17:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_17:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. JO leelas irr tawas</div>
        <lb/>
@@ -4841,7 +4841,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tahs ne=ismahzitas Dwehẜeles.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_17:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_17:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Jo tee Netaiẜnee/ kas</div>
        <lb/>
@@ -4861,7 +4861,7 @@
        <lb/>
        <div type="Parallel">w:2. 2.Mohſ:Gr: 10,21.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_17:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_17:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jo kad tee ẜchķittahs eekẜch</div>
        <lb/>
@@ -4875,7 +4875,7 @@
        <lb/>
         <div type="Language" lang="Latvian">istruhzinati.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_17:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_17:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo neds tas Kakts/ kur tee</div>
        <lb/>
@@ -4891,7 +4891,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Waigeem rahdijahs.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_17:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_17:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Un nekahds Ugguns/ zik</div>
        <lb/>
@@ -4903,7 +4903,7 @@
        <lb/>
         <div type="Language" lang="Latvian">warreja ẜcho nejauku Nakti apſkaidroht.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_17:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_17:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Bet teem tikkai tihẜchi parahdijahs</div>
        <lb/>
@@ -4917,7 +4917,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eẜẜam/ ko tee redſeja.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_17:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_17:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Tahs Burẜchanas Neleetibas</div>
        <lb/>
@@ -4927,7 +4927,7 @@
        <lb/>
        <div type="Parallel">w:7. 2.Mohſ:Gr: 9,11.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_17:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_17:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Jo kas ẜohlija tahs Bihjaẜchanas</div>
        <lb/>
@@ -4939,7 +4939,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩmeekla Bihjaẜchanu ẜehrdſigi.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_17:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_17:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Un jepẜchu nekahda tahda</div>
        <lb/>
@@ -4959,7 +4959,7 @@
        <lb/>
         <div type="Language" lang="Latvian">isbehgt.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_17:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_17:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Jo ta Bailiba nahk no</div>
        <lb/>
@@ -4967,7 +4967,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Leezineeka tohp paſuddinata.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_17:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_17:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Un ņemm allaſchiņ ẜew</div>
        <lb/>
@@ -4985,7 +4985,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſpaidita tohp.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_17:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_17:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jo ta Bihjaẜchana ne</div>
        <lb/>
@@ -4995,7 +4995,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas no Ꞩapraẜchanas irraid.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_17:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_17:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Bet ta Zerriba/ kas</div>
        <lb/>
@@ -5005,7 +5005,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Leetas/ kas to Mohzibu padarra.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_17:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_17:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Bet tee/ kas taî Naktì/</div>
        <lb/>
@@ -5019,7 +5019,7 @@
        <lb/>
        <div type="Parallel">w:14. 2.Mohſ:Gr: 10,21.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_17:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_17:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Tappe zitti no breeẜmigeem</div>
        <lb/>
@@ -5027,7 +5027,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ka tee ne ẜchķittahs dſihwoht.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_17:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_17:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Jo pahr wiņņeem nahze</div>
        <lb/>
@@ -5041,7 +5041,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Dſelſes.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_17:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_17:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Jo jeb tas bija Arrajs</div>
        <lb/>
@@ -5059,7 +5059,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜaiſtiti/</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_17:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_17:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Kad daſchkahrt Wehjẜch</div>
        <lb/>
@@ -5071,7 +5071,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kauze.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_17:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_17:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Jeb tee Akmiņi ar leelu</div>
        <lb/>
@@ -5089,7 +5089,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tohs.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_17:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_17:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Jo wiẜẜa Paẜaule tappe</div>
        <lb/>
@@ -5099,7 +5099,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bes Aiskaweẜchanas/</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_17:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_17:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Bet pahr ẜcheem ween</div>
        <lb/>
@@ -5116,7 +5116,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XVIII. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_18:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_18:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Tee Jſraëļa Behrni ne bija mohziti kà tee Egipteŗi/</div>
        <lb/>
@@ -5134,7 +5134,7 @@
        <lb/>
         <div type="Language" lang="Latvian">usturreti/ 21.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_18:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_18:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. BEt taweem Ꞩwehteem</div>
        <lb/>
@@ -5148,7 +5148,7 @@
        <lb/>
        <div type="Parallel">w:1. 2.Mohſ:Gr: 10,23.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_18:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_18:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Un teize tohs laimigus/ ka</div>
        <lb/>
@@ -5164,7 +5164,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bijuẜchi.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_18:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_18:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Tur pretti dewi tu ẜcheem</div>
        <lb/>
@@ -5182,7 +5182,7 @@
        <lb/>
        <div type="Parallel">Dahw:DS: 78,14. un: 105,39.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_18:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_18:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo wiņņi bija wehrtas/</div>
        <lb/>
@@ -5198,7 +5198,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gaiẜma tai Paẜaulei bij jadohd.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_18:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_18:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Un kad tee bij <corr>apņehmuẜchees</corr><sic>a pņehmuẜchees</sic></div>
        <lb/>
@@ -5218,7 +5218,7 @@
        <lb/>
        <div type="Parallel">w:5. 2.Mohſ:Gr: 1,16. un: 2,3. un: 14,27.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_18:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_18:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Ꞩchi patti Nakts kļua</div>
        <lb/>
@@ -5230,7 +5230,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Swehreẜchanu/ kam tee bij tizzejẜchi.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_18:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_18:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Un tà irr no taweem Ļaudim</div>
        <lb/>
@@ -5240,7 +5240,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩamaitaẜchana.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_18:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_18:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Jo ar ko tu tohs Prettineekus</div>
        <lb/>
@@ -5248,7 +5248,7 @@
        <lb/>
         <div type="Language" lang="Latvian">eẜẜi tu muhs pee=aizinadams pagohdinajs.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_18:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_18:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Jo tee Ꞩwehtee tawu Ļauſchu</div>
        <lb/>
@@ -5266,7 +5266,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Dſeeẜmas.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_18:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_18:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Turpretti atſkanneja to</div>
        <lb/>
@@ -5278,7 +5278,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas apraudati tappe.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_18:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_18:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo ar lihdſigu Atreepẜchanu</div>
        <lb/>
@@ -5294,7 +5294,7 @@
        <lb/>
        <div type="Parallel">w:11. 2.Mohſ:Gr: 12,30.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_18:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_18:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Un teem wiẜẜeem weenlihdſigi</div>
        <lb/>
@@ -5310,7 +5310,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Dſimmums ẜamaitahts.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_18:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_18:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jo kas tahs Burẜchanas</div>
        <lb/>
@@ -5322,7 +5322,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Deewa Ļaudis irr.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_18:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_18:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Jo kad wiẜs kluẜẜu bija/</div>
        <lb/>
@@ -5330,7 +5330,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija/</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_18:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_18:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Tad nolaidahs tas wiẜẜuwarrenajs</div>
        <lb/>
@@ -5344,7 +5344,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Semmes.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_18:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_18:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Weens aẜs Sohbins/ kas</div>
        <lb/>
@@ -5360,7 +5360,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Semmes ſtahweja.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_18:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_18:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Tad istruhzinaja tohs peepeẜchi</div>
        <lb/>
@@ -5370,7 +5370,7 @@
        <lb/>
         <div type="Language" lang="Latvian">teem usgahje.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_18:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_18:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Un gulleja zits zittur puẜs</div>
        <lb/>
@@ -5378,7 +5378,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Wainas dehļ wiņſch mirre.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_18:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_18:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Jo tee <corr>Ꞩapni</corr><sic>Ꞩapn i</sic>/ kas</div>
        <lb/>
@@ -5390,7 +5390,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij janeẜs.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_18:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_18:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Bet teem Taiẜneem arri</div>
        <lb/>
@@ -5402,7 +5402,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bet ta Duẜmiba ilgi ne palikke.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_18:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_18:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Jo tas ẜlawehts Wihrs</div>
        <lb/>
@@ -5424,7 +5424,7 @@
        <lb/>
        <div type="Parallel">w:21 4.Mohſ:Gr: 16,46.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/Sal_18:22.">
+      <div n="22." type="Verse" id="Apokr1689::Sal_18:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Jo wiņſch uswarreja ẜcho</div>
        <lb/>
@@ -5440,7 +5440,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Derribas teem Tehweem notikkuẜchas.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/Sal_18:23.">
+      <div n="23." type="Verse" id="Apokr1689::Sal_18:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. Jo kad jaw tee Miŗŗoņi</div>
        <lb/>
@@ -5452,7 +5452,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to Zeļļu us teem Dſihweem.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/Sal_18:24.">
+      <div n="24." type="Verse" id="Apokr1689::Sal_18:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. Jo wiņņa Preeſteŗa Apģehrbâ</div>
        <lb/>
@@ -5468,7 +5468,7 @@
        <lb/>
        <div type="Parallel">w:24. 2.Mohſ:Gr: 28,2.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/Sal_18:25.">
+      <div n="25." type="Verse" id="Apokr1689::Sal_18:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. Preekẜch tahdahm Leetahm</div>
        <lb/>
@@ -5483,14 +5483,14 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta XIX. Nodaļļa.</div></div>
-      <div n="0." type="Verse" id="Apokr1689/Sal_19:0.">
+      <div n="0." type="Verse" id="Apokr1689::Sal_19:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. To Egipteŗu Ꞩohdiba/ 1/ 4/ 12. Un to Jſraëliteŗu</div>
        <lb/>
         <div type="Language" lang="Latvian">Jspeſtiẜchana/ 5.</div>
        <div type="Language" lang="Latin">etc.</div>
       </div>
-      <div n="1." type="Verse" id="Apokr1689/Sal_19:1.">
+      <div n="1." type="Verse" id="Apokr1689::Sal_19:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. BEt pahr teem Besdeewigeem</div>
        <lb/>
@@ -5504,7 +5504,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Darbus/</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/Sal_19:2.">
+      <div n="2." type="Verse" id="Apokr1689::Sal_19:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Kad tee (tohs) bij palaiduẜchi</div>
        <lb/>
@@ -5514,7 +5514,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un teem pakkaļ dſihtohs.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/Sal_19:3.">
+      <div n="3." type="Verse" id="Apokr1689::Sal_19:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jo kad Schehloẜchana wehl</div>
        <lb/>
@@ -5532,7 +5532,7 @@
        <lb/>
        <div type="Parallel">w:3. 2.Mohſ:Gr: 14,5.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/Sal_19:4.">
+      <div n="4." type="Verse" id="Apokr1689::Sal_19:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Jo pee tahda Galla wilke</div>
        <lb/>
@@ -5546,7 +5546,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wehl atlikke.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/Sal_19:5.">
+      <div n="5." type="Verse" id="Apokr1689::Sal_19:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Un ka tawi Ļaudis weenu</div>
        <lb/>
@@ -5556,7 +5556,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atraſtu.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/Sal_19:6.">
+      <div n="6." type="Verse" id="Apokr1689::Sal_19:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Jo wiẜs Raddijums eekẜch</div>
        <lb/>
@@ -5570,7 +5570,7 @@
        <lb/>
         <div type="Language" lang="Latvian">paẜargati.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/Sal_19:7.">
+      <div n="7." type="Verse" id="Apokr1689::Sal_19:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Ta Padebbes apehnoja</div>
        <lb/>
@@ -5586,7 +5586,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſaļẜch Lauks.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/Sal_19:8.">
+      <div n="8." type="Verse" id="Apokr1689::Sal_19:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Zaur to ſtaigaja wiẜẜi Ļaudis/</div>
        <lb/>
@@ -5596,7 +5596,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Sihmes/</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/Sal_19:9.">
+      <div n="9." type="Verse" id="Apokr1689::Sal_19:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Jo tee gahje kà Sirgi Gannôs/</div>
        <lb/>
@@ -5606,7 +5606,7 @@
        <lb/>
         <div type="Language" lang="Latvian">isglahbis.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/Sal_19:10.">
+      <div n="10." type="Verse" id="Apokr1689::Sal_19:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Jo tee peeminneja wehl/</div>
        <lb/>
@@ -5622,7 +5622,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pa Pulkeem bij iswehmuẜi.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/Sal_19:11.">
+      <div n="11." type="Verse" id="Apokr1689::Sal_19:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Pehz redſeja tee arridſan</div>
        <lb/>
@@ -5634,7 +5634,7 @@
        <lb/>
        <div type="Parallel">w:11. 2.Mohſ:Gr: 16,13. 4.Mohſ:Gr: 11,12.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/Sal_19:12.">
+      <div n="12." type="Verse" id="Apokr1689::Sal_19:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Jo pehz wiņņu labba</div>
        <lb/>
@@ -5642,7 +5642,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Juhŗas.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/Sal_19:13.">
+      <div n="13." type="Verse" id="Apokr1689::Sal_19:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Jr pahr teem Grehzineekeem</div>
        <lb/>
@@ -5668,7 +5668,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darrijẜchi/ kalpoht.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/Sal_19:14.">
+      <div n="14." type="Verse" id="Apokr1689::Sal_19:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Un ne ween tas/ bet kahda</div>
        <lb/>
@@ -5678,7 +5678,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ꞩweẜchineekus ſkummigi peeņehmuẜchi.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/Sal_19:15.">
+      <div n="15." type="Verse" id="Apokr1689::Sal_19:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Atkaļ zitti/ jepẜchu tee</div>
        <lb/>
@@ -5690,7 +5690,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar gŗuhteem Darbeem apbehdinajẜchi.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/Sal_19:16.">
+      <div n="16." type="Verse" id="Apokr1689::Sal_19:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Tee tad arridſan tappe ar</div>
        <lb/>
@@ -5706,7 +5706,7 @@
        <lb/>
        <div type="Parallel">w:16. 2.Mohſ:Gr: 19,11.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/Sal_19:17.">
+      <div n="17." type="Verse" id="Apokr1689::Sal_19:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Jo tee pirmee Eeẜahkumi</div>
        <lb/>
@@ -5722,7 +5722,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mannams.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/Sal_19:18.">
+      <div n="18." type="Verse" id="Apokr1689::Sal_19:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Jo kas mehdſ Semmes</div>
        <lb/>
@@ -5732,7 +5732,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſtaigaja us Semmi.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/Sal_19:19.">
+      <div n="19." type="Verse" id="Apokr1689::Sal_19:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. Tas Ugguns bija Uhdenî</div>
        <lb/>
@@ -5744,7 +5744,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Spehka.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/Sal_19:20.">
+      <div n="20." type="Verse" id="Apokr1689::Sal_19:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. Turpretti tahs Lehẜmas</div>
        <lb/>
@@ -5758,7 +5758,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iskuẜẜe.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/Sal_19:21.">
+      <div n="21." type="Verse" id="Apokr1689::Sal_19:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Jo wiẜẜâs Leetâs/ Kungs/</div>
        <lb/>

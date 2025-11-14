@@ -1834,9 +1834,10 @@
         <div type="Language" lang="Latvian">Kungs mans kálps gullu maias/ vnd ir</div>
        <lb id="Elg1672_EvTA_36_5"/>
         <div type="Language" lang="Latvian">melmeneſergigs &amp;.</div>
-        <div type="Language" lang="Latvian">@<corr>l</corr>{ reliquum inueaies</div>
+       <div type="Language" lang="Latin">reliquum inueaies</div>
        <lb id="Elg1672_EvTA_36_6"/>
-        <div type="Language" lang="Latvian">in Dominica 3. poſt Epiphaniam.}</div>
+       <div type="Language" lang="Latin">in Dominica 3. poſt Epiphaniam</div>
+        <div type="Language" lang="Latvian">.</div>
       </div>
       <div type="Paragraph">
        <lb id="Elg1672_EvTA_36_7"/>
@@ -4255,8 +4256,6 @@
         <div type="Language" lang="Latvian">vzcelßu. Tad ſacciá te Jodi: Czetter-</div>
        <lb id="Elg1672_EvTA_82_24"/>
         <div type="Language" lang="Latvian">deſmittus vnd ſæß gaddus ir ßa Baznica</div>
-       <lb id="Elg1672_EvTA_82_25"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>buweta/</sic></div>
       </div>
       <pb n="83"/>
       <div type="Paragraph">
@@ -4623,8 +4622,6 @@
         <div type="Language" lang="Latvian">ſa/ bet ia kas Dewam kalpo/ vnd winia</div>
        <lb id="Elg1672_EvTA_89_25"/>
         <div type="Language" lang="Latvian">pratu darra/ to paklauſu winß. No paſ-</div>
-       <lb id="Elg1672_EvTA_89_26"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>ſaules</sic></div>
       </div>
       <pb n="90"/>
       <div type="Paragraph">
@@ -5044,8 +5041,6 @@
         <div type="Language" lang="Latvian">kungems: Kas ſtarpa iums war man</div>
        <lb id="Elg1672_EvTA_97_22"/>
         <div type="Language" lang="Latvian">par kâdu græku vzbildæt? Ja es iums</div>
-       <lb id="Elg1672_EvTA_97_23"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>ſakká</sic></div>
       </div>
       <pb n="98"/>
       <div type="Paragraph">
@@ -5398,10 +5393,6 @@
        <lb id="Elg1672_EvTA_104_18"/>
        <div type="Language" lang="Latin">Paſſionis.</div>
       </div>
-      <div type="Paragraph">
-       <lb id="Elg1672_EvTA_104_19"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>To</sic></div>
-      </div>
       <pb n="105"/>
       <div type="Paragraph">
        <lb id="Elg1672_EvTA_105_1"/>
@@ -5454,8 +5445,6 @@
         <div type="Language" lang="Latvian">tri yzbarſtiti bya/ ſaláſsitu. Vnd no</div>
        <lb id="Elg1672_EvTA_105_24"/>
         <div type="Language" lang="Latvian">tô dênu gádáiá tê to nokáuwt. Tápæc</div>
-       <lb id="Elg1672_EvTA_105_25"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>IE</sic></div>
       </div>
       <pb n="106"/>
       <div type="Paragraph">
@@ -8563,8 +8552,6 @@
         <div type="Language" lang="Latvian">tems JESVS/ vnd ſuniu winio næ-</div>
        <lb id="Elg1672_EvTA_164_21"/>
         <div type="Language" lang="Latvian">tycciba/ ka tê ne bya tycceiußi têms/ kat-</div>
-       <lb id="Elg1672_EvTA_164_22"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>tri</sic></div>
       </div>
       <pb n="165"/>
       <div type="Paragraph">
@@ -11510,59 +11497,56 @@
         <div type="Language" lang="Latvian">no debbeſſu zemme kápis ir/ tas cilweká</div>
        <lb id="Elg1672_EvTA_221_25"/>
         <div type="Language" lang="Latvian">dels/ katters debbeſsis ir. Vnd lydz ká</div>
-       <lb id="Elg1672_EvTA_221_26"/>
-        <div type="Language" lang="Latvian"><sic>Moyſes</sic></div>
       </div>
+      <pb n="222"/>
       <div type="Paragraph">
-       <lb id="Elg1672_EvTA_221_27"/>
-        <div type="Language" lang="Latvian">@b[222.lpp.]</div>
-       <lb id="Elg1672_EvTA_221_28"/>
+       <lb id="Elg1672_EvTA_222_1"/>
         <div type="Language" lang="Latvian">Moyſes ekßan tukßneſſes pacelis ir wê-</div>
-       <lb id="Elg1672_EvTA_221_29"/>
+       <lb id="Elg1672_EvTA_222_2"/>
         <div type="Language" lang="Latvian">nu czuſku: iten tá bûs tá cilweká delam</div>
-       <lb id="Elg1672_EvTA_221_30"/>
+       <lb id="Elg1672_EvTA_222_3"/>
         <div type="Language" lang="Latvian">tapt paceltu/ ká ikwens/ katters ekßan</div>
-       <lb id="Elg1672_EvTA_221_31"/>
+       <lb id="Elg1672_EvTA_222_4"/>
         <div type="Language" lang="Latvian">to tycce/ ne tôpá pazuſts/ bet to muz´i-</div>
-       <lb id="Elg1672_EvTA_221_32"/>
+       <lb id="Elg1672_EvTA_222_5"/>
         <div type="Language" lang="Latvian">gá dziwoßaná dabbu.</div>
       </div>
       <div type="Paragraph">
-       <lb id="Elg1672_EvTA_221_33"/>
+       <lb id="Elg1672_EvTA_222_6"/>
        <div type="Language" lang="Latin">In nativitata S. Joan-</div>
-       <lb id="Elg1672_EvTA_221_34"/>
+       <lb id="Elg1672_EvTA_222_7"/>
        <div type="Language" lang="Latin">nis Baptiſtæ.</div>
       </div>
       <div type="Paragraph">
-       <lb id="Elg1672_EvTA_221_35"/>
+       <lb id="Elg1672_EvTA_222_8"/>
         <div type="Language" lang="Latvian">To Swætu Ewangel: aprakſt</div>
-       <lb id="Elg1672_EvTA_221_36"/>
+       <lb id="Elg1672_EvTA_222_9"/>
         <div type="Language" lang="Latvian">S. Lukás pirma gabbola.</div>
       </div>
       <div type="Paragraph">
-       <lb id="Elg1672_EvTA_221_37"/>
+       <lb id="Elg1672_EvTA_222_10"/>
         <div type="Language" lang="Latvian">ELizábethas layks náca/ ka tay we-</div>
-       <lb id="Elg1672_EvTA_221_38"/>
+       <lb id="Elg1672_EvTA_222_11"/>
         <div type="Language" lang="Latvian">ſtes/ vnd tá weddes wènu delu/ vnd</div>
-       <lb id="Elg1672_EvTA_221_39"/>
+       <lb id="Elg1672_EvTA_222_12"/>
         <div type="Language" lang="Latvian">winiá kaiminie vnd Raddi to dzirdeiá/</div>
-       <lb id="Elg1672_EvTA_221_40"/>
+       <lb id="Elg1672_EvTA_222_13"/>
         <div type="Language" lang="Latvian">ká tas kungs lêlu z´eleſtibu pe tá byá dar-</div>
-       <lb id="Elg1672_EvTA_221_41"/>
+       <lb id="Elg1672_EvTA_222_14"/>
         <div type="Language" lang="Latvian">ryis/ prêcaias tê ár winiu. Vnd tas no-</div>
-       <lb id="Elg1672_EvTA_221_42"/>
+       <lb id="Elg1672_EvTA_222_15"/>
         <div type="Language" lang="Latvian">tikkas ſeuw áſtota dêná nâca tê to ber-</div>
-       <lb id="Elg1672_EvTA_221_43"/>
+       <lb id="Elg1672_EvTA_222_16"/>
         <div type="Language" lang="Latvian">nin ábgreſt/ vnd deweiá to pec ſauwá</div>
-       <lb id="Elg1672_EvTA_221_44"/>
+       <lb id="Elg1672_EvTA_222_17"/>
         <div type="Language" lang="Latvian">tewá wárdu Zacharias. Vnd winiá</div>
-       <lb id="Elg1672_EvTA_221_45"/>
+       <lb id="Elg1672_EvTA_222_18"/>
         <div type="Language" lang="Latvian">máte átbildeiá vnd ſacciá: Ne tá/ bet</div>
-       <lb id="Elg1672_EvTA_221_46"/>
+       <lb id="Elg1672_EvTA_222_19"/>
         <div type="Language" lang="Latvian">Joannes bûs winiá wárds bût. Vnd</div>
-       <lb id="Elg1672_EvTA_221_47"/>
+       <lb id="Elg1672_EvTA_222_20"/>
         <div type="Language" lang="Latvian">tê ſaccia vz winias: Ne ir dok tauwa</div>
-       <lb id="Elg1672_EvTA_221_48"/>
+       <lb id="Elg1672_EvTA_222_21"/>
         <div type="Language" lang="Latvian">raddá kam táds wárds ir. Vnd tê</div>
       </div>
       <pb n="223"/>
@@ -11966,55 +11950,52 @@
        <div type="Language" lang="Latin">In feſto Aſſumptio-</div>
        <lb id="Elg1672_EvTA_230_20"/>
        <div type="Language" lang="Latin">nis B.V. Mariæ.</div>
-       <lb id="Elg1672_EvTA_230_21"/>
-        <div type="Language" lang="Latvian"><sic>To</sic></div>
       </div>
+      <pb n="231"/>
       <div type="Paragraph">
-       <lb id="Elg1672_EvTA_230_22"/>
-        <div type="Language" lang="Latvian">@b[231.lpp.]</div>
-       <lb id="Elg1672_EvTA_230_23"/>
+       <lb id="Elg1672_EvTA_231_1"/>
         <div type="Language" lang="Latvian">To Swætu Ewangel: aprakſt</div>
-       <lb id="Elg1672_EvTA_230_24"/>
+       <lb id="Elg1672_EvTA_231_2"/>
         <div type="Language" lang="Latvian">S. Lukas deſmitta gab.</div>
       </div>
       <div type="Paragraph">
-       <lb id="Elg1672_EvTA_230_25"/>
+       <lb id="Elg1672_EvTA_231_3"/>
         <div type="Language" lang="Latvian">TO layku/ egaiá JESVS wena</div>
-       <lb id="Elg1672_EvTA_230_26"/>
+       <lb id="Elg1672_EvTA_231_4"/>
         <div type="Language" lang="Latvian">iælgawá/ vnd wená ſewá ár wâr-</div>
-       <lb id="Elg1672_EvTA_230_27"/>
+       <lb id="Elg1672_EvTA_231_5"/>
         <div type="Language" lang="Latvian">du Martha vziæme to ſauwa namma/</div>
-       <lb id="Elg1672_EvTA_230_28"/>
+       <lb id="Elg1672_EvTA_231_6"/>
         <div type="Language" lang="Latvian">vnd tay byá wêná maſa ár wârdu Ma-</div>
-       <lb id="Elg1672_EvTA_230_29"/>
+       <lb id="Elg1672_EvTA_231_7"/>
         <div type="Language" lang="Latvian">ria: ta ſædæiá pe tems kaiems JESV/</div>
-       <lb id="Elg1672_EvTA_230_30"/>
+       <lb id="Elg1672_EvTA_231_8"/>
         <div type="Language" lang="Latvian">vnd klauſiá winiá wârdus. Bet Mar-</div>
-       <lb id="Elg1672_EvTA_230_31"/>
+       <lb id="Elg1672_EvTA_231_9"/>
         <div type="Language" lang="Latvian">tha bædaias ápkart tykkußá kalpoßana/</div>
-       <lb id="Elg1672_EvTA_230_32"/>
+       <lb id="Elg1672_EvTA_231_10"/>
         <div type="Language" lang="Latvian">kattra ſtawæiá vnd ſacciá: Kungs ne</div>
-       <lb id="Elg1672_EvTA_230_33"/>
+       <lb id="Elg1672_EvTA_231_11"/>
         <div type="Language" lang="Latvian">ôla tu par to neneku/ ká manná máſa</div>
-       <lb id="Elg1672_EvTA_230_34"/>
+       <lb id="Elg1672_EvTA_231_12"/>
         <div type="Language" lang="Latvian">man yt wêni lêk dænet? ſakki tay ley ta</div>
-       <lb id="Elg1672_EvTA_230_35"/>
+       <lb id="Elg1672_EvTA_231_13"/>
         <div type="Language" lang="Latvian">man pallidzá. Bet JESVS átbil-</div>
-       <lb id="Elg1672_EvTA_230_36"/>
+       <lb id="Elg1672_EvTA_231_14"/>
         <div type="Language" lang="Latvian">dæiá vnd ſaccia: Marthá/ Marthá tu</div>
-       <lb id="Elg1672_EvTA_230_37"/>
+       <lb id="Elg1672_EvTA_231_15"/>
         <div type="Language" lang="Latvian">gadaias vnd bædaias par daudzems lê-</div>
-       <lb id="Elg1672_EvTA_230_38"/>
+       <lb id="Elg1672_EvTA_231_16"/>
         <div type="Language" lang="Latvian">tems: bet wena lêtá ir waiaga; Maria</div>
-       <lb id="Elg1672_EvTA_230_39"/>
+       <lb id="Elg1672_EvTA_231_17"/>
         <div type="Language" lang="Latvian">wyſſulabbaká letá yzlaſsiuſa/ kattrá no</div>
-       <lb id="Elg1672_EvTA_230_40"/>
+       <lb id="Elg1672_EvTA_231_18"/>
         <div type="Language" lang="Latvian">winias ne taps noiemta.</div>
       </div>
       <div type="Paragraph">
-       <lb id="Elg1672_EvTA_230_41"/>
+       <lb id="Elg1672_EvTA_231_19"/>
        <div type="Language" lang="Latin">In feſto S. Bartholo-</div>
-       <lb id="Elg1672_EvTA_230_42"/>
+       <lb id="Elg1672_EvTA_231_20"/>
        <div type="Language" lang="Latin">mæi Apoſtoli</div>
       </div>
       <pb n="232"/>

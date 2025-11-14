@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="VD1689_94/Dz">
+    <fileDesc id="VD1689_94::Dz">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Salamaņa Augsta Dseesma</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta I. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_1:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. TA Dſeeẜma pahr wiẜ-</div>
        <lb/>
@@ -29,7 +29,7 @@
        <lb/>
         <div type="Language" lang="Latvian">derr.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_1:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Lai wiņſch man-</div>
        <lb/>
@@ -41,7 +41,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Wihns.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_1:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_1:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Ka tawu ẜaldu Eļji ẜa=ohſt</div>
        <lb/>
@@ -51,7 +51,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tahs Meitahs.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_1:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_1:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Welz mann/ tad tezzeẜim</div>
        <lb/>
@@ -69,7 +69,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mihle tewi.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_1:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Es eẜmu melna/ bet mihli-</div>
        <lb/>
@@ -79,7 +79,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Salamaņa Gardines.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_1:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_1:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Ne usluhkojeet manni/ ka</div>
        <lb/>
@@ -99,7 +99,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mu es ẜargaiẜi.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_1:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Stahſti mann tu/ ko man-</div>
        <lb/>
@@ -113,7 +113,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gannameem Pulkeem.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_1:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_1:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Ja tu ẜewi ne paſihſtees tu</div>
        <lb/>
@@ -127,7 +127,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kļeem.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_1:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Es lihdſinaju tew manna</div>
        <lb/>
@@ -135,7 +135,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Waraüs Ratteem.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_1:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_1:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Tawi Waigi irr mihligi</div>
        <lb/>
@@ -143,7 +143,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lu Apkaklôs.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_1:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Mehs darriẜim tew Sel-</div>
        <lb/>
@@ -151,7 +151,7 @@
        <lb/>
         <div type="Language" lang="Latvian">buļeem.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dz_1:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dz_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Kamehr tas Ķehniņſch</div>
        <lb/>
@@ -161,7 +161,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜawu Ꞩmarẜchu.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dz_1:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dz_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Mans Draugs irr man</div>
        <lb/>
@@ -171,7 +171,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Nakti paleek.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dz_1:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dz_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Mans Draugs irr man</div>
        <lb/>
@@ -181,7 +181,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Enģeddi.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dz_1:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dz_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Redſi/ tu eẜẜi ſkaiſta man-</div>
        <lb/>
@@ -191,7 +191,7 @@
        <lb/>
         <div type="Language" lang="Latvian">loſchu Azzis:</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dz_1:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dz_1:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Redſi/ tu eẜẜi ſkaiſts mans</div>
        <lb/>
@@ -201,7 +201,7 @@
        <lb/>
        <div type="Parallel">w:16. Dahw:Dſ: 45,3.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dz_1:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dz_1:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Muhẜu Nammu Balķi irr</div>
        <lb/>
@@ -212,7 +212,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta II. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_2:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_2:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ES eẜmu weena Rohſe</div>
        <lb/>
@@ -220,7 +220,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jes=Puķķe Eeleijâs.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_2:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_2:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Jtt kà weena Liljes=Puķķe</div>
        <lb/>
@@ -228,7 +228,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Draudſene ſtarp tahm Meitahm.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_2:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_2:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jtt kà weena Ahbele ſtarp</div>
        <lb/>
@@ -242,7 +242,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mannam Schohdam ẜalds.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_2:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_2:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Wiņſch wedd manni Wih-</div>
        <lb/>
@@ -252,7 +252,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nim.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_2:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_2:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. * Atſpirdſinajeet mann ar</div>
        <lb/>
@@ -268,7 +268,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">Blaẜchķeem.</div></div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_2:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_2:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Wiņņa kreiẜa Rohka gull</div>
        <lb/>
@@ -278,7 +278,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mann.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_2:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_2:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Es luhdſu juhs tik mihļi</div>
        <lb/>
@@ -294,7 +294,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņai paẜchai patihk.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_2:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_2:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Ꞩchi irr ta Balẜs manna</div>
        <lb/>
@@ -304,7 +304,7 @@
        <lb/>
         <div type="Language" lang="Latvian">us teem Pakalneem.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_2:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_2:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Mans Draugs irr lihdſi</div>
        <lb/>
@@ -318,7 +318,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ņeem.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_2:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_2:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Mans Draugs atbild un</div>
        <lb/>
@@ -328,7 +328,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un nahz.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_2:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_2:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo raugi/ ta Seema irr</div>
        <lb/>
@@ -336,7 +336,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jaw nohſt/ wiņſch irr pahrgahjis.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dz_2:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dz_2:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Tahs Puķķes rahdahs</div>
        <lb/>
@@ -351,7 +351,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">* Pawaẜẜaras Laiks, kur Putni dſeed.</div></div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dz_2:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dz_2:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Tas Wihges=Kohks irr</div>
        <lb/>
@@ -365,7 +365,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Skaiſta/ nahz ẜchurp.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dz_2:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dz_2:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Mans Ballodis Akmiņu</div>
        <lb/>
@@ -379,7 +379,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ģihmis irr mihligs.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dz_2:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dz_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Ꞩaguhſtajt mums tahs</div>
        <lb/>
@@ -389,7 +389,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜu Wihna=Dahrſi irr plaukſtoẜchi.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dz_2:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dz_2:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Mans Draugs irr mans/</div>
        <lb/>
@@ -397,7 +397,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tahm Liljes=Puķķehm ganna.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dz_2:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dz_2:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Kamehr ta Deena dſeſtra</div>
        <lb/>
@@ -412,7 +412,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta III. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_3:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_3:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. EꞨ mekleju Naktî man-</div>
        <lb/>
@@ -422,7 +422,7 @@
        <lb/>
         <div type="Language" lang="Latvian">leju/ bet ne atraddu wiņņu.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_3:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_3:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Es zelẜchohs jelle aug-</div>
        <lb/>
@@ -436,7 +436,7 @@
        <lb/>
         <div type="Language" lang="Latvian">raddu wiņņu.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_3:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Mann atradde tee Ꞩargi/</div>
        <lb/>
@@ -446,7 +446,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Dwehẜele mihle.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_3:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_3:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Kad es maķķeniht no teem</div>
        <lb/>
@@ -464,7 +464,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dejẜi.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_3:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_3:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Es luhdſu juhs tik mihļi</div>
        <lb/>
@@ -480,7 +480,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņai paẜchai patihk.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_3:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_3:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Kuŗŗa irr ẜchi/ kas no</div>
        <lb/>
@@ -492,7 +492,7 @@
        <lb/>
         <div type="Language" lang="Latvian">weena Sahles Prezzineeka?</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_3:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_3:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Redſi/ ap Salamaņa</div>
        <lb/>
@@ -500,7 +500,7 @@
        <lb/>
         <div type="Language" lang="Latvian">apkahrt/ no Jſraëļa Stipreem.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_3:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_3:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Tee wiẜẜi turr Sohbiņus/</div>
        <lb/>
@@ -512,7 +512,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Naktî.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_3:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_3:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Tas Ķehniņſch Salamans</div>
        <lb/>
@@ -520,7 +520,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taiẜiht no Lihbanus Kohkeem.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_3:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_3:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Wiņņa Stabbus darrija</div>
        <lb/>
@@ -534,7 +534,7 @@
        <lb/>
         <div type="Language" lang="Latvian">prett Jeruſalemes Meitahm.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_3:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_3:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Eita ahra/ un usluhkojeet</div>
        <lb/>
@@ -551,7 +551,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta VI. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_4:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_4:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. RAugi/ tu eẜẜi ſkaiſta</div>
        <lb/>
@@ -569,7 +569,7 @@
        <lb/>
         <div type="Language" lang="Latvian">irr uhs to Kalnu Gilead.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_4:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_4:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Tawi Sohbi irr kà kahds</div>
        <lb/>
@@ -583,7 +583,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſtarp wiņņahm irr ne=augliga.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_4:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_4:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Tawas Luhpas irr kâ ẜar-</div>
        <lb/>
@@ -597,7 +597,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Biſehm.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_4:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_4:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Taws Kaklis irr kà tas</div>
        <lb/>
@@ -611,7 +611,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiẜẜadas Bruņņas to Stipro.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_4:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_4:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Tawas diwi Kruhtis irr</div>
        <lb/>
@@ -619,7 +619,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſtarp Liļjehm ganna.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_4:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_4:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Teekams ta Deena dſeſtra</div>
        <lb/>
@@ -629,7 +629,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un pee ta Wihraka=Pakalna.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_4:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_4:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Tu eẜẜi wiẜẜai ſkaiſta man-</div>
        <lb/>
@@ -637,7 +637,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kahdas Wainas irraid.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_4:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_4:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Nahz ar mann/ no ta Lih-</div>
        <lb/>
@@ -653,7 +653,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to Leopardeŗu Kalneem.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_4:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_4:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Tu eẜẜi man to Ꞩirdî at-</div>
        <lb/>
@@ -667,7 +667,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no tawa Kakla.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_4:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_4:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Zik ſkaiſtas irr tawas</div>
        <lb/>
@@ -681,7 +681,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nekà wiẜẜas Kwehpja=Sahles.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_4:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_4:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Tawas Luhpas/ ak Bruh-</div>
        <lb/>
@@ -695,7 +695,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no Lihbanus.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dz_4:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dz_4:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Manna Mahẜa/ mihļa</div>
        <lb/>
@@ -705,7 +705,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wots/ weena aisſehģeleta Akka.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dz_4:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dz_4:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Tawi Eedehſti irr kà jauks</div>
        <lb/>
@@ -715,7 +715,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar Nardeem.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dz_4:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dz_4:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Nardus un Sawrans/</div>
        <lb/>
@@ -727,7 +727,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dahm labbakahm Sahlehm.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dz_4:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dz_4:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Jtt kà weena Dahrſu</div>
        <lb/>
@@ -735,7 +735,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Uhdeni/ kas no Lihbanus tekk.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dz_4:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dz_4:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Zellees Seemeli/ un nah-</div>
        <lb/>
@@ -748,7 +748,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta V. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_5:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_5:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. KAut mans Draugs ẜa-</div>
        <lb/>
@@ -776,7 +776,7 @@
        <lb/>
        <div type="Parallel">w:1. Ꞩak:Sal: 9,5. Eſa: 55,1,2.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_5:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_5:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Es gullu/ bet manna</div>
        <lb/>
@@ -798,7 +798,7 @@
        <lb/>
        <div type="Parallel">w:2. Par:Jahn: 3,20.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_5:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_5:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Es eẜmu ẜawus Ꞩwahr-</div>
        <lb/>
@@ -810,7 +810,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tahs atkaļ ẜagahniht?</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_5:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_5:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Mans Draugs ſteepe ẜa-</div>
        <lb/>
@@ -818,7 +818,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mannas Eekẜchas trihẜeja par to.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_5:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_5:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Es zehlohs augẜcham man-</div>
        <lb/>
@@ -832,7 +832,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Kliņķeem.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_5:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_5:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Es atdarrriju ẜawam Drau-</div>
        <lb/>
@@ -850,7 +850,7 @@
        <lb/>
         <div type="Language" lang="Latvian">man ne atbildeja.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_5:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_5:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Manni atradde tee Ꞩar-</div>
        <lb/>
@@ -864,7 +864,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mannim.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_5:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_5:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Es peekohdinaju juhs Mei-</div>
        <lb/>
@@ -876,7 +876,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no Mihleſtibas eẜmu apẜirguẜi.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_5:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_5:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Kas irr taws Draugs wai-</div>
        <lb/>
@@ -890,7 +890,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tà eẜẜi peekohdinajẜi?</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_5:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_5:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Mans Draugs irr balts</div>
        <lb/>
@@ -898,7 +898,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nohts pahr daudſ Tuhkſtoẜcheem.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_5:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_5:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Wiņņa Galwa irr tas</div>
        <lb/>
@@ -908,7 +908,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Krauklis.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dz_5:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dz_5:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Wiņņa Azzis irr kà Bal-</div>
        <lb/>
@@ -921,7 +921,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">* Tas irr, kas ne irr dſiļļi eekrittuẜchas</div></div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dz_5:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dz_5:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Wiņņa Waigi irr kà</div>
        <lb/>
@@ -935,7 +935,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pill.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dz_5:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dz_5:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Wiņņa Rohkas irr kà</div>
        <lb/>
@@ -947,7 +947,7 @@
        <lb/>
         <div type="Language" lang="Latvian">reem pahrwilkta.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dz_5:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dz_5:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Wiņņa Kahjas irr kà</div>
        <lb/>
@@ -961,7 +961,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tee Zeedri.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dz_5:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dz_5:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. Wiņņa Schohds irr</div>
        <lb/>
@@ -978,7 +978,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta VI. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_6:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_6:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. KUrp irr taws Draugs</div>
        <lb/>
@@ -992,7 +992,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ņu ar tewim meklejam?</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_6:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_6:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Mans Draugs irr nogah-</div>
        <lb/>
@@ -1004,7 +1004,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nahs/ un Liljes laẜẜa.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_6:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_6:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Es eẜmu manna Drau-</div>
        <lb/>
@@ -1012,7 +1012,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas ſtarp tahm Liljehm ganna.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_6:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_6:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Tu eẜẜi ſkaiſta manna</div>
        <lb/>
@@ -1024,7 +1024,7 @@
        <lb/>
         <div type="Language" lang="Latvian">geem.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_6:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_6:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Nogreeſ tawas Azzis no</div>
        <lb/>
@@ -1036,7 +1036,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Kalnu Gilead irr zirptas.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_6:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_6:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Tawi Sobbi irr kà kahds</div>
        <lb/>
@@ -1050,7 +1050,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ņahm irr ne=augliga.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_6:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_6:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Tawi Waigi irr kà tee</div>
        <lb/>
@@ -1058,7 +1058,7 @@
        <lb/>
         <div type="Language" lang="Latvian">la/ ſtarp tawahm Biſehm.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_6:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_6:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Ꞩeẜchdeẜmits irr Ķehni-</div>
        <lb/>
@@ -1068,7 +1068,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Pulks ne irr isſkaitams.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_6:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_6:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Bet weena weeniga irr</div>
        <lb/>
@@ -1088,7 +1088,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņu.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_6:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_6:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Kas ta tahda irr? kas</div>
        <lb/>
@@ -1100,7 +1100,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ŗa=Spehki) ar Karrogeem?</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_6:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_6:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Es eẜmu nogahjis Reek-</div>
        <lb/>
@@ -1114,7 +1114,7 @@
        <lb/>
         <div type="Language" lang="Latvian">plaukſt.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dz_6:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dz_6:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Pirms es to juttu/ irr</div>
        <lb/>
@@ -1124,7 +1124,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ļaudim.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dz_6:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dz_6:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Atgreeſees! atgreeſees ak</div>
        <lb/>
@@ -1143,7 +1143,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta VII. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_7:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_7:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. Kà ſkaiſti irr tawi Ꞩohļi</div>
        <lb/>
@@ -1157,7 +1157,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Meiſteŗa Rohka irr darrijẜi.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_7:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_7:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Tawa Nabba irr ka ap-</div>
        <lb/>
@@ -1169,7 +1169,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taiẜita ar Liljehm.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_7:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_7:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Tawas diwi Kruhtis irr</div>
        <lb/>
@@ -1177,7 +1177,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nas.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_7:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_7:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Taws Kaklis irr kà weens</div>
        <lb/>
@@ -1193,7 +1193,7 @@
        <lb/>
         <div type="Language" lang="Latvian">prett Damaſku ſteepjahs.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_7:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_7:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Tawa Galwa irr us tewi</div>
        <lb/>
@@ -1220,7 +1220,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">patt kà peeẜeets:</div></div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_7:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_7:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Zik ſkaiſta eẜẜi tu/ un zik</div>
        <lb/>
@@ -1230,7 +1230,7 @@
        <lb/>
         <div type="Language" lang="Latvian">meem.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_7:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_7:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Ꞩchis taws Gaŗŗums irr</div>
        <lb/>
@@ -1240,7 +1240,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Ķekkaŗeem.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_7:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_7:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Es ẜazziju: Es kahpẜchu</div>
        <lb/>
@@ -1256,7 +1256,7 @@
        <lb/>
         <div type="Language" lang="Latvian">boļi.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_7:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_7:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Un taws Schohds kà labs</div>
        <lb/>
@@ -1266,7 +1266,7 @@
        <lb/>
         <div type="Language" lang="Latvian">migguẜcho Luhpas runnajam.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_7:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_7:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Es peederr mannam</div>
        <lb/>
@@ -1274,7 +1274,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ņam neẜẜas uhs manni.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_7:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_7:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Nahz mans Draugs/ ei-</div>
        <lb/>
@@ -1282,7 +1282,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Zeemôs.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dz_7:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dz_7:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Zelẜimees agri us teem</div>
        <lb/>
@@ -1298,7 +1298,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Kruhtis.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dz_7:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dz_7:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Tee Dudȧim dohd Ꞩmar-</div>
        <lb/>
@@ -1317,7 +1317,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta VIII. Nodaļļa.</div></div>
-      <div n="1." type="Verse" id="VD1689_94/Dz_8:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dz_8:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. KAs dohs tewi man kà</div>
        <lb/>
@@ -1331,7 +1331,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nizzinatu.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dz_8:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dz_8:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Es gribbetu tewi waddiht/</div>
        <lb/>
@@ -1347,7 +1347,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Wihnu dſert.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dz_8:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dz_8:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Wiņņa kreiẜa Rohka gull</div>
        <lb/>
@@ -1357,7 +1357,7 @@
        <lb/>
         <div type="Language" lang="Latvian">manni.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dz_8:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dz_8:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Es luhdſu juhs tik mihļi/</div>
        <lb/>
@@ -1369,7 +1369,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mehr tas wiņņai paẜchai patihk.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dz_8:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dz_8:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Kas ta tahda irr/ kas us-</div>
        <lb/>
@@ -1387,7 +1387,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜchas/ kas tewi irr dſemdejẜi.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dz_8:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dz_8:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Leez manni kà weenu Seh-</div>
        <lb/>
@@ -1405,7 +1405,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Leeẜma.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dz_8:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dz_8:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Daudſ Uhdens ne warr to</div>
        <lb/>
@@ -1421,7 +1421,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nizzinahts.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dz_8:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dz_8:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Mums irr weena maſa</div>
        <lb/>
@@ -1439,7 +1439,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">runnahts taps.</div></div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dz_8:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dz_8:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Ja wiņņa Muhris irr/</div>
        <lb/>
@@ -1451,7 +1451,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mehs to ar Zeedru Galdeem.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dz_8:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dz_8:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Es eẜmu weens Muhris/</div>
        <lb/>
@@ -1461,7 +1461,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kà weena/ kas Meeru atrohd.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dz_8:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dz_8:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Salamaņam bija Wih-</div>
        <lb/>
@@ -1477,7 +1477,7 @@
        <lb/>
         <div type="Language" lang="Latvian">Gabbalus.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dz_8:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dz_8:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Mans Wihna=Dahrſ/</div>
        <lb/>
@@ -1493,7 +1493,7 @@
        <lb/>
         <div type="Language" lang="Latvian">wiņņa Augļu.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dz_8:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dz_8:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Tu/ kas tu Dahrſôs</div>
        <lb/>
@@ -1503,7 +1503,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dſirdeht.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dz_8:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dz_8:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Steidſees mans Draugs/</div>
        <lb/>
