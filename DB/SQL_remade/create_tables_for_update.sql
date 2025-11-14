@@ -35,11 +35,13 @@ CREATE TABLE books (
   pub_century tinyint unsigned NOT NULL COMMENT 'Avota gadsimts',
   index_type enum('GNP', 'GLR', 'LR', 'P') COMMENT 'Avota indeksēšanas tips (norāde, kas ir mazākā adresējamā vienība avotā), tukšs kolekcijām',
   manuscript boolean COMMENT 'Vai šis avots ir manuskripts?',
-  order_in_collection tinyint unsigned DEFAULT 0 COMMENT 'Avota kārtas numurs kolekcijā, ja avots ir kolekcijas daļa.',
+  order_in_collection decimal unsigned DEFAULT 0 COMMENT 'Avota kārtas numurs kolekcijā, ja avots ir kolekcijas daļa.',
   
   PRIMARY KEY (id),
   UNIQUE (full_source),
-  INDEX (full_source)
+  INDEX (full_source),
+  INDEX (collection_code),
+  InDEX (item_code)
 ) COMMENT 'Avota metadati';
 
 CREATE TABLE books_genres (
@@ -78,5 +80,7 @@ CREATE TABLE contexts (
   FOREIGN KEY (source) REFERENCES books(full_source),
   INDEX (source),
   INDEX (adress),
-  INDEX (page)
+  INDEX (page),
+  INDEX (page_sort_order),
+  INDEX (line_sort_order)
 ) COMMENT 'Avotu tekstuālais saturs, sadalīts rindās';
