@@ -21,9 +21,15 @@ data class Book(
     val manuscript: Boolean?,
     val orderInCollection: Int?,
 ) {
+    val isCollection: Boolean
+        get() = collectionCode != null && itemCode == null
+
     val isCollectionItem: Boolean
         get() = collectionCode != null && itemCode != null
 
     val displayCode: String?
         get() = itemCode ?: collectionCode
+
+    val displayTitle: String
+        get() = "$name ($displayCode)"
 }

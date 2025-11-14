@@ -11,7 +11,7 @@ import java.util.*
 class IndexController(
     private val bookRepo: BookRepository,
 ) {
-    @GetMapping("", "/", "/index")
+    @GetMapping("", "/", "/index", "/books")
     fun listBooks(): String = "index"
 
     @ModelAttribute("booksByCentury")
