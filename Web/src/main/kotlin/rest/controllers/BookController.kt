@@ -1,21 +1,22 @@
 package lv.ailab.senie.rest.controllers
 
 import lv.ailab.senie.db.repositories.BookRepository
-import lv.ailab.senie.rest.controllers.CommonFailures.bookNotFound
+import lv.ailab.senie.db.repositories.PageRepository
+import lv.ailab.senie.rest.CommonFailures
+import lv.ailab.senie.rest.CommonFailures.bookNotFound
 import lv.ailab.senie.utils.urlEncode
 import org.slf4j.LoggerFactory
-import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
 import org.springframework.web.bind.annotation.RequestParam
-import org.springframework.web.bind.annotation.ResponseStatus
 import org.springframework.web.servlet.view.RedirectView
 
 @Controller
 class BookController(
     private val bookRepo: BookRepository,
+    private val pageRepo: PageRepository,
 ) {
     private val logger = LoggerFactory.getLogger(javaClass)
 
@@ -35,19 +36,40 @@ class BookController(
     @GetMapping("/books/{code}")
     fun bookPage(
         @PathVariable("code") source: String,
-        @RequestParam("page") page: String?,
+        @RequestParam("page") pageParam: String?,
         model: Model,
     ): String {
+        // Book / collection
         val book = bookRepo.findByFullSource(source) ?: throw bookNotFound(source)
         val collection = book.collectionCode?.let(bookRepo::findCollection)
-        val books =
-            if (collection != null)
-                bookRepo.findAllInCollection(book.collectionCode).sortedBy { it.orderInCollection }
-            else listOf(book)
         model.addAttribute("pageTitle", collection?.displayTitle ?: book.displayTitle)
-        model.addAttribute("collection", collection)
-        model.addAttribute("books", books)
-        model.addAttribute("currentBookSource", book.fullSource)
+        if (collection != null) {
+            model.addAttribute("collection", collection)
+            model.addAttribute(
+                "books",
+                bookRepo.findAllInCollection(book.collectionCode).sortedBy { it.orderInCollection },
+            )
+        }
+        model.addAttribute("currentBook", book)
+
+        // Paged / unpaged
+        val pages = pageRepo.findAllPagesInBook(book.fullSource).map { page ->
+            if (page.order == 0)
+                page.name = "0"
+            page
+        }.sortedBy { it.order }
+        val hasPages = pages.any { it.order > 1 }
+        if (hasPages) {
+            val displayPage = pageParam?.let { pageName ->
+                pages.firstOrNull { page -> page.name == pageName }
+                    ?: throw CommonFailures.pageNotFound(pageName, book.fullSource)
+            } ?: pages.first()
+            model.addAttribute("displayPages", listOf(displayPage))
+            model.addAttribute("pages", pages)
+            model.addAttribute("currentPage", displayPage)
+        } else {
+            model.addAttribute("displayPages", pages)
+        }
         return "book"
     }
 

@@ -4,6 +4,7 @@
   <section>
     <h1 th:text="${pageTitle}">Grāmata (Ab1234_CD)</h1>
     <div>
+      <!-- List of books (only for collections) -->
       <nav id="bookList" th:if="${collection} != null">
         <form action="/goto">
           <label for="bookSelector">Rakstu darbs:</label>
@@ -12,12 +13,30 @@
               th:each="book : ${books}"
               th:value="${book.fullSource}"
               th:text="${book.displayTitle}"
-              th:selected="${book.fullSource} == ${currentBookSource}"
+              th:selected="${book.fullSource} == ${currentBook.fullSource}"
             ></option>
           </select>
           <button type="submit">Atvērt</button>
         </form>
       </nav>
+
+      <!-- List of pages -->
+      <nav id="pageList" th:if="${pages} != null">
+        <form action="/goto">
+          <input type="hidden" name="source" th:value="${currentBook.fullSource}" />
+          <label for="pageSelector">Lappuse:</label>
+          <select id="pageSelector" name="page">
+            <option
+              th:each="page : ${pages}"
+              th:value="${page.name}"
+              th:text="${page.displayName}"
+              th:selected="${page.name} == ${currentPage.name}"
+            ></option>
+          </select>
+          <button type="submit">Atvērt</button>
+        </form>
+      </nav>
+
     </div>
   </section>
 </main>
