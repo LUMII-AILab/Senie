@@ -77,9 +77,6 @@ STRUCTURE doc {
 	ATTRIBUTE manuscript {
 		LABEL "Manuskripts"
 	}
-	ATTRIBUTE external {
-		LABEL "Saite"
-	}
 	ATTRIBUTE wordcount {
 		LABEL "Tekstvienības"
 	}
@@ -105,6 +102,11 @@ STRUCTURE para {
 	ATTRIBUTE address {
 		LABEL "Panta adrese"
 	}
+	ATTRIBUTE url { 
+		LABEL "Panta saite"
+        URLTEMPLATE "https://senie.korpuss.lv/goto?address=%s"
+        MEDIATYPE "unknown" 
+    }
 }
 STRUCTURE line {
 	LABEL "Rinda"
@@ -119,6 +121,11 @@ STRUCTURE line {
 	ATTRIBUTE no {
 		LABEL "Rindas numurs"
 	}
+	ATTRIBUTE url { 
+		LABEL "Rindas saite"
+        URLTEMPLATE "https://senie.korpuss.lv/goto?address=%s"
+        MEDIATYPE "unknown" 
+    }
 }
 STRUCTURE language {
 	LABEL "Valoda"

@@ -37,7 +37,8 @@ sub printVertDocHead
     &printInVerts(" subgenre=\"$subgenre\"", $outs) if ($subgenre);
     my $manuscript = $externalProperties->{'manuscript'} ? 'Jā' : 'Nē';
     &printInVerts(" manuscript=\"$manuscript\"", $outs);
-    &printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outs);
+    #&printInVerts(" external=\"http://senie.korpuss.lv/source.jsp?codificator=$urlPart\"", $outs);
+    #&printInVerts(" url=\"$fullSourceStub\"", $outs);
     &printInVerts(">\n", $outs);
 }
 
@@ -92,7 +93,7 @@ sub startVertVerse
 
     my $paraType = "Section";
     $paraType = "Verse" if ($indexType eq 'GNP');
-    printInVerts("<para no=\"$verseNo\" type=\"$paraType\" address=\"${address}\">\n", $outs);
+    printInVerts("<para no=\"$verseNo\" type=\"$paraType\" address=\"$address\" url=\"$address\">\n", $outs);
 }
 
 sub endVertParagraphVerse
@@ -110,7 +111,7 @@ sub startVertLine
     my $indexType = shift @_;
 
     printInVerts("<line author=\"$currentAuthor\"", $outs);
-    printInVerts(" no=\"$lineNo\" address=\"$address\"", $outs)
+    printInVerts(" no=\"$lineNo\" address=\"$address\" url=\"$address\"", $outs)
         if ($indexType eq 'LR' or $indexType eq 'GLR');
     printInVerts(">\n", $outs);
 }
