@@ -11,7 +11,7 @@ use parent qw(Exporter);
 our @EXPORT_OK = qw($DO_SQL submitForPrintInSql emptySqlPrintingBuffer);
 
 our $DO_SQL= 0;
-our $SQL_CONTEXT_TABLE = 'contexts';
+our $SQL_CONTEXT_TABLE = 'content';
 my @insertBuffer = ();
 
 sub submitForPrintInSql
@@ -36,7 +36,7 @@ sub submitForPrintInSql
     my $sqlHtml = &_transformToSqlString($dataHtml, 1);
     my $sqlPlain = &_transformToSqlString($dataPlain, 1);
     push (@insertBuffer, "($sqlFullSource, $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain)");
-    #my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE (source, adress, page, page_sort_order, line_sort_order, data_html, data_plain)\n";
+    #my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE (source, address, page, page_sort_order, line_sort_order, data_html, data_plain)\n";
     #$insertContext = "$insertContext  VALUES ('$full_source', $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain);\n";
     #printInAllStreams($insertContext, $outs->{'sql'}, $outs->{'total sql'});
     if ($author and $addAuthor)
@@ -57,7 +57,7 @@ sub emptySqlPrintingBuffer
     my $outs = shift @_;
     my $joinedValues = join (",\n", (map { "    $_" } @insertBuffer));
     my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE\n";
-    $insertContext = "$insertContext    (source, adress, page, page_sort_order, line_sort_order, data_html, data_plain)\n";
+    $insertContext = "$insertContext    (source, address, page, page_sort_order, line_sort_order, data_html, data_plain)\n";
     $insertContext = "$insertContext  VALUES\n$joinedValues;\n";
     # ('$full_source', $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain);\n";
     printInAllStreams($insertContext, $outs->{'sql'}, $outs->{'total sql'});
