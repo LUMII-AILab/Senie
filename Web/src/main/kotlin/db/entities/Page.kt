@@ -5,10 +5,10 @@ import jakarta.persistence.Id
 import jakarta.persistence.Table
 
 /**
- * A partial/pseudo entity to use when extracting only the page data from the contexts table.
+ * A partial/pseudo entity to use when extracting only the page data from the content table.
  */
 @Entity
-@Table(name = "contexts")
+@Table(name = "content")
 data class Page(
     // Not really an ID, obviously, but entities need a property marked as one,
     // and as long as we are only doing SELECT DISTINCT, it shouldn't matter that it's not actually unique.

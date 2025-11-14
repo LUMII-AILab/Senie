@@ -5,8 +5,8 @@ import jakarta.persistence.Id
 import jakarta.persistence.Table
 
 @Entity
-@Table(name = "contexts")
-data class Context(
+@Table(name = "content")
+data class Content(
     @Id val id: Int,
     val source: String,
     val address: String?,

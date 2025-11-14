@@ -1,7 +1,7 @@
 package lv.ailab.senie.rest.controllers
 
 import lv.ailab.senie.db.repositories.BookRepository
-import lv.ailab.senie.db.repositories.ContextRepository
+import lv.ailab.senie.db.repositories.ContentRepository
 import lv.ailab.senie.db.repositories.PageRepository
 import lv.ailab.senie.rest.CommonFailures
 import lv.ailab.senie.rest.CommonFailures.bookNotFound
@@ -17,7 +17,7 @@ import org.springframework.web.servlet.view.RedirectView
 @Controller
 class BookController(
     private val bookRepo: BookRepository,
-    private val contextRepo: ContextRepository,
+    private val contentRepo: ContentRepository,
     private val pageRepo: PageRepository,
 ) {
     private val logger = LoggerFactory.getLogger(javaClass)
@@ -74,7 +74,7 @@ class BookController(
         val displayPages =
             if (hasPages) listOf(currentPage.order)
             else (0..1).toList()
-        val lines = contextRepo.findAllBySourceAndPageSortOrderIn(book.fullSource, displayPages)
+        val lines = contentRepo.findAllBySourceAndPageSortOrderIn(book.fullSource, displayPages)
 
         model.addAttribute("lines", lines)
 

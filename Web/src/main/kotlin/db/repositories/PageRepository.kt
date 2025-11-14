@@ -13,7 +13,7 @@ interface PageRepository : CrudRepository<Page, Int> {
             SELECT DISTINCT
                    `page_sort_order` AS `order`,
                    `page` AS `name` 
-              FROM `contexts`
+              FROM `content`
              WHERE `source` = :source
         """
     }
