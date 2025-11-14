@@ -1,24 +1,51 @@
 package lv.ailab.senie.rest.controllers
 
 import lv.ailab.senie.db.repositories.BookRepository
+import lv.ailab.senie.utils.urlEncode
+import org.slf4j.LoggerFactory
 import org.springframework.http.HttpStatus
 import org.springframework.stereotype.Controller
 import org.springframework.ui.Model
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable
+import org.springframework.web.bind.annotation.RequestParam
 import org.springframework.web.bind.annotation.ResponseStatus
+import org.springframework.web.servlet.view.RedirectView
 
 @Controller
 class BookController(
     private val bookRepo: BookRepository,
 ) {
+    private val logger = LoggerFactory.getLogger(javaClass)
+
+    /**
+     * Redirects to the first book in the collection.
+     */
+    @GetMapping("/collections/{code}")
+    fun collection(@PathVariable("code") code: String): RedirectView {
+        // Getting the first book only could be one in SQL/JPQL, but collections are small and this is simpler
+        val book = bookRepo.findAllInCollection(code).sortedBy { it.orderInCollection }.first()
+        return RedirectView("/books/${book.fullSource.urlEncode()}")
+    }
+
+    /**
+     * Renders the main book view.
+     */
     @GetMapping("/books/{code}")
-    fun bookMenu(
-        @PathVariable("code") code: String,
+    fun bookPage(
+        @PathVariable("code") source: String,
+        @RequestParam("page") page: String?,
         model: Model,
     ): String {
-        val book = bookRepo.findByItemCode(code) ?: throw BookNotFound(code)
-        model.addAttribute("book", book)
+        val book = bookRepo.findByFullSource(source) ?: throw BookNotFound(source)
+        val collection = book.collectionCode?.let(bookRepo::findCollection)
+        val books =
+            if (collection != null)
+                bookRepo.findAllInCollection(book.collectionCode).sortedBy { it.orderInCollection }
+            else listOf(book)
+        model.addAttribute("pageTitle", collection?.displayTitle ?: book.displayTitle)
+        model.addAttribute("collection", collection)
+        model.addAttribute("books", books)
         return "book"
     }
 

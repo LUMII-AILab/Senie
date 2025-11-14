@@ -3,6 +3,7 @@ package lv.ailab.senie.db.entities
 import jakarta.persistence.Entity
 import jakarta.persistence.Id
 import jakarta.persistence.Table
+import lv.ailab.senie.utils.urlEncode
 import java.net.URLEncoder
 import java.time.Year
 
@@ -28,9 +29,7 @@ data class Book(
         get() = collectionCode != null && itemCode != null
 
     val urlPath: String
-        get() = "/${if (isCollection) "collections" else "books"}/" + displayCode.let {
-            URLEncoder.encode(it, Charsets.UTF_8)
-        }
+        get() = "/${if (isCollection) "collections" else "books"}/" + fullSource.urlEncode()
 
     val displayCode: String
         get() = itemCode ?: collectionCode ?: throw Exception(

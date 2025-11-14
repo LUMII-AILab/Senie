@@ -23,7 +23,7 @@ section {
     background-color: #CCFF99;
     margin-left: 7.5%;
 
-    & > div, & > table {
+    & > div, & > table, & > nav {
         padding: 0.8rem;
     }
 

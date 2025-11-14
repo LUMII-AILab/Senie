@@ -2,7 +2,19 @@
 <html xmlns:th="http://www.thymeleaf.org" th:replace="~{layout :: page(~{::main})}">
 <main>
   <section>
-    <h1 th:text="${book.displayTitle}">Grāmata (Ab1234_CD)</h1>
+    <h1 th:text="${pageTitle}">Grāmata (Ab1234_CD)</h1>
+    <div>
+      <nav id="bookList" th:if="${collection} != null">
+        <form action="/goto">
+          <label for="bookSelector">Rakstu darbs:</label>
+          <select id="bookSelector" name="source">
+            <option th:each="book : ${books}" th:value="${book.fullSource}" th:text="${book.displayTitle}">
+            </option>
+          </select>
+          <button type="submit">Atvērt</button>
+        </form>
+      </nav>
+    </div>
   </section>
 </main>
 </html>
