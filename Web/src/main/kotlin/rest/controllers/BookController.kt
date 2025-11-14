@@ -1,6 +1,7 @@
 package lv.ailab.senie.rest.controllers
 
 import lv.ailab.senie.db.repositories.BookRepository
+import lv.ailab.senie.db.repositories.ContextRepository
 import lv.ailab.senie.db.repositories.PageRepository
 import lv.ailab.senie.rest.CommonFailures
 import lv.ailab.senie.rest.CommonFailures.bookNotFound
@@ -16,6 +17,7 @@ import org.springframework.web.servlet.view.RedirectView
 @Controller
 class BookController(
     private val bookRepo: BookRepository,
+    private val contextRepo: ContextRepository,
     private val pageRepo: PageRepository,
 ) {
     private val logger = LoggerFactory.getLogger(javaClass)
@@ -52,24 +54,30 @@ class BookController(
         }
         model.addAttribute("currentBook", book)
 
-        // Paged / unpaged
+        // Pages
         val pages = pageRepo.findAllPagesInBook(book.fullSource).map { page ->
             if (page.order == 0)
                 page.name = "0"
             page
         }.sortedBy { it.order }
         val hasPages = pages.any { it.order > 1 }
+        val currentPage = pageParam?.let { pageName ->
+            pages.firstOrNull { page -> page.name == pageName }
+                ?: throw CommonFailures.pageNotFound(pageName, book.fullSource)
+        } ?: pages.first()
         if (hasPages) {
-            val displayPage = pageParam?.let { pageName ->
-                pages.firstOrNull { page -> page.name == pageName }
-                    ?: throw CommonFailures.pageNotFound(pageName, book.fullSource)
-            } ?: pages.first()
-            model.addAttribute("displayPages", listOf(displayPage))
             model.addAttribute("pages", pages)
-            model.addAttribute("currentPage", displayPage)
-        } else {
-            model.addAttribute("displayPages", pages)
+            model.addAttribute("currentPage", currentPage)
         }
+
+        // Content
+        val displayPages =
+            if (hasPages) listOf(currentPage.order)
+            else (0..1).toList()
+        val lines = contextRepo.findAllBySourceAndPageSortOrderIn(book.fullSource, displayPages)
+
+        model.addAttribute("lines", lines)
+
         return "book"
     }
 

@@ -23,7 +23,7 @@
       <!-- List of pages -->
       <nav id="pageList" th:if="${pages} != null">
         <form action="/goto">
-          <input type="hidden" name="source" th:value="${currentBook.fullSource}" />
+          <input type="hidden" name="source" th:value="${currentBook.fullSource}"/>
           <label for="pageSelector">Lappuse:</label>
           <select id="pageSelector" name="page">
             <option
@@ -36,6 +36,16 @@
           <button type="submit">Atvērt</button>
         </form>
       </nav>
+
+      <!-- Page content -->
+      <div id="pageContent">
+        <table>
+          <tr th:each="line : ${lines}">
+            <td th:text="${line.address}">Ab1234_BC_--_1</td>
+            <td>[(${line.dataHtml})]</td>
+          </tr>
+        </table>
+      </div>
 
     </div>
   </section>
