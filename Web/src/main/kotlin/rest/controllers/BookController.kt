@@ -1,6 +1,7 @@
 package lv.ailab.senie.rest.controllers
 
 import lv.ailab.senie.db.repositories.BookRepository
+import lv.ailab.senie.rest.controllers.CommonFailures.bookNotFound
 import lv.ailab.senie.utils.urlEncode
 import org.slf4j.LoggerFactory
 import org.springframework.http.HttpStatus
@@ -37,7 +38,7 @@ class BookController(
         @RequestParam("page") page: String?,
         model: Model,
     ): String {
-        val book = bookRepo.findByFullSource(source) ?: throw BookNotFound(source)
+        val book = bookRepo.findByFullSource(source) ?: throw bookNotFound(source)
         val collection = book.collectionCode?.let(bookRepo::findCollection)
         val books =
             if (collection != null)
@@ -48,8 +49,5 @@ class BookController(
         model.addAttribute("books", books)
         return "book"
     }
-
-    @ResponseStatus(HttpStatus.NOT_FOUND)
-    class BookNotFound(code: String) : Exception("Sistēmā nav rakstu darba ar kodu [$code].")
 
 }
