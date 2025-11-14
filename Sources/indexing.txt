@@ -1,18 +1,18 @@
 _	Apokr1689	Apocrypha	Ernsts Gliks	_	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\1Mak	Ta Pirma Makkabeeŗu Grahmata	Ernsts Gliks	7	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\2Mak	Ta Ohtra Makkabeeŗu Grahmata	Ernsts Gliks	8	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Asar	Asarijus Luhgschana	Ernsts Gliks	12	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Bar	Bahruka Grahmata	Ernsts Gliks	6	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Bel	No ta Bela eeksch Bahbeles	Ernsts Gliks	11	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\GabpEst	Gabbali pee Esteres Grahmatas	Ernsts Gliks	9	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Jd	Juhdites Grahmata	Ernsts Gliks	1	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Man	Manassus ta Ķehniņa no Juhda Luhgschana	Ernsts Gliks	13	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GLR	Apokr1689\Prolog	[Apokrifu ievads un satura rādītājs]	Ernsts Gliks	0	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\P_Sir	Jesus Sihraka pirma Eesahkschanas=Walloda	Ernsts Gliks	4	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Sal	Salamaņa Gudribas Grahmata	Ernsts Gliks	2	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Sir	Sihraka Gudribas Grahmata	Ernsts Gliks	5	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Sus	Stahsti no tahs Susannas un Danijeļa	Ernsts Gliks	10	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
-GNP	Apokr1689\Tob	Tobijus Grahmata	Ernsts Gliks	3	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::1Mak	Ta Pirma Makkabeeŗu Grahmata	Ernsts Gliks	7	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::2Mak	Ta Ohtra Makkabeeŗu Grahmata	Ernsts Gliks	8	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Asar	Asarijus Luhgschana	Ernsts Gliks	12	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Bar	Bahruka Grahmata	Ernsts Gliks	6	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Bel	No ta Bela eeksch Bahbeles	Ernsts Gliks	11	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::GabpEst	Gabbali pee Esteres Grahmatas	Ernsts Gliks	9	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Jd	Juhdites Grahmata	Ernsts Gliks	1	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Man	Manassus ta Ķehniņa no Juhda Luhgschana	Ernsts Gliks	13	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GLR	Apokr1689::Prolog	[Apokrifu ievads un satura rādītājs]	Ernsts Gliks	0	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::P_Sir	Jesus Sihraka pirma Eesahkschanas=Walloda	Ernsts Gliks	4	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Sal	Salamaņa Gudribas Grahmata	Ernsts Gliks	2	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Sir	Sihraka Gudribas Grahmata	Ernsts Gliks	5	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Sus	Stahsti no tahs Susannas un Danijeļa	Ernsts Gliks	10	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
+GNP	Apokr1689::Tob	Tobijus Grahmata	Ernsts Gliks	3	1689	17	Garīgie teksti	Bībele; apokrifi	FALSE
 LR	Baum1699_LVV	Labbajs wehleschanas Wahrds	Andreass Baumans	_	1699	17	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Baumb1795_WLWJD	Wezza Leejes Wihra Jahņu Dseesma	Johans Kristofs Baumbahs	_	1795	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	Bluhm1791_MWU	Muhs' wissu Uppurs	Oto Johans Blūms	_	1791	18	Laicīgie teksti	gadījuma dzeja	FALSE
@@ -42,36 +42,36 @@ LR	Gr1520_PN	[Grūnava tēvreize]	Simons Grūnavs	_	1520	16	Garīgie teksti	tēv
 LR	Hag1790_IM	Ihsa Mahziba Preeksch Latweescheem	Nikolauss Kristofers Hāgemeisters	_	1790	18	Laicīgie teksti	padomu grāmata	FALSE
 LR	Has1550_PN	[Hazentētera tēvreize]	Johans Hazentēters	_	1550	16	Garīgie teksti	tēvreizes	FALSE
 _	JT1685	Tas Jauns Testaments	Ernsts Gliks	_	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\1J	Jahņa ta Apustuļa pirma Grahmata uhs wisseem rakstita	Ernsts Gliks	21	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\1Kor	Pahwila ta Apustuļa pirma Grahmata uhs teem Korinteŗeem rakstita	Ernsts Gliks	7	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\1P	Pehteŗa ta Apustuļa pirma Grahmata uhs wisseem rakstita	Ernsts Gliks	19	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\1Tes	Pahwila ta Apustuļa pirma Grahmata uhs teem Tessalonikeŗeem rakstita	Ernsts Gliks	13	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\1Tim	Pahwila ta Apustuļa pirma Grahmata uhs Timoteju rakstita	Ernsts Gliks	15	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\2J	Jahņa ta Apustuļa ohtra Grahmata uhs wisseem rakstita	Ernsts Gliks	22	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\2Kor	Pahwila ta Apustuļa ohtra Grahmata uhs teem Korinteŗeem rakstita	Ernsts Gliks	8	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\2P	Pehteŗa ta Apustuļa ohtra Grahmata uhs wisseem rakstita	Ernsts Gliks	20	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\2Tes	Pahwila ta Apustuļa ohtra Grahmata uhs teem Tessalonikeŗeem rakstita	Ernsts Gliks	14	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\2Tim	Pahwila ta Apustuļa ohtra Grahmata uhs Timoteju rakstita	Ernsts Gliks	16	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\3J	Jahņa ta Apustuļa trescha Grahmata	Ernsts Gliks	23	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Apd	Tee Darbi To Swehtu Apustuļu	Ernsts Gliks	5	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Atk	Ta Swehta Deewa=Mahzitaja Jahņa Parahdischanas=Grahmata	Ernsts Gliks	27	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Ebr	Grahmata uhs teem Ebreeŗeem rakstita	Ernsts Gliks	24	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Ef	Pahwila ta Apustuļa Grahmata uhs teem Eweseŗeem rakstita	Ernsts Gliks	10	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Fil	Pahwila ta Apustuļa Grahmata uhs teem Wilippeŗeem rakstita	Ernsts Gliks	11	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Flm	Pahwila ta Apustula Grahmata uhs Wilemonu rakstita	Ernsts Gliks	18	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Gal	Pahwila ta Apustuļa Grahmata uhs teem Galateŗeem rakstita	Ernsts Gliks	9	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Jk	Jehkaba ta Apustuļa Grahmata us wisseem rakstita	Ernsts Gliks	25	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Jn	Tas Ewangeljums No Swehta Jahņa uhsrakstihts	Ernsts Gliks	4	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Jud	Juhda ta Apustuļa Grahmata uhs wisseem rakstita	Ernsts Gliks	26	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Kol	Pahwila ta Apustuļa Grahmata uhs teem Kolosseŗeem rakstita	Ernsts Gliks	12	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Lk	Tas Ewangeljums No Swehta Luhkasa usrakstihts	Ernsts Gliks	3	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Mk	Tas Ewangeljums No Swehta Markussa usrakstihts	Ernsts Gliks	2	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Mt	Tas Ewangeliums No Swehta Matteusa usrakstihts	Ernsts Gliks	1	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GLR	JT1685\Prolog_Iev	[Jaunās Derības ievads]	Ernsts Gliks	0.3	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GLR	JT1685\Prolog_Sat	[Jaunās Derības satura rādītājs]	Ernsts Gliks	0.2	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GLR	JT1685\Prolog_Tit	[Jaunās Derības titullapa]	Ernsts Gliks	0.1	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Rm	Pahwila ta Apustuļa Grahmata us teem Reemeŗeem rakstita	Ernsts Gliks	6	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
-GNP	JT1685\Tit	Pahwila ta Apustuļa Grahmata uhs Titu rakstita	Ernsts Gliks	17	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::1J	Jahņa ta Apustuļa pirma Grahmata uhs wisseem rakstita	Ernsts Gliks	21	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::1Kor	Pahwila ta Apustuļa pirma Grahmata uhs teem Korinteŗeem rakstita	Ernsts Gliks	7	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::1P	Pehteŗa ta Apustuļa pirma Grahmata uhs wisseem rakstita	Ernsts Gliks	19	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::1Tes	Pahwila ta Apustuļa pirma Grahmata uhs teem Tessalonikeŗeem rakstita	Ernsts Gliks	13	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::1Tim	Pahwila ta Apustuļa pirma Grahmata uhs Timoteju rakstita	Ernsts Gliks	15	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::2J	Jahņa ta Apustuļa ohtra Grahmata uhs wisseem rakstita	Ernsts Gliks	22	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::2Kor	Pahwila ta Apustuļa ohtra Grahmata uhs teem Korinteŗeem rakstita	Ernsts Gliks	8	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::2P	Pehteŗa ta Apustuļa ohtra Grahmata uhs wisseem rakstita	Ernsts Gliks	20	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::2Tes	Pahwila ta Apustuļa ohtra Grahmata uhs teem Tessalonikeŗeem rakstita	Ernsts Gliks	14	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::2Tim	Pahwila ta Apustuļa ohtra Grahmata uhs Timoteju rakstita	Ernsts Gliks	16	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::3J	Jahņa ta Apustuļa trescha Grahmata	Ernsts Gliks	23	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Apd	Tee Darbi To Swehtu Apustuļu	Ernsts Gliks	5	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Atk	Ta Swehta Deewa=Mahzitaja Jahņa Parahdischanas=Grahmata	Ernsts Gliks	27	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Ebr	Grahmata uhs teem Ebreeŗeem rakstita	Ernsts Gliks	24	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Ef	Pahwila ta Apustuļa Grahmata uhs teem Eweseŗeem rakstita	Ernsts Gliks	10	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Fil	Pahwila ta Apustuļa Grahmata uhs teem Wilippeŗeem rakstita	Ernsts Gliks	11	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Flm	Pahwila ta Apustula Grahmata uhs Wilemonu rakstita	Ernsts Gliks	18	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Gal	Pahwila ta Apustuļa Grahmata uhs teem Galateŗeem rakstita	Ernsts Gliks	9	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Jk	Jehkaba ta Apustuļa Grahmata us wisseem rakstita	Ernsts Gliks	25	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Jn	Tas Ewangeljums No Swehta Jahņa uhsrakstihts	Ernsts Gliks	4	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Jud	Juhda ta Apustuļa Grahmata uhs wisseem rakstita	Ernsts Gliks	26	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Kol	Pahwila ta Apustuļa Grahmata uhs teem Kolosseŗeem rakstita	Ernsts Gliks	12	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Lk	Tas Ewangeljums No Swehta Luhkasa usrakstihts	Ernsts Gliks	3	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Mk	Tas Ewangeljums No Swehta Markussa usrakstihts	Ernsts Gliks	2	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Mt	Tas Ewangeliums No Swehta Matteusa usrakstihts	Ernsts Gliks	1	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GLR	JT1685::Prolog_Iev	[Jaunās Derības ievads]	Ernsts Gliks	0.3	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GLR	JT1685::Prolog_Sat	[Jaunās Derības satura rādītājs]	Ernsts Gliks	0.2	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GLR	JT1685::Prolog_Tit	[Jaunās Derības titullapa]	Ernsts Gliks	0.1	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Rm	Pahwila ta Apustuļa Grahmata us teem Reemeŗeem rakstita	Ernsts Gliks	6	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
+GNP	JT1685::Tit	Pahwila ta Apustuļa Grahmata uhs Titu rakstita	Ernsts Gliks	17	1685	17	Garīgie teksti	Bībele; Jaunā Derība	FALSE
 LR	Laz1557_PN	[Lācija tēvreize]	Volfgangs Lācijs	_	1557	16	Garīgie teksti	tēvreizes	FALSE
 LR	LGL1685_K1	Lettische Geistliche Lieder und Collecten	nezināms	_	1685	17	Garīgie teksti	dziesmas	FALSE
 LR	LGL1685_V5	Lettische Geistliche Lieder Und Psalmen	nezināms	_	1685	17	Garīgie teksti	dziesmas	FALSE
@@ -118,46 +118,46 @@ LR	UP1587	Vndeudsche Psalmen	nezināms	_	1587	16	Garīgie teksti	dziesmas	FALSE
 LR	Urban1791_LKLDD	Labs Kungs leela Deewa Dahwana	Frīdrihs Kazimirs Urbāns	_	1791	18	Laicīgie teksti	gadījuma dzeja	FALSE
 LR	V1771_SZA	[Sila zemnieka Anša vēstule mācītājam Loderam]	Sila zemnieks Anšs	_	1771	18	Laicīgie teksti	vēstules	TRUE
 _	VD1689_94	Ta Swehta Grahmata	Ernsts Gliks	_	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\1Ken	Ta pirma Grahmata no teem Ķehniņeem	Ernsts Gliks	11	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\1L	Ta pirma Laiku=Grahmata	Ernsts Gliks	13	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\1Moz	Ta Pirma Mohsus Grahmata	Ernsts Gliks	1	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\1Sam	Ta pirma Samueļa Grahmata	Ernsts Gliks	9	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\2Ken	Ta ohtra Grahmata no teem Ķehniņeem	Ernsts Gliks	12	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\2L	Ta ohtra Laiku=Grahmata	Ernsts Gliks	14	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\2Moz	Ta Ohtra Mohsus Grahmata	Ernsts Gliks	2	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\2Sam	Ta ohtra Samueļa Grahmata	Ernsts Gliks	10	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\3Moz	Ta Trescha Mohsus Grahmata	Ernsts Gliks	3	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\4Moz	Ta zettorta Mohsus Grahmata	Ernsts Gliks	4	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\5Moz	Ta peekta Mohsus Grahmata	Ernsts Gliks	5	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Am	Tas Praweets Amos	Ernsts Gliks	30	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Cef	Tas Praweets Zewanijus	Ernsts Gliks	36	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Dan	Tas Praweets Danijels	Ernsts Gliks	27	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Dz	Salamaņa Augsta Dseesma	Ernsts Gliks	22	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Ech	Tas Praweets Ezekiels	Ernsts Gliks	26	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Est	Esteres Grahmata	Ernsts Gliks	17	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Ezr	Esrus Grahmata	Ernsts Gliks	15	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Hab	Tas Praweets Abakuks	Ernsts Gliks	35	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Hag	Tas Praweets Aggajus	Ernsts Gliks	37	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Hoz	Tas Praweets Osejus	Ernsts Gliks	28	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Ij	Jjaba Grahmata	Ernsts Gliks	18	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Jer	Tas Praweets Jeremijus	Ernsts Gliks	24	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Jes	Tas Praweets Esaijus	Ernsts Gliks	23	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Jl	Tas Praweets Joels	Ernsts Gliks	29	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Jon	Tas Prawwets Jonas	Ernsts Gliks	32	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Joz	Ta Josuus Grahmata	Ernsts Gliks	6	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Mac	Tas Mahzitais Salamans	Ernsts Gliks	21	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Mal	Tas Praweets Malakijus	Ernsts Gliks	39	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Mih	Tas Praweets Mikus	Ernsts Gliks	33	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Nah	Tas Praweets Nakums	Ernsts Gliks	34	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Neh	Neemijus Grahmata	Ernsts Gliks	16	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Ob	Tas Praweets Obadijus	Ernsts Gliks	31	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GLR	VD1689_94\Prolog	[Vecās Derības ievads]	Ernsts Gliks	0	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Ps	Dahwida Dseesmu Grahmata	Ernsts Gliks	19	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Rdz	Jeremijus Raudu=Dseesmas	Ernsts Gliks	25	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Rut	Ruttes Grahmata	Ernsts Gliks	8	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Sak	Salamaņa Sakkamee Wahrdi	Ernsts Gliks	20	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Sog	Ta Sohģu Grahmata	Ernsts Gliks	7	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
-GNP	VD1689_94\Zah	Tas Praweets Zakarijus	Ernsts Gliks	38	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::1Ken	Ta pirma Grahmata no teem Ķehniņeem	Ernsts Gliks	11	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::1L	Ta pirma Laiku=Grahmata	Ernsts Gliks	13	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::1Moz	Ta Pirma Mohsus Grahmata	Ernsts Gliks	1	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::1Sam	Ta pirma Samueļa Grahmata	Ernsts Gliks	9	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::2Ken	Ta ohtra Grahmata no teem Ķehniņeem	Ernsts Gliks	12	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::2L	Ta ohtra Laiku=Grahmata	Ernsts Gliks	14	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::2Moz	Ta Ohtra Mohsus Grahmata	Ernsts Gliks	2	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::2Sam	Ta ohtra Samueļa Grahmata	Ernsts Gliks	10	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::3Moz	Ta Trescha Mohsus Grahmata	Ernsts Gliks	3	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::4Moz	Ta zettorta Mohsus Grahmata	Ernsts Gliks	4	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::5Moz	Ta peekta Mohsus Grahmata	Ernsts Gliks	5	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Am	Tas Praweets Amos	Ernsts Gliks	30	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Cef	Tas Praweets Zewanijus	Ernsts Gliks	36	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Dan	Tas Praweets Danijels	Ernsts Gliks	27	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Dz	Salamaņa Augsta Dseesma	Ernsts Gliks	22	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Ech	Tas Praweets Ezekiels	Ernsts Gliks	26	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Est	Esteres Grahmata	Ernsts Gliks	17	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Ezr	Esrus Grahmata	Ernsts Gliks	15	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Hab	Tas Praweets Abakuks	Ernsts Gliks	35	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Hag	Tas Praweets Aggajus	Ernsts Gliks	37	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Hoz	Tas Praweets Osejus	Ernsts Gliks	28	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Ij	Jjaba Grahmata	Ernsts Gliks	18	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Jer	Tas Praweets Jeremijus	Ernsts Gliks	24	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Jes	Tas Praweets Esaijus	Ernsts Gliks	23	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Jl	Tas Praweets Joels	Ernsts Gliks	29	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Jon	Tas Prawwets Jonas	Ernsts Gliks	32	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Joz	Ta Josuus Grahmata	Ernsts Gliks	6	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Mac	Tas Mahzitais Salamans	Ernsts Gliks	21	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Mal	Tas Praweets Malakijus	Ernsts Gliks	39	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Mih	Tas Praweets Mikus	Ernsts Gliks	33	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Nah	Tas Praweets Nakums	Ernsts Gliks	34	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Neh	Neemijus Grahmata	Ernsts Gliks	16	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Ob	Tas Praweets Obadijus	Ernsts Gliks	31	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GLR	VD1689_94::Prolog	[Vecās Derības ievads]	Ernsts Gliks	0	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Ps	Dahwida Dseesmu Grahmata	Ernsts Gliks	19	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Rdz	Jeremijus Raudu=Dseesmas	Ernsts Gliks	25	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Rut	Ruttes Grahmata	Ernsts Gliks	8	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Sak	Salamaņa Sakkamee Wahrdi	Ernsts Gliks	20	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Sog	Ta Sohģu Grahmata	Ernsts Gliks	7	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
+GNP	VD1689_94::Zah	Tas Praweets Zakarijus	Ernsts Gliks	38	1689_94	17	Garīgie teksti	Bībele; Vecā Derība	FALSE
 LR	VLH1685	Vermehretes Lettisches Hand=buch	nezināms	_	1685	17	Garīgie teksti	Bībele	FALSE
 LR	VLH1685_Cat	Der kleine Catechismus, 1685	nezināms	_	1685	17	Garīgie teksti	katehisms	FALSE
 LR	VLH1685_Sal	Die Sprüche Salomonis, 1685	nezināms	_	1685	17	Garīgie teksti	Bībele; Vecā Derība	FALSE

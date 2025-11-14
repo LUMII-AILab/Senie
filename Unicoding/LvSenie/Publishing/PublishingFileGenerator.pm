@@ -7,7 +7,7 @@ use IO::Dir;
 use IO::File;
 
 use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail htmlifyLineContents);
-use LvSenie::Publishing::SqlLineTools qw($DO_SQL printInSql);
+use LvSenie::Publishing::SqlLineTools qw($DO_SQL submitForPrintInSql emptySqlPrintingBuffer);
 use LvSenie::Publishing::TeiTools qw($DO_TEI printTeiCorpusHead printTeiCorpusTail printTeiCollectionHead
 	printTeiCollectionTail printTeiDocHead printTeiDocTail startTeiBibleChapter endTeiBibleChapter
 	startTeiParagraph startTeiVerse endTeiParagraphVerse changeTeiPage changeTeiLine startTeiSubBlock endTeiSubBlock
@@ -249,11 +249,11 @@ END
 	my $line = <$in>;
 	$line =~ s/^\N{BOM}//;
 	printInHtml(formLineForHtml(0, $line), $outs);
-	printInSql($fullSourceStub, "", "", $counters->{'overallPage'}, ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
+	submitForPrintInSql($fullSourceStub, "", "", $counters->{'overallPage'}, ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	warn "Author is not in the first line!" unless $line =~ /^\s*\@a\{(.*?)\}\s*$/;
 	$line = <$in>;
 	printInHtml(formLineForHtml(0, $line), $outs);
-	printInSql($fullSourceStub, "", "", $counters->{'overallPage'}, ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
+	submitForPrintInSql($fullSourceStub, "", "", $counters->{'overallPage'}, ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	warn "Source ID is not in the second line!" unless $line =~ /^\s*\@z\{(.*?)\}\s*$/;
 
 	# Line by line processing
@@ -358,7 +358,7 @@ END
 			$newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress,
 			$textLineForHtml);
 		printInHtml($htmlLine, $outs);
-		printInSql($fullSourceStub, $newHtmlLineAddress,
+		submitForPrintInSql($fullSourceStub, $newHtmlLineAddress,
 			formPageNumber($counters->{'corrPage'}, $counters->{'origPage'}),
 			$counters->{'overallPage'}, ++$counters->{'overallLine'},
 			htmlifyLineContents($line), $line, $outs, 1);
@@ -437,8 +437,12 @@ sub _finish_outputs
 	printTeiDocTail($outs);
 	close($outs->{'tei'}) if ($DO_TEI);
 
-	printInAllStreams("\n", $outs->{'sql'}, $outs->{'total sql'}) if ($DO_SQL);
-	close($outs->{'sql'}) if ($DO_SQL);
+	if ($DO_SQL)
+	{
+		emptySqlPrintingBuffer($outs);
+		printInAllStreams("\n", $outs->{'sql'}, $outs->{'total sql'});
+		close($outs->{'sql'});
+	}
 }
 
 sub _start_collection

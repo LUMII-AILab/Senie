@@ -38,7 +38,7 @@ sub loadCatalog
 			#my $type = $1;
 			my $source = $parts[1];
 			#my $shortName = $3;
-			$source =~ tr#\\#/#;
+			#$source =~ tr#/#\\#;
 			$result->{$source} = {
 				$INDEX_KEY     => $parts[0],
 				$SHORTNAME_KEY => $parts[2],
@@ -74,7 +74,7 @@ sub loadCatalog
 			{
 				$result->{$source}->{$COLLECTION_ID_KEY} = $source;
 				#$result->{$source}->{$SHORT_ID_KEY} = null;
-			} elsif ($source =~ /^(.*)?\\(.*)$/)
+			} elsif ($source =~ /^(.*)?::(.*)$/)
 			{
 				$result->{$source}->{$COLLECTION_ID_KEY} = $1;
 				$result->{$source}->{$SHORT_ID_KEY} = $2;
@@ -93,8 +93,8 @@ sub loadCatalog
 sub getAnyProperty
 {
 	my $propertyKey = shift @_;
-	my $source = join '/', (grep {defined} @_);
-	$source =~ tr#\t\\#//#;
+	my $source = join '::', (grep {defined} @_);
+	$source =~ tr#\t/#::#;
 	$source =~ s/^\s*(.*?)\s*$/$1/;
 	return $CATALOG->{$source}->{$propertyKey} if (exists $CATALOG->{$source});
 	return undef;
@@ -102,8 +102,8 @@ sub getAnyProperty
 
 sub getExternalProperties
 {
-	my $source = join '/', (grep {defined} @_);
-	$source =~ tr#\t\\#//#;
+	my $source = join '::', (grep {defined} @_);
+	$source =~ tr#\t/#::#;
 	$source =~ s/^\s*(.*?)\s*$/$1/;
 	return $CATALOG->{$source} if (exists $CATALOG->{$source});
 	return undef;
