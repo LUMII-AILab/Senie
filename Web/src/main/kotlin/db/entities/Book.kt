@@ -3,7 +3,7 @@ package lv.ailab.senie.db.entities
 import jakarta.persistence.Entity
 import jakarta.persistence.Id
 import jakarta.persistence.Table
-import jakarta.persistence.Transient
+import java.net.URLEncoder
 import java.time.Year
 
 @Entity
@@ -27,8 +27,16 @@ data class Book(
     val isCollectionItem: Boolean
         get() = collectionCode != null && itemCode != null
 
-    val displayCode: String?
-        get() = itemCode ?: collectionCode
+    val urlPath: String
+        get() = "/${if (isCollection) "collections" else "books"}/" + displayCode.let {
+            URLEncoder.encode(it, Charsets.UTF_8)
+        }
+
+    val displayCode: String
+        get() = itemCode ?: collectionCode ?: throw Exception(
+            "Book [$name]($id) has neither a collection nor item code. " +
+                "This should not be possible, data corruption likely.",
+        )
 
     val displayTitle: String
         get() = "$name ($displayCode)"
