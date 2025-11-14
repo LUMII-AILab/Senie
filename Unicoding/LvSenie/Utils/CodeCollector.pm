@@ -38,9 +38,9 @@ END
 			if ((-f "$inDirName/$inFile") and $inFile =~ /^(.*?)(_Unicode)?(_unhyphened)?\.txt$/)
 			{
 				my $nameStub = $1;
-				$nameStub = "VD1689_94/$nameStub" if ($inDirName =~ /VD(1689_94)?$/);
-				$nameStub = "JT1685/$nameStub" if ($inDirName =~ /JT(1685)?$/);
-				$nameStub = "Apokr1689/$nameStub" if ($inDirName =~ /Apokr(1689)?$/);
+				$nameStub = "VD1689_94::$nameStub" if ($inDirName =~ /VD(1689_94)?$/);
+				$nameStub = "JT1685::$nameStub" if ($inDirName =~ /JT(1685)?$/);
+				$nameStub = "Apokr1689::$nameStub" if ($inDirName =~ /Apokr(1689)?$/);
 				eval
 				{
 					local $SIG{__DIE__} = sub { warn $_[0] }; # This magic makes eval warn on die.
