@@ -74,7 +74,7 @@ sub loadCatalog
 			{
 				$result->{$source}->{$COLLECTION_ID_KEY} = $source;
 				#$result->{$source}->{$SHORT_ID_KEY} = null;
-			} elsif ($source =~ /^(.*)?\/(.*)$/)
+			} elsif ($source =~ /^(.*)?\\(.*)$/)
 			{
 				$result->{$source}->{$COLLECTION_ID_KEY} = $1;
 				$result->{$source}->{$SHORT_ID_KEY} = $2;
