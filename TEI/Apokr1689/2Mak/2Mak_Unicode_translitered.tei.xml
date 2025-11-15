@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="Apokr1689/2Mak">
+    <fileDesc id="Apokr1689::2Mak">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Ta Ohtra Makkabeeŗu Grahmata</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta i. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_1:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. mūsu brāļiem</div>
        <lb/>
@@ -37,7 +37,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mieru.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_1:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ka dievs jums ari gribetu</div>
        <lb/>
@@ -49,7 +49,7 @@
        <lb/>
         <div type="Language" lang="Latvian">savu pieticigu kalpu.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_1:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_1:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un jums visiem vienu</div>
        <lb/>
@@ -59,7 +59,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sirdigi un labprātigi.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_1:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_1:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. viņš ari gribetu jūsu</div>
        <lb/>
@@ -69,7 +69,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mieru dot.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_1:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. viņš ari gribetu jūsu</div>
        <lb/>
@@ -79,13 +79,13 @@
        <lb/>
         <div type="Language" lang="Latvian">ne atstāt bēdu laikā.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_1:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_1:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. it kā mēs tagadiņ</div>
        <lb/>
         <div type="Language" lang="Latvian">priekš jums lūdzam.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_1:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. demeteŗam valdot simts</div>
        <lb/>
@@ -105,7 +105,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valstibas atkāpies.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_1:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_1:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un to pagalmu sadedzinajši/</div>
        <lb/>
@@ -125,7 +125,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priekšliekamas maizes uzlikt.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_1:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un nu (lūdzam mēs)/</div>
        <lb/>
@@ -135,7 +135,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gribat.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_1:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_1:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. simts astotadesmitā un</div>
        <lb/>
@@ -159,7 +159,7 @@
        <lb/>
         <div type="Language" lang="Latvian">labu veselibu.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_1:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. iz lielām likstām no</div>
        <lb/>
@@ -169,7 +169,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tam ar ķēniņu bij jakaujās.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_1:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. jo viņš ir izvajajs</div>
        <lb/>
@@ -177,7 +177,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kaŗoja.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_1:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. jo kad tas valditajs</div>
        <lb/>
@@ -195,7 +195,7 @@
        <lb/>
         <div type="Language" lang="Latvian">runaja.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_1:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. jo kad antiokus ar saviem</div>
        <lb/>
@@ -209,7 +209,7 @@
        <lb/>
         <div type="Language" lang="Latvian">naudu izjemt.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_1:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tad iznese nanejas</div>
        <lb/>
@@ -223,7 +223,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kad antiokus bij iegājis.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_1:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_1:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un tie atdarija tās apslēptas</div>
        <lb/>
@@ -241,7 +241,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās tiem/ kas ārā bija.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_1:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_1:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. lai mūsu dievs augsti</div>
        <lb/>
@@ -251,7 +251,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darijši.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_1:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_1:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. mēs nu gribedami</div>
        <lb/>
@@ -275,7 +275,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un to altari uztaisijs ir/ upureja.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_1:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_1:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. jo kad mūsu vecu=</div>
        <lb/>
@@ -297,7 +297,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vieta zinama.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_1:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_1:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. kad nu daudz gadi bija</div>
        <lb/>
@@ -319,7 +319,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atraduši/ bet biezu ūdeni.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_1:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_1:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. to pašu ir viņš pavēlejs</div>
        <lb/>
@@ -337,7 +337,7 @@
        <lb/>
         <div type="Language" lang="Latvian">slacināt.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_1:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_1:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un kad tas notike/ un</div>
        <lb/>
@@ -351,7 +351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">visi pār to brīnijās.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_1:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_1:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. tad pielūdze tie priesteŗi</div>
        <lb/>
@@ -365,7 +365,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sacija ar neemiju pakaļ.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_1:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_1:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. un šāda bija viņu</div>
        <lb/>
@@ -379,7 +379,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un laipnigs.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_1:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_1:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tu vienigs labdaritajs/</div>
        <lb/>
@@ -395,7 +395,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svētijs.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_1:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_1:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. pieņem šo upuŗi</div>
        <lb/>
@@ -405,7 +405,7 @@
        <lb/>
         <div type="Language" lang="Latvian">daļu un svēti to.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_1:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_1:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. sapulcini vēl mūsus</div>
        <lb/>
@@ -419,7 +419,7 @@
        <lb/>
         <div type="Language" lang="Latvian">top.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_1:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_1:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. moci tos varas=</div>
        <lb/>
@@ -427,7 +427,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nieva.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_1:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_1:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. dēsti tavus ļaudis</div>
        <lb/>
@@ -435,13 +435,13 @@
        <lb/>
         <div type="Language" lang="Latvian">it kā mozus sacijs.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_1:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_1:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. pēc dziedaja tie priesteŗi</div>
        <lb/>
         <div type="Language" lang="Latvian">teicamas dziesmas.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_1:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_1:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. kad nu tas upurs sadedzis</div>
        <lb/>
@@ -451,7 +451,7 @@
        <lb/>
         <div type="Language" lang="Latvian">akmiņos liet.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_1:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_1:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. un kad tas notike/ tad</div>
        <lb/>
@@ -461,7 +461,7 @@
        <lb/>
         <div type="Language" lang="Latvian">altaŗa atspīdeja/ aprīta.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_1:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_1:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. kad nu ši lieta zinama/</div>
        <lb/>
@@ -479,7 +479,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vajagā bijis.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_1:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_1:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. un tas ķēniņš dzirdejs/</div>
        <lb/>
@@ -489,7 +489,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un par svētu tureja.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_1:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_1:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. un tas ķēniņš ņēme/</div>
        <lb/>
@@ -497,7 +497,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ko viņš uz to darbu iedāvinaja.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_1:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_1:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. un neemijus nosauce to</div>
        <lb/>
@@ -512,7 +512,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta ii. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_2:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_2:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. vēl ari rakstos top</div>
        <lb/>
@@ -526,7 +526,7 @@
        <lb/>
         <div type="Language" lang="Latvian">it kā jav sacīts ir.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_2:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_2:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un ka tas praviets</div>
        <lb/>
@@ -546,7 +546,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem stāvošus.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_2:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_2:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un ka viņš vēl citas</div>
        <lb/>
@@ -556,7 +556,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sirdim ne taptu atmesta.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_2:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_2:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tanīs pašos rakstos</div>
        <lb/>
@@ -576,7 +576,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiesu redzēt/</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_2:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_2:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tad esu jeremijus nācis/</div>
        <lb/>
@@ -590,7 +590,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aizdarijs.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_2:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_2:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. pēc esu citi atnākuši/</div>
        <lb/>
@@ -600,7 +600,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bet ne varejši to atrast.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_2:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_2:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un kad jeremijus to dzirdeja/</div>
        <lb/>
@@ -616,7 +616,7 @@
        <lb/>
         <div type="Language" lang="Latvian">žēlastiba nāktu.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_2:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_2:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un tad/ (sacija viņš:)</div>
        <lb/>
@@ -630,7 +630,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svētita.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_2:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_2:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. viņš stāstija aridzan/</div>
        <lb/>
@@ -642,7 +642,7 @@
        <lb/>
        <div type="Parallel">w:9. 2.Kehn: 8,63.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_2:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_2:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. kā ari mozus to kungu</div>
        <lb/>
@@ -660,7 +660,7 @@
        <lb/>
        <div type="Parallel">w:10. 3.Mohſ:Gr: 9,24. 2.Laik:Gr: 7,1.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_2:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_2:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un kā mozus sacijs:</div>
        <lb/>
@@ -672,13 +672,13 @@
        <lb/>
        <div type="Parallel">w:12. 3.Mohſ:Gr: 10,16.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_2:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_2:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tā pat ari ka zalamans</div>
        <lb/>
         <div type="Language" lang="Latvian">astoņas dienas tā pavadijs.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_2:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_2:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. šīs pašas lietas</div>
        <lb/>
@@ -700,7 +700,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tām svētām dāvanām.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_2:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_2:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tā pat ir aridzan</div>
        <lb/>
@@ -714,7 +714,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir vēl pie mums.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_2:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. ja tad tās jums būs</div>
        <lb/>
@@ -722,7 +722,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jums tās var nonest.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_2:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_2:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. kad mēs nu gribam</div>
        <lb/>
@@ -736,7 +736,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svētidami.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_2:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_2:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. bet dievs ir/ kas</div>
        <lb/>
@@ -750,7 +750,7 @@
        <lb/>
         <div type="Language" lang="Latvian">amatu/ un to svētišanu.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_2:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_2:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. it kā viņš to solijs</div>
        <lb/>
@@ -772,7 +772,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vietu šķīstijs.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_2:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_2:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. bet tās notikušas lietas</div>
        <lb/>
@@ -784,7 +784,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ta altaŗa iesvētišanas.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_2:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_2:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. tā pat ari tos kaŗus</div>
        <lb/>
@@ -792,7 +792,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un pret viņa dēlu eupatoru.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_2:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_2:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un tās debes parādišanas/</div>
        <lb/>
@@ -808,7 +808,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lielus pulkus vajajši.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_2:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_2:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un to caur visu pasauli</div>
        <lb/>
@@ -826,7 +826,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pār tiem apžēlojās.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_2:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_2:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. tās pašas lietas/</div>
        <lb/>
@@ -838,7 +838,7 @@
        <lb/>
         <div type="Language" lang="Latvian">grāmatā sajemt.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_2:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_2:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. jo kad mēs vērā liekam</div>
        <lb/>
@@ -854,7 +854,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietu pēc.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_2:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_2:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tad esam mēs gādajši/</div>
        <lb/>
@@ -870,7 +870,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atlec.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_2:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_2:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. gan mums/ kas mēs</div>
        <lb/>
@@ -884,7 +884,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vajagá.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_2:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_2:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. it kā tam/ kas vienu</div>
        <lb/>
@@ -900,7 +900,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uzņēmušies.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_2:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_2:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. tās izteikšanas labumu</div>
        <lb/>
@@ -914,7 +914,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aprakstu pataisīt.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_2:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_2:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. jo it kā vienam remesim/</div>
        <lb/>
@@ -932,7 +932,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ari šķietos.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_2:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_2:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. ka to notikušu lietu</div>
        <lb/>
@@ -944,7 +944,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietās daudz darboties.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_2:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_2:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. bet tam/ kas kādu</div>
        <lb/>
@@ -956,7 +956,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lielas izdarišanas atstājās.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_2:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_2:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. tad nu no tejenes mēs</div>
        <lb/>
@@ -977,7 +977,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta iii. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_3:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_3:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. kad nu tas svēts pilssāts</div>
        <lb/>
@@ -993,7 +993,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un blēdibas=ienīdešanu.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_3:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_3:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. tad tas notikās/ ka paši</div>
        <lb/>
@@ -1005,7 +1005,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pagodinaja.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_3:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tā ka zeleukus tas azijas</div>
        <lb/>
@@ -1017,7 +1017,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sagādašanas vajagā bija.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_3:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_3:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. bet viens ar vārdu</div>
        <lb/>
@@ -1033,7 +1033,7 @@
        <lb/>
         <div type="Language" lang="Latvian">notike.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_3:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_3:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un kad viņš to ne vareja</div>
        <lb/>
@@ -1047,7 +1047,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vienikiju.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_3:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_3:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un stāstija tam par to</div>
        <lb/>
@@ -1071,7 +1071,7 @@
        <lb/>
         <div type="Language" lang="Latvian">varai ienāktos.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_3:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_3:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. tad apolonijus ar to</div>
        <lb/>
@@ -1091,7 +1091,7 @@
        <lb/>
         <div type="Language" lang="Latvian">naudu no turenes iznestu.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_3:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_3:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tad tas elijodorus tūdaliņ</div>
        <lb/>
@@ -1105,7 +1105,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pavēlešanu padarīt.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_3:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_3:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. kad viņš nu uz jeruzalemi</div>
        <lb/>
@@ -1123,7 +1123,7 @@
        <lb/>
         <div type="Language" lang="Latvian">patiesi tā būtu?</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_3:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_3:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. tad parādija tas augstajs=priesteris/</div>
        <lb/>
@@ -1133,7 +1133,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no atraitnēm un bāriņiem.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_3:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_3:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un cita aridzan esu</div>
        <lb/>
@@ -1151,7 +1151,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zelta.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_3:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_3:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tas ari visai ne esu</div>
        <lb/>
@@ -1169,7 +1169,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vietu turēts.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_3:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_3:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. bet elijodorus/ ta ķēniņa</div>
        <lb/>
@@ -1181,7 +1181,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij janes.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_3:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_3:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un iegāje noliktā dienā/</div>
        <lb/>
@@ -1193,7 +1193,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nemasu bailošana.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_3:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_3:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. bet tie priesteŗi metēs</div>
        <lb/>
@@ -1211,7 +1211,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nolikuši/ veselu pasargatu.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_3:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_3:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. kas tur ta augsta=</div>
        <lb/>
@@ -1229,7 +1229,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bailošanu.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_3:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_3:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. jo tas vīrs bija pārņemts</div>
        <lb/>
@@ -1243,7 +1243,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sirdi spiede.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_3:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_3:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. tie citi ļaudis sateceja</div>
        <lb/>
@@ -1255,7 +1255,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vietu nicinatu kļūt.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_3:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_3:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un tās sievas bij apakš</div>
        <lb/>
@@ -1273,7 +1273,7 @@
        <lb/>
         <div type="Language" lang="Latvian">raudzija caur logiem.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_3:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_3:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un visas izstiepe tās</div>
        <lb/>
@@ -1281,7 +1281,7 @@
        <lb/>
         <div type="Language" lang="Latvian">piesauce dievu.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_3:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_3:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. tā ka bēdiga lieta bija</div>
        <lb/>
@@ -1293,7 +1293,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gaidišanu.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_3:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_3:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. tie tad piesauce dievu</div>
        <lb/>
@@ -1305,13 +1305,13 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem/ kas tās bij uzticejši.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_3:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_3:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet elijodorus padarija</div>
        <lb/>
         <div type="Language" lang="Latvian">to/ kas nodomāts bija.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_3:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_3:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. bet kad viņš nu ar</div>
        <lb/>
@@ -1333,7 +1333,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sirds bailibu pamire.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_3:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_3:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. jo tiem parādijās</div>
        <lb/>
@@ -1353,7 +1353,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar zelta bruņām.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_3:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_3:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un vēl parādijās</div>
        <lb/>
@@ -1371,7 +1371,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mokas.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_3:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_3:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. kad tas nu piepeši pie</div>
        <lb/>
@@ -1383,7 +1383,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un like to uz vienu krēslu.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_3:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_3:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. to/ kas ne sen ar lielu</div>
        <lb/>
@@ -1399,7 +1399,7 @@
        <lb/>
         <div type="Language" lang="Latvian">it skaidri to dieva varu atzīdami.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_3:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_3:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. un tas guleja tur caur</div>
        <lb/>
@@ -1407,7 +1407,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un bez visas ceribas un pestišanas.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_3:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_3:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. bet viņi teice to kungu/</div>
        <lb/>
@@ -1427,7 +1427,7 @@
        <lb/>
         <div type="Language" lang="Latvian">līgsmibu piepildīts.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_3:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_3:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. tad tūdaliņ citi no elijodorus</div>
        <lb/>
@@ -1443,7 +1443,7 @@
        <lb/>
         <div type="Language" lang="Latvian">guleja.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_3:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_3:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. tad bija tam augstam=</div>
        <lb/>
@@ -1459,7 +1459,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taptu.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_3:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_3:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. un kad tas augstajs=</div>
        <lb/>
@@ -1481,7 +1481,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to dzīvibu atšķinkojs.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_3:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_3:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. tu tad/ kas tu iz debes</div>
        <lb/>
@@ -1493,7 +1493,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kļua tie vairs redzeti.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_3:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_3:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. tad upureje elijodorus</div>
        <lb/>
@@ -1511,7 +1511,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņa.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_3:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_3:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. un viņš apliecinaja</div>
        <lb/>
@@ -1521,7 +1521,7 @@
        <lb/>
         <div type="Language" lang="Latvian">augstaja dieva darbus.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_3:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_3:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. un kad tas ķēniņš elijodoru</div>
        <lb/>
@@ -1533,7 +1533,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tad sacija viņš:</div>
       </div>
-      <div n="38." type="Verse" id="Apokr1689/2Mak_3:38.">
+      <div n="38." type="Verse" id="Apokr1689::2Mak_3:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. ja tev ir kāds ienaidnieks/</div>
        <lb/>
@@ -1551,7 +1551,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kāds dieva spēks.</div>
       </div>
-      <div n="39." type="Verse" id="Apokr1689/2Mak_3:39.">
+      <div n="39." type="Verse" id="Apokr1689::2Mak_3:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. jo tas/ kas debesīs</div>
        <lb/>
@@ -1563,7 +1563,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darīt.</div>
       </div>
-      <div n="40." type="Verse" id="Apokr1689/2Mak_3:40.">
+      <div n="40." type="Verse" id="Apokr1689::2Mak_3:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. un tā tas ir noticis ar</div>
        <lb/>
@@ -1574,7 +1574,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta iv. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_4:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_4:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. bet tas pirmīt pieminēts</div>
        <lb/>
@@ -1592,7 +1592,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kļuis.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_4:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_4:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un iedrošinajās to</div>
        <lb/>
@@ -1610,7 +1610,7 @@
        <lb/>
         <div type="Language" lang="Latvian">raut.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_4:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_4:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. kad nu ta naidiba tā</div>
        <lb/>
@@ -1620,7 +1620,7 @@
        <lb/>
         <div type="Language" lang="Latvian">notike.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_4:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_4:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tad onijus redzedams</div>
        <lb/>
@@ -1634,7 +1634,7 @@
        <lb/>
         <div type="Language" lang="Latvian">stiprinaja.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_4:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_4:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tad gāje viņš pie ta</div>
        <lb/>
@@ -1648,7 +1648,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būtu.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_4:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_4:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. jo viņš redzeja/ ka</div>
        <lb/>
@@ -1662,7 +1662,7 @@
        <lb/>
         <div type="Language" lang="Latvian">trakošanas ne mitetos.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_4:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_4:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. bet kad zeleukus bija nomiris/</div>
        <lb/>
@@ -1676,7 +1676,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tapt.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_4:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_4:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un solija tam ķēniņam/</div>
        <lb/>
@@ -1690,7 +1690,7 @@
        <lb/>
         <div type="Language" lang="Latvian">astoņdesmits talentus.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_4:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_4:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un pār to solija viņš</div>
        <lb/>
@@ -1708,7 +1708,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem antiokeŗiem sarākstīt.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_4:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_4:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. kad nu tas ķēniņš to</div>
        <lb/>
@@ -1720,7 +1720,7 @@
        <lb/>
         <div type="Language" lang="Latvian">grieķeŗu ieražām pārvede.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_4:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_4:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un to ķēniņu laipnigus</div>
        <lb/>
@@ -1740,7 +1740,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jaunas negodigas ieražas.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_4:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_4:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. jo viņš tīši apakša</div>
        <lb/>
@@ -1754,7 +1754,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valkāt.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_4:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_4:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un tā vairojās to griekeŗu</div>
        <lb/>
@@ -1766,7 +1766,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jazoņu nešķīstibu.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_4:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_4:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tā ka tie priesteŗi nu</div>
        <lb/>
@@ -1784,7 +1784,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mešanai piebiedrinaties.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_4:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_4:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un tā viņi tās tēviskas</div>
        <lb/>
@@ -1794,7 +1794,7 @@
        <lb/>
         <div type="Language" lang="Latvian">godu augstaki.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_4:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_4:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tadēļ uzgāje tiem</div>
        <lb/>
@@ -1808,7 +1808,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un par atriebejiem.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_4:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_4:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. jo pret tiem dieviškiem</div>
        <lb/>
@@ -1818,7 +1818,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietas nākoši laiki izrādīs.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_4:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_4:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. kad nu tie cīnišanas</div>
        <lb/>
@@ -1830,7 +1830,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tur ari klāt bija/</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_4:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_4:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. tad sūtija tas blēdnieks</div>
        <lb/>
@@ -1852,7 +1852,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie izdeve to pie citas vajadzibas.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_4:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_4:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. tā kļua ta nauda gan</div>
        <lb/>
@@ -1864,7 +1864,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rīki pataisiti.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_4:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_4:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. pēc sūtija viņš apoloniju/</div>
        <lb/>
@@ -1890,7 +1890,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš uz jeruzalemi.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_4:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_4:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. tur tape viņš no jazoņa</div>
        <lb/>
@@ -1906,7 +1906,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aizgāje.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_4:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_4:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet pēc trim gadiem</div>
        <lb/>
@@ -1920,7 +1920,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vajadzibas lietām pieminetu.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_4:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_4:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. kad nu šis tam ķēniņam</div>
        <lb/>
@@ -1940,7 +1940,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jazons.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_4:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_4:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. kad viņš nu ķēniņa</div>
        <lb/>
@@ -1958,7 +1958,7 @@
        <lb/>
         <div type="Language" lang="Latvian">meža zvēra bārziba.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_4:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_4:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. tā tape jazons/ kas</div>
        <lb/>
@@ -1970,7 +1970,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemi izdzīts.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_4:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_4:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. un menelaus iedabuja</div>
        <lb/>
@@ -1984,7 +1984,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kungs to no viņa prasija.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_4:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_4:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. jo tas bija viņa</div>
        <lb/>
@@ -1994,7 +1994,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie ta ķēniņa aicinati.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_4:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_4:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. un menelaus pamete</div>
        <lb/>
@@ -2006,7 +2006,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valdnieku pār kipru.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_4:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_4:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. kad šīs lietas nu tā</div>
        <lb/>
@@ -2020,7 +2020,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tapuši.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_4:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_4:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. tad tūdaliņ gāje tas</div>
        <lb/>
@@ -2030,7 +2030,7 @@
        <lb/>
         <div type="Language" lang="Latvian">androniku vienu cienigu vīru.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_4:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_4:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. tad šķitās menelaus</div>
        <lb/>
@@ -2048,7 +2048,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pilssātiem.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_4:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_4:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. šo samanija onijus/</div>
        <lb/>
@@ -2060,7 +2060,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas pie antiokijas guleja.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_4:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_4:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. tadēļ vede menelaus to</div>
        <lb/>
@@ -2088,7 +2088,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne ka kaunedamies.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_4:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_4:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. šīs lietas pēc apskaitās</div>
        <lb/>
@@ -2102,7 +2102,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta godiga vīra.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_4:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_4:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. kad nu tas ķēniņš</div>
        <lb/>
@@ -2120,7 +2120,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_4:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_4:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. tad tape antiokus no</div>
        <lb/>
@@ -2134,7 +2134,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dzīvošanas dēļ.</div>
       </div>
-      <div n="38." type="Verse" id="Apokr1689/2Mak_4:38.">
+      <div n="38." type="Verse" id="Apokr1689::2Mak_4:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. un apskaitās ar dusmām/</div>
        <lb/>
@@ -2158,7 +2158,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to ar labi nopelnitu sodibu.</div>
       </div>
-      <div n="39." type="Verse" id="Apokr1689/2Mak_4:39.">
+      <div n="39." type="Verse" id="Apokr1689::2Mak_4:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. kad nu lisimakus daudz</div>
        <lb/>
@@ -2176,7 +2176,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rīki aiznesti bija.</div>
       </div>
-      <div n="40." type="Verse" id="Apokr1689/2Mak_4:40.">
+      <div n="40." type="Verse" id="Apokr1689::2Mak_4:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. kad nu tie ļaužu pulki</div>
        <lb/>
@@ -2198,7 +2198,7 @@
        <lb/>
         <div type="Language" lang="Latvian">.</div>
       </div>
-      <div n="41." type="Verse" id="Apokr1689/2Mak_4:41.">
+      <div n="41." type="Verse" id="Apokr1689::2Mak_4:41.">
        <lb/>
         <div type="Language" lang="Latvian">41. kad nu viņi lizimakus</div>
        <lb/>
@@ -2216,7 +2216,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija.</div>
       </div>
-      <div n="42." type="Verse" id="Apokr1689/2Mak_4:42.">
+      <div n="42." type="Verse" id="Apokr1689::2Mak_4:42.">
        <lb/>
         <div type="Language" lang="Latvian">42. un ar tādu būšanu</div>
        <lb/>
@@ -2230,7 +2230,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie pie ta mantas=kambaŗa.</div>
       </div>
-      <div n="43." type="Verse" id="Apokr1689/2Mak_4:43.">
+      <div n="43." type="Verse" id="Apokr1689::2Mak_4:43.">
        <lb/>
         <div type="Language" lang="Latvian">43. un tad kļua pār menelau</div>
        <lb/>
@@ -2238,7 +2238,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tureta.</div>
       </div>
-      <div n="44." type="Verse" id="Apokr1689/2Mak_4:44.">
+      <div n="44." type="Verse" id="Apokr1689::2Mak_4:44.">
        <lb/>
         <div type="Language" lang="Latvian">44. kad nu tas ķēniņš uz</div>
        <lb/>
@@ -2248,7 +2248,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vecajiem sūtiti bija.</div>
       </div>
-      <div n="45." type="Verse" id="Apokr1689/2Mak_4:45.">
+      <div n="45." type="Verse" id="Apokr1689::2Mak_4:45.">
        <lb/>
         <div type="Language" lang="Latvian">45. kad nu menelaus jav</div>
        <lb/>
@@ -2260,7 +2260,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņu pārrunatu.</div>
       </div>
-      <div n="46." type="Verse" id="Apokr1689/2Mak_4:46.">
+      <div n="46." type="Verse" id="Apokr1689::2Mak_4:46.">
        <lb/>
         <div type="Language" lang="Latvian">46. tad vede ptolemejus</div>
        <lb/>
@@ -2270,7 +2270,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņam citu prātu.</div>
       </div>
-      <div n="47." type="Verse" id="Apokr1689/2Mak_4:47.">
+      <div n="47." type="Verse" id="Apokr1689::2Mak_4:47.">
        <lb/>
         <div type="Language" lang="Latvian">47. tad palaide tas menelau/</div>
        <lb/>
@@ -2292,7 +2292,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tapt.</div>
       </div>
-      <div n="48." type="Verse" id="Apokr1689/2Mak_4:48.">
+      <div n="48." type="Verse" id="Apokr1689::2Mak_4:48.">
        <lb/>
         <div type="Language" lang="Latvian">48. tā bija tiem tūdaliņ</div>
        <lb/>
@@ -2304,7 +2304,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pēc bij gādajši.</div>
       </div>
-      <div n="49." type="Verse" id="Apokr1689/2Mak_4:49.">
+      <div n="49." type="Verse" id="Apokr1689::2Mak_4:49.">
        <lb/>
         <div type="Language" lang="Latvian">49. ši lietas sāpeja aridzan</div>
        <lb/>
@@ -2316,7 +2316,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bēres darija.</div>
       </div>
-      <div n="50." type="Verse" id="Apokr1689/2Mak_4:50.">
+      <div n="50." type="Verse" id="Apokr1689::2Mak_4:50.">
        <lb/>
         <div type="Language" lang="Latvian">50. bet menelaus palike</div>
        <lb/>
@@ -2331,7 +2331,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta v. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_5:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_5:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ap šo laiku taisijās</div>
        <lb/>
@@ -2339,7 +2339,7 @@
        <lb/>
         <div type="Language" lang="Latvian">egipti iet.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_5:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_5:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. bet tas notikās/ ka</div>
        <lb/>
@@ -2353,7 +2353,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izvilktiem zobiņiem apbruņoti.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_5:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_5:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un to jātnieku pulki</div>
        <lb/>
@@ -2371,7 +2371,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bruņas.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_5:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_5:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tapēc lūdze visi/ ka</div>
        <lb/>
@@ -2379,7 +2379,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būtu.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_5:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_5:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. bet kad kāda nepatiesa</div>
        <lb/>
@@ -2401,7 +2401,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bēdze menelaus uz pilim.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_5:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_5:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tad nokave jazons savus</div>
        <lb/>
@@ -2419,7 +2419,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kaŗodamies.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_5:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_5:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. taču viņš to virsibu</div>
        <lb/>
@@ -2431,7 +2431,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uz to amoriteŗu zemi.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_5:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_5:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tā dabuja viņš savas</div>
        <lb/>
@@ -2459,7 +2459,7 @@
        <lb/>
         <div type="Language" lang="Latvian">egipti izdzīts.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_5:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_5:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un kas daudz no tās tēva</div>
        <lb/>
@@ -2475,7 +2475,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņiem dabūt.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_5:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_5:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un kas daudz ne=apraktus</div>
        <lb/>
@@ -2487,7 +2487,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aprakts.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_5:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_5:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. kad nu tas ķēniņš</div>
        <lb/>
@@ -2503,7 +2503,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un uzņēme to pilssātu ar varu.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_5:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_5:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un pavēleja tiem kaŗa=vīriem</div>
        <lb/>
@@ -2515,7 +2515,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nokaut.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_5:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_5:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tad kļua jaunie un</div>
        <lb/>
@@ -2525,7 +2525,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un jauni bērni nonāveti.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_5:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_5:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tā ka trejās dienās</div>
        <lb/>
@@ -2537,7 +2537,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pulks pārdots tape.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_5:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_5:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un ar to viņš vēl ne</div>
        <lb/>
@@ -2555,7 +2555,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_5:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_5:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tur ņēme viņš ar savām</div>
        <lb/>
@@ -2573,7 +2573,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rokām.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_5:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_5:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un antiokus liepojās</div>
        <lb/>
@@ -2589,7 +2589,7 @@
        <lb/>
         <div type="Language" lang="Latvian">noticis.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_5:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_5:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. ja tas tā ne būtu bijis/</div>
        <lb/>
@@ -2609,7 +2609,7 @@
        <lb/>
         <div type="Language" lang="Latvian">šausts tapis.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_5:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_5:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. bet tas kungs ne ir</div>
        <lb/>
@@ -2617,7 +2617,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bet to vietu to ļaužu pēc izvēlejs.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_5:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_5:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. tapēc ari ši pati</div>
        <lb/>
@@ -2639,7 +2639,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar visu godu pa=augstinata.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_5:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_5:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un kad antiokus tūkstošus</div>
        <lb/>
@@ -2663,7 +2663,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa sirds.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_5:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_5:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. viņš pamete aridzan</div>
        <lb/>
@@ -2679,7 +2679,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas/ kas viņu bij iecēlis.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_5:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_5:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. un iekš garicim androniku/</div>
        <lb/>
@@ -2695,7 +2695,7 @@
        <lb/>
         <div type="Language" lang="Latvian">prātu tureja.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_5:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_5:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. pēc sūtija viņš to</div>
        <lb/>
@@ -2711,7 +2711,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sievas un bērnus pārdot.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_5:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_5:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. kad tas nu uz jeruzalemi</div>
        <lb/>
@@ -2729,7 +2729,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ka bij apbruņoties.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_5:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_5:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un nodūre visus/ kas</div>
        <lb/>
@@ -2741,7 +2741,7 @@
        <lb/>
         <div type="Language" lang="Latvian">draudzi.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_5:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_5:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. bet jūdas makabejus</div>
        <lb/>
@@ -2762,7 +2762,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta vi. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_6:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_6:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un ne sen pēc to laiku</div>
        <lb/>
@@ -2778,7 +2778,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bauslibas ne turēt.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_6:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_6:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ka tam ari to dieva=</div>
        <lb/>
@@ -2796,7 +2796,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dzīvoja.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_6:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_6:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. šādas blēdibas apņemšana</div>
        <lb/>
@@ -2804,7 +2804,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ļoti gŗūta un briesmiga.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_6:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_6:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. jo tas svētajs dieva=</div>
        <lb/>
@@ -2822,7 +2822,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietas ienese.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_6:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_6:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. ir tas altaris tape pildīts</div>
        <lb/>
@@ -2832,7 +2832,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aizliegtas bija.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_6:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_6:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un tur ne tape tās</div>
        <lb/>
@@ -2844,7 +2844,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ka viņš esu juds.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_6:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_6:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. bet tie kļua ar rūktu</div>
        <lb/>
@@ -2860,7 +2860,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tam bakum par godu nest.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_6:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_6:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. viens bauslis ari izgāje</div>
        <lb/>
@@ -2876,7 +2876,7 @@
        <lb/>
         <div type="Language" lang="Latvian">upuŗiem taptu piespiesti.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_6:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_6:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un ka tos/ kas ne gribetu</div>
        <lb/>
@@ -2888,7 +2888,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tur cēlās.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_6:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_6:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. jo divi sievas/ kas savus</div>
        <lb/>
@@ -2904,7 +2904,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nomestas.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_6:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_6:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. citi bij tuvumā iekš</div>
        <lb/>
@@ -2922,7 +2922,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dienas pēc preti ne tureties.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_6:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_6:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. es tad tos lūdzu/ kas</div>
        <lb/>
@@ -2938,7 +2938,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mūsu tautai notikušas.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_6:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_6:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. jo ta ir liela labadarišanas</div>
        <lb/>
@@ -2950,7 +2950,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pār viņiem drīz nāk.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_6:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_6:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. jo tas kungs ne ir apņēmies</div>
        <lb/>
@@ -2966,7 +2966,7 @@
        <lb/>
         <div type="Language" lang="Latvian">soda.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_6:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_6:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. ka viņam pēcgalá</div>
        <lb/>
@@ -2976,7 +2976,7 @@
        <lb/>
         <div type="Language" lang="Latvian">galam būtum nākuši.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_6:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_6:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tadēļ viņš gan savu</div>
        <lb/>
@@ -2988,7 +2988,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ne atstāj savus ļaudis.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_6:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_6:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. bet tas vien ir par</div>
        <lb/>
@@ -2998,7 +2998,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pašas notikušas lietas izstāstīt.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_6:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_6:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. ieleacars/ viens no tiem</div>
        <lb/>
@@ -3014,7 +3014,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gaļu ēstu.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_6:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_6:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. bet šis labaki gribeja</div>
        <lb/>
@@ -3026,7 +3026,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās sodu=vietas/ un izspļāve.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_6:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_6:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. it kā pieklājās tādiem</div>
        <lb/>
@@ -3038,7 +3038,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dēļ ilgaki dzīvot.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_6:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_6:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. tie nu/ kas pār tiem</div>
        <lb/>
@@ -3062,7 +3062,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_6:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_6:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. ka viņš to daridams</div>
        <lb/>
@@ -3074,7 +3074,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taptu.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_6:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_6:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet šis ņēme godigu</div>
        <lb/>
@@ -3100,7 +3100,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priekš laika nosūtīt.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_6:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_6:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. jo mūsu vecumam</div>
        <lb/>
@@ -3114,7 +3114,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tapušu esam.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_6:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_6:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. un tad tie taptu caur</div>
        <lb/>
@@ -3130,7 +3130,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kaunu daritu.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_6:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_6:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. jo jepšu es tagadiņ</div>
        <lb/>
@@ -3142,7 +3142,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne dzīvs ne nomiris izbēgt.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_6:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_6:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. tapēc es nu godigi</div>
        <lb/>
@@ -3150,7 +3150,7 @@
        <lb/>
         <div type="Language" lang="Latvian">manam vecumam pieklājās/</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_6:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_6:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. un pametišu tiem jauniem</div>
        <lb/>
@@ -3166,7 +3166,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie tās soda=vietas.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_6:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_6:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. un tie/ kas viņu vede/</div>
        <lb/>
@@ -3180,7 +3180,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie par trakumu tureja.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_6:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_6:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. kad nu viņš caur tādām</div>
        <lb/>
@@ -3206,7 +3206,7 @@
        <lb/>
         <div type="Language" lang="Latvian">labad ciešu.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_6:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_6:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. ar tādu aiziešanu</div>
        <lb/>
@@ -3227,7 +3227,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta vii. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_7:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_7:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. vēl tas ari notikās/</div>
        <lb/>
@@ -3243,7 +3243,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un knūtiem šausti.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_7:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_7:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. bet viens no tiem tas</div>
        <lb/>
@@ -3259,7 +3259,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārkāpt.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_7:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_7:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tad apskaitās tas ķēniņš/</div>
        <lb/>
@@ -3269,7 +3269,7 @@
        <lb/>
         <div type="Language" lang="Latvian">likt.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_7:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_7:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un kad tie bija karsti</div>
        <lb/>
@@ -3287,7 +3287,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mātei to redzot.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_7:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_7:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. kad tas nu visai bija</div>
        <lb/>
@@ -3309,7 +3309,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nomirt/ tā sacidami:</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_7:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_7:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. dievs tas kungs redz/</div>
        <lb/>
@@ -3327,7 +3327,7 @@
        <lb/>
        <div type="Parallel">w:6. Dahw:Dſ: 90,14.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_7:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_7:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. kad nu tas pirmajs tā bija</div>
        <lb/>
@@ -3345,7 +3345,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mocita top?</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_7:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_7:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. bet viņš atbildeja tēviskā</div>
        <lb/>
@@ -3357,7 +3357,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kā tas pirmajs.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_7:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_7:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. kad nu viņš pašā</div>
        <lb/>
@@ -3377,7 +3377,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mūžigu dzīvošanu.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_7:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_7:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un pēc šo tape tas</div>
        <lb/>
@@ -3389,7 +3389,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās rokas droši.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_7:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_7:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un sacija godigi: šo</div>
        <lb/>
@@ -3401,7 +3401,7 @@
        <lb/>
         <div type="Language" lang="Latvian">cereju no viņa to atkaļ iedabūt.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_7:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_7:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tā ka pats tas ķēniņš/</div>
        <lb/>
@@ -3413,7 +3413,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nenieka tureja.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_7:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_7:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un kad tas ari bija nomaitāts/</div>
        <lb/>
@@ -3421,7 +3421,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tā pat ar šaušanu mocija.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_7:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_7:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un kad tas nu tuvu pie</div>
        <lb/>
@@ -3441,13 +3441,13 @@
        <lb/>
         <div type="Language" lang="Latvian">pie tās dzīvibas.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_7:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_7:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. pēc atvede tie aridzan</div>
        <lb/>
         <div type="Language" lang="Latvian">to piekto/ un šaute to.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_7:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_7:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. bet tas uzlūkoja viņu/</div>
        <lb/>
@@ -3461,7 +3461,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tautu no dieva esam atstātu.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_7:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_7:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. bet gaidi/ un lūko</div>
        <lb/>
@@ -3471,7 +3471,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mocīs.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_7:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_7:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. tad pēc šo atvede</div>
        <lb/>
@@ -3489,7 +3489,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ko mēs esam pelnijši.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_7:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_7:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. bet tu ne šķiet/ ka tu</div>
        <lb/>
@@ -3497,7 +3497,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar dievu kauties.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_7:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_7:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. bet ar to māti bija</div>
        <lb/>
@@ -3515,7 +3515,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to kungu.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_7:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_7:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un iepriecinaja vēl ikkuŗu</div>
        <lb/>
@@ -3531,7 +3531,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem:</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_7:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_7:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. es ne zinu kā jūs manās</div>
        <lb/>
@@ -3545,7 +3545,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tā salikusi.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_7:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_7:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. tadēļ tas pats pasaules</div>
        <lb/>
@@ -3563,7 +3563,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nododaties.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_7:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_7:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. bet antiokus šķite/</div>
        <lb/>
@@ -3593,7 +3593,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bauslibām atkāpties.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_7:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_7:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. bet kad tas jauneklis</div>
        <lb/>
@@ -3607,7 +3607,7 @@
        <lb/>
         <div type="Language" lang="Latvian">labu.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_7:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_7:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un kad viņš to daudz</div>
        <lb/>
@@ -3615,7 +3615,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dēlu pārrunāt.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_7:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_7:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. bet viņa pie ta locidamies</div>
        <lb/>
@@ -3641,7 +3641,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tavas uzaudzinašanas redzejsi;</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_7:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_7:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. es tevi lūdzu/ mans</div>
        <lb/>
@@ -3657,7 +3657,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dariti ir.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_7:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_7:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. ne bīsties par šo bendi/</div>
        <lb/>
@@ -3671,7 +3671,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atdabuju.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_7:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_7:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. kad nu viņa tā vēl</div>
        <lb/>
@@ -3689,7 +3689,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dota ir.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_7:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_7:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. bet tu/ kas tu pret</div>
        <lb/>
@@ -3699,13 +3699,13 @@
        <lb/>
         <div type="Language" lang="Latvian">izbēgsi.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_7:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_7:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. jo mēs savu grēku</div>
        <lb/>
         <div type="Language" lang="Latvian">dēļ ciešam.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_7:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_7:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. jepšu nu tas kungs/</div>
        <lb/>
@@ -3719,7 +3719,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kalpiem salīdzināts.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_7:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_7:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. bet tu bezdievigajs</div>
        <lb/>
@@ -3733,7 +3733,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kolpiem to roku paceldams.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_7:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_7:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. jo tu vēl ne esi ta</div>
        <lb/>
@@ -3741,7 +3741,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sodibai izbēdzis.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_7:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_7:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. jo šie mūsu brāļi/</div>
        <lb/>
@@ -3759,7 +3759,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lepnibas.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_7:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_7:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. es tad ari tā pat kā</div>
        <lb/>
@@ -3779,7 +3779,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas vienigajs dievs ir.</div>
       </div>
-      <div n="38." type="Verse" id="Apokr1689/2Mak_7:38.">
+      <div n="38." type="Verse" id="Apokr1689::2Mak_7:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. un ka pie manim un</div>
        <lb/>
@@ -3791,7 +3791,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taisni ir nākusi.</div>
       </div>
-      <div n="39." type="Verse" id="Apokr1689/2Mak_7:39.">
+      <div n="39." type="Verse" id="Apokr1689::2Mak_7:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. tad tas ķēniņš tā</div>
        <lb/>
@@ -3807,7 +3807,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tape.</div>
       </div>
-      <div n="40." type="Verse" id="Apokr1689/2Mak_7:40.">
+      <div n="40." type="Verse" id="Apokr1689::2Mak_7:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. tā ir šis ari šķīsts</div>
        <lb/>
@@ -3817,7 +3817,7 @@
        <lb/>
         <div type="Language" lang="Latvian">paļaudamies.</div>
       </div>
-      <div n="41." type="Verse" id="Apokr1689/2Mak_7:41.">
+      <div n="41." type="Verse" id="Apokr1689::2Mak_7:41.">
        <lb/>
         <div type="Language" lang="Latvian">41. un pēdigi pēc tiem</div>
        <lb/>
@@ -3825,7 +3825,7 @@
        <lb/>
         <div type="Language" lang="Latvian">maitata tapusi.</div>
       </div>
-      <div n="42." type="Verse" id="Apokr1689/2Mak_7:42.">
+      <div n="42." type="Verse" id="Apokr1689::2Mak_7:42.">
        <lb/>
         <div type="Language" lang="Latvian">42. tas būs nu līdz šim</div>
        <lb/>
@@ -3838,7 +3838,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta viii. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_8:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_8:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. bet jūdas makabejus/</div>
        <lb/>
@@ -3856,7 +3856,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija/ un sapulcinaja pie seštūkstošiem.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_8:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_8:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un piesauce to kungu/</div>
        <lb/>
@@ -3872,7 +3872,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sagānīts tape.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_8:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_8:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un apžēlotos ari pār</div>
        <lb/>
@@ -3884,7 +3884,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uz viņu brēktu.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_8:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_8:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un pieminetu to nenoziedzigu</div>
        <lb/>
@@ -3900,7 +3900,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne varetu ieredzēt.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_8:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_8:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. kad nu makabejus savu</div>
        <lb/>
@@ -3914,7 +3914,7 @@
        <lb/>
         <div type="Language" lang="Latvian">žēlastibu.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_8:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_8:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. viņš uzbruke uz pilssātiem</div>
        <lb/>
@@ -3928,7 +3928,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to ienaidnieku.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_8:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_8:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. vissvairak darija</div>
        <lb/>
@@ -3938,7 +3938,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sirdigu darbu visur izpaude.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_8:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_8:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. kad nu vīlipus redzeja/</div>
        <lb/>
@@ -3958,7 +3958,7 @@
        <lb/>
         <div type="Language" lang="Latvian">līdz paligā nāktu.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_8:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_8:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tad sūtija tas tūdaliņ</div>
        <lb/>
@@ -3984,7 +3984,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laba saprašana bija.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_8:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_8:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un nikanors bij pakavejies</div>
        <lb/>
@@ -3998,7 +3998,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem cietinajamiem judiem piepildīt.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_8:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_8:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. tapēc sūtija viņš</div>
        <lb/>
@@ -4020,7 +4020,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nāktu.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_8:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_8:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. bet jūdasam tape</div>
        <lb/>
@@ -4034,7 +4034,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atnāktu.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_8:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_8:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. bet kas bailigi ļaudis</div>
        <lb/>
@@ -4044,7 +4044,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to vietu.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_8:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_8:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. citie atkaļ pārdeve</div>
        <lb/>
@@ -4058,7 +4058,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārdoti tapuši.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_8:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_8:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un ja tas ne gribetu</div>
        <lb/>
@@ -4074,7 +4074,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie nosaukti kļua.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_8:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_8:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. pēc sapulcinaja makabejus</div>
        <lb/>
@@ -4094,7 +4094,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bet sirdigi kautos.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_8:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_8:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un ka tie priekš acim</div>
        <lb/>
@@ -4112,7 +4112,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vecu=tēvi darijši.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_8:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_8:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. jo/ sacija viņš/ tie</div>
        <lb/>
@@ -4132,7 +4132,7 @@
        <lb/>
        <div type="Parallel">w:18. Dahw:Dſ: 8.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_8:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_8:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. viņš izteice tiem aridzan/</div>
        <lb/>
@@ -4148,7 +4148,7 @@
        <lb/>
        <div type="Parallel">w:19. 2.Kehn. 19,35. Eſa: 37,36.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_8:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_8:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un ari to kaušanu</div>
        <lb/>
@@ -4176,7 +4176,7 @@
        <lb/>
         <div type="Language" lang="Latvian">daudz labuma dabujši.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_8:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_8:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. ar šām lietām padarija</div>
        <lb/>
@@ -4192,7 +4192,7 @@
        <lb/>
         <div type="Language" lang="Latvian">četros pulkos.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_8:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_8:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un iecēle aridzan savus</div>
        <lb/>
@@ -4206,7 +4206,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vīrus.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_8:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_8:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. tur klāt aridzan ieleacaru:</div>
        <lb/>
@@ -4222,7 +4222,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nikanoru.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_8:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_8:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. tad tas visuvalditajs</div>
        <lb/>
@@ -4238,7 +4238,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un spiede visus aizbēgt.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_8:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_8:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tie dabuja aridzan to</div>
        <lb/>
@@ -4252,7 +4252,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jo viņiem tas laiks pietrūke.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_8:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_8:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. jo tas bija tai dienā</div>
        <lb/>
@@ -4260,7 +4260,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne vareja tie tiem tāļaki pakaļdzīties.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_8:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_8:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. kad tie nu viņiem tās</div>
        <lb/>
@@ -4280,7 +4280,7 @@
        <lb/>
         <div type="Language" lang="Latvian">parādijs.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_8:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_8:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. un pēc tās svēdienas</div>
        <lb/>
@@ -4294,7 +4294,7 @@
        <lb/>
         <div type="Language" lang="Latvian">saviem bērniem.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_8:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_8:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. un kad tie to ari bij</div>
        <lb/>
@@ -4308,7 +4308,7 @@
        <lb/>
         <div type="Language" lang="Latvian">salīdzināts gribetu palikt.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_8:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_8:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. pēc nokave tie aridzan</div>
        <lb/>
@@ -4334,7 +4334,7 @@
        <lb/>
         <div type="Language" lang="Latvian">veciem.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_8:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_8:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. un kad tie bij tās bruņas</div>
        <lb/>
@@ -4346,7 +4346,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laupijumu vede tie uz jeruzalemi.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_8:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_8:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. tie nokave aridzan vienu</div>
        <lb/>
@@ -4358,7 +4358,7 @@
        <lb/>
         <div type="Language" lang="Latvian">daudz bij apbēdinajs.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_8:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_8:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. tā pat tad tie tos uzvarešanas=svētus</div>
        <lb/>
@@ -4378,7 +4378,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dabuja.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_8:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_8:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. bet tas trīskārtigajs</div>
        <lb/>
@@ -4390,7 +4390,7 @@
        <lb/>
         <div type="Language" lang="Latvian">judus pārdotu.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_8:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_8:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. kad tas nu caur ta kunga</div>
        <lb/>
@@ -4416,7 +4416,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bojā=iešanas.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_8:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_8:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. un tas/ kas tiem riemeŗiem</div>
        <lb/>
@@ -4441,7 +4441,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta ix. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_9:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_9:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ap to laiku bij antiokum</div>
        <lb/>
@@ -4451,7 +4451,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iziet.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_9:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_9:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ko kad viņš uz to pilssātu</div>
        <lb/>
@@ -4475,7 +4475,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kaunu atpakaļ atgriezās.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_9:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_9:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. kad nu viņš pie ekbatanas</div>
        <lb/>
@@ -4485,7 +4485,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un timoteju bija noticis.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_9:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_9:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un viņš apskaitās ļoti/</div>
        <lb/>
@@ -4513,7 +4513,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nākšu.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_9:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_9:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. bet tas visuvaldigajs</div>
        <lb/>
@@ -4533,7 +4533,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mokas/ ko ne vareja dziedināt.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_9:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_9:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. it taisni/ tapēc ka tas</div>
        <lb/>
@@ -4543,7 +4543,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij mocijs.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_9:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_9:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. taču viņš no tās</div>
        <lb/>
@@ -4569,7 +4569,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kļua.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_9:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_9:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tad tape tas/ kas ne</div>
        <lb/>
@@ -4595,7 +4595,7 @@
        <lb/>
         <div type="Language" lang="Latvian">spēku/ kas tur redzams bija.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_9:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_9:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tā ka aridzan no ši</div>
        <lb/>
@@ -4617,7 +4617,7 @@
        <lb/>
         <div type="Language" lang="Latvian">puešus panest.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_9:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_9:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un neviens vareja tās</div>
        <lb/>
@@ -4629,7 +4629,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zvaigznes aiztikt.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_9:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_9:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. tad nu/ kad tas tā bija</div>
        <lb/>
@@ -4645,7 +4645,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jo lielakas.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_9:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_9:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un kad viņš pats savu</div>
        <lb/>
@@ -4665,7 +4665,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietas darīt kā dievs.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_9:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_9:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un tas blēds pielūdze</div>
        <lb/>
@@ -4675,7 +4675,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un sacija tā.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_9:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_9:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. ka viņš nu gribus</div>
        <lb/>
@@ -4687,7 +4687,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par kapu=vietu darīt/) atsvabināt.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_9:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_9:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un ka viņš visus judus/</div>
        <lb/>
@@ -4703,7 +4703,7 @@
        <lb/>
         <div type="Language" lang="Latvian">līdzus turēt.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_9:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_9:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un par to/ ka viņš pirmāk</div>
        <lb/>
@@ -4725,7 +4725,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mantas iesniegt.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_9:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_9:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un ka viņš vēl pār</div>
        <lb/>
@@ -4737,7 +4737,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dieva varu slavēt.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_9:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_9:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. bet kad tās sāpes</div>
        <lb/>
@@ -4755,7 +4755,7 @@
        <lb/>
         <div type="Language" lang="Latvian">grāmatu/ ar šiem vārdiem.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_9:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_9:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. antiokus tas ķēniņš</div>
        <lb/>
@@ -4767,7 +4767,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un labklāšanas.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_9:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_9:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. kad nu jūs ar saviem</div>
        <lb/>
@@ -4779,7 +4779,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uz debesi ceredams.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_9:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_9:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. bet es esmu ļoti nevesels/</div>
        <lb/>
@@ -4799,7 +4799,7 @@
        <lb/>
         <div type="Language" lang="Latvian">žēligi.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_9:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_9:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. jepšu es sevis pēc ne</div>
        <lb/>
@@ -4809,7 +4809,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atspirgšos.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_9:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_9:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet kad es apdomajos/</div>
        <lb/>
@@ -4823,7 +4823,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas pēc viņa valditu.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_9:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_9:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. ka/ kad dažkārt nonejauši</div>
        <lb/>
@@ -4837,7 +4837,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būtu/ un ne taptu izbiedeti.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_9:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_9:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. un pār to vēl domadams/</div>
        <lb/>
@@ -4863,7 +4863,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas apakšā ir uzrakstīts.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_9:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_9:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. tapēc lūdzu un pieminu</div>
        <lb/>
@@ -4879,7 +4879,7 @@
        <lb/>
         <div type="Language" lang="Latvian">man un manam dēlam.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_9:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_9:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. jo es tiešam zinu/ ka</div>
        <lb/>
@@ -4887,7 +4887,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un laipnigi pret jums turesies.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_9:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_9:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. tā nomire tas slepkave</div>
        <lb/>
@@ -4899,7 +4899,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemē uz tām kalnu vietām.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_9:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_9:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. un vīlipus/ kas ar</div>
        <lb/>
@@ -4916,7 +4916,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta x. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_10:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_10:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. tad uzņēme makabejus</div>
        <lb/>
@@ -4928,7 +4928,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pilssātu.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_10:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_10:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un nopostija tos altaŗus</div>
        <lb/>
@@ -4938,7 +4938,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uztaisiti.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_10:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_10:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un šķīstija to dieva=</div>
        <lb/>
@@ -4954,7 +4954,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priekšliekamas maizes.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_10:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_10:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un šo darijši metēs</div>
        <lb/>
@@ -4976,7 +4976,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nodot.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_10:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_10:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un tas tā notike/ ka tai</div>
        <lb/>
@@ -4992,7 +4992,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kisleva mēnesī.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_10:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_10:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un tie tureja ar prieku</div>
        <lb/>
@@ -5008,7 +5008,7 @@
        <lb/>
         <div type="Language" lang="Latvian">turejši.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_10:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_10:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. tadēļ nese tie mejes</div>
        <lb/>
@@ -5022,7 +5022,7 @@
        <lb/>
         <div type="Language" lang="Latvian">šķīstīt.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_10:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_10:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un tie iecēle vienu likumu</div>
        <lb/>
@@ -5032,7 +5032,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ikgadus taptu svētitas.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_10:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_10:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tāds ir antiokus gals</div>
        <lb/>
@@ -5043,7 +5043,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">* epivanus.</div></div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_10:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_10:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. nu gribam mēs ari</div>
        <lb/>
@@ -5057,7 +5057,7 @@
        <lb/>
         <div type="Language" lang="Latvian">caur kaŗu noticis.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_10:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_10:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. šis nu par ķēniņu</div>
        <lb/>
@@ -5069,7 +5069,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iekš zīrijas un vienikijas.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_10:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_10:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. bet ptolemejus ar pavārdu</div>
        <lb/>
@@ -5085,7 +5085,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to/ ka tos bij ar mieru laist.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_10:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_10:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tapēc kļua viņš no</div>
        <lb/>
@@ -5111,7 +5111,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zāles/ un nomire.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_10:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_10:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. kad nu gorgijus par</div>
        <lb/>
@@ -5125,7 +5125,7 @@
        <lb/>
         <div type="Language" lang="Latvian">judiem kaŗot.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_10:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_10:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tapat aridzan tie iedomiteŗi/</div>
        <lb/>
@@ -5139,7 +5139,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un sāce uz kaŗu taisities.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_10:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_10:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tad makabejus ar saviem</div>
        <lb/>
@@ -5151,7 +5151,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iekš to iedomiteŗu stiprumiem.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_10:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_10:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un stipri pret tiem uzstāvejši/</div>
        <lb/>
@@ -5167,7 +5167,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne mazaki/ kā dividesmits tūkstošus.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_10:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_10:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. bet tur bij pie deviņ</div>
        <lb/>
@@ -5181,7 +5181,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pastāvēt.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_10:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_10:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. tad pamete makabejus</div>
        <lb/>
@@ -5197,7 +5197,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vietām/ kur vajagā bija.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_10:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_10:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. bet tie/ kas pie sīmaņa</div>
        <lb/>
@@ -5213,7 +5213,7 @@
        <lb/>
         <div type="Language" lang="Latvian">like citus no tiem izsprukt.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_10:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_10:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. kad nu šis darbs</div>
        <lb/>
@@ -5231,7 +5231,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vaļā sprukt.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_10:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_10:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un viņš nokave tos/</div>
        <lb/>
@@ -5241,7 +5241,7 @@
        <lb/>
         <div type="Language" lang="Latvian">torņus.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_10:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_10:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. un viņu ieročiem</div>
        <lb/>
@@ -5253,7 +5253,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tūkstošus.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_10:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_10:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. bet timotejus/ kas pirmīt</div>
        <lb/>
@@ -5271,7 +5271,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atkaļ uzņemt.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_10:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_10:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. bet tie/ kas pie makabejus</div>
        <lb/>
@@ -5285,7 +5285,7 @@
        <lb/>
         <div type="Language" lang="Latvian">apjoze savus gurnus ar maisiem.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_10:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_10:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un metēs pie zemes</div>
        <lb/>
@@ -5303,7 +5303,7 @@
        <lb/>
         <div type="Language" lang="Latvian">stāsta.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_10:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_10:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. tā nu pielūguši/ ņēme</div>
        <lb/>
@@ -5315,7 +5315,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sastape/ tad tie pastājās.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_10:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_10:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. un kad gaisma tape/</div>
        <lb/>
@@ -5335,7 +5335,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kaŗā vaditi.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_10:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_10:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. kad nu briesmiga kaušana</div>
        <lb/>
@@ -5351,7 +5351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gāje.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_10:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_10:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. tie ņēme makabeju</div>
        <lb/>
@@ -5369,7 +5369,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pilni ar iztrūcinašanu.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_10:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_10:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. un tur tape nokauti dividesmits</div>
        <lb/>
@@ -5379,7 +5379,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jātnieki.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_10:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_10:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. bet pats timotejus aizbēdze</div>
        <lb/>
@@ -5389,7 +5389,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par valditaju bija.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_10:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_10:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. bet tie/ kas ar makabeju</div>
        <lb/>
@@ -5399,7 +5399,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dienas.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_10:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_10:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. bet tie/ kas iekšā bija/</div>
        <lb/>
@@ -5409,7 +5409,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zaimoja varen ļoti.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_10:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_10:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. kad nu ta piekta diena</div>
        <lb/>
@@ -5425,7 +5425,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un bārgi/ ko tie uzgāje.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_10:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_10:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. tāpat aridzan tie citi</div>
        <lb/>
@@ -5447,7 +5447,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pilssātu.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_10:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_10:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. un nokave timoteju/</div>
        <lb/>
@@ -5455,7 +5455,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar kareju un apolovanu.</div>
       </div>
-      <div n="38." type="Verse" id="Apokr1689/2Mak_10:38.">
+      <div n="38." type="Verse" id="Apokr1689::2Mak_10:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. un šo darijši/ slaveja</div>
        <lb/>
@@ -5472,7 +5472,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xi. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_11:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_11:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ne sen pēc ša laika</div>
        <lb/>
@@ -5488,7 +5488,7 @@
        <lb/>
         <div type="Language" lang="Latvian">varen ļoti.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_11:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_11:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un tas sapulcinaja pie astoņdesmits</div>
        <lb/>
@@ -5502,7 +5502,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mājas=vietu padarīt.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_11:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_11:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un ar to svētu vietu</div>
        <lb/>
@@ -5516,7 +5516,7 @@
        <lb/>
         <div type="Language" lang="Latvian">naudu pārdot.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_11:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_11:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un viņš ne apdomaja</div>
        <lb/>
@@ -5528,7 +5528,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ielevantu bija.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_11:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_11:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. kad tas nu uz judu</div>
        <lb/>
@@ -5544,7 +5544,7 @@
        <lb/>
         <div type="Language" lang="Latvian">apbēdinaja viņš.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_11:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_11:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. kad nu makabejus ar</div>
        <lb/>
@@ -5564,7 +5564,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par paligu.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_11:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_11:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. bet pats makabejus bija</div>
        <lb/>
@@ -5580,7 +5580,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nāktu.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_11:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_11:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tā izgāje tie tikuši</div>
        <lb/>
@@ -5596,7 +5596,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas gāje tiem papriekšu.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_11:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_11:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tad slaveja tie visi kopa</div>
        <lb/>
@@ -5612,7 +5612,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mūrus samaitāt.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_11:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_11:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. tā gāje tie projam</div>
        <lb/>
@@ -5622,7 +5622,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kunga apžēlošanu.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_11:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_11:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un lauzās pret tiem</div>
        <lb/>
@@ -5634,7 +5634,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un sešpadesmits simts jātniekus.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_11:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_11:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un spiede visus/ ka tie</div>
        <lb/>
@@ -5646,7 +5646,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izbēgdams.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_11:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_11:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un lizijus bija viens sapratigs</div>
        <lb/>
@@ -5664,7 +5664,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būtu.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_11:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_11:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tad sūtija viņš/ un</div>
        <lb/>
@@ -5678,7 +5678,7 @@
        <lb/>
         <div type="Language" lang="Latvian">draugs tiktu.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_11:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_11:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un makabejus darija</div>
        <lb/>
@@ -5694,7 +5694,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iedeve to judu pēc.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_11:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_11:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un lizijus bij uz tiem</div>
        <lb/>
@@ -5702,7 +5702,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vēle tai judu draudzei prieku.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_11:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_11:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. jānis un abezaloms/</div>
        <lb/>
@@ -5716,7 +5716,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās rakstitas bija.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_11:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_11:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. kas nu tam ķēniņam</div>
        <lb/>
@@ -5728,7 +5728,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta/ kas labi piederās.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_11:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_11:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. ja jūs nu pie šīm</div>
        <lb/>
@@ -5740,7 +5740,7 @@
        <lb/>
         <div type="Language" lang="Latvian">klājās.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_11:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_11:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. bet par tām savadām</div>
        <lb/>
@@ -5750,7 +5750,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pavēlejs ar jums no ta runāt.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_11:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_11:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. palieciet veseli. simts=</div>
        <lb/>
@@ -5760,7 +5760,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dioskoŗa mēnes.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_11:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_11:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un ta ķēniņa grāmata</div>
        <lb/>
@@ -5772,7 +5772,7 @@
        <lb/>
         <div type="Language" lang="Latvian">brāļam prieku.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_11:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_11:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. kamēr mūsu tēvs</div>
        <lb/>
@@ -5786,7 +5786,7 @@
        <lb/>
         <div type="Language" lang="Latvian">var apkopt.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_11:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_11:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. kad mēs nu dzirdam/</div>
        <lb/>
@@ -5806,7 +5806,7 @@
        <lb/>
         <div type="Language" lang="Latvian">var.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_11:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_11:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tad nu mums labi patīk/</div>
        <lb/>
@@ -5822,7 +5822,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tēvu likumiem pamest.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_11:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_11:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. tadēļ darisi tu labi/</div>
        <lb/>
@@ -5836,7 +5836,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kopj.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_11:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_11:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. bet uz to judu tautu</div>
        <lb/>
@@ -5850,7 +5850,7 @@
        <lb/>
         <div type="Language" lang="Latvian">prieku.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_11:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_11:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. kad jūs vēl veseli esat/</div>
        <lb/>
@@ -5860,7 +5860,7 @@
        <lb/>
         <div type="Language" lang="Latvian">veseli esam.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_11:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_11:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. mums ir menelaus</div>
        <lb/>
@@ -5870,7 +5870,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietas padarīt.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_11:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_11:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. tapēc dodam mēs</div>
        <lb/>
@@ -5882,7 +5882,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar mieru darīt var.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_11:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_11:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. ka tie savu pašu</div>
        <lb/>
@@ -5898,7 +5898,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietām.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_11:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_11:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. tadēļ esmu es aridzan</div>
        <lb/>
@@ -5906,7 +5906,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priecigas vēstis stāstīt.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_11:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_11:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. palieciet veseli. simts</div>
        <lb/>
@@ -5916,7 +5916,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mēnes dienā.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_11:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_11:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. un tie riemeŗi sūtija</div>
        <lb/>
@@ -5932,7 +5932,7 @@
        <lb/>
         <div type="Language" lang="Latvian">prieku.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_11:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_11:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. ko jums lizijus ta ķēniņa</div>
        <lb/>
@@ -5940,7 +5940,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mums ari labi patīk.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_11:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_11:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. bet ko viņš ir šķitis</div>
        <lb/>
@@ -5956,7 +5956,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mēs dzenamies uz antiokiju.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_11:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_11:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. tadēļ steidzieties un</div>
        <lb/>
@@ -5966,7 +5966,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_11:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_11:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. palieciet veseli. simts</div>
        <lb/>
@@ -5979,7 +5979,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xii. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_12:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_12:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. kad tas tā nu saderēts</div>
        <lb/>
@@ -5991,7 +5991,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tīrumus.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_12:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_12:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. bet tie kaŗa=virsnieki/</div>
        <lb/>
@@ -6009,7 +6009,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darbu mierigi padarīt.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_12:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_12:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. ir tie jopes iedzīvotaji</div>
        <lb/>
@@ -6029,7 +6029,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu starpā.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_12:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_12:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. kad nu tie šim pilssāta</div>
        <lb/>
@@ -6045,7 +6045,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tos/ pie divisimts cilvekiem.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_12:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_12:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. kad nu jūdas dzirdeja</div>
        <lb/>
@@ -6057,7 +6057,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas kārt viņu bija/ ziņu.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_12:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_12:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un piesauce dievu to taisnu</div>
        <lb/>
@@ -6071,7 +6071,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nodūre tos/ kas tur bij sagājuši.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_12:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_12:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un kad tas pilssāts aizslēgts</div>
        <lb/>
@@ -6083,7 +6083,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pilssātu izsaknot.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_12:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_12:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un kad viņš nomanija/</div>
        <lb/>
@@ -6093,7 +6093,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas kārt viņiem dzīvoja.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_12:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_12:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tad uzbruke viņš tiem</div>
        <lb/>
@@ -6111,7 +6111,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no turenes bija.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_12:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_12:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. pēc gāje tie deviņ</div>
        <lb/>
@@ -6125,7 +6125,7 @@
        <lb/>
         <div type="Language" lang="Latvian">piecsimts jātnieki.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_12:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_12:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un tur kļua liela kaušana/</div>
        <lb/>
@@ -6143,7 +6143,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie citām lietām tam palīdzēt.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_12:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_12:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tad šķitās jūdas/</div>
        <lb/>
@@ -6153,7 +6153,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un iesolija ar tiem mieru darīt.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_12:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_12:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. viņš ielauzās ari</div>
        <lb/>
@@ -6183,7 +6183,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valodu.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_12:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_12:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tad piesauce tie/ kas pie</div>
        <lb/>
@@ -6201,7 +6201,7 @@
        <lb/>
        <div type="Parallel">w:15. Joſ: 6,20.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_12:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_12:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un uzņēme to pilssātu</div>
        <lb/>
@@ -6217,7 +6217,7 @@
        <lb/>
         <div type="Language" lang="Latvian">likās tīrs asins esus.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_12:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_12:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. no turenes aizgāje tie</div>
        <lb/>
@@ -6229,7 +6229,7 @@
        <lb/>
         <div type="Language" lang="Latvian">saukti kļua.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_12:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_12:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. bet tie timoteju tanīs</div>
        <lb/>
@@ -6243,7 +6243,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pametis.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_12:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_12:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. bet dozitejus un zozipatrus/</div>
        <lb/>
@@ -6259,7 +6259,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tūkstošus vīrus.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_12:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_12:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. bet makabejus dalija</div>
        <lb/>
@@ -6277,7 +6277,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jātnieki līdz bija.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_12:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_12:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. kad nu timotejus iedzirdeja/</div>
        <lb/>
@@ -6297,7 +6297,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vissapkārt bija.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_12:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_12:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. kad nu jūdasa pirmajs</div>
        <lb/>
@@ -6319,7 +6319,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zobiņu asmiņiem samaitajās.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_12:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_12:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet jūdas dzinās</div>
        <lb/>
@@ -6331,7 +6331,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vīriem.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_12:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_12:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. un timotejus pats tike</div>
        <lb/>
@@ -6351,7 +6351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taptu.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_12:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_12:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. kad tas nu ar lielu</div>
        <lb/>
@@ -6365,7 +6365,7 @@
        <lb/>
         <div type="Language" lang="Latvian">labad.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_12:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_12:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. pēc cēlās (jūdas)</div>
        <lb/>
@@ -6375,7 +6375,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tūkstošus cilvekus.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_12:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_12:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. tad pēc šīs maitašanas</div>
        <lb/>
@@ -6397,7 +6397,7 @@
        <lb/>
         <div type="Language" lang="Latvian">papillam.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_12:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_12:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. bet šie to kungu piesaukuši/</div>
        <lb/>
@@ -6413,7 +6413,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iekšā bija.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_12:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_12:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. no turenes tie aizgāje</div>
        <lb/>
@@ -6427,7 +6427,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemes) guleja.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_12:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_12:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. bet kad tie judi/ kas</div>
        <lb/>
@@ -6439,7 +6439,7 @@
        <lb/>
         <div type="Language" lang="Latvian">niknā laikā turejšies.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_12:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_12:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. tad pateice tie viņiem/</div>
        <lb/>
@@ -6453,7 +6453,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svētki tuvu bija.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_12:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_12:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. bet pēc vasaras=</div>
        <lb/>
@@ -6461,7 +6461,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pret gorgiju to idumejas valditaju.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_12:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_12:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. un izgāje ar trīstūkstošiem</div>
        <lb/>
@@ -6469,7 +6469,7 @@
        <lb/>
         <div type="Language" lang="Latvian">četrsimts jātniekiem.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_12:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_12:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. bet kad tie ar viņu kavās/</div>
        <lb/>
@@ -6477,7 +6477,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem judiem.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_12:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_12:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. un dozitejus/ viens no</div>
        <lb/>
@@ -6499,7 +6499,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gorgijus uz marezu,</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_12:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_12:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. bet kad tie pie ezdriņa</div>
        <lb/>
@@ -6511,7 +6511,7 @@
        <lb/>
         <div type="Language" lang="Latvian">paligu un kaŗa=vadonu.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_12:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_12:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. un iesāce tēviškā</div>
        <lb/>
@@ -6523,7 +6523,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un spiede tos uz bēgšanu.</div>
       </div>
-      <div n="38." type="Verse" id="Apokr1689/2Mak_12:38.">
+      <div n="38." type="Verse" id="Apokr1689::2Mak_12:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. tad ņēme jūdas tos</div>
        <lb/>
@@ -6537,7 +6537,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svēdienu.</div>
       </div>
-      <div n="39." type="Verse" id="Apokr1689/2Mak_12:39.">
+      <div n="39." type="Verse" id="Apokr1689::2Mak_12:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. un otrā dienā nāce</div>
        <lb/>
@@ -6553,7 +6553,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tēviškos kapos liktu.</div>
       </div>
-      <div n="40." type="Verse" id="Apokr1689/2Mak_12:40.">
+      <div n="40." type="Verse" id="Apokr1689::2Mak_12:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. un tie atrade apakš</div>
        <lb/>
@@ -6575,7 +6575,7 @@
        <lb/>
        <div type="Parallel">w:40. 5.Mohſ:Gr: 7,25.</div>
       </div>
-      <div n="41." type="Verse" id="Apokr1689/2Mak_12:41.">
+      <div n="41." type="Verse" id="Apokr1689::2Mak_12:41.">
        <lb/>
         <div type="Language" lang="Latvian">41. tad pateice visi tam</div>
        <lb/>
@@ -6585,7 +6585,7 @@
        <lb/>
         <div type="Language" lang="Latvian">padara.</div>
       </div>
-      <div n="42." type="Verse" id="Apokr1689/2Mak_12:42.">
+      <div n="42." type="Verse" id="Apokr1689::2Mak_12:42.">
        <lb/>
         <div type="Language" lang="Latvian">42. un metēs pielūgdami/</div>
        <lb/>
@@ -6605,7 +6605,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas nokauti bija.</div>
       </div>
-      <div n="43." type="Verse" id="Apokr1689/2Mak_12:43.">
+      <div n="43." type="Verse" id="Apokr1689::2Mak_12:43.">
        <lb/>
         <div type="Language" lang="Latvian">43. pēc like viņš no visiem</div>
        <lb/>
@@ -6625,7 +6625,7 @@
        <lb/>
         <div type="Language" lang="Latvian">prātā tureja.</div>
       </div>
-      <div n="44." type="Verse" id="Apokr1689/2Mak_12:44.">
+      <div n="44." type="Verse" id="Apokr1689::2Mak_12:44.">
        <lb/>
         <div type="Language" lang="Latvian">44. jo kad viņš ne būtu</div>
        <lb/>
@@ -6639,7 +6639,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nomirušiem lūgt.</div>
       </div>
-      <div n="45." type="Verse" id="Apokr1689/2Mak_12:45.">
+      <div n="45." type="Verse" id="Apokr1689::2Mak_12:45.">
        <lb/>
         <div type="Language" lang="Latvian">45. kad tas nu manija/ ka</div>
        <lb/>
@@ -6653,7 +6653,7 @@
        <lb/>
         <div type="Language" lang="Latvian">domašana.</div>
       </div>
-      <div n="46." type="Verse" id="Apokr1689/2Mak_12:46.">
+      <div n="46." type="Verse" id="Apokr1689::2Mak_12:46.">
        <lb/>
         <div type="Language" lang="Latvian">46. tad ir viņš ari</div>
        <lb/>
@@ -6666,7 +6666,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xiii. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_13:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_13:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. bet simts cetordesmitā</div>
        <lb/>
@@ -6680,7 +6680,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nākus.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_13:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_13:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un ar viņu esus lizijus</div>
        <lb/>
@@ -6700,7 +6700,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rati.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_13:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_13:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. ar šiem apbiedrinajās</div>
        <lb/>
@@ -6716,7 +6716,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dabutu.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_13:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_13:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. bet tas ķēniņš pār</div>
        <lb/>
@@ -6736,7 +6736,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nomaitāt.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_13:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_13:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tanī vietā bija viens</div>
        <lb/>
@@ -6750,7 +6750,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pelnos kļua iekrists.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_13:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_13:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tur tape tie/ kas svētas</div>
        <lb/>
@@ -6760,7 +6760,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darijši/ visi nomaitati.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_13:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_13:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. ar tādu nāvi bij tam</div>
        <lb/>
@@ -6770,7 +6770,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tapt.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_13:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_13:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un tas kļua it pareizi/ jo</div>
        <lb/>
@@ -6784,7 +6784,7 @@
        <lb/>
         <div type="Language" lang="Latvian">savu nāvi dabūt.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_13:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_13:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tad nāce tas ķēniņš</div>
        <lb/>
@@ -6798,7 +6798,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laikā darīts bija.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_13:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_13:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. šo sajute jūdas/</div>
        <lb/>
@@ -6818,7 +6818,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vietu aplaupīt.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_13:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_13:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un ne paļautu/ ka tie</div>
        <lb/>
@@ -6830,7 +6830,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taptu.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_13:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_13:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. kad nu visi to vienprātigi</div>
        <lb/>
@@ -6846,7 +6846,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jūdas/ un like tos atiet.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_13:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_13:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tad tureja viņš sevišķi</div>
        <lb/>
@@ -6864,7 +6864,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kunga paligu galu darīt.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_13:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_13:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tā viņš sevi pavēlejās</div>
        <lb/>
@@ -6882,7 +6882,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemi un visu draudzi.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_13:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_13:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un viņš apmete to</div>
        <lb/>
@@ -6910,7 +6910,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_13:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_13:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un pēc tie to lēģeri ar</div>
        <lb/>
@@ -6920,7 +6920,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laimi.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_13:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_13:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un tas bij noticis/</div>
        <lb/>
@@ -6930,7 +6930,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas viņu no augšenes pasargaja.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_13:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_13:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. bet tas ķēniņš/ kad</div>
        <lb/>
@@ -6940,7 +6940,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viltu uzņemt.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_13:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_13:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un kad tas pret betcuru</div>
        <lb/>
@@ -6952,7 +6952,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne ko/ un gāje mazumā.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_13:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_13:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. bet jūdas sūtija tiem/</div>
        <lb/>
@@ -6960,7 +6960,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vajaga.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_13:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_13:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. bet viens ar vārdu</div>
        <lb/>
@@ -6974,7 +6974,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un cietināts.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_13:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_13:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. tad runaja tas ķēniņš</div>
        <lb/>
@@ -6990,7 +6990,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārvarēts.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_13:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_13:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet kad viņš samanija/</div>
        <lb/>
@@ -7018,7 +7018,7 @@
        <lb/>
         <div type="Language" lang="Latvian">godā.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_13:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_13:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. un tape makabejum</div>
        <lb/>
@@ -7028,7 +7028,7 @@
        <lb/>
         <div type="Language" lang="Latvian">līdz tiem gereneŗiem.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_13:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_13:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tad nāce viņš uz</div>
        <lb/>
@@ -7042,7 +7042,7 @@
        <lb/>
         <div type="Language" lang="Latvian">saderibas atkaļ iznīcināt.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_13:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_13:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. tad uzkāpe lizijus uz</div>
        <lb/>
@@ -7065,7 +7065,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xiv. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_14:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_14:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. pēc trim gadiem tike</div>
        <lb/>
@@ -7077,7 +7077,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar lielu spēku un daudz laivām.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_14:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_14:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un to zemi uzņēmis/</div>
        <lb/>
@@ -7085,7 +7085,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vērminderi liziju nokavis.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_14:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_14:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. bet viens vīrs ar</div>
        <lb/>
@@ -7105,7 +7105,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne varetu dabūt.</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_14:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_14:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tadēļ nogāje viņš</div>
        <lb/>
@@ -7121,7 +7121,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vietā mēdze turēt.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_14:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_14:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un tai dienā bija viņš</div>
        <lb/>
@@ -7141,7 +7141,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_14:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_14:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tie judi/ kas azidieji</div>
        <lb/>
@@ -7155,7 +7155,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valstibu ar mieru palikt.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_14:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_14:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. aiz to man ari ir manu</div>
        <lb/>
@@ -7167,7 +7167,7 @@
        <lb/>
         <div type="Language" lang="Latvian">teitan esmu atnācis.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_14:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_14:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. pirman kārtan labas</div>
        <lb/>
@@ -7187,7 +7187,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bojā.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_14:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_14:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. kad nu tu ak ķēniņš</div>
        <lb/>
@@ -7203,7 +7203,7 @@
        <lb/>
         <div type="Language" lang="Latvian">parādi.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_14:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_14:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. jo kamēr jūdas pāri</div>
        <lb/>
@@ -7211,7 +7211,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās lietas labi top samierinatas.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_14:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_14:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. kad nu tas no viņa</div>
        <lb/>
@@ -7223,7 +7223,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vairak iekarsinaja.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_14:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_14:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un tas like tūdaļ nikanoru/</div>
        <lb/>
@@ -7235,7 +7235,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pret judeju/ un sūtija to.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_14:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_14:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un pavēleja viņam/</div>
        <lb/>
@@ -7247,7 +7247,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta liela dieva=nama ieceltu.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_14:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_14:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tad piebiedrinajās nikanoŗa</div>
        <lb/>
@@ -7261,7 +7261,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par labu laimi būtu notiekamas.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_14:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_14:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. kad nu tie judi nikanoŗa</div>
        <lb/>
@@ -7279,7 +7279,7 @@
        <lb/>
         <div type="Language" lang="Latvian">parādišanu pārstāvejs.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_14:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_14:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. pēc kad viņu virsnieks</div>
        <lb/>
@@ -7291,7 +7291,7 @@
        <lb/>
         <div type="Language" lang="Latvian">miestas desav.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_14:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_14:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un sīmans jūdasa</div>
        <lb/>
@@ -7303,7 +7303,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš pats izbrīnijās.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_14:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_14:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. bet kad nikanors jūdasa</div>
        <lb/>
@@ -7319,7 +7319,7 @@
        <lb/>
         <div type="Language" lang="Latvian">asinim tiesu meklēt.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_14:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_14:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un tadēļ sūtija viņš</div>
        <lb/>
@@ -7327,7 +7327,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ka tie kopā zaderetu.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_14:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_14:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. kad nu ilgi par to tape</div>
        <lb/>
@@ -7341,7 +7341,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tad solija tie saderēt.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_14:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_14:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un nolike kādu dienu/</div>
        <lb/>
@@ -7351,7 +7351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">krēsli likti.</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_14:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_14:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. bet jūdas bij citus apbruņotus</div>
        <lb/>
@@ -7371,7 +7371,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tām lietām.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_14:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_14:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. pēc palike nikanors</div>
        <lb/>
@@ -7383,7 +7383,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij sapulcejs.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_14:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_14:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. un tureja to jūdasu</div>
        <lb/>
@@ -7391,7 +7391,7 @@
        <lb/>
         <div type="Language" lang="Latvian">šim vīram no visas sirds.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_14:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_14:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. un paskubinaja to/ ka</div>
        <lb/>
@@ -7403,7 +7403,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mieru/ un dzīvoja laulibā.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_14:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_14:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. bet alkimus/ kad tas</div>
        <lb/>
@@ -7429,7 +7429,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par augstu=priesteri būtu.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_14:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_14:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. tad apskaitās tas ķēniņš</div>
        <lb/>
@@ -7447,7 +7447,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uz antiokiju sūtitu.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_14:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_14:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. kad nu šīs lietas nikanoŗam</div>
        <lb/>
@@ -7463,7 +7463,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij darijs.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_14:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_14:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. taču ka tam ķēniņam</div>
        <lb/>
@@ -7473,7 +7473,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laiku šo pašu ar viltu padarīt.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_14:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_14:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. kad nu makabejus sajute/</div>
        <lb/>
@@ -7497,7 +7497,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priekš nikanoŗa.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_14:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_14:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. tad atkaļ nikanors/ kad</div>
        <lb/>
@@ -7515,7 +7515,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to vīru izdotu.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_14:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_14:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. bet kad tie zvēreja/ ka</div>
        <lb/>
@@ -7529,7 +7529,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tā.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_14:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_14:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. ja jūs man ne izdosiet</div>
        <lb/>
@@ -7543,7 +7543,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bakum vienu skaistu baznicu.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_14:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_14:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. un šo sacijs/ nogāje</div>
        <lb/>
@@ -7557,7 +7557,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bijis mūsas tautas/ tā sacidami.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_14:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_14:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. tu kungs pār visām</div>
        <lb/>
@@ -7571,7 +7571,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mums būtu.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_14:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_14:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. tadēļ ak svētajs!</div>
        <lb/>
@@ -7583,7 +7583,7 @@
        <lb/>
         <div type="Language" lang="Latvian">šķīstita ir.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_14:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_14:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. bet tur bija viens no</div>
        <lb/>
@@ -7603,7 +7603,7 @@
        <lb/>
         <div type="Language" lang="Latvian">judiem par tēvu saukts.</div>
       </div>
-      <div n="38." type="Verse" id="Apokr1689/2Mak_14:38.">
+      <div n="38." type="Verse" id="Apokr1689::2Mak_14:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. viņš ari bij priekšajos</div>
        <lb/>
@@ -7617,7 +7617,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās judu ticibas cīnijies.</div>
       </div>
-      <div n="39." type="Verse" id="Apokr1689/2Mak_14:39.">
+      <div n="39." type="Verse" id="Apokr1689::2Mak_14:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. tad nu nikanors gribedams</div>
        <lb/>
@@ -7629,7 +7629,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas viņu saņemtu.</div>
       </div>
-      <div n="40." type="Verse" id="Apokr1689/2Mak_14:40.">
+      <div n="40." type="Verse" id="Apokr1689::2Mak_14:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. jo viņš šķitās tiem</div>
        <lb/>
@@ -7637,7 +7637,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš to būtu saņēmis.</div>
       </div>
-      <div n="41." type="Verse" id="Apokr1689/2Mak_14:41.">
+      <div n="41." type="Verse" id="Apokr1689::2Mak_14:41.">
        <lb/>
         <div type="Language" lang="Latvian">41. bet kad tie pulki to</div>
        <lb/>
@@ -7655,7 +7655,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš pats ar zobinu nodurties.</div>
       </div>
-      <div n="42." type="Verse" id="Apokr1689/2Mak_14:42.">
+      <div n="42." type="Verse" id="Apokr1689::2Mak_14:42.">
        <lb/>
         <div type="Language" lang="Latvian">42. un gribeja labki sirdigi</div>
        <lb/>
@@ -7669,7 +7669,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taptu apsmiets.</div>
       </div>
-      <div n="43." type="Verse" id="Apokr1689/2Mak_14:43.">
+      <div n="43." type="Verse" id="Apokr1689::2Mak_14:43.">
        <lb/>
         <div type="Language" lang="Latvian">43. bet kad tas ne bij īstenā</div>
        <lb/>
@@ -7687,7 +7687,7 @@
        <lb/>
         <div type="Language" lang="Latvian">starp tiem pulkiem.</div>
       </div>
-      <div n="44." type="Verse" id="Apokr1689/2Mak_14:44.">
+      <div n="44." type="Verse" id="Apokr1689::2Mak_14:44.">
        <lb/>
         <div type="Language" lang="Latvian">44. bet tie lēce pie mallaz/</div>
        <lb/>
@@ -7697,7 +7697,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vēderu.</div>
       </div>
-      <div n="45." type="Verse" id="Apokr1689/2Mak_14:45.">
+      <div n="45." type="Verse" id="Apokr1689::2Mak_14:45.">
        <lb/>
         <div type="Language" lang="Latvian">45. taču viņš vēl dzīvoja/</div>
        <lb/>
@@ -7715,7 +7715,7 @@
        <lb/>
         <div type="Language" lang="Latvian">akmiņa=kalnu.</div>
       </div>
-      <div n="46." type="Verse" id="Apokr1689/2Mak_14:46.">
+      <div n="46." type="Verse" id="Apokr1689::2Mak_14:46.">
        <lb/>
         <div type="Language" lang="Latvian">46. un kad jav visas asinis</div>
        <lb/>
@@ -7740,7 +7740,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xv. nodaļa.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/2Mak_15:1.">
+      <div n="1." type="Verse" id="Apokr1689::2Mak_15:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. bet kad nikanors dzirdeja/</div>
        <lb/>
@@ -7756,7 +7756,7 @@
        <lb/>
         <div type="Language" lang="Latvian">droši viņam uzbrukt.</div>
       </div>
-      <div n="2." type="Verse" id="Apokr1689/2Mak_15:2.">
+      <div n="2." type="Verse" id="Apokr1689::2Mak_15:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. bet kad tie judi/ ko viņš</div>
        <lb/>
@@ -7774,7 +7774,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svētibu godinajs.</div>
       </div>
-      <div n="3." type="Verse" id="Apokr1689/2Mak_15:3.">
+      <div n="3." type="Verse" id="Apokr1689::2Mak_15:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tad vaicaja šis blēds</div>
        <lb/>
@@ -7786,7 +7786,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svētīt?</div>
       </div>
-      <div n="4." type="Verse" id="Apokr1689/2Mak_15:4.">
+      <div n="4." type="Verse" id="Apokr1689::2Mak_15:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un tie atbildeja: to kungu</div>
        <lb/>
@@ -7798,7 +7798,7 @@
        <lb/>
        <div type="Parallel">w:4. 2.Mohſ:Gr: 20.8.</div>
       </div>
-      <div n="5." type="Verse" id="Apokr1689/2Mak_15:5.">
+      <div n="5." type="Verse" id="Apokr1689::2Mak_15:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tad sacija viņš: un</div>
        <lb/>
@@ -7810,7 +7810,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietas padarīt.</div>
       </div>
-      <div n="6." type="Verse" id="Apokr1689/2Mak_15:6.">
+      <div n="6." type="Verse" id="Apokr1689::2Mak_15:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tomēr viņš ne paspēje</div>
        <lb/>
@@ -7826,7 +7826,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uzcelt.</div>
       </div>
-      <div n="7." type="Verse" id="Apokr1689/2Mak_15:7.">
+      <div n="7." type="Verse" id="Apokr1689::2Mak_15:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. bet makabejus cereja</div>
        <lb/>
@@ -7836,7 +7836,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būtu notikusi no ta kunga.</div>
       </div>
-      <div n="8." type="Verse" id="Apokr1689/2Mak_15:8.">
+      <div n="8." type="Verse" id="Apokr1689::2Mak_15:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tadēļ iepriecinaja viņš</div>
        <lb/>
@@ -7858,7 +7858,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būtu.</div>
       </div>
-      <div n="9." type="Verse" id="Apokr1689/2Mak_15:9.">
+      <div n="9." type="Verse" id="Apokr1689::2Mak_15:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un viņš iepriecinaja</div>
        <lb/>
@@ -7874,7 +7874,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu sirdis.</div>
       </div>
-      <div n="10." type="Verse" id="Apokr1689/2Mak_15:10.">
+      <div n="10." type="Verse" id="Apokr1689::2Mak_15:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un šo sacidams/ izteice</div>
        <lb/>
@@ -7886,7 +7886,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārkāpuši.</div>
       </div>
-      <div n="11." type="Verse" id="Apokr1689/2Mak_15:11.">
+      <div n="11." type="Verse" id="Apokr1689::2Mak_15:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un apbruņoja ikkuŗu</div>
        <lb/>
@@ -7906,7 +7906,7 @@
        <lb/>
         <div type="Language" lang="Latvian">visus ļoti ielīgsminaja.</div>
       </div>
-      <div n="12." type="Verse" id="Apokr1689/2Mak_15:12.">
+      <div n="12." type="Verse" id="Apokr1689::2Mak_15:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un ši bija ta parādišana/</div>
        <lb/>
@@ -7934,7 +7934,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dievu lūdzis.</div>
       </div>
-      <div n="13." type="Verse" id="Apokr1689/2Mak_15:13.">
+      <div n="13." type="Verse" id="Apokr1689::2Mak_15:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. pēc aridzan bij parādijies</div>
        <lb/>
@@ -7946,7 +7946,7 @@
        <lb/>
         <div type="Language" lang="Latvian">spožums.</div>
       </div>
-      <div n="14." type="Verse" id="Apokr1689/2Mak_15:14.">
+      <div n="14." type="Verse" id="Apokr1689::2Mak_15:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tad bij onijus runajs</div>
        <lb/>
@@ -7962,7 +7962,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lūdz.</div>
       </div>
-      <div n="15." type="Verse" id="Apokr1689/2Mak_15:15.">
+      <div n="15." type="Verse" id="Apokr1689::2Mak_15:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tad bij jeremijus savu</div>
        <lb/>
@@ -7972,7 +7972,7 @@
        <lb/>
         <div type="Language" lang="Latvian">devis/ un dodot šo sacijs.</div>
       </div>
-      <div n="16." type="Verse" id="Apokr1689/2Mak_15:16.">
+      <div n="16." type="Verse" id="Apokr1689::2Mak_15:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. ņem preti šo svētu</div>
        <lb/>
@@ -7982,7 +7982,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ienaidniekus apkaut.</div>
       </div>
-      <div n="17." type="Verse" id="Apokr1689/2Mak_15:17.">
+      <div n="17." type="Verse" id="Apokr1689::2Mak_15:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. caur šo skaistu jūdasa</div>
        <lb/>
@@ -8014,7 +8014,7 @@
        <lb/>
         <div type="Language" lang="Latvian">liksta.</div>
       </div>
-      <div n="18." type="Verse" id="Apokr1689/2Mak_15:18.">
+      <div n="18." type="Verse" id="Apokr1689::2Mak_15:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. jo par savām sievām</div>
        <lb/>
@@ -8028,7 +8028,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to apsvētitu dieva=namu.</div>
       </div>
-      <div n="19." type="Verse" id="Apokr1689/2Mak_15:19.">
+      <div n="19." type="Verse" id="Apokr1689::2Mak_15:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. bet tiem/ kas pilssātā</div>
        <lb/>
@@ -8040,7 +8040,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bēdigus.</div>
       </div>
-      <div n="20." type="Verse" id="Apokr1689/2Mak_15:20.">
+      <div n="20." type="Verse" id="Apokr1689::2Mak_15:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. kad nu visi to notiekamu</div>
        <lb/>
@@ -8056,7 +8056,7 @@
        <lb/>
         <div type="Language" lang="Latvian">abejos stūŗos stādijši.</div>
       </div>
-      <div n="21." type="Verse" id="Apokr1689/2Mak_15:21.">
+      <div n="21." type="Verse" id="Apokr1689::2Mak_15:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. tad makabejus redzedams</div>
        <lb/>
@@ -8082,7 +8082,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņiem nolemt/</div>
       </div>
-      <div n="22." type="Verse" id="Apokr1689/2Mak_15:22.">
+      <div n="22." type="Verse" id="Apokr1689::2Mak_15:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un tā sacija viņš lūgdams.</div>
        <lb/>
@@ -8098,7 +8098,7 @@
        <lb/>
        <div type="Parallel">w:22. 2.Kehn: 19,35. Eſa: 37,36.</div>
       </div>
-      <div n="23." type="Verse" id="Apokr1689/2Mak_15:23.">
+      <div n="23." type="Verse" id="Apokr1689::2Mak_15:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. nu tad ak kungs iekš</div>
        <lb/>
@@ -8108,7 +8108,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bījašanu un iztrūcinašanu.</div>
       </div>
-      <div n="24." type="Verse" id="Apokr1689/2Mak_15:24.">
+      <div n="24." type="Verse" id="Apokr1689::2Mak_15:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. lai caur tavu augstu</div>
        <lb/>
@@ -8122,7 +8122,7 @@
        <lb/>
         <div type="Language" lang="Latvian">šiem vārdiem viņš beidze.</div>
       </div>
-      <div n="25." type="Verse" id="Apokr1689/2Mak_15:25.">
+      <div n="25." type="Verse" id="Apokr1689::2Mak_15:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. bet tie no nikanoŗa puses</div>
        <lb/>
@@ -8130,7 +8130,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lielu brēkšanu.</div>
       </div>
-      <div n="26." type="Verse" id="Apokr1689/2Mak_15:26.">
+      <div n="26." type="Verse" id="Apokr1689::2Mak_15:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. bet tie no jūdasa puses</div>
        <lb/>
@@ -8140,7 +8140,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ienaidniekiem.</div>
       </div>
-      <div n="27." type="Verse" id="Apokr1689/2Mak_15:27.">
+      <div n="27." type="Verse" id="Apokr1689::2Mak_15:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. tā tie ar rokām kaudamies/</div>
        <lb/>
@@ -8154,7 +8154,7 @@
        <lb/>
         <div type="Language" lang="Latvian">augsti bij parādijies.</div>
       </div>
-      <div n="28." type="Verse" id="Apokr1689/2Mak_15:28.">
+      <div n="28." type="Verse" id="Apokr1689::2Mak_15:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. kad nu ta kaušana pa</div>
        <lb/>
@@ -8168,7 +8168,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bruņām.</div>
       </div>
-      <div n="29." type="Verse" id="Apokr1689/2Mak_15:29.">
+      <div n="29." type="Verse" id="Apokr1689::2Mak_15:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. tad sāce tie brēkt un</div>
        <lb/>
@@ -8176,7 +8176,7 @@
        <lb/>
         <div type="Language" lang="Latvian">savu tēvu valodā.</div>
       </div>
-      <div n="30." type="Verse" id="Apokr1689/2Mak_15:30.">
+      <div n="30." type="Verse" id="Apokr1689::2Mak_15:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. tad pavēleja jūdas/</div>
        <lb/>
@@ -8198,7 +8198,7 @@
        <lb/>
         <div type="Language" lang="Latvian">līdzi ņemt.</div>
       </div>
-      <div n="31." type="Verse" id="Apokr1689/2Mak_15:31.">
+      <div n="31." type="Verse" id="Apokr1689::2Mak_15:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. kad viņš nu turp nāce/</div>
        <lb/>
@@ -8212,7 +8212,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija.</div>
       </div>
-      <div n="32." type="Verse" id="Apokr1689/2Mak_15:32.">
+      <div n="32." type="Verse" id="Apokr1689::2Mak_15:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. un parādija ta blēdiga</div>
        <lb/>
@@ -8226,7 +8226,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij izstiepis.</div>
       </div>
-      <div n="33." type="Verse" id="Apokr1689/2Mak_15:33.">
+      <div n="33." type="Verse" id="Apokr1689::2Mak_15:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. viņš ari like nikanoŗam</div>
        <lb/>
@@ -8240,7 +8240,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dieva namam preti uzkārt.</div>
       </div>
-      <div n="34." type="Verse" id="Apokr1689/2Mak_15:34.">
+      <div n="34." type="Verse" id="Apokr1689::2Mak_15:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. un visi skatijās pret</div>
        <lb/>
@@ -8252,7 +8252,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nesagānitu pasargajs.</div>
       </div>
-      <div n="35." type="Verse" id="Apokr1689/2Mak_15:35.">
+      <div n="35." type="Verse" id="Apokr1689::2Mak_15:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. viņš uzkāre aridzan</div>
        <lb/>
@@ -8264,7 +8264,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņiem bij palīdzejs.</div>
       </div>
-      <div n="36." type="Verse" id="Apokr1689/2Mak_15:36.">
+      <div n="36." type="Verse" id="Apokr1689::2Mak_15:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. tad kļua no visiem par</div>
        <lb/>
@@ -8272,7 +8272,7 @@
        <lb/>
         <div type="Language" lang="Latvian">diena nekad nesvētita paliktu.</div>
       </div>
-      <div n="37." type="Verse" id="Apokr1689/2Mak_15:37.">
+      <div n="37." type="Verse" id="Apokr1689::2Mak_15:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. bet ka to bij svētīt</div>
        <lb/>
@@ -8286,7 +8286,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mardokajus svētkiem.</div>
       </div>
-      <div n="38." type="Verse" id="Apokr1689/2Mak_15:38.">
+      <div n="38." type="Verse" id="Apokr1689::2Mak_15:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. kad nu nikanoŗa lietām</div>
        <lb/>
@@ -8298,7 +8298,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aridzan manu grāmatu nobeigt.</div>
       </div>
-      <div n="39." type="Verse" id="Apokr1689/2Mak_15:39.">
+      <div n="39." type="Verse" id="Apokr1689::2Mak_15:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. un būšu es nu labi/</div>
        <lb/>
@@ -8312,7 +8312,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir/ cik esmu paspējis.</div>
       </div>
-      <div n="40." type="Verse" id="Apokr1689/2Mak_15:40.">
+      <div n="40." type="Verse" id="Apokr1689::2Mak_15:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. jo it kā vīnu sevišķi</div>
        <lb/>

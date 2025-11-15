@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="VD1689_94/Zah">
+    <fileDesc id="VD1689_94::Zah">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Tas Praweets Zakarijus</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta i. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_1:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_1:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. viena pieskubinašana ūz tiem judiem</div>
        <lb/>
@@ -41,7 +41,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būs sadauzīt: 20.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_1:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. astotā mēnesī</div>
        <lb/>
@@ -59,7 +59,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to pravietu/ un sacija:</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_1:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. tas kungz ir ar dusmošanas</div>
        <lb/>
@@ -69,7 +69,7 @@
        <lb/>
        <div type="Parallel">w:1. Eſr: 5,1.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_1:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_1:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tapēc saki ūz tiem:</div>
        <lb/>
@@ -85,7 +85,7 @@
        <lb/>
         <div type="Language" lang="Latvian">cebaot.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_1:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_1:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. ne esiet kā jūsu tēvi/</div>
        <lb/>
@@ -111,7 +111,7 @@
        <lb/>
        <div type="Parallel">Oſe: 14,2. Joël: 2,12.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_1:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. jūsu tēvi/ kur ir tie?</div>
        <lb/>
@@ -119,7 +119,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mūžam dzīvo?</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_1:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_1:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tomēr mani vārdi/</div>
        <lb/>
@@ -143,7 +143,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir viņš ar mums darijs.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_1:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. dividesmitā cetortā dienā/</div>
        <lb/>
@@ -159,7 +159,7 @@
        <lb/>
         <div type="Language" lang="Latvian">idus/ to pravietu/ un sacija:</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_1:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_1:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. es redzeju naktī/ un raugi/</div>
        <lb/>
@@ -177,7 +177,7 @@
        <lb/>
        <div type="Parallel">w:8. Zak: 6,2,3.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_1:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tad saciju es: mans</div>
        <lb/>
@@ -189,7 +189,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tev/ kas šie iraid.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_1:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_1:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. tad atbildeja tas vīrs/</div>
        <lb/>
@@ -201,7 +201,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to zemi pārstaigāt.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_1:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un tie atbildeja ta kunga</div>
        <lb/>
@@ -217,7 +217,7 @@
        <lb/>
         <div type="Language" lang="Latvian">miera.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_1:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tad atbildeja ta kunga</div>
        <lb/>
@@ -235,7 +235,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gados?</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_1:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un tas kungz atbildeja</div>
        <lb/>
@@ -245,7 +245,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priecas vārdus.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_1:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un tas eņģelis/ kas ar</div>
        <lb/>
@@ -261,7 +261,7 @@
        <lb/>
        <div type="Parallel">w:14. Zak: 8,2.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Zah_1:15.">
+      <div n="15." type="Verse" id="VD1689_94::Zah_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un es esmu ar lielas dusmibas</div>
        <lb/>
@@ -273,7 +273,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie ļaunuma.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Zah_1:16.">
+      <div n="16." type="Verse" id="VD1689_94::Zah_1:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tapēc tā saka tas</div>
        <lb/>
@@ -291,7 +291,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izstiepts.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Zah_1:17.">
+      <div n="17." type="Verse" id="VD1689_94::Zah_1:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. sludina vēl/ un saki:</div>
        <lb/>
@@ -305,7 +305,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atkaļ jeruzalemi.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Zah_1:18.">
+      <div n="18." type="Verse" id="VD1689_94::Zah_1:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. un es pacēlu savas acis/</div>
        <lb/>
@@ -313,7 +313,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija četri ragi.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Zah_1:19.">
+      <div n="19." type="Verse" id="VD1689_94::Zah_1:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un es saciju ūz to eņģeli/</div>
        <lb/>
@@ -327,13 +327,13 @@
        <lb/>
         <div type="Language" lang="Latvian">ir izkaisijši.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Zah_1:20.">
+      <div n="20." type="Verse" id="VD1689_94::Zah_1:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un tas kungz rādija</div>
        <lb/>
         <div type="Language" lang="Latvian">man četrus kalejus.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Zah_1:21.">
+      <div n="21." type="Verse" id="VD1689_94::Zah_1:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. tad saciju es: ko nāk</div>
        <lb/>
@@ -358,7 +358,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta ii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_2:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_2:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. tas praviets redz vienu vīru/ ar vienu</div>
        <lb/>
@@ -374,7 +374,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dievs viņus svētīs un apsargās: 9.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_2:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_2:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. ez pacēlu atkaļ savas</div>
        <lb/>
@@ -386,7 +386,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rokā viens mēra=auklis.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_2:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_2:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ū es saciju: kurp tu</div>
        <lb/>
@@ -400,7 +400,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būs.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_2:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_2:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un redzi/ tas eņģelis/ kas</div>
        <lb/>
@@ -410,7 +410,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tam preti.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_2:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_2:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un viņš sacija ūz to:</div>
        <lb/>
@@ -424,7 +424,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas viņas vidū būs.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_2:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_2:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un es/ saka tas kungs:</div>
        <lb/>
@@ -434,7 +434,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par godibu viņas vidu.?</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_2:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_2:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. uij! uij! bēdziet jele no</div>
        <lb/>
@@ -446,13 +446,13 @@
        <lb/>
         <div type="Language" lang="Latvian">saka tas kungz:</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_2:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_2:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. uij ciana! izbēdz/ kas tu</div>
        <lb/>
         <div type="Language" lang="Latvian">pie tās babeles meitas dzīvo.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_2:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_2:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. jo tā saka tas kungz</div>
        <lb/>
@@ -468,7 +468,7 @@
        <lb/>
        <div type="Parallel">w:8. 5.Mohſ:Gr: 32,10. Dahw:Dſ: 17,8.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_2:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_2:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. jo redz/ es kustinašu</div>
        <lb/>
@@ -482,7 +482,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sūtijs.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_2:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_2:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. gavile un priecajies tu</div>
        <lb/>
@@ -492,7 +492,7 @@
        <lb/>
         <div type="Language" lang="Latvian">saka tas kungz:</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_2:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_2:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un daudz pagaņi taps</div>
        <lb/>
@@ -508,7 +508,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir sūtijs.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_2:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_2:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tad iemantos tas</div>
        <lb/>
@@ -518,7 +518,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un izvēlēs atkaļ jeruzalemi.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_2:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_2:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. cieti klusu visa miesa</div>
        <lb/>
@@ -533,7 +533,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta iii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_3:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_3:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. jozuus tas augsts priesteris kļūst pie ta</div>
        <lb/>
@@ -547,7 +547,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas ir kristus: 8.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_3:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_3:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. pēc to rādija viņš</div>
        <lb/>
@@ -563,7 +563,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pretituredamies.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_3:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_3:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. bet tas kungz sacija</div>
        <lb/>
@@ -577,7 +577,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uguns aizgrābta?</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_3:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un jozuus bij apģērbts</div>
        <lb/>
@@ -585,7 +585,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš priekš ta eņģeļa stāveja.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_3:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_3:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tad atbildeja viņš/ un</div>
        <lb/>
@@ -607,7 +607,7 @@
        <lb/>
        <div type="Parallel">w:4. Eſa: 61,10. Matt: 22,11. Luhk: 15,22.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_3:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_3:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. šo saku es: lieciet vienu</div>
        <lb/>
@@ -623,13 +623,13 @@
        <lb/>
         <div type="Language" lang="Latvian">tur klāt.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_3:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_3:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tad apliecinaja ta kunga</div>
        <lb/>
         <div type="Language" lang="Latvian">eņģelis jozuum/ un sacija:</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_3:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_3:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. tā saka tas kungz</div>
        <lb/>
@@ -651,7 +651,7 @@
        <lb/>
         <div type="Language" lang="Latvian">stāv.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_3:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_3:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. klausi nu jele jozuus/ tu</div>
        <lb/>
@@ -667,7 +667,7 @@
        <lb/>
        <div type="Parallel">w:8. Zak: 6,12.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_3:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_3:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. jo redz/ uz to akmini/</div>
        <lb/>
@@ -687,7 +687,7 @@
        <lb/>
        <div type="Parallel">w:9. Zak: 4,10. Par:Jahn: 5,6.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_3:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_3:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. tai dienā/ saka tas</div>
        <lb/>
@@ -702,7 +702,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta iv. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_4:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_4:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. tam pravietam kļūst caur vienu parādišanu</div>
        <lb/>
@@ -716,7 +716,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ūzcelšanu pabeigs: 4/ 6.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_4:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_4:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un tas eņģelis/ kas ar</div>
        <lb/>
@@ -728,7 +728,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sava miega top ūzmodināts.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_4:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_4:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un viņš sacija ūz</div>
        <lb/>
@@ -750,7 +750,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa virs=gala bija.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_4:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_4:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un tur klāt divi eļjes=</div>
        <lb/>
@@ -760,7 +760,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa kreisas rokas.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_4:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_4:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un es atbildeju/ un runaju</div>
        <lb/>
@@ -770,7 +770,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kungs/ kādas ir šās lietas?</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_4:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_4:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un tas eņģelis/ kas ar</div>
        <lb/>
@@ -782,7 +782,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne/ mans kungs.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_4:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_4:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tad atbildeja viņš/ un</div>
        <lb/>
@@ -800,7 +800,7 @@
        <lb/>
         <div type="Language" lang="Latvian">cebaot.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_4:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_4:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. kāds esi tu/ tu liels</div>
        <lb/>
@@ -816,13 +816,13 @@
        <lb/>
         <div type="Language" lang="Latvian">viņam iraid.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_4:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_4:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un ta kunga vārds</div>
        <lb/>
         <div type="Language" lang="Latvian">notike ūz man/ un sacija:</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_4:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_4:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. zerubabela rokas ir</div>
        <lb/>
@@ -836,7 +836,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sūtijs.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_4:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_4:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. jo kuŗš nicina to dienu</div>
        <lb/>
@@ -852,7 +852,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemi iet.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_4:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_4:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. tad atbildeju es/ un saciju</div>
        <lb/>
@@ -864,7 +864,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kreisas rokas?</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_4:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_4:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un atkaļ atbildeju es/ un</div>
        <lb/>
@@ -876,7 +876,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir/ kas zeltu no sevim lej?</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_4:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_4:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un viņš runaja ūz</div>
        <lb/>
@@ -886,7 +886,7 @@
        <lb/>
         <div type="Language" lang="Latvian">es saciju: ne/ mans kungs.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_4:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_4:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un viņš sacija: šie</div>
        <lb/>
@@ -902,7 +902,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta v. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_5:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_5:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. tam pravietam kļūst caur vienu parādišanu</div>
        <lb/>
@@ -919,7 +919,7 @@
         <div type="Language" lang="Latvian">no dieva kļūs izdeldetas: 4.</div>
        <div type="Language" lang="Latin">rc.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_5:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_5:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un es pacēlu savas</div>
        <lb/>
@@ -929,7 +929,7 @@
        <lb/>
         <div type="Language" lang="Latvian">grāmata skrēje.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_5:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_5:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un viņš sacija ūz</div>
        <lb/>
@@ -943,7 +943,7 @@
        <lb/>
         <div type="Language" lang="Latvian">platums desmits olektis.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_5:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_5:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un viņš sacija ūz</div>
        <lb/>
@@ -961,7 +961,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nenoziedzigu sakās.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_5:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_5:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. es vedišu to priekša/</div>
        <lb/>
@@ -981,7 +981,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un akmiņiem.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_5:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_5:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un tas eņģelis/ kas ar</div>
        <lb/>
@@ -993,7 +993,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir/ kas iziet?</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_5:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_5:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un es saciju: kas tas ir?</div>
        <lb/>
@@ -1005,7 +1005,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iekš visas zemes.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_5:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_5:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un raugi/ tur tape viens</div>
        <lb/>
@@ -1015,7 +1015,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sēdeja iekš tās iepas vidus.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_5:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_5:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un viņš sacija: ši</div>
        <lb/>
@@ -1027,7 +1027,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ūz viņas caurumu.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_5:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_5:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un es pacēlu savas acis/</div>
        <lb/>
@@ -1045,7 +1045,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemi/ un starp debesi.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_5:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_5:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. tad saciju es ūz to eņģeli/</div>
        <lb/>
@@ -1053,7 +1053,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie šo iepu nones?</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_5:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_5:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un viņš sacija ūz</div>
        <lb/>
@@ -1070,7 +1070,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta vi. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_6:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_6:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. viena parādišana no četriem ratiem</div>
        <lb/>
@@ -1090,7 +1090,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un pagaņiem: 13/ 15.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_6:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_6:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un es pacēlu atkaļ savas</div>
        <lb/>
@@ -1104,7 +1104,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kalni.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_6:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_6:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. priekš tiem pirmajiem</div>
        <lb/>
@@ -1114,7 +1114,7 @@
        <lb/>
         <div type="Language" lang="Latvian">melni zirgi.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_6:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_6:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un priekš tiem trešiem</div>
        <lb/>
@@ -1124,7 +1124,7 @@
        <lb/>
         <div type="Language" lang="Latvian">raibi stipri zirgi.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_6:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_6:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un es atbildeju/ un saciju</div>
        <lb/>
@@ -1134,7 +1134,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kungs.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_6:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_6:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tad atbildeja tas eņģelis/</div>
        <lb/>
@@ -1146,7 +1146,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to valdnieku visas zemes.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_6:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_6:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. priekš kuŗiem ratiem</div>
        <lb/>
@@ -1160,7 +1160,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vidus zemi</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_6:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_6:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un tie stipri zirgi izgāje/</div>
        <lb/>
@@ -1174,7 +1174,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to zemi.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_6:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_6:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un viņš aicinaja mani/</div>
        <lb/>
@@ -1188,13 +1188,13 @@
        <lb/>
         <div type="Language" lang="Latvian">dusēt.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_6:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_6:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un ta kunga vārds</div>
        <lb/>
         <div type="Language" lang="Latvian">notike ūz man/ un sacija:</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_6:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_6:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. ņem no tiem aizvestiem</div>
        <lb/>
@@ -1208,7 +1208,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir nākuši.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_6:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_6:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un ņem sudrabu un</div>
        <lb/>
@@ -1220,7 +1220,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priesteŗa.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_6:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_6:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un runa ūz viņu</div>
        <lb/>
@@ -1238,7 +1238,7 @@
        <lb/>
        <div type="Parallel">w:12. Zak: 3,8.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_6:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_6:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tiešam/ ta kunga</div>
        <lb/>
@@ -1256,7 +1256,7 @@
        <lb/>
         <div type="Language" lang="Latvian">miera būs starp tiem diviem.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_6:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_6:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un tie kroņi būs</div>
        <lb/>
@@ -1270,7 +1270,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par pieminešanu.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Zah_6:15.">
+      <div n="15." type="Verse" id="VD1689_94::Zah_6:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un tie/ kas tāļu ir/ atnāks</div>
        <lb/>
@@ -1291,7 +1291,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta vii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_7:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_7:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. tie judi no babeles vaicaja caur aizsūtitiem</div>
        <lb/>
@@ -1311,7 +1311,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš tos pārmācijs: 13.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_7:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_7:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un tas notikās cetortā</div>
        <lb/>
@@ -1325,7 +1325,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mēnes/ kas kizleu vārda.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_7:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_7:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. kad zarecers/ un regemekels</div>
        <lb/>
@@ -1335,7 +1335,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sūtiti bija/ to kungu pielūgt.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_7:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_7:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un runaja ūz tiem</div>
        <lb/>
@@ -1351,7 +1351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">daudz gadus esmu darijs.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_7:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_7:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tad notike tas vārds</div>
        <lb/>
@@ -1359,7 +1359,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un sacija:</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_7:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_7:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. runa ūz visiem tiem</div>
        <lb/>
@@ -1379,7 +1379,7 @@
        <lb/>
        <div type="Parallel">w:5. Eſa: 58,5. Zak: 8,19.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_7:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_7:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. jeb kad jūs ēdat/ jeb kad</div>
        <lb/>
@@ -1387,7 +1387,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas ēde un dzēre?</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_7:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_7:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. neģi šie ir tie vārdi/</div>
        <lb/>
@@ -1405,13 +1405,13 @@
        <lb/>
         <div type="Language" lang="Latvian">to ieleju iedzīvota tape.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_7:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_7:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. atkaļ notike ta kunga</div>
        <lb/>
         <div type="Language" lang="Latvian">vārds ūz cakariju/ un sacija:</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_7:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_7:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tā runa tas kungz</div>
        <lb/>
@@ -1423,7 +1423,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un apžēlošanu.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_7:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_7:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un ne apbēdinajiet to</div>
        <lb/>
@@ -1437,7 +1437,7 @@
        <lb/>
        <div type="Parallel">w:10. 2.Mohſ:Gr: 22,22. Eſa: 1,23. Jer: 5,28.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_7:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_7:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. bet tie liedzās klausīt/</div>
        <lb/>
@@ -1447,7 +1447,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie neklausija.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_7:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_7:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un tie darija aridzan savu sirdi</div>
        <lb/>
@@ -1461,7 +1461,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem pirmajiem praviešiem.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_7:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_7:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. kadēļ tāda liela dusmiba</div>
        <lb/>
@@ -1477,7 +1477,7 @@
        <lb/>
         <div type="Language" lang="Latvian">saka tas kungz cebaot.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_7:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_7:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tā esmu es tos izputinajs</div>
        <lb/>
@@ -1496,7 +1496,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta viii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_8:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_8:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. viena iepriecinašana priekš tiem judiem:</div>
        <lb/>
@@ -1510,7 +1510,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to pagaņu: 20.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_8:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_8:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. pēc to notike tas</div>
        <lb/>
@@ -1518,7 +1518,7 @@
        <lb/>
         <div type="Language" lang="Latvian">cebaot/ kas sacija:</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_8:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_8:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. tā saka tas kungz</div>
        <lb/>
@@ -1532,7 +1532,7 @@
        <lb/>
        <div type="Parallel">w:2. Zak: 1,14.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_8:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_8:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tā saka tas kungz:</div>
        <lb/>
@@ -1560,7 +1560,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vecuma.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_8:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_8:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un ta pilssāta ielas</div>
        <lb/>
@@ -1570,7 +1570,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ielām jaktēs.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_8:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_8:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tā saka tas kungz</div>
        <lb/>
@@ -1586,7 +1586,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas kungz cebaot.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_8:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_8:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. tā saka tas kungz</div>
        <lb/>
@@ -1598,7 +1598,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kur ta saule no=iet.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_8:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_8:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un es atvedišu tos/</div>
        <lb/>
@@ -1612,7 +1612,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taisnibas.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_8:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_8:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tā saka tas kungz</div>
        <lb/>
@@ -1632,7 +1632,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ka tas dieva nams taptu ūzcelts.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_8:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_8:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. jo priekš šām dienām</div>
        <lb/>
@@ -1648,7 +1648,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ikvienu pret savu tuvaku.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_8:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_8:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. bet nu es pret šiem</div>
        <lb/>
@@ -1658,7 +1658,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas kungz cebaot.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_8:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_8:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. jo ta sēkla labi izdosies.</div>
        <lb/>
@@ -1674,7 +1674,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ļaudim visu šo iemantot.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_8:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_8:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un tas notiks/ it kā jūs</div>
        <lb/>
@@ -1692,7 +1692,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jūsas rokas stiprinajās.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_8:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_8:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. jo tā saka tas kungs</div>
        <lb/>
@@ -1706,7 +1706,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un tas man ne ir žēl bijis.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Zah_8:15.">
+      <div n="15." type="Verse" id="VD1689_94::Zah_8:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tāpat domaju es atkaļ</div>
        <lb/>
@@ -1716,7 +1716,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jūda/ ne bīstieties.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Zah_8:16.">
+      <div n="16." type="Verse" id="VD1689_94::Zah_8:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. šās ir tās lietas/</div>
        <lb/>
@@ -1730,7 +1730,7 @@
        <lb/>
        <div type="Parallel">w:16. Eeweſ: 4,25.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Zah_8:17.">
+      <div n="17." type="Verse" id="VD1689_94::Zah_8:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un ne domajiet viens</div>
        <lb/>
@@ -1744,7 +1744,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas kungz.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Zah_8:18.">
+      <div n="18." type="Verse" id="VD1689_94::Zah_8:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. atkaļ notike tas vārds</div>
        <lb/>
@@ -1752,7 +1752,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un sacija:</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Zah_8:19.">
+      <div n="19." type="Verse" id="VD1689_94::Zah_8:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. tā saka tas kungz</div>
        <lb/>
@@ -1772,7 +1772,7 @@
        <lb/>
        <div type="Parallel">w:19. Zak: 7,5.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Zah_8:20.">
+      <div n="20." type="Verse" id="VD1689_94::Zah_8:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. tā saka tas kungz</div>
        <lb/>
@@ -1780,7 +1780,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un daudz pilssātu iedzīvotaji.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Zah_8:21.">
+      <div n="21." type="Verse" id="VD1689_94::Zah_8:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un viena pilssāta iedzīvotaji</div>
        <lb/>
@@ -1794,7 +1794,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iešu.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Zah_8:22.">
+      <div n="22." type="Verse" id="VD1689_94::Zah_8:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. tā nāks daudz ļaužu/</div>
        <lb/>
@@ -1806,7 +1806,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kungu.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Zah_8:23.">
+      <div n="23." type="Verse" id="VD1689_94::Zah_8:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. tā saka tas kungz</div>
        <lb/>
@@ -1829,7 +1829,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta ix. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_9:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_9:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. sludinašana no tās sodibas to ienaidnieku</div>
        <lb/>
@@ -1843,7 +1843,7 @@
        <lb/>
         <div type="Language" lang="Latvian">godibas: 10.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_9:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_9:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. schi ir ta nasta/ ko tas</div>
        <lb/>
@@ -1859,7 +1859,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pār visām izraeļa ciltim.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_9:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_9:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ir pār āmatu/ kas</div>
        <lb/>
@@ -1871,7 +1871,7 @@
        <lb/>
        <div type="Parallel">w:3. Eſa: 23,1. Ezek: 26,3.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_9:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_9:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un tirus ir sevi stiprumus</div>
        <lb/>
@@ -1881,7 +1881,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kā dubļus uz ielām.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_9:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_9:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. redzi/ tas kungz izdzīs</div>
        <lb/>
@@ -1891,7 +1891,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taps no uguni aprīts.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_9:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_9:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. askalons to redzēs un bīsies/</div>
        <lb/>
@@ -1909,7 +1909,7 @@
        <lb/>
        <div type="Parallel">w:5. Eſa: 14,19. Jer: 47,1. Ezek: 25,15.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_9:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_9:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un iekš azdodas dzīvos</div>
        <lb/>
@@ -1917,7 +1917,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to vilisteŗu lepnibu.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_9:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_9:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un es atņemšu viņu</div>
        <lb/>
@@ -1933,7 +1933,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ekrons kā tie jebuziteŗi.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_9:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_9:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un es pats apmetišos</div>
        <lb/>
@@ -1951,7 +1951,7 @@
        <lb/>
         <div type="Language" lang="Latvian">manām acim ieraudzijs.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_9:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_9:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. priecajies ļoti tu cianas</div>
        <lb/>
@@ -1971,7 +1971,7 @@
        <lb/>
        <div type="Parallel">w:9. Eſa: 62,11. Matt: 21,5. Jahn: 12,15.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_9:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_9:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un es izdeldešu tos</div>
        <lb/>
@@ -1993,7 +1993,7 @@
        <lb/>
        <div type="Parallel">w:10. Dahw:Dſ: 72,8.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_9:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_9:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. ir tu ciana/ es izlaidišu</div>
        <lb/>
@@ -2005,7 +2005,7 @@
        <lb/>
         <div type="Language" lang="Latvian">neva.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_9:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_9:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. atgriezieties atkaļ ūz</div>
        <lb/>
@@ -2017,7 +2017,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atmaksaju.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_9:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_9:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. jo es esmu jūda priekš</div>
        <lb/>
@@ -2035,7 +2035,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zobinu.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_9:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_9:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un tas kungz rādisies</div>
        <lb/>
@@ -2049,7 +2049,7 @@
        <lb/>
         <div type="Language" lang="Latvian">auki no dienas=vidus.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Zah_9:15.">
+      <div n="15." type="Verse" id="VD1689_94::Zah_9:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tas kungz cebaot</div>
        <lb/>
@@ -2067,7 +2067,7 @@
        <lb/>
         <div type="Language" lang="Latvian">stūŗi.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Zah_9:16.">
+      <div n="16." type="Verse" id="VD1689_94::Zah_9:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un tas kungz viņu</div>
        <lb/>
@@ -2079,7 +2079,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa zemē kā karogs ūzcelti.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Zah_9:17.">
+      <div n="17." type="Verse" id="VD1689_94::Zah_9:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. jo kāds būs viņu</div>
        <lb/>
@@ -2098,7 +2098,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta x. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_10:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_10:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. viena krāšna papriekšsludinašana no</div>
        <lb/>
@@ -2114,7 +2114,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uztureti: 6.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_10:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_10:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. lūdziet no ta kunga</div>
        <lb/>
@@ -2128,7 +2128,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priekš ikkatras zāles tīrumā.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_10:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_10:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. jo tie dievekļi runa nelietibu/</div>
        <lb/>
@@ -2146,7 +2146,7 @@
        <lb/>
        <div type="Parallel">w:2. Eſa: 8,19. Matt: 9,36.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_10:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_10:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. pret tiem ganiem bija</div>
        <lb/>
@@ -2164,7 +2164,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zirgu kaŗā.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_10:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_10:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. no viņa atkāpsies tie</div>
        <lb/>
@@ -2174,7 +2174,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kopā.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_10:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_10:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un tie būs kā tie vareni</div>
        <lb/>
@@ -2188,7 +2188,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tos/ kas uz zirgiem jāj.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_10:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_10:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un es stiprinašu to namu</div>
        <lb/>
@@ -2206,7 +2206,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dievs/ un paklausišu tos.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_10:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_10:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un tie būs kā viens varenajs</div>
        <lb/>
@@ -2220,7 +2220,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iekš ta kunga.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_10:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_10:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un es ataicinašu/ un sapulcinašu</div>
        <lb/>
@@ -2230,7 +2230,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kā tie citkārt vairojās.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_10:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_10:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un es sēšu tos starp</div>
        <lb/>
@@ -2242,7 +2242,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un atgriezisies.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_10:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_10:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un es atvedišu tos</div>
        <lb/>
@@ -2258,7 +2258,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atrastas.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_10:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_10:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un viņš ies caur to</div>
        <lb/>
@@ -2276,7 +2276,7 @@
        <lb/>
        <div type="Parallel">w:11. 2.Mohſ:Gr: 14,16.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_10:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_10:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un es stiprinašu tos</div>
        <lb/>
@@ -2289,7 +2289,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xi. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_11:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_11:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. draudešana no tās galejas izpostišanas</div>
        <lb/>
@@ -2311,7 +2311,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nepratigam ganam tos nodos: 15.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_11:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_11:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. atdari tavas durvis/</div>
        <lb/>
@@ -2321,7 +2321,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aprīj.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_11:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_11:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. kauciet jūs priedes/ tapēc</div>
        <lb/>
@@ -2335,7 +2335,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mež ir apkritis.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_11:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_11:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tur ir viena kaukšanas</div>
        <lb/>
@@ -2349,7 +2349,7 @@
        <lb/>
         <div type="Language" lang="Latvian">grezniba postita iraid.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_11:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_11:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tā saka tas kungz</div>
        <lb/>
@@ -2357,7 +2357,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kaujamas avis.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_11:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_11:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. jo viņo turetaji nokauj</div>
        <lb/>
@@ -2373,7 +2373,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no viņo ganiem saudz tās.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_11:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_11:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tiešam/ es ne saudzešu</div>
        <lb/>
@@ -2393,7 +2393,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tos izpestīt no viņu rokas.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_11:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_11:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un es ganišu šās</div>
        <lb/>
@@ -2409,7 +2409,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ganiju tās avis.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_11:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_11:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un es nomaitaju trīs</div>
        <lb/>
@@ -2421,7 +2421,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dvēselei pie manim riebās.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_11:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_11:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un es saciju: es ne ganišu</div>
        <lb/>
@@ -2437,7 +2437,7 @@
        <lb/>
        <div type="Parallel">w:9. Jer: 15,2.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_11:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_11:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un es ņēmu manu zizli</div>
        <lb/>
@@ -2447,7 +2447,7 @@
        <lb/>
         <div type="Language" lang="Latvian">es ar šiem ļaudim biju darijs.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_11:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_11:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un ta tape tai dienā</div>
        <lb/>
@@ -2459,7 +2459,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vārds bija.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_11:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_11:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un es saciju ūz tiem:</div>
        <lb/>
@@ -2475,7 +2475,7 @@
        <lb/>
        <div type="Parallel">w:12. Matt: 26,15.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_11:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_11:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un tas kungz sacija</div>
        <lb/>
@@ -2497,7 +2497,7 @@
        <lb/>
        <div type="Parallel">w:13. Matt: 27,7,9,10.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_11:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_11:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tad salauziju es manu</div>
        <lb/>
@@ -2507,7 +2507,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un starp izraelu.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Zah_11:15.">
+      <div n="15." type="Verse" id="VD1689_94::Zah_11:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. vēl sacija tas kungs</div>
        <lb/>
@@ -2515,7 +2515,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ģeķiga gana rīkus pie sevim.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Zah_11:16.">
+      <div n="16." type="Verse" id="VD1689_94::Zah_11:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. jo raugi/ es pamodinašu</div>
        <lb/>
@@ -2537,7 +2537,7 @@
        <lb/>
        <div type="Parallel">w:16. Ezek: 34,4.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Zah_11:17.">
+      <div n="17." type="Verse" id="VD1689_94::Zah_11:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. vaj tiem netikliem ganiem!</div>
        <lb/>
@@ -2556,7 +2556,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_12:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_12:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. priecas sludinašana priekš tās dieva=</div>
        <lb/>
@@ -2570,7 +2570,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izliešanas: 10.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_12:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_12:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. schi ir ta nasta/ ko tas</div>
        <lb/>
@@ -2586,7 +2586,7 @@
        <lb/>
         <div type="Language" lang="Latvian">padara.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_12:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_12:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. raugi/ es darišu jeruzalemi</div>
        <lb/>
@@ -2602,7 +2602,7 @@
        <lb/>
        <div type="Parallel">w:2. Eſa: 51,22,23. Jer: 51,7.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_12:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_12:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un tai dienā darišu</div>
        <lb/>
@@ -2616,7 +2616,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ļaudis sapulcesies pret viņu.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_12:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_12:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tai dienā saka tas</div>
        <lb/>
@@ -2634,7 +2634,7 @@
        <lb/>
         <div type="Language" lang="Latvian">aklibu.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_12:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_12:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tad sacīs tie virsnieki</div>
        <lb/>
@@ -2646,7 +2646,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kunga cebaot sava dieva.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_12:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_12:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tai dienā iecelšu es</div>
        <lb/>
@@ -2666,7 +2666,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vēl savā vietā iekš jeruzalemes.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_12:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_12:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un tas kungz izpestīs</div>
        <lb/>
@@ -2680,7 +2680,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pret jūda.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_12:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_12:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tai dienā pasargās tas</div>
        <lb/>
@@ -2698,7 +2698,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu priekšā.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_12:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_12:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un tai dienā meklešu</div>
        <lb/>
@@ -2706,7 +2706,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas pret jeruzalemi ceļās.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_12:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_12:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. bet pār dāvida namu/</div>
        <lb/>
@@ -2734,7 +2734,7 @@
        <lb/>
        <div type="Parallel">Jer: 6,26. Amos: 8,10.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_12:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_12:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. tai dienā būs iekš</div>
        <lb/>
@@ -2746,7 +2746,7 @@
        <lb/>
        <div type="Parallel">w:11. 2.Kehn: 23,29,30. 2.Laik:Gr: 35,22.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_12:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_12:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un ta zeme žēlosies/</div>
        <lb/>
@@ -2766,13 +2766,13 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu sievas sevišķi.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_12:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_12:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. ta cilts zimejus sevišķi/</div>
        <lb/>
         <div type="Language" lang="Latvian">un viņu sievas sevišķi.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_12:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_12:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. visas citas ciltis/ ikviena</div>
        <lb/>
@@ -2783,7 +2783,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xiii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_13:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_13:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. papriekšsludinašana no ta avota ta jauna</div>
        <lb/>
@@ -2797,7 +2797,7 @@
        <lb/>
         <div type="Language" lang="Latvian">krusta: 8.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_13:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_13:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. tai dienā būs viens</div>
        <lb/>
@@ -2811,7 +2811,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pret to nešķīstibu.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_13:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_13:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un tai dienā/ saka tas</div>
        <lb/>
@@ -2829,7 +2829,7 @@
        <lb/>
        <div type="Parallel">w:2. Oſe: 2,17.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_13:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_13:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un tas notiks/ ja kas vairs</div>
        <lb/>
@@ -2855,7 +2855,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mācibu sludina.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_13:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_13:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un tas notiks tai dienā/</div>
        <lb/>
@@ -2871,7 +2871,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mēteli melodami.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_13:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_13:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. bet viņam būs sacīt:</div>
        <lb/>
@@ -2885,7 +2885,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jaunibas.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_13:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_13:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un ja kas ūz viņu sacīs:</div>
        <lb/>
@@ -2897,7 +2897,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mano mīļotaju namā.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_13:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_13:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. zobins/ ūzmosties pret</div>
        <lb/>
@@ -2917,7 +2917,7 @@
        <lb/>
        <div type="Parallel">w:7. Matt: 26,31. Mark: 14,27.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_13:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_13:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un tas notiks visā tai</div>
        <lb/>
@@ -2931,7 +2931,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās atlicinata.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_13:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_13:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un es vedišu to trešu</div>
        <lb/>
@@ -2958,7 +2958,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xiv. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Zah_14:0.">
+      <div n="0." type="Verse" id="VD1689_94::Zah_14:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. papriekšsludinašana no tās galejas</div>
        <lb/>
@@ -2978,7 +2978,7 @@
        <lb/>
         <div type="Language" lang="Latvian">16.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Zah_14:1.">
+      <div n="1." type="Verse" id="VD1689_94::Zah_14:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. redzi/ ta diena nāk</div>
        <lb/>
@@ -2988,7 +2988,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izdalīts tavā vidū.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Zah_14:2.">
+      <div n="2." type="Verse" id="VD1689_94::Zah_14:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. jo es sapulcinašu pret</div>
        <lb/>
@@ -3008,7 +3008,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izdeldeti.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Zah_14:3.">
+      <div n="3." type="Verse" id="VD1689_94::Zah_14:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un tas kungz izies/</div>
        <lb/>
@@ -3020,7 +3020,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dienā.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Zah_14:4.">
+      <div n="4." type="Verse" id="VD1689_94::Zah_14:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un viņa kājas stāvēs</div>
        <lb/>
@@ -3046,7 +3046,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pusi.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Zah_14:5.">
+      <div n="5." type="Verse" id="VD1689_94::Zah_14:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tad bēgsiet jūs ūz to</div>
        <lb/>
@@ -3068,7 +3068,7 @@
        <lb/>
        <div type="Parallel">w:5. Amos: 1,1.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Zah_14:6.">
+      <div n="6." type="Verse" id="VD1689_94::Zah_14:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un tai dienā ne būs ta</div>
        <lb/>
@@ -3076,7 +3076,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tumsiba.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Zah_14:7.">
+      <div n="7." type="Verse" id="VD1689_94::Zah_14:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. bet ta būs viena vieniga</div>
        <lb/>
@@ -3088,7 +3088,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vakara laiku būs gaisma.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Zah_14:8.">
+      <div n="8." type="Verse" id="VD1689_94::Zah_14:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. ir tai dienā/ dzīvs ūdens</div>
        <lb/>
@@ -3102,7 +3102,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ziema.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Zah_14:9.">
+      <div n="9." type="Verse" id="VD1689_94::Zah_14:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un tas kungz būs</div>
        <lb/>
@@ -3114,7 +3114,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vārds vienigs.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Zah_14:10.">
+      <div n="10." type="Verse" id="VD1689_94::Zah_14:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. visa ši zeme taps</div>
        <lb/>
@@ -3138,7 +3138,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vīna=spaidam.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Zah_14:11.">
+      <div n="11." type="Verse" id="VD1689_94::Zah_14:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un tie dzīvos iekš</div>
        <lb/>
@@ -3148,7 +3148,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dzīvos droši.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Zah_14:12.">
+      <div n="12." type="Verse" id="VD1689_94::Zah_14:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un ši būs ta mociba/</div>
        <lb/>
@@ -3168,7 +3168,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu mutē.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Zah_14:13.">
+      <div n="13." type="Verse" id="VD1689_94::Zah_14:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. ir tai dienā liels</div>
        <lb/>
@@ -3182,7 +3182,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tuvaka roku.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Zah_14:14.">
+      <div n="14." type="Verse" id="VD1689_94::Zah_14:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. ir jūda kaŗos pret</div>
        <lb/>
@@ -3194,7 +3194,7 @@
        <lb/>
         <div type="Language" lang="Latvian">drēbes lielā pulkā.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Zah_14:15.">
+      <div n="15." type="Verse" id="VD1689_94::Zah_14:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tāpat būs ta mociba</div>
        <lb/>
@@ -3206,7 +3206,7 @@
        <lb/>
         <div type="Language" lang="Latvian">it kā viņu mociba bijusi.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Zah_14:16.">
+      <div n="16." type="Verse" id="VD1689_94::Zah_14:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un tas notiks/ ka visi</div>
        <lb/>
@@ -3222,7 +3222,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un turēs tos lieveņu svētkus.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Zah_14:17.">
+      <div n="17." type="Verse" id="VD1689_94::Zah_14:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un ja jebkuŗa no tām</div>
        <lb/>
@@ -3234,7 +3234,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tad pār tiem lietus ne līs.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Zah_14:18.">
+      <div n="18." type="Verse" id="VD1689_94::Zah_14:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. un kad to egipteŗu tauta</div>
        <lb/>
@@ -3252,7 +3252,7 @@
        <lb/>
        <div type="Parallel">w:18. Eſa: 5,6.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Zah_14:19.">
+      <div n="19." type="Verse" id="VD1689_94::Zah_14:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. šis būs tiem egipteŗiem</div>
        <lb/>
@@ -3264,7 +3264,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svētkus turēt.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Zah_14:20.">
+      <div n="20." type="Verse" id="VD1689_94::Zah_14:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. tai dienā būs uz tiem</div>
        <lb/>
@@ -3280,7 +3280,7 @@
        <lb/>
         <div type="Language" lang="Latvian">altaŗa.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Zah_14:21.">
+      <div n="21." type="Verse" id="VD1689_94::Zah_14:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. jo visi podi iekš jeruzalemes</div>
        <lb/>

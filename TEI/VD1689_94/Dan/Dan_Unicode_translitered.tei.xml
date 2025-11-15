@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="VD1689_94/Dan">
+    <fileDesc id="VD1689_94::Dan">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Tas Praweets Danijels</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta i. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_1:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_1:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. nebukadnecars tas babeles ķēniņš aplēgere</div>
        <lb/>
@@ -39,7 +39,7 @@
        <lb/>
         <div type="Language" lang="Latvian">18/ 19.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_1:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. trešā gadā</div>
        <lb/>
@@ -59,7 +59,7 @@
        <lb/>
        <div type="Parallel">w:1. 2.Ķehn: 24,1. 2.Laik:Gr: 36,10.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_1:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un tas kungs nodeve jojakimu</div>
        <lb/>
@@ -79,7 +79,7 @@
        <lb/>
        <div type="Parallel">w:2. 2.Laik:Gr: 36,7.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_1:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_1:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un tas ķēniņš sacija</div>
        <lb/>
@@ -93,7 +93,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izlasīt/</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_1:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_1:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tādus jaunekļus/ pie</div>
        <lb/>
@@ -115,7 +115,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un valodas.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_1:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un tas ķēniņš spriede</div>
        <lb/>
@@ -131,7 +131,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta ķēniņa priekšā stāvētu.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_1:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_1:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. starp tiem nu bija no</div>
        <lb/>
@@ -139,7 +139,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ananijus/ mizaels un azarijus.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_1:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un to kambar=junkuŗu</div>
        <lb/>
@@ -151,7 +151,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mizaelu mezek/ un azariju abednego.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_1:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_1:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. bet danijels apņēmās</div>
        <lb/>
@@ -169,7 +169,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sagānities.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_1:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un dievs deve danijelam</div>
        <lb/>
@@ -179,7 +179,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uzraugu.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_1:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_1:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un tas kambar=junkuŗu</div>
        <lb/>
@@ -203,7 +203,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie ta ķēniņa.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_1:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. bet danijels sacija uz</div>
        <lb/>
@@ -215,7 +215,7 @@
        <lb/>
         <div type="Language" lang="Latvian">azariju.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_1:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. baudi jele ar taviem</div>
        <lb/>
@@ -227,7 +227,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ūdeni dzert.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_1:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. un tad lai lūko kāds</div>
        <lb/>
@@ -241,7 +241,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kalpiem kā tu pats redzesi.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_1:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tad paklausija viņš</div>
        <lb/>
@@ -249,7 +249,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar tiem desmits dienas.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_1:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un pēc desmits dienām</div>
        <lb/>
@@ -263,7 +263,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņa baribas ēde.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_1:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_1:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tad atņēme melcars</div>
        <lb/>
@@ -275,7 +275,7 @@
        <lb/>
         <div type="Language" lang="Latvian">augļiem.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_1:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_1:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un šiem četriem puišiem</div>
        <lb/>
@@ -291,7 +291,7 @@
        <lb/>
         <div type="Language" lang="Latvian">parādišanām un sapniem.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_1:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_1:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. un kad tas laiks pa galam</div>
        <lb/>
@@ -305,7 +305,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nebukadnecaŗa.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_1:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_1:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un tas ķēniņš runaja</div>
        <lb/>
@@ -319,7 +319,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priekšā.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_1:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_1:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un tas ķēniņš atrade</div>
        <lb/>
@@ -337,7 +337,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_1:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_1:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un danijels palike tur</div>
        <lb/>
@@ -348,7 +348,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta ii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_2:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_2:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. nebukadnecars redz vienu sapni/ ko viņš</div>
        <lb/>
@@ -366,7 +366,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar bagatibu un godu apdāvanāts: 46.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_2:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_2:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un otrā gadā nebukadnecaŗa</div>
        <lb/>
@@ -380,7 +380,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš no miega uzmodās.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_2:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_2:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un tas ķēniņš pavēleja/</div>
        <lb/>
@@ -398,7 +398,7 @@
        <lb/>
         <div type="Language" lang="Latvian">priekšā.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_2:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_2:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un tas ķēniņš sacija</div>
        <lb/>
@@ -410,7 +410,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sapni zināt.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_2:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_2:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tad sacija tie kaldeeŗi</div>
        <lb/>
@@ -422,7 +422,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tad mēs viņu izstāstisim.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_2:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_2:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tas ķēniņš atbildeja un</div>
        <lb/>
@@ -440,7 +440,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taps par sutraiņiem dariti.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_2:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_2:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. bet ja jūs man to sapni</div>
        <lb/>
@@ -458,7 +458,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zinamu.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_2:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_2:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. tie atbildeja otrā reizē</div>
        <lb/>
@@ -468,7 +468,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tad gribam mēs to izstāstīt.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_2:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_2:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tas ķēniņš atbildeja</div>
        <lb/>
@@ -480,7 +480,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ši lieta man ir aizmirsta.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_2:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_2:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. bet ja jūs man to sapni</div>
        <lb/>
@@ -502,7 +502,7 @@
        <lb/>
         <div type="Language" lang="Latvian">varesiet izstāstīt.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_2:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_2:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. tie kaldeeri atbildeja</div>
        <lb/>
@@ -524,7 +524,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būtu prasijs.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_2:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_2:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. jo ši lieta/ ko tas ķēniņš</div>
        <lb/>
@@ -540,7 +540,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne ir.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_2:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_2:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tadēļ tape tas ķēniņš</div>
        <lb/>
@@ -550,7 +550,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gudrus babelē nomaitāt.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_2:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_2:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. ši pavēlešana izplaude/</div>
        <lb/>
@@ -562,7 +562,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nokauti taptu.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_2:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_2:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tad sajute danijels to</div>
        <lb/>
@@ -574,7 +574,7 @@
        <lb/>
         <div type="Language" lang="Latvian">babelē nokaut.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_2:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un tas atbildeja/ un sacija</div>
        <lb/>
@@ -588,7 +588,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to lietu.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_2:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_2:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un danijels gāje iekšā/</div>
        <lb/>
@@ -600,7 +600,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to izstāstišanu sacitu.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_2:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_2:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. tad nogāje danijels savā</div>
        <lb/>
@@ -610,7 +610,7 @@
        <lb/>
         <div type="Language" lang="Latvian">saviem biedriem/</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_2:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_2:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. ka tie no ta dieva no</div>
        <lb/>
@@ -624,7 +624,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bojā ne ietu.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_2:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_2:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. tad tape danijelam</div>
        <lb/>
@@ -632,7 +632,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas noslēpums parādīts.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_2:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_2:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. par to teice danijels to</div>
        <lb/>
@@ -646,7 +646,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gudriba un spēks.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_2:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_2:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. jo viņš pārceļ laikus</div>
        <lb/>
@@ -660,7 +660,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kam gudrs prāts ir.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_2:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_2:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. viņš parāda dziļas</div>
        <lb/>
@@ -670,7 +670,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa dzīvo ta gaisma.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_2:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_2:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. es pateicu un teicu tev</div>
        <lb/>
@@ -686,7 +686,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņa lietu zinamu darijs.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_2:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_2:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. tad nogāje danijels</div>
        <lb/>
@@ -706,7 +706,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņam to izstāstišanu zinamu.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_2:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_2:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tad vede arioks danijelu</div>
        <lb/>
@@ -722,7 +722,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sacīs.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_2:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_2:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. tas ķēniņš atbildeja/</div>
        <lb/>
@@ -734,7 +734,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ko es esmu redzejs/ un ari izstāstīt?</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_2:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_2:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. danijels atbildeja priekš</div>
        <lb/>
@@ -748,7 +748,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tam ķēniņam sacīt.</div>
       </div>
-      <div n="28." type="Verse" id="VD1689_94/Dan_2:28.">
+      <div n="28." type="Verse" id="VD1689_94::Dan_2:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. bet dievs vien debesīs/</div>
        <lb/>
@@ -760,7 +760,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas pastarā laikā notiks.</div>
       </div>
-      <div n="29." type="Verse" id="VD1689_94/Dan_2:29.">
+      <div n="29." type="Verse" id="VD1689_94::Dan_2:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. tavs sapnis/ un kas tavai</div>
        <lb/>
@@ -778,7 +778,7 @@
        <lb/>
         <div type="Language" lang="Latvian">notiks.</div>
       </div>
-      <div n="30." type="Verse" id="VD1689_94/Dan_2:30.">
+      <div n="30." type="Verse" id="VD1689_94::Dan_2:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. man tad/ man ir tas</div>
        <lb/>
@@ -798,7 +798,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zināt.</div>
       </div>
-      <div n="31." type="Verse" id="VD1689_94/Dan_2:31.">
+      <div n="31." type="Verse" id="VD1689_94::Dan_2:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. tu ķēniņš redzeji/ un</div>
        <lb/>
@@ -812,7 +812,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ģīmis bija briesmigs.</div>
       </div>
-      <div n="32." type="Verse" id="VD1689_94/Dan_2:32.">
+      <div n="32." type="Verse" id="VD1689_94::Dan_2:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. šīs bildes galva</div>
        <lb/>
@@ -824,7 +824,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gurni bija no vaŗa.</div>
       </div>
-      <div n="33." type="Verse" id="VD1689_94/Dan_2:33.">
+      <div n="33." type="Verse" id="VD1689_94::Dan_2:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. viņas lieli no dzelzes/</div>
        <lb/>
@@ -832,7 +832,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dzelzes/ un pus no māla.</div>
       </div>
-      <div n="34." type="Verse" id="VD1689_94/Dan_2:34.">
+      <div n="34." type="Verse" id="VD1689_94::Dan_2:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. šo redzeji tu/ tiekams</div>
        <lb/>
@@ -846,7 +846,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās.</div>
       </div>
-      <div n="35." type="Verse" id="VD1689_94/Dan_2:35.">
+      <div n="35." type="Verse" id="VD1689_94::Dan_2:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. tā tape kopā satriekti</div>
        <lb/>
@@ -870,7 +870,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemi piepildija.</div>
       </div>
-      <div n="36." type="Verse" id="VD1689_94/Dan_2:36.">
+      <div n="36." type="Verse" id="VD1689_94::Dan_2:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. šis ir tas sapnis.</div>
        <lb/>
@@ -878,7 +878,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tam ķēniņam sacīt.</div>
       </div>
-      <div n="37." type="Verse" id="VD1689_94/Dan_2:37.">
+      <div n="37." type="Verse" id="VD1689_94::Dan_2:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. tu ķēniņš esi viens</div>
        <lb/>
@@ -890,7 +890,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un godu devis.</div>
       </div>
-      <div n="38." type="Verse" id="VD1689_94/Dan_2:38.">
+      <div n="38." type="Verse" id="VD1689_94::Dan_2:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. ir visur/ kur cilveki dzīvo/</div>
        <lb/>
@@ -906,7 +906,7 @@
        <lb/>
         <div type="Language" lang="Latvian">galva.</div>
       </div>
-      <div n="39." type="Verse" id="VD1689_94/Dan_2:39.">
+      <div n="39." type="Verse" id="VD1689_94::Dan_2:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. un pēc tevis cita valstiba</div>
        <lb/>
@@ -918,7 +918,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemi.</div>
       </div>
-      <div n="40." type="Verse" id="VD1689_94/Dan_2:40.">
+      <div n="40." type="Verse" id="VD1689_94::Dan_2:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. un ta cetorta valstiba</div>
        <lb/>
@@ -932,7 +932,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un satrieks.</div>
       </div>
-      <div n="41." type="Verse" id="VD1689_94/Dan_2:41.">
+      <div n="41." type="Verse" id="VD1689_94::Dan_2:41.">
        <lb/>
         <div type="Language" lang="Latvian">41. un ka tu esi redzejs tās</div>
        <lb/>
@@ -950,7 +950,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sajauktu.</div>
       </div>
-      <div n="42." type="Verse" id="VD1689_94/Dan_2:42.">
+      <div n="42." type="Verse" id="VD1689_94::Dan_2:42.">
        <lb/>
         <div type="Language" lang="Latvian">42. un to kāju pirkstus</div>
        <lb/>
@@ -960,7 +960,7 @@
        <lb/>
         <div type="Language" lang="Latvian">cieta un pus vāja.</div>
       </div>
-      <div n="43." type="Verse" id="VD1689_94/Dan_2:43.">
+      <div n="43." type="Verse" id="VD1689_94::Dan_2:43.">
        <lb/>
         <div type="Language" lang="Latvian">43. un ka tu esi redzejs</div>
        <lb/>
@@ -974,7 +974,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kā dzelze ar māliem ne jaucās.</div>
       </div>
-      <div n="44." type="Verse" id="VD1689_94/Dan_2:44.">
+      <div n="44." type="Verse" id="VD1689_94::Dan_2:44.">
        <lb/>
         <div type="Language" lang="Latvian">44. pēc šo ķēniņo laika</div>
        <lb/>
@@ -992,7 +992,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pastāvēs viņa mūžigi.</div>
       </div>
-      <div n="45." type="Verse" id="VD1689_94/Dan_2:45.">
+      <div n="45." type="Verse" id="VD1689_94::Dan_2:45.">
        <lb/>
         <div type="Language" lang="Latvian">45. tapēc esi tu redzejs/</div>
        <lb/>
@@ -1014,7 +1014,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir pareiza.</div>
       </div>
-      <div n="46." type="Verse" id="VD1689_94/Dan_2:46.">
+      <div n="46." type="Verse" id="VD1689_94::Dan_2:46.">
        <lb/>
         <div type="Language" lang="Latvian">46. tad metēs tas ķēniņš</div>
        <lb/>
@@ -1026,7 +1026,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un kvēpja=upuŗus nest.</div>
       </div>
-      <div n="47." type="Verse" id="VD1689_94/Dan_2:47.">
+      <div n="47." type="Verse" id="VD1689_94::Dan_2:47.">
        <lb/>
         <div type="Language" lang="Latvian">47. un tas ķēniņš atbildeja</div>
        <lb/>
@@ -1046,7 +1046,7 @@
        <lb/>
        <div type="Parallel">w:47. 1.Tim: 6,15.</div>
       </div>
-      <div n="48." type="Verse" id="VD1689_94/Dan_2:48.">
+      <div n="48." type="Verse" id="VD1689_94::Dan_2:48.">
        <lb/>
         <div type="Language" lang="Latvian">48. tad pa=augstinaja tas</div>
        <lb/>
@@ -1062,7 +1062,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gudriem.</div>
       </div>
-      <div n="49." type="Verse" id="VD1689_94/Dan_2:49.">
+      <div n="49." type="Verse" id="VD1689_94::Dan_2:49.">
        <lb/>
         <div type="Language" lang="Latvian">49. tad lūdze danijels to</div>
        <lb/>
@@ -1079,7 +1079,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta iii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_3:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_3:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. nebukadnecars pavēļ/ ka ikvienam uz to</div>
        <lb/>
@@ -1103,7 +1103,7 @@
        <lb/>
         <div type="Language" lang="Latvian">28.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_3:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_3:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. tas ķēniņš nebukadnecars</div>
        <lb/>
@@ -1121,7 +1121,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dura.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_3:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_3:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un tas ķēniņš nebukadnecars</div>
        <lb/>
@@ -1143,7 +1143,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij darijs.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_3:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tad sanāce tie lieli=kungi/</div>
        <lb/>
@@ -1165,7 +1165,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij uzcēlis.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_3:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_3:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un tas izsaucejs izsauce</div>
        <lb/>
@@ -1175,7 +1175,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un valodas.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_3:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_3:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. kad jūs dzirdesiet to bazunes</div>
        <lb/>
@@ -1195,7 +1195,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir uzcēlis.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_3:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_3:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un kas ne nometisies un</div>
        <lb/>
@@ -1205,7 +1205,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iemests.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_3:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_3:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. kad nu visi tie ļaudis</div>
        <lb/>
@@ -1225,7 +1225,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nebukadnecars bij uzcēlis.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_3:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_3:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tai pašā laikā piegāje</div>
        <lb/>
@@ -1233,7 +1233,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tos judus.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_3:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_3:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. jo tie atbildeja un sacija:</div>
        <lb/>
@@ -1241,7 +1241,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dzīvo.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_3:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_3:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. tu ķēniņš esi pavēlejs/</div>
        <lb/>
@@ -1259,7 +1259,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nomesties/ un to zelta bildi pielūgt.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_3:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_3:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un ka tam/ kas pie zemes</div>
        <lb/>
@@ -1269,7 +1269,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tapt.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_3:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_3:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. teju ir judu vīri/ ko</div>
        <lb/>
@@ -1287,7 +1287,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zelta bildi/ ko tu esi uzcēlis.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_3:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_3:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tad pavēleja nebukadnecars</div>
        <lb/>
@@ -1301,7 +1301,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņa vesti.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_3:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_3:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tad atbildeja nebukadnecars/</div>
        <lb/>
@@ -1317,7 +1317,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uzcēlis?</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_3:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_3:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. nu tad taisajties/ kad</div>
        <lb/>
@@ -1341,7 +1341,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ceplī iemesti.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_3:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_3:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tad atbildeja zadraks/</div>
        <lb/>
@@ -1353,7 +1353,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ka mēs uz šo lietu atbildam.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_3:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_3:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. redzi tā/ mūsu dievs/</div>
        <lb/>
@@ -1365,7 +1365,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tavas rokas/ ak ķēniņš! izpestīt.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_3:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_3:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. un jepšu viņš to ari</div>
        <lb/>
@@ -1377,7 +1377,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bildi/ ko tu darijs esi/ pielūgt.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_3:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_3:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. tad apskaitās nebukadnecars/</div>
        <lb/>
@@ -1393,7 +1393,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nekā citkārt darīts tape.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_3:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_3:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un viņš pavēleja tiem</div>
        <lb/>
@@ -1405,7 +1405,7 @@
        <lb/>
         <div type="Language" lang="Latvian">siet/ un degošā ceplī mest.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_3:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_3:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. tā tape šie vīri</div>
        <lb/>
@@ -1417,7 +1417,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ceplī iemesti.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_3:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_3:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. kad nu ta ķēniņa</div>
        <lb/>
@@ -1431,7 +1431,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un abednegu bij pacēluši.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_3:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_3:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet tie trīs vīri zadraks/</div>
        <lb/>
@@ -1439,7 +1439,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nokrite saistiti degošā ceplī.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_3:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_3:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. tad iztrūcinajās tas</div>
        <lb/>
@@ -1457,7 +1457,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tā tas ir kungs ķēniņš.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_3:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_3:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. viņš atbildeja un sacija:</div>
        <lb/>
@@ -1473,7 +1473,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dievu dēls.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_3:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_3:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. tad piegāje nebukadnecars</div>
        <lb/>
@@ -1493,7 +1493,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vidus.</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_3:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_3:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. tad sapulcinajās tie</div>
        <lb/>
@@ -1517,7 +1517,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tiem tape sa=osta.</div>
       </div>
-      <div n="28." type="Verse" id="VD1689_94/Dan_3:28.">
+      <div n="28." type="Verse" id="VD1689_94::Dan_3:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. tad atbildeja nebukadnecars/</div>
        <lb/>
@@ -1541,7 +1541,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kā vien savu dievu.</div>
       </div>
-      <div n="29." type="Verse" id="VD1689_94/Dan_3:29.">
+      <div n="29." type="Verse" id="VD1689_94::Dan_3:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. tadēļ pavēļu es/ ka</div>
        <lb/>
@@ -1561,7 +1561,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tā varetu atpestīt.</div>
       </div>
-      <div n="30." type="Verse" id="VD1689_94/Dan_3:30.">
+      <div n="30." type="Verse" id="VD1689_94::Dan_3:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. un tas ķēniņš deve</div>
        <lb/>
@@ -1571,7 +1571,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valsts.</div>
       </div>
-      <div n="31." type="Verse" id="VD1689_94/Dan_3:31.">
+      <div n="31." type="Verse" id="VD1689_94::Dan_3:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. tas ķēniņš nebukadnecars</div>
        <lb/>
@@ -1585,7 +1585,7 @@
        <lb/>
         <div type="Language" lang="Latvian">daudz miera.</div>
       </div>
-      <div n="32." type="Verse" id="VD1689_94/Dan_3:32.">
+      <div n="32." type="Verse" id="VD1689_94::Dan_3:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. man patīk sludināt</div>
        <lb/>
@@ -1595,7 +1595,7 @@
        <lb/>
         <div type="Language" lang="Latvian">manim darijs.</div>
       </div>
-      <div n="33." type="Verse" id="VD1689_94/Dan_3:33.">
+      <div n="33." type="Verse" id="VD1689_94::Dan_3:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. jo viņa zīmes ir</div>
        <lb/>
@@ -1612,7 +1612,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta iv. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_4:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_4:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. nebukadnecars redz sapnī vienu lielu augstu</div>
        <lb/>
@@ -1632,7 +1632,7 @@
        <lb/>
         <div type="Language" lang="Latvian">godibas iecelts: 30.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_4:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_4:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. es nebukadnecars/ kad</div>
        <lb/>
@@ -1642,7 +1642,7 @@
        <lb/>
         <div type="Language" lang="Latvian">klājās/</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_4:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_4:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. redzeju vienu sapni/ kas</div>
        <lb/>
@@ -1654,7 +1654,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rādijās/ iztrūcinaja man.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_4:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_4:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tapēc pavēleju es/ ka</div>
        <lb/>
@@ -1664,7 +1664,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ši sapna izstāstišanu pasacitu.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_4:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_4:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tad atnāce tie zīlnieki/</div>
        <lb/>
@@ -1676,7 +1676,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne izstāstija.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_4:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_4:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tiekams pēdigi danijels</div>
        <lb/>
@@ -1692,7 +1692,7 @@
        <lb/>
        <div type="Parallel">w:5. Dan: 1,7.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_4:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_4:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. (un saciju:) belzacers/</div>
        <lb/>
@@ -1710,7 +1710,7 @@
        <lb/>
         <div type="Language" lang="Latvian">esmu redzejs/ un viņa izstāstišanu.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_4:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_4:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. bet tas ir/ kas manai</div>
        <lb/>
@@ -1722,7 +1722,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un tas bija ļoti augsts.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_4:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_4:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tas koks bija liels un</div>
        <lb/>
@@ -1734,7 +1734,7 @@
        <lb/>
         <div type="Language" lang="Latvian">galam.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_4:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_4:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. viņa zari bija skaisti/</div>
        <lb/>
@@ -1752,7 +1752,7 @@
        <lb/>
         <div type="Language" lang="Latvian">miesa baŗojās no ta.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_4:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_4:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. vēl redzeju es manā</div>
        <lb/>
@@ -1764,7 +1764,7 @@
        <lb/>
         <div type="Language" lang="Latvian">no debesim.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_4:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_4:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. tas sauce stipri/ un sacija</div>
        <lb/>
@@ -1782,7 +1782,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zariem noskriem.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_4:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_4:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. bet to celmu ar savām</div>
        <lb/>
@@ -1802,7 +1802,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zāles.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_4:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_4:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. viņa sirds lai top</div>
        <lb/>
@@ -1816,7 +1816,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu beidzās.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_4:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_4:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. ši lieta ir iekš to</div>
        <lb/>
@@ -1840,7 +1840,7 @@
        <lb/>
        <div type="Parallel">w:14. Luhk: 1,52.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_4:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_4:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. šo sapni esmu es</div>
        <lb/>
@@ -1858,7 +1858,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dievu gars iekš tevim ir.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_4:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_4:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tad iztrūcinajās danijels/</div>
        <lb/>
@@ -1886,7 +1886,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izzhtāstišana taviem pretiniekiem.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_4:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_4:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. tas koks/ ko tu esi redzejs</div>
        <lb/>
@@ -1898,7 +1898,7 @@
        <lb/>
         <div type="Language" lang="Latvian">visu zemi redzēts tape.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_4:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_4:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. un kuŗa zari skaisti/</div>
        <lb/>
@@ -1914,7 +1914,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ligzdas darija/</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_4:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_4:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. tas pats esi tu ķēniņš/</div>
        <lb/>
@@ -1928,7 +1928,7 @@
        <lb/>
         <div type="Language" lang="Latvian">līdz zemes galam.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_4:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_4:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. ka nu tas ķēniņš</div>
        <lb/>
@@ -1960,7 +1960,7 @@
        <lb/>
         <div type="Language" lang="Latvian">beidzās.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_4:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_4:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. ši ir ta izstāstišana/</div>
        <lb/>
@@ -1972,7 +1972,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nāks.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_4:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_4:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. jo tu tapsi no cilvekiem</div>
        <lb/>
@@ -1996,7 +1996,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dod/ kam gribedams.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_4:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_4:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet ka sacīts ir/ ka to</div>
        <lb/>
@@ -2010,7 +2010,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tas dievs no debes valda.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_4:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_4:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. tadēļ kungs ķēniņš</div>
        <lb/>
@@ -2028,13 +2028,13 @@
        <lb/>
         <div type="Language" lang="Latvian">būšana taps vēl ilgaki pavilcinata.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_4:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_4:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tas viss uzgāje tam</div>
        <lb/>
         <div type="Language" lang="Latvian">ķēniņam nebukadnecaram.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_4:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_4:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. jo pēc divipadesmits</div>
        <lb/>
@@ -2042,7 +2042,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņa pili babelē staigaja/</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_4:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_4:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. runaja tas ķēniņš/</div>
        <lb/>
@@ -2056,7 +2056,7 @@
        <lb/>
         <div type="Language" lang="Latvian">manas augstibas godibu?</div>
       </div>
-      <div n="28." type="Verse" id="VD1689_94/Dan_4:28.">
+      <div n="28." type="Verse" id="VD1689_94::Dan_4:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. šis vārds bija vēl</div>
        <lb/>
@@ -2070,7 +2070,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tevim atjemta.</div>
       </div>
-      <div n="29." type="Verse" id="VD1689_94/Dan_4:29.">
+      <div n="29." type="Verse" id="VD1689_94::Dan_4:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. un tu tapsi no cilvekiem</div>
        <lb/>
@@ -2090,7 +2090,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir/ un tās dod kam gribedams.</div>
       </div>
-      <div n="30." type="Verse" id="VD1689_94/Dan_4:30.">
+      <div n="30." type="Verse" id="VD1689_94::Dan_4:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. tai pašā stundā tape</div>
        <lb/>
@@ -2112,7 +2112,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nagi.</div>
       </div>
-      <div n="31." type="Verse" id="VD1689_94/Dan_4:31.">
+      <div n="31." type="Verse" id="VD1689_94::Dan_4:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. un pēc šo laiku pacēlu</div>
        <lb/>
@@ -2136,7 +2136,7 @@
        <lb/>
         <div type="Language" lang="Latvian">paliek līdz radu radiem.</div>
       </div>
-      <div n="32." type="Verse" id="VD1689_94/Dan_4:32.">
+      <div n="32." type="Verse" id="VD1689_94::Dan_4:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. un visi zemes iedzīvotaji</div>
        <lb/>
@@ -2154,7 +2154,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu sacīt: ko dari tu?</div>
       </div>
-      <div n="33." type="Verse" id="VD1689_94/Dan_4:33.">
+      <div n="33." type="Verse" id="VD1689_94::Dan_4:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. tanī laikā nāce mans</div>
        <lb/>
@@ -2176,7 +2176,7 @@
        <lb/>
         <div type="Language" lang="Latvian">godiba pielikta.</div>
       </div>
-      <div n="34." type="Verse" id="VD1689_94/Dan_4:34.">
+      <div n="34." type="Verse" id="VD1689_94::Dan_4:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. nu slaveju es nebukadnecars/</div>
        <lb/>
@@ -2197,7 +2197,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta v. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_5:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_5:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. belzacers sagāna tos traukus ta dieva</div>
        <lb/>
@@ -2215,7 +2215,7 @@
        <lb/>
         <div type="Language" lang="Latvian">naktī top viņš nokauts: 30.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_5:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_5:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. tas ķēniņš bezacers</div>
        <lb/>
@@ -2227,7 +2227,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vīnu ar tiem tūkstošiem.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_5:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_5:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. kad nu belzacers to vīnu</div>
        <lb/>
@@ -2249,7 +2249,7 @@
        <lb/>
         <div type="Language" lang="Latvian">liekas sievas no tiem dzertu.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_5:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_5:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. tā tape atnesti tie zelta</div>
        <lb/>
@@ -2265,7 +2265,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dzēre no tiem.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_5:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_5:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tie dzēre to vīnu/ un</div>
        <lb/>
@@ -2275,7 +2275,7 @@
        <lb/>
         <div type="Language" lang="Latvian">akminaiņus (dievus).</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_5:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_5:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tai pašā stundā iznāce</div>
        <lb/>
@@ -2291,7 +2291,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gabalu/ kas rakstija.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_5:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_5:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tad pārvērtijās ta</div>
        <lb/>
@@ -2303,7 +2303,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lieli drebeja.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_5:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_5:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un tas ķēniņš brēce</div>
        <lb/>
@@ -2331,7 +2331,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valstibā.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_5:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_5:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tad nāce visie ķēniņa</div>
        <lb/>
@@ -2341,7 +2341,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tam ķēniņam tos izstāstīt.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_5:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_5:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tad iztrūcinajās tas</div>
        <lb/>
@@ -2351,7 +2351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un viņa varenie bēdajās.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_5:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_5:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. par to gāje ta ķēniņine/</div>
        <lb/>
@@ -2371,7 +2371,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārvērtās.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_5:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_5:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. teju ir viens vīrs</div>
        <lb/>
@@ -2399,7 +2399,7 @@
        <lb/>
        <div type="Parallel">w:11. Dan: 2,48. un: 4,6.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_5:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_5:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tadēļ ka viens augsts</div>
        <lb/>
@@ -2417,7 +2417,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nu danijelu/ tas tev to izstāstīs.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_5:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_5:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tad tape danijels</div>
        <lb/>
@@ -2437,7 +2437,7 @@
        <lb/>
        <div type="Parallel">w:13. Dan: 1,6,</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_5:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_5:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. es esmu no tevim dzirdejs/</div>
        <lb/>
@@ -2449,7 +2449,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie tevim atrasta top.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_5:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_5:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. nu ir priekš man atvesti</div>
        <lb/>
@@ -2463,7 +2463,7 @@
        <lb/>
         <div type="Language" lang="Latvian">man tos vārdus izstāstīt.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_5:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_5:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. bet no tevis esmu es</div>
        <lb/>
@@ -2485,7 +2485,7 @@
        <lb/>
         <div type="Language" lang="Latvian">šinī valstibā.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_5:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_5:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. tad atbildeja danijels/</div>
        <lb/>
@@ -2503,7 +2503,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņam tos pašus.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_5:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_5:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. kungs ķēniņš/ dievs</div>
        <lb/>
@@ -2515,7 +2515,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un augstibu devis/</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_5:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_5:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un tās augstibas dēļ/</div>
        <lb/>
@@ -2537,7 +2537,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gribeja/ pazemoja viņš.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_5:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_5:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. bet kad viņa sirds</div>
        <lb/>
@@ -2553,7 +2553,7 @@
        <lb/>
        <div type="Parallel">w:20. Dan: 4,17.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_5:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_5:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un viņš tape no cilveka</div>
        <lb/>
@@ -2581,7 +2581,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gribedams.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_5:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_5:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un tu belzacers viņa</div>
        <lb/>
@@ -2591,7 +2591,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gan labi esi zinajs.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_5:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_5:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet esi tavu sirdi augstinajs</div>
        <lb/>
@@ -2625,7 +2625,7 @@
        <lb/>
        <div type="Parallel">w:23. Dahw:Dſ: 115,5,6,7.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_5:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_5:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. tad ir tas rokas gabals</div>
        <lb/>
@@ -2633,7 +2633,7 @@
        <lb/>
         <div type="Language" lang="Latvian">raksti iezīmeti tapuši.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_5:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_5:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. un šis ir tas raksts/</div>
        <lb/>
@@ -2641,7 +2641,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tekel uvarzin.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_5:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_5:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un ši ir to vārdu</div>
        <lb/>
@@ -2651,7 +2651,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pabeidzis.</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_5:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_5:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. tekel/ tu esi svaru=</div>
        <lb/>
@@ -2659,7 +2659,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vieglis atrasts.</div>
       </div>
-      <div n="28." type="Verse" id="VD1689_94/Dan_5:28.">
+      <div n="28." type="Verse" id="VD1689_94::Dan_5:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. peres/ tava valstiba ir</div>
        <lb/>
@@ -2667,7 +2667,7 @@
        <lb/>
         <div type="Language" lang="Latvian">perzeŗiem dota.</div>
       </div>
-      <div n="29." type="Verse" id="VD1689_94/Dan_5:29.">
+      <div n="29." type="Verse" id="VD1689_94::Dan_5:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. tad pavēleja belzacers/</div>
        <lb/>
@@ -2683,7 +2683,7 @@
        <lb/>
         <div type="Language" lang="Latvian">valstibā.</div>
       </div>
-      <div n="30." type="Verse" id="VD1689_94/Dan_5:30.">
+      <div n="30." type="Verse" id="VD1689_94::Dan_5:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. bet tai pašā naktī/</div>
        <lb/>
@@ -2691,7 +2691,7 @@
        <lb/>
         <div type="Language" lang="Latvian">belzacers nokauts.</div>
       </div>
-      <div n="31." type="Verse" id="VD1689_94/Dan_5:31.">
+      <div n="31." type="Verse" id="VD1689_94::Dan_5:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. un darijus tas miederis</div>
        <lb/>
@@ -2704,7 +2704,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta vi. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_6:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_6:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. danijels top no darijusa par to augstaku</div>
        <lb/>
@@ -2728,7 +2728,7 @@
        <lb/>
         <div type="Language" lang="Latvian">25.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_6:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_6:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un tas patike darijum</div>
        <lb/>
@@ -2738,7 +2738,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pār visu valstibu būtu.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_6:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_6:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un pār tiem atkaļ trīs</div>
        <lb/>
@@ -2752,7 +2752,7 @@
        <lb/>
         <div type="Language" lang="Latvian">raizes ne būtu.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_6:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_6:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. bet danijels tape augstaki</div>
        <lb/>
@@ -2766,7 +2766,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu pār visu valstibu iecelt.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_6:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_6:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tad mekleja tie liel=kungi</div>
        <lb/>
@@ -2784,7 +2784,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie viņa atrasts tape.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_6:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_6:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tad sacija tie vīri:</div>
        <lb/>
@@ -2796,7 +2796,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa dieva kalpošanu.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_6:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_6:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tad nāce tie liel=kungi</div>
        <lb/>
@@ -2808,7 +2808,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mūžam dzīvo.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_6:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_6:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. visi valstibas/ liel=</div>
        <lb/>
@@ -2832,7 +2832,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lauvu bedrē iemestam tapt.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_6:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_6:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. nu tad kungs ķēniņš/</div>
        <lb/>
@@ -2848,7 +2848,7 @@
        <lb/>
        <div type="Parallel">w:8. Eſter: 1,19. un: 8,8.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_6:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_6:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tad rakstija tas ķēniņš</div>
        <lb/>
@@ -2856,7 +2856,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bausli.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_6:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_6:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. kad nu danijels sajute</div>
        <lb/>
@@ -2878,7 +2878,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darīt.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_6:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_6:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. tad nāce tie vīri lielā</div>
        <lb/>
@@ -2886,7 +2886,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lūdzam/ un savu dievu piesaucam.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_6:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_6:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un tie piegāje/ un runaja</div>
        <lb/>
@@ -2914,7 +2914,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nevienam būs pārkāpt.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_6:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_6:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tad atbildeja tie/ un sacija</div>
        <lb/>
@@ -2930,7 +2930,7 @@
        <lb/>
         <div type="Language" lang="Latvian">par dienu.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_6:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_6:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. kad tas ķēniņš šo</div>
        <lb/>
@@ -2946,7 +2946,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš to izglābt.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_6:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_6:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. bet tie vīri nāce lielā</div>
        <lb/>
@@ -2964,7 +2964,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārgrozīts tapt.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_6:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_6:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tad pavēleja tas ķēniņš/</div>
        <lb/>
@@ -2982,7 +2982,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izpesti.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_6:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_6:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. pēc tape viens akmins</div>
        <lb/>
@@ -3010,7 +3010,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gulēt.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_6:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_6:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. rīta agrumā/ ar pašu</div>
        <lb/>
@@ -3020,7 +3020,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bedres.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_6:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_6:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un kad viņš pie bedres</div>
        <lb/>
@@ -3040,7 +3040,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lauvām izpestīt?</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_6:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_6:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. tad sacija danijels uz</div>
        <lb/>
@@ -3048,7 +3048,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mūžam dzīvo.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_6:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_6:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. mans dievs ir savu</div>
        <lb/>
@@ -3068,7 +3068,7 @@
        <lb/>
        <div type="Parallel">w:22. Eebr: 11,33.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_6:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_6:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. tad līgsmojās tas ķēniņš</div>
        <lb/>
@@ -3086,7 +3086,7 @@
        <lb/>
         <div type="Language" lang="Latvian">savam dievam uzticejs.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_6:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_6:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. vēl pavēleja tas ķēniņš/</div>
        <lb/>
@@ -3106,7 +3106,7 @@
        <lb/>
         <div type="Language" lang="Latvian">visus viņu kaulus.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_6:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_6:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tad rakstija tas ķēniņš</div>
        <lb/>
@@ -3116,7 +3116,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dievs jums dod daudz miera.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_6:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_6:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. no manim top pavēlēts/</div>
        <lb/>
@@ -3138,7 +3138,7 @@
        <lb/>
        <div type="Parallel">w:26. Dan: 3,33.</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_6:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_6:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. viņš atpesti un izglābj/</div>
        <lb/>
@@ -3150,7 +3150,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lauvu bedres izpestijs.</div>
       </div>
-      <div n="28." type="Verse" id="VD1689_94/Dan_6:28.">
+      <div n="28." type="Verse" id="VD1689_94::Dan_6:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. un tas pats danijels</div>
        <lb/>
@@ -3163,7 +3163,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta vii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_7:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_7:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. danijels redz sapnī četrus zvērus no</div>
        <lb/>
@@ -3180,7 +3180,7 @@
         <div type="Language" lang="Latvian">aridzan tas eņģelis izstāsta: 15.</div>
        <div type="Language" lang="Latin">etc.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_7:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_7:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. pirmā gadā belzacera/</div>
        <lb/>
@@ -3194,7 +3194,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš tās sapnu lietas īsumā.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_7:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_7:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. danijels atbildeja un sacija:</div>
        <lb/>
@@ -3206,7 +3206,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uz to lielu jūŗu/</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_7:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_7:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un četri lieli zvēri</div>
        <lb/>
@@ -3214,7 +3214,7 @@
        <lb/>
         <div type="Language" lang="Latvian">citadu ģīmi ne kā otrs.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_7:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_7:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. tas pirmajs bija kā lauva/</div>
        <lb/>
@@ -3232,7 +3232,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tape cilveciga sirds dota.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_7:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_7:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un pēc raugi/ tur bija</div>
        <lb/>
@@ -3250,7 +3250,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ēd daudz gaļas.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_7:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_7:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. pēc raudziju es/ un redzi/</div>
        <lb/>
@@ -3268,7 +3268,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta valdišana dota.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_7:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_7:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un pēc to raudziju es naktī/</div>
        <lb/>
@@ -3290,7 +3290,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un tam bij desmits ragi.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_7:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_7:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un es liku tos ragus</div>
        <lb/>
@@ -3310,7 +3310,7 @@
        <lb/>
         <div type="Language" lang="Latvian">runaja.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_7:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_7:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. šo redzeju es/ tiekams</div>
        <lb/>
@@ -3328,7 +3328,7 @@
        <lb/>
         <div type="Language" lang="Latvian">skriteļi bija degots uguns.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_7:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_7:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un no viņa priekšas</div>
        <lb/>
@@ -3348,7 +3348,7 @@
        <lb/>
        <div type="Parallel">w:10. Par:Jah: 11.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_7:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_7:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. es skatijos tās lielas</div>
        <lb/>
@@ -3364,7 +3364,7 @@
        <lb/>
         <div type="Language" lang="Latvian">taptu.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_7:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_7:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un to citu zvēru</div>
        <lb/>
@@ -3374,7 +3374,7 @@
        <lb/>
         <div type="Language" lang="Latvian">cik ilgi tiem bij stāvēt.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_7:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_7:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. vēl redzeju es nakts</div>
        <lb/>
@@ -3390,7 +3390,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa nākt.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_7:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_7:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un viņam tape dota</div>
        <lb/>
@@ -3410,7 +3410,7 @@
        <lb/>
        <div type="Parallel">w:14. Dan: 4,31. Mik: 4,7. Luhk: 1,33.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_7:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_7:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. man danijelam nogure</div>
        <lb/>
@@ -3420,7 +3420,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iztrūcinaja mani/</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_7:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_7:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. es piegāju pie viena</div>
        <lb/>
@@ -3434,7 +3434,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietas.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_7:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_7:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. tie četri lieli zvēri</div>
        <lb/>
@@ -3442,7 +3442,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zemes celsies.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_7:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_7:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. bet ta visu=augstaka</div>
        <lb/>
@@ -3452,7 +3452,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mūžam.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_7:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_7:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. pēc gribeju es to patiesibu</div>
        <lb/>
@@ -3470,7 +3470,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to citu ar savām kājām.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_7:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_7:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un no viņa desmits</div>
        <lb/>
@@ -3490,7 +3490,7 @@
        <lb/>
         <div type="Language" lang="Latvian">klāt bija.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_7:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_7:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. es redzeju to pašu ragu</div>
        <lb/>
@@ -3498,7 +3498,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ari tos pārvaram.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_7:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_7:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. tiekams tas vecajs</div>
        <lb/>
@@ -3512,7 +3512,7 @@
        <lb/>
         <div type="Language" lang="Latvian">iedabūt.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_7:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_7:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. viņš sacija tā: tas</div>
        <lb/>
@@ -3528,7 +3528,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_7:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_7:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. un tie desmits ragi ir</div>
        <lb/>
@@ -3542,7 +3542,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un pazemos trīs ķēniņus.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_7:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_7:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. un tas runās vārdus</div>
        <lb/>
@@ -3560,7 +3560,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un pus laiku.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_7:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_7:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. pēc to taps ta tiesa</div>
        <lb/>
@@ -3572,7 +3572,7 @@
        <lb/>
         <div type="Language" lang="Latvian">galam.</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_7:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_7:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. bet ta valstiba un ta</div>
        <lb/>
@@ -3592,7 +3592,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tam.</div>
       </div>
-      <div n="28." type="Verse" id="VD1689_94/Dan_7:28.">
+      <div n="28." type="Verse" id="VD1689_94::Dan_7:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. tas bija tās valodas</div>
        <lb/>
@@ -3609,7 +3609,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta viii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_8:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_8:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. danijels redz pie ta ūdens ulai vienu aunu</div>
        <lb/>
@@ -3625,7 +3625,7 @@
        <lb/>
         <div type="Language" lang="Latvian">20.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_8:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_8:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. trešā gadā ta ķēniņa</div>
        <lb/>
@@ -3639,7 +3639,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bij parādijsies.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_8:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_8:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un es redzeju kādā parādišanā/</div>
        <lb/>
@@ -3653,7 +3653,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tās upes ulai biju.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_8:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_8:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un es pacēlu savas acis/</div>
        <lb/>
@@ -3671,7 +3671,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pēdigi.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_8:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_8:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. es redzeju/ ka tas auns</div>
        <lb/>
@@ -3693,7 +3693,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un pa=augstinajās.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_8:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_8:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un kad es uz to domaju/</div>
        <lb/>
@@ -3707,7 +3707,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rags starp viņa acim.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_8:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_8:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un tas nāce pie ta auna</div>
        <lb/>
@@ -3719,7 +3719,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu ar stipru bārzibu.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_8:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_8:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un es redzeju/ ka tas tuvu</div>
        <lb/>
@@ -3743,7 +3743,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rokas izglābt.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_8:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_8:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. un tas āzis pa=augstinajās</div>
        <lb/>
@@ -3759,7 +3759,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vējiem.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_8:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_8:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un no viena no tiem iznāce</div>
        <lb/>
@@ -3771,7 +3771,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un pret to mīligu zemi.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_8:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_8:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un tas tape tik liels līdz</div>
        <lb/>
@@ -3799,7 +3799,7 @@
        <lb/>
        <div type="Parallel">Luhk: 15,18. Dan: 4,23.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_8:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_8:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. ir tas tape tik liels līdz</div>
        <lb/>
@@ -3813,7 +3813,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atmests.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_8:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_8:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un tas kaŗa=spēks</div>
        <lb/>
@@ -3827,7 +3827,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darija/ tas labi izdevās.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_8:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_8:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. pēc dzirdeju es vienu</div>
        <lb/>
@@ -3849,7 +3849,7 @@
        <lb/>
         <div type="Language" lang="Latvian">top/ ka tas top samīts?</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_8:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_8:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un tas sacija uz man:</div>
        <lb/>
@@ -3861,7 +3861,7 @@
        <lb/>
         <div type="Language" lang="Latvian">svēta vieta atkaļ iesvētita.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_8:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_8:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un kad es to parādišanu</div>
        <lb/>
@@ -3873,7 +3873,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vīra ģīmis.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_8:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_8:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un es dzirdeju starp ulai</div>
        <lb/>
@@ -3887,7 +3887,7 @@
        <lb/>
        <div type="Parallel">w:16. Dan: 9,21.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_8:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_8:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un viņš nāce tuvu</div>
        <lb/>
@@ -3905,7 +3905,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laikam.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_8:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_8:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. kad viņš nu ar manim</div>
        <lb/>
@@ -3920,7 +3920,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">* iebr: val: cietā miegā.</div></div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_8:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_8:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un viņš sacija: raugi/</div>
        <lb/>
@@ -3930,7 +3930,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jo noliktā laikā būs tas gals.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_8:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_8:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. tas auns ar divi ragiem/</div>
        <lb/>
@@ -3938,7 +3938,7 @@
        <lb/>
         <div type="Language" lang="Latvian">miedeŗu un perzeŗu ķēniņi.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_8:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_8:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un tas sprogains āzis</div>
        <lb/>
@@ -3950,7 +3950,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņš.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_8:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_8:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un kad tas būs salūzis/</div>
        <lb/>
@@ -3962,7 +3962,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tādu spēku/ kā viņš bija.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_8:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_8:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. bet pastarā laikā šīs</div>
        <lb/>
@@ -3974,7 +3974,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ķēniņš.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_8:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_8:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. un viņa spēks būs</div>
        <lb/>
@@ -3990,7 +3990,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tos svētus ļaudis.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_8:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_8:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. un caur viņa gudribu</div>
        <lb/>
@@ -4010,7 +4010,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rokas salauzīts.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_8:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_8:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un ši parādišana no</div>
        <lb/>
@@ -4022,7 +4022,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laiks ir līdz tejen.</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_8:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_8:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. un es danijels tapu</div>
        <lb/>
@@ -4041,7 +4041,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta ix. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_9:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_9:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. kad danijels savu sirdigu lūgšanu noturejs/</div>
        <lb/>
@@ -4061,7 +4061,7 @@
        <lb/>
         <div type="Language" lang="Latvian">izpostitam tapt: 26.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_9:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_9:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. pirmā gadā darijus</div>
        <lb/>
@@ -4073,7 +4073,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pār to kaldeeŗu valstibu.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_9:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_9:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. pirmā gadā viņa</div>
        <lb/>
@@ -4093,7 +4093,7 @@
        <lb/>
        <div type="Parallel">w:2. Jer: 25,11,12. un: 29,10.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_9:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_9:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. un es griezu savu vaigu</div>
        <lb/>
@@ -4105,7 +4105,7 @@
        <lb/>
         <div type="Language" lang="Latvian">maisā un pelnos.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_9:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_9:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un es pielūdzu to kungu</div>
        <lb/>
@@ -4125,7 +4125,7 @@
        <lb/>
        <div type="Parallel">w:4. Neëm: 1,5. un: 9,32.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_9:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_9:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. mēs esam grēkojši un</div>
        <lb/>
@@ -4137,7 +4137,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un tiesām atkāpuši.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_9:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_9:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. mēs ari ne esam klausijši</div>
        <lb/>
@@ -4153,7 +4153,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ļaudim runajši.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_9:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_9:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. tu kungs esi taisns/ bet</div>
        <lb/>
@@ -4177,7 +4177,7 @@
        <lb/>
        <div type="Parallel">w:7. Bahruk: 1,15. un: 2,6.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_9:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_9:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. ak kungs! mums jakaunās/</div>
        <lb/>
@@ -4189,7 +4189,7 @@
        <lb/>
         <div type="Language" lang="Latvian">esam grēkojši.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_9:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_9:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. bet pie ta kunga mūsu</div>
        <lb/>
@@ -4199,7 +4199,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mēs esam viņam pretiturejšies.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_9:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_9:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un ne esam ta kunga</div>
        <lb/>
@@ -4215,7 +4215,7 @@
        <lb/>
         <div type="Language" lang="Latvian">roku.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_9:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_9:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. bet viss izraels ir tavu</div>
        <lb/>
@@ -4241,7 +4241,7 @@
        <lb/>
        <div type="Parallel">un: 29,20. un: 30,17. Raud:Dſ: 17.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_9:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_9:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un viņš ir savus</div>
        <lb/>
@@ -4261,7 +4261,7 @@
        <lb/>
        <div type="Parallel">w:12. Raud:Dſ: 1,17.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_9:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_9:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tāpat kā tas rakstīts</div>
        <lb/>
@@ -4279,7 +4279,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tavu patiesibu vērā likuši.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_9:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_9:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. tadēļ ir tas kungz</div>
        <lb/>
@@ -4297,7 +4297,7 @@
        <lb/>
        <div type="Parallel">w:14. Jer: 1,12. un:, 44,27. Dahw:DS: 119,137.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_9:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_9:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un nu kungs mūsu</div>
        <lb/>
@@ -4315,7 +4315,7 @@
        <lb/>
        <div type="Parallel">w:15. 2.Mohſ:Gr: 6,6. un: 12,41. Bahr: 2,11.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_9:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_9:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. ak kungs/ pēc visas</div>
        <lb/>
@@ -4337,7 +4337,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas apkārt mums ir.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_9:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_9:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un nu/ mūsu dievs/</div>
        <lb/>
@@ -4351,7 +4351,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ir/ ta kunga labad.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_9:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_9:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. atgriez tavu ausi ak</div>
        <lb/>
@@ -4373,7 +4373,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pēc.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_9:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_9:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. ak kungs klausi! ak</div>
        <lb/>
@@ -4389,7 +4389,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vārda nosaukti.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_9:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_9:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. kad es vēl runaju un</div>
        <lb/>
@@ -4405,7 +4405,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dieva svēta kalna dēļ.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_9:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_9:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. kad es tā lūgdams vēl</div>
        <lb/>
@@ -4421,7 +4421,7 @@
        <lb/>
        <div type="Parallel">w:21. Dan: 8,16.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_9:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_9:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un mācija man/ un</div>
        <lb/>
@@ -4433,7 +4433,7 @@
        <lb/>
         <div type="Language" lang="Latvian">darīt.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_9:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_9:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. kad tu sāci lūgt/ tad</div>
        <lb/>
@@ -4447,7 +4447,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vērā to parādišanu.</div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_9:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_9:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. septiņdesmits nedeļas</div>
        <lb/>
@@ -4469,7 +4469,7 @@
        <lb/>
         <div type="Language" lang="Latvian">visusvētajs svaidīts.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_9:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_9:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. tadēļ zini/ un proti</div>
        <lb/>
@@ -4489,7 +4489,7 @@
        <lb/>
         <div type="Language" lang="Latvian">jepšu bēdigā laikā.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_9:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_9:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un pēc tām sešdesmits</div>
        <lb/>
@@ -4513,7 +4513,7 @@
        <lb/>
        <div type="Parallel">w: 26. 2.Kor: 5,21.</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_9:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_9:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. bet viņš daudziem apstiprinās</div>
        <lb/>
@@ -4570,7 +4570,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta x. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_10:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_10:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. danijels žēlojas pār saviem ļaudim: 1/</div>
        <lb/>
@@ -4582,7 +4582,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pastāstīt: 20.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_10:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_10:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. trešā gadā koresa to</div>
        <lb/>
@@ -4600,7 +4600,7 @@
        <lb/>
         <div type="Language" lang="Latvian">parādišanu.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_10:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_10:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. tanīs dienās biju es</div>
        <lb/>
@@ -4608,7 +4608,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nedeļas/</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_10:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_10:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. gardas baribas es ne</div>
        <lb/>
@@ -4620,7 +4620,7 @@
        <lb/>
         <div type="Language" lang="Latvian">nedeļas bija pagājušas.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_10:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_10:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un dividesmits cetortā</div>
        <lb/>
@@ -4628,7 +4628,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lielas upes malā/ kas ir idekels.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_10:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_10:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un es pacēlu manas acis/</div>
        <lb/>
@@ -4644,7 +4644,7 @@
        <lb/>
        <div type="Parallel">w:5. Par:Jahn: 1,13,&amp;c.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_10:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_10:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un viņa miesas bija kā</div>
        <lb/>
@@ -4664,7 +4664,7 @@
        <lb/>
        <div type="Parallel">w:6. Par:Jahn: 1,15. Ap:Darb: 9,7.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_10:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_10:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un es danijels redzeju to</div>
        <lb/>
@@ -4678,7 +4678,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie bēdze un apslēpās.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_10:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_10:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. es tad atliku viens pats/</div>
        <lb/>
@@ -4694,7 +4694,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne kāds spēks vairs atlike.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_10:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_10:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un es dzirdeju viņa valodas</div>
        <lb/>
@@ -4706,7 +4706,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vaigu pie zemes.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_10:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_10:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. un redzi/ viena roka</div>
        <lb/>
@@ -4716,7 +4716,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un uz manām rokām.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_10:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_10:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un viņš sacija uz man:</div>
        <lb/>
@@ -4734,7 +4734,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tad cēlos es trīcedams.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_10:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_10:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. tad sacija viņš uz</div>
        <lb/>
@@ -4752,7 +4752,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tavu vārdu dēļ atnācis.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_10:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_10:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. tomēr tās perzeŗu</div>
        <lb/>
@@ -4770,7 +4770,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tur pie tiem perzeŗu ķēniņiem.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_10:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_10:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. nu esmu es nācis tev</div>
        <lb/>
@@ -4782,7 +4782,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ilgu laiku notiks.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_10:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_10:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un kad viņš šos</div>
        <lb/>
@@ -4792,7 +4792,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie zemes/ un paliku klusu.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_10:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_10:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. un raugi/ viens/ kas cilveka</div>
        <lb/>
@@ -4812,7 +4812,7 @@
        <lb/>
         <div type="Language" lang="Latvian">paliek.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_10:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_10:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un kā var ša mana</div>
        <lb/>
@@ -4826,7 +4826,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dvaša atliek.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_10:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_10:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. tad aizkāre man atkaļ</div>
        <lb/>
@@ -4834,7 +4834,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bija/ un spēcinaja mani.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_10:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_10:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. un viņš sacija: ne</div>
        <lb/>
@@ -4852,7 +4852,7 @@
        <lb/>
         <div type="Language" lang="Latvian">stiprinajs.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_10:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_10:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. tad sacija viņš: zini</div>
        <lb/>
@@ -4868,7 +4868,7 @@
        <lb/>
         <div type="Language" lang="Latvian">liels=kungs.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_10:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_10:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. bet es stāstišu tev to/</div>
        <lb/>
@@ -4885,7 +4885,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xi. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_11:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_11:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. tas vīrs ar tām audekla drēbēm pasludina/</div>
        <lb/>
@@ -4899,7 +4899,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņa dēliem notiks: 20.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_11:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_11:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. un es esmu (tas pats)/</div>
        <lb/>
@@ -4909,7 +4909,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņu spēcināt un stiprināt.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_11:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_11:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un es stāstišu tev to</div>
        <lb/>
@@ -4931,7 +4931,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pret to grieķeŗu valstibu.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_11:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_11:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. pēc celsies viens varenajs</div>
        <lb/>
@@ -4941,7 +4941,7 @@
        <lb/>
         <div type="Language" lang="Latvian">patīk.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_11:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_11:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un kad viņš tā stāvēs/</div>
        <lb/>
@@ -4961,7 +4961,7 @@
        <lb/>
         <div type="Language" lang="Latvian">citiem rokā.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_11:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_11:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un tas ķēniņš pret</div>
        <lb/>
@@ -4977,7 +4977,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būs varena.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_11:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_11:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un pēc citiem gadiem</div>
        <lb/>
@@ -5005,7 +5005,7 @@
        <lb/>
         <div type="Language" lang="Latvian">stiprinajs.</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_11:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_11:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. taču viens atzars no</div>
        <lb/>
@@ -5019,7 +5019,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tām/ un pārvarēs.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_11:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_11:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. viņš ari viņu dievus</div>
        <lb/>
@@ -5035,7 +5035,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ta ķēniņa no ziemeļa=puses.</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_11:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_11:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un kad tas ķēniņš no</div>
        <lb/>
@@ -5045,7 +5045,7 @@
        <lb/>
         <div type="Language" lang="Latvian">viņš uz savu zemi.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_11:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_11:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. bet viņa dēli apskaitisies/</div>
        <lb/>
@@ -5061,7 +5061,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pret savām stiprām vietām.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_11:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_11:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un tas ķēniņš no dienas=vidus</div>
        <lb/>
@@ -5077,7 +5077,7 @@
        <lb/>
         <div type="Language" lang="Latvian">rokā nodots.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_11:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_11:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. kad nu šis pulks būs</div>
        <lb/>
@@ -5089,7 +5089,7 @@
        <lb/>
         <div type="Language" lang="Latvian">stipraks ne būs.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_11:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_11:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. jo tas ķēniņš no ziemeļa=puses</div>
        <lb/>
@@ -5103,7 +5103,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ar lielu spēku un ar lielu padomu.</div>
       </div>
-      <div n="14." type="Verse" id="VD1689_94/Dan_11:14.">
+      <div n="14." type="Verse" id="VD1689_94::Dan_11:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. ir tanī laikā daudz celsies</div>
        <lb/>
@@ -5117,7 +5117,7 @@
        <lb/>
         <div type="Language" lang="Latvian">top/ bet tie kritīs.</div>
       </div>
-      <div n="15." type="Verse" id="VD1689_94/Dan_11:15.">
+      <div n="15." type="Verse" id="VD1689_94::Dan_11:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. un tas ķēniņš no ziemeļa=puses</div>
        <lb/>
@@ -5135,7 +5135,7 @@
        <lb/>
         <div type="Language" lang="Latvian">spēks pastāvēt.</div>
       </div>
-      <div n="16." type="Verse" id="VD1689_94/Dan_11:16.">
+      <div n="16." type="Verse" id="VD1689_94::Dan_11:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. bet tas/ kas pret viņu</div>
        <lb/>
@@ -5149,7 +5149,7 @@
        <lb/>
         <div type="Language" lang="Latvian">samaitās to ar savu roku.</div>
       </div>
-      <div n="17." type="Verse" id="VD1689_94/Dan_11:17.">
+      <div n="17." type="Verse" id="VD1689_94::Dan_11:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. un viņš taisīs savu</div>
        <lb/>
@@ -5169,7 +5169,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pie viņa turesies.</div>
       </div>
-      <div n="18." type="Verse" id="VD1689_94/Dan_11:18.">
+      <div n="18." type="Verse" id="VD1689_94::Dan_11:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. pēc to griezisies viņš</div>
        <lb/>
@@ -5185,7 +5185,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kaunā.</div>
       </div>
-      <div n="19." type="Verse" id="VD1689_94/Dan_11:19.">
+      <div n="19." type="Verse" id="VD1689_94::Dan_11:19.">
        <lb/>
         <div type="Language" lang="Latvian">19. tā griezisies viņš atpakaļ</div>
        <lb/>
@@ -5197,7 +5197,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atrasts.</div>
       </div>
-      <div n="20." type="Verse" id="VD1689_94/Dan_11:20.">
+      <div n="20." type="Verse" id="VD1689_94::Dan_11:20.">
        <lb/>
         <div type="Language" lang="Latvian">20. un viņa vietā celsies</div>
        <lb/>
@@ -5211,7 +5211,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dusmibu/ nei caur kaŗu.</div>
       </div>
-      <div n="21." type="Verse" id="VD1689_94/Dan_11:21.">
+      <div n="21." type="Verse" id="VD1689_94::Dan_11:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. un viņa vietā celsies</div>
        <lb/>
@@ -5225,7 +5225,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vārdiem.</div>
       </div>
-      <div n="22." type="Verse" id="VD1689_94/Dan_11:22.">
+      <div n="22." type="Verse" id="VD1689_94::Dan_11:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. un tie elkoņi/ kas (citus)</div>
        <lb/>
@@ -5237,7 +5237,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kungs.</div>
       </div>
-      <div n="23." type="Verse" id="VD1689_94/Dan_11:23.">
+      <div n="23." type="Verse" id="VD1689_94::Dan_11:23.">
        <lb/>
         <div type="Language" lang="Latvian">23. jo viņš ar to * viltigi</div>
        <lb/>
@@ -5251,7 +5251,7 @@
        <div type="Remark">
         <div type="Language" lang="Latvian">ar viņa, darīs viņš viltu.</div></div>
       </div>
-      <div n="24." type="Verse" id="VD1689_94/Dan_11:24.">
+      <div n="24." type="Verse" id="VD1689_94::Dan_11:24.">
        <lb/>
         <div type="Language" lang="Latvian">24. viņš ari klusiņām</div>
        <lb/>
@@ -5273,7 +5273,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kādu nospriestu laiku.</div>
       </div>
-      <div n="25." type="Verse" id="VD1689_94/Dan_11:25.">
+      <div n="25." type="Verse" id="VD1689_94::Dan_11:25.">
        <lb/>
         <div type="Language" lang="Latvian">25. un viņš pamodinās</div>
        <lb/>
@@ -5295,7 +5295,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pret viņu izdomatas.</div>
       </div>
-      <div n="26." type="Verse" id="VD1689_94/Dan_11:26.">
+      <div n="26." type="Verse" id="VD1689_94::Dan_11:26.">
        <lb/>
         <div type="Language" lang="Latvian">26. un kas viņa maizi ēdīs/</div>
        <lb/>
@@ -5305,7 +5305,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un daudz nokauti pakritīs.</div>
       </div>
-      <div n="27." type="Verse" id="VD1689_94/Dan_11:27.">
+      <div n="27." type="Verse" id="VD1689_94::Dan_11:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. un šo abeju ķēniņu</div>
        <lb/>
@@ -5321,7 +5321,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laiku nospriests.</div>
       </div>
-      <div n="28." type="Verse" id="VD1689_94/Dan_11:28.">
+      <div n="28." type="Verse" id="VD1689_94::Dan_11:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. un viņš atpakaļ griezisies</div>
        <lb/>
@@ -5335,7 +5335,7 @@
        <lb/>
         <div type="Language" lang="Latvian">uz savu zemi.</div>
       </div>
-      <div n="29." type="Verse" id="VD1689_94/Dan_11:29.">
+      <div n="29." type="Verse" id="VD1689_94::Dan_11:29.">
        <lb/>
         <div type="Language" lang="Latvian">29. bet savā laikā nāks</div>
        <lb/>
@@ -5345,7 +5345,7 @@
        <lb/>
         <div type="Language" lang="Latvian">reize ne būs kā ta pirma.</div>
       </div>
-      <div n="30." type="Verse" id="VD1689_94/Dan_11:30.">
+      <div n="30." type="Verse" id="VD1689_94::Dan_11:30.">
        <lb/>
         <div type="Language" lang="Latvian">30. jo lielas laivas no ķitim</div>
        <lb/>
@@ -5365,7 +5365,7 @@
        <lb/>
         <div type="Language" lang="Latvian">atkāpj.</div>
       </div>
-      <div n="31." type="Verse" id="VD1689_94/Dan_11:31.">
+      <div n="31." type="Verse" id="VD1689_94::Dan_11:31.">
        <lb/>
         <div type="Language" lang="Latvian">31. un tad celsies no viņa</div>
        <lb/>
@@ -5377,7 +5377,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vienu negantibu tās postišanas.</div>
       </div>
-      <div n="32." type="Verse" id="VD1689_94/Dan_11:32.">
+      <div n="32." type="Verse" id="VD1689_94::Dan_11:32.">
        <lb/>
         <div type="Language" lang="Latvian">32. un viņš darīs par</div>
        <lb/>
@@ -5391,7 +5391,7 @@
        <lb/>
         <div type="Language" lang="Latvian">sagūsta/ un tiem tā laimesies.</div>
       </div>
-      <div n="33." type="Verse" id="VD1689_94/Dan_11:33.">
+      <div n="33." type="Verse" id="VD1689_94::Dan_11:33.">
        <lb/>
         <div type="Language" lang="Latvian">33. un tie sapratigie starp</div>
        <lb/>
@@ -5405,7 +5405,7 @@
        <lb/>
         <div type="Language" lang="Latvian">laiku.</div>
       </div>
-      <div n="34." type="Verse" id="VD1689_94/Dan_11:34.">
+      <div n="34." type="Verse" id="VD1689_94::Dan_11:34.">
        <lb/>
         <div type="Language" lang="Latvian">34. kad tie nu tā kritīs/</div>
        <lb/>
@@ -5415,7 +5415,7 @@
        <lb/>
         <div type="Language" lang="Latvian">vārdiem pie tiem piestāsies.</div>
       </div>
-      <div n="35." type="Verse" id="VD1689_94/Dan_11:35.">
+      <div n="35." type="Verse" id="VD1689_94::Dan_11:35.">
        <lb/>
         <div type="Language" lang="Latvian">35. un no tiem sapratigiem</div>
        <lb/>
@@ -5429,7 +5429,7 @@
        <lb/>
         <div type="Language" lang="Latvian">gabals ir nolikts.</div>
       </div>
-      <div n="36." type="Verse" id="VD1689_94/Dan_11:36.">
+      <div n="36." type="Verse" id="VD1689_94::Dan_11:36.">
        <lb/>
         <div type="Language" lang="Latvian">36. un tas ķēniņš darīs/</div>
        <lb/>
@@ -5455,7 +5455,7 @@
        <lb/>
        <div type="Parallel">w:36. 2.Teẜẜ: 2,4. Par:Jahn: 13,5,11.</div>
       </div>
-      <div n="37." type="Verse" id="VD1689_94/Dan_11:37.">
+      <div n="37." type="Verse" id="VD1689_94::Dan_11:37.">
        <lb/>
         <div type="Language" lang="Latvian">37. un savu tēvu dievu</div>
        <lb/>
@@ -5469,7 +5469,7 @@
        <lb/>
        <div type="Parallel">w:37. 1.Tim: 4,3.</div>
       </div>
-      <div n="38." type="Verse" id="VD1689_94/Dan_11:38.">
+      <div n="38." type="Verse" id="VD1689_94::Dan_11:38.">
        <lb/>
         <div type="Language" lang="Latvian">38. un tas godās to dievu</div>
        <lb/>
@@ -5485,7 +5485,7 @@
        <lb/>
         <div type="Language" lang="Latvian">dārgām lietām.</div>
       </div>
-      <div n="39." type="Verse" id="VD1689_94/Dan_11:39.">
+      <div n="39." type="Verse" id="VD1689_94::Dan_11:39.">
        <lb/>
         <div type="Language" lang="Latvian">39. un parādīs tiem/ kas</div>
        <lb/>
@@ -5501,7 +5501,7 @@
        <lb/>
         <div type="Language" lang="Latvian">maksu.</div>
       </div>
-      <div n="40." type="Verse" id="VD1689_94/Dan_11:40.">
+      <div n="40." type="Verse" id="VD1689_94::Dan_11:40.">
        <lb/>
         <div type="Language" lang="Latvian">40. un ap to beidzamu galu</div>
        <lb/>
@@ -5521,7 +5521,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārplūdīs un caur ies.</div>
       </div>
-      <div n="41." type="Verse" id="VD1689_94/Dan_11:41.">
+      <div n="41." type="Verse" id="VD1689_94::Dan_11:41.">
        <lb/>
         <div type="Language" lang="Latvian">41. un viņš nāks uz to</div>
        <lb/>
@@ -5535,7 +5535,7 @@
        <lb/>
         <div type="Language" lang="Latvian">bērnu pirmajie.</div>
       </div>
-      <div n="42." type="Verse" id="VD1689_94/Dan_11:42.">
+      <div n="42." type="Verse" id="VD1689_94::Dan_11:42.">
        <lb/>
         <div type="Language" lang="Latvian">42. un viņš savu spēku</div>
        <lb/>
@@ -5543,7 +5543,7 @@
        <lb/>
         <div type="Language" lang="Latvian">egiptes=zeme ne izbēgs.</div>
       </div>
-      <div n="43." type="Verse" id="VD1689_94/Dan_11:43.">
+      <div n="43." type="Verse" id="VD1689_94::Dan_11:43.">
        <lb/>
         <div type="Language" lang="Latvian">43. un viņš valdīs pār</div>
        <lb/>
@@ -5557,7 +5557,7 @@
        <lb/>
         <div type="Language" lang="Latvian">klausīs.</div>
       </div>
-      <div n="44." type="Verse" id="VD1689_94/Dan_11:44.">
+      <div n="44." type="Verse" id="VD1689_94::Dan_11:44.">
        <lb/>
         <div type="Language" lang="Latvian">44. bet ta slava no rīta=puses</div>
        <lb/>
@@ -5569,7 +5569,7 @@
        <lb/>
         <div type="Language" lang="Latvian">daudz nomaitāt un izdeldēt.</div>
       </div>
-      <div n="45." type="Verse" id="VD1689_94/Dan_11:45.">
+      <div n="45." type="Verse" id="VD1689_94::Dan_11:45.">
        <lb/>
         <div type="Language" lang="Latvian">45. un viņš uzcels savas</div>
        <lb/>
@@ -5586,7 +5586,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta xii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="VD1689_94/Dan_12:0.">
+      <div n="0." type="Verse" id="VD1689_94::Dan_12:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. nozīme to riemeŗu preti=kristu it krāžni</div>
        <lb/>
@@ -5604,7 +5604,7 @@
        <lb/>
         <div type="Language" lang="Latvian">saprastas taps: 10.</div>
       </div>
-      <div n="1." type="Verse" id="VD1689_94/Dan_12:1.">
+      <div n="1." type="Verse" id="VD1689_94::Dan_12:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. tanī laikā celsies miķelis</div>
        <lb/>
@@ -5628,7 +5628,7 @@
        <lb/>
        <div type="Parallel">w:1. Matt: 24,21. Mark: 13,19.</div>
       </div>
-      <div n="2." type="Verse" id="VD1689_94/Dan_12:2.">
+      <div n="2." type="Verse" id="VD1689_94::Dan_12:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. un daudz no tiem/ kas</div>
        <lb/>
@@ -5642,7 +5642,7 @@
        <lb/>
        <div type="Parallel">w:2. Jahn: 5,29. Matt: 25,46.</div>
       </div>
-      <div n="3." type="Verse" id="VD1689_94/Dan_12:3.">
+      <div n="3." type="Verse" id="VD1689_94::Dan_12:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. bet tie mācitaji spīdēs</div>
        <lb/>
@@ -5656,7 +5656,7 @@
        <lb/>
        <div type="Parallel">w:3. Gudr:Gr: 3,7. Matt: 13,43. 1.Kor: 15,41,42.</div>
       </div>
-      <div n="4." type="Verse" id="VD1689_94/Dan_12:4.">
+      <div n="4." type="Verse" id="VD1689_94::Dan_12:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. un tu danijel/ apslēp</div>
        <lb/>
@@ -5668,7 +5668,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un ta atzīšana pavairosies.</div>
       </div>
-      <div n="5." type="Verse" id="VD1689_94/Dan_12:5.">
+      <div n="5." type="Verse" id="VD1689_94::Dan_12:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. un es danijels skatijos/</div>
        <lb/>
@@ -5680,7 +5680,7 @@
        <lb/>
        <div type="Parallel">w:5. Par:Jahn: 10,15.</div>
       </div>
-      <div n="6." type="Verse" id="VD1689_94/Dan_12:6.">
+      <div n="6." type="Verse" id="VD1689_94::Dan_12:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. un tas sacija uz to vīru/</div>
        <lb/>
@@ -5692,7 +5692,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to brīnumu gals būs?</div>
       </div>
-      <div n="7." type="Verse" id="VD1689_94/Dan_12:7.">
+      <div n="7." type="Verse" id="VD1689_94::Dan_12:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. un es dzirdeju to vīru/</div>
        <lb/>
@@ -5718,7 +5718,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietas taps pabeigtas.</div>
       </div>
-      <div n="8." type="Verse" id="VD1689_94/Dan_12:8.">
+      <div n="8." type="Verse" id="VD1689_94::Dan_12:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. šo dzirdeju es/ bet ne</div>
        <lb/>
@@ -5728,7 +5728,7 @@
        <lb/>
         <div type="Language" lang="Latvian">lietu gals?</div>
       </div>
-      <div n="9." type="Verse" id="VD1689_94/Dan_12:9.">
+      <div n="9." type="Verse" id="VD1689_94::Dan_12:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. un viņš sacija: ej</div>
        <lb/>
@@ -5738,7 +5738,7 @@
        <lb/>
         <div type="Language" lang="Latvian">līdz pastaram laikam.</div>
       </div>
-      <div n="10." type="Verse" id="VD1689_94/Dan_12:10.">
+      <div n="10." type="Verse" id="VD1689_94::Dan_12:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. daudz taps šķīstiti un</div>
        <lb/>
@@ -5752,7 +5752,7 @@
        <lb/>
         <div type="Language" lang="Latvian">to sapratīs.</div>
       </div>
-      <div n="11." type="Verse" id="VD1689_94/Dan_12:11.">
+      <div n="11." type="Verse" id="VD1689_94::Dan_12:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. un no ta laika/ kad tas</div>
        <lb/>
@@ -5768,7 +5768,7 @@
        <lb/>
        <div type="Parallel">w:11. Matt: 24,15.</div>
       </div>
-      <div n="12." type="Verse" id="VD1689_94/Dan_12:12.">
+      <div n="12." type="Verse" id="VD1689_94::Dan_12:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. svētigs ir tas/ kas</div>
        <lb/>
@@ -5778,7 +5778,7 @@
        <lb/>
         <div type="Language" lang="Latvian">piecas dienas.</div>
       </div>
-      <div n="13." type="Verse" id="VD1689_94/Dan_12:13.">
+      <div n="13." type="Verse" id="VD1689_94::Dan_12:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. bet tu no=ej/ un dusi</div>
        <lb/>

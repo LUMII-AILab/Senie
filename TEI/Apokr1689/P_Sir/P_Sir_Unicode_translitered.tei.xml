@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="Apokr1689/P_Sir">
+    <fileDesc id="Apokr1689::P_Sir">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Jesus Sihraka pirma Eesahkschanas=Walloda</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">no savas grāmatas.</div></div>
-      <div n="1." type="Verse" id="Apokr1689/P_Sir_0:1.">
+      <div n="1." type="Verse" id="Apokr1689::P_Sir_0:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. daudz un lielas lietas</div>
        <lb/>

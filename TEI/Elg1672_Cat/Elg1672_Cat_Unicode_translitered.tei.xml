@@ -760,7 +760,8 @@
        <div type="Language" lang="Latin">15.</div>
         <div type="Language" lang="Latvian">und tas bagāts vīrs iekšan helles</div>
        <lb id="Elg1672_Cat_16_4"/>
-        <div type="Language" lang="Latvian">lūdza par savems brāļems. <corr>@</corr><sic>luc. 16.</sic></div>
+        <div type="Language" lang="Latvian">lūdza par savems brāļems.</div>
+       <div type="Language" lang="Latin">Luc. 16.</div>
        <lb id="Elg1672_Cat_16_5"/>
         <div type="Language" lang="Latvian">ja nu tie svēti eņģeli/ katrems tie</div>
        <lb id="Elg1672_Cat_16_6"/>
@@ -2804,7 +2805,7 @@
       </div>
       <div type="Paragraph">
        <lb id="Elg1672_Cat_54_17"/>
-        <div type="Language" lang="Latvian"><corr>@</corr><sic>salutatio angelica.</sic></div>
+       <div type="Language" lang="Latin">Salutatio Angelica.</div>
        <lb id="Elg1672_Cat_54_18"/>
         <div type="Language" lang="Latvian">sumenata es tu marija pilna dieva</div>
        <lb id="Elg1672_Cat_54_19"/>

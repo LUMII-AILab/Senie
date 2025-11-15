@@ -1,6 +1,6 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
-    <fileDesc id="JT1685/Tit">
+    <fileDesc id="JT1685::Tit">
      <sourceDesc>
       <author>Ernsts Gliks</author>
       <title>Pahwila ta Apustuļa Grahmata uhs Titu rakstita</title>
@@ -19,7 +19,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta i. nodaļa.</div></div>
-      <div n="0." type="Verse" id="JT1685/Tit_1:0.">
+      <div n="0." type="Verse" id="JT1685::Tit_1:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. pāvils stāsta/ kadēļ viņš titu iekš krietas</div>
        <lb/>
@@ -29,7 +29,7 @@
        <lb/>
         <div type="Language" lang="Latvian">pārliecināt: 7.</div>
       </div>
-      <div n="1." type="Verse" id="JT1685/Tit_1:1.">
+      <div n="1." type="Verse" id="JT1685::Tit_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. pāvils viens</div>
        <lb/>
@@ -51,7 +51,7 @@
        <lb/>
        <div type="Parallel">w:1. 1.Tim: 3,16. un: 6,3.</div>
       </div>
-      <div n="2." type="Verse" id="JT1685/Tit_1:2.">
+      <div n="2." type="Verse" id="JT1685::Tit_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. iekš ceribas tās mūžigas</div>
        <lb/>
@@ -65,7 +65,7 @@
        <lb/>
        <div type="Parallel">un: 3,9. Kol: 1,26. 2.Tim: 1,9,10. un: 2,13. 2.Petr: 1,20.</div>
       </div>
-      <div n="3." type="Verse" id="JT1685/Tit_1:3.">
+      <div n="3." type="Verse" id="JT1685::Tit_1:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. bet savā laikā savu</div>
        <lb/>
@@ -81,7 +81,7 @@
        <lb/>
        <div type="Parallel">un: 7,14. un: 8,6,16. Gal: 1,1. un: 2,3. 2.Teẜẜ: 2,4.</div>
       </div>
-      <div n="4." type="Verse" id="JT1685/Tit_1:4.">
+      <div n="4." type="Verse" id="JT1685::Tit_1:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. titum (manam) īstenam</div>
        <lb/>
@@ -97,7 +97,7 @@
        <lb/>
        <div type="Parallel">w:4. Eweſ: 1,2. Kol: 1,2. 1.Tim: 1,2. 2.Tim: 1,2. 1.Petr:1,2.</div>
       </div>
-      <div n="5." type="Verse" id="JT1685/Tit_1:5.">
+      <div n="5." type="Verse" id="JT1685::Tit_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. tadēļ esmu es tev krietā</div>
        <lb/>
@@ -111,7 +111,7 @@
        <lb/>
        <div type="Parallel">w Ap: Darb: 14,23. 2.Tim: 2,2.</div>
       </div>
-      <div n="6." type="Verse" id="JT1685/Tit_1:6.">
+      <div n="6." type="Verse" id="JT1685::Tit_1:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. ja kas ir bezvainigs/ vienas</div>
        <lb/>
@@ -125,7 +125,7 @@
        <lb/>
        <div type="Parallel">w:6. 1.Tim: 3,2.</div>
       </div>
-      <div n="7." type="Verse" id="JT1685/Tit_1:7.">
+      <div n="7." type="Verse" id="JT1685::Tit_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. jo vienam pīskopam pienākās</div>
        <lb/>
@@ -145,7 +145,7 @@
        <lb/>
        <div type="Parallel">Eweſ: 5,18. 1.Tim: 3,3,15. 1.Pet: 5,2.</div>
       </div>
-      <div n="8." type="Verse" id="JT1685/Tit_1:8.">
+      <div n="8." type="Verse" id="JT1685::Tit_1:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. kas labprāt mājo/ to labumu</div>
        <lb/>
@@ -155,7 +155,7 @@
        <lb/>
        <div type="Parallel">w:8. 1.Tim: 3,2.</div>
       </div>
-      <div n="9." type="Verse" id="JT1685/Tit_1:9.">
+      <div n="9." type="Verse" id="JT1685::Tit_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. kas pastāvigi turās pēc</div>
        <lb/>
@@ -171,7 +171,7 @@
        <lb/>
        <div type="Parallel">w:9. 1.Tim: 1,10. un: 6,3. 2.Tim: 1,13. un: 4,3. Tit: 2,1.</div>
       </div>
-      <div n="10." type="Verse" id="JT1685/Tit_1:10.">
+      <div n="10." type="Verse" id="JT1685::Tit_1:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. jo tur ir aridzan daudz</div>
        <lb/>
@@ -183,7 +183,7 @@
        <lb/>
        <div type="Parallel">w:10. Ap: Darb: 15,1. 1.Tim: 1,6.</div>
       </div>
-      <div n="11." type="Verse" id="JT1685/Tit_1:11.">
+      <div n="11." type="Verse" id="JT1685::Tit_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. kam pienākās to muti</div>
        <lb/>
@@ -197,7 +197,7 @@
        <lb/>
        <div type="Parallel">w:11. Matt: 23,23. 1.Tim: 6,5. 2.Tim: 3,6.</div>
       </div>
-      <div n="12." type="Verse" id="JT1685/Tit_1:12.">
+      <div n="12." type="Verse" id="JT1685::Tit_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. viens no tiem pašiem</div>
        <lb/>
@@ -207,7 +207,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zvēri/ slinki vēderi.</div>
       </div>
-      <div n="13." type="Verse" id="JT1685/Tit_1:13.">
+      <div n="13." type="Verse" id="JT1685::Tit_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. ši lieciba ir patiesa:</div>
        <lb/>
@@ -215,7 +215,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tie veseligi esus ticibā.</div>
       </div>
-      <div n="14." type="Verse" id="JT1685/Tit_1:14.">
+      <div n="14." type="Verse" id="JT1685::Tit_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un ne dodās uz judiskām</div>
        <lb/>
@@ -229,7 +229,7 @@
        <lb/>
        <div type="Parallel">1.Tim: 1,4. un: 4,7. un: 6,20.</div>
       </div>
-      <div n="15." type="Verse" id="JT1685/Tit_1:15.">
+      <div n="15." type="Verse" id="JT1685::Tit_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. visas lietas gan ir</div>
        <lb/>
@@ -247,7 +247,7 @@
        <lb/>
        <div type="Parallel">Rom: 14,14,20. 1.Kor: 6,12. un: 10,23,25. 1.Tim: 4,3,4.</div>
       </div>
-      <div n="16." type="Verse" id="JT1685/Tit_1:16.">
+      <div n="16." type="Verse" id="JT1685::Tit_1:16.">
        <lb/>
         <div type="Language" lang="Latvian">16. tie saka/ ka tie dievu</div>
        <lb/>
@@ -264,7 +264,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta ii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="JT1685/Tit_2:0.">
+      <div n="0." type="Verse" id="JT1685::Tit_2:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. pāvils māca no ta amata to vecajo: 2.</div>
        <lb/>
@@ -278,7 +278,7 @@
        <lb/>
         <div type="Language" lang="Latvian">12.</div>
       </div>
-      <div n="1." type="Verse" id="JT1685/Tit_2:1.">
+      <div n="1." type="Verse" id="JT1685::Tit_2:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. bet tu runa/ ka tas tai īstenai</div>
        <lb/>
@@ -286,7 +286,7 @@
        <lb/>
        <div type="Parallel">w:1. 1.Tim: 6,3. 2.Tim: 1,13.</div>
       </div>
-      <div n="2." type="Verse" id="JT1685/Tit_2:2.">
+      <div n="2." type="Verse" id="JT1685::Tit_2:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ka tiem vecajiem būs</div>
        <lb/>
@@ -296,7 +296,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mīlestibā/ paciešanā.</div>
       </div>
-      <div n="3." type="Verse" id="JT1685/Tit_2:3.">
+      <div n="3." type="Verse" id="JT1685::Tit_2:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. it tā pat vecām</div>
        <lb/>
@@ -312,7 +312,7 @@
        <lb/>
        <div type="Parallel">w:3. 1.Tim: 2,9. un: 5,13. 1.Pet: 3,3.</div>
       </div>
-      <div n="4." type="Verse" id="JT1685/Tit_2:4.">
+      <div n="4." type="Verse" id="JT1685::Tit_2:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. ka tās var tās jaunas</div>
        <lb/>
@@ -320,7 +320,7 @@
        <lb/>
         <div type="Language" lang="Latvian">mīlēt/ savus bērnus mīlēt.</div>
       </div>
-      <div n="5." type="Verse" id="JT1685/Tit_2:5.">
+      <div n="5." type="Verse" id="JT1685::Tit_2:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. gadigām būt/ šķīstām/</div>
        <lb/>
@@ -336,7 +336,7 @@
        <lb/>
        <div type="Parallel">Kol: 3,18. 1.Tim: 6,1. 1.Pet: 3,1.</div>
       </div>
-      <div n="6." type="Verse" id="JT1685/Tit_2:6.">
+      <div n="6." type="Verse" id="JT1685::Tit_2:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. tos jaunus vīrus pamāci/</div>
        <lb/>
@@ -344,7 +344,7 @@
        <lb/>
         <div type="Language" lang="Latvian">būt.</div>
       </div>
-      <div n="7." type="Verse" id="JT1685/Tit_2:7.">
+      <div n="7." type="Verse" id="JT1685::Tit_2:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. parādajs sev pašu visās</div>
        <lb/>
@@ -356,7 +356,7 @@
        <lb/>
        <div type="Parallel">w:7. 1.Tim: 4,12. 1.Pet: 5,3.</div>
       </div>
-      <div n="8." type="Verse" id="JT1685/Tit_2:8.">
+      <div n="8." type="Verse" id="JT1685::Tit_2:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. to veseligu un bezvainigu</div>
        <lb/>
@@ -370,7 +370,7 @@
        <lb/>
        <div type="Parallel">w:8. 1.Tim: 5,14. 1.Pet: 2,12,15. un: 3,16.</div>
       </div>
-      <div n="9." type="Verse" id="JT1685/Tit_2:9.">
+      <div n="9." type="Verse" id="JT1685::Tit_2:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. tos kalpus pamāci/ ka</div>
        <lb/>
@@ -384,7 +384,7 @@
        <lb/>
        <div type="Parallel">w:9. Eweſ: 6,5. Kol: 3,22. 1.Tim: 6,1,2. 1.Pet: 2,18.</div>
       </div>
-      <div n="10." type="Verse" id="JT1685/Tit_2:10.">
+      <div n="10." type="Verse" id="JT1685::Tit_2:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. ne ko atraut/ bet visu</div>
        <lb/>
@@ -397,7 +397,7 @@
        <div type="Comment">
         <div type="Language" lang="Latvian">lekcions uz ziemas=svētkiem.</div></div>
       </div>
-      <div n="11." type="Verse" id="JT1685/Tit_2:11.">
+      <div n="11." type="Verse" id="JT1685::Tit_2:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. jo ta žēlastiba ta dieva</div>
        <lb/>
@@ -407,7 +407,7 @@
        <lb/>
        <div type="Parallel">w:11. 1.Tim: 2,4. Tit: 3,4.</div>
       </div>
-      <div n="12." type="Verse" id="JT1685/Tit_2:12.">
+      <div n="12." type="Verse" id="JT1685::Tit_2:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. un pamāca mūs/ ka</div>
        <lb/>
@@ -421,7 +421,7 @@
        <lb/>
        <div type="Parallel">w:12. Eweſ: 1,4. Kol: 1,22. 2.Tim: 1,9. 1.Jahn: 2,16.</div>
       </div>
-      <div n="13." type="Verse" id="JT1685/Tit_2:13.">
+      <div n="13." type="Verse" id="JT1685::Tit_2:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. gaididami to labumu</div>
        <lb/>
@@ -433,7 +433,7 @@
        <lb/>
        <div type="Parallel">w:13. 1.Kor: 1,7. Wilip: 3,20.</div>
       </div>
-      <div n="14." type="Verse" id="JT1685/Tit_2:14.">
+      <div n="14." type="Verse" id="JT1685::Tit_2:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. kas sev pašu par mums</div>
        <lb/>
@@ -451,7 +451,7 @@
        <lb/>
        <div type="Parallel">Gal: 1,4. un: 2,20. Ebr: 9,14.</div>
       </div>
-      <div n="15." type="Verse" id="JT1685/Tit_2:15.">
+      <div n="15." type="Verse" id="JT1685::Tit_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. šo runa/ un pamāci/</div>
        <lb/>
@@ -466,7 +466,7 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">ta iii. nodaļa.</div></div>
-      <div n="0." type="Verse" id="JT1685/Tit_3:0.">
+      <div n="0." type="Verse" id="JT1685::Tit_3:0.">
        <lb/>
         <div type="Language" lang="Latvian">0. pāvils pavēļ tiem kļauzitajiem paklauzišanu:</div>
        <lb/>
@@ -480,7 +480,7 @@
        <lb/>
         <div type="Language" lang="Latvian">žīs dāvanas dēļ cienigi dzīvot: 8.</div>
       </div>
-      <div n="1." type="Verse" id="JT1685/Tit_3:1.">
+      <div n="1." type="Verse" id="JT1685::Tit_3:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. atgādini tos/ ka tie</div>
        <lb/>
@@ -494,7 +494,7 @@
        <lb/>
        <div type="Parallel">w:1. Rom: 13,1. 1.Pet: 2,13.</div>
       </div>
-      <div n="2." type="Verse" id="JT1685/Tit_3:2.">
+      <div n="2." type="Verse" id="JT1685::Tit_3:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. ne vienu zaimo/ ne kāveji</div>
        <lb/>
@@ -504,7 +504,7 @@
        <lb/>
        <div type="Parallel">w:2. Wilip: 4,5. 2.Tim: 2,24,25.</div>
       </div>
-      <div n="3." type="Verse" id="JT1685/Tit_3:3.">
+      <div n="3." type="Verse" id="JT1685::Tit_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. jo mēs aridzan citkārt</div>
        <lb/>
@@ -522,7 +522,7 @@
        <lb/>
        <div type="Parallel">w:3. 1.Kor: 6,11. Eweſ: 2,1. un: 5,3,8. Kol: 3,7. 1.Pet: 4,3. Eweſ: 4,17,18.</div>
       </div>
-      <div n="4." type="Verse" id="JT1685/Tit_3:4.">
+      <div n="4." type="Verse" id="JT1685::Tit_3:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. bet ta laipniba un mīlestiba</div>
        <lb/>
@@ -532,7 +532,7 @@
        <lb/>
        <div type="Parallel">w:4. Tit: 2,11.</div>
       </div>
-      <div n="5." type="Verse" id="JT1685/Tit_3:5.">
+      <div n="5." type="Verse" id="JT1685::Tit_3:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. ne no tiem darbiem tās</div>
        <lb/>
@@ -554,7 +554,7 @@
        <lb/>
        <div type="Parallel">un: 5,26. Gal: 2,16. 2.Tim: 1,9.</div>
       </div>
-      <div n="6." type="Verse" id="JT1685/Tit_3:6.">
+      <div n="6." type="Verse" id="JT1685::Tit_3:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. ko viņš izlējis ir pār</div>
        <lb/>
@@ -564,7 +564,7 @@
        <lb/>
        <div type="Parallel">w:6. Eſek: 36,25. Joel: 2,28. Ap: Darb: 2,33. Rom: 5,5.</div>
       </div>
-      <div n="7." type="Verse" id="JT1685/Tit_3:7.">
+      <div n="7." type="Verse" id="JT1685::Tit_3:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. ka mēs caur viņa žēlastibu</div>
        <lb/>
@@ -576,7 +576,7 @@
        <lb/>
        <div type="Parallel">w:7. Rom: 8,23,24.</div>
       </div>
-      <div n="8." type="Verse" id="JT1685/Tit_3:8.">
+      <div n="8." type="Verse" id="JT1685::Tit_3:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. tas ir paties vārds:</div>
        <lb/>
@@ -592,7 +592,7 @@
        <lb/>
         <div type="Language" lang="Latvian">labs un derigs ir.</div>
       </div>
-      <div n="9." type="Verse" id="JT1685/Tit_3:9.">
+      <div n="9." type="Verse" id="JT1685::Tit_3:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. bet no tām ģeķigām</div>
        <lb/>
@@ -608,7 +608,7 @@
        <lb/>
        <div type="Parallel">w:9. 1.Tim: 1,4. un: 4,7. un: 6,20. 2.Tim: 2,23. Tit: 1,14.</div>
       </div>
-      <div n="10." type="Verse" id="JT1685/Tit_3:10.">
+      <div n="10." type="Verse" id="JT1685::Tit_3:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. vienu svešticigu cilveku</div>
        <lb/>
@@ -618,7 +618,7 @@
        <lb/>
        <div type="Parallel">w:10. Matt: 18,17. Rom: 16,17. 2.Teẜẜ: 3,6. 2.Tim: 3,5. 2.Jahn: w:10.</div>
       </div>
-      <div n="11." type="Verse" id="JT1685/Tit_3:11.">
+      <div n="11." type="Verse" id="JT1685::Tit_3:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. zinadams/ ka tāds ir</div>
        <lb/>
@@ -626,7 +626,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tīša prātā pats pazudinajās.</div>
       </div>
-      <div n="12." type="Verse" id="JT1685/Tit_3:12.">
+      <div n="12." type="Verse" id="JT1685::Tit_3:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. kad es artemu pie tev sūtišu/</div>
        <lb/>
@@ -638,7 +638,7 @@
        <lb/>
        <div type="Parallel">w:12. Ap: Darb: 20,4. Eweſ: 6,21. Kol: 4,6. 2.Tim: 4,12.</div>
       </div>
-      <div n="13." type="Verse" id="JT1685/Tit_3:13.">
+      <div n="13." type="Verse" id="JT1685::Tit_3:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. cenu to bauslibas=mācitaju</div>
        <lb/>
@@ -648,7 +648,7 @@
        <lb/>
        <div type="Parallel">w:13. Ap: Darb: 18,24. 2.Kor: 1,12.</div>
       </div>
-      <div n="14." type="Verse" id="JT1685/Tit_3:14.">
+      <div n="14." type="Verse" id="JT1685::Tit_3:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. un lai aridzan tie/ kas</div>
        <lb/>
@@ -658,7 +658,7 @@
        <lb/>
         <div type="Language" lang="Latvian">kas vajaga ir/ ka tie ne esus neaugligi.</div>
       </div>
-      <div n="15." type="Verse" id="JT1685/Tit_3:15.">
+      <div n="15." type="Verse" id="JT1685::Tit_3:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. tur apsveicina tev visi/</div>
        <lb/>
