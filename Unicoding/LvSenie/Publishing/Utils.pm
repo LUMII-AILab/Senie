@@ -10,7 +10,7 @@ use parent qw(Exporter);
 our @EXPORT_OK = qw(splitByLang tokenize splitCorrection printInAllStreams calculateAddressStub formPageNumber);
 
 our $DO_WARN_ATS = 1;
-our $DO_WARN_EMPTY_BRACES = 0;
+our $DO_WARN_EMPTY_BRACES = 1;
 our $DO_WARN_OTHER_BRACES = 1;
 
 # Split line so that each fragment in different language becomes a new segment.
@@ -52,10 +52,10 @@ sub splitCorrection
     # Corrections: in figure brackets - sic, outside brackets - the corrected number
     ($corr, $orig) = ($1, $2) if ($token =~ /^([^{]+){([^}]+)}$/ );
     warn "Suspicious token $orig at $address\n" if ($orig =~/[@]/ and $DO_WARN_ATS);
-    warn "Suspicious token $orig at $address\n" if ($orig =~/\{\}/ and $DO_WARN_EMPTY_BRACES);
+    warn "Suspicious token $orig at $address\n" if ($orig =~/\{\s*\}/ and $DO_WARN_EMPTY_BRACES);
     warn "Suspicious token $orig at $address\n" if ($orig =~/[\{\}]/ and $orig !~ /\{\}/ and $DO_WARN_OTHER_BRACES);
     warn "Suspicious correction $corr at $address\n" if ($corr =~/[@]/ and $DO_WARN_ATS);
-    warn "Suspicious correction $corr at $address\n" if ($corr =~/\{\}/ and $DO_WARN_EMPTY_BRACES);
+    warn "Suspicious correction $corr at $address\n" if ($corr =~/\{\s*\}/ and $DO_WARN_EMPTY_BRACES);
     warn "Suspicious correction $corr at $address\n" if ($corr =~/[\{\}]/ and $corr !~ /\{\}/ and $DO_WARN_OTHER_BRACES);
 
     #TODO kā pareizi apstrādāt tos tukšos? Jo tas nenozīmē, ka iepriekšējo vārdu nevajag.
