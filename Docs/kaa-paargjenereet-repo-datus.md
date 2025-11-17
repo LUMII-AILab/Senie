@@ -19,7 +19,7 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 2. Pārģenerē simbolu tabulas ar komandu
    `perl -CS -e "use LvSenie::Utils::SymbolCollector qw(countInDirs); countInDirs(@ARGV)" . UTF-8 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runSymbolCollector-sample.bat`).
-3. Pārvieto `unicode_symbols.txt` uz mapi `Docs`, bet failus `unicode_full.htm` un `unicode.htm` uz mapi `Web`.
+3. Pārvieto `unicode_symbols.txt` uz mapi `Docs`, bet failus `symbols_full.html` un `symbols.html` uz mapi `Web/src/main/resources/templates`.
 
 
 ### Ja ir labotas formāta kļūdas vai nākuši klāt jauni kodi, vajag atjaunināt kodu tabulu
@@ -120,7 +120,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 5. Failu `all.tei.xml` pārsauc par `SENIE_Unicode_unhyphened.tei.xml` un pārvieto uz mapi `TEI`.
 
 
-#### TEI transliterācijas
+#### TEI transliterācijas (neaktuāls)
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
    `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`

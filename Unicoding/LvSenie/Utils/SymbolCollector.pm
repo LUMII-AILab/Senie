@@ -107,7 +107,7 @@ END
         }
         #$outForDir->close();
     }
-    printResult("$totalResultDirName/unicode_symbols.txt", "$totalResultDirName/unicode_full.htm", "$totalResultDirName/unicode.htm");
+    printResult("$totalResultDirName/unicode_symbols.txt", "$totalResultDirName/symbols_full.html", "$totalResultDirName/symbols.html");
     if ($baddies) {
         say "Processing finished, $baddies of $all files failed!";
     }
@@ -180,17 +180,15 @@ sub printResult
             or die "Could not open file $fileNameSmallHtml: $!";
     }
 
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<!doctype html>');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<html>');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' <head>');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <meta http-equiv="content-type" content="text/html; charset=UTF-8">');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <link rel="stylesheet" type="text/css" href="../css/senie.css">');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <title>Senie</title>');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' </head>');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' <body style="font-family:Linux Libertine, DejaVu Sans, Arial Unicode MS, GNU Unifont;">');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <table class="symbol-table">');
-    say $outBigHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>" if $outSmallHtml;
-    say $outSmallHtml "   <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th></tr>" if $outSmallHtml;
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<!DOCTYPE html>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<html xmlns:th="http://www.thymeleaf.org" th:replace="~{layout :: page(~{::main})}">');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<main>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <section>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '    <h1>Simboli korpusā</h1>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '    <div>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '      <table class="symbol-table">');
+    say $outBigHtml "        <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th><th>Avoti</th></tr>" if $outSmallHtml;
+    say $outSmallHtml "        <tr><th>Simboli<br/>(kombinēti)</th><th>Skaits</th><th>Unikodi</th></tr>" if $outSmallHtml;
 
 
     # In the "big" HTML file and in the TXT we order symbols by their count
@@ -199,6 +197,9 @@ sub printResult
         up($key);
         next if ($key =~/^[\r\n\t ]+$/);
         my $sources = join(', ', sort keys(%{$symbolCounter->{$key}->[1]}));
+        my $sourcesHtml = join(', ',
+            map {"<a href=\"/goto?source=$_\">$_</a>"}
+                (sort keys(%{$symbolCounter->{$key}->[1]})));
         my $count = $symbolCounter->{$key}->[0];
         my $endoded_symbols = encode_entities($key, '<>&"');
         #my $codePoints = unpack('H*', $key);
@@ -206,7 +207,7 @@ sub printResult
         #my $codePoints = Unicode::Escape::escape($key);
         my $codePoints = sprintf("%vX", $key);
         say $outTxt "$key\t$count\t$codePoints\t$sources";
-        say $outBigHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td><td style=\"font-size:smaller\">$sources</td></tr>";
+        say $outBigHtml "        <tr><td class=\"symbol\">$endoded_symbols</td><td class=\"count\">$count</td><td class=\"ucode\">$codePoints</td><td class=\"address extra-small\">$sourcesHtml</td></tr>";
     }
 
     # In the "small" file a fixed symbol ordering is needed
@@ -221,11 +222,13 @@ sub printResult
         #my $codePoints = join('; ', map {unpack('H*', $_)} split(//, $key));
         #my $codePoints = Unicode::Escape::escape($key);
         my $codePoints = sprintf("%vX", $key);
-        say $outSmallHtml "   <tr><td style=\"font-size:larger\">$endoded_symbols</td><td style=\"text-align:center\">$count</td><td style=\"text-align:center\">$codePoints</td></tr>";
+        say $outSmallHtml "        <tr><td class=\"symbol\">$endoded_symbols</td><td class=\"count\">$count</td><td class=\"ucode\">$codePoints</td></tr>";
     }
 
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  </table>');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, ' </body>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '      </table>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '    </div>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  </section>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '</main>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '</html>');
     $outBigHtml->close if $outBigHtml;
     $outSmallHtml->close if $outSmallHtml;
