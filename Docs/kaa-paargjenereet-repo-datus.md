@@ -224,7 +224,7 @@ Sk. zemāk.
 
 ## Mājas lapas failu atjaunināšana (kopsavilkums)
 
-### Vecā mājaslapa (statiskie faili)
+### Vecā mājaslapa (statiskie faili) (novecojis)
 
 1. `Web/static` saturs rodas, pārdarbinot Java skriptu ne-servera daļu (skatīt pre-unikoda nodaļas sākumu).
 2. `Web/inverse` saturs rodas, kad pārdarbinot Java skriptus, no rezultātiem atlasa inversu failus (skatīt pre-unikoda nodaļas statistiku sadaļu).
