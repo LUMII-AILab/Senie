@@ -207,7 +207,7 @@ sub printResult
         #my $codePoints = Unicode::Escape::escape($key);
         my $codePoints = sprintf("%vX", $key);
         say $outTxt "$key\t$count\t$codePoints\t$sources";
-        say $outBigHtml "        <tr><td class=\"symbol\">$endoded_symbols</td><td class=\"count\">$count</td><td class=\"ucode\">$codePoints</td><td class=\"address extra-small\">$sourcesHtml</td></tr>";
+        say $outBigHtml "        <tr><td class=\"symbol\">$endoded_symbols</td><td class=\"count\">$count</td><td class=\"ucode\">$codePoints</td><td class=\"address\">$sourcesHtml</td></tr>";
     }
 
     # In the "small" file a fixed symbol ordering is needed
