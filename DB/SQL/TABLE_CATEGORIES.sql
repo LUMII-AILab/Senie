@@ -1,6 +1,0 @@
-CREATE TABLE categories (
-  id TINYINT UNSIGNED NOT NULL AUTO_INCREMENT,
-  name CHAR(30) NOT NULL,
-  PRIMARY KEY (id),
-  UNIQUE (name)
-);

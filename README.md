@@ -1,8 +1,10 @@
 # Latviešu valodas seno tekstu korpuss
 
-Šī ir latviešu valodas seno tekstu korpusa iztrādes vide: atvērto datu un atvērtā pirmkoda repozitorijs.
+Šī ir latviešu valodas seno tekstu korpusa iztrādes vide: atvērto datu un atvērtā pirmkoda rīku repozitorijs.
 
-Publiskā meklēšanas vide ir brīvi pieejama Korpuss.lv platformā: [korpuss.lv/id/Senie](http://korpuss.lv/id/Senie).
+Korpuss pārlūkojams [mājaslapā](https://senie.korpuss.lv) un vaicājams [Korpuss.lv platformā](http://korpuss.lv/id/Senie). 
+
+
 
 
 ## Licence
@@ -14,12 +16,14 @@ Korpusa programmrīki ir pieejami ar [GPLv3](https://www.gnu.org/licenses/gpl-3.
 ## Repozitorija saturs
 
 - `Sources` - korpusa avotu faili un statistika.
-- `Docs` - topošā korpusa dokumentācija, specifikāciju faili.
 - `TEI` - korpusa dati, pārveidoti TEI formātā.
-- `Indexing` & `Unicoding` - korpusa apstrādes rīki.
-- `DB` & `Web` - ar korpusa tīmekļa vietni [senie.korpuss.lv](http://senie.korpuss.lv) saisītais materiāls, datu medelis un saskarnes pirmkods (daļēji novecojis, pārejot uz [NoSketch Engine](http://nosketch.korpuss.lv/#dashboard?corpname=senie_unicode) platformu).
+- `Docs` - korpusa dokumentācija un pamācības.
+- `Specs` - datubāzes uzbūve un SkE specifikācijas.
+- `Unicoding` - korpusa unikoda apstrādes rīki, `Indexing` – (novecojušie) pirmsunikoda apstrādes rīki.
+- Kopš 2025-11-19 korpusa mājaslapas kods izdalīts atsevišķā [repozitorijā](https://github.com/LUMII-AILab/Senie-Web).
+
 
 ## Izstrādātāji
 
 LU Matemātikas un informātikas institūts \
-LU Latviešu valodas institūts
+LU HZF Latviešu valodas institūts

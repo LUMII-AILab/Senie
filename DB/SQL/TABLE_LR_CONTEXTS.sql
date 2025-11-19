@@ -1,9 +1,0 @@
-CREATE TABLE lr_contexts (
-  id MEDIUMINT UNSIGNED NOT NULL AUTO_INCREMENT,
-  source SMALLINT UNSIGNED NOT NULL,
-  page CHAR(15) NOT NULL,
-  row TINYINT UNSIGNED NOT NULL,
-  content TEXT NOT NULL,
-  PRIMARY KEY (id),
-  UNIQUE (source, page, row)
-);
