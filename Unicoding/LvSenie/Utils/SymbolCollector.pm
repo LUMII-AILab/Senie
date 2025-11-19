@@ -182,7 +182,7 @@ sub printResult
 
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<!DOCTYPE html>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<html xmlns:th="http://www.thymeleaf.org" th:replace="~{layout :: page(~{::main})}">');
-    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<main>');
+    &_sayBigAndSmall($outBigHtml, $outSmallHtml, '<main id="symbols">');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '  <section>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '    <h1>Simboli korpusā</h1>');
     &_sayBigAndSmall($outBigHtml, $outSmallHtml, '    <div>');
