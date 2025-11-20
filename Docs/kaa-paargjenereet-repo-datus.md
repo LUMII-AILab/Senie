@@ -121,7 +121,7 @@ Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar D
 1. Pārliecinās, ka https://github.com/LUMII-AILab/Senie-Web ir jaunākās simbolu tabulas.
 2. app serverī izpilda
 ```
-cd /data/services/Senie/Web
+cd /data/services/Senie-Web
 ./deploy.sh
 ```
 
