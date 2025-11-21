@@ -258,12 +258,12 @@ END
 
 	# Line by line processing
 	my $seenBookCode = 0;
-	my $previousHtmlLineAddress = 0; #for HTML printing
-	my $newHtmlLineAddress = 0; #for HTML printing
+	my $previousLineAddress = 0; #for HTML and SQL printing
+	my $newLineAddress = 0; #for HTML and SQL printing
 	while ($line = <$in>)
 	{
-		$previousHtmlLineAddress = $newHtmlLineAddress;
-		$newHtmlLineAddress = 0;
+		$previousLineAddress = $newLineAddress;
+		$newLineAddress = 0;
 		# start of a new page
 		# In figure brackets - sic, outside brackets - the corrected number
 		if ($line =~ /^\s*\[(.*?)(\{(.*?)\})?\.lpp\.\]\s*$/)
@@ -330,7 +330,7 @@ END
 				my @origTokens = @{tokenize($linePart)};
 				my $translitLine = $linePart;
 				my @translitTokens = 0;
-				$newHtmlLineAddress = $addressStub if @origTokens;
+				$newLineAddress = $addressStub if @origTokens;
 				if ($DO_TRANSLIT)
 				{
 					$translitLine = ($status->{'Latvian'} and $translitTable) ?
@@ -354,11 +354,10 @@ END
 
 		# Do HTML and SQL for this line
 		my $textLineForHtml =  $DO_TRANSLIT ? transliterateString($line, $translitTable) : $line;
-		my $htmlLine = formLineForHtml(
-			$newHtmlLineAddress eq $previousHtmlLineAddress ? "" : $newHtmlLineAddress,
-			$textLineForHtml);
+		my $printAddress = $newLineAddress eq $previousLineAddress ? "" : $newLineAddress;
+		my $htmlLine = formLineForHtml($printAddress, $textLineForHtml);
 		printInHtml($htmlLine, $outs);
-		submitForPrintInSql($fullSourceStub, $newHtmlLineAddress,
+		submitForPrintInSql($fullSourceStub, $printAddress,
 			formPageNumber($counters->{'corrPage'}, $counters->{'origPage'}),
 			$counters->{'overallPage'}, ++$counters->{'overallLine'},
 			htmlifyLineContents($line), $line, $outs, 1);
