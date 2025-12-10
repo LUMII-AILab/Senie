@@ -132,3 +132,4 @@ STRUCTURE g {
 }
 
 SIMPLEQUERY '[lc="%s"] within <language langName="Latvian" />'
+SHORTREF "=doc.id"
