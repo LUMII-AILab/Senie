@@ -41,8 +41,8 @@ CREATE TABLE books (
   UNIQUE (full_source),
   INDEX (full_source),
   INDEX (collection_code),
-  InDEX (item_code),
-  CHECK (COALESCE(`collection_code`, `item_code`) IS NOT NULL)
+  INDEX (item_code),
+  CONSTRAINT collection_or_item_code_required CHECK (COALESCE(`collection_code`, `item_code`) IS NOT NULL)
 ) COMMENT 'Avota metadati';
 
 CREATE TABLE books_genres (
@@ -84,5 +84,5 @@ CREATE TABLE content (
   INDEX (page),
   INDEX (page_sort_order),
   INDEX (line_sort_order),
-  CHECK (`page` IS NOT NULL OR `page_sort_order` = 0)
+  CONSTRAINT page_sort_order_for_nonnull_pages_only CHECK (`page` IS NOT NULL OR `page_sort_order` = 0)
 ) COMMENT 'Avotu tekstuālais saturs, sadalīts rindās';
