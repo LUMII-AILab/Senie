@@ -7,7 +7,7 @@ use IO::Dir;
 use IO::File;
 
 use LvSenie::Publishing::HtmlTools qw($DO_HTML printInHtml formLineForHtml printHtmlDocHead printHtmlDocTail htmlifyLineContents);
-use LvSenie::Publishing::SqlLineTools qw($DO_SQL submitForPrintInSql emptySqlPrintingBuffer);
+use LvSenie::Publishing::SqlLineTools qw($DO_SQL submitForPrintInSql emptySqlPrintingBuffer printPageInSql);
 use LvSenie::Publishing::TeiTools qw($DO_TEI printTeiCorpusHead printTeiCorpusTail printTeiCollectionHead
 	printTeiCollectionTail printTeiDocHead printTeiDocTail startTeiBibleChapter endTeiBibleChapter
 	startTeiParagraph startTeiVerse endTeiParagraphVerse changeTeiPage changeTeiLine startTeiSubBlock endTeiSubBlock
@@ -88,7 +88,7 @@ END
 	if ($doAllSql) {
 		$outForTotalSql = IO::File->new("$totalResultDirName/insert_contexts_autogen.sql", "> :encoding(UTF-8)")
 			or die "Could not open file $totalResultDirName/indert_contexts_autogen.sql: $!";
-		print $outForTotalSql "-- AUTOMATICALLY GENERATED document line data.\n\n";
+		print $outForTotalSql "-- AUTOMATICALLY GENERATED document content data (pages and lines).\n\n";
 	}
 	if ($doAllTei) {
 		$outForTotalTei = IO::File->new("$totalResultDirName/all.tei.xml", "> :encoding(UTF-8)")
@@ -249,6 +249,7 @@ END
 	my $line = <$in>;
 	$line =~ s/^\N{BOM}//;
 	printInHtml(formLineForHtml(0, $line), $outs);
+	printPageInSql($fullSourceStub, "", $counters->{'overallPage'}, $outs);
 	submitForPrintInSql($fullSourceStub, "", "", $counters->{'overallPage'}, ++$counters->{'overallLine'}, htmlifyLineContents($line), $line, $outs);
 	warn "Author is not in the first line!" unless $line =~ /^\s*\@a\{(.*?)\}\s*$/;
 	$line = <$in>;
@@ -273,7 +274,8 @@ END
 			my $fullBookPageNo = $2;
 			my $origPageNo = $3;
 			$origPageNo = $corrPageNo unless ($fullBookPageNo);
-			_change_page($status, $counters, $outs, $corrPageNo, $origPageNo);
+			_change_page($internalProperties, $status, $counters, $outs,
+				$corrPageNo, $origPageNo);
 		}
 		# bible book
 		elsif ($line =~ /^\s*\@g\{(.*)\}\s*$/) {
@@ -461,7 +463,7 @@ sub _end_collection
 
 sub _change_page
 {
-	my ($status, $counters, $outs, $corrPageNo, $origPageNo) = @_;
+	my ($internalProperties, $status, $counters, $outs, $corrPageNo, $origPageNo) = @_;
 
 	_end_paragraph_verse($status, $outs);
 	if ($status->{'page'}) {
@@ -475,6 +477,9 @@ sub _change_page
 	$counters->{'line'} = 0;
 	$counters->{'overallPage'}++;
 	changeTeiPage($outs, $corrPageNo, $origPageNo);
+	printPageInSql($internalProperties->{'full ID'},
+		formPageNumber($counters->{'corrPage'}, $counters->{'origPage'}),
+		$counters->{'overallPage'}, $outs);
 }
 
 sub _change_Bible_chapter

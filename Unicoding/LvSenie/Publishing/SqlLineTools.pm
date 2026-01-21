@@ -8,10 +8,11 @@ use LvSenie::Publishing::Utils qw(printInAllStreams);
 
 use Exporter();
 use parent qw(Exporter);
-our @EXPORT_OK = qw($DO_SQL submitForPrintInSql emptySqlPrintingBuffer);
+our @EXPORT_OK = qw($DO_SQL submitForPrintInSql emptySqlPrintingBuffer printPageInSql);
 
 our $DO_SQL= 0;
-our $SQL_CONTEXT_TABLE = 'content';
+our $CONTEXT_TABLE = 'content_lines';
+our $PAGE_TABLE = 'pages';
 my @insertBuffer = ();
 
 sub submitForPrintInSql
@@ -34,10 +35,11 @@ sub submitForPrintInSql
     my $sqlPage = &_transformToSqlString($page, 0, 1);
     my $sqlHtml = &_transformToSqlString($dataHtml, 1);
     my $sqlPlain = &_transformToSqlString($dataPlain, 1);
-    push (@insertBuffer, "($sqlFullSource, $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain)");
-    #my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE (source, address, page, page_sort_order, line_sort_order, data_html, data_plain)\n";
-    #$insertContext = "$insertContext  VALUES ('$full_source', $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain);\n";
-    #printInAllStreams($insertContext, $outs->{'sql'}, $outs->{'total sql'});
+    my $newStatement = "$sqlAddress, $lineSortOrder, $sqlHtml, $sqlPlain";
+    $newStatement = "$newStatement, (SELECT id FROM $PAGE_TABLE WHERE $PAGE_TABLE.page <=> $sqlPage AND $PAGE_TABLE.page_sort_order = $pageSortOrder AND $PAGE_TABLE.source = $sqlFullSource)";
+    $newStatement = "($newStatement)";
+    push (@insertBuffer, $newStatement);
+    
     if ($author and $addAuthor)
     {
         emptySqlPrintingBuffer($outs);
@@ -51,12 +53,30 @@ sub submitForPrintInSql
     }
 }
 
+sub printPageInSql
+{
+    my $full_source = shift @_;
+    my $page = shift @_;
+    my $pageSortOrder = shift @_;
+    my $outs = shift @_;
+    return unless ($DO_SQL);
+
+    my $sqlFullSource = &_transformToSqlString($full_source);
+    my $sqlPage = &_transformToSqlString($page, 0, 1);
+    &emptySqlPrintingBuffer($outs);
+
+    my $insertPage = "INSERT INTO $PAGE_TABLE (source, page, page_sort_order)";
+    $insertPage = "$insertPage VALUES ($sqlFullSource, $sqlPage, $pageSortOrder);\n";
+    printInAllStreams($insertPage, $outs->{'sql'}, $outs->{'total sql'});
+
+}
+
 sub emptySqlPrintingBuffer
 {
     my $outs = shift @_;
+    return unless @insertBuffer;
     my $joinedValues = join (",\n", (map { "    $_" } @insertBuffer));
-    my $insertContext = "INSERT INTO $SQL_CONTEXT_TABLE\n";
-    $insertContext = "$insertContext    (source, address, page, page_sort_order, line_sort_order, data_html, data_plain)\n";
+    my $insertContext = "INSERT INTO $CONTEXT_TABLE (address, line_sort_order, data_html, data_plain, page_id)\n";
     $insertContext = "$insertContext  VALUES\n$joinedValues;\n";
     # ('$full_source', $sqlAddress, $sqlPage, $pageSortOrder, $lineSortOrder, $sqlHtml, $sqlPlain);\n";
     printInAllStreams($insertContext, $outs->{'sql'}, $outs->{'total sql'});
