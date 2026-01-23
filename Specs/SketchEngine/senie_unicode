@@ -1,6 +1,7 @@
 NAME "SENIE: 16.-18.gs. teksti"
 PATH /corpora/data/senie_unicode
 VERTICAL /corpora/vert/senie_unicode.vert
+SUBCDEF /corpora/registry/senie_unicode_subcorpora
 ENCODING "UTF-8"
 LANGUAGE "Latvian"
 INFOHREF "http://senie.korpuss.lv/"
@@ -147,3 +148,4 @@ STRUCTURE g {
 
 SIMPLEQUERY '[lc="%s" | translit_lc="%s"] within <language langName="Latvian" />'
 SHORTREF "=doc.id"
+
