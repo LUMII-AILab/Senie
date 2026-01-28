@@ -36,7 +36,7 @@ sub submitForPrintInSql
     my $sqlHtml = &_transformToSqlString($dataHtml, 1);
     my $sqlPlain = &_transformToSqlString($dataPlain, 1);
     my $newStatement = "$sqlAddress, $lineSortOrder, $sqlHtml, $sqlPlain";
-    $newStatement = "$newStatement, (SELECT id FROM $PAGE_TABLE WHERE $PAGE_TABLE.page <=> $sqlPage AND $PAGE_TABLE.page_sort_order = $pageSortOrder AND $PAGE_TABLE.source = $sqlFullSource)";
+    $newStatement = "$newStatement, (SELECT id FROM $PAGE_TABLE WHERE $PAGE_TABLE.name <=> $sqlPage AND $PAGE_TABLE.sort_order = $pageSortOrder AND $PAGE_TABLE.source = $sqlFullSource)";
     $newStatement = "($newStatement)";
     push (@insertBuffer, $newStatement);
     
@@ -47,7 +47,7 @@ sub submitForPrintInSql
         $sqlAuthor =~ s/\\/\\\\/g;
         $sqlAuthor =~ s/'/\\'/g;
         my $insertSecAuthor = "INSERT IGNORE INTO $AUTHOR_TABLE (name) VALUES ('$sqlAuthor');\n";
-        $insertSecAuthor = "${insertSecAuthor}INSERT IGNORE INTO $BOOKS2AUTHORS_TABLE (source, author_id, top_author)\n";
+        $insertSecAuthor = "${insertSecAuthor}INSERT IGNORE INTO $BOOKS2AUTHORS_TABLE (source, author_id, cover_author)\n";
         $insertSecAuthor = "${insertSecAuthor}  VALUES ( $sqlFullSource, (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), FALSE);\n";
         printInAllStreams($insertSecAuthor, $outs->{'sql'}, $outs->{'total sql'});
     }
@@ -65,7 +65,7 @@ sub printPageInSql
     my $sqlPage = &_transformToSqlString($page, 0, 1);
     &emptySqlPrintingBuffer($outs);
 
-    my $insertPage = "INSERT INTO $PAGE_TABLE (source, page, page_sort_order)";
+    my $insertPage = "INSERT INTO $PAGE_TABLE (source, name, sort_order)";
     $insertPage = "$insertPage VALUES ($sqlFullSource, $sqlPage, $pageSortOrder);\n";
     printInAllStreams($insertPage, $outs->{'sql'}, $outs->{'total sql'});
 
