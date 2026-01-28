@@ -10,7 +10,7 @@ use LvSenie::Unicode::Win1257ToUnicodeTables qw(substTable hasTable);
 
 use Exporter();
 use parent qw(Exporter);
-our @EXPORT_OK = qw(transformFile transformDir);
+our @EXPORT_OK = qw(transformFile transformDir transformLine);
 
 sub transformFile
 {
@@ -35,7 +35,7 @@ END
 	my $fileName = shift @_;
 	my $collection = shift @_;
 	die "No table found for file $fileName" unless (hasTable($fileName, $collection));
-	my %table = %{substTable($fileName, $collection)};
+	my $table = substTable($fileName, $collection);
 	#my $in = IO::File->new("$dirName/$fileName.txt", "< :encoding(UTF-8)")
 	my $in = IO::File->new("$dirName/$fileName.txt", "< :encoding(cp1257)")
 		or die "Could not open file $dirName/$fileName.txt: $!";
@@ -46,24 +46,7 @@ END
 
 	while (my $line = <$in>)
 	{
-		# Some lines contain fields to be ignored.
-		# Author | Book | Chapter | Empty | Page | Source
-		unless ($line =~
-			/^\s*(\@a\{.*\}|\@g\{\w+\}|\@n\{\d+\}|\@x\{\s*\}|\[[\-\w\{\}]+\.lpp\.\]|\@z\{\w+\})\s*$/)
-		{
-			my $lineInBegin = $line;
-			do
-			{
-				$lineInBegin = $line;
-				for my $target (keys %table)
-				{
-					# Do not replace in "\@[a-z]{" fragments
-					$line =~ s/(?<!\@)\Q$target\E|\Q$target\E(?!\{)/$table{$target}/g;
-				}
-			} while ($lineInBegin ne $line);
-
-		}
-
+		$line = &transformFile($line, $table);
 		print $out $line;
 	}
 
@@ -84,7 +67,7 @@ Params:
    data directory
    collection identifier - Apokr1689, JT1685, VD1689_94 - if applicable
 
-AILab, LUMII, 2018-2021, provided under GPL
+AILab, LUMII, 2018-2026, provided under GPL
 END
 		exit 1;
 	}
@@ -119,6 +102,30 @@ END
 		print "Processing $dirName ($all files) finished successfully!";
 	}
 	return $baddies;
+}
+
+sub transformLine
+{
+	my $line = shift @_;
+	my %table = %{shift @_};
+
+	# Some lines contain fields to be ignored.
+	# Author | Book | Chapter | Empty | Page | Source
+	unless ($line =~
+		/^\s*(\@a\{.*\}|\@g\{\w+\}|\@n\{\d+\}|\@x\{\s*\}|\[[\-\w\{\}]+\.lpp\.\]|\@z\{\w+\})\s*$/)
+	{
+		my $lineInBegin = $line;
+		do
+		{
+			$lineInBegin = $line;
+			for my $target (keys %table)
+			{
+				# Do not replace in "\@[a-z]{" fragments
+				$line =~ s/(?<!\@)\Q$target\E|\Q$target\E(?!\{)/$table{$target}/g;
+			}
+		} while ($lineInBegin ne $line);
+	}
+	return $line
 }
 
 
