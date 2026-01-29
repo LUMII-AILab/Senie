@@ -14,7 +14,7 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 ### Vajag pārģenerēt simbolu tabulu
 
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu 
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē simbolu tabulas ar komandu
    `perl -CS -e "use LvSenie::Utils::SymbolCollector qw(countInDirs); countInDirs(@ARGV)" . UTF-8 data data-Apokr1689 data-JT1685 data-VD1689_94`
@@ -25,7 +25,7 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 ### Ja ir labotas formāta kļūdas vai nākuši klāt jauni kodi, vajag atjaunināt kodu tabulu
 
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu 
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode`
    (sk. `runFileCollector-sample.bat`).
 2. Savāc izmantoto kodu apkopojumu no datu failiem ar komandu
    `perl -e "use LvSenie::Utils::CodeCollector qw(collect); collect(@ARGV)" UTF-8 data data-JT1685 data-VD1689_94 data-Apokr1689
@@ -37,7 +37,7 @@ Mainītos unikodus saliek atbilstošajās `Sources` mapēs pirms tālākas darbo
 ### Vajag pārģenerēt atpārnesumotos failus
 
 1. Savāc `Unicoding` mapē atbilstošos failus ar komandu
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē atpārnesumotos failus ar komandām
    (sk. `runDehyphenator-sample.bat`)
@@ -53,7 +53,7 @@ perl -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)"
 ### Vajag atjaunināt transliterāciju teksta failus
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē transliterācijas ar komandām (sk. `runTransliterator-sample.bat`)
 ```
@@ -71,7 +71,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 #### TEI oriģināli
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē TEI failus ar komandu
    `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
@@ -84,7 +84,7 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 #### TEI atpārnesumotie
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Pārģenerē TEI failus ar komandu
    `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 1 0 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
@@ -99,14 +99,14 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 #### Mājaslapas DB 
 
 1. Savāc mapītē `Unicoding` apstrādājamos failus ar komandu
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode`
    (sk. `runFileCollector-sample.bat`).
-2. Pārģenerē `insert_contexts_autogen.sql` ar komandu
-   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
-   (sk. `runPubGenerator-sample.bat`).
-3. Pārģenerē `insert_metadata_autogen.sql` ar komandu
+2. Pārģenerē `insert_metadata_autogen.sql` ar komandu
    `perl -CS -e "use LvSenie::Publishing::MetadataSql qw(processMetadataFile); processMetadataFile(@ARGV)"`
    (sk. `runMetadataSql-sample.bat`).
+3. Pārģenerē `insert_contexts_autogen.sql` ar komandu
+   `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
+   (sk. `runPubGenerator-sample.bat`).
 4. Izveido apvienoto datubāzes atjaunināšanas failu `update_db_full.sql`, apvienojot šādā secībā:
    4.1. failu `create_tables_for_update.sql` no mapes `Specs/DB`,
    4.2. failu `insert_metadata_autogen.sql`,
@@ -127,7 +127,7 @@ Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar D
 #### Vert faila ģenerēšana
 
 1. Mapē `Unicoding` ar savāc apstrādājamos failus ar komandu
-   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" Unicode_unhyphened`
+   `perl -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode_unhyphened`
    (sk. `runFileCollector-sample.bat`).
 2. Uztaisa pilno vertfailu (ar transliterācijām) ar komandu
    `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 1 0 0 0 1 data data-Apokr1689 data-JT1685 data-VD1689_94`
