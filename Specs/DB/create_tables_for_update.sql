@@ -28,8 +28,7 @@ CREATE TABLE genres (
 ) COMMENT 'Avotu žanri un apakšžanri';
 
 CREATE TABLE books (
-  id smallint unsigned NOT NULL AUTO_INCREMENT,
-  full_source varchar(50) NOT NULL COMMENT 'Pilnais cilvēklasāmais avota identifikators, kas tiek lietots visos SENIE rīkos, formā kolekcija/grāmata, unikāls',
+  full_source_code varchar(50) NOT NULL COMMENT 'Pilnais cilvēklasāmais avota identifikators, kas tiek lietots visos SENIE rīkos, formā kolekcija/grāmata, unikāls',
   collection_code varchar(40) COMMENT 'Kolekcijas cilvēklasāmais identifikators, ja avots ietilpst kolekcijā, tukšs citādi',
   item_code varchar(40) COMMENT 'Avota cilvēklasāmais identifikators kolekcijā, tukšs, ja šis ir kolekcijas kopējo metadatu ieraksts',
   name varchar(100) NOT NULL COMMENT 'Avota publiski rādāmais nosaukums vai iesauka',
@@ -39,36 +38,30 @@ CREATE TABLE books (
   index_type enum('GNP', 'GLR', 'LR', 'P') COMMENT 'Avota indeksēšanas tips (norāde, kas ir mazākā adresējamā vienība avotā), tukšs kolekcijām',
   manuscript boolean COMMENT 'Vai šis avots ir manuskripts?',
   order_in_collection decimal(10,5) unsigned DEFAULT 0 COMMENT 'Avota kārtas numurs kolekcijā, ja avots ir kolekcijas daļa.',
-  
-  PRIMARY KEY (id),
-  UNIQUE (full_source),
-  INDEX (full_source),
+  PRIMARY KEY (full_source_code),
+  INDEX (full_source_code),
   INDEX (collection_code),
   INDEX (item_code),
   CONSTRAINT collection_or_item_code_required CHECK (COALESCE(`collection_code`, `item_code`) IS NOT NULL)
 ) COMMENT 'Avota metadati';
 
 CREATE TABLE books_genres (
-  id smallint unsigned NOT NULL AUTO_INCREMENT,
   source varchar(50) NOT NULL COMMENT 'Norāde uz avotu',
   genre_id smallint unsigned NOT NULL COMMENT 'Norāde uz avota žanru',
-
-  PRIMARY KEY (id),
-  FOREIGN KEY (source) REFERENCES books(full_source),
+  PRIMARY KEY (source, genre_id),
+  FOREIGN KEY (source) REFERENCES books(full_source_code),
   FOREIGN KEY (genre_id) REFERENCES genres(id),
   CONSTRAINT genre_unique_per_source UNIQUE (source, genre_id)
 ) COMMENT 'Avota sasaiste ar žanriem';
 
 CREATE TABLE books_authors (
-  id smallint unsigned NOT NULL AUTO_INCREMENT,
   source varchar(50) NOT NULL COMMENT 'Norāde uz avotu',
   author_id smallint unsigned NOT NULL COMMENT 'Norāde uz avota autoru',
-  cover_author boolean COMMENT 'Vai šis ir galvenais autors, kas norādīts avota sākumā (true) vai līdzautors, kas norādīts avota vidū (false)?',
-
-  PRIMARY KEY (id),
-  FOREIGN KEY (source) REFERENCES books(full_source),
-  FOREIGN KEY (author_id) REFERENCES authors(id),
-  CONSTRAINT author_unique_per_source_status UNIQUE (source, author_id, cover_author)
+  is_cover_author boolean COMMENT 'Vai šis ir galvenais autors (norādīts avotfaila sākumā)?',
+  is_fragment_author boolean COMMENT 'Vai šis ir avota fragmenta autors (norādīts avotfaila vidū)?',
+  PRIMARY KEY (source, author_id),
+  FOREIGN KEY (source) REFERENCES books(full_source_code),
+  FOREIGN KEY (author_id) REFERENCES authors(id)
 ) COMMENT 'Avota sasaiste ar autoriem';
 
 CREATE TABLE pages (
@@ -79,7 +72,7 @@ CREATE TABLE pages (
   facsimile_filename TINYTEXT COMMENT 'Lappuses faksimila attēla faila vārds',
   facsimile_checked_on TIMESTAMP COMMENT 'Kad pēdējo reizi ir pārbaudīts, vai lappusei ir faksimils',
   PRIMARY KEY (id),
-  FOREIGN KEY (source) REFERENCES books(full_source),
+  FOREIGN KEY (source) REFERENCES books(full_source_code),
   INDEX (source),
   INDEX (name),
   INDEX (sort_order),
@@ -87,7 +80,6 @@ CREATE TABLE pages (
   CONSTRAINT page_unique_per_source_order_name UNIQUE (source, name, sort_order),
   CONSTRAINT page_sort_order_for_nonnull_pages_only CHECK (`name` IS NOT NULL OR `sort_order` = 0)
 ) COMMENT 'Avota lappuses';
-
 
 CREATE TABLE content_lines (
   id int unsigned NOT NULL AUTO_INCREMENT,

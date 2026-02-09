@@ -86,8 +86,8 @@ END
 			or die "Could not open file $totalResultDirName/all.vert: $!";
 	}
 	if ($doAllSql) {
-		$outForTotalSql = IO::File->new("$totalResultDirName/insert_contexts_autogen.sql", "> :encoding(UTF-8)")
-			or die "Could not open file $totalResultDirName/indert_contexts_autogen.sql: $!";
+		$outForTotalSql = IO::File->new("$totalResultDirName/insert_contentlines_autogen.sql", "> :encoding(UTF-8)")
+			or die "Could not open file $totalResultDirName/indert_contentlines_autogen.sql: $!";
 		print $outForTotalSql "-- AUTOMATICALLY GENERATED document content data (pages and lines).\n\n";
 	}
 	if ($doAllTei) {

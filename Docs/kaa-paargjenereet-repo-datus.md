@@ -104,13 +104,13 @@ perl -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@A
 2. Pārģenerē `insert_metadata_autogen.sql` ar komandu
    `perl -CS -e "use LvSenie::Publishing::MetadataSql qw(processMetadataFile); processMetadataFile(@ARGV)"`
    (sk. `runMetadataSql-sample.bat`).
-3. Pārģenerē `insert_contexts_autogen.sql` ar komandu
+3. Pārģenerē `insert_contentlines_autogen.sql` ar komandu
    `perl -CS -e "use LvSenie::Publishing::PublishingFileGenerator qw(processDirs); processDirs(@ARGV)" . UTF-8 0 0 0 1 0 data data-Apokr1689 data-JT1685 data-VD1689_94`
    (sk. `runPubGenerator-sample.bat`).
 4. Izveido apvienoto datubāzes atjaunināšanas failu `update_db_full.sql`, apvienojot šādā secībā:
    4.1. failu `create_tables_for_update.sql` no mapes `Specs/DB`,
    4.2. failu `insert_metadata_autogen.sql`,
-   4.3. failu `insert_contexts_autogen.sql`.
+   4.3. failu `insert_contentlines_autogen.sql`.
 5. `update_db_full.sql` saarhivē par `update_db_full.sql.gz` un augšuplādē mājaslapas adminer vidē. Augšuplāde mēdz būt ļoti lēna.
 
 Ja izveidoto failu lieto lokālās (vai jebkuras) datubāzes izmainīšanai ar DBeaver (otrais peles taustiņš uz attiecīgās datubāzes, _Tools_ / _Restore database_), tad ielādes brīdī jānorāda papildu parametrs `--default-character-set=utf8mb4` un jālieto nesaarhivētais fails.

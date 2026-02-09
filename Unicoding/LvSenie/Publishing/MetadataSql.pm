@@ -41,14 +41,14 @@ sub processMetadataFile
             }
         }
         # E.g.:
-        # INSERT INTO books_new (full_source, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)
+        # INSERT INTO books_new (full_source_code, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)
         #   VALUES ('Apokr1689', 'Apokr1689', NULL, 'Apocrypha', 1689, 1689, 18, NULL, FALSE, 0);
-        # INSERT INTO books_new (full_source, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)
+        # INSERT INTO books_new (full_source_code, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)
         #   VALUES ('Apokr1689/1Mak', 'Apokr1689', '1Mak', 'Ta Pirma Makkabeeŗu Grahmata', 1689, 1689, 18, 'GNP', FALSE, 7);
-        # INSERT INTO books_new (full_source, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)
+        # INSERT INTO books_new (full_source_code, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)
         #   VALUES ('Baum1699_LVV', NULL, 'Baum1699_LVV', 'Labbajs wehleschanas Wahrds', 1699, 1699, 17, 'LR', FALSE, 0);
 
-        print $outForSQL "INSERT INTO $BOOK_TABLE (full_source, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)\n";
+        print $outForSQL "INSERT INTO $BOOK_TABLE (full_source_code, collection_code, item_code, name, year1, year2, pub_century, index_type, manuscript, order_in_collection)\n";
         print $outForSQL "  VALUES ('$full_source', ";
         print $outForSQL $properties->{'collection id'} ? "'".$properties->{'collection id'}."', " : 'NULL, ';
         print $outForSQL $properties->{'short id'} ? "'".$properties->{'short id'}."', " : 'NULL, ';
@@ -59,10 +59,11 @@ sub processMetadataFile
         print $outForSQL $properties->{'order no'} ? $properties->{'order no'}.");\n" : "0);\n";
 
         # E.g.,
-        # INSERT INTO books_authors_new (source, author_id, cover_author)
+        # INSERT INTO books_authors_new (source, author_id, is_cover_author)
         #   VALUES ( 'Apokr1689', SELECT id FROM authors_new WHERE authors_new.name = 'Ernsts Gliks'), TRUE);
-        print $outForSQL "INSERT INTO $BOOKS2AUTHORS_TABLE (source, author_id, cover_author)\n";
-        print $outForSQL "  VALUES ( '$full_source', (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), TRUE);\n";
+        print $outForSQL "INSERT INTO $BOOKS2AUTHORS_TABLE (source, author_id, is_cover_author)\n";
+        print $outForSQL "  VALUES ( '$full_source', (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), TRUE)\n";
+        print $outForSQL "  ON DUPLICATE KEY UPDATE is_cover_author = TRUE, is_fragment_author = (is_fragment_author OR FALSE);\n";
 
         # E.g.,
         # INSERT INTO books_genres_new (source, genre_id)
