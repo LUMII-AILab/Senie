@@ -61,8 +61,8 @@ sub processMetadataFile
         # E.g.,
         # INSERT INTO books_authors_new (source, author_id, is_cover_author)
         #   VALUES ( 'Apokr1689', SELECT id FROM authors_new WHERE authors_new.name = 'Ernsts Gliks'), TRUE);
-        print $outForSQL "INSERT INTO $BOOKS2AUTHORS_TABLE (source, author_id, is_cover_author)\n";
-        print $outForSQL "  VALUES ( '$full_source', (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), TRUE)\n";
+        print $outForSQL "INSERT INTO $BOOKS2AUTHORS_TABLE (source, author_id, is_cover_author, is_fragment_author)\n";
+        print $outForSQL "  VALUES ( '$full_source', (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), TRUE, FALSE)\n";
         print $outForSQL "  ON DUPLICATE KEY UPDATE is_cover_author = TRUE, is_fragment_author = (is_fragment_author OR FALSE);\n";
 
         # E.g.,

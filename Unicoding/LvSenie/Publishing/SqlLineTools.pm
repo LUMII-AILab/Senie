@@ -47,8 +47,8 @@ sub submitForPrintInSql
         $sqlAuthor =~ s/\\/\\\\/g;
         $sqlAuthor =~ s/'/\\'/g;
         my $insertSecAuthor = "INSERT IGNORE INTO $AUTHOR_TABLE (name) VALUES ('$sqlAuthor');\n";
-        $insertSecAuthor = "${insertSecAuthor}INSERT INTO $BOOKS2AUTHORS_TABLE (source, author_id, is_fragment_author)\n";
-        $insertSecAuthor = "${insertSecAuthor}  VALUES ( $sqlFullSource, (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), TRUE)\n";
+        $insertSecAuthor = "${insertSecAuthor}INSERT INTO $BOOKS2AUTHORS_TABLE (source, author_id, is_cover_author, is_fragment_author)\n";
+        $insertSecAuthor = "${insertSecAuthor}  VALUES ( $sqlFullSource, (SELECT id FROM $AUTHOR_TABLE WHERE $AUTHOR_TABLE.name = '$sqlAuthor'), FALSE, TRUE)\n";
         $insertSecAuthor = "${insertSecAuthor}  ON DUPLICATE KEY UPDATE is_cover_author = (is_cover_author OR FALSE), is_fragment_author = TRUE;\n";
         printInAllStreams($insertSecAuthor, $outs->{'sql'}, $outs->{'total sql'});
     }

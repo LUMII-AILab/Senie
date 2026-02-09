@@ -57,8 +57,8 @@ CREATE TABLE books_genres (
 CREATE TABLE books_authors (
   source varchar(50) NOT NULL COMMENT 'Norāde uz avotu',
   author_id smallint unsigned NOT NULL COMMENT 'Norāde uz avota autoru',
-  is_cover_author boolean COMMENT 'Vai šis ir galvenais autors (norādīts avotfaila sākumā)?',
-  is_fragment_author boolean COMMENT 'Vai šis ir avota fragmenta autors (norādīts avotfaila vidū)?',
+  is_cover_author boolean NOT NULL COMMENT 'Vai šis ir galvenais autors (norādīts avotfaila sākumā)?',
+  is_fragment_author boolean NOT NULL COMMENT 'Vai šis ir avota fragmenta autors (norādīts avotfaila vidū)?',
   PRIMARY KEY (source, author_id),
   FOREIGN KEY (source) REFERENCES books(full_source_code),
   FOREIGN KEY (author_id) REFERENCES authors(id)
