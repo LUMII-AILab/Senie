@@ -30,8 +30,8 @@ END
     my $dictDom = XML::LibXML->load_xml(location => $fileName);
 
     # Fix source naming typos
-    $dictDom->findnodes('//dtdlist[@name="Source code"]/dtdlistitem[@name="VHL1685_Cat"]/@name')
-        ->get_node(1)->setValue("VLH1685_Cat");
+    #$dictDom->findnodes('//dtdlist[@name="Source code"]/dtdlistitem[@name="VHL1685_Cat"]/@name')
+    #    ->get_node(1)->setValue("VLH1685_Cat");
 
     # Convert wordforms using general dictionary table
     my $dictTable = substTable('LVVV_ENTRIES_UNIFIED');
