@@ -1,14 +1,15 @@
 .DS_Store
 *.zip
+*/.idea/
+*.kate-swp
 
-/Unicoding/.idea/dictionaries
-/Unicoding/.idea/workspace.xml
-/Unicoding/.idea/tasks.xml
-/Unicoding/.idea/perl5local.xml
+/Unicoding/_Deparsed_XSubs.pm
 /Unicoding/data
 /Unicoding/data-*
 /Unicoding/*_ignore.bat
 /Unicoding/*-ignore.bat
+/Unicoding/*_ignore.sh
+/Unicoding/*-ignore.sh
 /Unicoding/*-ignore
 /Unicoding/*.vert
 /Unicoding/*.tei.xml
@@ -21,8 +22,4 @@
 /Indexing/run/*.txt
 /Indexing/out
 
-/Unicoding/_Deparsed_XSubs.pm
 SENIE_symbols.*
-
-/Facsimiles
-*.war
