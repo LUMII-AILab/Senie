@@ -206,11 +206,11 @@ END
 	}
 	if ($baddies)
 	{
-		print "Processing $dirName finished, $baddies of $all files failed!";
+		print "Processing $dirName finished, $baddies of $all files failed!\n";
 	}
 	else
 	{
-		print "Processing $dirName ($all files) finished successfully!";
+		print "Processing $dirName ($all files) finished successfully!\n";
 	}
 	return $baddies;
 }
