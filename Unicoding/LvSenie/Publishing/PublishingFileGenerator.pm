@@ -139,10 +139,10 @@ END
 	$outForTotalTei->close() if ($doAllTei);
 
 	if ($baddies) {
-		print "Processing finished, $baddies of $all files had problems!";
+		print "Processing finished, $baddies of $all files had problems!\n";
 	}
 	else {
-		print "Processing $all files finished successfully!";
+		print "Processing $all files finished successfully!\n";
 	}
 	return $baddies;
 }
@@ -210,7 +210,9 @@ END
 	my $fullSourceStub = $internalProperties->{'full ID'};
 	my $lowerSourceId = $internalProperties->{'short ID'};
 	my $indexType = getIndexType($internalProperties->{'full ID'});
-	my $externalProperties = getExternalProperties($internalProperties->{'full ID'});
+	my $externalProperties = getExternalProperties($internalProperties->{'full ID'})
+		or die("Metadata not found for $fullSourceStub!\n");
+
 	my $author = $externalProperties->{'author'};
 
 	# Prepare translit table
