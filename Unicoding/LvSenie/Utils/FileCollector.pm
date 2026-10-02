@@ -98,7 +98,7 @@ sub collectSingleLevel
 	while (defined(my $subDirName = $sourcesDir->read))
 	{
 		next if $subDirName =~ /^(\.\.?|Apokr1689|JT1685|VD1689_94|pub_ord.txt|indexing.txt)$/;
-		my $sourceID = $collection ? "$collection::$subDirName" : $subDirName;
+		my $sourceID = $collection ? "$collection\::$subDirName" : $subDirName;
 		next if ($whitelist
 			and not isWhitelisted($whitelist, $sourceID)
 			and not ($collection and isWhitelisted($whitelist, $collection)));

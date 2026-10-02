@@ -44,7 +44,7 @@ END
 	my $out = IO::File->new("$dirName/res/$corpusId/${fileNameStub}_unhyphened$fileTypeStub.txt", "> :encoding($encoding)")
 		or die "Could not open file $dirName/res/$corpusId/${fileNameStub}_unhyphened$fileTypeStub.txt: $!";
 
-	print "Processing ${corpusId}::$fileNameStub.\n";
+	print "Processing $fileName.\n";
 
 	my $prevLine = 0;
 	my @emptyLineBuffer = ();
@@ -206,11 +206,11 @@ END
 	}
 	if ($baddies)
 	{
-		print "Processing $dirName finished, $baddies of $all files failed!";
+		print "Processing $dirName finished, $baddies of $all files failed!\n";
 	}
 	else
 	{
-		print "Processing $dirName ($all files) finished successfully!";
+		print "Processing $dirName ($all files) finished successfully!\n";
 	}
 	return $baddies;
 }
