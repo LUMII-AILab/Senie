@@ -324,7 +324,7 @@ END
 			for my $linePart (@$lineParts)
 			{
 				my $codeLetter = 0;
-				if ($linePart =~ /^(\s*)@([\w\d]+){(.*?)}(\s*)$/) {
+				if ($linePart =~ /^(\s*)@([\w\d]+)\{(.*?)\}(\s*)$/) {
 					$codeLetter = $2;
 					$linePart = "$1$3";
 				}
