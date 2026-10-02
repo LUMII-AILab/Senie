@@ -55,9 +55,9 @@ sub htmlifyLineContents
     $line =~ s/</&lt;/g;
     #Some formating
     $line =~ s/(\[[^\]]*\])/<span class="source-page">$1<\/span>/g;
-    $line =~ s/(\@[^{]{[^}]*({[^}]*}[^}]*)*})/<span class="source-marked">$1<\/span>/g;
-    $line =~ s/(?<!\@.)({[^}]*})/<span class="source-correction">$1<\/span>/g;
-    $line =~ s/(\@([^{])){/"<span class=\"source-atcode\" title=\"".&decode($2)."\">$1<\/span>{"/ge;
+    $line =~ s/(\@[^\{]\{[^\}]*(\{[^\}]*\}[^\}]*)*\})/<span class="source-marked">$1<\/span>/g;
+    $line =~ s/(?<!\@.)(\{[^\}]*\})/<span class="source-correction">$1<\/span>/g;
+    $line =~ s/(\@([^\{]))\{/"<span class=\"source-atcode\" title=\"".&decode($2)."\">$1<\/span>{"/ge;
     return $line;
 }
 
