@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="401"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Tas Praweets Jonas.</div></div>
@@ -198,11 +199,12 @@
         <div type="Language" lang="Latvian">teet manni Juhŗâ/ tad ta Juh-</div>
        <lb/>
         <div type="Language" lang="Latvian">ŗa jums noſtahẜees/ jo es ſinnu/</div>
+      </div>
+      <pb n="402"/>
        <lb/>
         <div type="Language" lang="Latvian">ka ẜchi leela Wehtra pahr jums</div>
        <lb/>
         <div type="Language" lang="Latvian">nahk mannis dehļ.</div>
-      </div>
       <div n="13." type="Verse" id="VD1689_94::Jon_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Bet tee Wihri irre/ un</div>
@@ -400,6 +402,8 @@
         <div type="Language" lang="Latvian">0. Jonas ẜluddina uhs tahs ohtras Aizinaẜcha-</div>
        <lb/>
         <div type="Language" lang="Latvian">nas no Deewa: 1.Teem Niniwiteŗeem</div>
+      </div>
+      <pb n="403"/>
        <lb/>
         <div type="Language" lang="Latvian">ka teem buhs no Grehkeem atgreeſtees: 4.</div>
        <lb/>
@@ -408,7 +412,6 @@
         <div type="Language" lang="Latvian">atgreeſchahs: 5. Tà ka Deews to usjemtu</div>
        <lb/>
         <div type="Language" lang="Latvian">Ꞩohdibu atmett: 10.</div>
-      </div>
       <div n="1." type="Verse" id="VD1689_94::Jon_3:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. UN ta KUNGA Wahrds</div>
@@ -603,11 +606,12 @@
         <div type="Language" lang="Latvian">3. Nu tad KUNGS! jemm</div>
        <lb/>
         <div type="Language" lang="Latvian">mannu Dwehẜeli no mannim/</div>
+      </div>
+      <pb n="404"/>
        <lb/>
         <div type="Language" lang="Latvian">jo tas irr labbaki nomirt/</div>
        <lb/>
         <div type="Language" lang="Latvian">nekà dſihwoht.</div>
-      </div>
       <div n="4." type="Verse" id="VD1689_94::Jon_4:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Bet tas KUNGS ẜazzija.</div>

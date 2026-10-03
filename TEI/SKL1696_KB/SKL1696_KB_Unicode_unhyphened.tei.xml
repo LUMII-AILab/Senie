@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="1"/>
       <div n="0." type="Section" id="SKL1696_KB_0.">
        <lb/>
         <div type="Language" lang="Latvian">0. Sawadi</div>
@@ -57,6 +58,8 @@
        <lb/>
        <div type="Language" lang="German">Riga/ bey Georg Matth. Nöller.</div>
       </div>
+      <pb n="2"/>
+      <pb n="3"/>
       <div n="1." type="Section" id="SKL1696_KB_1.">
        <lb/>
         <div type="Language" lang="Latvian">1. Lohzeklis.</div>
@@ -117,6 +120,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜohditam tapt.</div>
       </div>
+      <pb n="4"/>
       <div n="13." type="Section" id="SKL1696_KB_13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Kad kahds ẜlikts Saldahts</div>
@@ -180,6 +184,8 @@
       <div n="34." type="Section" id="SKL1696_KB_34.">
        <lb/>
         <div type="Language" lang="Latvian">34. Kad tahds Saldahts</div>
+      </div>
+      <pb n="5"/>
        <lb/>
         <div type="Language" lang="Latvian">ẜawu Under=Offzeeru/ Corporaļu</div>
        <lb/>
@@ -190,7 +196,6 @@
         <div type="Language" lang="Latvian">turrahs/ tad buhs tahdam</div>
        <lb/>
         <div type="Language" lang="Latvian">nomaitatam tapt.</div>
-      </div>
       <div n="35." type="Section" id="SKL1696_KB_35.">
        <lb/>
         <div type="Language" lang="Latvian">35. Kas ẜawu Wirẜsneeku</div>
@@ -242,11 +247,12 @@
         <div type="Language" lang="Latvian">Azzim/ bes Pawehleẜchanas/</div>
        <lb/>
         <div type="Language" lang="Latvian">un duſmigâ Prahtâ/</div>
+      </div>
+      <pb n="6"/>
        <lb/>
         <div type="Language" lang="Latvian">Sohbinu iswelk/ tam buhs</div>
        <lb/>
         <div type="Language" lang="Latvian">ẜeſch reiſi zaur Rihkſteem tezzeht.</div>
-      </div>
       <div n="40." type="Section" id="SKL1696_KB_40.">
        <lb/>
         <div type="Language" lang="Latvian">40. Kas pee Karrohga=</div>
@@ -305,6 +311,7 @@
        <lb/>
         <div type="Language" lang="Latvian">buhs mirrt.</div>
       </div>
+      <pb n="7"/>
       <div n="46." type="Section" id="SKL1696_KB_46.">
        <lb/>
         <div type="Language" lang="Latvian">46. Kas to Wakti aisņem̃/</div>
@@ -366,6 +373,8 @@
         <div type="Language" lang="Latvian">bes Wainas Raiſas=Trohkẜni</div>
        <lb/>
         <div type="Language" lang="Latvian">darra/ jeb ſchaude/ kad nelaiks</div>
+      </div>
+      <pb n="8"/>
        <lb/>
         <div type="Language" lang="Latvian">irr bijs/ tam buhs mirrt/</div>
        <lb/>
@@ -380,7 +389,6 @@
         <div type="Language" lang="Latvian">irr/ trihs reiſi zaur</div>
        <lb/>
         <div type="Language" lang="Latvian">Rihkſteem tezzeht.</div>
-      </div>
       <div n="55." type="Section" id="SKL1696_KB_55.">
        <lb/>
         <div type="Language" lang="Latvian">55. Kas ne nahk us Wakti/</div>
@@ -429,6 +437,7 @@
        <lb/>
         <div type="Language" lang="Latvian">tapt.</div>
       </div>
+      <pb n="9"/>
       <div n="60." type="Section" id="SKL1696_KB_60.">
        <lb/>
         <div type="Language" lang="Latvian">60. Kad us Marẜchu ja=eet/</div>
@@ -488,6 +497,8 @@
         <div type="Language" lang="Latvian">ikkurſch bes wiẜẜas Teeẜas un</div>
        <lb/>
         <div type="Language" lang="Latvian">Mekleẜchanas noſchaut/ bet</div>
+      </div>
+      <pb n="10"/>
        <lb/>
         <div type="Language" lang="Latvian">ja wiņſch ta behg/ ka wiņſch</div>
        <lb/>
@@ -502,7 +513,6 @@
         <div type="Language" lang="Latvian">wiẜs kas pakkal paleek/ paleek</div>
        <lb/>
         <div type="Language" lang="Latvian">paſuſta.</div>
-      </div>
       <div n="77." type="Section" id="SKL1696_KB_77.">
        <lb/>
         <div type="Language" lang="Latvian">77. Kas Eenaidneekam jebkahdu</div>
@@ -548,6 +558,8 @@
         <div type="Language" lang="Latvian">84. Kad kas ar ohtru Ķildâ</div>
        <lb/>
         <div type="Language" lang="Latvian">nahzis ẜawu Ziltu par Paliga</div>
+      </div>
+      <pb n="11"/>
        <lb/>
         <div type="Language" lang="Latvian">aizina/ tam buhs jeb pee</div>
        <lb/>
@@ -564,7 +576,6 @@
         <div type="Language" lang="Latvian">paẜchâ Ꞩohdibâ aisņemtam</div>
        <lb/>
         <div type="Language" lang="Latvian">tapt.</div>
-      </div>
       <div n="85.86." type="Section" id="SKL1696_KB_85.86.">
        <lb/>
         <div type="Language" lang="Latvian">85.86. Kas ohtru nokauj/</div>
@@ -610,6 +621,8 @@
         <div type="Language" lang="Latvian">ẜawa ẜtarpa Mauzibu</div>
        <lb/>
         <div type="Language" lang="Latvian">dſenn/ tad buhs ikkurram no</div>
+      </div>
+      <pb n="12"/>
        <lb/>
         <div type="Language" lang="Latvian">teem 40. Mahrkus Ꞩuddraba=Naudu/</div>
        <lb/>
@@ -622,7 +635,6 @@
         <div type="Language" lang="Latvian">doht/ un wehl klaht abbeem</div>
        <lb/>
         <div type="Language" lang="Latvian">Baſnizas=Teeẜu iszeeſt.</div>
-      </div>
       <div n="91." type="Section" id="SKL1696_KB_91.">
        <lb/>
         <div type="Language" lang="Latvian">91. Kad nelaulahts Wihrs</div>
@@ -668,6 +680,8 @@
         <div type="Language" lang="Latvian">94. Tohp tee eekẜch tahdahm</div>
        <lb/>
         <div type="Language" lang="Latvian">Blehdibahm zettortâ</div>
+      </div>
+      <pb n="13"/>
        <lb/>
         <div type="Language" lang="Latvian">reiſi atraſti/ ta lihds arridſan/</div>
        <lb/>
@@ -676,7 +690,6 @@
         <div type="Language" lang="Latvian">Laulibu pahrkahp/ tad buhs</div>
        <lb/>
         <div type="Language" lang="Latvian">teem mirrt.</div>
-      </div>
       <div n="95." type="Section" id="SKL1696_KB_95.">
        <lb/>
         <div type="Language" lang="Latvian">95. Kas Neẜchķihkſtibas=</div>
@@ -732,6 +745,8 @@
         <div type="Language" lang="Latvian">kahda wiẜs=maſaka Leeta buhdama/</div>
        <lb/>
         <div type="Language" lang="Latvian">treſcha lahgâ/ tam</div>
+      </div>
+      <pb n="14"/>
        <lb/>
         <div type="Language" lang="Latvian">buhs arridſan pakahrtam</div>
        <lb/>
@@ -744,7 +759,6 @@
         <div type="Language" lang="Latvian">pirmâ reiſî ſohg/ tam buhs</div>
        <lb/>
         <div type="Language" lang="Latvian">arridſan pakahrtam tapt.</div>
-      </div>
       <div n="105." type="Section" id="SKL1696_KB_105.">
        <lb/>
         <div type="Language" lang="Latvian">105. Kas no ẜawa Wirẜsneeka/</div>
@@ -794,6 +808,8 @@
         <div type="Language" lang="Latvian">gabbali/ un zitta Ķehniņa</div>
        <lb/>
         <div type="Language" lang="Latvian">Karra=Leeta tohp glabbata/</div>
+      </div>
+      <pb n="15"/>
        <lb/>
         <div type="Language" lang="Latvian">jeb=kahdu Leetu ſohg/ ja/ kas</div>
        <lb/>
@@ -804,7 +820,6 @@
         <div type="Language" lang="Latvian">buht ta Sahdſiba Addatu</div>
        <lb/>
         <div type="Language" lang="Latvian">Leelumâ.</div>
-      </div>
       <div n="109." type="Section" id="SKL1696_KB_109.">
        <lb/>
         <div type="Language" lang="Latvian">109. Ar ẜawu eedohtu Mahjas=Weetu</div>
@@ -856,11 +871,12 @@
         <div type="Language" lang="Latvian">112. Kas bes Wirẜsneeka</div>
        <lb/>
         <div type="Language" lang="Latvian">Sinnaſchanas par Nakti no</div>
+      </div>
+      <pb n="16"/>
        <lb/>
         <div type="Language" lang="Latvian">Pills=Weetas aran paleek/</div>
        <lb/>
         <div type="Language" lang="Latvian">tam buhs mirrt.</div>
-      </div>
       <div n="115." type="Section" id="SKL1696_KB_115.">
        <lb/>
         <div type="Language" lang="Latvian">115. Kas ẜawas Drehbes/</div>
@@ -918,11 +934,12 @@
         <div type="Language" lang="Latvian">Mehnes=Naudu praẜs/</div>
        <lb/>
         <div type="Language" lang="Latvian">tam buhs ka Dumpu=Zehleijam</div>
+      </div>
+      <pb n="17"/>
        <lb/>
         <div type="Language" lang="Latvian">Kakla=Teeẜâ nomaitatam</div>
        <lb/>
         <div type="Language" lang="Latvian">tapt.</div>
-      </div>
       <div n="141." type="Section" id="SKL1696_KB_141.">
        <lb/>
         <div type="Language" lang="Latvian">141. Kas weenu Apẜkahdetu</div>
@@ -937,6 +954,7 @@
        <lb/>
         <div type="Language" lang="Latvian">noẜohditam.</div>
       </div>
+      <pb n="18"/>
     </body>
    </text>
   </TEI>

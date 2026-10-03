@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="421"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Tas Praweets Zewanijus.</div></div>
@@ -143,13 +144,14 @@
         <div type="Language" lang="Latvian">ta KUNGA/ peemekleẜchu es</div>
        <lb/>
         <div type="Language" lang="Latvian">tohs Leel=Kungus/ un tohs Ķeh-</div>
+      </div>
+      <pb n="422"/>
        <lb/>
         <div type="Language" lang="Latvian">niņa Behrnus/ un wiẜẜus/ kas</div>
        <lb/>
         <div type="Language" lang="Latvian">aptehrpjahs ar ẜweẜchahm Dreh-</div>
        <lb/>
         <div type="Language" lang="Latvian">behm/</div>
-      </div>
       <div n="9." type="Verse" id="VD1689_94::Cef_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Jr es peemekleẜchu taî Dee-</div>
@@ -339,11 +341,12 @@
         <div type="Language" lang="Latvian">Karſtums ta KUNGA Bahrſi-</div>
        <lb/>
         <div type="Language" lang="Latvian">bas nahk/ pirms ta Deena ta</div>
+      </div>
+      <pb n="423"/>
        <lb/>
         <div type="Language" lang="Latvian">KUNGA Duẜmibas pahr jums</div>
        <lb/>
         <div type="Language" lang="Latvian">nahk.</div>
-      </div>
       <div n="3." type="Verse" id="VD1689_94::Cef_2:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Meklejeet to KUNGU wiẜ-</div>
@@ -529,6 +532,8 @@
         <div type="Language" lang="Latvian">kas tà preezajahs/ kas drohẜchi</div>
        <lb/>
         <div type="Language" lang="Latvian">dſihwo/ kas ẜawâ Ꞩirdî ẜakka:</div>
+      </div>
+      <pb n="424"/>
        <lb/>
         <div type="Language" lang="Latvian">Es eẜmu tas/ un bes mannis</div>
        <lb/>
@@ -545,7 +550,6 @@
         <div type="Language" lang="Latvian">Rohku pahr wiņņu.</div>
        <lb/>
        <div type="Parallel">w:15. Eſa: 13,21. un: 34,11.</div>
-      </div>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta III. Nodaļļa.</div></div>
@@ -722,11 +726,12 @@
         <div type="Language" lang="Latvian">tawa Widdus tawus lepnus</div>
        <lb/>
         <div type="Language" lang="Latvian">Leelitajus/ un tu ne pa=augſti-</div>
+      </div>
+      <pb n="425"/>
        <lb/>
         <div type="Language" lang="Latvian">naẜees wairs manna ẜwehta Kal-</div>
        <lb/>
         <div type="Language" lang="Latvian">na dehļ.</div>
-      </div>
       <div n="12." type="Verse" id="VD1689_94::Cef_3:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Bet es atlizzinaẜchu ta-</div>

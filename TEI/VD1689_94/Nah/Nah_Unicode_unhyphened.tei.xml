@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="413"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Tas Praweets Nakums.</div></div>
@@ -134,11 +135,12 @@
         <div type="Language" lang="Latvian">8. Un ar weena uspluhduẜcha</div>
        <lb/>
         <div type="Language" lang="Latvian">Paiẜuma isnihzinahs wiņſch</div>
+      </div>
+      <pb n="414"/>
        <lb/>
         <div type="Language" lang="Latvian">wiņņas Weetu/ un Tumẜiba</div>
        <lb/>
         <div type="Language" lang="Latvian">wajahs wiņņa Eenaidneekus.</div>
-      </div>
       <div n="9." type="Verse" id="VD1689_94::Nah_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Ko dohmajat juhs prett</div>
@@ -328,11 +330,12 @@
         <div type="Language" lang="Latvian">pawaddihs wiņņu ar weenas</div>
        <lb/>
         <div type="Language" lang="Latvian">Balkẜnes kà tee Balloſchi/ un</div>
+      </div>
+      <pb n="415"/>
        <lb/>
         <div type="Language" lang="Latvian">ẜittihs uhs ẜawu Ꞩirdi ka uhs</div>
        <lb/>
         <div type="Language" lang="Latvian">Bungu.</div>
-      </div>
       <div n="8." type="Verse" id="VD1689_94::Nah_2:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Jo Niniwe irr kà Uhdens</div>
@@ -509,6 +512,8 @@
         <div type="Language" lang="Latvian">Un es atẜegẜchu tawas Wihles</div>
        <lb/>
         <div type="Language" lang="Latvian">pahr tawu Waigu/ un rahdiẜchu</div>
+      </div>
+      <pb n="416"/>
        <lb/>
         <div type="Language" lang="Latvian">teem Pagaņeem tawu Plikumu/</div>
        <lb/>
@@ -517,7 +522,6 @@
         <div type="Language" lang="Latvian">Kaunu.</div>
        <lb/>
        <div type="Parallel">w:5. Eſa: 47,3.</div>
-      </div>
       <div n="6." type="Verse" id="VD1689_94::Nah_3:6.">
        <lb/>
         <div type="Language" lang="Latvian">6. Es mettiẜchu negantas Leetas</div>

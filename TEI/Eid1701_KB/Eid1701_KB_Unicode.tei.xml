@@ -13,9 +13,7 @@
    </teiHeader>
    <text>
     <body>
-      <div n="0." type="Section" id="Eid1701_KB_0.">
-       <lb/>
-        <div type="Language" lang="Latvian">0.</div>
+      <pb n="1"/>
        <lb/>
        <div type="Language" lang="German">Eid der Treue</div>
        <lb/>
@@ -28,7 +26,7 @@
        <div type="Language" lang="German">In die Lettiſche Sprache</div>
        <lb/>
        <div type="Language" lang="German">überſezzet.</div>
-      </div>
+      <pb n="2"/>
        <lb/>
         <div type="Language" lang="Latvian">KAd ẜchis Kehniņa</div>
        <lb/>
@@ -81,6 +79,7 @@
         <div type="Language" lang="Latvian">ẜew mohdrigi/ wihriſchki/</div>
        <lb/>
         <div type="Language" lang="Latvian">ẜirdigi un tikkuẜchi turreh-</div>
+      <pb n="3"/>
        <lb/>
         <div type="Language" lang="Latvian">tees/ muhẜeem preekẜch=zel-</div>
        <lb/>
@@ -135,6 +134,7 @@
         <div type="Language" lang="Latvian">dams/ ne ween par Wiltinee-</div>
        <lb/>
         <div type="Language" lang="Latvian">ku turreht/ bet <corr>arridſan</corr><sic>arridſam</sic> tam</div>
+      <pb n="4"/>
        <lb/>
         <div type="Language" lang="Latvian">tik drihſi/ ka tas ẜamannihts</div>
        <lb/>
