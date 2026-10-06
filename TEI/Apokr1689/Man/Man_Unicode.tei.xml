@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="300"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Manaẜẜus ta Ķehniņa no Juhda Luhgẜchana/ kad wiņſch</div></div>
@@ -66,6 +67,7 @@
        <lb/>
         <div type="Language" lang="Latvian">preekẜch tawas Warras bihtees.</div>
       </div>
+      <pb n="301"/>
       <div n="5." type="Verse" id="Apokr1689::Man_1:5.">
        <lb/>
         <div type="Language" lang="Latvian">5. Jo nepaneẜẜama irr tawa</div>

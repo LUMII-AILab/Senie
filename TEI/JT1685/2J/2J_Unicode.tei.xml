@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="447"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Jahņa ta Apuſtuļa ohtra Grahmata uhs wiẜẜeem rakſtita.</div></div>
@@ -170,11 +171,12 @@
       <div n="11." type="Verse" id="JT1685::2J_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Jo kas wiņņu ẜweizina/</div>
+      </div>
+      <pb n="448"/>
        <lb/>
         <div type="Language" lang="Latvian">tam irr Dalliba pee wiņņa ļau-</div>
        <lb/>
         <div type="Language" lang="Latvian">neem Darbeem.</div>
-      </div>
       <div n="12." type="Verse" id="JT1685::2J_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Man daudſ jums ja rak-</div>

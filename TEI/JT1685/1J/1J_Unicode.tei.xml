@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="440"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Jahņa ta Apuſtuļa pirma Grahmata uhs wiẜẜeem rakſtita.</div></div>
@@ -159,6 +160,7 @@
        <lb/>
        <div type="Parallel">Ꞩak: Sal: 20,9. Ꞩlud: 7,20. Jehk: 3,2.</div>
       </div>
+      <pb n="441"/>
       <div n="9." type="Verse" id="JT1685::1J_1:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Ja mehs muhẜu Grehkus</div>
@@ -381,6 +383,8 @@
       <div n="14." type="Verse" id="JT1685::1J_2:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Es eẜmu us jums rakſtijis/</div>
+      </div>
+      <pb n="442"/>
        <lb/>
         <div type="Language" lang="Latvian">Tehwi/ jo juhs eẜẜat to paſinnu-</div>
        <lb/>
@@ -395,7 +399,6 @@
         <div type="Language" lang="Latvian">juhs eẜẜat to Ļaunu uswarrejuẜchi.</div>
        <lb/>
        <div type="Parallel">w:14. Eweſ: 6,10.</div>
-      </div>
       <div n="15." type="Verse" id="JT1685::1J_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Ne mihlejeet to Paẜauli/</div>
@@ -594,6 +597,7 @@
        <lb/>
        <div type="Parallel">w:29. 1.Jahn: 3,7,10.</div>
       </div>
+      <pb n="443"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta III. Nodaļļa.</div></div>
@@ -824,13 +828,14 @@
         <div type="Language" lang="Latvian">to Dſihwibu par mums irr noliz-</div>
        <lb/>
         <div type="Language" lang="Latvian">zis/ un mums arridſan peenahk</div>
+      </div>
+      <pb n="444"/>
        <lb/>
         <div type="Language" lang="Latvian">to Dſihwibu nolikt preekẜch teem</div>
        <lb/>
         <div type="Language" lang="Latvian">Brahļeem.</div>
        <lb/>
        <div type="Parallel">w:16. Jahn: 3,16. un: 15,13. Rom: 5,8. Eweſ: 5,2,25. 1.Jahn: 4,9.</div>
-      </div>
       <div n="17." type="Verse" id="JT1685::1J_3:17.">
        <lb/>
         <div type="Language" lang="Latvian">17. Bet ja kahdam ẜchahs Pa-</div>
@@ -1049,13 +1054,14 @@
       <div n="8." type="Verse" id="JT1685::1J_4:8.">
        <lb/>
         <div type="Language" lang="Latvian">8. Kas ne mihle/ tas Deewu ne</div>
+      </div>
+      <pb n="445"/>
        <lb/>
         <div type="Language" lang="Latvian">paſihſt: jo Deews irr ta Mihle-</div>
        <lb/>
         <div type="Language" lang="Latvian">ſtiba.</div>
        <lb/>
        <div type="Parallel">w:8. 1.Jahn: 2,4. un: 1,6. un: 4,16.</div>
-      </div>
       <div n="9." type="Verse" id="JT1685::1J_4:9.">
        <lb/>
         <div type="Language" lang="Latvian">9. Eekẜch ta irr ta Deewa Mih-</div>
@@ -1275,6 +1281,7 @@
        <lb/>
        <div type="Parallel">w:1. Jahn: 1,12,13. 1.Jahn: 2,22,23. un: 4,2,15.</div>
       </div>
+      <pb n="446"/>
       <div n="2." type="Verse" id="JT1685::1J_5:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Pee ẜcha atſihſtam mehs/ ka</div>
@@ -1499,6 +1506,7 @@
        <lb/>
        <div type="Parallel">w:17. 1.Jahn: 3,4.</div>
       </div>
+      <pb n="447"/>
       <div n="18." type="Verse" id="JT1685::1J_5:18.">
        <lb/>
         <div type="Language" lang="Latvian">18. Mehs ſinnam/ ka ikweens/</div>

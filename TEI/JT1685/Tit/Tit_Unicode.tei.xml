@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="424"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Pahwila ta Apuſtuļa Grahmata uhs Titu rakſtita.</div></div>
@@ -198,13 +199,14 @@
         <div type="Language" lang="Latvian">aisbahſt: teem/ kas Nammus</div>
        <lb/>
         <div type="Language" lang="Latvian">wiẜẜai pahrgreeſch/ un mahza/ kas</div>
+      </div>
+      <pb n="425"/>
        <lb/>
         <div type="Language" lang="Latvian">ne peeklahjahs negohdigas Pelni-</div>
        <lb/>
         <div type="Language" lang="Latvian">ẜchanas dehļ.</div>
        <lb/>
        <div type="Parallel">w:11. Matt: 23,23. 1.Tim: 6,5. 2.Tim: 3,6.</div>
-      </div>
       <div n="12." type="Verse" id="JT1685::Tit_1:12.">
        <lb/>
         <div type="Language" lang="Latvian">12. Weens no teem paẜcheem</div>
@@ -424,13 +426,14 @@
         <div type="Language" lang="Latvian">mehs aisleedſam to Besdeewibu/</div>
        <lb/>
         <div type="Language" lang="Latvian">un tahs paẜauligas Eekahroẜcha-</div>
+      </div>
+      <pb n="426"/>
        <lb/>
         <div type="Language" lang="Latvian">nas/ gaddigì un taiẜnì un Deewa</div>
        <lb/>
         <div type="Language" lang="Latvian">bijigì dſihwojam ẜchinnî Paẜaulê.</div>
        <lb/>
        <div type="Parallel">w:12. Eweſ: 1,4. Kol: 1,22. 2.Tim: 1,9. 1.Jahn: 2,16.</div>
-      </div>
       <div n="13." type="Verse" id="JT1685::Tit_2:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Gaididami to Labbumu</div>
@@ -652,6 +655,7 @@
        <lb/>
        <div type="Parallel">w:12. Ap: Darb: 20,4. Eweſ: 6,21. Kol: 4,6. 2.Tim: 4,12.</div>
       </div>
+      <pb n="427"/>
       <div n="13." type="Verse" id="JT1685::Tit_3:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Zenu to Bauẜlibas=Mah-</div>

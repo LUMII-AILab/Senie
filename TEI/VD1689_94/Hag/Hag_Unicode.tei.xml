@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="425"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Tas Praweets Aggajus.</div></div>
@@ -59,6 +60,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ſtu Preeſteri/ un ẜazzija:</div>
       </div>
+      <pb n="426"/>
       <div n="2." type="Verse" id="VD1689_94::Hag_1:2.">
        <lb/>
         <div type="Language" lang="Latvian">2. Tà runna tas KUNGS</div>
@@ -253,6 +255,8 @@
         <div type="Language" lang="Latvian">Namma isbaidiht: 1/ 2. Jo ẜchim buhs jo</div>
        <lb/>
         <div type="Language" lang="Latvian">leelaka Gohdiba nekà tam pirmam Deewa</div>
+      </div>
+      <pb n="427"/>
        <lb/>
         <div type="Language" lang="Latvian">Nammam: 4. Tapehz ka Kriſtus tas ap-</div>
        <lb/>
@@ -265,7 +269,6 @@
         <div type="Language" lang="Latvian">uszels/ taps tee laizigi un muhſchigi apẜweh-</div>
        <lb/>
         <div type="Language" lang="Latvian">titi: 19.</div>
-      </div>
       <div n="1." type="Verse" id="VD1689_94::Hag_2:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. DJwideẜmitâ <corr>zettortâ</corr><sic>zettorâ</sic></div>
@@ -445,13 +448,14 @@
         <div type="Language" lang="Latvian">kahdas nomirruẜchas Meeẜas/</div>
        <lb/>
         <div type="Language" lang="Latvian">jeb kahdu no ẜchahm Leetahm</div>
+      </div>
+      <pb n="428"/>
        <lb/>
         <div type="Language" lang="Latvian">aiskaŗŗ/ ar ta taps neẜchķihſta?</div>
        <lb/>
         <div type="Language" lang="Latvian">Un tee Preeſteŗi atbildeja / un ẜaz-</div>
        <lb/>
         <div type="Language" lang="Latvian">zija: Ta taps neẜchķihſta.</div>
-      </div>
       <div n="15." type="Verse" id="VD1689_94::Hag_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Tad atbildeja Aggajus/</div>

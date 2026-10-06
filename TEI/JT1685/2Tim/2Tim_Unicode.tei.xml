@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="418"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Pahwila ta Apuſtuļa ohtra Grahmata uhs Timoteju rakſtita.</div></div>
@@ -24,6 +25,8 @@
         <div type="Language" lang="Latvian">0. Pahwils atgahdina Timoteju/ ka tam buhs to</div>
        <lb/>
         <div type="Language" lang="Latvian">Dahwanu eekẜch ẜewis usmohdinaht: 6. Tai</div>
+      </div>
+      <pb n="419"/>
        <lb/>
         <div type="Language" lang="Latvian">Zeeẜchanâ tahs Preezas=Mahzibas dehļ pazee-</div>
        <lb/>
@@ -34,7 +37,6 @@
         <div type="Language" lang="Latvian">jahs pahr zitteem eekẜch Aſias un ẜlawe zit-</div>
        <lb/>
         <div type="Language" lang="Latvian">tus: 25/16.</div>
-      </div>
       <div n="1." type="Verse" id="JT1685::2Tim_1:1.">
        <lb/>
         <div type="Language" lang="Latvian">1. PAhwils weens A-</div>
@@ -248,13 +250,14 @@
       <div n="14." type="Verse" id="JT1685::2Tim_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Ꞩcho labbu Kihli glabbo</div>
+      </div>
+      <pb n="420"/>
        <lb/>
         <div type="Language" lang="Latvian">zaur to ẜwehtu Garru/ kas eekẜch</div>
        <lb/>
         <div type="Language" lang="Latvian">mums miht.</div>
        <lb/>
        <div type="Parallel">w:14. 1.Tim: 6,20.</div>
-      </div>
       <div n="15." type="Verse" id="JT1685::2Tim_1:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Ꞩcho ſinni tu/ ka wiẜẜi/ kas</div>
@@ -479,6 +482,8 @@
         <div type="Language" lang="Latvian">14. Ꞩchahs Leetas peeminni/</div>
        <lb/>
         <div type="Language" lang="Latvian">apleezinadams preekẜch ta Kunga/</div>
+      </div>
+      <pb n="421"/>
        <lb/>
         <div type="Language" lang="Latvian">ka tee to Wahrdo dehļ ne baŗŗahs/</div>
        <lb/>
@@ -489,7 +494,6 @@
         <div type="Language" lang="Latvian">Klauẜitajo.</div>
        <lb/>
        <div type="Parallel">w:14. 1.Tim: 6,4. Tit: 3,9.</div>
-      </div>
       <div n="15." type="Verse" id="JT1685::2Tim_2:15.">
        <lb/>
         <div type="Language" lang="Latvian">15. Darbojees ẜew paẜchu tam</div>
@@ -696,13 +700,14 @@
       <div n="3." type="Verse" id="JT1685::2Tim_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Bes dabbigas Mihleſtibas/</div>
+      </div>
+      <pb n="422"/>
        <lb/>
         <div type="Language" lang="Latvian">neẜaderrigi/ Lazzinataji/ Negad-</div>
        <lb/>
         <div type="Language" lang="Latvian">digi/ Breeẜmigi/ kas Labbu ne</div>
        <lb/>
         <div type="Language" lang="Latvian">mihle.</div>
-      </div>
       <div n="4." type="Verse" id="JT1685::2Tim_3:4.">
        <lb/>
         <div type="Language" lang="Latvian">4. Nodeweji/ Nebehdneeki/</div>
@@ -918,6 +923,7 @@
        <lb/>
         <div type="Language" lang="Latvian">un Mahzibas.</div>
       </div>
+      <pb n="423"/>
       <div n="3." type="Verse" id="JT1685::2Tim_4:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jo weens Laiks buhs/ ka tee</div>
@@ -1139,6 +1145,8 @@
       <div n="22." type="Verse" id="JT1685::2Tim_4:22.">
        <lb/>
         <div type="Language" lang="Latvian">22. Lai tas Kungs JEſus Kri-</div>
+      </div>
+      <pb n="424"/>
        <lb/>
         <div type="Language" lang="Latvian">ſtus irr ar tawu Garru. Ta</div>
        <lb/>
@@ -1163,7 +1171,6 @@
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Neru weſts klu̇a&amp;.</div></div>
-      </div>
     </body>
    </text>
   </TEI>

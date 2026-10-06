@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="448"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Jahņa ta Apuſtuļa treẜcha Grahmata.</div></div>
@@ -177,10 +178,8 @@
         <div type="Language" lang="Latvian">redſeht/ tad mehs Mutti prett</div>
        <lb/>
         <div type="Language" lang="Latvian">Mutti runnaẜim.</div>
-      </div>
-      <div n="15." type="Verse" id="JT1685::3J_1:15.">
        <lb/>
-        <div type="Language" lang="Latvian">15. Meers lai irr ar tewim. Tee</div>
+        <div type="Language" lang="Latvian"><corr>15</corr><sic>14</sic>. Meers lai irr ar tewim. Tee</div>
        <lb/>
         <div type="Language" lang="Latvian">Draugi apẜweizina tew: Apẜweizi-</div>
        <lb/>

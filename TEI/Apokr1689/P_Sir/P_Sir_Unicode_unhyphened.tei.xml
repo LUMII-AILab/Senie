@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="79"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Jeſus Sihraka pirma Eeẜahkẜchanas=Walloda</div></div>
@@ -138,6 +139,8 @@
         <div type="Language" lang="Latvian">kahdu Darbu un Gŗuhtibu us</div>
        <lb/>
         <div type="Language" lang="Latvian">ẜewim ņemtu/ ẜcho Grahmatu</div>
+      </div>
+      <pb n="80"/>
        <lb/>
         <div type="Language" lang="Latvian">tulkaht. Un es biju daudſ nomohdâ</div>
        <lb/>
@@ -160,7 +163,6 @@
         <div type="Language" lang="Latvian">pehz tahs Bauẜlibas to Dſihwibu</div>
        <lb/>
         <div type="Language" lang="Latvian">pawaddiht.</div>
-      </div>
     </body>
    </text>
   </TEI>

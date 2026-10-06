@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="475"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Juhda ta Apuſtuļa Grahmata uhs wiẜẜeem rakſtita.</div></div>
@@ -208,6 +209,8 @@
         <div type="Language" lang="Latvian">12. Ꞩchee irr weena Apgahniẜchana</div>
        <lb/>
         <div type="Language" lang="Latvian">eekẜch juhẜahm Mihleſtibas</div>
+      </div>
+      <pb n="476"/>
        <lb/>
         <div type="Language" lang="Latvian">Dſihrehm/ kad tee ar jums lihdſi</div>
        <lb/>
@@ -222,7 +225,6 @@
         <div type="Language" lang="Latvian">nomirruẜchi/ isẜaknoti Kohki.</div>
        <lb/>
        <div type="Parallel">w:12. Ꞩak: Sal: 25,14. 2.Petr: 2,13,17.</div>
-      </div>
       <div n="13." type="Verse" id="JT1685::Jud_1:13.">
        <lb/>
         <div type="Language" lang="Latvian">13. Bahrgas Juhŗas Wilņus/</div>

@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="402"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Pahwila ta Apuſtuļa pirma Grahmata uhs teem Teẜẜalonikeŗeem rakſtita.</div></div>
@@ -120,13 +121,14 @@
         <div type="Language" lang="Latvian">Dſinneji tappuẜchi un ta Kunga/</div>
        <lb/>
         <div type="Language" lang="Latvian">to Wahrdu peeņehmuẜchi</div>
+      </div>
+      <pb n="403"/>
        <lb/>
         <div type="Language" lang="Latvian">eekẜch daudſ Behdahm ar Preeku</div>
        <lb/>
         <div type="Language" lang="Latvian">ta Ꞩwehta Garra.</div>
        <lb/>
        <div type="Parallel">w:6. Ap: Darb: 5,21. 1.Kor: 4,26. un: 11.1. Wilip: 3,17. 2.Teẜẜ: 3,9. Ebr: 10,34.</div>
-      </div>
       <div n="7." type="Verse" id="JT1685::1Tes_1:7.">
        <lb/>
         <div type="Language" lang="Latvian">7. Tà ka juhs Preekẜch=Sihmes</div>
@@ -329,6 +331,8 @@
         <div type="Language" lang="Latvian">muhẜo Darboẜchanu un Peekuẜchanu:</div>
        <lb/>
         <div type="Language" lang="Latvian">jo Deenâ un Naktî</div>
+      </div>
+      <pb n="404"/>
        <lb/>
         <div type="Language" lang="Latvian">ſtrahdajam mehs/ ka mehs ne</div>
        <lb/>
@@ -341,7 +345,6 @@
        <div type="Parallel">w:9. Ap: Darb: 18,3. un: 20,34. 1.Kor: 4,12. 2.Kor: 12,9. un: 12,23.</div>
        <lb/>
        <div type="Parallel">2.Teẜẜ: 3,8.</div>
-      </div>
       <div n="10." type="Verse" id="JT1685::1Tes_2:10.">
        <lb/>
         <div type="Language" lang="Latvian">10. Juhs eẜẜat Leezineeki un</div>
@@ -532,11 +535,12 @@
         <div type="Language" lang="Latvian">Beedri eekẜch tahs Preezas=Mahzibas</div>
        <lb/>
         <div type="Language" lang="Latvian">Kriſtus/ juhs apſtipprinaht</div>
+      </div>
+      <pb n="405"/>
        <lb/>
         <div type="Language" lang="Latvian">un pakuhdinaht eekẜch juhẜu Tizzibas.</div>
        <lb/>
        <div type="Parallel">w:2. Ap: Darb: 16,1. Rom: 16,21. Wilip: 2,19.</div>
-      </div>
       <div n="3." type="Verse" id="JT1685::1Tes_3:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Ka ne weens ẜchaubihts tohp</div>
@@ -730,6 +734,7 @@
        <lb/>
         <div type="Language" lang="Latvian">zaur to Kungu JEſu/</div>
       </div>
+      <pb n="406"/>
       <div n="3." type="Verse" id="JT1685::1Tes_4:3.">
        <lb/>
         <div type="Language" lang="Latvian">3. Jo ẜchis irr tas Deewa</div>
@@ -941,6 +946,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ẜawâ ſtarpâ ar ẜcheem Wahrdeem.)</div>
       </div>
+      <pb n="407"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Ta V.Nodaļļa.</div></div>
@@ -1184,6 +1190,7 @@
        <lb/>
         <div type="Language" lang="Latvian">ne neezinajeet.</div>
       </div>
+      <pb n="408"/>
       <div n="21." type="Verse" id="JT1685::1Tes_5:21.">
        <lb/>
         <div type="Language" lang="Latvian">21. Pahrbaudajt wiẜẜas Leetas/</div>

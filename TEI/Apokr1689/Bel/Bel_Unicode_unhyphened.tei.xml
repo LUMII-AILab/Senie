@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="294"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">No ta Bela eekẜch Bahbeles</div></div>
@@ -188,11 +189,12 @@
         <div type="Language" lang="Latvian">ka teem appakẜch Galda</div>
        <lb/>
         <div type="Language" lang="Latvian">weens ẜleppens Zeļſch bij/ kur</div>
+      </div>
+      <pb n="295"/>
        <lb/>
         <div type="Language" lang="Latvian">tee weenumehr eegahje un to</div>
        <lb/>
         <div type="Language" lang="Latvian">noņehme.</div>
-      </div>
       <div n="14." type="Verse" id="Apokr1689::Bel_1:14.">
        <lb/>
         <div type="Language" lang="Latvian">14. Kad tee nu bij isgahjuẜchi/</div>
@@ -362,6 +364,8 @@
       <div n="27." type="Verse" id="Apokr1689::Bel_2:27.">
        <lb/>
         <div type="Language" lang="Latvian">27. Tad ņehme Danijels</div>
+      </div>
+      <pb n="296"/>
        <lb/>
         <div type="Language" lang="Latvian">Ꞩwiķķus un Taukus un Spalwas/</div>
        <lb/>
@@ -378,7 +382,6 @@
         <div type="Language" lang="Latvian">wiņſch: Luhkojeet nu ẜawus</div>
        <lb/>
         <div type="Language" lang="Latvian">Deewekļus.</div>
-      </div>
       <div n="28." type="Verse" id="Apokr1689::Bel_2:28.">
        <lb/>
         <div type="Language" lang="Latvian">28. Kad nu tee Babiloneri</div>

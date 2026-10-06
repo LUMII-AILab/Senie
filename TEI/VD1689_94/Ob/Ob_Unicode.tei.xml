@@ -13,6 +13,7 @@
    </teiHeader>
    <text>
     <body>
+      <pb n="399"/>
        <lb/>
        <div type="Comment">
         <div type="Language" lang="Latvian">Tas Praweets Obadijus.</div></div>
@@ -182,6 +183,8 @@
         <div type="Language" lang="Latvian">10. Ta Warras=Darba dehļ/</div>
        <lb/>
         <div type="Language" lang="Latvian">ko tu tawam Brahļam Jehka-</div>
+      </div>
+      <pb n="400"/>
        <lb/>
         <div type="Language" lang="Latvian">bam eẜẜi parahdijs/ apẜegs tewi</div>
        <lb/>
@@ -190,7 +193,6 @@
         <div type="Language" lang="Latvian">muhſchigi.</div>
        <lb/>
        <div type="Parallel">w:10. 1.Mohſ:Gr: 27,42.</div>
-      </div>
       <div n="11." type="Verse" id="VD1689_94::Ob_1:11.">
        <lb/>
         <div type="Language" lang="Latvian">11. Taî Deenà/ kad tu wiņ-</div>
