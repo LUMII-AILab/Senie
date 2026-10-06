@@ -30806,7 +30806,7 @@ our $TABLES_VD1689_94 = {
 		[ 'ü', 'u', ],
 		[ 'eij', 'ej', ],
 		[ 'aij', 'aj', ],
-		[ '\b{wb}elle',, ],
+		[ '\b{wb}elle', 'e#e', ], #Palīgmaiņa
 		[ 'mell', 'me#', '1' ], # Palīgmaiņa
 		[ 'll', 'l', ],
 		[ '#', 'll', ], # Palīgmaiņas novākšana
@@ -31092,7 +31092,7 @@ our $TABLES_VD1689_94 = {
 		[ 'ü', 'u', ],
 		[ 'eij', 'ej', ],
 		[ 'aij', 'aj', ],
-		[ '\b{wb}elle',, ],
+		[ '\b{wb}elle', 'e#e', ], # Palīgmaiņa, pieņēmums
 		[ 'allaſ', 'a#aſ', ],     # Palīgmaiņa
 		[ 'mell', 'me#', '1' ],   # Palīgmaiņa
 		[ '\b{wb}vill', 'vi#', ], # Palīgmaiņa
