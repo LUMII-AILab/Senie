@@ -22,7 +22,7 @@ Mainītos unikodus saliek atbilstošajās `/Sources` mapēs pirms tālākas darb
 1. Savāc `/Unicoding` mapē atbilstošos failus ar komandu 
    `perl -I. -e "use LvSenie::Utils::FileCollector qw(collectFlat); collectFlat(@ARGV)" 0 Unicode`
 2. Savāc izmantoto kodu apkopojumu no datu failiem ar komandu
-   `perl -I. -e "use LvSenie::Utils::CodeCollector qw(collect); collect(@ARGV)" UTF-8 data data-JT1685 data-VD1689_94 data-Apokr1689`
+   `perl -I. -e "use LvSenie::Utils::CodeCollector qw(collect); collect(@ARGV)" UTF-8 data data-Apokr1689 data-JT1685 data-VD1689_94`
 3. Uzmanīgi manuāli atjaunina tabulu `/Docs/SENIE-kodi.ods`.
 
 
@@ -33,9 +33,9 @@ Mainītos unikodus saliek atbilstošajās `/Sources` mapēs pirms tālākas darb
 2. Pārģenerē atpārnesumotos failus ar komandām
 ```
 perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data UTF-8 Unicode ;\
-perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 UTF-8 Unicode ;\
+perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 UTF-8 Unicode ;\
 perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-JT1685 UTF-8 Unicode ;\
-perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 UTF-8 Unicode
+perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 UTF-8 Unicode
 ```
 3. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `/Sources`, `/Sources/Apokr1689`, `/Sources/JT1685`, `/Sources/VD1689_94`.
 
@@ -47,9 +47,9 @@ perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@AR
 2. Pārģenerē transliterācijas ar komandām
 ```
 perl -I. -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data 0 ;\
-perl -I. -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 0 VD1689_94 ;\
+perl -I. -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 0 Apokr1689 ;\
 perl -I. -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-JT1685 0 JT1685 ;\
-perl -I. -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 0 Apokr1689
+perl -I. -e "use LvSenie::Translit::Transliterator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 0 VD1689_94
 ```
 3. Noziņo valodniekiem, ja rezultātu izdrukā parādās kādas problēmas, t.sk trūkstošas tabulas.
 4. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `/Sources`, `/Sources/Apokr1689`, `/Sources/JT1685`, `/Sources/VD1689_94`.
@@ -154,9 +154,9 @@ Mainītos failus saliek atbilstošajās `/Sources` mapēs pirms tālākas darbo�
 2. Pārģenerē atpārnesumotos bezizlaidumu failus ar komandām
 ```
 perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data cp1257 0 _full ;\
-perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 cp1257 0 _full ;\
+perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 cp1257 0 _full ;\
 perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-JT1685 cp1257 0 _full ;\
-perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-Apokr1689 cp1257 0 _full
+perl -I. -e "use LvSenie::Utils::Dehyphenator qw(transformDir); transformDir(@ARGV)" data-VD1689_94 cp1257 0 _full
 ```
 3. Pārkopē rezultātu failus no mapēm `data/res`, `data-Apokr1689/res`, `data-JT1685/res`, `data-VD1689_94/res` uz attiecīgi `/Sources`, `/Sources/Apokr1689`, `/Sources/JT1685`, `/Sources/VD1689_94`.
 
