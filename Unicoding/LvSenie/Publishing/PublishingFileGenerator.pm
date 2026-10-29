@@ -101,14 +101,18 @@ END
 
 	for my $dirName (@dirNames)
 	{
-		my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
+		# Hash interface used to ensure that files are accessed in alphabetical
+		# order even on linux.
+		#my $dir = IO::Dir->new($dirName) or die "Folder $dirName is not available: $!";
+		tie my %dir, 'IO::Dir', $dirName or die "Folder $dirName is not available: $!";
 		mkdir "$dirName/res/";
 		my $dirCode = $dirName;
 		$dirCode =~ s/^data[-_](.*)/$1/;
 		my $externalProperties = getExternalProperties($dirCode);
 		&_start_collection($dirCode, $externalProperties, $outForTotalVert, $outForTotalTei);
 
-		while (defined(my $inFile = $dir->read))
+		#while (defined(my $inFile = $dir->read))
+		foreach my $inFile (sort keys %dir)
 		{
 			if ((-f "$dirName/$inFile") and $inFile =~ /^(.*?)\.txt$/)
 			{
@@ -245,7 +249,7 @@ END
 	# Booleans for positions inside certain elements
 	my $status = {'paragraph' => 0, 'page' => undef, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
 	# Counters for addresses
-	my $counters = {'corrPage' => undef, 'origPage' => undef, 'line' => 0, 'chapter' => 0, 'verse' => '0.', 'word' => 0, 'overallLine' => 0, 'overallPage' => 0};
+	my $counters = {'corrPage' => undef, 'origPage' => undef, 'line' => 0, 'chapter' => 0, 'verse' => '0', 'word' => 0, 'overallLine' => 0, 'overallPage' => 0};
 
 	# First two lines should always be file properties, not actual text.
 	my $line = <$in>;
@@ -312,7 +316,7 @@ END
 			if($line =~ /^\s*\@\@((?:\d+\.)+)(\p{Z}+)(.*$)/ or
 				($indexType eq 'GNP' or $indexType eq 'P') and $line =~ /^  +((?:\d+\.)+)(\p{Z}+)(.*$)/)
 			{
-				$line = "$1$2$3";
+				#$line = "$1$2$3";
 				&_end_paragraph_verse($status, $outs);
 				&_start_verse($internalProperties, $status, $counters, $outs, $1,);
 			}
@@ -504,7 +508,7 @@ sub _start_Bible_chapter
 		startTeiBibleChapter($outs, $counters->{'chapter'});
 		#TODO chapter commentary
 	}
-	$counters->{'verse'} = '0.';
+	$counters->{'verse'} = '0';
 }
 
 sub _end_Bible_chapter
@@ -536,6 +540,8 @@ sub _start_verse
 	my $outs = shift @_;
 	my $verseNo = shift @_;
 	my $indexType = getIndexType($internalProperties->{'full ID'});
+
+	$verseNo =~ s/\.+\s*$//; # remove final from the verse number if there is one.
 
 	$counters->{'verse'} = $verseNo;
 	endVertParagraphVerse($outs) if ($status->{'verse'});
