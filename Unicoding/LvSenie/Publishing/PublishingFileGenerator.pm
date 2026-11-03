@@ -247,7 +247,7 @@ END
 	&_initialize_outputs($fileNameStub, $internalProperties, $externalProperties, $dirName, $outs);
 
 	# Booleans for positions inside certain elements
-	my $status = {'paragraph' => 0, 'page' => undef, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1};
+	my $status = {'paragraph' => 0, 'page' => undef, 'verse' => 0, 'chapter' => 0, 'Latvian' => 0, 'first word' => 1, 'first line' => 1};
 	# Counters for addresses
 	my $counters = {'corrPage' => undef, 'origPage' => undef, 'line' => 0, 'chapter' => 0, 'verse' => '0', 'word' => 0, 'overallLine' => 0, 'overallPage' => 0};
 
@@ -320,6 +320,10 @@ END
 				&_end_paragraph_verse($status, $outs);
 				&_start_verse($internalProperties, $status, $counters, $outs, $1,);
 			}
+			elsif ($status->{'first line'} and ($indexType eq 'GNP' or $indexType eq 'P'))
+			{
+				&_start_verse($internalProperties, $status, $counters, $outs)
+			}
 
 			# Start line
 			&_start_line($internalProperties, $counters, $outs, $author);
@@ -358,6 +362,7 @@ END
 				&_end_sub_line($status, $outs, $codeLetter);
 			}
 			&_end_line($outs);
+			$status->{'first line'} = 0;
 		}
 
 		# Do HTML and SQL for this line
@@ -478,6 +483,7 @@ sub _change_page
 	}
 	startVertPage($outs, $corrPageNo, $origPageNo);
 	$status->{'page'} = 1;
+	$status->{'first line'} = 1;
 	$counters->{'corrPage'} = $corrPageNo;
 	$counters->{'origPage'} = $origPageNo;
 	$counters->{'line'} = 0;
@@ -538,10 +544,11 @@ sub _start_verse
 	my $status = shift @_;
 	my $counters = shift @_;
 	my $outs = shift @_;
-	my $verseNo = shift @_;
+	# If the verse number is not given, continue previous verse after page change.
+	my $verseNo = (shift @_ or $counters->{'verse'});
 	my $indexType = getIndexType($internalProperties->{'full ID'});
 
-	$verseNo =~ s/\.+\s*$//; # remove final from the verse number if there is one.
+	$verseNo =~ s/\.+\s*$//; # Remove final from the verse number if there is one.
 
 	$counters->{'verse'} = $verseNo;
 	endVertParagraphVerse($outs) if ($status->{'verse'});
